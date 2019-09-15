@@ -1,0 +1,27 @@
+The measurement of voltages, mrents
+and losses of saturated magnetic devices under
+nonsinusoidal conditions is not well understood, because
+the principle of superposition does not apply. The complexity
+of the task is increased by the fact that intern
+d y generated harmonic currents can be compensated
+by externally applied currents of either the same harmonic
+frequency or of other harmonic frequencies. In
+other words a transformation of fundamental power to
+harmonic power, and vice versa, takes place. In addition
+the flux-density waveshape varies -and therefore
+also the iron-core losses- as the harmonic phase shift
+of the externally applied harmonic voltage changes, although
+the percentage of the harmonic amplitude remains
+constant. It is the first objective of this paper to
+assemble a computer-aided testing circuit which enables
+the investigation of the variation of the iron-core losses
+with the amplitude of the fundamental flux density &,
+the amplitude of the vth harmonic B,, the harmonic order
+v and the phase shift p, of the vth harmonic with
+respect to the fundamental. Phase-factor functions -
+which reflect the dependency of the iron-core losses on
+the harmonic phase shift (p,- are directly measured for
+given Epstein frame iron-core samples. Thereafter, the
+effect of these newly defined phase-factor functions on
+the total transformer losses is demonstrated. The attenuation
+of low-frequency (60 to 3,000 Hz flux-densityharmonics in inductors is determined, if t i, e core is bi-ased with fundamental flux density.

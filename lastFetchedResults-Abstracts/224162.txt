@@ -1,0 +1,11 @@
+This paper proposes a technique for evaluating the availability of
+substations and switching stations including the average cost of
+repairs of darnaged equipment (corrective maintenance), the impact
+of disturbances on equipment availability, and the impact of
+disturbances on the continuity of the service provided by the
+substation. The approach is based on the concept of disruptive
+events, sequence-based processes, state graphs and Merkov
+techniques. The paper illustrates the technique by comparing the
+availability of two possible station layouts. The results clearly
+show the benefit that can be obtained using this objective method
+of comparison.

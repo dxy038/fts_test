@@ -1,0 +1,1 @@
+This paper proposes a technique of linear fuzzy clustering based on least absolute deviations. The least absolute deviations adopted in the method provide robust clustering results that are free from the influence of outliers. The simplicity of the proposed objective function makes it possible to handle missing values by simply ignoring only the missing coordinates.

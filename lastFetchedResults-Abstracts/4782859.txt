@@ -1,0 +1,1 @@
+The objective of this work is design the bounded output feedback control law for the stability analysis of a class of continuous stirred tanker reaction by Lyapunov theory. The result shows the controller yield uniformly asymptotic stability under certain conditions, and it is verified by a case study: the van der Vusse reaction mechanism.

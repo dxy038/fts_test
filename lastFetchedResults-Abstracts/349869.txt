@@ -1,0 +1,11 @@
+Objective
+A novel algorithm for automated seizure onset detection is presented. The method allows for precise identification of electrographic seizure onset times within large databases of electrographic data.
+Methods
+The patient-specific algorithm extracts salient spectral and temporal features in five frequency bands within a sliding window of an electrographic recording. Feature windows are classified as containing or not containing a seizure onset via support vector machines. A clustering and regression analysis is utilized to accurately localize seizure onsets in time. User-adjustable parameters allow for tuning of detection sensitivity, false positive rate, and latency. The method was tested on intracranial electrographic data recorded from six patients with a total of 1792 recorded seizure onsets from 8246 total electrographic recordings.
+Results
+Testing of algorithm performance via cross-validation resulted in sensitivities between 80% and 98%, false positive rates from 0.002 to 0.046 per minute (0.12–2.8 per hour), and median detection time within 100 ms of the electrographic onset for all patients. In five of the six patients, more than 90% of all detected onsets were less than 3 s from the electrographic onset.
+Conclusions
+The detection system was able to detect seizure onset times in a temporally unbiased fashion with low latency while maintaining reasonable sensitivities and false positive rates. The regression algorithm for temporal localization of onsets confers a considerable benefit in terms of detection latency.
+Significance
+With the use of our algorithm, large databases of electrographic data can be rapidly processed and seizure onset times accurately marked, facilitating research and analyses of peri-onset events that require precise seizure onset alignment.
+

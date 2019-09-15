@@ -1,0 +1,13 @@
+Objective: Macrophages influence their environment and surrounding immune cells as soon as stimulators affect them. Different sources of macrophages induce different reactions
+in their neighboring immune cells,which result in non-uniform immunologic outcomes.
+In this experimental research, we compare the behavior of peritoneal macrophages
+to lipopolysaccharide (LPS) stimulation from BALB/cmice as an indicator of a type 2 immune response and from C57BL/6 mice as an indicator of a type 1 immune response.
+Materials and Methods: In this experimental study, peritoneal macrophages prepared from thioglycolate stimulated BALB/c and C57BL/6 micewere treated with 1?g/ml LPS. At different time points after LPS treatment, nitric oxide (NO), interferon gamma (IFN-?), interleukin 4 (IL-4),transforming growth factor B1(TGF-B1), interleukin 17 (IL-17), and interleukin
+10(IL-10) production were measured in the supernatants of all macrophage cultures.
+Indoleamine 2, 3 dioxygenase (IDO) and phagocytic activitywere analyzed in the different experimental groups. The supernatant effects of LPS-treated macrophages on splenocyte proliferation was assessed by the colorimetric method using a 3-(4,5-Dimethylthiazol-
+2-yl)-2, 5-diphenyltetrazolium bromide (MTT) reagent.
+Results: According to cytokine analysis, different mouse strains show different cytokine patterns in response to LPS. C57BL/6 macrophages produced more IL-17, IL-10, and IFN-?, while BALB/c macrophages produced more TGF-B1 and IL-4. There was no significant
+difference in IDO activity between strains (p?0.05). BALB/c mice produced more NO inthe first 24 hours after LPS treatment,but C57BL/6 produced more NO at 72 hours post-LPS treatment. Macrophages from both strains hada suppressor effect on splenocyte proliferation, but this effect was stronger in BALB/c mice.
+Conclusion: The results show that macrophages from different genetic backgrounds respond
+differently to the same stimulus in aspects of type, intensity, and time of response. The consideration of these aspects will enableresearchers to use correct treatment programs
+for immune-regulation or immunotherapy.

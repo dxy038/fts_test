@@ -1,0 +1,19 @@
+Better irrigation management and more efficient management of crop production
+require modeling of plant growth and crop yield. More applicable models are usually
+simple and requires less and accessible inputs. The objective of this study was to
+develop a model for growth and yield prediction of saffron under various irrigation
+regimes. In this modeling soil water budget and other simple relationships for
+evapotranspiration partitioning, leaf area index determination and leaf dry mattertranspiration
+function, corm-transpiration function and saffron-corm function were
+used. The developed model was calibrated based on available data of basin irrigation
+experiment under different irrigation regimes and verified based on independent data
+under different climatic conditions. In calibration, the comparison between predicted
+and measured values of different crop parameters did not show any significant
+difference (P=0.05) and model was able to estimate LAI (with NRMSE=0.16),
+crop evapotranspiration (NRMSE=0.19), surface evaporation (NRMSE=0.22), leaf
+dry matter (NRMSE=0.33) and corm yield (NRMSE=0.19) and saffron yield
+(NRMSE=0.16) properly. In validation, the statistical results of comparison between
+predicted and measured values of various crop parameters were different and model
+was able to estimate corm and saffron yield with acceptable accuracy. Furthermore,
+this model might be used only for saffron crop because the incorporated crop
+functions are developed for saffron.

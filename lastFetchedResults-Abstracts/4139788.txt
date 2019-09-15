@@ -1,0 +1,1 @@
+A novel ZVS phase-shifted DC-DC converter is proposed. The converter operates at a constant switching frequency and the voltage conversion ratio is regulated by phase-shift control. It has bidirectional power flow capability and synchronous rectification, hence the on-state voltage drop of the devices is small. This is an ideal candidate for electric vehicles (EVs)

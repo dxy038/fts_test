@@ -1,0 +1,13 @@
+A prototype of voltage-source soft-switching PWM inverter-type auxiliary resonant bridgeleg
+link snubbers is proposed with bidirectional active power switches and voltage clamping diodes for
+a new high-power high-voltage application. The voltage clamping diodes in the active resonant
+snubber are more effective in protecting the bidirectional active switches in the bridge-leg linked
+auxiliary resonant snubber from surge voltage spikes caused by energy stored in the auxiliary
+quasiresonant inductors and inductive parasitic wiring components. A variety of resonant snubber
+circuit topologies with voltage clamping diodes are presented and demonstrated. As an example of the
+variations of the proposed auxiliary active resonant-commutation snubber topologies, operation of a
+single-IGBT bidirectional switch with two voltage clamping diodes is analysed and discussed in detail
+for the auxiliary resonant bridge-leg link snubbers. The operating performance of the new active
+auxiliary resonant snubber-associated inverter-fed DC to DC power converter with voltage clamping
+diodes is practically demonstrated and evaluated to verify its effectiveness for a high-power highvoltage
+x-ray generator.

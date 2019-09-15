@@ -1,0 +1,1 @@
+We demonstrate four conventional TDM PONs with symmetric 2.5-Gb/s line rate and extended reach, sharing a common infrastructure. A hybrid SOA-Raman amplifier provides 150-nm bidirectional gain over the PONs´ downstream and upstream CWDM wavelength plan.

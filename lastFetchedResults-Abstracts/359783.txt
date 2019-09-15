@@ -1,0 +1,14 @@
+Objective
+We reviewed the literature and performed a meta-analysis comparing the safety and efficacy of adjunctive use of reduced-dose thrombolytics and glycoprotein (Gp) IIbIIIa inhibitors to the sole use of Gp IIbIIIa inhibitors before percutaneous coronary intervention (PCI) in patients presenting with acute ST-segment elevation myocardial infarction (STEMI).
+Background
+
+Early reperfusion in STEMI is associated with improved outcomes. The use of reduced-dose thrombolytic and Gp IIbIIIa inhibitors combination before PCI in the setting of acute STEMI remains controversial.
+Methods
+
+We performed a literature search and identified randomized trials comparing the use of combination therapy–facilitated PCI versus PCI done with Gp IIbIIIa inhibitor alone. Included studies were reviewed to determine Thrombolysis in Myocardial Infarction (TIMI)-3 flow at baseline, major bleeding, 30-day mortality, TIMI-3 flow after PCI, and 30-day reinfarction. We performed a random-effect model meta-analysis. We quantified heterogeneity between studies with I2. A value >50% represents substantial heterogeneity.
+Results
+
+We identified 4 clinical trials randomizing 725 patients; 424 patients were pretreated with combination therapy before PCI, and 301 patients had Gp IIbIIIa inhibitor alone during PCI. Combination therapy–facilitated PCI was associated with a 2-fold increase in TIMI-3 flow upon arrival to the catheterization laboratory compared with the sole use of upstream Gp IIbIIIa inhibitors (192/390 patients [49%] versus 60/284 [21%]; relative risk [RR], 2.2; P < .00001). However, post-PCI TIMI-3 flow was similar between the 2 groups (279/319 patients [87%] versus 188/212 [88%]; RR, 0.99; P = .85). Major bleeding events significantly increased in the combination therapy group (40/420 patients [9.5%] versus 14/299 [4.7%]; RR, 2.2; P = .007). The 30-day mortality (15/424 patients [3.5%] versus 5/301 [1.7%]; RR, 1.47; P = .46) and 30-day reinfarction rate (5/424 patients [1.1%] versus 3/301 [1.0%]; RR, 0.96; P = .96) were similar in the 2 treatment groups.
+Conclusions
+
+Awaiting the results of the ongoing clinical trials, the current cumulative evidence does not support the routine use of combination of reduced-dose thrombolytic and Gp IIbIIIa inhibitor therapy–facilitated PCI for the treatment of STEMI.

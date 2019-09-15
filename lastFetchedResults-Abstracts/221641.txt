@@ -1,0 +1,26 @@
+This paper describes two- and multiset canonical
+correlations analysis (CCA) for data fusion, multisource, multiset,
+or multitemporal exploratory data analysis. These techniques
+transform multivariate multiset data into new orthogonal variables
+called canonical variates (CVs) which, when applied in
+remote sensing, exhibit ever-decreasing similarity (as expressed by
+correlation measures) over sets consisting of 1) spectral variables
+at fixed points in time (R-mode analysis), or 2) temporal variables
+with fixed wavelengths (T-mode analysis). The CVs are invariant
+to linear and affine transformations of the original variables
+within sets which means, for example, that the R-mode CVs are
+insensitive to changes over time in offset and gain in a measuring
+device. In a case study, CVs are calculated from Landsat TM
+data with six spectral bands over six consecutive years. Both Rand
+T-mode CVs clearly exhibit the desired characteristic: they
+show maximum similarity for the low-order canonical variates
+and minimum similarity for the high-order canonical variates.
+These characteristics are seen both visually and in objective
+measures. The results from the multiset CCA R- and T-mode
+analyses are very different. This difference is ascribed to the noise
+structure in the data. The CCA methods are related to partial
+least squares (PLS) methods. This paper very briefly describes
+multiset CCA-based multiset PLS. Also, the CCA methods can
+be applied as multivariate extensions to empirical orthogonal
+functions (EOF) techniques. (Multiset) CCA is well-suited for
+inclusion in geographical information systems (GIS).

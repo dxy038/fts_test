@@ -1,0 +1,9 @@
+In this paper, the segmentation method is used to reduce cogging torque in the surface-mounted permanent
+magnet machines. In this method the magnet pole is divided into several magnet blocks. The permanent magnet
+is segmented in two ways, equal- and unequal- size permanent magnet blocks. In the both methods the half-wave
+symmetry of the magnetic poles is applied. The dimension of the permanent magnet s is optimized to reduce the
+machine cogging torque using an analytical model combined with the genetic algorithm. The effect of the slotted
+armature is taken into account in the analytical model. The cogging torque is obtained from the air gap
+magnetic flux components and the Maxwell’s stress tensor. The model is obtained by solving the Poisson’s
+equation. This model is used as a fast tool to compute the objective function in the genetic algorithm. In addition,
+the validity of the proposed model is verified with finite element analysis.

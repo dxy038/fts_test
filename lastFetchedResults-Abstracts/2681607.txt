@@ -1,0 +1,8 @@
+Considering the concept of clustering, the main idea of the present study is based on the fact that all stocks for choosing and ranking will
+not be necessarily in one cluster. Taking the mentioned point into account, this study aims at offering a new methodology for making
+decisions concerning the formation of a portfolio of stocks in the stock market. To meet this end, Multiple-Criteria Decision-Making, Data
+Mining, and Multi-objective Optimization were employed. First, candidate stocks were clustered using two-step clustering method.
+Available stocks in each cluster were independently ranked using grey relational analysis. Firefly algorithm was employed for Pareto
+analysis of risk and ranking. The results of clustering in the stocks revealed that all candidate stocks were not placed in one cluster. The
+results of robustness analysis employed in ranking method verified the accuracy of calculations in the grey relational analysis through stock
+repetition of candidates in each cluster.

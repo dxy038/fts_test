@@ -1,0 +1,1 @@
+In this paper, a full-reference objective video quality assessment methodology is presented for multi bit rate video encoding in adaptive streaming applications. The encoder parameter recommendations to achieve the optimum video quality are provided. The best practices guidelines within a multi bit rate encoding scenario are proposed.

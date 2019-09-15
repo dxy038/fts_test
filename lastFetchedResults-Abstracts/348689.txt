@@ -1,0 +1,11 @@
+Objective
+This study was aimed at developing a method for extraction and assessment of event-related brain potentials (ERP) from single-trials. This method should be applicable in the assessment of single persons’ ERPs and should be able to handle both single ERP components and whole waveforms.
+Methods
+We adopted a recently developed ERP feature extraction method, the t-CWT, for the purposes of hypothesis testing in the statistical assessment of ERPs. The t-CWT is based on the continuous wavelet transform (CWT) and Student’s t-statistics. The method was tested in two ERP paradigms, oddball and semantic priming, by assessing individual-participant data on a single-trial basis, and testing the significance of selected ERP components, P300 and N400, as well as of whole ERP waveforms. The t-CWT was also compared to other univariate and multivariate ERP assessment methods: peak picking, area computation, discrete wavelet transform (DWT) and principal component analysis (PCA).
+Results
+The t-CWT produced better results than all of the other assessment methods it was compared with.
+Conclusions
+The t-CWT can be used as a reliable and powerful method for ERP-component detection and testing of statistical hypotheses concerning both single ERP components and whole waveforms extracted from either single persons’ or group data.
+Significance
+The t-CWT is the first such method based explicitly on the criteria of maximal statistical difference between two average ERPs in the time–frequency domain and is particularly suitable for ERP assessment of individual data (e.g. in clinical settings), but also for the investigation of small and/or novel ERP effects from group data.
+

@@ -1,0 +1,8 @@
+Vehicle Routing Problem with Time Windows (VRPTW) is an NP-Complete
+Problem with	Optimization Problem. Even finding an optimal solution for small size
+Time Windows,	problems is too hard and time-consuming. The objective of VRPTW is to use
+Ant Colony	a fleet of vehicles with specific capacity to serve a number of customers with
+Algorithm,	dissimilar demands and time window constraints at minimum cost, without
+Solomon test-	violating the capacity and time window constraints. This problem has been
+problems	solved with a number of heuristic and meta-heuristic solution algorithms and
+optimal or near optimal solutions gained. In this paper, a modified Ant Colony algorithm is proposed. In this algorithm we tried to simplify the solution procedure and computational complexities of ant colony meta- heuristic. To gain this capability, we sacrificed some computational accuracy. Testing the solution procedure on the Solomon test-problems showed that this algorithm is capable of generating relatively good solutions

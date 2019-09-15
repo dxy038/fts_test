@@ -1,0 +1,1 @@
+In this paper, we first propose a new class of two-stage fuzzy programming problem with credibility function as an objective. Then an approximation scheme is suggested to evaluate the credibility function. Finally, the convergence of the proposed approximation approach is proved.

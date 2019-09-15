@@ -1,0 +1,12 @@
+In this research, both resource allocation and reactive resource allocation problems in multi-server dynamic PERT
+networks are analytically modeled, where new projects are expected to arrive according to a Poisson process, and
+activity durations are also known as independent random variables with exponential distributions. Such system is
+represented as a queuing network, where multi servers at each service station are allocated, and also each activity
+of a project is operated at a devoted service station with only one server located at a node of the network based on
+First Come First Serve (FCFS) policy. In order to propose a novel approach for modeling of multi-server dynamic
+PERT network, initially the network of queues is transformed into a stochastic network. Then, a differential
+equations system is organized to solve and obtain approximate completion time distribution for any particular
+project by applying an appropriate finite-state continuous-time Markov model. Finally, a multi-objective model
+including four conflicted objectives is presented to optimally control the resources allocated to the service stations
+in a multi-server dynamic PERT network, and the goal attainment method is further employed to solve a discretetime
+approximation of the primary multi-objective problem.

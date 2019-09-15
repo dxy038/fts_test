@@ -1,0 +1,6 @@
+Abstract
+Objective: In the studies of genomics, it is essential to select a small number of single nucleotide polymorphisms (SNPs). That is more significant than the others for the association studies of disease susceptibility. Data mining technology provides an important means for extracting valuable medical rules hidden in medical data and acts as an important role in disease prediction and clinical diagnosis. In this study, our goal was to compare two machine learning methods using genetic factor and single nucleotide polymorphisms.
+Materials & Methods: In order to perform the data analysis, a total of 141 patients and 83 controls in the genetics' section of Shahid Rajaee's heart center. The blood samples to draw conclusions about the LDLR and PCSK9 genes' SNPs was used. Also, the random forest and CART was used in order to discover the relationship between CAD and SNPs. These models were assessed by using four criteria including: sensitivity, specificity, precision and error. Data analysis was performed by SPSS (16.0) and R (2.15.0.)
+Results: CART had the better performance than Random Forest. Sensitivity, specificity, precision and error were 0.893, 0.506, 0.250 and 0.754 relatively. We introduced an algorithm to classify the high risk and low risk cases.
+Conclusion: CART is suggested in order to assess the relationship between CAD and SNPs.
+

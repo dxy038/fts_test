@@ -1,0 +1,18 @@
+Background: Electroencephalography (EEG) has vital and signifcant applications in different medical felds and is used for the primary evaluation of neurological
+disorders. Hence, having easy access to suitable and useful signal is very important.
+Artifacts are undesirable confusions which are generally originated from inevitable
+human activities such as heartbeat, blinking of eyes and facial muscle activities while
+receiving EEG signal. It can bring about deformation in these waves though.
+Objective: The objective of this study was to fnd a suitable solution to eliminate
+the artifacts of Vital Signals.
+Methods: In this study, wavelet transform technique was used. This method is
+compared with threshold level. The threshold intensity is effciently crucial because
+it should not remove the original signal instead of artifacts, and does not hold artifact
+signal instead of original ones. In this project, we seek to fnd and implement the algorithm with the ability to automatically remove the artifacts in EEG signals. For this
+purpose, the use of adaptive fltering methods such as wavelet analysis is appropriate.
+Finally, we observed that Functional Link Neural Network (FLN) performance is better than ANFIS and RBFN to remove such artifacts.
+Results: We offer an intelligent method for removing artifacts from vital signals in
+neurological disorders.
+Conclusion: The proposed method can obtain more accurate results by removing
+artifacts of vital signals and can be useful in the early diagnosis of neurological and
+cardiovascular disorders.

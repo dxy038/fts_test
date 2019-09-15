@@ -1,0 +1,9 @@
+Study objective
+We seek to determine the impact of emergency department (ED) crowding on delays in antibiotic administration for patients with community-acquired pneumonia.
+Methods
+We performed a retrospective cohort study of adult patients admitted with community-acquired pneumonia from January 1, 2003, to April 31, 2005, at a single, urban academic ED. The main outcome was a delay (>4 hours from arrival) or nonreceipt of antibiotics in the ED. Eight ED crowding measures were assigned at triage. Multivariable regression and bootstrapping were used to test the adjusted impact of ED crowding measures of delayed (or no) antibiotics. Predicted probabilities were then calculated to assess the magnitude of the impact of ED crowding on the probability of delayed (or no) antibiotics.
+Results
+In 694 patients, 44% (95% confidence interval [CI] 40% to 48%) received antibiotics within 4 hours and 92% (95% CI 90% to 94%) received antibiotics in the ED. Increasing levels of ED crowding were associated with delayed (or no) antibiotics, including waiting room number (odds ratio [OR] 1.05 for each additional waiting room patient [95% CI 1.01 to 1.10]) and recent ED length of stay for admitted patients (OR 1.14 for each additional hour [95% CI 1.04 to 1.25]). When the waiting room and recent length of stay were both at the lowest quartiles (ie, not crowded), the predicted probability of delayed (or no) antibiotics within 4 hours was 31% (95% CI 21% to 42%); when both were at the highest quartiles, the predicted probability was 72% (95% CI 61% to 81%).
+Conclusion
+ED crowding is associated with delayed and nonreceipt of antibiotics in the ED for patients admitted with community-acquired pneumonia.
+

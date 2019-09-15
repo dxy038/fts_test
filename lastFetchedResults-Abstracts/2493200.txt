@@ -1,0 +1,13 @@
+In the open-pit mining, one of the first decisions that must be made in production planning stage, after
+completing the design of final pit limits, is determining of the processing plant cut-off grade. Since this
+grade has an essential effect on operations, choosing the optimum cut-off grade is of considerable
+importance. Different goals may be used for determining optimum cut-off grade. One of these goals may
+be maximizing the output rate (amount of product per year), which is very important, especially from
+marketing and market share points of view. Objective of this research is determining the optimum cut-off
+grade of processing plant in order to maximize output rate. For performing this optimization, an
+Operations Research (OR) model has been developed. The object function of this model is output rate that
+must be maximized. This model has two operational constraints namely mining and processing
+restrictions. For solving the model a heuristic method has been developed. Results of research show that
+the optimum cut-off grade for satisfying pre-stated goal is the balancing grade of mining and processing
+operations, and maximum production rate is a function of the maximum capacity of processing plant and
+average grade of ore that according to the above optimum cut-off grade must be sent to the plant.

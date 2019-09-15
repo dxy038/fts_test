@@ -1,0 +1,1 @@
+Using measurements of real-world samples of metals, the proposed approach verifies predictions of bidirectional reflectance distribution function (BRDF) models. It employs ellipsometry to verify both the actual polarizing effect and the overall reflectance behavior of the metallic surfaces.

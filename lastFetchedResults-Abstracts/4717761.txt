@@ -1,0 +1,1 @@
+In this study, we develop a new concept of volatility models. The objective is to apply grey residual and artificial neural network into stochastic volatility to estimate return volatility.

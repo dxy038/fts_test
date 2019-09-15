@@ -1,0 +1,11 @@
+Background
+In vitro testing is used to determine safe parameters before performing magnetic resonance imaging (MRI) on a patient with an implant. Therefore, the objective of this study was to evaluate a cardiac pacemaker using a 1.5-T magnetic resonance (MR) system.
+Methods
+
+A modern cardiac pacemaker (INSIGNIA I PLUS, Model 1298, and FINELINE II, Model 4471, pacing leads; Guidant Corporation, St Paul, MN) was evaluated for magnetic field interactions at 1.5 T. Magnetic resonance imaging–related heating was assessed using 3 different 1.5-T scanners operating at various levels of radio-frequency power and imaging conditions. Functional aspects of the pacemaker were evaluated immediately before and after MRI (9 different pulse sequences). Artifacts were also characterized.
+Results
+
+Magnetic field interactions for the pacemaker were minor. Temperature changes measured in vitro were at levels that are not expected to pose a risk for specific MR conditions (<4.0°C). The function of the pacemaker was unaffected by MRI. Artifacts were minor for the leads and relatively large for the implantable pulse generator.
+Conclusion
+
+The findings indicated that this pacemaker exhibited acceptable safety features relative to the use of a 1.5-T MR system. If induced currents do not occur for this device, it may be safe for a patient to undergo MRI by following specific conditions. The results are specific to the pacemaker tested, the MR systems, and conditions used in this evaluation.

@@ -1,0 +1,1 @@
+In this paper we propose a systematic design methodology, which yields a controller that simultaneously optimizes an l<inf>1</inf> performance objective for a number of plants. To obtain this optimal controller we employ decomposition techniques that guarantee global optimality of the solution.

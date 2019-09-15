@@ -1,0 +1,1 @@
+This paper describes a solid state electrical emulator devised for laboratory testing of power conditioning electronics for direct drive linear wave energy converters (DDLWEC). Two rectification strategies are considered; a uni-directional boost topology, and an H-bridge which may be controlled in either uni- or bidirectional modes.

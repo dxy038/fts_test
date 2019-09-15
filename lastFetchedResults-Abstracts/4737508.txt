@@ -1,0 +1,1 @@
+In this paper, a new statistical analysis method is presented to investigate the effect of nine factors in the 65nm MOSFET structure. The aim of this work is to clarify the electrical properties, correlation of the principal factors, based on exploratory factor analysis (EFA). From the simulation result, optimization parameters are determinative to achieve the objective.

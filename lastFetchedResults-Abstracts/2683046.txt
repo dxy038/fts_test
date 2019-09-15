@@ -1,0 +1,11 @@
+In this paper, we study a supply chain scheduling problem that simultaneously
+considers production scheduling and product delivery.		Jobs have to be
+scheduled on a single machine and delivered to  customers for further
+processing in batches. The objective is to minimize the sum of the total
+weighted number of tardy jobs and the delivery costs. In this paper, we present a
+heuristic algorithm (HA) and a branch and bound (B&B) method for the
+restricted case, where the tardy jobs are delivered separately, and compare these
+procedures with an existing dynamic programming (DP) algorithm by
+computational tests. The results of computational tests show significant
+improvement of the B&B over the dynamic programming algorithm.
+K

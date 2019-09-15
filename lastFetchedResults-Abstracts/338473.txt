@@ -1,0 +1,11 @@
+Objective
+Busulfan (BU) is often used in conditioning regimens prior to bone marrow transplantation, but its mechanism of action remains to be resolved. We have examined the possibility that BU may exert part of its toxic effects via DNA alkylation at the O6 position of guanine as this might provide an approach to improving the conditioning regimen.
+Methods
+
+Survival of LAMA-84 and RJKO cells was assessed by colony-forming assay and cell counting, respectively. O6-alkylguanine-DNA alkyltransferase (ATase) activity was assayed by transfer of radioactivity from [3H]-methylated DNA. Colony-forming potential of normal human bone marrow cells (BMC) was measured in the presence of appropriate growth factors as the formation of both granulocyte-macrophage colony-forming units (CFU-GM) or burst-forming unit erythroids (BFU-E) within the same assay. Murine hematopoietic precursors were grown under a bone marrow stromal cell line to allow measurement of the frequency of cobblestone area-forming cells (CAFC) that correspond to CFU-GM, spleen colony-forming units (CFU-S), and the primitive stem cells with long-term repopulating ability.
+Results
+
+Inactivation of ATase by O6-benzylguanine (O6-BeG) sensitized a human erythromegakaryocytic cell line (LAMA-84) and normal human bone marrow progenitors to 1,3-bis(2-chloroethyl)-1-nitrosourea (BCNU) but not to BU toxicity. BCNU, but not BU, inactivated ATase in LAMA-84 cells. Overexpression of human ATase in cDNA transfected Chinese hamster cells attenuated the toxicity of BCNU but not BU. Finally, the in vivo treatment of mice showed that the depletion of primitive stem cells by BU as measured in the CAFC assay was not affected by addition of O6-BeG. O6-BeG did, however, dramatically potentiate BCNU toxicity in all CAFC subsets, leading to depletion of more than 99% stem cells.
+Conclusion
+
+These data suggest that BU does not elicit toxicity via alkylation at the O6 position of guanine in DNA in a way that can be influenced by ATase modulation.

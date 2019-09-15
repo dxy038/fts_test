@@ -1,0 +1,18 @@
+This paper presents a numerical–experimental analysis of damage engineering applied to a well-known industrial problem.
+Many food cans are manually opened by raising a tab on the lid, thus initiating a crack, which is propagated along a
+circumferential groove. The influence of the groove geometry and depth on the opening force and the resistance against
+premature opening is investigated for some packaging materials, by making use of dedicated experimental techniques
+and an operator-split damage-plasticity framework. Attention is focused on a small part of the groove at a location halfway
+the circular crack-path, 900 from the crack initiation point. First, the groovemanufacturing is analyzed by pressing a punch
+into a thin sheet of the material. Grooved specimens are loaded in tension, simulating the internal pressure during sterilization,
+and in shear, simulating the opening. Experiments have been carried out using a miniaturized tensile/compression
+stage located in the objective field of an opticalmicroscope. For the computational analysis, an operator-split damage-plasticity
+model is proposed, where ductile damage is easily operated in conjunction with standard plasticity models. Simulations
+are done within a geometrically non-linear context, using a hypo-elasto-plastic material model with non-linear
+hardening and a contact algorithm to simulate the contact bodies in the groove forming process. An arbitrary–
+Lagrange–Euler (ALE) technique and adaptive remeshing are used to assuremesh quality during the large deformation process.
+The operator-split procedure used for the solution of the governing equations, allows to make easy use of a non-local
+damage operator as an extra feature within a commercial FEMpackage. Experimental results reveal that a reduction up to
+20% for the opening force with unchanged pre-opening resistance can be reached with the use of an asymmetric punch for
+the groove forming. Numerical and experimental results are in good agreement. Simulations show that the industrial process
+of can lid production can be optimized considerably by controlling damage evolution in the first stage of the process.

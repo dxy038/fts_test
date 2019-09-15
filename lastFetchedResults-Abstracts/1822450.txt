@@ -1,0 +1,8 @@
+Objective
+an-1 plays an important role in cell proliferation in dental papilla during tooth development. This study aimed to clarify the transcription mechanisms that regulate syndecan-1 gene expression in dental papilla.
+
+lysed genomic conservation and putative transcriptional factor binding sites of syndecan-1 gene loci using the bioinformatics tool VISTA. To identify the region responsible for syndecan-1 gene expression in mouse dental papilla cells (MDPCs) in vitro, the 1.5-kb upstream region of the mouse syndecan-1 coding region was inserted upstream of the enhanced green fluorescent protein (EGFP) or luciferase gene, and promoter activity was examined by transient reporter gene expression assay in cultured MDPCs. To examine the binding of the upstream binding factor, we performed chromatin immunoprecipitation (ChIP) assay.
+s
+analysis showed that the 1.5-kb upstream region was highly conserved amongst species, and three GC-rich motifs, as well as a TATA-box-like motif, were identified in this region. Reporter gene assay showed that the 1.5-kb upstream region of mouse syndecan-1 induced reporter gene expression in MDPCs. Deletion of the promoter from the 5′-end to 339 bp upstream reduced luciferase activity by nearly half vs. the 1.5-kb sequence. Further deletion up to 68 bp resulted in further loss of luciferase activity. On ChIP assay, we found direct recruitment of Sp3 transcription factor to the GC-rich motif region.
+sion
+5-kb upstream region of the syndecan-1 gene was sufficient to induce its expression in dental papilla, and binding of Sp3 transcription factor may play a pivotal role in this syndecan-1 induction.

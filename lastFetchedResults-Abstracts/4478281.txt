@@ -1,0 +1,1 @@
+This paper discusses a Design-for-Testability (DFT) technique applicable to pipelined Analog-to-Digital Converters (ADC). The objective of this DFT is to improve both the on- and off-line testability of these important mixed-signal ICs

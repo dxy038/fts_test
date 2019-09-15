@@ -1,0 +1,9 @@
+Background
+A nonsynonymous coding polymorphism, rs16969968, of the CHRNA5 gene that encodes the alpha-5 subunit of the nicotinic acetylcholine receptor (nAChR) has been found to be associated with nicotine dependence. The goal of this study was to examine the association of this variant with cocaine dependence.
+Methods
+Genetic association analysis was performed in two independent samples of unrelated case and control subjects: 1) 504 European Americans participating in the Family Study on Cocaine Dependence (FSCD) and 2) 814 European Americans participating in the Collaborative Study on the Genetics of Alcoholism (COGA).
+Results
+In the FSCD, there was a significant association between the CHRNA5 variant and cocaine dependence (odds ratio = .67 per allele, p = .0045, assuming an additive genetic model), but in the reverse direction compared with that previously observed for nicotine dependence. In multivariate analyses that controlled for the effects of nicotine dependence, both the protective effect for cocaine dependence and the previously documented risk effect for nicotine dependence were statistically significant. The protective effect for cocaine dependence was replicated in the COGA sample. In COGA, effect sizes for habitual smoking, a proxy phenotype for nicotine dependence, were consistent with those observed in FSCD.
+Conclusions
+The minor (A) allele of rs16969968, relative to the major G allele, appears to be both a risk factor for nicotine dependence and a protective factor for cocaine dependence. The biological plausibility of such a bidirectional association stems from the involvement of nAChRs with both excitatory and inhibitory modulation of dopamine-mediated reward pathways.
+

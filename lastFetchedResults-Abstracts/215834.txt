@@ -1,0 +1,16 @@
+Roofing systems have always been vulnerable to strong wind uplift pressures. Wind forces have
+dynamic effects on structures, as they change in time and space. Therefore, a dynamic means of
+evaluating roofing systems is necessary in order to identify the component of the system having
+the least resistance to wind uplift forces. Although researchers worldwide have conducted tests
+on roofing structures, they have all used various table sizes, as there is still no standard chamber
+size for experimental purposes. This paper aims to study the impact of table size on roofing
+system performance. To achieve this objective, extensive analytical work has been conducted
+to investigate the performance of roofing systems subjected to wind pressure. Analytical results
+compared well with those obtained from experimental work, validating the numerical modeling.
+This paper presents some of these result comparisons. It was found that an increase in table
+width beyond a certain level, about 3 m for cases considered here, did not significantly change
+the results, while the rate of fastener load change might be high for a smaller table width. This
+specific limit depends on the roofing system configuration. Furthermore, a larger membrane
+width (fastener row spacing) would increase the width of the ideal table. Ideal table sizes were
+also suggested for various configurations having a TPO (Thermo-Plastic Olefins) membrane and
+correction factors were eventually developed for different table sizes.

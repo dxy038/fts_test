@@ -1,0 +1,1 @@
+We examine the problem of maximizing the throughput of an acyclic network of general-service time queueing network while reducing the total number of buffers and the overall service rate.These are conflicting objectives and we utilize an original multi-objective genetic algorithm to tackle this problem.Promising preliminaries results show the efficacy of the approach.

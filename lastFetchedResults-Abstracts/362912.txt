@@ -1,0 +1,9 @@
+Study objective
+The 15-point Glasgow Coma Scale (GCS) is extensively used in the initial evaluation of traumatic brain injury in emergency department (ED) settings. We hypothesized that the GCS might be unnecessarily complex and that a simpler scoring system might demonstrate similar accuracy in the prediction of traumatic brain injury outcomes.
+Methods
+We analyzed a prospectively maintained trauma registry of patients evaluated at our Level I trauma center from 1990 to 2002. We calculated the test performance of ED GCS scores relative to 4 clinically relevant traumatic brain injury outcomes (emergency intubation, neurosurgical intervention, brain injury, and mortality) using areas under their receiver operating characteristic (ROC) curves. We performed similar analyses for each of the 3 GCS components and for 2 simplified 3-point scores (simplified verbal score: oriented=2, confused conversation=1, inappropriate words or less=0; simplified motor score: obeys commands=2, localizes pain=1, withdrawal to pain or less=0). We then compared the test performance of each of these 5 to the total GCS score using a priori thresholds for clinically important differences.
+Results
+Each of the 3 GCS components alone and the 2 simplified 3-point scores demonstrated ROC areas within 9% of that of the GCS score for the 4 outcomes, with a median difference of 3.0% (interquartile range 1.6% to 4.5%). These differences were all below our a priori definitions of clinical importance.
+Conclusion
+The 3 individual GCS components alone and two 3-point simplified scores demonstrated test performance similar to the total GCS score for the prediction of 4 clinically relevant traumatic brain injury outcomes. Despite the widespread use of the GCS for the initial evaluation of traumatic brain injury, this score may be unnecessarily complex for this indication.
+

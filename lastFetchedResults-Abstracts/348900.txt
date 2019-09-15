@@ -1,0 +1,11 @@
+Objective
+To study the effects of duration and intensity of noise that precedes gaps in noise on the N-Complex (N1a and N1b) of Event-Related Potentials (ERPs) to the gaps.
+Methods
+ERPs were recorded from 13 normal subjects in response to 20 ms gaps in 2–4.5 s segments of binaural white noise. Within each segment, the gaps appeared after 500, 1500, 2500 or 4000 ms of noise. Noise intensity was either 75, 60 or 45 dBnHL. Analysis included waveform peak measurements and intracranial source current density estimations, as well as statistical assessment of the effects of pre-gap noise duration and intensity on N1a and N1b and their estimated intracranial source activity.
+Results
+The N-Complex was detected at about 100 ms under all stimulus conditions. Latencies of N1a (at  90 ms) and N1b (at  150 ms) were significantly affected by duration of the preceding noise. Both their amplitudes and the latency of N1b were affected by the preceding noise intensity. Source current density was most prominent, under all stimulus conditions, in the vicinity of the temporo-parietal junction, with the first peak (N1a) lateralized to the left hemisphere and the second peak (N1b) – to the right. Additional sources with lower current density were more anterior, with a single peak spanning the duration of the N-Complex.
+Conclusions
+The N1a and N1b of the N-Complex of the ERPs to gaps in noise are affected by both duration and intensity of the pre-gap noise. The minimum noise duration required for the appearance of a double-peaked N-Complex is just under 500 ms, depending on noise intensity. N1a and N1b of the N-Complex are generated predominantly in opposite temporo-parietal brain areas: N1a on the left and N1b on the right.
+Significance
+Duration and intensity interact to define the dual peaked N-Complex, signaling the cessation of an ongoing sound.
+

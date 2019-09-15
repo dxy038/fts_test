@@ -1,0 +1,9 @@
+Objective
+The capacity of hematopoietic progenitor cells (HPCs; CD34+ cells) to respond to chemotactic stimulation is essential for their homing efficiency, e.g., during stem cell transplantation. Previous studies established that stromal cell–derived factor-1 (SDF-1) and its receptor CXCR-4 play an important role in the homing of HPCs. The aim of the present study was to analyze SDF-1–induced actin polymerization and migration of HL-60 cells and primary human CD34+ cells.
+Materials and Methods
+SDF-1–induced migration of CD34+ cells from cord blood (CB) and peripheral blood (PB) across fibronectin-coated filters was measured in a Transwell assay. Actin polymerization was detected using fluorescent phalloidin and analyzed by confocal microscopy and FACS analysis.
+Results
+SDF-1 induced a rapid and transient increase in actin polymerization and in polarization of the actin cytoskeleton in primary CD34+ cells and HL-60 cells. SDF-1 was found to induce significantly more actin polymerization in CB CD34+ cells that show fast migration in vitro compared to slow migrating PB CD34+ cells. Moreover, CB CD34+ cells that had migrated toward SDF-1 showed an elevated and prolonged rise in F-actin upon second exposure to SDF-1 compared to nonmigrated cells, although both cell types expressed equal levels of the SDF-1 receptor CXCR-4.
+Conclusions
+The relatively high migratory capacity of CB-derived human HPCs is not related to cellular polarization or high expression of the SDF-1 receptor but is largely determined by their capacity to efficiently polymerize F-actin in response to SDF-1.
+

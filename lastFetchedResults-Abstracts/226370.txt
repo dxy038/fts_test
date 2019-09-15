@@ -1,0 +1,8 @@
+In this paper, two new two-degree-of-freedom control structures are proposed for cascade control systems, both of which are
+identical in the controller design procedure. The primary controller used for setpoint tracking is derived in terms of H2 optimal performance
+objective. The secondary controller is responsible for rejecting load disturbances that seep into the intermediate process
+and therefore is called a load disturbance estimator, which is inversely figured out by proposing the desired complementary sensitivity
+function of the inner loop for disturbance rejection. As a result, the nominal setpoint response is decoupled with the load disturbance
+response of the inner loop, both of which can be optimized independently. Based on the control system stability analysis,
+the rule of thumb for tuning the single adjustable parameter of each controller is provided to cope with the process uncertainty in
+practice. Several illustrative examples are included to demonstrate the superiority of the proposed method.

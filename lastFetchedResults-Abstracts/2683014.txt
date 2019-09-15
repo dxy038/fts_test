@@ -1,0 +1,9 @@
+Background and Objective: OCT4 is the most important transcription factor for reprogramming of somatic cells and maintenance of pluripotency. Moreover, it has recently been shown that loss of P53 or its mutations improve the efficiency of reprogramming. This study was designed to reprogram human adipose tissue-derived stem cells (ADSCs) by overexpression of OCT4 and inhibition of P53 expression.
+
+Materials and Methods: The ADSCs were isolated from abdominal fat tissue of patients who underwent cosmetic abdominoplasty. For characterization of the ADSCs, the expression of some mesenchymal stem cell markers was assessed by flow cytometry and the cells were differentiated into osteogenic and adipogenic lineages. The third-passaged ADSCs were transfected with a plasmid expressing OCT4 and a P53-shRNA. One week after transfection, the expression of pluripotency genes was studied by quantitative real-time PCR.
+
+Results: The third-passaged ADSCs showed a fibroblast-like morphology. Meanwhile, 94%, 80.2%, and 81.1% of the ADSCs showed positive staining for CD90, CD73 and CD105 markers, respectively. Moreover, the ADSCs showed adipogenic and osteogenic differentiation. As revealed by qPCR analysis, the expression of OCT4, SOX2, LIN28, REX1, CCND1 and C-MYC mRNAs were significantly upregulated after transfection of the ADSCs with hOCT4/shp53 vector compared to the control group. 
+
+Conclusion: Overexpression of OCT4 and inhibition of P53 can improve reprogramming of the ADSCs toward a pluripotent state. This method may improve the differentiation capacity of the ADSCs for clinical applications.
+
+

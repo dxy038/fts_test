@@ -1,0 +1,11 @@
+Objective
+In the clinical interpretation of intracerebral EEGs, epileptic foci are commonly identified by visually analyzing the amplitude of the potentials. This is potentially misleading since electrodes record activity from several sources, but the nearest ones generate large amplitudes that can overpower distant sources. Our objective was to improve foci detection in intracerebral recordings by applying source localization methods.
+Methods
+Data were simulated by placing 3 sources in a semi-infinite medium near 3 intracerebral electrodes. Potentials were generated and contaminated with white and correlated noise. Two inverse problem algorithms, beamforming and RAP-MUSIC, were used to calculate equivalent dipoles.
+Results
+Simulations for each noise types showed that the two methods detected the source locations accurately, with RAP-MUSIC reporting lower orientation errors. With correlated noise, beamforming reconstructed original source waveforms poorly. A spatial resolution analysis was performed, in which beamforming adequately distinguished sources separated by 1.2 cm, whereas RAP-MUSIC separated sources as close as 0.4–0.6 cm.
+Conclusions
+Both source localization methods proved useful in detecting the location of dipolar sources based on simulated intracerebral potentials. For all simulations, RAP-MUSIC was more accurate than beamforming.
+Significance
+It is possible to use source localization methods traditionally applied to scalp recordings for improving source detection from intracerebral recordings.
+

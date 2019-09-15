@@ -1,0 +1,11 @@
+Objective
+Epilepsy, one of the most common neurological disorders, constitutes a unique opportunity to study the dynamics of spatiotemporal state transitions in real, complex, nonlinear dynamical systems. In this study, we evaluate the performance of a prospective on-line real-time seizure prediction algorithm in two patients from a common database.
+Methods
+We previously demonstrated that measures of chaos and angular frequency, estimated from electroencephalographic (EEG) signals recorded at critical sites in the cerebral cortex, progressively converge (i.e. become dynamically entrained) as the epileptic brain transits from the asymptomatic interictal state to the ictal state (seizure) (Iasemidis et al., 2001, 2002a, 2003a). This observation suggested the possibility of developing algorithms to predict seizures well ahead of their occurrences. One of the central points in those investigations was the application of optimization theory, specifically quadratic zero-one programming, for the selection of the critical cortical sites. This current study combines that observation with a dynamical entrainment detection method to prospectively predict epileptic seizures. The algorithm was tested in two patients with long-term (107.54 h) and multi-seizure EEG data B and C (Lehnertz and Litt, 2004).
+Results
+Analysis from the 2 test patients resulted in the prediction of up to 91.3% of the impending 23 seizures, about 89±15 min prior to seizure onset, with an average false warning rate of one every 8.27 h and an allowable prediction horizon of 3 h.
+Conclusions
+The algorithm provides warning of impending seizures prospectively and in real time, that is, it constitutes an on-line and real-time seizure prediction scheme.
+Significance
+These results suggest that the proposed seizure prediction algorithm could be used in novel diagnostic and therapeutic applications in epileptic patients
+

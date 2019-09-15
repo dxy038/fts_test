@@ -1,0 +1,1 @@
+Duality for multiobjective programming problems having pseudo-convex objective functions and linear constraints is studied through a linearization approach. Its application to a multiobjective fractional programming problem with different denominators is discussed.

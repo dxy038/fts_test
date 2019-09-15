@@ -1,0 +1,1 @@
+We deal with nonlinear programming problems with fuzzy constrains for which we use parametric programming based solution methods. We propose a multi-objective approach to solve parametric programming problems, and a multi-objective Pareto-based Evolutionary Algorithm is used. Results with linear and nonlinear test problems studied in literature are shown.

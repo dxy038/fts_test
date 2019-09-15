@@ -1,0 +1,11 @@
+Objective
+To analyse the interactions between simultaneous or nearly simultaneous focal transcranial magnetic stimulation (TMS) of the motor cortex hand area (M1hand) of both hemispheres.
+Methods
+In 7 healthy subjects, motor evoked potential (MEP) amplitude and cortical silent period (CSP) duration were elicited in the right hand by bihemispheric focal TMS of M1hand (8-shaped coils, monophasic current waveform, stimulus intensity 120% above motor threshold, TMS of right M1hand preceding TMS of left M1hand by 0–1000 μs), or by unilateral TMS of left M1hand alone. A dipole probe was used to measure the physical interactions between the two stimulating coils.
+Results
+Bihemispheric TMS markedly decreased MEP and CSP at intervals of 0 and 50 μs compared to unilateral TMS, whereas both measures increased at the interval of 150 μs. The dipole probe experiments showed that the physical interactions between the electrical fields of the two coils entirely explained the MEP and CSP findings, but only under the assumption that excitation of M1hand is not point-focal but extends over several centimetres.
+Conclusions
+First, simultaneous focal TMS of distant brain sites may result in marked ‘distortion’ of brain excitation through physical interaction between the induced electrical fields. Second, these findings support the notion that excitation of human M1hand is relatively non-focal, even if a ‘focal’ stimulating coil and low stimulus intensity are used.
+Significance
+Potentially marked physical interaction between induced electrical fields must be taken into account when testing or disrupting distant brain sites with simultaneous focal TMS
+

@@ -1,0 +1,18 @@
+Background: Falls from height are one of the main causes of fatal occupational
+injuries. The objective of this study was to present a model for estimating occurrence
+probability of falling from height.
+Methods: In order to make a list of factors affecting falls, we used four expert
+group's judgment, literature review and an available database. Then the validity
+and reliability of designed questionnaire were determined and Bayesian networks
+were built. The built network, nodes and curves were quantified. For network
+sensitivity analysis, four types of analysis carried out.
+Results: A Bayesian network for assessment of posterior probabilities of falling
+from height proposed. The presented Bayesian network model shows the interrelationships
+among 37 causes affecting the falling from height and can calculate
+its posterior probabilities. The most important factors affecting falling were
+Non-compliance with safety instructions for work at height (0.127), Lack of
+safety equipment for work at height (0.094) and Lack of safety instructions for
+work at height (0.071) respectively.
+Conclusion: The proposed Bayesian network used to determine how different
+causes could affect the falling from height at work. The findings of this study
+can be used to decide on the falling accident prevention programs.

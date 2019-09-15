@@ -1,0 +1,9 @@
+Background
+Studies of the effect of highly active antiretroviral therapy (HAART) on the risk of HIV-1-associated tuberculosis have had variable results. We set out to determine the effect of HAART on the risk of tuberculosis in South Africa.
+Methods
+We compared the risk of tuberculosis in 264 patients who received HAART in phase III clinical trials and a prospective cohort of 770 non-HAART patients who were attending Somerset Hospital adult HIV clinic, University of Cape Town, between 1992 and 2001. Poisson regression models were fitted to determine risk of tuberculosis; patients were stratified by CD4 count, WHO clinical stage, and socioeconomic status.
+Findings
+HAART was associated with a lower incidence of tuberculosis (2•4 vs 9•7 cases per 100 patient-years, adjusted rate ratio 0•19 [95% CI 0•09–0•38]; p<0•0001). This finding was apparent across all strata of socioeconomic status, baseline WHO stage, and CD4 count, except in patients with CD4 counts of more than 350 cells/μL. The number of tuberculosis cases averted by HAART was greatest in patients with WHO stage 3 or 4 (18•8 averted cases per 100 patient-years, adjusted rate ratio 0•22 [0•09–0•41]; p=0•03) and in those with CD4 counts of less than 200 cells/μL (14•2 averted cases per 100 patient-years, adjusted rate ratio 0•18 [0•07–0•47]; p<0•0001).
+Interpretation
+HAART reduced the incidence of HIV-1-associated tuberculosis by more than 80% (95% CI 62–91) in an area endemic with tuberculosis and HIV-1. The protective effect of HAART was greatest in symptomatic patients and those with advanced immune suppression.
+

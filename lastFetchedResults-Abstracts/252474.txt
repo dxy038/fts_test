@@ -1,0 +1,17 @@
+The objective of this article is to propose new determinations of the diffusion
+coefficients of various dopants in liquid silicon. The approach of this
+work is based on an analysis of the effective segregation coefficients obtained
+by Kodera in Czochralski growth of silicon-based alloys. However, it will
+be shown that the solidification model used by Kodera presents some serious
+deficiencies as it does not account for (i) the dependence of the solute boundary
+layer thickness on the iInterface velocity and (ii) the effect of density
+change upon freezing. In addition, the values of the thermophysical parameters
+used by Kodera can be questioned in view of recently published data.
+The approach proposed in the present work can be used to provide a much
+sounder physical basis for the analysis of the data, but it should be stated
+that the uncertainty on the partition coefficients is such that a measurement
+technique based on solidification experiments cannot be expected to be very
+accurate. In this respect, the scatter of the data, hardly avoidable in Czochralski
+growth experiments, is also discussed. To put things on a quantitative
+basis, an error analysis is carried out to quantify the error bar attainable
+by such a measurement technique.

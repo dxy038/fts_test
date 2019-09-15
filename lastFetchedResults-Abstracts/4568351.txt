@@ -1,0 +1,1 @@
+An inverter matrix test circuit was designed for the Clementine space mission and is built into the RRELAX (Radiation and Reliability Assurance Experiment). The objective is to develop a circuit that will allow the evaluation of the CMOS FETs using a lean data set in the noisy spacecraft environment. As is shown, only nine data points are needed to acquire ten CMOS FET parameters

@@ -1,0 +1,4 @@
+We consider a single machine scheduling problem with simple linear deterioration. Job processing times are assumed to be a simple linear function of a job-dependent growth rate and the job's starting time. We seek an optimal schedule, so as to minimize the total absolute deviation of completion times (TADC). We prove several interesting properties of an optimal schedule, and introduce two efficient heuristics which are tested against a lower bound.
+Scope and purpose
+In most scheduling problems jobs are assumed to have time-independent processing times. In many real life applications, jobs deteriorate at a certain rate while waiting to be processed. We study the effect of job deterioration when addressing a scheduling problem with the non-regular objective function of minimizing the total deviation of completion times. This objective can be regarded as a measure of “fairness” towards customers of the production system.
+

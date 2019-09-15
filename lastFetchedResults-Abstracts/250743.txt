@@ -1,0 +1,15 @@
+An implicit objective stress update algorithm is proposed for a hypoelastic–viscoplastic model. A
+thermal/dynamic yield function, which is derived based on the thermal activation analysis and dislocation
+interaction mechanisms, is used, along with the Consistency approach and the framework of
+additive viscoplasticity, in deriving the proposed model for fcc metals. The corotational formulation
+approach is utilized in developing the proposed model in the finite deformation field. For the case of
+the Newton–Raphson iteration method, a new expression for the consistent (algorithmic) tangent stiffness
+matrix of rate-dependent metals is derived by direct linearization of the stress update algorithm.
+Finite element simulations are performed by implementing the proposed viscoplasticity constitutive
+models in the commercial finite element program ABAQUS. Numerical implementation for a simple
+tensile problem is used for validating the material parameters of the OFHC Copper under low and
+high strain rates and temperatures. The numerical results of the adiabatic true stress–true strain curves
+compare very well with the experimental data. The effectiveness of the present approach is tested by
+studying strain localization in a simple plane strain problem. Results indicate excellent performance of
+the present framework in describing the strain localization problem and in obtaining mesh-independent
+results.

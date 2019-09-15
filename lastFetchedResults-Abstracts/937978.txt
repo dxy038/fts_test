@@ -1,0 +1,19 @@
+The objective of this paper is to devise a way to facilitate the use of fixed air monitors data in order to assess
+population exposure. A weighting scheme that uses the data from different monitoring sites and takes into account
+the time-activity patterns of the study population is proposed. PM2.5 personal monitoring data were obtained within
+the European EXPOLIS study, in Grenoble, France Ž40 adult non-smoking volunteers, winter 1997.. Volunteers
+carried PM2.5 personal monitors during 48 h and filled in time-activity diaries. Workplaces and places of residence
+were classified into two categories using a Geographic Information System ŽGIS.: some volunteers’ life environments
+are seen as best represented by PM10 ambient air monitors located in urban background sites; others by monitors
+situated close to high traffic density sites Žproximity sites.. Measurements from the Grenoble fixed monitoring
+network using a TEOM PM10 sampler were available across the same period for these two types of sites ŽPM10back
+and PM10prox .. These data were used to compute a translator parameter  i that forces the measured PM2.5 personal
+exposures ŽPM2.5persoi. to equate the average PM10 urban ambient air concentrations Ž PM10back PM10prox   2.
+measured the same days. Average   was 4.2  g m3 ŽCI   3.4; 11.9 ., with true average PM personal exposure i 95% 2.5
+being 36.2  g m3 Ž28.2; 44.1.. PM ambient levels at the proximity site and at the background site were respectively 10
+PM  43.8  g m3 Ž37.1; 50.6. and PM  37.0  g m3 Ž31.8; 42.3.. In order to assess the consistency of this 10prox 10back
+approach, six scenarios of ‘proximity’ and ‘background’ environments were accommodated, according to traffic
+intensity and road distance.  i was estimated for the entire EXPOLIS population and for subgroups, using terciles
+based on the percentage of time spent in proximity by each subject. Other similar studies need to be conducted in
+different urban settings, and with other pollutants, in order to assess the generalizability of this simple approach to
+estimate population exposures from air quality surveillance data.

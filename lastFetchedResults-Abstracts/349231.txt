@@ -1,0 +1,11 @@
+Objective
+We investigated the interference of tactile and painful stimuli on human early somatosensory evoked potentials (SEPs) including high frequency oscillations (HFOs) to further study thalamocortical processing of somatosensory information.
+Methods
+Multi-channel median nerve SEPs were recorded during (1) no interference, (2) sensory interference by tactile stimulation to digits 2 and 3, and (3) application of pain to the same digits. Spatio-temporal source analysis separated brain stem (S1), thalamic (S2) and two cortical sources (S3, S4), which were evaluated for the low (20–450 Hz) and high (450–750 Hz) frequency portion of the signal.
+Results
+Low frequency SEPs showed a decrease of activity at cortical source S3 during both conditions, while thalamic source S2 was significantly increased during pain interference. HFOs showed an increase of cortical source S3 and in trend of thalamic source S2 and cortical source S4 during both kinds of interference.
+Conclusions
+Although the painful stimulus might not be specific for the nociceptive afferents, the present data affirm that at this early stage of sensory information processing within the primary sensory cortex (area 3b, area 1) pain is handled similar to sensory interference.
+Significance
+HFOs might represent an intrinsic “somatosensory alerting” system which reacts to both interference stimuli in a similar way, therefore indicating an interference without a qualitative evaluation.
+

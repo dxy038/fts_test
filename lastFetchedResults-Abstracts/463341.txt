@@ -1,0 +1,11 @@
+Introduction
+Current methods of assessing routes taken during active transport rely on subjective recall of trip length and barriers encountered enroute or the utilization of objective measures (Geographic Information Systems –[GIS]) that may not represent actual travel patterns. This study examined the utility of Global Positioning Systems (GPS) to measure actual routes taken compared with GIS-estimated travel distance and barriers encountered.
+Methods
+
+Comparisons between GPS and GIS routes were performed for 59 of 75 children who wore a GPS during the journey to school on a single occasion. Home and school addresses were reported by parents and geocoded in GIS. Children were provided with a GPS and were instructed to travel their normal route to and from school. Data were collected between March and November 2005 and exported to the GIS to determine travel distance, number of busy streets crossed, and the ratio of busy streets to the total streets traveled on. Data analysis was performed in August 2006.
+Results
+
+No differences were observed between GPS-measured journeys to and from school on any of the examined variables. No differences were observed between GIS and GPS measures of travel distance (p>0.05). GIS-estimated travel routes crossed a significantly (p<0.05) higher number of busy streets (GIS: 1.68±0.12 vs GPS: 1.19±0.11) and traveled on a higher ratio of busy streets to total streets traveled on (GIS: 0.46±0.03 vs GPS: 0.35±0.04) (p<0.05) compared with GPS-measured actual travel routes.
+Conclusions
+
+Geographic Information Systems provides estimates of travel distance similar to GPS-measured actual travel distances. Travel routes estimated by GIS are not representative of actual routes measured by GPS, which indicates that GIS may not provide an accurate estimate of barriers encountered. The continued use of GPS in active transport research in encouraged.

@@ -1,0 +1,20 @@
+Background: Despite some successful dynamic simulation of self-impact double
+pendulum (SIDP)-as humanoid robots legs or arms- studies, there is limited information available about the control of one leg locomotion.
+Objective: The main goal of this research is to improve the reliability of the
+mammalians leg locomotion and building more elaborated models close to the natural
+movements, by modeling the swing leg as a SIDP. This paper also presents the control
+design for a SIDP by a nonlinear model-based control method. To achieve this goal,
+the available data of normal human gait will be taken as the desired trajectories of the
+hip and knee joints.
+Method: The model is characterized by the constraint that occurs at the knee joint
+(the lower joint of the model) in both dynamic modeling and control design. Since
+the system dynamics is nonlinear, the MIMO Input-Output Feedback Linearization
+method will be employed for control purposes.
+Results: The frst constraint in forward impact simulation happens at 0.5 rad where
+the speed of the upper link is increased to 2.5 rad/sec. and the speed of the lower link is
+reduced to -5 rad/sec. The subsequent constraints occur rather moderately. In the case
+of both backward and forward constraints simulation, the backward impact occurs at
+-0.5 rad and the speeds of the upper and lower links increase to 2.2 and 1.5 rad/sec.,
+respectively.
+Conclusion: The designed controller performed suitably well and regulated the
+system accurately.

@@ -1,0 +1,11 @@
+Objective
+Although various photo-curing techniques aiming to partially relieve the shrinkage stress by flow have been proposed and investigated, the direct monitoring and observation of stress relaxation behavior received little attention. In this study, the elucidation of stress relaxation behavior and its impact on the overall stress development were investigated.
+Methods
+
+A novel experimental set-up capable of real-time, simultaneous shrinkage stress and double bond conversion measurements on the same sample was utilized. The coupled shrinkage stress and conversion for specimens of a barium glass filled Bis-GMA/TEGDMA composite were continuously monitored during and after irradiation for various intervals (2, 3, 6, 10 and 60 s).
+Results
+
+Specimens irradiated for 60 s reached the highest conversion (67.9±1.2%) and shrinkage stress (2.9±0.1 MPa). Shrinkage stress relaxation phenomena were only observed prior to vitrification, which only applied to specimens partially cured for 2 or 3 s; specimens irradiated for 2 s exhibit the largest capability to relieve stress (approximately 40%). However, to achieve this a much longer post-cure stress relaxation time is required as compared to clinically practical time scales. For specimens irradiated for 6, 10 or 60 s, the majority of the shrinkage stress is developed during and after the vitrification stage, and no appreciable stress relaxation can be observed.
+Significance
+
+Although stress relaxation prior to vitrification stage has been observed, this study revealed that it did not provide a significant benefit towards the reduction of overall shrinkage stress since, to achieve clinically relevant conversion, the majority of the shrinkage stress is developed during and after the vitrification stage, which does not permit stress relaxation on the time scales used in this study.

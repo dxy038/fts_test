@@ -1,0 +1,14 @@
+Objective
+Characterize the microstructure, composition, and important properties of glass-infiltrated alumina-based ceramics similar to the In-Ceram system.
+Methods
+
+Materials used were: IA, In-Ceram Alumina (Vita); IAE, IA electrophoretically deposited (Vita); AEM, IA using a vacuum driven method (Vita); VC, Vitro-Ceram (Angelus); TC, Turkom-Cera (Turkom-Ceramic); CC, Ceramcap (Foto-Ceram); and AG, Alglass (EDG). Ceramic specimens were fabricated following manufacturers’ instructions and ISO6872 standard and polished successively through 1 μm alumina abrasive. Semi-quantitative and qualitative analyses were performed using scanning electron microscopy (SEM), energy dispersive spectroscopy (EDS), and stereology (Vv). The elastic modulus (E) and Poisson's ratio (ν) were determined using time-of-flight data measured in an ultrasonic pulser/receiver and the density (ρ) was determined using a helium pycnometer. Vicker's indentation was used to calculate hardness (H). Bar specimens (25 mm × 4 mm × 1.2 mm) were loaded in three-point bending to fracture using a universal testing machine with cross-head speed of 1 mm/min. Flexural strength (σ3P) was calculated and statistically analyzed using ANOVA, Tukey (α = 0.05) and Weibull (m = modulus, σ0 = characteristic strength).
+Results
+
+SEM and EDS analyses revealed similar microstructure for all-ceramics, except for a lead-based matrix in CC and a zirconia phase in VC. TC, AG and CC showed significantly lower mean σ3P values than the other ceramics (p ≤ 0.05). AEM showed the greatest m (16).
+Conclusion
+
+Despite few differences in microstructure and composition, the IA, IAE, AEM and VC ceramics have similar properties.
+Significance
+
+The glass-infiltrated alumina-based ceramics from different manufacturers presented distinct characteristics. It is necessary to characterize new commercially available materials to understand their properties.

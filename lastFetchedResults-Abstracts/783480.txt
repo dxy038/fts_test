@@ -1,0 +1,20 @@
+Objective Previous research has suggested
+that psychosis is better described as a continuum
+rather than a dichotomous entity. This study
+aimed to describe the distribution of positive psychosis-
+like symptoms in two large community samples
+using an item response mixture model. Method
+An item response mixture model was used to explain
+the pattern of psychosis-like symptom endorsement.
+This model incorporated two elements. First, a continuous
+non-normal latent variable to explain the
+observed pattern of data. Second, a categorical latent
+variable to explain the variation in the continuous
+non-normal latent variable. Results For both samples,
+representing broadly and narrowly defined psychosis,
+the best fitting model was a four-class solution. In
+both cases, the classes differed quantitatively rather
+than qualitatively. Conclusions The analysis showed
+that psychosis-like symptoms at the population level
+could be best explained by four classes that appeared
+to represent an underlying continuum

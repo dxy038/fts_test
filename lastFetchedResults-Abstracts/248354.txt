@@ -1,0 +1,11 @@
+This article is devoted to the formulation and solution of general frictional contact problems in elasto-plastic
+solids undergoing large deformations using variational inequalities. An updated Lagrangian formulation is
+adopted to develop the incremental variational inequality representing this class of problems over the loading
+history. The Jaumann objective stress rate is incorporated in the formulation of the elasto-plastic constitutive
+equations to account for large rotations, while Coulomb's law is used to model the friction forces.
+The resulting variational inequality is treated using mathematical programming in association with a newly
+developed successive approximation scheme. This scheme, which is based upon the regularization of the
+frictional work, is used to impose the active contact constraints identi ed to calculate the incremental changes
+in the displacement  eld. The newly developed approach o ers the advantages of reducing the active number
+of variables which is highly desirable in non-linear elasto-plastic problems. The merits of the formulations
+are demonstrated by application to an illustrative example and to the analysis of the deep drawing process.

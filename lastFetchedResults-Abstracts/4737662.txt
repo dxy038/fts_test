@@ -1,0 +1,1 @@
+A priori knowledge can come from field measurements of bidirectional reflectance factors for various surface cover types. How to express and use this kind of knowledge is very important currently. 73 sets of field observations are used to explore the possible expression of a priori knowledge in linear kernel-driven BRDF models in this paper.

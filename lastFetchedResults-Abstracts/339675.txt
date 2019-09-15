@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DCs) play a pivotal role in the induction of immunity in response to pathogenic challenge or vaccination. As such, the fms-like tyrosine kinase 3-ligand (Flt-3L) has been used to increase DC populations in vivo, with contrasting outcomes, which include an increase in immunity, tolerance induction, or expansion of regulatory cells. This study examines the adjuvant role that human Flt-3L (hFL) administration has in generating immune responses upon immunization with a poorly immunogenic and soluble protein antigen.
+Materials and Methods
+
+Mice were immunized with the nominal antigen, ovalbumin, alone or with antigen emulsified in complete Freund's adjuvant (CFA), with or without prior hFL-mediated expansion of DC subsets. The maturation of DC subsets and activation status of antigen-specific T cells were analyzed by flow cytometry, with effector function assessed in cytolytic T-lymphocyte assays.
+Results
+
+hFL treatment expanded both conventional DC and plasmacytoid DC in vivo, resulting in increased antigen presentation by both direct and cross-presentation pathways. However, it was only in the context of CFA that antigen immunization could mature DCs and subsequently fully activate antigen-specific T cells with enhanced cytolytic activity.
+Conclusions
+
+Our studies reveal that hFL essentially acts as a coadjuvant, as hFL augments the size of an immune response but requires further adjuvant activation to alter the quality of the response.

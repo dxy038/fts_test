@@ -1,0 +1,15 @@
+This paper describes a methodology to develop the interface between a nite
+element software and optimization algorithm for optimization of concrete high arch dams.
+The objective function is the volume of the dam. The numbers of design variables are
+31 including the thickness and upstream prole of crown cantilever, thickness of the left
+and right abutments, radius of curvature of water and air faces left and right by use
+of polynomial curve tting and cubic spline function. The constraint conditions are the
+geometric shape, stress, and the stability against sliding. Initially, a program is developed
+in MATLAB in order to generate the coordinates of nodes; then, nite element software
+ANSYS is taken for modeling the geometry of dam. Finally, the optimization technique is
+performed by Simultaneous Perturbation Stochastic Approximation algorithm. To include
+dead weight of dam body, stage construction is considered. The proposed method is applied
+successfully to an arch dam and good results are achieved. The results indicate that the
+concrete volume of the optimized dam is reduced by an average of 21%. Compared with
+the initial shape, the time of convergence in this method is very short and the method is
+fairly eective. It can be applied to practical engineering design.

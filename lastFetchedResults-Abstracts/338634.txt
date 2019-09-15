@@ -1,0 +1,11 @@
+Objective
+Of various types of xenograft assays, the use of NOD/SCID mice has been the most popular method for quantitating candidate human stem cells. Limitations of the assay include low levels of engraftment, except when large numbers of cells are injected, and the development of thymic lymphoma, which precluded observation of long-term engraftment. In order to establish an assay that allows long-term in vivo engraftment and higher engraftment levels by a reasonable number of human cells, we tested a model based on “conditioned newborn” NOD/SCID or NOD/SCID/β2-microglobulinnull (BMGnull) mice.
+Materials and Methods
+
+Using human cord blood mononuclear cells, we tested various nonradiation conditioning regimens and cell injection routes. Conditioning with a combination of 5-fluorouracil (5FU) and anti-mouse c-kit blocking antibody (Ack-2) or a combination of busulfan (BU) and cyclophosphamide (CY) and the use of facial vein for the cell injection route yielded the highest levels of multilineage engraftment.
+Results
+
+At 4–5 months posttransplantation, the median of engraftment level in bone marrow with 5FU/Ack-2 and BU/CY regimens were 0.9% (range: 0.2–40.5%) and 2.1% (range: 0.3–2.4%) in NOD/SCID mice, and 11.3% (range: 0.7–38%) and 14.1% (range: 0.8–52%) in NOD/SCID/BMGnull mice, respectively. Multilineage engraftment was demonstrated by flow cytometry and by the growth of multilineage colonies in methylcellulose culture. Secondary transplantation of the isolated human CD45+ cells, also performed at 4–5 months posttransplantation, revealed engraftment at the levels of 1.5 ± 0.42% at 2 months after secondary transplantation.
+Conclusion
+
+Our assay may provide a quantitative method for analysis of human hematopoietic stem cells.

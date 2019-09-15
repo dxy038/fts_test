@@ -1,0 +1,18 @@
+This paper establishes the linearized Phillips-
+Heffron model of a power system equipped with unified
+power flow controller (UPFC) and designs the UPFC
+damping stabilizer to improve power system oscillation
+stability. The design problem is converted to an
+optimization problem with the eigenvalue-based objective
+function which is solved by the new and simple strategy
+of particle swarm optimization (PSO) algorithm called ?-
+PSO technique. Damping controller is tuned to
+simultaneously shift the undamped electromechanical
+modes to a prescribed zone in the s-plane. The
+effectiveness and performance of the proposed controller
+is demonstrated through eigenvalue analysis, nonlinear
+time-domain simulation and some performance indices
+studies. The results analysis reveals that the designed ?-
+PSO based UPFC controller tuned has an excellent
+capability in damping power system low frequency
+oscillations under different operating conditions.

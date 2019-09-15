@@ -1,0 +1,11 @@
+Objective
+This analysis was designed to estimate the cost-effectiveness of pravastatin for the primary prevention of coronary heart disease in Japan.
+Methods
+
+A state-transition model was used to compare the cost-effectiveness of pravastatin therapy with no intervention. Hypothetical cohorts were assumed according to patients' age, sex, initial serum total cholesterol (TC) levels, and other cardiac risk factors. For the baseline analysis, 20 mg/day of pravastatin was used for people aged 60 years who had an initial TC level of 240 mg/dl. Epidemiological, clinical, and economic data were collected from published articles. Incremental cost-effectiveness ratios (ICERs) in yen per quality-adjusted life year (QALY) were calculated. To confirm the effects of different variables, a sensitivity analysis was performed. The assumptions of our model were in accordance with the Japan Atherosclerosis Society Guidelines for the Diagnosis and Treatment of Atherosclerotic Cardiovascular disease.
+Results
+
+ICERs were respectively 44 million and 76 million yen/QALY for men and women at low cardiac risk (i.e., the risks of hypercholesterolemia and old age) and 7.5 million and 4.3 million yen/QALY for those at high cardiac risk (i.e., the risks of hypercholesterolemia, old age, cigarette smoking, hypertension, and hyperglycemia).
+Conclusions
+
+The cost-effectiveness of pravastatin therapy differs substantially according to the level of cardiac risk. At present, pravastatin therapy is not cost-effective for persons at low cardiac risk.

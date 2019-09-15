@@ -1,0 +1,10 @@
+This paper presents a method for evaluating investments in decentralized renewable power generation under price un certainty. The
+analysis is applicable for a client with an electricity load and a renewable resource that can be utilized for power generation. The investor
+has a deferrable opportunity to invest in one local power generating unit, with the objective to maximize the profits from the opportunity.
+Renewable electricity generation can serve local load when generation and load coincide in time, and surplus power can be exported to
+the grid. The problem is to find the price intervals and the capacity of the generator at which to invest. Results from a case with wind
+power generation for an office building suggests it is optimal to wait for higher prices than the net present value break-even price under
+price uncertainty, and that capacity choice can depend on the current market price and the price volatility. With low price volatility there
+can be more than one investment price interval for different units with intermediate waiting regions between them. High price volatility
+increases the value of the investment opportunity, and therefore makes it more attractive to postpone investment until larger units are
+profitable.

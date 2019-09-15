@@ -1,0 +1,11 @@
+A single-phase switching-mode rectifier with capacitor-clamped topology is presented to
+achieve power factor correction, eliminate current harmonic, draw a sinusoidal line current from
+the AC source and maintain the DC-link voltage constant. The proposed switching-mode rectifier
+has the capability of bidirectional power flow. Six active switches and one clamping capacitor are
+used in the rectifier to achieve the three-level pulse-width-modulated operation. A carrier-based
+current controller is adopted in the inner loop to track the reference line current. To regulate the
+DC bus voltage constant, a voltage controller based on a proportional–integral scheme is used in
+the outer loop. A voltage self-balancing technique is adopted in the control scheme to balance the
+capacitor voltages. Based on the proposed control scheme, a three-level pulse-width-modulated
+waveform is generated on the AC terminal of the rectifier. The proposed control algorithm
+illustrates its validity and effectiveness through computer simulation and experimental results.

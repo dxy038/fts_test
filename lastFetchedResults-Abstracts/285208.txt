@@ -1,0 +1,14 @@
+Objectives
+The objective of this study was to develop age-specific dosage guidelines for sotalol in children with supraventricular tachycardia (SVT) based on a population pharmacokinetic covariate analysis, clinical trial simulations, and pharmacodynamics.
+Background
+
+A rapid onset of an effective and safe antiarrhythmic sotalol therapy, especially for infants and neonates, is frequently delayed because of age-dependent interpatient variability in pharmacokinetics and pharmacodynamics.
+Methods
+
+Pediatric patients with SVT (mean age 3.51 years [range 0.03 to 17 years]) were analyzed after oral sotalol doses of 1.0 to 9.9 mg/kg/day using population pharmacokinetic analysis and clinical trial simulation (n = 76), pharmacokinetic/pharmacodynamic modeling for QT interval prolongation (n = 32), and for the concentration–antiarrhythmic-response relationship (n = 15).
+Results
+
+Inter-individual differences in oral clearance and volume of distribution could largely be attributed to size and weight differences, with an additional age effect on clearance in children younger than one year. Neonates showed a higher sensitivity toward QTc interval prolongation compared with older patients. In a subgroup of 15 patients, one-half of the patients converted into sinus rhythm at sotalol trough levels of 0.4 μg/ml and more than 95% at 1.0 μg/ml. Dosing recommendations derived for different age groups based on these findings were starting dose and target dose of 2 and 4 mg/kg/day for neonates, 3 and 6 mg/kg/day for infants and children <6 years, and 2 and 4 mg/kg/day for children >6 years.
+Conclusions
+
+This study provides an example for rational drug dosage in children that copes with interpatient variability and can be easily switched to an individually guided therapy based on effective sotalol trough levels.

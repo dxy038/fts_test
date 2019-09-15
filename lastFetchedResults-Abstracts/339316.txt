@@ -1,0 +1,11 @@
+Objective
+To identify adenosine triphosphate-binding-cassette (ABC) transporters that are selectively expressed in normal and/or leukemic CD34+CD38− stem cells.
+Methods
+
+Microarray experiments on murine stem cells identified 13 ABC transporters with a high expression level. Corresponding human transporters were analyzed in normal CD34+CD38− and CD34+CD38+ bone marrow cells by quantitative reverse transcriptase polymerase chain reaction.
+Results
+
+Five ABC transporters, including ABCG1, were differentially expressed with a higher expression in CD34+CD38− cells. Besides ABCG1, known to be involved in cholesterol metabolism, expression of another major cholesterol transporter (ABCA1), some cholesterol metabolism genes (3-hydroxy-3-methyl-glutaryl-CoA reductase, low-density lipoprotein receptor), and the transcription factor controlling ABCA1 and ABCG1 expression, liver-X-receptor-alpha (LXR-alpha), were assessed. All these genes were predominantly expressed in the more primitive subpopulation, indicating a high rate of cholesterol metabolism and transport. Conversely in acute myeloid leukemia (AML), a heterogeneous expression pattern was found consisting of a considerably higher expression of particularly LXR-alpha in CD34+ cells and a reverse expression pattern in a subset of AML CD34+CD38+ cells.
+Conclusion
+
+These data suggest an active cholesterol metabolism and efflux in normal CD34+CD38− cells, although a subgroup of AMLs potentially demonstrate a hyperactive cholesterol metabolism.

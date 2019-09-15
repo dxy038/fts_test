@@ -1,0 +1,11 @@
+Objective
+Mild cognitive impairment (MCI) patients represent an intermediary state between healthy aging and dementia. MCI activation profiles, recorded during a memory task, have been studied either through high spatial resolution or high temporal resolution techniques. However, little is known about the benefit of combining both dimensions. Here, we investigate, by means of magnetoencephalography (MEG), whether spatio-temporal profiles of neuromagnetic activity could differentiate between MCI and age-matched elderly participants.
+Methods
+Taking the advantage of the high temporal resolution and good spatial resolution of MEG, neuromagnetic activity from 15 elderly MCI patients and 20 age-matched controls was recorded during the performance of a modified version of the Sternberg paradigm.
+Results
+Behavioral performance was similar in both groups. A between group analysis revealed that MCI patients showed bilateral higher activity in the ventral pathway, in both the target and the non-target stimuli. A within-group analysis of the target stimuli, indicates a lack of asymmetry through all late latency windows in both groups.
+Conclusions
+MCI patients showed a compensatory mechanism represented by an increased bilateral activity of the ventral pathway in order to achieve a behavioral performance similar to the control group.
+Significance
+This spatio-temporal pattern of activity could be another tool to differentiate between healthy aging and MCI patients.
+

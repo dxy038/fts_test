@@ -1,0 +1,9 @@
+Objective.  Main purpose of this study was to develop a biomechanical model for the analysis of sit-to-stand movement in normal and obese subjects.
+
+Design. A biomechanical model describing sit-to-stand was developed using kinetic and kinematic experimental data. Trunk flexion, feet movement, knee and hip joint torques were assumed as sensible indexes to discriminate between normal and obese subjects.
+
+Background. Sit-to-stand is a functional task that may become difficult for certain patients. The analysis of its execution provides useful biomechanical information on the motor ability of selected subjects.
+
+Methods. Sit-to-stand was recorded using an optoelectronic system and a force platform in 40 obese patients and 10 normal subjects. A biomechanical model was developed using inverse dynamics equations.
+
+Results. Kinematic and kinetic indexes evidenced differences in motion strategy between normal and obese subjects. Obese subjects rise from the chair limiting trunk flexion (mean value: 73.1°) and moving their feet backwards from initial position (mean deviation: 50 mm). Normal subjects, instead, show a higher trunk flexion (mean value: 49.2°, a lower angular value between trunk and the horizontal means increased flexion) and fixed feet position (mean deviation: 5 mm). As for kinetics, obese patients show knee joint torque higher than hip torque (maximum knee torque: 0.75 Nm/kg; maximum hip torque: 0.59 Nm/kg), while normal subjects show opposite behaviour (maximum knee torque: 0.38 Nm/kg; maximum hip torque: 0.98 Nm/kg).

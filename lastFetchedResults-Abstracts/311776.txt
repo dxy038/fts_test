@@ -1,0 +1,11 @@
+Background
+Minimally invasive surgery has been developed to reduce incision length, muscle damage, and rehabilitation time. However, reduced exposure of anatomical landmarks may result in technical errors and inferior implant survivorship. The objective of this study was to compare in vivo motions and hip joint contact forces during gait in total hip arthroplasty subjects, performed with either minimally invasive surgery or standard surgical approaches.
+Methods
+
+Fifteen subjects implanted using either minimally invasive surgery anterolateral, minimally invasive surgery posterolateral, or traditional posterolateral total hip arthroplasty were evaluated using fluoroscopy while performing gait on a treadmill. Kinematics, obtained using 3D-to-2D image registration technique, were input as temporal functions in a 3D inverse dynamic mathematical model that determines in vivo soft tissue and hip contact forces.
+Findings
+
+The subjects implanted with posterolateral and anterolateral minimally invasive surgery demonstrated significantly less separation than those implanted with the traditional approach (P < 0.01). The minimally invasive surgery subjects also experienced lower average maximum peak forces, with 3.2 body weight for the anterolateral minimally invasive surgery and 2.9 body weight for the posterolateral minimally invasive surgery subjects, compared to 3.5 body weight for the traditional subjects (P = 0.02 and P = 0.03, respectively).
+Interpretation
+
+This is the first study to compare in vivo weight-bearing kinematics, separation and kinetics for traditional, anterolateral minimally invasive surgery and posterolateral minimally invasive surgery total hip arthroplasty subject groups. Our data indicated in all analyzed parameters differences between the minimally invasive surgery and the traditional groups, with favorable results for the minimally invasive surgery subjects. This may be related, to a reduction in stabilizing soft tissues after a minimally invasive surgery procedure, leading to lower bearing surface forces at the femoral head--acetabular cup interface.

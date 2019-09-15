@@ -1,0 +1,13 @@
+The objective of the present work is to assess the analysis capability of
+thermo-hydraulic code on the direct contact condensation in the core makeup tank (CMT)
+of passive high-pressure injection system (PHPIS) in the CARR Passive Reactor (CP-
+1300). RELAP5IMOD3.1 is chosen to evaluate the code predictability on the direct
+contact condensation in the CMT. It is found that the predictions of MOD3.1 are in
+better agreement with the experimental data than those of MOD3.0 From the nodalization
+study of the test section, the I-node model shows better agreement with the
+experimental data than the multi-node models. RELAP5IMOD3.1 identifies the flow
+regime of the test section as vertical stratification. However, the flow regime observed
+in the experiment is the subsonic jet with the bubble having the vertical cone shape. To
+accurately predict the direct contact condensation in the CMT with RELAP5IMOD3.1,
+it is essential that a new set of the interfacial heat transfer coefficients and a new flow
+regime map for direct contact condensation in the CMT be developed.

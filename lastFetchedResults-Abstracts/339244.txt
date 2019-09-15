@@ -1,0 +1,11 @@
+Objective
+Recognition of E- and P-selectins on vascular endothelium by their leukocyte glycoprotein counterreceptor P-selectin glycoprotein ligand-1 (PSGL-1) initiates and sustains leukocyte rolling, culminating in extravasation of lymphocytes from blood into organs. PSGL-1 is rendered functional by terminal glycosylation steps, which occur mainly in activated Th1 but not Th2 cells. α(1,3)Fucosyltransferases IV and VII control this glycosylation pathway. Mice lacking these transferases (Fuc-TIV−/−/Fuc-TVII−/−) lack functional E- and P-selectin ligands. We hypothesized that Fuc-TIV−/−/Fuc-TVII−/− donor T cells might have reduced capacity to roll on vessels of inflamed target tissues and mediate graft-vs-host disease (GVHD).
+Materials and Methods
+
+We compared the ability of Fuc-TIV−/−/Fuc-TVII−/− and wild-type (WT) C57BL/6 (B6) spleen cells (SPCs) to produce GVHD in lethally irradiated major histocompatibility complex (MHC) haplotype-mismatched B6D2F1 recipients. Clinical GVHD, GVHD pathology in target organs, memory phenotype conversion, proliferation of donor T cells, and tissue and serum cytokine expression were examined.
+Results
+
+Surprisingly, clinical GVHD was not reduced in lethally irradiated mice receiving full haplotype MHC mismatched or matched Fuc-TIV−/−/Fuc-TVII−/− SPCs compared to those receiving WT SPCs. GVHD pathology in target organs, memory phenotype conversion, and proliferation of donor T cells were similar in both groups. However, reduced interferon-γ was detected in liver and lung, and serum levels of tumor necrosis factor-α were higher in mice receiving Fuc-TIV−/−/Fuc-TVII−/− SPCs compared with WT SPCs.
+Conclusions
+
+These results suggest that donor T cells, including Th1, are capable of trafficking to GVHD target tissues independently of P- and E- selectin ligand in conditioned hosts.

@@ -1,0 +1,1 @@
+In this article, we study coding strategies and code optimization for bidirectional relaying using Low-Density Parity-Check codes. We attempt to achieve extreme points in the rate region using density-evolution-based optimization and a combination of nesting and shortening of codes. The proposed method with specific choice of codes achieves rates close to capacity outer bounds.

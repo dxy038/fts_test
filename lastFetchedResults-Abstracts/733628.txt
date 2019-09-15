@@ -1,0 +1,9 @@
+Objective.
+One important characteristic in physical activity research into the built environment is network connectivity, usually calculated using street networks. However, a true pedestrian network may have very different connectivity than a street network. This study, conducted in 2004, examines the difference in walkability analyses when street networks versus pedestrian networks are used for four metropolitan suburbs in Perth, Western Australia.
+Methods.
+A street network of Perth was used to represent the current standard of data for walkability analyses. Aerial photography from 2003 was used to create a pedestrian network, which incorporated pedestrian footpaths into the street network. The street and pedestrian networks were compared using three measures of connectivity: Pedsheds, link node ratio and pedestrian route directness.
+Results.
+A comparison of the results using street versus pedestrian networks showed very different outcomes for conventional neighbourhood designs. Connectivity measures for conventional neighbourhoods improved up to 120% with the addition of pedestrian networks, although traditional neighbourhoods still had slightly better connectivity values overall.
+Conclusion.
+The true pedestrian network increases the connectivity of a neighbourhood and may have significant impact on these measures, especially in neighbourhoods with conventional street designs. It is critical that future studies incorporate pedestrian networks into their analyses.
+

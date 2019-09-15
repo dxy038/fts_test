@@ -1,0 +1,1 @@
+In this paper we present a new learning method of back propagation training algorithms for neural networks. With the objective of reducing training time, we introduce a curved search method with a fixed step size for determining weight adjustments. Computational results indicate a strong potential for significant reduction in training time

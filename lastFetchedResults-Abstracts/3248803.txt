@@ -1,0 +1,1 @@
+This paper deals with objective criteria to compare conventional electric traction systems composed of a DC-DC boost converter, a Voltage Source Inverter and of a Permanent Magnet Synchronous Machine with alternative topologies such as the Z-source or Quasi Z-source inverters. Analytical expressions are given and validated by both simulation and experimental results (efficiency).

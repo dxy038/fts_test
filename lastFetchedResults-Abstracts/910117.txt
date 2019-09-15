@@ -1,0 +1,12 @@
+River basin management decisions have to be made under uncertainty. Relevant uncertainties especially in external driving forces can often
+not be sufficiently reduced. Rather than expecting to eliminate them, new management strategies should thus aim at taking them into account.
+Simulation tools can support a process of reasoning about the implications of uncertainties for the outcome of management policies in a specific
+river basin management context. Model supported scenario analysis of alternative strategies with authorities, managers and other stakeholders
+can assist in the development of new strategies. The tools provide factual knowledge on the outcome of policy options proposed as scenarios by
+the participants to the debate. The GIS-based simulation tool TUGAI has been developed to support assessment of the ecological effects of
+alternative water management strategies in the degraded Amudarya river delta. It combines a multi-objective water allocation model with simple
+models of landscape dynamics and a fuzzy based evaluation of habitat suitability for riverine Tugai forests. In this paper an example application
+of the tool for scenario analysis to illustrate the implications of uncertainty in future water supply to the delta area is demonstrated. Scenario
+analysis provides an assessment of the range and magnitude of the impact of those uncertainties on the ecological situation in the delta. The
+potential and limitations of applying simple simulation tools in participative settings for analysis and discussion of the potential impacts of
+uncertainties and development of cooping strategies are discussed.

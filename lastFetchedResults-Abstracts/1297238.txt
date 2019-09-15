@@ -1,0 +1,1 @@
+We are interested in a class of linear bilevel programs where the upper level is a linear scalar optimization problem and the lower level is a linear multi-objective optimization problem. We approach this problem via an exact penalty method. Then, we propose an algorithm illustrated by numerical examples.

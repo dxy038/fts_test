@@ -1,0 +1,11 @@
+Objective
+We have previously identified a novel circulating embryonic blood cell capable of pluripotent hematopoietic reconstitution, which may serve as a target for in utero stem cell therapy. Based on its unique biological properties and ontogenic origin, we aim to examine the ability to maintain and retrovirally transduce fetal blood (FB) reconstituting cells in ex vivo culture conditions previously optimized for pluripotent hematopoietic repopulating cells derived from later stages of human ontogeny.
+Methods
+
+FB cells were evaluated for proliferative potential, progenitor composition, and SCID-repopulating cell (SRC) capacity before and after 3 days of serum free (SF) ex vivo culture using the previously optimized growth factor conditions of SCF, Flt-3L, IL-3, IL-6, and G-CSF (GF Mix), in comparison to cultures using GF Mix + oncostatin M (OSM), or SCF + Flt-3L. We further examined the ability to retrovirally transduce FB-SRC maintained in culture using SCF + Flt-3L alone.
+Results
+
+Circulating FB-SRC could not be maintained under GF Mix conditions previously shown to sustain CB (cord blood)-SRC. Ex vivo culture with SCF + Flt-3L reduced the proliferation of primitive FB cells lacking lineage commitment markers (Lin−), but expanded FB progenitors and sustained FB-SRC compared to culture with GF Mix with and without OSM. Using SCF + Flt-3L, FB-SRC capable of multilineage reconstitution were successfully transduced, suggesting that SCF and Flt-3L are necessary and sufficient for the survival and transduction of human hematopoietic repopulating cells of embryonic origin.
+Conclusion
+
+Our study provides novel insights into the requirements of primitive FB reconstituting cells that are essential for developing in utero stem cell gene therapy protocols, and further illustrates the biological distinctiveness of FB-SRC compared to hematopoietic repopulating cells from other stages of human ontogeny.

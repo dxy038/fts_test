@@ -1,0 +1,11 @@
+Objective
+To investigate the after-effects of theta burst TMS (TBS) on cortico-muscular synchronization, and on cortico-spinal excitability, in humans.
+Methods
+We studied 10 healthy subjects using a continuous paradigm of TBS (cTBS), i.e. 600 pulses in 40 s. Before and after the cTBS, coherence function was computed as a measure of cortico-muscular synchronization by recording electroencephalogram (EEG) from 19 scalp sites and electromyogram (EMG) from right first dorsal interosseous (FDI) muscle during the isometric contraction. In a separate experiment, motor-evoked potentials (MEPs) in response to single TMS pulses were recorded from the FDI muscle before and after the cTBS, to measure cortico-spinal excitability.
+Results
+When the cTBS was applied over the left primary motor cortex (M1), the beta-band cortico-muscular coherence for the C3 scalp site, as well as the MEP amplitude significantly decreased in 30–60 min, and then recovered to the original levels in 90–120 min. Neither sham stimulation nor cTBS applied over 2 cm posterior to M1 produced significant effects.
+Conclusions
+cTBS-over-M1 can inhibit the cortico-muscular synchronization in parallel with the decline of cortico-spinal excitability.
+Significance
+Our results provide the first evidence that TBS can efficiently alter the functional cortico-muscular coupling in humans.
+

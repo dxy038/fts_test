@@ -1,0 +1,1 @@
+A multi-root node structure for dynamic multicasting is proposed to support multi-source bidirectional multicasting in IP/MPLS over WDM networks. The blocking probability of this method is studied.

@@ -1,0 +1,13 @@
+Topology optimization is used in this paper for the systematic synthesis of contact-aided compliant
+mechanisms that trace prescribed, non-smooth paths in response to a single, monotonically increasing input
+force. Intermittent contact interactions that enable these mechanisms to exhibit non-smooth responses also
+lead to algorithmic difficulties when the techniques from the synthesis of ordinary compliant mechanisms
+are used to design contact-aided compliant mechanisms. A sequential optimization approach based on
+a regularized normal contact model for large displacements is used in this work to circumvent these
+difficulties and to enable the use of computationally efficient, gradient-based optimization methods. We
+use an objective function based on Fourier shape descriptors, which allows the designer to emphasize
+different aspects of the design intent (such as the shape, the size and the orientation of the output
+path) separately. A variable-stiffness input spring is used to allow the synthesis procedure to choose the
+appropriate magnitude of the input force. An arc-length finite element solver and heuristic measures that
+guard against local and global instabilities add to the robustness of the synthesis procedure as demonstrated
+by the two design examples presented in this paper. Copyright q 2006 John Wiley & Sons, Ltd

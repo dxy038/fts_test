@@ -1,0 +1,3 @@
+A two-dimensional modelization of piezoelectric thin shells is studied in the first part of this work. The associated approximation by finite element method is analyzed and numerically illustrated in the second part of this work.
+
+Practically, these piezoelectric structures are generally used as patches or thin films bonded on, or inserted into, classical structures in order to detect or to generate some deformations, i.e., as sensors or actuators. The objective of this third part is to modelize such a type of assemblage, to analyze its associate approximation and to illustrate the relevance of this method by considering significant numerical experiments

@@ -1,0 +1,13 @@
+Monitoring of surface ozone over southern Africa has shown that ambient concentrations often exceed a threshold of 40 ppb at
+which damage to vegetation by ozone could be expected. The Cross Border Air Pollution Assessment Project (CAPIA) was therefore
+established to assess the potential impacts of ozone on maize, a staple food crop, in five southern African countries. Measured
+surface ozone data are scare in the region so it was necessary to complement the monitoring with regional-scale photochemical
+modelling to achieve the objective. The Pennsylvania State and NCAR Mesoscale Model (MM5) is used to produce gridded
+meteorological data for 5 days in each month of the maize growing season, October to April, as input to the photochemical model,
+CAMx. Gridded anthropogenic emissions from industry, transport and domestic burning and gridded biogenic emissions from soils
+and vegetation are input to CAMx. The model estimations indicate large areas on the sub-continent where surface ozone
+concentrations exceed 40 ppb for up to 10 h per day. Maximum concentrations may exceed 80 ppb, particularly in the winter when
+mean ozone concentrations are higher. The areas where the 40 ppb threshold is exceeded coincide with maize growing areas in South
+Africa and Zimbabwe. It appears that neither anthropogenic emissions nor biogenic emissions are dominant in the production of
+surface ozone over southern Africa. Rather the formation of surface ozone over the region is attributed to the combined
+contribution of precursors from anthropogenic and biogenic origin.

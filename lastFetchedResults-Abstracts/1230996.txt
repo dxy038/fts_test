@@ -1,0 +1,5 @@
+The objective of this paper was to design, manufacture and test a composite leading edge, without ribs, able to satisfy birdstrike requirements specified by certification authorities.
+
+The leading edge configuration was validated through an extensive campaign of experimental tests performed firstly on small sample to determine the mechanical properties , then through the analysis and testing of a small representative structures of the wing leading edge . The explicit finite element software MSC.Dytran® was chosen for the numerical investigation and a validated simulation methodology was developed to predict the birdstrike scenario.
+
+The evaluation of numerous birdstrike scenarios allowed an improved design efficiency and safety and led to a significant reduction of certification costs. The most important achievement was a ribless wing leading edge made of FML, aluminium and honeycomb able to satisfy the birdstrike resistance test specified by the Federal Aviation Regulation . This configuration allowed a considerable reduction in weight and manufacturing costs.

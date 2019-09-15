@@ -1,0 +1,1 @@
+Based on Lyapunov stability theory and matrix measure, this paper presents a new generic criterion of global chaotic synchronization for bidirectional coupled chaotic system with time-delay. A new chaotic system with four-scroll attractor is chosen as an example to verify the effectiveness of the criterion. Numerical simulation are shown for demonstration.

@@ -1,0 +1,9 @@
+Objective
+To determine a thrombopoietin schedule that would effectively enhance hematopoiesis and prevent death in mice after lethal myelosuppression.
+Methods
+First, we determined whether recombinant Mpl ligand (Mpl-L) has a priming effect on thrombopoiesis in normal mice. Mice were given pegylated recombinant murine Megakaryocyte Growth and Development Factor (PEG-rmMGDF) intravenously as a single injection or as two injections separated by intervals of 1 to 10 days. Second, we examined the scheduling of PEG-rmMGDF that would most effectively reduce thrombocytopenia in mice given a lethal myelosuppressive regimen (80 mg/kg carboplatin + 750 R Cs-137 total-body irradiation).
+Results
+In normal mice, peak platelet count with a 4-day to 8-day interval between PEG-rmMGDF injections was significantly higher than that with single injection. This priming effect was optimal with a 4-day interval between injections. In the lethal myelosuppression model, all mice given intravenous PEG-rmMGDF as a single injection on day 0 or as two injections (on days −4 and 0 or on days 0 and 4) survived; PEG-rmMGDF on day 0 was given immediately after the myelosuppressive regimen. In contrast, all mice given a single intravenous PEG-rmMGDF injection on day −4 or day 4 died. Two PEG-rmMGDF injections given on days −4 and 0 enhanced hematopoietic recovery more than did a single injection on day 0 or two injections on days 0 and 4.
+Conclusion
+Mpl-L administration immediately after lethal carboplatin and radiation prevents death and enhances hematopoietic recovery in mice; this protective effect is further enhanced by a priming Mpl-L dose given 4 days before the myelosuppressive regimen.
+

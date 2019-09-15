@@ -1,0 +1,11 @@
+Although many methods exist for intensity modulated radiotherapy
+(IMRT) fluence map optimization for crisp data, based on clinical practice,
+some of the involved parameters are fuzzy. In this paper, the best fluence maps
+for an IMRT procedure were identifed as a solution of an optimization problem
+with a quadratic objective function, where the prescribed target dose vector
+was fuzzy. First, a defuzzying procedure was introduced to change the fuzzy
+model of the problem into an equivalent non-fuzzy one. Since the solution
+set was nonconvex, the optimal solution was then obtained by performing a
+projection operation in applying the gradient method. Numerical simulations
+for two typical clinical cases (for prostate and head-and-neck cancers, each for
+two patients) are given.

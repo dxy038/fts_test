@@ -1,0 +1,7 @@
+The philosophy of identification by minimizing an objective function that is commensurate with the control objective function is
+called control relevant identification. The control relevant method studied in this paper minimizes a multistep ahead prediction error
+objective function, suitable for model predictive controllers, to obtain an optimal multistep ahead predictor. It is shown that the
+method described in this paper provides better designed performance of the controller. A number of properties of this method in the
+context of FIR models are presented in this paper. The noise model plays a pivotal role in determining the performance of multistep
+ahead prediction errors. A method for tuning the noise model using the proposed control relevant method is presented in this
+paper.

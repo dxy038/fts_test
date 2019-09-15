@@ -1,0 +1,11 @@
+Background
+Diabetes mellitus (DM) is predictive of increased mortality for patients with coronary artery disease (CAD). To what extent this risk extends below the diabetic threshold (fasting glucose level [FG] <126 mg/dL) is uncertain.
+Methods
+
+The study objective was to determine the risk associated with FG in a prospectively assembled cohort of 1612 patients with CAD who were undergoing percutaneous coronary intervention (PCI) and had a FG measured or a clinical diagnosis of DM (CDM). Patients were grouped as: CDM; no CDM, but FG ≥126 mg/dL (ADA-DM); impaired FG, 110–125 mg/dL (IFG); or normal FG, <110 mg/dL (NFG). Survival was assessed for 2.8 ± 1.2 years.
+Results
+
+The average patient age was 62 ± 12 years; 74% of the patients were men. Diagnostic frequencies were: CDM, 24%; ADA-DM , 18%; IFG, 19%; and NFG, 39%. Mortality rates were greater for patients in the CDM (44/394 [11.2%], P <.0001), ADA-DM (27/283 [9.5%], P <.001), and IFG (20/305 [6.6%], P = .04) groups than patients in the NFG group(12/630 [1.9%]). Independent receiver operating characteristic analysis chose FG ≥109 mg/dL as the best cutoff for increased risk (sensitivity, 81%; specificity, 51%). After adjustment with Cox regression analysis, CDM (hazard ratio [HR] = 5.0; 95% CI, 2.6–9.6; P <.001), ADA-DM (HR, 4.1; 95% CI, 2.1–8.2; P <.001), and IFG status (HR, 3.2; 95% CI, 1.5–6.5; P = .002) remained independent predictors of mortality.
+Conclusions
+
+Prognostically significant abnormalities of FG are much more prevalent (61%) than expected in patients with CAD who are undergoing PCI. Despite revascularization, the associated mortality risk of even mild elevations in FG is substantial, emphasizing the importance of early detection and treatment of glycemia-related risk.

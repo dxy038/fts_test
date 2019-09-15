@@ -1,0 +1,1 @@
+We discuss the application of the bidirectional beam propagation method for the analysis of nonlinear microstructured waveguides. We review two different formulations of the nonlinear algorithm, and demonstrate, also by comparison with experimental data taken from the literature, that the method is a valuable tool for the design of devices for second harmonic generation.

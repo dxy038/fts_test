@@ -1,0 +1,11 @@
+Objective
+It is well known that nonsteroidal anti-inflammatory drugs (NSAIDs), such as acetylsalicylic acid, ibuprofen, and indomethacin, induce anti-inflammatory effects through inhibition of cyclooxygenase enzyme activity. However, it has also been established that a variety of their anti-inflammatory effects are independent of cyclooxygenase. In the search for alternative modes of action, it was found that NSAIDs share some cellular effects with heat shock treatment. This prompted us to investigate whether NSAIDs modulate production of proinflammatory cytokines by mast cells through the heat shock response.
+Materials and Methods
+
+In mouse mast cells, derived from a culture of bone marrow cells of male BALB/cBy and null HSF-1−/− mice, responsiveness to heat shock and NSAIDs was monitored by measuring tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) production and signaling pathways.
+Results
+
+In bone marrow-derived mast cells (BMMC), we found that heat shock and a number of NSAIDs induced heat shock protein 70 (HSP70), which was closely paralleled with inhibition of IL-6 and TNF-α production. Surprisingly, in BMMC from HSF-1−/−mice, heat shock and selected NSAIDs were still able to suppress cytokine production in the absence of HSP70 induction.
+Conclusion
+
+In this article, we provide evidence that inhibition of release of proinflammatory cytokines by NSAIDs and heat shock may be attributed to inhibition of the inhibitory nuclear factor κB (NF-κB) kinase activity, extracellular signal-regulated kinases 1/2, and p38 pathways, resulting in decreased transcriptional activity of the NF-κB pathway.

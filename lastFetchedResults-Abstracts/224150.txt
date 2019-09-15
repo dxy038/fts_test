@@ -1,0 +1,18 @@
+T h e m a i n objective of this paper is to report on a newly
+developed three phase TCR model which is based on the
+use of harmonic switching vectors and discrete convolutions.
+This model is amenable to direct frequency domain
+operations and provides a fast and reliable means
+for assessing 6- and 12-pulse TCR plant performance at
+harmonic frequencies. The use of alternate time domain
+and frequency domain representations is avoided as well
+as the use of FFTs. I n this approach, each single phase
+unit of the TCR is modelled as a voltage-dependent harmonic
+Norton equivalent where all the harmonics and
+cross-couplings between harmonics are explicitly shown.
+This model is suitable for direct incorporation into the
+harmonic domain frame of reference where all the busbars,
+phases, harmonics and cross-couplings between harmonics
+are combined together for a unijied iterative solution
+through a Newton-Raphson technique exhibiting
+quadratic convergence.

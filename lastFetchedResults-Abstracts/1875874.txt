@@ -1,0 +1,13 @@
+OBJECTIVE: Describe the process of development and testing to reduce the Pulmonary Functional Status and Dyspnea Questionnaire (PFSDQ) from 164 items to a modified questionnaire (the PFSDQ-M) consisting of 40 items.
+
+: Instrument development and testing for reliability, validity, and practicality.
+
+G: Hospital-based outpatients.
+
+TS: Testing was done on three groups of clinically stable patients with chronic obstructive pulmonary disease: a secondary analysis of 131 subjects for item selection, reliability, and validity; 50 additional subjects evaluating the PFSDQ-M for internal consistency, test-retest correlations, and construct validity; and 34 subjects from a longitudinal study for responsiveness.
+
+E MEASURES: PFSDQ, PFSDQ-M, and spirometry.
+
+S: The practicality of the PFSDQ-M was supported by its sixth- to seventh-grade reading level, ease of reading (Flesch-Kincaid 69.5), self-administration, brief period for testing (7 minutes initially, 6 minutes on repeated testing), and limited missing data (&lt; 8%). Reliability of the three components was supported by internal consistency α = 0.93 for change experienced by the patient with activities (CA), 0.95 for dyspnea with activities (DA), and 0.95 for fatigue with activities (FA). Good stability of the PFSDQ-M was demonstrated on test-retest; r = 0.70 for change, 0.83 for dyspnea, and 0.79 for fatigue (with activities). The usefulness of the PFSDQ-M in discriminating between dyspnea scores in patients based on their rate of deterioration in lung function was demonstrated.
+
+SIONS: The PFSDQ was modified by reducing the number of activities evaluated, standardizing scaling formats, and adding a fatigue component. Findings suggest that the PFSDQ-M demonstrates initial reliability; good validity estimates, as seen with the factor analysis, and the dyspnea and activity scores appear responsive to physiologic changes in lung function over time.

@@ -1,0 +1,19 @@
+Objective: Micro-RNAs (miRNAs) are a class of posttranscriptional regulators that play
+crucial roles in various biological processes. Emerging evidence suggests a direct link
+between miRNAs and development of several diseases including type 2 diabetes (T2D).
+In this study, we aimed to investigate the effect of predicted miRNA and target genes on
+insulin resistance.
+Materials and Methods: This experimental study was conducted on the C2C12 cell line.
+Using bioinformatics tools miRNA-135 and two respective target genes-insulin receptor
+(Insr) and vesicle associated membrane protein 2 (Vamp2)- were selected as potential
+factors involved in insulin resistance process. Levels of glucose uptake miRNA expression
+and respective gene targets were determined after cell transfaction by miR-135.
+Results: It was determined that Insr gene expression was significantly down-regulated
+in miR-135 transfected C2C12 cell line (P?0.05). Interestingly; these transfected cells
+have shown a significant difference in glucose uptake incomparision the positive control
+cells, while it was similar to the insulin resistant cell line (P?0.05). In contrast, no significant
+alteration of Vamp2 gene expression was observed.
+Conclusion: Our data indicated no change on the Vamp2 expression level after miRNA
+transfection, while expression level of Insr was reduced and miR-135 expression
+was contrarily increased leading to poor stimulation of glucose uptake through insulin,
+and development of insulin resistance phenotype in C2C12 cell line.

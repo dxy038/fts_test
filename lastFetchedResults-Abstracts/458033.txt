@@ -1,0 +1,7 @@
+Objective
+Given the role of estrogen in the regulation of lipid metabolism, we screened for functional polymorphisms in the estrogen receptor alpha (ERα), and examined for their influence on serum cholesterol.
+Methods and results
+We identified a novel C > T polymorphism (ERNE-145), with a minor allele frequency of 41%. This polymorphism was immediately adjacent to a putative glucocorticoid receptor (GR) binding site, which we showed to be functional by electrophoretic mobility shift analysis. The C allele was associated with glucocorticoid-induced reduction in promoter activity compared to control in luciferase reporter studies (p < 0.05; n = 7). This effect was abolished by the T allele. To investigate the functional significance of ERNE-145, its association with serum cholesterol levels was examined in 1662 post-menopausal women enrolled in the RUTH trial. ERNE-145 genotype (p = 0.001), BMI (p < 0.001), diabetes mellitus (p < 0.001), and ethnicity (p = 0.002) were significantly associated with HDL cholesterol. ERNE-145 genotype explained 8.2% of the variability of HDL: each copy of the variant T allele was associated with a 0.041 mmol/L (CI 0.017–0.066) increase in HDL.
+Conclusion
+A novel polymorphism upstream of ERα abolished negative transcriptional regulation by an adjacent GR binding sequence, and was strongly associated with HDL levels in a large cohort of post-menopausal women.
+

@@ -1,0 +1,1 @@
+This article represents static random access memory (SRAM) elements library, SRAM blocks automatic design method, SRAM and library generators, method of automatic synthesis of library elements layout. The main objective of this work is increase of SRAM blocks operation speed and efficiency of chip area used.

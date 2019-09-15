@@ -1,0 +1,11 @@
+Objective
+Vascular endothelial growth factor (VEGF) interacts with two high-affinity receptor tyrosine kinases (RTK) on vascular endothelium to initiate complementary but disparate biologic responses. We previously reported that acute myeloid leukemia (AML) cells express VEGF and one or both VEGF-A receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2). To evaluate receptor-selective trophic response to VEGF-A in AML cells, we investigated receptor-specific ligand activation responsible for VEGF-initiated clonogenic response.
+Materials and methods
+
+Using KG1 (VEGFR-1+/VEGFR-2+) and HL60 (VEGFR-1+) cells with differential VEGF receptor display, we investigated ligand-induced clonogenic response and receptor-initiated signaling after stimulation with VEGF-A, the VEGFR-1 selective ligand placental growth factor (PlGF), or receptor-specific antibody agonists.
+Results
+
+Recombinant human (rhu)-VEGF increased S-phase fraction and stimulated colony formation in both KG1 and HL60 cells. Ligation of VEGFR-1 or VEGFR-2 with receptor-specific antibody agonists triggered equivalent and concentration-dependent stimulation of colony recovery in KG1 cells, whereas clonogenic response in HL60 cells was restricted to VEGFR-1 activation by antibody or PlGF. In serum-deprived KG1 and HL60 cells, rhu-VEGF stimulated rapid and sustained phosphorylation of Akt/PKB that was inhibited by the phosphatidyl inositol 3-kinase (PI3-K) kinase inhibitor wortmannin. Preincubation with wortmannin inhibited VEGF-induced colony formation in a concentration-dependent fashion. rhu-VEGF–induced clonogenic response and Akt phosphorylation was abolished by the VEGF-RTK inhibitor SU-5416 at concentrations greater than 10 μM, whereas MEK inhibition by PD98059 (1 and 10 μM) was ineffective. In vivo suppression of Akt phosphorylation was confirmed in myeloblast lysates from three patients with advanced myeloid malignancies treated with SU5416.
+Conclusion
+
+These data indicate that VEGF interaction with either VEGFR-1 or VEGFR-2 initiates a clonogenic response in AML cells that is PI3-kinase dependent. RTK inhibitors with broad specificity for angiogenic receptors represent novel therapeutics that merit further clinical investigation in AML.

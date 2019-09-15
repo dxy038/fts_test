@@ -1,0 +1,1 @@
+We experimentally demonstrate a 1.25 Gb/s wavelength-to-the-user full-duplex PON with bidirectional operation on a single WDM channel. A polarization-independent intradyne coherent receiver alleviates the impact of in-band reflections, allowing to tolerate 35 dB loss in the Optical Distribution Network.

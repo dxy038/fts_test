@@ -1,0 +1,1 @@
+We propose and investigate a new systematic switching control design method applicable to a class of nonlinear discrete time hybrid systems. The main objective of this paper is to present a systematic algebraic approach to stabilizability analysis for the systems

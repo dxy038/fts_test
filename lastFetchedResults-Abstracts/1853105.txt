@@ -1,0 +1,8 @@
+Objective
+is an ongoing research effort devoted to characterize the signal regularity metrics approximate entropy (ApEn) and sample entropy (SampEn) in order to better interpret their results in the context of biomedical signal analysis. Along with this line, this paper addresses the influence of abnormal spikes (impulses) on ApEn and SampEn measurements.
+s
+of test signals consisting of generic synthetic signals, simulated biomedical signals, and real RR records was created. These test signals were corrupted by randomly generated spikes. ApEn and SampEn were computed for all the signals under different spike probabilities and for 100 realizations.
+s
+fect of the presence of spikes on ApEn and SampEn is different for test signals with narrowband line spectra and test signals that are better modeled as broadband random processes. In the first case, the presence of extrinsic spikes in the signal results in an ApEn and SampEn increase. In the second case, it results in an entropy decrease. For real RR records, the presence of spikes, often due to QRS detection errors, also results in an entropy decrease.
+sions
+ndings demonstrate that both ApEn and SampEn are very sensitive to the presence of spikes. Abnormal spikes should be removed, if possible, from signals before computing ApEn or SampEn. Otherwise, the results can lead to misunderstandings or misclassification of the signal regularity.

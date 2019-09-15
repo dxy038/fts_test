@@ -1,0 +1,1 @@
+A brief review is given about audio processing techniques that are based on auditory models with an emphasis on applications of the "Oldenburg perception model", i.e., objective assessment of subjective sound quality for speech and audio codecs, automatic speech recognition, SNR estimation, and hearing aids.

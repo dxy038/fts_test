@@ -1,0 +1,16 @@
+Use of Computerized Surveillance to Detect Nosocomial Pneumonia in Neonatal Intensive Care Unit (NICU) Patients  
+Pages E5-E6
+J. Haas*, E. A. Mendonca, C. Friedman, E. Larson
+Close Close preview  |   Purchase PDF (58 K)   |   Related articles  |  Related reference work articles
+AbstractAbstract
+Abstract
+BACKGROUND: Nosocomial pneumonia is the most difficult infection in terms of surveillance. The definition is complicated, and there are many opportunities for subjective divergence of opinions in determining infection status. In addition, this surveillance is extremely time-consuming for infection control practitioners (ICPs).
+
+OBJECTIVE: To compare traditional ICP surveillance for pneumonia among neonates in a level-IV neonatal intensive care unit (NICU) with computerized surveillance of chest X-ray reports using a natural language processor (NLP).
+
+METHODS: A NLP program was used to retrospectively evaluate 7928 chest X-rays from 1688 neonates in a NICU over a 2-year period (March 1, 2001–January 31, 2003). The computer program indicated which infants had pneumonia according to a set of rules derived from the National Nosocomial Infection Surveillance System (NNIS) definition as they apply to radiology reports. Data from the NLP system were compared to pneumonia data that had been collected prospectively by an ICP using the NNIS definition during the same period.
+
+RESULTS: Sensitivity of the computerized surveillance was 88%, and specificity was 94% compared with the ICP. However, the positive predictive value (PPV) was low (7.3%).
+
+CONCLUSION: The NLP methodology has the potential to extract valuable data from text reports. The PPV may be improved by refining the rules used to define pneumonia within the NLP program. If this can be accomplished, computerized surveillance may be an efficient methodology to augment surveillance in the NICU setting.
+

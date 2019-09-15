@@ -1,0 +1,5 @@
+The sequential ordering problem is a version of the asymmetric travelling salesman problem where precedence constraints on vertices are imposed. A tour is feasible if these constraints are respected, and the objective is to find a feasible solution with minimum cost.
+The sequential ordering problem models many real-world applications, mainly in the fields of transportation and production planning.
+A problem manipulation technique to be used in conjunction with heuristic algorithms is discussed. The aim of the technique is to make the search space associated with each problem more attractive for the underlying heuristic algorithms.
+This novel methodology is tested in combination with the state-of-the-art method for the sequential ordering problem. Improved results are obtained, particularly for the largest problems considered.
+

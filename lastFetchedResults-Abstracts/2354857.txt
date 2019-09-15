@@ -1,0 +1,18 @@
+This paper presents a study of the dynamic behavior of joining hybrid parts, stainless
+steel and aluminum alloy, by MIG welding. The objective is to analyze the effect of
+welding on dissimilar plates of stainless steel and aluminum. A finite element model of
+joining stainless steel and aluminum alloy by welding was built using a structural threedimensional
+(3D) solid modeling element. Impact testing using hammer excitation and
+accelerometer response measuring techniques was conducted to measure the vibration
+properties of the hybrid parts. The natural frequency and the mode shape graph from
+experimental modal analysis were then compared with the results that were obtained
+from finite elements (FE) and showed good agreement. Joining welding gives effect to
+dynamic properties (mode shape) of modal analysis, especially mode 1,3 (bending
+pattern) and mode 4 (second twisting). The results show significant points about the
+effect of MIG welding of dissimilar plate in terms of their dynamic properties compared
+to welding of the same material. Through comparison of the simulation results and the
+experimental measurements, it can be assumed that, besides the welding-brazing
+process, other key manufacturing processes such as cladding, buttering and heat
+treatment should also be taken into account to accurately predict the dynamic properties
+in the whole range of dissimilar metal joining.
+

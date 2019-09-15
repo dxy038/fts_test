@@ -1,0 +1,11 @@
+Objective
+To examine pre-attentive acoustic change detection in schizophrenia patients with and without auditory hallucinations via mismatch negativity (MMN) extracted from a multi-feature paradigm.
+Methods
+This study examined the electroencephalograph (EEG)-derived MMN, recorded across 32 sites, in 12 hallucinating patients (HPs) with schizophrenia, 12 non-hallucinating patients (NPs) with schizophrenia and 12 healthy controls (HCs). MMN was recorded in response to a multi-feature MMN paradigm [Näätänen, R., et al., 2004. The mismatch negativity (MMN): towards the optimal paradigm. Clin. Neurophys. 115, 140–144] which employs frequency, duration, intensity, location and gap deviants. Differences in source localization were probed using standardized low resolution brain electromagnetic tomography (sLORETA).
+Results
+HPs showed significantly smaller MMNs to duration deviants compared to HCs and NPs, as well as smaller MMNs to intensity deviants compared to HCs. Regionalized differences between HCs and each of the patient groups were observed in response to frequency deviants. There were no significant group effects for location or gap deviants, or for MMN latency. Source localization using sLORETA showed no significant differences in MMN generator location across groups for any of the deviant stimuli.
+Conclusions
+The often-reported robust MMN deficit to duration deviants may be specific to schizophrenia patients afflicted with auditory hallucinations. Furthermore, by using symptom-specific groups, novel deficits of pre-attentive auditory processing, such as that observed to intensity deviants in HPs, may be revealed.
+Significance
+The differential responding observed between both groups of patients with schizophrenia has implications for automatic processing within the auditory cortex of hallucinating patients and suggests that care must be taken when recruiting participants in studies involving schizophrenia to ensure consistent, replicable results.
+

@@ -1,0 +1,25 @@
+Generation Expansion Planning (GEP) is one
+of the most important decision-making activities to
+determine the optimal strategy to plan the construction of
+new generation plants. Originally, GEP was faced by
+vertically integrated utilities with the aim of minimizing
+production and capital costs. After deregulation,
+generation companies were forced to consider GEP from
+the viewpoint of market shares and financial risk. In
+recent years, increasing concern for environmental
+protection has driven many countries all over the world to
+promote energy generation from renewable sources.
+Multifarious incentive-based support schemes have been
+designed to promote the investment in power generation
+exploiting renewable resources. In this paper, regarding
+the environmental issues, the impact of one of the most
+popular incentive systems, namely feed-in-tariff, on
+generation planning is considered, thus obtaining a
+comprehensive GEP model with a suitably modified
+objective function and additional constraints. The
+resulting problem is solved by gravitational search
+algorithm based on the Newton’s law of gravity and mass
+interactions. Analysis reveals that the implementation of
+incentive policies has remarkable impacts on investment
+decisions of generation companies in renewable resources
+and environmental issues.

@@ -1,0 +1,18 @@
+ISO tank containers are used to transport bulk liquids by road, rail and sea. The tank itself is designed using ASME regulations, while the frame designs have evolved through experience. The primary area of concern is the attachment of the tank to the frame as this does not lend itself to analysis using traditional mechanics. The design objective is to reduce the overall weight of the container, thereby allowing greater payloads, as the total laden weight of the container is controlled. Traditionally containers have been built and then tested statically, but there is now a growing emphasis on the dynamic behaviour of the tank, particularly with the ISO introduction of a compulsory dynamic impact test.
+
+This paper discusses the finite element modelling of the tank container, statically and dynamically, for road and rail conditions. The static conditions are modelled using the implicit solver in ANSYS 5.6, and the dynamic conditions are modelled using the ANSYS pre-processor and LSDYNA explicit solver. Using the FEA results a new modular tank and frame was designed and built. This tank was then tested in France according to Llyods certification standards. The results from these tests were used to validate and refine the computer model.
+
+The paper will discuss the following aspects of the project:
+
+•
+
+    Static modelling of the tank and support structure and verification of the model using, static load data gathered from prototype testing.
+•
+
+    Crash test methods and mathematical modelling.
+•
+
+    Dynamic FEA modelling to simulate a standard ISO crash test and verification of the model by comparison with SNCF crash test results obtained from the prototype.
+•
+
+    Design modifications to improve the tank performance during impact.

@@ -1,0 +1,32 @@
+Fracture mechanics concepts are applied to gain some understanding of the hierarchical
+nanocomposite structures of hard biological tissues such as bone, tooth and shells. At the most elementary
+level of structural hierarchy, bone and bone-like materials exhibit a generic structure on the
+nanometer length scale consisting of hard mineral platelets arranged in a parallel staggered pattern
+in a soft protein matrix. The discussions in this paper are organized around the following questions:
+(1) The length scale question: why is nanoscale important to biological materials? (2) The stiffness
+question: how does nature create a stiff composite containing a high volume fraction of a soft material?
+(3) The toughness question: how does nature build a tough composite containing a high volume
+fraction of a brittle material? (4) The strength question: how does nature balance the widely different
+strengths of protein and mineral? (5) The optimization question: Can the generic nanostructure
+of bone and bone-like materials be understood from a structural optimization point of view? If so,
+what is being optimized? What is the objective function? (6) The buckling question: how does nature
+prevent the slender mineral platelets in bone from buckling under compression? (7) The hierarchy
+question: why does nature always design hierarchical structures? What is the role of structural hierarchy?
+A complete analysis of these questions taking into account the full biological complexities is far
+beyond the scope of this paper. The intention here is only to illustrate some of the basic mechanical
+design principles of bone-like materials using simple analytical and numerical models. With this objective
+in mind, the length scale question is addressed based on the principle of flaw tolerance which,
+in analogy with related concepts in fracture mechanics, indicates that the nanometer size makes the
+normally brittle mineral crystals insensitive to cracks-like flaws. Below a critical size on the nanometer
+length scale, the mineral crystals fail no longer by propagation of pre-existing cracks, but by
+uniform rupture near their limiting strength. The robust design of bone-like materials against brittle
+fracture provides an interesting analogy between Darwinian competition for survivability and engineering
+design for notch insensitivity. The follow-up analysis with respect to the questions on stiffness,
+strength, toughness, stability and optimization of the biological nanostructure provides further
+insights into the basic design principles of bone and bone-like materials. The staggered nanostructure
+is shown to be an optimized structure with the hard mineral crystals providing structural rigidity
+and the soft protein matrix dissipating fracture energy. Finally, the question on structural hierarchy
+is discussed via a model hierarchical material consisting of multiple levels of self-similar composite
+structures mimicking the nanostructure of bone. We show that the resulting “fractal bone”, a model
+hierarchical material with different properties at different length scales, can be designed to tolerate
+crack-like flaws of multiple length scales.

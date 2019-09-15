@@ -1,0 +1,9 @@
+Objective
+The aim of this study was to investigate how the tumor suppressor protein p16INK4A interferes with growth and differentiation of leukemic U-937 cells.
+Materials and Methods
+U-937 clones constantly overexpressing the cyclin-dependent kinase inhibitor p16INK4A were established. Clones transfected with empty vector were used as controls. The effects of high-level expression of p16INK4A on proliferation and cell cycle progression were investigated (cell cycle distribution, proliferation rate, analyses of different cell cycle regulatory proteins). The effect of introduction of p16INK4A on capacity for induced differentiation, assayed by capacity to reduce nitroblue tetrazolium, was determined.
+Results
+Overexpressed p16INK4A protein was active as judged by its ability to bind to CDK-4 in a coimmunoprecipitation assay. Clones overexpressing p16INK4A grew slower than controls, without any apparent effects on the phosphorylation status of the retinoblastoma protein (pRb). Instead, p16INK4A overexpression affected the phosphorylation status of pRb-related pocket protein p130, which was detected in its growth-restraining hypophosphorylated form. Despite an enhanced tendency to accumulate in G0/G1, p16INK4A-overexpressing cells were less sensitive to induction of differentiation with vitamin D3 or ATRA than control cells.
+Conclusions
+Constitutive expression of p16INK4A in U-937 cells resulted in decreased proliferation as a result of activated p130 rather than pRb. Also, we showed that introduction of p16INK4A into U-937 cells impaired their capacity to differentiate. Moreover, the results support the notion that cell differentiation and cell cycle progression are dissociated and independently regulated processes.
+

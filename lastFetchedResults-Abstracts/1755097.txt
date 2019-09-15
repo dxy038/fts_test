@@ -1,0 +1,8 @@
+Objective
+eport measures of health status predict mortality in several groups of patients with cardiovascular disease, although overlap with symptoms of depression may reduce or eliminate this relationship. The association between self-reported health status and mortality has not been examined in patients hospitalized for acute coronary syndrome (ACS). The objective was to investigate whether the Physical Component Summary (PCS) and Mental Component Summary (MCS) scores of the SF-12 predicted 12-month all-cause mortality after controlling for cardiac risk factors and symptoms of depression.
+s
+-12 and Beck Depression Inventory were administered 2–5 days after admission to 800 ACS patients from 12 coronary care units. Logistic regression was used to assess the relationship of the PCS and MCS with mortality 12 months later, controlling for age, sex, cardiac diagnosis (acute myocardial infarction vs. unstable angina), Killip class, history of myocardial infarction, and in-hospital depressive symptoms.
+s
+scores on the SF-12 PCS (worse health) were associated with a significantly higher risk of mortality [odds ratio (OR)=0.94, 95% confidence interval (CI)=0.92–0.97, P&lt;.001]. MCS scores failed to reach significance (OR=0.98, CI=0.95–1.00, P=.053). The PCS significantly predicted mortality even after controlling for other cardiac risk factors and depressive symptoms (OR=0.96, CI=0.93–0.99, P=.008), equivalent to a 34% increase in risk per 10-point (1 SD) decrement in PCS scores.
+sion
+ief SF-12 PCS presents an attractive option for improving risk stratification among hospitalized ACS patients.

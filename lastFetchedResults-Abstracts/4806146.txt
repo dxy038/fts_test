@@ -1,0 +1,1 @@
+The objective of this paper is to describe two parallel algorithms, one in the frequency and the other in the time domain, both of which have been designed for solving large problems on parallel computing platforms.

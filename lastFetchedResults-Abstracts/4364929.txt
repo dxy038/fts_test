@@ -1,0 +1,1 @@
+Traditionally, predictive control is understood to rely on accurate predictions in order to give good control. Here it is shown that in fact one can bypass the prediction model altogether and go straight to an implicit model which represents the parameters of the objective function to be minimised. This is demonstrated to have significant advantages

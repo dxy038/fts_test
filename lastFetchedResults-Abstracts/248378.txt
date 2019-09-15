@@ -1,0 +1,14 @@
+Computational experiments are carried out in three-dimensional, multi-Þbre specimens with the objective of
+determining the inßuence of Þbre volume fraction (/) and aspect ratio (a3 ) on the e¤ective tensile modulus of
+aligned, discontinuous Þbre-reinforced composites. The Boundary Element Method (BEM), implemented
+on a 1840-node Intel Paragon parallel supercomputer using a torus-wrap mapping, enables the prediction of
+the tensile behaviour of composite specimens consisting of up to 200 discrete aligned short Þbres, randomly
+dispersed in an elastic matrix. Statistical averages of the computed e¤ective longitudinal moduli are
+compared with the predictions of the HalpinÐTsai equation and are found to be in good agreement for low
+values of a3 and /. However, as a3 and/or / increase, the predictions of the HalpinÐTsai equation fall below
+the computed moduli. Consideration of the Þnite packing e¦ciency of the Þbres as proposed by Lewis and
+Nielsen results in a generalized form of the HalpinÐTsai equation whose predictions are in very good
+agreement with the BEM calculations for the entire range of / and a3 examined. The scatter in the computed
+moduli decreases with increasing number of Þbres, reßecting the ÔhomogenizationÕ of the specimen brought
+about by consideration of larger numbers of smaller Þbres. This scatter grows with increasing / and a3 ,
+reßecting an increase in the magnitude and complexity of inter-Þbre interactions

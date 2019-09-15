@@ -1,0 +1,11 @@
+Objective
+Attachment to bone marrow (BM) stromal cells is crucial for the normal growth and development of B-cell progenitors (pro-B). However, the molecular mechanisms by which contact facilitates the proliferation of pro-B cells are not completely understood. This study was performed to investigate this interaction.
+Materials and Methods
+
+A model pro-B cell line (Reh) and a human BM stromal cell line (KM102) were used. Flow cytomery was used for cell cycle analysis. Western Blotting and immunoprecipitation were utilized to examine the levels of cyclin-dependent kinase (cdk) and p27Kip1.
+Results
+
+Attachment to both KM102 and normal BM stromal cells significantly promoted the growth of Reh cells. Pretreatment of Reh cells with anti-integrin β1 or α5 monoclonal antibody (mAb), but not α4 or ICAM-1 mAb, abrogated this enhancement of proliferation. Furthermore, stroma attachment resulted in shortening of the G1 phase of cell cycle, significant increases cdk2 activity, degradation of cdk inhibitor p27-GST protein, and decrease in levels of p27Kip1 protein. In addition, solid-phase cross-linking of α5 via immobilized antibody also resulted in extracellular signal-regulated (ERK)-2 kinase phosphorylation, increase in cdk2 activity, decrease in levels of p27Kip1 protein, and enhanced proliferation that was inhibited by treatment with PD98059, a specific ERK inhibitor.
+Conclusion
+
+Integrin α5β1-mediated stroma contact promotes the proliferation of B-cell progenitors through the activation of ERK-2, which in turn modulates cell cycle regulation machinery including induction of cdk2 activity and degradation of p27Kip1 and contributing to acceleration of the G1 phase of cell cycle progression.

@@ -1,0 +1,1 @@
+This paper describes a model for calculating the value of spectrum used for bidirectional communications and applies it to calculate the value of spectrum allocated to 3G mobile communications and WiMAX. Then the calculated values are compared with the results of some recent auctions for the same bands to check their validity. An analysis is then made.

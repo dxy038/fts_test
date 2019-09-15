@@ -1,0 +1,1 @@
+The Hilbert transform relates the real and the imaginary parts of the transfer function of a causal system. The objective of this paper is to illustrate how the Hilbert transform relationship can be utilized to interpolate/extrapolate measured frequency domain responses of devices. Sample numerical examples are presented to illustrate the efficacy of this method.

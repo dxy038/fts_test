@@ -1,0 +1,11 @@
+Objective
+An activating somatic mutation of Janus kinase 2 V617F (JAK2V617F) is present in most polycythemia vera (PV) patients. We studied efficacy of two potent tyrosine kinase inhibitors (TKI), AEE788 and AMN107, in vitro on cells bearing this mutation.
+Materials and Methods
+
+We employed reporter cells expressing wild-type JAK2 and mutant JAK2V617F, human erythroleukemic cells (HEL) carrying JAK2V617F to study the efficacy of these TKIs by cell proliferation assay, Annexin-V/propidium iodide staining, and on relevant cell-signaling and apoptotic events. These data were compared to ex vivo expanded native human erythroid PV progenitor cells grown in liquid cultures.
+Results
+
+AEE788 showed a time- and dose-dependent growth inhibitory effect that was greater in FDCP cells expressing JAK2V617F and HEL cells than in cells expressing wild-type JAK2. AEE788 caused dephosphorylation of Akt(S243) and signal transducer and activator of transcription 5(Y694) proteins, increase in Annexin-V binding and caspase-3 cleavage, suggesting induction of apoptosis. We also observed AEE788-mediated decrease in heat shock protein 70 and 90 antiapoptotic proteins. Similarly, native PV erythroid progenitors showed more sensitivity to AEE788 than normal erythroid progenitors. AEE788 also exerted dose-dependent inhibition of PV-specific erythroid colonies. Nilotinib (AMN107) however, lacked specificity and required high (>8 μM) concentrations to inhibit growth of JAK2V617F-carrying cells.
+Conclusion
+
+Our data suggest that AEE788 exerts its apoptotic activity via downregulation of proliferative and antiapoptotic regulatory proteins. To our knowledge, this is the first report demonstrating the effect of AEE788 on PV erythroid progenitors. Differential effects on PV and normal progenitor cells suggest AEE788 has potential in the treatment of PV and other JAK2V617F positive hematologic malignancies.

@@ -1,0 +1,8 @@
+Objective: The passage of ionizing radiation in living cells creates clusters of damaged nucleotides in DNA. In this study, DNA strand breaks induced by the beta particle of iodine-
+131 (I-131), have been determined experimentally and compared to Monte Carlo simulation results as a theoretical method of determining131I damage.
+Materials and Methods: In this experimental study, in order to create single strand breaks (SSB) and double strand breaks (DSB) in the DNA, glioblastoma (GBM) cells were exposed
+to 10 mCi I-131, at a dose of 2 Gy. Damage of irradiated cells were evaluated quantitatively by the Fast Micromethod assay. The energy spectrum of electrons released in cells were obtained by the macroscopic Monte Carlo code (MCNP4c) and used as an input of the micro Monte Carlo code (MCDS). The percent of damage induced in cells was analyzed by Mann-Whitney test.
+Results: A significant reduction (p < 0.05) in fluorescence intensity in irradiated cells compared
+to control cells as determined by the Fast Micromethod assay represented induced SSB and DSB damages in the DNA of irradiated cells. Comparison of experimental and theoretical results showed that the difference between the percentages of SSB per Gy was about 7.4% and DSB was about 1% per Gy.
+Conclusion: The differences in experimental and theoretical results may be due to the algorithm of applied codes. Since the Fast Micromethod and other experimental techniques
+do not provide information about the amount of detailed and complex damages of DNA-like base damages, the applied Monte Carlo codes, due to their capability to predict the amount of detailed damages that occur in the DNA of irradiated cells, can be used in in vitro experiments and radiation protection areas.

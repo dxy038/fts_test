@@ -1,0 +1,12 @@
+By the newly emerging radio access technologies, we face the new
+heterogeneous network environment. Focusing on the co-existence of multiple
+access networks and the complex service combinations, the wireless service operators
+should guarantee good quality of services for every user. Thus, the service
+operators build a new operation framework which combines the existing networks
+and newly adopted ones. Our objective is finding the optimal heterogeneous network
+operation framework. We suggest the market-based marginal cost function for
+evaluating the relative value of resources for each network and develop a whole new
+heterogeneous network operation framework. To prove the applicability of the
+proposed operation framework, we build a large-scale JAVA simulator. We can
+easily test the various service scenarios in heterogeneous network environment by
+the simulator

@@ -1,0 +1,11 @@
+Objective. To examine biomechanics of the human spine under a novel compression loading that follows the curvature of the spine.
+
+Design. The detailed response of the spine is predicted and compared under various types of compression loading at different postures.
+
+Background. The posture and loading configuration could be so adjusted as to increase load-bearing capacity and stability of the spine in compression while minimizing the muscle activity and risk of tissue injury.
+
+Methods. The nonlinear finite element formulation of wrapping elements sliding over solid body edges is developed and used to study the load-bearing capacity of simplified beam-rigid body thoracolumbar (T1–S1) and lumbosacral (L1–S1) spines under a wrapping compression force. The load-bearing and stress analysis of a detailed model of the lumbar spine, L1–S1, is also investigated under five wrapping loads resulting in differential compression forces at various levels. Follower load at L1, axially fixed compression at L1, and combined axially fixed compression and moments load are also considered for comparison. For the detailed model, the effect of changes in the position of wrapping elements and in the lumbar curvature on results are considered.
+
+Results. The idealized wrapping loading stiffens the spine, allowing it to carry very large compression loads without hypermobility. It diminishes local segmental shear forces and moments as well as tissue stresses.
+
+Conclusions. In comparison to fixed axial compression, the compression loading by wrapping elements that follow the spinal curvatures increases the load-bearing capacity in compression and provides a greater margin of safety against both instability and tissue injury.

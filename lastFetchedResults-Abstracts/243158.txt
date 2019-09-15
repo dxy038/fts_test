@@ -1,0 +1,5 @@
+A liquid injected in a fluidized bed may spread on the bed particles, increasing their cohesivity and reducing the bed fluidity. The liquid may also result in the formation of wet agglomerates that settle at the bottom of the bed. The objective of this work was to use easily obtained dynamic pressure signals to quantify the bed fluidity and the formation of large wet agglomerates, with specific reference to fluid coking reactors.
+Operating the fluid cokers at reduced temperatures increases liquid product yield and reduces sulphur oxide emissions. However, lower temperatures may lead to a wetter bed and consequently, local zones of poor mixing and/or local defluidization, with detrimental effects on reactor performance and stability.
+The bed fluidity was quantified from the dynamic pressure measurements, using the W statistic. The experimental results obtained in both a laboratory column and a large hot pilot plant validated this method.
+The formation of wet agglomerates was quantified by combining dynamic pressure and bed deaeration measurements.
+

@@ -1,0 +1,11 @@
+The urban air quality strongly depends on the weather conditions. When unfavorable weather conditions are forecasted, it is desirable to
+reduce a certain amount of pollutant emissions to maintain a given level of air quality. In this paper, we propose and demonstrate a new approach
+to find the optimal reduction, and we contribute to the methodology of decision support of short-term emission control. This approach is based
+on weather forecasts and state-of-the-art 3-dimensional numerical air-quality prediction models by solving an optimal control problem with the
+emission cuts as the control variables. The objective of the optimal problem is to minimize the total cost due to the emission cuts, subject to
+feasibility constraints, system-governing model constraints, and target constraints. When a high-resolution numerical model is used as the state
+constraint, the problem can become a very high dimensional one. A practical approach to solving this problem with high dimension is proposed,
+based on the adjoint technique.
+The proposed approach is demonstrated with two computational test cases in Jinan, China for the control of sulfur dioxide. The results show
+the capability and computational efficiency of the method and suggest a promising potential for emission planning applications based on weather
+forecasts.

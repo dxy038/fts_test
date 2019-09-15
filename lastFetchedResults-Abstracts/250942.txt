@@ -1,0 +1,9 @@
+The problem of damage identification in framed structures using vibrational data is considered. The
+identification problem is modelled as an optimization task and the use of measured natural frequencies as
+well as modeshape information in the construction of objective functions is discussed. In a first attempt,
+a standard genetic algorithm is shown to be ineffective in obtaining the correct damage distribution in
+test problems. Using domain knowledge, modifications are introduced in the coding process, in the initial
+population generation, in the fitness function, and in the genetic operators, leading to a promising tool to
+solve this class of problems. Synthetic problems, with the addition of noise in the simulated measured
+data associated with the damaged structure, are analysed in order to assess the capability of the proposed
+technique. Copyright q 2006 John Wiley & Sons, Ltd

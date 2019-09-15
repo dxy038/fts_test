@@ -1,0 +1,14 @@
+The UIE/IEC flicker characteristics of a three-phase
+power system which includes resistance welders are evaluated in
+this paper. Welder operation produces cyclic flicker which leads to
+customer complaints. An adaptive var compensator (AVC) has
+been installed to reduce flicker. In order to investigate the effectiveness
+of the AVC and to set the stage for the analysis of alternative
+control strategies, a detailed computer model of the given system,
+including the AVC, has been developed. The model also includes a
+simulation of the UIE/IEC flickermeter to determine the effectiveness
+of the AVC in an objective manner. The simulated system
+response is compared with actual system measurements revealing
+excellent agreement. The modeling methodology set forth provides
+an efficient and convenient means of evaluating complex flicker
+resulting in a simple measure of human irritability.

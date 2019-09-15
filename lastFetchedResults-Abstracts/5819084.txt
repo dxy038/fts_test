@@ -1,0 +1,1 @@
+The optimal production control problem of deterministic pull flow lines with multiple part types is considered in this paper. The last machine is assumed to be the bottleneck. The objective is to minimize the total inventory and backlog costs over time. We give an optimal production policy and its computational complexity

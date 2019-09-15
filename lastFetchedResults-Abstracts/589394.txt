@@ -1,0 +1,8 @@
+Background and Objective: Proliferation and apoptosis of lymphocytes are essential parts of the immune system. Most anti-cancer chemotherapy drugs such as vincristine target cell cycle and induce apoptosis in cancer cells. In other words, dividing cells undergo more apoptosis, which may also include the normal proliferating lymphocytes responsive to malignancies as well. 
+
+Materials and Methods: In this study, the effect of different concentration of vincristine at three different time periods on resting and proliferating spleen lymphocytes were evaluated and compared with the effect of the drug on mouse lymphoma cell line BCL1. The cytotoxicity of vincristine was determined by MTT assay and IC50 was calculated for all periods. The cells were also stained with double staining acridine orange and ethidium bromide and were observed with fluorescence microscope and the percentage of apoptotic cells were determined. 
+
+Results: MTT results showed that vincristine at concentrations of 10 and 20 ?g/ml caused cell death in both resting and proliferating lymphocytes, but concentrations < 5 ?g/ml did not show any significant cytotoxic effect, while concentrations of 2 and 5 ?g/ml showed significant cytotoxic effect on BCL1 cells. The percentage of the apoptotic cells which were affected by different concentrations of the drug was proportional in the two methods, i.e. fluorescence microscope and MTT assay.
+
+Conclusion: Vincristine has a strong cytotoxic effect in tumor cells and its toxic effect in normal cells is highly dependent on time and the activation of the cells.
+

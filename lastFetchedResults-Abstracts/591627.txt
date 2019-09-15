@@ -1,0 +1,9 @@
+There are varieties of QFD combination forms available that can help management to choose
+the right model for his/her types of problem. The proposed MOCC-QFD-FMEA model is a right
+model to include variety of objectives as well as the risk factors into the model of the problem. Due to
+the fact that the model also takes into consideration the concept of Fuzzy set, it further allows
+management the flexibility in his/her modeling as well as decision making. The mathematical models
+presented in this article demonstrate the process of development of the equivalent deterministic form
+of chance constrained programming for the QFD and FMEA combined systems. The final model
+presented is a linear multi-objective goal programming problem that can be solved by a linear goal
+programming program.

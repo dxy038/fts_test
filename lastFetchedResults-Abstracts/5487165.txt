@@ -1,0 +1,1 @@
+Vehicle to grid (V2G) power transfer has been under research for more than a decade because of the large energy reserve of an electric vehicle battery and the potential of thousands of these connected to the grid. In this study a complete analysis of the front end inverter of a non-isolated bidirectional EV/PHEV charger capable of V2G reactive power compensation is presented.

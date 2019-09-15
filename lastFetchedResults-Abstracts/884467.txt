@@ -1,0 +1,17 @@
+The irradiation experiment HFR-EU1bis was performed by the European Commission's Joint Research Centre-Institute for Energy (JRC-IE) in the HFR Petten to test five spherical High Temperature Reactor (HTR) fuel pebbles of former German production with TRISO coated particles for their potential for very high temperature performance and high burn-up. The irradiation started on 9 September 2004 and was terminated on 18 October 2005 after 10 reactor cycles totaling 249 efpd and a maximum burn-up of 11.07% FIMA.
+
+The objective of the HFR-EU1bis test was to irradiate five HTR fuel pebbles at conditions beyond the characteristics of current HTR reactor designs with pebble bed cores, e.g. HTR-Modul, HTR-10 and PMBR. This should demonstrate that pebble bed HTRs are capable of enhanced performance in terms of sustainability (further increased power conversion efficiency, better use of fuel) and thus reduced waste production. The central temperature of all pebbles was kept as closely as possible at 1250 °C and held constant during the entire irradiation, with the exception of HFR downtime and power transients. This is the expected maximum central fuel temperature of a pebble bed VHTR with a coolant outlet temperature of 1000 °C.
+
+HFR-EU1bis should demonstrate the feasibility of low coated particle failure fractions under normal operating conditions and more specifically:
+
+•
+
+    increased central fuel temperature of 1250 °C compared to 1000–1200 °C in earlier irradiation tests;
+•
+
+    irradiation to a burn-up close to 16% FIMA, which is double the license limit of the HTR-Modul; due to a neutronics data processing error, the experiment was prematurely terminated at 11.07% FIMA maximum so that this objective was not fully achieved;
+•
+
+    confirmation of low coated particle failure fractions due to temperature, burn-up and neutron fluence.
+
+This paper provides the irradiation history of the experiment including data on fission gas release. Post-irradiation examinations at NRG Petten and JRC-ITU Karlsruhe included the verification of the received neutron fluences, burn-up and spectrum. They will be followed shortly by safety-relevant heating tests at JRC-ITU to verify fission product retention by out-of-pile heating tests beyond 1600 °C.

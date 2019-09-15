@@ -1,0 +1,10 @@
+In this paper, a pair of nondifferentiable multiobjective programming problems is first formulated,
+where each of the objective functions contains a support function of a compact convex set in Rn.
+For a differentiable function h:Rn × Rn → R, we introduce the definitions of the higher-order
+F-convexity (F-pseudo-convexity, F-quasi-convexity) of function f :Rn → R with respect to h.
+When F and h are taken certain appropriate transformations, all known other generalized invexity,
+such as η-invexity, type I invexity and higher-order type I invexity, can be put into the category of the
+higher-order F-invex functions. Under these the higher-order F-convexity assumptions, we prove
+the higher-order weak, higher-order strong and higher-order converse duality theorems related to a
+properly efficient solution.
+ 2003 Elsevier Inc. All rights reserved.

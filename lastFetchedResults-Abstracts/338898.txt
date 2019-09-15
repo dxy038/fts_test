@@ -1,0 +1,11 @@
+Objective
+Cytokines bind high-affinity receptors expressed on hematopoietic cells to initiate signaling cascades that regulate differentiation, proliferation, and survival. Previous studies have established a role for STAT5 in transducing survival signals for hematopoietic progenitor cells in response to cytokines.
+Materials and methods
+
+To determine if constitutive expression of a member of the bcl-2 family of anti-apoptotic proteins could compensate for the loss of STAT5, we utilized combinatorial genetics to generate STAT5A/5B-deficient mice expressing a bcl-2 transgene.
+Results
+
+Although bcl-2 expression restored peripheral blood counts to normal in STAT5A/5B−/− mice, we noted a striking failure of this transgene to correct defects in hematopoietic stem and progenitor cells.
+Conclusion
+
+These data imply important effects of STAT5 in modulating hematopoietic cells in addition to promoting survival per se.

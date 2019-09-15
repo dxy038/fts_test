@@ -1,0 +1,1 @@
+The log-utility fairness problem in CDMA systems is tackled by a new technique - the theory of majorization. Showing that the objective function is strictly Schur concave, we reduce the dimension of the problem to one. After this reduction, we show that the problem has a monotonic property and thus can be solved efficiently by bisection search.

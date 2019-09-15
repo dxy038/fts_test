@@ -1,0 +1,1 @@
+Electromigration is a major source of wire and via failure. Refueling undoes EM for bidirectional wires and power/ground grids-some of a chip´s most vulnerable wires. Refueling exploits EM´s self-healing effect by balancing the amount of current flowing in both directions of a wire. It can significantly extend a wire´s lifetime while reducing the chip area devoted to wires.

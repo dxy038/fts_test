@@ -1,0 +1,1 @@
+In this paper, we develop a risk measure based on the concepts of &#8220;duality&#8221;. The measure is defined on the domain of &#8220;gambles&#8221;: random variables g with some negative values. It is positively homogeneous, continuous, subadditive, and respects first- and second-order stochastic dominance. Our measure is objective and gives extra weight to losses.

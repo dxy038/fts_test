@@ -1,0 +1,1 @@
+A multi-objective discrete-time control design method for systems subject to both white noise and bounded-power disturbance signals is developed through &#8459;<sub>2</sub>/&#8459;<sub>&#8734;</sub> characterization. Sufficient and necessary conditions are proved and the resulting output-feedback controller is characterized by a set of cross-coupled Riccati equations.

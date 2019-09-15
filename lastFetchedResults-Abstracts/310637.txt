@@ -1,0 +1,11 @@
+Objective. To evaluate the efficiency of a central rod system in the treatment of scoliosis.
+
+Design. Biomechanical testing and finite element analysis were performed to compare the stiffness and stress distribution of the central rod system with the Cotrel-Dubousset instrumentation.
+
+Background. During the fixation and derotation processes in the treatment of scoliosis, the Cotrel-Dubousset instrumentation concentrates unilateral stress on the vertebral elements. It may be possible to cause severe injury to the bony tissues especially in the ostaeoporotic patients. A central rod system was developed to reduce the damage to the bony tissue of the vertebrae in the treatment of scoliosis.
+
+Methods. Mechanical non-destructive cyclical tests comparing the compression, flexion, extension and torsional stiffness were carried out on the models of the central rod system and Cotrel-Dubousset instrumentation using a 858 Bionix test system. The stress distribution on the central rod, the Cotrel-Dubousset rod and a vertebral model consisting in four vertebrae each implanted with two screws was evaluated using a general purpose finite element software ANSYS R 5.0a. The SOLID73 element was employed for three-dimensional modelling.
+
+Results. Although the central rod system was found to have lower values in the compression, flexion and extension stiffness, its torsional stiffness is comparable to the Cotrel-Dubousset instrumentation. Moreover, the stability of the new design is satisfactory. Finite element analysis indicates that the maximum equivalent stress on the vertebral model with the central rod system is relatively constant.
+
+Conclusions. The central rod system consists of a central rod which applies fixation and derotation through a connector between the screws on both sides of the vertebral column. This new design can not only prevent the effect of unilateral stress concentration, but is also simpler and easier to implant. However, it is necessary to strengthen the material of the rod or the connection between the rod and the screws.

@@ -1,0 +1,16 @@
+The objective of this paper is applying the well-known exact
+operational matrices (EOMs) idea for solving the Emden-Fowler
+equations, illustrating the superiority of EOMs over ordinary
+operational matrices (OOMs). Up to now, a few studies have been
+conducted on EOMs ; but the solved differential equations did not
+have high-degree nonlinearity and the reported results could not
+strongly show the excellence of this new method. So, we chose
+Emden-Fowler type differential equations and solved them utilizing
+this method. To confirm the accuracy of the new method and to show
+the preeminence of EOMs over OOMs, the norm 1 of the residual and
+error function for both methods are evaluated for multiple $m$
+values, where $m$ is the degree of the Bernstein polynomials. We
+report the results by some plots to illustrate the error
+convergence of both methods to zero and also to show the primacy
+of the new method versus OOMs. The obtained results demonstrate
+the increased accuracy of the new ‎method.‎

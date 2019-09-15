@@ -1,0 +1,1 @@
+In this work, we propose a step up that combines a long focal lens L with a microscope objective lens (MO). A phase SLM positioned in the focal plane of the lens is illuminated by the Gaussian femtosecond beam. The modulation depth of the SLM introduces a bias that has to be filtered. Thus, we add to the cubic phase term a linear phase modulation directly onto the SLM.

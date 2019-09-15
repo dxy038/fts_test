@@ -1,0 +1,11 @@
+Objective
+The objectives of this work were: (i) to evaluate the relevance for clinical studies of repetitive transcranial magnetic stimulation (rTMS) investigations on rats, (ii) to investigate the occurrence of DNA damage in rat brain cells following rTMS under conditions similar to those used in clinical treatment of depression.
+Methods
+Rats were exposed to 2000 magnetic pulses at 100% of motor threshold (MT). Software, written to take detailed anatomical and conductivity data into account, was used to map current density in the rat brain. A method was developed for standardizing magnetic pulse efficacy to facilitate comparison with other rTMS studies. Genotoxicity was explored using the alkaline comet assay on rat brain cells, measuring Olive moment and %DNA in the tail.
+Results
+The current density was ca. 6.6 A/m2 in the motor cortex at MT (Motor Cortex Threshold Densities: MCTDs), 5.2 A/m2 in the brain (range 0–17 A/m2), and 2.0 A/m2 at prefrontal cortex. Similar standard MCTDs were found in rats and humans. Concerning the comet assay, both Olive moment and %DNA in the tail, there was no statistically-significant difference between rTMS-exposed and sham-exposed brain cell samples. In contrast, significant increases in both parameters were detected in positive controls.
+Conclusions
+Under the assumptions developed in the discussion, these data showed no evidence that the standard current density at motor threshold in human motor cortex would differ from that in rats. Furthermore, there was no evidence of DNA damage in rat brain cells following a single scheme of rTMS, under conditions similar to the clinical treatment of depression.
+Significance
+This study supports the use of rats as a model for studying the bioeffects of rTMS (molecular targets, action mechanisms, toxicology, etc.) and suggests that a single rTMS scheme, similar to that used daily in the treatment of depression, is not genotoxic.
+

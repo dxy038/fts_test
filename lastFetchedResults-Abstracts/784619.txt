@@ -1,0 +1,16 @@
+Objective: This project was designed to follow-up prior evidence that demonstrated a significant
+association between vitamin B12 transport and metabolism and the frailty syndrome in community-dwelling older
+women. The cross-sectional relationship between genetic variants within six candidate genes along this pathway
+with serum methylmalonic acid (MMA) levels and frailty was evaluated in this same population of older women.
+Methods: Baseline measures were collected prior to folate fortification from 326 women in the Women’s Health
+and Aging Studies I and II. Odds ratios and statistical tests were estimated for single SNP and haplotype via
+linear regression models for serum MMA, a marker for available vitamin B12, and in logistic regression models
+for frailty. Results: Fifty-six SNPs from CBS, MTHFR, MTR, MTRR, TCN1 and TCN2 genes were genotyped.
+Several SNPs in MTHFR, MTR and MTRR demonstrated a modest association to elevated MMA, while SNPs in
+TCN2 showed significant association to the frailty syndrome. TCN2 polymorphisms, particularly one SNP
+reported to be in perfect LD with functional variant Pro259Arg, were significantly associated with increased odds
+of frailty, after adjustment for age, presence of cardiovascular disease and elevated MMA (OR = 2.25, p-value =
+0.009). Conclusions: Using MMA as a marker for vitamin B12, these results suggest that TCN2 gene variants
+may lead to decreased vitamin B12 availability, leading to reduced energy metabolism, ultimately contributing to
+frailty pathology. Further studies to determine the biological role of functional TCN2 polymorphisms in frailty
+are needed.

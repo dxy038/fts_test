@@ -1,0 +1,11 @@
+Objective
+The objective of this study was the development and evaluation of nonlinear electroencephalography parameters which assess hypoxia-induced EEG alterations, and describe the temporal characteristics of different hypoxic levels’ residual effect upon the brain electrical activity.
+Methods
+Multichannel EEG, pO2, pCO2, ECG, and respiration measurements were recorded from 10 subjects exposed to three experimental conditions (100% oxygen, hypoxia, recovery) at three-levels of reduced barometric pressure. The mean spectral power of EEG under each session and altitude were estimated for the standard bands. Approximate Entropy (ApEn) of EEG segments was calculated, and the ApEn’s time-courses were smoothed by a moving average filter. On the smoothed diagrams, parameters were defined.
+Results
+A significant increase in total power and power of theta and alpha bands was observed during hypoxia. Visual interpretation of ApEn time-courses revealed a characteristic pattern (decreasing during hypoxia and recovering after oxygen re-administration). The introduced qEEG parameters S1 and K1 distinguished successfully the three hypoxic conditions.
+Conclusions
+The introduced parameters based on ApEn time-courses are assessing reliably and effectively the different hypoxic levels. ApEn decrease may be explained by neurons’ functional isolation due to hypoxia since decreased complexity corresponds to greater autonomy of components, although this interpretation should be further supported by electrocorticographic animal studies.
+Significance
+The introduced qEEG parameters seem to be appropriate for assessing the hypoxia-related neurophysiological state of patients in the hyperbaric chambers in the treatment of decompression sickness, carbon dioxide poisoning, and mountaineering.
+

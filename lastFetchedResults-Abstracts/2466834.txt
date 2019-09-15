@@ -1,0 +1,10 @@
+Context
+re evolvability describes a software system’s ability to easily accommodate future changes. It is a fundamental characteristic for making strategic decisions, and increasing economic value of software. For long-lived systems, there is a need to address evolvability explicitly during the entire software lifecycle in order to prolong the productive lifetime of software systems. For this reason, many research studies have been proposed in this area both by researchers and industry practitioners. These studies comprise a spectrum of particular techniques and practices, covering various activities in software lifecycle. However, no systematic review has been conducted previously to provide an extensive overview of software architecture evolvability research.
+ive
+s work, we present such a systematic review of architecting for software evolvability. The objective of this review is to obtain an overview of the existing approaches in analyzing and improving software evolvability at architectural level, and investigate impacts on research and practice.
+
+entification of the primary studies in this review was based on a pre-defined search strategy and a multi-step selection process.
+s
+on research topics in these studies, we have identified five main categories of themes: (i) techniques supporting quality consideration during software architecture design, (ii) architectural quality evaluation, (iii) economic valuation, (iv) architectural knowledge management, and (v) modeling techniques. A comprehensive overview of these categories and related studies is presented.
+sion
+ndings of this review also reveal suggestions for further research and practice, such as (i) it is necessary to establish a theoretical foundation for software evolution research due to the fact that the expertise in this area is still built on the basis of case studies instead of generalized knowledge; (ii) it is necessary to combine appropriate techniques to address the multifaceted perspectives of software evolvability due to the fact that each technique has its specific focus and context for which it is appropriate in the entire software lifecycle.

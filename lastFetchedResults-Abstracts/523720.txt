@@ -1,0 +1,10 @@
+The objective of this research is to develop nonlinear constitutive models for performance evaluation of masonry
+members on the basis of continuum model and fixed smeared crack approach. The finite element program called
+"WCOMD", which has basically been developed for modeling and analyzing the reinforced concrete, is used as
+the basis for modeling and analyzing in this paper. Constitutive laws and yield criteria according to the available
+experimental results on masonry panels are improved, so that it would have the capability of modeling nonlinear
+anisotropic behavior of masonry. The post-cracking behavior of masonry in direction normal to the crack
+(tension softening) is calculated according to crack band theory and in terms of fracture energy and element size
+in finite element. Also, the effect of cracking on compression behavior of masonry is considered on the basis of
+compression field theory. The validity of behavior models and analysis methods is measured via analyzing
+available experimental results in field of masonry panels and masonry walls.

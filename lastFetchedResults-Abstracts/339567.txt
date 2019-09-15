@@ -1,0 +1,11 @@
+Objective
+CD23 is constitutively and atypically expressed on malignant B cells in patients with chronic lymphocytic leukemia (B-CLL). Here, we investigated whether CD23-derived peptides might function as B-CLL-specific tumor-associated antigen (TAA).
+Patients and Methods
+
+Using IFN-γ-ELISPOT assays and HLA-A2/dimer-peptide staining we identified autologous, CD23-specific HLA-A0201-restricted T cells after 4 weeks of in vitro culture.
+Results
+
+We were able to expand autologous T cells from 8/11 B-CLL patients by using native and CD40L-activated B-CLL cells as antigen-presenting cells (APCs) in 5 cases whereas for 3 samples an autologous T cell response could only be evoked by use of CD40L-stimulated B-CLL cells as APCs. The number of CD8+ T cells could be expanded during 4 weeks of in vitro culture with native or CD40L-activated B-CLL cells. We could demonstrate that the expanded T cells were also able to secrete IFN-γ upon recognition of the antigen using IFN-γ-ELISPOT assays. Furthermore, these T cells not only recognized HLA-A0201-binding CD23-derived peptides presented by T2 cells, but also CD23-overexpressing autologous B-CLL cells in an MHC-I-restricted manner.
+Conclusion
+
+In sum, CD23-derived peptides were shown to be naturally processed and presented as TAA in primary B-CLL, enabling the expansion of autologous tumor-specific T cells.

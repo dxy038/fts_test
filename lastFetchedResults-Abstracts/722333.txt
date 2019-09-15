@@ -1,0 +1,15 @@
+Transportation of hazardous materials plays a significant role in economic activities in developing
+as well as developed countries because of the need of industrial plants to these materials. In many
+cases, production plants of hazardous materials are far from the consumers, where transportation
+of materials affects the safety of the people involved. In this paper, besides minimizing the cost of
+related transportation, reduction of accident probability as minimizing the risk of hazardous materials
+transportation, is also considered. The importance of required time for materials delivery is
+another main objective. The above issue is categorized in a vehicle routing problem with time windows
+(VRPTW). In this paper, a new multi-objective mathematical model is presented and solved
+by the use of a well-known evolutionary algorithm, NSGA-II. Related computational results are
+compared by results of Lingo software using the ?-constraint method in small-sized test problems.
+A number of numerical investigations to evaluate the quality of solution sets versus time in large
+sizes are performed on various test instances. Results obtained by NSGA-II were compared based
+on two comparison metrics, namely spacing and quantity, in order to show the efficiency of the
+proposed NSGA-II. Finally, a real-case study was considered for shipping the Chlorine gas capsules
+from the Water & Wastewater Company to municipal water treatment facilities in Tehran.

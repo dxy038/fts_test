@@ -1,0 +1,9 @@
+Study objective
+We assess the effects of nearby hospital closures and other hospital characteristics on emergency department (ED) ambulance diversion.
+Methods
+The study design was a retrospective, multiple interrupted time series with control group. We studied all ambulance-receiving hospitals with EDs in Los Angeles County from 1998 to 2004. The main outcome measure was monthly ambulance diversion hours because of ED saturation.
+Results
+Our sample included 80 hospitals, of which 9 closed during the study period. There were increasing monthly diversion hours over time, from an average of 57 hours (95% confidence interval [CI] 51 to 63 hours) in 1998 to 190 hours (95% CI 180 to 200 hours) in 2004. In multivariate modeling, hospital closure increased ambulance monthly diversion hours by an average of 56 hours (95% CI 28 to 84 hours) for 4 months at the nearest ED. County-operated hospitals had 150 hours (95% CI 90 to 200 hours) and trauma centers had 48 hours (95% CI 9 to 87 hours) more diversion than other hospitals. Diversion hours for a given facility were positively correlated with diversion hours of the nearest ED (0.3; 95% CI 0.28 to 0.32). There was a significant and positive interaction between diversion hours of the nearest ED and time, suggesting that the effects of an adjacent facility’s diversion hours increased during the study period.
+Conclusion
+Hospital closure was associated with a significant but transient increase in ambulance diversion for the nearest ED. The temporal trend toward more diversion hours, as well as increasing effects of the nearest facility’s diversion hours over time, implies that the capacity to absorb future hospital closures is declining.
+

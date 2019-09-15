@@ -1,0 +1,1 @@
+We analyze the operation of the MAC layer of an IEEE 802.15.4 compliant network cluster in the beacon enabled mode with bidirectional traffic. We identify certain issues in the standard that lead to serious performance limitations, and suggest some simple modifications of the coordinator function that allows the network to handle higher traffic loads

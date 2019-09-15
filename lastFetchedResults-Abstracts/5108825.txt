@@ -1,0 +1,1 @@
+Bidirectional associative memory (BAM) models are two-layer heteroassociative networks. In this paper, conditions for the existence of equilibrium points, boundedness of trajectories, global stability are emphatically discussed for BAM with axonal signal transmission delays

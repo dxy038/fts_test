@@ -1,0 +1,8 @@
+Objective:
+l methodology has been developed to evaluate regional alterations in arterial wall material properties with induced atheroma in an animal model.
+s:
+matous lesions (fatty, fibro-fatty, and fibrous) were induced in the carotid arteries of a Yucatan miniswine model by endothelial cell denudation and high cholesterol diet. The images at base line and 8 weeks after denudation were obtained using intravascular ultrasound (IVUS) imaging along with hemodynamic data. Finite element analysis (FEA) along with optimization was employed to assess regional alterations in elastic modulus in the presence of atheroma confirmed by histology.
+s:
+mals with 8 weeks of induced atherosclerosis, the elastic modulus increased—(elastic modulus—all values × 104 Pa, mean ± S.D.) normal elements (9.34 ± 0.36) compared to abnormal elements (9.52 ± 0.36) (p &lt; 0.05 versus normal elements). Wall thickness increased with atheroma formation. These data demonstrate stiffening vascular wall elastic modulus with lesion progression. This is different from the behavior of femoral arteries, where the elastic modulus decreases with early stages of atheroma development followed by an increase as lesions progress.
+sions:
+ethodology permits determination of areas with early atheroma development, follow atheroma progression, and potentially evaluate interventions aimed at decreasing atheroma load and normalizing vascular material properties.

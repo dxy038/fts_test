@@ -1,0 +1,1 @@
+Highlights the role of the dual Youla parameterization in identification for control, when the Youla parameters are used for control design. The well known Hansen scheme is first modified in order to estimate the Youla parameters separately. The modification naturally arises when the ultimate objective of the identification is to use these estimates directly for control design

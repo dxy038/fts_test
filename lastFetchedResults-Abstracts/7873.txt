@@ -1,0 +1,1 @@
+We study a shift scheduling problem for call centers with an overall service level objective. We prove a property of this problem, called multimodularity, that ensures that a local search algorithm terminates with a globally optimal solution. We report on computations performed using real call center data.

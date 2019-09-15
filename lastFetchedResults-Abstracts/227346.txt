@@ -1,0 +1,15 @@
+A rather simple ROM-based current
+controller is proposed for a three-phase boosttype
+AC/DC converter to achieve a clean
+sinusoidal input current, controllable power
+factor, an adjustable DC voltage, a bidirectional
+power flow capability, a fixed switching frequency
+and one insensitive to input voltage distortion.
+Three control schemes are proposed and
+integrated in the same controller. As well as the
+basic scheme, there are a further two choices for
+either reducing almost half the switch loss or
+enhancing the availability of the converter, while
+one arm of the converter fails. A prototype is
+constructed, and experimental results validate the
+simulated results.

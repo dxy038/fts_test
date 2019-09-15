@@ -1,0 +1,17 @@
+Objective.
+To measure the mechanical energy changes of the centre of gravity (CG) of the body in the forward, lateral and vertical direction during normal level walking at intermediate and low speeds.
+Design.
+
+Eight healthy adults performed successive walks at speeds ranging from 0.25 to 1.75 m s−1 over a dedicated force platform system.
+Background.
+
+In previous studies, it was shown that the motion of the CG during gait can be altered more than the motion of individual segments. However, more detailed normative data are needed for clinical analysis.
+Methods.
+
+The positive work done during the step to accelerate the body CG in the forward direction, Wf, to lift it, Wv, to accelerate it in the lateral direction, Wl, and the actual work done by the muscles to maintain its motion with respect to the ground (‘external’ work), Wext, were measured. This allowed the calculation of the pendulum-like transfer between gravitational potential energy and kinetic energy of the CG, (percentage recovery, R). At the optimal speed of about 1.3 m s−1, this transfer allows saving of as much as 65% of the muscular work which would have been otherwise needed to keep the body in motion with respect to the ground. The distance covered by the CG at each step either forward (step length, Sl), or vertically (vertical displacement, Sv) was also recorded.
+Results.
+
+Wl was, as a median, only 1.6–5.9% of Wext. This ratio was higher, the lower the speed. At each step, Wext is needed to sustain two distinct increments of the total mechanical enegy of the CG, Etot. The increment a takes place during the double stance phase; the increment b takes place during the single stance phase. Both of these increments increased with speed. Over the speed range analyzed, the power spent to to sustain the a increment was 2.8–3.9 times higher than the power spent to sustain the b increment.
+Relevance
+
+From previous work, comparable data were available only for the CG motion in the sagittal plane, for speeds higher than 0.42 ms−1, and the components a and b of Wext have not been measued separately. Results thus widen the normative data available for comparisons with findings from pathological gaits.

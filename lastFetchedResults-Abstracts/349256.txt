@@ -1,0 +1,11 @@
+Objective
+Periinfarct depolarisation and spreading depression represent key mechanisms of neuronal injury after stroke. Changes in cortical electrical potentials and magnetic fields in the very low frequency range are relevant parameters to characterize these events, which up to now have only been recorded invasively. In this study, we proved whether a non-invasive combined MEG/EEG recording technique is able to quantitatively monitor cortical infraslow activity in humans.
+Methods
+We used repetitive very slow and slow right finger movements as a physiological motor activation paradigm to induce cortical infraslow activity. Infraslow fields were recorded over the left hemisphere using a modulation-based MEG technique. EEG was performed using 16 standard Ag-Cl electrodes that covered the left motor cortex.
+Results
+We recorded stable focal motor-related infraslow magnetic field changes in seven out of seven subjects. We also found correlating infraslow electrical potential changes in three out of seven subjects. Slow finger movements generated significantly stronger field and potential changes than very slow movements.
+Conclusions
+This study demonstrates the technical feasibility of combined non-invasive electrical potential and magnetic field measurements to localize and quantitatively monitor physiological, low amplitude, infraslow cortical activity in humans. This specific combination of simultaneous recording techniques allows to benefit from the specific physical advantages of each method.
+Significance
+This combined non-invasive MEG–EEG methodology is able to provide important information on infraslow neuronal activity originating from tangentially and radially oriented sources. Moreover, this dual approach has the potential to separate neuronal from non-neuronal DC-sources, e.g., radially to the head orientated DC-currents across the skin/scalp/skull/dura occurring during cerebral hypercapnia or hypoxia.
+

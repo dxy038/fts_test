@@ -1,0 +1,10 @@
+Context
+on distributed intelligent system architecture is Multi Agent Systems (MASs). Creating systems with this architecture has been recently supported by Agent Oriented Software Engineering (AOSE) methodologies. But two questions remain: how do we determine the suitability of a MAS implementation for a particular problem? And can this be determined without AOSE expertise?
+ive
+the relatively small number of software engineers that are AOSE experts, many problems that could be better solved with a MAS system are solved using more commonly known but not necessarily as suitable development approaches (e.g. object-oriented). The paper aims to empower software engineers, who are not necessarily AOSE experts, in deciding whether or not they should advocate the use of an MAS technology for a given project.
+
+per will construct a systematic framework to identify key criteria in a problem requirement definition to assess the suitability of a MAS solution. The criteria are first identified using an iterative process. The features are initially identified from MAS implementations, and then validated against related work. This is followed by a statistical analysis of 25 problems that characterise agent-oriented solutions previously developed to group features into key criteria.
+s
+iteria were sufficiently prominent using factor analysis to construct a framework which provides a process that identifies within the requirements the criteria discovered. This framework is then evaluated for assessing suitability of a MAS architecture, by non-AOSE experts, on two real world problems: an electricity market simulation and a financial accounting system.
+sion
+tuting a software engineer’s personal inclination to (or not to) use a MAS, our framework provides an objective mechanism. It can supplant current practices where the decision to use a MAS architecture for a given problem remains an informal process. It was successfully illustrated on two real world problems to assess the suitability of a MAS implementation. This paper will potentially facilitate the take up of MAS technology.

@@ -1,0 +1,1 @@
+We study interleaved core assignment for bidirectional transmission in multi-core fibers. By combining it with heterogeneous core structure in an 18-core fiber, the transmission distance is extended by 10 times compared to homogeneous core structure with unidirectional transmission, achieving a total capacity of 1 Pb/s per direction.

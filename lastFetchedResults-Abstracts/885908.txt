@@ -1,0 +1,3 @@
+Our objective is to derive stable first-, second- and fourth-order artificial dissipation operators for node based finite volume schemes. Of particular interest are general unstructured grids where the strength of the finite volume method is fully utilised.
+
+A commonly used finite volume approximation of the Laplacian will be the basis in the construction of the artificial dissipation. Both a homogeneous dissipation acting in all directions with equal strength and a modification that allows different amount of dissipation in different directions are derived. Stability and accuracy of the new operators are proved and the theoretical results are supported by numerical computations.

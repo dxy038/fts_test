@@ -1,0 +1,8 @@
+Background and Objective: Predicting municipal solid waste generation has an important role in solid waste management. The aim of this study was to predict municipal solid waste generation in Isfahan through time series method and system dynamics modeling.
+
+Materials and Methods: Verified data of solid waste generation was collected from Waste Management Organization and population information was collected from the National Statistics Center, Iran for the period 1996-2011. Next, the effect of&nbsp;&nbsp; factors on solid waste generation such as population, urbanization, gross domestic product was investigated. Moreover, the relationship between each of these factors was identified using generalized estimating equation &nbsp;model. Finally, the quantity of the solid waste generated in Isfahan city was predicted using system dynamics modeling by Vensim software and time series method by ARMA technique.
+
+Results: It was found that population and gross domestic product have a significant relationship with the amount of solid waste with P value 0.026 and 0 respectively. The annual average of municipal solid waste generation would be 1501.4 ton/day in 2021 estimated by the time series method and 1436 ton/day estimated by the system dynamics modeling. In addition, average annual growth rate achieved was 3.44%.
+
+Conclusion: According to the results obtained, population and gross domestic product have a significant effect on MSW generation. Municipal solid waste generation will increase in future. Increasing solid waste is not the same in different areas and methods. The prediction of the time series method by ARMA technique gives precise results compared with other methods.
+

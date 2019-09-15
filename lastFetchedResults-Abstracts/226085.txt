@@ -1,0 +1,8 @@
+In this work the operation of an industrial semi-batch reactor is optimized. In the reactor a strongly exothermic polymerization
+reaction takes place and the objective is to minimize the duration of the batch time. Various operational as well as quality and
+safety related constraints have to be met during the batch and at its ®nal time. In particular, a cooling system failure is taken into
+account explicitly since the temperature rise in this case must not exceed a corresponding limit. The optimization is based on a
+detailed process model derived from ®rst principles. A reduced model is developed for optimization and trajectories for the opera-
+tional variables feed ¯owrate and reactor temperature are calculated. The results show that signi®cant reductions of the batch time
+are possible and that their extent depend on the formulated safety constraints. For a selected case the obtained optimal trajectories
+are veri®ed experimentally in laboratory and production scale.

@@ -1,0 +1,8 @@
+We consider resource allocation scheduling with learning effect in which the processing time of a job is a
+function of its position in a sequence and its resource allocation. The objective is to find the optimal
+sequence of jobs and the optimal resource allocation separately. We concentrate on two goals separately,
+namely, minimizing a cost function containing makespan, total completion time, total absolute differences
+in completion times and total resource cost; minimizing a cost function containing makespan, total
+waiting time, total absolute differences in waiting times and total resource cost. We analyse the problem
+with two different processing time functions. For each combination of these, we provide a polynomial
+time algorithm to find the optimal job sequence and resource allocation.

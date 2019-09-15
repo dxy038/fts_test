@@ -1,0 +1,11 @@
+Objective
+Increased consideration of dental ceramics and dental cements as a singular structural unit for in-vitro mechanical testing has resulted in the reporting of a wide range of analytical methods to calculate the failure stresses. Therefore a comparison of observations between studies is complicated by the use of dissimilar stress solutions despite the employment of a similar testing methodology and specimen geometry.
+Materials and methods
+
+Three analytical solutions to calculate failure stresses in bi-axially loaded dental ceramic–dental cement bilayers were appraised for a commonly utilized testing geometry (ball-on-ring). Clinically relevant datasets were generated from the bi-axial flexure testing of uncoated and dental cement coated aluminous core ceramic exposed to differing ceramic surface preparations. A Weibull statistical approach was utilized in order to provide insight into the impact of the analytical method on both the scale (σ0) and distribution (m) of the failure stress data.
+Results
+
+Calculation of the bi-axial flexure stress utilizing Timoshenko's analysis resulted in an increase in σ0 for the uncoated (6%) and dental cement coated (11–12%) aluminous core ceramic, when compared with the bilayered solutions reported by Rosenstiel and Hsueh. However, the shape of the failure distributions illustrated by the consistency of m and associated 95% confidence intervals was not influenced by the analytical stress solution employed.
+Significance
+
+The choice of the analytical method chosen to calculate failure stresses in bi-axially loaded dental ceramic–dental cement bilayers will impact on the magnitude of the reported strength. Comparison between the failure stresses of uncoated and cement coated dental ceramics is more accurately represented by bilayer solutions, which account for the mismatch between the elastic constants of dissimilar materials. However, within the context of dental cement coated dental ceramics of clinically relevant dimensions, the choice of solution is unlikely to impact on the interpretation of the observations previously reported in the dental literature.

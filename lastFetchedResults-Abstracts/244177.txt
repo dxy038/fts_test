@@ -1,0 +1,5 @@
+The objective of the present paper is to study passive ventilation of a one-story detached building. The flow of air is induced by a hot element of the building heated by solar energy. The hot element could be a part of a roof or a wall of the building, or a chimney through which the air is sucked from the building.
+
+The method does not require electrical power or mechanical installations, thus it can be applied in remote areas and buildings that are not connected to electric power, like desert-located buildings. The method may be used also for removal of toxic gases, like radon, from the ground floor of the building, without additional expenses.
+
+Experiments and simulations have been performed, in steady and transient states, in a scaled-down laboratory model. The results obtained from the simulations and fully supported by measurements and visualization, indicate that it is possible to obtain effective ventilation by the proposed method. Numerical simulations for steady and transient ventilation in real-size buildings are presented and discussed.

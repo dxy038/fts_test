@@ -1,0 +1,11 @@
+In this article, an efficient methodology is presented to optimize the topology of structural
+systems under transient loads. Equivalent static loads concept is used to deal with transient
+loads and to solve an alternate quasi-static optimization problem. The maximum strain
+energy of the structure under the transient load during the loading interval is used as
+objective function. The objective function is calculated in each iteration and then the
+dynamic optimization problem is replaced by a static optimization problem, which is
+subsequently solved by a convex linearization approach combining linear and reciprocal
+approximation functions.
+The optimal layout of a deep beam subjected to transient loads is considered as a case
+study to verify the effectiveness of the presented methodology. Results indicate that the
+optimal layout is dependant of the loading interval.

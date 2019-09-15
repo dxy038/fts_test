@@ -1,0 +1,1 @@
+A matching algorithm for stereo digital images, in which speed of computation is the main objective, is briefly expounded. The generic characteristics of a hierarchical algorithm for the matching of stereo pairs operating in quite general conditions, including scenes with overlapped objects, is then described

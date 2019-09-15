@@ -1,0 +1,20 @@
+We study the ‘classical’ topology optimization problem, in which minimum compliance is sought, subject
+to linear constraints. Using a dual statement, we propose two separable and strictly convex subproblems
+for use in sequential approximate optimization (SAO) algorithms.
+Respectively, the subproblems use reciprocal and exponential intermediate variables in approximating
+the non-linear compliance objective function. Any number of linear constraints (or linearly approximated
+constraints) are provided for. The relationships between the primal variables and the dual variables are
+found in analytical form.
+For the special case when only a single linear constraint on volume is present, we note that application
+of the ever-popular optimality criterion (OC) method to the topology optimization problem, combined
+with arbitrary values for the heuristic numerical damping factor   proposed by Bendsøe, results in an
+updating scheme for the design variables that is identical to the application of a rudimentary dual SAO
+algorithm, in which the subproblems are based on exponential intermediate variables. What is more, we
+show that the popular choice for the damping factor  =0.5 is identical to the use of SAO with reciprocal
+intervening variables.
+Finally, computational experiments reveal that subproblems based on exponential intervening variables
+result in improved efficiency and accuracy, when compared to SAO subproblems based on reciprocal
+intermediate variables (and hence, the heuristic topology OC method hitherto used). This is attributed
+to the fact that a different exponent is computed for each design variable in the two-point exponential
+approximation we have used, using gradient information at the previously visited point. Copyright q 2007
+John Wiley & Sons, Ltd

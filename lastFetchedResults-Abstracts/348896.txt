@@ -1,0 +1,11 @@
+Objective
+To study the after-effect of theta burst stimulation (TBS) over the left sensorimotor cortex on the size of somatosensory as well as motor evoked potentials evoked from both hemispheres in healthy human subjects.
+Methods
+We used a continuous TBS paradigm for 40 s (600 pulses) in which a burst of 3 transcranial magnetic stimuli at 50 Hz is repeated at 5 Hz [Huang YZ, Edwards MJ, Rounis E, Bhatia KP, Rothwell JC. Theta burst stimulation of the human motor cortex. Neuron 2005;45:201–6]. Somatosensory evoked potentials (SEPs) following electrical stimulation of right or left median nerve and motor evoked potentials (MEPs) in the right or left first dorsal interosseous (FDI) muscles were recorded before and after TBS over the left motor cortex (M1) or a point 2 cm posterior to left M1.
+Results
+Amplitudes of P25/N33 (parietal components) following right median nerve stimulation were significantly increased for at least 53 min after TBS over the left M1, whereas this component was suppressed for 13 min after TBS over a point 2 cm posterior. MEPs in right as well as left FDI muscles were suppressed with a similar time course after TBS over the left M1.
+Conclusions
+A single-session of TBS over the sensorimotor cortex can induce a short-lasting change in the size of ipsilateral cortical components of SEPs as well as MEPs evoked from both hemispheres.
+Significance
+TBS is an interventional tool that can induce rapid reorganization within cortical somatosensory as well as motor networks in humans.
+

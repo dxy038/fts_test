@@ -1,0 +1,3 @@
+We adapt the competitive location model based on maximal covering to include the knowledge that a competitor will enter the market later with a single new facility. The objective is to locate facilities under a budget constraint in order to maximise the remaining market share after the competitor's later entry.
+We develop mixed zero–one programming formulations for each of the following three strategies: the maxmin strategy where the worst possible competitor choice is considered, the minimum regret strategy, and the von Stackelberg strategy in which the competitor also optimises its market share. Some computational results show the feasibility and limits of these models.
+

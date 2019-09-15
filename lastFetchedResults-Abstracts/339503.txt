@@ -1,0 +1,11 @@
+Objective
+In recent years, T-cell receptor (TCR) sequencing analysis has proven an effective technique for the identification of T-cell populations of interest in cancer and autoimmunity, as well as for the characterization of peripheral immune repertoire reconstitution after hematopoietic stem cell transplantation (HSCT). However, despite its increased utilization, to our knowledge no group has investigated the minimum number of sequences necessary to accurately and efficiently describe the composition of TCR repertoire. The primary aim of this study was to optimize a procedure for clonotypic analysis of the TCR repertoire in patients undergoing autologous HSCT.
+Materials and Methods
+
+TCR β-chain diversity was analyzed by DNA sequencing and CDR3 spectratyping CD8+ T cells isolated from three patients with multiple sclerosis undergoing autologous HSCT. Samples were collected at baseline and 1 or 2 years post-HSCT.
+Results
+
+Using DNA cloning and high throughput sequencing, we analyzed over 1500 in-frame TCR sequences, allowing us to evaluate how our measures of TCR repertoire diversity change with increasing numbers of sequences included in the analysis. Our findings show that by analyzing 75 to 100 in-frame sequences, we are able to estimate TCR diversity within 5.0% to 7.4% of the values obtained at endpoint analysis (213–312 sequences per sample).
+Conclusions
+
+This study confirms the use of TCR sequencing as an effective technique for the characterization of immune renewal after autologous HSCT. In addition, we demonstrate for the first time convincing evidence to support the use of moderate sample sizes to accurately and efficiently evaluate TCR repertoire diversity.

@@ -1,0 +1,8 @@
+Objective
+sent a dental training simulator that provides a virtual reality (VR) environment with haptic feedback for dental students to practice dental surgical skills in the context of a crown preparation procedure. The simulator addresses challenges in traditional training such as the subjective nature of surgical skill assessment and the limited availability of expert supervision.
+s and materials
+ntified important features for characterizing the quality of a procedure based on interviews with experienced dentists. The features are patterns combining tool position, tool orientation, and applied force. The simulator monitors these features during the procedure, objectively assesses the quality of the performed procedure using hidden Markov models (HMMs), and provides objective feedback on the user's performance in each stage of the procedure. We recruited five dental students and five experienced dentists to evaluate the accuracy of our skill assessment method and the quality of the system's generated feedback.
+s
+perimental results show that HMMs with selected features can correctly classify all test sequences into novice and expert categories. The evaluation also indicates a high acceptance rate from experts for the system's generated feedback.
+sion
+s work, we introduce our VR dental training simulator and describe a mechanism for providing objective skill assessment and feedback. The HMM is demonstrated as an effective tool for classifying a particular operator as novice-level or expert-level. The simulator can generate tutoring feedback with quality comparable to the feedback provided by human tutors.

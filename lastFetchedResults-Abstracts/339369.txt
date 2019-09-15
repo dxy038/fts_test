@@ -1,0 +1,11 @@
+Objective
+The primary function of chemokines is the regulation of leukocyte trafficking by stimulating directional chemotaxis. The chemokine CXCL14 (BRAK) is highly expressed in all normal tissues, but is not expressed in most malignant tissues. The chemotactic activity of CXCL14 has been difficult to characterize. Recently it was reported that CXCL14 is a chemoattractant for activated monocytes and immature dendritic cells. Given that CXCL14 is downregulated upon transition to malignancy, we sought to characterize whether CXCL14 might play a role in NK cell chemotaxis.
+Methods
+
+Human natural killer (NK) cells were isolated from buffy coats obtained from normal volunteers and were activated with lymphocyte conditioned media, IL-2, and ionomycin. Standard transwell chemotaxis assays, proliferation assays, and chromium release cell cytotoxicity assays were performed.
+Results
+
+CXCL14 was found to stimulate migration of activated human NK cells in transwell chemotaxis assays by 1.4-fold. Similarly, it increased migration of an IL-2-dependent natural killer leukemia (NKL) cell line by 1.9-fold. Antisera against CXCL14 or pertussis toxin blocked this chemotactic effect. However, CXCL14 did not affect the proliferation or cytotoxic activity of normal human NK cells. CXCL14 also stimulated the chemotaxis of immature monocyte-derived dendritic cells.
+Conclusions
+
+CXCL14 may play a role in the trafficking of NK cells to sites of inflammation or malignancy. In addition, the downregulation of the expression of CXCL14 might be an important step in successful oncogenesis to prevent NK immune surveillance of the malignancy.

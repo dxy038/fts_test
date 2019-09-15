@@ -1,0 +1,1 @@
+The authors compare three structures of bidirectional switches. They design low-cost control circuits without any sacrifice on standard features. The chosen switch is used in an AC-chopper whose characteristics are compared with a triac converter. The use of bidirectional switches simplifies the structures of static energy converters and increases performance

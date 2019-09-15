@@ -1,0 +1,12 @@
+Background
+Reports about the relationships between insulin concentrations and CHD risk are controversial. The objective of this survey was to study the association between insulin levels and CHD risk in middle-aged male participants of the PRIME Study after 5 years of follow-up.
+Methods
+
+Our study adopted a nested case-control design including 294 cases of CHD and 536 controls randomly selected among healthy participants from the PRIME cohort. Data were obtained by questionnaires (medical history, lifestyle), standardised clinical measurements (blood pressure, anthropometric measurements), and a blood sample was obtained for biological measurements. Odds-Ratios for associations of four ordered classes of insulin concentration with CHD risk after adjustment for confounding factors were estimated using conditional logistic regression.
+Results
+
+In Belfast, a significant trend (p < 0.03) was observed between insulin classes and CHD risk in bivariate analyses, but this association lost its significance after multiple adjustments. In the French centres, a high risk of CHD (OR = 3.24 [1.80–5.85], p < 0.0001) was observed only for the second class of insulin concentration (6.5 to 9.9 mIU/l), compared with the reference class (< 6.5 mIU/l). After multiple adjustments, this association remained highly significant (OR = 2.92 [1.44–5.92], p < 0.005).
+Conclusions
+
+In Belfast (high-risk population), a significant trend was observed between insulin concentration classes and CHD risk but hyperinsulinaemia lost its association with CHD risk in multivariate analyses. In the French centres (lower risk population), slightly increased insulin concentrations were associated with a high risk of CHD, independently of cardiovascular risk factors and other features of the metabolic syndrome, but very high insulin concentrations were not.
+

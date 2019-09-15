@@ -1,0 +1,8 @@
+The goal of this paper is to present a novel chaotic particle swarm optimization (CPSO)
+algorithm and compares the efficiency of three one-dimensional chaotic maps within symmetrical
+region for long-term cascaded hydroelectric system scheduling. The introduced
+chaotic maps improve the global optimal capability of CPSO algorithm. Moreover, a piecewise
+linear interpolation function is employed to transform all constraints into restrict
+upriver water level for implementing the maximum of objective function. Numerical
+results and comparisons demonstrate the effect and speed of different algorithms on a
+practical hydro-system.

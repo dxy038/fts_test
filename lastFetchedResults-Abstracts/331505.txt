@@ -1,0 +1,13 @@
+Attempts have been made to improve the mechanical properties and convenience of use of glass-ionomer cement (GIC) by various modifications, in particular by including a free radical-polymerizable component (“resin-modified” GIC, RMGIC). Necessarily, the one replaces part of the other, but the chemistry suggests that the formation of each network separately would inhibit diffusion and thus the other reaction.
+Objective
+
+To ascertain whether interference occurs between the components of an RMGIC by variation of the irradiation regime.
+Materials and methods
+
+Cylindrical specimens (6 mm × 3 mm diameter) of one brand of RMGIC (Shades A3, D2; Fuji II LC, GC; capsules) were prepared in ptfe moulds. After machine-mixing for 10 s, each of the three increments was irradiated from the top for various times (0–60 s). In addition, extra irradiation from the bottom; from the bottom before, and from the side after, ejection from the mould; the same using two curing lamps; and at various delays after mixing (0–18 h), with four replicates of each. After exposure, or as appropriate, specimens were wrapped tightly in aluminium foil for dry storage in the dark at 37 °C for testing at 24 h after mixing. Specimens with evident defects were replaced before testing.
+Results
+
+No increase in strength was found beyond the recommended 20-s irradiation, indeed further exposure reduced the strength. For top-only irradiation, strength rose from the unirradiated value (66 ± 9 MPa) to a peak at 20 s (215 ± 25 MPa), after which it declined steadily. Adding bottom irradiation gave a small decrease in peak value (194 ± 36 MPa); adding side irradiation reduced it substantially (113 ± 7 MPa). Delay for 2 min gave a marked reduction (155 ± 15 MPa), declining to the unirradiated value at 18 h (70 ± 15 MPa). No effect due to shade was detected.
+Significance
+
+Competition between network-forming reactions leads to a sensitive balance between the two, and a critical optimum irradiation: too much may be detrimental, as is delay. The essential compromise involved in such mixed chemistry jeopardizes reliability. It is advisable to follow the duration of exposure prescribed by the manufacturer to achieve optimal performance.

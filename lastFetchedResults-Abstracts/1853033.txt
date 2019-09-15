@@ -1,0 +1,7 @@
+Electronic patient records (EPRs) contain a wealth of patient-related data and capture clinical problem-solving experiences and decisions. Excelicare is such a system which is also a platform for the national generic clinical system in the UK.
+ive
+aper presents, ExcelicareCBR, a case-based reasoning (CBR) system which has been developed to complement Excelicare. Objective of this work is to integrate CBR to support clinical decision making by harnessing electronic patient records for clinical experience reuse.
+s
+ a proven problem solving methodology in which past solutions are reused to solve new problems. A key challenge that we address in this paper is how to extract and represent a case from an EPR. Using an example from the lung cancer domain we demonstrate our generic case representation approach where Excelicare fields are mapped to case features. Once the case base is populated with cases containing data from the EPRs database a standard weighted k-nearest neighbour algorithm combined with a genetic algorithm based feature weighting mechanism is used for case retrieval and reuse.
+sions
+clude that incorporating case authoring functionality and a generic retrieval mechanism were key to successful integration of ExcelicareCBR. This paper also demonstrates how the application of CBR can enable sharing of lessons learned through the retrieval and reuse of EPRs captured as cases in a case base.

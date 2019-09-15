@@ -1,0 +1,5 @@
+
+Abstract
+Accidents and natural disasters and crises coming out of them indicate the importance of precise planning to combat them. Therefore, disaster relief logistics is one of the main activities in disaster management. In this paper, the response phase of disaster management cycle has been studied. A multi-objective model has been offered for location, vehicle routing and good distribution in damaged area in fuzzy conditions. This model includes uncertainty in handling time, amount of demand in damaged areas and inventories in suppliers in different periods. The model first priority is to minimize total arriving time to the damaged areas and maximize damaged areas satisfaction that can be achieved by maximizing the minimum ratio of total demand covered that ends in a kind of justice in good distribution and the second priority is to minimize costs. To solve the multi-objective model, the global criterion method has been used to produce a single objective model of multi-objective model. Finally, a case study has been done in South Khorasan.
+
+

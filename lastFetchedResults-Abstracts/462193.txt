@@ -1,0 +1,9 @@
+Context: Maryland began a statewide firearm-related injury surveillance system in 1995. The system now focuses on firearm-related deaths; a system to monitor nonfatal injuries is being developed. The system is passive; it accesses, integrates, and analyzes data collected by Maryland’s Office of the Chief Medical Examiner, Maryland State Police, and Division of Health Statistics.
+Objective: To evaluate the surveillance system’s ability to ascertain cases in the absence of a standard for the true number of cases.
+Design: Link records of the same firearm-related death captured by the surveillance system’s multiple data sources, comparing the rate of false positives and false negatives, and assessing errors in linkage variables.
+Setting: Maryland, 1991–1994.
+Participants: All deaths occurring in the state of Maryland as a result of a firearm-related injury.
+Main Outcome Measures: Sensitivity and positive predictive value.
+Results: The system is extremely sensitive, detecting 99.61% of cases, and it has a very high positive predictive value, with 99.87% of the cases identified from medical examiner’s office data being confirmed as actual cases.
+Conclusions: Maryland’s database of information from the medical examiner’s office is highly accurate for ascertaining firearm-related deaths that occur in the state. A unique identifier common across data sources would ease record linkage efforts, and improve the system’s ability to monitor firearm-related deaths.
+

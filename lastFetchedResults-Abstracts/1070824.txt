@@ -1,0 +1,7 @@
+The main objective of this study is to provide a realistic simulation of river stage in regional river networks in order to improve stream-aquifer interactions and better assess stream discharge and hydraulic head in aquifer units.
+
+The study focuses on the Oise basin (a 17,000 km2 sub-basin of the Seine River basin, in Northern France). An upscaling method is proposed to benefit from high resolution hydraulic modeling at local scale to improve the simulation of river stages at regional scale. The methodology is based on simulation of the main rivers with a 1D Saint–Venant approach, from which functional stage-discharge relationships, are derived and projected onto each grid-cell of the regional model.
+
+At regional scale, the rating curves are used as boundary conditions and allow to calculate river stage, which is then used to calculate the exchanges between aquifer units and river. The approach is efficient to better simulate water pathways and stream-aquifer interactions at regional scale with low computing cost.
+
+The model was used to quantify stream to aquifer exchanges, that are in average 39 mm yr−1 for aquifer to stream fluxes and 2 mm yr−1 for stream to aquifer fluxes, mainly due to storage in aquifer units during storm events.

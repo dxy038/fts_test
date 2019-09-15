@@ -1,0 +1,15 @@
+This paper proposes an e¦cient, systematic and generalized multicriteria fuzzy optimum design method for
+the structural systems, using the suboptimization concept, introduction of measure membership functions
+and fuzzy decision-making techniques. Each objective function is suboptimized Þrst for all discrete sets of
+common design variables and design parameters. In order to make the relative evaluation of suboptimized
+data of objective functions rationally and systematically, and involve the fuzziness or tolerance in the
+decision-making process and design emphases, the measure membership functions are introduced for all
+objective functions. The membership functions of the suboptimized objective functions are determined
+systematically using the corresponding measure membership functions as datum. A hybrid decision-making
+process is developed combining the weighted operator method, comparison processes of maximum membership
+values and backward interpolation processes for the determination of the global optimum solution. The
+weighted operator method can also involve the relative emphases of each objective function simply. A design
+example of a practical prestressed concrete bridge system, in which the total expected cost after an
+earthquake and the aesthetics of the bridge system are the primary objectives, clariÞes the applicability to
+any convex and non-convex design problems, rationality, systematic design process and e¦ciency of the
+proposed design method

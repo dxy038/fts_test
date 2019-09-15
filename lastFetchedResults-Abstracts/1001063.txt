@@ -1,0 +1,3 @@
+Several techniques have been proposed for treatment of spectrophotometric data, with the objective of extracting a largest amount of analytical information from spectra composed of unresolved bands. Undoubtedly, a major success was achieved by derivative treatment of the absorbance curves-plotting of the first or a higher order mathematical derivative of absorbance against wavelength (dA/dλ). Derivative spectrophotometry has been applied to many chemical systems, such as pharmaceuticals, foods, cosmetics, and environmental samples.
+
+The instrumental development and analytical applications of derivative UV–vis regions absorption spectrophotometry produced in the last 5 years (since 2004) are reviewed.

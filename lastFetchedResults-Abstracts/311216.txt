@@ -1,0 +1,11 @@
+Objective. A method to predict the relationships between decompressed volume of orbital soft tissues, backward displacement of globe after osteotomy, and force exerted by the surgeon, was proposed to improve surgery planning in exophthalmia reduction.
+
+Design. A geometric model and a poroelastic finite element model were developed, based on computed tomography scan data.
+
+Background. The exophthalmia is characterized by a protrusion of the eyeball. Surgery consists in an osteotomy of the orbit walls to decompress the orbital content. A few clinical observations ruling on an almost linear relationship between globe backward displacement and tissue-decompressed volume are described in the literature.
+
+Methods. Fast prediction of decompressed volume is derived from the geometric model: a sphere in interaction with a cone. Besides, a poroelastic finite element model involving morphology, material properties of orbital components and surgical gesture was implemented.
+
+Results. The geometric model provided a better decompression volume estimation than the finite element model. Besides, the finite element model permitted to quantify the backward displacement, the surgical gesture and the stiffness of the orbital content.
+
+Conclusions. The preliminary results obtained for one patient, in accordance with the clinical literature, were relatively satisfying. An efficient aid for location and size of osteotomies was derived and seemed to be able to help in the surgery planning.

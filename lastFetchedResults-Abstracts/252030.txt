@@ -1,0 +1,19 @@
+Both iIntegrating sphere reflectometry (ISR) as well as laser polarimetry have
+their advantages and limitations in their ability to determine the normal spectral
+emissivity of metallic samples. Laser polarimetry has been used for years to
+obtain normal spectral emissivity measurements on pulse-heated materials. The
+method is based on the Fresnel equations, which describe reflection and refraction
+at an ideally smooth iInterface between two isotropic media. However,
+polarimetry is frequently used with surfaces that clearly deviate from this ideal
+condition. Questions arise with respect to the applicability of the simple Fresnel
+equations to non-specular surfaces. On the other hand, reflectometry utilizing
+iIntegrating spheres provides a measurement of the hemispherical spectral reflectance,
+from which the normal spectral emissivity can be derived. ISR provides
+data on spectral-normal-hemispherical reflectance and, hence, normal spectral
+emissivity for a variety of surfaces. However, the resulting errors are minimal
+when both the sample and the reference have a similar bidirectional reflectance
+distribution function (BRDF). In an effort to explore the limits of polarimetry
+in terms of surface roughness, room temperature measurements on the same
+samples with various degrees of roughness were performed using both ISR and
+a laser polarimeter. In this paper the two methods are briefly described and the
+results of the comparison are discussed.

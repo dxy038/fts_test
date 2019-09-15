@@ -1,0 +1,9 @@
+Objective
+To predict the response of aminoglycoside antibiotics (arbekacin: ABK) against methicillin-resistant Staphylococcus aureus (MRSA) infection in burn patients after considering the severity of the burn injury by using artificial neural network (ANN). Predictive performance was compared with logistic regression modeling.
+Methodology
+The physiologic data and some indicators of the severity of the burn injury were collected from 25 burn patients who received ABK against MRSA infection. A three-layered ANN architecture with six neurons in the hidden layer was used to predict the ABK response. The response was monitored using three clinical criteria: number of bacteria, white blood cell count, and C-reactive protein level. Robustness of models was investigated by the leave-one-out cross-validation.
+Results
+The peak plasma level, serum creatinine level, duration of ABK administration, and serum blood sugar level were selected as the linear input parameters to predict the ABK response. The area of the burn after skin grafting was the best parameter for assessing the severity of the burn injury in patients to predict the ABK response in the ANN model. The ANN model with the severity of the burn injury was superior to the logistic regression model in terms of predicting the performance of the ABK response.
+Conclusion
+Based on the patients' physiologic data, ANN modeling would be useful for the prediction of the ABK response in burn patients with MRSA infection. Severity of the burn injury was a parameter that was necessary for better prediction.
+

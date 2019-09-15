@@ -1,0 +1,16 @@
+This paper investigates optimization methods based on Genetic Algorithms
+(GAs) for spiral heat exchangers. The purpose of designing heat exchanger depends on its
+application and could be total cost, heat transfer coecient or both of them. The current
+targeting methods identify optimum points from both economic and thermodynamic views,
+and capture a trade-o between two objectives. Optimizations, using single objective
+functions, are performed in order to investigate parameter behavior in two dierent
+applications of SHEs. Also, this work takes care of numerous geometric parameters in the
+presence of logical constraints. Multi-objective and weighted function optimizations, using
+genetic algorithm, are developed in order to obtain a set of geometric design parameters,
+which lead to minimum pressure drop and the maximum overall heat transfer coecient.
+Optimized heat transfer coecient, compared to its rst value at basic design, had a 13%
+increase, and total cost in optimized case presents 50% reduction compared to the basic
+design. Also in trade-o cases, heat transfer coecient and total cost have been improved
+up to 60% increment and 20% reduction, respectively. Therefore, designing heat exchanger,
+using presented optimal methods in this research, are proposed as useful methods for
+designers, engineers and researchers.

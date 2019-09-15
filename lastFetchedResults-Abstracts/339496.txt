@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to confer an antigen-presenting cell (APC) ability on multiple myeloma cell lines (HMCLs) using B7-1 and/or 4-1BBL gene transfer.
+Materials and Methods
+
+HMCLs were retrovirally transduced with B7-1 and/or 4-1BBL cDNAs. Allogeneic or autologous T cells were stimulated by coculture with B7-1- and/or 4-1BBL-transduced HMCLs in the presence of interleukin-2. T cell clones were obtained by limiting dilution. T-cell activation was assessed by interferon-γ Elispot assays and cytotoxicity by 51Cr release assays.
+Results
+
+Neither primary multiple myeloma cells (MMCs) nor HMCLs expressed B7-1 or 4-1BBL, and these molecules could not be induced by CD40 triggering. HMCLs failed to stimulate allogeneic or autologous T cells. Transduction of HMCLs with B7-1 and/or 4-1BBL retroviruses induced a high expression of B7-1 and 4-1BBL molecules and a strong T-cell activation ability. Long-term cultured CD8+ T-cell lines could be obtained by stimulation with the autologous B7-1/4-1BBL XG-19 HMCL. These cytotoxic T lymphocytes (CTL) efficiently killed the autologous parental XG-19 HMCL as well as autologous primary MMCs and allogeneic HMCLs. They did not kill autologous CD34 cells and autologous EBV cell line or natural killer target K562 cells. Cloned CTL could recognize allogeneic HMCLs, demonstrating that a shared anti-MMC repertoire was expanded.
+Conclusion
+
+Transduction with B7-1 and 4-1BBL retroviruses turned HMCLs into efficient APCs. It permitted the long-term expansion of autologous anti-tumor CTL with a shared anti-MMC repertoire, for one HMCL. These data suggest developing an immunotherapy using modified tumor cells in patients with multiple myeloma.

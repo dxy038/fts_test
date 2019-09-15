@@ -1,0 +1,12 @@
+Objective
+To highlight the close association of cardiovascular disease (CVD) with depression and anxiety in US non-institutionalized adults and examine the sociodemographic correlates of depression and anxiety among CVD survivors.
+Method
+
+The data were obtained from 38 states which administered an Anxiety and Depression Module as part of the 2006 Behavioral Risk Factor Surveillance System. CVD was assessed with three questions on coronary heart disease and stroke. Adjusted prevalence ratios (APRs) were obtained after adjustment for demographic characteristics using SUDAAN 9.0.
+Results
+
+The prevalence of a CVD history was 15.3% among studied population (sample size n = 129,499). Persons with a CVD history were more likely than those without to experience current depression (15.8% versus 7.1%, APR [95% CI] = 1.69 [1.54–1.85]), to have a lifetime diagnosis of depressive disorders (22.3% versus 15.1%, APR [95% CI] = 1.56 [1.45–1.67]) or anxiety disorders (16.6% versus 10.0%, APR [95% CI] = 1.46 [1.37–1.54]). CVD survivors with low education attainment or minority background were less likely to receive a diagnosis of depression though their experience of depression was comparable with or higher than their counterparts.
+Conclusion
+
+CVD is associated significantly with depression and anxiety. Disparities exist among CVD survivors on the diagnosis of depression and anxiety.
+

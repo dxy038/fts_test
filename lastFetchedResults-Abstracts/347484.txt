@@ -1,0 +1,5 @@
+Objectives: Several sedation scores have been developed, but still a need exists for an objective method to monitor sedation level during intensive care. Our study presents a procedure for finding a combination of electroencephalogram (EEG) characteristics, which could be used in estimating sedation level.
+Methods: We measured EEG in 29 cardiac surgical patients prior to and after the cardiac bypass grafting operation at different sedation levels. The clinical assessment of sedation levels was evaluated with the Ramsay Score. Spectral EEG parameters were computed and a linear model to predict postoperative sedation level was constructed by using principal component analysis and regression analysis.
+Results: Sedation levels modified all computed spectral EEG parameters. The model based on optimal combination of EEG parameters predicted the observed Ramsay Score value with a prediction probability of 88%.
+Conclusions: This study suggests that a combination of spectral EEG parameters may discriminate between 3 sedation levels: awake, moderate sedation and deep sedation.
+

@@ -1,0 +1,11 @@
+Objective
+To investigate the effect of l-ascorbic acid (AsA) on osteoblast differentiation, we examined the effects of AsA on in vitro osteoblastic differentiation markers such as collagen synthesis, alkaline phosphatase (ALP) activity, and receptor activator of nuclear factor-κB ligand (RANKL) and osteoprotegerin (OPG) expression. The role of Ikaros and casein kinase 2 (CK2) in regulating osteoblast differentiation was also determined.
+Methods
+
+This study examined the expression of RANKL and OPG, collagen synthesis, and ALP activity in AsA-treated osteoblast-like cells (MG63) using reverse transcription-polymerase chain reaction and biochemical assays. In addition, Ikaros activity and CK2 expression were assessed by electrophoretic mobility shift assays and western blot assays, respectively.
+Results
+
+The results showed that AsA treatment slightly downregulated OPG mRNA expression, whereas the mRNA expression of RANKL and collagen was unaffected. AsA significantly increased ALP activity after 4 d, and this activation was inhibited by the CK2 inhibitors, 2-dimethylamino-4,5,6,7-tetrabromo-1H-benzimidazole and 5,6-dichloro-1-beta-D-ribofuranosylbenzimidazimidazole. Small interfering RNA-mediated depletion of CK2-α also decreased ALP activity in AsA-stimulated cells. Moreover, western blot analysis showed that AsA induced the activation of CK2. AsA dose-dependently decreased the DNA binding affinity of the transcription factor Ikaros, which is a bifunctional differentiation factor. Moreover, cells treated with AsA and CK2 inhibitor exhibited increased Ikaros activity compared with those treated with AsA alone.
+Conclusion
+
+These results suggest that AsA stimulates osteoblastic differentiation by enhancing ALP activity and suppressing Ikaros activity. Moreover, this process might be related to CK2 regulation.

@@ -1,0 +1,9 @@
+Objective. To examine the effects of postural and keyswitch characteristics on musculoskeletal tissue loading during tapping on computer keyswitches.
+
+Design. We hypothesized that joint torques, stiffness and work parameters differ across keyswitch designs and finger postures typical of those observed during computer keyboard typing. We experimentally measured joint kinematics and calculated joint torques while tapping on different keyswitches in different postures, and analyzed the data using mechanical impedance models.
+
+Methods. Sixteen human subjects tapped with the index finger on computer keyswitches mounted on a sensor which measured vertical and horizontal forces. Miniature electro-optical goniometers mounted dorsally across each finger joint measured joint kinematics. Joint torques were calculated from endpoint forces and joint kinematics using an inverse dynamics algorithm. A linear spring-damper impedance model was fitted to joint torque, position, and velocity during the contact period of each tap. Subjects tapped in three postures approximating those employed during tapping on three rows of a computer keyboard, on four different keyswitches, resulting in 12 conditions.
+
+Results. More extended finger posture was associated with greater joint torques, energies, and stiffnesses, despite minimal differences in endpoint forces across posture. Greater keyswitch make forces were associated with increased forces, joint torques and joint stiffnesses, however this relationship was not monotonic.
+
+Conclusions. Joint torques and stiffness parameters differed across keyswitch designs and finger postures. Estimates of joint impedance and work provided a unique perspective into finger dynamics.

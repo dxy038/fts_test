@@ -1,0 +1,24 @@
+In this paper we introduce approach for
+implementation of robust watermarking for images.It is to
+be expected that digital photographs, videos, and sound
+tracks will gradually replace their analog counterparts in
+the near future. Digital representation of signals brings
+many advantages when compared to analog
+representations, such as lossless recording and copying,
+convenient distribution over networks, easy editing and
+modification, and durable, cheaper, easily reachable
+archival. Unfortunately, these advantages also present
+serious problems including wide spread copyright
+violation, illegal copying and distribution, problematic
+authentication, and easy forging. Piracy of digital
+photographs is already a common phenomenon on the
+Internet. Information hiding in digital documents provides
+a means for overcoming those problems. Depending on
+what information in which form is hidden in the image,
+one can distinguish at least two types of data hiding
+schemes: non-robust, undetectable data hiding, and robust
+image watermarking.
+The objective is to implement robust image
+watermarking by embedding 32 bits of information into a
+single image in such a way that it is robust to JPEG
+compression and cropping

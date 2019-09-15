@@ -1,0 +1,11 @@
+Objective
+The development of a novel collision technique for assessment of the activation order of electrically activated nerve fibers, which is an important question in functional electrical therapy or for interpretation of results of motor unit number estimates.
+Methods
+Compound muscle action potentials were recorded with the belly-tendon configuration from the abductor digiti minimi. A novel modified Hopf’s collision technique was applied on ten healthy male subjects to determine the distributions of conduction velocities (DCV) of all ulnar nerve fibers and of the fibers activated by electrical stimuli eliciting 20%, 50%, and 80% of the maximal muscle response.
+Results
+The maximum nerve conduction velocity was (means ± SE) 64.1 ± 0.85 m/s. The median conduction velocity of estimated DCV was 58.9 ± 0.97 m/s (stimulus at 20%), 58.0 ± 0.98 m/s (50%), 57.2 ± 0.91 m/s (80%), and 56.5 ± 0.84 m/s (whole nerve) (all different between each other, P < 0.001).
+Conclusions
+The proposed collision technique allows the assessment of nerve conduction velocity distributions at maximal and sub-maximal stimulation levels and provided evidence for an inverse activation order of nerve fibers with electrical stimulation.
+Significance
+The excessive fatigue seen with nerve electrical stimulation can be explained by a preferential activation of large diameter nerve fibers. The motor units first activated with electrical stimulation are likely not representative of the motor unit pool in the muscle, which poses limitations in the reliability of some of the proposed methods for motor unit counting.
+

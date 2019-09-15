@@ -1,0 +1,11 @@
+Objective
+Assessment of the repetitive nerve stimulation (RNS) test parameters has some inherent difficulties, as too many co-dependent variables are involved. To circumvent these problems, we have employed the principal component analysis (PCA) for evaluating the RNS test.
+Methods
+We performed the RNS test on the abductor digiti quinti (ADQ), flexor carpi ulnaris (FCU) and orbicularis oculi (OO) muscles of 23 myasthenia gravis (MG) patients and 50 controls. For each group, following parameters were chosen for PCA: decremental response of amplitude and area on 2, 3 and 5 Hz stimulation rate, including 5 Hz stimulation, 4 min following tetanus; decremental and incremental response of amplitude and area on 50 Hz stimulation.
+Results
+Two principal components (PC1 and PC2) for ADQ and FCU muscles and 1 principal component (PC1) for OO muscle were extracted. The mean values of PC1 were significantly increased for all three muscles in the MG group compared to controls (p < 0.01). No significant difference between PC2 values of the MG and control groups was observed (p > 0.05). PC1 was the most sensitive test in detecting an abnormality on low rates of stimulation.
+Conclusions
+PCA, which has the advantage of studying a small number of independent parameters on RNS test, seems to be useful for detecting neuromuscular transmission defects.
+Significance
+By markedly decreasing the number of assessed variables, PCA can give insight to the direction of data distribution abnormalities in the RNS test, which can prove particularly useful in research studies.
+

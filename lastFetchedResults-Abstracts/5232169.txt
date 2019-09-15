@@ -1,0 +1,1 @@
+Various optimization formulations are analyzed for the determination of design parameters and their tolerances to achieve maximum yield and minimum cost. Three approaches for this objective are presented. Through a numerical example, it is concluded that a procedure using a neural network approach followed by a fine tuning algorithm is recommended for efficiency and reliability

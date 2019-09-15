@@ -1,0 +1,7 @@
+Litter input drives dynamic soil models that are used to understand the flows and stocks of soil carbon. In estimation of above-ground litterfall, much of the uncertainty lies in the turnover rate of branches. The objective of this study was to develop a model for estimating the branch litterfall of Scots pine stands.
+
+he potential litterfall of branches was modelled as a function of tree diameter. First, the vertical biomass distribution of branches was predicted on the basis of branch biomass data collected from trees sampled in southern Finland. Second, to predict annual branch mortality and potential litterfall, this information was combined with data on measured changes in height of the crown base.
+
+ing on stem dbh (diameter at breast height), the proportion of annual litterfall of branches from the total biomass of branches varied from 6% to 0.5%, being highest in small trees. According to the results of this study, the litterfall of branches depends on tree size and stocking density. When the estimates were tested against data on collection of branch litter, it was found that the method underestimates litterfall in very old stands but agrees with the measurements in other stands.
+
+ation of this model to rates of branch litter production improves the accuracy of the estimated litter input to the dynamic soil model, therefore also improving the precision of soil carbon estimates.

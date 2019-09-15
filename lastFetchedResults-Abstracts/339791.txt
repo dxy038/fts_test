@@ -1,0 +1,11 @@
+Objective
+We aimed to create a molecular assay to monitor erythroid (red blood cell [RBC]) engraftment in any patient following allogeneic hematopoietic stem cell transplantation, independent of disease-specific mutations.
+Materials and Methods
+
+We identified 10 common single nucleotide polymorphisms (SNPs), expressed by genes encoding RBC antigens and structural proteins. These SNPs were polymerase chain reaction–amplified from total RNA extracted from peripheral blood, which contains nucleated erythroid progenitors. Mixing studies validated that each SNP can quantitatively measure donor/recipient DNA and RNA.
+Results
+
+We directly genotyped 23 patients who underwent hematopoietic stem cell transplantation and their human leukocyte antigen–matched donors and found a median of three informative SNPs (i.e., discordant between donor and recipient) per pair. By using the informative RBC SNPs to quantify donor-derived RBC transcripts, we compared rates of RBC engraftment in 13 patients with hemoglobinopathies vs donor mononuclear cell (white blood cell [WBC]) engraftment. Consistent with known ineffective erythropoiesis associated with hemoglobinopathies, we detected up to threefold greater RBC-specific compared to overall WBC engraftment in five of eight patients who were mixed chimeras by transplant day 30. The remaining three of eight who received ABH-incompatible grafts, demonstrated at least 0.5-fold lower RBC compared to WBC engraftment that was related to persistence of host-derived anti-isohemagglutinin antibodies.
+Conclusion
+
+This RNA-based assay can be used to monitor RBC-specific engraftment regardless of a patient's specific hemoglobin mutation or even diagnosis. We propose that panels of expressed SNPs informative for other cell lineages can be created to comprehensively assess the impact of novel stem cell–based therapies on lineage-specific engraftment.

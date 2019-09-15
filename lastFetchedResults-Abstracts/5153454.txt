@@ -1,0 +1,1 @@
+The paper compares the objective quality of standard test image akio.yuv for DCT coefficients to integer transform coefficients conversion &amp; vice versa for the purpose of MPEG-2 to H.264 &amp; vice versa transcoding. The conversions are compared on the basis of PSNR (peak signal to noise ratio) between original &amp; reconstructed image after transcoding.

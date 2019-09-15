@@ -1,0 +1,11 @@
+Objective
+The aim of the present paper is to study the fluctuations of the sleep EEG over various time scales during a specific pathological condition: major depressive episode. Focus is made on scaling behaviour, which is the signature of the absence of characteristic time scale, and the presence of long-range correlations associated to physiological constancy preservation, variability reduction and mostly adaptability.
+Methods
+Whole night sleep electroencephalogram signals were recorded in 24 men: 10 untreated patients with a major depressive episode (41.70 ± 8.11 years) and 14 healthy subjects (42.43 ± 5.67 years). Scaling in these time series was investigated with detrended fluctuation analysis (time range: 0.16–2.00 s). Scaling exponents (α) were determined in stage 2, slow wave sleep (stages 3 and 4) and during REM sleep. Forty-five epochs of 20 s were chosen randomly in each of these stages.
+Results
+The median values of α were lower in patients during stage 2 and SWS.
+Conclusions
+Major depressive episodes are characterized by a modification in the correlation structure of the sleep EEG time series. The finding which shows decreasing rate of the temporal correlations being different within the two groups in stage 2 and SWS provides an electrophysiologic argument that the underlying neuronal dynamics are modified during acute depression.
+Significance
+The observed modifications in scaling behaviour in acutely depressed patients could be an explanation of the sleep fragmentation and instability found during major depressive episode.
+

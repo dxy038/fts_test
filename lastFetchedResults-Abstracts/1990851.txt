@@ -1,0 +1,7 @@
+Objective (s): Healthcare system can have direct and indirect effects on a country’s income and output. This paper examines the impact of per capita public and private health expenditures on per capita GDP for Iran during 1379 – 1384.
+Methods: For the model selection and estimation the panel data econometrics were used and for the estimation of coefficients the EViews software was applied. The data were explored using regression analysis and statistical inference. 
+Results: The results obtained from panel model with fixed effects estimation showed that government per capita health expenditures had positive (0.85) and significant effect on GDP per capita. The results indicated that per capita private health expenditures had also positive (0.08) effect on GDP, though this effect was not statistically significant.
+Conclusion: The positive and significant effect of public sector expenditures on healthcare emphasizes the prominent and leading role of the government in improving healthcare and per capita income in the country. In addition, the positive effect of private sector spending on healthcare indicated that government should pave the way for private and NGOs activities.
+
+Key Words: Public health expenditure, private health spending, economic growth
+

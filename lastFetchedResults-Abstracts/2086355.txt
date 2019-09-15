@@ -1,0 +1,13 @@
+Deciding about portfolio selection and composition are the main challenge of
+investment institutions. The nature of analysis and effective criteria in industry and
+company are different. They should rank the industry and companies options with regard
+to multiple and conflict criteria that they have different weights and priorities. This article
+seeks to provide two-stage approach for stock selection and portfolio composition. We
+enriched promethee (compensatory MCDM method) by weight of criteria. Then we used
+it in intended approach. The expert opinions and objective data used to criteria ranking.
+An ANP was used to determining weight of criteria that merge in promethee method.
+After designing we tried to validate our approach with real data. The results show we
+have 7% (simple mode) and 11% (enriched mode) return more than actual performance.
+Using of Porter five forces analysis for indentifying and verify industry criteria, to
+include some indices from corporate governance and technical analysis, weighting the
+criteria and integrate them in the promethee are our research novelty.

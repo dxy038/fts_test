@@ -1,0 +1,11 @@
+Objective
+We previously showed that Vav promoter-tetracycline transactivator (Vav-tTA)–driven tetracycline-regulated element (TRE)-NRAS(V12) expression resulted in mastocytosis development in mice. To investigate which hematopoietic cells express TRE-driven transgenes when combined with Vav-tTA, we assayed hematopoietic cells, including bone marrow–derived mast cells (BMMC) and CD34-positive hematopoietic progenitor cells (HPC) as well as myeloid and lymphoid lineages. To determine if suppression of NRAS(V12) expression early in life would delay mastocytosis we treated developing and juvenile mice with doxycycline (Dox).
+Materials and Methods
+
+Vav-tTA–driven luciferase expression was assayed by live mouse imaging and relative light unit measurement before or after treating Vav-tTA and TRE-luciferase (TRE-Luc) cotransgenic mice with Dox. Magnetic cell sorting and fluorescence-activating cell sorting methods were used to sort hematopoietic cells. To suppress TRE-mediated luciferase or NRAS(V12) expression in Vav-tTA cotransgenic mice, we added Dox to the drinking water.
+Results
+
+B cells in the bone marrow and T cells in the thymus expressed Vav-tTA–driven luciferase at much higher levels than in myeloid cells, BMMC, and CD34-positive HPC, which showed relatively low levels. Dox treatment completely eliminated the luciferase expression from all hematopoietic cells. Repression of TRE-NRAS(V12) expression early in life was sufficient to increase the latency of mastocytosis development.
+Conclusion
+
+The Vav-tTA transgenic line will be very useful for conditional transgene expression in developing B and T cells. Vav-tTA–driven NRAS(V12) expression is sufficient for mastocytosis development, but not for myeloid leukemia. Lymphoid cells are resistant to NRAS(V12) transformation despite high level of expression.

@@ -1,0 +1,12 @@
+Both parametric and nonparametric necessary and sufficient optimality conditions
+are established for a class of nonsmooth constrained optimal control problems
+with fractional objective functions and linear dynamics. Moreover, using the
+forms and contents of these optimality principles, four parametric and eight
+parameter-free duality models are constructed and weak, strong, and strict converse
+duality theorems are proved. These optimality and duality results contain, as
+special cases, similar results for fractional optimal control problems containing
+square roots of positive semidefinite quadratic forms in their objective and constraint
+functions. The optimality and duality criteria presented in this paper
+generalize a number of existing results for optimal control problems and subsume a
+fairly large number of cognate results obtained previously in the areas of finitedimensional
+linear, fractional, and nonlinear programming

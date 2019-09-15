@@ -1,0 +1,5 @@
+The TPE-RX Neutral Beam Injector, which provides a 25 keV positive ion beam energy with a maximum current of 50 A for a pulse duration of 30 ms, will be installed on RFX-mod thanks to the agreement with the AIST Institute of Tsukuba (Japan). The main scientific objective is the study of the behavior of the fast ions, which in the RFP helical equilibrium have exhibited very long confinement times.
+
+tegration of TPE-RX NBI on RFX-mod requires the development of several new components: a mechanical interface between the RFX-mod vacuum vessel and neutralizer; a Magnetic Residual Ion Dump; a new vacuum pumping system designed to maximize pumping and minimize beam stopping due to reionization.
+
+ards the power supplies the compliance of the Japanese equipment to the Italian safety rules has been considered and layout studies have been carried out; the integration of the NBI control system in the RFX timing sequence has been studied as well.

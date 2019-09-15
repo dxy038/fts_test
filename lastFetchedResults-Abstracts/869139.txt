@@ -1,0 +1,1 @@
+In this paper, a two-stage assembly scheduling problem is considered with the objective of minimizing the total weighted flowtime. A lower bounding procedure and a dominance criterion are developed and incorporated into a branch and bound procedure. A heuristic procedure is also used to derive an initial upper bound. Computational results of the algorithm are presented.

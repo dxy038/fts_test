@@ -1,0 +1,9 @@
+Objective
+Objectives were to develop new means to isolate useful numbers of primary progenitor cells and to quantitatively assay the stepwise maturation of erythroblasts.
+Methods
+Approaches involved dosing mice with thiamphenicol (TAP) to yield staged cohorts of pro-erythroid cells; optimizing conditions for their EPO-dependent in vitro growth and survival; developing assays for CFU-E maturation; analyzing stage-specific transcript expression; and expressing a heterologous, erythroid-specific tag (EE372) in transgenic mice.
+Results
+Per TAP-treated mouse, 3 × 107 highly EPO-responsive erythroid progenitor cells were generated that represented up to 30% of total splenocytes and showed strict dependence on EPO for survival, growth, and immediate response gene expression. In this developing cohort, a tightly programmed sequence of gene expression was observed, and maximal expression of c-kit, EPO receptor, and β-globin transcripts occurred at 72, 96, and 120 hours post–TAP withdrawal, respectively. Also, the newly discovered erythroid-specific dual-specificity kinase, DYRK3, was revealed to be expressed at a late CFU-E stage. In vitro, these progenitor cells matured stepwise from high FALS Ter119− cells (24-hour culture) to high FALS Ter119+ cells (24–36 hours) to low FALS Ter119+ maturing erythroblasts (40–48 hours) and sharp differences in their morphologies were observed. Finally, a MACS-based procedure for the purification of erythroid progenitor cells from TAP-treated EE372 transgenic mice also was developed.
+Conclusions
+A comprehensive new system for isolating large numbers of primary murine erythroid progenitor cells and quantitatively monitoring their development is established that should serve well in investigations of endogenous and pharmacological regulators of red blood cell development.
+

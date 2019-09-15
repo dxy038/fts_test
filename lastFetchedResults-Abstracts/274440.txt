@@ -1,0 +1,11 @@
+The presence in a laminate of plies oriented at 90  with respect to the preferred direction of load generates almost immediately
+the appearance in these plies of cracks transverse to the load (parallel to the fibres in the lamina). These cracks reach
+the interface with the neighbouring ply, which in this paper will be considered oriented 0  with respect to the direction of
+the load. This may cause the bifurcation of the crack, which now appears propagating as a delamination crack between the
+two plies. The objective of this study is to characterize the stress state at the tip of both, the transverse crack in the 90  ply
+reaching the interface with the 0  ply, and the delamination crack for different lengths of the debonding. The analysis is
+performed by means of the Boundary Element Method allowing contact, without or with friction, to take place between
+the faces of the crack. The plies are considered as equivalent homogeneous bodies under a generalized plane strain state.
+The results are compared with those predicted by the open and contact models of Interfacial Fracture Mechanics. Accurate
+knowledge of the stress state at the neighbourhood of the tips of the cracks studied is necessary to generate failure criteria
+based on Fracture Mechanics parameters to predict the appearance and growth of the type of damage described.

@@ -1,0 +1,1 @@
+This paper deals with several aspects towards a more objective performance analysis of low-level motion analysis. A generalized spatiotemporal filter formulation and motion modeling in image sequences is introduced and used to design optimal motion estimators and to perform analytic studies.

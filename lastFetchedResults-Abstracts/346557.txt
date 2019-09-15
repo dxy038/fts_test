@@ -1,0 +1,5 @@
+Objective: We present a method based on the distributed dipole source model to localize sources of spontaneous human brain activity, such as the alpha rhythm. The proposed method relies on the generalized maximum entropy principle and is implemented in frequency-domain.
+Methods: Several computer simulation studies of synchronous and asynchronous distributed dipole sources were carried out to test the validity of the method. The method was also applied to spontaneous electroencephalographic (EEG) recordings from human subjects to estimate the sources of alpha activity. The locations of these sources were registered with actual magnetic resonance images for anatomical visualization.
+Results: The simulation studies suggest the validity of the proposed method and its capability to detect distributed and fairly deep synchronous dipole sources. Results of human studies with 6 subjects suggest that the generators of alpha rhythm are mainly concentrated over the posterior regions of the cortex.
+Conclusion: The proposed distributed source imaging method is a promising technique for localizing rhythmic brain activity.
+

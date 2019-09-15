@@ -1,0 +1,11 @@
+Objective
+In an attempt to clarify the megakaryo-specific regulatory mechanism of GPV gene transcription, we characterized the 5′-flanking region of the mouse GPV gene.
+Materials and Methods
+
+The promotor activity of a −481/+22 5′-fragment of the mouse GPV gene was examined in normal mouse bone marrow cells (BMC) and various human cell lines using two distinct reporter gene assay systems, luciferase and green fluorescence protein (GFP).
+Results
+
+When a DNA construct consisting of this fragment and a GFP reporter gene were transiently expressed in thrombopoietin-supported mouse BMC culture, GFP was identified only in megakaryocytes. The same construct expressed high levels of GFP in the human megakaryocytic Dami line. When assessed by dual luciferase assay, the full −481/+22 fragment could drive variable promoter activity in human as well as mouse megakaryocytic lines but did not work in non-megakaryocytic cells. Sufficient transcriptional activation of this fragment was restricted to the cells expressing apparent GPV mRNA. A deletion and point mutation study indicated that GATA and Ets motifs, typical cis-acting elements for platelet-specific genes, located of −75 and −46, respectively, were essential for promoter function.
+Conclusion
+
+The GPV promoter has the general characteristics found in platelet-specific genes, and the mechanism for megakaryocyte-specific, maturation-dependent regulation of GPV gene transcription is highly conserved between mouse and human. Analysis of GPV transcription mechanism utilizing human lines as well as BMC should provide new information on the final maturational process of megakaryocytes.

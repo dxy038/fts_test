@@ -1,0 +1,1 @@
+We demonstrate single fiber bidirectional self-healing ring network by using B-OADM sharing EDFA and DCF. Proposed ring network is possible to detect fiber cut and isn´t affected by optical back-reflection in case of transmission failure.

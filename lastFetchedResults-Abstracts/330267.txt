@@ -1,0 +1,11 @@
+Objective
+The aim of this investigation was to determine the effects of variables on the dissolution of atomic mercury in simulated oral fluids. This study was based on a hypothesis that the rate of mercury vapor dissolution in synthetic saliva is affected by the oxidation power and stirring of the solution.
+Method
+
+The reference solution was synthetic saliva, and the oxidation power was increased by hydrogen peroxide or decreased by ascorbic acid. Test solutions were exposed to mercury vapor in a sealed container, and the dissolved mercury concentration was determined after exposures ranging from 2 to 48 h. The results were analyzed by ANOVA and Tukey's multiple comparison test (p < 0.05). The effect of stirring was examined for a 24 h exposure. Student t-tests were used to compare this data (p < 0.05). The analysis for mercury was performed by cold-vapor atomic absorption spectrophotometry.
+Results
+
+Mercury dissolved much faster in the highly oxidizing solution with hydrogen peroxide than in the other two solutions, which dissolved mercury at the same rate. In the less oxidizing solutions, the dissolved mercury concentration reached a nearly constant value. Stirring the solution increased the rate of mercury dissolution for the highly oxidizing solution but had no effect on the less oxidizing solutions.
+Significance
+
+The results show the importance of the transformation of mercury from the atomic to the ionic state. When dissolving atomic mercury is not oxidized, it may evaporate and be inhaled, but the dissolution rate becomes low. Under more oxidizing conditions, mercury dissolves faster, but does not generate mercury vapor. Diffusion in the liquid affects the mercury dissolution rate only under highly oxidizing conditions.

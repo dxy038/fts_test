@@ -1,0 +1,9 @@
+Objective. To describe the methods for designing and testing diagnostic systems in movement analysis and to verify the clinical usefulness of neural networks and statistical classifiers in a case study.
+
+Design. Connectionist and statistical models trained and tested with measured data.
+
+Background. A basic need in rehabilitation and related fields is to efficiently manage the vast information obtained from a movement analysis laboratory. Many studies have dealt with the interpretation of measured variables in order to correlate objective descriptors to the presence and/or severity of specific neuromusculoskeletal disorders or their consequences. This traditional analytical approach has been complemented in the last decade by new non-linear classification tools called neural networks.
+
+Methods. A gait analysis study on 148 lower limb arthrosis patients and 88 age-matched control subjects. Pathological and healthy gait patterns obtained from force plates were discriminated by means of multilayer perceptrons and statistical classifiers. Results. Ten input features were enough to train a multilayer perceptron with six hidden neurons. The discrimination rate of the neural net was 80% after cross-validation, significantly higher (P < 0.05) than the performance of a Bayes quadratic classifier (about 75%). A great variance due to a small cross-validation set could be demonstrated.
+
+Conclusions. Strict statistical requirements must be observed for designing a neural network. Although these models attain a better performance than conventional statistical approaches, the benefits they bring are sometimes not sufficient to justify their use. Further-more, clinicians routinely involved in critical decisions may not consider such diagnostic systems reliable enough.

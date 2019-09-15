@@ -1,0 +1,8 @@
+The objective of this work is to determine the relaxation spectrum of spherical particles reinforced viscoelastic and
+isotropic composites from 3D Finite Elements (FE) simulations of the microstructure. The matrix and the reinforcements
+are assumed to be incompressible and Maxwellian. The spectra obtained from the FE simulations are compared with those
+obtained from analytical homogenization models. This paper presents the procedure used for generating the FE models as
+well as the procedure used for obtaining relaxation spectra meeting the thermodynamics requirements imposed on linear
+viscoelastic materials. It seems that the relaxation spectrum for the microstructure studied in this paper is composed of a
+negligible continuous part and a discrete part of higher intensity. In any case, the resulting material does not have a Maxwellian
+behavior.

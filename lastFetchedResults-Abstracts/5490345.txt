@@ -1,0 +1,1 @@
+Transparence in object access and location in a distributed and persistent environment is regarded as an important goal in order to ease the burden of programming large scale applications. This paper discusses how this objective may be achieved using C++

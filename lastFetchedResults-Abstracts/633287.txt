@@ -1,0 +1,11 @@
+This paper considers a stochastic online scheduling problem in which a set of independent jobs are to
+be processed on a single machine. Each job has a processing time, which is a random variable with
+normal distribution. All the jobs arrive overtime, which means that the existence and the parameters of
+each job including its processing time specifications and weight are unknown until its release date.
+Moreover, the actual processing time of each job is unknown until its completion. During the
+processing, jobs are allowed to be preempted and restarted later. So, the processing time devoted to the
+job before the preemption is lost and considered as preemption penalty. The objective is to minimize
+the expected value of the total weighted completion time. Since the problem is strongly NP-hard, a
+heuristic algorithm is proposed in this paper and is validated using numerical examples. The proposed
+method utilizes the properties of the normal distribution but it can be used as a heuristic for other
+distributions, as long as their means and variances are available.

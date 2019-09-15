@@ -1,0 +1,12 @@
+DG (dispersed generation) application has received increasing attention during recent years. The impact of DG on
+various aspects of distribution system characteristics depends highly on DG location in distribution feeder. This paper
+presents an optimization method to determine long term optimal DG placement in distribution systems in which
+system reliability and operational constraints as well as environmental constraints are taken into account. In order to
+get more realistic results impact of load uncertainty is modeled using normal distribution function. Furthermore, DG
+transactions with the market and corresponding payoffs are calculated. Despite, most of studies dealing with the
+problem from cost minimization point of view in a short term period, here DG placement is investigated from long
+term perspective. To get more accurate results the model considers both DG benefits and costs and the objective
+function is based on DG profit maximization. Benefits of using DG consist of loss reduction revenue, reducing in
+costumers' interruption costs, power purchase saving as well as green house gas and fossil fuel reductions. Whereas,
+the costs consist of initial costs, maintenance and operating costs and DG transition costs as well. The proposed model
+is simulated on a standard IEEE test system to obtain the results and show the accuracy of the model

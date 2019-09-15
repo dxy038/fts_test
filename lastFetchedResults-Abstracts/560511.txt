@@ -1,0 +1,27 @@
+Background: The Patterson-Parker table was created in 1934 to determine mg-hr
+required to deliver the prescribed dose to the treatment area. These tables were created
+using the dosimetric data for 226Ra that was determined in air and were utilized
+for dose calculations around implants with Ra-equivalent radionuclides such as 137Cs
+and 192Ir. Therefore, the differences of the tissue attenuation and anisotropy of these
+radionuclides and their impact on dose uniformity of the implants were ignored.
+Objective: In this study, the Patterson-Parker table has been updated for 137Cs
+and 192Ir sources using their recent dosimetric data. Furthermore, the dose uniformity
+for different loading schemes, as a function of the implant area, was tested.
+Methods: The updated Paterson-Parker tables were generated for 137Cs and 192Ir
+sources using their published dosimetric parameters that have been determined following
+the American Association of Physicists in Medicine (AAPM) Task group 43
+(TG-43U1) recommendations. The accuracies of the updated tables were examined
+by two independent methods, Monte Carlo simulation technique and a commercially
+available treatment planning system. In addition to the dose values along the central
+axis of the implant, dose profiles along two orthogonal directions were evaluated for
+the selection of the optimal radioactivity distribution in an implant.
+Results: We found that the original Paterson-Parker loading scheme of the radioactivity
+as a function of the implant size has to be adjusted to achieve the optimal
+dose distribution (1000 cGy ±10%) in an implant. In addition, it was shown that the
+same implant size for the mg-hr required for 137Cs was not identical to that of 192Ir.
+Similarly, there were some differences between the updated table and the published
+Paterson-Parkers tables. Independent Monte Carlo simulations and treatment planning
+data had excellent agreement with the updated data.
+Conclusion: The conventional version of Paterson-Parker tables are not useful
+for the two commonly used brachytherapy sources. The updated version of the tables
+should be used instead.

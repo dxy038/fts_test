@@ -1,0 +1,25 @@
+The grain yield (Y) of crops is determined by several Y components that reflect
+positive or negative effects. Conventionally, ordinary Y components are screened for
+the highest direct effect on Y. Increasing one component tends to be somewhat
+counterbalanced by a concomitant reduction in other component (s) due to
+competition for assimilates. Therefore, it has been suggested that components be
+manipulated in conjunction with other traits to break the competition-resulting
+barrier. The objective of this study is to optimize the effective components in
+conjunction with certain participant traits for increased barley Y using an artificial
+neural network (ANN) and a genetic algorithm (GA) as an alternative procedure.
+Two field experiments were carried out separately at the Agriculture Research
+Station located in Gonbade Kavous (37o16' N, 55o12' E and 37 asl), Iran. Ten
+genotypes were grown in each experiment, and the Y and certain traits/components
+were measured. Among the components/traits, those with a significant direct effect
+and/or correlation with Y were selected as effective for the ANN and GA analysis.
+The results indicate that the remobilization of stored pre-anthesis assimilates to grain
+(R1), crop height (R2), 1,000-grains weight (R3), grain number per ear (R4),
+vegetative growth duration (R5), grain-filling duration (R6), grain-filling rate (R7),
+and tiller number (R8) were effective. The R2 for the training and test phases was
+0.99 and 0.94, respectively, which reveals the capability of the ANN to predicting Y.
+The optimum values obtained by GA were 14.2%, 104.34 cm, 36.9 g, 41.9, 100 d, 48
+d, 1.22 mg seed-1 day-1, and 3.38 plant-1 for R1 through R8, respectively. The
+optimization increased the potential Y to 5791 kg ha-1, which was higher than that
+observed for the genotypes (3527 to 5163 kg ha-1).
+Keywords: Barley; Grain yield; Yield components; Genetic algorithm; Artificial neural
+network.

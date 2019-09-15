@@ -1,0 +1,6 @@
+In this paper, the deformation of a thick-walled circular cylindrical shell of incompressible isotropic elastic
+material is considered. The shell, which is made of Three-Term strain energy function is subjected to the
+combined external and axial loading pressure. In order to obtain the relevant eigenvalues, which is the main
+objective of the work, the incremental equilibrium equations are solved with two numerical, i.e. Adams-Moulton
+and Compound matrix methods. Finally the bifurcation behavior is investigated by plotting the radius changes
+with respect to the changes of the length of the cylinder.

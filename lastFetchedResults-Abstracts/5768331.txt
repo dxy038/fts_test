@@ -1,0 +1,1 @@
+ORBIT (Objective Ring Beam Injection and Tracking) is a new particle tracking code for rings. Modelling capabilities include H<sup>- </sup> foil injection mechanisms, longitudinal and transverse space charge effects, and second order matrix transport. Additional code features include a programmable interactive driver shell, and interactive plotting

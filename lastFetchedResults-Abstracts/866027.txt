@@ -1,0 +1,4 @@
+Group technology tries to exploit the similarity between parts and machines and forms machine groups and part families. Just-in-time production tries to manufacture the parts whenever required there by reducing the inventory and eliminating waste.
+In order to apply JIT in a GT cell, the cell is divided into modules and parts move from one module to another in small transfer batches. This paper addresses the problem of operator allocation for the modules and sequencing the variety of parts with the objective of minimizing the makespan.
+Six different methodologies have been presented and the results compared in terms of makespan and computational time.
+

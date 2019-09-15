@@ -1,0 +1,8 @@
+We describe a Gauss–Seidel algorithm for optimizing a three-dimensional unstructured grid so as
+to conform to a given metric. The objective function for the optimization process is based on the
+maximum value of an elemental residual measuring the distance of any simplex in the grid to the local
+target metric. We analyse different possible choices for the objective function, and we highlight their
+relative merits and deficiencies. Alternative strategies for conducting the optimization are compared
+and contrasted in terms of resulting grid quality and computational costs. Numerical simulations
+are used for demonstrating the features of the proposed methodology, and for studying some of its
+characteristics.

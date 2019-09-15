@@ -1,0 +1,7 @@
+The problem of describing minimal response time execution strategies in evaluating the join of several fragmented database relations, is considered. The consequential optimization problem assumes the convenient form of a min-max integer program. With further attention, various generalizations are realized that also include the performance objective of total execution cost.
+
+ of data logically conforming to the relational model of information are, at the physical level, frequently divided into numerous pieces. These fragments are found disseminated amongst the various sites of a distributed database system, with each one possibly replicated at any number of separate facilities.
+
+ission demanding the amalgamation of many such relations is resolved by joining together their sets of component fragments in an appropriate manner, as defined by complicated patterns of overlapping attribute values. The final result is realized by then concatenating the products of these computations. This process is to be performed under the supervision of the database management system in such a way as to minimize the time taken, as perceived by the user who issued the request.
+
+developments are based upon earlier investigations [1–5] that consider only the alternative optimization goal of minimal execution cost. With this in mind, several different different approaches may be taken to realize distinct hybrid models that give due regard to both measures of join query performance.

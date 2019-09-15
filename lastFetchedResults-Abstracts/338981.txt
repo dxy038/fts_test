@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DC) play a key role in initiation of immune responses. In vitro modified acute myeloid leukemia (AML) blasts acquire certain specific features of DC and are suggested as a potential source of anti-leukemia vaccines. AML-DC have been characterized in terms of costimulatory molecule expression and cytokine production. In contrast, migratory capacity of AML-DC, which is a major attribute of DC required for their in vivo function, remains unknown. Here we present data on adhesion properties and profile of integrin expression of AML-DC.
+Materials and methods
+
+Blasts from nine patients were used to generate AML-DC by calcium ionophore treatment. Adhesion of AML-DC to the major components of the extracellular matrix and the profile of integrin expression was studied using flow cytometry.
+Results
+
+Similar to their normal counterparts, calcium ionophore-induced AML-DC acquired the ability to bind to fibronectin and in 4 of 7 studied cases to bind to denatured collagen. Adhesion to native collagen remained unchanged during DC-type differentiation of AML blasts. AML-DC and DC obtained from monocytes of healthy donors expressed CD49d, CD49e, αvβ3, and αvβ5. However, AML-DC from 3 of 8 patients down-regulated CD49d, which plays an important role in cell-to-cell and cell-to-matrix interactions and normally is coexpressed with CD83.
+Conclusion
+
+The results provide further evidence that AML blasts can be induced to display functional properties characteristic for DC and may prove useful for in vivo delivery and presentation of tumor antigens to the immune system. Abnormal CD49d expression and variability in AML-DC adhesion to denatured collagen indicate that motility of AML-DC from individual patients may vary, and a customized approach is essential for evaluating leukemic cell feasibility for vaccine design.

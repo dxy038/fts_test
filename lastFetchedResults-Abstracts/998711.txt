@@ -1,0 +1,5 @@
+Sensitivity and specificity are two widely accepted parameters to qualify a model when working in class-modelling problems. Further, the trade-off between these two parameters is well known. In the present work the problem of building models taking into account both sensitivity and specificity is posed in its real nature, as a multi-objective optimisation problem because we have two, in general, conflicting objectives.
+
+To do this, a new training algorithm for neural networks has been programmed that allows the user to find a set of Pareto-optimal solutions, i.e., different models with different values for sensitivity and specificity in such a way that the user may decide among models depending on the goal of the study being done.
+
+The procedure is applied to some real data sets to see its versatility and help to understand and interpret the resulting models.

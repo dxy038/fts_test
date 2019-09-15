@@ -1,0 +1,1 @@
+We experimentally demonstrate a Tb/s optical transport network based on CO-OFDM superchannel employing two types of ROADMs. The functional operations of bidirectional communication over single-fiber links, optical channel switching, and sub-band switching are verified.

@@ -1,0 +1,6 @@
+Introduction: One of the most well-known oncogenes in breast cancer is HER2 (ERBB2 or EGFR2). The principal component of Milk Thistel is silybin, a polyphenolic flavonolignan isolated from silymarin, with both anti-oxidant and anti-cancer properties. Natural polyphenols are one of the most effective components for inhibiting cancers due to their high efficiency and fewer side effects.
+Objective: Investigating the effect of silybin on HER2 gene expression in SKBR3 breast cancer cell line.
+Materials and Methods: First, the SKBR3 was cultured, then we used MTT assay to determine the toxicity of silybin. Finally, using RT-Real Time PCR we studied the gene expression.
+Results: The cytotoxicity of silybin was evaluated by MTT assay in SKBR3 cell line in eight doses (50 - 350 µM) after 24, 48 and 72 h. Silybin showed dose and time dependent cell growth inhibitory effects in this cell line. The IC50 values of silybin after 48 and 72 h were determined to be 274/47 and 203/38, respectively. The results of Real Time RT-PCR indicated the significant down regulation of HER2 by 150 and 250 µM of silybin after 24, 48 and 72h. 
+Conclusion: Silybin can be used for HER2 positive breast cancer to down regulate HER2 gene expression, thanks to respective fewer side effects and extensive effects on different cancers.
+

@@ -1,0 +1,11 @@
+Objective. To determine moment arm lengths from seven knee muscles and the patellar tendon. The knee muscles were the biceps femoris, semitendinosus, semimembranosus, gracilis, sartorius, and the lateral and medial gastrocnemius muscles.
+
+Design. The moment arms were calculated based on MRI measurements.
+
+Background. Moment arm lengths of different muscles with respect to the joint centre of rotation (CR) or the centre of the contact point between joint surfaces are necessary basic data for biomechanical models predicting joint load.
+
+Methods. Ten male and seven female subjects participated. Using a 1.5 Tesla magnetic resonance imaging system, 3-dimensional coordinates of relevant points were recorded from a 3-D volume reconstruction of the right knee at knee flexion angles of 0, 30 and 60 °. Muscular moment arms were calculated in both the sagittal and frontal planes. The recordings were all made during passive mode, which means that no muscular contraction was performed.
+
+Results. All muscles except the lateral gastrocnemius showed statistically significant differences (P < 0.05) of moment arm lengths between gender in the frontal plane. All muscles except biceps femoris and sartorius showed significant differences (P < 0.05) of moment arm lengths between gender in the sagittal plane. Most muscles also showed a linear or quadratic trend of changing moment arms with varying knee angle.
+
+Conclusions. Our results indicate that for most biomechanical analyses involving knee muscles, gender- and angle-specific moment arms should be used.

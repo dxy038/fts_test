@@ -1,0 +1,8 @@
+Planners, policy-makers and their technicians have the difficult task to intervene in complex human-natural systems. It is not enough for them
+to focus on individual processes; rather it is necessary to address the system as a complex integral whole. In the given circumstances, integrated
+models as part of Policy Support Systems (PSS) can provide support. The MedAction PSS incorporates socio-economic and physical processes in
+a strongly coupled manner. It is implemented with the GEONAMICA  application framework and is intended to support planning and policy
+making in the fields of land degradation, desertification, water management and sustainable farming. The objective of this paper is to provide
+some insight in the individual models, the model integration achieved, as well as the actual use of the MedAction PSS. For the latter an application
+example is developed. The paper also argues that technical and scientific aspects of Policy Support Systems are not the sole elements deciding on
+their use in practice and concludes with some lessons learned during the development and use of the MedAction PSS and similar systems.

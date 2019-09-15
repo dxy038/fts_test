@@ -1,0 +1,12 @@
+Objective
+Rates of preventive counseling remain below national guidelines. We explored physician and patient predictors of preventive counseling across multiple cancer risk behaviors in at-risk primary care patients.
+Methods
+
+We surveyed 3557 patients, with at least one of four cancer risk behaviors: smoking, diet, sun exposure, and/or mammography screening, at baseline and 24 months. Patients reported receipt of 4A's (Ask, Advise, Assist, Arrange follow-up); responses were weighted and combined to reflect more thorough counseling (Ask = 1, Advise = 2, Assist = 3, Arrange = 4, score range 0–10) for each target behavior. A series of linear-regression models, controlling for office clustering, examined patient, physician and other situational predictors at 24 months.
+Results
+
+Risk behavior topics were brought up more often for mammography (90%) and smoking (79%) than diet (56%) and sun protection (30%). Assisting and Arranging follow-up were reported at low frequencies across all behaviors. More thorough counseling for all behaviors was associated with multiple visits and higher satisfaction with care. Prior counseling predicted further counseling on all behaviors except smoking, which was already at high levels. Other predictors varied by risk behavior.
+Conclusions
+
+More thorough risk behavior counseling can be delivered opportunistically across multiple visits; doing so is associated with more satisfaction with care.
+

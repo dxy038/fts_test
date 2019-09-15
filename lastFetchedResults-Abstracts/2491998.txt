@@ -1,0 +1,7 @@
+The main objective of this study is to swing Krull intersection theorem in primary decomposition of rings and
+modules to the primary decomposition of soft rings and soft modules. To fulfill this aim several notions like soft
+prime ideals, soft maximal ideals, soft primary ideals, and soft radical ideals are introduced for a soft ring over a
+given unitary commutative ring. Consequently, the primary decomposition of soft rings and soft modules is
+established. In addition, the ascending and descending chain conditions on soft ideals and soft sub modules of soft
+rings and soft modules are introduced, respectively, enabling us to develop the notions of soft Noetherian rings
+and soft Noetherian modules.

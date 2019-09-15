@@ -1,0 +1,11 @@
+Objective. To assess the accuracy of the Kinemetrix motion analysis system to measure horizontal movement by a single reflective marker away from two cameras with differing camera placements.
+
+Design. Trial of the effects of nine different camera arrangements on precision of non-human movement.
+
+Background. In many cases the ability to arrange cameras to allow a separation of 60 ° is not possible. Little is known about the precision of motion analysis systems for small camera angle separations.
+
+Methods. The accuracy of the Kinemetrix system was assessed with camera horizontal separations of 15 °, 30 ° and 45 °, and vertical separations of 0 °, 15 ° and 30 ° rendering nine different camera placements. The distance between the cameras and the object was always maintained at 4 m. During each test the marker was moved a known horizontal distance along a line bisecting the horizontal angular separation of the two cameras. The mean absolute errors of the Kinemetrix measurement were calculated.
+
+Results. At the smallest camera separation tested (15 ° horizontal, 0 ° vertical), the Kinemetrix was unable to calculate the three-dimensional co-ordinate of the marker. For all other camera positions tested, the errors in measurements were small (mean absolute errors <2 mm).
+
+Conclusions. Maintaining camera horizontal and vertical separations above a sum of 30 ° is sufficient for clinical testing.

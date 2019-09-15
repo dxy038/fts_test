@@ -1,0 +1,1 @@
+Considers the adaptive output tracking problem in a state feedback configuration, with induced L<sub>2</sub> norm tracking objective. The authors´ scheme does not guarantee the convergence of the estimated parameter, but the updated parameter vector &#920; is kept in the prescribed parameter set

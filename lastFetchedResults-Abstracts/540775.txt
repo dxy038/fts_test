@@ -1,0 +1,30 @@
+از مدلهاي شبيهسازي گياهان زراعي به طور گسترده در كشاورزي استفاده ميشود. اين مدلها باعث
+CropSyst-Wheat صرفهجويي در وقت و هزينه ميشوند. هدف اين مطالعه ارزيابي مدل شبيهسازي
+براي پيشبيني نمو، رشد و عملكرد گندم بود. براي اين منظور از دادههاي آزمايشهاي مزرعهاي مختلف
+براي چهار رقم گندم كوهدشت، شيرودي، تجن و زاگرس كه از ارقام مورد استفاده در استان گلستان
+هستند، استفاده گرديد. توانايي مدل در شبيهسازي مراحل فنولوژيك روز تا گردهافشاني، روز تا رسيدگي،
+توليد ماده خشك در گردهافشاني و رسيدگي، شاخص سطح برگ در گردهافشاني، تجمع نيتروژن در
+(RMSE) گردهافشاني و رسيدگي و عملكرد دانه مورد ارزيابي قرار گرفت. جذر ميانگين مربعات خطا
+6 درصد ميانگين / 4 و 4 / 9 روز بود كه به ترتيب 6 / 5 و 5 / براي روز تا گردهافشاني و روز تا رسيدگي 2
+1 مترمربع بر مترمربع بدست آمد كه / براي شاخص سطح برگ در گردهافشاني 2 RMSE ميباشد. مقدار
+13 درصد / برابر 556 كيلوگرم در هكتار بود كه 3 RMSE 20/9 درصد ميانگين است. براي عملكرد دانه
+ميانگين عملكرد است. براي ساير ويژگيهاي نمو و رشد نيز پيشبينيهاي مدل مناسب بودند. بنابراين،
+ميتوان از اين مدل براي شبيهسازي اين ارقام استفاده نمود.
+
+
+
+Abstract
+Crop simulation models are increasingly used in agriculture. These models help
+in saving time and expenses. The objective of this study was to evaluate CropSyst
+model in predicting development, growth and yield of wheat cultivars from
+Golestan province. To do this, experimental data from different experiments were
+gathered for Kohdasht, Shiroodi, Tajan and Zagros. Model performance in
+simulating days to anthesis and maturity, biomass accumulation at anthesis and
+maturity and leaf area index at anthesis, nitrogen accumulation at anthesis and
+maturity and grain yield were evaluated. Root mean square error (RMSE) were 5.2
+and 9.5 days for anthesis and maturity that were 4.6% and 6.4% of the means,
+respectively. RMSE of LAI at anthesis was 1.2 m2.m-2 that was 20.9% of the mean.
+For grain yield, RMSE was 556 kg.ha-1, 13.3% of mean. For other development
+and growth characteristics, model performance was acceptable. Therefore, this
+model can be used in simulation of these cultivars.
+Keywords: Wheat; CropSyst model; Growth and development; Evaluation

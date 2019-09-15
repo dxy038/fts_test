@@ -1,0 +1,1 @@
+In this paper, we propose a multiobjective analysis for TEAM workshop problem 25. In order to obtain the Pareto frontier, the objective functions are replaced by approximations. A straightforward method, based on the use of approximations, is used to obtain a Pareto set.

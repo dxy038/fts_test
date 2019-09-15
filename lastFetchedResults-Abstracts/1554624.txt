@@ -1,0 +1,1 @@
+In addition to giving some delay-independent conditions for global stability of the bidirectional associative memory neural networks with delays, we perform analysis of local stability and Hopf bifurcation. We also work out an algorithm for determining the direction and stability of the bifurcated periodic solutions.

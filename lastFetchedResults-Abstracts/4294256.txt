@@ -1,0 +1,1 @@
+This work proposes an accurate method to calculate the semiconductor power losses in a matrix converter (MC). It is based on the static and dynamic characterization of the power devices within a bidirectional switch (BDS). Direct applications of the proposed method are, for example, the selection of the optimum power semiconductors to implement MC and cooling systems design.

@@ -1,0 +1,1 @@
+A method of fundamental reactive power compensation of three-phase systems which does not need any energy storage elements is presented. A set of bidirectional switches is imposed between the supply lines and the load. Alternate switching of one supply line and two load lines is the basis of the operation. The basis of the system is phase angle modulation

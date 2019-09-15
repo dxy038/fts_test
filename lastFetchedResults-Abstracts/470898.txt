@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to develop a predictive model of risk for shoulder dystocia (ShD) with injury.
+Study design
+Medical records in 3 urban university teaching hospitals were reviewed to identify and characterize 498 cases of ShD, including 90 with neonatal injury and a comparison group with of 622 with vaginal delivery (VgD) without ShD. The data were subjected to logistic regression modeling to find the best combination of variables to discriminate between the injury and VgD groups.
+Results
+The best model included birth weight in combination with maternal height and weight as well as gestational age and parity. A score over 0.5 detected 50.7% of the shoulder dystocia cases with brachial plexus injury along with a false positive rate of 2.7%.
+Conclusion
+Using a statistical model it is possible to identify adverse combinations of factors that are associated with ShD and neonatal injury along with a relatively low false positive rate.
+

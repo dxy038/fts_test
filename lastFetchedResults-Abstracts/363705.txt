@@ -1,0 +1,9 @@
+Study objective
+The trauma services provided by 6 hospitals operating at 2 levels of care (4 secondary or district general hospitals and 2 tertiary care hospitals) in Malaysia are compared in terms of mortality and disability for direct admissions to emergency departments to test the hypothesis that care at a tertiary care hospital is better than at a district general hospital.
+Methods
+All cases were recruited prospectively for 1 year. The hospitals were purposefully selected as typical for Malaysia. There are 3 primary outcome measures: death, musculoskeletal impairment, and disability at discharge. Adjustment was made for potential covariates and within-hospital clustering by using multivariable random-effects logistic regression analysis.
+Results
+For direct admissions, logistic-regression-identified odds of dying were associated with older age (>55 years), odds ratio (OR) 1.9 (95% confidence interval [CI] 1.3 to 2.8); head injury, OR 2.7 (95% CI 1.9 to 3.9); arrival by means other than ambulance, OR 0.6 (95% CI 0.4 to 0.8); severe injuries (Injury Severity Score >15) at a district general hospital, OR 45.2 (95% CI 27.0 to 75.7); severe injuries at a tertiary care hospital, OR 11.2 (95% CI 7.3 to 17.3); and admission to a tertiary care hospital compared to a district general hospital if severely injured (Injury Severity Score >15), OR 0.2 (95% CI 0.1 to 0.4). Admission to a tertiary care hospital was associated with increased odds of disability (OR 1.9; 95% CI 1.5 to 2.3) and musculoskeletal impairment (OR 3.5; 95% CI 2.7 to 4.4) at discharge.
+Conclusion
+Care at a tertiary care hospital was associated with reduced mortality (by 83% in severe injuries), but with a higher likelihood of disability and impairment, which has implications for improving access to trauma services for the severely injured in Malaysia and other low- and middle-income settings
+

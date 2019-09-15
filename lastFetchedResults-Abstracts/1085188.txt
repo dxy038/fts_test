@@ -1,0 +1,13 @@
+Allocating and routing problems in the field of transportation engineering are generally solved using the objective
+function of minimizing transport cost. Transport risk is a main concern in hazardous material transportation, mainly
+dependent on the vision of decision makers (national and/or local authorities). In this research work, a trade-off approach
+has been proposed to determine the safest paths and the best locations of distribution centers for carrying
+the third type of hazardous materials categorized as flammable liquids. Trade-off has been defined between risk and
+cost, whereas a bi-level objective function has been developed to determine the best routes for hazardous material
+transportation and also to determine the best locations for establishing the main distribution centers. At the first level,
+obtaining the best locations for distribution centers are obtained then determining the safest paths of origin-destination
+is developed at the second level. Experimental data in the second largest Iranian province of Fars which consists of
+fifty-nine nodes and eighty edges has been used for applying analytical process. Results show that decision makers
+should be aware in the process of allocating and routing problems as well as influencing attributes before to make
+decisions, because the priorities of risk and time and the number of distribution centers play significant roles in routing
+and allocating hazardous materials.

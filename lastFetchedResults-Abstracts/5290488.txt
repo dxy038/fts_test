@@ -1,0 +1,1 @@
+The main objective of this educational paper is to provide an updated survey of ASIC and FPGA technologies´ convergence in reconfigurable and embedded systems. Through the analysis of design methodologies and strategies facing multi-core and power consumption challenges we will follow that evolution approaching ASIC and FPGA architectures on the embedded systems arena.

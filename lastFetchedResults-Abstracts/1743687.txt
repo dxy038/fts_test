@@ -1,0 +1,7 @@
+Knowledge about spinal loading is required for designing and preclinical testing of spinal implants. It is assumed that loading of the spine depends upon body weight and height, as well as on the spine level, but a direct measurement of the loading conditions throughout the spine is not yet possible. Here, computer models can allow an estimation of the forces and moments acting in the spine. The objective of the present study was to calculate spinal loads for different postures and activities at several levels of the thoracolumbar spine for various combinations of body height and weight.
+
+dated musculoskeletal model, together with commercially available software (AnyBody Technology), were used to calculate the segmental loads acting on the centre of the upper endplate of the vertebrae T12 to L5. The body height was varied between 150 and 200 cm and the weight between 50 and 120 kg. The loads were determined for five standard static postures and three lifting tasks.
+
+sultant forces and moments increased approximately linearly with increasing body weight. The body height had a nearly linear effect on the spinal loads, but in almost all loading cases, the effect on spinal loads was stronger for variation of body weight than of body height. Spinal loads generally increased from cranial to caudal.
+
+esented data now allow the estimation of the spinal load during activities of daily living on a subject specific basis, if body height and weight are known.

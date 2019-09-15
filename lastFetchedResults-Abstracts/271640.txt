@@ -1,0 +1,9 @@
+Buckling and imperfection sensitivity are the primary considerations in analysis and design of thin shell
+structures[ The objective here is to develop accurate and e.cient capabilities to predict the postbuckling
+behavior of shells\ including imperfection sensitivity[ The approach used is based on the Lyapunov Schmidt 
+Koiter "LSK# decomposition and asymptotic expansion in conjunction with the _nite element method[ This
+LSK formulation for shells is derived and implemented in a _nite element code[ The method is applied to
+cylindrical and spherical shells[ Cases of linear and nonlinear prebuckling behavior\ coincident as well as
+non!coincident buckling modes\ and modal interactions are studied[ The results from the asymptotic analysis
+are compared to exact solutions obtained by numerically tracking the bifurcated equilibrium branches[ The
+accuracy of the LSK asymptotic technique\ its range of validity\ and its limitations are illustrated

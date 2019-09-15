@@ -1,0 +1,8 @@
+Objective
+pare the outcomes of patients who had a elective partial nephrectomy (PN) or radical nephrectomy (RN) for clear cell renal cell carcinoma (RCC) of 4–7 cm.
+ts and Methods
+arch 1998 to July 2004, 45 and 151 patients underwent PN and RN, respectively, for clear cell RCC. A multivariate Cox model was constructed for disease-free survival with adjustment for markers of disease severity, and a propensity-score approach used as a confirmatory analysis.
+s
+ PN and RN cohorts the treatment failed in one and 20 patients, respectively; the median follow-up was 21 months. The hazard ratio (95% confidence interval) for PN after adjusting for disease severity was 0.36 (0.05–2.82; P = 0.3). Using planned PN as a predictor (intent-to-treat analysis) the hazard ratio was 1.06 (0.32–3.53; P = 0.9). In the propensity-score model, planned PN was associated with a hazard ratio of 1.75 (0.50–6.14; P = 0.4). The serum creatinine level 3 months after surgery was significantly lower in patients who had PN, with a difference between the means of 0.36 (0.23–0.48; P &lt; 0.001).
+sions
+function was preserved after PN for 4–7 cm clear cell RCC tumours. When comparing the outcomes of PN and RN it is important to consider the intended operation as an independent variable. There was no clear evidence that PN was associated with worse cancer control, although a continued follow-up of this and other cohorts is warranted.

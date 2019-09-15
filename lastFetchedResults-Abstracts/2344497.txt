@@ -1,0 +1,9 @@
+
+Background and objective: Numerous studies have reported beneficial effects of smoking cessation in terms of decreased cardiovascular mortality in patients with coronary heart disease. This paper aimed to determine a valid estimate for the relative risk of mortality in subjects who quit smoking compared to those continued smoking. Methods: All relevant prospective cohort studies of chronic heart disease published during 1975 to 2008 were considered. Studies with at least two years follow-up were eligible for analysis. The qualities of studies were assessed independently by two reviewers. In addition, to obtain a precise estimate, we used the sample size and the follow-up duration of each study as the covariates in the Bayesian meta-analysis model. The Winbugs and Boa softwares were utilized for fitting the Bayesian meta-analysis model.
+
+Results: The estimate of relative risk of mortality for those who quit smoking compared to those continued smoking was 0.64 (95%CI: 0.57-0.70). We also did not find any significant relationship between the estimate of risk reduction and the described covariates.
+
+Conclusions: Using this Bayesian meta-analysis, a 36% reduction in relative risk of mortality was found for those who quit smoking compared to those continued smoking, after eliminating the effects of study sample size and follow-up duration.
+
+
+

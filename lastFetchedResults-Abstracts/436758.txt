@@ -1,0 +1,11 @@
+Background
+Platelet transfusion has been reported to confer increased morbidity after cardiac surgery but prior studies were limited by confounding variables including red blood cell (RBC) transfusions. Our objective was to examine the impact of platelet transfusion on outcomes in cardiac surgery controlling perioperative risk factors.
+Methods
+
+A total of 32,298 patients underwent on-pump isolated coronary artery bypass grafting (CABG), an isolated valve, or a combined CABG and valve procedure between January 1, 1993 and January 1, 2006. Regression analysis and propensity methodology was employed to assess the association between platelet transfusion and morbidity.
+Results
+
+Univariate comparisons demonstrated that patients who received platelet transfusions had increased morbidity. After risk adjustment with both multivariable regression and propensity methods, platelet transfusion was not significantly associated with in-hospital mortality: odds ratio (OR) 0.74 confidence limits 0.58, 0.95, p = 0.017 and 2.05% vs 3.06%, p = 0.017, respectively. Among 2,774 propensity matched-pairs, platelet transfusion was associated with similar or reduced morbidity, platelets versus no platelets: cardiac 2.42% vs 1.77%, p = 0.09; pulmonary 8.94% vs 9.88%, p = 0.23; renal 1.33% vs 1.48%, p = 0.65; neurologic 2.27% vs 3.21%, p = 0.033; serious infection 4.15% vs 5.34%, p = 0.037; and composite outcome 15.0% vs 17.2%, p = 0.024. Among a propensity-matched subgroup of patients never administered a concomitant RBC transfusion, platelet transfusion was not associated with increased morbidity: 4.49% vs 2.99%, p = 0.31.
+Conclusions
+
+Platelet transfusion was not found to increase morbid risk after cardiac surgery. Our results should not be interpreted as advocating platelet transfusions in cardiac surgery; rather, platelet transfusion empirically in the setting of persistent microvascular bleeding is not associated with increased morbid risk.

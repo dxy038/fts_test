@@ -1,0 +1,1 @@
+The design of a unique bidirectional 2&#215;2 SOA-based optical switch is detailed and experimentally validated. Error-free operation and routing correctness is verified for 4&#215;10Gb/s pseudorandom messages.

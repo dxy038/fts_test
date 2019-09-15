@@ -1,0 +1,11 @@
+Objective
+Prepulse inhibition of the blink reflex is a robust phenomenon with an interesting physiology and a large potential for clinical applicability. In the study presented here we investigated whether the blink reflex inhibition by a prepulse (BRIP) is influenced by the blink reflex excitability recovery (BRER).
+Methods
+The study was undertaken in 20 patients with Parkinson's disease (PD), 20 patients with Huntington's disease (HD) and 20 healthy volunteers. BRER was determined by measuring the size of the response to a test supraorbital nerve stimulus as a percentage of the response to a conditioning stimulus at inter-stimuli intervals of 100–1000 ms. BRIP was determined as the percentage reduction induced in the response to a supraorbital nerve stimulus by either a low intensity auditory click or a weak third finger somatosensory stimulus, applied with a leading interval of 50–110 ms.
+Results
+There was a negative correlation between the percentage BRER and the percentage BRIP (Pearson's correlation coefficient of −0.37). BRER was enhanced in 14 PD patients (70%) and 6 HD patients (30%), while it was depressed in 10 HD patients (50%). BRIP was significantly reduced in 15 PD patients (75%) and 16 HD patients (80%). No significant correlation was found between abnormally enhanced BRER and abnormally reduced BRIP in all patients as a group (χ2=2.4; P=0.11). A weak correlation was found in PD patients (P=0.019), and no correlation was observed in HD patients (P=0.8).
+Conclusions
+Our results indicate that an abnormally reduced BRIP was not always accompanied by an abnormally enhanced BRER in patients with HD. The two tests likely assess specific and distinct brainstem functions, and provide different types of information. While BRIP may be the result of a widespread integrative processing of sensory stimuli, BRER likely reflects the excitability of a chain of brainstem inter-neurons.
+Significance
+BRER and BRIP provide independent information on the state of functionally separate circuits that converge on trigemino-facial brainstem inter-neurons.
+

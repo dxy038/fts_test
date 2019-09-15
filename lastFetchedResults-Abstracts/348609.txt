@@ -1,0 +1,11 @@
+Objective
+To determine the feasibility of performing electrical impedance myography (EIM) in rats.
+Methods
+EIM was performed on the hamstring muscles of 6 healthy adult rats with applied frequencies of 2–300 kHz. Studies were performed over a 6-week period, with 3 rats having recordings made from the skin (surface EIM) and 3 with recordings directly from the muscle (direct-muscle EIM). In addition, sciatic nerve crush was performed on one rat and comparisons made pre- and post-injury. Reactance and resistance were measured and the primary outcome variable, the phase angle (θ), calculated.
+Results
+EIM patterns in the rat hamstring muscles were qualitatively similar to those observed in human subjects. This held true for both surface and direct-muscle recordings, although direct-muscle data appeared less repeatable. Sciatic nerve crush data in the single rat showed a dramatic reduction in phase and a relative loss of frequency-dependence.
+Conclusions
+EIM data similar to that obtained from human subjects can be acquired from rat muscles with surface recordings proving more consistent and easier to obtain than direct-muscle recordings. Changes seen with sciatic nerve crush mirror those seen in patients with neurogenic injury.
+Significance
+These results support the possibility of performing EIM on rat models of neuromuscular disease.
+

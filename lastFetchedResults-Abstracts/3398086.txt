@@ -1,0 +1,1 @@
+By employing an iterative procedure based on a bidirectional beam propagation method, we develop a numerical algorithm to model light propagation in multilayered structures with second-order nonlinearities. Examples of the applicability of this technique in describing second harmonic generation in photonic crystals are given

@@ -1,0 +1,11 @@
+Objective
+The pathophysiology of bone marrow failure in Fanconi anemia (FA) patients is thought to involve excessive apoptosis involving signaling triggered by fas ligation and tumor necrosis factor (TNF)–α, or interferon (IFN)-γ exposure. We investigated whether a new member of the TNF family, TRAIL (TNF-related apoptosis-inducing ligand), would similarly trigger preferential apoptotic cell death in FA phenotype cells.
+Material and Methods
+
+Hematopoietic cells from FANCC−/− transgenic mice and human FA-C lymphoblasts (HSC536N) as well as their phenotypically corrected counterparts (FANCC+/+, HSC536/FA-Cneo) were compared for their response to apoptosis induction by TRAIL and fas ligation in the presence or absence of IFN-γ. Cells were also studied for the protein and gene expression of TRAIL-receptors, caspase-8 and its inhibitory protein, FLIP.
+Results
+
+TRAIL exposure by itself or in combination with IFN-γ did not lead to preferential apoptosis induction in human and murine FA-C phenotype hematopoietic cells. This resistance was unrelated to the expression of TRAIL receptors or FLIP isoforms, but correlated with absent cleavage of pro-caspase-8. Results were validated by those from gene expression profiling of relevant genes in the two lymphoblast cell lines.
+Conclusion
+
+TRAIL, in contrast to fas ligation, does not induce preferential apoptosis in FA-C phenotype cells despite shared downstream signaling described in non-FA models. These data provide further insight into the complexity of FA-C-regulated apoptotic signaling.

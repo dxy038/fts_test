@@ -1,0 +1,11 @@
+The objective of this work is to present the development of an automatic solar water heater (SWH) fault diagnosis system (FDS). The
+FDS system consists of a prediction module, a residual calculator and the diagnosis module. A data acquisition system measures the
+temperatures at four locations of the SWH system and the mean storage tank temperature. In the prediction module a number of artificial
+neural networks (ANN) are used, trained with values obtained from a TRNSYS model of a fault-free system operated with the
+typical meteorological year (TMY) for Nicosia, Cyprus and Paris, France. Thus, the neural networks are able to predict the fault-free
+temperatures under different environmental conditions. The input data to the ANNs are various weather parameters, the incidence angle,
+flow condition and one input temperature. The residual calculator receives both the current measurement data from the data acquisition
+system and the fault-free predictions from the prediction module. The system can predict three types of faults; collector faults and faults
+in insulation of the pipes connecting the collector with the storage tank and these are indicated with suitable labels. The system was validated
+by using input values representing various faults of the system.
+  2007 Elsevier Ltd. All rights reserved

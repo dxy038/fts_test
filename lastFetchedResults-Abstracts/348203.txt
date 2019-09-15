@@ -1,0 +1,11 @@
+Objective
+Standard coils used in research and the clinic for noninvasive magnetic stimulation of the human brain are not capable of stimulating deep brain regions directly. As the fields induced by these coils decrease rapidly as a function of depth, only very high intensities would allow functional stimulation of deep brain regions and such intensities would lead to undesirable side effects. We have designed a coil based on numerical simulations and phantom brain measurements that allows stimulation of deeper brain regions, termed the Hesed coil (H-coil). In the present study we tested the efficacy and some safety aspects of the H-coil on healthy volunteers.
+Methods
+The H-coil was compared to a regular figure-8 coil in 6 healthy volunteers by measuring thresholds for activation of the abductor pollicis brevis (APB) representation in the motor cortex as a function of distance from each of the coils.
+Results
+The rate of decrease in the coil intensity as a function of distance is markedly slower for the H-coil. The motor cortex could be activated by the H-coil at a distance of 5.5 cm compared to 2 cm with the figure-8 coil.
+Conclusions
+The present study indicate that the H-coil is likely to have the ability of deep brain stimulation and without the need of increasing the intensity to extreme levels that would cause a much greater stimulation in cortical regions.
+Significance
+The ability of non-invasive deep brain stimulation potentially opens a wide range of both research and therapeutic applications.
+

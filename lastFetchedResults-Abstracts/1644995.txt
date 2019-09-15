@@ -1,0 +1,11 @@
+Existing masonry structures often need to be strengthened or repaired. In many cases, the intervention is realized using composite materials bonded to the surface of the structural element.
+
+y masonry structures the use of fabric reinforced cementitious matrices (FRCM) is preferred to the fiber reinforced polymers (FRP).
+
+pical experimental stress–strain behavior exhibited by a FRCM composite under a direct tensile test is a tri-linear curve with a first phase that increases linearly according to mortar Young’s modulus, a second phase where the cracks in the mortar start to grow, and a last phase in which the mortar is fully cracked and the curve assumes the same slope of the stiffness of the fabric. According to a wide experimental campaign conducted on the subject at the Politecnico di Milano, the curves exhibit a relatively wide scatter, especially in the second phase, making the standardization of the direct tensile test a rather difficult task.
+
+he aim of having an insight into the observed experimental variability, a comprehensive FE numerical analysis was conducted and is presented in this paper. Two different FE codes were utilized. One with less sophisticated material models, the second with the possibility to deal with softening and damage in the post peak range. The use of commercial codes instead of home-made models was voluntary, with the precise final aim of enabling other researchers the reproduction of results with similar models and for analogous experiments. Three different variables that can affect the mechanical behavior in tension were examined (non-planarity of the composite grid, bending of the specimen and pre-existing micro-cracks), leading to three different sets of simulations.
+
+l objective of the numerical simulation was to study and compare possible constitutive models for the cementitious matrix to simulate the experiments. At this aim, three different material models were used for mortar belonging to FRCM specimens in tension.
+
+merical results obtained satisfactory reproduce experimental evidences and provide a justification of the relative large scatter of the data.

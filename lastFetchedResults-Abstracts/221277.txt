@@ -1,0 +1,22 @@
+This paper addresses the problem of both segmenting
+and reconstructing a noisy signal or image. The work is motivated
+by large problems arising in certain scientific applications, such as
+medical imaging. Two objectives for a segmentation and denoising
+algorithm are laid out: it should be computationally efficient
+and capable of generating statistics for the errors in the reconstruction
+and estimates of the boundary locations. The starting
+point for the development of a suitable algorithm is a variational
+approach to segmentation [1]. This paper then develops a precise
+statistical interpretation of a one-dimensional (1-D) version of this
+variational approach to segmentation. The 1-D algorithm that
+arises as a result of this analysis is computationally efficient and
+capable of generating error statistics. A straightforward extension
+of this algorithm to two dimensions would incorporate recursive
+procedures for computing estimates of inhomogeneous Gaussian
+Markov random fields. Such procedures require an unacceptably
+large number of operations. To meet the objective of developing a
+computationally efficient algorithm, the use of recently developed
+multiscale statistical methods is investigated. This results in the
+development of an algorithm for segmenting and denoising which
+is not only computationally efficient but also capable of generating
+error statistics, as desired.

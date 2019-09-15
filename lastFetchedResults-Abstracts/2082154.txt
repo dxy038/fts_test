@@ -1,0 +1,10 @@
+AbstractObjectives
+ent caries is characterized as demineralization of the tooth enamel reflecting in increased porosity of enamel structure. As a result, the demineralized enamel may contain increased amount of water, and exhibit different water evaporation dynamics than the sound enamel. The objective of this paper is to assess the applicability of water evaporation dynamics of sound and demineralized enamel for detection and quantification of incipient caries using near-infrared hyperspectral imaging.
+s
+me lapse of water evaporation from enamel samples with artificial and natural caries lesions of different stages was imaged by a near-infrared hyperspectral imaging system. Partial least squares regression was used to predict the water content from the acquired spectra. The water evaporation dynamics was characterized by a first order logarithmic drying model. The calculated time constants of the logarithmic drying model were used as the discriminative feature.
+s
+nducted measurements showed that demineralized enamel contains more water and exhibits significantly faster water evaporation than the sound enamel. By appropriate modelling of the water evaporation process from the enamel surface, the contrast between the sound and demineralized enamel observed in the individual near infrared spectral images can be substantially enhanced.
+sions
+esented results indicate that near-infrared based prediction of water content combined with an appropriate drying model presents a strong foundation for development of novel diagnostic tools for incipient caries detection.
+al Significance
+sults of the study enhance the understanding of the water evaporation process from the sound and demineralized enamel and have significant implications for the detection of incipient caries by near-infrared hyperspectral imaging.

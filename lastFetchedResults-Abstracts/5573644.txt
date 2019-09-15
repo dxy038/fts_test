@@ -1,0 +1,1 @@
+A multi-objective function cooperative algorithm based on non-collaboration game and Nash equilibrium is designed, which combines maximum bandwidth profitability with maximum proportional fairness. As applied in cognitive radio environment, the proposed algorithm can win trade-off between fairness and bandwidth profit, and realize effective spectrum distribution.

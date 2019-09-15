@@ -1,0 +1,6 @@
+Objective: To investigate spatiotemporal features of the isofrequency bands for 400 and 4000 Hz tones in human auditory cortex and on the hemispheric differences in the arrangement of isofrequency bands.
+Methods: We recorded auditory evoked magnetic fields (AEFs) to 400 or 4000 Hz tone pips presented at right or left ear from 31 normal subjects. The dipole location for the N100m sources was successively calculated from the AEFs obtained from the hemisphere contralateral to the stimulated ear.
+Results: In the right hemisphere, the current sources for 400 and 4000 Hz moved toward the anterolateral direction before the N100m peak, showing parallel arrangement of the isofrequency bands (4000 Hz in medial location). In the left hemisphere, the movement direction of 400 Hz dipoles was anterolateral, while that of 4000 Hz dipoles was lateral.
+Conclusions: This difference in the organization of isofrequency bands between right and left auditory cortices reflects distinct functional roles in auditory information processing such as pitch vs. language discrimination.
+Significance: This work is the first to disclose isofrequency bands in human auditory cortex based on the analysis of magnetoencephalography.
+

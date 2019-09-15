@@ -1,0 +1,11 @@
+Producing good quality products is an important process control objective. However, achieving this
+objective can be very difficult in a continuous process, especially when quality measurements are not
+available on-line or they have long time delays. In this paper, a control approach using multivariate statistical
+models is presented tc achieve this objective. The goal of the control approach is to decrease variations
+in product quality wihout real time quality measurements. A PCA model which incorporates time
+lagged variables is used, and the control objective is expressed in the score space of this PCA model. A
+controller is designed in the model predictive control (MPC) framework, and it is used to control the
+equivalent score space repres~ntation of the process. The score predictive model for the MPC algorithm
+is built using partial least squares (PLS). The proposed controller can be developed from and implemented
+on top of existing PI]) control systems, and it is demonstrated in two case studies, which involve
+a binary distillation column c.nd the Tennessee Eastman process.

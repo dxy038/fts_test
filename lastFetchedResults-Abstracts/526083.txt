@@ -1,0 +1,32 @@
+Abstract
+According to the recently observed structural
+damages, the structures which have been designed
+upon existing seismic codes performed effectively in
+the life safety. However, the structural and
+economical damage was wide and unacceptable.
+This caused the criteria of codes to change towards
+the Performance Based Design (PBD).
+Determination and prediction of structural damage is
+one of the most important topics in the PBD and for
+this purpose, certain levels and limitations have been
+presented in the related standards. The main
+objective of this research is to evaluate the
+mentioned levels to decrease the structural damages.
+In this regard, damage indices resulting from
+nonlinear dynamic and static analyses are compared
+together. Also performances of Iranian concrete and
+2800 codes in limiting damage to RCMRFs are
+evaluated. For this purpose, nonlinear dynamic and
+static analyses were performed on several reinforced
+concrete moment resisting frames subjected to seven
+appropriate earthquake records. Then dynamic and
+static damage indices were compared together.
+According to the obtained results, the drift criterion
+of FEMA & ATC40 do not show properly the
+structural damages due to ignoring the ultimate
+structural capacity while the proposed criterion in
+this research, which is based on the ductility of
+structures, can properly predict the damage to
+structures.
+Keywords: Damage; Performance base design;Dynamic analysis; Pushover analysis; Drift criterion
+

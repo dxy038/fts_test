@@ -1,0 +1,17 @@
+Manufacturers who resupply a large number of retailers on a periodic basis continually struggle with the
+question of how to formulate a replenishment strategy. This paper presents a comparative analysis of a
+series of heuristics for an inventory routing problem (IRP) that arises in a manufacturing supply chain.
+The IRP is formulated as a mixed integer program with the objective of maximizing the net benefits associated
+with making deliveries in a specific time period to a widely dispersed set of customers. It is
+assumed that inventory can accumulate at the customer sites, but that all demand must be met without
+backlogging. Because optimal solutions were not within reach of exact methods, a two-step procedure
+was developed that first estimates daily delivery quantities and then solves a vehicle routing problem
+for each day of the planning horizon. As part of the methodology, a linear program is used to determine
+which days it is necessary to make at least some deliveries to avoid stockouts.
+The IRP is investigated in the context of an integrated production–inventory–distribution–routing
+problem (PIDRP). The full model takes into account production decisions and inventory flow balance in
+each period. For the computations, a previously developed branch-and-price algorithm is used that
+requires the solution of multiple IRPs (one in each period) to generate columns for the master problem.
+Testing showed that PIDRP instances with up to eight time periods and 50 customers can be solved
+within 1 h. This level of performance could not be matched by either CPLEX or an exact version of the
+branch-and-price algorithm.

@@ -1,0 +1,1 @@
+This is a semi-tutorial paper whose main objective is to examine some aspects of implementing digital filters using microprocessors. Simulation results pertaining to the implementation of a first-order recursive filter via a microprocessor system are included.

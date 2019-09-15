@@ -1,0 +1,6 @@
+Objective
+le selection is a key step in developing a successful quantitative structure–activity relationships (QSAR) analysis system. Tabu search (TS) can be used for variable selection which employs a flexible memory system to avoid convergence to local minima. But the convergence speed of TS depends on the initial solution and is slow. It usually reaches local minima since a single candidate solution is used to generate offspring. In the present paper, the TS algorithm was modified to assist TS to find the promising regions of the search space rapidly.
+s and materials
+ion of modified TS algorithm is proposed to select variables in QSAR modeling and to predict toxicity of some aromatic compounds. In the modified TS, the information which shares mechanism among the best position of all iteration and the personal position is introduced in the step of generating neighbors of the given solution. The move function which directs the moving of the solution is recorded as tabu. The modified Cp statistic is employed as fitness function.
+s and conclusions
+mparison, the conventional TS and stepwise regression were also examined. Experimental results demonstrate that the modified TS is a useful tool for variable selection which converges quickly towards the optimal position.

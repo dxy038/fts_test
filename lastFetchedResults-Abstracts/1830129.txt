@@ -1,0 +1,16 @@
+:The objective of this study is to develop a novel methodology integrating remote sensing,
+geographic information system technology and local spatial autocorrelation geo-computation for quick drought
+assessment. One group of drought indices, based on the condition of the vegetation, includes the Normalized
+Difference Vegetation Index (NDVI), Anomaly of Normalized Difference Vegetation Index (NDVIA) and
+Standardized Vegetation Index (SVI). The other group, based on the moisture conditions, includes the
+Normalized Difference Moisture Index (NDMI) and Standardized Moisture Index (SMI). The local G-statistic
+(Gi
+*
+) provides insight into the spatial relationships of the drought indices for drought risk assessment.
+Specifically, locations with significant Gi* values indicate spatial clusters where there are differences between
+the vegetative and hydrological drought indices. The results of spatial co-occurrence analysis indicate the
+existence of hot spots where the drought indices are spatially stable. This spatial information can be used to
+identify high drought risk areas as a first step towards helping local administrators improve the allocation of
+local water resources in arid environments. Finally, the novel methodology, integrating remote sensing, geo-
+computation and geographic information techniques, is demonstrated. The results indicate its effectiveness for
+quick drought assessment.

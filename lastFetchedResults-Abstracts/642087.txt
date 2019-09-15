@@ -1,0 +1,9 @@
+Objective
+We describe the effects of aging on the bioelectrical impedance vectors in healthy men and women.
+Methods
+Resistance (R) and reactance (Xc; standard, tetrapolar analysis at 50-kHz frequency) were measured in 201 volunteers (97 men and 104 women) aged 60 to 89 y. Criteria of exclusion from the sample were hospitalization within 3 mo before the survey, current medical treatment, physical handicaps, or other pathologies that might influence the measurements. Stature, weight, and four body circumferences were also measured, and body mass index was calculated. The values of R and Xc were normalized for stature (H) and adjusted for body circumferences by means of covariance analysis. Age- and sex-dependent bioelectrical changes were evaluated by two-factor analysis of variance and Hotelling's T2 test.
+Results
+The bioelectrical data of the sample agreed well with the normal reference values of the Italian population. R/H showed a significant increase with age in both sexes, whereas Xc/H and the phase angle significantly decreased. The greatest changes occurred in the 70- to 79-y to the 80- to 89-y groups. After adjustment of the bioelectrical values for body circumferences, only Xc/H and the phase angle showed significant differences that decreased with age.
+Conclusions
+The impedance vectors of healthy individuals showed a clear trend in the elderly, in both sexes, and particularly after age 80 y. The bioelectrical parameters indicated a reduction of soft tissue mass with age, as they tended to approach values typical of pathologically lean subjects (cachetic and anorexic states). After adjustment for the circumferences, the changes in the vector concerned only the Xc component, a measure of the capacitance produced by cell membranes of soft tissues. Therefore, in addition to the quantitative change, the electrical properties of the tissues may also change.
+

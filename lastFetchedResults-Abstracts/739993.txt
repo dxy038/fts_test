@@ -1,0 +1,11 @@
+Purpose
+The objective of this study was to investigate whether high levels of serum interleukin (IL)-6, C-reactive protein (CRP), and α1-antichymotrypsin (ACT) were associated with the loss of muscle strength or muscle mass (sarcopenia) in older persons.
+Subjects
+The study included 986 men and women of the Longitudinal Aging Study Amsterdam, with a mean age of 74.6 years (standard deviation 6.2).
+Methods
+Grip strength (n = 986) and appendicular muscle mass (n = 328, using dual-energy x-ray absorptiometry) were obtained in 1995 and 1996 and repeated after a 3-year follow-up. Loss of muscle strength was defined as a loss of grip strength greater than 40%, and sarcopenia was defined as a loss of muscle mass greater than 3%, approximating the lowest 15% of the study sample.
+Results
+Multiple linear and logistic regression analyses revealed that higher levels of IL-6 were associated with greater decline in muscle strength, which decreased by −3.21 kg (standard error 0.81) per standard deviation increase in log-transformed IL-6. After adjustment for confounders, including sociodemographic, health, and lifestyle factors, high IL-6 (>5 pg/mL) and high CRP (>6.1 μg/mL) were associated with a 2 to 3-fold greater risk of losing greater than 40% of muscle strength. Persons with high levels of ACT (>181% of the normal human pooled plasma) were 40% less likely to experience loss of muscle strength and tended (P = .07) to have a smaller decline in muscle mass compared with those in the lowest quartile of ACT. No consistent associations of IL-6 and CRP with sarcopenia were found.
+Conclusion
+The findings of this prospective, population-based study suggest that higher levels of IL-6 and CRP increase the risk of muscle strength loss, whereas higher levels of ACT decrease the risk of muscle strength loss in older men and women.
+

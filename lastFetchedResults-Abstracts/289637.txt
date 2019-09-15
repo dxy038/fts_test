@@ -1,0 +1,9 @@
+Objective
+To evaluate mechanical registration in a stereotactic system with framework neurosurgery navigation, setting scalp markers as the mutual frame of reference.
+Materials and methods
+The system can automatically convert the coordinates of the stereotactic device and CT or MRI images, and realize computer-assisted neurosurgery by the stereotactic system (framework neurosurgery navigation). We set targets in the skull; seven patients were operated on by open-skull stereotactic neurosurgery for clinical trials. Three cases were operated on by this method; the other four cases were treated by this method and the ASA620S operation plan system at the same time as a comparison.
+Results
+The targets were accurately located in seven patients. Four patients underwent the two different localization methods; the probe directed equally accurately (vector error: 3.96 ± 1.90 vs. 3.26 ± 1.22, P = 0.06 > 0.05, paired t-test). All surgical procedures were successful.
+Conclusions
+Framework neurosurgery navigation has equal localization accuracy compared with the traditional stereotactic device. Framework neurosurgery navigation does not require installation of a stereotactic framework before imaging or narcotic intubation; this differs from the traditional stereotactic technique. It can alleviate patient suffering, shorten preparation time, benefit anesthesia, and aid patient positioning during surgery.
+

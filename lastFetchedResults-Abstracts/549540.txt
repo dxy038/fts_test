@@ -1,0 +1,33 @@
+Abstract1
+Considering the current trend of ever decreasing water resources and their associated
+qualitative and quantitative variations, managers are now facing the challenge of offering
+adaptable planning and allocation decision methods for integrated watershed management. This
+study focuses on the understanding of the trade-offs among the various outcomes of allocation
+decisions for Boostan Dam reservoir on the Gorgan-Rud River in Golestan Province of Iran.
+Control of water level in the reservoir such that enough water is available during dry months to
+satisfy different needs of the downstream as well as the capability of dam to mitigate floods
+were considered as the objectives of the study. The recorded flow data suggested that there are
+four months with high likelihood of flooding events. Sixteen mutually exclusive scenarios were
+developed to accommodate different and competing water demands of water users in the area.
+The monthly river flow discharge for one Iranian water-year started from October 2007 was
+forecasted by a Seasonal Auto Regressive Integrating Moving Average (SARIMA) model. The
+water allocation analysis was conducted on the basis of the forecasted monthly flow data. To
+quantify the effects of implementing the scenarios, five indices were selected and quantified.
+The indices included water storage capacity during flood-prone months, stored water volume at
+the end of the water-year, the likelihood of overflowing, outflow discharge simulated by a flood
+routing technique and the risk of dam collapse because of floods. The fuzzy multi-criteria
+decision making technique was used to trade-off the outcomes and therefore to identify the best
+allocation scenario. To weight the indices, the process of expert knowledge elicitation was
+completed using AHP (Analytical Hierarchy Process) technique. The TOPSIS (Technique
+Ordered Preference by Similarity to the Ideal Solution) model was used to identify the best
+scenario among the 16 allocation scenarios. The results showed that the scenarios could be
+categorised in nine different groups among them scenario 7 has been identified as the best
+allocation scenario followed by scenario1. Scenario 07 was characterized by emphasis on flood
+control objective for the flood-prone months (May and August) as well as water supply to meet
+the water demands of the downstream. The integrating approach implemented in this study is
+capable of assisting the decision makers and dam operators to understand and investigate the
+possible allocation scenarios, and to recognize the likely outcomes and the trade-offs among
+them. Thus, the approach supports the decision makers to achieve their objectives capturing
+different criteria associated with the allocation problems.
+Keywords: Optimized water allocation, Fuzzy multi-criteria decision making, FAHP, SARIMA
+model, Boostan Dam

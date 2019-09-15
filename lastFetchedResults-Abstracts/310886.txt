@@ -1,0 +1,11 @@
+Objective. To compare the ability of three modelling approaches to resolve the muscle and joint forces in a lumbar spine model during dynamic sagittal plane lifting.
+
+Design. Trunk muscle forces, spine compression, and coactivity predicted through double linear optimization, EMG-assisted, and EMG assisted by optimization approaches were compared.
+
+Background. The advantages of EMG-based approaches are known from static task analyses. Limited assessment has been made for dynamic lifting.
+
+Methods. Eleven male subjects performed sagittal plane lifting-lowering at fixed cadence from 0° to 45° of trunk flexion with and without an external load of 12 kg. Three-dimensional kinematics and dynamics as well as surface EMG provided inputs to a 12 muscle lumbar spine model.
+
+Results. Trunk muscle coactivity was different between the modelling approaches but spine compression was not. Both EMG-based approaches were sensitive to trunk muscle coactivity and imbalance in left-right muscle forces during sagittal plane lifting. Overall, the best correlations between predicted forces and EMG as well as between forces predicted by different modelling approaches were obtained with the EMG-based models. Only the EMG assisted by optimization approach simultaneously satisfied mechanical and physiological validity.
+
+Conclusions. Both EMG-based approaches demonstrated their potential to detect individual trunk muscle strategies. A more detailed trunk anatomy representation would improve the EMG-assisted approach and reduce the adjustment to muscle force gain through EMG assisted by optimization.

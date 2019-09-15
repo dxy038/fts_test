@@ -1,0 +1,1 @@
+A backplane interconnect ASIC with 62 Gb/s full-duplex aggregate throughput uses 3.1 Gb/s serial link technology organized as 20 bidirectional channels to realize bandwidth. The chip operates with &lt;5/spl times/10/sup 17/ aggregate BER and is fabricated in a 0.18 /spl mu/m CMOS technology, dissipating 9 W in a 768-pin flipchip BGA package.

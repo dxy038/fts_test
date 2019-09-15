@@ -1,0 +1,13 @@
+The objective of this study is to determine the infrared optical constants of
+polyimide films in the spectral range between 2000 and 7000 cm&1 using a five-
+oscillator Lorentz model. Model parameters are preseInted, in addition to the
+derived values of the complex refractive index and dielectric constant. The
+parameters were obtained using electromagnetic theory for thin films to model
+reflectivity data from two film samples with different thicknesses (5.17 and
+12.4 +m) on gold substrates examined at two incident angles. Measurements
+were taken using a polarizable reflectometer device in a Fourier transform
+infrared (FTIR) spectrometer. The real part of the refractive index, n, is shown
+to be about 1.67, while the imaginary part, k, is less than 0.01 over the spectral
+range examined. Results are consistent with findings of other experimentalists,
+and new data preseInted here show that polarization effects on thin film layers
+are predictable from the proposed model

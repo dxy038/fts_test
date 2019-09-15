@@ -1,0 +1,3 @@
+The concept of entropy has a long and distinguished history in the physical sciences and engineering, in fields ranging from thermodynamics to image processing. Each of these applications employs a probability distribution that solves a relative entropy projection problem, i.e. an optimization problem with an entropy objective, subject to linear (e.g. moment) constraints.
+
+aper develops the relationship between relative entropy project approaches and the better-known linear projection approaches to problems of estimation and performance diagnostics for stochastic discount factor models in asset pricing. Frequentist interpretations of relative entropy, enabled by large deviations theory, are used to unify the interpretation of the seemingly disparate procedures.

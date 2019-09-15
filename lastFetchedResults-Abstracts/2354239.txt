@@ -1,0 +1,29 @@
+Objective: Genetic modification of human embryonic stem cells (hESCs) is critical for
+their extensive use as a fundamental tool for cell therapy and basic research. Despite
+the fact that various methods such as lipofection and electroporation have been applied
+to transfer the gene of interest (GOI) into the target cell line, however, there are few reports
+that compare all parameters, which influence transfection efficiency. In this study,
+we examine all parameters that affect the efficiency of electroporation and lipofection for
+transient and long-term gene expression in three different cell lines to introduce the best
+method and determinant factor.
+Materials and Methods: In this experimental study, both electroporation and lipofection
+approaches were employed for genetic modification. pCAG-EGFP was applied for transient
+expression of green fluorescent protein in two genetically different hESC lines, Royan
+H5 (XX) and Royan H6 (XY), as well as human foreskin fibroblasts (hFF). For long-term
+EGFP expression VASA and OLIG2 promoters (germ cell and motoneuron specific genes,
+respectively), were isolated and subsequently cloned into a pBluMAR5 plasmid backbone
+to drive EGFP expression. Flow cytometry analysis was performed two days after transfection
+to determine transient expression efficiency. Differentiation of drug resistant hESC
+colonies toward primordial germ cells (PGCs) was conducted to confirm stable integration
+of the transgene.
+Results: Transient and stable expression suggested a variable potential for different cell
+lines against transfection. Analysis of parameters that influenced gene transformation efficiency
+revealed that the vector concentrations from 20-60 ?g and the density of the subjected
+cells (5×105 and 1×106 cells) were not as effective as the genetic background and
+voltage rate. The present data indicated that in contrast to the circular form, the linearized
+vector generated more distinctive drug resistant colonies.
+Conclusion: Electroporation was an efficient tool for genetic engineering of hESCs
+compared to the chemical method. The genetic background of the subjected cell line
+for transfection seemed to be a fundamental factor in each gene delivery method. For
+each cell line, optimum voltage rate should be calculated as it has been shown to play
+a crucial role in cell death and rate of gene delivery .

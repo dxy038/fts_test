@@ -1,0 +1,15 @@
+Objective: The aim of this study is to evaluate the effect of tissue composition on
+dose distribution in electron beam radiotherapy.
+Methods: A Siemens Primus linear accelerator and a phantom were simulated using MCNPX Monte Carlo code. In a homogeneous cylindrical phantom, six types of
+soft tissue and three types of tissue-equivalent materials were investigated. The tissues included muscle (skeletal), adipose tissue, blood (whole), breast tissue, soft tissue
+(9-components) and soft tissue (4-component). The tissue-equivalent materials were
+water, A-150 tissue-equivalent plastic and perspex. Electron dose relative to dose in
+9-component soft tissue at various depths on the beam’s central axis was determined
+for 8, 12, and 14 MeV electron energies.
+Results: The results of relative electron dose in various materials relative to dose
+in 9-component soft tissue were reported for 8, 12 and 14 MeV electron beams as
+tabulated data. While differences were observed between dose distributions in various
+soft tissues and tissue-equivalent materials, which vary with the composition of material, electron energy and depth in phantom, they can be ignored due to the incorporated
+uncertainties in Monte Carlo calculations.
+Conclusion: Based on the calculations performed, differences in dose distributions in various soft tissues and tissue-equivalent materials are not signifcant. However, due to the difference in composition of various materials, further research in this
+feld with lower uncertainties is recommended.

@@ -1,0 +1,8 @@
+Objective
+necrosis factor-related apoptosis inducing ligand (TRAIL) has recently been investigated because of its ability to selectively kill cancer cells. Despite recent publications mainly focusing on TRAIL resistance in cancer cells, little is known about how TRAIL contributes to the carcinogenesis process. Because the expression patterns of TRAIL and its receptors in patients with prostate carcinoma have recently been reported, this study investigated the significance of TRAIL and TRAIL receptor expression in connection to serum prostate-specific antigen (PSA) and Gleason scoring.
+als and methods
+l of 98 patients were included in the study. Gleason scores, PSA, TRAIL, and TRAIL receptor expressions were used for the comparison purposes. The Spearman rho correlation test was administered to reveal the correlations among the variants. The Kruskal Wallis-Mann Whitney U or Friedman-Wilcoxon signed ranks test determined the statistical significance between the pairs. Multinomial and/or multiple binary logistic regression analyses were deployed to test whether TRAIL markers were independent variables to predict the prognosis of prostate cancer. Kaplan-Meier and log-rank tests were used to determine the survival rates.
+s
+erum PSA levels were correlated with higher levels of TRAIL and TRAIL receptor expressions. Patients with high Gleason scores had higher levels of TRAIL-R4 decoy receptor expression but lower levels of TRAIL death ligand expression.
+sions
+R4 decoy receptor expression is strongly correlated with PSA recurrence, which is suggestive of poor prognosis. High levels of TRAIL-R4 expression but low levels of TRAIL death ligand expression are connected to decreased survival.

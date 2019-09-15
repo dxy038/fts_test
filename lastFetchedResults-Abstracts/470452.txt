@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to characterize risk factors associated with nonanomalous stillborn (SB) infants and to ascribe the probability of fetal survival by gestational age among high-risk pregnancies.
+Study design
+We compiled a database of all SB infants and an equivalent number of controls using information obtained from Utah Birth and Fetal Death Certificates during the years 1992 through 2002. Adjusted and unadjusted odds ratios for risk factors associated with SB were generated. Cox proportional hazard models were used to generate survival curves comparing pregnancies complicated by chronic hypertension or gestational hypertension with those of controls.
+Results
+Infants with major anomalies were eliminated from both cases and controls, to generate 1566 nonanomalous SBs and 2720 nonanomalous controls. In a logistic regression model controlling for multiple maternal and fetal factors, placental abruption, hydramnios, cord prolapse, and essential hypertension were associated with an increased risk of SB. In pregnancies complicated by essential hypertension, the survival curve diverged from that of controls at those gestational ages approaching term (hazard ratio 2.24; 95% CI 1.52-3.32).
+Conclusion
+SB in nonanomalous infants in Utah is more common among pregnancies complicated by placental abruption, hydramnios, cord prolapse, and essential hypertension.
+

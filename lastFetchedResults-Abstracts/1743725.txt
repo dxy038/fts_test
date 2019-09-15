@@ -1,0 +1,8 @@
+Background and objective
+aper introduces a seismocardiography based methodology of predicting the start and the end of diastole to be used in diastolic timed vibrations (DTV), which provides non-invasive emergency treatment of acute coronary thrombosis by applying direct mechanical vibrations to the patient chest during diastole of heart cycles. It is proposed that seismocardiogram (SCG), in combination with electrocardiogram (ECG), provides a new means of diastole prediction.
+s
+elerometer was placed on the sternum of 120 healthy participants and 22 ischemic heart patients to record precordial accelerations created by the heart. The accelerometer signal was used to extract SCG and phonocardiogram (PCG). Two independent trained experts annotated the extracted signals based on the timings of the start and end of diastole.
+s
+ ischemic heart disease population by using 15 consecutive SCG cycles, the start and end of diastole was predicted in the upcoming cycles with 95 percentile error margin of 10.7 ms and 5.8 ms, respectively. These error margins were 7.4 ms and 3.5 ms, respectively, for normal participants.
+sion
+sults provide that prediction of the aortic valve closure point in the SCG signal helps start the vibrator in time to cover most of the isovolumic relaxation period. Also, through prediction of the mitral valve closure point in the SCG signal, safety of the technique can be assessed through prediction of the amount of unwanted vibrations applied during the isovolumic contraction period.

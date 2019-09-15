@@ -1,0 +1,1 @@
+According to the work features and requirements of SCARA robot, a motion trajectory is planed following the request of speed and acceleration at the starting point and termination point. The planning uses the joint spatial method based on genetic-algorithms. The objective function is the moving time and mechanical impact. The target is a high-profile on the joint angles.

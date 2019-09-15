@@ -1,0 +1,1 @@
+The transform method for curve detection is applied to curves against a textured background. The objective is maximum scattering of the transformed texture points while preserving clustering properties for the sought after curve. Properties of the extended transform are examined under a statistical model of "grass-like" texture.

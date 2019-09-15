@@ -1,0 +1,11 @@
+Objective
+To determine the accuracy of locating subdural electrodes by means of 3-D surface rendering of CT scans.
+Methods
+Open source software has been developed and posted on the web which segments the electrodes into 3-D surfaces and allows their 3-D locations to be exported to other EEG analysis programs. The accuracy of the technique was determined by studying 410 subdural electrodes implanted in four epilepsy patients. Accuracy was determined by comparing the locations from the rendering analysis to the locations of the same electrodes determined by conventional analysis of their appearance on individual CT slices.
+Results
+The average accuracy of a study of 410 electrodes imaged in four patients repeated two times by three observers was 0.91 (±0.41) mm, with a maximum error of 3.3 mm, about half of the diameter of an electrode.
+Conclusions
+The location of subdural electrodes can easily and quickly be determined within high-resolution CT scans through the use of 3-D rendering.
+Significance
+This relatively fast and easy method for determining the location of subdural electrodes should facilitate their use in both clinical and research investigations
+

@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to examine the associations between maternal respiratory diseases and placental abruption.
+Study design
+A population-based, retrospective cohort study was conducted to examine the associations between maternal respiratory diseases and abruption in the United States. Data on women who delivered singleton births (n = 37,314,022) were derived from the National Hospital Discharge Survey for the years 1993 to 2003. International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) codes were used to identify pregnant women hospitalized for acute upper respiratory diseases, viral and bacterial pneumonia, acute bronchitis, and acute bronchiolitis, chronic bronchitis, asthma, and abruption. Relative risk (RR) and 95% CI were derived from multivariable logistic regression models to evaluate the associations after adjusting for maternal age, race, marital status, smoking, cocaine use, adequacy of prenatal care, maternal insurance status, geographic location, and year of birth (although data on smoking and cocaine use are likely underreported).
+Results
+The rate of abruption was 9.7 per 1,000 singleton births. The overall rate for acute respiratory conditions was 2.2 per 1000 pregnancies. Acute upper respiratory diseases (RR 3.2, 95% CI 3.0-3.4) and viral/bacterial pneumonia (RR 2.2, 95% CI 1.9-2.4) were associated with abruption. The rate of chronic respiratory conditions was 9.0 per 1,000 pregnancies. Chronic bronchitis was strongly associated with abruption (RR 31.8, 95% CI 29.6-34.3), but the association between asthma and abruption was modest (RR 1.1, 95% CI 1.0-1.2). Stratified analysis by maternal race showed that asthma was associated with abruption among black women but not white women.
+Conclusion
+Pregnancies complicated by acute and chronic respiratory diseases requiring hospitalization are associated with placental abruption.
+

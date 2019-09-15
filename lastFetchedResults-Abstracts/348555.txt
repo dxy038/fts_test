@@ -1,0 +1,11 @@
+Objective
+We hypothesized that an ERP word repetition paradigm, which reliably elicits and modulates the P600 and N400 components, would be particularly sensitive to the memory deficits and altered synaptic plasticity in mild Alzheimer's disease (AD). The P600 (a late positive component, or ‘LPC’), and the N400, are sensitive indices of memory encoding and semantic processing, respectively.
+Methods
+We studied 11 patients with mild AD (mean MMSE=22.9) and 11 elderly (mean age=77.1) normal controls (NC) on a paradigm in which semantically ‘congruous’ category statement/exemplar pairs (50%) and ‘incongruous’ category statement/non-exemplar pairs (50%) repeat at 10–140 s intervals. A minimum of 19 channels ERP data were recorded and submitted to split-plot ANOVAs.
+Results
+Normal ERP data showed: (1) a significant word repetition effect for congruous words, with a wide-spread late positivity between  300 and 800 ms post-stimulus (P600) that is larger for New than Old words; (2) a significant N400 repetition effect for incongruous words, with a right posterior negativity that is reduced for Old relative to New words. By contrast, neither of these word repetition effects was reliably present in the mild AD group. Good group discrimination was achieved by requiring that both these repetition effects were ≥ the 10th percentile, with 100% sensitivity and 82% specificity.
+Conclusions
+We found significant abnormalities of the N400 and P600 in mild AD, with both potentials showing markedly reduced sensitivity to word repetition.
+Significance
+The absence of normal N400 and LPC/P600 word repetition effects suggests impaired functioning of their neural generators, several of which are located in medial temporal lobe predilection sites (e.g. anterior fusiform, parahippocampal gyrus, hippocampus) for AD/tau pathology.
+

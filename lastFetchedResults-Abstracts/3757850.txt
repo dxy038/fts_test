@@ -1,0 +1,1 @@
+This correspondence throws some light into the area of easily diagnosable machines. Given the behavior of a sequential machine in terms of a state table it explores the possibilities of designing a structure, that facilitates easy diagnosis of faults. The objective is achieved through structural decomposition which has already claimed to produce simpler physical realization.

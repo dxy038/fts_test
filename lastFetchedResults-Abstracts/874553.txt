@@ -1,0 +1,7 @@
+This paper is concerned with the optimality conditions for nonsmooth and
+nonconvex vector mathematical programming but with the existence of the
+Hadamard directional derivatives of objective and constraint functions. By using a
+generalization of the Gordan alternative theorem proved by Jeyakumar w8x, we
+establish the optimality conditions in terms of Lagrange]Kuhn]Tucker multipliers.
+Also the sufficient optimality conditions are given whenever the data are convex. In
+the last, we give an application to vector fractional mathematical programming

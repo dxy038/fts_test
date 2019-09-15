@@ -1,0 +1,16 @@
+One of the mostly used enhanced oil recovery methods is the injection of water or gas under
+pressure to maintain or reverse the declining pressure in a reservoir. Several parameters should be
+optimized in a fluid injection process. The usual optimizing methods evaluate several scenarios to
+find the best solution. Since it is required to run the reservoir simulator hundreds of times, the
+process is very time consuming and cumbersome. In this study a new intelligent method of
+optimization, called “global dynamic harmony search” is used with some modifications in
+combination with a commercial reservoir simulator (ECLIPSE®) to determine the optimum solution
+for fluid injection problem unknowns. Net present value (NPV) is used as objective function to be
+maximized. First a simple homogeneous reservoir model is used for validating the developed
+method and then the new optimization method is applied to a real model of one of the Iran oil
+reservoirs. Three strategies, including gas injection, water injection, and well placement are
+considered. Comparing the values of NPV and field oil efficiency (FOE) of gas injection and water
+injection strategies, it is concluded that water injection strategy surpasses its rival. Considering
+water injection to be the base case, a well placement optimization is also done and best locations for
+water injection wells are proposed. The results show the satisfying performance of the algorithm
+regarding its low iterations.

@@ -1,0 +1,9 @@
+The main objective of the present work is to introduce a variant of Trefftz's method for finding approximate solutions to regular or singular two-dimensional boundary-value problems for Laplace's equation.
+
+expressing the solution as a finite linear combination of trial functions, the method foresees the enforcement of the boundary condition by using a boundary Fourier expansion technique, instead of the usual pointwise approach. The procedure ultimately produces a rectangular set of linear algebraic equations.
+
+thod is used to find approximate solutions to five prototype problems, mainly in rectangular regions, using polar harmonics as trial functions. More complicated cases could be envisaged.
+
+sults are discussed and compared with those obtained by the Boundary Collocation Method for the same set of trial functions. It appears that the proposed method yields better results. In the case of a singular behaviour of the solution at the boundary, for which the singularity could be isolated, we have compared the results obtained by the proposed method, with isolation and without isolation of the singularity.
+
+oposed method may be easily extended to deal with other boundary-value problems involving more complicated differential operators, boundary geometries and boundary conditions in two or in three dimensions.

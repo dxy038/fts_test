@@ -1,0 +1,18 @@
+The recognition that urban groundwater is a potentially valuable resource for potable and industrial uses due to growing pressures on perceived
+less polluted rural groundwater has led to a requirement to assess the groundwater contamination risk in urban areas from industrial contaminants
+such as chlorinated solvents. The development of a probabilistic risk based management tool that predicts groundwater quality at
+potential new urban boreholes is beneficial in determining the best sites for future resource development. The Borehole Optimisation System
+(BOS) is a custom Geographic Information System (GIS) application that has been developed with the objective of identifying the optimum
+locations for new abstraction boreholes. BOS can be applied to any aquifer subject to variable contamination risk. The system is described
+in more detail by Tait et al. [Tait, N.G., Davison, J.J., Whittaker, J.J., Leharne, S.A. Lerner, D.N., 2004a. Borehole Optimisation System
+(BOS) e a GIS based risk analysis tool for optimising the use of urban groundwater. Environmental Modelling and Software 19, 1111e
+1124]. This paper applies the BOS model to an urban PermoeTriassic Sandstone aquifer in the city centre of Nottingham, UK. The risk of
+pollution in potential new boreholes from the industrial chlorinated solvent tetrachloroethene (PCE) was assessed for this region. The risk model
+was validated against contaminant concentrations from 6 actual field boreholes within the study area. In these studies the model generally underestimated
+contaminant concentrations. A sensitivity analysis showed that the most responsive model parameters were recharge, effective porosity
+and contaminant degradation rate. Multiple simulations were undertaken across the study area in order to create surface maps indicating areas of
+low PCE concentrations, thus indicating the best locations to place new boreholes. Results indicate that northeastern, eastern and central regions
+have the lowest potential PCE concentrations in abstraction groundwater and therefore are the best sites for locating new boreholes. These locations
+coincide with aquifer areas that are confined by low permeability Mercia Mudstone deposits. Conversely southern and northwestern areas
+are unconfined and have shallower depth to groundwater. These areas have the highest potential PCE concentrations. These studies demonstrate
+the applicability of BOS as a tool for informing decision makers on the development of urban groundwater resources.

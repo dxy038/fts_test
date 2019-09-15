@@ -1,0 +1,1 @@
+This work presents four reduced switch count six-phase AC motor drives. The configurations were conceived to operate without the use of the boost inductor filter. The drive systems provide both bidirectional power flow and power factor control. The work presents the operating principles and control strategies of the topologies. Experimental and simulation results are presented.

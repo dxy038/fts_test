@@ -1,0 +1,1 @@
+In this paper a bidirectional code converter system that converts PCM to ADM and ADM to PCM directly in the digital domain is studied. The particular coding schemes chosen for study are the &#956;-255 PCM with the rate of 64 kbits/s and the continuously variable slope delta modulation (CVSD) with 32 kbits/s. Efficient realization of the converter hardware is also considered.

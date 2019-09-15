@@ -1,0 +1,1 @@
+The classical identical machine scheduling problem with the objective of minimizing total weighted completion time is considered in the online setting where jobs arrive over time. An online algorithm is presented and is proven to be (2.5 - 1/2m)-competitive based on the idea of instances reduction.

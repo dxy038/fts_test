@@ -1,0 +1,11 @@
+Objective
+To compare the jitter values in voluntarily activated (v-CNE) and stimulated (s-CNE) techniques for Extensor Digitorum Communis muscle using a disposable concentric needle electrode (CNE). Quantifying jitter using a CNE in conjunction with a stimulated technique has not been reported previously.
+Methods
+Forty-one normal subjects were studied, 15 male and 26 female with a mean age of 34.1 ± 10.7 years (19–55). The jitter values were expressed as the mean consecutive difference (MCD) of 20 analyzed potential pairs using v-CNE and 30 isolated potentials using s-CNE.
+Results
+The mean MCD (n = 41) was 23.0 ± 2.8 μs for v-CNE and 18.2 ± 2.2 μs for s-CNE. The mean jitter of all recorded potentials was 22.9 ± 6.7 μs for v-CNE (n = 820) and 18.3 ± 5.2 μs for s-CNE (n = 1230). Upper limits for the 18th (v-CNE) and 27th highest (s-CNE) MCD were 38.9 and 30 μs, respectively (95% confidence limit). The jitter decrease in s-CNE compared to v-CNE was 1:0.79.
+Conclusions
+Our findings of the jitter values using CNE were similar to other published reports using the voluntarily activated technique; however, these are the first described for the stimulated technique using CNE.
+Significance
+The present study confirms that CNE can be used for the stimulated jitter acquisition and measurement, although certain precautions must be taken regarding signal quality, e.g., observing minimal summation.
+

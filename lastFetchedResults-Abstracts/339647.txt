@@ -1,0 +1,11 @@
+Objective
+Signal transducer and activator of transcription 5 (STAT5) is a critical regulator of hematopoietic development and its impaired activation is associated with hematopoietic and immune cell defects. However, much of this information has been learned from knockout mice that still retain the potential for expression of STAT5 proteins that are N-terminally truncated due to alternative internal translation initiation codons. The goal of these studies was to use transplantation-based assays to analyze the degree of STAT5ΔN activity in hematopoietic stem cells (HSC) and throughout lymphomyeloid development.
+Methods
+
+We have directly compared E14.5 fetal liver cells from mice with potential to express STAT5abΔN (STAT5abΔN/ΔN) with mice completely lacking STAT5a and STAT5b (STAT5abnull/null). We have also utilized retroviral complementation of STAT5abnull/null fetal liver HSC to enforce expression of full-length STAT5a or STAT5a lacking the first 136 amino acids (STAT5aΔN).
+Results
+
+We report that STAT5 is required for HSC, lymphocyte, and erythrocyte development. We demonstrate that restored expression of STAT5a in STAT5abnull/null HSC provides a strong selective advantage, correcting T- and B-lymphocyte and erythrocyte development. Interestingly, Gr-1+ blood cells were inversely correlated with B lymphocytes and both were normalized by STAT5a expression. In contrast, transduction of STAT5aΔN only provided partial B-lymphocyte development.
+Conclusions
+
+These studies define the role of STAT5 in maintaining normal lymphoid vs myeloid balance during hematopoiesis and highlight a major role for the N-domain in HSC function. The platform of retroviral complementation described here will be particularly useful for future studies to subdefine the N-domain regions that are critical for hematopoiesis.

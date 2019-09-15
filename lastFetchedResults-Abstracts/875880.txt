@@ -1,0 +1,9 @@
+It is not a difficult task to find a weak Pareto or Pareto solution in a multiobjective linear programming
+(MOLP) problem. The difficulty lies in finding all these solutions and representing their
+structure. This paper develops an algorithm for solving this problem.We investigate the solutions and
+their relationships in the objective space. The algorithm determines finite number of weights, each
+of which corresponds to a weighted sum problems. By solving these problems, we further obtain
+all weak Pareto and Pareto solutions of the MOLP and their structure in the constraint space. The
+algorithm avoids the degeneration problem, which is a major hurdle of previous works, and presents
+an easy and clear solution structure.
+ 2004 Published by Elsevier Inc.

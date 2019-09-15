@@ -1,0 +1,9 @@
+In this paper, a new multi-objective evolutionary algorithm is proposed. This new algorithm called the Sequential
+Multi-Objective Genetic Algorithm (SEQ-MOGA), overcomes some weaknesses that are observed in the Non-Dominated
+Sorting Genetic Algorithm II (NSGAII). This superior performance of the SEQ-MOGA is obtained via introducing a
+novel technique for the survivor selection of the algorithm. In fact, the proposed SEQ-MOGA intends to arrange the
+individuals in an orderly sequence so that the individuals are uniformly spread throughout the entire Pareto front. In order to
+evaluate the performance of the SEQ-MOGA, this algorithm is compared with some famous MOEAs (Multi-Objective
+Evolutionary Algorithms). In this regard, two performance metrics are used to measure the effectiveness of the proposed
+SEQ-MOGA. The experimental results clearly support the superiority of the proposed algorithm against those well-known
+algorithms. 

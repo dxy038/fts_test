@@ -1,0 +1,11 @@
+Objective
+Clinically, intra-subject variability of the alpha frequency is well known, but sparsely documented and practically not used in the evaluation of the electroencephalogram (EEG). In cognitive science, however, the peak alpha frequency (PAF) variations are implemented. The aim of the present study was to document the clinical notion of differences in alpha frequency variations in patients with epilepsy compared to a control group.
+Methods
+Standard EEG recordings from 28 patients, 18 with epilepsy and 10 patients having EEG for other reasons were included. Ten seconds of artifact free EEG were sampled from F3, F4, T5, T6, O1 and O2 at the beginning, after hyperventilation and at the end of a 20 m recording and Fast Fourier transforms was applied to these epochs of each recording.
+Results
+The study showed a lower frequency in the epilepsy group (frontal 9.22 vs. 10.24 Hz, temporal 9.18 vs. 9.88 Hz and occipital 9.42 vs. 10.30 Hz) and lower frequency variability, with lower values in the epilepsy group in occipital (0.8 vs. 1.44 Hz) and temporal leads (0.89 vs. 1.39 Hz). Frontally, the variability was not significant (0.71 vs. 1.18 Hz, P=0.0824). Within the groups, there was no relation between frequency and variability.
+Conclusions
+This study shows that there is PAF variability in the alpha activity. This variability is compromised in patients with epilepsy. Lower alpha frequency is observed in epilepsy group. It is to some extent due to antiepileptic drugs. The lower alpha frequency variability is probably due to a different mechanism as there is no relation between the frequency and its variability within the two groups.
+Significance
+The alpha activity shows physiological frequency variations that may be compromised by epilepsy.
+

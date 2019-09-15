@@ -1,0 +1,1 @@
+In this paper, by the application of evolutionary multi-objective optimization (EMO) technique, we will be establishing a trade-off balance between the two conflicting aspects i.e. complexity of a software and the usability (business value) of the software.

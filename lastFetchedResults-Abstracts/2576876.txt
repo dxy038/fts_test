@@ -1,0 +1,1 @@
+In this paper we study optimization problems with infinite many inequality constraints on a Banach space  where the objective function and the binding constraints are locally Lipschitz‎. ‎Necessary  optimality conditions and regularity conditions are given‎. ‎Our approach are based on the Michel-Penot subdifferential.

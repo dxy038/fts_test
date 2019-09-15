@@ -1,0 +1,1 @@
+The Total Time on Test (TTT) concept has proven to be a very useful tool in several reliability contexts. The objective of this note is to illustrate how a generalization of the TTT-concept, the TTT-transform, defined as a certain function of the survivor function, can be used when analyzing different types of age-replacement problems.

@@ -1,0 +1,21 @@
+This paper presents a generalized Bayesian framework
+for relevance feedback in content-based image retrieval. The
+proposed feedback technique is based on the Bayesian learning
+method and incorporates a time-varying user model into the formulation.
+We define the user model with two terms: a target query
+and a user conception. The target query is aimed to learn the
+common features from relevant images so as to specify the user’s
+ideal query. The user conception is aimed to learn a parameter
+set to determine the time-varying matching criterion. Therefore,
+at each feedback step, the learning process updates not only the
+target distribution, but also the target query and the matching
+criterion. In addition, another objective of this paper is to conduct
+the relevance feedback on images represented in region level. We
+formulate the matching criterion using a weighting scheme and
+proposed a region clustering technique to determine the region
+correspondence between relevant images. With the proposed
+region clustering technique, we derive a representation in region
+level to characterize the target query. Experiments demonstrate
+that the proposed method combined with time-varying user model
+indeed achieves satisfactory results and our proposed region-based
+techniques further improve the retrieval accuracy.

@@ -1,0 +1,1 @@
+This design put forward a kind of computer color matching system design scheme based on fuzzy neural network and realizes its software design by C language programming. This system took the color differences between known colors and objective colors as its input and formula concentration as its output.

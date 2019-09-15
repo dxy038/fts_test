@@ -1,0 +1,11 @@
+Objective
+The auditory Event-Related Potentials (ERP) of component P50 to sound onset and offset have been reported to be similar, but their magnetic homologue has been reported absent to sound offset. We compared the spatio-temporal distribution of cortical activity during P50 to sound onset and offset, without confounds of spectral change.
+Methods
+ERPs were recorded in response to onsets and offsets of silent intervals of 0.5 s (gaps) appearing randomly in otherwise continuous white noise and compared to ERPs to randomly distributed click pairs with half second separation presented in silence. Subjects were awake and distracted from the stimuli by reading a complicated text. Measures of P50 included peak latency and amplitude, as well as source current density estimates to the clicks and sound onsets and offsets.
+Results
+P50 occurred in response to noise onsets and to clicks, while to noise offset it was absent. Latency of P50 was similar to noise onset (56 ms) and to clicks (53 ms). Sources of P50 to noise onsets and clicks included bilateral superior parietal areas. In contrast, noise offsets activated left inferior temporal and occipital areas at the time of P50. Source current density was significantly higher to noise onset than offset in the vicinity of the temporo-parietal junction.
+Conclusions
+P50 to sound offset is absent compared to the distinct P50 to sound onset and to clicks, at different intracranial sources. P50 to stimulus onset and to clicks appears to reflect preattentive arousal by a new sound in the scene. Sound offset does not involve a new sound and hence the absent P50.
+Significance
+Stimulus onset activates distinct early cortical processes that are absent to offset.
+

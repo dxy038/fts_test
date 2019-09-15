@@ -1,0 +1,12 @@
+The paper has as objective the estimation of the error in the structural analysis performed by using the displacement
+approach of the Symmetric Galerkin Boundary Element Method (SGBEM) and suggests a strategy able to reduce this
+error through an appropriate change of the boundary discretization. The body, characterized by a domain X and a boundary
+C , is embedded inside a complementary unlimited domain X1nX bounded by a boundary C+. In such new condition
+it is possible to perform a separate valuation of the strain energies in the two subdomains through the computation of the
+work, defined generalized, obtained as the product among nodal and weighted quantities on the actual boundary C  and
+on the complementary boundary C+. In order to reduce the error in the analysis phases, the scattered energy has been computed
+as generalized work in each boundary element of C+ and an adequate node number has been introduced inside the
+boundary elements where this generalized work is higher. This strategy, made in a recursive way, has shown effectiveness
+whether in the convergence proofs of some mechanical and kinematical quantities or in computing the percentage error
+obtained as ratio between the scattered work in X1nX and the total work, both expressed in terms of generalized
+quantities.

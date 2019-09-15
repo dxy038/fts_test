@@ -1,0 +1,1 @@
+This article describes a method for finding orthogonal wavelet filters with minimum out of tile energy (OTE). An objective function bounding the OTE is found and minimized using the Nelder-Meade simplex algorithm. General results are discussed, and a 22-coefficient filter is presented

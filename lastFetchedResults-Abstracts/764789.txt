@@ -1,0 +1,4 @@
+In most of the multi-criteria decision making problems, it is important to have necessary information about relative importance of each criteria. In this group of problems, weights measure the relative importance of preferences of each criteria in comparison with the other decision making criteria. In this research, the NISE method has been used for mapping Mean-Variance efficient frontier. NISE is a technique for creating sets of non-inferior points. In this technique, preferential information about relative value of each objective is not applicable. This ability is the main advantage of this technique, which in this research has been used for selecting optimum portfolio for investors.
+
+
+

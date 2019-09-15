@@ -1,0 +1,13 @@
+The Taguchi method is a statistical approach to overcome the limitation of the factorial and fractional
+factorial experiments by simplifying and standardizing the fractional factorial design. The objective of
+this study was to optimize the fabrication of gelatin nanoparticles by applying the Taguchi design method.
+Gelatin nanoparticles have been extensively studied in our previousworks as an appropriate carrier for drug
+delivery, since they are biodegradable, non-toxic, are not usually contaminated with pyrogens and possess
+relatively low antigenicity. Taguchi method with L16 orthogonal array robust design was implemented
+to optimize experimental conditions of the purpose. Four key process parameters – temperature, gelatin
+concentration, agitation speed and the amount of acetone – were considered for the optimization of gelatin
+nanoparticles. As a result of Taguchi analysis in this study, temperature and amount of acetone were
+the most influencing parameters of the particle size. For characterizing the nanoparticle sample, atomic
+force microscope and scanning electron microscope were employed. In this study, a minimum size of
+gelatin nanoparticles was obtained at 50 ◦C temperature, 45 mg/ml gelatin concentration, 80 ml acetone
+and 700 rpm agitation speed. The nanoparticle size at the determined condition was less than 174 nm.

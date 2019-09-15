@@ -1,0 +1,14 @@
+This article compares seven different external DHW units, comprising flat plate heat exchanger and flow control, with a
+reference method for preparing hot water. These DHW units use different control methods. The objective of the study was to
+determine which methods are most effective in solar combisystems and to identify other factors that strongly influence the
+energy savings of the system. Five of the DHW units were judged to be of interest for the study because of their measured
+performance or the simplicity of their design. Of these, measurement data showed that two had the same control function
+although of different physical construction. Thus four DHW units were modelled in the simulation environment PRESIM/
+TRNSYS, parameters were identified from measured data, and annual simulations were performed with a number of
+parametric variations. Three of the DHW units performed significantly better than the reference system provided that they
+were sized correctly: microprocessor control with variable-speed pump; proportional controller with regulating valve; and a
+turbine pump. The most important design factors identified by the study were: the maximum possible primary flow, which
+needs to be suitable for the design hot water load profile; and ensuring a low temperature is returned to the store. The hot
+water load profile was also shown to strongly influence the energy savings, assuming that auxiliary heater’s thermostat is set
+so that the system just meets the worst-case discharge.
+ 2003 Elsevier Ltd. All rights reserved.

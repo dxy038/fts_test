@@ -1,0 +1,8 @@
+Objective
+ermine if social support (SS) is associated with clinical outcomes during antiviral therapy for chronic hepatitis C virus (HCV).
+s
+rom 394 patients who participated in the prospective, longitudinal VIRAHEP-C study were examined. VIRAHEP-C enrolled 401 adults with HCV to evaluate factors associated with antiviral treatment response. Perceived SS was measured using the Medical Outcome Study Social Support Survey (MOS-SSS) at baseline and treatment week 24. Scores were calculated as a continuous variable ranging from 0% to 100% with higher scores indicating greater support. Two SS variables were created: (1) baseline SS (BL-SS) and (2) change in SS from baseline to treatment week 24 (CH-SS). The primary endpoint was sustained virological response (SVR) six months post-treatment. Intermediate outcomes included: symptom-reporting; virological response at treatment week 24; medication adherence; neuropsychiatric adverse events; and dose reductions and premature medication discontinuation. The relative risk of each outcome was estimated using modified Poisson regression models or linear mixed models.
+s
+was relatively high (mean=79%). Overall, SS declined from baseline to treatment week 24 (median change: −1.3%; p&lt;.01). Neither BL-SS nor CH-SS was associated with SVR. However, BL-SS was associated with multiple symptoms (fatigue, headache, irritability, aches/pains) during treatment, even after adjusting for baseline depression, which was significantly associated with symptom-reporting.
+sions
+ not directly associated with efficacy measures, such as SVR. However, baseline SS predicted an increase in symptomatology over the course of antiviral therapy. Baseline depression was also significantly associated with symptom-reporting.

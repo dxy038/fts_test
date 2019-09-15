@@ -1,0 +1,8 @@
+Objective
+jective of this study was to investigate a method to generate positive contrast, selective to superparamagnetic iron oxide (SPIO) labeled cells, using the susceptibility-weighted echo-time encoding technique (SWEET).
+als and Methods
+abeled human epidermal carcinoma (KB) cells were placed in a gel phantom. Positive contrast from the labeled cells was created by subtraction between conventional spin-echo images and echo-time shifted susceptibility-weighted images. SPIO-labeled cells were injected into the left dorsal flank and hind limb of nude mice, and unlabeled cells were placed on the right side as controls. Tumor growth was monitored using the proposed method, and a histological analysis was used to confirm the presence of the labeled cells.
+s
+on in vitro testing, we could detect 5000 labeled cells at minimum and the number of pixels with positive contrast increased proportionally to the number of labeled cells. Animal experiments also revealed the presence of tumor growth from SPIO-loaded cells.
+sions
+onstrated that the proposed method, based on the simple principle of echo-time shift, could be readily implemented in a clinical scanner to visualize the magnetic susceptibility effects of SPIO-loaded cells through a positive-contrast mechanism.

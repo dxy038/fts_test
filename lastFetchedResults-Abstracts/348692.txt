@@ -1,0 +1,11 @@
+Objective
+Carotid endarterectomy is a common procedure as a secondary prevention of stroke, and is often performed with selective shunting. Although various EEG parameters have been proposed to determine if the brain is at risk during carotid artery clamping, the common procedure is still the visual assessment of the EEG. Here, we propose an extension to the previously described brain symmetry index (BSI) [van Putten M, Peters J, Mulder S, de Haas J, Bruijninckx C, Tavy D. A brain symmetry index (BSI) for online EEG monitoring in carotid endarterectomy. Clin Neurophysiol 2004, 115(5), 1189–94.], as an additional quantitative criterion for shunt need in carotid endarterectomy.
+Methods
+An extension of the Brain Symmetry Index was implemented to capture both spatial (hemispheric) (sBSI) and temporal changes (tBSI) in the EEG. In this pilot study, the method is exemplified by simulation and by application to EEG records from 25 patients who underwent a carotid endarterectomy.
+Results
+Simulations show that hemispheric asymmetry is captured by changes in sBSI, only, while temporal symmetry changes, not due to changes in hemispheric asymmetry, are reflected by changes in tBSI. Combinations of changes induced changes in both parameters. This was confirmed by analysis 25 EEG records. Unilateral EEG changes during test-clamping are reflected by ΔsBSI > 0.05, diffuse changes by ΔtBSI > 0.02 and combinations by simultaneous changes in both features.
+Conclusions
+In this pilot study, we present a doublet of quantitative EEG features, that in principle detects any change in the spectral characteristics of the EEG, decomposing the changes into a measure that captures spatial symmetry changes (sBSI), and a measure that quantifies diffuse temporal changes, that are not due to changes in spatial symmetry (tBSI). Both features are normalized with values ranging from [0–1], and can easily be implemented on-line to support the visual analysis of the EEG in the decision for selective shunting.
+Significance
+Quantitative real-time EEG analysis will assist in the EEG interpretation for selective shunting in carotid endarterectomy.
+

@@ -1,0 +1,1 @@
+A numerically simple filter for reducing ringing noise in transform coded images is proposed. The filter adapts to the local image characteristics and has been specifically designed to amend the current deblocking filter in H.263. It is shown that by adding the proposed filter both subjective and objective image quality improve

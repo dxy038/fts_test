@@ -1,0 +1,13 @@
+In the literature, solution approaches to the shortest-path network interdiction problem have been developed
+for optimizing a single figure-of-merit of the network configuration when considering limited
+amount of resources available to interdict network links. This paper presents a newly developed evolutionary
+algorithm that allows approximating the optimal Pareto set of network interdiction strategies
+when considering bi-objective shortest path problems. Thus, the paper considers the concurrent optimization
+of two objectives: (1) maximization of shortest-path length and (2) minimization of interdiction
+strategy cost. Also, the paper considers the transformation of the first objective into the minimization
+of the most reliable path reliability. To solve these multi-objective optimization problems, an evolutionary
+algorithm has been developed. This algorithm is based on Monte Carlo simulation, to generate potential
+network interdiction strategies, graph theory to analyze strategies’ shortest path or most reliable path
+and, an evolutionary search driven by the probability that a link will appear in the optimal Pareto set.
+Examples for different sizes of networks and network behavior are used throughout the paper to illustrate
+and validate the approach.

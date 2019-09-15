@@ -1,0 +1,11 @@
+Objective
+We aimed to examine relationships between the phase of narrow-band electroencephalographic (EEG) activity at stimulus onset and the resultant event-related potentials (ERPs) in active vs. passive auditory oddball tasks, using a novel conceptualisation of orthogonal phase effects.
+Methods
+This study focused on the operation of three recently-reported phase-influenced mechanisms, and ERP responses to the standard stimuli were analysed. Prestimulus narrow-band EEG activity (in 1 Hz bands from 1 to 13 Hz) at Cz was assessed for each trial using digital filtering. For each frequency, the cycle at stimulus onset was used to sort trials into four phases, for which ERPs were derived from both the filtered and unfiltered EEG activity at Fz, Cz and Pz.
+Results
+Preferred brain states at various frequencies were indicated by approximately 20% differential occurrence within the orthogonal phase dimensions explored.
+Conclusions
+The preferred states were associated with more efficient processing of the stimulus, as reflected in differences in latency and/or amplitude of various ERP components, and provided evidence for the operation of the three separate phase-influenced mechanisms.
+Significance
+Both the occurrence of preferred brain states, and the mechanisms linking them to ERP outcomes focused on here, appeared relatively invariant across tasks, suggesting that they largely reflect reflexive brain processes.
+

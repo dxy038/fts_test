@@ -1,0 +1,1 @@
+A layered motion estimation scheme using fuzzy clustering is introduced in this paper. Once motion estimation is performed a modified objective criterion is applied to discard non significant classes

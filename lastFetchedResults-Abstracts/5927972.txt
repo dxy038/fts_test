@@ -1,0 +1,1 @@
+We present in this paper a study of event-related potentials evoked by sequential presentation of facial images depicting different emotions. The objective of this study is to extract the emotion related potentials from few or single stimulus trials using the wavelet transform. This would permit the characterization of the subject response for each emotion presented

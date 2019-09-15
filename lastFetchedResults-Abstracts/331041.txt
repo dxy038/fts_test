@@ -1,0 +1,11 @@
+Objective
+To test the hypothesis that there is a reduction in bond strength when a microtensile load is applied to adhesive junctions prepared at 10, 20 and 30 degrees to the usual perpendicular interface. To evaluate the effect of bond angle and adhesive layer thickness on stress levels within the adhesive joint utilizing FEA.
+Methods
+
+Twenty-four non-carious third molars were selected, occlusal enamel removed and polished perpendicular to the long axis of the tooth. The Clearfil SE Bond and Single Bond were applied on the dentin. A 4 mm resin restoration, Z 100, was built up. The teeth were sectioned at 10°, 20° and 30° to the bonding interface (n=3). The control (n=3) group had all cuts parallel to the tooth longitudinal axis (0° bond angle). The bond values were calculated in MPa and Two-Way ANOVA and Tukey test applied. FEA was performed (1 mm/side square specimens) to obtain the maximum principal stress (MPS) in the microtensile-model for each bond angle and for varying adhesive thickness from 20 μm to 200 μm for each group.
+Results
+
+The bond strength results diminish as the angle on the interface increased (P<0.05) for Clearfil SE Bond between 0 (control) and 30 degrees, and for Single Bond between 0 (control) and 10, 20, and 30 degrees. The hypothesis can be fully accepted for Single Bond and partially accepted for Clearfil SE Bond. For the FEA, there was a trend toward decreasing MPS as the bond angle increased, while the MPS for each angled group increased with adhesive layer thickness.
+Significance
+
+The MPS results for angled interfaces, exhibited the same trend as the lab values. FEA results indicated an MPS increase with increased adhesive thickness.

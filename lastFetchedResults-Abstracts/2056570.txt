@@ -1,0 +1,3 @@
+The 9600 channels of the multi-wire proportional chamber of the H1 experiment at HERA have to be read out within 96 ns and made available to the trigger system. The tight spatial conditions at the rear end flange require a compact bidirectional readout electronics with minimal power consumption and dead material.
+
+tion using 40 identical optical link modules, each transferring the trigger information with a physical rate of 4×832 Mbps via optical fibers, has been developed and commissioned. The analog pulses from the chamber can be monitored and the synchronization to the global HERA clock signal is ensured.

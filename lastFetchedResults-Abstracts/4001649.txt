@@ -1,0 +1,1 @@
+A two-core feedback-controlled transductor for measuring large dc currents is presented. It is capable of measuring bidirectional dc currents with the accuracy of 100 ppm and of returning to its normal operating condition once it is stuck in the false balance state. It can be applied to the situation in which the abrupt jumps of the busbar current take place frequently

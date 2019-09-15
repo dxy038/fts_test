@@ -1,0 +1,14 @@
+Vehicle ride comfort is a function of the frequency content of transmitted vibrations
+to passengers from road irregularities. However, this frequency content varies with vehicle speed
+fluctuations, which occur under real traffic conditions. The design of an adaptive active suspension system,
+in order to simultaneously improve ride comfort and travel suspension under various traffic conditions,
+is addressed in this paper. For this purpose, using a full-vehicle model, with eight degrees of freedom,
+two separate fuzzy controllers are designed for front and rear suspensions. The parameters of the fuzzy
+controllers are then tuned for various traffic conditions of a driving pattern, using a multi-objective
+Pareto-optimal solution. The optimization objectives are: the ride comfort index, evaluated according to
+the ISO 2631-1 standard, and the maximum suspension travel. Simulation results prove that the multiobjective
+fuzzy controller conventionally tuned, based on the constant speed driving pattern, results in
+simultaneous improvement of ride comfort, travel suspension and energy consumption. However, this
+controller does not work optimally under all traffic conditions. On the other hand, the proposed adaptive
+multi-objective controller not only results in optimal ride comfort and travel suspension under various
+traffic conditions, but also leads to a considerable drop in active suspension energy consumption.

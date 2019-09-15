@@ -1,0 +1,12 @@
+In the present work, multidisciplinary optimization is formulated in the game theory framework. We
+choose a coupled heat transfer—thermoelastic system as the case study for which a topology design
+approach is developed. The multidisciplinary optimization problem is solved as a non-cooperative
+game and we determine a Nash equilibrium. The game has two players and the parameterization of
+the design domain is such that the design variables describe the material density and a parameter
+which influences the heat flow by convection to the surrounding fluid. The first player controls the
+structure and the second player controls the temperature distribution in the structure. For the second
+player, we present mathematical proof of existence of a discrete valued optimal solution and it is
+concluded that no regularization of the suboptimization problem is needed. We present two numerical
+examples which illustrate the proposed methodology. One of the examples is also solved by weighting
+the objectives to a scalar valued objective function and the result is compared with the Nash game
+solution

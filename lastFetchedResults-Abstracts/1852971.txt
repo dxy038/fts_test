@@ -1,0 +1,8 @@
+Objective
+m of this paper is to describe a novel system for computer-aided detection of clusters of microcalcifications on digital mammograms.
+s and material
+rams are first segmented by means of a tree-structured Markov random field algorithm that extracts the elementary homogeneous regions of interest. An analysis of such regions is then performed by means of a two-stage, coarse-to-fine classification based on both heuristic rules and classifier combination. In this phase, we avoid taking a decision on the single microcalcifications and forward it to the successive phase of clustering realized through a sequential approach.
+s
+stem has been tested on a publicly available database of mammograms and compared with previous approaches. The obtained results show that the system is very effective, especially in terms of sensitivity.
+sions
+oposed approach exhibits some remarkable advantages both in segmentation and classification phases. The segmentation phase employs an image model that reduces the computational burden, preserving the small details in the image through an adaptive local estimation of all model parameters. The classification stage combines the results of the classifiers focused on the single microcalcification and the cluster as a whole. Such an approach makes a detection system particularly effective and robust with respect to the large variations exhibited by the clusters of microcalcifications.

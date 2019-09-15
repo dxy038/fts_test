@@ -1,0 +1,11 @@
+Objective. To compare the relative contribution of various trunk muscles to the stability of the lumbar spine.
+
+Design. Quantification of spine stability with a biomechanical model.
+
+Background. Modern low back rehabilitation techniques focus on muscles that stabilize the lumbar spine. However, the relative contribution of various trunk muscles to spine stability is currently unknown.
+
+Methods. Eight male subjects performed isometric exertions in trunk flexion, extension, lateral bending, and axial rotation, and isometric exertions under vertical trunk loading and in a lifting hold. Each isometric trial was repeated three times at 20%, 40%, and 60% of the maximum trunk flexion force or with a load of 0%, 20%, 40%, and 60% of body weight for the latter two exertions. Surface EMG data from 12 major trunk muscles were used in the biomechanical model to estimate stability of the lumbar spine. A simulation of each trial was performed repeatedly with one of the 10 major trunk muscle groups removed from the model.
+
+Results. Relative contribution of each muscle to spine stability was significantly affected by the combination of loading magnitude and direction (3-way interaction). None of the removed muscles reduced spine stability by more than 30%.
+
+Conclusions. A single muscle cannot be identified as the most important for the stability of the lumbar spine. Rather, spine stability depends on the relative activation of all trunk muscles and other loading variables.

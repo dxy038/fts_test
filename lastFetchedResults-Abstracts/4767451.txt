@@ -1,0 +1,1 @@
+In this work a systematic methodology is presented to design optimum chip pulse shapes for DS-CDMA systems for timing synchronization. A nonlinear bi-objective problem with additional constraints is established. The derived optimum chip pulse shapes show significant improvement in timing synchronization performance.

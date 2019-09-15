@@ -1,0 +1,11 @@
+Objective
+Stem cell factor (SCF) is the ligand for the receptor tyrosine kinase (RTK) Kit. The literature contains conflicting reports regarding the capacity of SCF to activate JAK2. Previous work has addressed this controversial issue using biochemical approaches. Here we use a genetic approach to determine the direct role of JAK2 in SCF-mediated growth and differentiation of primary hematopoietic cells.
+Materials and Methods
+
+Fetal liver cells were isolated from JAK2-deficient murine embryos at day 12 of development. SCF-induced growth and differentiation of this unfractionated population of cells were determined by 3H-thymidine incorporation in bulk cultures, single-cell colony assays, and cytochemistry. In addition, Kit+ cells were isolated from fetal liver by fluorescence-activated cell sorting (FACS) and assessed for growth using 3H-thymidine and colony assays.
+Results
+
+SCF-induced growth of unfractionated JAK2-deficient fetal liver cells was reduced by 70% compared to cells from wild-type fetal liver in single-cell assays. This was of particular note because there were three-fold more Kit+ cells in JAK2-deficient fetal liver. Reductions in SCF-induced growth were not observed in bulk cultures of JAK2-deficient fetal liver, suggesting that additional factors cooperate with SCF to overcome the absence of JAK2 in this heterogeneous population of cells. SCF-induced 3H-thymidine incorporation of FACS-purified Kit+ fetal liver deficient for JAK2 was impaired by approximately 50%, whereas colony formation in methylcellulose was reduced 95%. JAK2 also was required for differentiation of this purified population of progenitors into mast cells.
+Conclusion
+
+JAK2 contributes to the intrinsic capacity of fetal liver hematopoietic progenitor cells to proliferate and differentiate in response to SCF.

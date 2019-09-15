@@ -1,0 +1,11 @@
+Objective
+The description and evaluation of a novel patient-independent seizure detection for the EEG of the newborn term infant.
+Methods
+We identified characteristics of neonatal seizures by which a human observer is able to detect them. Neonatal seizures were divided into two types. For each type, a fully automated detection algorithm was developed based on the identified human observer characteristics. The first algorithm analyzes the correlation between high-energetic segments of the EEG. The second detects increases in low-frequency activity (<8 Hz) with high autocorrelation.
+Results
+The complete algorithm was tested on multi-channel EEG recordings of 21 patients with and 5 patients without electrographic seizures, totaling 217 h of EEG. Sensitivity of the combined algorithms was found to be 88%, Positive Predictive Value (PPV) 75% and the false positive rate 0.66 per hour.
+Conclusions
+Our approach to separate neonatal seizures into two types yields a high sensitivity combined with a good PPV and much lower false positive rate than previously published algorithms.
+Significance
+The proposed algorithm significantly improves neonatal seizure detection and monitoring.
+

@@ -1,0 +1,18 @@
+According to the figures issued by UNCTAD, containerized trade is forecasted to grow by an average
+annual rate of 5.32 percent between the years 2003 and 2025. This paper studies yard crane
+scheduling problem between different blocks for a container terminal. The purpose is to minimize
+the total travel time of the cranes among the blocks and also, the total delayed workload in each
+block at different time periods. In other words, the forecasted workload within each planning period,
+additional crane capacity or insufficient crane capacity for each block, the time when cranes
+should be deployed and the routes of crane movements , all should be determined in a way that satisfies
+our objectives. Therefore, the problem is formulated as a mixed integer programming (MIP)
+model. The block pairs between which yard cranes will be transferred during the various periods,
+are determined by this model. Afterwards, the model is coded by LINGO which uses branch and
+bound algorithm for solving. The results determine the yard crane movement sequences among
+the blocks to achieve minimum total travel time for cranes and minimum total delayed workload
+in blocks at different periods. The biggest portion of the objective function value, for example,
+with 13 blocks, eight of which lack carne capacity is related to the total travel time of the cranes
+within the blocks. It is caused by the slow motion of the yard cranes and their large size. Also,
+total delayed workload calculated for four problems, decreases over the six time periods until it
+becomes zero. In other words, yard cranes are deployed in an optimal manner. Also, the results
+show the efficiency of the developed program.

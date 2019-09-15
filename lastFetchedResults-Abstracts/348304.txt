@@ -1,0 +1,11 @@
+Objective
+Slow evoked responses have been extensively studied using electrophysiological and neuroimaging methods, but there is no consensus regarding their generators. We investigated the generators of the P3 and positive slow wave (PSW) in the evoked responses to probes recorded during auditory working memory tasks to find out whether there is dissociation between functional networks involved in the generation of the P3 and PSW and between spatial and nonspatial auditory processing within this time window.
+Methods
+Whole-head magneto-(MEG) and electroencephalography (EEG); analysis of MEG data using minimum-norm current estimates.
+Results
+The associative temporal, occipito-temporal and parietal areas contributed to the generation of the slow evoked responses. The temporal source increased while the occipito-temporal source diminished activity during transition from the P3 to PSW. The occipito-temporal generator of the P3 was activated more during the spatial than nonspatial task, and the left temporal generator of the PSW tended to be more strongly activated during the nonspatial task.
+Conclusions
+These findings indicate that partially distinct functional networks generate the P3 and PSW and provide evidence for segregation of spatial and nonspatial auditory information processing in associative areas beyond the supratemporal auditory cortex.
+Significance
+The present results support the dual-stream model for auditory information processing.
+

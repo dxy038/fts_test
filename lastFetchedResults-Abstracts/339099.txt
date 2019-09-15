@@ -1,0 +1,11 @@
+Objective
+Mobilization of hematopoietic stem and progenitor cells (HSPC) by stromal cell-derived factor-1 (SDF-1) has been described; however, sustained adenoviral delivery or N-terminal modification was required for effect and could not be demonstrated with native protein. The aim of this study was to further investigate the SDF-1α/CXCR4 axis in HSPC mobilization using CTCE-0021, a cyclized CXCR4 agonist peptide, with comparable bioactivity and improved stability relative to SDF-1α.
+Methods
+
+Peripheral blood cells and hematopoietic progenitor cells (HPC) were quantitated in mice administered single or multiple doses of CTCE-0021 or SDF-1α, or mobilized by granulocyte colony-stimulating factor (G-CSF) in combination with CTCE-0021. Proteases, cytokines, and receptors implicated in HSPC mobilization were evaluated to determine mechanism of action.
+Results
+
+CTCE-0021 dose-dependently elevated blood neutrophils polymorphonuclear neutrophil [PMN] within 5 minutes that peaked after 1 hour and persisted for 24 hours. PMN mobilization could be maintained by daily dosing. CTCE-0021 mobilized colony-forming unit granulocyte macrophage (CFU-GM), burst-forming unit erythroid (BFU-E), and CFU-granulocyte-erythrocyte-monocyte-megakaryocyte (CFU-GEMM) that peaked within 1 hour after administration, and synergistically enhanced both PMN and HSPC mobilization when combined with G-CSF. Mobilization induced by CTCE-0021 was associated with rapid downregulation of CXCR4 expression on HPC. No appreciable changes in proteases implicated in HPC mobilization were observed. Significantly elevated plasma SDF-1 was detected in mobilized mice, which likely represents CTCE-0021.
+Conclusion
+
+These studies indicate that CTCE-0021 is an efficient and rapid mobilizer of PMN and HPC when used alone and shows synergistic activity when used in combination with G-CSF. The mobilizing effect of this peptide appears to be mediated by downregulation of the CXCR4 receptor on HPC and altered chemokine gradient.

@@ -1,0 +1,21 @@
+Objective: In vertebrates, bone morphogenetic proteins (BMPs) and activin signals play
+multiple roles in dorso-ventral patterning and development of the spinal cord. Here the
+inductions of BMP 4 and activin A on embryonic stem cells (ESCs) into dorsal interneurons
+have been studied.
+Materials and Methods: Four different treatments have been used for mESC derived
+neural precursors; they include BMP4 (1ng/ml and 10ng/ml), activin A (100 ng/ml), and
+activin A+BMP4 (100ng/ml, 10ng/ml). Induction’s effect on expression of specific dorsal
+interneuron markers in mature neurons have been evaluated by the use of immunocytochemistry
+and RT-PCR.
+Results: Treatment of ESC-derived neural precursors with BMP4, activin A, or both
+showed an increased generation of both dI1 and dI3 interneurons (Lhx2 and Isl-1-positive
+cells) compared to the control group. However, the synergistic effect in generation of dI3
+was not observed when both factors were used. Moreover, RT-PCR analysis of differentiated
+cells showed the expression of Lhx9, Lhx1, and Isl1, the transcription factors that are
+markers of dI1, dI2, and dI3 interneurons respectively.
+Conclusion: Our results showed that specific combination of developmental signaling
+molecules can direct the differentiation of ESCs into dorsal interneurons. Furthermore,
+qualitative and quantitative differences in signaling by different members of
+the TGF-â superfamily may play a role in the specification of different types of dorsal
+interneurons.
+

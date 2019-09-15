@@ -1,0 +1,1 @@
+The objective of this study is to develop a steam shift control system for a power plant from refuse combined with gas turbine. It is important to protect a steam turbine when a gas turbine is tripped. A simulation using dynamic characteristic analysis model is used to develop the system. Furthermore the system is applied to an actual plant.

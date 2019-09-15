@@ -1,0 +1,11 @@
+Background
+Although physicians frequently order non-essential diagnostic tests, including screening tests such as electrocardiograms (ECGs), effective strategies for achieving evidence-based test-ordering are not proven. Our objective was to evaluate the impact of a feedback intervention designed to reduce the rate of screening ECG use and its variation.
+Methods
+
+A non-randomized pre-post intervention trial assessed the ordering of ECGs among primary care providers affiliated with Massachusetts General Hospital. Among outpatients visiting providers, those with cardiac diagnoses or symptoms were excluded, as were providers with <120 annual visits. Data were available on 117 providers, 105,682 patients, and 511,328 patient visits. During a 9-month intervention, providers received periodic case-mix-adjusted peer-comparisons of their screening ECG use. Two computerized billing systems tracked baseline (December 1996 to March 1998), intervention (April 1998 to December 1998), and post-intervention (January 1999 to September 1999) ECG use. Our outcome measures were: 1) the likelihood of ECG ordering at office visits and 2) provider practice variation, indicated by coefficient of variation and interquartile range.
+Results
+
+ECGs were ordered in 4.6% of visits before the intervention. Provider variation in case-mix adjusted ECG ordering was substantial (coefficient of variation, 101.6%; interquartile range, 3.2% [1.5%-4.7%]). ECG ordering averaged 3.5% during the intervention and 2.8% post-intervention (P < .001). Variation in ECG ordering narrowed considerably (coefficient of variation, 92.5%; interquartile range, 2.0% [1.0%-3.0%]) after the intervention. Multivariate analysis confirmed a persistent impact of the intervention.
+Conclusions
+
+Feedback to primary care providers successfully reduced ECG use and its variation. This approach may be applicable to other physician behaviors that remain contrary to evidence, but are not questioned because peer comparisons are unavailable.

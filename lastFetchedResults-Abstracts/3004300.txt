@@ -1,0 +1,1 @@
+A new logical structure, the fuzzy normal proposition logic, is defined in this paper. For describing objective items, it is quite near to their original appearances, and may well be realized in popular computers. We discuss some of the properties of the logical structure, and establish a fuzzy normal proposition probability space.

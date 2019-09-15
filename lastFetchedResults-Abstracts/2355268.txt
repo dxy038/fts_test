@@ -1,0 +1,13 @@
+The Water Framework Directive (2000/60/EC) requires member states to classify and enhance the ecological quality of water bodies in accordance with their type. To estimate the effect on type of the natural variability of lagoons, we applied a two-dimensional hydrodynamic model to the lagoon of Venice. The model calculated the mean annual spatial distributions of two variables: salinity and residence time. The standard deviation of salinity was also included, in order to estimate the variation of salinity values around the mean, which is associated with the instability of the mean salinity value.
+
+ly detailed numerical grid was calibrated and high-frequency tributary discharge data were used.
+
+mulations, under realistic forcing conditions, are based on the years 2003 and 2005. The former was characterized by low precipitation, around 30% less than the typical value.
+
+arison of model results and measurements shows the high reliability of the model in reproducing the spatial distribution and temporal evolution of salinity.
+
+nd strong inter-annual variation in salinity, standard deviation of salinity and residence time. The effect on the typing process is that the most representative types shift from one category to another.
+
+ basis of the spatial patterns of the variables and their superposition, we identified types that described the bulk of the lagoon.
+
+umerical tool offers support for lagoon management on various levels, in terms of both WFD requirements and other applications, by: (1) providing unbiased and objective zoning indications for the basin; (2) evaluating the response of water quality elements; (3) establishing the reference status of a water body; and (4) establishing a hierarchical division of a lagoon that can be used to select an appropriate number of sampling stations for monitoring.

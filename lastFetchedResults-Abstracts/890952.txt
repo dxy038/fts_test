@@ -1,0 +1,18 @@
+In this paper, a multi-objective optimization for the optimal design of sliding isolation systems
+for suppression of seismic responses of building structures is presented. Due to the presence of several
+parameters affecting the performance of sliding base isolation systems, applying a rigorous multi-
+objective optimization technique is inevitable. Hence, in this study, the genetic algorithm is used to find
+optimal values of isolator parameters, including coefficient of friction, mass of base raft and the damping
+ratio of the restoring force device. The restoring device, which is composed of a linear spring and a linear
+viscous damper, is attached to the base raft in order to minimize the during-event and after-event sliding
+displacement of the base raft. The simultaneous minimization of the building's top story displacement and
+its acceleration, and also the base raft's displacement, are considered as the objective functions. In order
+to satisfy the objective functions, a fast and elitist Non-dominated Sorting Genetic Algorithm (NSGA-II) is
+used to find a set of Pareto-optimal solutions. The isolated building is modeled as a shear-type structure
+having one lateral degree of freedom at each story level. A ten-story building is used for the numerical
+study and an ensemble of seven earthquake records is considered for the analysis. The results indicate that
+by applying the final design parameters obtained from the optimal values found by the NSGA-II approach
+corresponding to each individual record, the sliding isolator system effectively suppresses the structural
+seismic responses. Also, it is found that the restoring device with an optimal viscous damper might slightly
+reduce the performance of the isolation system, but is strongly effective in controlling the maximum base
+raft displacement and the residual base raft displacement.

@@ -1,0 +1,8 @@
+Background
+us studies have revealed structural brain changes in late life depression, mainly in white matter or whole lobes with few focussing just on grey matter (GM). The objective was to investigate GM changes in older depressed and similar aged healthy subjects using two different methods, cortical thickness in frontal lobe structures and voxel-based morphometry (VBM).
+s
+eight subjects participated (30 healthy comparison subjects, 38 depressed) and underwent 3T T1 MR imaging as well as clinical and cognitive assessments. Frontal cortical thickness was measured using FreeSurfer while VBM was undertaken using the DARTEL algorithm in SPM8. Group differences in cortical thickness and GM volumes were assessed using ANCOVA. Effects of cortical thickness and VBM results on cognitive and depression variables were also investigated.
+s
+nificant differences in frontal lobe cortical thickness were observed between groups (F1, 62 ≤ 2.7, p ≥ 0.1). In addition, no significant relationships of cortical thickness on cognitive and depression scores were identified (partial correlation |r'| = 0.01–0.31, p ≥ 0.06). VBM showed that GM volumes were indistinguishable between groups but significant age effects were apparent, independent of diagnosis.
+sions
+s suggest that cortical GM changes in late life depression (LLD) are similar to healthy older subjects and appear to be related to age rather than cognitive or depressive symptoms. Changes to white matter and subcortical GM structures may be more relevant in explaining the underlying neurobiology of LLD.

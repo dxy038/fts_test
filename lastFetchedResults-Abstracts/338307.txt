@@ -1,0 +1,11 @@
+Objective
+To develop a real-time PCR method, based on the 5′nuclease TaqMan technology, for quantitation of clonal cells in multiple myeloma (MM).
+Materials and Methods
+
+The real-time quantitative PCR method incorporates both an allele-specific oligonucleotides (ASO) primer and an ASO dual-labeled fluorogenic probe (ASO TaqMan probe). The ASO primer and probe corresponded to the complementary determining region 3 (CDR3) of the rearranged immunoglobulin heavy chain gene (IgH). With the use of a sequence detector, PCR product accumulation was measured through the ASO TaqMan probe. The real-time PCR method was compared with flow cytometric quantitation of myeloma plasma cells.
+Results
+
+The application of the real-time quantitative ASO IgH PCR method is illustrated by a sequential analysis of minimal residual disease (MRD) in bone marrow (BM) samples from myeloma patients undergoing peripheral blood stem cell (PBSC) transplantation. The real-time PCR method was able to quantitate residual malignant cells in BM samples from patients who were considered to be in complete remission. Further, it was illustrated that a potential problem in determining tumor cell content in myeloma BM samples is the heterogeneous infiltration of the marrow.
+Conclusion
+
+The application of the real-time PCR method provides a sensitive, highly specific, and reproducible quantitation of myeloma cells.

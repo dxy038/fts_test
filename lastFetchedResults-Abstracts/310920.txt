@@ -1,0 +1,11 @@
+Objective. To establish a surgical simulation system of skin sutures using a three-dimensional finite element method.
+
+Design. Three-dimensional finite element models were developed from point data obtained with a rapid three-dimensional surface-measuring device and postoperative profiles were evaluated using these models.
+
+Background. Since suturing a wound may result in undesirable skin extrusion, it is important to make the extrusion as inconspicuous as possible. We have investigated a means of determining appropriate suture methods to decrease the extrusion.
+
+Methods. Affected body parts were measured non-invasively with a rapid three-dimensional surface-measuring device. Finite element models were prepared, and an appropriate method for reducing skin extrusion was evaluated by attempting various suturing methods.
+
+Results. Two kinds of finite element models were prepared: a conventional spindle model and a modified S-shape model. The height of the extrusion of the modified S-shape model was decreased by 40% in comparison with that of the spindle model. These results agreed with clinical findings.
+
+Conclusions. Due to this surgical simulation system of skin sutures, with a rapid three-dimensional surface-measuring device and three-dimensional finite element analysis, it was possible to design an appropriate suturing method and to evaluate the postoperative skin profiles. The modified S-shape suture method would be a recommendable method.

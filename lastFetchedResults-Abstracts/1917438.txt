@@ -1,0 +1,8 @@
+AbstractObjectives
+personalized therapeutic approaches are urgently needed for patients with metastatic clear cell renal cell carcinoma (ccRCC).
+s and materials
+bined the development of a primary patient-derived ccRCC cell line with a phenotypic drug screen consisting of 101 approved anticancer compounds.
+s
+ntified the MNNG HOS transforming gene (MET)-anaplastic lymphoma receptor tyrosine kinase (ALK) inhibitor crizotinib as the top hit of our drug screen, whereas compounds targeting the vascular endothelial growth factor (VEGF) or mammalian target of rapamycin (mTOR) pathway showed no or only minor in vitro activity. Among the known major crizotinib targets MET, ALK, and ROS-1, only MET was expressed in our ccRCC cell line. Subsequent sequence analysis revealed a heterozygous R988C mutation of the MET gene and a VHL deletion in both the primary tumor and the tumor-derived ccRCC cell line. However, we were unable to show an activation of MET and, further, MET knockdown did not result in increased apoptosis or cytotoxicity. Therefore, our results suggest that MET R988C does not function as a major oncogenic driver mutation but rather represents a sequence variant. However, we provide evidence that the cytotoxic effect of crizotinib in our cell line model correlates with its ability to inhibit P-glycoprotein (ABCB1)-associated transport functions.
+sions
+udy shows that a phenotypic screen of a patient-derived tumor cell line can identify compounds with antitumor activity but with an unexpected mode of action. Our results underscore that target validation and phenotype-genotype correlations remain a major experimental challenge. The implications of our findings for a personalized management of patients with cancer are discussed.

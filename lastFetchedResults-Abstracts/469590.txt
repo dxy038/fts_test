@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to develop a simple and robust method for predicting risk of cesarean section.
+Study design
+Retrospective cohort study of singleton births at term between 1992 and1999 in 22 Scottish maternity hospitals among primigravid women induced with prostaglandin. The risk of emergency cesarean section was modeled by using multivariate logistic regression in a development sample (n = 14,968). The output of this model was converted into adjusted likelihood ratios by using a novel method and tested in a validation sample (n = 12,638).
+Results
+Maternal age, height, gestational age, and fetal sex were all predictive of the risk of emergency cesarean section after prostaglandin induction of labor (all P< .001). The area under the receiver operator characteristic (ROC) curve in the development group was 0.677. The derived Bayesian model was comparably predictive of cesarean section risk in the validation sample: ROC of 0.673 (95% CI 0.662-0.684). Among the 994 women (8%) with a predicted cesarean section risk of more than 40%, the expected proportion was 48.2% and the observed proportion was 47.2%. Among the 1439 (11.4%) with a predicted cesarean risk of less than 10%, the expected proportion was 7.9% and the actual proportion 8.6%.
+Conclusion
+Women at low or high risk of cesarean section after prostaglandin induction of labor can be identified with the use a novel combination of logistic regression and Bayesian modeling. The method is simple, robust, and may be generally applicable for clinical estimation of risk.
+

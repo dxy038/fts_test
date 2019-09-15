@@ -1,0 +1,1 @@
+We consider the traffic grooming problem in metro networks with mixed line rates. Our primary objective is to minimize the cost of optical line cards and the secondary objective is to minimize the wavelength cost.

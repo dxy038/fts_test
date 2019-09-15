@@ -1,0 +1,1 @@
+Hardware metering to prevent IC piracy is a challenging and important problem. The authors propose a combinational locking scheme based on intelligent placement of the barriers throughout the design in which the objective is to maximize the effectiveness of the barriers and to minimize the overhead.

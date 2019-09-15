@@ -1,0 +1,7 @@
+Objective
+Prospective studies have reported a positive association of coagulation factors with risk of coronary heart disease (CHD). It is unclear whether these coagulation factors interact.
+Methods and results
+Using a prospective case-cohort design, we analyzed by Cox proportional hazard regression interactions between soluble thrombomodulin (sTM) and fibrinogen, factor VIII (FVIII), FVII, or plasminogen activator inhibitor-1 (PAI-1) in 410 CHD cases and 721 non-cases from the Atherosclerosis Risk in Communities (ARIC). There was a significant interaction between sTM and fibrinogen (p = 0.027). We next assessed risk ratios (RR) by combined tertile analysis. Combined analysis revealed that being in the upper sTM tertile counteracted the CHD risk imposed by higher fibrinogen whereas being in the lower sTM tertile amplified the CHD risk of higher fibrinogen. sTM and fibrinogen mutually influenced CHD incidence in a concentration-dependent manner. When analyzed as single factors by tertiles, FVIII, FVII and PAI-1 were not associated with CHD. However, when analyzed together with sTM, FVIII and PAI-1 were both positively associated with CHD for those in the lower sTM tertile.
+Conclusion
+There is a complex interaction between sTM and prothrombotic coagulation factors. Combined analysis improves CHD risk assessment.
+

@@ -1,0 +1,11 @@
+Objective
+We examined the hypothesis that cognitive dysfunction in Alzheimer's disease is associated with abnormal spontaneous fluctuations of EEG synchronization levels during an eyes-closed resting state.
+Methods
+EEGs were recorded during an eyes-closed resting state in Alzheimer patients (N=24; 9 males; mean age 76.3 years; SD 7.8; range 59–86) and non-demented subjects with subjective memory complaints (N=19; 9 males; mean age 76.1 years; SD 6.7; range: 67–89). The mean level of synchronization was determined in different frequency bands with the synchronization likelihood and fluctuations of the synchronization level were analysed with detrended fluctuation analysis (DFA).
+Results
+The mean level of EEG synchronization was lower in Alzheimer patients in the upper alpha (10–13 Hz) and beta (13–30 Hz) band. Spontaneous fluctuations of synchronization were diminished in Alzheimer patients in the lower alpha (8–10 Hz) and beta bands. In patients as well as controls the synchronization fluctuations showed a scale-free pattern.
+Conclusions
+Alzheimer's disease is characterized both by a lower mean level of functional connectivity as well as by diminished fluctuations in the level of synchronization. The dynamics of these fluctuations in patients and controls was scale-free which might point to self-organized criticality of neural networks in the brain.
+Significance
+Impaired functional connectivity can manifest itself not only in decreased levels of synchronization but also in disturbed fluctuations of synchronization levels.
+

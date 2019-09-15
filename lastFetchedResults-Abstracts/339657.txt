@@ -1,0 +1,11 @@
+Objective
+For acute myeloid leukemia (AML), gene therapy may be used to treat patients refractory to conventional chemotherapy. However, availability of vectors sufficiently and specifically transducing this cell type is very limited.
+Method
+
+Here we report the selection of capsid-modified adeno-associated viral (AAV) vectors targeting Kasumi-1 AML cells by screening random AAV displayed peptide libraries.
+Results
+
+The peptide inserts of the enriched capsid mutants share a common sequence motif. The same motif was selected in an independent library screening on HL-60 AML cells. Recombinant targeted vectors displaying the selected peptides transduced the target leukemia cells they have been selected on up to 500-fold more efficiently compared to AAV vectors with control peptide inserts. One of the selected clones (NQVGSWS) also efficiently transduced all members of a panel of four other AML cell lines. Binding and blocking experiments showed that NQVGSWS binding to leukemia cells is independent of the wild-type AAV-2 receptor heparin sulfate proteoglycan. Transduction assays on a panel of hematopoietic and nonhematopoietic cell lines showed that the NQVGSWS capsid was able to overcome resistance to AAV transduction, especially in hematopoietic cancer cells, whereas normal peripheral blood mononuclear cells and CD34+ hematopoietic progenitor cells were not transduced.
+Conclusions
+
+Consequently, recombinant targeted NQVGSWS AAV vectors harboring a suicide gene conferred selective killing to Kasumi-1 cells, but not to control cells. This suggests that the AAV mutant selected here may be used as a tool to target therapeutic genes to AML cells.

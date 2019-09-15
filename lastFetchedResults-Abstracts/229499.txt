@@ -1,0 +1,12 @@
+We propose a new technique for efficiently rendering bidirectional texture functions (BTFs). A 6D BTF describes
+the appearance of a material as a texture that depends on the lighting and viewing directions. As such, a BTF
+accommodates self-shadowing, interreflection, and masking effects of a complex material without needing an
+explicit representation of the small scale geometry. Our method represents the BTF as a set of spatially varying
+apparent BRDFs, that each encode the reflectance field of a single pixel in the BTF. Each apparent BRDF is
+decomposed into a product of three or more two-dimensional positive factors using a novel factorization technique,
+which we call chained matrix factorization (CMF). The proposed factorization technique is fully automatic and
+suitable for both BRDFs and apparent BRDFs (which typically exhibit off-specular peaks and non-reciprocity).
+The main benefit of CMF is that it delivers factors well suited for the limited dynamic range of conventional
+texture maps. After factorization, an efficient representation of the BTF is obtained by clustering the factors into
+a compact set of 2D textures. With this compact representation, BTFs can be rendered on recent consumer level
+hardware with arbitrary viewing and lighting directions at interactive rates

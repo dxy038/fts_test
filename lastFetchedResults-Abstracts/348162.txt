@@ -1,0 +1,11 @@
+Objective
+Mismatch negativity (MMN) is an auditory event-related potential (ERP) that provides an index of auditory sensory memory and has become an important tool to investigate auditory sensory memory in cognitive neuroscience and disorders such as schizophrenia and dyslexia. The development of a mouse model of human MMN would permit to investigate the molecular biology of normal and dysfunctional MMN generation. However, the presence of MMN-like electrophysiological activity in mice has not been demonstrated.
+Methods
+Deviance-related ERPs were recorded in awake mice using 3 frequency deviance paradigms and one duration deviance paradigm. These paradigms were modelled after paradigms used in human studies to characterize MMN.
+Results
+Significant deviance-related activity was observed in all paradigms. However, in all frequency deviance paradigms this activity manifested as an enhancement of similar activity to the standard due to differences in stimulation rate between deviant and standard stimuli rather than qualitatively different MMN-like activity. In the duration deviance paradigm negative deflections were observed that showed characteristics typical of human MMN.
+Conclusions
+MMN-like activity can be observed in mice in duration deviance paradigms. In frequency deviance paradigms effects of different stimulation rates of deviant and standard stimuli seem to be the main determinants of deviance-related activity.
+Significance
+Investigations of MMN-like ERPs in mice may permit to investigate the molecular basis for normal and abnormal MMN generation in neuropsychiatric disorders and dyslexia.
+

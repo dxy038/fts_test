@@ -1,0 +1,9 @@
+Background
+The accuracy of clinical staging in lung cancer may be evaluated by comparing it against the gold standard of pathologic staging. The objective of this paper is to compare these two staging methods in a series of 2,994 lung cancer cases operated on consecutively in Spain between 1993 and 1997.
+Methods
+The raw frequency of agreement was used to compare clinical against pathologic staging and to assess the agreement. Kappa's index was used to determine the random effect of agreement.
+Results
+Ninety-three percent of the entire population were men, with a mean age of 64 years (median, 66; SD, 9.6). The majority of cases were classified as squamous tumors (1,774; 59%), with complete resection (2,410; 80%), and with lobectomy or bilobectomy (1,490; 55%). The most frequently found pathologic stage was pIB (997; 37%), followed by pIIIA (524; 19%). Considering the 2,377 cases with clinical and pathologic staging data, a classification coincidence was observed in 1,108 cases (47%; Kappa's index 0.248 for stages IA through IIIB). Considering the pathologic staging as the gold standard, the agreement was 75% for stages IA-IB (Kappa's index 0.56). In general, downstaging is more frequent than upstaging.
+Conclusions
+This recent series of lung cancer showed the low diagnostic accuracy of the clinical staging as compared with the pathologic staging. Diagnostic accuracy was found to be much higher in the initial IA-IB stages, as illustrated by Kappa's index.
+

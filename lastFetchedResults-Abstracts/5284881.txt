@@ -1,0 +1,1 @@
+The objective of this paper is to present a generic and extensible access framework architecture for WebLab integration. In this framework each Weblab becomes accessible by means of a preinstalled plug-in. This modular approach makes it possible to add, remove or modify a plug-in, and its corresponding Weblab, without framework recompilation.

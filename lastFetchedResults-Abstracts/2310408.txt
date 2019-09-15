@@ -1,0 +1,5 @@
+This paper presents the results of a mathematical analysis, computational results, and experimental data related to the multi-wheel drive vehicle energy/fuel efficiency and vehicle tractive and velocity operational properties evaluation.
+
+distributions to the drive wheels provided by vehicle driveline systems are the major factors in pre-determining the vehicle energy/fuel efficiency. The objective function mathematical analysis has led to some important practical recommendations for designing better driveline systems. Generally, the maximum efficiency of a vehicle is provided by wheel power distributions that are under unequal slips of the vehicle tires. However, optimum driveline systems are expected to be designed in a way that leads to the same slips for all the tires.
+
+thematical analysis, computational results, and experimental data are presented in a combination with the results of a century-long scientific discussion on the problem under consideration. Details are in the paper.

@@ -1,0 +1,4 @@
+In this paper, a simplified bidirectional associative memory (BAM) neural network with
+five neurons is investigated. By analysis, we obtain that Hopf bifurcation occurs when
+the delay passes through a certain critical value. Numerical simulations are given to support
+our theoretical results.

@@ -1,0 +1,11 @@
+Objective
+The E2A-encoded proteins E47 and E12 are crucial to the development of pro-B and pre-B cells. The expression of E2A protein and mRNA during early B lymphopoiesis was determined and effects of stem cell factor (SCF; Steel factor; c-kit ligand) on E2A expression were evaluated.
+Materials and Methods
+
+Ex vivo murine pro-B cells and pre-B cells were isolated and in vitro B cell precursors were derived after culture of bone marrow with rmIL-7. Levels of E2A proteins were determined by Western analysis and mRNA by RT-PCR. E2A expression in vitro was also assessed in cultures supplemented with IL-7 ± recombinant murine SCF (rmSCF), insulin-like growth factor-1 (rhIGF-1), or Flt3-ligand (rhFlt3-L). Turnover of E2A proteins was assessed following cycloheximide treatment.
+Results
+
+Ex vivo, pro-B cells had lower E47 protein levels than did pre-B cells but had comparable E2A mRNA levels. E2A protein, but not mRNA, levels were reduced in pro-B cells upon culture in vitro with IL-7 + rmSCF. This was associated with increased turnover of E2A proteins. In contrast, culture with IL-7 + IGF-1 or Flt3-L had minimal effects on E2A protein levels.
+Conclusion
+
+Pre-B cells expressed higher levels of E2A protein than did pro-B cells and this mainly resulted from posttranscriptional regulation. Exogenous SCF inhibited E2A protein, but not mRNA, expression in cultured B cell precursors, possibly by increasing E2A protein turnover. The capacity to respond to SCF may influence the levels of E2A during B-cell development.

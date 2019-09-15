@@ -1,0 +1,7 @@
+An electronic nose and an UV-Vis spectrophotometer, in combination with multivariate analysis, have been used to verify the geographical origin of extra virgin olive oils. Forty-six oil samples from three different areas of Liguria were included in this analysis.
+
+Initially, the data obtained from the two instruments were analysed separately. Then, the potential of the synergy between these two technologies for testing food authenticity and quality was investigated.
+
+Application of Linear Discriminant Analysis, after feature selection, was sufficient to differentiate the three geographical denominations of Liguria (“Riviera dei Fiori”, “Riviera del Ponente Savonese” and “Riviera di Levante”), obtaining 100% success in classification and close to 100% in prediction. The models built using SIMCA as a class-modelling tool, were not so effective, but confirmed that the results improve using the synergy between different analytical techniques.
+
+This paper shows that objective instrumental data related to two important organoleptic features such as oil colour and aroma, supply complementary information.

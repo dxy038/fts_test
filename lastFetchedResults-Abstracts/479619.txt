@@ -1,0 +1,8 @@
+Background and Objective: Determining adequate model and estimation of target dose with high precision is a key goal in dose-response studies. MCPMod is a new method that used for model selection and estimation of target doses and unlike other methods it does not have any limitation.  In this method, selection of models has performed by hypothesis testing; also increasing responses that are a critical assumption, is assumed in MCPMod method.  The purpose of this study is determining of good models by MCPMod method and estimation of the median and maximum effective dose of antispasmodic medicine.
+
+Materials and Methods: Seventy piggy were surveyed in seven groups (n=10) and one dose was studied in each group. We used Tm statistic for model selection and logistic, log-linear, linear, exponential and Emax models were used for data analysis. Then, for estimation of median and maximum effective dose, we used the method of MCPMod method and R software was used for data analysis. 
+
+Results: In all of the models, hypothesis tests were significant (p < 0.001). Emax model had the maximum Tm (Tm=10.21). Median and maximum effective dose were estimated 17*10-5 and 0.007 respectively. 
+
+Conclusion: In addition to flexibility of MCPMod method, it seems this method is efficient for model selection and estimation of target doses in dose-response studies.
+

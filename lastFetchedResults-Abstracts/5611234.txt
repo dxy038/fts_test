@@ -1,0 +1,1 @@
+In this paper, a recurrent neural networks observer for anaerobic processes is proposed; the main objective is to estimate biomass, in a completely stirred tank reactor. The neural network is trained with an extended Kalman filter algorithm. The applicability of the proposed observer is verified via simulations.

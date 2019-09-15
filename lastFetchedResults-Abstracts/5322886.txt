@@ -1,0 +1,1 @@
+We present experimental results on error free bidirectional transmission of 8times10 GE channels over 210 km of standard single mode fibre. Inexpensive XENPAKs, conventional C-band EDFAs and FBG dispersion compensating modules have been used. Our results are very promising especially for operators of research and educational networks

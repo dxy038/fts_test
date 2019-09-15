@@ -1,0 +1,10 @@
+Soil surfaces in arid and semi-arid lands often lack photoautotrophic life but are covered by communities of soil
+surface covering organisms able to tolerate dehydration, and thus adapted to aridity. One important objective of
+multi-spectral remote sensing instruments is the detection of the optical characteristics of the Earth’s surface using
+high spectral resolution bands. In this study ASTER imagery and reflected radiation in VNIR bands were used to
+investigate biological Soil Crusts (BSCs) in the field. By applying IARR (Internal Average Relative Reflectance),
+FCC (False Color Composite), MNF (Minimum Noise Fraction Transform), and MEM (Mathematical Evaluation
+Method) techniques, BSCs are successfully detected in the Chadormalu desert area of central Iran. This study
+clearly shows the capability of ASTER data (VNIR bands) to detect BSC or cyanobacteria soil crusts. The
+proposed MEM method, despite being approximative is suitable for detecting microorganisms in inaccessible
+areas such as other planet surfaces or remote areas on earth.

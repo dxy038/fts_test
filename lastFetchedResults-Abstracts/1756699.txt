@@ -1,0 +1,8 @@
+Objective
+ntify independent predictors of mental and physical health in patients with viral hepatitis.
+s
+tis C (HCV) and hepatitis B (HBV) infected patients, and community control subjects with equal age and sex distribution were recruited. All subjects filled in personal characteristics questionnaire, Hospital Anxiety and Depression Scale (HADS), Iowa Fatigue Scale (IFS), and Medical Outcomes Survey Short Form-12 (SF-12). All patients had measurement of routine laboratory values, and some had recent liver biopsy. Regression analyses were used to identify predictors of physical and mental health.
+s
+ndred eighty nine subjects (162 males, 27 females, for each group N = 63) with mean (± SD) age of 39 ± 11 years were included. Anxiety and depression were important predictors of SF-12 (and its subscales MCS and PCS) and IFS scores, whereas IFS scores independently predicted HADS, PCS, MCS, and SF-12 scores. After controlling for confounders, HCV infection was independently associated with impairment of physical health. Moreover, creatinine showed an inverse strong relation with fatigue. Genotype 3a of HCV was independently associated with depressed and anxious states, whereas higher inflammation grade was significantly related to depression. Marital status, non-psychiatric comorbidities, and history of alcohol abuse also predicted health scores in the patients. Adjusted R2s for linear models were 0.571 to 0.709, whereas areas under the receiver operating characteristic (ROC) curve for logistic models were 0.90 to 0.93.
+sion
+al hepatitis patients, besides mental and medical comorbidities, marital status, and alcohol abuse, HCV infection itself is associated with impaired physical and possibly mental health.

@@ -1,0 +1,20 @@
+The new field of location proteomics seeks to provide
+a comprehensive, objective characterization of the subcellular
+locations of all proteins expressed in a given cell type. Previous
+work has demonstrated that automated classifiers can recognize
+the patterns of all major subcellular organelles and structures
+in fluorescence microscope images with high accuracy. However,
+since some proteins may be present in more than one organelle,
+this paper addresses a more difficult task: recognizing a pattern
+that is a mixture of two or more fundamental patterns. The approach
+utilizes an object-based image model, in which each image
+of a location pattern is represented by a set of objects of distinct,
+learned types. Using a two-stage approach in which object types
+are learned and then cell-level features are calculated based on
+the object types, the basic location patterns were well recognized.
+Given the object types, a multinomial mixture model was built
+to recognize mixture patterns. Under appropriate conditions,
+synthetic mixture patterns can be decomposed with over 80%
+accuracy, which, for the first time, shows that the problem of computationally
+decomposing subcellular patterns into fundamental
+organelle patterns can be solved.

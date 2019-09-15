@@ -1,0 +1,1 @@
+In this paper we discuss the convergence of the Broyden algorithms without convexity and exact line search assumptions. We proved that if the objective function is suitably smooth and the algorithm produces a convergence point sequence, then the limit point of the sequence is a critical point of the objective function.

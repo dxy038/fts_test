@@ -1,0 +1,3 @@
+We provide an example of a convex infinite horizon problem with a linear objective functional where the different interpretations
+of the improper integral  ∞0 f (t, x(t), u(t)) dt in either Lebesgue or Riemann sense lead to different but finite optimal values.
+© 2007 Elsevier Inc. All rights reserved.

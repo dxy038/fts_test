@@ -1,0 +1,11 @@
+Objective
+To test a technique called Directed Transfer Function (DTF) for the estimation of human cortical connectivity, by means of simulation study and human study, using high resolution EEG recordings related to finger movements.
+Methods
+The method of the Directed Transfer Function (DTF) is a frequency-domain approach, based on a multivariate autoregressive modeling of time series and on the concept of Granger causality. Since the spreading of the potential from the cortex to the sensors makes it difficult to infer the relation between the spatial patterns on the sensor space and those on the cortical sites, we propose the use of the DTF method on cortical signals estimated from high resolution EEG recordings, which exhibit a higher spatial resolution than conventional cerebral electromagnetic measures. The simulation study was followed by an analysis of variance (ANOVA) of the results obtained for different levels of Signal to Noise Ratio (SNR) and temporal length, as they have been systematically imposed on simulated signals. The whole methodology was then applied to high resolution EEG data recorded during a visually paced finger movement.
+Results
+The statistical analysis performed returns that during simulations, DTF is able to estimate correctly the imposed connectivity patterns under reasonable operative conditions, i.e. when data exhibit a SNR of at least 3 and a length of at least 75 s of non-consecutive recordings at 64 Hz of sampling rate, equivalent, more generally, to 4800 data samples.
+Conclusions
+Functional connectivity patterns of cortical activity can be effectively estimated under general conditions met in any practical EEG recordings, by combining high resolution EEG techniques, linear inverse estimation and the DTF method.
+Significance
+The estimation of cortical connectivity can be performed not only with hemodynamic measurements, by using functional MRI recordings, but also with modern EEG recordings treated with advanced computational techniques
+

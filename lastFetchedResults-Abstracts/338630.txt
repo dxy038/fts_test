@@ -1,0 +1,11 @@
+Objective
+The migration of primitive hematopoietic cells has been studied mostly via population-based assays while the actual mechanisms of cell motion have been defined by tracking individual mature cells. In this report, we examined individual immature hematopoietic cells to determine if any notable differences in migration mechanisms exist due to the primitive nature of the cells.
+Materials and Methods
+
+Murine cells of the Sca-1+/Lin− phenotype were isolated from C57BL/6 mice using Miltenyi bead purification and flow cytometric sorting. These cells were then observed for long periods of time with an environmentally controlled time-lapse microscope system in either multiwell plates or micropore transwell chambers. Experiments were also performed with the human KG1a immature hematopoietic cell line.
+Results
+
+Murine Sca-1+/Lin− immature hematopoietic cells and human KG1a cells were observed to exhibit a variety of mechanisms/morphologies during migration, which include the classic “hand mirror” shape; broad, flat lamellipodia; trailing uropodia; dynamic filopodia; and retraction fibers. Time-lapse observations of transmembrane assays revealed long, thin magnupodia passing through the pores, while other measurements show magnupods can generate forces capable of accelerating a cell to a velocity of 5 microns/minute.
+Conclusion
+
+Many of these mechanisms have been reported separately for differentiated cells; however, we show that immature hematopoietic cells are capable of exhibiting all of these mechanisms of migration. These data provide insight into the loss of phenotypic functions as stem cells differentiate.

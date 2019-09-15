@@ -1,0 +1,11 @@
+Objective. This study evaluates methods to optimize the trunk center of mass position, the center of pressure position, or both to minimize the difference between horizontal location of the whole body center of mass estimated by the model and center of pressure measured during static postures.
+
+Design. Within subjects repeated measures.
+
+Background. Methods to optimize the trunk center of mass position have been proposed in the past, but have not been fully evaluated nor have accounted for errors in the location of the center of pressure. Accurately determining these locations affects the understanding of the control of balance.
+
+Methods. Six methods were compared using kinematic and force plate data from 22 subjects. Static postures resembling both leg and back lifting techniques were used to optimize the center of mass. A typical lifting movement was used to evaluate the effectiveness of the methods in reducing the difference between external moment and time derivative of the angular momentum.
+
+Results. Optimization of the center of pressure had a statistically significant effect on reducing errors (P<0.05), whereas optimization of the trunk center of mass alone had not (P>0.05).
+
+Conclusions. Optimizing the center of pressure was simple and compensated for systematic errors introduced from the model and instrumentation. The addition of the center of mass optimization improved some results but added much complexity to the experimental procedures.

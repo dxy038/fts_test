@@ -1,0 +1,1 @@
+A bidirectional beam propagation method, able to describe light propagation in multilayered structures with second-order nonlinearities, is proposed. The developed numerical scheme is then applied for the modeling of second harmonic generation in periodic structures.

@@ -1,0 +1,8 @@
+Objective
+luate the association between abdominal obesity and prostate cancer (CaP) diagnosis and grade in patients undergoing prostate biopsy.
+als and methods
+n 2008 and 2011, we prospectively enrolled patients referred to 3 clinics in Italy who were scheduled for transrectal ultrasound (TRUS) guided prostate biopsy. Before biopsy, digital rectal examination (DRE), prostate specific antigen (PSA), body mass index (BMI), and waist circumference (WC) were measured. Men were categorized in 4 groups of body habitus, according to BMI and waist circumference values. Crude and adjusted logistic regressions were performed to assess the association of BMI (continuous), waist circumference (continuous), body habitus (categorical), and CaP diagnosis and grade.
+s
+ndred sixty-eight patients were enrolled. CaP was detected in 246 patients (38%), of whom 136 had low-grade (Gleason score ≤ 6) and 110 high-grade cancer (Gleason score ≥ 7). Logistic regression multivariate analysis showed that BMI (OR 1.05 per unit, CI 95% 1.00–1.10 P = 0.033) and waist circumference (OR 1.02 per cm, CI 95% 1.00–1.04 P = 0.026) were significant predictors of CaP diagnosis. BMI (OR 1.11 95% CI 1.04–1.18 P = 0.001) and WC (OR 1.04 95% CI 1.02–1.06 P = 0.001) were also associated with high-grade CaP. Furthermore, obesity with central adiposity (BMI ≥ 30kg/m2 and WC ≥ 102 cm) was significantly associated with CaP diagnosis (OR 1.66, CI 95% 1.05–2.63, P = 0.03) and high-grade disease (OR 2.56, CI 95% 1.38–4.76, P = 0.003).
+sions
+y defined by BMI and WC seems to be associated with CaP and, more specifically, with high-grade disease at the time of biopsy. The relationship between obesity and CaP is complex and remains to be further addressed.

@@ -1,0 +1,1 @@
+The main objective of this work is the implementation of recursive formulas allowing the integration of a high order polynomial expression on the unit sphere. These formulas facilitate the evaluation of very complex computations. The proofs of the formulas are based on mathematical induction as well as the divergence theorem.

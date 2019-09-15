@@ -1,0 +1,14 @@
+Objective
+The goal of the study was to determine whether microbubble charge influences the microvascular retention of microbubble contrast agents.
+Background
+
+Interactions between serum proteins and lipid membranes are greater with anionic compared with neutral membranes. These interactions may influence the microvascular behavior of anionic lipid microbubbles.
+Methods
+
+Intravital microscopy of the cremaster muscle was performed in six wild-type mice and three C3-deficient mice during intravenous injection of lipid-shelled microbubbles with either a neutral or a negative charge. Both agents were prepared with and without a protective surface layer of polyethyleneglycol (PEG). Complement attachment to microbubbles was assessed by flow cytometry with flourescein isothiocyanate-conjugated anti-C3b monoclonal antibody. Myocardial contrast echocardiography was performed in six dogs to assess pulmonary and myocardial retention of microbubbles.
+Results
+
+Size-independent capillary retention of microbubbles, occurring for a few seconds to >10 min, was frequently observed with anionic, but rarely with neutral, microbubbles (4.3 ± 0.3 vs. 0.4 ± 0.1 mm−3, p < 0.01). Anionic microbubble retention was reduced by 70% by surface PEG and was also markedly reduced in C3-deficient mice (1.4 ± 0.1 mm−3, p < 0.05 vs. wild-type). Flow cytometry demonstrated complement attachment to only anionic microbubbles. Contrast echocardiography indicated both pulmonary and myocardial retention of only anionic microbubbles, the latter evidenced by persistent opacification >10 min after bolus intravenous injection.
+Conclusions
+
+Lipid microbubbles with a net negative charge can be retained within capillaries via complement-mediated attachment to endothelium. This property may be useful for the development of ultrasound contrast agents that can be imaged late after venous injection.

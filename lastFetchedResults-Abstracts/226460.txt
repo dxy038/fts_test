@@ -1,0 +1,17 @@
+The objective of solid modeling is to represent, manipulate, and reason about; the three-dimensional shape of solid
+physical objects, by computer. Such representations should be unambiguous.
+Solid modeling is an application-oriented field that began in earnest in the early 1970s. [46]. Major application areas include
+design, manufacturing, computer vision, graphics, and virtual reality. Technically, the field draws on diverse sources including
+numerical analysis, symbolic algebraic computation, approximation theory, applied mathematics, point set topology, algebraic
+geometry, computational geometry, and data bases. Monographs and major surveys of solid modeling include [13], [19], [27], [37],
+WI, [451, [461.
+In this road map article, we begin with some mathematical foundations of the field. We review next the major representation
+schemata of solids. Then, major layers of abstraction in a typical solid modeling system are characterized: The lowest level of
+abstraction comprises a substratum of basic service algorithms. At an intermediate level of abstraction there are algorithms for
+larger, more conceptual operations. Finally, a yet higher level of abstraction presents to the user a functional view that is typically
+targeted towards solid design. Here, we will look at some applications and at user interaction concepts.
+The classical design paradigms of Solid Modeling concentrated on obtaining one specific final shape. Those paradigms are
+becoming supplanted by feature-based, constraint-based design paradigms that are oriented more toward the design process and
+define classes of shape instances. These new paradigms venture into territory that has yet to be explored systematically.
+Concurrent with this paradigm shift, there is also a shift in the system architecture towards modularized confederatiogs of plugcompatible
+functional components. We explore these trends lightly in the last section.

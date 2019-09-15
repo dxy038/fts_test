@@ -1,0 +1,8 @@
+Objective
+estigate the influence of the convergence angle of tooth preparation on the fracture load of Y-TZP-based ceramic (YZ – Vita YZ) substructure (SB) veneered with a feldspathic porcelain (VM9 – Vita VM9).
+s
+ element stress analysis (FEA) was performed to examine the stress distribution of the system. Eighty YZ SB were fabricated using a CAD–CAM system and divided into four groups (n = 20), according to the total occlusal convergence (TOC) angle: G6 – 6° TOC; G12 – 12° TOC; G20 – 20° TOC; and G20MOD – 20° TOC with modified SB. All SB were veneered with VM9, cemented in a fiber reinforced epoxy resin die, and loaded to failure. Half of the specimens from each group (n = 10) were cyclic fatigued (106 cycles) before testing. Failure analysis was performed to determine the fracture origin. Data were statistically analyzed using Anova and Tukey's tests (α = 0.05).
+s
+eatest mean load to fracture value was found for the G20MOD, which was predicted by the FEA. Cyclic fatigue did not significantly affect the load of fracture. Catastrophic failure originating from the internal occlusal surface of the SB was the predominant failure mode, except for G20MOD.
+icance
+–VM9 restorations resisted greater compression load than the usual physiological occlusal load, regardless of the TOC angle of preparations. Yet, the G20MOD design produced the best performance among the experimental conditions evaluated.

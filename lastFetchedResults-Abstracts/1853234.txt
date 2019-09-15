@@ -1,0 +1,8 @@
+Objective
+ive efforts have been made in both academia and industry in the research and development of smart wearable systems (SWS) for health monitoring (HM). Primarily influenced by skyrocketing healthcare costs and supported by recent technological advances in micro- and nanotechnologies, miniaturisation of sensors, and smart fabrics, the continuous advances in SWS will progressively change the landscape of healthcare by allowing individual management and continuous monitoring of a patient's health status. Consisting of various components and devices, ranging from sensors and actuators to multimedia devices, these systems support complex healthcare applications and enable low-cost wearable, non-invasive alternatives for continuous 24-h monitoring of health, activity, mobility, and mental status, both indoors and outdoors. Our objective has been to examine the current research in wearable to serve as references for researchers and provide perspectives for future research.
+s
+, we review the current research and development of and the challenges facing SWS for HM, focusing on multi-parameter physiological sensor systems and activity and mobility measurement system designs that reliably measure mobility or vital signs and integrate real-time decision support processing for disease prevention, symptom detection, and diagnosis. For this literature review, we have chosen specific selection criteria to include papers in which wearable systems or devices are covered.
+s
+cribe the state of the art in SWS and provide a survey of recent implementations of wearable health-care systems. We describe current issues, challenges, and prospects of SWS.
+sion
+clude by identifying the future challenges facing SWS for HM.

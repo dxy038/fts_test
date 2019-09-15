@@ -1,0 +1,1 @@
+This paper presents the analysis and results obtained with the regenerative braking technique applied to the linear induction motor used for the traction of MagLev-Cobra, an urban transportation vehicle. The converter with bidirectional power flow and the technique used to drive are presented.

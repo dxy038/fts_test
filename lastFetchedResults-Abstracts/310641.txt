@@ -1,0 +1,9 @@
+Objective. The objective of this study is to verify the assumption that the three-dimensional (3-D) shoulder motions can be described by means of an interpolation of statically recorded postures and thus, support the application of non-invasive but static techniques for motion analysis of the shoulder.
+
+Background. During shoulder motions the scapula moves underneath the skin. Recording of motions is only possible by means of invasive methods. An alternative for the recording is palpation of skeletal landmarks on the scapula and subsequent digitization. The method is non-invasive and relatively easy, but static. Motions are modelled by means of interpolation of the subsequent position recordings. Validity of this method, however, has never been demonstrated.
+
+Methods. Seven subjects performed an alternating abduction-adduction motion of the arm in a plane 30 ° forward rotated with respect to the frontal plane, at three sub-maximal frequencies: 0.04, 0.25 and 0.50 Hz. The humeral and scapular motions were recorded by means of a two-dimensional (2-D) X-ray video system. The motions of the humerus, the scapular spine and the glenoid ridge were defined by angles, and the sinusoidal motion curves were characterized by means of the offset, the amplitude and the phase of the motions.
+
+Results. By means of Repeated Measurements Multi-Variate Analysis of Variance, a significant effect of arm motion on the phase and the amplitude of the scapular motion was found. However, the magnitude of the effects are negligibly small for the present applications at sub-maximal arm motion velocities.
+
+Conclusions. For normal arm motions in the vertical plane, the kinematics of the shoulder skeleton can be derived by the interpolation of statically recorded positions of the bones.

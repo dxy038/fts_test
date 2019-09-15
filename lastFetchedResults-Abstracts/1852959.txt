@@ -1,0 +1,8 @@
+Objective
+sider predictive models for clinical performance of pancreatic cancer patients based on machine learning techniques. The predictive performance of machine learning is compared with that of the linear and logistic regression techniques that dominate the medical oncology literature.
+s and materials
+struct predictive models over a clinical database that we have developed for the University of Massachusetts Memorial Hospital in Worcester, Massachusetts, USA. The database contains retrospective records of 91 patient treatments for pancreatic tumors. Classification and regression targets include patient survival time, Eastern Cooperative Oncology Group (ECOG) quality of life scores, surgical outcomes, and tumor characteristics. The predictive performance of several techniques is described, and specific models are presented.
+s
+w that machine learning techniques attain a predictive performance that is as good as, or better than, that of linear and logistic regression, for target attributes that include tumor N and T stage, survival time, and ECOG quality of life scores. Bayesian techniques are found to provide the best performance overall. For tumor size as the target attribute, however, logistic regression (respectively linear regression in the case of a numerical as opposed to discrete target) performs best. Preprocessing in the form of attribute selection and supervised attribute discretization improves predictive performance for most of the predictive techniques and target attributes considered.
+sion
+e learning provides techniques for improved prediction of clinical performance. These techniques therefore merit consideration as valuable alternatives to traditional multivariate regression techniques in clinical medical studies.

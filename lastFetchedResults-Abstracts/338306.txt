@@ -1,0 +1,11 @@
+Objective
+Molecular identification and characterization of the bone marrow nuclear protein detected by the B92 monoclonal antibody.
+Materials and Methods
+
+The protein was purified to homogeneity from acute myeloid leukemia cells and was subjected to peptide digestion and amino acid sequencing. Identified sequences were used to screen a bone marrow cDNA library in search of matching transcripts. The protein was further studied in different cells and tissues by examination of protease inhibitors and harsh lytic conditions and during apoptosis in HL-60 cells.
+Results
+
+We found that the apparent bone marrow specific protein is a 47 kD proteolytic cleavage product of PSF, an essential pre-mRNA splicing factor. PSF is completely cleaved to p47 during lysis of immature myeloid cells due to potent proteolytic activity found in these cells but is rare in other cells and tissues. Furthermore, p47 is abundant in intact normal and tumor myeloid cells while in other cell types it is undetectable. The cleavage of PSF is accompanied by digestion of the PTB splicing regulator but not other proteins tested. In contrast, during apoptosis PTB is degraded while PSF remains intact.
+Conclusions
+
+The bone marrow 47 kD protein is a fragment constituting the N-terminal, protease-resistant half of the splicing factor PSF. Proteolytic degradation of PSF specifically occurs in intact myeloid cells and this process is enhanced upon myeloid cell lysis.

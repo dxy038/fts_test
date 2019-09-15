@@ -1,0 +1,11 @@
+Objective
+Surface protein glycosylation of lymphocytes plays a key role in development, maturation, and immune regulation. Sialic acid most often is the terminal carbohydrate in these posttranslational modifications. Receptors for sialic acids are expressed on lymphocytes and can generate an inhibitory signal. This study compared the sialic acid expression pattern of tolerogenic cells and effector cells.
+Methods
+
+Gene expression profiles of immature and mature monocyte-derived dendritic cells were compared using cDNA array technology. We analyzed the cell-surface protein sialylation of dendritic cells and different T cell subpopulations by flow cytometry using plant lectins.
+Results
+
+Monocyte-derived dendritic cells showed a separation according to α2,6-linked sialic acid density. Tolerogenic, immature DC showed a higher α2,6-linked sialic acid, which was drastically downregulated after maturation of DC with proinflammatory cytokines. This differential expression of α2,6-linked sialic acid was reflected by transcriptional regulation of specific glycosyl transferases during DC maturation shown by cDNA array analysis. Furthermore, CD4+ T cells significantly upregulated α2,6-linked sialic acid density, whereas α2,3-linked sialic acid density remained largely unchanged after stimulation. Isolated CD4+CD25+ T cells showed a population with high density of α2,6-linked sialic acid and a population with low expression. The density of this particular carbohydrate was further increased during culture conditions expanding inhibitory T cells.
+Conclusion
+
+Surface proteins on tolerogenic, immature dendritic cells and regulatory T cells are highly α2,6-sialylated, suggesting a glycan motif of tolerogenic cells which might serve as ligand for inhibitory siglecs on the surface of effector cells.

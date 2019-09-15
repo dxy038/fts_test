@@ -1,0 +1,1 @@
+Combining subcarrier multiplexing and wavelength division multiplexing techniques, we demonstrate a 124-channel hybrid PON with 10-Gb/s downstream and 1.25-Gb/s upstream transmission. A single 32*32 AWG is used to distribute the bidirectional wavelength channels for 124 users.

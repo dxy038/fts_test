@@ -1,0 +1,1 @@
+In this paper, the problem of finite time consensus is discussed for multiple non-holonomic mobile agents with communication delay. The objective is to design distributed control laws such that multiple non-holonomic mobile agents can be all in agreement within finite time. We propose a novel switching control strategy with the help of Lyapunov-based method and graph theory.

@@ -1,0 +1,19 @@
+Objective: In spite of accumulating information about pathological aspects of sulfur
+mustard (SM), the precise mechanism responsible for its effects is not well understood.
+Circulating microRNAs (miRNAs) are promising biomarkers for disease diagnosis and
+prognosis. Accurate normalization using appropriate reference genes, is a critical step in
+miRNA expression studies. In this study, we aimed to identify appropriate reference gene
+for microRNA quantification in serum samples of SM victims.
+Materials and Methods: In this case and control experimental study, using quantitative
+real-time polymerase chain reaction (qRT-PCR), we evaluated the suitability of a panel
+of small RNAs including SNORD38B, SNORD49A, U6, 5S rRNA, miR-423-3p, miR-191,
+miR-16 and miR-103 in sera of 28 SM-exposed veterans of Iran-Iraq war (1980-1988)
+and 15 matched control volunteers. Different statistical algorithms including geNorm,
+Norm?nder, best-keeper and comparative delta-quantification cycle (Cq) method were
+employed to find the least variable reference gene.
+Results: miR-423-3p was identified as the most stably expressed reference gene, and miR-
+103 and miR-16 ranked after that.
+Conclusion: We demonstrate that non-miRNA reference genes have the least stability
+in serum samples and that some house-keeping miRNAs may be used as more
+reliable reference genes for miRNAs in serum. In addition, using the geometric mean
+of two reference genes could increase the reliability of the normalizers.

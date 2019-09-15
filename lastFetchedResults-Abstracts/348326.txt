@@ -1,0 +1,11 @@
+Objective
+To compare the intraoperative signal-to-noise ratio (SNR), reproducibility and rapidity of popliteal fossa (PF), optimized P37, standard P37 and P31 potentials.
+Methods
+Raw sweeps and 11 averages doubling sweep number from 2 to 2048 were compared in 37 patients undergoing scoliosis surgery. Optimized (highest amplitude or SNR) P37 derivations were Cz–CPc (22), CPz–CPc (27), Pz–CPc (7), iCPi–CPc (8), CPi–CPc (1), Cz–Pz (2) or Pz–FPz (3), and in two patients with non-decussation, Cz–CPi (1) or CPz–CPi (3). Standard P37 and P31 derivations were CPz–FPz and FPz–C5S. Signal amplitude was measured in 2048-sweep averages; peak noise was measured in raw sweeps and ± averages; SNR was amplitude/noise. Visual superimposability and <20–30% amplitude variation determined reproducibility. Sweeps to reproducibility determined rapidity.
+Results
+The SNR order was PF optimized P37>standard P37>P31. Mean optimized P37 SNR advantages over the standard P37 and P31 were 2.1:1 and 4.9:1. SNR had powerful non-linear correlations to reproducibility and rapidity. Median sweeps to reproducibility were PF: 2, optimized P37: 128, standard P37: 512 and P31: 1024. EEG noise was greatest in FPz derivations. Burst-suppression increased scalp potential SNR and rapidity.
+Conclusions
+Optimized P37 and PF recordings are most rapidly reproducible due to superior SNRs and are recommended. FPz should be avoided. Burst-suppression may be desirable.
+Significance
+CPz–FPz and FPz–C5S should no longer be standard.
+

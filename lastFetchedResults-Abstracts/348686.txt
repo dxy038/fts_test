@@ -1,0 +1,11 @@
+Objective
+Many sleep disorders involve frequent, brief arousals, not appreciated during conventional sleep stage scoring due to lack of electroencephalogram (EEG) desynchronization. We evaluated the temporal relation between heart rate (HR) changes, an index of autonomic activation, and EEG in seven healthy subjects during sleep.
+Methods
+We identified bouts of tachycardia–bradycardia and performed spectral analysis of EEG during these. We also identified cortical arousals by the appearance of EEG alpha activity. This allowed us to dichotomize bouts of tachycardia–bradycardia by presence or absence of cortical arousal.
+Results
+During non-rapid eye movement (REM) sleep, bouts with or without cortical arousal occurred with approximately equal frequency. Those with cortical arousals usually preceded onset of EEG changes. Those without cortical arousals were followed by increases in delta but not alpha power. EEG did not change during bouts in REM sleep.
+Conclusions
+Capturing bouts of tachycardia–bradycardia is relatively easy via computerized algorithm. Bouts occur with cortical arousal or with slow wave synchronization suggestive of subcortical arousal. Thus, changes in HR may be useful index of arousal.
+Significance
+These brief bursts of tachycardia–bradycardia are consistent with autonomic arousal. Such a measure may be among the first in a continuum of arousal ending with frank awakening.
+

@@ -1,0 +1,1 @@
+A compact radio frequency front-end configuration for short-range wireless communication with a novel bidirectional amplifier is presented. This configuration uses a single RF path for both transmitting and receiving. Performance prediction based on the experimental results indicates that the proposed RF front-end has the potential for use in short-range wireless applications.

@@ -1,0 +1,11 @@
+Objective
+There is a need for a means of characterizing permanent magnets for dental applications, in particular the force–distance relationship. Problems with determining this on the basis of elementary theory prompted consideration of a model system of long thin magnets.
+Materials and methods
+
+(a) The force exerted by rod-shaped magnets (Alnico V, 3 mm diameter, 170 mm long) perpendicular to a large steel plate, as a function of distance, at small separations (<5 mm), was determined for 85 examples. (b) Numerical modelling for a “polar disc” or sheaf of dipoles was conducted to test an alternative physical representation to the normally assumed simple dipole. (c) Exploratory curve-fitting trials were undertaken on the basis of known boundary conditions and observation of actual behaviour.
+Results
+
+The inverse square law for a point-like pole was found not to apply to the experimental data in any region. The polar disc model was found to provide a very good fit to the experimental data over the whole range tested, but only when an offset (not, vert, similar1 mm) of the pole position from the magnet face was assumed, and that this offset experienced an exponential-decay pole-position relaxation (typically 0.4–1.5 mm). The fitted pole strength was of the order of 0.18 mAm.
+Significance
+
+The implications of these results are that the commonly used elementary view of a simple dipole magnet is of little value for understanding the force–distance relationship and cannot be used as a basis for dental device characterization.

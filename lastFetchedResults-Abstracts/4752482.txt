@@ -1,0 +1,1 @@
+In this study, we evaluated the robustness of a method to correct the atmospheric excess path delay component in the repeat-pass SAR interferometry using the typical objective analysis data, i.e., the Global Analysis Data (GANAL) and ECMWF

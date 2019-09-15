@@ -1,0 +1,11 @@
+Objective
+Solution of the forward problem using realistic head models is necessary for accurate EEG source analysis. Realistic models are usually derived from volumetric magnetic resonance images that provide a voxel resolution of about 1 mm3. Electrical models could, therefore contain, for a normal adult head, over 4 million elements. Solution of the forward problem using models of this magnitude has so far been impractical due to issues of computation time and memory.
+Methods
+A preconditioner is proposed for the conjugate-gradient method that enables the forward problem to be solved using head models of this magnitude. It is applied to the system matrix constructed from the head anatomy using finite differences. The preconditioner is not computed explicitly and so is very efficient in terms of memory utilization.
+Results
+Using a spherical head model discretized into over 4 million volumes, we have been able to obtain accurate forward solutions in about 60 min on a 1 GHz Pentium III. L2 accuracy of the solutions was better than 2%.
+Conclusions
+Accurate solution of the forward problem in EEG in a finely discretized head model is practical in terms of computation time and memory.
+Significance
+The results represent an important step in head modeling for EEG source analysis.
+

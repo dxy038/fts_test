@@ -1,0 +1,1 @@
+The problem of allocating high-volume multimedia files on a virtual circuit network with the objective of maximizing channel throughput (and minimizing data transmission time) is addressed. The problem is formulated as a multicommodity flow problem. We present both the optimal and suboptimal solutions to the problem using novel approaches.

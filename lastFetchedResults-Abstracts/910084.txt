@@ -1,0 +1,10 @@
+The paper gives a general description of the Danube waterway data management in Croatia at both national and Pan-European levels. For
+these purposes, we initiated the development of a specialized geographic information system (GIS), the so-called River IS, which provides
+efficient waterway related data management for the Croatian part of the Danube River. In addition, Croatian activities in the Pan-European
+programme Consortium Operational Management Platform River Information Services (COMPRIS) and INTERREG project data warehouse
+for the Danube waterway (D4D) are described. Focusing on how to solve the major problems identified by ‘‘GIS Forum Danube’’ expert groups,
+we present our solutions for two important D4D project objectives. The first project objective concerns preparation of national GIS data of the
+participating countries in the world geodetic WGS84 coordinates as well as checking the transnational compatibility of GIS data. The second
+important project objective concerns the development of a commonly agreed catalogue of object types and their attributes necessary to describe
+waterway related data. For example, the conversion of the Croatian national geographic data into Inland ECDIS digital navigation maps is
+described

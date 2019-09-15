@@ -1,0 +1,11 @@
+Objective
+There are two inter-related categories of EEG measurement: 1, EEG currents or power and; 2, EEG network properties such as coherence and phase delays. The purpose of this study was to compare the ability of these two different categories of EEG measurement to predict performance on the Weschler Intelligence test (WISC-R).
+Methods
+Resting eyes closed EEG was recorded from 19 scalp locations with a linked ears reference from 442 subjects aged 5–52 years. The Weschler Intelligence test was administered to the same subjects but not while the EEG was recorded. Subjects were divided into high IQ (≥120) and low IQ (≤90) groups. EEG variables at P<.05 were entered into a factor analysis and then the single highest loading variable on each factor was entered into a discriminant analysis where groups were high IQ vs. low.Q.
+Results
+Discriminant analysis of high vs. low IQ was 92.81–97.14% accurate. Discriminant scores of intermediate IQ subjects (i.e. 90<IQ<120) were intermediate between the high and low IQ groups. Linear regression predictions of IQ significantly correlated with the discriminant scores (r=0.818–0.825, P<10−6). The ranking of effect size was EEG phase>EEG coherence>EEG amplitude asymmetry>absolute power>relative power and power ratios. The strongest correlations to IQ were short EEG phase delays in the frontal lobes and long phase delays in the posterior cortical regions, reduced coherence and increased absolute power.
+Conclusions
+The findings are consistent with increased neural efficiency and increased brain complexity as positively related to intelligence, and with frontal lobe synchronization of neural resources as a significant contributing factor to EEG and intelligence correlations.
+Significance
+Quantitative EEG predictions of intelligence provide medium to strong effect size estimates of cognitive functioning while simultaneously revealing a deeper understanding of the neurophysiological substrates of intelligence.
+

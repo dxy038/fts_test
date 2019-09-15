@@ -1,0 +1,1 @@
+A new general scheme is introduced that allows bidirectional decoding of variable length coded bitstreams from either end. Except for a small fixed number of extra bits appended to a sequence of code words, the scheme is as efficient as Huffman coding. The extra operations required at the coder and decoder are code word reversal and one EXOR for each bit.

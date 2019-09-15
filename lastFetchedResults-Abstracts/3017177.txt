@@ -1,0 +1,1 @@
+This paper presents discrete stochastic approximation algorithms that adaptively optimize the spreading codes of users in a CDMA system employing linear MMSE receivers. The proposed algorithm has a self-learning capability, i.e., it spends most of the computational effort at the global minimizer of the objective function.

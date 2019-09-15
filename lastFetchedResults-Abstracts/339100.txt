@@ -1,0 +1,11 @@
+Objective
+In a previous study, we showed that activation of a transfected human erythropoietin receptor (EPOR) in the murine myeloid cell line 32D resulted in the development of morphologic features of granulocytic differentiation and expression of the neutrophil primary granule protein myeloperoxidase. We now studied if EPOR signaling could also mediate secondary granule protein gene expression and investigated the signal transduction requirements for induction of secondary granule gene expression in 32D cells.
+Materials and methods
+
+Wild-type and variant 32D cells expressing normal or chimeric EPORs or receptors for granulocyte colony-stimulating factor (G-CSFRs) were stimulated with EPO or G-CSF and the expression of granulocyte-specific genes was analyzed by Northern blot analysis. To determine the signaling mechanisms required for secondary granule protein gene induction, the activation of STAT pathways following growth factor stimulation was studied by Western blot analysis.
+Results
+
+We found that EPO treatment of 32D cells engineered to express EPOR did not result in induction of the secondary granule protein genes encoding lactoferrin and 24p3 lipocalin, the mouse homolog of human N-Gal, or the myeloid transcription factor C/EBPε. Replacement of the intracellular domain of EPOR with the intracellular domain of G-CSFR in a chimeric receptor was associated with EPO-mediated induction of lactoferrin, 24p3 lipocalin, and C/EBPε genes. We found that STAT3 phosphorylation was mediated by the intracellular domain of G-CSFR, but not EPOR. Replacement of one or two of the STAT5 binding sites in the intracytoplasmic domain of the EPOR with STAT3 binding sites resulted in EPO-mediated STAT3 activation and a marked increase in the expression of the 24p3 lipocalin gene. Knockdown of STAT3 protein levels with siRNA caused significant decrease in 24p3 lipocalin gene induction.
+Conclusion
+
+These results indicate that EPOR signaling cannot substitute for G-CSFR signaling to stimulate secondary granule protein gene expression in 32D cells. In addition, STAT3 is a critical mediator of 24p3 lipocalin gene expression in these cells.

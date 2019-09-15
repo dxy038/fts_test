@@ -1,0 +1,10 @@
+This paper presents a two-dimensional (2D) large deformation analysis of strong discontinuities in anelastic
+solids and its numerical implementation. We assume associative and ideal plasticity until localization occurs.
+In the post-localization phase discontinuous displacements develop and their material gradient is set up in
+a proper way | one `leg' in the current con guration, the other `leg' in the reference con guration | to
+provide a frame indi erent (= objective) description. The numerical implementation via displacement-based
+six-node triangular  nite elements enriched by a single displacement-jump parameter (t2= 0) in the postlocalization
+phase (te>locte) is described in detail. The solution procedure is similar to that using assumed
+enhanced displacement-gradient elements, with the only but crucial di erence, that on the discontinuity surface
+the traction is linked to the displacement jump via a proper constitutive law. Finally, numerical results of the
+shear test and of the tension test are presented

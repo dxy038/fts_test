@@ -1,0 +1,1 @@
+This paper presents a starting method of Permanent Magnet Synchronous Motors (PMSM) for constant speed application driven by the commercial three-phase power supply. The starting system has an LC niter and Simplified Matrix Converter (SMC) consisting of four bidirectional switches. The effectiveness of the proposed control method has been verified by experiments.

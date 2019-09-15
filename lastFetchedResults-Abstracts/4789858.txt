@@ -1,0 +1,1 @@
+In this paper, we present a novel algorithm for fuzzy segmentation of the osteosarcoma magnetic resonance imaging (MRI) data and estimation of intensity inhomogeneties. The algorithm is formulated by modifying the objective function in the fuzzy c-means (FCM) algorithm to compensate for such inhomogeneities. Our experiments demonstrate the effectiveness of the method.

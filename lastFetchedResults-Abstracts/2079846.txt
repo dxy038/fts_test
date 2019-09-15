@@ -1,0 +1,13 @@
+The aim of this paper is to present a global study on the hydrodynamics, water quality and their influence on aquatic fauna. The case study was conducted on a segment of the Lima river (North Portugal), downstream of the Touvedo dam, which was mainly constructed for hydroelectric power production.
+
+IS FLOW program was used to simulate the hydrodynamics. This model also generates the necessary input data for the water quality simulation using the ISIS QUALITY module. Two basic principles govern the ISIS programs: conservation of mass and momentum.
+
+quality parameters (dissolved oxygen and temperature) were simulated for different operational conditions of the Touvedo dam: different discharges (water quantity and duration) and two levels of the water withdrawal, where different water characteristics have been measured.
+
+r objective was to determine the instream flow for this segment through the Instream Flow Incremental Methodology (IFIM). This technique allowed us to simulate the available habitat for three fish species: brown trout (Salmo trutta), Iberian nase (Chondrostoma polylepis) and chub (Leuciscus carolitertii). Habitat requirements were assessed for different flow regimes (natural versus regulated regime) for 1 year.
+
+erved a modification in the hydrodynamics and in the water quality as a function of the outflow volume and discharge level by simulating the variation of dissolved oxygen and temperature downstream of the dam.
+
+sponse of the fish community to this modification appeared to result in a negative impact on the migratory fish and in the salmonids being replaced by the more tolerant cyprinids.
+
+ork shows that the relation between physical habitat and the targeted aquatic species is a necessary but not sufficient condition for a viable population of aquatic species.

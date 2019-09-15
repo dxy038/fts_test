@@ -1,0 +1,11 @@
+Objective
+Screening for coronary artery disease is constrained by its low prevalence in unselected patients. We compared the ability of clinical scores to identify a high-risk group with diabetes mellitus and investigated a Bayesian strategy by combination with exercise echocardiography (ExE).
+Methods
+
+The Framingham risk score (FRS), a score based on the American Diabetes Association (ADA) screening guidelines, the United Kingdom Prospective Diabetes Study (UKPDS) risk engine, and a disease-specific diabetic cardiac risk score (DCRS) were calculated in 199 asymptomatic patients with type 2 diabetes mellitus undergoing ExE. The frequency of abnormal ExE and the proportion of these with coronary stenoses were sought in groups designated as high risk on the basis of optimal cutoffs for each score. All patients were followed up for 1 year.
+Results
+
+High risk was identified in fewer patients with the DCRS (27%) than FRS (38%, P = .02), ADA (41%, P = .004), and UKPDS (43%, P = .001). Exercise echocardiography was positive in 27 (14%); 11 of 23 proceeding to angiography showed significant stenoses. Areas under the receiver operator characteristic curves for prediction of a positive ExE were similar for DCRS, UKPDS, and FRS but less for ADA (P = .04). Positive ExE was uncommon in low-risk patients (8%-11%) and most were false positives (58%-80%). Cardiovascular events (n = 9) were more likely in the high-risk compared with the low-risk UKPDS (9% vs 2%, P = .03) and DCRS (12% vs 2%, P = .01).
+Conclusion
+
+Combination of the UKPDS or DCRS with ExE may optimize detection of coronary artery disease and cardiac events in asymptomatic patients, while minimizing the numbers of ExE and false-positive rate.

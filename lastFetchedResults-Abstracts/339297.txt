@@ -1,0 +1,11 @@
+Objective
+Identification of a clinical grade method for the ex vivo generation of donor-derived T cells cytotoxic against both myeloid and lymphoblastic cells still remains elusive. We investigated rapid generation and expansion of donor derived-allogeneic T-cell lines cytotoxic against patient leukemic cells.
+Materials and Methods
+
+Acute myelogenous leukemia (AML) and acute lymphoblastic leukemia (ALL) blasts were cultured 5 days in Stem Span, granulocyte macrophage colony-stimulating factor, interleukin-4, and calcium ionophore. All B-precursor ALL (N22) and AML (N13), but not T-cell ALL (N3), differentiated into mature leukemia-derived antigen-presenting cells (LD-APC). All but one LD-APC generated cytotoxic T lymphocyte (CTL) from adult human leukocyte antigen (HLA)-identical (N8) or unrelated donors (N2).
+Results
+
+Upon in vitro culture, donor-derived CTL acquired a memory T phenotype, showing concomitant high CD45RA, CD45RO, CD62L expression. CD8+ cells, but not CD4+ cells, were granzyme, perforine, and interferon-γ−positive. Pooled CD4+ and CD8+ cells were cytotoxic against leukemic blasts (32%, 30:1 E:T ratio), but not against autologous or patient-derived phytohemagglutinin blasts. LD-APC from five ALL patients were used to generate CTL from cord blood. A mixed population of CD4+ and CD8+ cells was documented in 54% of wells. T cells acquired classical effector memory phenotype and showed a higher cytotoxicity against leukemia blasts (47%, 1:1 E:T ratio). Adult and cord blood CTL showed a skewing from a complete T-cell receptor repertoire to an oligo-clonal/clonal pattern.
+Conclusions
+
+Availability of these cells should allow clinical trials for salvage treatment of leukemia patients relapsing after allogeneic stem cell transplantation.

@@ -1,0 +1,11 @@
+Objective
+We examined cell subsets with respect to cutaneous graft-vs-host disease by cell sorting selection of subsets of human mononuclear cells and injecting the subsets subcutaneously in a mouse model.
+Materials and Methods
+
+Cell suspensions containing cultured human epidermal cells and dermal fibroblasts from a single donor mixed with lymphoid cell subsets positively selected using the FACSVantage cell sorting instrument and/or MACS cell isolation kits from unrelated individuals were injected into immunodeficient mice. This model is known to generate human skin with histologic findings similar to human graft-vs-host disease.
+Results
+
+Donor T-cell subsets CD4+ and CD8+ plus either host or donor CD14+ cells were necessary to cause acute cutaneous graft-vs-host disease. Although graft-vs-host disease can result from recognition of class I antigens expressed on human cutaneous cells by donor peripheral blood mononuclear cells, additional recognition of class II antigens expressed on host mononuclear cells resulted in more severe histologic manifestations. Dendritic cells that differentiated from donor and host monocytes also showed competent accessory cell function in this system.
+Conclusions
+
+Based on this model, human cutaneous graft-vs-host disease was caused by donor CD4+ cells and CD8+ cells activated through recognition of host antigens, including class I and class II antigens presented by either donor or host CD14+ cells or dendritic cells.

@@ -1,0 +1,8 @@
+Objective
+rrent study aimed to perform a biomechanical analysis of the effect and distribution of stress and strain values in the femur and its residual screw holes from the implantation of different lengths of total hip prostheses following failed dynamic hip screw (DHS) fixation of AO type A1.1 and A1.3 intertrochanteric fractures.
+s
+l image processing, computer-assisted engineering design, and finite element analysis were combined for the analysis and the reliability of the model confirmed by convergence testing and comparison with a physical model. Using finite element analysis, patterns of stress from implantation of total hip prostheses with different stem length were obtained.
+s
+ distribution was concentrated over the third and fourth residual screw holes, especially in the models with shorter stem length. Fracture type (AO type A1.1 or A1.3) did not alter its distribution. In proximal cancellous bone, a stress-shielding effect was seen at the region of the residual fracture fragment, especially in the A1.1 fracture. In the fracture fixed with 2 cable wires, the maximum von Mises stress was in the proximal cable wire.
+sion
+sults suggest that an increase in the original stem length equal to the diameter of the femoral isthmus, or a distance between the most distal residual screw hole and the end of the femoral prosthesis, provide improved stress distribution.

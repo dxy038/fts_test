@@ -1,0 +1,14 @@
+Background and Objective: A one of the most power on assesses treatment effect is doubled-blind clinical trial. Therefore, deviation of protocol would impede the results in clinical trial. In practice (especially in studies which intervention is drug medication) is non-compliance. Researchers use intention-to-treat analysis for estimation of treatment effects in clinical trials with non-compliance. When there is noncompliance in participants, ITT estimation will have lower precision. In this paper we adjusted noncompliance effect to compare of active treatment and placebo.
+/ \
+Daneshvar Medicine
+Materials and Methods: In this paper we used Mehdi-Barzy' study data that was a placebo control, double blind crossover clinical trial and the objective of this study in 42 patients was to assess efficacy of herbal pomade "A" (analgesic effect and improvement function) using locally in patients with primary knee osteoarthritis over 3 weeks. Our model adjusted intention-to-treat estimand under conditional compliance estimation.
+Scientific-Research Journal of Shahed University Sixteenth Year, No. 84 December, January 2009-2010
+\ /
+Key Words: Crossover clinical trials, Intention-to-treat, Noncompliance, Principal Component Analysis
+ \
+Received: 2009/8/1
+Last revised: 2009/11/22
+ Accepted: 2009/11/23
+V. y
+Results: In the study 42 patients were participate with 30 (71.4%) women. Baseline variables like sex, age, education, weight, height are same in herbal joint and placebo groups. Portions of noncompliance in first and second period were 35.7 and 23.8 percent, respectively, in Mehdi-Barzy' study that based on ITT was adjusted. Standard error and likelihood ratio based on our model were less than standard model
+Conclusion: ITT estimand base on our model is better than standard ITT estimand in compare to active treatment and placebo effects.

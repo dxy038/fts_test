@@ -1,0 +1,9 @@
+Background
+The diagnosis of latent tuberculosis infection relies on the tuberculin skin test (TST), which has many drawbacks. However, to find out whether new tests are better than TST is difficult because of the lack of a gold standard test for latent infection. We developed and assessed a sensitive enzyme-linked immunospot (ELISPOT) assay to detect T cells specific for Mycobacterium tuberculosis antigens that are absent from Mycobacterium bovis BCG and most environmental mycobacteria. We postulated that if the ELISPOT is a more accurate test of latent infection than TST, it should correlate better with degree of exposure to M tuberculosis.
+Methods
+A large tuberculosis outbreak in a UK school resulted from one infectious index case. We tested 535 students for M tuberculosis infection with TST and ELISPOT. We compared the correlation of these tests with degree of exposure to the index case and BCG vaccination.
+Findings
+Although agreement between the tests was high (89% concordance, κ=0•72, p<0•0001), ELISPOT correlated significantly more closely with M tuberculosis exposure than did TST on the basis of measures of proximity (p=0•03) and duration of exposure (p=0•007) to the index case. TST was significantly more likely to be positive in BCG-vaccinated than in non-vaccinated students (p=0•002), whereas ELISPOT results were not associated with BCG vaccination (p=0•44).
+Interpretation
+ELISPOT offers a more accurate approach than TST for identification of individuals who have latent tuberculosis infection and could improve tuberculosis control by more precise targeting of preventive treatment.
+

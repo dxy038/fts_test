@@ -1,0 +1,11 @@
+Objective.  To investigate whether a simple electromyography–force (EMG-force) model can be used to measure different levels of co-contraction about the knee for healthy subjects and patients with an anterior cruciate ligament deficiency.
+
+Design. To evaluate an EMG-to-force processing model, two groups of subjects, with and without deficiency of the anterior cruciate ligament, participated in experiments in which surface EMG, kinematics and kinetics about the knee were recorded during isokinetic and functional movements.
+
+Background. Clinical and biomechanical evidence supports the hypothesis that higher level of co-contraction of quadriceps and hamstrings provide an active stabilization of the knee to compensate for the lost anterior cruciate ligament. To quantify the level of co-contraction, the contribution of both agonist and antagonist muscles to the net joint moment must be known.
+
+Methods. Surface EMG levels were calibrated to moment by means of a limited number of isokinetic contractions about the knee. With these calibration values, an estimate of the muscle moments during a vertical jump were obtained and compared with the net joint moment, calculated with inverse dynamics. Also co-contraction indices were determined.
+
+Results. The EMG–force model provided a fair estimate of the net joint moment. The co-contraction index in anterior cruciate ligament deficient subjects was significantly higher (mean 0.54 (SD, 0.04)) compared to healthy subjects (mean 0.25 (SD, 0.07)).
+
+Conclusion. Although the EMG-to-force processing model is not perfectly accurate, it is appropriate within a clinical context.

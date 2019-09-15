@@ -1,0 +1,11 @@
+Objective
+Reconstitution of cellular immunity by infusion of cytomegalovirus (CMV)-specific T lymphocytes is an attractive alternative to drugs currently used to control CMV reactivation in immunocompromised patients. For this purpose, we established a method for generating both anti-CMV CD4 and CD8 T cells following Good Manufacturing Practice indications, and we extensively characterized their immune functions.
+Materials and Methods
+
+For generating CD4 and CD8 CMV-specific lymphocytes, T cells from 11 CMV-seropositive donors were stimulated three times with dendritic cells (DC) pulsed with a library of selected CMV peptides, recognized by >85% of the Caucasian population. At the end of the culture, T cells were analyzed for their specificity, cytotoxicity, chemotactic migration, proliferation, and cytokine production.
+Results
+
+T cells were successfully expanded and enriched in CMV-specific subsets with an effector memory or an effector memory CD45 RA+ phenotype. CMV-specific T-cell lines showed specific cytotoxicity (average lysis: 47%) against CMV peptides-pulsed DCs, and were depleted of auto- and alloreactivity. Moreover, the ability to proliferate following antigenic stimulation and the presence of functional CD4 lymphocytes producing Th1 and Th2 cytokines can ensure long-term antiviral immunity after in vivo injection. CMV-specific T lymphocytes also proved to be fully equipped to reach CMV-infected tissues, because they expressed CD49d and CCR1, CXCR3, CXCR4, necessary to recruit effector cells to inflamed sites. In accordance with this profile, they significantly migrated towards inflammatory chemokines and towards the supernatant collected from inflamed lung fibroblasts, frequently involved in CMV pathology.
+Conclusion
+
+This strategy allows expansion of effector T cells capable to exert CD8 and CD4-mediated immune functions and, thus, is suitable for clinical use.

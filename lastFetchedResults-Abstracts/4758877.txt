@@ -1,0 +1,1 @@
+Concerns the design, construction, and implementation of a virtual reality interactive 3D environment to carry out the real time simulation, control and monitoring of a robotic manufacturing flexible cell. The main objective is the testing of control programs

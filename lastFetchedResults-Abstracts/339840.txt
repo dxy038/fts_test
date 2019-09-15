@@ -1,0 +1,11 @@
+Objective
+Disintegrins, snake venom−derived Arg-Gly-Asp (RGD)-containing polypeptides, and GPIIb/IIIa antagonist (AP2) block fibrinogen binding to GPIIb/IIIa of activated platelets, however, the combination of these two agents caused platelet aggregation. We hypothesize that disintegrin initially binds to specific epitope of GPIIb/IIIa, causing conformational change, and the recruitment of FcγRII, which can be bound by AP2, and finally triggering platelet aggregation.
+Materials and Methods
+
+We prepared human platelet suspensions and measured platelet aggregation, Ca2+ mobilization, thromboxane B2 formation, and signal transduction.
+Results
+
+Disintegrin (e.g., accutin) and AP2 (a monoclonal antibody [mAb]−raised against GPIIb/IIIa) individually inhibited human platelet aggregation caused by collagen. However, as both accutin and AP2 were sequentially added into platelet suspension, platelet aggregation occurred. Accutin/AP2 caused shape change, cytosolic Ca2+ mobilization, P-selectin expression, and thromboxane A2 formation. Tirofiban, FcγRII mAb, or indomethacin completely inhibited platelet aggregation caused by accutin/AP2. Accutin/AP2 also caused tyrosine phosphorylation of signal molecules. Disintegrins enhanced AP2 binding to platelets, and AP2 also promoted disintegrin binding to platelets. FcγRII mAb inhibited the enhanced fluorescein isothiocyanate−disintegrin binding to platelet caused by AP2. Immunoprecipitation of the lysates of disintegrin/AP2-treated platelets using FcγRII Ab showed complex formation of GPIIb/IIIa and FcγRII.
+Conclusion
+
+FcγRII mediates platelet aggregation caused by disintegrin and AP2, triggering a phospholipase C, phospholipase A2, Src-, Syk kinases, and Ca2+-dependent activation process. AP2 triggers platelet aggregation via binding to accessible FcγRII and the conformation-altered GPIIb/IIIa caused by disintegrin.

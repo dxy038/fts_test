@@ -1,0 +1,18 @@
+Location of fire stations by using Overlap Index and Analytical Hierarchy Process
+(case study: Najafabad city)
+
+Hamid Reza Varesi, Associate Professor, Geography and Urban Planning, University of Isfahan, Isfahan, Iran
+Corresponding author: Nasrin Sharifi, M.Sc., Geography and Urban Planning, University of Isfahan, Isfahan, Iran
+Email: nasrin.sharifi1392@yahoo.com
+Mohammad Jasem Shahsavani, M.Sc., Geography and Urban Planning, University of Isfahan, Isfahan, Iran
+
+Received: 19 March, 2015      Accepted: 11 September, 2015
+
+Abstract 
+Background: Nowadays, the growth of urban populations increases the need for services in large cities. Thus, optimal distribution of center service providers is essential. Fire stations are one of the most important components and land uses of urban emergency services which have a critical role to save lives and to protect the property of people against various accidents and disasters particularly fires. To this end, urban planners are very concerned about where to locate and design appropriate service areas to meet the needs of people. However, the main objective of fire stations establishment is to enhance security and to improve systematically the micro-level structure of the city in order to arrange the macro-level structure in line with predefined programs. 
+Method: In this analytical and applied research, the required information was obtained through field observations, source library, statistical yearbooks, status quo map and comprehensive plans and detailed study on Najafabad city using the localization standards and criteria of these services. After entering and processing the information, the appropriate locations were identified and prioritized in order to build new fire stations by using GIS and AHP. Also, it was used GIS analysis capabilities, and location models included in this software, weighting and buffering operation and etc.
+Findings: The results showed that given the performance radius of 1500 and 2000 meters for the existing fire stations, some parts of the city were not within the standard service areas. Accordingly, districts of 5, 2 and 6 had the highest priority respectively. Thus, three new fire station constructions has been proposed
+Conclusion: According to the results the performance radius of the current fire stations did not meet the needs of the population; therefore, it seems necessary to locate new stations considering various parameters. 
+ Keywords: Fire stations, Analytical Hierarchy Process (AHP), Index Overlay model (IO), Location, Najafabad city.
+
+

@@ -1,0 +1,9 @@
+Objective.  To establish the accuracy and reliability of a six-degrees-of-freedom electromagnetic tracking device, the “Flock of Birds”, for measuring neck rotations and to identify the main sources of error.
+
+Design. Ten human subjects made the same types of maximal neck rotation, both actively and passively: axial rotation in neutral position, from a flexed position and from an extended position, flexion/extension and lateral flexion. The same movements were mimicked in a ‘dummy head’ set-up.
+
+Methods. One Flock of Birds receiver was mounted on the thorax, one on the head. By means of a third receiver, mounted on a stylus, bony landmarks on head and thorax were palpated. These served to define two anatomically based local coordinate systems, to which the rotations were referred.
+
+Results. Measurements were accurate with a maximal measurement error of 2.5°. No significant difference between active and passive rotation was seen. The intra-subject variation was low within the same session, SD between 2° and 4°. Between sessions the variability was considerable, SD between 5° and 16°.
+
+Conclusion. The Flock of Birds method is reliable and sufficiently precise. The variability in measured range of motion between sessions is a point of concern in interpreting follow-up studies in patients.

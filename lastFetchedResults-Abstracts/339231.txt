@@ -1,0 +1,11 @@
+Objective
+To find a human cell line that could support differentiation of human embryonic stem cells (hESCs) into hematopoietic cells. To determine in detail the expression profiles of the β-like globin genes in hESC-derived erythroid cells.
+Materials and Methods
+
+FH-B-hTERT, a human fetal liver-derived cell line, and S17, a mouse bone marrow stromal cell line, were used as stromas to induce the differentiation of hESC into hematopoietic cells. The number of hematopoietic progenitors and surface antigen expression were monitored during time-course experiments using colony assays and flow cytometry. Globin expression patterns in individual erythroid colonies were determined by real-time quantitative reverse transcriptase polymerase chain reaction.
+Results
+
+Comparison of coculture of hESCs with FH-B-hTERT or S17 cells revealed that the fraction of CD34+ cells and the number of clonogenic progenitors per 250,000 cells plated were higher with FH-B-hTERT than with S17. Analysis of β-like globin expression in individual burst-forming unit erythroid and colony-forming unit erythroid colonies revealed that erythroid cells derived from hESC cocultured for 8 to 21 days on either FH-B-hTERT or S17 produced var epsilon- and γ-globin mRNAs in similar amounts. With increasing time in coculture, the mean ratio of γ/var epsilon increased by more than 10-fold on both S17 and FH-B-hTERT stroma. Importantly, β-globin expression was barely detectable at all time point examined.
+Conclusions
+
+FH-B-hTERT can induce hESCs differentiation into hematopoietic cells more efficiently than S17. In vitro differentiation of hESCs recapitulates the var epsilon-globin to γ-globin switch but not the γ-globin to β-globin switch that occurs around birth. This experimental system will be useful for studying the regulation of globin gene expression during early human hematopoiesis.

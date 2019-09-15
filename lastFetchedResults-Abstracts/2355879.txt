@@ -1,0 +1,32 @@
+The objective of this work is to perform a direct numerical simulation of turbulent channel flow where all essential scales of
+
+motion are resolved due to variable time-stepping algorithm in various time advancement method and different discritized form
+
+of convection term. A pseudo spectral method (Fourier series in stream-wise and span-wise directions and Chebychev polynomial
+
+expansion in normal direction) is employed for the spatial derivatives. The time advancement is carried out by different semiimplicit
+
+and splitting schemes. Also Alternating and Linearized forms are added to four commonly used forms of the convective
+
+term, referred to as divergence, Convection, skew-symmetric, and rotational. Spectral method based on the primitive variable
+
+formulation is used in Cartesian coordinates with two periodic and one non-periodic boundary condition in three dimensional
+
+directions &Omega;=[0,4&pi;]&times;[-1,1]&times;[0,2&pi;]. The friction Reynolds number for channel flow is set to be Re&tau;=175 and the computational
+
+grids of 128&times;65&times;128 are used in the x, y and z directions, respectively. The comparison is made between turbulent quantities
+
+such as the turbulent statistics, wall shear velocity, standard deviation of u and total normalized energy of instantaneous velocities
+
+in different time-discretization methods and different forms of nonlinear term. The present results show that third-order timediscretizations
+
+forward Euler for explicit terms and backward Euler for implicit terms can minimize the computational cost of
+
+integration by maximizing the time step, while keeping the CFL number near a threshold in time-discretization schemes. Also, the
+
+de-aliased results of turbulence statistics do indicate that different expressions of nonlinear terms have minor discrepancy in
+
+pseudo spectral method. The results show that the most desirable approach is a combination of variable time stepping third order
+
+backward difference algorithm and rotational form, which provides reduced cost and further accuracy improvements.
+

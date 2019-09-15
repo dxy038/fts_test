@@ -1,0 +1,8 @@
+Objective
+l applications have special features (interpretation of results in medical metrics, experiment reproducibility and dealing with complex data) that require the development of particular tools. The eXiT*CBR framework is proposed to support the development of and experimentation with new case-based reasoning (CBR) systems for medical diagnosis.
+
+amework offers a modular, heterogeneous environment that combines different CBR techniques for different application requirements. The graphical user interface allows easy navigation through a set of experiments that are pre-visualized as plots (receiver operator characteristics (ROC) and accuracy curves). This user-friendly navigation allows easy analysis and replication of experiments. Used as a plug-in on the same interface, eXiT*CBR can work with any data mining technique such as determining feature relevance.
+s
+sults show that eXiT*CBR is a user-friendly tool that facilitates medical users to utilize CBR methods to determine diagnoses in the field of breast cancer, dealing with different patterns implicit in the data.
+sions
+gh several tools have been developed to facilitate the rapid construction of prototypes, none of them has taken into account the particularities of medical applications as an appropriate interface to medical users. eXiT*CBR aims to fill this gap. It uses CBR methods and common medical visualization tools, such as ROC plots, that facilitate the interpretation of the results. The navigation capabilities of this tool allow the tuning of different CBR parameters using experimental results. In addition, the tool allows experiment reproducibility.

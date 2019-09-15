@@ -1,0 +1,5 @@
+The objective of the present work was to compare different partial least squares algorithms upon mid- and near-infrared data. The applied techniques were single PLS, multiblock PLS and serial PLS. The comparison was made upon values of Q2y determined in leave one out validation, mean square error of prediction using 80% of the data as calibration set and 20% as validation, and 95% confidence intervals for this parameter. A comparison between regression coefficients for all algorithms was also performed, after selecting the number of latent variables.
+
+er to perform this study, three parameters were used: flash point in gas oil, benzene and research octane number in gasoline.
+
+ PLS gave the best results in all analysed cases, followed by one single PLS with MIR or NIR. Multiblock PLS gave intermediate results between both single PLS. However, for the studied parameters, the best calibration model was single PLS, since the results were quite accurate and achieved in less time.

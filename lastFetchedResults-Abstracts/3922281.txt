@@ -1,0 +1,1 @@
+In the paper by M. Saif and Y. Guan (see ibid., vol. 3, no 29, p. 685-695), a necessary and sufficient condition is given for the existence of an asymptotically stable observer in the case of p=m. The objective of this note is to point out a critical mistake in the main theorem of the paper.

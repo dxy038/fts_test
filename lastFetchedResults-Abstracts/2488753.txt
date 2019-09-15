@@ -1,0 +1,22 @@
+Objective: The human OCT4 gene, the most important pluripotency marker, can generate
+at least three different transcripts (OCT4A, OCT4B, and OCT4B1) by alternative splicing.
+OCT4A is the main isoform responsible for the stemness property of embryonic stem (ES)
+cells. There also exist eight processed OCT4 pseudogenes in the human genome with
+high homology to the OCT4A, some of which are transcribed in various cancers. Recent
+conflicting reports on OCT4 expression in tumor cells and tissues emphasize the need to
+discriminate the expression of OCT4A from other variants as well as OCT4 pseudogenes.
+Materials and Methods: In this experimental study, DNA sequencing confirmed the authenticity
+of transcripts of OCT4 pseudogenes and their expression patterns were investigated
+in a panel of different human cell lines by reverse transcription-polymerase chain
+reaction (RT-PCR).
+Results: Differential expression of OCT4 pseudogenes in various human cancer and
+pluripotent cell lines was observed. Moreover, the expression pattern of OCT4-pseudogene
+3 (OCT4-pg3) followed that of OCT4A during neural differentiation of the pluripotent
+cell line of NTERA-2 (NT2). Although OCT4-pg3 was highly expressed in undifferentiated
+NT2 cells, its expression was rapidly down-regulated upon induction of neural differentiation.
+Analysis of protein expression of OCT4A, OCT4-pg1, OCT4-pg3, and OCT4-pg4 by
+Western blotting indicated that OCT4 pseudogenes cannot produce stable proteins. Consistent
+with a newly proposed competitive role of pseudogene microRNA docking sites,
+we detected miR-145 binding sites on all transcripts of OCT4 and OCT4 pseudogenes.
+Conclusion: Our study suggests a potential coding-independent function for OCT4
+pseudogenes during differentiation or tumorigenesis.

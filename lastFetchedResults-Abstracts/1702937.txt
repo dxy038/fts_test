@@ -1,0 +1,9 @@
+Abstract
+Background: The emergence of drug-resistant strain of M. tuberculosis is one of the most critical issues facing TB researchers and physicians. Rapid diagnosis of drug-resistant tuberculosis is essential to improve treatment outcome and limit transmission of this obstinate disease. The aim of this study was to develop a real-time PCR assay for the detection of mutations in RRDR (rifampcin resistance determinant region) of rpoB conferring rifampicin resistance in Mycobacterium tuberculosis.
+Materials and Methods: In this experimental study, the primer and probe set were designed for a RRDR region of rpoB gene using specialized software. Clinical specimens that had previously been evaluated resistant or sensitive by using conventional method were used for assessing the clinical sensitivity and specificity of the assay.
+Results: By analysis of 40 clinical samples (20 resistant and 20 sensitive samples), sensitivity of the probe for detection of mutation at codons 526 and 531 was determined 100%. The designed primers and probes were rpoB specific and no cross-reaction was observed with other microorganisms and human genome bio-informatically. The clinical specificity of the developed real-time PCR assay was examined experimentally using 25 negative samples and it was determined to be 100%.
+Conclusion: The developed real-time PCR assay can be used as an appropriate and efficient tool for the rapid detection of Rifampicin-resistant Mycobacterium tuberculosis.
+Keywords: Mycobacterium tuberculosis, Rifampicin resistance, rpoB gene, real-time PCR
+
+
+

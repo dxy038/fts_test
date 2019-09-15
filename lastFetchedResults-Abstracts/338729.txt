@@ -1,0 +1,11 @@
+Objective
+We evaluated the cytotoxic effect of ultrasonic irradiation at low energy on the viability of normal and leukemic cells and the potential mechanisms of action inducing this cytotoxicity.
+Materials and Methods
+
+Human leukemia cell lines (K562, HL-60, KG1a, and Nalm-6), primary leukemic cells, and normal mononuclear cells are treated by ultrasound at a frequency of 1.8 MHz during various exposure times (acoustical power of 7 mW/mL) and immediately tested for cell viability by the trypan blue exclusion assay. Apoptosis is evaluated by cell morphology, phosphatidylserine exposure, and DNA fragmentation. The mitochondrial potential, glutathione content, caspase-3 activation, PARP cleavage, and bcl-2/bax ratio are tested by flow cytometry. Cloning efficiency is evaluated by assays in methylcellulose.
+Results
+
+The technique we describe here, using minute amounts of energy and in the absence of any chemical synergy, specifically triggers apoptosis in leukemic cells while necrosis is significantly reduced. Ultrasonic treatment of 20 seconds' duration induces a series of successive phases showing the characteristic features of apoptosis: mitochondrial transmembrane potential disturbances, loss of phosphatidylserine asymmetry, morphological changes, and, finally, DNA fragmentation. In contrast to K562 cells, for which a significant reduction of cloning efficiency is observed, the growth of hematopoietic progenitors is totally unaffected. Ultrasound treatment is also associated with depletion of cellular glutathione content, suggesting a link with the oxidative stress. Moreover, the fact that active oxygen scavengers reduce ultrasonic-induced apoptosis suggests a sonochemical mechanism.
+Conclusion
+
+The cell damage observed after exposure of leukemic cells to ultrasound is associated with the apoptotic process and may be a promising tool for a smooth, specific, and effective ex vivo purging of leukemic cells.

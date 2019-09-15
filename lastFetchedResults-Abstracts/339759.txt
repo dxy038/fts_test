@@ -1,0 +1,11 @@
+Objective
+The prognosis of patients with Hodgkin's lymphoma (HL) has been significantly improved as a result of combination treatment including chemotherapy. However, some patients are refractory to chemotherapy. Therefore, identification of new targets might be useful for development of alternative treatment strategies. In addition, identification of markers associated with chemoresistance can be used to identify patients with increased risk of relapse.
+Materials and Methods
+
+By using high-density DNA microarrays, we analyzed the gene-expression profile of HL-cell lines in comparison to a set of normal tissues. Furthermore, we tested the sensitivity of HL cells for cytotoxic drugs (cisplatin, etoposide, melphalan) and compared the gene-expression profile of chemotherapy-resistant and -sensitive cell lines. Differentially expressed genes were validated by polymerase chain reaction and flow cytometry.
+Results
+
+In addition to genes with high expression in all cell lines, we observed differences between the gene-expression profile of chemotherapy-resistant and -sensitive cells. Genes upregulated in resistant cells include cytokine receptors (IL5RA, IL13RA1), markers expressed on antigen-presenting cells (CD40, CD80), as well as genes with known association to chemoresistance, e.g., myristoylated alanine–rich protein kinase C substrate. In addition, the tumor antigen PRAME (preferentially expressed antigen in melanoma) was expressed in resistant cell lines only.
+Conclusion
+
+Genes with high expression in HL cells might be potential targets for development of future therapeutic interventions. Expression of tumor antigens together with costimulatory molecules in chemotherapy-resistant HL cells might become targets for cytotoxic T–cell responses against HL cells.

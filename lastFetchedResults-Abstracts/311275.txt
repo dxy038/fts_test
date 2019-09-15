@@ -1,0 +1,11 @@
+Objective. To design and test a protocol for the assessment of neck movements in patients affected by cervical dystonia by using an electromagnetic system. This approach could overcome the limits of the current assessment scales in this specific field.
+
+Background. Initial assessment and function recovery during treatments are diagnosed by the clinician using outcome scales which present many drawbacks in terms of easiness of use, sensitivity, and reliability.
+
+Design. A three-dimensional motion analysis system was used to record six different head movements.
+
+Methods. Six able-bodied subjects and 10 subjects affected by cervical dystonia participated in this study. For the different head movements three kinematic parameters (a symmetry index and two indexes related to the reduction of the range of motion) have been extracted in order to compare the performance of able-bodied and disabled persons.
+
+Results. The features selected allowed highlighting of the differences between able-bodied and disabled subjects for the degrees of freedom of the neck.
+
+Conclusions. Using a motion analysis system, three kinematic features were extracted from head movements. They seem to allow a more objective assessment of the disability and a more appropriated strategy for the management of patients affected by cervical dystonia.

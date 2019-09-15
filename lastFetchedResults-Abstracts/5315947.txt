@@ -1,0 +1,1 @@
+Using a novel kind of OADM, the paper analyzes full-mesh WDM networks in bidirectional ring. A comparison with the OADM based on AWG and multi-layer dielectric film is given. Finally, we point out the existing problem in the OADM ring based on MZI with FBG ring self-stimulating and propose a corresponding method to solve them

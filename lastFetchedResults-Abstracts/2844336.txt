@@ -1,0 +1,1 @@
+The objective of this paper is to develop ultrasound signal processing techniques suitable to measure changes in distance between two membranes in a basic human thorax phantom. The two proposed techniques are based on correlation and phase analysis, getting an accuracy of 94.93% and 92.60% respectively regarding to the measurements obtained with the vernier caliper.

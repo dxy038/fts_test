@@ -1,0 +1,11 @@
+Objective
+To investigate axolemmal ion channel function in patients diagnosed with sporadic amyotrophic lateral sclerosis (ALS).
+Methods
+A recently described threshold tracking protocol was implemented to measure multiple indices of axonal excitability in 26 ALS patients by stimulating the median motor nerve at the wrist. The excitability indices studied included: stimulus-response curve (SR); strength–duration time constant (τSD); current/threshold relationship; threshold electrotonus to a 100 ms polarizing current; and recovery curves to a supramaximal stimulus.
+Results
+Compound muscle action potential (CMAP) amplitudes were significantly reduced in ALS patients (ALS, 2.84±1.17 mV; controls, 8.27±1.09 mV, P<0.0005) and the SR curves for both 0.2 and 1 ms pulse widths were shifted in a hyperpolarized direction. Threshold electrotonus revealed a greater threshold change to both depolarizing and hyperpolarizing conditioning stimuli, similar to the ‘fanned out’ appearance that occurs with membrane hyperpolarization. The τSD was significantly increased in ALS patients (ALS, 0.50±0.03 ms; controls, 0.42±0.02 ms, P<0.05). The recovery cycle of excitability following a conditioning supramaximal stimulus revealed increased superexcitability in ALS patients (ALS, 29.63±1.25%; controls, 25.11±1.01%, P<0.01).
+Conclusions
+Threshold tracking studies revealed changes indicative of widespread dysfunction in axonal ion channel conduction, including increased persistent Na+ channel conduction, and abnormalities of fast paranodal K+ and internodal slow K+ channel function, in ALS patients.
+Significance
+An increase in persistent Na+ conductances coupled with reduction in K+ currents would predispose axons of ALS patients to generation of fasciculations and cramps. Axonal excitability studies may provide insight into mechanisms responsible for motor neuron loss in ALS.
+

@@ -1,0 +1,5 @@
+Objectives: The objective of this work was to demonstrate the utility of luminescence from lanthanides bound to a mutant of the Ca2+ binding protein, oncomodulin, to monitor protease activity.
+Design and Methods: A mutant of oncomodulin with a cysteine residue at position 57 located in the CD binding loop was conjugated to a salicylic acid group. The luminescence of Tb3+ resulting from electronic energy transfer from the salicylic acid group was monitored using time resolved lanthanide luminescence in the presence of proteolytic enzymes.
+Results: Low detection limits for subtilisin (150 pg), chymotrypsin (2.5 ng), cathepsin B (3.5 ng), and HIV-1 protease (25 ng) were found.
+Conclusion: The simplicity of the assay coupled with its high level of sensitivity make it useful for the detection of proteases at very low concentrations.
+

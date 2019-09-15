@@ -1,0 +1,13 @@
+Complex production systems can produce more than one part type. For these systems, production rate
+and priority of production for each part type is determined by production controllers. In this paper,
+genetic fuzzy logic control (GFLC) methodology is used to develop two production control architectures
+namely ‘‘genetic distributed fuzzy” (GDF), and ‘‘genetic supervisory fuzzy” (GSF) controllers. Previously
+these controllers have been applied to single-part-type production systems. In the new approach the
+GDF and GSF controllers are developed to control complex production systems. The methodology is illustrated
+and evaluated using two test cases; two-part-type production line and re-entrant production systems.
+Genetic algorithm is used to tune the membership functions of input variables of GSF or GDF
+controllers. The objective function of the GSF controller minimizes the production cost based on workin-
+process (WIP) and backlog costs, while surplus minimization is considered by GDF controller. The
+results show that GDF and GSF controllers can improve the performance of production systems. GSF controllers
+decrease the WIP level and its variations. GDF controllers show their abilities in reducing the
+backlog level but generally, production cost for GDF controller is greater than GSF controller.

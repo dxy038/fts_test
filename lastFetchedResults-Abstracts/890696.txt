@@ -1,0 +1,11 @@
+The primary objective in multi-pass turning operations is to produce products with low cost and
+high quality, with a lower number of cuts. Parameter optimization plays an important role in achieving
+this goal. Process parameter optimization in a multi-pass turning operation usually involves the optimal
+selection of cutting speed, feed rate, depth of cut and number of passes. In this work, the parameter opti-
+mization of a multi-pass turning operation is carried out using a recently developed advanced optimiza-
+tion algorithm, named, the teachinglearning-based optimization algorithm. Two different examples are
+considered that have been attempted previously by various researchers using different optimization tech-
+niques, such as simulated annealing, the genetic algorithm, the ant colony algorithm, and particle swarm
+optimization, etc. The first example is a multi-objective problem and the second example is a single objec-
+tive multi-constrained problem with 20 constraints. The teachinglearning-based optimization algorithm
+has proved its effectiveness over other algorithms.

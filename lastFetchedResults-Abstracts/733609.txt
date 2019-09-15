@@ -1,0 +1,11 @@
+Objective.
+To determine how change in BMI over 8 years is associated with risk of subsequent cardiovascular disease (CVD) among middle aged men.
+Methods.
+
+Prospective cohort study among 13,230 healthy men (aged 51.6 ± 8.7 years) in the Physicians' Health Study. BMI was collected at baseline in 1982 and after 8 years, at which time follow-up began. Subsequent CVD events were collected and confirmed through March 31, 2005. Cox proportional hazards models evaluated BMI at 8 years and risk of CVD, 8-year change in BMI and risk of CVD, and whether change in BMI added prognostic information after the consideration of BMI at 8 years.
+Results.
+
+1308 major CVD events occurred over 13.5 years. A higher BMI at year 8 was associated with an increased risk of CVD. Compared to a stable BMI (± 0.5 kg/m2), a 0.5–2.0 kg/m2 increase had a multivariable-adjusted RR of 1.00 (0.86–1.16). A ≥ 2.0 kg/m2 increase had a multivariable-adjusted RR of 1.39 (1.16–1.68), however further adjustment for BMI reduced the RR to 1.00 (0.81–1.23). A decrease in BMI had a multivariable RR of 1.23 (1.07–1.42) which was unaffected by adjustment for BMI at 8 years.
+Conclusion.
+
+A higher BMI and a rising BMI were both associated with an increased risk of CVD, however an increasing BMI did not add prognostic information once current BMI was considered. In contrast, a declining BMI was associated with an increased risk of CVD independent of current BMI.

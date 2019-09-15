@@ -1,0 +1,30 @@
+Cement based material such as mortar and concrete are brittle in nature and crack under low tensile
+stress and strain levels. Adding discontinuous fibers as reinforced concrete remedy some concern
+related to cement based material brittleness and poor resistance to crack growth. After cracking the
+fibers arrest between two crack faces and provide mechanisms that abate their unstable propagation [].
+Fibers bridging force is achieved by transmission of the bond interfacial stress between the fiber and
+surrounding matrix. The resistance of the section to further crack opening depends largely on the fiber
+pullout mechanisms and related possibilities including complete fiber pullout or fiber fracture []. The
+high levels of interfacial shear strength may prevent fibers from complete debonding and result in
+fiber fracture. Although the strength of composite may increase, its toughness reduces significantly
+and failure is brittle. On contrary the low interfacial shear strength causes complete fiber debonding
+from matrix and fiber pullout. The effectiveness of fiber is often assessed by using single fiber pullout
+test. The experiments have shown that in improving the pullout resistance, hook-end fiber is more
+effective than straight fiber [, ,].The pullout process of hooked-end fibers is more complex than that of
+straight steel fibers and there is one additional deformation mechanism because of mechanical
+anchorage. So the analytical models for straight fiber are not valid for the fibers having mechanical
+anchorage. The main objective of this paper is to develop an analytical model for hook-end steel fiber
+pullout behavior. In this model the concept of bond shear stress versus slip relation between fiber and
+matrix has been used to develop fiber force and bond stress. Also the interfacial stress has been
+supposed that to be distributed uniformly. Based on two mentioned assumption a theoretical relation
+have been developed for aligned straight fiber at first. Then this relation is promoted for hook ended
+steel fiber pullout response. In order to do this, the effect of hooks on force and stress distribution has
+been analyzed along the fiber length and utilized for developing the pullout response of hook ended
+steel fiber. Based on obtained relation, the hooks change the fiber along the fiber length at the hooks
+and this force will be decreased with constant coefficient which is the function of fiber geometry.
+Despite that a normal force and its frictional force will be occurred at the hook bent. Decreasing the
+fiber force and creating a normal force at the hook bend are the factors that create an extra resistance
+force against the pullout in hook-end fiber. This study investigates these factors and develops the
+relations in order to calculating the maximum load required for pulling out the hook-end fiber. Finally
+the model has been validated by experimental results on the hook-end steel fiber. Proposed model is
+able to estimate the main pullout mechanism due to mechanical anchorage of hooks.

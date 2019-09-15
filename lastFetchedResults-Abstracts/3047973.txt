@@ -1,0 +1,1 @@
+This work presents a new approach for identification experiment design where the objective is to design the least costly experimental conditions such that the controller designed with the identified model stabilizes and achieves a prescribed level of H/sub /spl infin// performance with the unknown true system G/sub 0/.

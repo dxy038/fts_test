@@ -1,0 +1,9 @@
+Objective.  A mathematical model of the temporomandibular joint was developed to study the magnitude and direction of the compressive loading experienced at the temporomandibular joint during clenching.
+
+Design. The model was based on the principles of static equilibrium in three dimensions.
+
+Background. Direct measurement of temporomandibular joint loading in humans is extremely difficult. Animal models have provided an alternative in the past. However, evidence suggests that primates are not the most accurate human analogues for temporomandibular joint studies. A mathematical model was used as an alternative to direct measurement.
+
+Methods. The EMG activity of two masticatory muscles was combined with their cross-sectional areas to calculate the force exerted by each muscle. Experimentally determined forces were implemented into a quadratic programming model to solve for the compressive forces on the joint. Two objective functions were chosen and their ability to predict muscle and joint forces was evaluated.
+
+Results. The maximum bite forces for normal men, normal women, and women with temporomandibular joint disorders were 300 N (SD 102 N), 210 N (SD 57.7 N), and 120 N (SD 77.1 N), respectively. The calculated joint force for normal males was 260 N (SD 84.1 N). Normal females and female temporomandibular joint disorder patients produced temporomandibular joint forces of 172 N (SD 37.5 N) and 152 N (SD 44.2 N), respectively.

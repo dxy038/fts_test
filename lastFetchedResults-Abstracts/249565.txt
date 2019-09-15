@@ -1,0 +1,13 @@
+Structural designers are reconsidering traditional design procedures using structural optimization techniques.
+Although shape and sizing optimization techniques have facilitated a great improvement in the
+emergence of new optimum designs, they are still limited by the fact that a suitable topology must be
+assumed initially. In this paper a hybrid algorithm entitled constrained adaptive topology optimization,
+or CATO is introduced. The algorithm, based on an arti cial material model and an adaptive updating
+scheme, combines ideas from the mathematically rigorous homogenization (h) methods and the intuitive
+evolutionary (e) methods. The algorithm is applied to shell structures under static or free vibration situations.
+For the static situation, the objective is to produce the sti est structure subject to given loading
+conditions, boundary conditions and material properties. For the free vibration situation, the objective is
+to maximize or minimize a chosen frequency. In both cases, a constraint on the structural volume=mass
+is applied and the optimization process is achieved by redistributing the material through the shell
+structure. The e ciency of the proposed algorithm is illustrated through several numerical examples of
+shells under either static or free vibration situations

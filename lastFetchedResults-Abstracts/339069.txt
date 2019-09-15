@@ -1,0 +1,11 @@
+Objective
+Availability of a mouse model to analyze human peripheral lymphocytes genetically modified with retroviral vectors would be useful in T-cell-directed gene transfer studies. To address this issue, we assessed the ability of nonobese diabetic/severe combined immunodeficiency (NOD/SCID) mice to maintain such cells in their peripheral blood.
+Materials and methods
+
+Human peripheral lymphocytes stimulated with recombinant human interleukin-2 (rhIL-2) and anti-CD3 and CD28 antibodies were transduced with the enhanced green fluorescent protein (EGFP) gene using the retroviral vector GCsap(MSCV) and then transplanted into NOD/SCID mice at 1 × 108 cells per mouse.
+Results
+
+Transplanted human peripheral lymphocytes survived and expressed EGFP in the mice over the 6- to 8-week posttransplant period without any signs of graft-vs-host disease. Of importance was that these cells remained at the G0/G1 stage and again proliferated in response to cytokines when cultured in vitro. Interestingly, the mice in which the transduced T lymphocytes remained at the resting stage clearly elucidated the superiority of the murine stem cell virus (MSCV) LTR to maintain the transgene expression by nonproliferating T lymphocytes over the Moloney murine leukemia virus (MoMLV)- and myeloproliferative sarcoma virus (MPSV)-derived LTRs, which was obscure in in vitro culture where the transduced lymphocytes was being stimulated with rhIL-2.
+Conclusions
+
+The mouse model and GCsap(MSCV) vector described herein comprise a simple and reliable in vivo assay system for studies of gene and cell therapies employing human peripheral lymphocytes.

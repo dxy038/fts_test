@@ -1,0 +1,9 @@
+Objective
+The aim of this study was to determine the identity of the cell surface molecule on primitive hematopoietic cells recognized by monoclonal antibody HCC-1.
+Materials and Methods
+Screening of a cDNA expression library prepared from human bone marrow stromal cells with HCC-1 yielded a single cDNA, which when expressed in FDCP-1 cells, resulted in the specific acquisition of HCC-1 binding. The cDNA demonstrated complete identity with CD59, a phosphoinositol glycan–linked membrane protein that protects cells against autologous complement attack. The ubiquitous expression of CD59 is in marked contrast to the restricted reactivity of HCC-1. Studies were performed to examine the basis for the novel specificity of HCC-1 for CD59. The epitope on CD59 identified by HCC-1 was mapped using a series of rat/human CD59 chimeric proteins. Immunoprecipitation analyses were performed to determine whether CD59 associates with other membrane proteins.
+Results
+Mutagenesis of Asn18 did not alter the binding of HCC-1 to CD59, suggesting that N-linked carbohydrates are not responsible for the binding specificity of HCC-1. The epitope for HCC-1 was shown to differ from that identified by previously described CD59 antibodies, encompassing residues A31, L33, R55, and L59. An 80 kDa protein co-immunoprecipitated with CD59 in the HCC-1− cell line HL-60 but not in HCC-1+ K562 cells.
+Conclusion
+Collectively, these data support the hypothesis that the unique specificity of HCC-1 for CD59 is due in part to recognition of a novel epitope, which is masked as a result of association with an as yet unidentified 80 kDa protein.
+

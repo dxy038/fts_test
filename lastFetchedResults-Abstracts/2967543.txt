@@ -1,0 +1,1 @@
+We propose a new computer package, PACFOTON I, with an educational objective, for the analysis of light behavior through device gates and the analysis of soliton pulses using the 4th-order Runge-Kutta method. We give an analysis of soliton pulses and electro-optic devices such as the directional coupler and intensity modulator

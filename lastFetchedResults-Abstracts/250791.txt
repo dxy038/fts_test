@@ -1,0 +1,11 @@
+A continuum-based shape and configuration design sensitivity analysis (DSA) method for a finite
+deformation elastoplastic shell structure has been developed. Shell elastoplasticity is treated using the
+projection method that performs the return mapping on the subspace defined by the zero-normal stress
+condition. An incrementally objective integration scheme is used in the context of finite deformation
+shell analysis, wherein the stress objectivity is preserved for finite rotation increments. The material
+derivative concept is used to develop a continuum-based shape and configuration DSA method.
+Significant computational efficiency is obtained by solving the design sensitivity equation without
+iteration at each converged load step using the same consistent tangent stiffness matrix. Numerical
+implementation of the proposed shape and configuration DSA is carried out using the meshfree
+method. The accuracy and efficiency of the proposed method is illustrated using numerical examples.
+Copyright   2006 John Wiley & Sons, Ltd.

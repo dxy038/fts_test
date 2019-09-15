@@ -1,0 +1,11 @@
+Objective
+To optimize retroviral gene transfer into primary human natural killer (NK) cells.
+Materials and methods
+
+NK cells from healthy donors were expanded ex vivo for a period of 21 days. Retroviral transductions were carried out by replacing culture media with retrovirus-containing supernatant during 2-hour incubations on days 3, 4, 5, 6, 10, 15, or 20. In some experiments, NK cells were transduced on 2 consecutive days (days 5 and 6). Green fluorescent protein served as a marker for detection of transduced cells.
+Results
+
+NK cells showed a median of 27.2% transduction efficiency after a single transduction round (transduction on day 5) and a median of 47.1% transduction efficiency after two rounds of transduction (transduction on days 5 and 6), 24 hours after exposure to retrovirus-containing supernatants. On day 21 after initial culture, 51.9% of NK cells were transduced after a single transduction round (transduction on day 5) and 75.4% after two rounds of transduction (transduction on days 5 and 6). Gene transfer did not change the function or phenotype of NK cells as determined by phenotypical analysis, nor did the proliferative ability or cytotoxic function change.
+Conclusion
+
+The results show that NK cells can successfully be transduced with retroviral vectors, without any detectable changes in phenotype or function. This may open up new possibilities in the studies of NK cell biology and the development of NK cells for immunotherapy regimens.

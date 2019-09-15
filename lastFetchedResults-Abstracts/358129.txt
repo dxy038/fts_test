@@ -1,0 +1,11 @@
+Background
+The appropriate roles for generalists and cardiologists in the care of patients with heart failure (HF) are unknown. The objective of this retrospective cohort study was to determine whether consultation between generalists and cardiologists was associated with better quality and outcomes of HF care.
+Methods
+
+We studied left ventricular function evaluation (LVFE) and angiotensin-converting enzyme inhibitor (ACEI) use and 90-day readmission and 90-day mortality rates in patients with HF who were hospitalized. Patient care was categorized into cardiologist (solo), generalist (solo), or consultative cares. The processes and outcomes of care were compared by care category using logistic regression analyses fit with generalized linear mixed models to adjust for hospital-related clustering.
+Results
+
+Of the 1075 patients studied, 13% received cardiologist care, 55% received generalist care, and 32% received consultative care. More patients who received consultative care (75%) received LVFE than patients who received generalist care (36%) and cardiologist care (53%; P < .001). Fewer patients who received solo care (54% each) received ACEI compared with 71% of patients who received consultative care (P < .001). After multivariable adjustment, consultative care was associated with higher odds of LVFE than generalist care (adjusted odds ratio [OR], 6.06; 95% CI, 3.97-9.26) or cardiologist care (adjusted OR, 2.96; 95% CI, 1.70-5.13) care. Consultation was also associated with higher odds of ACEI use compared with generalist (adjusted OR, 2.42; 95% CI, 1.42-4.12) or cardiologist (adjusted OR, 2.32; 95% CI, 1.14-4.72) care. Compared with patients who received generalist care, patients who received consultative care had lower odds of 90-day readmission (adjusted OR, 0.54; 95% CI, 0.34-0.86).
+Conclusion
+
+Collaboration between generalists and cardiologists, rather than solo care by either, was associated with better HF processes and outcomes of care.

@@ -1,0 +1,13 @@
+Nowadays, analyzing human facial image has gained an ever?increasing importance due to its various applications. Image
+segmentation is required as a very important and fundamental operation for significant analysis and interpretation of images. Among
+the segmentation methods, image thresholding technique is one of the most well?known methods due to its simplicity, robustness, and
+high precision. Thresholding based on optimization of the objective function is among the best methods. Numerous methods exist for
+the optimization process and bacterial foraging optimization (BFO) is among the most efficient and novel ones. Using this method,
+optimal threshold is extracted and then segmentation of facial skin is performed. In the proposed method, first, the color facial image
+is converted from RGB color space to Improved Hue?Luminance?Saturation (IHLS) color space, because IHLS has a great mapping
+of the skin color. To perform thresholding, the entropy?based method is applied. In order to find the optimum threshold, BFO is used.
+In order to analyze the proposed algorithm, color images of the database of Sahand University of Technology of Tabriz, Iran were
+used. Then, using Otsu and Kapur methods, thresholding was performed. In order to have a better understanding from the proposed
+algorithm; genetic algorithm (GA) is also used for finding the optimum threshold. The proposed method shows the better results than
+other thresholding methods. These results include misclassification error accuracy (88%), non?uniformity accuracy (89%), and the
+accuracy of region’s area error (89%).

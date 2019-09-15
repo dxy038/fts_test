@@ -1,0 +1,5 @@
+The main objective of this paper is to estimate the error in the rainfall derived from a polarimetric X-band radar, by comparison with the corresponding estimate of a rain gauge network. However the present analysis also considers the errors inherent to rain gauge, in particular instrumental and representativeness errors. A special emphasis is addressed to the spatial variability of the rainfall in order to appreciate the representativeness error of the rain gauge with respect to the 1 km square average, typical of the radar derived estimate. For this purpose the spatial correlation function of the rainfall is analyzed.
+
+The data set consists of 1-year radar data collected by the X-band polarimetric radar HYDRIX®, located in Beauce region (80 km south of Paris). All data were processed in real time using the ZPHI® algorithm. A dense 25 rain gauge network provided ground comparison data.
+
+The various sources of uncertainties (instrumental and representativeness) are then analyzed and quantified for each sensor.

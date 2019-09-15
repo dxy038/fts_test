@@ -1,0 +1,12 @@
+The objective of this study is to delineate electro!mechanical coupling in piezoceramic materials[ The
+model system investigated is a two!dimensional linear piezoceramic strip polarized in the thickness direction\
+and it is subjected to local symmetric pressures on the upper and lower edges\ traction!free boundary
+conditions on both end surfaces\ and voltages on portions of the upper and lower edges[ Under a simplifying
+assumption of the gradient of the electric potential\ closed form solutions of the elastic _eld have been
+obtained[
+It is noticed that instead of the nine constants "including the elastic compliance constants\ sij\ the
+piezoelectric constants\ dij\ and the dielectric permittivity constants\ oij#\ the elastic and piezoelectric charac!
+teristics of the material can be represented by three parameters\ b0\ b1 and b2[ b0 consists of elastic compliance
+constants only[ b1 and b2 signify the piezoelectric e}ect[ Furthermore\ higher values of b1 imply a more
+pronounced piezoelectric e}ect on the elastic _eld[ The identi_cation of these parameters greatly facilitates
+the study of coupling e}ects in piezoelectric ceramics[   0887 Elsevier Science Ltd[ All rights reserved

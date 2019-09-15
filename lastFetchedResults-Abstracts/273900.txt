@@ -1,0 +1,10 @@
+Especially in microsystem design, maintaining the minimum thickness of each structural member at a certain scale is
+often as important as achieving the maximum system performance. Several successful methods to suppress one-point
+hinges or checkerboards in topology optimization have been developed, but an efficient method to control the minimum
+thickness at a desire scale remains to be developed. The objective of this investigation is to develop a wavelet-based
+minimum thickness controlling method applicable to topology optimization and to show the effectiveness of the proposed
+method in MEMS design. The idea behind the thickness controlling method is to extend the wavelet shrinkage
+method developed for one-point hinge control to any scale-level minimum thickness control. The major difficulties in
+implementing this idea are the development of an efficient algorithm to detect all undesirable patterns of different scales
+and the hierarchical application of the wavelet shrinkage method over multiple scales. Some techniques to overcome
+these difficulties are developed and applied to some MEMS design problems.

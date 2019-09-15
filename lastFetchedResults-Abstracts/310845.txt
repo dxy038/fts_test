@@ -1,0 +1,11 @@
+Objective.  Develop a gender specific database of trunk muscle cross-sectional areas across multiple levels of the thoracic and lumbar spine and develop prediction equations for the physiological cross-sectional area as a function of gender and anthropometry.
+
+Design. This study quantified trunk muscle cross-sectional areas of male and female spine loading muscles.
+
+Background. There is a lack of comprehensive data regarding the female spine loading muscle size. Although biomechanical models often assume females are the same as males, little is known regarding gender differences in terms of trunk muscle areas and no data exist regarding the prediction of trunk muscle physiological cross-sectional areas from commonly used external anthropometric measures.
+
+Methods. Magnetic resonance imaging scans through the vertebral bodies from T8 through S1 were performed on 20 females and 10 males. Muscle fiber angle corrected cross-sectional areas were recorded at each vertebral level. Linear regression techniques taking into account anthropometric measures were utilized to develop prediction equations for the physiological cross-sectional area for each muscle of interest, as well as tests for differences in cross-sectional areas due to gender and side of the body.
+
+Results. Significant gender differences were observed for the prediction of the erector spinae, internal and external obliques, psoas major and quadratus lumborum physiological cross-sectional areas. Anthropometric measures about the xyphoid process and combinations of height and weight resulted in better predictions of cross-sectional areas than when using traditional anthropometry.
+
+Conclusions. This study demonstrates that the trunk muscle geometry of females and males are different, and that these differences should be considered in the development of biomechanical models of the torso.

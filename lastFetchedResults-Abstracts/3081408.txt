@@ -1,0 +1,1 @@
+The over-the-air transmission of initial phase of harmonic LF signals using frequency modulation has been simulated. The main objective of this simulation was to determine the influence of communication link phase stability on the stability of initial phase of LF oscillations at the receiving point

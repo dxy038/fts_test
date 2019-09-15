@@ -1,0 +1,8 @@
+We consider a generalization of the classical quadratic assignment problem, where
+coordinates of locations are uncertain and only upper and lower bounds are known for
+each coordinate. We develop a mixed integer linear programming model as a robust
+counterpart of the proposed uncertain model. A key challenge is that, since the uncertain
+model involves nonlinear objective function of the uncertain data, classical robust
+optimization approaches cannot be applied directly to construct its robust counterpart. We
+exploit the problem structure to develop exact solution methods and present some
+computational results.

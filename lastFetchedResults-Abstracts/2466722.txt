@@ -1,0 +1,10 @@
+Context
+important for Product Line Architectures (PLA) to remain stable accommodating evolutionary changes of stakeholder’s requirements. Otherwise, architectural modifications may have to be propagated to products of a product line, thereby increasing maintenance costs. A key challenge is that several features are likely to exert a crosscutting impact on the PLA decomposition, thereby making it more difficult to preserve its stability in the presence of changes. Some researchers claim that the use of aspects can ameliorate instabilities caused by changes in crosscutting features. Hence, it is important to understand which aspect-oriented (AO) and non-aspect-oriented techniques better cope with PLA stability through evolution.
+ive
+aper evaluates the positive and negative change impact of component and aspect based design on PLAs. The objective of the evaluation is to assess how aspects and components promote PLA stability in the presence of various types of evolutionary change. To support a broader analysis, we also evaluate the PLA stability of a hybrid approach (i.e. combined use of aspects and components) against the isolated use of component-based, OO, and AO approaches.
+
+ntitative and qualitative analysis of PLA stability which involved four different implementations of a PLA: (i) an OO implementation, (ii) an AO implementation, (iii) a component-based implementation, and (iv) a hybrid implementation where both components and aspects are employed. Each implementation has eight releases and they are functionally equivalent. We used conventional metrics suites for change impact and modularity to measure the architecture stability evaluation of the 4 implementations.
+s
+mbination of aspects and components promotes superior PLA resilience than the other PLAs in most of the circumstances.
+sion
+concluded that the combination of aspects and components supports the design of high cohesive and loosely coupled PLAs. It also contributes to improve modularity by untangling feature implementation.

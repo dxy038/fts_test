@@ -1,0 +1,17 @@
+Where numerical models are employed as an aid to environmental management, the uncertainty associated with predictions made by such
+models must be assessed. A number of different methods are available to make such an assessment. This paper explores the use of three such
+methods, and compares their performance when used in conjunction with a lumped parameter model for surface water flow (HSPF) in a large
+watershed.
+Linear (or first-order) uncertainty analysis has the advantage that it can be implemented with virtually no computational burden. While the
+results of such an analysis can be extremely useful for assessing parameter uncertainty in a relative sense, and ascertaining the degree of correlation
+between model parameters, its use in analyzing predictive uncertainty is often limited. Markov Chain Monte Carlo (MCMC) methods
+are far more robust, and can produce reliable estimates of parameter and predictive uncertainty. As well as this, they can provide the modeler
+with valuable qualitative information on the shape of parameter and predictive probability distributions; these shapes can be quite complex,
+especially where local objective function optima lie within those parts of parameter space that are considered probable after calibration has
+been undertaken. Nonlinear calibration-constrained optimization can also provide good estimates of parameter and predictive uncertainty,
+even in situations where the objective function surface is complex. Furthermore, they can achieve these estimates using far fewer model
+runs than MCMC methods. However, they do not provide the same amount of qualitative information on the probability structure of parameter
+space as do MCMC methods, a situation that can be partially rectified by combining their use with an efficient gradient-based search method that
+is specifically designed to locate different local optima.
+All methods of parameter and predictive uncertainty analysis discussed herein are implemented using freely-available software. Hence similar
+studies, or extensions of the present study, can be easily undertaken in other modeling contexts by other modelers.

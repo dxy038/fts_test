@@ -1,0 +1,1 @@
+The study proposes and analyses a new circuit of direct AC-AC converter that can perform a bidirectional energy flow. The authors calculated the equations governing the functioning of the circuit. The adequate functioning and high performance of the circuit (the efficiency and waveform of the absorbed input current) were tested both by simulation and experimentally.

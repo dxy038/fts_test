@@ -1,0 +1,8 @@
+AbstractObjective
+infiltrate lymphocytes (TIL) have been associated with favorable outcomes in various tumors including urothelial carcinoma (UC). There is little literature about peripheral blood lymphocytes (PBL). Our objective is to investigate the clinical significance and relevance of PBL on the outcomes of UC patients.
+als and methods
+ UC treated patients at Chia-Yi Christian hospital were enrolled. Preoperative PBLs were collected and analyzed for the percentage of each subpopulation of lymphocyte using flow cytometry. The prognostic values were calculated by using Kaplan-Meier curve and Cox progression model for univariate and multivariate analyses, respectively. Furthermore, available tumor specimens from 27 patients were further analyzed for number of CD8+ tumor infiltrating lymphocytes (TIL) using immunohistochemistry. The correlation between percentage of CD8+ PBL and number of CD8+ TIL was analyzed using a linear regression model.
+s
+g-rank test showed that tumor location (urinary bladder vs. upper urinary tract), enrolled status (primary or recurrent), and CD8+ PBL were significant prognostic indicators of recurrence (P values, 0.043, 0.039, and 0.018, respectively). Cox analyses showed that CD8+ PBL was the sole independent prognostic indicator for recurrence-free survival (P = 0.048). The results using a linear regression analysis showed there was a reverse correlation between CD8+ TIL and PBL (r2 = 0.635, P &lt; 0.0001).
+sions
+ investigation, preoperative CD8+ PBL was an independent predictor for bladder recurrence. The percentages of CD8+ PBL were reversely correlated with the number of TIL. Such findings may benefit in the decision for subsequent intravesical therapy after surgery.

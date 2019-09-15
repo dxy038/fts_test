@@ -1,0 +1,10 @@
+Background
+r disorders are characterized by a series of both depressive and manic or hypomanic episodes. Although common and expensive to treat, the clinical assessment of bipolar disorder is still ill-defined.
+ive
+ current literature several correlations between mood disorders and dysfunctions involving the autonomic nervous system (ANS) can be found. The objective of this work is to develop a novel mood recognition system based on a pervasive, wearable and personalized monitoring system using ANS-related biosignals.
+als and methods
+nitoring platform used in this study is the core sensing system of the personalized monitoring systems for care in mental health (PSYCHE) European project. It is comprised of a comfortable sensorized t-shirt that can acquire the inter-beat interval time series, the heart rate, and the respiratory dynamics for long-term monitoring during the day and overnight. In this study, three bipolar patients were followed for a period of 90 days during which up to six monitoring sessions and psychophysical evaluations were performed for each patient. Specific signal processing techniques and artificial intelligence algorithms were applied to analyze more than 120 h of data.
+s
+mental results are expressed in terms of confusion matrices and an exhaustive descriptive statistics of the most relevant features is reported as well. A classification accuracy of about 97% is achieved for the intra-subject analysis. Such an accuracy was found in distinguishing relatively good affective balance state (euthymia) from severe clinical states (severe depression and mixed state) and is lower in distinguishing euthymia from the milder states (accuracy up to 88%).
+sions
+YCHE platform could provide a viable decision support system in order to improve mood assessment in patient care. Evidences about the correlation between mood disorders and ANS dysfunctions were found and the obtained results are promising for an effective biosignal-based mood recognition.

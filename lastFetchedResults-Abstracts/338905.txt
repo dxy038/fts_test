@@ -1,0 +1,11 @@
+Objective
+Homing and seeding are essential early events of engraftment that depend on the interaction of hematopoietic cells with the host bone marrow (BM) stroma. We used optical techniques to characterize the adhesion patterns and viability of bone marrow cells (BMC) at the level of recipient BM microenvironment.
+Materials and methods
+
+Donor cells labeled with PKH dyes were tracked in vivo through an optical window placed over the femoral epiphysis of nonconditioned recipients. Adhesion to BM stroma was assessed with laser tweezers, and viability was assayed by fluorescence resonance energy transfer of the pair PKH67-propidium iodide (PI) in freshly excised femurs.
+Results
+
+Three hours after intravenous injection, an estimated 30% of the labeled cells in the femur were immobile. The percent of adherent cells increased to 74±3% and 97±2% on days +1 and +3, respectively, (p<0.001), and similar fractions of cells were viable at these times (p<0.001). The observation that all adherent cells were viable suggested a correlation between these parameters. The day +3 BM-seeded cells rescued secondary myeloablated allogeneic hosts. Seeding in the host BM was accompanied by (4.5-fold) enrichment of cells expressing SCA-1 and was 22-fold higher for lineage-negative Lin− cells compared to lineage-positive cells (p<0.001). Pretreatment of Lin− cells with anti–VLA-4 antibodies caused a 2.4-fold decrease in homing and a 4.6-fold decrease in seeding (p<0.001).
+Conclusions
+
+The data indicate that adhesion is rate-limiting determinant of homing and early seeding, and a crucial event that preserves the viability of cells toward successful engraftment. The role of VLA-4 is more important for primary seeding than it is for homing to the BM.

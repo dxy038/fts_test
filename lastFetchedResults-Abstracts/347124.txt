@@ -1,0 +1,5 @@
+Objective: To determine when the mismatch negativity (MMN) disappears at sleep onset, event-related potentials (ERPs) were recorded continuously from wakefulness to sleep.
+Methods: Ten healthy young students were told to fall asleep ignoring the tones presented through a loudspeaker above their head. Standard (1000 Hz, P=0.90), high deviant (1200 Hz, P=0.05), and low deviant (1050 Hz, P=0.05) tones were presented in a quasirandom order with a fixed stimulus onset asynchrony of 500 ms. ERP waveforms were obtained separately for 5 successive stages characterized by typical electroencephalographic (EEG) patterns of the sleep onset period. The EEG staging was made manually with very short (5 s) scoring epochs.
+Results: The MMN appeared in wakefulness and in the early phase of stage 1 sleep (EEG stage II) but disappeared when low-voltage theta waves emerged after alpha flattening (EEG stage III). Instead, P240 and N360 developed particularly for high deviant tones.
+Conclusions: Concurrently with the disappearance of alpha waves, the automatic change detection system in wakefulness seems to stop operating and a different sleep-specific system becomes dominant.
+

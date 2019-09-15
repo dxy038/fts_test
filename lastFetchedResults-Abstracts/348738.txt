@@ -1,0 +1,11 @@
+Objective
+Even if viewed from different angles, one can identify an object among similar distractors through learning. This study was designed to investigate the changes in neuronal activity related to learning.
+Methods
+Human subjects were asked to train themselves with novel objects by performing an object recognition task, in which the images of an object had to be discriminated from those of other objects regardless of the viewpoint.
+Results
+The ERP component-N1, the first negative peak at posterior electrodes, showed a significant increase in the amplitude variation across the objects during the learning process, while the variation across viewpoints decreased.
+Conclusions
+These results suggest that object recognition learning differentiates between the representations of the objects, at least, at the N1 level.
+Significance
+The results may support the notion that object recognition differentiates among the functional representations of the trained objects in our brain.
+

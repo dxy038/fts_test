@@ -1,0 +1,3 @@
+Growth kinetics of microorganisms processes involves a parameter estimation problem, which is usually solved by using simulation techniques. A different approach is presented. It is based on a trust-region algorithm for nonlinear least squares problems with bound constraints. The global convergence properties of the algorithm are analyzed in the theory proposed by Verdiell.
+
+An important aspect of the algorithm is that first and second order information of the objective function can be approximated what is advantageous for the class of pointwise known functions. This feature makes the algorithm suitable to solve real-world problems. Encouraging preliminary results are presented.

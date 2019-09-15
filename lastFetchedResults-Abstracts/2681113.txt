@@ -1,0 +1,23 @@
+Introduction
+Climate change caused some changes in the global climate in recent decades. One of the climate change impact is the disturbance of the hydro- climatic cycle and discipline in the world. The effects of climate change on the hydrological cycle are including changes in groundwater levels, lakes, as well as changes in the distribution of the amount and timing of rainfall and river flows.
+Intensity and frequency of extreme precipitation events and the risk of floods and droughts are increasing due to the climate change in the large parts of the world. 
+The impact of climate change on spatial and temporal characteristics of precipitation and extreme events, affected people's life. Hence, study on trend and changes of precipitation extreme can reveal the occurrence every related hazard. Studies around the world have shown that global warming and climate change impact and the precipitation condition has changed in different regions. The main objective of this study is evaluating of daily precipitation indices trend over Iran. 
+Methodology
+In order to analysis of daily precipitation indices trend, 47 synoptic stations were used to investigate the precipitation extreme events over Iran during the 1982- 2012 (11323 consecutive days). The RClimDex software was applied to extract daily precipitation trend. 
+The list of precipitation indices include the following:
+•	RX1day: Monthly maximum 1-day precipitation
+•	Rx5day: Monthly maximum consecutive 5-day precipitation
+•	R10: Annual count of days when PRCP > =10mm
+•	R20: Annual count of days when PRCP > =20mm
+•	CDD: Maximum number of consecutive days with RR < 1mm
+•	CWD: Maximum number of consecutive days with RR > =1mm
+•	R95p: Annual total PRCP when RR > 95th percentile
+•	R99p: Annual total PRCP when RR > 99th percentile
+•	PRCPTOT: Annual total PRCP in wet days (RR > =1mm)
+
+Results and discussion
+On Average, the amount of precipitation in climatic stations such as Bam, Zabul, Yazd, Tabas, Jask and Zahedan was less than 80 mm whereas Bandar Anzali, Rasht, Ramsar and Noshahr stations have experienced above 1000 mm of precipitation during the period 1982- 2012. Among of all studied stations, Anzali and Zabol stations have had about 1763 and 52 mm of precipitation during the studied statistical period, respectively. Investigation of total index of annual precipitation in Iran represents that the slope of precipitation in most of the stations is negative during the 1982- 2012. Averagely, the annual precipitation of Iran has decreased about 2.5 mm during the 1982- 2012.
+Generally, results illustrated that the trend of CWD index in some regions was negative, in some regions was positive and in some regions there wasn’t any trend during the 1982- 2012. Among all studied stations, the CWD index had positive trend for 11 stations including Kashan, Semnan, Ramsar, Mehr Abad, Dooshan Tapeh, Zahedan, Khorram Abad, eastern Isfahan, Anzali and Abadeh. There was no trend in Arak, Bandar Lengeh and Shahrood stations and negative trend was observed in other stations. According to the results, the CDD index was increasing in most studied stations during the period 1982- 2012. Approximately, in %72.5 of the stations the index was raising and in %27.5 of stations showed decreasing trend. The trends showed that the number of days without precipitation is increasing. The greatest changes have experienced on the coast of the Caspian Sea and the Persian Gulf. Results showed, indices R 10 mm, R 20mm, R 25 mm, at most of the stations has decreased and R 10 mm index had more negative trend.
+The trends indicated that the number of days without precipitation is increasing. Among the studied stations, Ramsar station has experienced the highest downward slope of R95p index with 6.4 mm annually. From this point of view, Saghez, Rasht, Sanandaj and Bandar Abas stations had the highest downward slope in very wet days. moreover, Gorgan station with 2.7 mm have experienced the most increasing trend among all stations annually and Shiraz, Esfahan and Chabahar with higher than one mm are in the next rank, respectively.
+Conclusion
+The results illustrated that all Precipitation Extreme Indices has been changed over Iran during the 1982-2012. There were negative trends in more stations. In most of studied stations, annual rainfall has decreased and the number of dry days (CDD) has increased, only a few stations in the central regions and the foothills of the Zagros have had positive trend.

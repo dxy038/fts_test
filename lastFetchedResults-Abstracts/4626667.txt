@@ -1,0 +1,1 @@
+We propose a simple high-speed WDM-PON, using a centralized supercontinuum broadband light source based on a nonlinear PCF for upstream optical carriers. "Colorless" ONU operation has been demonstrated in a 10 Gb/s bidirectional transmission over 40 km distance

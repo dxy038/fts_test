@@ -1,0 +1,11 @@
+Objective
+To examine whether hydroxamic acids are inducers of fetal hemoglobin expression, we tested the effects on γ gene expression of butyric and propionic hydroxamic acids and of two other hydroxamic acids (SBHA and SAHA), which are potent inhibitors of histone deacetylase (HDAC). We also investigated whether there is a correlation between HDAC inhibitory activity of the compounds and their ability to induce γ-globin gene expression.
+Materials and Methods
+
+Effects on γ-globin expression were assessed by two methods: 1) a screening assay in which specific γ-globin gene inducers are recognized by their ability to increase γ firefly luciferase activity significantly more than β-renilla luciferase activity; and 2) measurements of γ-globin mRNA and the frequency of fetal hemoglobin-positive erythroblasts in cultures of burst-forming unit erythroid (BFU-E) from normal individuals. HDAC in vitro activity was measured with a partially purified rat liver HDAC and a fluorogenic substrate.
+Results
+
+All compounds tested increased γ firefly luciferase activity, γ/γ+β mRNA ratios, and percentage of fetal hemoglobin-containing erythroblasts in BFU-E cultures, in a dose-dependent fashion. Butyryl-hydroxamic acid 100 μM increased the γ/γ+β mRNA ratios by 5.8-fold and the frequency of fetal hemoglobin-containing erythroblasts by 4.1-fold. Propionyl-hydroxamic acid 150 μM increased the γ/γ+β ratios by 6.3-fold and the fetal hemoglobin-containing erythroblasts by 3.9-fold. SBHA induced γ-globin gene expression at very low concentrations, 5 to 20 μM in the luciferase system and 2 to 8 μM in BFU-E cultures; SAHA at 1 to 7.5 μM in the luciferase system and 1 to 2.5 μM in the BFU-E cultures. HDAC in vitro inhibition was observed in the millimolar range for propionate and butyrate. IC50 determinations led to values of 384 μM for propionyl-hydroxamate, 47 μM for butyryl-hydroxamate, 0.93 μM for SBHA, and 0.26 μM for SAHA.
+Conclusion
+
+Our data indicate that hydroxamic acid-based HDAC inhibitors are potent γ-globin gene inducers and that the concentration range of their effects on γ gene expression can be correlated roughly with their HDAC inhibitory potencies.

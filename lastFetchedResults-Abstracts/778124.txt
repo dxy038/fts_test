@@ -1,0 +1,16 @@
+This paper proposes Genetic Algorithm (GA)
+and Imperialism Competitive Algorithm (ICA) for
+solving optimal distributed generation (DG) location and
+capacity. The objective is to minimize network power
+loss and improve the voltage stability index within the
+frame-work of system operation and security constraints
+in radial distribution systems. A detailed performance
+analysis is carried out on 33 bus system to demonstrate
+the effectiveness of the proposed methodology. Two
+different objective functions are considered in this study:
+(1) minimization of active power loss (2) maximization
+of improve the voltage stability index. The goal is to
+optimize each objective function. The site and size of DG
+units are assumed as design variables. The results are
+discussed and compared with those of traditional
+distribution planning and also with GA and ICA.

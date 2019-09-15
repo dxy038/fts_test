@@ -1,0 +1,1 @@
+Techniques for computing soft information in the presence of unknown intersymbol interference are presented, with a particular focus on iterative detection of serially concatenated continuous phase modulation. The techniques are centered around the recursive least-squares algorithm, thus enabling unsupervised detection. In particular, we employ bidirectional estimation.

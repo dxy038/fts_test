@@ -1,0 +1,8 @@
+Abstract
+Background: Streptococcus pyogenes produce extracellular hyaluronidase enzyme which is directly associated with the spreading of the organism during infection. Hyaluronidase enzyme is able to break hyaluronic acid or interstitial cement. This enzyme might be used in cancer treatment.The objective of the present study was to clone and express the nucleotide sequence of this enzyme which is involved in hyaluronidase enzymatic activity.
+Materials and Methods: The enzymatic region of hyaluronidase gene was detected by bioinformatics methods. The polymerase chain reaction method was used to amplify the  region. The amplified product was cloned into the expression vector pET32a. E. coli BL21 (DE3) pLYsS was transformed with recombinant plasmids. Then gene expression was induced by IPTG. The expressed protein was purified successfully via affinity chromatography by NiNTA kit. The integrity of the product was confirmed by western-blot analysis.
+Results: The nucleotide sequence of amplified gene was consistent with the streptocuccal hyaluronidase gene. The concentration of recombinant protein calculated to 500 mg purified protein per liter. The enzymatic region of recombinant protein from Streptococcus pyogenes was recognized by all five patient’s sera with Streptococcus infection.
+Conclusion: In general, it is possible to produce the enzymatic regions of the Streptococcus pyogenes hyaluronidase in Escherichia coli. The antigenic property of the produced protein is well retained. Considering the product's domestic demand and also low efficiency of production and pathogenicity of Streptococcus species, it is possible to produce it as recombinant product.
+ Keywords: Cloning, Gene Expression, Hyaluronidase, Streptococcus pyogenes 
+
+

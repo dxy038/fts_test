@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to determine the feasibility of noninvasive fetal pulse oximetry in the human fetus with transabdominal continuous-wave near-infrared spectroscopy.
+Study design
+The instrument has 3 wavelength light-emitting diodes (735, 805, and 850 nm) as light sources and a photomultiplier tube as a detector. This instrument was used in 6 pregnant women (>36 weeks of gestation). First, a fetal heart rate was obtained with a fetal heart rate monitor. Then, the depth of fetal tissue (head) from the maternal abdomen was determined by ultrasound examination; the distance between the optodes (light source and the detector) was set to be approximately twice the depth of the fetus (7-11 cm). The data analysis was based on the modified Beer-Lambert law and the use of optical densities at 735 and 850 nm to obtain the concentration changes of the oxyhemoglobin and deoxyhemoglobin. The saturation was expressed as the percent of oxygen saturation equal to 100 × oxyhemoglobin/(oxyhemoglobin + deoxyhemoglobin). We recorded the spectroscopy data and the fetal heart rate for approximately 3 to 10 minutes in each patient.
+Results
+The mean oxygen saturation values of each of the 6 individual fetuses ranged from 50% to 74% (overall mean saturation, 61% ± 14.8% [SD]).
+Conclusion
+This preliminary data indicate that transabdominal fetal pulse oximetry is feasible for human patient application. The measured values were similar to those that are obtained with transvaginal pulse oximetry. Future studies should correlate transabdominally obtained measurements with those measurements that are obtained by transvaginal fetal pulse oximetry.
+

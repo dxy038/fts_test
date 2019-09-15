@@ -1,0 +1,4 @@
+Nowadays, seismic design of structures performed by any seismic code is based on resisting previous natural earthquakes. Therefore, the critical excitation method has been proposed in recent years to consider probable future earthquakes that may be more destructive. Non-stationary critical excitation for a structure is found under specified constraints to resonate the structure. In this paper, the objective function of non-stationary critical excitation is taken as the maximization of all the inter-storey drifts at different times, separately. The power (area under power spectral density function) and the intensity (magnitude of PSD function) are limited, and critical excitation is found according to these constraints. Three techniques of finding non-stationary critical excitation are proposed, optimum line, simple and modified techniques. Then, the proposed techniques are used in many MDOF models and the results are investigated.           
+
+ 
+

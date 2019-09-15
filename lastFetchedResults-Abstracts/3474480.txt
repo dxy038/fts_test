@@ -1,0 +1,1 @@
+A new discrete-time dynamic input-output economic model, the consumption-tracking model, is proposed. This model combines dynamic input-output analysis with modern control techniques. The system objective function is a consumption-tracking criterion based on economic principles.

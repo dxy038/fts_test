@@ -1,0 +1,1 @@
+This tutorial provides an overview of the key research results in the area of user preferences from a database perspective. The objective is to survey in a systematic and holistic way a number of approaches for preference representation and composition, querying with preferences and preference learning. Open research problems are also presented.

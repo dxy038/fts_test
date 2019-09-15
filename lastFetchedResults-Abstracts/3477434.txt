@@ -1,0 +1,1 @@
+In this note we consider the problem of the optimal control of a set of two independent Gaussian white noises, first in the upper half-plane and then in the first quadrant. In both cases the objective is to leave the continuation region, either as soon as possible or through the origin, depending on the form of the cost function.

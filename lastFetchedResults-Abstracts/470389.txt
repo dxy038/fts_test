@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to disentangle the maternal genetic, fetal genetic, and environmental effects for the risk of having small-for-gestational-age (SGA) offspring.
+Study design
+By cross-linking the population-based Swedish Multi-Generation and Medical Birth Registers, we extracted 2,193,142 births between 1973 and 2001 with both parents identified. Odds ratios (OR) were calculated to estimate the relative risks, and generalized linear mixed models were used to estimate the contribution of genetic and environmental effects.
+Results
+Women whose full sisters had an offspring born SGA had a significantly increased risk of having a SGA offspring themselves (OR = 1.8, 95% CI 1.7-1.9), whereas the corresponding risk for brothers was lower (OR = 1.3, 95% CI 1.2-1.4). Thirty-seven percent of the liability was explained by fetal (including both maternal and paternal) genetic effects and 9% by maternal genetic effects.
+Conclusion
+Genetic factors account for almost half of the liability to have SGA births. These effects are primarily caused by fetal genes.
+

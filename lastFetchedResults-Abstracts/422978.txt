@@ -1,0 +1,14 @@
+Objectives
+The purpose of this study was to objectively quantify the similarity of 12-lead electrocardiogram (ECG) waveforms using two quantitative metrics, the correlation coefficient (CORR) and the mean absolute deviation (MAD).
+Background
+
+Comparison of the 12-lead ECG morphology between ventricular tachycardia (VT) and a pace-map is frequently performed; however, there are no objective criteria for quantifying the similarity between two waveform morphologies.
+Methods
+
+During ablation of right ventricular outflow tract (RVOT) VT, 12-lead ECG pace-maps were acquired from three superior septal sites, three superior free wall sites, and before each ablation attempt in 15 patients. The 12-lead ECG waveforms of the clinical tachycardia and pace-maps were compared using both MAD and CORR at each site.
+Results
+
+The MAD scores were lower (i.e., more closely matched) for septal compared with free wall sites (15.9 ± 5.3% vs. 25.3 ± 10.2%; p < 0.001). Successful ablation sites had a significantly lower MAD score compared with unsuccessful sites (9.5 ± 2.8% vs. 13.3 ± 5.6%; p = 0.01), whereas there was only a trend toward a higher CORR for successful ablation sites (98.2 ± 1.2% vs. 96 ± 4.7%; p = 0.07). A MAD score ≤12% was 93% sensitive and 75% specific for identifying a successful ablation site. There was an inverse correlation between MAD score and distance from the site of VT origin (r = 0.63, p < 0.001).
+Conclusions
+
+A MAD score >12% between RVOT VT and a pace-map at any site suggests sufficient dissimilarity to dissuade ablation at that site. The MAD score can be used to standardize 12-lead ECG waveform morphology comparisons among different laboratories, and may be useful for guiding ablation of VT.

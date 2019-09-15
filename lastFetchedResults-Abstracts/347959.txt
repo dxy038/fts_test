@@ -1,0 +1,11 @@
+Objective
+Electroencephalographic (EEG) waves modulated by context have been identified about 400 ms after presentation of a new semantic stimulus, such as a word or a number, within a prior context. However, it is not known if any component of these waves arises from a common brain system activated by different symbolic forms.
+Methods
+Multichannel EEG recordings were performed in 10 healthy subjects during the presentation of lexical and numerical series with congruent and incongruent endings. EEG was analysed using a combination of independent component and cluster analysis.
+Results
+Contextual integration of semantic stimuli elicited a negative independent component at around 400 ms that shared the same pattern of spatio-temporal covariation across numerical series and sentences within single subjects. This independent component was bigger following incongruent endings.
+Conclusions
+These data provide evidence that one element of the activity contributing to the N400 is common to different symbolic forms.
+Significance
+One component of the brain systems evaluating the semantic inter-relationship of new stimuli with prior context may be common to different symbolic forms.
+

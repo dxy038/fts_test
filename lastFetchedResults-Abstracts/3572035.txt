@@ -1,0 +1,1 @@
+The use of switched capacitors to realise conductances in m.o.s. integrated circuits is well established. The objective here is to describe a technique for realising transconductance elements using switched-capacitors and unity-gain buffers. The application of these elements to the realisation of a gyrator is presented and experimental results are discussed.

@@ -1,0 +1,9 @@
+The purpose of the study was to propose an optimal shape of profiled anvils for the process of ingot blacksmith forging and determine appropriate technological parameters that will assure a homogeneous distribution of strain intensities within forgings.
+
+The article presents the results of theoretical studies simulating the operations of stretch forging of large ingots over profiled anvils with specified technological parameters. An assessment of the effectiveness of ingot stretch forming operations has been made and an analysis of energy and force parameters has been performed for particular technological parameters. A significant effect of the relative feed and anvil profile angle on the parameters analyzed has been found. Conclusions have been drawn, which propose the use of optimal anvil shape and technological parameters to enhance the effectiveness of stretch forging operation and reduce the values of the energy and force parameters of this process.
+
+By using the procedures of optimization by the experiment planning method, the optimal shape of profiled hot blacksmith forging anvils and technological parameters of this process can be determined, which will assure uniform strain intensity distributions in the volume of the deformed ingots.
+
+In addition, a linear objective function was determined in the study by the experiment planning method, which serves for the calculation of the degree of strain intensity homogenization in the forging volume, depending on the forging process parameters adopted and the shape of profiled anvils used.
+
+An analysis of the ingot stretch forging operation was performed by using the finite element method-based computer program FORGE 3D® in the spatial state of strain.

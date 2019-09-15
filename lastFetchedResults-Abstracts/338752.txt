@@ -1,0 +1,11 @@
+Objective
+The immunogenic role of human CD34+ cells in allogeneic hematopoietic stem cell transplantation is controversial. In this study we tested the role of CD40 and CTLA4 ligands on CD34+ cell costimulation of HLA-mismatched lymphocytes.
+Materials and Methods
+
+An anti-CD40L monoclonal antibody (hu5C8) and/or CTLA4-Ig molecule were used in primary mixed lymphocyte culture (MLC) with irradiated CD34+ blood cells and allogeneic responders. Then, secondary MLC, cytotoxic activity, and effector cytokine expression and production were measured.
+Results
+
+Each reagent was able to reduce anti-CD34+ cell alloreactivity, but only the combination of the anti-CD40L monoclonal antibody and CTLA4-Ig induced greater than 90% inhibition of T-cell response in primary MLC and prevented generation of cytotoxic T cells when priming with purified CD34+ cells. Importantly, responder cells activated by allogeneic CD34+ cells in the presence of anti-CD40L monoclonal antibody and CTLA4-Ig entered a state of antigen-specific unresponsiveness while responding to third party antigen, tetanus toxoid, or phytohemagglutinin, and showed suppression of interferon-γ and increase of interleukin-10 expression and release. Interestingly, addition of interleukin-2 in secondary MLC did not reverse T-cell anergy.
+Conclusions
+
+The results demonstrate that human CD34+ blood progenitors stimulate T-cell responses potently and can induce T-cell unresponsiveness only when both B7:CD28 and CD40:CD40L pathways are blocked, with an increase of interleukin-10–producing cells. Therefore, our data allow design of in vivo studies aimed at achieving T-cell tolerance across HLA barriers by using purified CD34+ cells and costimulatory blockade.

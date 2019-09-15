@@ -1,0 +1,11 @@
+Objective
+To evaluate the anti-tumor potential of β-lapachone in multiple myeloma (MM) cell lines (U266, RPMI8226, and MM.1S); MM cell lines resistant to dexamethasone (MM.1R), melphalan (RPMI8226/LR5), doxorubicin (RPMI8226/DOX40), and mitoxantrone (RPMI8226/ MR20); and MM cells from patients (MM1-MM4).
+Materials and Methods
+
+Cytotoxicity of β-lapachone was assessed by MTT and [3H]-thymidine uptake assays. Apoptosis was analyzed using propidium iodide staining, DNA fragmentation, TUNEL assay, caspase-9 colorimetric assay, and immunoblotting for caspase-3, poly (ADP-ribose) polymerase (PARP), and caspase-8 cleavage products. Paracrine growth of MM cells was assessed by [3H]-thymidine uptake in cultures of bone marrow stromal cells (BMSCs) and MM cells. Interleukin-6 (IL-6) and vascular endothelial growth factor (VEGF) secretion in the culture supernatants was measured by specific enzyme-linked immunosorbent assays (ELISAs).
+Results
+
+β-lapachone showed significant cytotoxicity in MM cells (IC50: 4–8 μM). In contrast, normal peripheral blood mononuclear cells (PBMCs) and BMSCs from MM patients were relatively resistant (IC50: 8–16 μM). IL-6 did not protect against β-lapachone–induced apoptosis in MM.1S cells, and dexamethasone showed additive cytotoxicity. β-lapachone also decreased binding of MM.1S cells to BMSCs; abrogated IL-6 and VEGF secretion triggered by adhesion of BMSCs to MM.1S cells; reduced proliferation of MM.1S cells adherent to BMSCs; and decreased intracellular adhesion molecule-1 (ICAM-1) expression on MM.1S cells. Furthermore, β-lapachone induced typical PARP cleavage, increased caspase-9 proteolytic activity, and activation of caspase-3, without activation of caspase-8 in U266 cells.
+Conclusion
+
+These studies provide a framework for clinical evaluation of β-lapachone to improve the outcome for patients with MM.

@@ -1,0 +1,1 @@
+A bidirectional decision feedback equalizer (DFE) is proposed with the arbitration of the Viterbi decoder. The proposed DFE uses the minimum path metric between Viterbi decoders for the forward and reverse DFEs in the arbitration process. It has over 2 dB SNR gain against the conventional bidirectional DFE and the single DFE.

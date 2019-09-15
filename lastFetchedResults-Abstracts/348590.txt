@@ -1,0 +1,11 @@
+Objective
+We investigated the effect of the inhibitory process with increasing muscle force on event-related potentials (ERPs) and motor evoked potentials (MEPs).
+Methods
+The subjects performed a S1–S2 paradigm with go/nogo tasks. S1 was an auditory tone burst, and S2 was an electrical stimulation applied to the second (go stimuli) or fifth digit (nogo stimuli) of the left hand. The recordings were conducted at 3 force levels; 10, 30 and 50% maximal voluntary contraction (MVC). After the presentation of S2, the subjects were instructed to adjust their force level to match the target line with a force trajectory line in only the go trials.
+Results
+Nogo-N140 was significantly more negative in amplitude than go-N140 in all conditions, and became larger with increasing muscle force. The MEP, which was recorded at 150 ms after S2, became significantly smaller with increasing muscle force in nogo trials, whereas it became larger in go trials.
+Conclusions
+Our results indicated that stronger inhibitory cerebral activity was needed for a nogo stimulus, in the case where a stronger response was needed for a go stimulus.
+Significance
+The present study showed a significant relationship between cortical inhibitory process and muscle force.
+

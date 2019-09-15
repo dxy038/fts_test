@@ -1,0 +1,8 @@
+Objective
+jective of this study is to determine the effect of interfacial reflection correction (IRC) on the accuracy of this reflectance model for contemporary dental resin composite materials.
+s
+e reflectance spectra were obtained for varying thicknesses (∼0.3–1.2 mm) of five shades of each of two brands (Herculite Ultra and Kalore) of dental resin composite materials on black, gray and white backings. For each shade and brand, K–M theory was fit (SAS non-linear fit) for each of three IRC methods: (1) no IRC (No), (2) an IRC method which uses a theoretical value of the internal reflection for translucent materials (Tr), and (3) an IRC method which uses a derived value of the internal reflection for opaque materials (Op). The errors were subjected to repeated measures analysis of variance and Bonferroni corrections were applied to selected pairwise comparisons.
+s
+ method had a statistically lower error than the No method at wavelengths from 460 to 560 nm, and the Tr method had this lower error at wavelengths from 440 to 780 nm.
+icance
+ted K–M reflectance theory may be used to accurately quantify the optical K–M absorption and scattering coefficients for contemporary dental resin composite materials, and this theory may be used to calculate accurately the reflectance spectrum for a clinically relevant thickness value and for a backing that is low, mid-range or high in lightness. Both color and translucency information of resin composite materials may be accurately predicted using corrected Kubelka–Munk reflectance model.

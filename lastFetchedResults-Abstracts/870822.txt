@@ -1,0 +1,9 @@
+This paper presents a framework for fuzzy criterion set and fuzzy criterion
+dynamic programming which generalizes the tools applicable to an array of fuzzy
+decision models, particularly those represented by the generalized reservoir operation
+and the stochastic inventory models. The objective is to maximize the expected
+fuzzy criterion function of the product of fuzzy criterion sets. We prove certain
+properties of the resultant models including existence, uniqueness, and stability
+theorems of solutions to this model and show that under the regular hypothesis
+assumption, the optimal control is a bounded critical number policy. Q 1996
+Academic Press, Inc.

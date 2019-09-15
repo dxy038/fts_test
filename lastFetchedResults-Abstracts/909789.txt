@@ -1,0 +1,14 @@
+Urban groundwater is generally an underused resource, partially due to the perceived risk of pollution and the strategic difficulties
+in placing boreholes in built-up areas. The development of a probabilistic risk based management tool that predicts
+groundwater quality at potential new urban boreholes is beneficial in determining the best sites for future resource development.
+The Borehole Optimisation System (BOS) is a custom Geographic Information System (GIS) application that has been developed
+in the ArcView 3.1 environment with the objective of locating the optimum locations for new boreholes in urban areas. It couples
+three component models, the Catchment Zone Probability Model (CZPM), the Land-use Model (LM) and the Pollution Risk
+Model (PRM). The CZPM produces probabilistic catchment zones for a user-defined abstraction borehole location under uncertain
+and variable hydrogeological parameters. The LM identifies current and historical industries located within the selected probabilistic
+catchment zone. The PRM uses these industrial and the associated hydrogeological and contaminant data to predict
+probabilistic contaminant concentrations in a particular analysis year. This paper outlines the methodologies employed in the
+development of BOS and attempts to validate the approach by presenting a simulation that forecasts PCE concentrations at an
+actual borehole location in the Nottingham urban aquifer. The results predict contaminant levels in the abstracted water that are
+in agreement withobserved values, bothbeing above the UK Drinking Water Standard of 10 lg/l. These demonstrate the applicability
+of BOS as a tool for informing decision-makers on the development of urban groundwater resources.

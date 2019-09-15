@@ -1,0 +1,1 @@
+In this short paper we present an algorithm for optimization problems in which the evaluation of the objective function and of its gradient requires Monte Carlo-type probabilistic simulation. The algorithm is based on the gradient method and the paper also presents its convergence analysis.

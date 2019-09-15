@@ -1,0 +1,11 @@
+This paper focuses on the non-fragile guaranteed cost control
+problem for a class of T-S fuzzy time-varying delay systems with local bilinear
+models. The objective is to design a non-fragile guaranteed cost state
+feedback controller via the parallel distributed compensation (PDC) approach
+such that the closed-loop system is delay-dependent asymptotically stable and
+the closed-loop performance is no more than a certain upper bound in the
+presence of the additive controller gain perturbations. A sufficient condition
+for the existence of such non-fragile guaranteed cost controllers is derived via
+the linear matrix inequality (LMI) approach and the design problem of the
+fuzzy controller is formulated in term of LMIs. The simulation examples show
+that the proposed approach is effective.

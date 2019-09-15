@@ -1,0 +1,11 @@
+Objective
+To explore new treatments specifically targeting malignant plasma cells (PCs), we examined CD52 antigen expression on primary PCs as well as multiple myeloma (MM) cell lines, and investigated in vivo the antimyeloma activity of alemtuzumab.
+Materials and Methods
+
+PCs were enriched from the marrow of MM patients (n = 39) according to CD138 expression and then analyzed by 3-color flow cytometry and quantitative PCR. The in vivo activity of alemtuzumab was evaluated in a xenotransplant model of MM in nonobese diabetic/severe combined immunodeficient (NOD/SCID) mice.
+Results
+
+CD52 expression revealed a substantial heterogeneity in terms of both percentage of positive cells and fluorescence intensity, with 25/39 (64%) MM patients showing ≥30% CD138+ PCs expressing the CD52 antigen (mean = 79%; range, 33–100%). Similarly to primary cells, cell lines showed heterogeneous CD52 expression. Expression of CD52 mRNA by quantitative PCR analysis strongly correlated with CD52 antigen detection by flow cytometry. In vivo, alemtuzumab treatment significantly increased the median survival of animals with an early- (64 vs 77 days, p ≤ 0.0005) or advanced-stage (66 vs 75 days, p ≤ 0.02) disease.
+Conclusion
+
+We conclude that: 1) CD52 is expressed on PCs of a significant proportion of MM patients; 2) alemtuzumab used as a single agent exerts a good antitumor activity in NOD/SCID mice bearing an early-stage disease; and 3) alemtuzumab might have therapeutic potential in a subset of MM patients.

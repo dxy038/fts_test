@@ -1,0 +1,11 @@
+Objective
+We assessed whether whole-body multiple frequency impedance (MFBIA) data obtained at a few discrete frequencies could be used to estimate accurately resistance at 0 (R0) and infinite (R∞) frequencies required for prediction of body composition by mixture theory.
+Methods
+
+Fat-free mass (FFM) was measured in 157 subjects (77 males, 80 females; body mass index [BMI] 17.8–41.7 kg/m2) by dual X-ray absorptiometry (DXA). Whole-body impedance was measured and R0 and R∞ were calculated by three different methods. FFM predicted using the different values of R0 and R∞ were compared with each other and with the reference DXA values for all subjects stratified according to BMI band (BMI <24.9 kg/m2, normal weight; BMI 25–29.9 kg/m2, overweight; BMI >30 kg/m2, obese).
+Results
+
+All BIA procedures predicted an FFM that was slightly but significantly different from DXA-derived values, underestimating by 0.24 to 1.4 kg in the normal-weight subjects and overestimating by 5.3 to 7.1 kg in the obese subjects. Although statistically significant, the different impedance procedures were highly correlated (r > 0.98), with small limits of agreement (approximately ±2%) when used to predict FFM. Predictive power was associated with BMI, worsening as BMI increased.
+Conclusion
+
+MFBIA can be used to estimate impedance parameters required for mixture theory prediction of body composition, but this approach requires adjustment for BMI to be accurate.

@@ -1,0 +1,12 @@
+This work is concerned with the dynamic modelling of the papermaking section of an integrated newsprint mill, and the
+subsequent application of two direct search methods in a proof-of-concept optimization study of broke recirculation strategies. The
+effect of the current broke recirculation policy on the mixed pulp properties at the paper machine headboxes was quantified using
+a dynamic simulation generating data for an objective function which reflected the rate of change in measurable (flow, consistency
+and temperature) and immeasurable (total dissolved solids and fibre length distribution) parameters. Genetic Algorithm and the
+NeldereMead simplex methods were then linked dynamically to the simulation and used to find improved ways of recirculating
+broke pulp. Specifically, the profile of the changes to the broke ratio was modelled using a quadratic function and a second-order
+transfer function, and the coefficients of these functions were optimized. The optimized broke recirculation resulted in a significant
+reduction in the value of the objective function, thus, suggesting that the fluctuations in the properties of the mixed pulp stream
+could be dampened and paper machine headbox stability improved. It is expected that this process enhancement strategy would
+contribute to an increase in production yield (via a reduction in the occurrence of paper machine breaks), and thus an overall
+reduction in the waste of materials and energy.

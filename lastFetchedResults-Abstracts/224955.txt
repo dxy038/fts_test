@@ -1,0 +1,13 @@
+An Immune Algorithm (IA) based optimization approach
+for solving the capacitor placement problem is proposed in
+this paper. In the capacitor placement problem, those practical capacitor
+operating constraints, load profiles, feeder capacities and
+allowable voltage limits at different load levels are all considered
+while the investment cost and energy loss are minimized. In the proposed
+method, objective functions and constraints are represented
+as antigens. Through the genetic evolution, an antibody that most
+fits the antigen becomes the solution. In this IA computation, an
+affinity calculation process is also embedded to guarantee the diversity.
+The process stagnation can be thus better prevented. The
+proposed method has been applied to a test system and the results
+are compared with other published techniques.

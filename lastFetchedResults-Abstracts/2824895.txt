@@ -1,0 +1,1 @@
+The main objective of this paper is to present full-wave computational procedures and explicit equations leading to reproduce the experimental behavior of photoconductive antennas (PCAs) in the frame of time-domain spectroscopy systems. Additionally, the computational tools developed are aimed to analyze the efficiency of such antennas.

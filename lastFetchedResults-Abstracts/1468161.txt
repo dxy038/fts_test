@@ -1,0 +1,6 @@
+Background: Nowadays air pollution threatens environment and public health. Ahvaz, the provincial capital of Khuzestan province, is one of the most polluted cities in Iran. 
+Objective: The aim of this study was to evaluate the effects of particulate matter less than 10 microns (PM10) on health in Ahvaz.
+Methods: This analytical study was conducted in Ahvaz, 2011. Pollutant concentrations of PM10 were measured using GRIMM. PM10 data were obtained from Ahvaz department of the environment. After processing (average estimation and coding) and exerting the influence of meteorological parameters, data were converted as input file to the Air Q model. 
+Findings: The maximum and the minimum concentrations of PM10 were related to the Havashenasi and Naderi stations, respectively. Total mortality attributable to PM10 was 1400 cases. Cumulative cardiovascular mortality attributable to PM10 was 787 cases with regards to the median relative risk and 46% of the mortality rate was related to a PM10 level less than 200 µg/m3.
+Conclusions: High total mortality rate and cardiovascular mortality rate may be due to PM10 level more than standard level or continuation of days with high level of particulate matter in breathing air zone in Ahvaz.
+

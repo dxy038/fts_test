@@ -1,0 +1,9 @@
+This paper deals with the use of importance measures (IMs) for the risk-informed optimization of system design and operation. It builds on previous work by the authors in which IMs are incorporated in the formulation of a genetic algorithm (GA) multi-objective optimization problem to drive the design towards a solution which is ‘balanced’ in the importance values of the components. This allows designing systems that are optimal from the point of view of economics and safety, without excessively low- or unnecessarily high-performing components.
+
+Different definitions of IMs quantify the risk- or safety-significance of components according to specific views of their role in the system: depending on the optimization problem at hand (e.g. system design optimization and/or maintenance strategy optimization) the use of one IM definition as a balancing criterion may be more appropriate than another.
+
+In this regard, a comparison of the Fussell–Vesely (FV), Birnbaum (B) and risk achievement worth (RAW) IMs is performed, with respect to their appropriateness for the optimization of test/maintenance intervals.
+
+The RAW is found inappropriate for the purpose, since this measure relates to the defense of the system against the failure of components, which is independent on how often the component is tested.
+
+Instead, the use of the FV or B measures allows allocating test/maintenance activities according to the importance of the components they relate to, in agreement with the principle of the risk-informed philosophy of avoiding unnecessary regulatory burdens and defining more efficient inspection and maintenance activities.

@@ -1,0 +1,12 @@
+Objective
+To examine associations between availability of different types of food outlets and children's fruit and vegetable intake.
+Method
+
+Parents of 340 5–6 and 461 10–12 year-old Australian children reported how frequently their child ate 14 fruits and 13 vegetables in the last week in 2002/3. A geographic information system (GIS) was used to determine the availability of the following types of food outlets near home: greengrocers; supermarkets; convenience stores; fast food outlets; restaurants, cafés and takeaway outlets. Logistic regression analyses examined the likelihood of consuming fruit ≥ 2 times/day and vegetables ≥ 3 times/day, according to access to food outlets.
+Results
+
+Overall, 62.5% of children ate fruit ≥ 2 times/day and 46.4% ate vegetables ≥ 3 times/day. The more fast food outlets (OR = 0.82, 95%CI = 0.67–0.99) and convenience stores (OR = 0.84, 95%CI = 0.73–0.98) close to home, the lower the likelihood of consuming fruit ≥ 2 times/day. There was also an inverse association between density of convenience stores and the likelihood of consuming vegetables ≥ 3 times/day (OR = 0.84, 95%CI = 0.74–0.95). The likelihood of consuming vegetables ≥ 3 times/day was greater the farther children lived from a supermarket (OR = 1.27, 95%CI = 1.07–1.51) or a fast food outlet (OR = 1.19, 95%CI = 1.06–1.35).
+Conclusion
+
+Availability of fast food outlets and convenience stores close to home may have a negative effect on children's fruit and vegetable intake.
+

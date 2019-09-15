@@ -1,0 +1,11 @@
+Objective
+The chemokine receptor CXCR3 has an important role in the migration of effector T cells. To investigate the role of CXCR3 on donor cells in acute graft vs host disease (GVHD) we used a well-defined experimental bone marrow transplantation (BMT) model where acute GVHD is mediated by donor CD8+ T cells against minor histocompatibility antigens.
+Methods
+
+Lethally irradiated C3H.SW recipients were transplanted from either wild-type B6 or CXCR3−/− B6 donors. Donor T-cell expansion was analyzed in the spleen and small intestine of recipients by FACS. Donor T-cell function was analyzed by cytokine secretion. The severity of acute GVHD was assessed by histopathological analysis of intestine and liver, GVHD clinical scores, and survival after BMT.
+Results
+
+Significantly higher numbers of donor CD8+ CXCR3−/− T cells were found in the spleen on days +7 and +14 compared to donor wild-type T cells. By contrast, the number of CD8+ T cells in the small bowel of BMT recipients from CXCR3−/− donors was sevenfold lower than from wild-type donors. Systemic concentrations of INF-γ and TNF-α were equivalent between groups. Animals that received CXCR3−/− donor T cells demonstrated diminished GI tract and liver damage and showed improved survival after BMT compared to recipients of wild-type donor cells (43% vs 0%, p<0.001).
+Conclusion
+
+The migration of donor CD8+ T cells to GVHD target organs such as the intestine depends on the expression of CXCR3 and contributes significantly to GVHD damage and overall mortality.

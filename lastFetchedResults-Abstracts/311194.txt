@@ -1,0 +1,9 @@
+Objective. The purpose of this study was threefold: (1) to report on a method of determining lower extremity anthropometric data using dual energy X-ray absorptiometry, (2) to compare values obtained with this method to predictions from cadaver-based estimates, and (3) to quantify the extent to which these data affect the calculation of net joint moments during walking.
+
+Background. Anthropometric data used in inverse dynamics equations are often estimated from older cadaveric specimens. A practical method for determining population-specific data is needed.
+
+Methods. Using DXA scans obtained from 20 healthy adults, the mass, center of mass, and moment of inertia of each lower extremity segment were determined and compared to cadaver-based estimates. In addition, gait analysis was performed on 10 of these subjects, and net joint moments (sagittal plane) were calculated at the ankle, knee, and hip using anthropometric data obtained from (a) DXA, and (b) cadaver-based estimates.
+
+Results. Statistically significant differences were identified for DXA-derived and cadaver-based anthropometric values. Overall, moment curves computed using the two data sets differed more during the swing phase than during the stance of gait.
+
+Conclusions. DXA appears to be an appropriate method for obtaining population-specific anthropometric data. Moment calculations for activities involving high accelerations and no ground reaction forces (i.e. swing phase of gait, kicking, etc.) would be most influenced by the differences between the anthropometric data sets.

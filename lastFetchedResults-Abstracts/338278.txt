@@ -1,0 +1,11 @@
+Objective
+Future prospects for gene therapy of chronic anemias involve expression of the erythropoietin transgene, which is regulated by oxygen tension. However, other factors such as cytokines or the iron load of erythropoietin-expressing cells can concomitantly modulate transgene expression, as shown for the expression of the endogenous erythropoietin gene in human cell lines and in animals. We tested the effects of iron overload or depletion on the expression of the mouse erythropoietin transgene (cDNA), driven by the hypoxia-regulated phosphoglycerate kinase 1 promoter.
+Materials and Methods
+
+Retrovirally transduced mouse cells (C3H fibroblasts or C2C12 myoblasts) were cultured in normoxia (room air, O2: 21%) or hypoxia (O2: 1.5%) in the presence or absence of hemin (an iron donor) or deferiprone (an iron chelator), both of which easily enter the cell.
+Results
+
+Hemin inhibited the hypoxia-induced expression of the transgene. In contrast, deferiprone enhanced the hypoxia-induced expression of the erythropoietin transgene and induced its expression in normoxia.
+Conclusion
+
+These results show that, in addition to oxygen partial pressure, the intracellular iron content is critical in the modulation of hypoxia-regulated erythropoietin transgene expression.

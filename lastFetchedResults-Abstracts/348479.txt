@@ -1,0 +1,11 @@
+Objective
+To investigate the localization accuracy of low-resolution electromagnetic tomography (LORETA) for mesial temporal interictal epileptiform discharges (IED) using a new relative averaging (RELAVG) technique for noise reduction.
+Methods
+We analyzed 19 patterns of mesial temporal IED recorded simultaneously with scalp and foramen ovale (FO) electrodes in 15 consecutive patients who underwent presurgical assessment for intractable temporal lobe epilepsy. The scalp signals were time-locked to the peak activity in the FO electrode recordings and source modeling was performed using the RELAVG technique. Random noise of various amounts was then applied. The results were compared to intracranial data obtained from the FO electrode recordings and to LORETA source solutions obtained using two other approaches to improve signal to noise ratio (SNR): statistical non-parametric mapping (SNPM) and the commonly applied averaging (AVG) technique.
+Results
+The RELAVG technique allowed for reasonable mesial temporal localization in 52.6% (10/19) of IED patterns, compared with 73.7% (14/19) using SNPM. The AVG technique provided no strictly mesial temporal solutions. Nine of the IED patterns revealed relative current density quotient changes >10; all of these were accurately localized by RELAVG into mesial temporal structures. Increasing amounts of white and physiological noise had no influence on the accuracy of RELAVG and SNPM solutions, whereas AVG source reconstructions became progressively spurious.
+Conclusion
+The RELAVG technique and SNPM, but not the commonly used AVG technique, allow for reasonable source localization of mesial temporal IED. SNPM is the most accurate but also the most time-consuming noise reduction technique.
+Significance
+The RELAVG LORETA technique might provide a simple and fast semi-quantitative alternative for localizing IED with low single to noise ratio.
+

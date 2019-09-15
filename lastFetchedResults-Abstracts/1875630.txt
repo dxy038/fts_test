@@ -1,0 +1,14 @@
+Objective:
+mine the characteristics of patients admitted to the Medical Intensive Care Unit (MICU) after intentional drug overdose.
+:
+pective chart review, descriptive.
+g:
+tern teaching hospital.
+ts:
+ience sample of 43 patients admitted to the MICU after intentional drug overdose.
+e measures:
+al and disposition of those patients who survived and were discharged from the MICU.
+s:
+-five percent of the patients survived and were discharged from the MICU: Acute Physiology and Chronic Health Evaluation II scores ranged from 1 to 29 (mean, 8); Glascow Coma Scale scores ranged from 3 to 15 (mean, 12.5); five patients were intubated and two patients had serious electrocardiograph changes requiring pharmacologic intervention for dysrhythmia.
+sions:
+ogic findings were the best indicators of serious complications after drug overdose. Therefore, patients with a Glascow Coma Scale score of more than six, and who are not intubated, may not need admission to an intensive care unit.

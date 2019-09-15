@@ -1,0 +1,9 @@
+Abstract
+Background: Genetic variability of influenza viruses causes new epidemics worldwide annually. Development of a new vaccine for prophylaxis of influenza virus has been amajor objective in recent years. The aim of this study was to construct a recombinant baculoviruscapable of expressing the two surficial antigenic glycoproteins, hemagglutininand neuraminidase, as well as matrix proteinsof swine influenza (H1N1) simultaneously and independently.
+Materials and Methods: In this experimental study, first, a triplet cassette providing simultaneous and independent expression of target proteins was designed and subjected to synthesis. It was then cloned into pFastBac1 donor plasmid. Competent E.ColiDH10Bac cells were transformed by donor clone and the recombinant bacmids were produced following homologous transposition. This construction was verified by PCR and then transfected into Sf9 insect cells to package new recombinant baculoviruses.
+Results: Restriction map of pFastBacI HNM1 donor plasmid confirmed the fidelity of the clone. The results of PCR done on the recombinant bacmidas template indicated that a proper homologous recombination has occurred between pFastBacI HNM1 donor plasmid and the bacmid in E.ColiDH10Bac host cells. Protein analysis of the infected Sf9 cells showed that all target proteins were efficiently expressed at the same time.
+Conclusion: The recombinant baculovirus constructed in this studypossesses proper characteristics to produce swine influenza virus-like particles in Sf9 cells.
+Keywords: Baculovirus, H1N1 subtype, Influenza Avirus, Virus-like particle
+
+
+

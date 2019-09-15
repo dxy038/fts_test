@@ -1,0 +1,5 @@
+Objective: To study the spatiotemporal pattern of event-related desynchronization (ERD) and event-related synchronization (ERS) in electrocorticographic (ECoG) data with closely spaced electrodes.
+Methods: Four patients with epilepsy performed self-paced hand movements. The ERD/ERS was quantified and displayed in the form of time–frequency maps.
+Results: In all subjects, a significant beta ERD with embedded gamma ERS was found.
+Conclusions: Self-paced movement is accompanied not only by a relatively widespread mu and beta ERD, but also by a more focused gamma ERS in the 60–90 Hz frequency band.
+

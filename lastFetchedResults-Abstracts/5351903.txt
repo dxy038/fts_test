@@ -1,0 +1,1 @@
+Describes a 1Gb double data rate (DDR) SDRAM which employs: 1) a clock generator that consists of a bidirectional delay (BDD), 2) a quadcoupled receiver (QCR), and 3) an inter-bank shared redundancy (ISR) scheme with a variable unit redundancy (VUR).

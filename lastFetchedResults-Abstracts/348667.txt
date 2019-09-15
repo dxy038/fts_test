@@ -1,0 +1,11 @@
+Objective
+Abnormal synchronization of neurons plays a central role for the generation of epileptic seizures. Therefore, multivariate time series analysis techniques investigating relationships between the dynamics of different neural populations may offer advantages in predicting epileptic seizures.
+Methods
+We applied a phase and a lag synchronization measure to a selected subset of multicontact intracranial EEG recordings and assessed changes in synchronization with respect to seizure prediction.
+Results
+Patient individual results, group results, spatial aspects using focal and extra-focal electrode contacts as well as two evaluation schemes analyzing decreases and increases in synchronization were examined. Averaged sensitivity values of 60% are observed for a false prediction rate of 0.15 false predictions per hour, a seizure occurrence period of half an hour, and a prediction horizon of 10 min. For approximately half of all 21 patients, a statistically significant prediction performance is observed for at least one synchronization measure and evaluation scheme.
+Conclusions
+The results indicate that synchronization changes in the EEG dynamics preceding seizures can be used for seizure prediction. Nevertheless, the underlying pathogenic mechanisms differ and both decreases and increases in synchronization may precede epileptic seizures depending on the structures investigated.
+Significance
+The prediction method, optimized values of intervention times, as well as preferred brain structures for the EEG recordings have to be determined for each patient individually offering the chance of a better patient–individual prediction performance.
+

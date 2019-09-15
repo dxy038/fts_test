@@ -1,0 +1,8 @@
+Objective
+Higher C-reactive protein (CRP) levels in women compared with men may reflect sex differences in the relationship between obesity and inflammation. We evaluated how the adipokine leptin influenced these relationships.
+Methods and results
+Dual energy X-ray absorptometry measurements of fat mass and plasma levels of leptin and CRP were measured in 1188 women and 1102 men from the Dallas Heart Study. Analyses were stratified by sex and a leptin/percent fat index was created to evaluate the association between leptin and CRP independent of fat mass.
+Women had higher body mass index, percent fat mass, and plasma levels of CRP and leptin. CRP levels correlated with leptin levels in both women (Spearman ρ = 0.48, p < 0.0001) and in men (ρ = 0.27, p < 0.0001). In multivariable models adjusting for confounders including total fat mass, leptin/percent fat index remained significantly associated with log CRP in women (p = 0.005), but not in men (p = 0.95). A significant interaction was observed between sex and leptin levels on CRP (pinteraction = 0.03).
+Conclusion
+Leptin was associated with CRP independent of other measures of obesity in women, but not in men. These findings suggest that sex differences in CRP may reflect sex-related differences in the inflammatory responses to obesity, and may in part, be mediated by leptin.
+

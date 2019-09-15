@@ -1,0 +1,1 @@
+Depth-data provided by Kinect are used by an innovative marker-less solution, to estimate the trajectories of six side skeleton joints, for objective gait analysis. Anthropometric models, used to extract joints coordinates, avoid unnecessary resource-consuming computations. The reliability of the proposed solution is shown, by comparison with a traditional marker-based system.

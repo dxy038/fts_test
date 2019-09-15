@@ -1,0 +1,11 @@
+Objective
+To develop a novel in vivo system for rapid assessment of leukemia growth and treatment of human blood cell malignancies.
+Materials and Methods
+
+Cell lines derived from several human hematologic malignancies were introduced into chick embryos using four different methods.
+Results
+
+K562 cells engraft in 100% of embryos following intravascular or intra-amniotic injection. The engraftment is rapid, appearing as soon as 7 days after injection, in striking contrast to the 4 weeks and more required for engrafting severe combined immunodeficient mice with human leukemia by systemic injection. The engraftment is easily visualized in vivo as tumor nodules in the chicken chorioallantoic membrane (CAM). In addition, leukemia is consistently detected in the embryos' hematopoietic organs by polymerase chain reaction amplification of human-specific DNA sequences. Consistent engraftment was also obtained using another leukemia cell line (DAMI). Finally, we demonstrate proof of principle that this system can be used for testing the efficacy of chemotherapy agents. Dramatic and consistent regression of tumors in the CAM was induced by a single intravenous dose of doxorubicin administered to K562-engrafted embryos.
+Conclusion
+
+This in vivo system provides a new platform for studying human blood cell malignancies at much lower cost than other animal models and has the potential to provide rapid chemotherapy assays, which could significantly reduce drug development time and expense.

@@ -1,0 +1,16 @@
+Objective: CRISPR/Cas9 technology provides a powerful tool for targeted modification of
+genomes. In this system, a donor DNA harboring two flanking homology arms is mostly used
+for targeted insertion of long exogenous DNA. Here, we introduced an alternative design for
+the donor DNA by incorporation of a single short homology arm into a circular plasmid.
+Materials and Methods: In this experimental study, single homology arm donor was applied
+along with a single guide RNA (sgRNA) specific to the homology region, and either Cas9 or its
+mutant nickase variant (Cas9n). Using Pdx1 gene as the target locus the functionality of this
+system was evaluated in MIN6 cell line and murine embryonic stem cells (ESCs).
+Results: Both wild type Cas9 and Cas9n could conduct the knock-in process with this system.
+We successfully applied this strategy with Cas9n for generation of Pdx1GFP knock-in mouse
+ESC lines. Altogether, our results demonstrated that a combination of a single homology arm
+donor, a single guide RNA and Cas9n is capable of precisely incorporating DNA fragments of
+multiple kilo base pairs into the targeted genomic locus.
+Conclusion: While taking advantage of low off-target mutagenesis of the Cas9n, our new
+design strategy may facilitate the targeting process. Consequently, this strategy can be applied
+in knock-in or insertional inactivation studies.

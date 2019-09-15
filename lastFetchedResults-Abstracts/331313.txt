@@ -1,0 +1,11 @@
+Objective
+To explore the application of Hertzian indentation testing to amalgam and GIC; study the failure behavior of the bi-layer structure of each material on a relatively soft substrate; and investigate the effect of thickness.
+Methods
+
+Amalgam (Lojic+, SDI, Bayswater, Australia) and ceramic-reinforced GIC (Advanced Healthcare, Tonbridge, UK) discs, 10 mm diameter, thicknesses ranging from 0.4 to 8.0 mm, were tested resting freely on a substrate (30% glass fibre-reinforced polyamide; E = 10 GPa, 10 mm diameter and 5 mm thick). Increasing load was applied to the center of the disc by a 20 mm-diameter hard steel ball until fracture occurred. Acoustic emission sensing was used as a supplemental method for crack detection. The load at the first crack was recorded. Fracture surfaces were observed under SEM to identify the crack initiation site and the failure mode.
+Results
+
+The main failure mode of both materials shifted from bottom-initiated radial cracking to near-contact cone cracking or subsurface plastic deformation as the thickness was increased. There was a wide thickness range for the transition of the failure mode for amalgam. Failure load was proportional to the square of thickness for amalgam, except for deviations at small and very large thickness; for the GIC, it was proportional to the thickness to the power not, vert, similar1.6, except for thin layers.
+Significance
+
+The Hertzian indentation test can be applied to investigate the failure behavior of amalgam and GIC in addition to ceramics, for which purpose it may have value as a routine test. Failure mode changed with specimen thickness. The importance of considering both failure mode and failure load or strength is emphasized.

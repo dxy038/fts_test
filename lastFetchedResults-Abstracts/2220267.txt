@@ -1,0 +1,29 @@
+Background: One of the main challenges of hospital managers is to decide the number of existing beds in each department of the hospital. While,
+more beds results in an increase in the current cost of the hospital,
+decreasing the number of beds might cause disorder in patients flow. The main
+objective of this paper is minimizing the total cost as well as maximizing the
+patients flow in the network, considering the practical limitations of the
+hospital. 
+
+Materials & Methods: this study is aimed to
+investigate following subjects: identify the current limitations in changing of
+department capacity, thorough interview with hospital managers and other personnel
+in Modares Hospital, cardiac patient flow analysis, simulation of current flow,
+determining applicable scenarios and choosing the best scenarios by
+mathematical modeling in order to minimize total cost and maximize patient
+flow. 
+
+Results: through lots of existing scenarios, 31 applicable
+scenarios have been determined by limitations analysis. Finally, 8 best
+scenarios were found. Generally, results show that decreasing the number of
+beds in CCU and increasing the number of beds in Post-CCU can improve patients
+flow, considering cost constrains.      
+
+Conclusion: The
+Proposed approach in this study can be a general guide for capacity planning of
+hospital departments with considering practical limitations. Since some health
+administrators oppose the creation of post-CCU, it is possible to compare patients
+flow status in the presence or absence of this department by proposed approach
+in this paper.
+
+

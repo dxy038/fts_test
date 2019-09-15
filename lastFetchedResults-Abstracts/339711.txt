@@ -1,0 +1,11 @@
+Objective
+To search a novel function of erythroid progenitor cells circulating as the major nucleated cell population in umbilical cord blood (CB) cells.
+Materials and Methods
+
+Human CB–derived CD36+ erythroid progenitors were subjected to cDNA microarray. Gene expression and biological property of CB-erythroid progenitors and adult peripheral blood (PB)-erythroid progenitors were compared by using real-time polymerase chain reaction (PCR) and serum-free culture system with erythropoietin (EPO).
+Results
+
+The microarray revealed 124-fold higher levels of insulin-like growth factor-II (IGF-II) gene expression in CB-CD36+ erythroid progenitors than in stimulated lymphocytes of adult PB. Real-time PCR verified that IGF-II mRNA levels were highest in CB-CD36+ erythroid progenitors compared to other CB- or adult PB-fractionated cells. When CB-CD36+ erythroid progenitors were cultured with EPO in serum-free medium, anti-IGF-II-antibody (Ab) reduced the number of erythroid colonies. When CB- and adult PB-derived erythroid colony-forming cells (ECFCs) were cultured with interleukin-3, stem cell factor, and EPO, mRNA levels per cells of IGF-II peaked on day 12, but those of type 1 and type 2 receptors did not increase with ECFCs maturation. The maturation rate by IGF-II was higher in CB-ECFCs than in adult PB-ECFCs. The majority of CB-ECFCs expressed IGF-II protein. Anti–IGF-II-Ab, but not anti–IGF-I-Ab, reduced the number of CB-ECFCs in liquid culture with EPO. Anti–IGF-II-Ab accelerated apoptosis of ECFCs, assessed by dimethylthiazole tetrazolium bromide, bromodeoxyuridine, and flow cytometric analyses. ECFCs failed to attain full maturity in the presence of anti–IGF-II-Ab.
+Conclusions
+
+These results suggest that IGF-II is produced by erythroid progenitors themselves, and has a crucial role in fetal erythropoiesis by modulating apoptosis and maturation in an autocrine fashion.

@@ -1,0 +1,8 @@
+SummaryObjective:
+iomedical models are often expressed by means of differential equations. Despite their expressive power, they are difficult to reason about and make decisions, given their non-linearity and the important effects that the uncertainty on data may cause. The objective of this work is to propose a constraint reasoning framework to support safe decisions based on deep biomedical models.
+:
+thods used in our approach include the generic constraint propagation techniques for reducing the bounds of uncertainty of the numerical variables complemented with new constraint reasoning techniques that we developed to handle differential equations.
+s:
+sults of our approach are illustrated in biomedical models for the diagnosis of diabetes, tuning of drug design and epidemiology where it was a valuable decision-supporting tool notwithstanding the uncertainty on data.
+sion:
+in conclusion that follows from the results is that, in biomedical decision support, constraint reasoning may be a worthwhile alternative to traditional simulation methods, especially when safe decisions are required.

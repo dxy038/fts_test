@@ -1,0 +1,1 @@
+The limitations of pole placement control when there is an adaptive disturbance whose size depends on the previous input and output signals are investigated. It is shown that the control objective of robust stabilization restricts the set of systems that can be dealt with. An adaptive algorithm applicable to systems in this set is proposed and analyzed

@@ -1,0 +1,11 @@
+Objective
+We aimed at comparing the effects of two different electrode-to-skin contact preparation techniques on the stimulus artefact induced by transcranial magnetic stimulation (TMS) in electroencephalography (EEG) signals.
+Methods
+Six healthy subjects participated in a combined navigated brain stimulation (NBS) and EEG study. Electrode contacts were first prepared in the standard way of rubbing the skin using a wooden stick with a cotton tip. The location of hand motor area and the motor threshold (MT) was determined for each subject. Then, the TMS-induced artefact was measured at 60%, 80%, 100% and 120% of the MT. Subsequently, the epithelium under the electrode contacts was electrically short-circuited by puncturing with custom-made needles and the stimulation sequences were replicated. The artefact was compared between the preparation techniques.
+Results
+The TMS-induced artefact was significantly reduced after puncturing. In addition, the size and duration of the artefact depended on the applied stimulation intensity. The reduction of the artefact was largest in electrodes at and close to the stimulation site.
+Conclusions
+Mini-puncturing technique enables more accurate analysis of TMS-induced short-latency phenomena in EEG during NBS, and it may aid in the examination of the short distance neural connectivity beneath and close to the stimulation site.
+Significance
+This study describes a practical skin preparation method that significantly improves the utility of TMS–EEG method in studying short-latency cortical connectivity.
+

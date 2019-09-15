@@ -1,0 +1,24 @@
+Background: The interaction between the blood and the vessel wall is of great
+clinical interest in studying cardiovascular diseases, the major causes of death in
+developed countries.
+Objective: To understand the effects of incorporating fluid-structure interaction
+into the simulation of blood flow through an anatomically realistic model of abdominal
+aorta and renal arteries reconstructed from CT images.
+Methods: The fluid is assumed to be incompressible and non-Newtonian and the
+vessel wall is set to have isotropic elastic properties. The blood flow is assumed to
+be periodic; therefore, a real pulsatile flow velocity in the entrance of the abdominal
+aorta of a healthy adult is measured via laser Doppler anemometry and used in
+this study. The effects of wall flexibility, both rigid and compliant models were also
+simulated.
+Results: Comparison of the rigid model with compliant model reveals that velocity
+and pressure drop in flexible arteries is less than those in rigid arteries. As wall
+shear stress plays an important role in the function of the cardiovascular system as it
+has immediate effect on the endothelial histology, the wall shear stress was analyzed;
+the rigid model wall shear stress magnitude was higher than that in the compliant
+model. It was also observed that the peak values of wall shear stress in this study
+were not high enough to be able to damage and strip the endothelial cells. Displacements
+of vessel walls were also studied; it was found that the wall displacement during
+the systole was higher than the diastole.
+Conclusion: Incorporating fluid-structure interaction and considering vessel wall
+deformations in studying blood flow through arteries have notable effects on blood
+flow characteristics.

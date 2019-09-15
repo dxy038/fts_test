@@ -1,0 +1,1 @@
+Our proposal is to gradually deploy 2&#215;2 optical switches to hypercubes planes in order to decrease about 15% of transit traffic processing for bidirectional physical connections and over 20% forwarding traffic in unidirectional links.

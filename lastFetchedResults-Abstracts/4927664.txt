@@ -1,0 +1,1 @@
+We present a comparative study between fuzzy similarity measures applied to shape recognition and Arabic sentences recognition described with fuzzy features. The objective is to demonstrate that the choice of a fuzzy similarity is important and can influence results in any research topic.

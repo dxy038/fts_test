@@ -1,0 +1,11 @@
+Background
+Risk assessment in patients with non-ST–elevation acute coronary syndromes (NSTE-ACS) traditionally focuses on and is limited to admission findings. The objective of the current study was to develop an approach to predicting outcome in NSTE-ACS that could account for the changing nature of risk.
+Methods
+
+In 7294 of 8010 patients with NSTE-ACS and complete electrocardiographic data in the GUSTO-IIb trial, we predicted the mortality probability at days 0–2, 0–30, 3–30, 5–30, and 7–30 using multiple logistic regression. Resulting risk estimates were incorporated into a composite, dynamic model to estimate the effects of changing probabilities over time. These models were validated against an independent sample of 9461 patients from the PURSUIT trial.
+Results
+
+As time passed after admission, the risk of 30-day death declined in stable patients. This risk, which was 3.72% at baseline, declined to 1.92% in 6-day survivors, and the risk reduction was greatest for those with the highest baseline risk. Importantly, however, the development of inhospital complications modified these trends. The use of dynamic models not only allowed us to estimate early (<48 h) mortality with a high degree of accuracy (C-index of 0.87), but also to continuously update the longer-term prognosis with increasing accuracy: the C-index increased from 0.75 for the day 0–30 model to 0.81 and 0.82 for the composite and day 7–30 models, respectively.
+Conclusions
+
+Dynamic risk assessment is feasible and reliable. This approach can improve risk assessment and provide valuable guidance for management of patients with NSTE-ACS.

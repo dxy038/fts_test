@@ -1,0 +1,11 @@
+Objective
+Unresponsiveness to chemotherapy is a major problem in the treatment of leukemia, which can be caused by unresponsiveness of noncycling cells to cell cycle-dependent cytotoxic agents. Targeted toxins consisting of a targeting and activating cytokine (granulocyte-macrophage colony-stimulating factor [GM-CSF]) and diphtheria toxin (DT) can be used to overcome this kind of resistance of leukemic cells. In this study we manipulated the cell cycle and proliferative status of leukemic cells, explored the effect on sensitivity to DT, and determined the ability of DT388GMCSF fusion proteins to activate and subsequently kill leukemic cells.
+Materials and Methods
+
+We used the GM-CSF–dependent myeloid leukemic cell line AML-193 as a model. GM-CSF or granulocyte colony-stimulating factor (G-CSF) was used to manipulate the cell cycle and proliferative state of AML-193 cells. Cell death was quantified by 51Cr release assays. The results obtained in the AML-193 cell line model were confirmed using primary leukemic blasts.
+Results
+
+Similar to treatment with chemotherapy and immunotherapy, leukemic cells in resting G0 phase were relatively resistant to DT-induced cell death. Synchronized recruitment of leukemic cells into activated phases of the cell cycle by low concentrations of GM-CSF or G-CSF resulted in significant increased DT sensitivity. DT388GMCSF fusion proteins specifically targeted GM-CSF receptor-expressing cells, resulting in recruitment of leukemic cells from G0 phase of the cell cycle and subsequent kill of these cells.
+Conclusion
+
+Leukemic cells in G0 phase, which are resistant to conventional chemotherapy, Fas-induced immunotherapy, and DT alone, can be synchronically activated and subsequently killed by DT388GMCSF fusion proteins.

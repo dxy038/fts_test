@@ -1,0 +1,9 @@
+Objectives:
+The objective of this work was to investigate if the application of factor analysis to the SELDI–TOF MS data could contribute to the characterization of the serum low-molecular weight proteins/peptides in liver injury.
+Design and methods:
+Distinguished SELDI–TOF mass spectral peaks of the liver injury group were identified by comparing with those of the control group. Factor analysis was introduced to classify these peaks into different groups, assignable to the possible underlying factors. Based on original mass spectral plot, loading and current medical knowledge, the common characteristics of the peaks in same group were revealed and the underlying factors were tentatively defined.
+Results:
+The SELDI profiles of liver injury group exhibit 43 discriminating peaks from the control group. Factor analysis extracted 4 common factors, which were the cholestasis, coagulation, attenuation and 9292 factors. And a plausible interpretation for some undetermined peaks was proposed.
+Conclusion:
+The application of factor analysis to SELDI–TOF MS data extracted valuable information out of complex and high-dimensional mass spectra data.
+

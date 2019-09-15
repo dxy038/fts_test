@@ -1,0 +1,1 @@
+We study the performance of a commercial bidirectional quantum key distribution system in the presence of a weak magnetic field (about 50 &#956;T) applied along the fiber axis. We observe a quadratic increase in quantum bit error rate with the angle of Faraday rotation.

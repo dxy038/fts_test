@@ -1,0 +1,1 @@
+We study linear switching systems, where time-variations have to satisfy restrictions on the dwell time, that is on the minimum distance between discontinuities. The main objective of the paper is to construct parameter dependent Lyapunov functions, which characterize the exponential growth rate. This is possible in the generic irreducible case.

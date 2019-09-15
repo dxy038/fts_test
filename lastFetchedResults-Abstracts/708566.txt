@@ -1,0 +1,9 @@
+Objective
+Predicting complications is a clinical challenge in the assessment of victims of scorpion envenomation (SE). We sought to develop a clinical score to predict need for hospitalization after scorpion sting.
+Methods
+We prospectively collected data in patients attending the emergency department after SE in derivation (n = 868) and validation groups (n = 435). A score was derived from a multiple regression analyses using clinical variables as dependent variables and hospitalization as independent variable.
+Results
+Discrimination power of the constructed score was good (area under the receiver operating characteristic curve, 0.85 and 0.83 in derivation and validation group, respectively). Goodness-of-fit tests indicated that the score performed well in the derivation and the validation groups (P = .88 and P = .67 respectively). The score has a good sensitivity and negative predictive value at cutoff value of 2.
+Conclusion
+Our clinical score could be used for efficient hospital admission decision in patient's victims of SE.
+

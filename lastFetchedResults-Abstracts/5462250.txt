@@ -1,0 +1,1 @@
+A software tool has been developed which is able to estimate the cost of a change in a given golf context. The idea is to advise golf objective setting process. The simple expert system is based on the concepts of Bayesian likelihood and Markov Chain. We present the original functionality of the solution and challenges of the approach.

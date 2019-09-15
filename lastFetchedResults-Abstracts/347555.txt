@@ -1,0 +1,5 @@
+Objective: The relevance of the dimensional complexity (DC) for the analysis of sleep EEG data is investigated and compared to linear measures.
+Methods: We calculated DC of artifact-free 1 min segments of all-night sleep EEG recordings of 4 healthy young subjects. Non-linearity was tested by comparing with DC values of surrogate data. Linear properties of the segments were characterized by estimating the self-similarity exponent α based on the detrended fluctuation analysis which quantifies the persistence of the signal and by calculating spectral power in the delta, theta, alpha and sigma bands, respectively.
+Results: We found weak nonlinear signatures in all sleep stages, but most pronounced in sleep stage 2. Strong correlations between DC and linear measures were established for the self-similarity exponent α and delta power, respectively.
+Conclusions: The dimensional complexity of the sleep EEG is influenced by both linear and nonlinear features. It cannot be directly interpreted as a nonlinear synchronization measure of brain activity, but yields valuable information when combined with the analysis of linear measures.
+

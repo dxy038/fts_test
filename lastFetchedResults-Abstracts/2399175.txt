@@ -1,0 +1,8 @@
+Objective
+estigate the effect of indenter size on the failure mode of amalgam and its interaction with thickness.
+s
+ silver amalgam (Lojic+, SDI) discs, 10 mm diameter, thickness h = 0.4–8.0 mm, were stored in air at 37 °C for 7 days before testing in ‘Hertzian contact’, resting freely on a 30% glass fibre-reinforced nylon 6,6 substrate (E: 10 GPa) at 23 °C in air at a crosshead speed of 0.2 mm/min. The load at the first crack, detected acoustically, was recorded. Two series of tests were conducted. In the first, a 3 or 20 mm diameter hard steel ball was used to apply the load to discs with h = 0.4–8.0 mm. The second was performed on discs with h = 2.0 and 5.0 mm with indenter diameters D = 2–40 mm.
+s
+ilure loads for these two groups were substantially different, with most values for D = 3 mm being lower than those for D = 20 mm. The transitions of the main failure mode with increasing thickness were similar, i.e., from RC-dominant for h small to CC-dominant for h large, except that this occurred over a greater range for the larger indenter. For h = 2 mm, failure load was constant for D = 2–40 mm; all specimens consistently failed from bottom RC. For h = 5 mm, failure load increased with D with a quadratic relationship up to about 10 mm (r2 = 0.85), after that, values were near constant; the failure mode gradually changed with D from PD- or CC-prevailing for D small (≤5 mm) to RC-prevailing for D very large (30 and 40 mm).
+icance
+ilure mode of amalgam is dependant on the indenter size; indenter size and coating thickness have reciprocal effects.

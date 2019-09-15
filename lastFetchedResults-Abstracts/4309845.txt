@@ -1,0 +1,1 @@
+A hierarchical knowledge-based restoration system which decomposes the bulk power system restoration problems into objective layer and action layer is described. The structure of the knowledge-based system is proposed and various system constraints are considered, and the restoration system is developed using expert system shell G2

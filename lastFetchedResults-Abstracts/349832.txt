@@ -1,0 +1,11 @@
+Objective
+This work aims to elucidate by what physical mechanisms and where stimulation occurs in the brain during transcranial magnetic stimulation (TMS), taking into account cortical geometry and tissue heterogeneity.
+Methods
+An idealized computer model of TMS was developed, comprising a stimulation coil, a cortical sulcus, and surrounding tissues. The distribution of the induced electric field was computed, and estimates of the relevant parameters were generated to predict the locus and type of neurons stimulated during TMS, assuming three different stimulation mechanisms.
+Results
+Tissue heterogeneity strongly affects the spatial distribution of the induced electric field and hence which stimulation mechanism is dominant and where it acts. Stimulation of neurons may occur in the gyrus, in the lip of the gyrus, and in the walls of the sulcus. The stimulated cells can be either pyramidal cells having medium to large caliber axons, or intracortical fibers of medium caliber.
+Conclusions
+The results highlight the influence of cortical folding on the action of magnetic and electric fields on cortical tissue.
+Significance
+Tissue geometry and heterogeneity in electrical conductivity both must be taken into account to predict accurately stimulation loci and mechanism in TMS.
+

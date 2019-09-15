@@ -1,0 +1,7 @@
+Background and Objective: Pseudomonas aeruginosa is an opportunistic pathogen that causes severe and lethal infections in immunocompromised individuals. This bacterium possesses a single polar flagellum. Flagellum and its subunit Flagellin play important roles in the pathogenesis of P. aeruginosa. Flagellin induces immune responses by interaction of its N-terminal domain with TLR-5. Our main aims of this study were cloning and expression of N-terminal domains of flagellin and evaluation of antibodies raised against it on motility inhibition of P. aeruginosa.
+Material and Methods: The DNA sequence coding for the first 161 amino acids of flagellin was PCR amplified and cloned into a pET-28a expression vector. Recombinant protein was over expressed in
+BL21(DE3), and purified by Ni-NTA resin. The immune reactivity of recombinant truncated flagellin was evaluated by Western blotting.  The recombinant protein was injected into a rabbit and antibodies raised against it were evaluated for the cell motility inhibition of P. aeruginosa 8821M. 
+Results: The N-terminal domain of Flagellin was successfully overexpressed in Escherichia coli 
+BL21(DE3) host strain. Anti-native and anti-N-terminal flagellin antibodies reacted with the recombinant protein. Motility inhibition assay demonstrated that polyclonal antiserum against N-teminal flagellin is able to inhibit the motility of P. aeruginosa 8821M. 
+Conclusion: The N-terminal domain of flagellin may be used for development of a new recombinant vaccine against P. aeruginosa infections.
+

@@ -1,0 +1,10 @@
+In the last two decades there has been an increased awareness of the contamination of groundwater due to the presence of denserthan-
+water nonaqueous phase liquids (DNAPLs). Numerous theoretical, experimental and numerical investigations have been
+conducted to study the various processes that impact aquifer contamination. These studies have provided us with greater insight into
+the individual processes and the complex nature of the problem. In spite of this progress, there still exists a need within the
+environmental community for a simple tool that will allow us to analyze a DNAPL contamination scenario from free-product
+release to transport of soluble constituents to downgradient receptor wells. Such a model may be useful in source term
+characterization for DNAPL releases to groundwater. The objective of this manuscript is to present the conceptual model and
+formulate the equations and modules which are utilized in this screening model. Three hypothetical releases are simulated and the
+results discussed to demonstrate the application and usefulness of this model. Due to its simplicity and ease of use, this screening
+model will be useful to industry, regulatory agencies and educators for estimating the impact of a DNAPL release on an aquifer.

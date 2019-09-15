@@ -1,0 +1,1 @@
+This paper presents a pulsatile blood flow simulator designed to reproduce physiological flow conditions and mechanical stresses. The main objective is to study the effect of flow on vascular prostheses and the efficiency of endothelialization techniques

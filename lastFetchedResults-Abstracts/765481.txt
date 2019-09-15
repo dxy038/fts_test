@@ -1,0 +1,14 @@
+It is the general premise of this paper that
+multi-scale modeling with multi-physics balance and constitutive
+representations of the thermal, electrochemical,
+mechanical, and chemical phenomena that make a fuel cell
+work is an essential foundation for design and manufacturing.
+It is further claimed that such modeling enables a
+systems-to-science engineering approach that will accelerate
+technology greatly, reduce cost, improve durability,
+and bring fuel cell systems to life in our society. It is the
+objective of this paper to identify and provide a few
+foundation stones of understanding for such an engineering
+foundation for fuel cell technology, especially that part of
+the foundation that relates to multi-scale modeling of
+materials.

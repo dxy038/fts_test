@@ -1,0 +1,18 @@
+Abstract — A social network is defined as a social structure
+of individuals, who are related (directly or indirectly to each
+other) based on a common relation of interest, e.g. friendship,
+trust, etc. Social network analysis is the study of social
+networks to understand their structure and behavior. The
+online social network field is broad, and any literature review
+can only focus on a selection of articles. The present article
+highlights recent research in the field and focuses on
+centrality, linkage strength, identity, trust, activity and
+benefits. By no means is this review comprehensive, but it
+should give practitioners some useful concepts to consider as
+they design social network based web applications. Thus the
+overall objective of the proposed survey is to come up with an
+aim to have the latest research and simultaneously discuss
+contributions of renowned researchers whose work created a
+revolution in the social networking area. The goal of the
+survey process is to produce new knowledge or deepen
+understanding of a same topic or an issue.

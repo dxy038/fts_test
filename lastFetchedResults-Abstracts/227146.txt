@@ -1,0 +1,9 @@
+A kind of new linear matrix inequality (LMI)-based formulation is presented for multiobjective
+H1/a-stability controller synthesis of linear time invariant (LTI) systems. New
+LMI-based conditions enable to parameterise controllers without involving the Lyapunov variables
+in the formulation. With this feature, multi-objective controllers can be designed, with noncommon
+Lyapunov variables and two additional adjustable scalars. Furthermore, to find the
+minimum possible cost, LMI-based conditions can be solved by the grid of the space which is composed
+of these scalars. When compared with previous results based on a common Lyapunov function,
+this provides less conservative results. Finally, two numerical examples are included to
+illustrate the effectiveness of the proposals.

@@ -1,0 +1,11 @@
+Objective
+We have previously reported on the ability of a mesenchymal stem cell–based serum-free culture system to expand human cord blood (CB) hematopoietic stem cells along the myeloid pathway and simultaneously generate a CD7+CD34− population. In this study, we investigated the ability of the CD7+CD34− population to differentiate into natural killer and dendritic cells (DCs).
+Materials and Methods
+
+CB CD34+ cells were expanded over a mesenchymal stem cell layer in serum-free medium supplemented with stem cell factor, basic fibroblast growth factor, leukemia inhibitor factor, and Flt-3 ligand for 2 weeks. Cultured cells were harvested and CD7+CD34−Lin− cells sorted and plated for 2 additional weeks in either natural killer– or DC-inductive medium.
+Results
+
+Culture of CD34+ cells for the first 2 weeks in this system resulted in expansion of the stem cell pool and the myeloid component of the graft, and also produced a 58-fold increase in the CD7+CD34− cell population. When sorted CD7+CD34−Lin− cells were induced toward a natural killer cell phenotype, further expansion was observed during this time in culture, and differentiation was confirmed by cytotoxic activity and by flow cytometry, with cells displaying CD16 and CD56 in the absence of CD3. Generation of DC cells in culture was also verified by observing both the characteristic dendritic morphology and the dendritic phenotypes HLA-DRbrightCD123brightCD11c− and HLA-DRbrightCD11c+.
+Conclusion
+
+These results demonstrate the ability of an ex vivo culture system to drive expansion of human CB hematopoietic stem cells, while promoting the immune maturation of the graft and generation of DC and natural killer cells that could then be utilized for adoptive cancer cellular immunotherapy.

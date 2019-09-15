@@ -1,0 +1,11 @@
+Objective.
+The aim of this study was to characterize the linear polymerization shrinkage strain of glass fiber-reinforced composite (FRC) according to the fiber orientation.
+Methods.
+
+Test specimens (n=5) (10.0×10.0×1.5 mm) were prepared from different brands of photopolymerizable resin-preimpregnated FRC; unidirectional continuous FRC, experimental random-oriented FRC, and bidirectional continuous FRC. As control materials, particulate filler composite resin and unfilled dimethacrylate monomer resin were used. Two uniaxial strain gages (gage length 2 mm) were used to measure shrinkage strains in two directions: longitudinally and transversally to the fiber direction. The uncured composite or resin was placed on top of the strain gages, covered with a separating sheet and a glass plate, and irradiated for 40 s with a light-curing unit. The shrinkage strain was monitored for 300 s. ANOVA and Tukey's posthoc test were used at a significance level of 0.05.
+Results.
+
+ANOVA revealed that orientation of fiber and brand of material had a significant effect (P<0.05) on shrinkage strain. The unidirectional FRC revealed no shrinkage longitudinally to the fiber direction, whereas the shrinkage occurred transversally to the fiber direction. Particulate filler composite resin and unfilled resin revealed equal shrinkage strain in both of the measured directions.
+Significance.
+
+Anisotropic nature of FRC exists with regard to polymerization shrinkage strain. The variation of polymerization shrinkage strains of FRC compared to those of particulate filler composites and unfilled resin might be important for future clinical applications.

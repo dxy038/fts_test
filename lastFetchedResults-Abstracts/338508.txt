@@ -1,0 +1,11 @@
+Objective
+The prolactin (PRL) receptor (PRLR) utilizes the JAK2/STAT-5 pathway and induces expression of cytokine-inducible SH2 (CIS)/JAK2 binding (JAB) signaling inhibitors. We and others recently showed that CIS-3 and JAB abolish PRLR-mediated JAK2 activation and STAT-5 activity, whereas CIS-1, CIS-2, and CIS-4 had a negligible effect. Human CD34+ hematopoietic progenitors express PRLRs and respond to PRL in vitro by enhanced cytokine-induced colony formation. To assess the signaling mechanism(s) involved in PRL-mediated enhancement of hematopoiesis and to identify further the CIS/JAB targets for PRL-mediated cellular responses, we assayed the effect of PRL, alone or in the presence of interleukin-3 (IL-3), on activation of STAT-5 and expression of CIS/JAB RNA in human cord blood (CB) CD34+ cells.
+Materials and Methods
+
+Isolated CB CD34+ cells were incubated in serum-free cultures in the absence or presence of recombinant human (rh)PRL, rhIL-3, or both. Cell lysates were subjected to Western blot analysis with anti–STAT-5 and anti-phospho–STAT-5 antibodies. Isolated RNA was subjected to semiquantitative reverse transcriptase polymerase chain reaction analysis of CIS/JAB expression.
+Results
+
+STAT-5 tyrosine phosphorylation was similarly induced by PRL and IL-3, with an additive effect detected in the presence of both stimuli. Both PRL and IL-3, alone or combined, failed to induce CIS-3 or JAB RNA expression in CD34+ cells. Interferon-γ had no effect on CIS-3/JAB induction in these cells. However, CIS-1 was induced by PRL < IL-3 < PRL+IL-3, whereas CIS-2 expression was induced by PRL = IL-3 < PRL+IL-3.
+Conclusions
+
+Our findings show that PRL induces activation of STAT-5 and expression of similar CIS/JAB family members as IL-3 does in human CB CD34+ cells. Because CIS-1 abolishes STAT-5 activation via the IL-3 but not the PRL receptor, the hematopoietic growth-promoting effects of PRL may involve its capacity to provide sustained STAT-5–mediated stimulatory signals to the cells.

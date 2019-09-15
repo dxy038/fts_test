@@ -1,0 +1,19 @@
+A considerable amount of attention has been paid
+lately to a number of data hiding methods based in quantization,
+seeking to achieve in practice the results predicted by Costa
+for a channel with side information at the encoder. With the
+objective of filling a gap in the literature, this paper supplies a
+fair comparison between significant representatives of both this
+family of methods and the former spread-spectrum approaches
+that make use of near-optimal ML decoding; the comparison is
+based on measuring their probabilities of decoding error in the
+presence of channel distortions. Accurate analytical expressions
+and tight bounds for the probability of decoding error are given
+and validated by means of Monte Carlo simulations. For dithered
+modulation (DM), a novel technique that allows us to obtain
+tighter bounds to the probability of error is presented. Within
+the new framework, the strong points and weaknesses of both
+methods are distinctly displayed. This comparative study allows
+us to propose a new technique named “quantized projection”
+(QP), which, by adequately combining elements of those previous
+approaches, produces gains in performance.

@@ -1,0 +1,14 @@
+A three-dimensional numerical model is presented for three-phase ßow (moisture, air, and heat) in a deformable
+partly saturated soil with deformation calculated via a non-linear elastic theory. The present work is an
+extension of a two-dimensional analysis presented by Thomas and He.1 The objective of this work is the
+solution of problems of greater geometric complexity. The mathematical formulation of this coupled
+problem consists of four governing equations, developed from the principles of mass and energy conservations
+as well as the stress equilibrium equation. DarcyÕs ßow law is used to describe the motion of liquid and
+air in the porous medium, and a Philip and de Vries type vapour ßow approach is employed in the
+formulation. A Galerkin Þnite element method coupled with a Þnite di¤erence recurrence relationship is
+used to obtain simultaneous solutions to the governing equations where pore liquid, pore air pressures,
+temperature and displacements are the primary variables. The method allows the non-linear nature of the
+soil parameters to be modelled. Three-dimensional 20-noded isoparametric elements are used to simulate
+di¤erent types of cases for the veriÞcation of the work. Results are presented of the application of the new
+model to four problems, two of which are isothermal and two heating simulations. The three-dimensional
+nature of the results achieved is highlighted. Copyright

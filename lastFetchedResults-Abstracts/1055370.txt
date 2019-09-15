@@ -1,0 +1,6 @@
+A characteristic of data envelopment analysis (DEA) is to allow individual decision making
+units (DMUs) to select the most advantageous weights in calculating their efficiency scores.
+This flexibility, on the other hand, deters the comparison among DMUs on a common base. For
+dealing with this difficulty and assessing all the DMUs on the same scale, this paper proposes
+using a multiple objective linear programming (MOLP) approach for generating a common set
+of weights in the DEA framework.

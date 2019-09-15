@@ -1,0 +1,9 @@
+The quality level of a resistance spot welding (RSW) joint of 304 austenitic stainless steel (ASS) is estimated from its tensile shear load bearing capacity (TSLBC). The quality levels are set by ultrasonic nondestructive testing.
+
+The objective of the present work is to develop a tool capable of reliably predicting the TSLBC (and consequently the quality level) of RSW joints from three welding parameters: (1) welding time (WT); (2) welding current (WC); (3) electrode force (EF).
+
+Firstly, a linear regression model is attempted but the residuals analysis reveals nonlinear behaviour.
+
+An artificial neural network (ANN) is proposed because the ANNs are capable of mapping nonlinear systems. The inputs are 3-component vectors, a component for each of the aforementioned welding parameters. The training of the ANN uses supervised learning mechanism. Therefore each input must come with its respective desired output (target). This target is the TSLBC of the RSW joint obtained with the respective input. The number of neurons in the hidden layers is selected considering the overfitting phenomenon: the number of neurons in the hidden layers that minimizes the validation mean square error (MSE) is 4.
+
+With the selected ANN, 3–4–4–1, the aim of the present study is achieved because this ANN produces good results in prediction from inputs nonused in the training.

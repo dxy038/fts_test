@@ -1,0 +1,11 @@
+Objective
+Recent work has attempted to clarify the energetics of physiological responding and behaviour by refining and separating the operational definitions of “arousal” and “activation”, which have different effects on physiological responding and behaviour. At the EEG level, we relate the former to widespread activity, and the latter to task-specific topographically-focussed activity reflecting regional processing. This study aimed to investigate this further in terms of differences in EEG activity between eyes-closed and eyes-open resting conditions.
+Methods
+EEG activity was recorded from 28 university students during both eyes-closed and eyes-open resting conditions, Fourier transformed to provide estimates for absolute power in the delta, theta, alpha and beta bands, and analysed in 9 regions across the scalp. Skin conductance level was also measured as an indicator of arousal level.
+Results
+Across the eyes-closed conditions, skin conductance levels were negatively correlated with mean alpha levels. Skin conductance levels increased significantly from eyes-closed to eyes-open conditions. Reductions were found in across-scalp mean absolute delta, theta, alpha and beta from the eyes-closed to eyes-open condition. Topographic changes were also evident in all bands except for alpha, with reduced lateral frontal delta and posterior theta, and decreased posterior/increased frontal beta in the eyes-open condition. In particular, the topographic beta effects indicate that the across-scalp reduction arose from focal reductions rather than global changes.
+Conclusions
+The obtained results confirm the use of mean alpha level as a measure of resting-state arousal under eyes-closed and eyes-open conditions. The focal nature of EEG effects in the other bands suggests that these reflect cortical processing of visual input, producing differences in activation between eyes-closed and eyes-open resting conditions, rather than just the simple increase in arousal level shown in alpha.
+Significance
+This study demonstrates that the eyes-closed and eyes-open conditions provide EEG measures differing in topography as well as power levels. These differences should be recognised when evaluating EEG research, and considered when choosing eyes-open or eyes-closed baseline conditions for different paradigms
+

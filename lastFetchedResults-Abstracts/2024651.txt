@@ -1,0 +1,15 @@
+Abstract - Wireless Sensor Networks (WSNs) face
+unavoidable challenges in the areas of maintaining
+connectivity, network lifetime and energy efficiency in
+its implementation. Recently, several WSN
+architectures based on mobile elements (MEs) have
+been proposed which can beleveraged to overcome
+these problems. Mobility of the mobile elements is
+controlled by the protocols & algorithms. We surveyed
+on different aspect data collection algorithms for
+WSNs such as Partitioning Based Scheduling (PBS)
+algorithm, Multihop Route to Mobile Element(MRME)
+algorithm, etc. and found the method scheduler of
+mobile element in WSNs for data collection. Wehave
+highlighted their objective, feature, complexity in this
+paper.

@@ -1,0 +1,11 @@
+The objective of this work is to predict the fatigue lifetime (TVF) of the Portuguese Air Force (PoAF) Epsilon aircraft based on the computational fatigue crack growth modelling.
+
+ectra of loads were used in experimental tests of two specimen series (designed to simulate in the laboratory the critical area of the aircraft) to assess experimentally the difference between the PoAF and manufacture spectra.
+
+er to predict the TVF by a generic spectrum was computationally implemented a methodology for automatic crack propagation. Through the development of a interface between ANSYS and MATLAB was possible to determine the stress intensity factors and hence the geometric factor for the specimen geometry which was designed by PoAF in previous works. The stress intensity factors were validated with the methods available in the literature: Pickard, Pommier and Newman.
+
+ectra of charges and the geometric factor allowed the computer implementation of the following propagation laws: Paris, NASGRO, Walker, Forman and Wheeler.
+
+y, it was established for the PoAF operation the new inspections plans according to the manufacturer methodology by making an extrapolation of real scale test results obtained with the manufacturer spectrum.
+
+ end of the article the authors concluded that the TVF of Epsilon aircraft is 24,500 flight hours (FH), the first inspection should be done when the aircraft reaches 10,000 FH and the flowing inspections should be done with a periodicity of 3000 FH until the crack reaches a critical dimension of 1.5 mm.

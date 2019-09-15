@@ -1,0 +1,11 @@
+Objective
+A new clinical seizure waning system for intracerebral EEG is proposed. It is aimed at a better performance than existing systems and at user tuneability.
+Methods
+The system employs data filtering in multiple bands, spectral feature extraction, Bayes' theorem, and spatio-temporal analysis. The a priori information in Bayes' theorem was provided by 407 h of EEG from 19 patients having 152 seizures.
+Results
+The testing data (19 patients, 389 h, 100 seizures, independent of the training data) yielded a sensitivity of 89.4%, a false detection rate of 0.22/h, and median delay time of 17.1 s when tuning was used, and 86%, 0.47/h and 16.2 s without tuning. Missed seizures were of short duration or had subtle seizure activity. False detections were caused by technical artefacts, non-epileptic large amplitude rhythmic bursts or very low amplitude activity. It was established that performance could easily be tuned. Results were also compared to the clinical system of Gotman (1990).
+Conclusions
+The system offers a performance that is acceptable for clinical use. User tuneability allows for reduction in false detection with minimal loss to sensitivity.
+Significance
+Epilepsy monitoring generates large amounts of recordings and requires intense observation. Automatic seizure detection and warning systems reduce review time and facilitate observation. We propose a method with high sensitivity and few false alarms.
+

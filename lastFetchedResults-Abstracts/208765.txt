@@ -1,0 +1,20 @@
+Over the last decade, evolutionary and meta-heuristic algorithms have been extensively
+used as search and optimization tools in various problem domains, including science, commerce,
+and engineering. Ease of use and broad applicability may be considered as the primary reasons for
+their success. The honey-bee mating process has been considered as a typical swarm-based
+approach to optimization. in which the search algorithm is inspired by the process of real honey-bee
+mating. In this paper, the honey-bee mating optimization (HBMO) algorithm is applied to three
+well-known mathematical problems. To demonstrate the efficiency of the algorithm, these three
+problems are chosen from well-known constraint and unconstraint mathematical problems with
+continuous decision and state variables having all the complexities of optimization problems. The
+proposed HBMO algorithm results in a feasible, near-optimal solution in an acceptable number of
+mating flights. To emphasize the capability of the developed algorithm in handling these problems.
+results are compared with those of a well-developed genetic algorithm (GA). Although the HBMO
+algorithm is at the early stages of development the results obtained by the present algorithm are if
+not better but surly equally convenient to those employing genetic algorithms. A real-world water
+resources problem, in the field of water resources management is selected as a case study. The
+developed model is applied to a reservoir with 60 operational periods with the objective function of
+minimizing the root mean square error of release and demand. The results show that in this problem
+the algorithm arrives at the global optimum which is gained by non-linear programming.
+The results are promising and the algorithm arrives at the global optimum which is gained by nonIinear
+programming.

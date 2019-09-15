@@ -1,0 +1,1 @@
+A new segment quantization method using the Lempel-Ziv algorithm is proposed, and it is applied to quantize line spectral frequency parameters in speech codec. The proposed segment quantizer can save four bits per frame, compared with the ITU-T G.729 speech codec (18 bits/frame), without degradation of subjective or objective speech quality

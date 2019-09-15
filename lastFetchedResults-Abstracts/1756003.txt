@@ -1,0 +1,8 @@
+Objective
+estigate the association between mood and anxiety disorders and vascular diseases after controlling for vascular disease risk factors.
+s
+a nationally representative sample of adults (N=5692) from the National Comorbidity Survey-Replication (NCS-R), participants with mood disorders were hierarchically classified as having any lifetime history of mania, hypomania, or major depression. Anxiety disorders were also assessed. The reference group consisted of those without mental disorders. Vascular disease was determined by self-reported history of heart disease, heart attack, or stroke on the NCS-R survey. Vascular risk factors included diabetes, high blood pressure, and obesity.
+s
+tivariate logistic regression models that controlled for obesity, high blood pressure, smoking and diabetes, vascular disease was associated with bipolar disorder in women [odds ratio (OR) 2.80, 95% confidence interval (CI) 1.63–4.80], and major depressive disorder in men (OR 1.85, 95% CI 1.17–2.92). Controlling for anxiety disorders reduced the associations in both men and women, and in fact, anxiety disorders were more strongly associated with vascular diseases in men, whereas bipolar disorder continued to be an important correlate of vascular disease in women.
+sion
+findings demonstrate the importance of evaluation of sex differences, mood disorder subtype and co-occurring anxiety disorders in assessing the association between mood disorders and vascular diseases. Future research should investigate potential biologic mechanisms for these associations in order to define potential targets for intervention.

@@ -1,0 +1,11 @@
+Objective
+Nonmyeloablative conditioning regimens for marrow transplantation are desirable in many settings. Because repeated doses of the antimetabolite 5-fluorouracil (5-FU) decreases marrow long-term repopulating ability (LTRA) upon transplantation into lethally irradiated hosts, we hypothesized that mice given sequential doses of 5-FU (termed paired dose 5-FU) may permit substantial syngeneic marrow engraftment.
+Methods
+
+C57Bl/6 or X-linked chronic granulomatous disease (X-CGD) mice were administered 5-FU (150 mg/kg) on days -5 and -1. Assessment of host marrow phenotype and repopulating ability occurred on day 0. Transplantation of syngeneic donor marrow occurred on day 0 or day +15.
+Results
+
+We confirmed that the number of Sca-1+lin− cells and the LTRA of marrow from paired dose 5-FU–treated animals were diminished. C57Bl/6 hosts conditioned with paired doses of 5-FU followed by transplantation of 20 × 106 fresh B6.SJL marrow cells on day 0 displayed 44.9% ± 7.1% donor chimerism 2 months posttransplant, and 34.4% ± 8.6% donor chimerism 6 months posttransplant. In contrast, paired dose 5-FU–conditioned hosts transplanted with similar numbers of donor cells on day +15 exhibited only 3.4% ± 1.2% donor chimerism at 2 months. Paired dose 5-FU–conditioned X-CGD hosts transplanted with MSCV-m91Neo-transduced X-CGD marrow averaged 6.6% ± 2.3% (range, 4%–10%) NADPH oxidase-reconstituted neutrophils 12–16 months after transplant.
+Conclusion
+
+These findings support the concept that impairment of host stem cell competitiveness may be an important mechanism for permitting engraftment of donor cells, and suggest that only a brief period of modest host stem cell impairment may be necessary to achieve substantial donor cell engraftment.

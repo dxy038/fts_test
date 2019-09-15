@@ -1,0 +1,4 @@
+The optimal locations for a given number offluid viscous dampers (FVDs) in a 3-D 10-storey model shear building, with or without eccentricities are investigated. A general approach for finding optimal placement of supplemental dampers in structural systems with arbitrary degree ofcomplexity in configuration has been proposed To seek the optimal location of dampers, a linear combination of maximum inter-storey drift and maximum base shear of the damped structure normalised by their respective undamped counterparts has been taken as the objective function. The effect of soil-structure interaction on maximum response reduction and also on the optimal placement ofdampers is studiedfor various degrees ofsoil compliance.
+It isfound that the supplemental dampers are more effective in reducing
+the seismic response of a symmetric building and its effectiveness
+reduces as either plan irregularity, or soil compliance increases.

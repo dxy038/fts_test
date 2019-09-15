@@ -1,0 +1,7 @@
+Objective: The demand structure for five commodity groups including foods and drinks, clothing, housing, health and recreation, and educational services was analyzed based 011 the time series data of the household consumption expenditures during period 1966-2007.
+
+Method: A linear approximation of almost ideal demand system (LA/AIDS) was estimated by SURE method in order to obtain demand function and elasticity. Finding: Income elasticity for all the groups were positive and more than one excepted for educational services. Furthermore, all of the own-price elasticities were negative and theoretically consistent.
+
+Conclusion: Cross price elasticities estimates indicated that health and educational services are substitutes for foods but housing and clothing are complement for it.
+
+

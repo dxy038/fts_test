@@ -1,0 +1,1 @@
+In this paper, we report on two experiments on identification and extraction of Date of Birth instances. The objective of these experiments is to increase the recall level by increasing the edit distance while obtaining a reasonable precision.

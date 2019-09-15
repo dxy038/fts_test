@@ -1,0 +1,11 @@
+Objective
+To identify relationships between body mass index (BMI) and stressful life events and to determine whether relationships differ by gender.
+Method
+
+Logistic regression was used to examine effects of BMI and gender on the likelihood of experiencing 12 stressful life events in the past year in a sample of 41,217 adults, including 23,058 women (55.9%) and 18,159 men (44.1%). Data were collected in the United States between 2001–2002. Analyses controlled for demographics and lifetime and past-year psychiatric disorders.
+Results
+
+Compared to normal weight (BMI = 18.5–24.9) women, overweight (BMI = 25.0–29.9), obese (BMI = 30.0–39.9), and extremely obese (BMI > 40.0) women experienced more stressful life events. Among men, underweight (BMI < 18.5) was associated with fewer, and obesity and extreme obesity with more, stressful events. Overweight, obesity, and extreme obesity were associated with increased odds of several specific stressful life events, with odds ratios ranging from 1.19 to 3.26. Some relationships differed by gender.
+Conclusions
+
+Overweight women experience more stressful life events than normal weight women. Obese and extremely obese individuals of both genders are more likely to report several specific stressful life events and more stressful life events overall in the past year compared to normal weight individuals.

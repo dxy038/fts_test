@@ -1,0 +1,1 @@
+The objective of this paper is to introduce the basic elements utilized in the design of asynchronous circuits. CMOS designs are implemented. The performance of these elements is evaluated using SPICE simulator. FIFO pipelined structure was implemented utilizing self-timed asynchronous elements

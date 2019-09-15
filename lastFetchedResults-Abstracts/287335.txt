@@ -1,0 +1,11 @@
+Purpose
+Malnutrition is a strong predictor of morbidity and mortality in advanced cancer. Accurate assessment of malnutrition is a challenge in these patients. Bioelectrical impedance analysis (BIA) is a safe, simple, noninvasive and objective technique that is increasingly being used to evaluate nutritional status and changes in body composition in cancer patients. BIA measures resistance and reactance to the flow of a constant alternating electric current through a living organism, which in turn is used to calculate phase angle, a measure of cellular health and integrity. The purpose of this study was to investigate the relationship between BIA-derived phase angle and commonly used indicators of nutritional status.
+Methods
+
+A case series of 81 histologically confirmed stage III–IV colorectal cancer patients treated at Cancer Treatment Centers of America at Midwestern Regional Medical Center between January 2000 and March 2003 were included in the study. The correlations between phase angle and serum albumin, prealbumin, transferrin, and subjective global assessment (SGA) were studied using Spearman's correlation coefficient, due to the nonnormal distributions of these variables.
+Results
+
+We found a modest positive correlation between phase angle and albumin (r = 0.29; P = 0.01); the higher the phase angle, the greater the albumin levels and better the nutritional status. As expected, we also found a modest negative correlation between phase angle and SGA score (r = −0.29; P = 0.01); the higher the phase angle, the lower the SGA scores, suggesting better nourishment. No statistically significant correlations were found between phase angle and prealbumin (r = 0.06; P = 0.61) and transferrin (r = 0.17; P = 0.15).
+Conclusion
+
+Our study demonstrates that BIA-derived phase angle may be a useful nutritional indicator in advanced colorectal cancer.

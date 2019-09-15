@@ -1,0 +1,26 @@
+Objective: Treatment and repair of neurodegenerative diseases such as brain tumors,
+spinal cord injuries, and functional disorders, including Alzheimer’s disease, are challenging
+problems. A common treatment approach for such disorders involves the use of
+mesenchymal stem cells (MSCs) as an alternative cell source to replace injured cells.
+However, use of these cells in hosts may potentially cause adverse outcomes such as tumorigenesis
+and uncontrolled differentiation. In attempt to generate mesenchymal derived
+neural cells, we have infected MSCs with recombinant lentiviruses that expressed nerve
+growth factor (NGF) and assessed their neural lineage genes.
+Materials and Methods: In this experimental study, we cloned the NGF gene sequence
+into a helper dependent lentiviral vector that contained the green fluorescent protein (GFP)
+gene. The recombinant vector was amplified in DH5 bacterial cells. Recombinant viruses
+were generated in the human embryonic kidney 293 (HEK-293) packaging cell line with
+the helper vectors and analyzed under fluorescent microscopy. Bone marrow mesenchymal
+cells were infected by recombinant viruses for three days followed by assessment of
+neural differentiation. We evaluated expression of NGF through measurement of the NGF
+protein in culture medium by ELISA; neural specific genes were quantified by real-time
+polymerase chain reaction (PCR).
+Results: We observed neural morphological changes after three days. Quantitative PCR
+showed that expressions of NESTIN, glial derived neurotrophic factor (GDNF), glial fibrillary
+acidic protein (GFAP) and Microtubule-associated protein 2 (MAP2) genes increased
+following induction of NGF overexpression, whereas expressions of endogenous NGF
+and brain derived neural growth factor (BDNF) genes reduced.
+Conclusion: Ectopic expression of NGF can induce neurogenesis in MSCs. Direct injection
+of MSCs may cause tumorigenesis and an undesirable outcome. Therefore an
+alternative choice to overcome this obstacle may be the utilization of differentiated neural
+stem cells.

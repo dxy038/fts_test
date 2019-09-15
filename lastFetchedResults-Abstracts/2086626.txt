@@ -1,0 +1,5 @@
+The Stobbs factor problem, a major difference of absolute contrast between experimental and simulated high resolution transmission electron microscopy images has been reported frequently. In this respect, some modifications to the multislice simulation techniques were proposed to improve the correspondence to the experiment.
+
+fluence of different suggestions on the simulated contrast is investigated by numerical simulations. The agreement between experiment and simulations is then checked by comparison with high-resolution micrographs of crystalline gold. The experimental data is therefore compared to simulated intensities computed for the thickness and orientation of the specimen measured by refinements of diffraction patterns. The agreement of both intensity and contrast is investigated and the remaining contrast discrepancy is determined.
+
+sults show a good agreement for a small objective aperture, while for a larger aperture a difference of contrast by a factor of 1.2 can still be observed. Without any aperture, the deviation between experiment and simulations is largest.

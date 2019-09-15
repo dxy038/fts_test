@@ -1,0 +1,11 @@
+Objective
+We investigated the role of CCAAT enhancer-binding protein-α (C/EBPα) during zebrafish embryonic blood development.
+Methods
+
+Whole-mount mRNA in situ hybridization was performed to determine the spatio-temporal expression pattern of zebrafish cebpa in developing hematopoietic progenitors. A deletion mutation of cebpa (zD420), which mimics the human dominant-negative mutations of C/EBPα, was transfected into CV1 cell line to evaluate its transcriptional activity in vitro and injected into zebrafish embryos at the one- to two-cell stage to examine its effects on primitive hematopoiesis during early zebrafish development.
+Results
+
+Zebrafish cebpa is expressed in the anterior and posterior lateral plate mesoderm at 12 hours postfertilization, along with scl, pu.1, and gata1 in developing hematopoietic progenitors. In vitro, the deletion mutation of cebpa (zD420) prevents expression of the full-length protein, allowing the expression of truncated isoforms from internal translational initiation sites. As in the human, the truncated zebrafish C/EBPα proteins did not activate the expression of known target granulocytic genes, and in fact suppressed transactivation that was induced in vitro by the full-length protein. Forced expression of the zD420 mRNA in zebrafish embryos led to an expansion of primitive erythropoiesis, without a discernible effect on granulopoiesis.
+Conclusion
+
+Expression of the truncated isoforms of cebpa alters the developmental pattern of hematopoietic progenitor cells during embryogenesis.

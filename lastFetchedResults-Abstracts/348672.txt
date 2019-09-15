@@ -1,0 +1,11 @@
+Objective
+To investigate the changes in nodal persistent Na+ currents in human neuropathy and motor neuron disease. In human motor axons, approximately 1.0% of total Na+ channels are active at rest, termed “persistent” Na+ channels, and the conductance can be non-invasively estimated by the technique of latent addition in vivo.
+Methods
+Latent addition was performed in median motor axons of 93 patients with axonal neuropathy (n = 38), lower motor neuron disorder (LMND; n = 19) or amyotrophic lateral sclerosis (ALS; n = 36) and in 27 age-matched normal subjects. Brief hyperpolarizing conditioning current pulses were delivered, and threshold change at the conditioning-test interval of 0.2 ms was measured as an estimator of the magnitude of persistent Na+ currents. Threshold electrotonus and supernormality were also measured as indicators of resting membrane potential.
+Results
+Threshold changes at 0.2 ms were significantly greater in patients with neuropathy or LMND (p < 0.05), and tended to be greater in ALS patients (p = 0.075) than in normal controls. Threshold electrotonus and supernormality did not differ in each patient group and normal controls, suggesting that membrane potential is not altered in patients. In the recovery phase of axonal neuropathy, the threshold changes increased in parallel with an increase in amplitudes of compound muscle action potential.
+Conclusions
+Persistent Na+ currents appear to increase commonly in disorders involving lower motor neurons, possibly associated with axonal regeneration or collateral sprouting or changes in Na+ channel gating.
+Significance
+The increased axonal excitability could partly be responsible for positive motor symptoms such as muscle cramping frequently seen in lower motor neuron disorders.
+

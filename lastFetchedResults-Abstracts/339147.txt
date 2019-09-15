@@ -1,0 +1,11 @@
+Objective
+For recipients of haploidentically mismatched stem cell allografts, T-cell depletion is mandatory to prevent lethal graft-vs-host disease (GVHD). Prevention of GVHD can be accomplished by negative selection of T cells or positive selection of stem cells. Recently, a new method for positive selection of stem cells was introduced using monoclonal antibodies against CD133 antigen. We report five cases of successful application of immunomagnetic separation of CD133+ stem cells for haploidentically mismatched allogeneic stem cell transplantation.
+Methods
+
+Five patients with high-risk hematological malignancies, ages 7 to 63 years old (median, 17 years), underwent peripheral blood stem cell transplantation from haploidentically mismatched related donors. Conditioning protocol was tailored according to patient clinical situation and included combination of treosulfan/fludarabine/thiotepa/melphalan/Mabcampath. Two patients did not get thiotepa. One of them received a protocol that included infusion of 4.4 × 107 blood mononuclear cells from the donor (day −9), followed by a combination of fludarabine/cyclophosphamide/busulfex/MabCampath. Separation of CD133+ stem cells was done using CliniMACS with Miltenyi's CD133 reagent.
+Results
+
+The procedure was well tolerated by all patients. Early 3-lineage engraftment was documented and none exhibited immune-mediated rejection. Time to recovery of absolute neutrophils count above 0.5 × 109/L and 1.0 × 109/L was 10 to 15 days (median, 14) and 11 to 29 days (median, 15), respectively. Time for platelet recovery to values greater than 20 × 109/L and greater than 50 × 109/L ranged from 12 to 25 days (median, 13.5), and from 14 to 34 days (median, 16), respectively. Transplant-related mortality did not occur in any of the patients.
+Conclusion
+
+Our successful pilot trial suggests that positive selection of CD133+ stem cells may be a useful method for safe transplantation with haploidentically mismatched stem cell allografts while avoiding lethal acute and chronic GVHD. Future studies will be required to assess the clinical benefits of stem cell purification with CD133+ in comparison with CD34+ stem cells.

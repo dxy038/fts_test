@@ -1,0 +1,11 @@
+Objective
+This study was undertaken to define the pattern of cell adhesion receptor expression by the CD34+ progenitor cells from mobilized peripheral blood and bone marrow from normal and autologous donors, and to correlate the adhesion receptor profile with time to blood cell recovery for patients undergoing autologous transplant.
+Methods
+
+Blood cell recovery was determined by absolute neutrophil count (>500/μL), time to last red cell transfusion, and platelet count (>50,000/μL and >100,000/μL). The analysis for expression of adhesion receptors αL (CD11a), α2 (CD49b), α3 (CD49c), α4 (CD49d), α5 (CD49e), α6 (CD49f), β1 (CD29), L-selectin (CD62L), ICAM-1 (CD54), PECAM-1 (CD31), HCAM (CD44), and P-selectin (CD62P) was performed by two-color flow cytometry. The Kruskal-Wallis test and Spearman's rank correlation were used for statistical analysis.
+Results
+
+Statistical analysis of adhesion expression by the CD34+ population for patients undergoing autologous transplant demonstrated that the higher percent expression of PECAM-1 correlated with longer time to platelet recovery (>100,000/μL, p = 0.049). In contrast, the higher the percent expression of α6 (p = 0.013) and the increased density of expression of α2 (p = 0.035), α3 (p = 0.023), α4 (p = 0.044), β1 (p = 0.027), and ICAM-1 (p = 0.010) correlated with shorter time to platelet recovery. Neutrophil recovery time decreased with increased density of expression of αL (p = 0.014) and P-selectin (p = 0.007) receptors. Increased density of expression of CD44 (HCAM) was associated with longer time to red blood cell recovery (p = 0.05).
+Conclusion
+
+These data suggest that upregulation of specific adhesion receptors or selection of certain cell populations could result in earlier blood cell recovery after transplant.

@@ -1,0 +1,11 @@
+Objective
+Eukaryotic cell division is regulated by cyclins, cyclin-dependent kinases (CDK), and cyclin-dependent kinase inhibitors (CKI). Genes encoding these proteins are mutated or deleted in many types of cancer. For example, 20%–30% of B-lineage acute lymphoblastic leukemias (ALL) have deletions in the CKI known as INK4a. The contribution of INK4a deletions to the progression of B-lineage ALL is uncertain, partially due to a paucity of data on expression in normal B-cell precursors. We therefore conducted a comparative analysis of normal and leukemic human B-cell development for the expression of cyclins, CDK, and CKI.
+Materials and Methods
+
+Specific stages of human B-cell development from normal bone marrow were purified by fluorescence-activated cell sorting. The sorted populations and B-lineage ALL cell lines (BLIN-1, 2, 3, 4) were examined for expression of cyclins, CDK, and CKI by reverse transcriptase polymerase chain reaction (RT-PCR) and Western blotting.
+Results
+
+RT-PCR analysis showed that cyclin D2, cyclin D3, CDK4, and CDK6 were ubiquitously expressed in normal B-cell development and in the BLIN ALL cell lines. The p19INK4d CKI was the most commonly expressed member of the INK4 family, whereas p16INK4a was more weakly and variably expressed. Expression of the p57KIP2 CKI varied as a function of the stage of B-cell development. Analysis of normal B-cell precursors by Western blotting indicated that CDK4, CDK6, p19INK4d, and p57KIP2 were expressed, whereas p16INK4a was not detected.
+Conclusion
+
+Cyclin D/CDK expression in normal and leukemic human B-cell precursors is similar to expression of these proteins in human and murine mature B cells. In contrast, the ubiquitous expression of p19INK4d has not been previously described in human or murine B-lineage cells. Our results suggest that loss of INK4a may only minimally contribute to tumor cell progression in B-lineage ALL, since expression of INK4d could provide a compensatory function as a cyclin-dependent kinase inhibitor.

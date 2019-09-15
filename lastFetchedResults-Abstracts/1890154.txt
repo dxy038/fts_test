@@ -1,0 +1,19 @@
+Objective: There is constant difficulty in obtaining adequate supplies of blood components,
+as well as disappointing performance of "universal" red blood cells. Advances in
+somatic cell reprogramming of human-induced pluripotent stem cells (hiPSCs) have provided
+a valuable alternative source to differentiate into any desired cell type as a therapeutic
+promise to cure many human disease.
+Materials and Methods: In this experimental study, we examined the erythroid differentiation
+potential of normal Bombay hiPSCs (B-hiPSCs) and compared results
+to human embryonic stem cell (hESC) lines. Because of lacking ABO blood group
+expression in B-hiPSCs, it has been highlighted as a valuable source to produce any
+cell type in vitro.
+Results: Similar to hESC lines, hemangioblasts derived from B-hiPSCs expressed approximately
+9% KDR+CD31+ and approximately 5% CD31+CD34+. In semisolid media,
+iPSC and hESC-derived hemangioblast formed mixed type of hematopoietic colony. In
+mixed colonies, erythroid progenitors were capable to express CD71+GPA+HbF+ and accompanied
+by endothelial cells differentiation.
+Conclusion: Finally, iPS and ES cells have been directly induced to erythropoiesis without
+hemangioblast formation that produced CD71+HbF+erythroid cells. Although we observed
+some variations in the efficiency of hematopoietic differentiation between iPSC and ES cells,
+the pattern of differentiation was similar among all three tested lines.

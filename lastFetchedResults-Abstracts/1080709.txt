@@ -1,0 +1,3 @@
+The objective of this work is study of permeate flow variation through a membrane by measuring pressure and concentration of the oil-water emulsion. As a first approach, the tests were made without agitation.
+
+For the numerical approach, we developed the cubic finite element method coupled with the Rosenbrock method for the space and temporal discretization of the parabolic partial derivative equations. This method allowed us to solve our equations with boundary conditions of the Fourier type. We proposed and studied various models of permeate flow. The model adopted is that which takes account of the variation of viscosity with level of the polarization layer.

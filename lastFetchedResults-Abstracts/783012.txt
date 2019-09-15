@@ -1,0 +1,32 @@
+Background Mathematical models describing
+the epidemiology of major depression are potentially
+useful for epidemiological analyses, as decision
+support tools and in economic analyses.The objective of
+this project was to develop a Markov model based on
+epidemiological theory that may be useful for decision
+analysis and health services research. Methods Longitudinal
+data from a Canadian national survey, the National
+Population Health Survey (NPHS),were used.The NPHS
+has collected longitudinal data on a cohort of 17,262
+subjects since 1994. The analysis employed a Markov
+tunnel in order to model the dependence of recovery
+probabilities on episode duration. Results Episode incidence
+ranged between 6.2 % per year in women under 35
+to 0.26 % in men over the age of 65.A greater proportion
+of subjects over 35 years old reported episodes lasting
+more than 26 weeks. The probability of recovery declined
+with increasing episode duration, independently
+of sex.Under steady-state assumptions, a Markov model
+integrating these parameters predicted a point prevalence
+of approximately 2% in women and 1% in men
+under the age of 55. In older age groups, the predicted
+point prevalence declined in both sexes. Conclusions
+These models support the hypothesis that sex differences
+in major depression prevalence are due primarily
+to differences in incidence rather than episode length.
+These results also indicate that there is no meaningful
+“central tendency” describing the distribution of
+episode length in major depression episode. Estimates
+of mean episode duration represent an intermixing of
+frequent brief episodes with infrequent protracted
+episodes.This finding may have important policy implications.

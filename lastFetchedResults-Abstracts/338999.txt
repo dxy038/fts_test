@@ -1,0 +1,11 @@
+Objective
+In this paper, we report new observations related to the mechanism of the negative regulation of the important adult β-globin gene in the erythroid cells at the embryonic-fetal stage of their development. We focused on the role of the silencer II region located upstream of the β-globin gene, which along with its cognate binding protein BP1, negatively regulates β-globin transcription.
+Materials and methods
+
+We prepared plasmid constructs containing the wild-type silencer II sequence, a mutated silencer II sequence, or a mutated control sequence in the β-globin promoter 690-bp insert, which in turn was linked to an enhanced green fluorescent protein (EGFP) reporter gene. A human erythroleukemia cell line (K562) with embryonic-fetal phenotype was transfected with these EGFP constructs.
+Results
+
+Flow cytometry and fluorescence digital imaging showed about threefold increase in the β-globin promoter activity of the mutated silencer II construct. Introduction of a small interfering RNA (siRNA) complementary to BP1 into the cells caused a 75% decrease in BP1 expression and a simultaneous not, vert, similar40% elevation of β-globin promoter activity as well as an increase in β-globin mRNA levels, as compared with controls. We detected no changes in the mRNA levels of positive regulators of hemoglobin transcription such as EKLF and GATA-1.
+Conclusion
+
+Our results support the involvement of BP1 in the mechanism of the negative regulation of β-globin transcription. A better understanding of this mechanism may lay the groundwork for novel gene therapy approaches to inhibit the expression of abnormal structural variants of adult β globin, such as sickle hemoglobin.

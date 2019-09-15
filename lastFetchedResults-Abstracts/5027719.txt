@@ -1,0 +1,1 @@
+A rigid-link robot with a dynamic model that includes a bounded external disturbance is considered. The objective addressed is to find a control strategy that is simple to implement, easy to code for programming, and robust to possible time-varying uncertainties

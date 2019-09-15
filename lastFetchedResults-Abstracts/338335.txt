@@ -1,0 +1,11 @@
+Objective
+As stromal cell–derived factor-1 (SDF-1), macrophage inflammatory protein-1α (MIP-1α), and interleukin-8 (IL-8) are implicated in the homing and mobilization of human hematopoietic progenitors (HPC), we hypothesized that these chemokines mediate the migration of HPC across subendothelial basement membranes by regulating production of matrix metalloproteinases (MMPs) and their natural tissue inhibitors (TIMPs).
+Materials and Methods
+
+Assays for migration across reconstituted basement membrane (Matrigel) and chemotaxis were carried out using CD34+ cells derived from normal human bone marrow (BM) and mobilized peripheral blood (PB). Secretion of MMPs and TIMPs was evaluated by zymography and reverse zymography and gene expression by RT-PCR.
+Results
+
+We found that an SDF-1 gradient increases the chemotaxis of BM and PB CD34+ cells across Matrigel (BM > PB), which is blocked by inhibitors of MMPs (o-phenanthroline, rhTIMP-1, rhTIMP-2, and anti–MMP-9 and anti–MMP-2 antibodies) but enhanced by tumor necrosis factor-α (TNF-α), a strong stimulator of MMPs. Preincubation of these cells with SDF-1 stimulated the secretion of MMP-2 and MMP-9 in BM and PB CD34+ cells but of TIMP-1 and TIMP-2 only in PB CD34+ cells. Preincubation with MIP-1α and IL-8 also stimulated the secretion of MMP-9 and MMP-2 (BM > PB), but with respect to TIMPs, the effect was reversed (PB > BM), resulting in trans-Matrigel migration of BM but not of PB CD34+ cells.
+Conclusion
+
+We therefore propose that MMPs and TIMPs are involved in 1) SDF-1–induced chemotaxis of human HPC across subendothelial basement membranes, and 2) MIP-1α– and IL-8–stimulated migration of HPC.

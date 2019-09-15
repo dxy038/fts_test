@@ -1,0 +1,8 @@
+Objective
+ot test a tool to screen for adverse childhood experiences (ACE), and to explore the ability of this tool to distinguish early child outcomes among lower- and higher-risk children.
+s
+ross-sectional study used data collected of 102 children between the ages of 4 and 5 years presenting for well-child visits at an urban federally qualified health center. Logistic regression analyses adjusted for child sex, ethnicity, and birth weight were used to test the association between each dichotomized child outcome and risk exposure based on a 6-item (maltreatment suspected, domestic violence, substance use, mental illness, criminal behavior, single parent) and 7-item (plus maternal education) Child ACE tool.
+s
+ sizes were generally similar for the 6-item and 7-item Child ACE tools, with the exception of 2 subscales measuring development. The adjusted odds of behavior problems was higher for children with a higher compared to a lower 7-item Child ACE score (adjusted odds ratio [aOR] 3.12, 95% confidence interval [CI] 1.34–7.22), as was the odds of developmental delay (aOR 3.66, 95% CI 1.10–12.17), and injury visits (aOR 5.65, 95% CI 1.13–28.24), but lower for obesity (aOR 0.32, 95% CI 0.11–0.92).
+sions
+tools can be used to screen for ACE and identify specific early child outcomes associated with ACE. We suggest that follow-up studies test the incorporation of the 7-item Child ACE tool into practice and track rates of child behavior problems, developmental delays, and injuries.

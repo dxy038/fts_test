@@ -1,0 +1,12 @@
+Objective:
+ate and validate a model that predicts length of hospital unit stay.
+:
+t facto. Seventy-four independent admission variables in 15 general categories were utilized to predict possible stays of 1 to 20 days.
+g:
+tory.
+:
+s of patients discharged from a post-coronary care unit in early 1993.
+s:
+ificial neural network was trained on 629 records and tested on an additional 127 records of patients. The absolute disparity between the actual lengths of stays in the test records and the predictions of the network averaged 1.4 days per record, and the actual length of stay was predicted within 1 day 72% of the time.
+sions:
+tificial neural network demonstrated the capacity to utilize common patient admission characteristics to predict lengths of stay. This technology shows promise in aiding timely initiation of treatment and effective resource planning and cost control.

@@ -1,0 +1,11 @@
+This paper illustrates a methodology to create a multi-objective modelling system using Bayesian probability networks to emulate the behaviour
+of an environmental model that was originally intended for the purpose of analyzing a problem e non-point source pollution in our
+example. Modelling systems frequently pertain to a single domain (physical or chemical process modelling, hydrology or combinations) to simulate
+a process in nature such as pollution transport or the production of food or manufactured goods. Economic or other effects are treated
+separately, or handled in a non-interactive manner. Side-effects of agro-industrial processes, or gains/losses from production enterprises, are
+generally modelled separately without the ability to examine trade-offs or alternatives. Multi-objective modelling attempts to work in more
+than one problem domain through decision theoretical principles. Such treatments are designed to couple production and waste systems, to quantify
+the economic cost of remediation. This model will demonstrate such an application, from the data acquisition, model calibration to the hypothesis
+testing, for a non-point source pollution model. This will be combined with a simplified net revenue model based on crop rotations
+typically found in Southern Ontario, Canada, using realistic economic data obtained from agricultural operations similar to those found in
+this region. We will demonstrate that multi-year analyses are possible with such a system.

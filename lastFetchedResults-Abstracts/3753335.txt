@@ -1,0 +1,1 @@
+Generalized mean-squared error (GMSE) objective functions are proposed that can be used in neural networks to yield a Bayes optimal solution to a statistical decision problem characterized by a generic loss function

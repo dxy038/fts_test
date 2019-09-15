@@ -1,0 +1,1 @@
+The paper studies the modeling and optimization for the flight assignment plan for an air cargo inbound terminal. A multi-objective Mixed Integer Programming (MIP) model is formulated to determine this plan. A set of non-dominated solutions are obtained by solving this multi-objective model and they are further analyzed by a simulation model to identify the best one.

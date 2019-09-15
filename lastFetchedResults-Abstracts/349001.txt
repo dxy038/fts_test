@@ -1,0 +1,11 @@
+Objective
+Neonatal seizures are the most common central nervous system disorder in newborn infants. A system that could automatically detect the presence of seizures in neonates would be a significant advance facilitating timely medical intervention.
+Methods
+A novel method is proposed for the robust detection of neonatal seizures through the combination of simultaneously-recorded electroencephalogram (EEG) and electrocardiogram (ECG). A patient-specific and a patient-independent system are considered, employing statistical classifier models.
+Results
+Results for the signals combined are compared to results for each signal individually. For the patient-specific system, 617 of 633 (97.52%) expert-labelled seizures were correctly detected with a false detection rate of 13.18%. For the patient-independent system, 516 of 633 (81.44%) expert-labelled seizures were correctly detected with a false detection rate of 28.57%.
+Conclusions
+A novel algorithm for neonatal seizure detection is proposed. The combination of an ECG-based classifier system with a novel multi-channel EEG-based classifier system has led to improved seizure detection performance. The algorithm was evaluated using a large data-set containing ECG and multi-channel EEG of realistic duration and quality.
+Significance
+Analysis of simultaneously-recorded EEG and ECG represents a new approach in seizure detection research and the detection performance of the proposed system is a significant improvement on previous reported results for automated neonatal seizure detection.
+

@@ -1,0 +1,1 @@
+In this note, the neutron group fluxes are calculated through the implementation of the matrix form transport equation solution by the PN method and the main objective is to obtain accurate numerical results. Some results for two sample problems are graphically presented. A neutron flux to dose conversion is also proposed to simulate irradiation planning.

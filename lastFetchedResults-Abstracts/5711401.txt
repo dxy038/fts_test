@@ -1,0 +1,1 @@
+In this paper we propose a bidirectional logic gate. The advantages of this gate lie in the use of floating-gate, thus making the gate operate on voltage variations across capacitors. We show that by applying the reference signals as clock or control signals we are able to define the signal direction.

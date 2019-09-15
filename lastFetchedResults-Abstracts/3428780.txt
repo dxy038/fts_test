@@ -1,0 +1,1 @@
+This correspondence presents a new two-stage adaptive vector quantizer of LSF parameters in LPC speech coding. The first codebook is adapted by a partition-delete operation, whereas the code-vectors of the second codebook remain unchanged. The objective and subjective evaluations show that the proposed scheme offers transparent quantization with 22 b/frame

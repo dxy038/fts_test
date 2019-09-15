@@ -1,0 +1,7 @@
+Objective. STI571 is a tyrosine kinase inhibitor which inhibits the kinase activity of kit, the receptor for stem cell factor (SCF). Because activating mutations of c-kit affecting codon 816 are associated with human mast cell neoplasms, we determined whether STI571 exerted a similar cytotoxic effect on neoplastic and normal human mast cells.
+
+Methods. We investigated the effect of addition of STI571 in increasing concentrations (0.01 to 10 micromolar) to two HMC-1 human mast cell leukemia cell lines carrying two different activating c-kit mutations in codons 816 or 560, as well as the effect of the drug on short-term bone marrow cultures obtained from patients who carry a mutated codon 816 or wild-type c-kit.
+
+Results. STI571 failed to inhibit the growth of HMC-1560,816 cells bearing a codon 816 mutation but effectively suppressed the proliferation of HMC-1560 carrying c-kit with the wild-type codon 816. STI571 did not induce preferential killing of neoplastic bone marrow mast cells in short-term cultures from patients bearing a codon 816 c-kit mutation. In contrast, STI571 caused a dramatic reduction in mast cells in patients without codon 816 c-kit mutations.
+
+Conclusion. These results suggest that STI571, while effectively killing mast cells with wild-type c-kit, did not show preferential cytotoxicity to neoplastic human mast cells and thus may not be effective in the treatment of human systemic mastocytosis associated with codon 816 c-kit mutations.

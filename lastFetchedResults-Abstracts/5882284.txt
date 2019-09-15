@@ -1,0 +1,1 @@
+We experimentally evaluated and confirmed the effectiveness of bidirectional signal assignment for reducing the inter-core XT induced penalties with a lossy 7-core, 43-km MCF having 21 splicing connections.

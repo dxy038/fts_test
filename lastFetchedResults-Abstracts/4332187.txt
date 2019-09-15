@@ -1,0 +1,1 @@
+This paper deals with the validation of the control structure of a double parallel Hybrid Electric Vehicle (HEV). Indeed, using inversion-based rules of Energetic Macroscopic Representation (EMR), a systematic control structure can be deduced. The objective of this paper is to test this control in the structural software of PSA Peugeot Citroe&#776;n.

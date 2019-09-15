@@ -1,0 +1,10 @@
+This paper describes a new technique for the determination of the inter-element forces and tractions, as
+well as stress state at nodes, as a post-processing step after the solution of standard FE-displacement
+calculation. The work is motivated in the context of a broader development of a procedure to simulate
+fracture processes using a discrete approach without the need of double-noded interface elements.
+The technique, easily implementable, is based on the double minimization of an objective function,
+representing the error between the inter-element stress tractions and the projection of the best-fit stress
+tensor T along the planes of the interfaces converging at an element corner node. The formulation
+is illustrated with some basic examples in which the resulting stress tensors and inter-element forces
+are compared to theoretical solutions and to the results obtained by using a traditional stress average
+smoothing method.

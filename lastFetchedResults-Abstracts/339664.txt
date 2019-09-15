@@ -1,0 +1,11 @@
+Objective
+Despite advances in autologous stem cell transplantation and chemotherapy, multiple myeloma (MM) remains an incurable disease. Due to the role of natural killer (NK) cells in host resistance against several tumors, it is of interest to explore the anti-MM activity of NK cells. For this reason, we aimed to determine if NK cells provide anti-MM activity following interleukin-2 (IL-2) administration, and if ex vivo activated and intravenously administered NK cells prolong survival in MM-bearing C57BL/KaLwRij mice.
+Methods
+
+The anti-MM effect of IL-2 was tested by intraperitoneal injection into the 5T33MM-inoculated mice. Subsequently, in vivo effector cell depletions were performed by administration of anti-NK1.1 or anti-CD8 monoclonal antibodies. Finally, magnetically separated and activated NK cells from splenocytes of C57BL/KaLwRij mice were adoptively transferred to tumor-bearing mice in conjunction with IL-2 treatment.
+Results
+
+IL-2 administration into MM-bearing mice significantly prolonged their survival. This effect was diminished by in vivo depletion of NK cells. Adoptive transfer of activated NK cells showed a significant in vivo anti-MM effect that was dependent on cell dose. Biodistribution of the marked adoptively transferred NK cells correlated with MM cells' homing sites.
+Conclusion
+
+These data suggest that activated NK cells have a promising potential in adoptive immunotherapy for MM.

@@ -1,0 +1,21 @@
+Debriefing (or: retrospectives, formal inquiry, final report, etc.) is a common process, used 
+ 
+to improve future performance of projects. The objective of this study is to test the
+hypothesis that a recommended standard debriefing for project planning, improves
+performance, as compared to a free style analysis. Two project scenarios were generated, of
+which one is more complicated than the other; participants were requested to improve the
+plan of each.  During the first set of experiments they were asked to analyze the scenarios
+to the best of their ability, and in the second they were asked to use a debriefing template
+for the analysis. Testing the hypothesis for the simpler project scenario, the standard
+debriefing may lead to a small performance improvement compared to a free style analysis.
+Testing the hypothesis for the complicated scenario found to lead to negligible performance
+improvement over the free style analysis. It is important to notice that many participants
+were not able to generate an improved plan for the complicated scenario, regardless of the
+analysis style. The results of the experiments indicate that the use of a standard
+debriefing, recommended by previous researchers, may lead to a limited performance
+improvement, if at all, compared to a free style analysis of knowledgeable individuals.
+That is, as long as debriefing is used as part of "lessons learned" it is less important
+whether it uses a formal structure or not. The negligible improvement for the complicated
+scenario may imply that in such cases debriefings should be complemented with advanced
+analysis tools to aid in extracting and implementing the lessons learned.
+

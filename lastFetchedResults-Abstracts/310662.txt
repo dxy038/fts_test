@@ -1,0 +1,9 @@
+Objective. The determination of patella tendon and hamstrings moment arms.
+
+Design. The moment-arms were determined using a videofluoroscopy imaging method.
+
+Background. The determination of hamstrings and quadriceps moment arms is important for the examination of muscle and joint forces in biomechanical applications.
+
+Methods. Ten males performed one knee extension-flexion movement at a very slow (non-constant) angular velocity in front of the image intensifier screen of a videofluoroscopic system. The image of a calibration phantom with 2 cm squares was also recorded. Thirty five calibration points with known coordinates were digitized for the establishment of the polynomial equations that determined the coordinates of any point in the calibration phantom from its corresponding video coordinates. Fourteen control points were digitized and the difference between the actual and predicted coordinates was measured. The patella tendon and hamstrings (biceps femoris) moment arms to the tibiofemoral contract point were calculated.
+
+Results. The mean error in the digitizing of the control points using the image deformation method ranged from 0.182 mm to 0.267 mm. The mean patella tendon moment arm ranged from 36.91 (SD 3.2) mm to 42.63 (SD 4.5) mm. The hamstrings moment arm ranged from 23.93 (SD 2.59) to 28.25 (SD 3.04) mm. Conclusion. The patellar tendon and hamstring moment-arms were determined using a videofluoroscopy method with acceptable accuracy. These parameters can be used for the biomechanical analysis of knee joint movements in two dimensional applications.

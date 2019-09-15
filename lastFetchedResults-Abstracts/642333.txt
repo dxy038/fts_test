@@ -1,0 +1,11 @@
+Objective
+Disease severity is considered an important risk factor for malnutrition in hospitalized patients. We investigated the effect of social factors and disease parameters on the development of malnutrition.
+Methods
+
+Nutritional state was assessed by the Subjective Global Assessment in 794 consecutively admitted patients in two hospitals in Berlin (n = 493, university hospital; n = 301, district hospital). The influences of age, sex, social status, life habits, and disease parameters on nutritional state was analyzed with univariate and multivariate logistic regression methods.
+Results
+
+Malnutrition was diagnosed in 22% of patients. Its prevalence was significantly higher in patients with malignant than with benign diseases (odds ratio [OR] = 1.568, P < 0.05) and in patients with multiple prescriptions (OR = 1.154, P < 0.001), but no difference was found between medical or surgical patients. The strongest risk factors for malnutrition in univariate analysis were age older than 60 y (OR = 2.861, P < 0.001), living alone (OR = 1.769, P = 0.002), and achieving a lower level of education (OR = 1.589, P < 0.05). Therefore, multivariate analysis was performed after stratification for age. Demonstrated independent additional risk factors were polypharmacy (OR = 2.367, P < 0.001) and malignant disease (OR = 4.114, P < 0.001) in young patients and polypharmacy (OR = 1.109, P < 0.002) and living alone (OR = 1.830, P = 0.008) in patients 60 y and older.
+Conclusions
+
+These data show that patients who are older, less educated, and live alone are at high risk of developing malnutrition. Thus special attention should be given to these risk groups when evaluating nutritional status and nutritional support.

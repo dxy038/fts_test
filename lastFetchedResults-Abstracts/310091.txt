@@ -1,0 +1,9 @@
+Objective
+We sought to compare the diagnostic performance of B-type natriuretic peptide (BNP) and N-terminal proBNP measurements in patients presenting to acute care settings with dyspnea, a common presenting symptom of heart failure.
+Design and methods
+We conducted a systematic review of the literature. For all included studies, we applied the QUADAS 14-question quality assessment tool for systematic reviews of diagnostic accuracy and abstracted the data for every published cut point.
+Results
+We screened 4338 studies and included nine in the meta-analysis. All 9 studies scored positively on at least 50% of the QUADAS questions. The pooled estimates of sensitivity and specificity were the same for the BNP studies (0.97 (95% CI: 0.96, 0.98) and 0.70 (95% CI: 0.56, 0.85)) as for the NT-proBNP studies (0.95 (95% CI: 0.90, 1.01) and 0.72 (95% CI: 0.53, 0.90)). Tests for heterogeneity were significant in both subgroups: BNP (I2 = 97.9%, p < 0.001) and NT-proBNP (I2 = 87.5%, p < 0.001). Similar overall results were found for the likelihood and diagnostic odds ratios.
+Conclusions
+BNP and NT-proBNP have very similar diagnostic performance characteristics and can be used to rule out heart failure as a cause of dyspnea in the acute clinical setting. However, there is no easily identifiable optimum cut point value for each peptide.
+

@@ -1,0 +1,9 @@
+In this paper, one proposes to optimize the vibratory behaviour of an absorber of vibration related to a system subjected to a harmonic load, in the presence of uncertainties on the design parameters. The total system is modeled by two degrees of freedom (2 dof) with a shock absorber and a generalized non-linear stiffness. The resolution is carried out in the temporal field according to a traditional diagram.
+
+ses of non-linearity were considered. In the first case, one is interested in the study of the system comprising a combination of the two generalized non-linearities of quadratic and cubic type of stiffness and damping. The second case relates to a non-linearity of non-whole power (in this paper 1.5), combined with the cubic case. It is a question of seeking the optimal responses envelopes of the deterministic and stochastic case and this for the non-linear displacements, phases and forces.
+
+lti-objective optimization step consists in seeking the first Pareto front of several linear and non-linear objective functions by using a genetic algorithm of type “NSGA” (Non-dominated Sorting Genetic Algorithm).
+
+sign parameters are: mass, linear and non-linear stiffness and damping of the absorber. To obtain solutions presenting a good compromise between optimality and the robustness, one introduces uncertainties on these design parameters. The robustness is then defined by the dispersion of the parameters (definite as the ratio: mean value/standard deviation) and it is introduced as additional objective function.
+
+e of the clusters resulting from the Self-Organizing Maps of Kohonen (SOM) is also suggested for a rational management of the design space. A study of sensitivity a posteriori can be exploited in order to eliminate the non-significant design parameters.

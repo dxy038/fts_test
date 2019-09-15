@@ -1,0 +1,8 @@
+Objective
+estigate the relationship between the S100P and the sensitivity of ovarian cancer to chemotherapeutics.
+
+ablished stable cell lines of ovarian cancer cells, SKOV3 and OVCAR3, that overexpress human S100P. We also transiently transfected the parent cell lines with S100P-targeted siRNA for down-regulation of S100P expression. The sensitivity of all transfected and untransfected cell lines to carboplatin and paclitaxel was detected by MTT assay.
+s
+th cells, IC50s decreased to carboplatin and paclitaxel (p &lt; 0.05), with overexpression of S100P compared to untransfected cells. Alternatively, with down-regulation of S100P by siRNA, the IC50 to carboplatin and paclitaxel increased in each case (p &lt; 0.05), which was significantly higher compared to untransfected cells.
+sion
+s in expression levels of S100P in SKOV3 and OVCAR3 cells results in variable susceptibility to carboplatin and paclitaxel. These data suggest that S100P contributes to chemosensitivity to carboplatin and paclitaxel in ovarian cancer cells.

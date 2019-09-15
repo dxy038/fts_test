@@ -1,0 +1,11 @@
+Objective. To non-invasively determine muscle activity.
+
+Design. A correlation analysis study.
+
+Background. Electromyography is traditionally used to measure the electrical activity of a muscle and can be used to estimate muscle contraction intensity. This approach, however, is limited not only in terms of the volume of tissue that can be monitored, but must be invasive if deep lying muscles are studied. We wished to avoid these limitations and used magnetic resonance elastography in an attempt to non-invasively determine muscle activity. This novel approach uses a conventional MRI system. However, in addition to the imaging gradients, an oscillating, motion sensitizing field gradient is applied to detect mechanical waves that have been generated within the tissue. The wavelength correlates with the stiffness of the muscle and hence with the activity of the muscle.
+
+Methods. Six volunteers (mean age: 30.1 years, range: 27–36 years) without orthopedic or neuromuscular abnormalities, lay supine with their legs within the coil of a MRI scanner. The wavelengths of mechanically generated shear waves in the tibialis anterior, medial and lateral head of the gastrocnemius and the soleus were measured as the subjects resisted ankle plantar-flexing (8.2 and 16.4 nm) and dorsi-flexing (20.2 and 40.4 nm) moments. The findings were then compared to EMG data collected under the same loading conditions.
+
+Results. Magnetic resonance elastography wavelengths were linearly correlated to the muscular activity as defined by electromyography. (TA, R2=0.89, P=0.02; MG, R2=0.82, P=0.05; LG, R2=0.88, P=0.03; S, R2=0.90, P=0.02)
+
+Conclusions. Magnetic resonance elastography may be a promising tool for the non-invasive determination of muscle activity.

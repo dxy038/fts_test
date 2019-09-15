@@ -1,0 +1,10 @@
+In this paper, a fuzzy production inventory model with resalable
+returns has been analysed in an imprecise and uncertain environment
+by considering the cost and revenue parameters as trapezoidal fuzzy numbers.
+The main objective is to determine the optimal fuzzy production
+lotsize which maximizes the expected profit where the products leftout at
+the end of the period are salvaged and demands which are not met directly
+are lost. The modified graded mean integration representation method
+is used for defuzzification of fuzzy parameters of production lotsize and
+expected profit. An example is presented to illustrate the method applied
+in the model.

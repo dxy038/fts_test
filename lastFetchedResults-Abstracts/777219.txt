@@ -1,0 +1,10 @@
+This paper presents a new method for the optimisation of the mirror element spacing arrangement and operating temperature of linear
+Fresnel reflectors (LFR). The specific objective is to maximise available power output (i.e. exergy) and operational hours whilst minimising
+cost. The method is described in detail and compared to an existing design method prominent in the literature. Results are given
+in terms of the exergy per total mirror area (W/m2) and cost per exergy (US $/W). The new method is applied principally to the optimisation
+of an LFR in Gujarat, India, for which cost data have been gathered. It is recommended to use a spacing arrangement such that
+the onset of shadowing among mirror elements occurs at a transversal angle of 45 . This results in a cost per exergy of 2.3 $/W. Compared
+to the existing design approach, the exergy averaged over the year is increased by 9% to 50 W/m2 and an additional 122 h of operation
+per year are predicted. The ideal operating temperature at the surface of the absorber tubes is found to be 300  C. It is concluded
+that the new method is an improvement over existing techniques and a significant tool for any future design work on LFR systems.
+  2011 Elsevier Ltd. All rights reserved.

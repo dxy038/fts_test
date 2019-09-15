@@ -1,0 +1,1 @@
+A fully managed field-installed wavelength-division multiplexed (WDM) link was upgraded with a bidirectional STM-64/OC-192 system and operated with bit error rate &lt;10/sup -13/ without changes of the dispersion-compensated SMF line to demonstrate the upgrade feasibility of transparent links. Dispersion tolerance and PMD influence were investigated.

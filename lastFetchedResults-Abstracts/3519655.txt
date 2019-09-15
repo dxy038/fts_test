@@ -1,0 +1,1 @@
+The 10/1.25 Gbit/s wavelength division multiplexing-passive optical network (WDM-PON) service is presented with uni-lambda bidirectional transmission over 30 km of singlemode fibre. With low-cost wavelength tracking methods, power variations of the upstream were achieved within &#177;0.33 dB under temperature fluctuations in the passive remote node.

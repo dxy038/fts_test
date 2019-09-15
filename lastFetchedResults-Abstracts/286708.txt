@@ -1,0 +1,11 @@
+PURPOSE:  The purpose of this study is to assess the patterns of geographic variation of the following pulmonary diseases: tuberculosis (TB), lung cancer (LC), berylliosis (BR), sarcoidosis (SR), and asthma (AS).
+
+METHODS: Hospitalization rates for the five diseases were calculated for the 46 South Carolina (SC) counties from 1985–1995. Variation in rates was assessed by county, region, and urban/rural status using analysis of variance. SC was divided into 4 regions, according to proximity to the coastline and to physiographic characteristics. Region 1 comprised counties in the western-most part of the state, and region 4 comprised the counties closest to the coastline. SC was also divided into 5 population density settings: extreme rural (<15,000), rural (15,000–30,000), middle-size (30,000–50,000), middle-urban (50,000–100,000) and urban (>100,000). Statistical analyses were performed with SAS Version 8.
+
+RESULTS:Table 1
+
+Table 1. Mean hospitalization rates for pulmonary diseases in South Carolinaimage* Rates are per 100,000.** Rates are per 10,000,000.
+
+The rates of SR, TB, and BR were significantly higher in the coastal region. In contrast, no coastal pattern was detected by population density.
+
+CONCLUSIONS: The consistent association of SR, TB, and BR with geographical region, as opposed to the inconsistent association with population density, suggests that environmental factors may be involved in these pulmonary diseases. These results demonstrate the need for further analysis of the relationship between socio-economic, behavioral, and environmental factors and the development of these diseases. 

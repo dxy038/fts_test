@@ -1,0 +1,24 @@
+In this paper, we consider and examine alternate finite element computational strategies for time-dependent
+Navier–Stokes equations describing high-speed compressible flows with shocks in a viscous and conducting
+medium, with the ultimate objective of establishing the desired features of a general mathematical and
+computational framework for such initial value problems (IVP) in which: (a) the numerically computed
+solutions are in agreement with the physics of evolution described by the governing differential equations
+(GDEs) i.e. the IVP, (b) the solutions are admissible in the non-discretized form of the GDEs in the
+pointwise sense (i.e. anywhere and everywhere) in the entire space–time domain, and hence in the integrated
+sense as well, (c) the numerical approximations progressively approach the same global differentiability
+in space and time as the theoretical solutions, (d) it is possible to time march the solutions (this is
+essential for efficiency as well as ensuring desired accuracy of the computed solution for the current
+increment of time, i.e. to minimize the error build up in the time marching process), (e) the computational
+process is unconditionally stable and non-degenerate regardless of the choice of discretization, nature of
+approximations and their global differentiability and the dimensionless parameters influencing the physics
+of the process, (f) there are no issues of stability, CFL number limitations and (g) the mathematical and
+computational methodology is independent of the nature of the space–time differential operators.
+We consider one-dimensional compressible flow in a viscous and conducting medium with shocks as
+model problems to illustrate various features of the general mathematical and computational framework
+used here and to demonstrate that the proposed framework is general and is applicable to all IVP. The
+Riemann shock tube with a single diaphragm serves as a model problem. The specific details presented in
+the paper discuss: (1) Choice of the form of the GDEs, i.e. strong form or weak form. (2) Various choices
+of variables. The paper establishes and considers density, velocity and temperature as variables of choice.
+(3) Details of the space–time least squares (LS) integral forms (meritorious over all others in all aspects)
+are presented and choice of approximation spaces are discussed. (4) In all numerical studies we consider a
+viscous and conducting medium with ideal gas law, however results are also presented for non-conducting

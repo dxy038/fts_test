@@ -1,0 +1,1 @@
+Based on the topological degree theory, Lyapunov functional method and some analysis techniques, the existence and global exponential stability of the equilibrium point of Cohen–Grossberg bidirectional associative memory neural networks with delays and impulses is first investigated. Two illustrative examples are given to demonstrate the effectiveness of the obtained results.

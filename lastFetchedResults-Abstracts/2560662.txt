@@ -1,0 +1,10 @@
+In this paper, the single-machine scheduling problem with convex multiresource
+dependent processing times, subject to meeting job deadlines, is considered. The
+objective is to minimize the total cost, including the resource allocation costs and the xed
+costs. We assume that the actual processing time of each job (task) is a function of the
+amount of resources allocated. Therefore, the decision variables of the model are: (1)
+resources allocated to the jobs; (2) total consumed resources; (3) processing times of the
+jobs; (4) start/completion times of the jobs. We reformulate and solve the problem using a
+posy nomial geometric programming model. In the proposed exact solution method based
+on the geometric programming, the original problem of any size is reduced to a two-variable
+un constrainted optimization problem, which can be easily solved by a simple grid search.

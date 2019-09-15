@@ -1,0 +1,8 @@
+Purpose
+ng-term goal of our research is to develop a patient-specific biomechanical model of the supraspinatus muscle and tendon for analyzing the effects of fatty infiltration and pennation angle changes. One input of the model will be the amount and distribution of fat within the muscle. Therefore, the objective of this project was to adapt and validate a novel magnetic resonance imaging pulse sequence for quantifying the extent of fatty infiltration for the supraspinatus muscle.
+s
+s of incremental combinations of muscle and fat from a cow were prepared and scanned with our quantitative MR technique. The MR results were compared to actual fat measurements taken using a Soxtec extraction analyzer.
+s
+ fat quantification results closely match those values determined by Soxtec analysis (R2=.98, root mean square deviation=4.9).
+sions
+ fat quantification protocol can be used to accurately quantify fatty infiltration in skeletal muscle. This ability to evaluate skeletal muscle tissue noninvasively will improve the efficacy of evaluation of fatty degeneration in assessing tissue quality preoperatively. This can be important in surgical planning of any musculoskeletal repairs, particularly rotator cuff tears.

@@ -1,0 +1,17 @@
+In this study, a Multi-Objective Genetic Algorithm (MOGA) is
+utilized to extract interpretable and compact fuzzy rule bases for modeling
+nonlinear Multi-input Multi-output (MIMO) systems. In the process of non-
+linear system identification, structure selection, parameter estimation, model
+performance and model validation are important objectives. Furthermore, se-
+curing low-level and high-level interpretability requirements of fuzzy models
+is especially a complicated task in case of modeling nonlinear MIMO systems.
+Due to these multiple and con
+icting objectives, MOGA is applied to yield a set
+of candidates as compact, transparent and valid fuzzy models. Also, MOGA
+is combined with a powerful search algorithm namely Di erential Evolution
+(DE). In the proposed algorithm, MOGA performs the task of membership
+function tuning as well as rule base identification simultaneously while DE
+is utilized only for linear parameter identification. Practical applicability of
+the proposed algorithm is examined by two nonlinear system modeling prob-
+lems used in the literature. The results obtained show the eectiveness of the
+proposed method.

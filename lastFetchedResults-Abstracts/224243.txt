@@ -1,0 +1,20 @@
+This paper deals with a shunt active filter which
+will be installed by an electric utility, putting much emphasis
+on the control strategy and the best point of installation of
+the shunt active filter on a feeder in a power distribution system.
+The objective of the shunt active filter is to damp harmonic
+propagation, which results from harmonic resonance
+between many capacitors for power factor improvement and
+line inductors in the feeder, rather than to minimize voltage
+distortion throughout the feeder. Harmonic mitigation
+is a welcome “by-prod~ct’o~f the shunt active filter, which
+comes from damping of harmonic propagation.
+This paper concludes that the shunt active filter based on
+detection of voltage at the point of installation is superior in
+stability to others, and that the best site selection is not the
+beginning terminal but the end terminal of the primary line
+in the feeder. Computer simulation is performed to verify
+the validity and effectiveness of the shunt active filter by
+means of an analog circuit simulator, which is characterized
+by installing it on a feeder of a radial distribution system in
+a residential area.

@@ -1,0 +1,11 @@
+Objective
+To identify the possible contribution of electromyogram (EMG) to scalp electroencephalogram (EEG) rhythms at rest and induced or evoked by cognitive tasks.
+Methods
+Scalp EEG recordings were made on two subjects in presence and absence of complete neuromuscular blockade, sparing the dominant arm. The subjects undertook cognitive tasks in both states to allow direct comparison of electrical recordings.
+Results
+EEG rhythms in the paralysed state differed significantly compared with the unparalysed state, with 10- to 200-fold differences in the power of frequencies above 20 Hz during paralysis.
+Conclusions
+Most of the scalp EEG recording above 20 Hz is of EMG origin. Previous studies measuring gamma EEG need to be re-evaluated.
+Significance
+This has a significant impact on measurements of gamma rhythms from the scalp EEG in unparalysed humans. It is to be hoped that signal separation methods will be able to rectify this situation.
+

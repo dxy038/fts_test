@@ -1,0 +1,11 @@
+Objective
+To indicate whether the double peaked N1 to gaps in continuous white noise is a composite of onset and offset responses to transients or whether it reflects higher processing such as change or mismatch detection and to assess the role of attention in this process.
+Methods
+Evoked potentials were recorded to two binaural stimulus types: (1) gaps of different durations randomly distributed in continuous white noise; and (2) click pairs at intervals identical to those between gap onsets and offsets in the continuous noise stimulus. Potentials to these stimuli were recorded while subjects read a text and while detecting gaps in noise or click pairs.
+Results
+Potentials were detected to all click pairs and to gaps of 5 ms or longer, corresponding to the subjects' psychoacoustic gap detection threshold. With long gap durations of 200–800 ms, distinct potentials to gap onset and gap offset were observed. The waveforms to all click pairs and to offsets of long gaps were similar and single-peaked, while potentials to gaps of 10 ms and longer, and potentials to onsets of long gaps were double-peaked, consisting of two N1 negativities, 60 ms apart, irrespective of gap duration. The first (N1a), was more frontal in its distribution and similar to that of clicks. The second (N1b) peak's distribution was more central/temporal and its source locations and time course of activity were distinct. No effects of attention on any of the varieties and constituents of N1 were observed.
+Conclusions
+Comparing potentials to gap onsets, to click pairs and to gap offsets, suggests that potentials to gap onsets involve not only sound onset/offset responses (N1, N1a) but also the subsequent pre-attentive perception of the cessation of an ongoing sound (N1b). We propose that N1b is distinct from change or mismatch detection and is associated with termination of an ongoing continuous stimulus. We propose to call it the N(egation)-process.
+Significance
+A constituent of the N1 complex is shown to be associated with the pre-attentive perception of termination of an ongoing stimulus and to have distinct scalp distribution and intracranial sources.
+

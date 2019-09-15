@@ -1,0 +1,9 @@
+The non-fixed destination multi-depot multiple traveling salesmen problem (MmTSP) is a
+generalization of well-known MTSP with several salesmen in each depot. In this research,
+time window is defined for each depot (city).the salesmen only can service the customers
+within these time windows and also some penalties are considered for any deviation of start
+time. The objective function of problem is to minimize the total costs and penalties of the
+tours. This problem is of a great complexity and belongs to NP-complete class of problems.
+So the exact algorithms cannot perform the best solution in problems with big dimension. So
+Meta heuristics algorithm is used to solve these problems efficiently. In this research we used
+hybrid simulated annealing and genetic algorithms.

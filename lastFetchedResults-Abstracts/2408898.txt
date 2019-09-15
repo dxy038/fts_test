@@ -1,0 +1,14 @@
+The objective of this paper is to determine the drift demand hazard curves of steel moment-resisting frames with different number
+of stories in territory of Tehran; this is done through the combination of the results obtained from probabilistic seismic hazard
+analysis and the demand estimated through the best probabilistic seismic demand models. To select the best demand model, in
+this paper, a Bayesian regression has been used for the statistical analysis of the results obtained from incremental dynamic
+analysis in order to estimate the unknown parameters of model and to select the best Intensity Measure (IM) parameter; also the
+probability of overall collapse of structures has been computed. Considering the efficiency and sufficiency of the models, the
+results indicate that the accuracy of models with one single IM is a function of the number of stories, consequently the current
+widely used model with spectral acceleration in first period as IM is not suitable for all structural heights. Furthermore,
+regarding the fact that it is difficult to prepare a seismic hazard curve for a combined IM, it seems that the best model can be
+found among models with two single IMs. In other words, the best model to cover all structural heights is the one with linear
+combination of spectral acceleration of the first and the second period. Furthermore, using different models to calculate the
+curves shows that regardless of the number of IMs, estimated demands strongly depend on the standard deviation of model.
+&nbsp;
+

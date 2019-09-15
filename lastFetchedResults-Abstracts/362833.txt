@@ -1,0 +1,9 @@
+Study objective
+We determine whether a patient education intervention based on a previously validated model increases satisfaction with emergency department (ED) care.
+Methods
+A single-page patient education form was distributed on alternating 2-week time blocks for 8 weeks at the triage desk of a single academic ED. Alert, discharged patients were administered an exit interview assessing satisfaction on a 5-point ordinal scale. Secondary outcomes included patient satisfaction measured on a bivariate scale, willingness to return, and process of care indicators previously demonstrated to be associated with satisfaction. Exclusion criteria included air or ground transport to the ED, inability to speak English or Spanish, and refusal to participate. Differences in patient satisfaction and other outcomes were adjusted for predefined covariates, including age, sex, triage severity, race, language, location in ED, total ED length of stay, and time to room, using multivariable logistic regression.
+Results
+Of 1,934 patients discharged during study periods, 1,233 (64%) were approached and 860 (44%) were enrolled. There were no important covariate differences between the control and intervention groups. There was no important correlation between intervention and patient satisfaction on univariate (odds ratio [OR] 0.840; 95% confidence interval [CI] 0.650 to 1.086) and multivariate analysis (OR 0.874; 95% CI 0.672 to 1.136). There were no important correlations between the intervention and secondary outcomes on multivariate analysis.
+Conclusion
+A triage-based, patient education intervention did not significantly improve patient satisfaction or performance on predictors of satisfaction at the study site.
+

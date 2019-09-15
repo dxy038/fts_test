@@ -1,0 +1,11 @@
+Purpose
+Hepatitis A normally is underreported by statutory disease reporting systems. The objective of this study is to estimate the incidence of hepatitis A virus (HAV) infection from prevalence surveys of infection carried out in representative samples of the population in 1989, 1996, and 2002 and the reported disease incidence during 1991 to 2003 in Catalonia.
+Methods
+
+The real incidence of the infection was estimated from the reported incidence adjusted by the prevalence of susceptible individuals and the probability of presenting clinical manifestations. The bootstrap resampling technique was used to calculate 95% confidence intervals (CIs) of reported, clinical, and all infection cases.
+Results
+
+The infection rate estimated by the bootstrap method was 31.1/100,000 person-years (bootstrap studentized 95% CI, 19.4–56.0), and the rate of clinical hepatitis was 20.0/100,000 person-years (95% CI, 11.8–39.9), rates that were 6.3 and 4.1 times greater than the reported rate during the same period, respectively.
+Conclusions
+
+In children younger than 5 years, the estimated infection rate was 13.8 times greater than the reported rate. Combined use of reported cases and results of seroprevalence surveys suggest that underreporting of HAV infection is substantial in Catalonia, especially in children younger than 5 years.

@@ -1,0 +1,11 @@
+Objective
+The common myeloid progenitor (CMP) and its progeny, the granulocyte/monocyte progenitor (GMP) and megakaryocyte/erythrocyte progenitor (MEP), have been isolated based on the surface expression of CD34, IL-3Rα, and CD45RA. However, high resolution of IL-3Rα− and IL-3Rαlo cells required to adequately separate the CMP and MEP populations is difficult to achieve. The aim of this study was to find a complementary surface marker to obtain a better separation of these two populations and to further characterize the acquired progenitor populations.
+Materials and Methods
+
+To evaluate the thrombopoietin receptor (TpoR) as a candidate marker, CD19−/CD34+/IL-3Rαlo/−/CD45RA−/TpoR− (CMP), CD19−/CD34+/IL-3Rαlo/CD45RA+/TpoR− (GMP), and CD19−/CD34+/IL-3Rαlo/−/CD45RA−/TpoR+ (MEP) cells from human bone marrow were sorted to semisolid cultures for colony assays, and in addition analyzed for their surface expression of other growth factor receptors (GFRs) and sorted to real-time RT-PCR for gene expression analysis.
+Results
+
+The colony-formation and gene expression assays showed that inclusion of TpoR as a marker gave a distinct and reproducible separation of the myeloid progenitors. Furthermore, most GFR surface expression correlated to gene expression, but there were also striking discrepancies, in particular for the common β-chain of the IL-3R, GM-CSFR, and IL-5R and for TpoR.
+Conclusion
+
+Our data establish the TpoR as an important tool for isolation of the myeloid progenitors and demonstrate that the surface expression of GFRs cannot be predicted by their gene expression. Importantly, the refined isolation of CMPs will allow more detailed studies of regulatory mechanisms steering CMPs towards erythropoiesis vs granulopoiesis in steady state and response to peripheral demands.

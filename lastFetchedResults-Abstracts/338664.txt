@@ -1,0 +1,11 @@
+Objective
+A favorable incidence and severity of graft-vs-host disease is observed in patients transplanted with banked, unrelated, HLA-mismatched umbilical cord blood (UCB) grafts, while the incidence of malignant relapse remains low. CTLA-4 mediates negative T-cell signaling and may contribute to the development of allogeneic tolerance. In this study, we compared protein and mRNA expression of CTLA-4 in stimulated UCB and adult peripheral blood T cells.
+Materials and Methods
+
+T cells were isolated from UCB and adult peripheral blood and stimulated with anti-CD3 and anti-CD28 monoclonal antibodies. Cells were immunostained and analyzed by flow cytometry for both surface and intracellular expression of CTLA-4 in the presence and absence of cyclosporin A, and kinetics of CTLA-4 expression compared. CTLA-4 mRNA expression was measured using quantitative real-time polymerase chain reaction. NFAT1 protein levels were measured by Western blot analysis.
+Results
+
+These studies demonstrate reduced surface and intracellular expression of CTLA-4 in stimulated UCB T cells compared to adult controls. Furthermore, reduced CTLA-4 protein expression in UCB T cells was noted to be in part transcriptionally regulated, as CTLA-4 mRNA levels also were significantly lower. Reduced CLTA-4 expression by UCB T cells followed the kinetics of delayed and reduced expression of the transcription factor NFAT1 by UCB T lymphocytes during primary stimulation. Moreover, cyclosporin A, which is known to modulate NFAT activation, reduced CTLA-4 protein expression in adult and UCB T cells.
+Conclusion
+
+Reduced expression of the key regulatory proteins CTLA-4 and NFAT-1 may contribute to favorable UCB T lymphocyte allogeneic responses.

@@ -1,0 +1,12 @@
+Speaker recognition systems have high dimensional audio features which most of them
+are irrelevant and redundant. So far, many approaches have been proposed to reduce
+the size of these features which most of them are based on the system training and
+evaluating the performance of each feature subset. In this paper, a hybrid semi-wrapper
+method is proposed to select the audio features in speaker recognition systems. The
+objective of this algorithm is to increase the accuracy of the speaker recognition system
+using supported vector machine (SVM) as a classifier. In the first step, genetic and ant
+colony algorithms were used to select the optimal subset of features. Then, the proposed
+technique was presented for selecting spectral features. SVM classifier was used to
+achieve better accuracy in recognition of real speaker. This algorithm was evaluated
+based on the error rate. The results showed that the number of selected features, time
+complexity and error rate of the proposed method are less than other methods.

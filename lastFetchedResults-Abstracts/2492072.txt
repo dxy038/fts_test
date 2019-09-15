@@ -1,0 +1,16 @@
+A new method for structural optimization is presented for successive
+approximation of the objective function and constraints in conjunction with Lagrange
+multipliers approach. The focus is on presenting the methodology with simple examples.
+The basis of the iterative algorithm is that after each iteration, it brings the approximate
+location of the estimated minimum closer to the exact location, gradually. In other words,
+instead of the linear or parabolic term used in Taylor expansion, which works based on a
+short step length, an arch is used that has a constant curvature but a longer step length.
+Using this approximation, the equations of optimization involve the Lagrange multipliers
+as the only unknown variables. The equations which depend on the design variables are
+decoupled linearly as these variables are directly obtained. One mathematical example
+is solved to explain in details how the method works. Next, the method is applied to the
+optimization of a simple truss structure to explain how the method can be used in structural
+optimization. The same problems have been solved by penalty method and compared. The
+results from both methods have been the same. However, because of the long step length
+and reduction in the number of variables, the speed of convergence has been higher in the
+presented method.

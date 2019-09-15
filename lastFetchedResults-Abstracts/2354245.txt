@@ -1,0 +1,15 @@
+Objective: MicroRNAs (miRNAs) are a class of small non-coding RNAs that play pivotal
+roles in many biological processes such as regulating skeletal muscle development where
+alterations in miRNA expression are reported during myogenesis. In this study, we aimed
+to investigate the impact of predicted miRNAs and their target genes on the myoblast to
+myocyte differentiation process.
+Materials and Methods: This experimental study was conducted on the C2C12 cell line.
+Using a bioinformatics approach, miR-214 and miR-135 were selected according to their
+targets as potential factors in myoblast to myocyte differentiation induced by 3% horse
+serum. Immunocytochemistry (ICC) was undertaken to confirm the differentiation process
+and quantitative real-time polymerase chain reaction (PCR) to determine the expression
+level of miRNAs and their targets.
+Results: During myoblast to myocyte differentiation, miR-214 was significantly downregulated
+while miRNA-135, Irs2, Akt2 and Insr were overexpressed during the process.
+Conclusion: miR-214 and miR-135 are potential regulators of myogenesis and are
+involved in skeletal muscle development through regulating the IRS/PI3K pathway.

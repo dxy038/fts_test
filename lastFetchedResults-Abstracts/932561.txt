@@ -1,0 +1,15 @@
+Context
+Broiler chicken carcass spray and dip treatments are just two of many different interventions investigated to address the need to reduce Salmonella prevalence and concentration on broiler chicken carcasses during processing. However the results of published research are inconsistent and sometimes contradictory creating a need to formally evaluate, synthesize and summarize available research to avoid recommending ineffective treatments and identify key knowledge gaps for future work.
+Objective
+Evaluate intervention research that measured the efficacy of various spray and dip treatments, applied on broiler chicken carcasses during primary processing, as Salmonella prevalence or concentration on broiler carcasses, using systematic review–meta-analysis (SR–MA).
+Data sources
+A comprehensive electronic search was implemented in six databases and verified through a manual search of topic-related reference lists, related reviews or book chapters, and through consultations with selected topic experts.
+Study inclusion
+Control and challenge trials, cohort and before-and-after intervention research published in English that investigated the efficacy of any spray or dip treatments, applied to broiler chicken carcasses or carcass parts during processing, on Salmonella prevalence or concentration measured at the same level under laboratory, pilot plant and commercial conditions.
+Risk of bias assessment and data extraction
+Relevant research was evaluated for methodological soundness and completeness of reporting. The main characteristics of each study included in the review were extracted.
+Data analysis
+Random-effects MA of trisodium phosphate and lactic acid dip treatments (n = 12 and n = 32 trials with prevalence outcomes, respectively) resulted in homogeneous (p-value = 0.469; I2 = 0.0% and p-value = 0.284; I2 = 11.4%, respectively) summary effect estimates (OR = 1.16; 95% CI: 0.59–2.26 and OR = 0.05; 95% CI: 0.03–0.10, respectively). Visual evaluation of MA forest plots indicated overall reduction trends for six spray treatments reporting concentration outcomes: trisodium phosphate (n = 48 trials), acidic electrolyzed oxidizing water (n = 2), cetylpyridinium chloride (n = 43), lactic acid (n = 24), sodium bisulfate (n = 11) and potable water (n = 36). Moderate to considerable heterogeneity (p-value ≤ 0.1 and I2 > 25%) was observed for these treatments. Methodological soundness of included studies was poor and a lack of studies conducted under commercial conditions was observed.
+Conclusions
+Existing research on the efficacy of broiler carcass dips or sprays on Salmonella prevalence or concentration is limited and heterogeneous, precluding the full benefits of robust meta-analyses. Larger randomized controlled trials conducted under commercial conditions are needed.
+

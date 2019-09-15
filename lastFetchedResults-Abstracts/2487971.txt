@@ -1,0 +1,8 @@
+A novel multiple Objective Fitness Function (OFF) is proposed for transmission
+parameter optimization in dynamic spectrum access. The proposed scheme consists
+of two phases: In the rst phase, four OFFs are individually designed, where the spectrum
+band index is additionally considered unlike the conventional OFFs. In the second phase,
+then, the individual OFFs are combined to form a multiple OFF, where the individual
+OFFs may be dierently stressed depending on the transmission scenario of interest. In
+simulation results, nally, the proposed multiple OFF is found to provide the optimal
+parameter set for transmission under various types of scenarios.

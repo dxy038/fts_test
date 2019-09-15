@@ -1,0 +1,11 @@
+Objective
+To investigate the relationship between physical impairment and brain–computer interface (BCI) performance.
+Method
+We present a meta-analysis of 29 patients with amyotrophic lateral sclerosis and six patients with other severe neurological diseases in different stages of physical impairment who were trained with a BCI. In most cases voluntary regulation of slow cortical potentials has been used as input signal for BCI-control. More recently sensorimotor rhythms and the P300 event-related brain potential were recorded.
+Results
+A strong correlation has been found between physical impairment and BCI performance, indicating that performance worsens as impairment increases. Seven patients were in the complete locked-in state (CLIS) with no communication possible. After removal of these patients from the analysis, the relationship between physical impairment and BCI performance disappeared. The lack of a relation between physical impairment and BCI performance was confirmed when adding BCI data of patients from other BCI research groups.
+Conclusions
+Basic communication (yes/no) was not restored in any of the CLIS patients with a BCI. Whether locked-in patients can transfer learned brain control to the CLIS remains an open empirical question.
+Significance
+Voluntary brain regulation for communication is possible in all stages of paralysis except the CLIS.
+

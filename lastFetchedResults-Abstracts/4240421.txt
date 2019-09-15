@@ -1,0 +1,1 @@
+A new ESD failure mode under inductive IEC stress of automotive CAN pins is identified. Inductor saturation causes increase of the rise-time from ins to ~20ns, leading to non-uniform conduction in the bidirectional ESD circuit. A new mutual ballasting layout technique is introduced to recover the system level ESD performance.

@@ -1,0 +1,1 @@
+This article discusses the problem of optimizing a lattice-based signal constellation for signaling over a partial response channel. The objective is to minimize the probability of error which is determined by the combined effects of the additive Gaussian noise and channel memory

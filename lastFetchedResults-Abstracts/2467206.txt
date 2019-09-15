@@ -1,0 +1,10 @@
+Background
+atic Literature Reviews (SLRs) have gained significant popularity among Software Engineering (SE) researchers since 2004. Several researchers have also been working on improving the scientific and methodological infrastructure to support SLRs in SE. We argue that there is also an apparent and essential need for evidence-based body of knowledge about different aspects of the adoption of SLRs in SE.
+ive
+in objective of this research is to empirically investigate the adoption, value, and use of SLRs in SE research from various perspectives.
+
+d mixed-methods approach (systematically integrating tertiary literature review, semi-structured interviews and questionnaire-based survey) as it is based on a combination of complementary research methods which are expected to compensate each others’ limitations.
+s
+e majority of the participants are convinced of the value of using a rigourous and systematic methodology for literature reviews in SE research. However, there are concerns about the required time and resources for SLRs. One of the most important motivators for performing SLRs is new findings and inception of innovative ideas for further research. The reported SLRs are more influential compared to the traditional literature reviews in terms of number of citations. One of the main challenges of conducting SLRs is drawing a balance between methodological rigour and required effort.
+sions
+s become a popular research methodology for conducting literature review and evidence aggregation in SE. There is an overall positive perception about this relatively new methodology to SE research. The findings provide interesting insights into different aspects of SLRs. We expect that the findings can provide valuable information to readers about what can be expected from conducting SLRs and the potential impact of such reviews.

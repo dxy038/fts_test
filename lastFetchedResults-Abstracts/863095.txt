@@ -1,0 +1,10 @@
+In this paper, a modified discrete particle swarm optimization is presented to find the
+optimal placement and size of capacitors in a distribution system. The objective function is
+composed of the line loss and the capacitors investment cost. The bus voltage and the feeder
+current as constraints are included in the objective function by a constraint penalty factor.
+To validate the proposed method, the 18-bus IEEE distribution system and the semi-
+urban distribution system which is connected to bus 2 of the Roy Billinton test system
+are used. The proposed method is applied to the problem and its robustness and accuracy
+are studied. The results are compared with pure DPSO, genetic algorithm, and nonlinear
+programming. It is illustrated in two examples that the proposed optimization method is
+more accurate and particularly more robust than others for the planning of capacitors.

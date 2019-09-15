@@ -1,0 +1,6 @@
+We consider a parallel-machine scheduling problem with a learning effect and the makespan objective.
+The impact of the learning effect on job processing times is modelled by the general DeJong’s learning
+curve. For this NP-hard problem we propose two exact algorithms: a sequential branch-and-bound
+algorithm and a parallel branch-and-bound algorithm. We also present the results of experimental evaluation
+of these algorithms on a computational cluster. Finally, we use the exact algorithms to estimate
+the performance of two greedy heuristic scheduling algorithms for the problem.

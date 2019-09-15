@@ -1,0 +1,1 @@
+In this paper, a modeling technique based on state-space averaging technique for PWM plus phase-shift (PPS) bidirectional DC-DC converter is presented. The simulation results and experiment results have proved the validity of the model.

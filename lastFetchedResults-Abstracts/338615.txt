@@ -1,0 +1,8 @@
+Objective
+We examined the significance of human T-cell lymphotropic virus type I (HTLV-I) Tax protein-induced resistance to anticancer drugs and the relationship between Tax and multidrug resistance proteins.
+
+Materials and Methods. S1T cell, a leukemic non–Tax-producing T-cell clone established from an adult T-cell leukemia (ATL) patient, S1TcTax05 and S1TcTax10 clones, transfected with Tax stably expressing cDNA, and S1Tneo, transfected with a neomycin-resistant gene, were examined for Tax-related anticancer drug resistance. Resistance of those cells to the anticancer drugs doxorubicin, etoposide, cisplatin, and vindesine was tested with the MTT method. Expression of multidrug resistance protein mRNAs (MDR1, MRP1, cMOAT/MRP2, and LRP) was analyzed with reverse transcriptase polymerase chain reaction (RT-PCR). Doxorubicin subcellular distribution in those cells was examined by fluorescence microscopy.
+
+Results. S1TcTax05 and S1TcTax10 showed resistance to doxorubicin, etoposide, and vindesine, but not to cisplatin as compared with S1T or S1Tneo. RT-PCR demonstrated that MRP1 mRNA was expressed, but MDR1, cMOAT, and LRP mRNAs were not in S1T or S1Tneo. Marked expression of LRP mRNA was detected, but no change of MDR1, MRP1, or cMOAT mRNA expression in Tax-expressing S1TcTax05 and S1TcTax10. Fluorescence microscopy demonstrated that doxorubicin was distributed mainly in the cytoplasm of S1TcTax05 and S1TcTax10, and in the nucleus of S1T and S1Tneo.
+
+Conclusions. These findings suggest that Tax-related drug resistance of ATL cells is due to LRP and not MDR1, as reported previously. These findings in cells derived from an ATL patient suggest a novel mechanism for drug resistance in Tax-expressing ATL cells.

@@ -1,0 +1,15 @@
+The location-routing problem, while being new, is the most significant research field in location problems; features of vehicle-routing
+problem have been simultaneously considered along with the original problem for achieving high-quality integrated distribution systems, in
+addition to the global optimum. Contribution to the existing research presents the bi-objective multi-depot capacitated location-routing
+problem based on simultaneous pickup and delivery with soft time window (BOCLRPSPDSTW). Reasonable grounds that exhorted
+authors to get involved in this area and whence arising simultaneous pickup and delivery based on time window are the two main
+characteristics of logistic management that have been used separately in most of the location routing problem in spite of their various reallife
+applications with each other. Furthermore, market world competition circumstances always compel distribution managers to try
+creating a distribution system layout along with the lowest total system cost and enhancing service levels for providing customers’
+satisfaction, such that they can make the perpetuity of the distribution systems possible in the competition. Accordingly, to achieve the
+main goal within the demonstrative bi-objective mixed-integer linear programming model for BOCLRPSPDSTW, this study addresses the
+minimization of summation of all problem costs and minimization of maximum summation of delivery times and service times for meeting
+customer service level with respect to simultaneous pickup and delivery with soft time windows. Since this type of problem is NP-hard,
+NSGAII and NRGA are proposed to attain the Pareto frontier for the given problem. To validate the performance of the proposed
+algorithms in terms of solution quality and diversity levels, various problems are carried out, and their efficiency based on some
+comparison metrics is compared.

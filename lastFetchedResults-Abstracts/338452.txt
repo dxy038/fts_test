@@ -1,0 +1,11 @@
+Objective
+In vitro culture systems that parallel in vivo growth conditions are needed to study leukemia biology and to accurately test therapeutic efficacies. We investigated the effects of the HS-5 human bone marrow stromal cell line on cultured primary leukemia cell survival and chemosensitivity.
+Materials and Methods
+
+A total of 30 bone marrow (BM) samples from untreated acute myeloid leukemia (AML) patients were cultured for 96 hours with serum and growth factors, without HS-5, or in direct contact with HS-5 monolayers, or with HS-5 separated from AML cells by transwell inserts. In some experiments, cytosine arabinoside or daunomycin was added for the last 18 hours of culture. Apoptosis frequencies, bcl-2 protein expression, proliferating cell nuclear antigen expression, and cell cycle distributions were determined in four-color flow cytometry analyses of CD45+ leukemia cells.
+Results
+
+In comparison to control growth conditions, direct contact with HS-5 significantly inhibited culture-induced and drug-induced apoptosis of AML cells. Direct contact of AML cells with HS-5 significantly increased short-term proliferation and viability, and colony formation of primary AML cells. HS-5–mediated apoptosis inhibition was not consistently associated with increased bcl-2 protein in AML cells. Noncontact conditions inhibited drug-induced apoptosis significantly less than direct contact with HS-5.
+Conclusion
+
+Coculture of AML cells on HS-5 monolayers improved in vitro leukemia cell survival and attenuated chemotherapy-induced leukemia cell killing. This has practical significance, increasing the fraction of primary AML samples that can be analyzed in vitro, and allows drug sensitivity testing in growth conditions more similar to the bone marrow microenvironment.

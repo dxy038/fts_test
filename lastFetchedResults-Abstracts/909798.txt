@@ -1,0 +1,7 @@
+The objective of this study was to develop a methodology for estimating aggregative risk of various environmental activities,
+pollution sources and routes in a given process. The rate of risk is defined by a product of grade of risk (r, magnitude) and grade of
+importance (i, intensity). Both factors r and i are expressed by an 11-level qualitative scale which are defined by triangular fuzzy
+numbers to capture the vagueness in the linguistic variables. A three-stage hierarchical structure aggregative risk model was
+developed for grouping of risk items. For this grouping an analytical hierarchy process was used. A sensitivity analysis was also
+performed to verify the effect of weighting schemes on the assessment of a final aggregative risk. The developed methodology is
+applied to a case study of offshore drilling waste for evaluating various discharge scenarios.

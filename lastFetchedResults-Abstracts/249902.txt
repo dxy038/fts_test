@@ -1,0 +1,14 @@
+Adhesive bonding has been widely used to join or repair metallic and composite structural components to
+achieve or restore their designated structural sti ness and strengths. However, current analysis methods
+and empirical databases for composite bonded patch repairs or joints are limited to  at structures, and
+there exists a very limited knowledge on the e ect of curvature on the performance and durability
+of composite bonded joints and repairs. Recently, a novel  nite element formulation was presented
+for developing adhesive elements for conducting 2.5-D simpli ed stress analysis of bonded repairs to
+curved structures. This paper presents the work on optimal shape design of a bonded curved composite
+patch using the newly developed adhesive element. The Sequential Linear Programming (SLP) method
+is employed as the optimization algorithm in conjunction with a fully implemented mesh generation
+algorithm into which new features have been incorporated. The objective of shape optimization is to
+minimize the maximum stress in the entire adhesive layer to ensure that the bonded patch e ectively
+works together with the parent structure in service. Several di erent objective functions, related to
+possible failure mechanisms of the adhesive layer, are proposed to optimize the shape of a bonded
+patch.

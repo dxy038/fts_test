@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to elucidate if anemia in pregnancy caused by iron deficiency could be predicted by simple measures obtained on a complete blood count (CBC) using ferritin as the gold standard.
+Study design
+One hundred forty-one pregnant patients with anemia were recruited during their first prenatal visit. CBC and ferritin level were obtained and candidate-predictors identified. Receiver operator characteristic (ROC) curves, stratified analysis, and logistic regression analysis were used to develop a prediction rule with maximum specificity.
+Results
+A hemoglobin level ≤9.7 and a red cell distribution width (RDW) ≥15 (in gestational age <20 weeks) predicted iron deficiency with high specificity. Our final model correctly classified 79.43% of the patients (area under the ROC curve of 0.88 [95%CI 0.82–0.93], specificity of 95.74%).
+Conclusion
+Iron deficiency anemia can be predicted in pregnancy using lower cost tests, which could be an incredibly useful tool in areas with limited resources and a high prevalence of the disease. This study was limited to a mostly African American population in an urban setting, and the results may not be generalized to other populations.
+

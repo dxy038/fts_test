@@ -1,0 +1,7 @@
+<div style="display:none">fiogf49gjkf0d</div>The objective of this study is to analyze the behavior of an energy storage system which is made of a horizontal
+channel  crossed  by  a  fluid  and  whose  walls  contain  an  unsaturated  porous  medium.    We  developed  a  three-
+dimensional model to study the two processes: thermal energy charging and thermal energy discharging. The coupled
+and  highly non  linear  nature  of  the  transport  equations  that  govern  the  heat  and  mass  transfer inside  unsaturated
+medium  were  discretized  by control  volume  finite  element  method  (CVFEM).  The  resulted  system  of  algebraic
+equations was solved by the Bi-Conjugate Gradient Stabilized iterative solver.  Results concerning the influence of
+the initial liquid saturation on the rate of charged and discharged thermal energy are presented and analyzed.

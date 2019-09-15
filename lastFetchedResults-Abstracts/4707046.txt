@@ -1,0 +1,1 @@
+Optimal design of radioelectronics devices may require solving optimization problems on graphs (for example, Minimum Spanning Tree Problem) under uncertainty. If the parameters of task are not known exactly then their uncertainty may be described by intervals. In this case we consider interval optimization problem with interval objective function.

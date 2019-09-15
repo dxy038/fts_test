@@ -1,0 +1,11 @@
+Objective
+CCL23/Myeloid progenitor inhibitory factor-1 is a human CC chemokine with potent in vitro suppressor effects on both human and murine myeloid progenitor cells. This study concerns in vivo inhibitory effect of CCL23 on production of polymorphonuclear leukocytes (PMNs) and monocytes in the bone marrow and their release into the circulation.
+Methods
+
+5′-Bromo-2′-deoxyuridine (BrdU; 100 mg/kg) was used to label dividing PMNs and monocytes in the bone marrow, and BrdU-labeled cells were followed for 10 days in the circulation and identified using immunocytochemistry. Rabbits were given CCL23 (100 μg/kg, n = 5) or saline (control: n = 5) intravenously daily for 3 days before labeling with BrdU. Turnover of PMNs and monocytes in the bone marrow and their transit times through the bone marrow were calculated.
+Results
+
+CCL23 treatment tended to prolong transit time of PMN (98.4 ± 4.3 hours vs 111.2 ± 3.8 hours, control vs CCL23, p = 0.06) through the bone marrow and decreased the size of the bone marrow mitotic pool of PMN (p < 0.01). CCL23 treatment also prolonged the transit time of monocyte (43.4 ± 3.1 hours vs 54.2 ± 1.3 hours, control vs CCL23, p < 0.05) through the bone marrow and decreased turnover and pool size of monocytes in the bone marrow (p < 0.05).
+Conclusion
+
+We conclude that CCL23 suppresses PMN and monocyte progenitors, decreases the pool size and slows their turnover in the bone marrow.

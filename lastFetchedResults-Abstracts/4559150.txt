@@ -1,0 +1,1 @@
+In this digest a review of various current control strategies in a bidirectional isolated DC to DC converter is shown. Average current control, peak current control and predictive current control is proposed for the single phase topology. A comparison between the controllers is shown with simulation results and experimental verification.

@@ -1,0 +1,1 @@
+In this paper, we propose a modification of the BFGS method for unconstrained optimization. A remarkable feature of the proposed method is that it possesses a global convergence property even without convexity assumption on the objective function. Under certain conditions, we also establish superlinear convergence of the method.

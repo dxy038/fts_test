@@ -1,0 +1,10 @@
+Context
+y assurance of business process models has been recognized as an important factor for modeling success at an enterprise level. Since quality of models might be subject to different interpretations, it should be addressed in the most objective way, by the application of measures. That said, however, assessment of measurement results is not a straightforward task: it requires the identification of relevant threshold values, which are able to distinguish different levels of process model quality.
+ive
+there is no consensual technique for obtaining these values, this paper proposes the definition of thresholds for gateway complexity measures based on the application of statistical techniques on empirical data.
+
+s end, we conducted a controlled experiment that evaluates quality characteristics of understandability and modifiability of process models in two different runs. The thresholds obtained were validated in a replication of the experiment.
+s
+resholds for gateway complexity measures are instrumental as guidelines for novice modelers. A tool for supporting business process model measurement and improvement is described, based on the automatic application of measurement, and assessment as well as derivation of advice about how to improve the quality of the model.
+sion
+concluded that thresholds classified business process models in the specific level of understandability and modifiability, so these thresholds were good and useful for decision-making.

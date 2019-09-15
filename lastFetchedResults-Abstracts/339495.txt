@@ -1,0 +1,11 @@
+Objective
+Chronic lymphocytic leukemia (CLL) B cells from most patients express both membrane-bound CD27 (mCD27) and soluble CD27 (sCD27). Expression of sCD27 inhibits CD27-dependent T-cell or CLL-cell activation mediated by its ligand, CD70. In this study, we evaluated whether protease inhibitors could inhibit the release of sCD27 from CLL cells and enhance T-cell activation mediated by CD27-CD70 interaction.
+Methods
+
+CLL cells exposed to hydroxamic acid-based matrix metalloprotease (MMP) inhibitors were evaluated for the release of sCD27 by sandwich enzyme-linked immunosorbent assay and immunoprecipitation. We examined for phenotypic changes in CLL cells treated with MMP inhibitors by flow cytometry and T-cell activation by CLL cells was assessed by [3H] thymidine incorporation assay and the production of interferon-gamma.
+Results
+
+Treatment of CLL cells with MMP inhibitors blocked the release of sCD27 to the culture supernatant. In contrast, a non–hydroxamic acid control compound or inhibitors of other proteases, including serine, cysteine, and aspartyl proteases, were ineffective. Furthermore, CLL cells treated with MMP inhibitors expressed significantly higher levels of accessory molecules, such as CD54, CD80, and CD95. Consistent with such changes, we found that CLL cells treated with MMP inhibitors, but not control treated cells, could stimulate allogeneic and autologous T cells in mixed lymphocyte reactions.
+Conclusion
+
+These data reveal that metalloprotease inhibitors can block production of sCD27, which can interfere with mCD27-CD70 interactions that induce expression of immune costimulatory molecules on CLL B cells. Conceivably, treatment of CLL cells with metalloprotease inhibitors may enhance their potential for stimulating cellular immune recognition of leukemia-associated antigens.

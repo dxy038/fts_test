@@ -1,0 +1,9 @@
+Genetic Algorithms (GA) are used in combination with the steady state nodal core simulator
+PRESTO-B to create a system for the optimization of reload patterns for Boiling Water Reac-
+tors (BWR). The system uses the basic GA operators, crossover, mutation and selection over
+the loading pattern (LP) represented by a combination of fresh and burned fuel assemblies, as
+well as an objective function taking into account cycle length and radial peaking factor, to
+obtain improved loading patterns compared with real BWR loadings. The system takes
+advantage of the ecient quarter core two dimensional (2D) calculations, using the Haling
+technique to perform thousands of LPs evaluations and obtain the better candidates in a rea-
+sonably computer processor (CPU) time

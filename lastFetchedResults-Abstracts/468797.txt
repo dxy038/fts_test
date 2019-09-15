@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to compare the descent curves and second-stage length among grand multiparous, nulliparous, and lower parity multiparous women.
+Study design
+Retrospective cohorts of spontaneously laboring, vertex-presenting, term, grand multiparous women (parity ≥5) from two medical centers over 5.5 years were matched randomly to nulliparous women and lower parity multiparous women controlled for age, hospital, and year of delivery. Descent curves were modeled from serial cervical examination data by the estimation of the probability of a given station occurring at a given time before delivery with the use of ordinal logistic regression. Curves were compared by Wald tests and adjusted for possible confounders. Second-stage lengths were compared by a Cox proportional hazards model. A probability value of <.05 was considered significant.
+Results
+Grand multiparous women and lower parity multiparous women maintain a high station up to 1.5 hour before delivery and then rapidly transition to delivery. Nulliparous women transition to lower stations at a more gradual rate throughout the first and second stages. Descent curves differ among parity groups, with grand multiparous women maintaining a higher station for a longer time compared with either lower parity multiparous women or nulliparous women (P<.001). Once full dilation is reached, the median length of the second stage is 0.75, 0.85, and 1.75 hours for grand multiparous women, lower parity multiparous women, and nulliparous women, respectively (hazard ratios were 0.39 for nulliparous women vs grand multiparous women and 0.9 for lower parity multiparous women vs grand multiparous women).
+Conclusions
+Compared with lower parity multiparous women or nulliparous women, grand multiparous women maintain a higher station for a longer time before delivery but transition rapidly to delivery once full dilation is reached.
+

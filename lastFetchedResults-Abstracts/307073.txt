@@ -1,0 +1,5 @@
+Objective: We developed a quantitative reverse-transcription polymerase chain reaction (RT-PCR) to determine CK20 expression in colorectal tumor and hematopoietic tissue.
+Design and Methods: Our method incorporates a calibrated PCR with an internal competitor and an external standard.
+Results: The RT-PCR assay is sensitive detecting 10 target molecules of CK20 in solution with one round of 38 amplification cycles. Genomic DNA contamination was eliminated by Dnase I digestion of total RNA. The inclusion of a calibrator in the quantitative RT-PCR analysis allowed for a high throughput of unknown samples within the same assay improving comparative analysis between the samples tested. Analysis of peripheral blood and bone marrow from 20 healthy volunteers revealed a low level of CK20 expression in all samples.
+Conclusion: To study the clinical significance of CK20 expression as a marker of systemic metastatic disease it is essential to measure CK20 mRNA levels in hematopoietic tissue with sensitive quantitative RT-PCR. A sensitive and reproducible method, which is easily performed, is described.
+

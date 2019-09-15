@@ -1,0 +1,11 @@
+Objective
+Monocyte-derived dendritic cells (DCs) play important roles in the immune response against infections and malignancies. Human herpesvirus 6 (HHV-6) infects monocytes and is reactivated in immunodeficient patients. To clarify the mechanisms of HHV-6-induced immunodeficiency, we investigated the effect of HHV-6 infection on differentiation of monocytes to DCs.
+Methods
+
+Monocytes were inoculated with or without HHV-6 and then allowed to differentiate to myeloid DCs in culture medium containing granulocyte-macrophage colony-stimulating factor and interleukin (IL)-4. The expression of cell surface molecules on DCs and the capacity of the DCs for antigen capture were examined by flow cytometric analysis. Alteration of antigen-presenting capacity induced by HHV-6 infection was examined.
+Results
+
+The morphology of HHV-6-infected monocyte-derived DCs was distinctly different from that of the DCs derived from mock-infected monocytes. Although expression levels of DC-associated surface antigens, including CD80, CD83, and CD86, were significantly higher on HHV-6-infected monocyte-derived DCs than on DCs derived from mock-infected monocytes, antigen-presenting capacity was significantly lower in the former group. Addition of culture supernatant of HHV-6-infected monocytes resulted in suppression of the T-lymphocyte proliferative response, and anti-IL-10 neutralizing antibody partly inhibited this suppressive effect. The antigen-presenting capacity of DCs generated from a patient with severe HHV-6 reactivation was significantly lower than that of DCs generated from the same patient in the recovery phase.
+Conclusions
+
+HHV-6 infection induces immunodeficiency via impaired differentiation of DCs. These results present a new concept for the pathogenesis of HHV-6-induced immunodeficiency.

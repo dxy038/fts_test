@@ -1,0 +1,19 @@
+OBJECTIVE
+
+To compare the prognostic significance of reperfusion assessment by Thrombolysis in Myocardial Infarction (TIMI) flow grade in the infarct related artery and ST-segment resolution analysis, by correlating with clinical outcomes in patients with acute myocardial infarction (AMI).
+
+BACKGROUND
+
+Angiographic assessment, based on epicardial coronary anatomy, has been considered the “gold standard” for reperfusion. The electrocardiogram (ECG) monitoring provides a noninvasive, real-time physiologic marker of cellular reperfusion and may better predict clinical outcomes.
+
+METHODS
+
+Two hundred fifty-eight AMI patients from the Thrombolytics and Myocardia Infarction phase 7 and Global Utilization of Streptokinase tPA for Occluded coronary arteries phase 1 trials were stratified based on blinded, simultaneous reperfusion assessment on the acute angiogram (divided into TIMI grades 0 & 1, TIMI grade 2 and TIMI grade 3) and ST-segment resolution analysis (divided into: <50% ST-segment elevation resolution or reelevation and ≥50% ST-segment elevation resolution). In-hospital mortality, congestive heart failure (CHF) and combined mortality or CHF were compared to determine the prognostic significance of reperfusion assessment by each modality using chi-square and Fisher’s Exact tests for univariable correlation and logistic regression analysis for univariable and multivariable prediction models.
+
+RESULTS
+
+By logistic regression analysis, ST-segment resolution patterns were an independent predictor of the combined outcome of mortality or CHF (p = 0.024), whereas TIMI flow grade was not (p = 0.693). Among the patients determined to have failed reperfusion by TIMI flow grade assessment (TIMI flow grade 0 & 1), the ST-segment resolution of ≥50% identified a subgroup with relatively benign outcomes with the incidence of the combined end point of mortality or CHF 17.2% versus 37.2% in those without ST-segment resolution (p = 0.06).
+
+CONCLUSION
+
+Continuous 12-lead ECG monitoring can be an inexpensive and reliable modality for monitoring nutritive reperfusion status and to obtain prognostic information in patients with AMI.

@@ -1,0 +1,1 @@
+In this paper we present a Java applet used for teaching discrete-time system theory to electrical and computer engineering students. The objective of the applet is to show students the relation between the position and number of poles and zeros in the Z-plane with the frequency and impulse responses of the linear system defined by these poles and zeros

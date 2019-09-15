@@ -1,0 +1,1 @@
+In this paper we develop a network location model that combines the characteristics of ordered median and gradual cover models resulting in the Ordered Gradual Covering Location Problem (OGCLP). The Gradual Cover Location Problem (GCLP) was specifically designed to extend the basic cover objective to capture sensitivity with respect to absolute travel distance

@@ -1,0 +1,1 @@
+In this paper, a modified SAOC (Spatial Audio Object Coding) scheme with harmonic elimination structure is proposed. The proposed structure improves the quality of vocal-removed sound and well removes a vocal object using the harmonic information of the vocal object. Subjective and objective evaluation results show the proposed scheme is superior to the conventional ones.

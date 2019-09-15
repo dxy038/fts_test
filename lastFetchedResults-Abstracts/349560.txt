@@ -1,0 +1,11 @@
+Objective
+Electroencephalographic (EEG) research on the physiological basis of individual differences in personality or intelligence commonly presumes that between-subjects differences of EEG alpha activity reflect individual differences in brain functions. However, non-functional sources of variance such as individual differences in skull thickness may significantly contribute to individual differences in the magnitude of EEG amplitudes. Aim of the present study was to assess the association between skull thickness and the magnitude of EEG alpha activity.
+Methods
+A 58-channel EEG was recorded from 49 subjects in resting states at three occasions of measurement each 5 weeks apart. Skull thickness was assessed with proton-weighted images of the head that were acquired with a 1.5 T magnetic resonance imaging (MRI) scanner.
+Results
+There was only a mediocre association between EEG alpha power at frontal, temporal, and parietal sites and the thickness of the underlying skull, with correlations ranging between r = −.36 and r = .10.
+Conclusions
+This finding suggests that intracranial sources contribute much more variance to the surface EEG than do variations in skull thickness.
+Significance
+Skull thickness may be neglected as a potent source of error when individual differences in brain activity are indexed by the magnitude of EEG alpha activity.
+

@@ -1,0 +1,11 @@
+Purpose
+In Catalonia, a region in the northeast of Spain, a rate of five cases of meningococcal disease per 100,000 inhabitants was reported during the period of 1996–1997, which was higher than in previous years. The objective of this study was to analyze the temporal behavior of serogroup B and C meningococcal disease cases in Catalonia.
+Methods
+
+The study included confirmed cases of meningococcal disease from the 4-week period 11 of 1996 to the 4-week period 10 of 2004. A Poisson regression model (GLM) was fit for time series of serogroup B cases, whereas a zero-inflated Poisson model (ZIP) was necessary to adjust time series of serogroup C cases.
+Results
+
+The evolution of cases in both serogroups was correlated over time. For serogroup B, there was also an association with the influenza epidemics reported in four of the seasons analyzed. For serogroup C, a positive association with three influenza epidemics and a negative association with vaccination campaigns were found. Time series analysis of meningococcal disease shows that serogroups B and C behave in a different way.
+Conclusions
+
+The study of the evolution of each serogroup may be useful in evaluating vaccination strategies.

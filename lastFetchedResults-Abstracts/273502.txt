@@ -1,0 +1,11 @@
+A kink is a singular surface across which the displacement is continuous but the deformation gradient and the fibre
+direction suffer a discontinuity. A kink band is a highly deformed or even damaged region bounded by two kinks. The
+objective of modelling kink-band formation, within the framework of finite elasticity theory, is to find a suitable strain–
+energy function, guided by results from a finite number of simple experiments, that can be used to predict what have
+been observed and what might be possible under other loading conditions. In this paper, we explain a theoretical basis
+for choosing such strain–energy functions. More precisely, for a given strain–energy function that allows formation of
+kinks and a given deformation field, we characterize all possible deformation fields that can join the given deformation
+field through a kink and explain a procedure that can be used to assess the stability properties of any kink solution that
+is mathematically possible. In contrast with most previous studies in the engineering community where, for instance, the
+kink orientation angle is undetermined, the present theory completely determines the kink propagation stress, the kink
+orientation angle and the fibre direction within the kink band.

@@ -1,0 +1,11 @@
+Objective
+To clarify whether the ratio of tone burst vestibular evoked myogenic potential (VEMP) amplitude to galvanic (electric) VEMP amplitude can be a useful indicator of peripheral vestibular disorders, especially labyrinthine disorders.
+Methods
+Twelve healthy volunteers and 12 patients with endolymphatic hydrops (EH) were enrolled in this study. VEMP was recorded using 500 Hz short tone bursts (135 dBSPL, rise/fall time 1 ms, plateau time 2 ms) and galvanic stimulation (3 mA, 1 ms). Amplitudes of p13–n23 (tone burst) and p13g–n23g (galvanic) were corrected using background muscle activity. We defined the ratio of the corrected amplitude of p13–n23 to the corrected amplitude of p13g–n23g as TGratio.
+Results
+The mean ± SD of logarithmic value of TGratio (LTGratio) of healthy volunteers was 0.34 ± 0.12. LTGratios in patients were 0.002 ± 0.24 on the affected side and 0.34 ± 0.14 on the unaffected side. LTGratio on the affected side of patients was significantly smaller than the ratio on the unaffected side and the ratio of healthy volunteers. Among the 12 patients with EH, 8 patients (66%) had significantly decreased LTGratio (smaller than mean−2SD of healthy volunteers).
+Conclusions
+Patients with EH had decreased ratio of tone burst VEMP amplitude to galvanic VEMP amplitude.
+Significance
+TGratio (or LTGratio) could be a new promising parameter of VEMP as it can be calculated from results of one side.
+

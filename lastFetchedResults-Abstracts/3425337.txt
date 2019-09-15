@@ -1,0 +1,1 @@
+The necessary and sufficient conditions of the locally noninferior set for the static optimization problem with a vector-valued objective function have been derived. Equality and inequality constraints in the variable space have been discussed to give a more complete formulation. All of these have been done by using the properties of the dual linear inequality systems.

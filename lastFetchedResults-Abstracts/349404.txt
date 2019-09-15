@@ -1,0 +1,11 @@
+Objective
+To develop an electrode cap with high number of electrodes for recording very small preterm babies, to assess the physiological stress imposed by the application of this cap on babies, and to estimate what added information could be potentially obtained with more electrodes in this age group.
+Methods
+We recruited eleven extremely small preterm babies (conceptional age 25–29 weeks) to record their EEG with a custom-tailored high-density EEG cap (20 channels), coupled with a Full-band EEG amplifier. Physiological stress caused by the cap placement was assessed by recording heart rate and arterial oxygen saturation before and during EEG cap placement, as well as before and during a routine care procedure of the given baby. The quality of novel information obtained with this system was assessed by comparing the full signal to a set of EEG signals where we deliberately distorted and omitted major signal components to make it appear as in the conventional EEG systems.
+Results
+The changes in heart rate or oxygen saturation caused by the cap placement are fully comparable to the changes seen after any normal care procedure in the same baby. Our recordings did also reveal that brain activity in the small premies is highly focal, and often confined to only one or two electrodes. Hence it cannot be pertinently localized with the currently used low number of recording electrodes. Moreover, recordings from babies with focal intracerebral hemorrhages showed that changes after vascular insults are clearly more prominent and hence easier to detect visually from multichannel recordings.
+Conclusions
+Recording of high-fidelity EEG (high-density caps and FbEEG system) is practical in the incubator environment, and the application of a proper EEG cap is not more stressful to the baby than a routine care procedure. Moreover, these achievable amendments in the recording system seem to disclose major physiological and pathological signal components in the as yet poorly explored patient group.
+Significance
+Introduction of a technically feasible and physically gentle enough EEG recording system will enable further development of clinical neurophysiological understanding, as well as the design of pertinent brain monitors, which is urgently needed in these patients.
+

@@ -1,0 +1,18 @@
+Background and Objective: Accurate and reliable information is critical to effective decision- making to
+preventing road traffic injuries (RTIs). This study investigated the status of Road Traffic Data Collection
+System (RTDCS) and provided some practical solutions.
+
+Materials and Methods: All RTIs in 2012 were included in the study. The RTIs data are collected by
+police using COM 114 tool. The PATAK software was designed and used to link relevant records of
+specified accident. Using descriptive analysis and also Microsoft Office Excel and PATAK software’s
+functions the errors of RTDCS were detected.
+Results: A total of 1,392,815 records of road traffic accidents were examined. Approximately 7% of RTIs
+were recorded repetitively. There were more than 2% of all injuries with no information about general
+condition of accident and 10.2% with no divers’ information. Missing data was almost high in all variables
+and in some cases were 50%. Mismatching and inconsistent in the part of data and overlapping in some
+of variables in data collection tool were of other problems. More than 99 percent of records identified and
+merged correctly using the PATAK software.
+
+Conclusion: The study revealed that RTDCS faces some problems and shortcomings. Using designed
+PATAK software, probability of all data utilization in road traffic data collection system is provided. To
+improve quality of RTIs data, reloading and modification of RTDCS is necessary.

@@ -1,0 +1,11 @@
+Objective
+The human auditory cortex codes speech temporally according to sequential acoustico-phonetic cues like the voice onset time (VOT). This coding is predominantly left-lateralized in normal readers. We examined VOT-processing asymmetries in adults with a history of developmental dyslexia (DD-history+).
+Methods
+Auditory-evoked potentials (AEPs) to voiced (/ba/) and voiceless (/pa/) speech stimuli were recorded from 10 DD-history+ adults and 8 controls. Source modelling of the “release component” (RC:  240 ms; time-locked to voiced consonantal release and considered reflective of VOT-processing) was conducted to explore VOT asymmetries.
+Results
+Controls demonstrated L > R RC source probe amplitude asymmetry in the auditory cortex. DD-history+ subjects with little persistent reading deficit (n = 5) demonstrated normal temporal coding but rightward asymmetry. DD-history+ subjects with severe persistent deficits (n = 5) exhibited numerous supplemental AEP components (notably left hemispheric) and inconsistent asymmetry (leftward or alternating).
+Conclusions
+These preliminary findings suggest that DD-history+ adults process auditory speech cues differently than adults without previous DD. The nature of this processing may relate to the severity of persistent reading deficits.
+Significance
+Previous dyslexics with little persistent deficit can exhibit atypical functional asymmetry with normal auditory temporal coding. Source modelling represents an effective, non-invasive means of exploring processing asymmetries in clinical populations.
+

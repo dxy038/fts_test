@@ -1,0 +1,13 @@
+Changes in the dynamic properties of structures indicate an occurrence of
+damages in them. In this paper, the dynamic properties of damaged structures under
+dierent scenarios are obtained using suitable nite element modeling. An optimization
+technique is then used to minimize the dierence between experimental and modeled data,
+i.e. to minimize the value of the objective function. In this paper, the Charged System
+Search Algorithm (CSS) is used for the optimization process. For enhancing the search
+algorithm, the input data is modied in a recursive process utilizing the results of previous
+iterations. Natural frequency and mode shapes are used in the objective function. A
+beam and two frames are used to evaluate the performance of the algorithm. Results show
+that this algorithm is eective in damage detection and its performance is better when
+a curvature mode shape is used in place of a displacement mode shape. Increasing the
+element or the number of damaged elements does not aect the eciency of the algorithm,
+and only increases the number of iterations

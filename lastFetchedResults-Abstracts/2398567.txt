@@ -1,0 +1,8 @@
+Objectives
+er to predict the long-term performance of dental adhesives, it is necessary to understand their mechanical properties. The objective of this study was to use a new nanoindentation technique to characterize the in-plane linear viscoelastic properties of dental adhesive layers.
+s
+ntal adhesives used were Clearfil SE Bond (CSE) and Clearfil Tri-S Bond (CTS) by Kuraray Medical and Single Bond (SIB) and Single Bond Plus (SBP) by 3M ESPE. A thin film of each adhesive was made on a micro-glass slide, and was then tested on a nanoindenter system (ENT 1100, Elionix) with a Berkovich indenter at a constant loading rate of 0.1 mN/s up to a maximum load of 1.8 mN. The load–displacement data of the loading segment were fitted to a curve to find best fit parameters for a generalized Kelvin viscoelastic model, from which creep compliance and Young's modulus were calculated. The modulus results were compared to the values calculated by the nanoindentation device.
+s
+perimental data fitted well to the viscoelastic model for all materials (R &gt; 0.9999). SIB and CTS showed higher creep compliance compared to SBP and CSE. The modulus values obtained using the model were 4.0, 2.6, 2.4 and 4.2 GPa for CSE, CTS, SIB and SBP, respectively. The nanoindentation default software designed for time-independent materials significantly overestimated the modulus values up to 2.5 times.
+sion
+erally expected for polymer materials, the adhesives tested showed time-dependent viscoelastic behavior. The mechanical evaluation techniques developed for time-independent materials ignore this behavior and may not be appropriate for dental adhesives.

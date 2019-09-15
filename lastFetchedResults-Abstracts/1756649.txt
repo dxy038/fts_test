@@ -1,0 +1,8 @@
+Objective
+mine the personality trait conscientiousness as a risk factor for mortality and to identify candidate explanatory mechanisms.
+s
+ipants in the Whitehall II cohort study (N = 6800, aged 34 to 55 at recruitment in 1985) completed two self-reported items measuring conscientiousness in 1991–1993 (‘I am overly conscientious’ and ‘I am overly perfectionistic’, Cronbach's α = .72), the baseline for this study. Age, socio-economic status (SES), social support, health behaviours, physiological variables and minor psychiatric morbidity were also recorded at baseline. The vital status of participants was then monitored for a mean of 17 years. All-cause and cause-specific mortality was ascertained through linkage to a national mortality register until January 2010.
+s
+ standard deviation decrease in conscientiousness was associated with a 10% increase in all-cause (hazard ratio [HR] = 1.10, 95% CI 1.003, 1.20) mortality. Patterns were similar for cardiovascular (HR = 1.17, 95% CI 0.98, 1.39) and cancer mortality (HR = 1.10, 95% CI 0.96, 1.25), not reaching statistical significance. The association with all-cause mortality was attenuated by 5% after adjustment for SES, 13% for health behaviours, 14% for cardiovascular risk factors, 5% for minor psychiatric morbidity, 29% for all variables. Repeating analyses with each item separately and excluding participants who died within five years of personality assessment did not change the results materially.
+sion
+nscientiousness in midlife is a risk factor for all-cause mortality. This association is only partly explained by health behaviours, SES, cardiovascular disease risk factors and minor psychiatric morbidity in midlife.

@@ -1,0 +1,9 @@
+In this paper, a systematic method is proposed for the design of general multivariable controller for complex processes to achieve
+the goal of fast loop responses with acceptable overshoots and minimum loop interaction while maintaining low complexity of the
+feedback controller. The design of general transfer function type controller is based on the fundamental relations under decoupling
+of a multivariable process, and the characterization of the unavoidable time delays and non-minimum phase zeros that are inherent
+in the decoupled loops. The objective loop transfer functions are then suitably specified to achieve fast loop response taking into
+account the performance limitation imposed by those non-minimum phase zeros and time delays. The ideal controller is then
+obtained which is in general a complicated irrational transfer matrix, for which model reduction with recursive least squares is
+applied in the frequency domain to obtain a much simpler transfer matrix with its elements in the form of rational transfer function
+plus delay. Simulations show that very satisfactory control performance is achieved.

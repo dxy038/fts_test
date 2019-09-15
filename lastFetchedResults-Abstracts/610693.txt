@@ -1,0 +1,12 @@
+The vehicle routing problem is the fundamental problem in distribution management, and in
+general it includes a set of problems in which a number of vehicles located in one or many depots
+should meet and service to a set of customers, each requiring a certain amount of demands. On the
+other hand, in most real world problems especially in logistics area we face multi-objective problems.
+When looking for objectives, often objectives counteract and this is why considering multi-objective
+problem can be efficient. In the competitive world there is a lot of attention to customer satisfaction.
+Therefore, we should attempt to provide models that consider more needs of customers. One of the
+most important factors for customers is providing the request timely. In this study, customers have
+multiple demands; therefore a new mixed integer programming model for vehicle routing is presented
+by combining concepts of time windows and multiple demands, and with two objectives: minimizing
+total travel cost and maximizing demand coverage. Some of the generated instances are solved by
+GAMS software to evaluate the new proposed model.

@@ -1,0 +1,5 @@
+Objective: The aim of the present paper is to study the performance of Beck’s Depression Inventory (BDI) as a screening instrument for depressive disorders in a general population sample.
+
+s: 1250 subjects, from 18 to 64 years old, were randomly selected from the Santander (Spain) municipal census. A two-stage method was used: in the first stage, all individuals selected completed the BDI; in the second, ‘probable cases’ (BDI cut-off≥13) and a random 5% sample of the total sample with a BDI score less than 13 were interviewed by psychiatrists using the Schedules for Clinical Assessment in Neuropsychiatry (SCAN), which generates diagnoses of depressive disorders.
+
+s: Our data confirm the predictive value of the selected cut-off point (12/13): 100% sensitivity, 99% specificity, 0.72 PPV, 1 NPV, and 98% overall diagnostic value. The area under ROC (AUC) was found to be 0.99. There were no statistical differences in terms of sex or age. We conclude that the BDI is a good instrument for screening depressive disorders in community surveys.

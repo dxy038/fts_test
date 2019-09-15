@@ -1,0 +1,9 @@
+Background
+Our objective was to predict endoscopic performance in a cadaver model using basic performance resources (BPRs) measurements.
+Methods
+Medical students (n = 16) underwent intense ureteroscopic training on a virtual reality ureteroscopy trainer and were rated on performing ureteroscopy on a cadaver. The medical students also underwent 13 validated BPR measurements. Urology residents also performed cadaveric ureteroscopy and BPRs. A predictive model built from urology residents’ (n = 16) BPRs and performance assessment was used to predict medical student cadaveric ureteroscopy performance based on their BPRs alone.
+Results
+The predictive model built with urology residents predicted the ureteroscopic performance of 10 of 16 medical students within 15% of their rated ureteroscopic performance on the cadaver.
+Conclusions
+A predictive model built with urology residents can moderately predict the ureteroscopic performance of medical students from BPRs. Additional in vivo evaluation is required.
+

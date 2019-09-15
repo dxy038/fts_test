@@ -1,0 +1,9 @@
+Three cases of widespread sea fog in Lunenburg Bay, Nova Scotia were used to evaluate the
+suitability of operational regional GEM forecast fields for inferring advection fog occurrences. Verification
+scores suggest that the objective analyses contain significant departures from observations that will affect
+model accuracy, given the sensitivity of fog condensation microphysics. Dew point depression (ES) scores
+show larger differences compared to temperature, with both influenced by surface characteristics. For
+objective analyses and GEM forecasts ES < 2 C seems to match fog satellite images better than the
+physical threshold ES £ 0 C. In addition the GEM forecasts show a general tendency towards drier
+conditions near the surface, therefore reconfiguring GEM to better represent condensation in the boundary
+layer is proposed.

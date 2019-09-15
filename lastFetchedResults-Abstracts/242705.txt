@@ -1,0 +1,9 @@
+Gamma ray tomography experiments have been carried out to detect any spatial patterns in the porosity in a 0.6 m diameter
+packed column. Three different sizes of stainless steel Pall rings (16, 25 and 38 mm) have been examined. The primary objective
+is to detect spatial patterns and statistical information on porosity variation in packed distillation columns. Such data are needed
+in the computational fluid dynamics simulators based on 6olume a6eraged equations. Horizontal scans, at different vertical positions
+of the packed bed, were made for each size of Pall rings. A tomographic reconstruction algorithm has been used to calculate the
+spatial variation over the column cross section. Radial porosity variation within the packed bed has been determined. The
+variation of the circumferentially averaged porosity in the radial direction indicates that the porosity in the column wall region
+is a somewhat higher than that in the bulk region, due to the effect of the column wall. The probability density function for
+porosity variation has been constructed from the experimental data and it can be represented by a normal distribution.

@@ -1,0 +1,14 @@
+Background
+The 2006 World Health Organization Air Quality Guidelines recommend using particulate matter having a diameter of under 2.5 micra (PM2.5) rather than PM10 as an indicator of air particle concentration, a pattern followed by new European directives. Nevertheless, few studies have analysed this new indicator's impact at a European level on daily mortality among a high-risk group, such as persons aged over 75 years.
+Objective
+
+This study sought to analyse and quantify the effect of PM2.5 on daily cause-specific mortality among the over-75 age group in the city of Madrid.
+Methods
+
+Using Poisson regression with Generalized Additive Models (GAM), a longitudinal, ecological time-series study examined the following causes of death: all causes except accidents (International Classification of Diseases-9th revision (ICD 9): 1-799); circulatory causes (ICD 9: 390-459); and respiratory causes (ICD 9: 460-519). These were adjusted for other chemical, biotic and acoustic pollutants. Further control variables considered were: trend; seasonality; influenza epidemics; and autocorrelation between mortality series.
+Results
+
+A significant statistical association was detected between daily mean PM2.5 particle concentrations and all-cause mortality in the city of Madrid. This association was not in evidence for PM10 concentrations. The Relative Risks found for an increase of 25 µg/m3 in PM2.5 concentrations were as follows: all-cause mortality, 1.057 (1.025–1.088); circulatory-cause mortality, 1.088 (1.041–1.135); and respiratory-cause mortality, 1.122 (1.056–1.189). The Attributable Risks were 5.41%, 8.12% and 10.90% respectively. This effect was observed in the short term (lags 1–2).
+Conclusion
+
+Our results indicate a strong impact of PM2.5 concentrations on daily mortality among the over-75 age group in Madrid, and underscore the need for measures aimed at lowering the concentration levels of this primary air pollutant in large cities, particularly by reducing motor vehicle traffic, the main source of such pollutant emission in urban atmospheres.

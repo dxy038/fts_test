@@ -1,0 +1,13 @@
+Objective
+We sought to explore in vivo the relation between mechanical and compositional properties of matched cross sections (CSs) using novel catheter-based techniques.
+Background
+
+Intravascular ultrasound (IVUS) palpography allows the assessment of local mechanical tissue properties. Spectral analysis of IVUS radiofrequency data (IVUS-VH) is a tool to assess plaque morphology and composition.
+Methods and Results
+
+Palpography analysis defined high- and low-strain regions. One hundred twenty-three CSs (27 vessels) were colocalized. The mean strain value was higher in CSs with necrotic core (NC) in contact with the lumen than in CSs with no NC contact with the lumen (1.03 ± 0.5 vs 0.86 ± 0.4, P = .06).
+
+Mean relative calcium (1.61 ± 2.5% vs 0.25 ± 0.7%, P = .001) and NC (15.64 ± 10.6% vs 2.8 ± 3.9%, P < .001) content were significantly higher in the CSs with NC in contact with the lumen, whereas the inverse was seen for the fibrotic component of the plaque (64.16 ± 11.6% vs 75.75 ± 13.7, P < .001). The sensitivity, specificity, positive predictive value, and negative predictive value of IVUS-VH to detect high strain were 75.0%, 44.4%, 56.3%, and 65.1%, respectively. A significant inverse relationship was present between calcium and strain levels (r = −0.20, P = .03). After adjusting for univariate predictors, the contact of NC with the lumen was identified as the only independent predictor of high strain (OR 5.0, 95% CI 1.7-14.1, P = .003).
+Conclusion
+
+In the present study, IVUS-VH showed an acceptable sensitivity to detect high strain. In turn, the specificity was low. Of interest, a significant inverse relationship was present between calcium and strain levels.

@@ -1,0 +1,11 @@
+Purpose
+To evaluate the factors associated with recurrent pulmonary tuberculosis using a well-defined, population-based tuberculosis registry system.
+Methods
+
+A case–control study of persons with recurrent pulmonary tuberculosis cases (n = 437) and systematically sampled nonrecurrent controls (n = 442) matched by year of initial diagnosis in South Carolina. Data were acquired from the tuberculosis registry and medical chart reviews. Conditional logistic regression was used to model the relationship between recurrent disease and clinical and demographic characteristics in a multivariable analysis.
+Results
+
+From 1970 through 2002, there were 15,464 pulmonary tuberculosis patients, of which 2.9% were recurrent disease. After adjusting for the covariates, odds ratios (OR) and 95% confidence intervals (95% CI) for suboptimal therapy was 6.4 (3.9–10.5), alcoholism 3.9 (2.5–6.1), interaction between treatment duration exceeding 24 months and poor compliance 3.8 (2.4–4.3), and age older than 65 years 1.9 (1.2–2.9). Our study noted an interaction between poor patient compliance and duration of treatment.
+Conclusion
+
+Treatment regimen, duration of treatment, compliance, alcoholism, and older age are strong predictors of recurrent disease. Reinforcing the tuberculosis treatment guideline and applications of directly observed therapy have to remain integral components of tuberculosis control and elimination program.

@@ -1,0 +1,11 @@
+Objective
+Tumor-associated antigens (TAA) are the basis for antigen-specific immunotherapy. The human homolog of the murine double-minute 2 oncoprotein (MDM2) is a putative TAA because it is overexpressed in several malignancies, including chronic lymphocytic leukemia (CLL) cells compared with normal B lymphocytes.
+Patients and Methods
+
+Autologous, MDM2-specific human leukocyte antigen (HLA)-A2-restricted T cells were identified using interferon (IFN)-γ-ELISPOT assays and HLA-A2/dimer-peptide staining after 4 weeks of in vitro culture.
+Results
+
+Using native CLL cells as antigen-presenting cells (APCs), we demonstrate the generation of MDM2-specific T cells in 7/12 CLL patients that recognized specifically the MDM2-derived peptide MDM281-88 bound to HLA-A2-dimers while they were inactive against an unrelated MAGE-3 peptide (p = 0.002). After 4 weeks, up to 32.3% of the expanded CD8+ T cells specifically recognized MDM281-88 by HLA-A2-dimer/peptide staining and up to 0.9% of all T cells expanded reacted specifically against this MDM2-derived peptide in the IFN-γ-ELISPOT assay. If T cells were not expandable using native CLL cells as APC, leukemic cells were stimulated with CD40-ligand to increase the antigen-presenting capacity. This resulted in successful generation of MDM2-specific T cells in three of five remaining cases tested. Additionally, the factor that correlated best with successful generation of antigen-specific T cells in CLL patients was the ability of APCs to secrete IFN-γ upon stimulation.
+Conclusion
+
+In summary, MDM281-88 was shown for the first time in humans to elicit a functional autologous immune response. MDM2 was demonstrated to be naturally processed and presented as TAA in primary human CLL cells enabling expansion of functional autologous tumor-specific T cells.

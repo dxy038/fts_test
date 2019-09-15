@@ -1,0 +1,11 @@
+Objective. To evaluate the instantaneous effects of visual feedback on undisturbed stance control mechanisms.
+
+Design. The controlling variable, the centre of pressure trajectories, recorded using a force platform, were decomposed into two elementary motions: (1) the horizontal displacements of the centre of gravity and (2) the vertical projection of the difference between centre of pressure and the centre of gravity. These motions were processed through frequential analysis and modelled as fractional Brownian motion.
+
+Background. Even though visual feedback protocols are advantageously used for rehabilitation purposes, their immediate effects from biomechanical and motor control points of view need to be assessed.
+
+Methods. Twelve healthy adult subjects were tested through eyes open and visual feedback conditions.
+
+Results. A significant amplitude increase in the difference between the centre of pressure and the centre of gravity motions and a decrease in the centre of gravity motions are observed during visual feedback. The fractional Brownian motion modelling analysis reveals an enhanced control of these elementary motions. The point at which the corrective process is initiated is increased with visual feedback whereas the time delay remains the same.
+
+Conclusions. The decrease of the centre of pressure displacements classically observed through visual feedback protocol initially results in a reduction of the centre of gravity motions and an augmentation of the difference between centre of pressure and centre of gravity motions, hence suggesting increased muscular activity.

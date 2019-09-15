@@ -1,0 +1,10 @@
+AbstractContext
+ity is an important software quality attribute for APIs. Unfortunately, measuring it is not an easy task since many things like experienced evaluators, suitable test users, and a functional product are needed. This makes existing usability measurement methods difficult to use, especially for non-professionals.
+ive
+e API usability measurement easier, an automated and objective measurement method would be needed. This article proposes such a method. Since it would be impossible to find and integrate all possible factors that influence API usability in one step, the main goal is to prove the feasibility of the introduced approach, and to define an extensible framework so that additional factors can easily be defined and added later.
+
+rature review is conducted to find potential factors influencing API usability. From these factors, a selected few are investigated more closely with usability studies. The statistically evaluated results from these studies are used to define specific elements of the introduced framework. Further, the influence of the user as a critical factor for the framework’s feasibility is evaluated.
+s
+I Concepts Framework is defined, with an extensible structure based on concepts that represent the user’s actions, measurable properties that define what influences the usability of these concepts, and learning effects that represent the influence of the user’s experience. A comparison of values calculated by the framework with user studies shows promising results.
+sion
+concluded that the introduced approach is feasible and provides useful results for evaluating API usability. The extensible framework easily allows to add new concepts and measurable properties in the future.

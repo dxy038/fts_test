@@ -1,0 +1,12 @@
+In this paper, we integrate goal programming (GP), Taylor Series, Kuhn-Tucker conditions and Penalty Function approaches to
+solve linear fractional bi-level programming (LFBLP)problems. As we
+know, the Taylor Series is having the property of transforming fractional
+functions to a polynomial. In the present article by Taylor Series we
+obtain polynomial objective functions which are equivalent to fractional
+objective functions. Then on using the Kuhn-Tucker optimality condition
+of the lower level problem, we transform the linear bilevel programming
+problem into a corresponding single level programming. The complementary and slackness condition of the lower level problem is appended to
+the upper level objective with a penalty, that can be reduce to a single
+objective function. In the other words, suitable transformations can be
+applied to formulate FBLP problems. Finally a numerical example is
+given to illustrate the complexity of the procedure to the solution.

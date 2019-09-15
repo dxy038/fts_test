@@ -1,0 +1,1 @@
+An existence theorem is given for a general class of deterministic, infinite-horizon, discrete-time optimal control problems. The hypotheses of the theorem are weak and can be easily verified. The objective function may be either a summation or supremum over time.

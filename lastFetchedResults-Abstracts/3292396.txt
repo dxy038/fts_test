@@ -1,0 +1,1 @@
+We report on the design and simulation of high-power, high-brightness laser diodes and bars. Bar level simulations are demonstrated revealing important consequences of current competition and thermal crosstalk. We also demonstrate bidirectional coupling with external cavity optics, with the aim of evaluating the performance of full laser systems.

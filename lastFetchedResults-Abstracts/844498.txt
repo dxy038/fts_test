@@ -1,0 +1,7 @@
+In this paper, we investigate the existence and uniqueness of equilibrium point for delayed
+Cohen–Grossberg bidirectional associative memory (BAM) neural networks with impulses,
+based on nonsmooth analysis method. And we give the criteria of global exponential stability
+of the unique equilibrium point for the delayed BAM neural networks with impulses
+using Lyapunov method. The new sufficient condition generalizes and improves the previously
+known results. Finally, we present examples to illustrate that our results are
+effective.

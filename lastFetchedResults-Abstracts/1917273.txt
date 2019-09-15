@@ -1,0 +1,8 @@
+AbstractObjectives
+izing population-level disparities for the treatment of patients with renal cell carcinoma (RCC) would inform clinical practice and health policy. Few studies, reporting conflicting results, have investigated race and sex disparities specifically among patients with small renal masses.
+s and materials
+rveillance, Epidemiology, and End Results-Medicare database (1995–2007) was queried for patients with localized T1a RCC undergoing radical nephrectomy, partial nephrectomy (PN), or deferred therapy (DT). Demographics, comorbidity, and treatment approach were assessed. Multivariable logistic regression models evaluated predictors of DT and then PN among those receiving surgery. Cox proportional hazards model evaluated survival differences for whites vs. blacks and women vs. men.
+s
+l of 6,092 white and 617 black patients with T1a RCC met the inclusion criteria. Blacks were twice as likely to defer therapy compared with whites (odds ratio = 1.95, 95% CI: 1.52–2.51) and had worse overall survival (hazard ratio = 1.36, 95% CI: 1.19–1.56). However, cancer-specific survival (CSS) was similar (P = 0.429). The greatest discrepancy was among healthy (Charlson comorbidity index≤1) blacks who had a much higher rate of DT compared with their white counterparts. Women were found to have decreased use of PN compared with men (odds ratio = 0.84, 95% CI: 0.74–0.96) and better CSS (hazard ratio = 0.74, 95% CI: 0.58–0.94), but there were no differences by race.
+sions
+fferential use of DT by race instead of purely by age and comorbidity is concerning but has not led to a significant difference in CSS. Women are less likely to undergo PN compared with men, but they also have a notably improved CSS.

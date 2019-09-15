@@ -1,0 +1,13 @@
+Automation techniques have been widely used in the manufacturing industry, but there are still many
+manual handling operations required in assembly and maintenance work. Inappropriate posture and
+physical fatigue might result in musculoskeletal disorders (MSDs) in such physical jobs. In ergonomics
+and occupational biomechanics, virtual human modelling techniques have been employed to optimize
+manual operations in the design stage so as to avoid or decrease risk of MSD. In these methods, physical
+fatigue is only considered to minimize muscle or joint stress, while the effect of fatigue along time on
+posture is not often considered, although worker’s motion strategies and postures under physical fatigue
+are different from those under non-fatigue conditions. In this paper, based on related literatures and multiple-
+objective optimisation method (MOO), a new posture prediction and analysis method is proposed
+for predicting the optimal posture under non-fatigue and fatigue conditions and evaluating the physical
+fatigue in manual material handling operation. The posture prediction and analysis problem is mathematically
+described, and a special application case is demonstrated for analyzing a drilling assembly
+operation in European Aeronautic Defence and Space Company (EADS).

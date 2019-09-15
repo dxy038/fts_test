@@ -1,0 +1,9 @@
+Objective
+We devised a method to recognize carriers and patients with p47phox-deficient chronic granulomatous disease (A47 CGD), the most common autosomal form of the disease. CGD is characterized by the inability of phagocytic leukocytes to kill microorganisms, due to a defective NADPH oxidase system. The predominant genetic defect leading to p47phox-deficient CGD is a GT deletion at the beginning of exon 2 in the p47phox gene NCF1, most likely caused by recombination events between the NCF1 and one of its pseudogenes. It is hardly possible to investigate sequences of patients, carriers, and normal individuals using standard PCR/sequencing techniques, due to greater than 99% homology between NCF1 and its pseudogenes.
+Methods
+In our gene-scan method, a 198-bp region of genomic DNA around exon 2 of NCF1 is amplified by nonspecific PCR with one fluorochrome-labeled primer. The mixture of NCF1 and pseudogene product, which differs by two nucleotides in length, is separated according to size. The ratio between the peak heights indicates the relative number of NCF1 genes and pseudogenes within an individual's genome.
+Results
+The method is highly reproducible (SD = 4%) and sensitive (r = 0.998). Of the 16 healthy individuals, 15 had a 2:4 ratio (2 genes, 4 pseudogenes), 10/12 A47 CGD carriers had a 1:5 ratio, and 34 patients had only pseudogenes. In addition, gene-scans including a 20-bp duplication in intron 2 of the pseudogenes revealed insight in the crossing-over events between NCF1 and pseudogenes.
+Conclusions
+Our method distinguishes individuals with one NCF1 gene (carriers) from controls and from NCF1-deficient patients.
+

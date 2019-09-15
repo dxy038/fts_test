@@ -1,0 +1,1 @@
+This paper proposes a robust multi-objective controller design approach that employs a large class of LMI-conditions to represent design goals. First, we define a comprehensive class of LMIs, and present a solution to synthesis problems to satisfy and any of the LMIs in the class for nominal plants. Then, this result is applied to plants with norm-bounded uncertainties

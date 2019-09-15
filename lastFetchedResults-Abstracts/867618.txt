@@ -1,0 +1,19 @@
+This paper presents a new class of two-stage fuzzy material procurement planning (MPP) models with
+minimum-risk criteria, in which the material demand, the spot market material unit price and the spot
+market material supply quantity are uncertain and assumed to be fuzzy variables with known possibility
+distributions. We formulate the two-stage MPP model with the objective of maximizing the credibility of
+the total material procurement costs less than a given allowable investment level, and the credibility can
+be regarded as the material procurement risk criteria in a fuzzy environment. Since the fuzzy material
+demand, the fuzzy spot market material unit price and the fuzzy spot market material supply quantity
+are usually continuous fuzzy variables with infinite supports, the proposed MPP model belongs to an infinite-
+dimensional optimization problem that cannot be solved directly. To avoid this difficulty, we apply
+an approximation approach (AA) to the proposed two-stage fuzzy MPP model, and turn it into an approximating
+finite-dimensional optimization one. The convergence about the objective function of the
+approximating two-stage MPP model to that of the original two-stage MPP one is also discussed. Since
+the exact analytical expression for the objective function in the approximating fuzzy MPP model is
+unavailable, and the approximating MPP model is a mixed-integer program that is neither linear nor convex,
+traditional optimization algorithms cannot be used to solve it. Therefore, we develop two heuristic
+algorithms to solve the approximating MPP model. The first is a particle swarm optimization (PSO) algorithm
+based on the AA, and the second is a hybrid PSO algorithm which based on the AA and a neural
+network (NN). Finally, we provide an actual optimization problem about the fuel procurement to compare
+the effectiveness of the designed algorithms.

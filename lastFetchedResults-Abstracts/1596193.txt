@@ -1,0 +1,3 @@
+A depletion calculation benchmark devoted to MOx fuel is an ongoing objective of the OECD/NEA WPRS following the study of depletion calculation concerning UOx fuels. The objective of the proposed benchmark is to compare existing depletion calculations obtained with various codes and data libraries applied to fuel and back-end cycle configurations.
+
+ present work the deterministic code NEWT/ORIGEN-S of the SCALE6 codes package and the Monte Carlo based code MONTEBURNS2.0 were used to calculate the masses of inventory isotopes. The methodology to apply the MONTEBURNS2.0 to this benchmark is also presented. Then the results from both code were compared.

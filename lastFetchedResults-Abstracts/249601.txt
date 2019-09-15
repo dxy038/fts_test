@@ -1,0 +1,9 @@
+We present in this paper a new  nite element formulation of geometrically exact rod models in the threedimensional
+dynamic elastic range. The proposed formulation leads to an objective (or frame-indi erent
+under superposed rigid body motions) approximation of the strain measures of the rod involving  nite
+rotations of the director frame, in contrast with some existing formulations. This goal is accomplished
+through a direct  nite element interpolation of the director  elds de ning the motion of the rod’s crosssection.
+Furthermore, the proposed framework allows the development of time-stepping algorithms that
+preserve the conservation laws of the underlying continuum Hamiltonian system. The conservation laws
+of linear and angular momenta are inherited by construction, leading to an improved approximation of
+the rod’s dynamics. Several numerical simulations are presented illustrating these properties

@@ -1,0 +1,9 @@
+Objective
+Epileptic seizures are characterized by increases in synchronized activity and increased signal complexity. Prediction of seizures depends upon detectable preictal changes before the actual ictal event. The studies reported here test whether two methods designed to detect changes in synchrony and complexity can identify any changes in a preictal period before visual EEG changes or clinical manifestations.
+Methods
+Two methods are used to characterize different, but linked, properties of the signal—complexity and synchrony. The Gabor atom density (GAD) method allows for quantification of the time–frequency components of the EEG and characterizes the complexity of the EEG signal. The measure S, based on the goodness of fit of a multivariable autoregressive model, allows for characterization of the degree of synchrony of the EEG signal.
+Results
+Complex partial seizures produce very specific patterns of increased signal complexity and subsequent postictal low complexity states. The measure S shows increased synchronization later including a prolonged period of increased synchrony in the postictal period. No significant preictal changes were seen unless contaminated by residual postictal changes in closely clustered seizures.
+Conclusions
+Both GAD and S measures reveal ictal and prolonged postictal changes; however, there were no significant preictal changes in either complexity or synchrony. Any application of methods to detect preictal changes must be tested on seizures sufficiently separated to avoid residual postictal changes in the potential preictal period.
+

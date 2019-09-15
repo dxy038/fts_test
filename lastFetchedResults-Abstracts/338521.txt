@@ -1,0 +1,11 @@
+Objective
+Iron plays critical roles in many biological processes including hematopoietic cell growth and differentiation. Iron is essential for the differentiation of HL-60 promonocytes. HL-60 cells stimulated with phorbol myristate acetate (PMA) undergo G1/S phase cell-cycle arrest and differentiate to monocyte/macrophages. With iron deprivation, PMA-induced HL-60 cells bypass differentiation and undergo apoptosis. To investigate the molecular basis underlying this observation, we used commercially available gene microarrays to evaluate expression of multiple genes involved in the regulation of cell cycling and apoptosis.
+Methods
+
+We treated HL-60 cells with PMA ± desferrioxamine (DF), a potent iron chelator, to produce iron deprivation. Cells were cultured for 48 hours, and cDNA was prepared and radiolabeled with α-32P dCTP, then hybridized to gene arrays containing specific cDNA fragments.
+Results
+
+Expression of 11 of 43 genes was inhibited greater than 50% by iron deprivation. These genes were Rb; p21 (WAF1/CIP1); bad; cdk2; cyclins A, D3, E1; c-myc; egr-1; iNOS; and FasL. For each gene the microarray results were confirmed by RT-PCR and/or Northern or Western blotting. Nuclear transcription assays indicated that the role of iron in Rb expression was to support gene transcription. Addition of ferrioxamine (iron saturated DF) instead of DF to PMA-induced cells did not affect gene expression, indicating that diminished expression was due to iron deprivation, not nonspecific toxicity.
+Conclusion
+
+Iron supports expression of multiple cell cycle–regulatory and apoptosis-related genes during HL-60 cell differentiation, and, in this way, is involved in regulation of a critical cell decision point—the decision to pursue a differentiation-related or apoptotic pathway.

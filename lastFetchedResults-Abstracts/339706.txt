@@ -1,0 +1,11 @@
+Objective
+We have previously shown the simultaneous generation of CD73+ mesenchymal stromal cells (MSCs) along with CD34+ hematopoietic cells from human embryonic stem cells (ESCs) when they are cocultured with OP9 murine stromal cells. We investigated whether MSCs can be derived from human ESCs without coculturing with OP9 cells, and if such cells exhibit immunological properties similar to MSCs derived from adult human bone marrow (BM).
+Materials and Methods
+
+Our starting populations were undifferentiated human ESCs cultured on Matrigel-coated plates without feeder cells. The differentiated fibroblast-looking cells were tested for expression of MSC markers and their potential for multilineage differentiation. We investigated surface expression of human leukocyte antigen (HLA) molecules on these MSCs before and after treatment with interferon-γ (IFN-γ). We also tested the proliferative response of T-lymphocytes toward MSCs and the effects of MSCs in mixed lymphocyte reaction (MLR) assays.
+Results
+
+We derived populations of MSCs from human ESCs with morphology, cell surface marker characteristics, and differentiation potential similar to adult BM–derived MSCs. Similar to BM-derived MSCs, human ESC–derived MSCs express cell surface HLA class I (HLA-ABC) but not HLA class II (HLA-DR) molecules. However, stimulation with IFN-γ induced the expression of HLD-DR molecules. Human ESC–derived MSCs did not induce proliferation of T-lymphocytes when cocultured with peripheral blood mononuclear cells. Furthermore, ESC-derived MSCs suppressed proliferation of responder T-lymphocytes in MLR assays.
+Conclusions
+
+MSCs can be derived from human ESCs without feeder cells. These human ESC–derived MSCs have cell surface markers, differentiation potentials, and immunological properties in vitro that are similar to adult BM–derived MSCs.

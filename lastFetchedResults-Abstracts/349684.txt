@@ -1,0 +1,11 @@
+Objective
+Pivotal studies of the normal EEG posterior-dominant rhythm (PDR) typically relied on visual inspection of a few seconds of EEG data from a relatively small number of subjects in each age category. We sought to analyze and characterize the PDR in a large cohort of healthy 15-year-olds, and to determine if PDR characteristics mature over the following year.
+Methods
+Seventy-nine healthy 15-year-olds free of neurologic and psychiatric disease underwent a resting-awake EEG, which was repeated 1 year later. In each study, PDR frequency was determined with fast Fourier transform analysis of a continuous 2-min EEG segment. t-Tests were used to compare relevant variables.
+Results
+From age 15 to 16 the mean PDR frequency increased from 9.9 to 10.0 Hz, a small but statistically significant difference. The PDR frequency range at both ages was 8.9–11.0 Hz, similar to values reported in prior studies on healthy young adults. There was no significant difference in PDR frequency between genders or hemispheres.
+Conclusions
+Maturation of the PDR is nearly complete at age 16. The frequency range of the PDR in healthy adolescents and adults is substantially narrower than the alpha band.
+Significance
+Based on this and prior studies, a PDR frequency of less than 8.5 or greater than 11.5 Hz should be considered abnormal in adolescents and adults.
+

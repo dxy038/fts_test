@@ -1,0 +1,11 @@
+Objective
+Recent studies have shown that cells from bone marrow (BM), muscle, and brain may have greater plasticity than previously known. We have identified multipotent adult progenitor cells (MAPC) in postnatal human and rodent BM that copurify with mesenchymal stem cells (MSC). BM MAPC proliferate without senescence and differentiate into mesodermal, neuroectodermal, and endodermal cell types. We hypothesized that cells with characteristics similar to BM MAPC can be selected and cultured from tissues other than BM.
+Materials and Methods
+
+BM, whole brain, and whole muscle tissue was obtained from mice. Cells were plated on Dulbecco modified Eagle medium supplemented with 2% fetal calf serum and 10 ng/mL epidermal growth factor (EGF), 10 ng/mL platelet-derived growth factor (PDGF-BB), and 1000 units/mL leukemia inhibitory factor (LIF) for more than 6 months. Cells were maintained between 0.5 and 1.5 × 103 cells/cm2. At variable time points, we tested cell phenotype by FACS and evaluated their differentiation into endothelial cells, neuroectodermal cells, and endodermal cells in vitro. We also compared the expressed gene profile in BM, muscle, and brain MAPC by Affimetrix gene array analysis.
+Results
+
+Cells could be cultured from BM, muscle, and brain that proliferated for more than 70 population doublings (PDs) and were negative for CD44, CD45, major histocompatibility complex class I and II, and c-kit. Cells from the three tissues differentiated to cells with morphologic and phenotypic characteristics of endothelium, neurons, glia, and hepatocytes. The expressed gene profile of cells derived from the three tissues was identical (r2 > 0.975).
+Conclusions
+
+This study shows that cells with MAPC characteristics can be isolated not only from BM, but also from brain and muscle tissue. Whether MAPC originally derived from BM are circulating or all organs contain stem cells with MAPC characteristics currently is being studied. Presence of MAPC in multiple tissues may help explain the “plasticity” found in multiple adult tissues.

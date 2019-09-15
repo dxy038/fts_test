@@ -1,0 +1,11 @@
+Objective
+Chemotherapy agents (CA) such as cytosine arabinoside (ara-C), idarubicin (IDA), and etoposide (VP-16) are widely used in the treatment of acute myeloid leukemia (AML) However, their effects on signaling pathways leading to cytotoxicity have only been described recently. Ligation of the leukemia-associated antigen CD33 by anti-CD33 monoclonal antibody (mAb) also results in signaling events that induce a downregulation of cell growth. We examined the possibility that anti-CD33 mAb and CA might cooperate in mediation of growth inhibition in primary AML samples and AML cell lines.
+Materials and methods
+
+We investigated two AML cells lines and 14 primary AML samples for their proliferative response (3H-thymidine incorporation), colony formation, and biochemical (Western blot analysis) to anti-CD33 mAb treatment combined with chemotherapy agents.
+Results
+
+CD33 ligation induced a significant increase in ara-C- or IDA- but not VP-16–or Bryostatin-mediated inhibition of proliferation and colony formation. Ara-C and IDA induced SHP-1 and SHP-2 protein tyrosine phosphatase (PTPs) phosphorylation and Lyn/SHP-1 complex formation, while VP-16 and Bryostatin did not. CD33 ligation, however, mediated phosphorylation of these PTPs and Syk/SHP-1 complex formations. Combined treatment of AML cells by ara-C or IDA with anti-CD33 mAb resulted in higher levels of SHP-1 phosphorylation. Reduction in SHP-1 by short interfering RNA abrogated these effects.
+Conclusion
+
+These data suggest that combined incubation of leukemia cells with anti-CD33 mAb and ara-C or IDA, but not VP-16 or Bryostatin, independently triggers similar events in the downstream signaling cascade, and therefore leads to additive antiproliferative effects and enhanced cytotoxicity.

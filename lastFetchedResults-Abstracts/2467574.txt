@@ -1,0 +1,10 @@
+AbstractContext
+gh various success stories of model-based approaches are reported in literature, there is still a significant resistance to model-based development in many software organizations because the UML is perceived to be expensive and not necessarily cost-effective. It is also important to gather empirical evidence in which context and under which conditions the UML makes or does not make a practical difference.
+ive
+jective is to provide empirical evidence as to which UML diagrams are more helpful during software maintenance: Forward Designed (FD) UML diagrams or Reverse Engineered (RE) UML diagrams.
+
+ried out a family of experiments which consisted of one experiment and two replications with a total of 169 Computer Science undergraduate students.
+s
+dividual data analysis and the meta-analysis conducted on the whole family, show a tendency in favor of FD diagrams and are significantly different as regards the effectiveness and efficiency of the subjects who participated and played the role of maintainers. The analysis of the qualitative data, collected using a post-experiment survey, reveals that the subjects did not consider RE diagrams helpful.
+sions
+ndings show that there are some objective results (descriptive statistics or statistical tests) related to the maintenance effectiveness and efficiency in favor of the use of FD UML diagrams during software maintenance. Subjective opinions also lead us to recommend the use of UML diagrams (especially class diagrams) created during the design phase for software maintenance because they improve the understanding of the system in comparison with RE diagrams. Nevertheless, we can only assume that these results are valid in the context of Computer Science undergraduate students when working with small systems related to well-known domains, and other contexts should be explored in order to reaffirm the results in an industrial context by carrying out replications with professionals.

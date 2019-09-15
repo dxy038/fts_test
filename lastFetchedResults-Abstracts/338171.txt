@@ -1,0 +1,9 @@
+Objective
+In the hematopoietic microenvironment, bone marrow endothelial cells may play an important role in trafficking and maintenance of progenitor and stem cells due to adhesive interactions and paracrine secretion of hematopoietic growth factors. However, it is unknown whether progenitors in turn modulate endothelial proliferation and function.
+Materials and Methods
+We analyzed mRNA expression (Northern blot) and release of vascular endothelial growth factor-A (VEGF-A), which specifically acts on endothelial cells, by cytokine-stimulated peripheral blood–derived CD34+ hematopoietic progenitor cells.
+Results
+While unstimulated CD34+ cells expressed VEGF-A mRNA weakly without cytokine release in vitro, incubation for 24 hours with a single cytokine (e.g., kit ligand [KL]) resulted in increased VEGF-A mRNA expression and significant secretion of VEGF-A into the supernatant. The amount of VEGF released was substantially augmented by incubation with a combination of cytokines (e.g., KL, IL-3, GM-CSF, G-CSF), or by exposure to hematopoietic cytokines for a longer time period. In addition, we show that VEGF induced the release of hematopoietic growth factors (GM-CSF) by bone marrow endothelial cells and that in vitro stromal cell–derived factor-1 (SDF-1) driven transendothelial progenitor cell migration was increased by the presence of VEGF, which might be due to pore formation (increased endothelial fenestration).
+Conclusions
+In vivo, release of VEGF by progenitor cells may result in a paracrine loop supporting proliferation of both endothelium and progenitors and may facilitate transendothelial migration during cytokine-induced progenitor cell mobilization.
+

@@ -1,0 +1,5 @@
+A model of cold rolling taking into account lubrication in mixed mode was developed. The main objective is to obtain a numerical tool that permits us to optimise a mill configuration from the lubrication point of view. It means that lubricant viscosity but also roll diameter and roughness, rolling diagrams, etc could be modified to improve stability and efficiency of the mill.
+
+A modified slab method is solved iteratively and is coupled with a sophisticated tribological model. A general calculation of the modified Reynolds equation is presented in order to evaluate the fluid pressure for any piezoviscosity law. The coupling is made through the calculation of fluid thickness and friction along the roll bite. The evolution of the cylinder/strip contact area due to the asperity crushing along the roll bite is also considered.
+
+A parametric study has been undertaken in order to determine the influence of various process parameters on friction and lubricant flow. Applications to industrial cases obtained from Cockerill Sambre plant will show the applicability of the method.

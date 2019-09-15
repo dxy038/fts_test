@@ -1,0 +1,11 @@
+Objective.  To assess the propriety of modeling the Achilles tendon insertion on the calcaneus as a single point when musculoskeletal models are used to predict subtalar joint moment arms.
+
+Design. The sensitivity of model-predicted subtalar joint moment arms to insertion site position was investigated and measurements of Achilles tendon function were made in cadaver specimens.
+
+Background. The insertion site of the Achilles tendon is typically modeled as having a single-point insertion. A more sophisticated representation may be required, however, when subtalar joint function is considered.
+
+Methods. Achilles tendon moment arms about the subtalar joint axis were assessed using a computer model in which a single-point insertion was systematically displaced. The effective insertion site was located at three positions in three cadaver specimens using a six-degree-of-freedom load cell.
+
+Results. Model-predicted moment arms of the Achilles tendon about the subtalar joint axis were substantially affected by medial–lateral displacement of the insertion site. The medial–lateral location of the effective insertion site varied linearly with subtalar joint angle in cadaver specimens, shifting medially when the foot was everted and laterally when the foot was inverted.
+
+Conclusions. More sophisticated representations of the Achilles tendon are needed when the subtalar joint is of interest. A single-segment tendon with an insertion that is fixed throughout subtalar joint motion may not permit accurate predictions of moment arms about the subtalar joint.

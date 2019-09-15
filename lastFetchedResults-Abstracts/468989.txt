@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to assess the possible mechanism and effect of oxytocin receptor on the sensitization of the contractile proteins to [Ca++]i.
+Study design
+Myometrial strips were prepared from biopsy specimens that had been taken at term (37–40 weeks of gestation) cesarean delivery from 22 women, before the onset of labor. Simultaneous measurements of [Ca++]i and tension were performed on spontaneously contracting strips. The effects of a specific oxytocin receptor antagonist, L371,257, and a rho kinase inhibitor, Y-27632, on the [Ca++]i and tension transients were determined.
+Results
+Application of L371,257 (90 nmol/L) to spontaneously contracting muscle strips reduced peak tension to 43%±12% of its original value without affecting peak [Ca++]i (105%±15%). More tension is developed at each [Ca++]i during the falling phase, relative to the rising phase of each spontaneous contraction; this asymmetric [Ca++]i-tension relationship was abolished by L371,257. The subsequent application of oxytocin (3 μmol/L) reversed the effects of the antagonist on tension. An inhibitor of rho kinase (Y-27632) caused a concentration-dependent inhibition of spontaneous contractions without affecting the underlying Ca++ signals. The addition of oxytocin (1 nmol/L) to spontaneously active myometrium increased both the duration of the Ca++ signal and the sensitivity of the contractile machinery to [Ca++]i; only the latter effect was prevented by Y-27632.
+Conclusion
+Oxytocin independently regulates the duration of the periodic Ca++ signals and the sensitivity of the contractile machinery to Ca++. The latter is likely to be mediated by rho kinase, which is essential for the effective coupling of increases in [Ca++]i to tension.
+

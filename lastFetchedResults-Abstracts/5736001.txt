@@ -1,0 +1,1 @@
+An Optimization algorithm for the reconstruction of a random surface is presented. As the input data for our self-adaptation evolutionary strategy for surface inversion, the scattered intensity has been measured with the laser bidirectional reflectometer.

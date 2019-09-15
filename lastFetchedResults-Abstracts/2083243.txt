@@ -1,0 +1,14 @@
+The changes in human population often correspond with change in land use, including expansion of urban areas, agriculture and
+increasing industrialization, which necessitate increasing the available amount of drinking water. As the surface water sources are
+under the pressure of pollution, it has become necessary to use groundwater at an increasing rate. Groundwater recharge can be
+abundant in the alluvial plains where the urban areas are often located. Such areas can face danger of pollution of groundwater and
+the changes in land use are likely to result in change in groundwater quality. Keeping these aspects in view, it was planned to
+development a groundwater water quality index in the Ganga-Yamuna interfluve area of northern India, The objective of the present
+study is to develop the Index of Aquifer Water Quality (IAWQ) inside the Geographic information system (GIS) environment, which
+can be used by the field investigators and modeler's in assessing the groundwater vulnerability. The formula to estimate the IAWQ
+index is adopted from the procedure suggested Melloul and Collin (1998). The procedure developed for this involves weights
+assigned to these 8 parameters as per their analytical hierarchy in violating the (drinking water) standards and not as an arbitrary
+means (as taken by Melloul and Collin). The suggested procedure can be extending to include more number of chemical parameters
+as necessitate in individual case studies. In the modified procedure presented in the present study, the number of measured chemical
+parameters n is taken as 8 (Cd, Mn, Pb, Fe, NO3-, Total Alkalinity, TDS and Ca2+) as against n=2 (chloride and nitrate) as taken in
+the Melloul and Collin's work.

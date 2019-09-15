@@ -1,0 +1,8 @@
+Monitoring complex environmental systems is extremely challenging because it requires environmental professionals to capture impacted
+systems’ governing processes, elucidate human and ecologic risks, limit monitoring costs, and satisfy the interests of multiple stakeholders
+(e.g., site owners, regulators, and public advocates). Evolutionary multiobjective optimization (EMO) has tremendous potential to help resolve
+these issues by providing environmental stakeholders with a direct understanding of their monitoring tradeoffs. This paper demonstrates how
+3-dominance archiving and automatic parameterization techniques can be used to significantly improve the ease-of-use and efficiency of
+EMO algorithms. Results are presented for a four-objective groundwater monitoring design problem in which the archiving and parameterization
+techniques are combined to reduce computational demands by more than 90% relative to prior published results. The methods of this paper can
+be easily generalized to other multiobjective applications to minimize computational times as well as trial-and-error parameter analysis.

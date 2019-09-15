@@ -1,0 +1,1 @@
+The main objective of this paper is to introduce a simulation platform in order to evaluate a control structures using the performance index; additionally, the simulator has the capacity of described the behavior of the prototype according to the control structure that is evaluated showing the results in graphical form.

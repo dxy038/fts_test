@@ -1,0 +1,3 @@
+In this paper, the bending vibrations of Euler–Bernoulli beams treated with non-local viscoelastic damping patches have been studied. The damping behavior of the patch can be represented by spatial kernel and relaxation functions, and the corresponding equation of motion has been solved following the method previously proposed by Lei et al. . The main objective of the work is to analyse the influence of the parameters of the model on the damped response.
+
+A parametric study and a new dimensionless analysis have been conducted for this purpose, and finally, the capacity of energy dissipation has been explained adopting some new energy considerations.

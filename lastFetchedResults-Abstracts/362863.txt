@@ -1,0 +1,9 @@
+Study objective
+We determine the interval between stroke symptom onset and time to emergency department (ED) arrival and factors associated with delays in presentation.
+Methods
+All patients with acute stroke presenting at 4 hospitals in a metropolitan area and consenting to an interview were prospectively included over a 12-month period, excluding patients with presentation greater than 7 days after onset of symptoms and discharge or death within 24 hours after ED arrival. Initially, National Institutes of Health Stroke Scale and times of symptom onset and of ED arrival were registered by a neurologist. Sociodemographic factors and data about the course of events were obtained by standardized interview conducted with patients or proxies. In a multivariable analysis, an extended Cox proportional hazards model was used, and hazard ratios were determined.
+Results
+Primary analyses were performed for 558 interviewed patients (mean age 66.8±13.5 years, 45% female patients) with confirmed stroke; 452 (81%) patients had a known onset of symptoms. Median interval between symptom onset and ED arrival was 151 minutes (range 5 to 9,590 minutes). Transport by emergency medical services (adjusted hazard ratio 0.28 [95% confidence interval (CI) 0.19 to 0.41]), increasing age (hazard ratio 0.99 [95% CI 0.98 to 0.99]), greater stroke severity (National Institutes of Health Stroke Scale score; hazard ratio 0.93 [95% CI 0.90 to 0.96]), having transient ischemic attack rather than persistent symptoms (hazard ratio 0.32 [95% CI 0.22 to 0.46]) and symptoms considered urgent (hazard ratio 0.68 [95% CI 0.55 to 0.84]) were the factors most strongly associated with a shorter out-of-hospital interval.
+Conclusion
+There are considerable delays between stroke symptom onset and ED arrival. Programs to improve awareness of patients with stroke to seek medical help immediately may reduce unnecessary delays to ED arrival.
+

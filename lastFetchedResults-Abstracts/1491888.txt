@@ -1,0 +1,11 @@
+The study of the mechanical behaviour of breached surface soils allows the optimization of the running gear of the vehicles for the off-road mobility.
+
+nkage of the running gear causes a motion resistance which is opposed to the tractive capacity of the vehicle. In a homogeneous soil, the sinkage is predicted by the interpretation of plate sinkage tests. In order to make possible and easier the sinkage prediction of a vehicle going in a tilled soil, the article has for objective to present a method to model pressure–sinkage curve for a tilled soil with the pressure–sinkage curve of the same soil before tillage.
+
+lled soil is considered as two layers of the same soil whose density is lower for the upper layer than for the sub-base. The two-layered soil behaviour is modelled as the combination of the behaviour of the loose soil layer and the behaviour of the dense soil. The link between these two behaviours is a critical depth defined as the depth of the plate when the layer of soil in a critical density reaches the limit between the two layers.
+
+e tests with circular plates were carried out on four soils chosen to represent the mechanical properties of a range of soils: a sand for frictional soils, a silt for cohesive soils and a silty sand and a sandy loam for cohesive frictional soils predominant in the agricultural soils. The soils were tested in one-layered and two-layered configurations in small and large bins with well-known and controlled soil conditions.
+
+retical approach allows the calculation of the critical depth with a deformation process of the soil below the plate. The critical depth depends on the density of the soil, the tillage depth, the diameter of the plate and the angle of friction of the soil.
+
+itical depth allows the modelling of the pressure–sinkage curve for the tilled soils using the one-layered soil data. The comparison with the experimental tests in tilled soil validate the approach.

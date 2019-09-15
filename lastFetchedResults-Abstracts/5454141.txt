@@ -1,0 +1,1 @@
+A semi-random searching algorithm is presented. This algorithm can be used for global optimization problems which can reduce the number of objective function evaluations significantly via a deterministic criterion and can find a global optimum via a stochastic criterion. The utility of this algorithm is demonstrated by several numerical examples

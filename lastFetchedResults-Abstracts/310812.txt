@@ -1,0 +1,11 @@
+Objective. To improve the simulation of the task of manual materials handling for Chinese laborers, this study estimated the inertial properties of Chinese adults by using magnetic resonance imaging.
+
+Design. Magnetic resonance imaging was used as a means of estimating inertial property. Following the estimation of inertial properties for the Chinese subjects, comparison between estimates for Chinese and Caucasian populations was made.
+
+Background. Estimates of segment inertial properties are frequently based on data and procedures developed from human cadaver studies in which inertial properties have been measured directly. The errors might be derived from the utilization of the Caucasian data were questioned in our previous study on the spinal force prediction of the Chinese subjects during manual lifting.
+
+Methods. Magnetic resonance images were scanned at a 20 mm interval from eight males aged 26 (S.D., 4) years. Tissues were differentiated and verified using adequate intensity thresholds on each slice, and the segmental volume and mass were integrated by slices. The moments of inertia for each segment were then determined about the anatomical axes using the parallel axis theorem.
+
+Results. Results showed that our estimates were close to the data derived by Dempster with a slight deviation. Larger percentages of mass were found in the upper arm (4.0%) and thigh (13.6%) than in previous studies. On the other hand, smaller moments of inertia about three axes were noted in the shank.
+
+Conclusion. Biomechanical modeling of the human body requires accurate prediction of body segment parameters that include measures of volume, mass, center of mass, and moments of inertia. This study suggests the need to estimate the inertial properties of segments from the Chinese population. Application of the data may improve the simulation of the task of manual materials handling for Chinese laborers in the future studies.

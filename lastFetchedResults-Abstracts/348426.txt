@@ -1,0 +1,11 @@
+Objective
+Predictable movements induce oscillatory changes over the contralateral motor cortex that begin before the movement, but their significance has not been fully established. We studied non-phase-locked changes in cortical oscillatory activity in a S1-centred double-stimulus go/no go paradigm with random interstimulus interval.
+Methods
+About 58 reference-free EEG channels were analyzed by means of Gabor transforms in a group of 10 healthy subjects. A 2000 Hz tone (S1go, 84% probability) indicated the subject to make a brisk wrist extension after a second 2000 Hz tone (S2go). The S1–S2 interval was either 1.5, 3 or 4.5 s. A 1000 Hz tone (S1 no go, 16% probability) indicated the subject not to move (and wait for another S1 tone).
+Results
+A frontal 15 Hz synchronization was observed after S1 in all conditions. No further significant changes were observed in the no go condition. A small pre-S2 alpha and beta desynchronization could be observed only in the 3 and 4.5 s-interval go conditions, being larger in the latter.
+Conclusions
+These results suggest that the predictability of the timing of a movement influences the appearance of the pre-movement oscillatory changes; not only motor planning (the ‘go’ decision) is necessary, but also an estimation of when to move.
+Significance
+Our findings provide new insight on the relationship between the decision-making process, movement, and cortical oscillatory activity.
+

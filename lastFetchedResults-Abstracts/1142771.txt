@@ -1,0 +1,5 @@
+On large industrial scales, the cooling stage in the production process of hard candies is one of the most critical unit operations. The main problems affecting final hard candies quality as regards the cooling process are: deformation, fragility and aggregation. The main operating conditions of the cooling stage are temperature and velocity of cooling air as well as the residence time of candy inside the tunnel.
+
+The objective of this work is to study the influence of process operating conditions and candy composition on the unsteady behavior of the cooling process of hard candies to improve final product quality.
+
+The study is conducted by using a simple mathematical model which was implemented and solved by using gPROMS (general Process Modeling System). A detailed discussion of results is presented through several examples.

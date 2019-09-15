@@ -1,0 +1,3 @@
+In this paper a new LNA with image rejection filter is presented. Furthermore, after determining topology, a proposed CAD (Computer Aided Design) with a proposed multi objective genetic algorithm will be used to optimize the LNA. By performing the algorithm, several results will be obtained as they have no priority to each other, so the designer can select each of them according to his need. Simulation results show that the proposed plan weakens the image considerably; it also increases LNA gain without changing the noise figure (NF), output matching and input matching. The proposed multi objective genetic algorithm program is written by MATLAB and the circuit simulated by HspiceRF with 0.18? technology.
+
+

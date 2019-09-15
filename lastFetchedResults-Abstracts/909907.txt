@@ -1,0 +1,6 @@
+Life cycle assessment (LCA) is known to entail multiple objective decision-making in the analysis of tradeoffs between different
+environmental impacts. The work of Azapagic and Clift in the late 1990s illustrates the use of multiple objective linear programming
+(MOLP) in the context of LCA. However, it will be noted that their approach yields a range of Pareto optimal alternatives from
+which the decision-maker must ultimately select the final solution. An alternative approach making use of Zimmermann’s symmetric
+fuzzy linear programming method is proposed and illustrated with a simple case study. The procedure effectively yields a single,
+optimal compromise solution.

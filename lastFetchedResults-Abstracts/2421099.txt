@@ -1,0 +1,5 @@
+In this paper, the multi-objective optimization of a molten carbonate fuel cell (MCFC) based hybrid plant fueled with landfill gas is performed. System operation is significantly affected by off-design conditions. These are due to variations methane concentration occurring as the landfill depletes, performance degradations of the components, particularly the fuel cell, and ambient conditions. For these reasons, the objective functions are defined considering the plant lifetime.
+
+f the parameters affecting the results, as the voltage degradation, the cost of fuel cell, the methane concentration and the unit cost of landfill gas can be only estimated or forecasted and their actual values are uncertain. Therefore, the optimization is performed considering a sensitivity analysis in order to estimate the effects of possible variations on the Pareto front.
+
+llowing free design variables are considered: pressure and temperature operation of the MCFC, turbine inlet temperature, fuel mass flow rate. In addition, the optimal configuration of the heat exchanger network is selected for each set of the design variable.

@@ -1,0 +1,7 @@
+The main goal of this study is a comparison of two different methods of pattern recognition. The first, Principal Component Analysis (PCA), is a method frequently used in climatology. The second, Self Organizing Maps (SOM), is a relatively new and efficient method based on Artificial Neural Networks (ANN).
+
+er to compare the two methodologies, two teleconnection patterns were chosen, the North Atlantic Oscillation (NAO), which mostly affects the climate of Western Europe, and the North Sea–Caspian Pattern (NCP), mainly affecting eastern Mediterranean and the Balkan Peninsula. The teleconnection patterns are studied for winter 500 hPa geopotential height anomalies over the broader Europe area.
+
+condary objective of the study is to evaluate the ECHAM5/MPI General Circulation Model (GCM) in representing the two teleconnection patterns for a reference (1971–2000) and a future (2071–2100) period. The evaluation of the reference period is done comparing the simulated data to the NCEP/NCAR reanalysis data. The future period is studied to examine whether the current dominant circulation patterns change or not during the last 30 years of the 21st century.
+
+ing to the results, both PCA and SOM methodologies capture the main variability mode over the study area, represented by the NAO pattern, but SOM is capable of capturing even less pronounced patterns, such as the NCP. In the future simulations, the atmospheric circulation during winter seems to be more pronounced with stronger NAO and NCP teleconnection patterns.

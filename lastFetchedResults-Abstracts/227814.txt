@@ -1,0 +1,10 @@
+The proposed zero-current-switching switched-capacitor quasi-resonant DC–DC converter
+is a new type of bidirectional power flow control conversion scheme. It possesses the
+conventional features of resonant switched-capacitor converters: low weight, small volume, high
+efficiency, low EMI emission and current stress. A zero-current-switching switched-capacitor stepup/
+step-down bidirectional converter is presented that can improve the current stress problem
+during bidirectional power flow control processing. It can provide a high voltage conversion ratio
+using four power MOSFET main switches, a set of switched capacitors and a small resonant
+inductor. The converter operating principle of the proposed bidirectional power conversion scheme
+is described in detail with circuit model analysis. Simulation and experiment are carried out to
+verify the concept and performance of the proposed bidirectional DC–DC converter.

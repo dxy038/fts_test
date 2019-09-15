@@ -1,0 +1,1 @@
+Transmission of 62 electrically time-division multiplexed 42.7 Gbit/s channels over 2200 km using in-line distributed Raman amplification is described. It is verified that bidirectional-pumped distributed Raman amplification, which is suitable for broadband amplification, enables 40 Gbit/s wavelength-division multiplexed signals to be transmitted within the Cand L-bands

@@ -1,0 +1,3 @@
+This paper deals with a load-balancing problem among several operators in a semi-automatic parallel machine shop in which two types of machine are operated. The objective is to assign jobs to the proper machines and allocate machines to operators in order to minimize the unbalance of the workloads among operators under the constraints of available machine- and operator-time. There are two types of parallel machines and jobs are classified into the two types. However, operator can handle machines of both types.
+Although, this situation can be formulated with non-linear integer programming, it is difficult to solve this program. Therefore, a hierarchical heuristic solution procedure is suggested and the performance of the algorithm is evaluated with various data.
+

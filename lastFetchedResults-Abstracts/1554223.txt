@@ -1,0 +1,3 @@
+In this paper, we discuss the convergence of the DFP algorithm with revised search direction. Under some inexact line searches, we prove that the algorithm is globally convergent for continuously differentiable functions and the rate of convergence of the algorithm is one-step superlinear and n-step second order for uniformly convex objective functions.
+
+he proof of this paper, we obtain the superlinear and n-step second-order convergence of the DFP algorithm for uniformly convex objective functions.

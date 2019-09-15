@@ -1,0 +1,1 @@
+This paper proposes a genetic algorithm to generate trajectories for robotic manipulators. The objective is to minimize the ripple in the trajectory time evolution and to minimize the actuator energy requirements without colliding with any obstacles in the workspace. The article presents the results for several redundant and hyper-redundant manipulators

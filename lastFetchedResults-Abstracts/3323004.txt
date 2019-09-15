@@ -1,0 +1,1 @@
+This paper concerns the experimental evaluation of a PID mixed H<inf>2</inf>/H<inf>&#8734;</inf> control methodology based on the application of genetic algorithms. The considered plant is an experimental DC servosystem affected by disturbances acting on its output, and the performance objective corresponds to the control of the load angular position.

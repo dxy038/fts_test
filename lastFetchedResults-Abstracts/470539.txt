@@ -1,0 +1,9 @@
+Objective
+We have shown previously that interleukin 1 (IL-1) signaling is not necessary for bacterially induced preterm delivery in mice. We now test whether combined signaling of IL-1 and tumor necrosis factor (TNF) is critical for this process.
+Study design
+Female mice lacking the type I receptors for IL-1 and TNF (Il1r1/Tnfrsf1a double-knockouts) and normal controls underwent intrauterine inoculation with killed Escherichia coli bacteria on day 14.5 of a 19- to 20-day gestation. Preterm delivery rates within 48 hours were recorded and gene expression was analyzed by reverse transcription-polymerase chain reaction (RT-PCR).
+Results
+Il1r1/Tnfrsf1a double-knockout mice had significantly lower rates of preterm delivery than controls (8% vs 69% with 7 × 107 bacteria, P = .002, and 52% vs 81% with 1.4 × 108 bacteria, P = .003) and significantly lower myometrial levels of cyclooxygenase (COX)-2, but not COX-1 mRNA. There were no genotype- or treatment-related differences in cervicovaginal and lower uterine expression of mRNAs for a variety of genes associated with cervical ripening.
+Conclusion
+The combination of IL-1 and TNF signaling plays a critical role in bacterially induced labor and myometrial COX-2 production in the mouse. Cervical gene expression patterns during bacterially induced preterm labor suggest fundamental differences from spontaneous term labor in the cervical ripening process.
+

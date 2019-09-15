@@ -1,0 +1,9 @@
+Significant wear occurs on the surface of bearings, which support rotating shafts for long periods of time. Therefore, the need for a new clearance identification method is required. Furthermore, having identified these new clearances, the investigation of gauging reliable future operation with regards to stability is also an important task.
+
+The rotor is modeled here using the finite element method with 4DOF’s per node, including the gyroscopic effect. The dynamic coefficients of the bearing are calculated by solving the Reynolds equation, thus obtaining the pressure distribution of the oil film, and by finding the equilibrium position. The 4 × 4 stiffness and damping matrices, including the force-moment and displacement-rotation relations with all non-diagonal coupling terms, are taken into account for the analysis.
+
+Here, an identification method for the bearing radial clearances is presented theoretically, using response measurements of the rotor at a particular point (usually the midpoint of the rotor). These “measurements” should be taken at two different speeds and from different wear effects. The present theoretical work on this particular problem needs to be verified experimentally as well.
+
+The sum of the squares of the differences between the measured and the computed responses at the abovementioned particular point and for two different speeds is used as an objective function to be minimized.
+
+The stability of the system as a function of the rotational speed and the wear is also examined.

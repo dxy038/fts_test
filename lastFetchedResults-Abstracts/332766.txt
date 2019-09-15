@@ -1,0 +1,11 @@
+Objective
+Investigation of halogen light irradiation variables (tip diameter, irradiance, irradiation protocol) on flexural strength and modulus of four methacrylate resin-based composites (RBCs).
+Methods
+
+Rectangular bar-shaped specimens (25 mm × 2 mm × 2 mm; n = 20 per group) of four RBCs were irradiated at varying irradiances (640 and 790 mW/cm2; standard and boosted mode) with different tip diameters (8, 11, 13 and 25 mm) and for the 8 mm Turbo light tip diameter at irradiances of 880 and 1040 mW/cm2 (standard and boosted mode). Following irradiation the specimens were stored in a light-proof container for 24 h at 37 ± 1 °C and tested in three-point flexure. One-way analyses of variance were made at P = 0.05, guided as necessary by Tukey's correction in multiple partial analyses, in addition to a Weibull analysis.
+Results
+
+The mean three-point flexure strengths, Weibull moduli and flexure moduli of the four RBC materials, irradiated with varying irradiances, tip diameters and irradiation protocols highlighted no significant differences although the values were material specific. Similarly the 8 mm conventional and Turbo tip diameter resulted in no significant differences for varying irradiances and irradiation protocols.
+Conclusion
+
+Within the limitations of the experiment halogen tip diameter, irradiance and irradiation protocol have no influence on three-point flexural strength and modulus data. The efficacy of the overlapping irradiation regime was upheld for the conditions tested.

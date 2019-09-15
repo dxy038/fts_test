@@ -1,0 +1,13 @@
+Objective
+To investigate the extent to which homes with low indoor-temperatures can be identified from dwelling and household characteristics.
+Design
+Analysis of data from a national survey of dwellings, occupied by low-income households, scheduled for home energy-efficiency improvements.
+Setting
+Five urban areas of England: Birmingham, Liverpool, Manchester, Newcastle and Southampton.
+Methods
+Half-hourly living-room temperatures were recorded for two to four weeks in dwellings over the winter periods November to April 2001–2002 and 2002–2003. Regression of indoor on outdoor temperatures was used to identify cold-homes in which standardized daytime living-room and/or nighttime bedroom-temperatures were <16 °C (when the outdoor temperature was 5 °C). Tabulation and logistic regression were used to examine the extent to which these cold-homes can be identified from dwelling and household characteristics.
+Results
+Overall, 21.0% of dwellings had standardized daytime living-room temperatures <16 °C, and 46.4% had standardized nighttime bedroom-temperatures below the same temperature. Standardized indoor-temperatures were influenced by a wide range of household and dwelling characteristics, but most strongly by the energy efficiency (SAP) rating and by standardized heating costs. However, even using these variables, along with other dwelling and household characteristics in a multi-variable prediction model, it would be necessary to target more than half of all dwellings in our sample to ensure at least 80% sensitivity for identifying dwellings with cold living-room temperatures. An even higher proportion would have to be targeted to ensure 80% sensitivity for identifying dwellings with cold-bedroom temperatures.
+Conclusion
+Property and household characteristics provide only limited potential for identifying dwellings where winter indoor temperatures are likely to be low, presumably because of the multiple influences on home heating, including personal choice and behaviour. This suggests that the highly selective targeting of energy-efficiency programmes is difficult to achieve if the primary aim is to identify dwellings with cold-indoor-temperatures.
+

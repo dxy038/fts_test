@@ -1,0 +1,7 @@
+Objective: Baseline information on the mechanical properties of and the effect of load upon dental hard tissue is important in the development of successful dental materials. Existing methods of measuring such properties of tissue are subject to significant experimental error. This study reports on the use of an Ultra-Micro-Indentation System (UMIS) to measure the hardness and elastic modulus of primary enamel and dentine.
+
+Methods: Primary molar teeth were sectioned, set in resin and polished. Thirty indentations were made in enamel and dentine using a Berkovitch indentor, 15 of which were subject to a load of 50 mN and 15 to a load of 150 mN. An automated computerised system converted the force/penetration graph for each indentation in to a hardness vs depth graph from which values for the mean hardness and elastic modulus were calculated.
+
+Results: Primary enamel had a mean hardness of 4.88±0.35 GPa whilst the hardness of dentine was 0.92±0.11 GPa The elastic modulus for enamel was 80.35±7.71 GPa and that of dentine 19.89±1.92 GPa. Using linear regression analysis a significant relationship could be shown between the hardness and the elastic modulus for both enamel and dentine when loaded to 150 mN but only for dentine at 50 mN (P<0.05). In general the elasticity of tooth structure increased as the hardness increased.
+
+Conclusion: The UMIS offers a simple and reproducible method of measuring basic mechanical properties of small samples of enamel and dentine.

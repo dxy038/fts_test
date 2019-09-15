@@ -1,0 +1,13 @@
+Together with the evolution of buildings and systems, energy assessment models have become more and more detailed, requiring a
+precise evaluation of the building loads and gains.
+For an accurate analysis of solar heat gains, technical standards introduce an external shading reduction coefficient of the incident
+solar radiation, called shading factor. Its value is provided for simple geometries, which are usually not suitable to properly describe
+a real environment. In addition, the relations adopted to evaluate the shading factor are based on simplified hypotheses, which cause
+non-negligible errors when compared to more complex algorithms.
+The objective of this study is the development of a calculation procedure of the shading factor under complex boundary conditions.
+The algorithms have been implemented in a software tool written in MATLAB language. It can provide for the value of the shading
+factor on a generically oriented and tilted surface. After setting the site and the time for the simulation, generic-shaped windows can
+be modelled. The external environment, which can be imported from DXF files, can include a horizon profile, generic-shaped obstructions
+and vegetation. The calculation can be performed for every sky condition: clear, average or generic. In addition, the simulation can
+be run to obtain instantaneous, daily average or monthly average shading factor values.
+  2011 Elsevier Ltd. All rights reserved

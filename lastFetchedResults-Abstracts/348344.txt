@@ -1,0 +1,11 @@
+Objective
+To provide a method for correcting muscle artefacts in fast band power at EEG derivations.
+Methods
+We define an indicator of surface EMG as power in the band 51.0–69.0 Hz (‘muscle power’). This indicator is used to approximately eliminate the contribution of muscle activity on fast band power via a regression model.
+Results
+(1) Patients show a larger proportion of muscle activity in fast band power. (2) There is a clear topographic pattern, frontal–temporal derivations being most susceptible to EMG artefacts. (3) The contribution of surface EMG can be drastically reduced by the proposed correction method. (4) Without correction, results for fast bands can be biased when e.g. comparing control and patient groups and the proposed correction method by and large eliminates this bias.
+Conclusions
+It is advisable to correct the quantitative EEG reflecting fast activity for the extent of EMG artefacts.
+Significance
+To render the quantitative EEG more valid as an indicator of cerebral activity.
+

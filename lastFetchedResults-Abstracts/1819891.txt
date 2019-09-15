@@ -1,0 +1,8 @@
+Objective
+hematically assess the curvature of upper anterior teeth along the facial axis of the clinical crown (FACC) line to provide information valuable for assessment of enamel growth.
+s
+upper study models were chosen from the Orthodontic clinic at the Charles Clifford Dental Hospital, Sheffield, UK. The study model incisors and canines were sectioned longitudinally down the FACC line, using a Microslice II cutting machine. Images were captured that showed the proximal view of the tooth curvature from incisal edge/cusp tip to the gingival margin. The images were converted into silhouettes and saved as bitmap files. These were vectorised and converted to an outline of xy data points. The forty xy files were mathematically adjusted so the distance between incisal edge and gingival margin were of equal length. Non Rotational Principal Component Analysis (PCA) was then applied at 20 equal intervals along the curve of each xy file to describe the shape of the teeth.
+s
+class correlation coefficient for intra-operator repeatability ranged from 0.821–0.998 showing good or excellent levels of reliability. PCA showed variation between tooth types.
+sions
+thod proved reliable. All tooth types showed that the mid-point region had the greatest rise variable, indicating that the most-prominent point was central or incisal for central and lateral incisors. All were skewed towards the incisal end and had kurtosis at both ends. Central incisors showed least variability. Greater variability was seen within the incisal third than within the gingival third for all tooth types.

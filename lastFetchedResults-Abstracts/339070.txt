@@ -1,0 +1,8 @@
+Objective
+Human neutrophil collagenase (HNC) is one of several secondary granule proteins (SGP) expressed late in the myeloid maturation pathway. SGPs are encoded by unlinked and functionally diverse genes that are hypothesized to be coordinately regulated at the transcriptional level and demonstrate uniform dysregulation in leukemic cells. In support of the hypothesis that tissue and stage-specific expression of SGP genes is regulated by shared factor(s), we sought to identify factors responsible for positive regulation of the SGP genes.
+Methods
+
+Using 5′ deletion analysis, we identified a minimal HNC promoter located within the first 193 bp upstream of the transcription start site. Three CCAAT enhancer binding protein (C/EBP) sites were identified within this region and their functional importance was confirmed by mutational analysis, gel retardation, and oligonucleotide pulldown assays. Using chromatin immunoprecipitation (ChIP), we demonstrated that C/EBPα binds to the SGP gene promoters lactoferrin and HNC in nonexpressing cells. Upon induction of maturation, C/EBPα binds to these promoters and this binding correlates with the expression of both SGP genes.
+Conclusion
+
+We conclude that in the later stages of myeloid development, SGP genes are coordinately upregulated, and that members of the C/EBP family of transcription factors, in particular C/EBPα and C/EBPε, play specific and unique roles in upregulating their expression.

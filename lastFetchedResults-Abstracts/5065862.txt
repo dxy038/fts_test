@@ -1,0 +1,1 @@
+This paper discusses the architecture and circuit requirements for a CMOS sigma-delta modulator that provides digital audio performance. The performance objective is to achieve a dynamic range of 110 dB (18-bit resolution) for a 25 kHz signal bandwidth while operating from a single 3.3 V power supply.

@@ -1,0 +1,11 @@
+Objective
+We studied the temporal and spatial characteristics of neural responses elicited by viewing mouth movements using magnetoencephalography.
+Methods
+We focused on differences in responses to mouth opening and closing movements by apparent motion, using an averting eyes condition as a control.
+Results
+A large clear MEG component, 1 M (mean peak latency of approximately 160 ms), was elicited by both mouth movements. We modeled the neural sources using a brain electric source analysis (BESA) method and placed the sources around: (1) the occipitotemporal border at human MT/V5, (2) the primary visual cortex (V1), and (3) fusiform gyrus. The calculated activity of Source (1) was large whereas the activity of the others was small or negligible. Source (1), as calculated separately for mouth closing and opening movements and eye movement, showed no significant different amplitude and locations. We did not find any activity in the superior temporal sulcus (STS).
+Conclusions
+Our results indicate that human MT/V5 is active in the perception of both mouth and eye motions. Viewing mouth and eye movements elicits no significant differences in MT/V5 activity, indicating that the perception of movement of facial parts is probably processed in the same manner.
+Significance
+Characteristic activities in the human MT/V5 elicited by viewing mouth movement were clarified by MEG.
+

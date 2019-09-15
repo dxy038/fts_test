@@ -1,0 +1,7 @@
+Objective
+We sought to determine the association of select clinical measures of asthma severity with percent predicted forced expiratory volume in one-second (%FEV1).
+Methods
+We studied a prospective cohort of adult subjects (N= 129) with asthma exacerbations requiring hospital admission. Clinical data was acquired, including medical and social history, symptoms, vital signs, physical assessment, and spirometry. Predictor variables for this study included manually determined pulsus paradoxus (PP), percent predicted peak expiratory flow rate (%PEFR) and accessory muscle use. The outcome measure was %FEV1. Multiple linear regression analyses were performed to determine the independent associations between predictor variables and %FEV1.
+Results
+In univariate analysis, %PEFR correlated with %FEV1 (rho = 0.77, P < .001) and PP correlated negatively with %FEV1 (rho = − 0.384, P < .001). %FEV1 was significantly lower in participants with accessory muscle use (Median %FEV1 = 37.5%, IQR: 27.0-49.0) than in those without accessory muscle use (Median %FEV1= 55.0%, IQR: 39.0-69.0), (P = .004). In multivariable analysis including the covariates %PEFR, accessory muscle use, PP, age, sex, heart rate and respiratory rate, %PEFR (P < .0001) and accessory muscle use (P = .003) remained significantly associated with %FEV1, whereas PP did not (P = .52).
+

@@ -1,0 +1,1 @@
+This demonstration shows a methodology to collect and analyze key performance indicators (KPI) directly from real devices running commercial mobile applications. The main objective of this methodology is to provide a complete multi-layer understanding of the performance of mobile applications and services from the user level, to the radio access through all the stack protocols.

@@ -1,0 +1,11 @@
+Objective
+Nonmyeloablative cytoreduction is used in clinical hematopoietic stem cell gene therapy trials to increase engraftment of gene-modified cells. We utilized an infant rhesus monkey model to identify an optimal dosage of busulfan that results in efficient long-term gene marking with minimal toxicities.
+Methods
+
+Bone marrow (BM) was harvested, followed by a single 2-hour intravenous infusion of busulfan at escalating dosages of 0 to 160 mg/m2. CD34+ cells were immunoselected from BM, transduced overnight with a simian immunodeficiency virus–based lentiviral vector carrying a nonexpressed marker gene, and injected intravenously 48 hours post–busulfan administration. Pharmacokinetics were assessed, as well as adverse effects and peripheral blood and BM gene marking.
+Results
+
+Increasing dosages of busulfan resulted in increased area-under-the-curve (AUC) with some variability at each dosage level, suggesting interindividual variation in clearance. Blood chemistries were normal and no adverse effects were observed as a result of busulfan infusion. At 120 and 160 mg/m2, transient neutropenia and thrombocytopenia were noted but not lymphopenia. Over the 6 months of study posttransplantation, a busulfan dosage-related increase in gene marking was observed ranging from undetectable (no busulfan) up to 0.1% gene-containing cells in animals achieving the highest busulfan AUC. This corresponds to a more than 100-fold increase in gene marking over the busulfan dosage range studied.
+Conclusions
+
+These data indicate that increased gene marking of hematopoietic stem cells can be achieved by escalating busulfan dosages from 40 to 160 mg/m2 without significant toxicity in infant nonhuman primates.

@@ -1,0 +1,1 @@
+This paper presents a fuzzy efficient and interactive method for solving multi-objective linear fractional programming problem using fuzzy goals. The proposed method integrates the merits of three approaches i.e. fuzzy, goal and interactive. To measure the efficiency of the method some distance functions are used and it is verified by two numerical examples.

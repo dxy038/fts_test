@@ -1,0 +1,9 @@
+Background
+Low socioeconomic status (SES) and a harsh family environment in childhood have been linked to mental and physical health disorders in adulthood. The objective of the present investigation was to evaluate a developmental model of pathways that may help explain these links and to relate them to C-reactive protein (CRP) in the Coronary Artery Risk Development in Young Adults (CARDIA) dataset.
+Methods
+Participants (n = 3248) in the CARDIA study, age 32 to 47 years, completed measures of childhood SES (CSES), early family environment (risky families [RF]), adult psychosocial functioning (PsyF, a latent factor measured by depression, mastery, and positive and negative social contacts), body mass index (BMI), and C-reactive protein.
+Results
+Structural equation modeling indicated that CSES and RF are associated with C-reactive protein via their association with PsyF (standardized path coefficients: CSES to RF, RF to PsyF, PsyF to CRP, CSES to CRP, all p< .05), with good overall model fit. The association between PsyF and CRP was partially mediated by BMI (PsyF to BMI, BMI to CRP, both p< .05).
+Conclusions
+Low childhood SES and a harsh early family environment appear to be related to elevated C-reactive protein in adulthood through pathways involving psychosocial dysfunction and high body mass index
+

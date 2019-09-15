@@ -1,0 +1,1 @@
+This paper introduces a reinforcement-learning concept to find the optimal threshold for digital images. The proposed approach can integrate human expert knowledge in an objective or subjective way to overcome the shortcomings of existing methods.

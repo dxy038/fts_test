@@ -1,0 +1,35 @@
+The Proportional Integral Derivative (PID)
+controller is the most adopted controllers for industrial
+plants, due to its simplicity and satisfactory performances
+for a wide range of processes. It should be noted that the
+accurate and efficient tuning of parameters such
+controllers is very important. On the other hand, industrial
+plants, such as power systems, usually have some
+features, such as nonlinearity, time-variability of system
+structure and time delay, which make controller parameter
+tuning more complex. Thus, the optimal tuning of PID
+gains is required to get the desired level of robust
+performance under different operation conditions. This
+paper presents an Adaptive Network based Fuzzy
+Inference System (ANFIS) to tune on-line optimal gains
+of a PID controller for Load Frequency Control (LFC)
+design in a restructured time delay power system. The
+problem of robustly off-line tuning of PID based LFC
+design is formulated as an optimization problem
+according to the time domain-based objective function
+which is solved by Particle Swarm Optimization (PSO)
+technique that has a strong ability to find the most
+optimistic results. It is used to yield optimal PID gains
+over a wide range of plant parameter change and different
+system time-delays for training the proposed ANFIS in
+order to adopt the gains of the PID based load frequency
+controller. This newly developed control strategy
+combines the advantage of neural networks and fuzzy
+inference system and has simple stricture that is easy to
+implement and tune. To demonstrate the effectiveness of
+the proposed control strategy a two-area restructured
+power system is considered as a test system under
+different operating conditions and system nonlinearities.
+The simulation results show that the tuned gains of the
+PID based load frequency controller using the ANFIS can
+provide better damping of frequency oscillations.

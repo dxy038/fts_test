@@ -1,0 +1,8 @@
+Objective
+estigate the influence of curing mode and temperature on the shrinkage kinetics of self-adhesive resin cements in comparison to a conventional multi-step resin cement.
+s
+rinkage of self-adhesive resin cements Maxcem Elite (MX), Speedcem (SPC), Smartcem2 (SMC), iCem (IC) and RelyX Unicem (RX) and Nexus Third Generation (NX3) as a multi-step resin cement was measured continuously for 1 h using the bonded disk method. All materials were tested with dual-curing (dc) and self-curing (sc) mode. All measurements (n = 5 per group) were conducted at room temperature (23 °C) as well as at body temperature (37 °C). Shrinkage time constants were obtained from a simple exponential growth model. Data were statistically analyzed by ANOVA and the p-values were adjusted for multiplicity according to Hothorn et al. (2008) using the R-package “multcomp”.
+s
+ages ranged between 1.84 (RX sc23) and 7.09 (IC sc37). The curing-mode changing from sc to dc had the dominant effect for several materials, especially RX, both on final shrinkage and time constant for setting. Temperature increase had an effect on setting and shrinkage for all materials except RX. Final shrinkage for SPC, SMC and NX3 was statistically equivalent (p &gt; 0.05).
+icance
+fold variation in final shrinkage for these materials is significant for clinical material selection. Light curing can lead to a 10-fold increase in the rate of setting. A self-adhesive universal resin cement (RX) had the lowest shrinkage in the groups examined.

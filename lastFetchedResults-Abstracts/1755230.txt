@@ -1,0 +1,8 @@
+Objective
+ermine whether obesity is associated with a variety of psychiatric outcomes after taking into account physical health conditions.
+s
+ame from the public use dataset of the Canadian Community Health Survey Cycle 1.2 (age 15 years and older, N=36,984). Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition psychiatric diagnoses of major depressive disorder, mania, panic attacks, panic disorder, social phobia, agoraphobia, alcohol dependence, and drug dependence were examined, as was suicidal behavior (ideation or attempts). Multiple logistic regression was utilized to examine the association between obesity (defined as body mass index ≥30) and mental health outcomes. Covariates in the regressions included sociodemographic factors and a measure of physical illness burden (the Charlson Comorbidity Index).
+s
+usted models, obesity was positively related to several lifetime psychiatric disorders (depression, mania, panic attacks, social phobia, agoraphobia without panic disorder), any lifetime mood or anxiety disorder, suicidal ideation, and suicide attempts [adjusted odds ratio (AOR) range: 1.22–1.58]. Obesity was similarly positively associated with past-year depression, mania, panic attacks, social phobia, any anxiety disorder, and suicidal ideation (AOR range: 1.24–1.52), and negatively associated with past-year drug dependence (AOR=0.53, 95% CI 0.31–0.89). Most of these associations were found to be specific to women, while some were also present in men.
+sion
+ndent of physical health conditions, obesity was associated with psychiatric disorders and suicidal behavior in the Canadian population. Possible mechanisms and clinical implications of these findings are considered.

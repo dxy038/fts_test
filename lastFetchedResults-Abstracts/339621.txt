@@ -1,0 +1,11 @@
+Objective
+Studies using thrombopoietin −/− (TPO−/−) or TPO receptor, mpl−/− mice have established a critical role for TPO/mpl signaling in hematopoietic stem cell (HSC) development. In this study, we further dissected mpl signaling in both megakaryopoiesis and HSC function, using mice bearing a truncated mpl receptor lacking the distal 60 amino acids (Δ60). This deletion removes three major signaling tyrosines on the mpl cytoplasmic domain, but retains the membrane proximal Box1 and Box2 domains required for JAK2 activation.
+Materials and Methods
+
+Competitive bone marrow transplantations (BMT) and serial BMTs were performed to study HSC function. Western blot analysis was used to study TPO-stimulated signaling pathways. BM cell cultures in the presence of TPO were used to study megakaryocyte development.
+Results
+
+In agreement with prior findings, we show that Δ60 BM cells cultured in TPO generated normal numbers of megakaryocytes, but with greatly reduced ploidy. As expected from the deletion of three signaling tyrosine residues, freshly isolated Δ60 megakaryocytes showed marked reduction in all known TPO-stimulated signaling pathways tested, including signal transducers and activators of transcription (Stat) 5, Stat3, Akt, and p42/44 mitogen-activated kinase. We found that Δ60 mice displayed normal short-term (ST-HSC) activities and marginally compromised long-term (LT-HSC) stem cell activities in primary transplantation. In addition, Δ60 mice supported HSC self-renewal for at least two serial BMTs.
+Conclusion
+
+Our data reveal a pivotal role for an unknown signal emanating from the membrane proximal region of the mpl receptor or from JAK2 itself in maintaining stem cell activity and self-renewal, in addition to its role in megakaryocytopoiesis and thrombopoiesis.

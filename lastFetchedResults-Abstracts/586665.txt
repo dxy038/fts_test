@@ -1,0 +1,17 @@
+This paper tries to solve a multi objective
+optimal capacitor placement problem, considering system
+unbalancing as well as the harmonic distorted nature of
+distribution systems using Non-dominated Sorting
+Genetic Algorithm (NSGA). By using NSGA,
+relationship between various components of objective
+functions, such as total installed capacitors, system
+unbalancing index and total harmonic distortion level can
+be obtained clearly. This would result in helpful
+information that can be utilized to make a reasonable
+decision on the best tradeoffs between capacitor
+placement cost, system unbalancing and harmonic
+distortion level of system. The proposed (NSGA)-based
+approach is tested on an IEEE 37-bus radial distribution
+system. The findings clearly demonstrate the necessity of
+including harmonics in optimal capacitor placement to
+avoid any possible problems associated with harmonics.

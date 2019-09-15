@@ -1,0 +1,11 @@
+Objective
+Administration of granulocyte colony-stimulating factor (G-CSF) results in the mobilization of hematopoietic progenitor and stem cells from the bone marrow into the peripheral blood. Although the mechanisms leading to the mobilization of primitive hematopoietic cells is not fully understood, it has been noted that the yield of mobilization in humans is correlated to the down-regulation of c-KIT/CD117 expression on mobilized cells. We sought to determine the mechanisms responsible for the reduced expression of c-KIT on mobilized hematopoietic progenitor cells.
+Materials and Methods
+
+Mice were mobilized with G-CSF and primitive hematopoietic cells were collected from bone marrow and blood to analyze c-KIT expression. Using cell lines expressing mouse and human c-KIT and a recombinant protein comprising the entire extracellular domain of human c-KIT, we analyzed by flow cytometry and immunoblotting the proteolytic cleavage of c-KIT by proteases released in bone marrow extracellular fluids extracted from mobilized mice.
+Results
+
+Administration of G-CSF into mice results in the reduction of c-KIT expression on primitive hematopoietic cells in bone marrow and peripheral blood. Bone marrow extracellular fluids isolated from G-CSF–mobilized mice contain serine proteases that cleave c-KIT into discrete fragments. Proteases capable of cleaving c-KIT include neutrophil elastase, cathepsin G, proteinase-3 and matrix metalloproteinase-9.
+Conclusions
+
+In addition to transcriptional controls, exocytosis, and ligand-induced internalization, the direct proteolytic cleavage of c-KIT by neutrophil and macrophage proteases represents a novel pathway to regulate the levels of c-KIT expression at the surface of hematopoietic cells and may be responsible in part for the down-regulation of c-KIT expression on mobilized hematopoietic progenitors in vivo.

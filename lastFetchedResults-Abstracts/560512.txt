@@ -1,0 +1,21 @@
+Background: Functional electrical stimulation (FES) is the most commonly used
+system for restoring functions after spinal cord injury (SCI).
+Objective: In this study we investigated feedback PID and feedforward-feedback
+P-PID controllers for regulating the elbow joint angle.
+Methods: The controllers were tuned based on a nonlinear muculoskeletal model
+containing two links, one joint with one degree of freedom and two muscles in the
+sagittal plane that was simulated in MATLAB using Sim Mechanics and Simulink
+toolboxes. The first tune of the PID and P-PID controllers was done by trial and
+error. Then, the coefficients were optimized by genetic algorithm (GA). For checking
+the robustness of the controllers, we compared the amount of rise time, settling
+time, maximum overshoot and steady state error under three conditions: the first was
+when the initial angle of the joint was fixed and only the desired angles changed; the
+second was with a fixed step as input and various initial angles; and the last condition
+was with different maximum forces for muscle.
+Results: Genetic controllers had better performance than the trial and error tuned
+controllers. The amounts of settling time were not so different for the controllers in
+condition 1 but had more variations in condition 2 and had really better results in
+genetic P-PID in condition 3. The overshoot was pretty less in PIDs than in P-PIDs
+and the steady state error was almost zero for all of the controllers.
+Conclusion: Genetic controllers had a better performance than the trial and error
+tuned controllers. The rise time was much less in P-PIDs than in PIDs.

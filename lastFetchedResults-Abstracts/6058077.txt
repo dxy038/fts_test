@@ -1,0 +1,1 @@
+The objective of this article is the determination of the optimal flat gain level in the case of double broadband matching, through the use of the integral relations. It is shown how these integral relations can be established by using Cauchy´s integrals in a way similar to Fano´s [1950] and Fielder´s [1961] methods, but also involving the polynomial formalism

@@ -1,0 +1,12 @@
+A large-sample test for testing the equality of two effect sizes is presented. The null and
+non-null distributions of the proposed test statistic are derived. Further, the problem of estimating
+the effect size is considered when it is a priori suspected that two effect sizes may be close to each
+other. The combined data from all the samples leads to more efficient estimator of the effect size. We
+propose a basis for optimally combining estimation problems when there is uncertainty concerning
+the appropriate statistical model-estimator to use in representing the sampling process. The
+objective here is to produce natural adaptive estimators with some good statistical properties. In
+the context of two bivariate statistical models, the expressions for the asymptotic mean squared
+error of the proposed estimators are derived and compared with the parallel expressions for the
+benchmark estimators. We demonstrate that the suggested preliminary test estimator has superior
+asymptotic mean squared error performance relative to the benchmark and pooled estimators. A
+simulation study and application of the methodology to real data are presented

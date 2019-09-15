@@ -1,0 +1,9 @@
+Background
+The objective of this study was to identify the predictors of prolonged air leak (air leak longer than 7 days) in patients submitted to pulmonary lobectomy for lung cancer.
+Methods
+A retrospective analysis on 588 patients operated on of pulmonary lobectomy from January 1995 through June 2003 was performed. Univariate and logistic regression analyses were performed to generate a model predicting the risk of prolonged air leak. Bootstrap resampling technique was used to validate the regression model.
+Results
+A prolonged leak was exhibited by 15.6% of patients. Logistic regression analysis demonstrated that significant independent predictors of prolonged air leak were a reduced predicted postoperative forced expiratory volume in 1 second (p< 0.0001), the presence of pleural adhesions (p = 0.003), and upper resections (p = 0.006). Bootstrap resampling analysis confirmed the reliability of these variables. A regression equation was generated for the prediction of the risk of prolonged air leak.
+Conclusions
+We report that a low predicted postoperative forced expiratory volume in 1 second, the presence of pleural adhesions, and the upper lobectomy or bilobectomy increased the risk of air leak persisting for more than 7 days. A model was generated to calculate this risk and assist the surgeon in taking extra measures to prevent such complication (ie, optimizing bronchodilator treatment, pleural tent, sealants, buttressed staple lines, water seal, and chest tube drainage).
+

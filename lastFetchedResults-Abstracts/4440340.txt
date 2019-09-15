@@ -1,0 +1,1 @@
+We propose routing and resource allocation algorithms for grid over OBS networks with burst retransmission with the objective of minimizing the response time and maximizing the throughput of grid services.

@@ -1,0 +1,10 @@
+AbstractContext
+ality of business process models (i.e., software artifacts that capture the relations between the organizational units of a business) is essential for enhancing the management of business processes. However, such modeling is typically carried out manually. This is already challenging and time consuming when (1) input uncertainty exists, (2) activities are related, and (3) resource allocation has to be considered. When including optimization requirements regarding flexibility and robustness it becomes even more complicated potentially resulting into non-optimized models, errors, and lack of flexibility.
+ive
+ilitate the human work and to improve the resulting models in scenarios subject to uncertainty, we propose a software-supported approach for automatically creating configurable business process models from declarative specifications considering all the aforementioned requirements.
+
+ the scenario is modeled through a declarative language which allows the analysts to specify its variability and uncertainty. Thereafter, a set of optimized enactment plans (each one representing a potential execution alternative) are generated from such a model considering the input uncertainty. Finally, to deal with this uncertainty during run-time, a flexible configurable business process model is created from these plans.
+s
+idate the proposed approach, we conduct a case study based on a real business which is subject to uncertainty. Results indicate that our approach improves the actual performance of the business and that the generated models support most of the uncertainty inherent to the business.
+sions
+oposed approach automatically selects the best part of the variability of a declarative specification. Unlike existing approaches, our approach considers input uncertainty, the optimization of multiple objective functions, as well as the resource and the control-flow perspectives. However, our approach also presents a few limitations: (1) it is focused on the control-flow and the data perspective is only partially addressed and (2) model attributes need to be estimated.

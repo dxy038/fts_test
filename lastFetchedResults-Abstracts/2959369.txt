@@ -1,0 +1,1 @@
+The problem of controlling a nonlinear system in the presence of disturbances and modeling inaccuracies is considered. The objective is to design a static state feedback controller that controls the system so that the combined effect of all disturbances and inaccuracies on the response of the closed loop system is below a specified bound

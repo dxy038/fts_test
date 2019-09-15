@@ -1,0 +1,1 @@
+This paper is talking about Open Capacitated Arc Routing Problem,which is a combinational optimization problem.The objective is mainly to search for a solution of minimum cost.

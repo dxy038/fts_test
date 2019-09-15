@@ -1,0 +1,33 @@
+The Economic Cooperation Organization (ECO) region has a good potential for freight transit due
+to its geographical location. The region can act as a land bridge between Asia and Europe as well
+as having a vital role for the development of Central Asia land-locked countries. To promote the
+trade and transit among these countries, appropriate transportation infrastructure and services are
+required.
+Logistics is the management of the flow of goods, information and other resources, including
+energy and people, between the point of origin and the point of consumption in order to meet
+the requirements of consumers. Logistics involves the integration of information, transportation,
+inventory, warehousing, material-handling, and packaging, and occasionally security. Logistics is
+a channel of the supply chain which adds the value of time and place utility.
+Logistics parks are the key element of good intermodal transit transportation. The core of the
+strategy to develop logistics parks is industry capacity development with a focus on assisting
+logistics service providers to build their own enterprise capacity. Logistics parks help governments
+to promote the development of modern facilities in a new industrial cluster – including a major
+truck-park, transportation terminals, distribution centers, processing facilities, a logistics incubator,
+and a technology center.
+In this research, an optimum location-allocation model for development of logistics parks in the
+ECO region to provide services for transit freight is presented. Transport and logistics requirements
+are determined based on an assessment of the agricultural and resource sectors, and the light and
+heavy industries associated with those sectors. Special attention should be given to the role as a
+“transit-hub”. Based on our scope to provide services just for transit freight, the role as a transit
+hub is considered as the demand of logistics parks.
+There are no logistics parks in the ECO region. Also service providers as well as local transport
+operators, terminal facilities and distribution centers that all play roles in the logistics industry are
+in poor condition. In fact logistics industry (supply) in the ECO region is weak.
+Freight demand and supply are taken into consideration to determine the location of logistics
+parks. Based on demand role as transit hub and weakness in the supply sector, transit hubs are
+considered as the best location of logistics parks.
+Integer linear programming has been used for modeling. Model’s objective is to minimize total
+transportation cost in the network. Model is solved via branch and bound method by using Lingo
+8 software. Iran’s transit highway network is selected as case study and an optimum network
+with the four hubs including Hamedan, Sirjan, Marand, and Mashhad was suggested. Sensitivity
+analysis is performed on the results.

@@ -1,0 +1,10 @@
+The main objective of this study is to perform the passive balancing of a rotating mechanical
+system having multi-discs. Reducing the bearing vibrations is considered an optimization problem, and
+the Genetic Algorithm (GA) approach is used for solving it under the appropriate constraints. Therefore,
+bearing amplitudes are formulated as an objective function, and the eccentricity directions of 2nd, 3rd, . . . ,
+nth discs are defined as design variables relative to the first one. The conditions making the forces at the
+bearings minimum are taken as the nonlinear constraints in the optimization process. On the other hand,
+a rotating mechanical system having three unbalanced discs is evaluated as a numerical example to show
+the effectiveness of the proposed approach. Commercial software, ADAMS, is also used for simulating the
+system and testing the accuracy of the obtained values for the design variables. Theoretical and simulation
+results show that the proposed approach gives a certain decrease in bearing amplitudes and forces.

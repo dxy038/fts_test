@@ -1,0 +1,9 @@
+Objective.  The objective of this study was to quantify the effect of collar geometry on stress transfer and micromotion in idealized models of a cementless implant having an intramedullary stem.
+
+Background. Intramedullary stems exist on several types of orthopaedic implants, including the femoral component of hip arthroplasties and segmental replacements used in the surgical treatment of a tumor or trauma in the diaphysis of a long bone.
+
+Methods. Using three-dimensional finite element analysis, we compared four idealized, straight-stemmed, axisymmetric prostheses: flat-collared (0°), conical-collared (30° and 60°), and collarless tapered (80°). We simulated axial and non-axial (20° oblique) loads as well as non-ingrown and ingrown interface conditions.
+
+Results. Without bone ingrowth, stress transfer to bone adjacent to the collar increased with collar angle. Micromotion at the distal stem increased moderately with collar angle from 0° through 60°, then increased markedly from 60° to 80°. With simulated bony ingrowth, the effect of the collar was greatly reduced.
+
+Conclusions. The results of this study suggest that the selection of collar angle represents a tradeoff between initial stress transfer and micromotion. Stems with conical collar angles in the range of 30–60° can provide increased stress transfer compared to a flat collar design and reduced micromotion compared to a collarless tapered design.

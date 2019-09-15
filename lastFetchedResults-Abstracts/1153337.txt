@@ -1,0 +1,11 @@
+The objective is to determine the finest finite element simulations of deep-drawing operations, including spring-back effect, until the occurrence of strain localisation.
+
+This paper insists on two aspects that have a major influence on the results of the simulations: precise determination of the equivalent stress–equivalent strain relationship and description of boundary conditions.
+
+The stress–strain curve has been determined using duplicate analysis of tensile test. The classic extensometric strain measurement is compared with the measurements of strain with an automatic analysis of digital images caught at various deformation stages. The measurements by image analysis allow the determination of local strains and give them a more precise determination for the high strains.
+
+As to boundary limit problems managed with explicit algorithm, success mainly depends on the control of the process that has to remain in quasi-static range.
+
+In order to analyse the accordance of the results of the simulation and then obtained by the experiment, the precise method of residual stress calculation is elaborated for the case of the original tensile test: simultaneous loading and subsequent unloading to the equilibrium state of assembly of three samples with different lengths.
+
+The comparisons of the experimental and numerical results are very satisfactory.

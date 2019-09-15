@@ -1,0 +1,9 @@
+Objectives. Our objectives were to identify and define  minimum set of variables for interventional cardiology that carried the most statistical weight for predicting adverse outcomes. Though “gaming” cannot be completely avoided, variables were to be as objective as possible and reproducible and had to be predictive of outcome in current databases.
+
+Background. Outcomes of percutaneous coronary interventions depend on patient risk characteristics and disease severity and acuity. Comparing results of interventions has been difficult because definitions of similar variables differ in databases, and variables are not uniformly tracked. Identifying the best predictor variables and standardizing their definitions are  first step in developing  universal stratification instrument.
+
+Methods.  list of empirically derived variables was first tested in eight cardiac databases (158,273 cases). Three end points (in-hospital death, in-hospital coronary artery bypass graft surgery, Q wave myocardial infarction) were chosen for analysis. Univariate and multivariate regression models were used to quantify the predictive value of the variable in each database. The variables were then defined by consensus by  panel of experts.
+
+Results. In all databases patient demographics were similar, but disease severity varied greatly. The most powerful predictors of adverse outcome were measures of hemodynamic instability, disease severity, demographics and comorbid conditions in both univariate and multivariate analyses.
+
+Conclusions. Our analysis identified 29 variables that have the strongest statistical association with adverse outcomes after coronary interventions. These variables were also objectively defined. Incorporation of these variables into every cardiac dataset will provide uniform standards for dat collected. Comparisons of outcomes among physicians, institutions and databases will therefore be more meaningful.

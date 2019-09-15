@@ -1,0 +1,9 @@
+Study objective
+We assess emergency department (ED) utilization by a population whose health care encounters can be tracked and quantified for behavioral and mental health conditions in the aftermath of the terrorist attacks of September 11, 2001.
+Methods
+We assessed presentations to EDs by using Medicaid analytic extract files for adult New York State residents for 2000 and 2001. We created 4 mutually exclusive geographic areas that were progressively more distant from the World Trade Center and divided data into 4 periods. All persons in the files were categorized by their zip code of residence. We coded primary ED diagnoses for posttraumatic stress disorder, substance abuse, psychogenic illness, severe psychiatric illness, depression, sleep disorders, eating disorders, stress-related disorders, and adjustment disorders.
+Results
+There was a 10.1% relative temporal increase in the rate of ED behavioral and mental health diagnoses after the September 11, 2001, terrorist attacks for adult Medicaid enrollees residing within a 3-mile radius of the World Trade Center site. Other geographic areas experienced relative declines. In population-based comparisons, Medicaid recipients who lived within 3 miles of the World Trade Center after the September 11, 2001, terrorist attacks had a 20% increased risk of an ED mental health diagnosis (prevalence density ratio 1.2; 95% confidence interval 1.1 to 1.3) compared to those who were non–New York City residents.
+Conclusion
+The complex role that EDs may play in responding to terrorism and disasters is becoming increasingly apparent. To the best of our knowledge, this is the first report of a quantifiable increase in ED utilization for mental health services by persons exposed to a terrorist attack in the United States
+

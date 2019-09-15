@@ -1,0 +1,11 @@
+Background
+Non-potassium-sparing diuretics may increase mortality and hospitalizations in heart failure patients. Most heart failure patients are older adults, yet the effect of diuretics on cause-specific mortality and hospitalizations in older adults with heart failure is unknown. The objective of this propensity-matched study was to determine the effect of diuretics on mortality and hospitalizations in heart failure patients ≥ 65 years.
+Methods
+
+Of the 7788 Digitalis Investigation Group participants, 4036 were ≥ 65 years and 3271 (81%) were receiving diuretics. Propensity scores for diuretic use for each of the 4036 patients were calculated using a non-parsimonious multivariable logistic regression model incorporating all measured baseline covariates, and were used to match 651 (85%) patients not receiving diuretics with 651 patients receiving diuretics. Effects of diuretics on mortality and hospitalization at 37 months of median follow-up were assessed using matched Cox regression models.
+Results
+
+All-cause mortality occurred in 173 patients not receiving diuretics and 208 patients receiving diuretics respectively during 2056 and 1943 person-years of follow-up (hazard ratio {HR} = 1.36; 95% confidence interval {CI} = 1.08–1.71; p = 0.009). All-cause hospitalizations occurred in 413 patients not receiving and 438 patients receiving diuretics respectively during 1255 and 1144 person-years of follow-up (HR = 1.18; 95% CI = 0.99–1.39; p = 0.063). Diuretic use was associated with significant increased risk of cardiovascular mortality (HR = 1.50; 95% CI = 1.15–1.96; p = 0.003).and heart failure hospitalization (HR = 1.48; 95% CI = 1.13–1.94; p = 0.005).
+Conclusions
+
+Chronic diuretic use was associated with significant increased mortality and hospitalization in ambulatory older adults with heart failure receiving angiotensin converting enzyme inhibitor and diuretics.

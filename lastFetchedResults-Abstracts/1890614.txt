@@ -1,0 +1,18 @@
+Land-use spatial allocation is a multi-objective collaborative spatial optimization method
+for rational use of the land use. Based on global search capabilities and the information feedback
+mechanism of ant colony optimization (ACO), a land-use spatial allocation model (ACO-LA) is
+proposed. FirstlyFirst, a construction graph is built for modeling the land-use spatial allocation
+problem. SecondlySecond, the behaviors of artificial ants are improved so that the solution can be
+foundobtained quickly in the searchingsearch space. Finally, the ant colony generates optimized
+solutions by reconciling the conflicts between different planning objectives or by setting the relative
+dominance of different land-use types. Our study focuses on Gaoqiao Town of Fuyang City in
+Zhejiang Province, China. The model maximizes the land-use suitability and spatial compactness,
+and minimizes the cost of changing the land use, based on a variety of constraints, e.g., the optimal
+land-use structure and land-use policies. The results suggest that this model can obtain an optimized
+land-use spatial pattern from different sets of sub-objective weights and different development
+scenarios. With the constraint of the land-use structure, the land-use types can be distributed more
+reasonably by different sets of sub-objective weights. In different development scenarios, the model
+encourageencourages areas of land-use types in line with the development direction, adapting to
+meet different development needs by setting the relative dominance of the different land-use types,
+W
+dominance, which is added to the component selection probability Pij.

@@ -1,0 +1,9 @@
+Objective
+Abnormalities of HDL cholesterol (HDL-C), triglycerides, and LDL particle size are present in familial dyslipidemic hypertension. We investigated heritability of these three lipid traits and the extent to which shared effects of genes (pleiotropy) contribute to the additive genetic variation in each trait in hypertensive sibships.
+Methods
+Subjects included 788 individuals (60% women) ascertained through sibships with ≥2 members diagnosed with hypertension before age 60 years. The LDL particle size was measured by polyacrylamide gel electrophoresis. Triglycerides were log transformed to reduce skewness, and age- and sex-adjusted lipid traits were used in the analyses. Heritability and pairwise genetic correlations were computed using a variance components approach. The genetic correlation between a pair of traits was squared to yield genetic covariance, a measure of pleiotropic effects of genes influencing both traits concomitantly.
+Results
+Heritability estimates indicated significant genetic effects on HDL-C (0.58), log triglycerides (0.47), and LDL particle size (0.71). Genetic correlation was strongest between HDL-C and log triglycerides (−0.642), followed by log triglycerides and LDL particle size (−0.493), and HDL-C and LDL particle size (0.334). HDL-C and log triglycerides showed the strongest genetic covariance (41%), followed by LDL particle size and log triglycerides (24%), and HDL-C and LDL particle size (11%).
+Conclusions
+Multivariate quantitative genetic analyses in hypertensive sibships reveal that pleiotropy contributes to the additive genetic variation in HDL-C, triglycerides, and LDL particle size. These findings provide the rationale for multivariate linkage analyses to identify novel genetic loci with pleiotropic effects on the traits.
+

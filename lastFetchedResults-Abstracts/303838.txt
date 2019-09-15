@@ -1,0 +1,14 @@
+Objectives.
+The purpose of this study was to develop  rational and objective method for selecting  region in the proximal flow field where the hemispheric formul for calculating regurgitant flow rates by the flow convergence technique is most accurate.
+Background.
+
+ major obstacle to clinical implementation of the proximal flow convergence method is that it assumes hemispheric isovelocity contours throughout the Doppler color flow map, whereas contour shape depends critically on location in the flow field.
+Methods.
+
+Twenty mitral regurgitant flow rate stages were produced in six dogs by implanting grommet orifices into the anterior mitral leaflet and varying driving pressures so that actual peak flow rate could be determined from the known effective regurgitant orifice times the orifice velocity. Because plotting flow rate calculated by using  hemispheric formul versus alias velocities produces underestimation near the orifice and overestimation far from it, this plot was fitted to  polynomial function to allow identification of an inflection point within  relatively flat intermediate zone, where factors causing overestimation and underestimation are expected to be unimportant or balanced. The accuracy of flow rate calculation by the inflection point was compared with unselective and selective averaging techniques. Clinical relevance, initial feasibility and correlation with an independent measure were tested in 13 consecutive patients with mitral regurgitation who underwent cardiac catheterization.
+Results.
+
+1) The accuracy of single-point calculations was improved by selecting points in the flat portion of the curve (y = 1.15x − 334, r = 0.87, SEE = 22.1 ml/s vs. y = 1.34x − 1.99, r = 0.71, SEE = 45.6 ml/s, p < 0.01). 2) Selective averaging of points in the flat portion of the curve further improved accuracy and decreased scatter compared with unselective averaging (y = 1.08x + 4.8, r = 0.96, SEE = 11.6 ml/s vs. y = 1.30x + 0.6, r = 0.90, SEE = 20.9 ml/s, p < 0.01). 3) The proposed algorithm for mathematically identifying the inflection point provided the best results (y = 0.96x + 4.5, r = 0.96, SEE = 9.9 ml/s), with  mean error of 1.6 ± 9.7 ml/s vs. 11.4 ± 11.7 ml/s for selective averaging (p < 0.01). In patients, the proposed algorithm identified an inflection point at which calculated regurgitant volume agreed best with invasive measurements (y = 1.1x − 0.61, r = 0.93, SEE = 17 ml).
+Conclusions.
+
+The accuracy of the proximal flow convergence method can be significantly improved by analyzing the flow field mathematically to identify the optimal isovelocity zone before using the hemispheric formul to calculate regurgitant flow rates. Because the proposed algorithm is objective, operator independent and, thus, suitable for automatization, it could provide the clinician with  powerful quantitative tool to assess valvular regurgitation.

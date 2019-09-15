@@ -1,0 +1,11 @@
+Objective
+To compare artificial neural networks (ANN) and robust Bayesian classifiers (RBC) in predicting outcome following acute myocardial infarction (AMI).
+Methods
+
+Clinical, exercise ECG and stress echo variables by 496 patients with AMI were used to predict the cumulative end-point of cardiac death, nonfatal reinfarction and unstable angina. Revascularized patients were censored. Short (200 days)-, medium (400 days)- and long (1000 days)-term observation intervals, including 50%, 75% and 90% of the events, respectively, were considered. At each interval, any patient was binary assigned to the “event” or “no event” class. A multilayer feedforward ANN, trained by a back propagation algorithm, was used. RBC, using the leave-one-out technique, were derived. The accuracy of both techniques was compared to the default accuracy (DA) obtained by assigning all subjects to the largest class.
+Results
+
+14 death, 27 reinfarction and 29 unstable angina were observed during a mean follow-up of 24 [95% confidence interval (CI) 19 to 22] months. The accuracy of ANN and RBC and DA were 70%, 81% and 74% at short, 67%, 73% and 56% at medium and 64%, 68% and 62% at long-term follow-up.
+Conclusions
+
+(1) ANN do not improve the prognostic classification of patients with uncomplicated AMI as compared to RBC. (2) In particular, short-term prognostic accuracy seems insufficient.

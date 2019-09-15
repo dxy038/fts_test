@@ -1,0 +1,13 @@
+A new genetic-based approach is proposed for optimal selection of the static synchronous
+series compensator (SSSC) damping controller parameters in order to shift the closed loop
+eigenvalues toward the desired stability region. Controller design is formulated as a nonlinear
+constrained optimization problem. As the combination of objective function (system stability) and
+constraints (limits of controller gains) is used as the fitness function, their simultaneous improvement
+is achieved. The work relies on genetic algorithm (to capture the near global solution), analysis of
+mode observability (to select the effective feedback signal of the damping controller) and the
+theoretical analysis of a single-machine infinite-bus (SMIB), using its modified linearized PhillipsHeffron
+model installed with SSSC. It is shown that the results can be easily extended for multi
+machine power systems. Simulation results are presented to show the fine performance of the
+proposed SSSC controller in damping the critical modes without significantly deteriorating the
+damping characteristics of other modes in a SMIB power system.
+

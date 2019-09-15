@@ -1,0 +1,11 @@
+Context
+ements optimization has been widely studied in the Search Based Software Engineering (SBSE) literature. However, previous approaches have not handled requirement interactions, such as the dependencies that may exist between requirements, and, or, precedence, cost- and value-based constraints.
+ive
+roduce and evaluate a Multi-Objective Search Based Requirements Selection technique, using chromosome repair and to evaluate it on both synthetic and real world data sets, in order to assess its effectiveness and scalability. The paper extends and improves upon our previous conference paper on requirements interaction management.1This paper is an invited extension of the previous conference paper that appeared at SSBSE 2010 [1]. The primary novelty of this paper over its predecessor is the introduction of the repair based approach and the extension of the evaluation to include the real world data set (RALIC) in addition to the synthetic data used in the conference version.
+
+
+pular multi-objective evolutionary algorithm NSGA-II was used to produce baseline data for each data set in order to determine how many solutions on the Pareto front fail to meet five different requirement interaction constraints. The results for this baseline data are compared to those obtained using the archive based approach previously studied and the repair based approach introduced in this paper.
+s
+pair based approach was found to produce more solutions on the Pareto front and better convergence and diversity of results than the previously studied NSGA-II and archive-based NSGA-II approaches based on Kruskal–Wallis test in most cases. The repair based approach was also found to scale almost as well as the previous approach.
+sion
+is evidence to indicate that the repair based algorithm introduced in this paper is a suitable technique for extending previous work on requirements optimization to handle the requirement interaction constraints inherent in requirement interactions arising from dependencies, and, or, precedence, cost- and value-based constraints.

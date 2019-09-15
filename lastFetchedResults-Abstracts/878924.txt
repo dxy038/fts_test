@@ -1,0 +1,6 @@
+This paper extends the full convergence of the steepest descent method with a generalized Armijo search and a proximal regularization
+to solve minimization problems with quasiconvex objective functions on complete Riemannian manifolds. Previous
+convergence results are obtained as particular cases and some examples in non-Euclidian spaces are given. In particular, our approach
+can be used to solve constrained minimization problems with nonconvex objective functions in Euclidian spaces if the set
+of constraints is a Riemannian manifold and the objective function is quasiconvex in this manifold.
+© 2007 Elsevier Inc. All rights reserved

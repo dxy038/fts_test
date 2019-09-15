@@ -1,0 +1,4 @@
+PSPC or split step Fourier migration is a method based on downward continuation of seismic wave field in frequency-space and frequency-wave number domains. Compared with the phase shift method, this method is a superior algorithm with the ability to handle lateral variations in the velocity field. Therefore, the method is a depth migration, which works in the post stack domain.
+In this study, the ability, precision and validity of PSPC migration in the processing of real data sets with strong lateral velocity variations is verified.
+In order to achieve this objective, the velocity section used by migration algorithms has been improved in different steps by the iterative method of residual move-out analysis through applying pre stack Kirchhofftime migration.
+The improved velocity section was then used to apply pre stack Kirchhoff depth migration to original CMP gathers and PSPC migration to the stack section and the results were compared.

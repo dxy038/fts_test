@@ -1,0 +1,14 @@
+Objective
+To show that it is possible to determine segment masses and segment centers of mass by measuring manipulator-hand contact forces and joint angles during upper extremity movement.
+Background
+
+The method serves as a quick subject specific body segment parameter evaluation technique. Clinically we see this method as an alternative upper extremity body segment parameter evaluation study especially useful in rehabilitation treatment activities.
+Methods
+
+The experiment is based on coupling the human arm with a robotic manipulator which is then used for imposing a specified sagittal plane trajectory. Joint angles and forces in the contact point serve as input to the identification procedure. For verification purposes the proposed identification procedure was first performed on a mechanical arm. Afterwards a low velocity trajectory was imposed into all joints of the human upper extremity, with very small angular deviations. Within this small angular region the arm was assumed to be represented as a linear system.
+Findings
+
+The outcome of the identification procedure is an estimate of masses and center of mass coordinates for the lower arm and palm segments, their products for the upper arm and the passive moments around the measured angle of all joints in the sagittal plane. The results obtained for three particular human arms are eventually compared to the average population based literature.
+Conclusion
+
+From the clinical point of view the study can become useful for biomechanical evaluation and for evaluating biomechanical properties of lower extremities or other body segments. This method may also provide a foundation to measuring body segment moments of inertia and joint viscoelastic parameters.

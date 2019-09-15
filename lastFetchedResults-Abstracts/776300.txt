@@ -1,0 +1,12 @@
+The previous methods for optimal sizing of photovoltaic (PV) irrigation water pumping systems separately considered the demand for
+hydraulic energy and possibilities of its production from available solar energy with the PV pumping system. Unlike such methods, this
+work approaches the subject problem systematically, meaning that all relevant system elements and their characteristics have been analyzed:
+PV water pumping system, local climate, boreholes, soil, crops and method of irrigation; therefore, the objective function has been
+defined in an entirely new manner. The result of such approach is the new mathematical hybrid simulation optimization model for optimal
+sizing of PV irrigation water pumping systems, that uses dynamic programming for optimizing, while the constraints were defined by
+the simulation model. The model was tested on two areas in Croatia, and it has been established that this model successfully takes into
+consideration all characteristic values and their relations in the integrated system. The optimal nominal electric power of PV generator,
+obtained in the manner presented, are relatively smaller than when the usual method of sizing is used. The presented method for solving
+the problem has paved the way towards the general model for optimal sizing of all stand-alone PV systems that have some type of energy
+storage, as well as optimal sizing of PV power plant that functions together with the storage hydroelectric power plant.
+  2006 Elsevier Ltd. All rights reserved

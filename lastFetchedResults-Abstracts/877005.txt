@@ -1,0 +1,8 @@
+Using M-matrix and topological degree tool, sufficient conditions are obtained for the existence, uniqueness
+and global exponential stability of the equilibrium point of bidirectional associative memory (BAM)
+neural networks with distributed delays and subjected to impulsive state displacements at fixed instants of
+time by constructing a suitable Lyapunov functional. The results remove the usual assumptions that the
+boundedness, monotonicity, and differentiability of the activation functions. It is shown that in some cases,
+the stability criteria can be easily checked. Finally, an illustrative example is given to show the effectiveness
+of the presented criteria.
+© 2006 Elsevier Inc. All rights reserved.

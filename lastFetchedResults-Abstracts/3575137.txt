@@ -1,0 +1,1 @@
+This paper deals with the use of the Kriging models for objective function approximations and their use on electromagnetic device optimization. The models are compared with some radial basis function neural networks and with the diffuse element method. Comparative tests are done on an analytical function and on the TEAM workshop problem 25.

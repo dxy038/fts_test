@@ -1,0 +1,11 @@
+Objective
+NKT cells have diverse immune regulatory functions including activation of cells involved in Th1- and Th2-type immune activities. Most previous studies have investigated the functions of NKT cells as a single family but more recent evidence indicates the distinct functional properties of NKT cell subpopulation. This study aims to determine whether NKT cell subpopulations have different stimulatory activities on other immune cells that may affect the outcome of NKT cell–based immunotherapy.
+Methods
+
+NKT cells and NKT cell subpopulations (CD4+CD8−, CD4−CD8+, CD4−CD8−) were cocultured with PBMC and their activities on immune cells including CD4+ and CD8+ T cells, NK cells, and B cells were assessed by flow cytometry. The production of cytokines in culture was measured by enzyme-linked immunsorbent assay.
+Results
+
+The CD4+CD8− NKT cells demonstrated substantially greater stimulatory activities on CD4+ T cells, NK cells, and B cells than other NKT cell subsets. The CD4−CD8+ NKT cells showed the greatest activity on CD8+ T cells, and were the only NKT cell subset that activated these immune cells. The CD4−CD8− NKT cells showed moderate stimulatory activity on CD4+ T cells and the least activity on other immune cells.
+Conclusion
+
+The results here suggest that NKT cell subpopulations differ in their abilities to stimulate other immune cells. This highlights the potential importance of manipulating specific NKT cell subpopulations for particular therapeutic situations and of evaluating subpopulations, rather than NKT cells as a group, during investigation of a possible role of NKT cells in various disease settings.

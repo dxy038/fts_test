@@ -1,0 +1,11 @@
+Objective
+Haplotype-mismatched CD34+ selected allogeneic stem cell transplantation (HASCT) has been described as a therapeutic option for patients with acute myeloid leukemia. The success of this regimen is based mainly on natural killer (NK) cell–mediated antileukemia effects.
+Materials and Methods
+
+We prospectively investigated NK-cell (CD56+/CD3−) reconstitution, including expression of antileukemia effector molecules in patients undergoing HASCT.
+Results
+
+Although absolute NK-cell numbers rapidly increased, their phenotype notably differed compared to healthy controls. In fact, the “effector” CD56dim subset was significantly reduced, as was the NKG2D expression on “regulatory” CD56bright cells. Perforin was completely absent on NK cells in one-third of patients. The expression of Fas-ligand (Fas-L) on NK cells as well as soluble Fas-L and tumor necrosis factor–related apoptosis-inducing ligand (TRAIL) plasma levels were also significantly lower after HASCT. In contrast, expression of TRAIL on CD56dim cells and interleukin-15 plasma levels were upregulated. Because the death rate due to relapse or infectious complications was high in the initial phase of the trial, subsequent patients received an adoptive infusion of donor NK cells followed by interleukin-2 in vivo in order to augment NK-cell function. This led to a distinct upregulation of perforin and Fas-L on the CD56dim subset accompanied by increased NK-cell cytotoxicity in vitro.
+Conclusion
+
+The phenotype of reconstituting NK cells after HASCT is significantly altered. Whether the clinical outcomes of patients undergoing this regimen can be improved by a cytokine-based modulation of NK-cell activity needs to be determined.

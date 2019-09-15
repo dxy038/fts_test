@@ -1,0 +1,1 @@
+The impact of backreflections on receiver sensitivity in a bidirectional coherent WDM-PON is investigated. Channel spacing is swept from 4 GHz to 30 GHz using 3.125 GBaud PDM-QPSK channels.

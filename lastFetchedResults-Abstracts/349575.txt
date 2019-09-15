@@ -1,0 +1,12 @@
+Objective
+Comparative assessment of best conventional with best theta burst repetitive transcranial magnetic stimulation (rTMS) protocols on human motor cortex excitability.
+Methods
+Stimulation of dominant hand abductor digiti minimi muscle representation of motor cortex in nine healthy right-handed subjects utilising two different MagPro stimulators to generate TMS pulses of distinct monophasic, half sine and biphasic shape with anteriorly or posteriorly directed current flow, measuring resting and active motor threshold and motor-evoked potential (MEP) amplitude. Comparison of two different conventional rTMSs and eight different theta burst stimulation (TBS) protocols.
+Results
+Continuous TBS (cTBS) yielded an inhibition, and intermittent TBS (iTBS) a facilitation of MEP amplitudes. These effects were not significantly influenced by waveform or current orientation. Compared to conventional rTMS paradigms, neither cTBS nor iTBS showed significantly stronger effects.
+In addition and confirming earlier findings, the asymmetric monophasic pulse and a posteriorly directed current flow yielded a higher threshold than all other TMS types. The less asymmetric half-sine pulse had a lower threshold for postero-anterior current than in the opposite direction. The biphasic stimuli yielded the lowest motor threshold particularly with an antero-posterior current direction.
+Conclusions
+TBS did not depend on current direction or on pulse configuration in this sample of healthy subjects. In addition, TBS effect size was not clearly superior to conventional rTMS protocols.
+Significance
+This systematic comparison of three waveforms, two current directions and two different interventional protocols allows a better understanding of the mechanisms of TMS on human motor cortex.
+

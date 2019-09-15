@@ -1,0 +1,2 @@
+n this paper, a Bayesian hierarchical model is used to anaylze the female breast cancer mortality rates for the State of Missouri from 1969 through 2001. The logit transformations of the mortality rates are assumed to be linear over the time with additive spatial and age effects as intercepts and slopes. Objective priors of the hierarchical model are explored. The Bayesian estimates are quite robustness in terms change of the hyperparamaters. The spatial correlations are appeared in both intercepts and slopes.
+

@@ -1,0 +1,11 @@
+Objective
+Although peripheral blood B-CLL cells are arrested in G0 phase of the cell cycle, a proliferating pool of cells in proliferation centers might be involved in disease progression. We have previously described an in vitro model of this proliferating pool of cells using B-CLL cells stimulated with immunostimulatory oligonucleotides (CpG-ODN) and interleukin-2. Lactacystin is a specific inhibitor of the proteasome and is a potent apoptosis inductor in resting peripheral B-CLL cells. In the present study, we investigated the effect of proteasome inhibition in proliferating B-CLL cells.
+Methods
+
+The effect of proteasome inhibition was analyzed using thymidine incorporation, annexin V assays, and TUNEL staining. Immunoblots were performed to evaluate expression of proteins involved in cell cycle and apoptosis regulation.
+Results
+
+Lactacystin blocked cell cycle progression in activated B-CLL cells and inhibited degradation of p27. Upregulation of cyclin D2 and D3 in activated B-CLL cells was inhibited while the expression of cdk2, cdk4, and cyclin E remained unchanged. Activated B-CLL cells were more susceptible to apoptosis induction as compared to resting B-CLL cells. Apoptosis induction was accompanied by cleavage of Bax, procaspase 8, procaspase 9, and procaspase 3. However, a broad-spectrum caspase inhibitor (z-VAD.fmk) only partially inhibited cell death although DNA degradation was completely inhibited.
+Conclusion
+
+Proteasome inhibition is highly effective in proliferating B-CLL cells and induces apoptosis using a caspase-dependent and -independent pathway.

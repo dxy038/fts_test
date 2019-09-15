@@ -1,0 +1,22 @@
+We propose a fundamentally new approach to the treatment of shearband localizations in strain softening
+elastic–plastic solids at  nite strains based on energy minimization principles associated with
+microstructure developments. The point of departure is a general internal variable formulation that determines
+the  nite inelastic response as a standard dissipative medium. Consistent with this type of
+inelasticity we consider an incremental variational formulation of the local constitutive response where
+a quasi-hyperelastic stress potential is obtained from a local constitutive minimization problem with
+respect to the internal variables. The existence of this variational formulation allows the de nition of
+the material stability of an inelastic solid based on weak convexity conditions of the incremental
+stress potential in analogy to treatments of  nite elasticity. Furthermore, localization phenomena are
+interpreted as microstructure developments on multiple scales associated with non-convex incremental
+stress potentials in analogy to elastic phase decomposition problems. These microstructures can be
+resolved by the relaxation of non-convex energy functionals based on a convexi cation of the stress
+potential. The relaxed problem provides a well-posed formulation for a mesh-objective analysis of localizations
+as close as possible to the non-convex original problem. Based on an approximated rank-one
+convexi cation of the incremental stress potential we develop a computational two-scale procedure for
+a mesh-objective treatment of localization problems at  nite strains. It constitutes a local minimization
+problem for a relaxed incremental stress potential with just one scalar variable representing the intensity
+of the microshearing of a rank-one laminate aligned to the shear band. This problem is su ciently
+robust with regard to applications to large-scale inhomogeneous deformation processes of elastic–plastic
+solids. The performance of the proposed energy relaxation method is demonstrated for a representative
+set of numerical simulations of straight and curved shear bands which report on the mesh independence
+of the results

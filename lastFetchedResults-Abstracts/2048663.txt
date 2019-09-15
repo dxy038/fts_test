@@ -1,0 +1,76 @@
+A
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4  Backgrounds and Objectives: Large quantities of sludge are produced in
+biological wastewater treatment. Because this sludge is highly rotten, it
+should be stabilized before its disposal. Aerobic and anaerobic digestion is
+widely considered as stabilization techniques. Because of high retention time
+and sludge dewatering difficulties, reduction in retention time, operation and
+maintenance should be given into consideration. Ultrasonic process increases
+the enzymatic activity, so decreases the hydrolysis time, a limiting factor in
+digestion process, and contributes to the decrease of the detention time. The
+objective of this investigation is to determine the effect of ultrasound in
+improving dewatering and stabilization of aerobic and anaerobic digested
+sludge. In addition, the impact of ultrasonic treatment on improvement of
+sludge dewatering and aerobic and anaerobic digestion is compared.Materials and Methods: In this survey, samples of aerobic and
+anaerobic digestion were collected from local full-scale Garb Town
+and Tehran South wastewater treatment plant, respectively. The grab samples
+were collected for 4 month from July to October 2010. Total numbers of 20
+samples were collected biweekly for each type of digestion. Each sample was
+sonicated for 15, 30, 60, and 90 min under 35 and 131 kHz frequencies
+separately. Total solids, volatile solids , pH, temperature , total COD,
+dissolved COD and settle able solids were measured. Ultrasound bath of the
+solution in a 300 mL glass reactor was performed as a bath reactor with power
+of 500 W.Result: The results showed that the application of ultrasonic
+wave increased dissolved COD and temperature and decreased volatile solid, pH
+and settle able solids. Application of ultrasonic wave with frequency of 131
+kHz decreased the VS and increased the dewatering of sludge more effective than
+the 35 kHz frequency and the highest performance was at 15 min of time and 131
+kHz of frequency. Also sonication method showed better efficiency for anaerobic
+sludge samples compared to the aerobic sludge samples.                 Conclusion: The results obtained showed that digestion
+and dewatering properties of sludge improved by ultrasonic application.
+Therefore it can be used as an alternative method for the sludge treatment.
+  !mso]> 
+<object classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui>
+
+
+st1":*{behavior:url(#ieooui) }
+
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+
+

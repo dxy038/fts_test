@@ -1,0 +1,10 @@
+Objective
+tive loading during manual wheelchair propulsion (WCP) is associated with overuse injury to the upper extremity (UE). The aim of this study was to determine how RF redirection and load distribution are affected by changes upper extremity kinematic modifications associated with modifications in seat positions during a WCP task. The aim of this study was to determine how RF redirection and load distribution are affected by upper extremity kinematic changes associated with seat position adjustment during a WCP task.
+
+c simulations using an experiment-based multi-link inverse dynamics model were used to generate solutions for redistributing UE mechanical load in different seating positions without decrements in WCP task performance.
+s
+mental RF and kinematic data were collected for one subject propelling at a self-selected speed and used as input into the model. Shoulder/axle distance, wrist angular position, and RF direction were systematically modified to simulate how the mechanical demand imposed on the upper extremity (elbow and shoulder net joint moments (NJMs) and net joint forces) may vary.
+s
+istribution depended on UE orientation relative to the wheel. At peak force, lower shoulder/axle distances and more anterior wrist positions on the pushrim allowed for more extended elbow positions and reduced total NJM load.
+retation
+tion results incorporating subject-specific data may provide mechanically based information to guide clinical interventions that aim to maintain WCP performance and redistribute load by modifying RF direction, seat configuration and hand/rim interaction.

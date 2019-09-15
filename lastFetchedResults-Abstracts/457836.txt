@@ -1,0 +1,7 @@
+Objective
+This study examined whether inflammation adds to the prediction of coronary heart disease (CHD) beyond metabolic syndrome (MetS), and whether these associations differ between sexes.
+Methods and results
+Among 30,111 women from the Nurses’ Health Study and 16,695 men from the Health Professionals Follow-up Study without prior cardiovascular disease, 249 women and 266 men developed non-fatal myocardial infarction or fatal CHD during 8 and 6 years of follow-up, respectively. Controls were selected 2:1 within each cohort matched on age, smoking, and date of blood draw. Subjects with MetS had a significantly increased relative risk (RR) of CHD compared to individuals without MetS, and this RR was significantly higher in women (3.01; 95%-CI 1.98–4.57) than in men (1.62; 95%-CI 1.13–2.33; p interaction = 0.03). Adjustment for most inflammatory markers did not substantially attenuate the risk estimates, although the association was no longer significant in men after adjustment for CRP. Vice versa, associations of inflammatory markers with CHD risk among women were no longer significant after further adjustment for MetS. Among men, CRP and sICAM remained significant predictors of CHD independent of MetS.
+Conclusions
+MetS is a stronger predictor of CHD in women than in men. Most inflammatory markers did not add appreciable information beyond MetS to predict CHD; only CRP and sICAM remained independently predictive of CHD among men. The basis for these sex-based differences warrants further study.
+

@@ -1,0 +1,7 @@
+Objective. To test the hypothesis that shear stress relaxation functions of dental ceramics can be determined from creep functions measured in a beam-bending viscometer.
+
+Methods. Stress relaxation behavior was determined from creep data for the following materials: (1) a veneering ceramic-IPS Empress2® body ceramic (E2V); (2) an experimental veneering ceramic (EXV); (3) a low expansion body porcelain-Vita VMK 68 feldspathic body porcelain (VB); (4) a high expansion body porcelain-Will Ceram feldspathic body porcelain (WCB); (5) a medium expansion opaque porcelain-Vita feldspathic opaque porcelain (VO); and (6) a high expansion opaque porcelain-Will Ceram feldspathic opaque porcelain (WCO). Laplace transform techniques were used to relate shear stress relaxation functions to creep functions for an eight-parameter, discrete viscoelastic model. Nonlinear regression analysis was performed to fit a four-term exponential relaxation function for each material at each temperature. The relaxation functions were utilized in the ANSYS finite element program to simulate creep behavior in three-point bending for each material at each temperature.
+
+Results. Shear stress relaxation times at 575 °C ranged from 0.03 s for EXV to 195 s for WCO.
+
+Significance. Knowledge of the shear relaxation functions for dental ceramics at high temperatures is required input for the viscoelastic element in the ANSYS finite element program, which can used to determine transient and residual stresses in dental prostheses during fabrication.

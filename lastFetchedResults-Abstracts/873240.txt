@@ -1,0 +1,7 @@
+In this paper, a class of generalized convexity is introduced and a unified higher-order dual model
+for nondifferentiable multiobjective programs is described, where every component of the objective
+function contains a term involving the support function of a compact convex set. Weak duality theorems
+are established under generalized convexity conditions. The well-known case of the support
+function in the form of square root of a positive semidefinite quadratic form and other special cases
+can be readily derived from our results.
+ 2004 Elsevier Inc. All rights reserved

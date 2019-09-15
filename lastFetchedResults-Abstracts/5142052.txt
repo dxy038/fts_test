@@ -1,0 +1,1 @@
+We describe a perceptual space for timbre, define an objective metric that takes into account perceptual orthogonality and measure the quality of timbre interpolation. We discuss three timbre representations and measure perceptual judgments. We determine that a timbre space based on mel-frequency cepstral coefficients (MFCC) is a good model for a perceptual timbre space.

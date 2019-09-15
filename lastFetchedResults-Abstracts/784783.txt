@@ -1,0 +1,20 @@
+Background: The mortality prediction represents a key factor in the managing of elderly
+hospitalized patients. Since in older subjects mortality results from a combination of biological, functional,
+nutritional, psychological and environmental factors, a Multidimensional Prognostic Index (MPI) that
+predict short- and long-term mortality based on a standardized comprehensive geriatric assessment (CGA)
+has recently been developed and validated. Objective: This study compares the accuracy in predicting the
+mortality of the MPI with a modified version of the MPI (m-MPI) that included the Mini Nutritional
+Assessment-Short Form (MNA-SF) instead of the standard MNA. Design: This prospective study with a
+one-year follow-up included 4088 hospitalized patients aged 65 years and older. A standardized CGA that
+included information on functional (Activities of Daily Living, ADL and Instrumental-ADL), cognitive
+(Short Portable Mental Status Questionnaire), risk of pressure sore (Exton-Smith Scale), comorbidities
+(CIRS Index), medications, living status and nutritional status (MNA and MNA-SF) was used to calculate
+the MPI using a previously validated algorithm. Results: Higher MPI values were significantly associated
+with higher mortality rates with a close agreement between the estimated and the observed mortality both
+after 1-month (MPI1=2.8% versus m-MPI1=2.8%,p=0.946; MPI2=8.9% versus m-MPI2=9%,p=0.904;
+MPI3=21.9% versus m-MPI3=21.9,p=0.978) and 1-year of follow-up (MPI1=10.8% versus m-
+MPI1=10.5%,p=0.686; MPI2=27.3% versus m-MPI2=28%, p=0.495; MPI3=52.8% versus m-
+MPI3=52.7%,p=0.945). The estimated areas under the receiver operating characteristics (ROC) curves
+suggested a clinically negligible difference between the two indices. Conclusion: The m-MPI is as sensitive
+as the MPI in stratifying hospitalized elderly patients into groups at varying risk of short- and long-term
+mortality, but with fewer items.

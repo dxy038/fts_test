@@ -1,0 +1,7 @@
+This two-part paper addresses scaling of the dynamic response of clamped circular plates subjected to close-range and large spherical blast loadings.
+
+Full-scale experiments involving actual geometries and charges are quite involved and costly, both in terms of preparation and measurements. For these reasons, scaled-down experiments are highly desirable. However, the validity of such experiments remains to be firmly established, and this is the main objective of this paper.
+
+In this study, similarity is obtained by using replica scaling for all geometrical parameters, while the blast effect is scaled by using the well-known Hopkinson scaling law. We also consider the overall effect of the strain rate sensitivity and variability of material properties with plate thickness on the response of the scaled model.
+
+This study presents numerical and experimental results from a series of controlled explosion experiments. The first part of the paper deals with spherical charges exploding in free air, while the second part deals with the same charges flush buried in dry sand. A good agreement between numerical simulation predictions and test results was obtained, so that the main result of the two papers is that scaling can be successfully applied to assess the dynamic response of armor plates subjected to close-range large explosions.

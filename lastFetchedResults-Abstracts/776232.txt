@@ -1,0 +1,12 @@
+This study aims to quantify and to model the temperature profile around an absorber tube of a parabolic trough concentrator with
+low fluid flow. This study was specifically developed for the solar power plant of the Engineering Institute, National University of Mexico.
+This work presents experimental results under saturated conditions and low pressures (1.5–3 bar) using water as the thermal and
+working fluid for direct steam generation (DSG). The control variable was feed flow. Solar irradiance was used as the restriction variable
+because all experimental tests should be developed under very specific values of this variable (for example, I > 700 W/m2). The objective
+of this experiment was to study the thermal behavior of a temperature gradient around the absorber tube under steady-state conditions
+and with low flow. Additionally, a theoretical analysis was carried out by means of the homogeneous heat conduction equation in the
+cylindrical coordinate system using only two dimensions (r, u). The finite-difference numerical method was used with the purpose of proposing
+a solution and obtaining a temperature profile. The objective of this theoretical analysis was to complement the experimental tests
+carried out for direct steam generation (DSG) with annular two-phase flow patterns for low powers in parabolic trough concentrators
+with carbon steel receivers.
+  2006 Elsevier Ltd. All rights reserved.

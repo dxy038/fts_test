@@ -1,0 +1,11 @@
+Objective
+To discriminate seizures from interictal dynamics based on multivariate synchrony measures, and to identify dynamics of a pre-seizure state.
+Methods
+A linear discriminator was constructed from two different measures of synchronization: cross-correlation and phase synchronization. We applied this discriminator to a sequence of seizures recorded from the intracranial EEG of a patient monitored over 6 days.
+Results
+Surprisingly, we found that this bivariate measure of synchronization was not a reliable seizure discriminator for 7 of 9 seizures. Furthermore, the method did not appear to reliably detect a pre-seizure state. An association between anti-convulsant dosage, frequency of clinical seizures, and discriminator performance was noted.
+Conclusions
+Using a bivariate measure of synchronization failed to reliably differentiate seizures from non-seizure periods in these data, nor did such methods show reliable detection of a synchronous pre-seizure state. The non-stationary variables of decreasing antiepileptic medication (without available serum concentration measurements), and concomitant increasing seizure frequency contributed to the difficulties in validating a seizure prediction tool on such data.
+Significance
+The finding that these seizures were not a simple reflection of increasing synchronization in the EEG has important implications. The non-stationary characteristics of human post-implantation intracranial EEG is an inherent limitation of pre-resection data sets.
+

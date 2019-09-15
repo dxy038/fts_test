@@ -1,0 +1,10 @@
+Context
+re effort estimation is a core task regarding planning, budgeting and controlling software development projects. However, providing accurate effort estimates is challenging. Estimation work is increasingly group based, and to support it, there is a need to reveal how work practices are carried out as collaborative efforts.
+ive
+aper examines the use of concepts in software effort estimation by analysing group work as communicative practice. The objective is to improve our understanding of how software professionals invoke different types of knowledge when talking, reasoning and reaching a decision on a software effort estimate.
+
+tion meetings in the industry where planning poker was used as the estimation method have been video recorded and analysed by means of the interaction analysis technique, focusing on the communicative and collaborative aspects of the group work.
+s
+er story mediates the types of resources and knowledge needed to solve the task. Concepts from the knowledge domain are used to frame the task and allow the participants to reach consensus, sufficient to take the next step in the problem-solving activity. Individual knowledge seems to be the dominating orientation when it comes to specifying the work needed for solving the tasks.
+sion
+ep from reasoning to decision-making has been called the “magic step” in software effort estimation. We argue that the magic step is found in the analysis of the social interaction in which the concepts used are anchored in the knowledge domain of software engineering and in the historical experiences of the participants and subsequently become activated. We propose that by taking a socio-cultural perspective on concepts in activities, the ways in which software professionals reach a decision can be unpacked. The paper contributes to an understanding of the role of concepts in group work and of software effort estimation as a specific work practice.

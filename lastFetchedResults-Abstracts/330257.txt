@@ -1,0 +1,11 @@
+Objective
+The objective of this study was to refine a strain gage method for measuring polymerization contraction of resin composites and to isolate the net post-gel contraction by identifying factors contributing to the measured strains. The hypothesis to be tested was that carefully controlled strain gage measurements of composite polymerization could isolate post-gel contraction events.
+Methods
+
+Composite was placed on a biaxial strain gage and light-cured. This method enabled real-time registration of the progress of shrinkage strain, corresponding to elastic modulus development. Strain from the two axes of the strain gage were averaged and plotted as a function of time. A representative curve was calculated from the mean of ten measurements. The following factors influencing the total contraction measurement were evaluated: thermal expansion of the gage, thermal expansion of the composite due to the exothermic reaction and exposure to the curing light, and adhesion of the composite to the gage. These parameters were measured so that the net deformation of the composite during polymerization could be calculated.
+Results
+
+Parametric studies of pre-cured and photointiator-free materials confirmed the hypothesis that strain gages measure post-gel contraction. Thermal artifacts were measured and subtracted from the total strain output.
+Sigficance
+
+Strain gages are suitable for measuring the clinically significant phase of composite polymerization contraction.

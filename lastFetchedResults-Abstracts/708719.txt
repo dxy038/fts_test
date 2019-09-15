@@ -1,0 +1,9 @@
+Objective
+The aim of the study was to assess the quality of care between male and female emergency department (ED) patients with acute myocardial infarction (AMI).
+Methods
+A 2-year retrospective cohort study of 2215 patients with AMI presenting immediately to 5 EDs from July 1, 2000, through June 30, 2002 was conducted. Data on patient characteristics, clinical presentation, and ED processes of care were obtained from chart and electrocardiogram reviews. Multivariable regression models were used to assess the independent association between sex and the ED administration of aspirin, β-blockers, and reperfusion therapy to eligible patients with AMI.
+Results
+There were 849 women and 1366 men in the study. Female patients were older than male patients (74.3 years for women vs 66.8 years for men, P < .001). Among ideal patients, women were less likely than men to receive aspirin (76.3% of women vs 81.3% of men, P < .01), β-blockers (51.7% of women vs 61.4% of men, P < .01), and reperfusion therapy (64.0% of women vs 72.8% of men, P < .05). However, after adjustment for age, there was no longer a significant relationship between sex and the use of aspirin (odds ratio [OR], 0.99; 95% confidence interval [CI], 0.95-1.03), β-blockers (OR, 0.94; 95% CI, 0.82-1.04), or reperfusion therapy (OR, 1.01; 95% CI, 0.89-1.09). In models adjusting for additional demographic, clinical, and hospital characteristics, there remained no association between sex and the processes of care.
+Conclusion
+Women with AMI treated in the ED have a lower likelihood of receiving aspirin, β-blocker, and reperfusion therapy. However, this association appears to be explained by the age difference between men and women with AMI. Although there are no apparent sex disparities in care, ED AMI management remains suboptimal for both sexes.
+

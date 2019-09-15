@@ -1,0 +1,1 @@
+This report reviews a recent dereverberation algorithm to effectively remove late reverberation from observed audio signals. Since such late reverberation is the most detrimental to the performance of automatic speech recognition (ASR), the algorithm is expected to improve the ASR performance when a distant microphone is used to capture an objective speech signal.

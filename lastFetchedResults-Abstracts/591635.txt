@@ -1,0 +1,7 @@
+In general redundancy allocation problems the redundancy strategy for each subsystem is
+predetermined. Tavakkoli- Moghaddam presented a series-parallel redundancy allocation problem with
+mixing components (RAPMC) in which the redundancy strategy can be chosen for individual
+subsystems. In this paper, we present a bi-objective redundancy allocation when the redundancy
+strategies for subsystems are considered as a variable of the problem. As the problem belongs to the
+NP-hard class problems, we will present a new approach for the non-dominated sorting genetic
+algorithm (NSGAII) and Memtic algorithm (MA) with each one to solve the multi-objective model.

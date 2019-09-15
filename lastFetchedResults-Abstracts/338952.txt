@@ -1,0 +1,11 @@
+Objective
+Chemokines have been postulated to play a role in the pathogenesis of graft-vs-host disease (GVHD) after allogeneic hematopoietic transplantation. Recent reports have indicated that the absence of donor expression of CCR5 on T cells ameliorates GVHD in models using no conditioning of the recipient. We therefore assessed the role of CCR5 on donor cells in models where intensive conditioning of the recipient occurs, thus more appropriately mirroring the clinical experience.
+Methods
+
+Lethally irradiated mice received allogeneic bone marrow transplants. Recipients were given full MHC-mismatched donor bone marrow and splenocytes from CCR5 knockout (KO) mice vs wild-type (WT) control donors.
+Results
+
+Recipients of CCR5 KO donor cells succumbed to acute GVHD at an accelerated rate compared to mice receiving WT cells. Donor CD8+ T cells expanded to a significantly greater extent in recipients of CCR5 KO vs WT control cells. T cells recovered from recipients of CCR5 KO cells produced more IFN-γ and TNF-α and proliferated to a T-cell mitogen at a significantly greater level then T cells from recipients of WT cells, indicating that CCR5 plays a role in downregulating donor alloreactive CD8+ T-cell expansion. Histological assessment of the mice indicated pathological lesions in the kidneys and a greater degree of liver pathological changes in mice that received CCR5 KO donor grafts.
+Conclusions
+
+These results indicate that the role of CCR5 in allogeneic bone marrow transplants and GVHD is more complex than initially thought. In a murine transplant model with intensive conditioning, the overall effect of absent CCR5 expression on donor cells results in greater GVHD and donor T-cell expansion.

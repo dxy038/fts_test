@@ -1,0 +1,5 @@
+Objective (s): This study aimed long-run relationship between mortality of infant under one year old and poverty, urbanization and GDP per capita in Iran over the period of 1969 to 2010.
+Methods: The impulse response and variance decomposition based on vector auto regressive and Johansen-Juselius method was used to analyze the data. 
+Results: The results indicated that the coefficients of all variables were significant and based on theoretical foundations. Findings also showed that, in the long run, one percent increase in the poverty increases the mortality of infant under one year old by 0.61 percent and one percent increase in the urbanization and GDP per capita lead to 2.04 and 0.43 percent decrease in the mortality of infant under one year old, respectively. The results based on error correction model also indicated that to achieve long-term balance, about 0.07 of short-run imbalances is adjusted in each period.
+Conclusion: Poverty increases mortality of infant under one year old. The findings also showed that urbanization and increase in GDP per capita could decrease mortality of infant under one year old.
+

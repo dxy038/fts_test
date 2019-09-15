@@ -1,0 +1,1 @@
+Several state-of-the-art noise reduction algorithms are ranked using both subjective evaluation and 20 objective measures proposed in the literature. It is found that no regression model based on these objective quality measures can replace subjective assessment.

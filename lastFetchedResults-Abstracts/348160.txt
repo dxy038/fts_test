@@ -1,0 +1,11 @@
+Objective
+To infer the neural mechanisms underlying tonic transitions in the electroencephalogram (EEG) in 11 adolescents diagnosed with attention deficit hyperactivity disorder (ADHD) before and after treatment with stimulant medication.
+Methods
+A biophysical model was used to analyse electroencephalographic (EEG) measures of tonic brain activity at multiple scalp sites before and after treatment with medication.
+Results
+It was observed that stimulants had the affect of significantly reducing the parameter controlling activation in the intrathalamic pathway involving the thalamic reticular nucleus (TRN) and the parameter controlling excitatory cortical activity. The effect of stimulant medication was also found to be preferentially localized within subcortical nuclei projecting towards frontal and central scalp sites.
+Conclusions
+It is suggested that the action of stimulant medication occurs via suppression of the locus coeruleus, which in turn reduces stimulation of the TRN, and improves cortical arousal. The effects localized to frontal and central sites are consistent with the occurrence of frontal delta–theta EEG abnormalities in ADHD, and existing theories of hypoarousal.
+Significance
+To our knowledge, this is the first study where a detailed biophysical model of the brain has been used to estimate changes in neurophysiological parameters underlying the effects of stimulant medication in ADHD.
+

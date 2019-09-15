@@ -1,0 +1,5 @@
+Carbon–carbon composites are candidate materials for the conception of the thermal shield of the ‘‘Solar Probe’’ space mission. To understand
+their behavior under solar aggressions and know the possible interactions with the shipped-in instruments, these materials were tested in a facility
+that allows to partially simulate the solar environment and to carry out in situ measurements. In this paper, we present the experimental results
+obtained for the a/e ratio, i.e. the ratio of the solar absorptivity a to the total hemisherical emissivity e that controls the thermal equilibrium of the
+thermal shield. The objective is to find the lower ratio a/e in order to have the lowest temperature on the shield at 4 solar radii.

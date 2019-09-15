@@ -1,0 +1,11 @@
+Objective
+The differentiation of megakaryocytes is characterized by polyploidization and cytoplasmic maturation leading to platelet production. Studying these processes is hindered by the paucity of bone marrow megakaryocytes and their precursors. We describe a method for the expansion and purification of committed megakaryocyte progenitors and demonstrate their usefulness by studying changes in the expression of Ets and GATA family transcription factors throughout megakaryocytopoiesis.
+Methods
+
+A two-step serum-free method was developed. Cells isolated using this method were analyzed for surface marker expression by flow cytometry, and for their ability to differentiate using single-cell culture. Purified progenitors were induced to differentiate and analyzed with respect to their ploidy by flow cytometry and expression of specific genes by RT-PCR.
+Results
+
+A population of Lin−c-kit+CD45+CD41+CD31+CD34lowCD9lowFcγRII/IIIlowSca-1med/low committed megakaryocyte progenitors was purified. These cells could be differentiated efficiently, achieving ploidy of up to 128N. Analysis of RNA demonstrated the expected increases in expression of key megakaryocyte-associated genes. RT-PCR analysis also revealed that a range of Ets and GATA factors are expressed, their individual levels and patterns of expression varying widely. Surprisingly, we find that GATA-6 is specifically expressed in late differentiated megakaryocytes and has the potential to regulate megakaryocyte-expressed genes in cooperation with Ets factors.
+Conclusion
+
+Purified primary megakaryocytic progenitors are able to differentiate as a cohort into fully mature megakaryocytes. The number of cells obtainable, and the synchrony of the differentiation process, facilitates analysis of the dynamics of molecular processes involved in megakaryocytopoiesis. The expression pattern of Ets and GATA family transcription factors reveals the complexity of the involvement of these key megakaryocytic regulators. The finding of GATA-6 expression and demonstration of its functional activity suggests a novel mechanism for the regulation of certain genes late in megakaryocytopoiesis.

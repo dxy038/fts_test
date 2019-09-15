@@ -1,0 +1,11 @@
+Objective
+We present APECS (Automated Protocol for Evaluation of Electromagnetic Component Separation), a framework for evaluating the accuracy of blind source separation algorithms in removing artifacts from EEG data. APECS applies multiple, automated procedures to quantify the extent to which blinks are removed, and the degree to which nonocular activity is left intact.
+Methods
+APECS was used to evaluate blink removal using three BSS algorithms: Second-Order Blind Inference (SOBI) and two Independent Component Analysis (ICA) implementations, FastICA and Infomax. The algorithms were applied to a series of blink-free EEG datasets, which were contaminated with real or simulated blinks. Extracted components were assumed to contain blink activity if correlation of their spatial projectors to a predefined blink template exceeded some threshold, and if polarity inverted above and below the eyes. Blink-related components were then subtracted to produce filtered data. The success of each data decomposition is evaluated through the use of multiple, automated metrics, to determine which decomposition best approximates the ideal solution (complete separation of blink from nonblink activity).
+Results
+The outcomes for the evaluation measures were generally congruent, but also provided different and complementary information about the quality of each data decomposition. Under our testing framework, Infomax outperformed both FastICA and SOBI. Best results were achieved when blink activity loaded onto a single component.
+Conclusions
+Multiple metrics, both quantitative and qualitative, are important in evaluating algorithms for artifact extraction.
+Significance
+Failure to achieve complete separation of blink from nonblink activity can affect experimental outcomes, as illustrated here, using an ERP study of word–nonword discrimination. This illustrates the importance of methods for evaluation of artifact extraction results.
+

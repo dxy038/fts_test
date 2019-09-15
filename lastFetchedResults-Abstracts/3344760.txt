@@ -1,0 +1,1 @@
+This paper deals with simulation model of manipulator arm. Main objective of simulation is verification of methodology for manipulator positioning according to predefined trajectory. Methodology used in simulation is based on iteration method, which positions the endpoint of manipulator arm to reference coordinates.

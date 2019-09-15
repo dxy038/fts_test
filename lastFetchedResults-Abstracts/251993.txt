@@ -1,0 +1,7 @@
+The major objective of this work is to describe the dynamic thermal behavior of
+thermoelectric generators and refrigerators under the effect of the hyperbolic
+heat conduction model. In practical situations, these devices work under transient
+operating conditions due to the time change in the imposed current,
+voltage, and hot or cold temperatures. Results for transient temperature distributions
+were obtained for different parameters. The coefficient of performance
+was obtained as a function of time for increasing current flow.

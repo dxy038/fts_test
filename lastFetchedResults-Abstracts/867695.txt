@@ -1,0 +1,9 @@
+In this paper, we deal with a traffic demand clustering problem for designing SONET-WDM rings. The
+objective is to minimize the total cost of optical add-drop multiplexers (OADMs) and inter-ring hub
+equipments, while satisfying intra-ring and inter-ring capacities. Also, the minimum number of nodes,
+for example three, for each ring should be satisfied. We develop an integer programming (IP) formulation
+for the problem and develop some valid inequalities that provide a tight lower bound for the problem.
+Dealing with the inherent computational complexity of the problem, we also devise an effective tabu
+search procedure for finding a feasible solution of good quality within reasonable computing time. Computational
+results are provided to demonstrate the efficacy of the lower and upper bound procedures for
+solving the problem.

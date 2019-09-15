@@ -1,0 +1,8 @@
+Objective.
+While much has been written on the methodology of screening for presence of preclinical disease, correspondingly less has been written on screening for future risk of disease. Given the increasing attention paid to the concept of individualized prevention within the discipline of public health, this other type of screening warrants attention. Our aim is to demonstrate one way in which the potential accuracy of risk screening can be assessed.
+Method.
+
+In this paper, we derive a simple computational formula for the concordance statistic, a measure of the ability to separate individuals into two groups (will get disease, will not get disease), based on the presence or absence of a dichotomous risk factor. This computational formula is based on summary data (prevalence, absolute risk) pertaining to the risk factor alone. We also present simple computational formulas for the true positive fraction (the sensitivity of the “high risk” label to actual disease development) and the false positive fraction (1-specificity of the “high risk” label.).
+Conclusion.
+
+The above quantities are rarely presented when scientists make statements about the potential usefulness of a risk factor or genetic marker in screening for future disease risk. With the simple formulas offered here, readers will be better able to evaluate the accuracy of such statements.

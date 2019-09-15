@@ -1,0 +1,1 @@
+A bidirectional 300 volts blocking switch with dynamic on-resistance of 10 ohms and both terminals floating with respect to the driving circuitry has been developped. A device containing eight such switches together with low voltage DCMOS logic will be presented.

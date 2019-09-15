@@ -1,0 +1,11 @@
+Purpose
+The complex processes of inflammatory response induced by pulmonary tuberculosis may increase the risk for lung cancer. We conducted a registry-based case-control study to test this hypothesis.
+Methods
+
+The Surveillance, Epidemiology and End Results (SEER)-Medicare linked database was used to examine the association of lung cancer and history of tuberculosis among persons aged 65 and older. We identified lung cancer cases from SEER registries and frequency-matched population-based controls sampled from Medicare beneficiaries. Medicare claims data were used to identify inpatient and outpatient records of tuberculosis. We analyzed the association between case-control status and tuberculosis using logistic regression models adjusted for sex, age group, race, SEER registry, and year of diagnosis/selection. We also assessed the association with larynx and bladder cancers as a comparison, because these two types of cancers are not known to be related to tuberculosis.
+Results
+
+We identified 107,389 lung cancer cases and the same number of controls. Odds of having tuberculosis within the past 15 years were 4.2 times higher among cases than controls (95% CI 3.5–5.1). The association was stronger when history of tuberculosis was defined in terms of inpatient claims (OR = 4.7) compared to outpatient claims (OR = 3.8). The association was strongest in the year preceding lung cancer diagnosis (OR = 10.4), but was still significant in the 1–10 year period prior (OR = 2.5, p<0.0001). We also found increased odds of having tuberculosis among larynx cancer cases (OR = 3.6, p<0.0001), but not among bladder cancer cases (OR = 1.2, p=0.3).
+Conclusion
+
+History of tuberculosis seems to be associated with increased lung cancer risk. The stronger association in the year prior to cancer diagnosis suggests ascertainment bias. We were not able to adjust for smoking, which may be a confounder (based on increased odds of tuberculosis for larynx cancer). The possible etiologic association between tuberculosis and lung cancer needs to be clarified.

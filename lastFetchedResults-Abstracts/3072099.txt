@@ -1,0 +1,1 @@
+We report error-free transmission at 10 Gbit/s over a 110 km, amplified PON using XFP and 300-pin MSA transceivers, super FEC and EDC. Bidirectional operation is implemented over a single fibre in the access network.

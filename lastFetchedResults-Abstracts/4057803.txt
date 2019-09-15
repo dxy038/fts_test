@@ -1,0 +1,1 @@
+Tracking time is used as an explicit objective in designing tracking algorithms that function in clutter. Implications of using time to the first mistake as a measure of tracking time are explored. An optimal tracker is derived for a special circumstance where there is clutter but no measurement error, and is compared to a tracker based on the maximum likelihood principle

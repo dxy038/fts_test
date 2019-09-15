@@ -1,0 +1,14 @@
+Objective
+The purpose of this study was to evaluate the relationship of left ventricular (LV) mass and geometry measured with cardiac magnetic resonance imaging (MRI) to incident cardiovascular events in the MESA (Multi-Ethnic Study of Atherosclerosis) study.
+Background
+
+MRI is highly accurate for evaluation of heart size and structure and has not previously been used in a large epidemiologic study to predict cardiovascular events.
+Methods
+
+A total of 5,098 participants in the MESA study underwent cardiac MRI at the baseline examination and were followed up for a median of 4 years. Cox proportional hazard models were constructed to predict the end points of coronary heart disease (CHD), stroke, and heart failure (HF) after adjustment for cardiovascular risk factors.
+Results
+
+A total of 216 incident events were observed during the follow-up period. In adjusted models, the end points of incident CHD and stroke were positively associated with increased LV mass-to-volume ratio (CHD, hazard ratio [HR]: 2.1 per g/ml, p = 0.02; stroke, HR: 4.2 per g/ml, p = 0.005). In contrast, LV mass showed the strongest association with incident HF events (HR: 1.4 per 10% increment, p < 0.0001). The HF events occurred primarily in participants with LV hypertrophy, that is, ≥95th percentile of LV mass (HR: 8.6, 95% confidence interval: 3.7 to 19.9, reference group <50th percentile of LV mass).
+Conclusions
+
+The LV size was related to incident HF, stroke, and CHD in this multiethnic cohort. Whereas body size-adjusted LV mass alone predicted incident HF, concentric ventricular remodeling predicted incident stroke and CHD.

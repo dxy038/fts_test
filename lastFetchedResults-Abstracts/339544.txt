@@ -1,0 +1,11 @@
+Objective
+To evaluate a negative selection technique for the hematopoietic progenitor cell enrichment from clinical leukapheresis product using continuous magnetophoresis.
+Methods
+
+The leukapheresis product was labeled with a tetrameric antibody cocktail (TAC) and magnetic colloid against nonprogenitor leukocytes (StemSep enrichment cocktail kit, Stem Cell Technologies, Vancouver, Canada). The separation of hematopoietic progenitor cells was performed by flow-through magnetophoresis in an annular channel placed coaxially inside a quadrupole magnetic field, in a split-flow thin-cell fractionation configuration (referred to as quadrupole magnetic flow sorter, QMS). The TAC antibody cocktail and the magnetic colloid were titrated to determine minimum effective antibody and magnetic reagent concentrations by measuring cell magnetophoretic mobility (m) distribution using cell tracking velocimetry.
+Results
+
+Leukapheresis products from eight donors having initial CD34+ cell purity between 0.37 and 9.7% were enriched to the final purity of 30 to 85% and yield of 49 to 84% with a maximum throughput of 6.7 × 104 cells/s. The progenitor cell enrichment was accompanied by a more than 3.5 log10 T-lymphocyte depletion, a significant factor considering the intended application to allogeneic transplantation. Cell colony-forming unit assays showed that there was no deterioration of progenitor cell proliferation and differentiation following the QMS enrichment process.
+Conclusions
+
+The negative selection method of hematopoietic progenitor cells by continuous magnetophoresis is a promising approach to a process scale-up, important for clinical applications.

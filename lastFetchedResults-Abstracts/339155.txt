@@ -1,0 +1,11 @@
+Objective
+The functional “plasticity” and immune-suppressive effects of human bone marrow (BM)-derived mesenchymal stem cells (MSC) provide them with the potential to be used across allogeneic barriers. The immunosuppressive properties of MSC may be detrimental in a clinical setting in which viral exposure is common. The study hypothesizes that MSC-derived IFN-γ could offset the immune-suppressive functions of MSC and mediate partial CTL responses during viral infection.
+Methods
+
+CTL responses were studied in bioassays with 51Cr-P815 targets and PBMC (uninfected or infected) as effectors. Immunofluorescence studied the relative expression of CD8+ cells. Cytokine analyses were performed with microarrays. Roles for IFN-γ in CTL responses were studied with IFNγRI mAb or with MSC knockdown for IFN-γ by siRNA (pPMSKH1-IFNγ).
+Results
+
+MSC showed no significant effect on circulating CTL of healthy subjects. For virus-induced CTL, MSC demonstrated not, vert, similar50% suppression. CD8+ cell expansion could not explain the suppressive effects of MSC. Soluble factors produced by MSC were responsible for the retention of 50% CTL responses. Cytokine microarray analyses, noncontact cultures, and functional assays identified a role for IFN-γ. MSC were identified as the relevant source of IFN-γ.
+Conclusion
+
+The results show a facilitating role of IFN-γ on CTL responses, although paradoxical in light of the veto properties of MSC. This report shows that in cases where MSC are used in transplantation for repair of damaged tissue, they can exert an additional role by protecting the host to viral challenges and thereby protect from its immunosuppressive properties.

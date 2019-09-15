@@ -1,0 +1,18 @@
+The cycling representer algorithm of Xu and Daley (2000) is a weak constraint four-dimensional
+variational data assimilation algorithm. It was successfully applied to a one-dimensional transport
+problem and was able to successfully extract the signal from noisy and sparse observations.
+The algorithm, however, has not previously been applied to a multivariate, multidimensional
+system with dynamic instability. The algorithm is also very computationally demanding and
+awaits considerable enhancement in computer power before being practical for operational
+forecast models.We have two objectives in this paper. The first is to apply the cycling representer
+algorithm to a two-dimensional, multivariate barotropically unstable linear shallow water
+system. The second objective is to formulate and test an accelerated representer algorithm that
+is much more computationally tractable than the cycling representer algorithm itself. A linear
+shallow water system with a barotropically unstable basic state was used as a test bed to
+conduct data assimilation experiments. The evolution of a ‘neutral’ eastward-propagating singular
+vector was selected as the ‘truth’, against which all data assimilation experiments were to
+be evaluated. The results indicated that the cycling representer algorithm was capable of providing
+satisfying state estimates for a multivariate, multidimensional system. The results from the
+accelerated representer algorithm were very encouraging because it is sufficiently computationally
+tractable to be used on present day multi-processor machines for operational
+applications.

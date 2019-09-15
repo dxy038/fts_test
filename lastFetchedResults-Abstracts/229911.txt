@@ -1,0 +1,10 @@
+In the present article we make the first step towards the implementation
+of a user-friendly, object-oriented system devoted to failure detection and
+signal validation purposes. After overviewing different signal modelling, residual
+making and hypothesis testing procedures, a mathematical tool is suggested to
+describe a general failure detection problem. Three different levels of the abstraction
+are distinguished; direct examination, preliminary decision support mechanism
+and indirect examination. Possible scenarios are introduced depending both
+on the objective properties of the investigated signal and the particular requirements
+prescribed by the expert himself. Finally it is showed how to build up
+systematically a complete, general failure detection procedure.

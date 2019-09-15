@@ -1,0 +1,11 @@
+Objective
+Triptolide has shown antitumor activity in a broad range of solid tumors and on leukemic cells in vitro.
+Materials and Methods
+
+The THP1 cell line and primary acute myeloid leukemia (AML) cells were cultured with triptolide alone or in association with AraC or idarubicin in increasing concentrations. Apoptosis was measured by flow cytometry using DiOC6(3) for the cell line and fluorescein isothiocyanateAnnexin-V and CD45 labeling for fresh blast cells. Protein expression was measured by Western blot. Cell cycle distribution of apoptotic cells was measured by flow cytometry.
+Results
+
+A synergistic effect was observed when triptolide was added to idarubicin or to AraC to induce apoptosis of THP-1 leukemic cells. The triptolide/AraC association was also investigated in vitro on primary blast cells from 25 AML patients. This combination induced significantly higher percentages of apoptosis vs treatment with each drug separately (p < 0.005). The IκB and X-linked inhibitor of apoptosis protein contents, which were altered by triptolide in idarubicin-treated cells, were not modified in AraC-treated cells. The association of AraC with triptolide increased the number of cells blocked in the S phase and most underwent apoptosis.
+Conclusion
+
+These results suggest that, by modifying the cell cycle kinetics, AraC sensitizes AML cells to apoptosis induced by low concentration triptolide. The in vitro proapoptotic effect of triptolide associated with the antiproliferative activity of AraC warrants further clinical investigation for treatment of AML patients, especially elderly patients for whom low-dose AraC treatment could be improved by the addition of triptolide.

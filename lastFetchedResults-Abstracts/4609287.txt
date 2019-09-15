@@ -1,0 +1,1 @@
+Based on the principle of ant colony algorithm, combined with the characteristics of three-phase asynchronous motor design, this paper applies a Multi-Objective Ant Colony Algorithm (MOACA) to three-phase asynchronous machine design, the detail process of optimization design is given. The optimization results of typical examples indicate that this method is effective.

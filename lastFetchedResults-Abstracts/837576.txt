@@ -1,0 +1,7 @@
+When joined to a stipulated neighborhood diagraph, an objective functin defined on the solution space of a real combinatorial optimization problem forms a landscape. Grover shows that landscapes satisfying a certain difference equation have properties favorable to local search.
+
+Studying only symmetric and regular neighborhood diagraphs, Stadler defines elementary landscapes as those which can be realized as an eigenvector of the Laplacian of the neighborhood diagraph, and shows that such landscapes satisfy Grover's difference equation.
+
+Recent developments in algebraic graph theory support a new definition of the graph Laplacian which we use to extend the notion of elementary landscapes to neighborhood diagraphs which may be neither regular nor symmetric. This paper uses the new definition to extend the notion of elementary landscapes so that they characterize landscapes satisfying Grover's wave equation.
+
+We extend some known results to these more general elementary landscapes and analyse the types which may occur.

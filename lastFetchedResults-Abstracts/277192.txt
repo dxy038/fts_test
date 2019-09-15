@@ -1,0 +1,9 @@
+Objective
+We sought to determine whether fibrochondrocytes from menisci express receptor activator of NF-κB (RANK), its ligand (RANKL), or osteoprotegerin (OPG) and, if so, whether their expression is modulated by dynamic mechanical loading under inflammatory and normal conditions.
+Methods
+Fibrochondrocytes from rat menisci were subjected to cyclic tensile strain (CTS) at various magnitudes and frequencies in the presence or absence of interleukin (IL)-1β for up to 24 h. In order to determine whether a possible regulatory effect of mechanical loading on RANKL and its receptors under inflamed conditions is sustained, cells were stimulated with IL-1β for 24 h while being subjected to CTS only for the initial 4 and 8 h, respectively. Regulation of RANKL, RANK, and OPG expression and synthesis were determined by semiquantitative and real-time PCR, Western blotting, and immunofluorescence.
+Result
+Fibrochondrocytes constitutively expressed low levels of RANKL and RANK but marked levels of OPG. IL-1β upregulated expression and synthesis of RANKL and RANK significantly (p<0.05), whereas expression of OPG was unaffected following 4 and 24 h. When fibrochondrocytes were simultaneously subjected to CTS and IL-1β, expression of RANKL and RANK was significantly (p<0.05) downregulated as compared to that of IL-1β-stimulated unstretched cells. The inhibitory effect of CTS on the IL-1β-induced upregulation of RANKL and RANK was sustained as well as magnitude and frequency dependent.
+Conclusions
+Our study provides evidence that RANKL and its receptors are expressed in fibrochondrocytes from meniscus. These data also demonstrate that dynamic mechanical loading can modify the expression of RANKL and RANK in inflammatory conditions.
+

@@ -1,0 +1,1 @@
+Passive and active silicon photonics devices are modeled using the Verilog-A language. The notion of bidirectional optical bus connecting devices is introduced. Models are implemented in SPICE electrical simulators and in standard EDA tools already used for CMOS circuit design.

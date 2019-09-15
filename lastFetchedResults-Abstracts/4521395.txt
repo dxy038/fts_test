@@ -1,0 +1,1 @@
+The objective of this work is the realization of a tool for decision support: a macro parametric model, consisting of two modules, the Flow Shop Main Module, representative of a typical production system and Sequencing Module, representative of the sequencing according to the FIFO rule of dispatching.

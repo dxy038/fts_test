@@ -1,0 +1,11 @@
+Objective
+Early onset benign occipital lobe epilepsy (Panayiotopoulos syndrome [PS]) is a common and easily recognizable epilepsy. Interictal EEG spike activity is often multifocal but most frequently localized in the occipital lobes. The origin and clinical significance of the extra-occipital spikes remain poorly understood.
+Methods
+Three patients with the PS and interictal EEG spikes with frontal lobe topography were studied using high-resolution EEG. Independent component analysis (ICA) was used to decompose the spikes in components with distinct temporal dynamics. The components were mapped in the scalp with a spline-laplacian algorithm.
+Results
+The change in scalp potential topography from spike onset to peak, suggests the contribution of several intracranial generators, with different kinetics of activation and significant overlap. ICA was able to separate the major contributors to frontal spikes and consistently revealed an early activating group of components over the occipital areas in all the patients. The local origin of these early potentials was established by the spline-laplacian montage.
+Conclusions
+Frontal spikes in PS are consistently associated with early and unilateral occipital lobe activation, suggesting a postero-anterior spike propagation.
+Significance
+Frontal spikes in the PS represent a secondary activation triggered by occipital interictal discharges and do not represent an independent focus.
+

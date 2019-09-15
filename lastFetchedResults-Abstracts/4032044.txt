@@ -1,0 +1,1 @@
+Mallet and Zhong [1992] have derived some elegant results on 1-D and 2-D wavelet transforms. The objective here is to extend the 2-D results of Mallet and Zhong to 3-D. Illustrated here is how these results can be applied to the feature analysis of 2-D images with time t as the third dimension. An algorithm for extending 2-D to 3-D wavelets is presented

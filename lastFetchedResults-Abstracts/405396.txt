@@ -1,0 +1,11 @@
+Background
+Rifapentine is a cyclopentyl-substituted rifamycin whose serum half-life is five times that of rifampin. The US Public Health Service Study 22 compared a once-weekly regimen of isoniazid and rifapentine with twice weekly isoniazid and rifampin in the continuation phase (the last 4 months) of treatment for pulmonary tuberculosis in HIV-seropositive and HIV-seronegative patients. This report concerns only the HIV-seropositive part of the trial, which has ended. The HIV-seronegative part will stop follow-up in 2001.
+Methods
+
+Adults with culture-positive, drug-susceptible pulmonary tuberculosis who completed 2 months of fourdrug (isoniazid, rifampin, pyrazinamide, ethambutol) treatment (induction phase) were randomly assigned 900 mg isoniazid and 600 mg rifapentine once weekly, or 900 mg isoniazid and 600 mg rifampin twice weekly. All therapy was directly observed. Statistical analysis used univariate, Kaplan-Meier, and logistic and proportional hazards regression methods.
+Findings
+
+71 HIV-seropositive patients were enrolled: 61 completed therapy and were assessed for relapse. Five of 30 patients in the once-weekly isoniazid/rifapentine group relapsed, compared with three of 31 patients in the twiceweekly isoniazid/rifampin group (log rank x2=0·69 p=0·41). However, four of five relapses in the once-weekly isoniazid/rifapentine group had monoresistance to rifamycin, compared with none of three in the rifampin group (p=0·05). Patients who relapsed with rifamycin monoresistance were younger (median age 29 vs 41 years), had lower baseline CD4 cell counts (median 16 vs 144 mL), and were more likely to have extrapulmonary involvement (75% vs 18%, p=0·03) and concomitant therapy with antifungal agents (75% vs 9%, p=0·006). No rifamycin monoresistant relapse has occurred among 1004 HIV-seronegative patients enrolled to date.
+Interpretation
+
+Relapse with rifamycin monoresistant tuberculosis occurred among HIV-seropositive tuberculosis patients treated with a once-weekly isoniazid/rifapentine continuation-phase regimen. Until more effective regimens have been identified and assessed in clinical trials, HIVseropositive people with tuberculosis should not be treated with a once-weekly isoniazid/rifapentine regimen.

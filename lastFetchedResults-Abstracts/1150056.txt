@@ -1,0 +1,7 @@
+Spinning is frequently used for manufacturing axisymmetric shapes where press tooling might not be justified on grounds of size and production volumes. Spinning also has the possibility of producing parts that could not be deep drawn. For this paper, spinning is taken as a rotational forming process that does not set out to change the wall thickness. Both the blank and the finished product have roughly the same thickness.
+
+The objective of changing the shape of the blank to a new desired product shape is common to spinning and deep drawing. A metal part that is drawn is limited by the ductility of the material. A part that is spun is subject to far more compressive stresses and the limit of forming may in fact be due to a buckling failure rather than a tensile failure.
+
+Earlier authors have proposed various analyses of the spinning process. These highlight common process limitations. An analysis of spinning is presented which shows how the strains involved are quite different resulting in different spinning techniques. Results are interpreted to explain the rationale for multi-pass spinning operations.
+
+The material used in this work was light gauge sheet aluminium (Al 99.0-Werkstoff 30205, material condition HH, 0.2% yield 110 MPa).

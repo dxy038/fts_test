@@ -1,0 +1,11 @@
+The Sotavento wind farm is an experimental wind farm which has different types of wind turbines. It is located in an area whose
+topography is moderately complex, and where wake effects can be significant. One of the objectives of Sotavento wind farm is to
+compare the performances of the different machines; particularly regarding power production, maintenance and failures. However,
+because of wakes and topography, the different machines are not working under identical conditions. Two linearized codes have been
+used to estimate topography effects: UPMORO and WAsP. For wind directions in which topography is abrupt, the non-linear flow
+equations have been solved with the commercial code FLUENT, although the results are only qualitatively used. For wake effects, the
+UPMPARK code has been applied. As a result, the incident velocity over each wind turbine is obtained, and the power production is
+estimated by means of the power curve of each machine. Experimental measurements give simultaneously the wind characteristics at the
+measuring stations, the wind velocity, at the nacelle anemometer, and the power production of each wind turbine. These experimental
+results are employed to validate the numerical predictions. The main objective of this work is to deduce and validate a relationship
+between the wind characteristics measured in the anemometers and the wind velocity and the power output in each machine.

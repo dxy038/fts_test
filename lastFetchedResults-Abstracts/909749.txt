@@ -1,0 +1,12 @@
+Soil temperature influences most physical, chemical and biological processes that occur in soil. Analytical models (AMs)—exact
+analytical solutions of the soil heat flux equation—only exist to very specific conditions. Finite-difference models (FDMs) are
+applicable to more general conditions. Since FDMs are not exact, but approximate, they must be preliminarily tested by comparing
+their simulated results with those from AMs, if available. In previous literature, such tests have been done briefly, mainly through
+data-plots. The general objective of this study was the development of comprehensive procedures to perform such tests: (i) comparison
+of models by data-plots and statistical indices; (ii) searching for sources of apparent errors (AEs)—a concept introduced here;
+(iii) determination of the number of simulated periods (years) that the model computer program should run before output is recorded;
+and (iv) studying the influence of time-step and space-step magnitudes on the model performance. An explicit one-dimensional
+FDM was tested. Simulations represented soils of different thermal properties. Simulation results showed that: (i) statistical indices
+values consistently quantified the qualitative data-plot observations; (ii) AEs could be corrected by considerations on the first soillayer
+temperature and by choosing a sufficiently large simulation depth; (iii) no more than five periods are necessary for the FDM
+tested here; and (iv) adequate choice of time and space steps reduces errors and also reduces computing time.

@@ -1,0 +1,11 @@
+Objective
+To test whether increasing synchronization of neuronal activity might be causally related to seizure termination.
+Methods
+Neuronal synchronization was assessed by the relative changes of the eigenvalue spectrum of the equal-time correlation matrix computed from a short window sliding along multi-channel EEGs, recorded with either intracranial or surface electrodes.
+Results
+Synchronization dynamics of six status epilepticus EEG recordings from six patients were assessed. In all six recordings EEG synchronization fluctuated around relatively low levels during ongoing epileptiform activity. Synchronization only persistently increased before, or in one case, at the end of status epilepticus. Ongoing seizure activity stopped without pharmacological intervention in one patient. In four of the five other cases, the persistent increase of synchronization followed administration of anticonvulsant drugs.
+Conclusions
+Our findings support the hypothesis that increasing synchronization of neuronal activity may be considered as an emergent self-regulatory mechanism for seizure termination.
+Significance
+The traditional concept is challenged that increasing neuronal synchronization during epileptic seizures is always pathological and should be suppressed. On the contrary, our findings imply that therapeutic interventions to increase synchronization during seizures might be beneficial.
+

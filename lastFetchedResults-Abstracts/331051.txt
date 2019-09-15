@@ -1,0 +1,11 @@
+Objectives
+The objective of the present work was to use numerical analysis to evaluate the relevance of stress states induced in peri-implant bone tissue by a misfit in a dental fixed prosthesis. Misfits in both mesial–distal and lingual–labial directions were considered to investigate a realistic configuration of the problem.
+Materials and methods
+
+A finite element model of a portion of a mandible with two implants connected by a gold alloy bar was defined on the basis of the morphometric data of a partial edentulous patient. A specific procedure was developed to represent the bar-implant coupling in the case of a misalignment between the implant and central axes of the anchoring site to the bar. Loading conditions related to occlusal forces were also considered.
+Results
+
+The numerical analysis of the implant-bridge misfit showed significant stress effects on the peri-implant bone tissue. For the specific prosthetic configuration considered, the maximum compressive stress was in the range of 40–60 MPa, depending on the misfit considered. The stress level was largely affected by the axial and bending stiffness characteristics of bar-implant compound.
+Significance
+
+Stress analysis using numerical methods made it possible to estimate stress states with high accuracy in terms of intensity and location. For the case considered, stress induced by misfit was comparable with that related to occlusal forces. Therefore, a possible bar-implant misfit should be carefully considered to ensure the reliability of the prosthetic system.

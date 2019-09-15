@@ -1,0 +1,11 @@
+Objective
+Interpretation of Electroencephalography (EEG) signals from newborns is in some cases difficult because the fontanels and open sutures produce inhomogeneity in skull conductivity. We experimentally determined how EEG is influenced by a hole mimicking the anterior fontanel since distortion of EEG signals is important in neurological examinations during the perinatal period.
+Methods
+Experiments were carried out on 10 anesthetized farm swine. The fontanel was mimicked by a hole (12×12 mm) in the skull. The hole was filled with 3 types of medium differing in conductivity (air, 0 S/m; sucrose–agar, 0.017 S/m; saline–agar, 1.28 S/m). Three positions of the snout were stimulated with a concentric bipolar electrode to activate cortical areas near the middle, the edge, and the outside of the hole. The somatic-evoked potential (SEP) was recorded by a 4×4 electrode array with a 4 mm grid spacing. It was placed on the 4 quadrants of a 28×28 mm measurement area on a saline-soaked filter paper over the skull, which served as artificial scalp.
+Results
+The SEP over the hole was clearly stronger when the hole was filled with sucrose– or saline–agar as compared to air, although paradoxically the leakage current was stronger for the sucrose– than saline–agar. The current leaking from the hole was strongly related to position of the active tissue. It was nearly negligible for sources 6–10 mm away from the border of the hole. The distortion was different for 3 components of the SEP elicited by each stimulus, probably indicating effects of source distance relative to the hole.
+Conclusions
+EEG is strongly distorted by the presence of a hole/fontanel with the distortion specifically dependent on both conductivity of the hole and source location.
+Significance
+The distortion of the EEG is in contrast to the lack of distortion of magnetoencephalography (MEG) signals shown by previous studies. In studying brain development with EEG, the infant's head and sources should be modeled accurately in order to relate the signals to the underlying activity. MEG may be particularly advantageous over EEG for studying brain functions in infants since it is relatively insensitive to skull defects.
+

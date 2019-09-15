@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to estimate the effect of hospital and surgeon volumes on outcomes following urogynecologic surgery.
+Study design
+This was a retrospective cohort study of women who underwent urogynecologic procedures between 1998 and 2003 from the Nationwide Inpatient Sample. Hospitals and surgeons were categorized as low, medium, or high volume based on average number of cases per year. Outcomes included in-hospital mortality, complications, and nonroutine discharges. Multivariable analyses were performed using generalized estimation equations to estimate relative risks.
+Results
+There were 310,759 women and 2986 hospitals. Women who had procedures at low-volume hospitals were 2.75 (95% CI 2.33-3.16) times more likely to die and 1.63 (95% CI 1.44-1.83) times more likely to have a nonroutine discharge, compared to those at high-volume hospitals. Women who had procedures by low-volume surgeons were also more likely to suffer complications and have nonroutine discharges compared to those with high-volume surgeons.
+Conclusion
+Differences in hospital and surgeon volumes of urogynecologic procedures may contribute to variations in mortality and morbidity risks.
+

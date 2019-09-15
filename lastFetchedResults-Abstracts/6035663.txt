@@ -1,0 +1,1 @@
+A point-to-point I/O interface for high-speed DRAM is described. The interface utilizes simultaneous bidirectional signaling that enables transmitting/receiving data through a line at the same time. The test scheme is implemented in 0.10 &#956;m DRAM process. It achieves 3.6 Gb/s/pin in SBD mode and an I/O cell consumes 35 mW.

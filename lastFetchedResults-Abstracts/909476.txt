@@ -1,0 +1,7 @@
+We present two applications of adjoint modelling with the objective of diagnosing and simulating air pollution in an urban
+atmosphere. The concerned city is Paris and its surroundings. The first application is the sensitivity of an afternoon ozone peak to
+anthropogenic emissions and reaction rates. We show in particular the diurnal profile of sensitivity. Despite the paper being mostly
+methodological, some interesting results come out: we show that (i) the ozone peak is mostly sensitive to morning solvent releases
+and traffic emissions, and (ii) that only a few reactions are sensitive although the chemical mechanism used is fairly complete. The
+other application is inverse modelling of the ozone concentrations at the boundaries of the region considered. We demonstrate
+that the boundary concentrations are in good agreement with independent airborne measurements.

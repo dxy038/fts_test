@@ -1,0 +1,1 @@
+The paper presents the steps in computer-aided design of analog low and high-pass filters. The design starts with a classical filter, and then is multicriteria optimized to meet the behavioral and implementation requirements. The computer-aided tool uses Mathematica for symbolic computation of the objective function and its gradient, MATLAB for the optimization process.

@@ -1,0 +1,11 @@
+Objective
+Acute myeloid leukemia (AML) still is fatal in the majority of patients. Therefore, we evaluated the antileukemic effect of the alkylating agent treosulfan in AML.
+Materials and Methods
+
+Chemosensitivity tests were performed in AML cell lines and primary cells from patients. Because protein kinase C (PKC) is known to play an integral role in the regulation of diverse cellular functions such as apoptosis, several PKC modulators were evaluated in conjunction with treosulfan.
+Results
+
+U937, THP-1, HL-60, TUR cells, and primary AML cells obtained from five consecutive patients displayed dose-dependent sensitivity to treosulfan. The LC90 was approximately 100 μM, which is several fold below clinically achievable plasma levels. Cell death was associated with cellular events indicating apoptosis such as breakdown of the mitochondrial transmembrane potential, proteolytic activation of caspase-3, or appearance of a sub-G1 DNA peak. Synergistic antileukemic effects were observed in all cell lines and patient samples tested using the PKC activators bryostatin-1 and 12-O-tetradecanoylphorbol-13-acetate (TPA), whereas the PKC inhibitor GF109203X substantially reduced apoptosis. Furthermore, long-term preincubation with bryostatin-1 or TPA, both of which are known to down-regulate PKC protein levels, likewise inhibited treosulfan-induced apoptosis. Immunoblots revealed membrane translocation of PKC-δ, indicating activation of this enzyme upon treosulfan exposure.
+Conclusion
+
+Our data provide evidence for a strong antileukemic effect of treosulfan in both cell lines and AML blasts from patients at concentrations below the plasma levels described at standard dose levels. Furthermore, the proapoptotic effect of treosulfan is mediated at least in part by activation of PKC isoforms and can be augmented by coincubation with bryostatin-1.

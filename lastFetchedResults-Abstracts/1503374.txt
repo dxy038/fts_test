@@ -1,0 +1,15 @@
+In a group of installed piles, the stresses applied from one pile to soil may have
+overlaps with another pile which leads to the changes in bearing capacity and settlement
+of each individual pile. In order to predict the performance of those piles, interaction
+coecients, based on elasticity theory proposed by Mindlin, are widely applied. In this
+paper, the eect of soil relative density and also toe condition on the interaction between
+two similar piles in sandy soil is presented using centrifuge modeling. To achieve this
+objective, 22 tests have been conducted to investigate the eect of soil relative density
+and another 11 tests were performed to study the contribution of pile toe and shaft in the
+interactions. The results showed that the value of soil relative density has an important
+role in the coecient of interaction which has not been considered in previously reported
+correlations. For this reason a modication has been proposed for the Randolph and
+Wroth equation to consider soil relative density. Accuracy prediction of the new model
+was compared with the Randolph and Wroth equation with the aid of dierent statistical
+parameters. This comparison indicated the superiority of the proposed model over previous
+methods.

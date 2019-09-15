@@ -1,0 +1,1 @@
+A new waveguide-type spot size convertor implemented by the gradual overlapping of two tapered waveguides, is proposed. A low loss bidirectional conversion of spot size between 0.8 mu m and 4 mu m is demonstrated at the wavelength of 0.633 mu m.

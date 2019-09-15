@@ -1,0 +1,21 @@
+Introduction: Many employees in different professions including nurses work with shifts.
+On the other hand, different and long shift work can endanger physical and mental health
+of nurses. This study, according to ergonomic standards, aimed to design a model for shift
+working in order to minimize the problems caused by shift work.
+Methods: In this study, all 35 nurses working in the emergency ward of Imam Sajjad
+(AS) Hospital of Ramsar city, Iran, were considered. Then, the information gathered
+from answering the Morningness-Eveningness questionnaire (MEQ) (Circadian
+rhythm) and Survey Sampling International (SSI) (personal and social charactristics)
+questionnaire were changed to a model and then reconstruct after comparing it again with
+circadian rhythm principals. The final model was implemented with GAMS (gammaglutamylaminomethylsulfonic
+acid) and at the end, shift working with ergonomic criteria
+were proposed.
+Results: Shift working were designed for each nurse. Also, the obtained objective function
+value (Z=1.110223e16-) showed that the designed model was really close to ideal model.
+According to hospital rules and policies, if five more nurses get added to the currently
+employed ones, the proposed working program on one hand will improve satisfaction and
+efficiency of nurses and on the other hand it can decrease the effects of disorders on shift
+work.
+Conclusions: Hospitals can have healthy and motivated workforce by applying the
+scientific approach to adjust a suitable working plan for their nurses and decrease the
+number of disabilities and also the rate of early retirement.

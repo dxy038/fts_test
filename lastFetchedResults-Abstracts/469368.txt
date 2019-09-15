@@ -1,0 +1,9 @@
+Objective
+Our study explored if patient risk factors for cesarean delivery (CD) are changing over time.
+Study design
+North Carolina birth certificates from 1995 were used to build a logistic regression model to predict the probability of primary CD. The model estimated each patient's probability of primary CD for 4 years of deliveries (397,793). The percentage of the population in each of the 10 CD risk deciles were compared across years.
+Results
+The incidence of primary CD rose from 16.6 to 18.4 (P<.0001). Despite this increase over time, more women were low risk (probability of CD <10%) (43.2% to 46.4%, P<.0001). The cesarean rate even rose for women in the lowest risk group (4.6% to 5.9%, P<.0001).
+Conclusion
+The rate of primary CD is increasing, despite improvements in patient risk profile. The increasing CD rate may result from changes in physician behavior, institutional factors, and increasing patient demand for elective cesarean delivery.
+

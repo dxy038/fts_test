@@ -1,0 +1,16 @@
+The paper presents a new approach that assists
+power system restoration planning with regards to control of
+temporary overvoltages (TOVs) due to transformer energization.
+The frequency-domain analysis in combination with analytical
+calculations is applied to find an optimum resonance condition.
+The analytical equations are based on sensitivity analysis for
+single frequencies and are extended to total sensitivity calculation.
+After an introduction of the phenomenon of overvoltages during
+power system restoration and harmonic resonance overvoltages,
+basic principles of their control are explained. Also, an algorithm
+is introduced for the results evaluation of harmonic resonance
+studies where it is necessary to perform simulations. The objective
+is to find a minimum time after which the simulation runs of
+temporary overvoltages can be terminated using short-time
+Fourier transform. Then the new algorithms are presented and
+demonstrated for a partial of 39-bus New England test system.

@@ -1,0 +1,1 @@
+A unified method of designing electrical machines is presented, utilizing the capabilities of modern, high-speed digital computers. The objective is to meet all performance requirements at minimum cost. The general approach is described by means of two examples, a program for design of power transformers and a program for design of hydroelectric generators.

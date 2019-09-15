@@ -1,0 +1,1 @@
+A method to select the coefficients of a sliding surface for a specified dynamic response of a bidirectional switching converter is presented. After obtaining the coordinates of the equilibrium point, poles assignment for the desired sliding dynamics provides the control parameters. A boost structure and a Cuk converter illustrate the application of the procedure

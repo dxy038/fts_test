@@ -1,0 +1,5 @@
+The Korea Super conducting Tokamak Advanced Research (KSTAR) is performing the task of “Demonstration and Evaluation of ITER CODAC Technologies at KSTAR” whose objective is the evaluation of real-time technologies for decision making on real-time operating systems (RTOS), real-time frameworks and 10 GbE networks. In this task, the Multi-threaded Application Real-Time executor (MARTe) has been evaluated as a real-time framework for real-time feedback control system.
+
+rformance of MARTe has been verified by measuring response time and jitter in a path of feedback control from an analog input of a monitoring system to an analog output of an actuator system. In addition, the evaluation has been performed in terms of applicability of MARTe and its performance depending on types of operating system and tuning of CPU affinity and priority.
+
+aper describes the overview of MARTe as a real-time framework, the results of evaluation performance and its implementation.

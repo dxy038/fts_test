@@ -1,0 +1,5 @@
+Objective: A system for electrode placement is described. It is designed for studies on topography and source analysis of spontaneous and evoked EEG activity.
+Method: The proposed system is based on the extended International 10–20 system which contains 74 electrodes, and extends this system up to 345 electrode locations.
+Results: The positioning and nomenclature of the electrode system is described, and a subset of locations is proposed as especially useful for modern EEG/ERP systems, often having 128 channels available.
+Conclusion: Similar to the extension of the 10–20 system to the 10–10 system (‘10% system’), proposed in 1985, the goal of this new extension to a 10–5 system is to further promote standardization in high-resolution EEG studies
+

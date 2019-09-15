@@ -1,0 +1,18 @@
+This paper presents thermodynamic investigation and environmental consideration of combined Stirling-organic
+Rankine cycle (ORC) power cycle. Combined cycle can be assisted by solar energy and an ORC used as an annular
+cold-side heat rejector for a free piston Stirling cycle. ORC can increase the power output efficiency by 4% to 8%
+compared to that of a Stirling standard cycle. Operating temperatures of ORC are between 80°C and 140°C. The
+main objective of this work is to model the combined cycle for performance optimization in respect to the use of
+several different working fluids with relevant temperature ranges. Total power efficiency in the range of 34% to 42%
+was observed for different cases. Several working fluids in the ORC were investigated from a thermal, operational,
+and environmental point of view. Working fluids considered were FC72, FC87, HFE7100, HFE7000, Novec649, npentane,
+n-decane, R245fa, and toluene. Practical issues like thermodynamic cycle efficiency, latent heat, density,
+toxicity, flammability, ozone depletion potential, global warming potential, and atmospheric lifetime are considered.
+Considering the cycle efficiency, n-decane shows the best performance at both levels of temperature supposed.
+However, this fluid has the highest saturated vapor specific volume (resulting in a larger condenser) and the lowest
+condenser saturation pressure (higher infiltration of non-condensable gases). The best candidates for the cycle
+regarding all the considered aspects were found to be toluene, HFE7100, and n-pentane. Comparing these three
+fluids, toluene presents the highest efficiency, the highest impact on the environment, the biggest vapor specific
+volume, and the minimum mass flow rate in Rankine cycle, therefore decreasing the pump power consumption.
+N-pentane exhibits the lowest cycle efficiency and vapor specific volume, but this fluid has super-atmospheric
+saturation pressure advantage. HFE7100 is a good working fluid from environmental and safety point of view.

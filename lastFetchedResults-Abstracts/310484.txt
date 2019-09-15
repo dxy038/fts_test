@@ -1,0 +1,11 @@
+Objective. This paper examines interindividual differences in the patterns of torso muscle recruitment during 3-dimensional static moment loading of the lumbar spine.
+
+Design. A mathematical model (artificial neural network) was used to differentiate individual patterns of muscle response.
+
+Background. Traditionally, experimental myoelectric data is averaged over subjects, assuming an ideal mean response to a given loading. However, averaging may overlook important information and implications associated with interindividual variability.
+
+Methods. In this study a simple classification tool in the form of a competitive neural network model is developed and used to evaluate lumbar muscle recruitment patterns.
+
+Results. Subjects formed consistent and denumerable clusters, and could be categorized as either ‘majority’ or ‘minority’ type responders, based on their individual muscle response patterns as discerned from the output of the competitive network model. The practical significance of these differences is shown by comparison of muscle activity with more established optimization-based force predictions. Those subjects categorized as majority-type responders had muscle activity in better correspondence with optimization-based predicted forces. Subjects in minority categories displayed more variance in their response patterns and larger degrees of antagonistic cocontraction.
+
+Conclusions. The implications for deterministic (e.g. optimization-based) biomechanical modelling are discussed. It is speculated that interindividual muscle recruitment differences may be important for assessing individual musculoskeletal risk.

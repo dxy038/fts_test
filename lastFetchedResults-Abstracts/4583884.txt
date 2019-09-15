@@ -1,0 +1,1 @@
+The balance between exploration and exploitation is an important issue when attempting to find the global minimum of an objective function. This paper describes how this balance may be carefully controlled when using Kriging surrogate models to approximate the objective function

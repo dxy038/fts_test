@@ -1,0 +1,4 @@
+Given an unconstrained quadratic optimization problem in the following form:
+View the MathML source(QP)min{xtQx|x∈{-1,1}n},
+Turn MathJax on
+with Q∈Rn×nQ∈Rn×n, we present different methods for computing bounds on its optimal objective value. Some of the lower bounds introduced are shown to generally improve over the one given by a classical semidefinite relaxation. We report on theoretical results on these new bounds and provide preliminary computational experiments on small instances of the maximum cut problem illustrating their performance.

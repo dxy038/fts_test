@@ -1,0 +1,13 @@
+This paper presents an optimal design of three dimensional multi-story reinforced concrete
+structures using recently developed meta-heuristic algorithms, namely; the charged system search and
+the enhanced charged system search. The design is based on the ACI 318-05 code and loadings are based
+on ASCE7-05. Analysis of the structures is performed by the standard stiffness method. All members
+are subjected to biaxial moments and axial loads. Pre-determined sections are assumed for beams and
+columns, and the corresponding interaction curves are utilized to check whether the selected section for
+each member is acceptable. The objective function is taken as the weight of the structure, and constraints
+consist of the slenderness of compression members, the maximum allowable drift of the structure and the
+natural frequency of the structure. It should be mentioned that second order effects are also considered
+and that the end moments of the columns are magnified when needed.
+First, a 7-story frame with 3 spans is considered and optimized. Then, a sensitivity analysis is performed
+by optimal design of nine frames having 3 stories and 2 spans. In each story, different span lengths and
+loading conditions are assumed, and the results are compared.

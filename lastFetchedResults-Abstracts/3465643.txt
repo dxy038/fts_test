@@ -1,0 +1,1 @@
+A multiobjective linear quadratic Gaussian control problem with a hierarchical ordering of the individual objective functions is formulated and solved.

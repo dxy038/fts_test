@@ -1,0 +1,16 @@
+Considering that the active companies in the field of oil, gas, petrochemical
+and other energies are project-based and also the increase of gas applicants
+who have taken policy of replacing the gas instead of other fossil fuels, have
+imposed certain condition on organizations and project managers in the gas
+company. One of the most important problem in the issue of project
+management is project portfolio selection which is defined one of the most
+important activities in many organization such as gas organization. In this
+study at first the effective indicators on projects are extracted by using the
+literature and interviews with the experts of gas industry then the
+mathematical robust multi objective Model is Provided by considering the
+uncertainty and unreliability in some parameters of model. This model is
+solved by using non-dominate sorting genetic algorithm for 20 degree of
+risk-taking decision gama ( , C
+t ? B
+t ? ).At the end for helping in decision making
+the TOPSIS technique is used for providing a specific answer in pareto front

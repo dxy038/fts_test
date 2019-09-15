@@ -1,0 +1,9 @@
+Objective
+DLX genes constitute a subfamily of divergent homeobox genes. We have previously reported that inhibition of DLX-7 expression by an antisense oligonucleotide caused apoptosis in the K562 erythroleukemia cell line, which highly expresses DLX-7. In this study, we have constructed an expression vector encoding human DLX-7, and examined the effects of overexpression of DLX-7 in the IL-3-dependent lymphoid precursor cell line Ba/F3.
+Methods
+DLX-7 expression vector was electroporated into Ba/F3 cells, and generate a DLX-7 expressing Ba/F3 cells. Northern blot analysis was performed to determine DLX-7 gene expression. WST-1 assay was used to cell proliferation assay. To detect apoptosis, we performed TUNEL assay. Expression of cell surface adhesion molecules was examined by FACS analysis.
+Results
+Growth properties of DLX-7-transfected Ba/F3 cells in the presence of IL-3, did not differ from those of control Ba/F3 cells. However, in the absence of IL-3, DLX-7-transfected cells abrogated growth dependence on cytokines due to inhibition of apoptosis. Because adhesion properties of DLX-7-transfected cells increase, we examined expression of adhesion molecules in these cells. Expression of intercellular adhesion molecule (ICAM)-1 and ICAM-2 were markedly upregulated in DLX-7-transfected cells. Both anti-ICAM-1 antibody and anti-LFA-1 antibody blocked the aggregation of DLX-7-transfected cells. Moreover, in the absence of IL-3, cytokine-independent cell growth was blocked by anti-ICAM-1 antibody.
+Conclusion
+These results indicate that DLX-7 overexpression blocks apoptosis and that ICAM-1 expression induced by DLX-7 contributes to this antiapoptotic effect.
+

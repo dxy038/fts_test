@@ -1,0 +1,14 @@
+Expert judgments enter several aspects of many scientific endeavors.
+They are typically employed to interpret data, predict systems' behaviour and
+assess uncertainties. In particular, expert judgments are expected to be a relevant
+source of data for use in performance assessments of high-level radioactive
+waste repositories. In this paper we consider the task of aggregating the
+judgments provided by experts with the objective of emphasizing a potential
+source of bias that might affect the results of the analysis. Typically, the analysts
+combine mathematical and behavioral schemes to obtain the aggregate
+measures desired for decision-making purposes. Within this approach to data
+aggregation, mathematical models are used as tools for sensitivity analysis
+and they should account for between-expert (expert-to-expert) as well as
+within-expert variability. A practical example regarding a formal expert judgment
+elicitation exercise for the future climate at Yucca Mountain vicinity is
+presented

@@ -1,0 +1,11 @@
+Objective
+To compare two methods of minimizing cochlear implant artifact in cortical auditory evoked potential (CAEP) recordings.
+Methods
+Two experiments were conducted. In the first, we assessed the use of independent component analysis (ICA) as a pre-processing filter. In the second, we explored the use of an optimized differential reference (ODR) for minimizing artifacts.
+Results
+Both ICA and the ODR can minimize the artifact and allow measurement of CAEP responses.
+Conclusions
+When using a large number of recording electrodes ICA can be used to minimize the implant artifact. When using a single electrode montage an optimized differential reference is adequate to minimize the artifact.
+Significance
+The use of an optimized differential reference could allow cortical evoked potentials to be used in routine clinical assessment of auditory pathway development in children and adults fit with cochlear implants.
+

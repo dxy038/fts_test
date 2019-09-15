@@ -1,0 +1,11 @@
+Objective
+We quantified the link between tooth deterioration and malnutrition in institutionalized elderly subjects, taking into account the major risk factors for malnutrition and adjusting for the measurement error made in using the Mini Nutritional Assessment questionnaire.
+Methods
+
+Data stem from a survey conducted in 2005 in 1094 subjects ≥60 y of age from a large sample of 100 institutions of the Rhône-Alpes region of France. A Bayesian approach was used to quantify the effect of tooth deterioration on malnutrition through a two-level logistic regression. This approach allowed taking into account the uncertainty on sensitivity and specificity of the Mini Nutritional Assessment questionnaire to adjust for the measurement error of that test.
+Results
+
+After adjustment for other risk factors, the risk of malnutrition increased significantly and continuously 1.15 times (odds ratio 1.15, 95% credibility interval 1.06–1.25) whenever the masticatory percentage decreased by 10 points, which is equivalent to the loss of two molars. The strongest factors that augmented the probability of malnutrition were deglutition disorders, depression, and verbal inconsistency. Dependency was also an important factor; the odds of malnutrition nearly doubled for each additional grade of dependency (graded 6 to 1). Diabetes, central neurodegenerative disease, and carcinoma tended to increase the probability of malnutrition but their effect was not statistically significant.
+Conclusion
+
+Dental status should be considered a serious risk factor for malnutrition. Regular dental examination and care should preserve functional dental integrity to prevent malnutrition in institutionalized elderly people.

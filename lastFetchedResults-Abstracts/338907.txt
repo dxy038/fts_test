@@ -1,0 +1,11 @@
+Objective
+Erythropoietin is essential for red blood cell development in vivo and is also an important therapeutic agent to treat anemia resulting from kidney failure or bone marrow suppression. The erythropoietin receptor (EPOR) elicits both positive and negative regulatory signaling pathways, primarily through phosphorylated tyrosine residues in the cytoplasmic domain of the activated receptor complex. Surprisingly, however, EPOR tyrosine residues are dispensable for in vivo erythropoiesis under nonstress conditions. One of the key signaling molecules elicited by the EPOR is the Stat5 transcription factor. Stat5 activation has been mapped to tyrosines 343 and 401 in the EPOR cytoplasmic region, although non-tyrosine-containing sequences in the EPOR cytoplasmic region can also stimulate Stat5. To test the functional role of non-tyrosine-containing sequences in the EPOR, we analyzed a series of mutant EPOR isoforms in cell survival and proliferation assays.
+Methods
+
+The IL-3-dependent 32D cell line was stably transfected with cDNAs encoding the wild-type EPOR or mutant EPORs containing or lacking intracellular tyrosines, in the absence or presence of a dominant inhibitory Stat5 isoform. EPO-dependent cell signaling, survival, and proliferation were evaluated.
+Results
+
+EPOR isoforms lacking intracellular tyrosine residues elicit an important survival signal in 32D cells. Stat5 function is critical for EPO-dependent cell survival mediated by these non-tyrosine-containing receptor sequences. Interestingly, EPO-dependent survival does not require the presence of fetal calf serum (FCS) in the culture medium, yet FCS is important for 32D cell proliferation in response to EPO.
+Conclusion
+
+Our results elucidate a previously unrecognized survival pathway elicited by the EPOR. They demonstrate that this pathway requires Stat5 and is serum independent. These findings contribute significantly to our understanding of the complexity by which the EPOR functions in hematopoietic cells.

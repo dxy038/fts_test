@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to estimate the effect of age on the risk of in-hospital mortality and morbidity following urogynecologic surgery and to compare risks associated with obliterative versus reconstructive procedures for prolapse in elderly women.
+Study design
+We conducted a retrospective cohort study utilizing data from 1998 to 2002 from the Nationwide Inpatient Sample. Multivariable logistic regression was performed to obtain odds ratios estimating the effect of age on risk of death and complications, adjusting for comorbidities and demographic factors.
+Results
+There were 264,340 women in our study population. Increasing age was associated with higher mortality risks per 1000 women (<60 years, 0.1; 60-69 years, 0.5; 70-79 years, 0.9; ≥80 years, 2.8; P< .01) and higher complication risks per 1000 women (<60 years, 140; 60-69 years, 130; 70-79 years, 160; ≥80 years, 200; P< .01). Using multivariable logistic regression, increasing age was associated with an increased risk of death (60-69 years, odds ratio [OR] 3.4 [95% CI 1.7-6.9]; 70-79 years, OR 4.9 [95% CI 2.2-10.9]; ≥80 years, OR 13.6 [95% CI 5.9-31.4]), compared with women <60 years. The risk of peri-operative complications was also higher in elderly women 80 years of age and older (OR 1.4 [95% CI 1.3-1.5]) compared with younger women. Elderly women 80 years and over who underwent obliterative procedures had a lower risk of complication compared with those who underwent reconstructive procedures for prolapse (17.0% vs 24.7%, P< .01).
+Conclusion
+Although the absolute risk of death is low, elderly women have a higher risk of mortality and morbidity following urogynecologic surgery.
+

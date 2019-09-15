@@ -1,0 +1,11 @@
+Objective
+We investigated the variation in dimensionality (D2) of neuromagnetic activity over the primary sensorimotor cortex (SM1) in healthy adults performing motor tasks of different difficulty.
+Methods
+Magnetoencephalography (MEG) was used to record neuromagnetic activity during self-paced, brisk unimanual finger extension at a rate of 1 and 2 Hz using the index finger of the dominant and non-dominant hands in 16 healthy subjects. Motor task difficulty was rated by the relative difference in time measurement between 1 and 2 Hz finger movements of both hands. The relative difference in dimensionality of SM1 activity was calculated by subtracting the D2 value in 2 Hz movement from that in 1 Hz one within subjects.
+Results
+Simple regression analyses show a significantly negative relationship between the relative dimensional complexity and the relative motor task difficulty in the contralateral SM1 for the left- (p < 0.05), but not the right- (p = 0.447) hand movement.
+Conclusions
+The present data suggest that a motor task of greater difficulty may engender a reduction of simultaneously active quasi-independent neuronal generators in the contralateral SM1 underpinned by stronger neuronal connectivity of a relatively low dimensionality.
+Significance
+The decrease in dimensional complexity of MEG activity associated with a motor task of greater difficulty gives new insights to motor control strategy.
+

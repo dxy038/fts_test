@@ -1,0 +1,11 @@
+Objective. To compare the ability of observers to correctly detect the reaction time of erector spinae response to unexpected load by inspecting nonprocessed electromyographic signals versus inspection of wavelet transformed electromyographic signals and versus automatic detection on the same wavelet transformed signals.
+
+Background. Traditionally, electromyographic signal analysis is performed using Fourier transform based methods. However, muscle response to transients such as unexpected load, have limitations when using these methods of electromyographic processing.
+
+Design. A comparison was made of the three methods using the same signals attained during sudden loading of the trunk.
+
+Methods. 11 chronic low back pain patients and eleven normal subjects were investigated in sudden loading. Surface electromyographic signals were obtained from the erector spine muscle at L3. The ability of observers to detect reaction time of erector spinae muscle responses of nonprocessed electromyographic signals versus inspection of wavelet transformed electromyographic signals versus an automatic peak detection program was determined.
+
+Results. The results have shown that the spine muscle reaction time was easier and more accurately determined in the wavelet domain rather than in its original signal representation.
+
+Conclusion. Wavelet transform methods improved the analysis of electromyographic signals in the time domain by facilitating the determination of the time of muscle activity.

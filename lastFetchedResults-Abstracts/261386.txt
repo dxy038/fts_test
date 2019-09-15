@@ -1,0 +1,10 @@
+A system for mesoscale analyses of selected variables has been developed. The analysed parameters
+are of general interest in operational weather forecasting, but normally not available
+from NWP systems, or available, but with a significantly lower quality than achieved by the
+mesoscale analysis system. A supplementary objective is to produce initial information to be
+used for now-casting techniques. Examples of parameters are precipitation, temperature, humidity,
+visibility, wind and clouds. The basis of the analysis system is the optimal interpolation
+technique (OI). The use of observations from automatic stations, radars and satellites have
+been investigated. The investigation indicates that a dense network of ordinary precipitation
+gauge measurements can produce more accurate analyses than more elaborate systems like
+radar that suffers from anomalous echoes and other errors.

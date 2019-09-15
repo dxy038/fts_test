@@ -1,0 +1,22 @@
+Nowadays new models have developed that provide us more with evaluating
+water resource systems omplications moreover; they are used extensively in
+quantitative operation of water resources. Therefor extensive studies have been
+done about optimized operation of single reservoir systems.With attention to the
+desirable results from optimized operation of single reservoir systems, nowadays
+extensive researches about multireservoir systems have been done with more
+complexities. So a multireservoir system was studied. One of the modern methods
+of optimization is Ga used in this study for optimal operation of a double reservoir
+system consisting Golestan and Voshmgir reservoir located in Gorganrood river
+basin. Both reservoirs are used to supply agriculture demands of the area,
+considering many floods occurred in the understudy area, Golestan reservoir plays
+a key role in yearly flood control in the region. So exact calculation of control
+volume in this reservoir is very important. To continue the research consists
+of:stages of Ga method, study of Gorganrood basin and reservoirs built on this
+river, becoming familiar with the goals for building of each reservoir and
+calculating control volume in Golestan reservoir through flood routing using hec-5,
+introducing continuing equations of doubleb reservoirs system, objective and
+penalty functions. Finally analysis of results through charts and graphs and
+comparing to real demands was demonstrated that with mutation probability 0.1
+and crossover probability 0.8 after 600 generations will have reliability coefficient
+of 100% for Golestan reservoir and 85.74% for Voshmgir reservoir.
+Keywords: Genetic algorithm; Optimization; Penalty functions; Flood routing2

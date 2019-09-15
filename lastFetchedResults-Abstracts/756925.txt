@@ -1,0 +1,24 @@
+Objective
+To assess the long-term cost effectiveness of 1 year's treatment with clopidogrel on top of standard therapy (including aspirin; ASA) compared with standard therapy alone, in patients diagnosed with non-ST-segment-elevation acute coronary syndromes (ACS) in the UK.
+Design
+
+Cost utility analysis using a Markov model, incorporating clinical data from CURE (a multicentre randomised controlled trial, involving 12,562 patients) and data from UK observational studies.
+Setting
+
+Health economic evaluation carried out from the perspective of the UK NHS.
+Patients
+
+A representative cohort of 1000 UK patients aged 66 years, diagnosed with non-ST-segment-elevation ACS.
+Interventions
+
+Either a combination of 75 mg/day clopidogrel (300 mg loading dose, within 24 h prior to hospital admission) and standard therapy (including ASA, 75–325 mg/day) for 1 year followed by standard therapy alone for their remaining lifetime, or standard therapy alone (including ASA, 75–325 mg/day) for life.
+Main outcome measures
+
+Incremental cost per life-year gained and incremental cost per quality-adjusted life-year (QALY) gained.
+Results
+
+In the base case, the incremental cost effectiveness of the clopidogrel combination vs standard therapy alone is estimated as £6991 per life-year gained and £7365 per QALY gained. The probability that clopidogrel remains cost effective within the generally accepted £30,000 per QALY threshold is more than 80%. The confidence interval around the relative risk for vascular death was identified as the main parameter affecting the estimated cost effectiveness.
+Conclusions
+
+One year's treatment with clopidogrel is a cost effective intervention compared with standard therapy that should be considered as a routine treatment for patients with non-ST-segment-elevation ACS.
+

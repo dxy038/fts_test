@@ -1,0 +1,14 @@
+When a composite material is subjected to a time-harmonic stress field (homogeneous
+or inhomogeneous), different phases undergo different temperature fluctuations due to the wellknown
+thermoelastic effect. As a result irreversible heat conduction occurs within each phase and
+between phases, and entropy is produced. This entropy production is the genesis of elastothermodynamic
+damping, and manifests itself as a conversion of work into heat. This is one of
+a large number of sources of damping in a real composite.
+Mechanics-based analytical methods for predicting damping due to various relaxation mechanisms
+have not been reported. Therefore, it becomes difficult to divide the total (experimentally
+measured) damping into its various constituents. This defines the objective of the present work : we
+present a methodology for predicting the elastothermodynamic damping of an N-layer laminated
+composite. The stress field may be quite general so long as the resulting heat conduction occurs
+only in the direction orthogonal to the laminae. By way of illustration, numerical results are
+presented for a symmetric three-layer plate in biaxial bending. © 1997 Elsevier Science Ltd. All
+rights reserved

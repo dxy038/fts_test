@@ -1,0 +1,12 @@
+The intuitionistic fuzzy set has been applied to game theory very
+rarely since it was introduced by Atanassov in 1983. The aim of this paper is
+to develop an effective methodology for solving matrix games with payoffs of
+Atanassov’s triangular intuitionistic fuzzy numbers (TIFNs). In this methodology,
+the concepts and ranking order relations of Atanassov’s TIFNs are defined.
+A pair of bi-objective linear programming models for matrix games with
+payoffs of Atanassov’s TIFNs is derived from two auxiliary Atanassov’s intuitionistic
+fuzzy programming models based on the ranking order relations of
+Atanassov’s TIFNs defined in this paper. An effective methodology based on
+the weighted average method is developed to determine optimal strategies for
+two players. The proposed method in this paper is illustrated with a numerical
+example of the market share competition problem.

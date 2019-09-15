@@ -1,0 +1,8 @@
+Objective
+is no voxel-based morphometry study for first-episode, drug-naïve and very late-onset panic disorder patients. Besides, differences of onset age might represent different clinical subgroups. Therefore we designed this study to investigate gray matter deficits in this subgroup of patients.
+
+ients and 21 normal controls were enrolled into our study. They all received 3 T magnetic resonance imaging acquisition for the structural imaging of brain. All the structural images were processed and analyzed to estimate the differences of gray matter volumes between patients and controls. We utilized optimized voxel-based morphometry function implemented in the FSL (FMRIB Software Library) with the agoraphobia, global brain volume, age, gender and duration of illness as covariates. We also performed the voxel-wise linear regression between clinical rating scale scores and gray matter volumes of brain to confirm results of optimized voxel-based morphometry and significant region for physiopathology of very late-onset PD.
+s
+episode, drug-naïve and very late-onset panic disorder patients had lower gray matter volumes in left orbitofrontal cortex, left inferior frontal cortex, left superior temporal gyrus and right insula when they were compared to controls (corrected p &lt; 0.005, multiple comparisons, cluster threshold: 30 voxels). A negative correlation between PDSS and GMV was observed in right insula using general linear model voxel-wise analysis with age and gender corrected.
+sion
+-temporo-insula gray matter deficits might represent the structural pathophysiology of first-episode, drug-naïve and very late-onset panic disorder.

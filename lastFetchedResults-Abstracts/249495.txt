@@ -1,0 +1,12 @@
+A generalized optimization problem in which design space is also a design to be found is de9ned
+and a numerical implementation method is proposed. In conventional optimization, only a portion of
+structural parameters is designated as design variables while the remaining set of other parameters
+related to the design space are often taken for granted. A design space is speci9ed by the number
+of design variables, and the layout or con9guration. To solve this type of design space problems, a
+simple initial design space is selected and gradually improved while the usual design variables are
+being optimized. To make the design space evolve into a better one, one may increase the number of
+design variables, but, in this transition, there are discontinuities in the objective and constraint functions.
+Accordingly, the sensitivity analysis methods based on continuity will not apply to this discontinuous
+stage. To overcome the di=culties, a numerical continuation scheme is proposed based on a new concept
+of a pivot phase design space. Two new categories of structural optimization problems are formulated
+and concrete examples shown

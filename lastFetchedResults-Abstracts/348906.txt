@@ -1,0 +1,11 @@
+Objective
+Recent studies indicate that pathologic high-frequency oscillations (HFOs) are signatures of epileptogenic brain. Automated tools are required to characterize these events. We present a new algorithm tuned to detect HFOs from 30 to 85 Hz, and validate it against human expert electroencephalographers.
+Methods
+We randomly selected 28 3-min single-channel epochs of intracranial EEG (IEEG) from two patients. Three human reviewers and three automated detectors marked all records to identify candidate HFOs. Subsequently, human reviewers verified all markings.
+Results
+A total of 1330 events were collectively identified. The new method presented here achieved 89.7% accuracy against a consensus set of human expert markings. A one-way ANOVA determined no difference between the mean F-measures of the human reviewers and automated algorithm. Human κ statistics (mean κ = 0.38) demonstrated marginal identification consistency, primarily due to false negative errors.
+Conclusions
+We present an HFO detector that improves upon existing algorithms, and performs as well as human experts on our test data set. Validation of detector performance must be compared to more than one expert because of interrater variability.
+Significance
+This algorithm will be useful for analyzing large EEG databases to determine the pathophysiological significance of HFO events in human epileptic networks.
+

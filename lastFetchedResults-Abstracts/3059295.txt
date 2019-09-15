@@ -1,0 +1,1 @@
+The objective of this work is to describe a novel methodology for modelling MV and NL processes, useful among other applications, in fault detection tasks, possibly to be applied on plant supervision, including transient slate fault detection and decision making according the well known method based on parity equations and rule based residuals evaluation.

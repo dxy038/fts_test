@@ -1,0 +1,9 @@
+An optimization algorithm for preform die shape design in metal-forming processes is developed in this
+paper. The preform die shapes are represented by cubic B-spline curves. The control points of the B-spline
+are used as the design variables. The optimization objective is to reduce the di erence between the realized
+and desired  nal forging shapes. The sensitivities of the objective function with respect to the design variables
+are developed in detail. The numerical examples show that the optimization method and the sensitivity analysis
+developed in this paper are very useful and the design results are satisfactory. Importantly, the preform die
+shapes designed by this method are easily manufacturable and can be implemented in practical metal-forming
+operations. This optimization method and the sensitivity analysis can also be applied in the preform design
+of complex industrial metal-forming problems.

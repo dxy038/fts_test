@@ -1,0 +1,1 @@
+This paper presents a revision of the status of current standards dedicated to mobile services systems, using combined satellite and terrestrial components transmission. The objective is the analysis of a hybrid system compatible with DVB-SH and SDR technologies, taking as a basis the work and studies performed in MOVISAT project.

@@ -1,0 +1,11 @@
+Numerous problems encountered in real life cannot be actually formulated as a single
+objective problem; hence the requirement of Multi-Objective Optimization (MOO) had arisen several
+years ago. Due to the complexities in such type of problems powerful heuristic techniques were needed,
+which has been strongly satisfied by Swarm Intelligence (SI) techniques. Particle Swarm Optimization
+(PSO) has been established in 1995 and became a very mature and most popular domain in SI. Multi-
+Objective PSO (MOPSO) established in 1999, has become an emerging field for solving MOOs with
+a large number of extensive literature, software, variants, codes and applications. This paper reviews
+all the applications of MOPSO in miscellaneous areas followed by the study on MOPSO variants in
+our next publication. An introduction to the key concepts in MOO is followed by the main body of
+review containing survey of existing work, organized by application area along with their multiple
+objectives, variants and further categorized variants.

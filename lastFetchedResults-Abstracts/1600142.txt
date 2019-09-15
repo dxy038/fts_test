@@ -1,0 +1,1 @@
+We describe a new method to introduce constraints in cell-centered Lagrangian schemes in the framework of compressible hydrodynamics. In this paper we apply it to the modeling of contact and sliding on solid wall boundaries. We illustrate our method, which is based on the minimization of a specific objective function, by several basic problems.

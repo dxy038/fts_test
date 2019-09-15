@@ -1,0 +1,11 @@
+Objective
+To investigate the influences of hyperglycemia on axonal excitability in human diabetic nerves. Hyperglycemia results in decreased Na+–K+ pump function, presumably leading to intra-axonal Na+ accumulation and thereby, reduced Na+ currents.
+Methods
+The strength-duration time constant (τSD), which partly depends on persistent Na+ conductance active at the resting membrane potential, was measured in median motor axons of 79 diabetic patients. The relationship of τSD with the state of glycemic control (hemoglobin A1c [HbA1c] levels) was analyzed.
+Results
+The mean τSD was longer for diabetic patients than for normal controls, but the difference was not significant. Among diabetic patients, the subgroup of patients with good glycemic control (HbA1c<7%) had significantly longer τSD than the patient group with poor control (HbA1c>9%; P=0.04). The mean τSD was longest at the HbA1c level of 5–6%, gradually decreasing and reaching a plateau around the HbA1c level of 9%. There was an inverse relationship between HbA1c levels and τSD, when the HbA1c levels ranged from 5 to 9% (P=0.04).
+Conclusions
+In diabetic nerves, τSD is generally longer than normal, but hyperglycemia is associated with paradoxically shortened τSD, because of a decrease in axonal persistent Na+ conductance, possibly related to reduced membranous Na+ gradient, tissue acidosis, or other metabolic factors.
+Significance
+Measurements of τSD could provide a new insight into changes in ionic conductance in human diabetic nerves.
+

@@ -1,0 +1,1 @@
+In this note, a simple computational procedure is given for solving a class of optimization problems, where an objective function is to be minimized subject to conventional inequality constraints as well as to inequality constraints of the functional type.

@@ -1,0 +1,11 @@
+Objective
+Because the effect of granulocyte colony-stimulating factor (G-CSF), which is widely used for allogeneic stem cell transplantation, on DNA function and stability has not yet been unequivocally elucidated, the aim of this study was to determine whether G-CSF leads to epigenetic and/or genetic modifications.
+Materials and methods
+
+Molecular cytogenetic techniques based on fluorescence in situ hybridization technology were used.
+Results
+
+Lymphocytes of G-CSF mobilized donors displayed epigenetic (altered replication timing of alleles) and genetic (aneuploidy) alterations similar to those observed in lymphocytes of cancer patients. Specifically, in the donors' lymphocytes, biallelically expressed genes (TP53 and AML1) and a repetitive noncoding DNA sequence associated with chromosome segregation (CEN17) showed loss of synchrony in allelic replication timing (allele-specific replication). Each displayed a highly asynchronous pattern of allelic replication similar to that characterizing monoallelic expressed genes. This non–locus-specific epigenetic phenomenon, which also affects DNA sequences associated with chromosome segregation, was accompanied by aneuploidy. Although the loss of replication synchrony in the lymphocytes of G-CSF mobilized donors was a transient epigenetic modification, aneuploidy remained unchanged. The G-CSF effect also was observed after G-CSF administration in vitro. 5-Azacytidine, a DNA methylation blocking agent, inhibited G-CSF in vitro induction of allele-specific replication.
+Conclusion
+
+G-CSF, probably via changes in DNA methylation capacity, leads to cancer-characteristic DNA modifications in lymphocytes of normal mobilized donors.

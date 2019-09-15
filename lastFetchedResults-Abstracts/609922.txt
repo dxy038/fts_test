@@ -1,0 +1,16 @@
+Combined PET/CT scanners now play a major role in medicine for in vivo imaging in oncology, cardiology,
+neurology, and psychiatry. As the performance of a scanner depends not only on the scintillating material but also
+on the scanner design, with regards to the advent of newer scanners, there is a need to optimize acquisition protocols
+as well as to compare scanner performances on an objective basis. In this study we evaluate and compare the
+performance of 4 Commercial GE PET/CT cameras, the (i) BGO-based Discovery LS PET/CT (DLS), (ii) the BGObased
+Discovery ST PET/CT (DST), (iii) the BGO-based Discovery STE PET/CT (DSTE) and finally (iv) the
+LYSO-based Discovery RX PET/CT (DRX) scanner using the Geant4 Application for Tomographic Emission
+(GATE). GATE is an open source Monte Carlo simulation platform developed for PET and SPECT studies and is
+supported by the OpenGATE collaboration. In accordance with the National Electrical Manufactures Association
+(NEMA) NU 2-2001 protocols, the validation of models is carried out against actual published measurements and
+the performance comparison is done for sensitivity, scatter fraction and count rate performance, showing very
+similar performance compared with published results, thus enabling investigations to better model system
+performance (e.g. resolution degradation) within the reconstruction task.. The simulated results demonstrate highest
+sensitivity performance with the DST (though with the highest scatter fraction), and highest NECR performance for
+the LYSO-based DRX, The results also show that DRX, DLS and DSTE PET/CT cameras have nearly the same
+amount of scatter fraction.

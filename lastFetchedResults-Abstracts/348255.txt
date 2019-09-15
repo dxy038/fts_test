@@ -1,0 +1,6 @@
+Objective: To assess the temporal relationship between excitability changes of the motor cortex and periodic synchronous discharges (PSDs) of electroencephalograms (EEGs) in Creutzfeld–Jakob disease (CJD) patients.
+Methods: In four patients with classical type CJD we gave transcranial magnetic stimulation (TMS) randomly in time while simultaneously recording their EEGs and electromyograms (EMGs). The intensity of TMS was fixed to evoke 0.3–0.5 mV EMG in the abductor pollicis brevis muscle (APB) during periods in which there were no PSDs. We assessed the relation between the timing of TMS and EMG response sizes when PSD appeared in EEGs. The time interval between TMS and the onset of preceding PSD was plotted against the amplitude of acquired motor evoked potentials (MEPs).
+Results: The amplitude of MEP was at a minimum when the TMS pulse was given just after the beginning of PSD and was maximal when given just before the onset of the next PSD. As a result, the size of MEP amplitude periodically changed and was phase-locked to the PSD, though its cycle slightly preceded that of PSD.
+Conclusions: Our study has demonstrated that excitability changes in motor cortex are closely related to the occurrence of PSD.
+Significance: It has been revealed for the first time that motor cortical excitability is related to PSD cycle.
+

@@ -1,0 +1,8 @@
+Objective
+al is to propose and solve a new formulation of the recently-formalized patient admission scheduling problem, extending it by including several real-world features, such as the presence of emergency patients, uncertainty in the length of stay, and the possibility of delayed admissions.
+
+ised a metaheuristic approach that solves both the static (predictive) and the dynamic (daily) versions of this new problem, which is based on simulated annealing and a complex neighborhood structure.
+s
+ality of our metaheuristic approach is compared with an exact method based on integer linear programming. The main outcome is that our method is able to solve large cases (up to 4000 patients) in a reasonable time, whereas the exact method can solve only small/medium-size instances (up to 250 patients). For such datasets, the two methods obtain results at the same level of quality. In addition, the gap between our (dynamic) solver and the static one, which has all information available in advance, is only 4–5%. Finally, we propose (and publish on the web) a large set of new instances, and we discuss the impact of their features in the solution process.
+sion
+taheuristic approach proved to be a valid search method to solve dynamic problems in the healthcare domain.

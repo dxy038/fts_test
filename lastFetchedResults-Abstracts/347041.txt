@@ -1,0 +1,5 @@
+Objective: In terms of dynamical system theory the rapid alteration of electromagnetic brain signal properties observed with transition from interictal into ictal epileptic activity implies an alteration between at least two dynamical states (attractors). We explored whether such a multistability is reflected also in the dynamical characteristics of the interictal signal.
+Methods: A combined method consisting of structural MRI, multichannel magnetoencephalography (MEG) and the non-linear dynamics was applied for the detection of subthreshold interictal activity in temporal lobe epilepsy. Employing multichannel MEG we calculated local Lyapunov exponents (ILE) as a measure of the probability of state transitions in patients with mesiotemporal and extra-mesiotemporal focal epilepsy.
+Results: The spatial distribution of the variability of ILE was found to be correlated to the side of the epileptic focus, thus, providing a reliable estimate of its localization.
+Conclusion: Our results demonstrate that interictal epileptic activity is characterized by an increase of the number of transitions between different attractors.
+

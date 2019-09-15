@@ -1,0 +1,1 @@
+We propose an agent-based bidirectional remote controller on a 32-bit MPU, and its usefulness is verified by the experiment

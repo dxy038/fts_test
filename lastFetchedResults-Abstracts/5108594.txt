@@ -1,0 +1,1 @@
+This paper describes the fundamentals of a custom method derived by previous studies based on PCA (Principal Component Analysis). Its objective is to automatically define the evaluable area of an ultrasound image and, once that it is defined, to characterize the relationship between the gain variation and the ultrasound image.

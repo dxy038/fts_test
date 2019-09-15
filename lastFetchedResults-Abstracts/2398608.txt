@@ -1,0 +1,8 @@
+Objective
+pare the build-up of internal stresses in four different dental composites (Venus, Tetric Ceram, Ceram X mono and Filtek Supreme) during the curing reaction, based on the results of a former paper on polymerization kinetics, and to characterize the developing mechanical behavior for different modes of activation using experimental methods and simulation tools.
+s
+-parameter viscoelastic model combined with a curing model and a kinetic model was developed to simulate the mechanical behavior in three dimensions using the finite element software ABAQUS. In order to study the influence of slow polymerization behavior on the mechanical properties, the length of the activation period was doubled at half intensity of the curing light.
+s
+a model which describes the complex interplay of stiffness, flowability, curing speed and activation intensity during the curing process gives deeper insight into the spatial and temporal build-up of stresses. An advantageous reaction kinetic or a lower stiffness can compensate for the effect of a higher polymerization shrinkage on the resulting peak stress. The evolution of stress is not directly proportional to the level of shrinkage of the composites.
+icance
+rial model which includes the developing mechanical characteristics of a curing dental composite can be used to develop and optimize dental materials and to assess the effect of different treatment strategies (i.e. mode of photo-polymerization, filling geometries, interfacial strength).

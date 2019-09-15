@@ -1,0 +1,13 @@
+In this paper, we investigate the Bi-objective Grid Patrol Routing Problem
+(BGPRP) in which multiple patrol vehicles have to cooperatively patrol several nodes for
+a given specic time during a certain planning horizon in a grid map. The BGPRP is an
+NP-hard problem and an extended application of the Periodic Vehicle Routing Problem
+(PVRP). However, unlike PVRP, in addition to minimizing the total routing distance, the
+considered BGPRP also aims to maximize the routing coverage of lanes. The BGPRP
+involves both the combination and permutation of nodes simultaneously. In this paper, an
+ecient encoding scheme is developed to tackle both the combination and the permutation
+of nodes simultaneously. Then, we apply an immune based evolutionary approach for
+solving the BGPRP with the objective of minimizing total routing distance. Finally,
+an integer programming approach is utilized to maximize the routing coverage of lanes.
+Numerical results of multiple patrol vehicles in a grid map show the performance of the
+approach.

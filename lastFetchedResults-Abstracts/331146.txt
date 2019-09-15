@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to evaluate the relationship between the degree of conversion (DC) of composites and the light intensity using LED-curing units and also to determine the amount of exposure required to achieve optimal curing.
+Method
+
+The light outputs of light-curing units and the depths of cure of composites exposed to these units were determined using the methods outlined in modified ISO standards, ISO/TS10650 and ISO 4049, respectively. The distributions of DC in composites were investigated by IR spectra of microareas obtained at various depths from the irradiated surface of thin specimens cut out from the cured composites. IR spectra were measured using a Fourier transform infrared spectrometer equipped with a microscopic unit. DC was calculated from the changes in the amount of Cdouble bond; length as m-dashC double bonds in the IR spectra.
+Results
+
+The light intensity at various depths through the cured composite was calculated from the attenuation coefficient of each material, obtained from the linear relationship between the depth of cure and the logarithm of the amount of exposure, which is defined as the product of the irradiance and irradiation time. There was a third or fourth order regression relationship between DC and the logarithm of total light energy at a particular depth.
+Significance
+
+The minimum light energy required to produce a saturated DC was about 1000 s mW/cm2.

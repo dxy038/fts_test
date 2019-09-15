@@ -1,0 +1,11 @@
+Objective
+Automatic methods developed to detect transient EEG events during sleep may present a degree of arbitrariness in the choice of appropriate channels or amplitude thresholds for the analysis. To overcome these limitations, we propose a multi-channel and temporal coincidences approach.
+Methods
+A two-step automatic detection (AD) of peculiar transient synchronized EEG events (TE) was performed in stage 2 and stage 3 sleep periods obtained from 10 normal sleep recordings and included: (a) detection of candidate TE from all the EEG traces and averaged signals, based on amplitude thresholds selections in both the time and frequency domains; (b) cross-checking of TE by evaluation of the coincidences in different EEG traces. TE found by AD but not confirmed by visual analysis (false positives, FP) and TE evidenced by visual analysis and missed by AD (false negatives, FN) were then counted.
+Results
+AD performed in averaged signals significantly reduced the number of FP but slightly increased FN, compared to single-channel analysis. However, when TE were confirmed by inter-channel temporal coincidences, a significant reduction of total errors (FN + FP) was achieved. The minimum error was obtained after C3–A2 and C4–A1 averaging and signal cross-checking with at least three channels (C3–A2 or C4–A1, plus both O1–A2 and O2–A1).
+Conclusions
+This study describes a novel method for automatic detection of transient EEG events occurring during sleep that takes into account all the available channels.
+Significance
+This approach reduces the need of human supervision and may overcome most of the difficulties encountered by automatic methods based on single-channel analysis.
+

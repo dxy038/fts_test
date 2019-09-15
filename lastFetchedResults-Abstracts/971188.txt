@@ -1,0 +1,5 @@
+Fs laser-based two-photon polymerisation (2PP) has been widely reported as a means of directly writing three-dimensional nanoscale structures. Usually the voxel of a high numerical aperture microscope objective is scanned through the resin to build up the required model. In the case of high aspect ratio two-dimensional structures, such as cell scaffolds, repeated scanning is required to build up the height.
+
+The voxel shape can be substantially elongated by the inclusion of an axicon lens in the laser beam line. In this report we describe the use of a Bessel beam produced in the region beyond the focus of an objective lens when the beam has been modified in this way.
+
+A Ti:sapphire laser was used to write a range of 2D square cell structures in a Zr-loaded sol–gel system. The process was characterised, in terms of the dimensions of the polymerised Bessel region, for different processing conditions. Examples of the structures are also described.

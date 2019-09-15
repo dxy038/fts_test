@@ -1,0 +1,17 @@
+Background: Epilepsy is a severe disorder of the central nervous system that predisposes the person to recurrent seizures. Fifty million people worldwide suffer from
+epilepsy; after Alzheimer’s and stroke, it is the third widespread nervous disorder.
+Objective: In this paper, an algorithm to detect the onset of epileptic seizures
+based on the analysis of brain electrical signals (EEG) has been proposed. 844 hours
+of EEG were recorded form 23 pediatric patients consecutively with 163 occurrences
+of seizures. Signals had been collected from Children’s Hospital Boston with a sampling frequency of 256 Hz through 18 channels in order to assess epilepsy surgery. By
+selecting effective features from seizure and non-seizure signals of each individual and
+putting them into two categories, the proposed algorithm detects the onset of seizures
+quickly and with high sensitivity.
+Method: In this algorithm, L-sec epochs of signals are displayed in form of a thirdorder tensor in spatial, spectral and temporal spaces by applying wavelet transform.
+Then, after applying general tensor discriminant analysis (GTDA) on tensors and calculating mapping matrix, feature vectors are extracted. GTDA increases the sensitivity
+of the algorithm by storing data without deleting them. Finally, K-Nearest neighbors
+(KNN) is used to classify the selected features.
+Results: The results of simulating algorithm on algorithm standard dataset shows
+that the algorithm is capable of detecting 98 percent of seizures with an average delay
+of 4.7 seconds and the average error rate detection of three errors in 24 hours.
+Conclusion: Today, the lack of an automated system to detect or predict the seizure onset is strongly felt.

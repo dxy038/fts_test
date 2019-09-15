@@ -1,0 +1,12 @@
+For Swedish Warmblood sport horses, breeding values (BVs) are predicted using a multiple-trait animal model with results from
+competitions and young horse performance tests. Data go back to the beginning of the 1970s, and earlier studies have indicated
+that some of the recorded traits have changed through the years. The objective of this study was to investigate the effects of
+including all performance data or excluding the older ones compared to a bivariate model (BM) considering performance traits in
+early and late periods as separate traits. The bivariate approach was assumed to give the most correct BVs for the actual breeding
+population. Competition results in dressage and show jumping for almost 40 000 horses until 2006 were available. For riding
+horse quality test (RHQT), data of 14 000 horses judged between 1973 and 2007 were used. Genetic correlations of 0.69 to 1.00
+were estimated between traits recorded at different time periods (RHQT data) or different birth year groups (competition data).
+A cross-validation study and comparison of BVs using different sets of data showed that most accurate and similar results were
+obtained when BVs were predicted from either the BM or the univariate model including all data from the beginning of the
+recording. We recommend using all data and applying the univariate model to minimise the computational efforts for genetic
+evaluations and for provision of reliable BVs for as many horses as possible.

@@ -1,0 +1,17 @@
+A bifurcation analysis of a layered ductile structural element undergoing homogeneous,
+high-rate extension is presented. Formation of multiple strain localization sites provides a precursor
+to ductile fragmentation, and the objective of the analysis is to investigate the effect of an added
+surface layer on resistance of the structural element to fragmentation. The analysis shows that, in
+addition to dissipating plastic work, the outer layer can increase the total energy dissipation prior
+to fragmentation by increasing bifurcation strain. The analysis also shows that the strain hardening
+exponent of the outer layer plays an important role in increasing the bifurcation strain; higher values
+of hardening exponent result in higher bifurcation strain. Strength and density of the outer layer play
+a secondary role in increasing bifurcation strain. Once a material with a high hardening exponent is
+chosen for the outer material, its strength plays an important role in increasing the total dissipated
+energy. The analysis also reveals that, for certain combinations of strength and hardening exponent
+of the outer layer, the sandwich structure can dissipate more energy than a homogeneous core structure
+of the same total thickness and length. This is so even when the outer layer is weaker than
+the core. Energy dissipated per unit mass can be significantly improved by choosing a softer outer
+layer which displays high-strain hardening. Thus, the bifurcation analysis presented here provides a
+quantitative guideline for material selection in designing layered structures optimized for resistance to
+fragmentation.

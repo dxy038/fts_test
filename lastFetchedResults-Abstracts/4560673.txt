@@ -1,0 +1,1 @@
+The orthogonal properties of input pattern pairs of bidirectional associative memory have been studied. We have investigated the situations where one or both of the input pattern pairs are not orthogonal. The paper reports three methods of overcoming the recall problems under nonorthogonal conditions. A comparison between them is included

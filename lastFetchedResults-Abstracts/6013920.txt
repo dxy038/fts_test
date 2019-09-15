@@ -1,0 +1,1 @@
+This paper discusses a new objective function to generate test patterns for sequential circuits using genetic algorithms. This approach is based on the importance of assigning a value (0 or 1) to a line with respect to faults in consideration. This is simulation based and can be used for any circuit that can be simulated logically

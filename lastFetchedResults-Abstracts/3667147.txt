@@ -1,0 +1,1 @@
+A restoration method for S-VHS sequences is proposed in this paper to help to improve their image quality. The solution consists of a cascaded neural network structure using restored luminance signal. The proposed method was tested with various color images and experimental results showed that both subjective and objective image quality were substantially improved.

@@ -1,0 +1,23 @@
+Abstract
+
+Objective
+
+Autism is a complex behaviorally defined disorder. There is a relationship between zinc (Zn) levels in autistic patients and development of pathogenesis, but the conclusion is not permanent.
+
+ 
+
+Materials & Methods
+
+The present study conducted to estimate this probability using meta-analysis method. In this study, Fixed Effect Model, twelve articles published from 1978 to 2012 were selected by searching Google scholar, PubMed, ISI Web of Science, and Scopus and information were analyzed. I² statistics were calculated to examine heterogeneity. The information was analyzed using R and STATA Ver. 12.2.
+
+ 
+
+Results
+
+There was no significant statistical difference between hair, nail, and teeth Zn levels between controls and autistic patients: -0.471 [95% confidence interval (95% CI): -1.172 to 0.231]. There was significant statistical difference between plasma Zn concentration and autistic patients besides healthy controls: -0.253 (95% CI: 0.498 to -0.007). Using a Random Effect Model, the overall Integration of data from the two groups was -0.414 (95% CI: -0.878 to -0.051).
+
+
+
+Conclusion
+
+Based on sensitivity analysis, zinc supplements can be used for the nutritional therapy for autistic patients.

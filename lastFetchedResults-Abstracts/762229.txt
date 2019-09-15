@@ -1,0 +1,4 @@
+The main objective of this research is to investigate the causality relationship between FDI, Export, and GDP for 11 selected countries of MENA in the period of 1995-2005.
+The model of this research has been estimated by using panel causality test and VAR approach.
+ The main findings of this study indicate that there is unilateral causality between FDI, Export, GDP from FDI to Export and FDI to GDP. Moreover, the results of estimation show that there is unilateral causality between GDP and Export from GDP to Export. However, there is no causality between GDP and Export from Export to GDP.
+

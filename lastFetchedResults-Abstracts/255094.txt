@@ -1,0 +1,19 @@
+With increasing computational resources, environmental models are run at finer grid spacing
+to resolve the land surface characteristics. The land use/land cover (LULC) data sets input into land surface
+models are used to assign various default parameters from a look-up tables. The objective of this study is to
+assess the potential uncertainty in the LULC data and to present a reclassification method for improving the
+accuracy of LULC data sets. The study focuses on the Southern Great Plains and specifically the Walnut
+River Watershed in southeastern Kansas, USA. The uncertainty analysis is conducted using two data sets:
+The National Land Cover Dataset 1992 (NLCD 92) and the Gap Analysis Program (GAP) data set, and a
+reclassification logic tree. A comparison of these data sets showed that they do not agree for approximately
+27% of the watershed. Moreover, an accuracy assessment of these two data sets indicated that neither had
+an overall accuracy as high as 80%. Using the relationships between land-surface characteristics and LULC,
+a reclassification of the watershed was conducted using a logical model. This model iteratively reclassified
+the uncertain pixels according to their surface characteristics. The model utilized normalized difference
+vegetation index (NDVI) measurements during April and July 2003, elevation, and slope. The
+reclassification yielded a revised LULC dataset that was substantially improved. The overall accuracy of
+the revised data set was nearly 93%. The study results suggest: (i) as models adopt finer grid spacings, the
+uncertainty in the LULC data will become significant; (ii) assimilating NDVI into the land-surface models
+can reduce the uncertainty due to LULC assignment; (iii) the standard LULC data sets must be used with
+caution when the focus is on local scale; and (iv) reclassification is a valuable means of improving the
+accuracy of LULC data sets prior to applying them to local issues or phenomena.

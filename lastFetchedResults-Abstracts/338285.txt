@@ -1,0 +1,11 @@
+Objective
+All-trans-retinoic acid (RA) is a potent inducer of differentiation of acute promyelocytic leukemia (APL) cells in vitro and in vivo. It also exhibits synergistic effects with interferons on the induction of differentiation and growth inhibition in vitro. Recent studies showed that interferons engage a signaling pathway involving the CBL proto-oncogene and the CrkL adapter, which mediates interferon-induced growth inhibitory signals. The objective of this study was to determine whether the CBL-CrkL pathway is activated by treatment of the NB-4 and HL-60 acute leukemia cell lines with RA.
+Materials and Methods
+
+The effects of RA treatment on CBL and CrkL phosphorylation, as well as on protein-protein interactions, were determined in studies involving immunoprecipitations of cell extracts with specific antibodies and Western blots. In addition, glutathione-S-transferase fusion proteins were used in binding studies to determine whether the SH2 domain of CrkL interacts with CBL in a RA-dependent manner and whether Rap1 is activated by RA.
+Results
+
+Treatment of NB-4 or HL-60 cells with RA resulted in strong tyrosine phosphorylation of CBL, which was time and dose dependent. Similarly, RA induced tyrosine phosphorylation of the CrkL adapter and the association of CrkL with CBL. The RA-dependent interaction of CrkL with CBL was mediated by binding of the SH2 domain of CrkL to tyrosine phosphorylated CBL, suggesting that CBL provides a docking site for engagement of CrkL in a RA-activated cellular pathway. The guanine exchange factor C3G was found to be associated with CrkL at similar levels before and after RA treatment, but Rap1 activation downstream of C3G was not inducible by RA.
+Conclusions
+
+These findings demonstrate that the CBL-CrkL pathway is one of the mediators of the effects of RA on APL cells and suggest that one of the mechanisms of synergy between RA and interferons may involve regulation of components of this signaling cascade.

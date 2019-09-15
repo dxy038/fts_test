@@ -1,0 +1,8 @@
+Objective
+luate the biaxial and short-beam uniaxial strength tests applied to resin composites based upon their Weibull parameters, fractographic features and stress distribution.
+s
+(15 mm × 1 mm) and beam-shaped specimens (10 mm × 2 mm × 1 mm) of three commercial composites (Concept/Vigodent, CA; Heliomolar/Ivoclar-Vivadent, HE; Z250/3M ESPE, FZ) were prepared. After 48 h dry storage at 37 °C, disks and beams were submitted to piston-on-three-balls (BI) and three-point bending (UNI) tests, respectively. Data were analyzed by Weibull statistics. Fractured surfaces were observed under stereomicroscope and scanning electron microscope. Maximum principal stress (σ1) distribution was determined by finite element analysis (FEA). Maximum σ1-BI and σ1-UNI were compared to FZ strengths calculated by applying the average failure loads to the analytical equations (σa-BI and σa-UNI).
+s
+, characteristic strengths were: 169.9a (FZ), 122.4b (CA) and 104.8c (HE), and for UNI were: 160.3a (FZ), 98.2b (CA) and 91.6b (HE). Weibull moduli (m) were similar within the same test. CA and HE presented statistically higher m for BI. Surface pores (BI) and edge flaws (UNI) were the most frequent fracture origins. σ1-BI was 14% lower than σa-BI. σ1-UNI was 43% higher than σa-UNI.
+icance
+ed to the short-beam uniaxial test, the biaxial test detected more differences among composites and displayed less data scattering for two of the tested materials. Also, biaxial strength was closer to the material's strength estimated by FEA.

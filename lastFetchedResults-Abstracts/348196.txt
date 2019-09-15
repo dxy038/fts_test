@@ -1,0 +1,11 @@
+Objective
+To explore and validate a novel stimulation and analysis paradigm proposed to monitor spatial distribution and temporal changes of the excitability state in patients with temporal lobe epilepsy (TLE).
+Methods
+We use intermittent pulse stimulation in the frequency range 10–20 Hz. A quantitative measure of spectral phase de-modulation, the relative phase clustering index (rPCI) was applied to the evoked EEG signals, measured from electrodes implanted in the hippocampal formation.
+Results
+We found that in the interictal periods, high values of rPCI recorded from specific sites were correlated with the most probable seizure onset sites (SOS). Furthermore we found that high values of rPCI from certain locations correlated with shorter time intervals to the next seizure.
+Conclusions
+Our clinical findings indicate that although the precise moment of ictal transitions is in general unpredictable, it may be possible to estimate the probability of occurrence of some epileptic seizures.
+Significance
+The use of the rPCI for probabilistic forecasting of upcoming epileptic seizures is warranted. rPCI measurements may be used to guide interventions with the aim of modifying local tissue excitability that ultimately might prevent ictal transitions.
+

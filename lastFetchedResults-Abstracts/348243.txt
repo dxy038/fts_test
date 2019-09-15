@@ -1,0 +1,11 @@
+Objective
+To show that cortical responses to conditioned stimuli (CS) include intermittently induced spatial patterns of amplitude modulation (AM) of beta-gamma oscillation called frames.
+Methods
+EEGs were recorded from 8×8 high-density arrays fixed on primary sensory cortices of rabbits trained to discriminate CS with reinforcement (CS+) from those without (CS−). EEG frames were located with a pragmatic information index, He. The spatial patterns of the first 3 frames on each of 37–40 trials were measured by the square of 64 analytic amplitudes from the Hilbert transform to give points in 64-space. The questions were asked: Did the frames from CS+ trials and CS− trials differ within each sequential group? Did the 3 frames differ from each other (form 3 clusters of points)?
+Results
+EEG frames that were identified by high He had AM patterns that could be classified with respect to CS+ and CS− well above chance levels. Two stages of correct frame classification occurred on each trial: 40–130 ms after CS onset with a gamma carrier frequency, and 450–550 ms with a beta carrier frequency. Peak power in the beta frames was double that in gamma frames, and mean pattern surface area of beta frames was nearly 4-fold greater.
+Conclusions
+Under the impact of a CS on a sensory neocortex, the background EEG activity reorganized in sequential frames of coordinated activity, first local and modality-specific, thereafter global.
+Significance
+The size, texture and duration of these AM patterns indicate that spatial patterns of human beta frames may be accessible with high-density scalp arrays for correlation with phenomenological reports by human subjects
+

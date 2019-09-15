@@ -1,0 +1,33 @@
+Background & objective: Industrialization has led not only to an increase in
+water demand, but also to an increase in water pollution due to the discharge
+of polluted industrial wastewaters with high salt content, and the organic compounds
+such as phenol into the water bodies.
+This study aimed to investigate the efficiency of electrocuagulation and electro-Fenton
+processes in phenol removal from saline wastewater using Taguchi
+exprimental design method.
+Material & methods: This experimental study was performed in a reactor (1
+liter) with synthetic phenolic saline wastewater. In this study for electrocoagulation
+process, the effects of five operation parameters on phenol removal effi-
+ciency including reaction time (20-80 min), electrolyte (1-4%), pH (3-5-7-9), initial
+phenol concentration (500-1000-1500-250 mg/L) and current density (4-16
+mA/cm2) were investigated in four levels by Taguchi L16 orthogonal array. Also
+for electro-Fenton process, the effects of six operation parameters on removal
+efficiency in five levels including reaction time (20-80 min), electrolyte (0-4%),
+pH (2-3-4-6-8), initial phenol concentration (250-500-1000-1500-2000), current
+density ( 0-16mA/cm2) and hydrogen peroxide (50-300mg/L) were evaluated
+by Taguchi L25 orthogonal array. The concentration of phenol was determined
+according to the estandard method in spectrophotometric wavelength of 500
+nm.
+Results: Experimental data showed that the optimum phenol elimination condition
+in electrocuagulation process was initial phenol concentration of 250
+mg/L, pH = 5, electrolyt = 3%, curent density of 8 mA/cm2 and reaction time of
+60 min. The most influential factor in removal efficiency was the initial concentration
+(63.2%), and the lowest effect belonged to the electrolyt (4.2%).
+The optimum phenol removal condition for electro-Fenton process was initial
+concentration of 250 mg/L, pH:3, electrolyt:2%, hydrogen peroxide:150 mg/L,
+current density of 8 mA/cm2 and 20 mine contact time. The most influential
+factor in elimination efficiency was the curent density (29.12%), and the lowest
+influence on response variable belonged to the reaction time (3.08%).
+Conclusion: This study showed the electro-Fenton process was effective in the
+removal of phenolthat can be used as an appropriate process in wastewater
+treatment

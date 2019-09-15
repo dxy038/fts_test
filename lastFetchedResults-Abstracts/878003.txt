@@ -1,0 +1,9 @@
+We introduce a symmetric dual pair for a class of nondifferentiable multi-objective fractional variational
+problems. Weak, strong, converse and self duality relations are established under certain invexity assumptions.
+The paper includes extensions of previous symmetric duality results for multi-objective fractional
+variational problems obtained by Kim, Lee and Schaible [D.S. Kim, W.J. Lee, S. Schaible, Symmetric duality
+for invex multiobjective fractional variational problems, J. Math. Anal. Appl. 289 (2004) 505–521]
+and symmetric duality results for the static case obtained by Yang,Wang and Deng [X.M. Yang, S.Y.Wang,
+X.T. Deng, Symmetric duality for a class of multiobjective fractional programming problems, J. Math.
+Anal. Appl. 274 (2002) 279–295] to the dynamic case.
+© 2006 Elsevier Inc. All rights reserved.

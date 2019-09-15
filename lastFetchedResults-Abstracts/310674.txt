@@ -1,0 +1,9 @@
+Objective. To determine which of four non-invasive measures is most accurate in locating the hip joint center.
+
+Background. The location of the joint centers must be accurately determined in three dimensions for calculation of the moments of force during gait. It is not known which of the several non-invasive methods available for location of the hip center is most accurate.
+
+Design. Hip center location was determined using standardized X-rays and four non-invasive methods which utilized measured distances between bony landmarks in 10 healthy subjects. Hip moments during gait were obtained from optical tracking, force plate and anthropometric data.
+
+Results. The most accurate non-invasive method of locating the hip center was by taking the midpoint of a line connecting the antero-superior iliac spine and the symphysis pubis and moving inferiorly 2 cm. Using this approach the hip center was located 0.7 cm medial and 0.8 cm superior to its true location determined using the standardized X-rays. The 95% confidence interval of the maximum error difference in moments measured between this method and the standardized X-rays ranged from −0.15 to 0.4 Nm/kg in the frontal plane, −0.03 to 0.07 Nm/kg in the sagittal plane and −0.05 to −0.03 Nm/kg in the transverse plane.
+
+Conclusions. Locating the hip center based on the distance between the antero-superior iliac spine and the symphysis pubis is a valid technique for estimating the hip center in routine gait analysis.

@@ -1,0 +1,1 @@
+We demonstrate 12-core fiber bidirectional long-haul transmission with sub-petabit-class capacity (2 &#215; 344 Tb/s). Inter-core crosstalk management and multicarrier nonlinear compensation enabled the longest distance of 1500 km in SDM transmission with unidirectional capacity over 300 Tb/s.

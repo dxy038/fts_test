@@ -1,0 +1,1 @@
+In order to further reduce the number of gating elements in space switches, the performance of 10 Gb/s wavelength division multiplexing (WDM) bidirectional semiconductor optical amplifier (SOA) gating is investigated, We demonstrate for the first time that a conventional SOA can be used for bidirectional WDM gating operation at 10 Gb/s by the use of holding light injection.

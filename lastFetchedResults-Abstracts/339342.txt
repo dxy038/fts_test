@@ -1,0 +1,11 @@
+Objective
+We recently identified in the mouse bone marrow a B-lymphoid/myeloid B220+CD11b+ progenitor population. This population is accumulated in the osteopetrotic oc/oc mouse, which suggests that it could be controlled by bone marrow factors whose expression varies in this pathologic bone environment. Among the possible factors, interleukin (IL)-7 is involved in the control of B lymphopoiesis and osteoclastogenesis. Therefore, we hypothesized that IL-7 could regulate the accumulation of the B220+CD11b+ population in oc/oc mice.
+Methods
+
+B220+CD11b+ cells sorted from oc/oc mice were treated with IL-7 and their phenotype was analyzed by flow cytometry and real-time reverse transcriptase polymerase chain reaction (RT-PCR). In vivo, IL-7 was injected in oc/oc mice, and B220+CD11b+ and B cells, as well as B-cell proliferation and apoptosis, were analyzed by flow cytometry. The expression of B lymphopoiesis and myelopoiesis markers was analyzed by real-time RT-PCR.
+Results
+
+In vitro, IL-7 induced the differentiation of B220+CD11b+ cells into B lymphocytes through the induction of Pax5 and the inhibition of myeloid markers. In vivo, IL-7 injections in oc/oc mice induced a decrease of the B220+CD11b+ population and the partial restoration of B-cell population, which was reduced in oc/oc mice. In parallel, upon IL-7 injections, Pax5 expression was induced in B220+ cells and B-cell apoptosis was reduced.
+Conclusions
+
+Our results demonstrate that IL-7 injection can partially rescue B lymphopoiesis in oc/oc mice through the engagement of the B220+CD11b+ population in the B-lymphoid pathway. Therefore, IL-7 delivery could represent a new therapeutic perspective to circumvent the lymphopenia observed in infantile malignant osteopetrosis patients.

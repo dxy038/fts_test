@@ -1,0 +1,20 @@
+Digital halftoning quantizes a graylevel image to one
+bit per pixel. Halftoning by error diffusion reduces local quantization
+error by filtering the quantization error in a feedback loop.
+In this paper, we linearize error diffusion algorithms by modeling
+the quantizer as a linear gain plus additive noise. We confirm the
+accuracy of the linear model in three independent ways. Using the
+linear model, we quantify the two primary effects of error diffusion:
+edge sharpening and noise shaping. For each effect, we develop
+an objective measure of its impact on the subjective quality
+of the halftone. Edge sharpening is proportional to the linear gain,
+and we give a formula to estimate the gain from a given error filter.
+In quantifying the noise, we modify the input image to compensate
+for the sharpening distortion and apply a perceptually weighted
+signal-to-noise ratio to the residual of the halftone and modified
+input image.We compute the correlation between the residual and
+the original image to show when the residual can be considered
+signal independent.We also compute a tonality measure similar to
+total harmonic distortion. We use the proposed measures for edge
+sharpening, noise shaping, and tonality to evaluate the quality of
+error diffusion algorithms.

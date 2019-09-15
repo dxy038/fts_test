@@ -1,0 +1,7 @@
+Objectives. The objective of this study was to simulate the elastic modulus and polymerization shrinkage of a light activated polymer matrix composite using a generalized method of cells (GMC) micromechanics model. Two hypotheses were tested: (1) the micromechanics model provides estimates of elastic modulus vs filler fraction with greater accuracy than the rule of mixtures, Hashin-Shtrikman and phenomenological models; (2) Micromechanics Analysis Code/Generalized Method of Cells accurately simulates experimental benchmarks of polymerization shrinkage strain.
+
+Methods. The study applied mathematical algorithms to a representative volume element of a model polymer composite to yield value estimates of the elastic modulus and contraction strain. Mechanical properties of the composite constituents were derived from thermomechanical and dynamic mechanical analysis of BisGMA and TEGDMA filled and unfilled resins. Data from the micromechanics model were compared to results of other analytical methods as well as experimental benchmarks.
+
+Results. Predictions of elastic modulus vs filler fraction from the micromechanics model provided greater accuracy than the rule of mixtures and the Hashin-Shtrikman models. Predictions of polymerization shrinkage strain were within 13% of experimental values.
+
+Significance. The elastic micromechanics model presented accurately predicted elastic modulus and polymerization shrinkage strain as a function of filler fraction, superior to other analytical methods.

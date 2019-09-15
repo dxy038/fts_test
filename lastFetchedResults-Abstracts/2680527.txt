@@ -1,0 +1,19 @@
+Background: In neutron interaction with matter and reduction of neutron energy
+due to multiple scatterings to the thermal energy range, increasing the probability of
+thermal neutron capture by neutron captures makes dose enhancement in the tumors
+loaded with these materials.
+Objective: The purpose of this study is to evaluate dose distribution in the
+presence of 10B, 157Gd and 33S neutron capturers and to determine the effect of these
+materials on dose enhancement rate for 252Cf brachytherapy source.
+Methods: Neutron-ray flux and energy spectra, neutron and gamma dose rates and
+dose enhancement factor (DEF) are determined in the absence and presence of 10B, 157Gd and 33S using Monte Carlo simulation.
+Results: The difference in the thermal neutron flux rate in the presence of 10B and 157Gd is significant, while the flux changes in the fast and epithermal energy ranges
+are insensible. The dose enhancement factor has increased with increasing distance
+from the source and reached its maximum amount equal to 258.3 and 476.1 cGy/h/µg
+for 157Gd and 10B, respectively at about 8 cm distance from the source center. DEF for 33S is equal to one.
+Conclusion: Results show that the magnitude of dose augmentation in tumors
+containing 10B and 157Gd in brachytherapy with 252Cf source will depend not only
+on the capture product dose level, but also on the tumor distance from the source.
+33S makes dose enhancement under specific conditions that these conditions depend
+on the neutron energy spectra of source, the 33S concentration in tumor and tumor
+distance from the source.

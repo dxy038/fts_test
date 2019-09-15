@@ -1,0 +1,11 @@
+Objective
+Heat shock protein 90 (HSP90) chaperones and maintains the molecular integrity of a variety of signal transduction proteins, including the nucleophosmin-anaplastic lymphoma kinase (NPM-ALK) oncogenic protein, a genetic abnormality that is frequently observed in anaplastic large cell lymphoma (ALCL) cells. Here we demonstrate that HSP90 is overexpressed in primary and cultured ALK-positive and ALK-negative ALCL cells, and we evaluate the potential role of the small molecule inhibitor of HSP90, 17-allylamino-17-demethoxygeldanamycin (17-AAG) in treating ALCL.
+Methods
+
+The antiproliferative effect of 17-AAG–cultured cells was determined by MTS assay. Apoptosis and cell-cycle arrest were determined by Annexin-V/propidium iodide and propidium iodide staining, respectively, and fluorescein-activated cell sorting analysis. Expression of HSP90 was evaluated by immunohistochemistry, and molecular changes were determined by Western blot.
+Results
+
+Treatment of cultured ALCL cells with 17-AAG induced cell-cycle arrest and apoptosis, irrespective of ALK expression. At the molecular level, 17-AAG induced degradation of ALK and Akt proteins, dephosphorylated extracellular signal-regulated kinase, and degraded the cell-cycle regulatory protein cyclin D1 and its cyclin-dependent kinases, CDK4 and CDK6, but had a differential effect on p27 and p53 proteins. Inhibition of extracellular signal-regulated kinase phosphorylation by the mitogen activated protein kinase inhibitor U0126 induced cell death in all ALCL cell lines, and sublethal concentration 17-AAG showed synergistic antiproliferative effects when combined with U0126 or doxorubicin.
+Conclusion
+
+Our data demonstrate that targeting HSP90 function by 17-AAG may offer a novel therapeutic strategy for ALCL, either as single-agent activity or by combining 17-AAG with conventional or targeted therapeutic schemes.

@@ -1,0 +1,9 @@
+This paper presents a multi-objective optimization model for the design of a waste
+management system consisting of customers, transfer stations, landfills and collection
+vehicles. The developed model aims to simultaneously minimize the total costs,
+greenhouse gas emissions and the rates of energy consumption. To tackle the multiple
+objectives in the problem, an interactive fuzzy programming solution approach is
+utilized. The model is capable of determining the location and allocation of transfer
+stations as well as the selection of the waste processing technologies. The proposed
+model is applied to a case problem where real data is used for long-term planning of
+solid waste of Tehran city. 

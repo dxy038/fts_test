@@ -1,0 +1,1 @@
+This paper presents a detailed comparison of the most significant methods developed to compute lower bounds on the structured singular value. The objective is to characterize the behavior of these robustness analysis tools on the basis of a common framework constituted by a wide set of various real-world applications.

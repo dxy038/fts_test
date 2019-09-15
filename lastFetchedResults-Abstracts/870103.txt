@@ -1,0 +1,4 @@
+In this paper we consider the problem of assigning transmission powers to the nodes of a wireless network in such a way that all the nodes are connected by bidirectional links and the total power consumption is minimized.
+Two mixed integer programming formulations are presented together with some new valid inequalities for the polytopes associated. A preprocessing technique and two exact algorithms based on the formulations previously introduced are also proposed.
+Comprehensive computational results, which show the effectiveness of the new valid inequalities and of the preprocessing technique are presented. The experiments also show that the exact approaches we propose outperform more complex methods recently appeared in the literature.
+

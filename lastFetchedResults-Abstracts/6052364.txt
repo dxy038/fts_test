@@ -1,0 +1,1 @@
+We demonstrate full system throughput of a novel bidirectional optical amplified GE-PON employing a burst-mode 1.31 um SOA and a high linear-power 1.49 um SOA. An Extended system budget of 46 dB supporting 64 far-end user ONUs was successfully achieved.

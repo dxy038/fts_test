@@ -1,0 +1,1 @@
+The objective of the study is to introduce a decentralized control approach to multirate linear systems. Each control channel is assigned a single sample rate, which provides simplicity in design of local controllers. This control strategy is natural for plants with widely different characteristic frequencies, and it is suitable for implementation using multiprocessor schemes

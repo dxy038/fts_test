@@ -1,0 +1,19 @@
+OBJECTIVES
+
+To test the feasibility of objective and automated evaluation of echocardiographic stress tests, we studied the ability of segmental analysis of color kinesis (CK) images to detect dobutamine-induced wall motion abnormalities and compared this technique with inexperienced reviewers of conventional gray-scale images.
+
+BACKGROUND
+
+Conventional interpretation of stress echocardiographic studies is subjective and experience dependent.
+
+METHODS
+
+CK images were obtained in 89 of 104 consecutive patients undergoing clinical dobutamine stress studies and were analyzed using custom software to calculate regional fractional are change in 22 segments in four standard views. Each patient’s dat obtained at rest was used as  control for automated detection of dobutamine-induced wall motion abnormalities. Independently, studies were reviewed without CK overlays by two inexperienced readers who classified each segment’s response to dobutamine.  consensus reading of two experienced reviewers was used as the gold standard for comparisons. In  subgroup of 16 patients, these consensus readings and CK detection of wall motion abnormalities were compared with coronary angiography.
+
+RESULTS
+
+The consensus reading detected ischemic response to dobutamine in 43 of 1958 segments in 23 of 89 patients. Automated detection of stress-induced wall motion abnormalities correlated more closely with the standard technique than the inexperienced reviewers (sensitivity 0.76 vs. 0.55, specificity 0.98 vs. 0.94 and accuracy 0.97 vs. 0.92). When compared with coronary angiography in  subgroup of patients, analysis of CK images differentiated between normal and abnormal wall motion more accurately than expert readers of gray-scale images (accuracy of 0.93 vs. 0.82).
+
+CONCLUSIONS
+
+Analysis of CK images allows fast, objective and automated evaluation of regional wall motion, sensitive enough for clinical dobutamine stress dat and more accurate than inexperienced readers. This method may result in  valuable adjunct to conventional visual interpretation of dobutamine stress echocardiography.

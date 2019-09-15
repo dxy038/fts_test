@@ -1,0 +1,15 @@
+This paper is concerned with the incorporation of displacement discontinuities into a continuum theory
+of elastoplasticity for the modelling of localization processes such as cracking in brittle materials.
+Based on the strong discontinuity approach (SDA) (Computational Mechanics 1993; 12:277–296)
+mesh objective 2D and 3D  nite element formulations are developed using linear and quadratic 2D
+elements as well as 8-noded 3D elements. In the formulation of the  nite-element model proposed in
+the paper, the analogy with standard formulations is emphasized. The parameter de ning the amplitude
+of the displacement jump within the  nite element is condensed out at the material level without
+employing the standard static condensation technique. This approach results in linearized constitutive
+equations formally identical to continuum models. Therefore, the standard return mapping algorithm
+is used to solve the non-linear equations. In analogy to concepts used in continuum smeared crack
+models, a rotating formulation of the SDA is proposed in addition to the standard concept of  xed
+discontinuities. It is shown, that the rotating localization approach reduces locking e ects observed in
+analyses based on  xed localization directions. The applicability of the proposed SDA  nite-element
+model as well as its numerical performance is investigated by means of a three-dimensional ultimate
+load analysis of a steel anchor embedded in a concrete block subjected to a shear force

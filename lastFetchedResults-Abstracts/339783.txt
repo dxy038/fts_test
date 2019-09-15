@@ -1,0 +1,11 @@
+Objective
+Transplantation of hematopoietic stem cells (HSCs) is usually accomplished through intravenous injection, a complex process that requires recognition of bone marrow vasculature and migration to a supportive microenvironment. Hence, some populations of HSCs, including cord blood (CB) Lin−CD34− stem cells, do not engraft well in bone marrow (BM) of nonobese diabetic/severe combined immunodeficient (NOD/SCID) mice. In this study, we examined the effect of human stromal interactions on the properties of CB Lin−CD34− cells.
+Materials and Methods
+
+CD34 and CXCR4 expression on fresh CB Lin−CD34− cells and CB Lin−CD34− cells cocultured with human stromal cells were analyzed. Homing activity and engraftment of these cells were assessed using NOD/SCID mice. In an attempt to identify the stromal CXCR4-inducing factor, CB Lin−CD34− cells were cocultured with a noncontact culture system in the presence of several inhibitors.
+Result
+
+Coculture with human stromal cells induced expression of CD34 and CXCR4 on CB Lin−CD34− cells. CXCR4 expression on CB Lin−CD34− cells was induced even in the noncontact culture condition, suggesting that this CXCR4-inducing factor is soluble. Moreover, CXCR4 induction was inhibited by the soluble Wnt inhibitor DKK1. Furthermore, these cells acquired homing activity and engrafted in the BM of NOD/SCID mice after intravenous injection.
+Conclusion
+
+These findings may be useful for understanding the role of stromal cells in homing and engraftment of HSCs.

@@ -1,0 +1,11 @@
+Objective
+To examine the exact timing of selective response activation in a manual color-word Stroop task.
+Methods
+Healthy individuals performed two versions of a manual color-word Stroop task, varying in the probability of incongruent color-words, while EEG was recorded.
+Results
+Stroop interference effect was manifested as longer reaction times for incongruent relative to congruent color-words, and was larger in a task version where incongruent color-words were presented less frequently. Whereas the congruence between color display and word meaning did not affect average stimulus- and response-locked lateralized readiness potential (LRP) onset latencies nor response-locked LRP amplitudes, P3 peak latencies were longer and stimulus-locked LRPs were smaller for incongruent than congruent trials.
+Conclusions
+These data are consistent with the idea that behavioral Stroop interference reflects delays in processing stages preceding color-based selective response activation in a subset of trials. They also do not exclude additional delays after color-based selective response activation, at least up until some 200 ms before the overt response.
+Significance
+This chronometric analysis allows for a parcellation of the Stroop interference process that may be applied in psychopathology
+

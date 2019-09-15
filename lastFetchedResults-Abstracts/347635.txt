@@ -1,0 +1,7 @@
+Background: The transcranial magnetic stimulation (TMS)-induced contralateral silent period (CSP) refers to a period of interruption of voluntary muscle activity measured in tonically active muscles. The length of the CSP is generally interpreted to reflect cortical inhibition. The determination of the return of voluntary motor activity is typically accomplished via visual inspection of the electromyography (EMG) waveform and may be subject to inaccuracy on the part of the rater.
+Objective: To present and evaluate an automated method (AM) to determine the CSP.
+Methods: The CSP of 11 healthy controls was recorded using stimulus intensities 20 and 50% above the resting motor threshold (RMT). The mean CSP duration obtained by the two raters using visual inspection and our automated approach were compared.
+Results: The interclass correlation coefficient (ICC) between the two raters and the AM was 0.99 at 150% of RMT and was 0.97 at 120% of RMT. The level of pre-stimulus EMG amplitude and sampling rate did not affect agreement between the AM and more conventional visually guided methods.
+Conclusions: Our study demonstrates that this AM is a simple, objective and reliable approach for CSP determination.
+Significance: The CSP is an important neurophysiological measure of cortical inhibition and its determination by our AM provides a more objective and automated approach compared to visually guided methods.
+

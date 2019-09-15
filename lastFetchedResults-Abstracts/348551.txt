@@ -1,0 +1,11 @@
+Objective
+To determine the relationship between the H-reflex (H/M ratio) and continuous intrathecal baclofen (CITB) dose after pump implantation for control of spastic hypertonia.
+Methods
+Soleus H-reflexes were serially recorded in 34 subjects (19 men, mean age 32 years, mean follow-up 1.7 years) during simple continuous mode of CITB delivery. Different fitting methods were explored to determine which function best described changes in H/M ratio with increasing CITB dose. We then calculated effective CITB doses yielding H/M ratios equal to 75, 50, and 25% (ED75, ED50, ED25) of the baseline recorded before the implant in 22 subjects.
+Results
+We found a significant dose–response relationship between the soleus H/M ratio and CITB dose. A two-decay exponential function was the best fit on each side for pooled data, but a general linear model when controlling for subject. The mean ED75, ED50, ED25 were 30, 70, and 110 mcg/day. Logistical regression predicted with high probability that the H/M ratio should be less than 30% at CITB doses above 150 mcg/day.
+Conclusions
+H/M ratio is strongly dependent on CITB dose. It sharply decreases up to 150 mcg/day of CITB followed by a plateau.
+Significance
+Establishing the relationship between the H/M ratio and CITB dose may be useful for dose titration and early identification of an ITB system malfunction.
+

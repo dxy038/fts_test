@@ -1,0 +1,7 @@
+Background. To estimate the effect size of tuberculosis preventive therapy (PT) on the public health problem of tuberculosis in contemporary sub-Saharan Africa.
+
+Methods. A compartmental flow model that considers high levels of tuberculosis and human immunodeficiency virus (HIV) infection in contemporary sub-Saharan Africa was used to assess the impact of PT on the prevalence of tuberculosis and tuberculosis-associated mortality.
+
+Results. Model implementation shows that giving PT to 25% of HIV-positive individuals with latent tuberculosis infection (LTBI) leads to a 3.9% reduction in the prevalence of tuberculosis in 10 years and a 5.1% reduction in 20 years. This intervention also prevents a cumulative total of 3.0% of tuberculosis-associated deaths in a decade and 5.5% in two decades. Doubling PT coverage to 50% approximately doubles the effect size, suggesting a linear relationship within the 20-year period. The effect size is slightly sensitive to changes in level of HIV transmission, level of tuberculosis transmission, and level of case detection and treatment cure rates in the population.
+
+Conclusions. Contrary to suggestions by previous authors that PT can significantly reduce the public health problem of tuberculosis in sub-Saharan Africa, this model-based analysis suggests that the impact of PT on tuberculosis in the population is likely to be small.

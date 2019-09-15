@@ -1,0 +1,1 @@
+The use of information flow models to conduct efficient fault isolation strategies is described. Of particular concern is optimizing diagnosis to minimize some objective cost function. A technique that can include multiple cost criteria such as test time, skill level, and failure frequency, as well as information value, is discussed.&lt;<etx>&gt;</etx>

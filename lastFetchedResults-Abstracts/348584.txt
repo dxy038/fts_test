@@ -1,0 +1,11 @@
+Objective
+Gelastic seizures are a frequent and well established manifestation of the epilepsy associated with hypothalamic hamartomas. The scalp EEG recordings very seldom demonstrate clear spike activity and the information about the ictal epilepsy dynamics is limited. In this work, we try to isolate epileptic rhythms in gelastic seizures and study their generators.
+Methods
+We extracted rhythmic activity from EEG scalp recordings of gelastic seizures using decomposition in independent components (ICA) in three patients, two with hypothalamic hamartomas and one with no hypothalamic lesion. Time analysis of these rhythms and inverse source analysis was done to recover their foci of origin and temporal dynamics.
+Results
+In the two patients with hypothalamic hamartomas consistent ictal delta (2–3 Hz) rhythms were present, with subcortical generators in both and a superficial one in a single patient. The latter pattern was observed in the patient with no hypothalamic hamartoma visible in MRI. The deep generators activated earlier than the superficial ones, suggesting a consistent sub-cortical origin of the rhythmical activity.
+Conclusions
+Our data is compatible with early and brief epileptic generators in deep sub-cortical regions and more superficial ones activating later.
+Significance
+Gelastic seizures express rhythms on scalp EEG compatible with epileptic activity originating in sub-cortical generators and secondarily involving cortical ones.
+

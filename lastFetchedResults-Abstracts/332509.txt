@@ -1,0 +1,11 @@
+Objective
+To evaluate the likelihood of caries increment in schoolchildren, based on their prior caries experience.
+Material and methods
+
+We undertook a longitudinal study in 452 six-to-nine year olds between 1999 and 2001 in Mexico, with dental exams conducted by two standardized examiners (kappa > 0.85). The dependent variable was the DMFT increment, dichotomized as without increment, and at least one unit of increment. Independent variables estimated caries experience at baseline. Data were analyzed using non-parametric tests and generalized linear models (log-binomial) to calculate relative risk (RR) adjusted for age and sex.
+Results
+
+The percentage of caries-free children diminished by 20.5% from 1999 to 2001. DMFT index increased two-fold, from 0.25 ± 0.70 in 1999 to 0.77 ± 1.30 in 2001 (p < 0.001). The overall risk for this sample was 24%. The DMFT increment was higher (p < 0.001) in children with DMFT > 0 and dmft > 0 in 1999 (RR = 1.89, 95% CI = 1.37–2.62; RR = 2.71, 95% CI = 1.94–3.76, respectively). The likelihood for DMFT increment from the 1999 levels was: (1) 2.78 times higher (95% CI = 2.06–3.76) if schoolchildren had caries in any of the first permanent molars and (2) 1.62 times higher (95% CI = 1.20–2.19) if schoolchildren were affected by high severity caries at baseline.
+Conclusions
+
+Both caries prevalence and mean DMFT had significant increments in 18 months. Dental caries in the primary (dmft) and permanent (DMFT) dentitions at baseline are goods indicators of subsequent caries development in this group of children in a medium income country. This relationship became stronger when the occurrence of caries in the first permanent molars was included.

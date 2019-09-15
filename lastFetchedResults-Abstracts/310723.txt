@@ -1,0 +1,11 @@
+Objective. The purpose of this study was to develop a computer model for identifying muscles critical to improving functional upper extremity strength.
+
+Design. A three-dimensional biomechanical model of the upper extremity was developed, and the predictions were compared to maximal arm strength data collected from healthy volunteers.
+
+Background. Although several optimization-based mathematical models of the shoulder have been developed, none have utilized the mathematical properties of the Karush–Kuhn–Tucker multipliers to efficiently estimate the effect of strengthening individual muscles on functional strength of the whole arm.
+
+Methods. A static three-dimensional biomechanical model of the glenohumeral, radio-humeral, ulno-humeral and wrist joints was developed for predicting maximal hand exertion forces. The model was formulated as a linear program. Constraints consisted of moment equilibrium conditions and limits on maximum and minimum allowable muscle forces. Predicted arm strengths were compared to maximal pull strength measurements made on 10 subjects (5 male; 5 female). The task involved pulling toward the mid-sagittal plane of the body with the arm flexed 45 degrees. The Karush–Kuhn–Tucker variables associated with the maximal limits on muscle force were computed to estimate the effect of altering the strength of individual muscles on functional arm strength.
+
+Results. Maximum pull strengths were predicted well by the model. Karush–Kuhn–Tucker values ranged from 0 (for muscles not at their upper force limits) to 0.11 for the flexor carpi radialis and pectoralis major muscles. Karush–Kuhn–Tucker multipliers were found to be insensitive to the assumed specific tension of muscle.
+
+Conclusions. Upper extremity strength can be predicted from musculoskeletal geometry and physiology using linear programming.

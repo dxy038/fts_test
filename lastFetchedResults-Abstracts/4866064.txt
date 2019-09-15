@@ -1,0 +1,1 @@
+This paper describes the narrow band characterization of a BAN channel around 2.4 GHz. A statistical modelling of the channel is made in an indoor environment for various scenarii. The objective of this work is to propose a valid channel modelling for on-body communications including a reliable experimental procedure and the appropriate data processing.

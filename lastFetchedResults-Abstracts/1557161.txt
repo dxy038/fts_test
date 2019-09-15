@@ -1,0 +1,1 @@
+In this paper, we propose a modified BFGS (Broyden–Fletcher–Goldfarb–Shanno) method with nonmonotone line search for unconstrained optimization. Under some mild conditions, we show that the method is globally convergent without a convexity assumption on the objective function. We also report some preliminary numerical results to show the efficiency of the proposed method.

@@ -1,0 +1,9 @@
+The present communication is concerned with the control and/or optimization of a two-phase isotropic composite
+under time-dependent thermomechanical loadings. A control-like problem and a structural optimization problem are
+formulated using a common framework. In both cases the material properties are used as primary design variables and
+no a priori assumptions are made regarding the spatial distribution of each phase. For optimal control problems, the
+objective is to minimize the difference between field variables and target fields and for structural optimization problems
+the objective is to minimize the product of conjugate thermodynamical variables. Within this context, it is shown that
+for the minimum structural compliance problem, the optimal distribution of material properties depends on the loading
+history, even though the deformations are elastic. For a simplified thermal barrier design, it is shown that the problem
+requires simultaneous control of stresses and thermal energy via a multi-objective formulation

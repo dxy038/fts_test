@@ -1,0 +1,1 @@
+Accurate analytical formulas for the self and mutual inductance of rectangular wires, that only require basic arithmetic expressions, are presented. The main objective of these formulas is their use as user defined parameterised expressions in Spice and similar applications, offering a convenient way to simulate and optimise the inductive behaviour of on-chip metal wires.

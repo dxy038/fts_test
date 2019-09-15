@@ -1,0 +1,11 @@
+Objective
+Selected chemokines suppress proliferation of hematopoietic progenitor cells (HPCs) in vitro; some of these have demonstrated inhibition of myelopoiesis in vivo. Because myelosuppressive chemokines synergize in vitro with other myelosuppressive chemokines, we sought to determine whether additional chemokines active in vitro were myelosuppressive in vivo and whether combinations of myelosuppressive chemokines synergized in vivo to dampen myelopoiesis. We also evaluated three chemokines in vivo for myeloprotection against Ara-C-induced decreases in HPCs.
+Methods
+
+C3H/HeJ mice were used for analysis of in vivo influence of chemokines, with the end points being effects on absolute numbers and cycling status of HPCs.
+Results
+
+When used alone, CCL2, CCL3, CCL19, CCL20, CXCL4, CXCL5, CXCL8, CXCL9, and XCL1 caused dose-dependent significant decreases in absolute numbers and cycling status of HPCs in vivo. The following combinations of two chemokines resulted in in vivo myelosuppression at concentrations much lower than that induced by each chemokine alone: CCL3 plus either CXCL8 or CXCL4, CXCL8 plus CXCL4, CCL2 plus either CCL20 or CXCL9, CCL20 plus CXCL9, CXCL5 plus either XCL1 or CCL19, XCL1 plus CCL19, and CCL3 plus CCL19. Also, mice injected with CXCL8, CXCL4, or the chimeric CXCL8/CXCL4 protein CXCL8M1 manifested accelerated recovery of absolute numbers of HPCs in response to the toxic effects of Ara-C administration.
+Conclusions
+
+A number of chemokines shown previously to manifest inhibitory effects in vitro for proliferation of HPCs are now demonstrated to also induce myelosuppression in vivo. Moreover, combinations of low dosages of two myelosuppressive chemokines when administered together demonstrate synergistic suppression in vivo. Additionally, chemokines, including a CXCL8M1 chimeric protein previously shown to manifest enhanced suppression of HPC proliferation in vitro and in vivo, accelerate HPC recovery after treatment of mice with Ara-C. These results may be of use for future clinical utility of chemokines in a myelosuppressive/myeloprotective setting.

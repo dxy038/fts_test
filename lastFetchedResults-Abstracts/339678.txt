@@ -1,0 +1,11 @@
+Objective
+NF-E2 is a prime regulator of megakaryocyte (MK) terminal differentiation and platelet release. By overexpressing the p45 subunit of NF-E2, we aim to increase the proportion of mature MKs and the potential for platelet production in vitro and in vivo.
+Methods
+
+Retroviral vectors expressing p45-NF-E2 together with the enhanced green fluorescent protein (eGFP) were used to transduce murine bone marrow cells (BMCs). Aspects of MK differentiation, proliferation, proplatelet, and platelet production were evaluated.
+Results
+
+Compared to controls, a higher proportion of BMCs overexpressing p45-NF-E2 were found to express the MK markers CD41, CD42a, and CD42b, with some effect on cell proliferation. Early MK differentiation, characterized by colony-forming unit (CFU)-MK formation, was enhanced by p45-NF-E2 overexpression at the expense of CFU-granulocyte macrophage development. An increased number of acetylcholinesterase+ MKs was also observed in NF-E2++ cultures. Although endomitosis was found not to be affected, the resultant upregulation of NF-E2 target genes was also followed by significant increases in proplatelet and functional platelet production. Transplantation of enriched MK progenitor cells overexpressing p45-NF-E2 into lethally irradiated mice resulted in a threefold increase in eGFP+/NF-E2++ platelet production in vivo over 10 days, although no appreciable expansion in their number was observed over 32 days.
+Conclusion
+
+These results suggest that enforced expression of p45-NF-E2 selectively enhances many aspects of MK differentiation, including MK maturation, proplatelet formation, and platelet release. In addition, p45 overexpression increases MK commitment during early megakaryopoiesis, while inhibiting white blood cell differentiation.

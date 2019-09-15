@@ -1,0 +1,7 @@
+Echography is a useful tool to diagnose a thrombosis; however, since it is difficult to learn to perform this procedure, the objective of this work is to create a simulation to allow students to practice in a virtual environment.
+
+Firstly, a physical model of the thigh was constructed based on experimental data obtained using a force sensor mounted on a robotic arm. We present a spring damper model consisting of both linear and non-linear elements. The parameters of each of these elements are then fitted to the experimental data using an optimization technique. By employing an implicit integration to solve the dynamics of the system we obtain a stable physical simulation at over 100 Hz.
+
+Secondly, a haptic interface was added to interact with the simulation. Using a PHANToM force-feedback device may touch and deform the thigh in real-time. In order to allow a realistic sensation of the contact we employ a local modeling technique allowing to approximate the forces at much higher frequency using a multi-threaded architecture.
+
+Finally, we present the basis for a fast echographic image generation depending on the position and orientation of the virtual probe as well as the force applied to it

@@ -1,0 +1,21 @@
+Co2 Emission Growth, Energy Consumption Growth and GDP Growth Reviewing the Casual Relationship using Dynamic Panel Estimation (DPE)
+Ali Akbar Nikuegbal
+Assistant Professor of Faculty of Economics, University of Tehran, Nikueghbal@yahoo.com
+Azadeh Akhtari * 
+M.A  student, Faculty of Economics, University of Tehran, azadeh_akhtary@yahoo.com
+Mahbobe Amini Esfidvajani
+M.A  student, Faculty of Economics, University of Tehran,   Amini_mbh@yahoo.com
+Maryam Attar Kashani
+M.A  student, Faculty of Economics, University of Tehran,    Kashani313@yahoo.com
+Received: 2011/12/19    Accepted: 2012/05/10
+
+ Abstract
+The interrelationship amongst energy consumption , economic growth and pollution is an important consideration to be studied for arriving at the objective of reaching growth goals while preserving the environment.
+The current paper aims to define the long run dynamic causal relationship between energy consumption, economic growth and carbon dioxide emission (Co2) using the DPE approach and GMM-SYS techniques. 
+The paper uses data collected from 46 countries for the period 1975 to 2004. Since the bidirectional causal relationship varies between developed and developing countries, the data are divided into three categories: lower middle income (ML), upper middle income (MH) and high income (H). 
+The estimated results demonstrate that there is a causal relationship between energy consumption and economic growth for all the countries in the sample. 
+The results however, indicate that while there is a positive causal Relationship from economic growth to carbon dioxide emission (Co2) in the ML, the relationship becomes negative for the MH & H groups. This finding can be seen as confirming existence of the Environmental Kuznets curve, through the decreasing trend of co2 emission intensity as incomes increase. 
+However, the existence of the Environmental Kuznets curve is not confirmed when we use DOLS technique to review data for all countries. We are rather confronted with an N curve relationship in this case. 
+JEL Classification: Q3, O5, C3
+Key words: Granger causality relationship, Environmental Kuznets curve, energy intensity
+

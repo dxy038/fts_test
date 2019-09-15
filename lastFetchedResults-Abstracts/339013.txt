@@ -1,0 +1,11 @@
+Objective
+The production of blood cells in vivo, both normal and tumoral, displays oscillatory dynamics. Many cells in long-term cultures also show large amplitude oscillations of proliferative rate. Therefore we examined the proliferation dynamics of mouse bone marrow cells (MBM) and their clonogenic progenitor production (BMP), in order to characterize these dynamics.
+Methods
+
+Five Dexter-type cultures of MBM cells and their clonogenic BMP production were examined for up to seven-months periods of time. The recorded time series exhibited a complex pattern of oscillations with variable amplitudes. We previously reported a method that allowed analysis of such nonlinear dynamics of hepatoma cell proliferation. We applied this method, based on the two-dimensional recurrent representation of data, to analyze the fluctuations of bone marrow cells proliferation.
+Results
+
+The proliferation rate of mouse bone marrow cells shows large amplitude oscillations every 2 to 3 weeks. Mathematical analysis revealed a deterministic mechanism that controls all proliferation local maxima of MBM cells. Dynamics for progenitor production resembled that of parental cells. This reflects a predominant negative feedback on bone marrow cell proliferation.
+Conclusion
+
+These dynamics were opposite of that previously described for hepatoma cells where the dominant control is applied to the local minima (troughs of proliferation). Therefore, the complex system of cell proliferation is controlled by a bipolar mechanism, with a predominant dampening command depending on the cell type. We propose that the dominant dampening control of local maxima in bone marrow cells protects the stock of stem cells.

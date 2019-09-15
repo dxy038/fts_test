@@ -1,0 +1,17 @@
+Background: Hadron therapy is a novel technique of cancer radiation therapy
+which employs charged particles beams, 1H and light ions in particular. Due to their
+physical and radiobiological properties, they allow one to obtain a more conformal
+treatment, sparing better the healthy tissues located in proximity of the tumor and allowing a higher control of the disease.
+Objective: As it is well known, these light particles can interact with nuclei in the
+tissue, and produce the different secondary particles such as neutron and photon. These
+particles can damage specially the critical organs behind of thyroid gland.
+Methods: In this research, we simulated neck geometry by MCNPX code and calculated the light particles dose at distance of 2.14 cm in thyroid gland, for different
+particles beam: 1H, 2H, 3He, and 4He. Thyroid treatment is important because the spine
+and vertebrae is situated right behind to the thyroid gland on the posterior side.
+Results: The results show that 2H has the most total ?ux for photon and neutron,
+1.944E-3 and 1.7666E-2, respectively. Whereas 1H and 3He have best conditions,
+8.88609E-4 and 1.35431E-3 for photon, 4.90506E-4 and 4.34057E-3 for neutron, respectively. The same calculation has obtained for energy depositions for these particles.
+Conclusion: In this research, we investigated that which of these light particles
+can deliver the maximum dose to the normal tissues and the minimum dose to the
+tumor. By comparing these results for the mentioned light particles, we fnd out 1H and
+3He is the best therapy choices for thyroid glands whereas 2H is the worst.

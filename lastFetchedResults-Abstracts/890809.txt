@@ -1,0 +1,18 @@
+The Asymmetric Effects of Fluctuations in the Value of U.S. Dollar and Euro on Output and Price Level in Iran: A Markov Switching Approach
+
+Firouz Fallahi 
+Parviz Mohamadzadeh 
+Ali Rezazadeh 
+Siavash Mohammadpoor 
+Mohammad Hossein Shararkhah 
+
+Received: 25 Apr 2011
+Accepted: 12 Apr 2012 
+
+
+The main objective of this paper is to investigate the asymmetric effects of the parity rate shocks in U.S. Dollar and Euro against Iranian Rial on the output and price in Iran during 2000:3-2007:3 period. For this purpose, the fluctuations of U.S. Dollar and Euro value against Iranian Rial have been defined as the difference between actual real exchange rate and fitted values of real exchange rate estimated by using a Markov Switching approach. Using Johansen’s co-integration test, the existence of long-run relationship between the variables of the model has been examined and both of the Lambda Max and Lambda Trace statistics confirmed that there is at least one co-integration vector between variables of the two main models of this study. Finally, asymmetric effects of U.S. Dollar and Euro shocks during positive and negative shocks on output and price level has been tested using LR test.  
+The results show that positive and negative shocks of U.S. Dollar have an asymmetric effect on output and price level. The results also show that the fluctuations in the value of Euro against Iranian Rial have an asymmetric effect on price level and a symmetric effect on output.
+
+JEL Classification: F31, E23, E31.
+Keywords: Iran, Output, Price, U.S. Dollar, Euro, Markov Switching Approach.
+

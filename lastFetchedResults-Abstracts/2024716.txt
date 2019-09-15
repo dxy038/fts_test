@@ -1,0 +1,19 @@
+Abstract - In wireless sensor networks, the main objective
+function is the energy consumption and the constraints are
+the packet reliability and delay. To reach a maximum
+efficiency, cross-layer interaction is a major design paradigm
+to exploit the complex interaction among the layers of the
+protocol stack. In this paper, the combination of novel
+protocol Breath and HMAC are proposed for control
+applications. The MAC layer emulates a full-duplex logical
+communication channel in a multi-point network. This
+channel may provide unicast, multicast or broadcast
+communication service. Breath is designed for WSNs where
+nodes attached to plants must transmit information via
+multihop routing to a sink. HMAC ensures a desired packet
+delivery and delay probabilities while minimizing the energy
+consumption of the network. HMAC exhibits a good
+distribution of the working load, thus ensuring a long lifetime
+of the network. Therefore, Breath and HMAC are the good
+candidate for efficient, reliable, and timely data gathering for
+control applications.

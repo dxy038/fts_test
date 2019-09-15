@@ -1,0 +1,1 @@
+This work demonstrates an efficient and simple PML absorbing boundary conditions (ABCs) implementation for the highorder extended-stencil M24 FDTD algorithm. To accomplish this objective, the integral forms of the PML split-field formulations were derived

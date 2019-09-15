@@ -1,0 +1,14 @@
+Recent advances in the power system handling capabilities of static switches have made
+the use of the voltage source inverter (VSI) feasible at both transmission and distribution
+levels. This paper is focused on comparison between optimal control strategies applied to
+a system with unified power flow controller, shunt converter and series converter. The
+control strategies were tested using a power system distribution model. The presented
+results show that when the system is with one converter, there will be only two control
+inputs in the system, making it possible to track only two outputs in the system. If the
+objective is to maintain capacitor voltage constant, it is possible to track one output of
+the system for the capacitor voltage to be maintained constant. When the system is with
+two converters, then there will be four control inputs in system, and so it is possible to
+track four outputs in the system. The series converter can eliminate the voltage flicker that
+exists in the same branch the series converter is located in, while the shunt converter can
+eliminate the current harmonics. The UPFC can remove both the current harmonics and
+voltage flicker from the system.

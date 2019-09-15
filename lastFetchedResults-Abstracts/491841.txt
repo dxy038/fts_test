@@ -1,0 +1,16 @@
+Problem solving methods (PSMs) are software components that represent and encode reusable algorithms. They can be
+combined with representations of domain knowledge to produce intelligent application systems. A goal of research on
+PSMs is to provide principled methods and tools for composing and reusing algorithms in knowledge-based systems.
+The ultimate objective is to produce libraries of methods that can be easily adapted for use in these systems. Despite the
+intuitive appeal of PSMs as conceptual building blocks, in practice, these goals are largely unmet. There are no widely
+available tools for building applications using PSMs and no public libraries of PSMs available for reuse. This paper
+analyzes some of the reasons for the lack of widespread adoptions of PSM techniques and illustrate our analysis by describing
+our experiences developing a complex, high-throughput software system based on PSM principles. We conclude
+that many fundamental principles in PSM research are useful for building knowledge-based systems. In particular, the
+task–method decomposition process, which provides a means for structuring knowledge-based tasks, is a powerful abstraction
+for building systems of analytic methods. However, despite the power of PSMs in the conceptual modeling of knowledge-
+based systems, software engineering challenges have been seriously underestimated. The complexity of integrating
+control knowledge modeled by developers using PSMs with the domain knowledge that they model using ontologies
+creates a barrier to widespread use of PSM-based systems. Nevertheless, the surge of recent interest in ontologies has
+led to the production of comprehensive domain ontologies and of robust ontology-authoring tools. These developments
+present new opportunities to leverage the PSM approach.

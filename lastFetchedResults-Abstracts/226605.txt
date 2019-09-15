@@ -1,0 +1,8 @@
+This paper presents a new approach to 3D shape metamorphosis. We express the interpolation of two shapes as a process
+where one shape deforms to maximize its similarity with another shape. The process incrementally optimizes an objective function
+while deforming an implicit surface model. We represent the deformable surface as a level set (iso-surface) of a densely sampled
+scalar function of three dimensions. Such level-set models have been shown to mimic conventional parametric deformable surface
+models by encoding surface movements as changes in the grayscale values of a volume data set. Thus, a well-founded mathematical
+structure leads to a set of procedures that describes how voxel values can be manipulated to create deformations that are represented
+as a sequence of volumes. The result is a 3D morphing method that offers several advantages over previous methods, including
+minimal need for user input, no model parameterization, flexible topology, and subvoxel accuracy.

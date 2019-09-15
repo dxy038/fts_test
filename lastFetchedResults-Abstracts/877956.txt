@@ -1,0 +1,9 @@
+We apply the techniques of Lie’s symmetry analysis to a caricature of the simplified multistrain model
+of Castillo-Chavez and Feng [C. Castillo-Chavez, Z. Feng, To treat or not to treat: The case of tuberculosis,
+J. Math. Biol. 35 (1997) 629–656] for the transmission of tuberculosis and the coupled two-stream vectorbased
+model of Feng and Velasco-Hernández [Z. Feng, J.X. Velasco-Hernández, Competitive exclusion in
+a vector-host model for the dengue fever, J. Math. Biol. 35 (1997) 523–544] to identify the combinations of
+parameters which lead to the existence of nontrivial symmetries. In particular we identify those combinations
+which lead to the possibility of the linearization of the system and provide the corresponding solutions.
+Many instances of additional symmetry are analyzed.
+© 2007 Elsevier Inc. All rights reserved.

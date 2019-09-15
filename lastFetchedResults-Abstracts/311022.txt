@@ -1,0 +1,11 @@
+Objective. A model has been developed for the power grip on a cylindrical handle. The model gives estimates of the forces acting on the fingertips as functions of total grip force, diameter of the handle, and hand size.
+
+Design. The data in the literature were used to estimate the parameters of the model. An experiment was conducted to verify that the distribution of the forces is independent of the force level.
+
+Background. In the authors' opinion, the outcomes of the various experiments described in the literature can be represented in a compact model without too much information loss.
+
+Methods. The forces acting on the fingertips of 10 subjects were measured with three different handle diameters and five grip force levels.
+
+Results. The force sharing turned out to be independent of the grip force and the diameter of the handle.
+
+Conclusions. It is advantageous to shape the handle so that the local diameters at the fingers are proportional to the finger lengths.

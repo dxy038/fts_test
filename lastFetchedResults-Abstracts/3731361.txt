@@ -1,0 +1,1 @@
+This paper describes a method of mathematically analyzing distributed parameter 3-phase transmission lines, with the objective of determining voltages and currents as functions of time at any point on the transmission system. The complete transient response may be calculated for typical boundary conditions, using the methods presented and programmed for a digital computer.

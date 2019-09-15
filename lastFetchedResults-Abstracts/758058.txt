@@ -1,0 +1,3 @@
+In this paper, a mixed integer programming model for Advanced Planning and Scheduling has been presented and implemented in Mann Plastic Company with the objective of minimizing cost of tardiness and earliness of an order. The proposed mathematical model considers capacity constraints, operation sequence, due date in multi order environment and outsourcing. 
+In order to solve the mathematical model for advanced planning and scheduling, by using data from Mann Plastic Company, Genetic َAlgorithm was used and better results with less penalty obtain from genetic algorithm compared to current status. Using the outputs of this model the final product assembly plan and the injection schedules for Mann Plastic company as well as contractor were determined.
+

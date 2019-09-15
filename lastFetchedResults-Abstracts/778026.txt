@@ -1,0 +1,30 @@
+In this paper, the modified linearized Phillips-
+Heffron model is utilized to theoretically analyze a
+single-machine infinite-bus (SMIB) installed with SSSC.
+Then, the result of this analysis is used for assessing the
+potential of an SSSC supplementary controller to
+improve the dynamic stability of a power system. This is
+carried out by measuring the electromechanical
+controllability through singular value decomposition
+(SVD) analysis. This controller is tuned for
+simultaneously shifting the undamped electromechanical
+modes to a prescribed area in the s-plane. The issue of
+designing a robustly SSSC-based controller is considered
+and formulated as an optimization problem according to
+the eigenvalue-based multi-objective function consisting
+of the damping ratio of the undamped electromechanical
+modes and the damping factor. Next, considering its high
+capability to find the most optimistic results, the Honey
+Bee Mating Optimization (HBMO) algorithm is used to
+solve this optimization problem. A wide range of
+operating conditions are considered in design process of
+the proposed damping controller in order to guarantee the
+its robustness. The effectiveness of the proposed
+controller is demonstrated through eigenvalue analysis,
+controllability measure, nonlinear time-domain
+simulation and some performance indices studies. The
+results show that the tuned HBMO based SSSC controller
+which is designed by using the proposed multi-objective
+function has an outstanding capability in damping power
+system low frequency oscillations, also it significantly
+improves the power systems dynamic stability.

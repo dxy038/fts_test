@@ -1,0 +1,11 @@
+Objective
+Mast cells play pivotal roles in immediate-type and inflammatory allergic and nonallergic reactions. Cross-linking of the high-affinity receptor for IgE (FcεRI) on mast cells activates a signaling pathway leading to Ca2+ mobilization and is followed by degranulation and the release of histamine and other preformed mediators, as well as de novo synthesis of arachidonic acid metabolites. In a previous study, we have demonstrated that heat shock activates heat shock transcription factor-1 (HSF-1), induces heat shock protein 70 (HSP70), and suppresses cytokine production in bone marrow–derived mast cells (BMMC). In this study, we further investigated the effects of heat shock on the activation of mast cells and the release of mast cell mediators.
+Methods
+
+In mouse mast cells, derived from a culture of bone marrow cells of male BALB/cBy and null HSF-1−/−mice, responsiveness to heat shock was monitored by measuring β-hexosaminidase and leukotriene C4 (LTC4) release.
+Results
+
+Using BMMC, we found that heat shock inhibits degranulation of BMMC without affecting leukotriene production. To further elucidate the mechanism of suppression of degranulation, we studied the effects of heat shock on the regulation of signal transduction in more detail. We found that heat shock inhibits calcium mobilization and tyrosine phosphorylation of Syk and SHIP upon IgE receptor activation, but increases the phosphorylation of SHP-1 and -2. Moreover, our results revealed that suppression of tyrosine phosphorylation of Syk and SHIP coincided with an increased tyrosine phosphatase activity.
+Conclusion
+
+The inhibitory action of heat shock toward mast cell degranulation is likely due to shifting the balance between kinase and phosphatase activity.

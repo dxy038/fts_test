@@ -1,0 +1,1 @@
+Stabilizability independent of the delay duration is considered as a design objective when synthesizing a finite dimensional compensator to be used in a feedback loop. It is demonstrated that to achieve stability independent of delay by means of a finite dimensional compensator a certain first level realization must have some one dimensional stabilizability properties.

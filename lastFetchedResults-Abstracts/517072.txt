@@ -1,0 +1,51 @@
+Air transportation has an important position among the other modes of transportation due to its
+significant impact in the economy and welfare of a society. Within the several components of
+air transportation market, flight network plays a fundamental role and considerably affects the
+airlines revenue. Improvement of the network system requires an accurate plan and
+programming. Hub-and-spokes are of further interest; as such networks reduce the operational
+costs, create proper ground for flight network development and extension, and help in
+competition. However, several models have been introduced for hub-and-spokes design
+purposes based on the diversity of the effective factors, decision-making variables and different
+forms of the network.
+Generally speaking, hub-and-spokes are categorized into two principal sectors: single allocation
+and dual or multiple allocations. Within a single allocation, traffic is accumulated in a single
+hub and then distributed to the destinations, while within a dual-allocation network, the
+gathered traffic at the first hub is again distributed to another hub before directing it to the final
+destination. This research presents a linear model for hub-and-spokes evaluation and planning,
+determining optimum flight routes and fleet assignment. The model considers both direct flights
+and hub connections, and outputs an optimum network based on the mixture of these two
+options. Sets of airport connections are so designed to well cover all the necessary inter-airport
+trips. This particular is done by utilizing hub-and-spoke system as the airport networks. To
+fulfill the requirements of the study location (Iran), in this paper, single allocation was selected
+to develop the models, meaning that just one hub has been considered in the modeling process.
+Inter-airport demands of the passengers were inputted in the network and the model works only
+for passenger transportation. The objective was to design the hubs so as to obtain an optimum
+network. In other words, the model is to suggest the best option with which the demand is
+handled cost-effectively. Trips are planned to be either direct or meeting a one-hub maximum.
+As the model is to minimize the cost, such variables as demand for variety of routes and type
+and quantity of the available aircrafts were included. The model was developed in two stages to
+ease the process. The first stage dealt with the target function and the fleet was assigned to the
+outputs of the stage one. Iran's internal flight network was chosen as the case of study to
+develop the model based on the country's geographical situation and available data. 59 airports
+were chosen as the total set of airports and trip origins. The number of hub candidates and
+destination airports were eight including Isfahan, Ahwaz, Bandar Abbas, Tabriz, Tehran,
+Shiraz, Kerman and Mashhad airports. Based on the availability, the data of five types of
+aircrafts were used in the model development. Lingo Version 8 has run the model using branchand-
+bound method to obtain accurate and reliable outputs. Up to eight hub networks were
+considered by the model and the model confirmed that with increase in the number of hubs,
+operational cost decreased. However, cost reduction had lower rate for the systems with six
+hubs and over. The results also suggested that the probability of stop in a hub rises for longer
+trips. Flights longer than 1.5 hours had to stop at one hub in three-, four-, five-, six- and eighthub
+networks.Four-hub network was found to be the optimum one due to having the shortest stop slot where
+fixed cost has been allocated for selecting an airport as the hub. The hubs of the optimum fourhub
+network are Tehran, Shiraz, Kerman and Isfahan airports. The results showed that demand
+is not the only effective factor in the selection of the hub; it means that another key factor,
+geographical positions, has effect and the airport with higher demand is not necessarily selected
+as the hub. Therefore, hub-and-spokes can enhance the efficiency of the airports with lower
+demands. As an example out of the results, passengers intended to use Isfahan and Kerman
+airport as their hubs in a four-hub network were more than the ones targeting Isfahan and
+Kerman airports as destinations. Analysis of the four-hub network cleared that, according to the
+current demand and operational costs of different aircrafts, large planes (e.g. Airbus 300) and
+small lpanes (e.g. Foker 50) will perform more flights in comparison the with other types. Using
+the model developed in this research, airlines will be able to forecast and plan their required
+fleet combination based on the demands.

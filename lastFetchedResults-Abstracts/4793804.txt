@@ -1,0 +1,1 @@
+This paper proposes a two-microphone technique for noise reduction and acoustic echo cancellation (AEC) in hands-free communications. Contrary to the standard cascaded structure, this new structure includes a preprocessing which allows to reduce the noise influence on the AEC system. The efficiency of the new structure is proved through objective measures and listening tests

@@ -1,0 +1,7 @@
+Permanent Magnet Synchronous Motors (PMSMs) have been widely used in many
+industrial applications. In This paper a new method for multi objective optimal design of a permanent
+magnet synchronous motor (PMSMs) with surface mounted permanent magnet rotor is presented to
+achieve maximum efficiency and power density using a Bees algorithm for industrial applications. The
+objective function is a combination of power density and efficiency to be maximized simultaneously.
+A particular optimal machine is chosen and its performances are validated with FE analysis. The
+design optimization results in a motor with great improvement regarding the original motor.

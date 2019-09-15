@@ -1,0 +1,16 @@
+Commonly in designing hydroelectric Jams and in the level of consulting engineers, for
+determining the hydroelectric potential of an storage, the analyze is done based on an RBS
+(Reliability Based Simulation) model with an obvious operation policy.In this paper the effect of optimizing release rules instead of using a fixed and know release policy,
+like what it is adopted in an RES model, was explored through developing a dynamic programming
+(DP) optimization model and Karoon 5 dam was used as a case study. DP evaluates energy
+potential while maximizing total annual energy generated as its objective function. In the case
+where no reliability constraint is considered, DP presents such results having lower reliability in
+meeting energy demands and lower vulnerability index with a slightly improved firm and total
+annual energy, compared to RES results. The DP model was then completed as a reliability DP.
+This reliability model can control the reliability level in meeting energy demands like what it is
+done in RES model. Comparison between reliability DP and RES models showed that DP results
+are better than RES results in term of finn and total energy generated and installed capacity.
+However, as the reliability level increases, the out performance of DP over RES model decreases.
+This is because by adopting a more strict reliability constraint, the optimization problem will get
+more and highly constrained and there is little room left in this case for optimizing an objective
+function.

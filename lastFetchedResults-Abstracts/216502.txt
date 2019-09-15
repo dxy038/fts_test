@@ -1,0 +1,6 @@
+Objective: For efficient applications of protons in radiotherapy, detailed knowledge of the corresponding radiobiological mechanism
+is necessary. The inactivation cross section is a useful tool to explore the interaction mechanism. Hence, the inactivation cross section
+for proton irradiation on V79 cells has been calculated using published survival data. Method: The linear quadratic equation was used
+to fit the survival curves and the parametero was use d to calculate the cross section . The cross section a is plotted as a function of the
+mean free path lambda and the linear energy transfer LET. Results: The cross section alfa-versus-lambda curve shows a saturation region between lambda> = 2 nm and lambda< =5 nm. In this region, the inactivation cross section value is about the same as the geometrical area of the DNA segment ( ~ 4 Mo m square 2 ). Such a saturation is also seen in the delta -LET curve. Conclusion: This implies that one DNA segment is at a risk upon the traversal of a single proton .
+

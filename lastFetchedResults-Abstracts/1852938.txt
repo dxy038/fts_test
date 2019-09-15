@@ -1,0 +1,8 @@
+Objective
+m of this article is to propose an integrated framework for extracting and describing patterns of disorders from medical images using a combination of linear discriminant analysis and active contour models.
+s
+ivariate statistical methodology was first used to identify the most discriminating hyperplane separating two groups of images (from healthy controls and patients with schizophrenia) contained in the input data. After this, the present work makes explicit the differences found by the multivariate statistical method by subtracting the discriminant models of controls and patients, weighted by the pooled variance between the two groups. A variational level-set technique was used to segment clusters of these differences. We obtain a label of each anatomical change using the Talairach atlas.
+s
+s work all the data was analysed simultaneously rather than assuming a priori regions of interest. As a consequence of this, by using active contour models, we were able to obtain regions of interest that were emergent from the data. The results were evaluated using, as gold standard, well-known facts about the neuroanatomical changes related to schizophrenia. Most of the items in the gold standard was covered in our result set.
+sions
+ue that such investigation provides a suitable framework for characterising the high complexity of magnetic resonance images in schizophrenia as the results obtained indicate a high sensitivity rate with respect to the gold standard.

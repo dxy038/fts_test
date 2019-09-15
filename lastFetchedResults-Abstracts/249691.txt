@@ -1,0 +1,17 @@
+This paper is concerned with the minimization of functionals of the form
+ 
+ (b) f(h; T(b; h)) d (b)
+where variation of the vector b modi es the shape of the domain   on which the potential problem,
+∇2T =0, is de ned. The vector h is dependent on non-linear boundary conditions that are de ned on
+the boundary  . The method proposed is founded on the material derivative adjoint variable method
+traditionally used for shape optimization. Attention is restricted to problems where the shape of   is
+described by a boundary element mesh, where nodal co-ordinates are used in the de nition of b.
+Propositions are presented to show how design sensitivities for the modi ed functional
+ 
+ (b) f(h; T
+(b; h)) d (b) +
+ 
+ (b)  (b; h)∇2T(b; h) d (b) can be derived more readily with knowledge of the form
+of the adjoint function   determined via non-shape variations. The methods developed in the paper are
+applied to a problem in pressure die casting, where the objective is the determination of cooling channel
+shapes for optimum cooling. The results of the method are shown to be highly convergent

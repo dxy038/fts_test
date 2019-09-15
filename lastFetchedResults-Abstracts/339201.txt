@@ -1,0 +1,11 @@
+Objective
+We have previously demonstrated that bone marrow stromal cells (BMSCs) exposed to etoposide (VP-16) have reduced support of CXCR4+ cell chemotaxis and diminished stromal cell derived factor-1 (CXCL12) in the supernatants. Based on the identification of CXCL12 as a matrix metalloproteinase-2 (MMP-2) substrate, we investigated potential dysregulation of MMP-2 expression or activity in chemotherapy-treated BMSCs.
+Methods
+
+BMSCs exposed to VP-16 were evaluated for MMP-2 expression by gelatin zymography, ELISA, and western blot. Chemotaxis assays were completed to evaluate pro-B cell chemotaxis toward either MMP-2−/− BMSCs or BMSCs exposed to MMP-2 inhibitors.
+Results
+
+BMSC exposure to VP-16 resulted in an immediate, transient, increase in MMP-2, followed by reduced MMP-2 protein expression. MMP-2 reduction correlated with diminished CXCL12 protein and reduced support of pro-B cell chemotaxis. BMSCs derived from MMP-2 knockout mice had less chemotactic support of CXCR4+ cells than wild-type controls. Inhibition of BMSC MMP-2 activity by OA-Hy also reduced chemotactic support and CXCL12 protein detected in BMSC supernatants. VP-16–induced reduction of BMSC support of hematopoietic cell migration was restored by supplementing cultures with recombinant MMP-2 protein.
+Conclusions
+
+These data suggest that MMP-2 is sensitive to chemotherapy-induced stress, and may regulate BMSC support of pro-B cell chemotaxis. Increased MMP-2 expression during the acute phase of chemotherapy exposure potentially inactivates CXCL12. Subsequently, chronic exposure to chemotherapy, with the associated downregulation of MMP-2, interrupts CXCL12 release from the extracellular matrix, also blunting BMSC support of pro-B cell migration.

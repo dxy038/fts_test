@@ -1,0 +1,1 @@
+This paper investigates to find out stable solutions, i.e., robust solutions, in dynamic environments. In dynamic environments, the landscape of the objective function changes over time. Such dynamic environments are designed by using Max-Sat Problems.

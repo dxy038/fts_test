@@ -1,0 +1,1 @@
+The objective of this paper is to propose a new type reliable sampled-data control system against sensor failures using decision by majority among redundant sensors. It is a practical way of solving questions of the conventional reliable control theory without loss of its advantages

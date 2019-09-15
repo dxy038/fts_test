@@ -1,0 +1,1 @@
+The paper gives an overview on mathematical optimization techniques specially suited for problems in electromagnetism. They include decision making methods, methods to treat nonlinear constraints and optimization algorithms to minimize the objective function

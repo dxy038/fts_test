@@ -1,0 +1,11 @@
+Objective. To investigate the bone holding power of tibial locking screws.
+
+Design. The bone holding power was assessed by mechanical testing and finite element analysis.
+
+Background. Screw loosening might threaten fracture fixation and bone healing.
+
+Methods. In mechanical tests, six types of different tibial locking screws were inserted into low-density polyurethane foam tubes, which simulated osteoporotic bone. The screws were pushed out of the foam bone by an axial load, and the maximal pushout load was recorded. In finite element analysis, three-dimensional finite element models with a nonlinear contact interface between the screws and the bones were created to simulate the mechanical testing. The total strain energy of the bone and total reaction force of the screws were recorded. The contribution of the design factors was analyzed by the Taguchi method.
+
+Results. In the mechanical tests, foam bone was stripped by the screw threads without screw deformation. The testing results were closely related to those of finite element analysis. The Taguchi analysis showed that the descending order of contribution of the design factors was outer diameter, pitch, half angle, and inner diameter. Root radius and thread width had minimal effects.
+
+Conclusions. The bone holding power of the screws could be reliably assessed by finite element models, which could analyze the effects of all the design factors independently and were potentially applicable to screws with irregular thread patterns.

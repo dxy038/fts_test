@@ -1,0 +1,11 @@
+Objective
+A large body of data suggests that pertussis toxin (PTX)-sensitive G protein signals in mature and immature hemopoietic cells control their migration patterns in vitro and in vivo. These effects were derived after treatment of cells or animals with PTX. To circumvent several inherent problems of PTX holotoxin treatment, we expressed the S1 catalytic activity of PTX, thus blocking Gi protein signaling, in 32D murine myeloid progenitor cells and in primary human CD34+ cells, and studied its functional consequences.
+Methods
+
+S1 was expressed using viral vectors. Effects of Gi protein blockade on proliferation, migration, adhesion, and gene expression were tested in vitro.
+Results
+
+S1 expression was nontoxic for the cells; expression and function were stable long-term and not overridden by compensatory mechanisms. S1-transduced 32D cells and primary CD34+ cells migrated poorly and did not contract their cytoskeleton upon treatment with the chemoattractant stromal cell-derived factor -1 (SDF-1), similar to the phenotype induced by PTX treatment. Gene expression studies comparing S1-transduced and control 32D cells uncovered four genes, expression of which was regulated by Gi protein blockade. Of interest, although SDF-1 signaling was inhibited, comparison between SDF-1–treated and untreated cells suggests that SDF-1 stimulation does not depend on de novo gene expression in these cells. Furthermore, when injected into nonobese diabetic/severe combined immunodeficient mice, seeding of S1-expressing 32D cells to bone marrow was largely blocked.
+Conclusion
+
+Expression of S1 is an effective approach for studying long-term functional consequences of Gi protein blockade in hemopoietic cells in vitro and in vivo.

@@ -1,0 +1,11 @@
+Objective. To produce axial rotation of the cervical spine in vitro bycoordinated application of eight simulated muscle forces.
+
+Design. Biomechanical testing of the cervical spine by controlled pneumatics.
+
+Background. Some muscle simulation experiments have been performed in vitro in the lumbar spine but data generally are lacking for this testing mode in the cervical spine. Thus, physiological biomechanical behavior in this region remains poorly understood.
+
+Methods. Six human donor cervical spines were loaded by a set of computer-controlled pneumatic cylinders representing pairs of trapezius, splenius and sternocleiodmastoid muscles, plus longus and splenius colli left. Muscle functions were derived from a previously-developed mathematical optimization model. Muscle forces generally were achievable within 2 N of the intended values provided by the model.
+
+Results. Rotation of the head followed fairly closely that predicted by the model. The resulting force components to produce 37 ° were dominated by axial compression of about — 100 N and the resulting moments were similar in all planes at about 2 Nm. Coupled motions were larger than primary motions in some intersegmental behavior.
+
+Conclusions. Slow, physiologic axial rotation of the head may be simulated by a complex and representative series of controlled pneumatics. Controlled rotation results in a relatively high compressive force and occurs through fairly balanced and small moments.

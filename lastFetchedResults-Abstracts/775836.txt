@@ -1,0 +1,10 @@
+This paper presents a numerical study about the performance of a Beta Stirling solar thermal engine system. This
+system is composed of a solar collector box connected to a regenerator hydraulic system and a transmitting power system.
+The objective of the system is to offer a new alternative to help solving stagnant water pollution in hot countries
+like Thailand by circulating water in canals, lakes, ponds etc. for aeration using solar energy.
+The purpose of this study is to determine the power output and actual heat transfer on the performance of the solar
+thermal engine. The solar thermal engine is analyzed using a mathematical model based on the first law of thermodynamics
+for processes with finite speed, with particular attention to the energy balance at the receiver. The result of calculations
+showed that the regenerator volume and phase angle must be chosen carefully to fulfill the requirement that
+total fluid mass in the system is constant and to obtain maximum power output throughout the day.
+  2004 Elsevier Ltd. All rights reserved.

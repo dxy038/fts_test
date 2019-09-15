@@ -1,0 +1,116 @@
+Introduction
+Groundwater level forecasting is one of the most
+important factors in hydrogeological studies. Artificial
+Neural Network (ANN) models are among the black
+box models much suitable for nonlinear systems. The
+ability to identify a relationship from given patterns
+make it possible for ANNs to solve complex hydrologic
+problems. Concepts and applications of the ANN
+models in hydrology have been discussed by the ASCE
+(2000) and Asghari Moghaddam et a1. (2008). Neural
+networks have also been previously applied
+successfully to temporal prediction of groundwater
+levels in alluvials (Daliakopoulos et aI., 2005).
+Geostatistics is another powerful interpolating
+approach widely utilized in spatial estimation of
+hydrological variables (Goovaerts, 2000) such as
+groundwater level mapping (Hoeksema et al., 1989).
+Rizzo and Dougherty (1994) introduced the idea of
+Neural-kriging for characterization of aquifer
+properties.
+Objective,
+In some parts of the Tabriz underground construction
+project the groundwater levels are high which show the
+necessity of groundwater modeling. Due to the high
+complexity of Tabriz aquifer, the combination of ANN
+and geostatistic models for spatiotemporal prediction of
+groundwater levels are used in the study area. Results were applied as inputs of the geostatistical model for
+spatial forecasting ofgroundwater levels.
+Methodology
+Several neural networks are evaluated in order to reach
+the required efficiency and to find the suitable
+technique for presenting ANN models. Two popular
+neural network models are the Feedforward Neural
+Network (FNN) and the Recurrent Neural Network
+(RNN). Different algorithms can be used for training
+these networks. In the present research, gradient
+descent with momentum and adaptive learning rate
+backpropagation (GDX), Levenberg-Marquardt (LM),
+and Bayesian Regularization (BR) are used. Some
+studies provided details of the used networks and
+algorithms in ANN modeling (e.g.. Coulibaly et al.,
+2001a). Several aspects of the architecture (structure)
+of neural networks that focus on the prediction of
+variables associated with hydrology are covered by
+Maier and Dandy (2000). Their suggestions were
+followed for temporal water level forecasting of Tabriz
+aquifer and the structures of the network were
+determined by trial and error. The size of the input and
+hidden layers of the network have been determined
+considering the prediction target and the output layer
+has just a single node; predicted water level. The
+activation function of the hidden layer was set to a
+hyperbolic tangent sigmoid function as this proved by
+trial and error to be the best in depicting the nonlinearity
+of the modeled natural system. among a set of
+other options (linear and log sigmoid). Finally, the
+number of the hidden layer nodes and the training
+epoch number were optimized in terms of obtaining
+precise and accurate output.Presenting a hybrid neural-geosratistics (NG) modcl,
+the external 24 monthly temporal data of ANN models
+were used as the input data of the geostaristic modeL
+The model can use different methods depending on the
+subject or the problem. In order to obtain the best
+method of the geostatistical approach, different
+methods were examined; I) Nearest Neighbor (N.N.),
+2) Kriging, 3) Polynomial Regression (P.R.), 4) Radial
+Basis Function (R.B.F.), 4) Moving Average (M.A.), 5)
+Inverse Distance to a Power (I.D.P.), 6) Minimum
+Curvature (M.C.), 7) Modified Sheperds Method
+(M.S.M.) and 8) Local Polynomial (L.P.). These
+methods were described in detail by Isaaks and
+Srivastava (1989).
+-1 391836
+-1 181029
+R.esiduals ,
+602000 4214950 12 136343
+Table L Residuals for predicted groundwater level
+in testing step,
+
+For achieving the neural-geostatistical spatiotemporal
+forecasting model the external 24 monthly temporal
+data of ANN models were utilized as input data in the
+geostatistic model for spatial connections. In order to
+obtain the best method of the geostatistical approach,
+different methods (mentioned in methodology) were
+examined. In order to obtain the best geostatistical
+method, the first month of predicted data by ANN
+model for considered piezometers were fed into the
+eight methods as input data sets. The N.N method
+presented the best method connection among the
+forecasting data. This method was then utilized for
+making connection among other 24 months of
+forecasting, so that for each month. forecasted data
+produced a neural-geostatistical model. Similarly
+monthly predicted contours can also be presented (for
+I th to 24'" month). The efficiency of the hybrid neuralgeostatistic
+model were tested by the four piezometers
+not utilized in model calibration. The results of this
+testing are presented in Table I.
+
+values by FNN-LM Model, A) Training step, B) Test
+step, Conclusion
+ANN and geostatistic models each have a high ability
+in spatial and temporal prediction of hydrogeological
+phenomena. The combination of these models can
+result in an improved tool. In this research, a
+combination of the models were utilized as a hybrid
+spatiotemporal model of groundwater level prediction
+in multilayer aquifer in Tabriz city area. The obtained
+results represented suitable spatiotemporal prediction
+of groundwater levels in the study area. Methodology
+of this study can solve most of the existing problems in
+spatiotemporal groundwater level prediction in aquifer
+spatially multilayer aquifers. Furthermore, results of
+this research could prevent spending high costs for
+borehole drillings in Tabriz underground construction.

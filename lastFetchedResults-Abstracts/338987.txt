@@ -1,0 +1,11 @@
+Objective
+A Wilms tumor cell line, HFWT, selectively stimulates expansion of natural killer (NK) cells from human peripheral blood mononuclear cells (PBMC). In this study, we attempted to identify NK precursors in PBMC or in cord blood mononuclear cells (CBMC) that preferentially respond to feeder HFWT cells.
+Materials and Methods
+
+Human NK cells or candidate precursor cells were fractionated from PBMC or CBMC by magnetic antibody cell sorting or by flow cytometry and applied to limiting dilution analysis to determine the proportion of NK/NK precursor cells, which are able to proliferate on irradiated HFWT cells. NK and NK precursor cells were cultured in medium containing interleukin-2 (IL-2). Expansion of NK cells from both resting NK cells and NK precursor cells was examined using proliferation from single cells, expression of NK cell markers, and cytotoxic activity.
+Results
+
+In the limiting dilution analysis, NK cells expanded on irradiated HFWT cells not only from CD3−CD56bright and CD3−CD56dim NK cells, but also from CD16+/−CD122+ cells in the lineage-negative (Lin−, CD3−CD14−CD19−CD56−) cell fraction. The feeder HFWT cells stimulated Lin−CD122+ cell proliferation more strongly than feeder cells from the well-known human NK target cell line K562. CBMC contained significantly higher percentages of Lin−CD122+ cells than PBMC.
+Conclusion
+
+CD3−CD14−CD19−CD56− cells expressing CD122+ (a subunit of the IL-2 receptor) preferentially respond to HFWT feeder cells and are novel precursors of CD3−CD56+ NK cells in human PBMC and CBMC.

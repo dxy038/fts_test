@@ -1,0 +1,27 @@
+A fully nonlinear analysis for prediction of shear crippling (kinkband) type propagating
+instability in long thick laminated composite cylindrical shells is presented. The primary accomplishment
+of the present investigation is prediction of equilibrium paths, which are often unstable, in the
+presence of interlaminar shear deformation, and which usually deviate from the classical lamination
+theory (CLT)-based equilibrium paths, representing global or structural level stability. A nonlinear
+finite element methodology, based on a three-dimensional hypothesis, known as layerwise linear
+displacement distribution theory (LLDT) and the total Lagrangian formulation, is developed to
+predict the aforementioned instability behavior of long laminated thick cylindrical shell type structures
+and evaluate failure modes when radial/hydrostatic compressive loads are applied. The most
+important computational feature is the successful implementation of an incremental displacement
+control scheme beyond the limit point to compute the unstable postbuckling path. A long (plane
+strain) thick laminated composite [90/0/90] imperfect cylinder is investigated with the objective of
+analytically studying its premature compressive failure behavior. Thickness effect (i.e. interlaminar
+shear/normal deformation) is clearly responsible for causing the appearance of limit point on the
+postbuckling equilibrium path, thus lowering the load carrying capability of the long composite
+cylinder, and localizing the failure pattern, which is associated with spontaneous breaking of the
+periodicity of classical or modal buckling patterns. In analogy to the phase transition phenomena,
+Maxwell construction is employed to (a) correct the unphysical negative slope of the computed
+equilibrium paths encountered in the case of thicker cylinders modeled by the finite elements
+methods that fail to include micro-structural defects, such as fiber waviness or misalignments, and
+(b) to compute the propagating pressure responsible for interlaminar shear crippling or kinkband
+type propagating instability. This type of instability triggered by the combined effect of interlaminar
+shear/normal deformation and geometric imperfections, such as fiber misalignment, appears to be
+one of the dominant compressive failure modes for moderately thick and thick cylinders with radiusto-
+thickness ratio below the corresponding critical value. A three-dimensional theory, such as the
+LLDT, is essential for capturing the interlaminar shear crippling type propagating instability.
+© 1997 Elsevier Science Ltd

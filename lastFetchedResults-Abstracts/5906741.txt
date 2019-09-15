@@ -1,0 +1,1 @@
+This work presents a robust MPC design and a fault tolerant control framework for batch processes subject to input constraints and model uncertainty with the objective of achieving a desired product quality.

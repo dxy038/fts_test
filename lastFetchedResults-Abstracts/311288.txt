@@ -1,0 +1,11 @@
+Objective. Compare the initial stability at the fusion site of ankle arthrodesis fixed with two and three screws.
+
+Design. Finite element models of ankle arthrodesis were developed from computed tomography images. Two-screw constructs were augmented with a third screw in different orientations and subjected to loads likely to affect the ankle postoperatively.
+
+Background. More stable fixation seems to increase the chance of fusion, as it minimises the motion between the tibiotalar interfaces.
+
+Methods. Non-linear elastic finite element analyses were performed in external torsion and dorsiflexion. The micromotions at the tibiotalar interface were computed to compare the two- and three-screw fixation in intact and flat-cut arthrodesis.
+
+Results. Adding a third screw reduced the micromotions at the fusion site. Inserting the third screw anteriorly predicted lower peak micromotions than inserting the screw posteriorly, except for the intact arthrodesis tested in dorsiflexion. Three-screw intact arthrodesis predicted lower peak micromotions than flat-cut arthrodesis.
+
+Conclusions. Better stability was predicted for three-screw ankle arthrodesis. In flat-cut arthrodesis, a third screw inserted anteriorly performed better than a posterior screw. In intact arthrodesis, a posterior screw seemed a better option when flexion stability was the main concern. Even with three-screw fixation, the configuration of the first two-crossed screws may still be important to improve the stability at the fusion site.

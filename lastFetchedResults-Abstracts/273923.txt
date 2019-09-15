@@ -1,0 +1,11 @@
+The sensitivity of laminated conical shells to imperfection is considered, via the initial post-buckling analysis, on the
+basis of three different shell theories: Donnell’s, Sanders’, and Timoshenko’s. Unlike isotropic conical shells or laminated
+cylindrical shells, in the case of laminated conical shells the thickness and the material properties vary with the shell coordinates,
+which complicates the problem considerably. The main objective of the study is to investigate the influence of the
+variation of the stiffness coefficients on the buckling behavior and on the imperfection sensitivity of laminated conical
+shells. It is felt that by finding the various parameters that influence the shell’s imperfection sensitivity, it is possible to
+improve the behavior of the whole structure.
+A special Level-1 computer code ISOLCS (Imperfection Sensitivity of Laminated Conical Shells) had been developed.
+ISOLCS calculates the classical buckling load and the imperfection sensitivity via Koiter’s theory of laminated conical
+shells with consideration to the variation of the material properties in the shell’s coordinates. The range of validity of
+the Level-1 predictions by ISOLCS is verified by the Level-3 code STAGS-A.

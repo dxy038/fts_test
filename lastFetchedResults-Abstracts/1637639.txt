@@ -1,0 +1,9 @@
+The design of vertical formwork is governed by the lateral pressure exerted by fresh concrete; the complexity of the problem is due to the large number of factors which affect pressure. This work describes an experimental investigation in columns to determine the variation in lateral pressure and initial rate of pressure drop with the following variables: formwork size and shape, coarse aggregate concentration and concrete temperature.
+
+un factorial design 23 was done to determine the influence of formwork size and shape and coarse aggregate concentration. It was impossible to vary temperature between two levels in the field, so in this analysis this factor was considered as a co-variable. With this objective, square and circular experimental columns 3 m high but with different cross sections were instrumented, and two concrete mixtures with different sand to total aggregate ratios were used.
+
+ards, two tests were done to determine the influence in pressure of concrete impact, changing the method for filling the columns.
+
+rk shape, coarse aggregate concentration and concrete impact have a minor effect in maximum lateral pressure, while temperature shows an inverse relationship with the pressure, but not to a sufficient degree to be considered a significant parameter. On the other hand, formwork size has a major effect on the pressure, narrow sections generate less lateral pressure than higher ones. This is attributed to the friction forces between concrete and formwork which are much more important in small sections.
+
+rk shape and size present a major influence in the initial rate of pressure decay. While circular formworks present a higher value than squares ones, smaller cross sections present a lower value than larger ones. On the other hand, coarse aggregate concentration has a minor effect on this parameter.

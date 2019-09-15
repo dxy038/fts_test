@@ -1,0 +1,9 @@
+It is important for humans to live in harmony with ecosystems. Evaluation of ecosystem services (ES) may be helpful in achieving this objective. In Japan, forest ecosystems need to be re-evaluated to prevent their degradation due to lack of forest management.
+
+er to evaluate the effects of forest management on forest ES, we developed a process-based biogeochemical model to estimate water, carbon, and nitrogen cycles in forest ecosystems (BGC-ES). This model consists of four submodels: biomass, water cycle, carbon–nitrogen (CN) cycles, and forest management. The biomass submodel can calculate growth of forest biomass under forest managements.
+
+l parameters of the model were calibrated using data from observations of evapotranspiration flux and quality of stream flow in forests. The model results were compared with observations of runoff water from a dam catchment site and with carbon flux observations.
+
+del was coupled with a basin-level GIS database of forests. Evaluations under various forest management scenarios were carried out for forests in a basin contained in the Ise Bay basin (Chubu region, Japan), where plantations (artificial forests) seemed to have degraded from poor forest management.
+
+ing our simulation results with those of forests without management in the basin, we found that the amounts of absorbed carbon and runoff were larger in managed forests. In addition, the volume of harvested timber was larger and its quality (diameter) was better in managed forests. Changes of ES within the various scenarios were estimated for their economic value and were compared with the cost of forest management.

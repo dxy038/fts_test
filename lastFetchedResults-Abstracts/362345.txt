@@ -1,0 +1,9 @@
+Study objective
+The aim of this study was to assess the early prognostic value of the inflammatory cytokines interleukin 6, interleukin 8, and tumor necrosis factor α in a cohort of emergency department (ED) patients with chest pain who have suspected myocardial ischemia.
+Methods
+One hundred eighteen patients with chest pain presenting to 2 urban EDs were studied. Interleukin 6, interleukin 8, and tumor necrosis factor α levels were assayed at presentation. The end point was the occurrence of a serious cardiac event (death, nonfatal acute myocardial infarction, myocardial revascularization, or readmission with an acute coronary syndrome) during the index admission or subsequent 3 months.
+Results
+Mean levels of all 3 cytokines were higher among patients experiencing a serious cardiac event, with the greatest differences observed in levels of interleukin 6 (mean 2.5 pg/mL [95% confidence interval (CI) 1.2 to 3.7 pg/mL] versus mean 9.8 pg/mL [95% CI 2.4 to 17.2 pg/mL]). Interleukin 6 had a sensitivity of 35% (95% CI 20% to 54%), a specificity of 86% (95% CI 76% to 92%), and an overall prognostic accuracy of 71% (95% CI 63% to 79%) for predicting serious cardiac events. However, logistic regression analysis revealed that the only independent predictor of an adverse outcome was an ECG suggestive of ischemia at presentation.
+Conclusion
+Among patients presenting to the ED with suspected myocardial ischemia, higher levels of inflammatory cytokines are associated with an increased risk of a serious cardiac event during the subsequent 3 months. There is, however, considerable overlap in levels among patients who do and do not have a serious cardiac event, limiting their utility as predictors of outcome in individual patients.
+

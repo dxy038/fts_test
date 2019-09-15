@@ -1,0 +1,9 @@
+Background
+Human lung cancer is a major cause of death worldwide with few known effective therapeutic modalities. The isoenzyme cyclooxygenase 2 (COX-2) is an inducible inflammatory enzyme with increased activity evidenced in lung carcinoma. The objective was to determine the effect of a selective COX-2 inhibitor on proliferation and apoptosis rates in the Lewis lung (3LL) tumor cell line in vitro.
+Methods
+First, 1 × 104 3LL cells were plated in a 96-well plate. Cells were incubated for 24 hours with either a control or increasing doses of rofecoxib (0.1 mmol/L, 0.25 mmol/L, 0.5 mmol/L, 1.0 mmol/L, and 2.5 mmol/L) in complete Dulbecco’s Modified Eagle’s Medium culture medium. Cell proliferation was measured using BrdU enzyme-linked immunosorbent assay. Next, 1 × 106 3LL cells were similarly treated. Cells were permeabilized, immunostained with propidium iodide and apoptotic rates were measured using flow cytometry. Then, 5 × 104 cells were plated on a 24-well plate. Cells were incubated for 24 hours with either control or increasing doses of rofecoxib (0.1 mmol/L, 0.25 mmol/L, 0.5 mmol/L, 1.0 mmol/L, and 2.5 mmol/L) in complete culture medium. Supernatant was collected and lactate dehydrogenase was measured for cell necrosis using a cytotoxicity detection kit.
+Results
+The selective COX-2 inhibitor rofecoxib resulted in a dose-dependent increase in apoptosis and dose and time-dependent growth inhibition in cell proliferation. However, rofecoxib did not cause cell necrosis.
+Conclusions
+There was a significant decrease in proliferation and increase in apoptosis of 3LL tumor cells when treated with the highly selective COX-2 inhibitor rofecoxib. COX-2 inhibitors may have a potential role to play in the treatment of lung carcinoma.
+

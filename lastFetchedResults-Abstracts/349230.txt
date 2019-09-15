@@ -1,0 +1,11 @@
+Objective
+Recent findings have demonstrated that the EEG possesses long-range temporal (auto-) correlations (LRTC) in the dynamics of broad band oscillations. The analysis of LRTC provides a quantitative index of statistical dependencies in oscillations on different time scales. We analyzed LRTC in resting EEG signals in depressed outpatients and healthy controls.
+Methods
+The participants in this study were 11 non-depressed, age-matched controls, and 11 unmedicated unipolar depressed patients. EEG data were obtained from each participant during 5-min resting baseline periods with eyes closed and then analyzed with detrended fluctuation analysis (DFA), a scaling analysis method that quantifies a simple parameter to represent the correlation properties of a time series. The scaling exponent, the result of DFA, provides a quantitative measure of LRTC from the EEG.
+Results
+The present study demonstrates that all the scaling exponents in depressed patients and healthy controls were greater than 0.5 and less than 1.0, regardless of condition. Furthermore, the scaling exponents of depressed patients have relatively higher values in whole brain regions compared to healthy controls, with significant differences at F3, C3, T3, T4 and O1 channels (p < 0.05). Finally, a significant linear correlation was observed between the severity of depression and the scaling exponent over most of the channels, except O2.
+Conclusions
+These results suggest that the brain affected by a major depressive disorder shows slower decay of the LRTC, and that the persistence of the LRTC of EEG in depressed patients was associated with the severity of depression over most of the cortical areas.
+Significance
+The DFA method may broaden our understanding of the psychophysiological basis of depression.
+

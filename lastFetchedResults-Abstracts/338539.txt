@@ -1,0 +1,9 @@
+Objective
+To support immune reconstitution after cord blood transplantation, immunotherapy using gene-modified dendritic cells (DCs), the most potent antigen-presenting cells, can be a powerful strategy for preventing infection and recurrence. To investigate the applicability of lentiviral vector-transduced DCs compared to retroviral vectors, we transduced umbilical cord blood (CB) CD34+ cells, then expanded and differentiated them into DCs.
+Materials and Methods
+We transduced CB CD34+ cells by vesicular stomatitis virus G-protein pseudotyped self-inactivating lentiviral vector or retroviral vectors carrying the enhanced green fluorescent protein gene. The cells were expanded in the stroma-dependent culture system and transferred to the culture condition for developing DCs. The efficiency of transduction and expression of the transgene in severe combined immunodeficiency (SCID) mice-repopulating cells (SRCs) and DCs were compared between lentiviral vector and retroviral vectors. Induced DCs were cocultured with allogeneic or autologous T cells to test the ability to present antigens.
+Results
+CB CD34+ cells transduced by lentiviral vector and expanded ex vivo sustained stable transgene expression and multipotentiality by assessing SRCs assay and clonogenic assay of bone marrow cells from the transplanted mice. DCs derived from these cells expressed green fluorescent protein and surface markers CD1a, CD80, and HLA-DR and showed potent allostimulatory activity as well as nontransduced DCs did. On the other hand, we did not detect transgene expression in SRCs and DCs transduced by retroviral vectors.
+Conclusion
+Gene-modified DCs derived from ex vivo expanded CB CD34+ cells transduced by lentiviral vector will be useful in future immunotherapy protocols.
+

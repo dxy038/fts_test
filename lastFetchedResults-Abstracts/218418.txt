@@ -1,0 +1,19 @@
+Objective: Recently, we reported the presence of metabotropic glutamate receptor type 5
+(mGluR-5) dependent long-term potentiation (LTP) at excitatory synapses on fast-spiking
+GABAergic (FS-GABA) cells in the visual cortex. In this study, we report a Ca2+ signaling
+pathway involved in this LTP type.
+Materials and Methods: Brain slices from GAD67-GFP knock-in mice were used. Using
+whole-cell patch-clamp recording followed by immunohistochemical staining on parvalbumin-
+positive (PV+) FS-GABA cells, we studied the Ca2+ signaling pathway involved in
+excitatory LTP of certain visual cortical interneuron subtypes.
+Results: U-73122- a phospolipas c (PLC) inhibitor (10 ىM), inositol triphosphate (IP3) inhibitors
+such as 2-APB (3 ىM) and heparin (10 IU/ml), and CPA- the internally stored Ca2+
+release inhibitor- (5 ىM) blocked the mGluR5 signaling pathway to induce LTP at excitatory
+synapses on PV+ fast-spiking cells in the visual cortex. However, application of the vehicles
+alone had no effect.
+Conclusion: Our results indicate that mGluR-5 at FS-GABA neurons activate PLC and
+IP3 production. This leads to Ca2+ release, promotes LTP induction, and its maintenance is
+supported by internal Ca2+ stores. Considering the key role of PV+ FS inhibitory neurons in
+the visual cortex circuits, we suggest that the metabotropic glutamate receptor-dependent
+LTP of excitatory synapses to FS cells plays a crucial role in the visual cortex plasticity.
+

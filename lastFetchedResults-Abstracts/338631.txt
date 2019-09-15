@@ -1,0 +1,11 @@
+Objective
+We assessed the relationship of individual cell divisional behavior with the functional fate of stem cell candidates at the single cell level.
+Materials and Methods
+
+Individual CD34+CD38− cells derived from cord blood (88–352 cells in each of 25 experiments) were cultured in early-acting conditioned medium (EACM) or late-acting proliferation medium (LAPM). The initial cell divisions were microscopically monitored every 12 to 24 hours and then assessed for primitive function in the myeloid lymphoid-initiating cell assay and committed function in the colony-forming cell (CFC) assay.
+Results
+
+Despite a higher proliferative capacity in LAPM, significantly more quiescent cells (11.1 ± 1.7%) were found in LAPM than in EACM cultures (1.1 ± 0.4%; p < 0.001). No differences were observed in the initially plated CD34+Cd38− cells that produced asymmetrically dividing progeny. The majority of cells with subsequent ML-IC function divided in EACM but were found among quiescent cells in LAPM conditions. All cycling cells with subsequent ML-IC capacity initially remained quiescent for at least 96 hours. All ML-IC had been recruited exclusively (100%) from either cytokine nonresponsive (quiescent) or slow and asymmetrically dividing cells (1–2 divisions). In contrast, the majority of CFCs entered the cell cycle immediately after plating, have divided more than two times, and only 20.2 ± 5.5% of the cycled CFC divided asymmetrically.
+Conclusions
+
+Asymmetric divisional behavior of CD34+CD38−cells cannot be influenced by culture conditions. Primitive ML-IC can be distinguished from committed CFC by initial quiescence or asymmetric divisions. Committed CFC cycle rapidly and symmetrically.

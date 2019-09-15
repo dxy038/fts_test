@@ -1,0 +1,12 @@
+In this paper, energy dissipation and residual stress developments are numerically studied in threedimensional
+closed deformation paths. Different objective stress rates coded in a finite element program
+are compared.
+In order to update the stresses, implicit integration algorithm based on mid-point rule for corotational
+and non-corotational objective rates is used. Several corotational objective rates such as Jaumann,
+Green–Naghdi, Eulerian and Lagrangian triad-based rates and non-corotational rates such as Truesdell
+and Cotter–Rivlin rates are considered.
+It is shown in this work that in some cases also a non-integrable model may exhibit no dissipation
+energy at the end of a closed deformation path.
+This study underlines some results previously obtained by other researchers, i.e. among all considered
+stress rates the logarithmic rate manifests the best result in respect of elasticity requirements. Copyright
+  2006 John Wiley & Sons, Ltd.

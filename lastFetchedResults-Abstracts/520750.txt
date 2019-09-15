@@ -1,0 +1,4 @@
+Genetic algorithm is one of the metaheuristic algorithms used for solving constrained and unconstrained optimization problems. This algorithm performs a sequence of Selection/Reproduction, mutation and crossover operators on initial population iteratively and searches the optimal solution.
+
+In this paper, a multiple objective optimization model subjected to a system of fuzzy relation equations with max-product composition and a reduction procedure to reduce problem dimension is presented. Furthermore, a genetic algorithm has been reviewed and some of its component modified to solve the problem. Finally, the algorithm is performed on different problems and its major components role in detecting solution is examined.
+

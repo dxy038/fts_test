@@ -1,0 +1,11 @@
+Objective
+Sensory cortical activity can be jointly governed by bottom–up (e.g. stimulus features) and top–down (e.g. memory, attention) factors. We tested the hypothesis that auditory sensory cortical activity is affected by encoding and retrieval of spatial information.
+Methods
+Auditory event-related potentials (ERPs) were recorded during working memory and passive listening conditions. Trials contained three noise bursts (two “items” at different locations, followed by a “probe”). In the working memory task subjects determined if the probe matched an item location. The influence of long-term memory was evaluated by training to one location that was always a non-match. Auditory ERPs were analyzed to items and probes (N100, P200, late positive wave-LPW).
+Results
+Reaction times varied significantly among probes (trained non-match < matches < non-match). In only the Passive condition N100 and P200 amplitudes to the first item were significantly larger than the second item. Probe ERP amplitudes (N100, LPW) were comparable for match and trained non-match probes relative to non-matches.
+Conclusions
+Findings suggest that top–down factors during encoding modify sensory responses to successive items. Probe ERPs reflect sequence factors, such as recency and stimulus probability, and retrieval mechanisms not evident in passive listening.
+Significance
+Results support a contribution of auditory cortex to working memory.
+

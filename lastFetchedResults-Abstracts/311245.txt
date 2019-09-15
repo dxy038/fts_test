@@ -1,0 +1,11 @@
+Objective. To explain and underscore the use of principal component analysis in clinical biomechanics as an expedient, unbiased means for reducing high-dimensional data sets to a small number of modes or structures, as well as for teasing apart structural (invariant) and variable components in such data sets.
+
+Design. The method is explained formally and then applied to both simulated and real (kinematic and electromyographic) data for didactical purposes, thus illustrating possible applications (and pitfalls) in the study of coordinated movement.
+
+Background. In the sciences at large, principal component analysis is a well-known method to remove redundant information in multidimensional data sets by means of mode reduction. At present, principal component analysis is starting to penetrate the fundamental and clinical study of human movement, which amplifies the need for an accessible explanation of the method and its possibilities and limitations. Besides mode reduction, we discuss principal component analysis in its capacity as a data-driven filter, allowing for a separation of invariant and variant properties of coordination, which, arguably, is essential in studies of motor variability.
+
+Methods. Principal component analysis is applied to kinematic and electromyographic time series obtained during treadmill walking by healthy humans.
+
+Results. Common signal structures or modes are identified in the time series that turn out to be readily interpretable. In addition, the identified coherent modes are eliminated from the data, leaving a filtered, residual pattern from which useful information may be gleaned regarding motor variability.
+
+Conclusions. Principal component analysis allows for the detection of modes (information reduction) in both kinematic and electromyographic data sets, as well as for the separation of invariant structure and variance in those data sets.

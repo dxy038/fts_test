@@ -1,0 +1,7 @@
+A holistic model embeds water resources and economic components into a consistent mathematical programming model, with the objective
+of maximizing economic profits from water uses in various sectors. Such a model can be used to address combined environmental-economic
+issues. Although holistic modeling represents a simple approach for building truly integrated water resources and economic models, it faces
+many difficulties in terms of temporal and spatial scale issues and model formulation, calibration, solution and result interpretation, as well
+as extensive data requirement. This paper addresses the difficulties involved in large-scale holistic modeling for integrated river basin management,
+and provides solution methods taking a self-reflective stance through a prototype model. This paper is a methodological paper for practitioners
+who are interested in integrated water resources-economic modeling.

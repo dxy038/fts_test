@@ -1,0 +1,6 @@
+Objective
+estigate the influence of the clinical context of high-resolution computed tomography (HRCT) images of the chest on tissue classification.
+s and materials
+ions of interest in HRCT axial slices from patients affected with an interstitial lung disease are automatically classified into five classes of lung tissue. Relevance of the clinical parameters is studied before fusing them with visual attributes. Two multimedia fusion techniques are compared: early versus late fusion. Early fusion concatenates features in one single vector, yielding a true multimedia feature space. Late fusion consisting of the combination of the probability outputs of two support vector machines.
+s and conclusion
+te fusion scheme allowed a maximum of 84% correct predictions of testing instances among the five classes of lung tissue. This represents a significant improvement of 10% compared to a pure visual-based classification. Moreover, the late fusion scheme showed high robustness to the number of clinical parameters used, which suggests that it is appropriate for mining clinical attributes with missing values in clinical routine.

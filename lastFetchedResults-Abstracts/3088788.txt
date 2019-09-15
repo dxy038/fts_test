@@ -1,0 +1,1 @@
+This article investigates identical parallel machines scheduling with family setups. The objective function is the sum of the weighted completion times. We propose an efficient constructive heuristic and three complementary lower bounding methods that we incorporate in a branch-and-bound algorithm. The results obtained by the above algorithm are satisfactory and encouraging

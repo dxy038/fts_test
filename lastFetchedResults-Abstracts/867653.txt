@@ -1,0 +1,12 @@
+In this paper, we develop a joint quality control and preventive maintenance policy for a production system
+producing conforming and non-conforming units. The considered system consists of one machine
+which must supply another production line operating on a just-in-time basis. According to the proportion
+l of non-conforming units observed on each lot and compared to a threshold value lm, one decides to
+undertake or not maintenance actions on the system. In order to palliate perturbations caused by the
+stopping of the machine to undergo preventive maintenance or an overhaul, a buffer stock h is built
+up from the instant when the rejection rate reaches a threshold level lA in order to ensure the continuous
+supply of the subsequent production line. Our objective is to determine simultaneously the optimal rates
+l 
+m and l 
+A, and the optimal size h* which minimize the expected total cost per time unit including the average
+costs related to maintenance, quality and inventory.

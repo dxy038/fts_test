@@ -1,0 +1,1 @@
+This paper proposes an emission-aware multi-machine job shop scheduling (MMJSS) model with the objectives of minimizing carbon emissions and makespan. The optimization problem is subsequently solved through a modified multi-objective genetic algorithm. Finally, the necessity and importance of the proposed model and solution are demonstrated through simulation.

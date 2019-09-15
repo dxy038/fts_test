@@ -1,0 +1,13 @@
+In this paper, we introduce a new image segmentation
+scheme that is based on bidirectional labeling and registration
+and prove that its segmentation performance is equivalent to
+that of the conventional watershed segmentation algorithm. The
+proposed bidirectional labeling and registration scheme, which we
+refer to as bidirectional labeling and registration scheme (BIDS),
+involves only linear scans of image pixels. It uses one-dimensional
+operations rather than the queues that are used in traditional segmentation
+algorithms, which are two-dimensional problems. BIDS
+also provides unique labels for individual homogeneous regions. In
+addition to achieving the same segmentation results, BIDS is four
+times less computationally complex than the conventional watershed
+by immersion technique.

@@ -1,0 +1,8 @@
+In this study, under the constraint of resource-saving and environment-friendliness objective,
+based on multi-agent genetic algorithm, multi-objective spatial optimization (MOSO) model for land use
+allocation was developed from the view of simulating the biological autonomous adaptability to environment
+and the competitive-cooperative relationship. The model was applied to solve the practical multi-objective
+spatial optimization allocation problems of land use in the core region of Changsha, Zhuzhou, Xiangttan city
+cluster in China. The results has indicated that MOSO model has much better performance than GA for solving
+complex multi-objective spatial optimization allocation problems and it is a promising method for generating
+land use alternatives for further consideration in spatial decision-making.

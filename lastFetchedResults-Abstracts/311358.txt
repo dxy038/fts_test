@@ -1,0 +1,9 @@
+Objective. The goal of this study was to compare the muscle activation patterns in various major leg muscles during treadmill ambulation with those exhibited during robotic-assisted walking.
+
+Background. Robotic devices are now being integrated into neurorehabilitation programs with promising results. The influence of these devices on altering naturally occurring muscle activation patterns utilized during walking have not been quantified.
+
+Methods. Muscle activity measured during 60 s of walking was broken up into individual stride cycles, averaged, and normalized. The stride cycle was then broken up into seven distinct phases and the integrated muscle activity during each phase was compared between treadmill and robotic-assisted walking using a multi-factor ANOVA.
+
+Results. Significant differences in the spatial and temporal muscle activation patterns were observed across various portions of the gait cycle between treadmill and robotic-assisted walking. Activity in the quadriceps and hamstrings was significantly higher during the swing phase of Lokomat walking than treadmill walking, while activity in the ankle flexor and extensor muscles was reduced throughout most of the gait cycle in the Lokomat.
+
+Conclusions. Walking within a robotic orthosis that limits the degrees of freedom of leg and pelvis movement leads to changes in naturally occurring muscle activation patterns.

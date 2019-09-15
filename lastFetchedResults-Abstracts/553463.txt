@@ -1,0 +1,16 @@
+The utilities are interested on economic and
+optimal projects which improve their services to
+customers. These projects should increase the utilities’
+profit as well. Reactive power compensation as a useful
+and practical approach has been studied very much. One
+way of reactive power injection is installation of constant
+capacitors that result in voltage profile improvement,
+power losses and cost decrease. The present paper’s goal
+is to offer new flexible designs using Game Theory
+concepts. Power loss is first objective while capacitor and
+power loss cost are considered as second objective. The
+optimization algorithm, Strength Pareto Evolutionary
+Algorithm (SPEA), proposes some optimum plans for
+supplying system reactive power. In order to show the
+suggested method’s capabilities, the results are compared
+with GA which proves the superiority of SPEA.

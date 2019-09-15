@@ -1,0 +1,8 @@
+SummaryBackground
+l vascular endothelial growth factor receptor tyrosine kinase inhibitors (VEGFR TKI) are now approved by regulatory agencies and are important in the treatment of solid tumor malignancies. The risk of fatal adverse events (FAEs) with these agents is not well characterized.
+s
+ was searched for articles published from 2001 until 2011. Eligible studies included prospective randomized trials evaluating sunitinib, sorafenib, pazopanib, and vandetanib in patients with all malignancies. Thirteen eligible randomized controlled trials were included in a meta-analysis and the number of FAEs (defined by the National Cancer Institute’s Common Terminology Criteria for Adverse Events (CTCAE) criteria) was extracted and study quality was calculated. Incidence rates and relative risks were calculated for all thirteen studies as well as for the subset of patients with renal cell carcinoma.
+s
+is of the 5164 patients across 13 RCTs revealed that the relative risk was 1.64 (95% CI, 1.16, 2.32; P = 0.01; incidence 2.26% vs. 1.26%) for the association of a VEGFR TKI with FAEs using a random-effects model. All exploratory subgroup analyses indicated a trend toward an increase risk of FAEs with VEGFR TKI treatment, though the subgroup analyses reached statistical significance for renal carcinoma studies, studies utilizing placebo as the control arm, and studies evaluating sorafenib.
+retation
+nalysis suggests that VEGFR TKIs are associated with a significant increase in the risk of FAEs in patients with advanced solid tumors.

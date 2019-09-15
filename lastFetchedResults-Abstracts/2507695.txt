@@ -1,0 +1,23 @@
+Objective: MicroRNAs (miRNA) are a class of non-coding RNAs which play key roles in
+post-transcriptional gene regulation. Previous studies indicate that miRNAs are dysregulated
+in patients with multiple sclerosis (MS). Th17 and regulatory T (Treg) cells are two
+subsets of CD4+ T-cells which have critical functions in the onset and progression of MS.
+The current study seeks to distinguish fluctuations in expression of CD4+ T-cell derived
+miR-223 during the relapsing-remitting (RR) phase of MS (RR-MS), as well as the expressions
+of Th17 and Treg cell markers.
+Materials and Methods: This experimental study used real-time quantitative polymerase
+chain reaction (qRT-PCR) to evaluate CD4+ T cell derived miR-223 expression patterns
+in patients that experienced either of the RR-MS phases (n=40) compared to healthy controls
+(n=12), along with RNA markers for Th17 and Treg cells. We conducted flow cytometry
+analyses of forkhead box P3 (FOXP3) and RAR-related orphan receptor ?t (ROR?t) in
+CD4+ T-cells. Putative and validated targets of miR-223 were investigated in the miRWalk
+and miRTarBase databases, respectively.
+Results: miR-223 significantly upregulated in CD4+ T-cells during the relapsing phase of
+RR-MS compared to the remitting phase (P=0.000) and healthy individuals (P=0.036).
+Expression of ROR?t, a master transcription factor of Th17, upregulated in the relapsing
+phase, whereas FOXP3 upregulated in the remitting phase. Additionally, potential
+targets of miR-223, STAT1, FORKHEAD BOX O (FOXO1) and FOXO3 were predicted
+by in silico studies.
+Conclusion: miR-223 may have a potential role in MS progression. Therefore, suppression
+of miR-223 can be proposed as an appropriate approach to control progression
+of the relapsing phase of MS.

@@ -1,0 +1,7 @@
+Reservoir operation is one of the most important tasks of water resources management.
+Genetic algorithm (GA) as a robust approach can be presented as optimization
+technique in recent years. In this paper application of GA in optimization of reservoir
+operation (in three cases) has been introduced. Water supply for agriculture and
+domestic use and hydro-power plant were the objective function of the model. Results
+of the model for three cases were compared to each other. The most suitable case was
+introduced.

@@ -1,0 +1,16 @@
+In recent years, pressure has increased on environmental scientist/modellers to both undertake good science in an efficient and
+timely manner, under increasing resource constraints, and also to ensure that the science being performed is immediately relevant
+to a particular environmental management context. At the same time, environmental management is changing, with increasing
+requirements for multi-scale and multi-objective assessment and decision making that considers economic and social systems, as
+well as the ecosystem. Integration of management activities, and also of the modelling undertaken to support management, has
+become a high priority. To solve the problems of application and integration, knowledge encapsulation in models is being undertaken
+in a way that both meets the needs for good science, and also provides the conceptual and technical structures required for broader
+and more integrated application of that knowledge by managers. To support this modelling, tools and technologies from computer
+science and software engineering are being transferred to applied environmental science fields, and a range of new modelling and
+software development approaches are being pursued. The papers in this Special Issue provide examples of the integrated modelling
+concepts and applications that have been, or are being, developed. These include the use of object-oriented concepts, componentbased
+modelling techniques and modelling frameworks, as well as the emerging use of integrated modelling platforms and metadata
+support for modelling semantics. This paper provides an overview of the science and management imperatives underlying recent
+developments, discusses the technological and conceptual developments that have taken place, and highlights some of the semantic,
+operational and process requirements that need to be addressed now that the technological aspects of integrated modelling are
+well advanced.

@@ -1,0 +1,19 @@
+In today’s manufacturing enterprise, the performance of customer service level (e.g., short ordering-to-delivery time,
+low price) is highly dependent on the effectiveness of its manufacturing planning and control system (MPCS). However,
+most of the current MPCS, employed the hierarchical planning approach, may have some drawbacks, such as structural
+rigidity, difficulty of designing a control system, and lack of flexibility. Currently, RFID (Radio Frequency Identification)
+technology has been applied to enhance the visibility, accountability, track ability and traceability of manufacturing system
+whenever the accurate and detailed manufacturing information (e.g., raw material, WIP, products in factory and products
+in the down streams) of products will be followed in real-time basis by RFID technique. In addition, a multi-agent
+approach may be applied in a distributed and autonomous system which allows negotiation-based decision making. Therefore,
+the objective of this research is to study the application of RFID technique and multi-agent system (MAS) in developing
+an agent-based agile manufacturing planning and control system (AMPCS) to respond to the dynamically changing
+manufacturing activities and exceptions.
+InAMPCS, RFID-based manufacturing control (R-MC) module plays the role of controlling the manufacturing system in
+which production items and manufacturing resources attached with RFID tag may actively feedback production status to and
+receive production and operations schedule from advanced manufacturing planning (AMP) module. In addition, a bidding
+process and algorithm is developed to generate operations schedule by using the characteristics ofMAS. Performance analysis
+(PA) module is responsible not only for evaluating the scheduling results but also for evaluating the performance of production
+execution. The development of an AMPCS for an automated manufacturing cell demonstrates that the integration of RFID
+technique andMAS in developing an agilemanufacturing planning and control system can really possess the characteristics of
+visibility, accountability, track ability, responsiveness, and flexibility in a distributed and dynamic manufacturing system.

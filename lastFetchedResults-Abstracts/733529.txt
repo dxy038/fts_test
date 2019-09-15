@@ -1,0 +1,11 @@
+Objective.
+In March 2002, the city of Bowling Green, Ohio, implemented a clean indoor air ordinance banning smoking in workplaces and public places. This study evaluates the effect of this ordinance on hospital admissions for smoking-related diseases.
+Methods.
+
+A quasi-experimental design with interrupted time-series was used including a matched control city (Kent, Ohio) with no clean indoor air ordinance. Data on hospital admissions during the period of January 1999 to June 2005 were analyzed using Autoregressive Integrated Moving Average (ARIMA) models.
+Results.
+
+A reduction in admission rates for smoking-related diseases was achieved in Bowling Green compared to the control city. The largest reduction was for coronary heart disease, where rates were decreased significantly by 39% after 1 year and by 47% after 3 years following the implementation of the ordinance. ARIMA models revealed a statistically significant downward trend in monthly admission rates for coronary heart disease (Bowling Green, ω = − 1.69, p = 0.036 vs. Kent, ω = − 1.14, p = 0.183) and support the hypothesis that the ordinance had a significant impact on admission rates for coronary heart disease.
+Conclusion.
+
+The findings of this study suggest that clean indoor air ordinances lead to a reduction in hospital admissions for coronary heart disease, thus reducing health care costs.

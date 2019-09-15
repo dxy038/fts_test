@@ -1,0 +1,13 @@
+The non-uniform distribution of dislocations in metals causes a material anisotropy that manifests itself through strain
+path dependency of the mechanical response. This paper focuses on the micromechanical modelling of FCC metals with a
+dislocation cell structure. The objective is to enhance the continuum cell structure model, developed in Viatkina et al.
+[Viatkina, E., Brekelmans, W., Geers, M., submitted for publication. Modelling of the internal stress in dislocation cell
+structures], with an improved description of the dislocation density evolution enabling a correct prediction of strain path
+change effects under complete or partial stress reversal. Therefore, attention is concentrated on the dislocation mechanisms
+accompanying a stress reversal. Physically based evolution equations for the local density of the statistically stored dislocations
+are formulated to describe the formation and dissolution of a dislocation structure under deformation. Incorporation
+of these equations in the cell structure model results in improved predictions for the effects of large strain path
+changes. The simulation results show a good agreement with experimental data, including the well-known Bauschinger
+effect. The contributions of the dislocation mechanisms and the internal stresses to the resulting macroscopic strain path
+change effects are analysed. The dislocation dissolution is concluded to have a significant influence on the macroscopic
+behaviour of FCC metals after stress reversals.

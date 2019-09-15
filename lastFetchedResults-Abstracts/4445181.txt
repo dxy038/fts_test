@@ -1,0 +1,1 @@
+Bidirectional full-duplex transmission at 10 Gbps over extended SSMF is demonstrated using a low-bandwidth RSOA (1.5 GHz) in the ONU, assisted by electronic equalization (DFE) and optimum offset filtering at the receiver (OLT) end.

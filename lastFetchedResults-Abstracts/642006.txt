@@ -1,0 +1,9 @@
+Objective
+Bioelectrical impedance vector analysis allows non-invasive evaluation of soft tissue hydration and mass through pattern analysis of vector plots as height, normalized resistance, and reactance measurements.
+Methods
+Whole-body impedance measurements were made with a single frequency (50 kHz) analyzer (BIA-101, Akern/RJL Systems) in 148 adult, white, male subjects 45 to 85 y old: 56 healthy control subjects, 31 cancer patients after surgical procedure (without disease), and 61 patients with locally advanced (30 patients) or disseminated (31 patients) disease with the same body mass index and age. All patients were free from antineoplastic treatment and active nutritional intervention.
+Results
+Mean vectors of cancer groups without disease and locally advance disease versus the control group were characterized by a comparable normalized resistance component with a reduced reactance component (separate 95% confidence limits, P < 0.05), indicating a comparable ionic conduction (hydration) with loss of dielectric mass (cell membranes and tissue interfaces) of soft tissues. Overlapping 95% confidence limits of their mean vectors indicated comparable electrical tissue properties in less versus more advanced disease.
+Conclusion
+Monitoring vector displacement trajectory toward the reference target vector position may represent useful feedback in support therapy planning of individual patients.
+

@@ -1,0 +1,11 @@
+Objective
+Resistance to therapeutic drugs is a frequent phenomenon in hematologic malignancies, causing treatment failure in patients with leukemias and lymphomas. Overexpression of the multidrug-resistance gene (MDR-1) and its translational product P-glycoprotein (PgP) represents one mechanism of fatal drug resistance.
+Methods
+
+We constructed a nonviral, transposon-based vector system for the stable knockdown of PgP in chronic myeloid leukemia cell lines resistant to imatinib and doxorubicin.
+Results
+
+Using this strategy, PgP expression was completely knocked down 72 hours after vector inoculation and lasted for several months. Cellular efflux of the PgP substates rhodamine and doxorubicin was abolished. Vector-treated cells were resensitized to imatinib- and doxorubicin-induced cell death.
+Conclusion
+
+Using chronic myeloid leukemia as a model, we show that PgP-mediated resistance to imatinib and anthracyclines can be durably reversed by nonviral, transposon-based knockdown of PgP in malignant cells.

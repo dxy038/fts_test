@@ -1,0 +1,1 @@
+The optimal motion generation problem is solved subject to actuator constraints while the motion is constrained to an arbitrary path. The considered objective function is a weighted time-energy function. The authors present some results using a mathematical programming technique

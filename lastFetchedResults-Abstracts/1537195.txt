@@ -1,0 +1,9 @@
+The main objective of this work is to determine the conditions for coexistence and competitive exclusion in a discrete model for a community of three species: a stage-structured host and two competing parasitoids sharing the same host developmental stage.
+
+tence of the community of the species is found to depend on the host life history parameters in the first place, and on competitive ability and parasitoid efficiency in the second place. In particular, parasitoids equilibrium densities are defined by the size of the refuge. Extinction is expected with low growth rate and with low adult survival.
+
+ife histories are also associated with oscillations in population density, and depending on the combination of host adult survival from one generation to the next and host growth rate, the minimum of fluctuations approaches zero, implying a higher potential risk of extinction because of stochastic factors.
+
+sults suggest that equally reduced survival of parasitoids in hosts parasitized by both species determines extinction of the parasitoid with lower population density, in contrast to the case when both parasitoids benefit with 50% of all doubly parasitized hosts, leading to the hypothesis that a community where competitors in multiparasitized hosts die, easily becomes extinct.
+
+itive exclusion is expected for highly asymmetric competitive interactions, independent of population densities, allowing us to hypothesize that coexistence of competitors in systems with limited resources and refuges is associated with a clearly defined competitive hierarchy.

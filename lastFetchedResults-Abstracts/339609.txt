@@ -1,0 +1,11 @@
+Objective
+The c-Myc protein is a member of the basic region/helix-loop-helix/leucine zipper (bHLHZip) transcription factor family, which is implicated in regulation of proliferation, differentiation, and apoptosis in multiple cell types. The aim of this study was to characterize the role of the proto-oncogene c-myc in hematopoietic stem cells (HSC) during postnatal development.
+Material and Methods
+
+We have generated a conditional mouse model that allows us to inactivate c-myc in bone marrow (BM) in an inducible fashion.
+Results
+
+We show that conditional inactivation of c-Myc in BM severely impairs HSC differentiation, leading to a striking decrease in the number of lymphoid and myeloid cells. c-Myc deletion in BM causes substantial accumulation of a Lin−Sca-1+c-Kit− cell population expressing high levels of the cell-cycle inhibitor p21, whose origin and function are otherwise poorly characterized. In vivo inactivation of p21 and c-Myc normalizes Lin−Sca-1+c-Kit− cell numbers and restores normal proliferation. The potential origin and function of these cells are discussed.
+Conclusions
+
+c-Myc plays a role in HSC maintenance and differentiation and might be regulating generation of Lin−Sca-1+c-Kit− through the cell-cycle regulator p21.

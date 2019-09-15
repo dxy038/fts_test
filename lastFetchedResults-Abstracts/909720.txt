@@ -1,0 +1,14 @@
+The Wind Erosion Prediction System (WEPS) is a process-based model that simulates daily weather and field conditions along
+with hourly wind speeds and erosion. Its physical basis should allow model application to regions outside the US for which it was
+originally developed. The objective of this study was to compare results from measured wind erosion with simulated soil losses as
+a first example of WEPS use in Germany. Another objective was to introduce methods and techniques for quantifying wind erosion
+in preparation for model comparison studies to be undertaken within the Global Change and Terrestrial Ecosystems Soil Erosion
+Network. Comparisons between the measured and simulated erosion were based on single erosion events and outputs from the
+erosion submodel of WEPS. Multiple runs of the model were performed with varying roughness parameters to set the simulated
+threshold wind speed equal to that measured during the first erosion event after a tillage operation. This initial data set was used,
+depending on the rainfall or erosion, as the basis for the gradually changing roughness, crust cover and the fraction of erodible
+material on crust for all the following erosion events. Thus, the accuracy of the simulation depends much more on the relationship
+between erosion events, than on a good agreement for one single event. The results showed excellent agreement between measured
+and simulated erosion (R2   0.9). This is mainly attributed to the good agreement with the four largest erosion events in which
+transport exceeded 100 kg/m width. Excluding these events, R2 was reduced to about 0.6 for all other erosion events. Spatial and
+temporal variability of the soil transport were also reasonably simulated.

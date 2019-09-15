@@ -1,0 +1,8 @@
+Summary
+ive: Adaptive systems to deliver medical treatment in humans are safety-critical systems and require particular care in both the testing and the evaluation phase, which are time-consuming, costly, and confounded by ethical issues. The objective of the present work is to develop a methodology to test glucose controllers of an artificial pancreas in a simulated (virtual) environment.
+
+al and methods: A virtual environment comprising a model of the carbohydrate metabolism and models of the insulin pump and the glucose sensor is employed to simulate individual glucose excursions in subjects with type 1 diabetes. The performance of the control algorithm within the virtual environment is evaluated by considering treatment and operational scenarios.
+
+s: The developed methodology includes two dimensions: testing in relation to specific life style conditions, i.e. fasting, post-prandial, and life style (metabolic) disturbances; and testing in relation to various operating conditions, i.e. expected operating conditions, adverse operating conditions, and system failure. We define safety and efficacy criteria and describe the measures to be taken prior to clinical testing. The use of the methodology is exemplified by tuning and evaluating a model predictive glucose controller being developed for a wearable artificial pancreas focused on fasting conditions.
+
+sion: Our methodology to test glucose controllers in a virtual environment is instrumental in anticipating the results of real clinical tests for different physiological conditions and for different operating conditions. The thorough testing in the virtual environment reduces costs and speeds up the development process.

@@ -1,0 +1,11 @@
+Objective
+In recent years, a promising tool has been introduced which allows the co-registration of electroencephalographic (EEG) activity during brain transcranial magnetic stimulation (TMS). The aims of the present study are to identify eventual stimulus-related artefacts, and to confirm and extend previous EEG/TMS findings about the possible networks generating EEG responses evoked by TMS.
+Methods
+Focal TMS was delivered to the left primary motor cortex (MI), with different coils (real and sham) and orientations (45 and 135° in respect to the sagittal plane), in six healthy subjects. EEG and motor evoked potentials (MEPs) were simultaneously recorded from 19 scalp electrodes.
+Results
+TMS, with coil oriented at 45°, induced EEG responses characterized by a sequence of positive deflections peaking at approximately 14, 30, 60 and 190 ms and negative deflections peaking at approximately 10, 18, 40 and 100 ms post-TMS. The negative components were recorded at the recording electrode corresponding with the stimulation site (N10, N18), as well as at recording electrodes over the frontal region of the contralateral, unstimulated, hemisphere (N40) and bilaterally over the central hemispheres with its maximal representation at the stimulation site (N100). The positive components were instead detected at the frontal region of the right, unstimulated, hemisphere (P14), over the central electrodes Cz, Fz and the frontal region of the right hemisphere (P30), at the stimulation site (P60), and over the frontal regions of both hemispheres. When TMS was delivered with the coil oriented at 135°, no MEPs were recorded from the right target muscle. Nonetheless, all the TMS-induced EEG components were still evoked apart from the N20–P30. Finally, TMS with the sham coil over left MI did not induce either significant EEG responses or MEPs.
+Conclusions
+In conclusion, the TMS evoked components we have obtained by recording in continuous mode strikingly fit with those already described by other authors for both their latencies and the spatio-temporal pattern of scalp distribution.
+Significance
+This experiment is a farther validation of the combined EEG/TMS recording technique as a promising tool for experimental and clinical purposes.
+

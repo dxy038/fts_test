@@ -1,0 +1,19 @@
+The power system stabilizer (PSS) has been
+one the most active area of research in power systems.
+The positive effect of PSS on Low Frequency
+Oscillations (LFO) damping is obviously clear. Proper
+designing of PSS can increase the positive effect. So, to
+enhance of the effectiveness, this paper presents a novel
+method to reduce LFO. Since the problem of PSS design
+can be considered as a multi-objective optimization
+problem, this paper proposes an improved Particle Swarm
+Optimization (IPSO) algorithm, which is a novel heuristic
+optimization algorithm, to improve the searching space
+and convergence speed of the Conventional PSO (CPSO)
+algorithm. A suitable and comprehensive fitness function
+is also introduced to cover the wide operating conditions.
+Thereby, this algorithm is employed to identify the
+optimal parameters of PSS for Single Machine connected
+to Infinite Bus (SMIB) system by minimizing the fitness
+function. Simulation results indicate the superiority of the
+proposed algorithm.

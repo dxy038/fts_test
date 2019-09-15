@@ -1,0 +1,1 @@
+The objective of this paper is to obtain numerical bounds on the frequency drift of a Clapp voltage-controlled oscillator. It will be seen that the Clapp oscillator has a center frequency that changes by less than 0.1 percent after 20 years and over 50&#194;&#176;C temperature range.

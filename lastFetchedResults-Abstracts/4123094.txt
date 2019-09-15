@@ -1,0 +1,1 @@
+This paper describes a novel approach of using compact support radial basis functions for solving low frequency electromagnetic problems. The objective is to study its effectiveness compared to the techniques that use global radial basis functions (RBFs).

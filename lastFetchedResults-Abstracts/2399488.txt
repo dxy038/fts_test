@@ -1,0 +1,8 @@
+Objective
+ess the influence of laser-textured surfaces on the adhesion of composite to dentin after being rotary prepared.
+s
+ healthy teeth were kept in 0.1% thymol solution prior to being ground down to dentin to create a 4 × 4 mm2 flat surface. Teeth were divided into 3 groups (n = 10). Groups 1 and 2 utilized the prototype Erbium doped, Yttrium–Aluminum–Garnet Er:YAG laser by Dental Photonics, Inc. A single pulse was delivered to each spot to create an equally spaced square 4 × 4 mm2 matrix of micro craters. All craters had 100 μm diameter/45 μm depth; two different spacing patterns were prepared in Groups 1 and 2. In Group 1, distance between crater centers was 50 μm; Group 2 had 100 μm. In Group 3 (control), 10 samples were prepared without laser texturing. G-bond (GC America) was applied to testing area of all samples in all groups according to manufacturer's instructions. Bonding resin was applied and shear-bond strength tests were employed using an Instron machine to measure adhesive strength.
+s
+y analysis of variance (ANOVA) was used to compare the 3 groups. Pair wise t-tests implementing the Bonferroni correction for multiple comparisons found a statistically significant difference between Group 3 and Group 2 (p = 0.019) but no statistically significant difference between Group 3 and Group 1 (p = 0.263) or Group 1 and Group 2 (p = 0.743).
+icance
+nd strengths between bonded composite to laser-textured dentinal surfaces with larger spacing patterns are greater than that of non-textured surfaces.

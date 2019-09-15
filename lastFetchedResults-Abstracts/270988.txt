@@ -1,0 +1,9 @@
+The objective of this work is to study the effect of a frictional interface on the extent of
+interfaci,%l debonding and internal stress distribution within a unidirectional ceramic matrix composite
+under thermo-mechanical loading. The configuration considered is a concentric cylinder with
+an annular crack in the axial plane of the matrix while the fiber-matrix interface is made to obey
+the Coulomb friction law. The present approach of employing a variational model is shown to
+satisfy all boundary and inequality conditions in the slip and stick regions and at the slip-stick
+transition point. The results are also shown to be in very good agreement with a numerical elasticity
+solution for points away from the matrix crack tip while some of the peculiarities near the crack tip
+associated with the numerical solution are identified. Published by Elsevier Science Ltd.

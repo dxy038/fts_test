@@ -1,0 +1,8 @@
+Objective:
+ermine the length of time cases of meningococcal disease wait before receiving parenteral antibiotic therapy in hospital.
+:
+spital case notes of residents of Birmingham who were admitted to local hospitals in 1993 anddischarged with a diagnosis of meningitis or meningococcal disease were reviewed. This information was combined with that held by the West Midlands Ambulance Service.
+s:
+out of the 82 patients (49%) who met the case definition had meningococcal infection. Twentyone patients (26%) were admitted by ambulance, 11 of whom had meningococcal infection. The mean time from a request for an ambulance to the patient reaching hospital was 52 min for those with meningococcal infection compared to 55 min for those without. Nineteen patients (47.5%) with meningococcal infection waited more than one hour after admission for antibiotic treatment. Seven had an initial diagnosis of meningitis or meningococcal infection. Ten out of 27 patients with a meningococcal rash (37%), 13 out of 22 patients aged under five years (59%) and 13 out of 24 patients with microbiologically confirmed meningococcal infection (54%) waited more than one hour for treatment. Seven patients with meningococcal infection received benzyl penicillin before admission. Six received hospital antibiotic treatment within the hour.
+sion:
+sumption that patients suspected of having meningitis or meningococcal disease are treated promptly once in hospital is not always correct. The results of this study reinforce the need for all doctors to give benzyl penicillin promptly to patients they suspect have meningococcal disease.

@@ -1,0 +1,11 @@
+We develop an optimization model based on Markovian approach to determine the optimum value
+of thresholds in a proposed acceptance sampling design. Consider an acceptance sampling plan
+where items are inspected and when the number of conforming items between successive defective
+items falls below a lower control threshold value, then the batch is rejected, and if it falls above a
+control threshold value, then the batch is accepted and if it falls within the thresholds, the process
+of inspecting the items continues. A decision is made to accept or reject the batch. We begin with
+developing a Markov model for determining performance measures of sampling designs, resulting
+in an acceptance sampling plan optimized based on the minimum angle method. Then, the
+performance measures of the acceptance sampling plan are determined and the optimum values of
+thresholds are selected in order to optimize the objective functions. In order to demonstrate the
+application of the proposed methodology, numerical examples are illustrated.

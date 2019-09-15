@@ -1,0 +1,11 @@
+Objective
+While retrovirally mediated gene transfer of dihydrofolate reductase mutants (mutDHFR) has convincingly been demonstrated to confer methotrexate (MTX) resistance to murine hematopoietic cells, clinical application of this technology will require high efficacy in human cells. Therefore, we investigated retroviral constructs expressing various point mutants of human DHFR for their ability to confer MTX resistance to human clonogenic progenitor cells (CFU-C) and to allow for in vitro selection of transduced CFU-C.
+Methods
+
+Primary human hematopoietic cells were retrovirally transduced using MMLV- and SFFV/MESV-based vectors expressing DHFRSer31, DHFRPhe22/Ser31, or DHFRTyr22/Gly31. MTX resistance of unselected and in vitro–selected CFU-C was determined using MTX-supplemented methylcellulose cultures and gene transfer efficiency was assesed by single–colony PCR analysis.
+Results
+
+While less than 1% mock-transduced CFU-C survived the presence of ≥5×10−8 M MTX, MMLV- and SFFV/MESV-based vectors expressing DHFRSer31 significantly protected CFU-C from MTX at doses ranging from 2.5 to 30×10−8 M. Vectors expressing DHFRPhe22/Ser31 or DHFRTyr22/Gly31 were even more protective and MTX-resistant CFU-C were observed up to 1×10−5 M MTX. Three-day suspension cultures in the presence of 10–20×10−8 M MTX resulted in significant selection of mutDHFR-transduced CFU-C. The percentage of CFU-C resistant to 10×10−8 M MTX increased fourfold to 20-fold and provirus-containing CFU-C increased from 27% to 79–100%.
+Conclusion
+
+Gene transfer of DHFR using suitable retroviral backbones and DHFR mutants significantly increases MTX resistance of human CFU-C and allows efficient in vitro selection of transduced cells using a short-term selection procedure.

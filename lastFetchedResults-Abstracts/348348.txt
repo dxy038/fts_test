@@ -1,0 +1,11 @@
+Objective
+Our purpose is to find out whether the Loss of obeying a Verbal Command (LVC) and the preceding progression of the EEG frequency patterns are mutually related during an anesthetic induction.
+Methods
+EEG was analyzed from sixteen patients, anesthetized with a fixed rate infusion of propofol (30 mg/kg/h). An artifact-purified EEG from electrode Fz referenced to the average of mastoid signals was filtered to consecutive 4 Hz frequency passbands with a filter bank. Signal envelope time-series were computed for all the passbands and studied as a function of the elapsed induction time t and as a function of the relative time r, which is t divided by the time of the LVC.
+Results
+A frequency band specific biphasic activity pattern progressed from high towards low frequencies systematically and uniformly in the population studied when presented on the relative time scale r, irrespective of individual responses to the dosage.
+Conclusions
+The grouping of the individual progression patterns on the r scale indicates a strong relation between the EEG spectral behavior and the LVC.
+Significance
+EEG may provide phenomenological grounds for a continuous control variable of a sedative drug effect, even in between the discrete clinical end-points.
+

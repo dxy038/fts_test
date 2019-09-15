@@ -1,0 +1,15 @@
+Objective. To evaluate the accuracy in determining centre of pressure when using a force platform for stabilometry research.
+
+Design. Technical report.
+
+Background. Previous studies have determined the accuracy of locating the centre of pressure by applying force through a single point. In human stabilometry research however, force is distributed across two feet and the centre of pressure located between the feet.
+
+Methods. Forces were applied to a Kistler force platform using a force applied through a single point as well as when force was distributed between two metal blocks.
+
+Results. Errors in calculating centre of pressure were substantially larger when force was applied through a single point than when the force was distributed between two blocks.
+
+Conclusions. Evaluating centre of pressure accuracy by applying force through a single point overestimates the errors inherent in human stabilometry research.
+
+Relevance
+
+Evaluating changes in the centre of pressure of human subjects standing on a force platform is a common tool for evaluating control mechanisms of balance. Accurate information regarding the centre of pressure is essential for the validity of this research.

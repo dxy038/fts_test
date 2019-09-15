@@ -1,0 +1,10 @@
+This paper considers a type of biobjective bilevel programming problem, which is derived
+from a single objective bilevel programming problem via lifting the objective function at
+the lower level up to the upper level. The efficient solutions to such a model can be considered
+as candidates for the after optimization bargaining between the decision-makers
+at both levels who retain the original bilevel decision-making structure. We use a popular
+multiobjective evolutionary algorithm, NSGA-II, to solve this type of problem. The algorithm
+is tested on some small-dimensional benchmark problems from the literature.
+Computational results show that the NSGA-II algorithm is capable of solving the problems
+efficiently and effectively. Hence, it provides a promising visualization tool to help
+the decision-makers find the best trade-off in bargaining.

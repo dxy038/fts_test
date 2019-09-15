@@ -1,0 +1,22 @@
+Abstract
+Introduction: Due to dynamic of terms, their classification is challenging. The current research aims at
+determining the usability of a model for automatic recognition of MeSH terms categories through
+measuring their occurrence frequency within relevant and non-relevant document corpuses from PubMed.
+Methods: This is a descriptive research that uses the document analysis method. MeSH and PubMed were
+used to collect research data. The significancy of these resources confirms their validity. 18164 MeSHterm
+and 163226 PubMed documents were selected. The both of these amounts are greater than what
+Cocran function suggests. Eleven document corpuses were retrieved from PubMed. The relative ocurrence
+frequencies of MeSH terms within each corpus were determined. The results were compared with the real
+category of MeSH. In additions, the categories of 1 percent of MeSH terms were determined by experts in
+medical domains. The frequency distribution method was used for statistical description of data. Data
+were also analyzed through T and Chi-Squar tests in SPSS.
+Results: Each document of PubMed on average belongs to three MeSH categoris and most of Mesh terms
+occurred in all corpuses. The results confirm that the suggested method increases the probability of MeSH
+category recognition. The performance of the method depends on the subject category of MeSH Term and
+ranges between 3 to 67 percent. The findings also show that the medical expertises determination on the
+subject category of MeSH Terms is compatible with the real categories of MeSH tree.
+Conclusion: The compatibility of the subjective and objective methods for the subject category
+recognition depends on the knowledge area. The subjective categorization is a quite cognitive task and
+roots in human environmental experiences. This is why the machine depended models are not able to
+simulate that process.
+Keywords: Classification; Automatic Data Processing; Medical Subject Headings; PubMed.

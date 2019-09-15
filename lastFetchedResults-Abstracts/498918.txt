@@ -1,0 +1,7 @@
+Objective: The aim of this study was to produce a stable CHO cell line expressing tenecteplase.
+
+Materials and Methods: In the first step, the tenecteplase coding sequence was cloned in a pDB2 vector containing attB recognition sites for the phage cpC31 integrase. Then, using lipofection, the CHO cells were co-transfected with constructed recombinant plas-mid encoding tenecteplase and attB recognition sites and the integrase coding sequence containing pCMV-Int plasmid. As the recombinant plasmid contained the neomycin resistance gene (neo), stable cells were then selected using G418 as an antibiotic. Stable transformed cells were assessed using genomic PCR and RT-PCR. Finally, the functionality of tenecteplase was evaluated on the cell culture media.
+
+Results: our results indicated that tenecteplase coding sequence was inserted into the CHO cell genome and was successfully expressed. Moreover, tenecteplase activity assessment indicated the presence of our functional tenecteplase in the cell culture medium.
+
+Conclusion: Considering the data obtained from this study, (pC31 integrase can be used for the production of a stable cell line and it be used to introduce ectopic genes into mammalian cells.

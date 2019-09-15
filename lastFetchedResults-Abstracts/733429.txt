@@ -1,0 +1,11 @@
+Objective.
+Validation-study data are used to illustrate that conventional energy and macronutrient (protein, carbohydrate, fat) variables, which disregard accuracy of reported items and amounts, misrepresent reporting accuracy. Reporting-error-sensitive variables are proposed which classify reported items as matches or intrusions, and reported amounts as corresponding or overreported.
+Methods.
+
+58 girls and 63 boys were each observed eating school meals on 2 days separated by ≥ 4 weeks, and interviewed the morning after each observation day. One interview per child had forward-order (morning-to-evening) prompts; one had reverse-order prompts. Original food-item-level analyses found a sex-x-order prompt interaction for omission rates. Current analyses compared reference (observed) and reported information transformed to energy and macronutrients.
+Results.
+
+Using conventional variables, reported amounts were less than reference amounts (ps < 0.001; paired t-tests); report rates were higher for the first than second interview for energy, protein, and carbohydrate (ps ≤ 0.049; mixed models). Using reporting-error-sensitive variables, correspondence rates were higher for girls with forward- but boys with reverse-order prompts (ps ≤ 0.041; mixed models); inflation ratios were lower with reverse- than forward-order prompts for energy, carbohydrate, and fat (ps ≤ 0.045; mixed models).
+Conclusions.
+
+Conventional variables overestimated reporting accuracy and masked order prompt and sex effects. Reporting-error-sensitive variables are recommended when assessing accuracy for energy and macronutrients in validation studies.

@@ -1,0 +1,9 @@
+Background
+While prior research has found an inverse relationship between hospital volume and mortality after coronary artery bypass graft surgery (CABG), the use of volume as a proxy for quality and a means for selecting hospitals is controversial. The objective of this study is to quantify the relationship between hospital volume alone and CABG mortality.
+Methods
+A retrospective cohort of 948,093 Medicare patients undergoing CABG in 870 US hospitals from 1996 to 2001 was categorized into quintiles, based on hospital CABG volume. Hospitals were also classified by volume criterion proposed by the Leapfrog Group. Logistic regression was used to adjust hospital mortality rates (in-hospital or within 30 days after CABG) for patient characteristics; discrimination of the volume categories was assessed by the c statistic.
+Results
+The range in risk-adjusted mortality for hospitals within the quintiles was substantial: 1% to 17% at very low, 2% to 12% at low, 2% to 10% at medium, 2% to 9% at high, and 3% to 11% at very high volume hospitals. Moreover, volume alone was a poor discriminator of mortality (c statistic = 0.52). Similar variation in adjusted mortality was seen within the Leapfrog low-volume (1% to 17%) and high-volume groups (2% to 11%), and the Leapfrog criterion was a poor discriminator of mortality (c statistic = 0.51). Of the 660 low-volume Leapfrog hospitals, 253 (38%) had risk-adjusted mortality rates that were similar to or lower than the overall risk-adjusted mortality of high-volume hospitals (5.2%).
+Conclusions
+Volume alone, as a discriminator of mortality, is only slightly better than a coin flip (c statistic of 0.50).
+

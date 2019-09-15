@@ -1,0 +1,1 @@
+Presents a satisfactory optimization algorithm with fuzzy goals and fuzzy constraints under the framework of predictive control, it allows for more flexible aggregation of the control objectives than the usual weighting sum of squared errors. Compared to the standard quadratic objective function, the designer has more freedom in specifying the desired process behavior

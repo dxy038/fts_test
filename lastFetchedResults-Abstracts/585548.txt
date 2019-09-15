@@ -1,0 +1,7 @@
+This paper presents a new control structure to reduce torque ripple
+in switched reluctance motor. Although SRM possesses many advantages in
+motor structure, it suffers from large torque ripple that causes some problems
+such as vibration and acoustic noise. In this paper another control loop is
+added and torque ripple is dened as an objective function. By using fuzzy
+sliding mode strategy, the DC link voltage is adjusted to optimize the objective
+function. Simulation results have demonstrated the proposed control method.

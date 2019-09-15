@@ -1,0 +1,9 @@
+This study employs a GMDH neural network model, which has high capability in recognition of complicated non-linear trends especially with small samples, for modeling and predicting Iranian GDP growth.
+
+First a fundamental model containing 7 independent variables together with dependent variable is designed and then by using deductive process and omission of one variable at a time, a total of 18 models are estimated. The results shows that omission of total export growth, oil export growth and trading volume growth variables from the fundamental model have the most impact in terms of reducing prediction errors. Moreover, the effect of government expenditure growth on the objective variables confirms recent researches in oil rich countries.
+
+In the end, it is shown that the GMDH neural network has better predictive power than ARIMA method in prediction GDP growth based on error criteria.
+
+JEL Classification: C22, C45, C53, 041
+
+

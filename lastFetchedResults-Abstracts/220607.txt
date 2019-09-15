@@ -1,0 +1,23 @@
+We propose new models and methods for rate-distortion
+(RD) optimal video delivery over IP, when packets with
+bit errors are also delivered. In particular, we propose RD optimal
+methods for slicing and unequal error protection (UEP)
+of packets over IP allowing transmission of packets with bit
+errors. The proposed framework can be employed in a classical
+independent-layer transport model for optimal slicing, as well
+as in a cross-layer transport model for optimal slicing and UEP,
+where the forward error correction (FEC) coding is performed
+at the link layer, but the application controls the FEC code rate
+with the constraint that a given IP packet is subject to constant
+channel protection. The proposed method uses a novel dynamic
+programming approach to determine the optimal slicing and
+UEP configuration for each video frame in a practical manner,
+that is compliant with the AVC/H.264 standard. We also propose
+new rate and distortion estimation techniques at the encoder
+side in order to efficiently evaluate the objective function for a
+slice configuration. The cross-layer formulation option effectively
+determines which regions of a frame should be protected better;
+hence, it can be considered as a spatial UEP scheme. We successfully
+demonstrate, by means of experimental results, that each
+component of the proposed system provides significant gains, up
+to 2.0 dB, compared to competitive methods.

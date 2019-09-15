@@ -1,0 +1,8 @@
+Objective
+luate the effects of clinically relevant variables on the maximum principal stress (MPS) in the veneer layer of an anatomically correct veneer–core–cement–tooth model.
+s
+erage dimensions of a mandibular first molar crown were imported into CAD software; a tooth preparation was modeled by reducing the proximal walls by 1.5 mm and the occlusal surface by 2.0 mm. ‘Crown systems’ were composed by varying characteristics of a cement layer, structural core, and veneer solid, all designed to fit the tooth preparation. The main and interacting effects of proximal wall height reduction, core material, core thickness, cement modulus, cement thickness, and load position on the maximum stress distribution were derived from a series of finite element models and analyzed in a factorial analysis of variance.
+s
+erage MPS in the veneer layer over the 64 models was 488 MPa (range = 248–840 MPa). MPS increased significantly with the addition of horizontal load components and with increasing cement thickness. In addition, MPS levels varied as a function of interactions between: proximal wall height reduction and load position; load position and cement thickness; core thickness and cement thickness; cement thickness and proximal wall height reduction; and core thickness, cement thickness and proximal wall height reduction.
+sion
+al design of veneered structural ceramics must consider the complex geometry of the crown–tooth system and integrate the influence of both the main effects and interactions among design parameters.

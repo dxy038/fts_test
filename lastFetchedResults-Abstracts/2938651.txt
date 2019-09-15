@@ -1,0 +1,1 @@
+Problems related to observer-based fault detection in uncertain nonlinear systems are studied. The objective of this study is to develop an approach to nonlinear reduced-order observer design. The basic idea of this approach is to design an observer in such way that the size of detectable faults is minimized

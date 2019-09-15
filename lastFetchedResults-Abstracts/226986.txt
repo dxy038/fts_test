@@ -1,0 +1,11 @@
+The properties of virtually all real-world materials change with time, causing their bidirectional reflectance distribution
+functions (BRDFs) to be time varying. However, none of the existing BRDF models and databases take time variation into
+consideration; they represent the appearance of a material at a single time instance. In this paper, we address the acquisition, analysis,
+modeling, and rendering of a wide range of time-varying BRDFs (TVBRDFs). We have developed an acquisition system that is capable
+of sampling a material’s BRDF at multiple time instances, with each time sample acquired within 36 sec. We have used this acquisition
+system to measure the BRDFs of a wide range of time-varying phenomena, which include the drying of various types of paints
+(watercolor, spray, and oil), the drying of wet rough surfaces (cement, plaster, and fabrics), the accumulation of dusts (household and
+joint compound) on surfaces, and the melting of materials (chocolate). Analytic BRDF functions are fit to these measurements and the
+model parameters’ variations with time are analyzed. Each category exhibits interesting and sometimes nonintuitive parameter trends.
+These parameter trends are then used to develop analytic TVBRDF models. The analytic TVBRDF models enable us to apply effects
+such as paint drying and dust accumulation to arbitrary surfaces and novel materials.

@@ -1,0 +1,10 @@
+This paper addresses the No-Wait Two-Stage Assembly Flow-shop Scheduling
+Problem (NWTSAFSP) with the objective of makespan minimization. The problem is a
+generalization of previously proposed general problem in the Two-Stage Assembly Flow
+Shop Scheduling Problem (TSAFSP). The TSAFSP is NP-hard, thus the NWTSAFSP
+is NP-hard too, and three meta-heuristic algorithms, namely, Genetic Algorithm (GA),
+Dierential Evolution Algorithm (DEA) and Population-based Variable Neighborhood
+Search (PVNS) are proposed in this article to solve this problem. Computational results
+reveal that PVNS outperforms other algorithms in terms of average error and average
+Coecient of Variation (CV). Nevertheless, GA has the least run time among the proposed
+algorithms.

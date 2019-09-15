@@ -1,0 +1,11 @@
+Objective:
+To evaluate non-compliance with osteoporosis medications as well as its implications for health and economic outcomes in actual practice.
+Study design:
+Data on demographics, prescription drug dispensing, physician services and hospitalizations were obtained from a US managed care database for women with osteoporosis who were dispensed an osteoporosis medication between 1997 and 2002.
+Methods:
+Each subject's pattern of osteoporosis medication use was reconstructed using dispensing records. Subjects were considered compliant over a given period if their medication possession ratio (MPR) was ≥80% and gradients of compliance (<50% poor, 50–80% medium, 80–90% good, >90% excellent) were also examined. Using proportional hazards, the association between compliance over time and fracture rates was examined; Poisson regression was used for hospitalization and log-linear regression for medical costs.
+Results:
+38,120 women with osteoporosis were identified with a mean age of 66 years and an average follow-up of 1.7 years. Three quarters of them had an MPR below 80% when their entire follow-up was considered. Low compliance was associated with a 17% (95% CI 9–25%) increase in the fracture rate, adjusting for other known risk factors. Controlling for the specific drug regimen did not alter the association. Low compliance was also associated with a 37% (95% CI 32–43%) increase in the risk of all-cause hospitalization; and average monthly costs for all medical services combined were higher: $600 vs. $340 (P < 0.0001). Similar associations were observed when using the gradients of compliance.
+Conclusions:
+The desired goal of keeping patients with osteoporosis on chronic treatment is not being achieved adequately in actual practice and the potential social and economic implications of this behavior are substantial. Until compliance is improved, society will continue to fail in meeting an important public health goal.
+

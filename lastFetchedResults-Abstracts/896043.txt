@@ -1,0 +1,21 @@
+Background: Antigen 85 complex of Mycobacterium tuberculosis includes three
+immunogenic proteins which are TB vaccine candidates of great importance. As
+they are very hard to be achieved in natural form, recombinant production of
+them fuels immunological experiments. Production of such apolar
+mycobacterial proteins located in the cell wall faces substantial challenges
+mainly regarding their solubility. This study reports the production of soluble
+recombinant Ag85B with an efficient yield.
+Materials and Methods: Ag85B gene was cloned in pJET1.2 and subsequently
+in pET32a (+). Both recombinant plasmids were sequenced. Expression of the
+recombinant protein was induced with 1mM IPTG. Recombinant Ag85B was
+purified through dissolving inclusions in 8M urea buffer, absorbing to Ni-NTA
+resins, washing by buffers with decreasing urea concentrations and finally
+eluted in imidazole. Western blot analysis was performed using anti-6His tag
+antibody, rabbit anti- M. tuberculosis polyclonal antibody and serum of
+hospitalized TB patients.
+Results: Ag85B gene was successfully cloned in both plasmid vectors. The
+recombinant Ag85B was expressed in E. coli host and purified with significant
+yield.
+Conclusion: Western blot results along with those of sequencing ensured
+accurate production of recombinant Ag85B and retaining of its antigenic
+structure.

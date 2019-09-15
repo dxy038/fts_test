@@ -1,0 +1,9 @@
+Objective
+To compare a clinical decision rule (San Francisco Syncope Rule [SFSR]) and physician decision making when predicting serious outcomes in patients with syncope.
+Methods
+In a prospective cohort study, physicians evaluated patients presenting with syncope and predicted the chance (0%-100%) of the patient developing a predefined serious outcome. They were then observed to determine their decision to admit the patient. All patients were followed up to determine whether they had a serious outcome within 7 days of their emergency department visit. Analyses included sensitivity and specificity to predict serious outcomes for low-risk patients and comparison of areas under the receiver operating characteristic curve for the decision rule, physician judgment, and admission decisions.
+Results
+During the study period, there were 684 visits for syncope with 79 visits resulting in serious outcomes. The area under the receiver operating characteristic curve was 0.92 (95% confidence interval [CI], 0.88-0.95) for the SFSR compared with physician judgment 0.89 (95% CI, 0.85-0.93) and physician decision making 0.83 (95% CI, 0.81-0.87). Physicians admitted 28% of patients in a low-risk group, with a median length of stay of 1 day (interquartile range, 1-2.5 days). The SFSR had the potential to absolutely decrease admissions by 10% in this low-risk group and still predict all serious outcomes.
+Conclusions
+Physician judgment is good when predicting which patients with syncope will develop serious outcomes, but contrary to their judgment, physicians still admit a large number of low-risk patients. The SFSR performs better than current physician performance and has great potential to aid physician decision making.
+

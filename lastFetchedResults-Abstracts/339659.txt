@@ -1,0 +1,11 @@
+Objective
+Monocytic zinc finger (MOZ) maintains hematopoietic stem cells and, upon fusion to the coactivator CREB-binding protein (CBP), induces acute myeloid leukemia (AML). Leukemic stem cells in AML often exhibit excessive signal-dependent activity of the transcription factor nuclear factor (NF)-κB. Because aberrant interaction between NF-κB and coactivators represents an alternative mechanism for enhancing NF-κB activity, we evaluated whether MOZ and MOZ-CBP cooperate with NF-κB to activate transcription from NF-κB–dependent promoters.
+Methods
+
+The ability of MOZ, MOZ mutants, and MOZ-CBP to enhance expression of NF-κB–dependent promoters was tested in reporter studies. The interaction between MOZ and NF-κB was evaluated by both coimmunoprecipitation and glutathione S-transferase pulldown assays.
+Results
+
+MOZ activates transcription from the NF-κB–dependent interleukin-8 promoter; interestingly, this effect is markedly enhanced by CBP. Although MOZ has less potent transcriptional activity than MOZ-CBP, both proteins cooperate with steroid receptor coactivator-1 to activate transcription. MOZ also induces multiple NF-κB–dependent viral promoters. Importantly, MOZ associates in a protein complex with the p65 subunit of NF-κB and interacts directly with p65 in vitro. Transcriptional activity of MOZ requires its C-terminal domain, which is absent from MOZ-CBP, indicating that the transcriptional activity of MOZ-CBP derives from its CBP sequence.
+Conclusions
+
+MOZ interacts with the p65 subunit of NF-κB and enhances expression of NF-κB–dependent promoters. The more potent transcriptional activity of MOZ-CBP derives from its CBP sequence. Thus, interaction between NF-κB and MOZ-CBP may play an important role in the pathogenesis of certain acute myeloid leukemias.

@@ -1,0 +1,1 @@
+The aim of this paper is to develop a new methodology for solving fuzzy multi-attribute decision making problems with subjective and objective information, fuzzy numbers and non-linear normalizing and weighting functions. Contribution of this paper is shown with implementation of a real life example on supplier selection field.

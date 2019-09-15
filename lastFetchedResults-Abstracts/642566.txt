@@ -1,0 +1,11 @@
+Objective
+Few studies have investigated the resting energy expenditure (REE) of, or determined the individual predictive accuracy of prediction equations in, cancer patients undergoing anticancer therapy. This study compared the measured REE of patients with cancer undergoing anticancer therapy with (1) healthy subjects and (2) REE estimated from commonly used prediction methods.
+Methods
+
+Resting energy expenditure was measured in 18 cancer patients and 17 healthy subjects by using indirect calorimetry under standard conditions and was estimated from seven prediction methods. Fat-free mass (FFM) was measured by bioelectrical impedance analysis. Data were analyzed with regression modeling to adjust REE for FFM. Agreement between measured and predicted REE values was analyzed using the Bland-Altman approach.
+Results
+
+There was no significant difference in FFM-adjusted REE between cancer patients and healthy subjects (mean difference 10%). Limits of agreement were wide for all prediction methods in estimating REE as much as 40% below and up to 30% above measured REE.
+Conclusions
+
+REE in cancer patients undergoing anticancer therapies does not appear to be as high as commonly thought. None of the prediction equations examined were acceptable for predicting REE of individual cancer patients or healthy subjects.

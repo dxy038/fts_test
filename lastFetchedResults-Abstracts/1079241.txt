@@ -1,0 +1,11 @@
+This paper addresses an optimization model of Hybrid Desalination Processes including MSF and RO systems.
+
+Desalination is the process of removing salt and other minerals or chemicals from seawater and it is one of the alternative sources for fresh water available today. Desalination provides water for domestic purposes, industrial processing, agricultural irrigation, etc. The most conventional desalination technologies are membrane processes (Reverse Osmosis RO) and Thermal Desalination (Multi Stage Flash–MSF-and Multi Effect Evaporation–MEE-systems).
+
+Hybrid RO-MSF desalination systems have potential advantages of a higher overall availability, low power demand, and improved water quality.
+
+In this paper a mathematical model of a hybrid desalination plant including MSF(OT) and RO process is presented. The objective is to determine the optimal process design and operating conditions for a given water production. Both RO and MSF systems are modeled in a rigorous way. The resulting mathematical model contains inherently nonlinear and non-convex constraints.
+
+The solution obtained by the proposed mathematical model provides the basic design of the hybrid MSF(OT)-RO desalination plant.
+
+A case study is presented to illustrate the application of the proposed model.

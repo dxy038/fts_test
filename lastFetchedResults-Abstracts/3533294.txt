@@ -1,0 +1,1 @@
+A minimax objective is proposed, based on measuring the deviation of an actual response from the one to be approximated, in a direction that is everywhere perpendicular to the specified response. A weighting sequence is derived, which, in conjunction with the conventional sample error, gives the desired objective function.

@@ -1,0 +1,11 @@
+Objective
+The aberrant expression of c-myb in leukemic cells suggests that c-myb may play an important role in leukemogenesis. Therefore, disrupting c-myb function might provide a strategy for controlling leukemic cell growth. Use of dominant negative mutants as a strategy for inhibiting oncogene function has attracted considerable attention. The aim of this study was to induce apoptosis in K562 cells by dominant negative c-myb (DN-myb).
+Materials and Methods
+
+We constructed a DN-myb plasmid containing the DNA-binding domain of c-myb and transfected the dominant negative mutant, like its wild-type (WT) counterpart, into K562 cells. Consequently, cell viability and induction of apoptosis were measured by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay, nuclear condensation, DNA fragmentation, and Western hybridization analysis for expression of poly(ADP-ribose) polymerase. In addition, the effect of DN-myb on bcl-2 promoter activity and expression of bcl-2 and bcr-abl was studied.
+Results
+
+We observed that DN-myb, cotransfected with WT c-myb and a chloramphenicol acetyltransferase reporter construct containing the bcl-2 promoter, bound competitively to the bcl-2 promoter and significantly decreased the activation of chloramphenicol acetyltransferase induced by WT c-myb. Moreover, the inactivation of transcription induced by DN-myb reduced not only the expression of bcl-2 but also the expression of bcr-abl. Further functional studies focused on the effect of DN-myb on the induction of apoptosis in K562 cells. Transfection of DN-myb into K562 cells caused a significant reduction in cell proliferation when cells were exposed to low concentrations of DNA-damaging agents (approximately 30% of control) and remarkably increased apoptosis.
+Conclusions
+
+Our data demonstrate that disruption of c-myb function by dominant negative c-myb is an effective strategy to induce apoptosis of leukemic cells. The results of these studies support the thesis that dominant negative c-myb gene therapy may be useful for treatment of leukemia patients.

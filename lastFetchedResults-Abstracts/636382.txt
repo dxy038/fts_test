@@ -1,0 +1,12 @@
+Simultaneously testing a family of n null hypotheses can arise in many applications.A common problem in
+multiple hypothesis testing is to control Type-I error. The probability of at least one false rejection referred
+to as the familywise error rate (FWER) is one of the earliest error rate measures. Many FWER-controlling
+procedures have been proposed. The ability to control the FWER and achieve higher power is often
+used to evaluate the performance of a controlling procedure. However, when testing multiple hypotheses,
+FWER and power are not sufficient for evaluating controlling procedure’s performance. Furthermore, the
+performance of a controlling procedure is also governed by experimental parameters such as the number of
+hypotheses, sample size, the number of true null hypotheses and data structure. This paper evaluates, under
+various experimental settings, the performance of some FWER-controlling procedures in terms of five
+indices, the FWER, the false discovery rate, the false non-discovery rate, the sensitivity and the specificity.
+The results can provide guidance on how to select an appropriate FWER-controlling procedure to meet a
+study’s objective

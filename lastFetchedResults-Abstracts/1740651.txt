@@ -1,0 +1,11 @@
+In implantable medical devices (IMDs), the need of telemetry systems able to provide wireless bidirectional communication to interrogate and remotely program the device, as well as to monitor the physiological status of the patient, is growing.
+
+ject of the present study was to evaluate a new hermetic antenna for wireless short-range transmission system for IMDs which would assure reliable long-term functioning due to the high level of hermeticity of antenna's housing that limits the influence of body tissue environment on transmitted signals.
+
+mental tests were conducted on three different prototypes to evaluate the most efficient antenna configuration for transmission both in the air and through a mixture simulating the human thorax.
+
+r tests were performed to assess the influence of electro-catheters connected to IMDs on transmitted signals.
+
+s showed that the hermetic antenna guarantees a good wireless transmission both in the air and through the human thorax simulator. The results also show that the presence of an electro-catheter can influence the effective radiated power (ERP) transmitted depending on its position in relation to the telemetric circuitry.
+
+ controlled increase of the ERP without exceeding the limits imposed by rules and the optimization of the tuning between the antenna and the transmitter can assure a reliable short-range transmission (several meters) using the new hermetic antenna proposed.

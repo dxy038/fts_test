@@ -1,0 +1,23 @@
+Whole spine scanography (WSS) is a radiologic examination that
+                            requires whole body X-ray exposure. Consequently, the amount of patient
+                            radiation exposure is higher than the radiation dose following routine
+                            X-ray examination. Several studies have evaluated the patient effective
+                            dose (ED) following single exposure film-screen WSS. The objective of
+                            this study was to evaluate patient ED during WSS, based on the automatic
+                            image pasting method for multiple exposure digital radiography (APMDR).
+                            Further, the calculated EDs were compared with the results of previous
+                            studies involving single exposure film-screen WSS. We evaluated the ED
+                            of 50 consecutive patients (M:F = 28:22) who underwent WSS using APMDR.
+                            The anterior-posterior (AP) and lateral (LAT) projection EDs were
+                            evaluated based on the Monte Carlo simulation. Using APMDR, the mean
+                            number of exposures was 6.1 for AP and 6.5 for LAT projections. LAT
+                            projections required more exposures (6.55%) than AP projections. The
+                            mean ED was 0.6276 mSv (AP) and 0.6716 mSv (LAT). The mean ED for LAT
+                            projections was 0.6061 mSv in automatic exposure control (AEC) and
+                            0.7694 mSv in manual mode. The relationship between dose-area-product
+                            (DAP) and ED revealed a proportional correlation (AP, R2 = 0.943; LAT,
+                            R2 = 0.773). Compared to prior research involving single exposure
+                            screen-film WSS, the patient ED following WSS using APMDR was lower on
+                            AP than on LAT projections. Despite multiple exposures, ED control is
+                            more effective if WSS is performed using APMDR in the AEC
+                            mode.

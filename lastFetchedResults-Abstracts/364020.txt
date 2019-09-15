@@ -1,0 +1,9 @@
+Study objective
+National policy for emergency preparedness calls for hospitals to accommodate surges of 500 new patients per million population in a disaster, but published studies have not evaluated the ability of existing resources to meet these goals. We describe typical statewide and regional hospital occupancy and patterns of variation in occupancy and estimate the ability of hospitals to accommodate new inpatients.
+Methods
+Daily hospital occupancy for each hospital was calculated according to admission date and length of stay for each patient during the study period. Occupancy was expressed as the count of occupied beds. Peak hospital capacity was defined as the 95th percentile highest occupancy at each facility. Data obtained from the New York Statewide Planning and Research Cooperative System were analyzed for 1996 to 2002. Patients were classified as children (0 to 14 years, excluding newborns) or adults. Vacant hospital beds per million age-specific population were determined as the difference between peak capacity and average occupancy.
+Results
+In New York State, 242 hospitals cared for a peak capacity of 2,707 children and 46,613 adults. Occupancy averaged 60% of the peak for children and 82% for adults, allowing an average statewide capacity for a surge of 268 new pediatric and 555 adult patients for each million age-specific population. After the September 11, 2001, attacks, in the New York City region, a discretionary modification of admissions and discharges resulted in an 11% reduction from the expected occupancy for children and adults.
+Conclusion
+Typically, there are not enough vacant hospital beds available to serve 500 children per million population. Modified standards of hospital care to expand capacity may be necessary to serve children in a mass-casualty event.
+

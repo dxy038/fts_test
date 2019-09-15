@@ -1,0 +1,35 @@
+This paper describes a new stochastic heuristic
+algorithm in engineering problem optimization especially
+in power system applications. An improved particle
+swarm optimization (PSO), called Adaptive particle
+swarm optimization (APSO), mixed with simulated
+annealing (SA) that will be named APSO-SA is
+introduced. This algorithm uses a novel PSO algorithm
+(APSO) to increase convergence rate and incorporate the
+ability of SA to avoid being trapped in local optimum.
+The APSO-SA algorithm efficiency is verified using
+some benchmark functions. This paper presents the
+application of APSO-SA to find optimal location, type
+and size of flexible AC transmission system devices. Two
+types of FACTS devices, Thyristor Controlled Series
+Capacitor (TCSC) and Static VAR Compensator (SVC)
+are considered. The main objectives of presented method
+are increasing the voltage stability index and over load
+factor, decreasing the cost of investment and total real
+power losses in the power system. In this regard, two
+cases namely, single-type devices (same type of FACTS
+devices) and multi-type devices (combination of TCSC,
+SVC) are considered. Using the proposed method, the
+locations, type and sizes of FACTS devices are obtained
+for reaching the optimal objective function. APSO-SA is
+used to solve the above non–linear programming problem
+for better accuracy and fast convergence. The presented
+method expands the search space, improves performance
+and accelerates to the speed convergence, in comparison
+with the standard PSO algorithm. The optimization
+results are compared with standard PSO method. This
+comparison confirms the efficiency and validity of the
+proposed method. The proposed approach is examined
+and tested on IEEE 14-bus systems by MATLAB soft
+ware. Numerical results demonstrate that the APSO-SA is
+fast and has much less computational cost.

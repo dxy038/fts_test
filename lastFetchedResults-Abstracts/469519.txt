@@ -1,0 +1,9 @@
+Objective
+We conducted an economic analysis of prophylactic antibiotic administration for elective cesarean delivery.
+Study design
+We created a decision tree comparing the use of prophylactic antibiotics (cefazolin 1 gm intravenous) with no antibiotic use. We modeled the potential for anaphylaxis, and included outcomes of fever and endometritis. Outcome probabilities and effectiveness of antibiotic administration were derived from published sources. Costs are 2001 estimates derived from our hospital's accounting system. Sensitivity analyses were performed over the range of actual patient costs and 95% CI of the risk and probability estimates.
+Results
+Cost of an uncomplicated elective cesarean delivery was $1638.57. Fever evaluation added $125.91. Elective procedure complicated by endometritis cost $2327.29. Cefazolin administration cost $1.01. The following estimates were used: relative risk (RR) of endometritis with antibiotics was 0.18 (95% CI 0.07-0.45), fever 0.47 (95% CI 0.32-0.68), risk of endometritis without prophylaxis 4.8% (95% CI 0.9%-43%), and fever without prophylaxis 14.4% (95% CI 4%-33%). Cost of an average case without prophylaxis was $1683.72; prophylaxis reduced this to $1653.06. Sensitivity analysis over the ranges above still yielded cost savings.
+Conclusion
+Administration of prophylactic antibiotics for elective cesarean delivery reduced costs by $30.66 per case, approximately 2% of the total cost. Prophylactic antibiotic administration results in cost savings for elective cesarean delivery.
+

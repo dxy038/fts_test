@@ -1,0 +1,9 @@
+Study objective
+The Glasgow Coma Scale (GCS) score is widely used in the initial evaluation of patients with traumatic brain injury. This 15-point score, however, has been criticized as unnecessarily complex. Recently, a 3-point Simplified Motor Score (defined as obeys commands=2; localizes pain=1; withdrawals to pain or worse=0) was developed from the motor component of the GCS and was found to have a similar test performance for predicting outcomes after traumatic brain injury when compared with the GCS score as the criterion standard. The purpose of this study was to validate the Simplified Motor Score in a large heterogeneous trauma population.
+Methods
+This was a secondary analysis of a prospectively maintained trauma registry with consecutive trauma patients who presented to a Level I trauma center from 1995 through 2004. Test performance of the GCS and the Simplified Motor Score relative to 4 clinically relevant traumatic brain injury outcomes (emergency intubation, clinically significant brain injury, neurosurgical intervention, and mortality) was evaluated with areas under the receiver operating characteristic curves (AUCs).
+Results
+Of 21,170 patients included in the analysis, 18% underwent emergency intubation, 14% had clinically significant brain injuries, 7% underwent neurosurgical intervention, and 5% died. The AUCs for the GCS and its components ranged from 0.76 to 0.92 across the 4 outcome measures. The AUCs for the Simplified Motor Score ranged from 0.71 to 0.89, and the relative differences from the GCS AUCs ranged from 3% to 7%, with a median difference of 5%.
+Conclusion
+In this external validation study, the 3-point Simplified Motor Score demonstrated similar test performance when compared with the 15-point GCS score and its components for the prediction of 4 clinically important traumatic brain injury outcomes.
+

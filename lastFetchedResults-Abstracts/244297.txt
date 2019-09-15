@@ -1,0 +1,16 @@
+A crawl space foundation is widely used in buildings and detached houses in northern countries. The relative humidity (RH) of the air in
+crawl spaces is the most critical factor of the mould growth in the structures of a crawl space. The objective of the study was to find out whether
+heating is a feasible alternative for crawl space moisture control with reasonably low energy consumption. The effects of summer heating in an
+outdoor air-ventilated crawl space with different ground covers and air change rates were simulated in this study. The simulations were carried
+out for an apartment building and a detached house. The effects of the control strategy, heating capacity, air change rate and ground covers on
+the energy consumption were studied. Mould growth index was used as performance criteria for acceptable conditions in the crawl space. To
+assess the sensitivity of the main simulation parameters a differential sensitivity analysis (DSA) was used. In the parametric simulations, the
+used ground covers were lightweight expanded clay aggregate (LWA), crushed stone (CS) and PVC. The control of heating was based on RH
+controller with the set point between 70 and 80% and a heater with heat output from 2.5 to 10 W/m2 of crawl space area. It was shown that a
+thick layer of LWA prevents mould growth even without heating, but the layer with heating still provides lower RH An alternative method for
+moisture control is to use a ground cover without thermal insulation and heating of the crawl space. This method proved to be a good
+alternative to control mould growth. The specific energy consumption for heating of the crawl space was roughly the same order of magnitude
+in the studied apartment building and detached house. Annual specific energy consumption was generally low, within the range of 1.4–
+3.6 kWh/m2 of the crawl space area in most of studied cases. The energy consumption rose considerably when a lower set point value of RH
+was used, consequently the time when the heating is on was the highest when the set point value was lowest. With heating, it was possible to
+prevent any mould growth, i.e. to keep mould growth index equal to zero.

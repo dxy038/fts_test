@@ -1,0 +1,7 @@
+A mock-up of ITER including the inboard shield, the vacuum vessel and the coil region, was set up at ENEA Frascati and irradiated with 14 MeV neutrons produced by the Frascati Neutron Generator (FNG). The mock-up dimensions and materials composition are consistent with the current ITER design.
+
+imary objective of the experiment was to validate the MCNP calculations (C) of nuclear heating measured (E) in the region corresponding to the ITER Toroidal Field (TF) coil. An accuracy on C/E ratio ≤±10% was required.
+
+utronics and shielding properties of the mock-up were also studied throughout the measurement of selected activation reaction rates up to about 1 m depth. Due to the very low activity induced in the foils, the measurements in the deepest experimental positions were performed at the underground low background facility of the Laboratori Nazionali del Gran Sasso, using ultra-low background high purity germanium (HPGe) detectors.
+
+asured reaction rates and nuclear heating were thus compared with the results of the Monte Carlo code MCNP5 coupled with the FENDL-2.1 library.

@@ -1,0 +1,8 @@
+Robust design (RD) and tolerance design (TD) have received much attention from researchers and practitioners
+for more than two decades, and a number of methodologies for modeling and optimizing the RD
+and TD processes have been studied. However, there is ample room for improvement. Because most
+existing research considers RD and TD as separate research fields, the primary objective of this paper
+is to develop a sequential robust–tolerance design method to jointly determine the best factor settings
+and the closed-form solutions for the optimal specification limits. We then apply the proposed method
+to a destructive quality characteristic. Finally, a case study and sensitivity analyses are performed for
+verification purposes, and further studies are discussed.

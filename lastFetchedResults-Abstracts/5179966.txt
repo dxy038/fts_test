@@ -1,0 +1,1 @@
+This paper is concerned with the resource allocation problem for a multiservice network link with unicast and multicast connections. The objective is to allocate capacity on the link such that the carried load is maximized. We develop an approximate method to solve the problem and also present an estimation of its accuracy and some numerical results.

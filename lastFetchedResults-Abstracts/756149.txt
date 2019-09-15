@@ -1,0 +1,5 @@
+The main objective of the paper is determination of the geoidal potential, using satellite altimetry, Jason-2, and GRACE data. This purpose has been carried out according to the following algorithms Preparation of 80 cycles, about 27 month, of Jason-2 altimeter raw data, 2. Applying all necessary corrections such as: tidal, atmospheric and instrumental corrections, on the raw data to determinate corrected sea surface heights (COSSH); 3. Computing monthly Earth's gravity potential at the mean sea surface points, using GRACE monthly spherical harmonic coefficients 4. Removing parts of data related to the world greatest Lakes, especially the Caspian; and 5. Averaging of remaining data to determinate the geoidal potential. The results indicated that the average of geoidal potential, from July 2008 to September 2010 is about has been  , where the highest monthly changes related to semi-annual variations is about  .
+
+
+Keywords: Satellite Altimetry, Geoid, GRACE, Mean sea surface, Gravity Potential.
+

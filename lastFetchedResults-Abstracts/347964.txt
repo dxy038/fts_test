@@ -1,0 +1,9 @@
+Objective
+Until now, the demonstration that early components of high-frequency oscillations (HFOs) evoked by electrical upper limb stimulation are generated in the brain-stem has been based on the results of scalp recordings. To better define the contribution of brain-stem components to HFOs building, we recorded high-frequency somatosensory evoked potentials (SEPs) in 6 healthy volunteers by means of a nasopharyngeal (NP) electrode. Moreover, since HFOs are highly susceptible to arousal fluctuations, we investigated whether eyes opening can influence HFOs at this level.
+Methods
+We recorded right median nerve SEPs from the ventral surface of the medulla by means of a NP electrode as well as from the scalp, in 6 healthy volunteers under two different arousal states (eyes opened versus eyes closed). SEPs have been further analyzed after digital narrow bandpass filtering (400–800 Hz).
+Results
+NP recordings demonstrated in all subjects a well-defined burst, occurring in the same latency window of the low-frequency P13–P14 complex. Eyes opening induced a significant amplitude increase of the NP-recorded HFOs, whereas scalp-recorded HFOs as well as low-frequency SEPs remained unchanged.
+Conclusions
+Our findings demonstrate that slight arousal variations induce significant changes in brain-stem components of HFOs. According to the hypothesis that HFOs reflect the activation of central mechanisms, which modulate sensory inputs depending on variations of arousal state, our data suggest that this modulation is already effective at brain-stem level.
+

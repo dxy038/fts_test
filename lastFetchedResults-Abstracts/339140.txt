@@ -1,0 +1,11 @@
+Objective
+Overexpression of cyclin D1 is a common event in solid and hematological cancers. In multiple myeloma (MM), a B-cell hemopathy, one mechanism responsible for cyclin D1 expression is the translocation t(11;14)(q13;q32). But this translocation does not account for cyclin D1 gene activation in all MM. We have hypothesized that epigenetic events could regulate cyclin D1 gene transcription.
+Methods
+
+Using 6 MM cell lines representative of different cyclin D1 expression levels and exhibiting various chromosome 11 abnormalities, as well as normal B cells, we studied DNA methylation and histone acetylation of the cyclin D1 promoter.
+Results
+
+With the bisulfite sequencing technique, we have studied the DNA methylation status of the core minimal cyclin D1 promoter containing Sp1- and CRE-binding sites. Our results show that this region is not methylated in 6 human MM cell lines as well as in normal B lymphocytes, independently of cyclin D1 expression. Treatment with the DNA methyltransferase inhibitor 5-aza-deoxycytidine (5-Aza) had no effect on cyclin D1 gene transcription. Chromatin immunoprecipitation (ChIP) experiments indicated that acetylated histones H4 are located at both the active and inactive cyclin D1 promoter. Treatment with a histone deacetylase inhibitor, trichostatin A (TSA), had no effect on gene transcription, nor had combined TSA plus 5-Aza treatment.
+Conclusion
+
+The cyclin D1 gene is silenced within the B lineage by a mechanism different from DNA methylation or histone deacetylation.

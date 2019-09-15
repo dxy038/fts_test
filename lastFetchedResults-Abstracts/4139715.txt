@@ -1,0 +1,1 @@
+At the present time, very few organizations appear to be using the more complex, portfolio based, resource allocation models proposed in the literature. It is the objective of this paper to discuss some extensions and improvements to a basic linear programming approach to decision making in R&amp;D, pointing out their weaknesses whether of a theoretical or practical nature.

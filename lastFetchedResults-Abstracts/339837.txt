@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma (MM) is presently an incurable malignant plasma cell tumor. The objective of this study was to investigate expression of the interferon regulatory factor family (IRF1-9) and the potential role of DNA methylation in silencing IRF genes in MM cell lines and purified MM cells from patients.
+Materials and Methods
+
+Using a panel of 13 human MM cell lines and purified CD138+ cells from nine MM patients, expression of IRF genes was investigated by quantitative reverse transcriptase polymerase chain reaction and Western blot. DNA methylation of the interferon consensus sequence–binding protein (ICSBP/IRF8) gene was measured using pyrosequencing, and the effect of promoter methylation on expression was analyzed by in vitro methylation of a cloned ICSBP/IRF8 promoter, and treatment of MM cells with 5-aza-2′-deoxycytidine (DAC).
+Results
+
+Eight of thirteen of the MM cell lines were found to lack ICSBP/IRF8 expression, associated with hypermethylation of the CpG island in the ICSBP/IRF8 promoter. We also found that ICSBP/IRF8 was significantly underexpressed in primary MM cells, whereas the ICSBP/IRF8 promoter was methylated in only one of nine of primary purified CD138+ MM samples. DAC-mediated demethylation restored endogenous ICSBP/IRF8 expression, whereas in vitro methylation silenced the promoter.
+Conclusion
+
+Expression of the ICSBP/IRF8 gene is silenced in a majority of MM cell lines and primary CD138+ MM cells. DNA methylation of the ICSBP/IRF8 gene is a frequent event in MM cell lines, but silencing is also observed in the absence of methylation. These results suggest that silencing of ICSBP/IRF8 expression, by DNA methylation or other epigenetic mechanisms, may be associated with the malignant phenotype of MM.

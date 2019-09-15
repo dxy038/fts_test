@@ -1,0 +1,11 @@
+Objective
+The Panayiotopoulos type of idiopathic occipital epilepsy has peculiar and easily recognizable ictal symptoms, which are associated with complex and variable spike activity over the posterior scalp areas. These characteristics of spikes have prevented localization of the particular brain regions originating clinical manifestations. We studied spike activity in this epilepsy to determine their brain generators.
+Methods
+The EEG of 5 patients (ages 7–9) was recorded, spikes were submitted to blind decomposition in independent components (ICs) and those to source analysis (sLORETA), revealing the spike generators. Coherence analysis evaluated the dynamics of the components.
+Results
+Several ICs were recovered for posterior spikes in contrast to central spikes which originated a single one. Coherence analysis supports a model with epileptic activity originating near lateral occipital area and spreading to cortical temporal or parietal areas.
+Conclusions
+Posterior spikes demonstrate rapid spread of epileptic activity to nearby lobes, starting in the lateral occipital area. In contrast, central spikes remain localized in the rolandic fissure.
+Significance
+Rapid spread of posterior epileptic activity in the Panayitopoulos type of occipital lobe epilepsy is responsible for the variable and poorly localized spike EEG. The lateral occipital cortex is the primary generator of the epileptic activity.
+

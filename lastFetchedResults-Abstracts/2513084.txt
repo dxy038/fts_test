@@ -1,0 +1,26 @@
+Objective: Induced pluripotent stem cells are generated from somatic cells by direct reprogramming.
+These reprogrammed pluripotent cells have different applications in biomedical
+fields such as regenerative medicine. Although viral vectors are widely used for
+efficient reprogramming, they have limited applications in the clinic due to the risk for
+immunogenicity and insertional mutagenesis. Accordingly, we designed and developed a
+small, non-integrating plasmid named pLENSO/Zeo as a 2A-mediated polycistronic expression
+vector.
+Materials and Methods: In this experimental study, we developed a single plasmid which
+includes a single expression cassette containing open reading frames of human LIN28,
+NANOG, SOX2 and OCT4 along with an EGFP reporter gene. Each reprogramming factor
+is separated by an intervening sequence that encodes a 2A self-processing peptide.
+The reprogramming cassette is located downstream of a CMV promoter. The vector is
+easily propagated in the E. coli GT115 strain through a CpG-depleted vector backbone.
+We evaluated the stability of the constructed vector bioinformatically, and its ability to stoichiometric
+expression of the reprogramming factors using quantitative molecular methods
+analysis after transient transfection into HEK293 cells.
+Results: In the present study, we developed a nonviral episomal vector named pLENSO/
+Zeo. Our results demonstrated the general structural stability of the plasmid DNA. This
+relatively small vector showed concomitant, high-level expression of the four reprogramming
+factors with similar titers, which are considered as the critical parameters for efficient
+and consistent reprogramming.
+Conclusion: According to our experimental results, this stable extrachromosomal plasmid
+expresses reliable amounts of four reprogramming factors simultaneously. Consequently,
+these promising results encouraged us to evaluate the capability of pLENSO/Zeo
+as a simple and feasible tool for generation of induced pluripotent stem cells from primary
+cells in the future.

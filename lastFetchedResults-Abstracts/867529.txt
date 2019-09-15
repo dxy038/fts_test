@@ -1,0 +1,7 @@
+This paper studies a single-machine scheduling problem with three models of learning and forgetting
+effects in intermittent batch production. They are the models of no transmission, partial transmission
+and total transmission of learning from batch to batch. The phenomena exist in many realistic production
+systems. The objective is to minimize the makespan. We show that the problems with the models of no
+transmission and partial transmission of learning from batch to batch are polynomially solvable. We also
+provide two polynomial time algorithms for two special cases in the problem with the total transmission
+model.

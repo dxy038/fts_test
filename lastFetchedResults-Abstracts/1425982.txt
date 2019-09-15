@@ -1,0 +1,8 @@
+Objective
+mine the impact of assumptions about prevalence or prior clinical probability of bipolar disorder on the clinical performance (predictive values) of diagnostic screening tests.
+
+ivity and specificity data from four reports on two bipolar screening instruments (the Mood Disorders Questionnaire and the Bipolar Spectrum Diagnostic Scale) were used to calculate positive and negative predictive values at varying prevalence levels. Bayesian statistical concepts were employed.
+s
+ prevalence or low prior clinical probability, the sensitivity and specificity of the test have little impact on negative predictive value; the tests perform well, with low risk of false negatives. Similarly, at low prevalence or low prior clinical probability, positive predictive values are low regardless of which sensitivity and specificity data are used: the risk of false positives is substantial.
+sions
+er prevalence or prior probabilities, as in the community or primary care setting, these screening tests can rule out bipolarity (when patients have insight into their symptoms), but do not effectively rule it in. Clinicians' estimates of prior probability have as much, or in many cases more, impact on the clinical performance of the bipolar screening tools than the tests' sensitivity and specificity. To improve the performance of screening tools, the primary emphasis needs to be placed on improving clinicians' skill at recognizing clinical and historical features of bipolar diagnosis.

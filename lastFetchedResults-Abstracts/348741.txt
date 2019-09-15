@@ -1,0 +1,11 @@
+Objective
+To establish an objective two-point discrimination test using magnetoencephalography (MEG).
+Methods
+First, we determined the discrimination threshold (DT) of the two-points. In the first experiment, we applied 0.9DT as standard stimuli, and 0.8DT, 1.1DT and 2DT as deviant stimuli in Conditions 1, 2 and 3, respectively. In the second experiment, we used 2DT and 0.9DT as the standard and deviant stimuli, respectively, in Condition 1. We applied two-stimuli that subjects felt as definitely one point or two-points in Condition 2 and 3, respectively.
+Results
+In the first experiment, the components peaking around 30–70 and 150–250 ms following deviant stimuli were significantly larger than those following standard stimuli. Considering the peak latency, these components seem consistent with the magnetic mismatch field (MMF). In the second experiment, the MMF was recorded only in Condition 1. Therefore, it is considered that the MMF was recorded only when subjects automatically discriminate one point from two-points stimuli.
+Conclusions
+This novel method can be used in neurophysiological two-point discrimination tests without the need to rely on the examiners’ skills and subjects’ reactions.
+Significance
+We confirmed that our new method could be used for the objective examination of two-point spatial discrimination.
+

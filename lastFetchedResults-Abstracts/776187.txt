@@ -1,0 +1,20 @@
+Main features of a solar chimney power plant are a circular greenhouse type collector and a tall chimney at its centre.
+Air flowing radially inwards under the collector roof heats up and enters the chimney after passing through a turbogenerator.
+The objective of the study was to investigate analytically the validity and applicability of the assumption that, for maximum
+fluid power, the optimum ratio of turbine pressure drop to pressure potential (available system pressure difference) is
+2/3. An initial power law model assumes that pressure potential is proportional to volume flow to the power m, where m is
+typically a negative number between 0 and  1, and that the system pressure drop is proportional to the power n, where
+typically n = 2. The analysis shows that the optimum turbine pressure drop as fraction of the pressure potential is (n   m)/
+(n + 1), which is equal to 2/3 only when m = 0, implying a constant pressure potential, independent of flow rate. Consideration
+of a basic collector model proposed by Schlaich leads to the conclusion that the value of m is equal to the negative
+of the collector floor-to-exit efficiency. A more comprehensive optimization scheme, incorporating the basic collector
+model of Schlaich in the analysis, shows that the power law approach is sound and conservative.
+It is shown that the constant pressure potential assumption (m = 0) may lead to appreciable underestimation of the performance
+of a solar chimney power plant, when compared to the analyses presented in the paper. More important is that
+both these analyses predict that maximum fluid power is available at much lower flow rate and much higher turbine pressure
+drop than predicted by the constant pressure potential assumption. Thus, the constant pressure potential assumption
+may lead to overestimating the size of the flow passages in the plant, and designing a turbine with inadequate stall margin
+and excessive runaway speed margin. The derived equations may be useful in the initial estimation of plant performance, in
+plant performance analysis and in control algorithm design. The analyses may also serve to set up test cases for more comprehensive
+plant models.
+  2006 Elsevier Ltd. All rights reserved.

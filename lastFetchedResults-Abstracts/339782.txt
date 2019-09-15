@@ -1,0 +1,11 @@
+Objective
+FLRF (Rnf41) gene was identified through screening of subtracted cDNA libraries form murine hematopoietic stem cells and progenitors. Subsequent work has revealed that FLRF acts as E3 ubiquitin ligase, and that it regulates steady-state levels of neuregulin receptor ErbB3 and participates in degradation of IAP protein BRUCE and parkin. The objective of this study was to start exploring the role of FLRF during hematopoiesis.
+Materials and Methods
+
+FLRF was overexpressed in a murine multipotent hematopoietic progenitor cell line EML, which can differentiate into almost all blood cell lineages, and in pro-B progenitor cell line BaF3. The impact of FLRF overexpression on EML cell differentiation into myeloerythroid lineages was studied using hematopoietic colony-forming assays. The interaction of FLRF with cytokine receptors and receptor levels in control cells and EML and BaF3 cells overexpressing FLRF were examined with Western and immunoprecipitation.
+Results
+
+Remarkably, overexpression of FLRF significantly attenuated erythroid and myeloid differentiation of EML cells in response to cytokines erythropoietin (EPO) and interleukin-3 (IL-3), and retinoic acid (RA), and resulted in significant and constitutive decrease of steady-state levels of IL-3, EPO, and RA receptor-α (RARα) in EML and BaF3 cells. Immunoprecipitation has revealed that FLRF interacts with IL-3, EPO, and RARα receptors in EML and BaF3 cells, and that FLRF-mediated downregulation of these receptors is ligand binding–independent.
+Conclusions
+
+The results of this study have revealed new FLRF-mediated pathway for ligand-independent receptor level regulation, and support the notion that through maintaining basal levels of cytokine receptors, FLRF is involved in the control of hematopoietic progenitor cell differentiation into myeloerythroid lineages.

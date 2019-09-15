@@ -1,0 +1,5 @@
+Objective: We compared the high-frequency oscillations (HFOs) evoked by posterior tibial nerve (PTN) and median nerve (MN) stimulation.
+Methods: Somatosensory evoked potentials (SEPs) were recorded with a filter set at 10–2000 Hz to right PTN and to right MN stimulation in 10 healthy subjects. The HFOs were obtained by digitally filtering the wide-band SEPs with a band-pass of 300–900 Hz.
+Results: HFOs were recorded in 8 of the 10 subjects for PTN, and in all subjects for MN stimulation. The HFOs after both PTN and MN stimulation started approximately at or after the onset of the primary cortical response (P37 and N20) and ended around the middle of the second slope. HFO amplitudes and area after PTN stimulation were significantly smaller than those after MN stimulation. HFO duration after PTN stimulation was markedly longer than that after MN stimulation. However, HFO interpeak latencies did not differ between the two nerves.
+Conclusions: The present findings suggest that the HFOs after PTN and MN stimulation reflect a neural mechanism common to the hand and foot somatosensory cortex.
+

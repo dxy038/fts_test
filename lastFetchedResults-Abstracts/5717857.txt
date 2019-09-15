@@ -1,0 +1,1 @@
+The main objective of this research work is analysis and design controller for torque control of two-mass resonant system. The integral of time multiplied by absolute error (ITAE) is applied to assign the closed-loop poles of the system characteristic equation. The simulation results show that the transfer of torque has a better performance.

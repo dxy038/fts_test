@@ -1,0 +1,7 @@
+Sampathkumar [1] introduced a new type of generalization to graphs, called Semigraphs. A semigraph G = (V, X) on the set of vertices V and the set of edges X consists of n-tuples (u1,u2,un) of distinct elements belonging to the set V for various n ≥ 2, with the following conditions : (1) Any n-tuple (u1,u2,un) = (un,un-1,…,u1) and (2) Any two such tuples have at most one element in common.
+
+Kamath and R. S. Bhat [3] introduced domination in semigraphs. Two vertices u and v are said to a-dominate each other if they are adjacent. A set D ⊆ V(G) is an adjacent dominating set (ad-set) if every vertex in V - D is adjacent to a vertex in D. The minimum cardinality of an ad-set D is called adjacency domination number of G and is denoted by γa.
+
+may increase or decrease by the removal of a vertex or an edge from G.
+
+ex v of a semigraph G is said to be γa - critical if γa(G - v) ≠ γa(G); if γa(G - v) = γa(G), then v is γa - redundatnt. The main objective of this paper is to study this phenomenon on the vertices and edges of a semigraph.

@@ -1,0 +1,4 @@
+Objective: The study intends to provide a suitable model and practical solutions for design and implementation of future digital libraries with emphasis on offering smart services
+Methods: Content analysis was used to collect, extract and analyze the necessary data using LIS and Computer Science corpus as the baseline.
+Findings:  given the deployment of artificial intelligent devices and emerging ICT services, future trend of digital libraries posits “Smart Libraries” as a new generation of digital libraries. One of the hallmarks of such libraries that lends itself to faster and easier user access to information includes intelligent meta search engines, clustering techniques, trend analysis, knowledge discovery, library customization, query answering, intelligent search and statistical survey.
+

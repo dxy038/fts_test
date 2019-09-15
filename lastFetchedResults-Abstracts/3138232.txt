@@ -1,0 +1,1 @@
+A WDM-PON bidirectional architecture with 24-dB optical budget or 35-km SSMF at 10 Gbit/s is demonstrated using a low bandwidth RSOA (~2GHz), assisted by electronic equalization and optimum offset filtering at the receiver.

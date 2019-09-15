@@ -1,0 +1,11 @@
+Objective
+The gene BAALC (Brain And Acute Leukemia, Cytoplasmic), a novel molecular marker involved in leukemia, is highly expressed in a subset of patients with acute leukemia and predictive of clinical outcome in patients with acute myeloid leukemia and normal karyotype. The role of BAALC in hematopoiesis and leukemogenesis is unknown.
+Material and methods
+
+We used real-time RT-PCR to show that BAALC is strongly expressed in CD34+ cells from the bone marrow and blood and only weakly expressed in total normal bone marrow and blood cells.
+Results
+
+Expression analyses of FACSorted cells revealed high BAALC transcript levels in CD34+ bone marrow cells including CD34+/CD38−, CD34+/CD33+, as well as CD34+/CD19+/CD10+, CD34+/CD7+, and CD34+/CD71+/CD45− cell fractions. Expression was significantly lower in all CD34− fractions. In vitro differentiation of CD34+ bone marrow cells showed downregulation of BAALC and CD34 transcripts as early as day 4 in suspension cultures supplemented with lineage-specific cytokines (G-CSF, M-CSF, or EPO). In cultures with only lineage-unspecific cytokines (IL-3, SCF, GM-CSF), BAALC transcripts persisted up to day 20, while CD34 transcripts disappeared earlier. These observations suggest that expression of BAALC is stage specific.
+Conclusions
+
+BAALC expression is restricted to progenitor cells, and downregulation of BAALC occurs with cell differentiation. We postulate that BAALC represents a novel marker of an early progenitor cell common to the myeloid, lymphoid, and erythroid pathways.

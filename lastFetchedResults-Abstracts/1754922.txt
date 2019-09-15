@@ -1,0 +1,8 @@
+Objective
+rospective study was designed to test the hypothesis that burnout and insomnia predict each other's incidence and intensification across time. Burnout is conceptualized as representing individuals' unique affective response to their exposure to chronic stressors.
+
+ntly healthy respondents (1356) completed questionnaires during periodic health examinations undergone at two time points T1 and T2, about 18 months apart. Burnout was assessed by the Shirom–Melamed Burnout Measure, while insomnia was assessed by the Brief Athens Insomnia Scale. Depressive symptomatology, neuroticism, body mass index, age, gender, follow-up duration, and T1 levels of the criterion were controlled.
+s
+t and insomnia were found to be only moderately associated at T1. However, logistic regression results indicated that burnout significantly predicted the development of new cases of insomnia at 18-month follow-up [odds ratio (OR)=1.93; 95% confidence interval (95% CI)=1.45–2.58], even after adjusting for depression and other potent confounders. Likewise, insomnia significantly predicted the onset of new cases of burnout at 18-month follow-up (OR=1.64; 95% CI=1.30–2.08). Hierarchical regression results indicted that T1 burnout significantly predicted an increase in T2 insomnia (β=.05, P&lt;.05), and that T1 insomnia significantly predicted an increase in T2 burnout (β=.07, P&lt;.05).
+sion
+sults indicate that burnout and insomnia recursively predict each other's development and intensification over time, thus suggesting that either might be a risk factor for the other across time. Possible mechanisms of link between burnout and insomnia, as well as the clinical implications of the findings, were suggested.

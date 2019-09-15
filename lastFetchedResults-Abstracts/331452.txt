@@ -1,0 +1,11 @@
+Objective
+To compare the Shear Bond Strength (SBS) of resin-bonded metal/enamel bonds with the Fatigue Limit and Fatigue Life of identical joints.
+Methods
+
+285 discs of Ni/Cr-alloy (dia 5 mm × 4 mm) were cast and treated by either (1) Sandblasting with aluminium oxide or (2) Sandblast + 15 min electrolyticetch in HCl. The discs were bonded to etched enamel (37% HPO4/30 s) using 3 bonding systems. Ten discs of each group were subjected to a shear bond test (SBT) in a Universal Testing Machine5 (CHS = 50 mm/min). Seventeen discs of each group were used to determine the Fatigue Limit using the Staircase method (5000 cycles, 4 kg increment). Further batches of 10 discs were subjected to cyclic loads of either 5, 10, or 20 kg to determine the number of cycles at failure (Fatigue Life). The SBS and Fatigue Limit results were compared by correlation analysis. The Fatigue-Life cycles were compared by Weibull analysis to determine the β (reliability) and α (number of cycles) coefficients for the 3 loads.
+Results
+
+For all materials and treatments, the Fatigue-Limit results were much lower than the SBS and there was no correlation between the values (r = 0.49, p = 0.18). The Fatigue Limit for the samples using 5000 cycles ranged from 10.7 to 16.1 MPa. In the Fatigue-Life study, the stress at which the samples were reliably able to withstand more than 1million cycles (β > 5) was 2.5 MPa.
+Conclusion
+
+The Fatigue Limit of the bonds was much lower than the SBS and there was no correlation between the two values. In this study the Fatigue Limit was not a good predictor of the long term Fatigue-Life failure of the specimens.

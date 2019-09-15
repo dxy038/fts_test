@@ -1,0 +1,12 @@
+Objective
+ermine whether dogs can be trained to identify people with bladder cancer on the basis of urine odour more successfully than would be expected by chance alone.
+
+mental, “proof of principle” study in which six dogs were trained to discriminate between urine from patients with bladder cancer and urine from diseased and healthy controls and then evaluated in tests requiring the selection of one bladder cancer urine sample from six controls.
+ipants
+e and female patients (age range 48–90 years) presenting with new or recurrent transitional cell carcinoma of the bladder (27 samples used for training; 9 used for formal testing); 108 male and female controls (diseased and healthy, age range 18–85 years–54 samples used in training; 54 used for testing).
+utcome Measure
+roportion of successes per dog achieved during evaluation, compared with an expected value of 1 in 7 (14%).
+s
+as a group, the dogs correctly selected urine from patients with bladder cancer on 22 out of 54 occasions. This gave a mean success rate of 41% (95% confidence intervals 23% to 58% under assumptions of normality, 26% to 52% using bootstrap methods), compared with 14% expected by chance alone. Multivariate analysis suggested that the dogs’ capacity to recognise a characteristic bladder cancer odour was independent of other chemical aspects of the urine detectable by urinalysis.
+sions
+an be trained to distinguish patients with bladder cancer on the basis of urine odour more successfully than would be expected by chance alone. This suggests that tumour related volatile compounds are present in urine, imparting a characteristic odour signature distinct from those associated with secondary effects of the tumour, such as bleeding, inflammation, and infection.

@@ -1,0 +1,1 @@
+This paper presents an improved and updated taxonomy for Time Warp based distributed synchronization protocols. This taxonomy aims to allow the grouping of several optmistic distributed simulation synchronization protocols, with the objective to facilitate the task to decide which protocol is better for a specific simulation.

@@ -1,0 +1,9 @@
+Objective
+Alcohol-related neurodevelopmental disorders are contributors to long-term learning disabilities. By using a model for fetal alcohol syndrome, we have shown that prenatal alcohol exposure results in adult learning deficits of unknown mechanisms. In the developing hippocampus, the N-methyl-D-aspartate (NMDA) receptor subunit NR2B triggers long-term potentiation, fundamental to learning and memory; this is supplemented by the less plastic NR2A subunit in the adult. To understand the mechanism of learning deficits in FAS, we evaluated NR2B and NR2A expression in embryonic and adult mice.
+Study design
+Pregnant C57Bl6/J mice were treated on gestational day 8 with alcohol or control (saline solution). Embryos were harvested at 6 hours, 24 hours, and 10 days, and brains from adult offspring were collected at 3 months (after evaluation for learning deficit). Calibrator-normalized relative real-time polymerase chain reaction was performed for NR2B and NR2A with glyceraldehyde-3-phosphate dehydrogenase standardization. Statistical analysis included analysis of variance.
+Results
+At 6 hours, NR2B expression in the alcohol-exposed embryos was higher than in controls (P< .01). NR2A was not expressed in either group. By 24 hours there was no difference in NR2B (P = .3). However, at 10 days NR2B was lower in alcohol-exposed animals (P = .02). In the adult brains there was a relative decrease in NR2B (P = .03) and an increase in NR2A (P< .01).
+Conclusion
+Prenatal alcohol exposure during development induces NR2B expression deregulation in the embryos that persists until adulthood, when a relative increase in the less modifiable subunit NR2A occurs. This alteration in NMDA receptor subunits may underlie the learning abnormalities in fetal alcohol syndrome
+

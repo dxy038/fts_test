@@ -1,0 +1,11 @@
+Objective
+To determine if increased relative humidity and temperature simulating intraoral environmental conditions adversely affect flexural properties of dental composites.
+Methods
+
+Specimen fabrication followed ANSI/ADA specification 27 for resin-based filling materials, except that ambient laboratory conditions (47% relative humidity at 22 °C) or simulated intraoral conditions (90% relative humidity at 35 °C) were used when fabricating and polymerizing specimens. Ten specimens were made of each of three commercially available composites at each condition. As per the specification, after aging specimens in 10 ml of deionized water at 37 °C for 24 h, flexural properties were measured using a 3-point bend test.
+Results
+
+A two-factor ANOVA and Fisher's least significant difference (LSD) post hoc (α = 0.05) indicated there were significant differences in flexural modulus and strength as a function of material, with Z250 = TPH > Prodigy. However, neither flexural modulus nor flexural strength of any material was adversely influenced by fabrication conditions.
+Significance
+
+Although the flexural properties did not decrease with respect to fabrication conditions, the flexural modulus of some of the materials (TPH Spectrum and Z250) increased when specimens were fabricated at simulated intraoral temperature and relative humidity. Thus, simulation of these factors may be important in laboratory testing, since the resultant properties may better reflect flexural properties associated with dental composite restorations placed clinically.

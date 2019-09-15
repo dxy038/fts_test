@@ -1,0 +1,1 @@
+This short paper considers the design of linear reduced-order filters and linear full-order filters with reduced complexity. The objective of a reduced-order filter is to estimate a linear transformation of the state vector with a filter of lower dimension. This type of filter occurs frequently in applications.

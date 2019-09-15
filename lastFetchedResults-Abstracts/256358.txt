@@ -1,0 +1,1 @@
+Our objective is to develop a feasible, low-cost, retargetable embedded ICE-with as few modifications to the standard as possible-that can be easily integrated with microprocessor cores at the register-transfer level. This module, which can be embedded with a microprocessor core, makes real-time, online debugging at full speed possible with a minor gate-count overhead

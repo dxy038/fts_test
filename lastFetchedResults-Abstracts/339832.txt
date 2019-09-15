@@ -1,0 +1,11 @@
+Objective
+To investigate the proapoptotic capacities of four arylcoumarin analogues of combretastatins on leukemic cells from B-cell chronic lymphocytic leukemia (CLL), a malignancy characterized by apoptosis deficiency.
+Materials and Methods
+
+The effects of the four compounds on several nuclear, membrane, and mitochondrial events of apoptosis and on expression of proteins controlling the apoptosis were analyzed after treatment of cultured CLL patients' cells.
+Results
+
+Treatment with all four compounds resulted in a dose-dependent internucleosomal DNA fragmentation, in stimulation of phosphatidylserine externalization, disruption of the mitochondrial transmembrane potential and caspase-3 activation. DNA fragmentation was prevented in the presence of the pan-caspase inhibitor z-VAD-fmk. Two of the compounds downregulated the expression of Mcl-1, a protein thought to be crucial for the antiapoptotic state in CLL, while Bcl-2 expression was unaffected. No effects were observed on the expression of p27kip1 or the inducible nitric oxide synthase, two proteins, which are constitutively overexpressed by CLL cells and downregulated during the apoptosis induced by other plant-derived molecules (flavopiridol, polyphenols, or hyperforin). This suggests different mechanisms of action for the compounds studied here. Furthermore, normal B lymphocytes from healthy donors appeared less sensitive than CLL cells to the proapoptotic activity of the four compounds.
+Conclusion
+
+The four arylcoumarin analogues were able to promote the apoptosis of CLL cells ex vivo through the caspase-dependent mitochondrial pathway. Therefore, these compounds may be of interest to develop new therapies of CLL based on apoptosis restoration.

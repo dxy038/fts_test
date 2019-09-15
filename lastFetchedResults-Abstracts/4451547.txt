@@ -1,0 +1,1 @@
+The paper presents a new real-time frame-layer rate control for low bit rate video over WLAN. Compared with the conventional TMN8, the proposed algorithm significantly improves the quality of the compressed video in both objective and subjective tests.

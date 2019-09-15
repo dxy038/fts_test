@@ -1,0 +1,16 @@
+The classical economic production quantity (EPQ) model is a well-known and commonly used 
+inventory control technique. Common assumptions in this model are that all units produced are 
+of perfect quality and shortage is not allowed, since in practice shortage, non-conforming 
+product or scrap items are possible, these assumptions will underestimate the actual required 
+quantity. The objective of this paper is to provide a framework to integrate production of 
+imperfect quality items, inspection errors, rework, scrap items and backlogging into a single 
+EPQ model. To achieve this objective a suitable mathematical model is developed and the 
+optimal production lot size which minimizes the total cost is derived. The sensitivity analysis 
+results indicate the model is very sensitive to shortage cost per unit shortage and type-I error of 
+inspection. While findings of this study show that the model is very sensitive to parameters 
+type-I error of inspection, proportion of defectives in production process and shortage cost per 
+unit short, it is much less sensitive to parameters like proportion of scraps in rework process and 
+Type-II error of inspection. If the existence of such error and shortages are ignored, then the 
+obtained results may differ considerably from the optimal outcome. This will impose additional 
+costs to the system. 
+

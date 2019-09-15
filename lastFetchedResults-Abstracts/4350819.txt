@@ -1,0 +1,1 @@
+This paper use the geostatistics module of Arcgis9.3 software, by the Exploratory Spatial Data Analysis and Kriging of geostatistics method to do the deep mining of land uses change in west Jilin province. The mining results are graphically. The results of the study provide the objective reference of regional land and resource rationally develop and utilize.

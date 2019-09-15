@@ -1,0 +1,6 @@
+In this paper, the Charged System Search (CSS) algorithm and the force method are used for
+the simultaneous analysis and design of structures. Supervisor agents are introduced for the optimization
+procedure to enhance the exploration ability of the CSS. The presented method is applied to the design and
+analysis of some planer and space structures. A new formulation is presented for the objective function,
+and the accuracy and efficiency of the presented approach is examined by comparing the resulting design
+parameters and structural weight with those of other methods from literature.

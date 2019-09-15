@@ -1,0 +1,8 @@
+Objective
+tance measurements using a 45°/0° non-contact measuring system provide accurate data for translucent materials, yet the interfacial reflection corrections (IRCs) for Kubelka–Munk theory have not been evaluated using this system. The objective is to determine which IRC method for Kubelka–Munk theory (K-MT) models the spectral reflectance of pigmented maxillofacial elastomer (MFE) with least error.
+
+s at varying thicknesses of each of 19 shades of skin-colored maxillofacial elastomer were measured using this system on each of three backings. Reflectance values within the visible wavelength range for each shade were fit by non-linear regression to K-MT using different IRC methods: no IRC correction (No), IRC for opaque materials (Op) and IRC for translucent materials (Tr). Errors associated with each method were analyzed using repeated-measures ANOVA and a Bonferroni-corrected t-test.
+s
+e error mean square values over all wavelengths were 0.00038 for K-MT with no IRC, 0.00023 with Op IRC, and 0.00015 with Tr IRC. The No method gave a statistically higher error than either the Op or Tr method at all analyzed wavelengths, and the Tr gave a lower error than the OP at all analyzed wavelengths between 450 and 600 nm. The predicted CIELAB values of all the shades tested fell into the range of human skin color space.
+icance
+ted Kubelka–Munk theory with the IRC for translucent materials proposed by Richmond provides higher accuracy on maxillofacial elastomer over the more important visible wavelengths. Color and translucency of maxillofacial elastomer can be predicted using corrected K-M theory.

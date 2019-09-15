@@ -1,0 +1,22 @@
+Objective: Low-frequency stimulation (LFS) exerts suppressive effects in kindled animals. It
+is believed that overstimulated glutamatergic and decreased GABAergic transmission have
+long been associated with seizure activity. In this study, we investigated the effect of electrical
+LFS on different parameters of spontaneous excitatory and inhibitory post-synaptic currents
+(sEPSCs and sIPSCs) in hippocampal CA1 pyramidal cells in kindled animals.
+Materials and Methods: In this experimental study, rats were kindled by electrical stimulation
+of the hippocampal CA1 area in a semi-rapid manner (12 stimulations/day). The
+animals were considered fully kindled when they showed stage 5 seizures on three consecutive
+days. One group of animals received LFS 4 times at 30 seconds, 6 hours, 18 and
+24 hours following the last kindling stimulation. Each LFS consisted of 4 packages at 5
+minutes intervals. Each package of LFS consisted of 200 pulses at 1 Hz and each monophasic
+square wave pulse duration was 0.1 millisecond. At 2-3 hours post-LFS, acute
+hippocampal slices were prepared and a whole cell patch clamp recording was performed
+in all animals to measure the different parameters of sEPSCs and sIPSCs.
+Results: In kindled animals, the inter-event interval (as an index of occurrence) of sEPSCs
+decreased, whereas sIPSC increased. In addition, the decay time constant of sIPSCs
+as an index of the duration of its activity decreased compared to the control group. There
+was no significant difference in other parameters between the kindled and control groups.
+Application of LFS in kindled animals prevented the observed changes. There was no significant
+difference between the measured parameters in kindled+LFS and control groups.
+Conclusion: LFS application may prevent seizure-induced increase in the occurrence
+of sEPSCs and seizure-induced decrease in occurrence and activity duration of sIPSCs.

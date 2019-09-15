@@ -1,0 +1,12 @@
+Objective
+When EEG is recorded in humans, the question arises whether the resting EEG remains stable. We compared the inter-individual variation in spectral observables to the intra-individual stability over more than a year.
+Methods
+We recorded resting EEG in 55 healthy adults with eyes closed. In 20 persons EEG was recorded in a second session with retest intervals 12–40 months. For electrodes AFz, Cz and Pz α peak frequency and α peak height were transformed into Z-scores. We compared the curve shape of power spectra by first aligning α peaks to 10 Hz and then regressing spectra pairwise onto each other to calculate a t-value.
+The t-value and differences of Z-scores for all pairs of sessions were entered into a generalized linear model (GLM) where binary output represents the recognition probability. The results were cross-validated by out-of-sample testing.
+Results
+Of the 40 sessions, 35 were correctly matched. The shape of power spectra contributed most to recognition. Out of all 2960 pairwise comparisons 99.5% were correct, with sensitivity 88% and specificity 99.5%.
+Conclusions
+Our statistical apparatus allows to identify those spectral EEG observables which qualify as statistical signature of a person.
+Significance
+The effect of external factors on EEG observables can be contrasted against their normal variability over time.
+

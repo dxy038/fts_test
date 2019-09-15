@@ -1,0 +1,5 @@
+In recent years, the spectacular increase of traffic in the majority of the developed countries has led to heightened concerns about the state of the roads, particularly in regard to how to improve driving conditions and, consequently, lower accident rates.
+There are many facets that influence the quality of roads, such as design characteristics (width, ditches, etc.) or their maintenance (signs, marking, etc.). All of them must be considered with a series of indicators when analyzing different roads.
+This work develops a methodology, based on the formulation of the Rasch model, that allows us to obtain an objective measure of road conditions, and later to evaluate each of the indicators that describe the road’s condition. As an example, data relating to the network of local and regional roads in the province of Badajoz, Spain, have been processed.
+Finally, results were implemented in a geographical information system (GIS) to visualize the distribution of all roads depending on their condition and, moreover, to make individual diagnoses of each road stretch possible, with the aim of optimizing resources allocation.
+

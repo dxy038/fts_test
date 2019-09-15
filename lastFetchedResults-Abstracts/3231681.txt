@@ -1,0 +1,1 @@
+We present a new bidirectional beam propagation method based on a nonparaxial scheme. The method can simulate nonparaxial propagation in multiple reflecting structures very efficiently. It can simulate high-index discontinuity and evanescent fields very efficiently.

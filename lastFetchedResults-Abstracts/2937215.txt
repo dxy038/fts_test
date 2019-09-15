@@ -1,0 +1,1 @@
+This paper presents a numerical solution of the multiple objective control system design problem for SISO systems. An approximation for the free transfer function in the Q-parametrization, in terms of controller complexity, is proposed. Two examples are presented to show that the proposed method has the advantage of directly yielding low-order controllers

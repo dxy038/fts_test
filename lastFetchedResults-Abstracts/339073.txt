@@ -1,0 +1,8 @@
+Objective
+Activated platelets participate in inflammatory and microbicidal processes by upregulation of surface selectins, shedding of CD40 ligand, and release of platelet microbicidal proteins and microparticles. Given their myeloid lineage, we hypothesized that platelets express functional N-formyl peptide receptors and respond to the bacterially derived chemotactic peptide N-formyl peptide with gradient-driven chemotaxis.
+Methods and results
+
+Here we show specific binding of N-formyl peptides to the surface of activated platelets. Platelet expression and function of the formyl peptide receptor, FPR, was verified by RT-PCR of the differentiated megakaryocyte MEG-01 cell line, immunoblotting of platelet proteins, and calcium mobilization in platelets with formyl peptide binding. Furthermore, we demonstrate gradient-driven chemotaxis of platelets by video microscopy and transwell migration toward formyl peptides. We also show that endogenous formyl peptides, released by eukaryotic mitochondria from necrotic cells, induce chemotaxis using formyl peptide receptors expressed by thrombin-activated platelets. Conversely, supernatants from cells undergoing apoptotic cell death do not induce platelet chemotaxis. Platelet chemotaxis to formyl peptides was blocked with FPR-specific antibody as well as by pertussis toxin inhibition of the formyl peptide G-coupled receptor.
+Conclusion
+
+These data establish a new role for platelets in host defense and suggest reexamination of their active function in microbicidal and other host defense activities.

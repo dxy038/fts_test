@@ -1,0 +1,11 @@
+Objective
+In vitro models of hematopoiesis used in investigative hematopathology and in safety studies on candidate drugs, involve clonogenic assays on colony-forming unit granulocyte macrophage (CFU-GM). These assays require live and unstained colonies to be counted. Most laboratories still rely on visual scoring, which is time-consuming and error-prone. As a consequence, automated scoring is highly desired. An algorithm that recognizes and scores CFU-GM colonies by data fusion has been developed. Some preliminary results are presented in this article.
+Methods
+
+CFU-GM assays were carried out on hematopoietic progenitors (human umbilical cord blood cells) grown in methylcellulose. Colony images were acquired by a digital camera and stored.
+Results
+
+The classifier was designed to process images of layers sampled from a three-dimensional (3D) domain and forming a stack. Structure and texture information was extracted from each image. Classifier training was based on a 3D colony model applied to the image stack. The number of scored colonies (assigned class) was required to match the count supplied by the human expert (class of belonging). The trained classifier was validated on one more stack and then applied to a stack with overlapping colonies. Scoring in distortion- and caustic-affected border areas was also successfully demonstrated. Because of hardware limitations, compact colonies in some cases were missed.
+Conclusions
+
+The industry's scoring methods all rely on structure alone and process 2D data. Instead, the classifier here fuses data from a whole stack and is capable, in principle, of high-throughput screening.

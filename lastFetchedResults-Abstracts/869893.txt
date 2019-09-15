@@ -1,0 +1,9 @@
+We consider the identical parallel machine problem with makespan minimization subject to minimum total
+'owtime. First, we develop an optimal algorithm to the identical parallel machine problem with the objective
+of minimizing makespan. To improve the computational e3ciency, two implementation techniques, the lower
+bound calculation and the job replacement rule, are applied. Based on the algorithm, an optimal algorithm,
+using new lower bounds, to the considered problem is developed. The result of this study can also be used
+to solve the bicriteria problem of minimizing the weighted sum of makespan and mean 'owtime. Computational
+experiments are conducted up to six machines and 1000 jobs. Although the proposed algorithm has an
+exponential time complexity, the computational results show that it is e3cient to 8nd the optimal solution.
+? 2003 Elsevier Ltd. All rights reserved.

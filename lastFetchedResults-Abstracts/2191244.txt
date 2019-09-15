@@ -1,0 +1,13 @@
+One type of environmental hazards in many areas in our country that causes destroying agricultural lands, rangeland
+and Infrastructure is gully erosion. In this study, fuzzy logic operators are used to determine the different hazard zones,
+obtain the area of each of them and gully erosion hazard map in Troud watershed. To achieve this objective, satellite
+imagery, aerial photo interpretation with scale of 1:20000, topographic maps with scale of 1:50000, geological maps
+with scale of 1:100000, field studies and ArcGIS software has been used as research tools. For this purpose, at first a
+few effective variables that have important role in the formation and development of gully erosion and gully erosion
+areas were identified. The next step, Effective factors classes were weighted And Gully erosion maps were prepared
+using fuzzy operators including fuzzy Algebraic sum, fuzzy product, fuzzy gamma0.5 and fuzzy gamma 0.8 in GIS
+environment. The results indicated that, in fuzzy Algebraic sum method was located 100% of the gully in high zone.
+83.29% of the gullies have occurred in low zone in fuzzy product. According to the results obtained, 60.93% of the
+gullies were located in low zone and 17 % of gullies have occurred in high and very high zones in method fuzzy
+gamma 0.5. In fuzzy gamma 0.8 method, were located 1.5% of the gullies in low zone and 62% of the gullies in high
+and very high zones

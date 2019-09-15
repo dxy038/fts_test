@@ -1,0 +1,11 @@
+Objective
+The mechanisms by which interferon α (IFN-α) induces antileukemic responses in chronic myelogenous leukemia (CML) cells are not known. We examined whether a member of the protein kinase C (PKC) family of proteins, PKC-δ, is activated during treatment of BCR-ABL cells with IFN-α and participates in the induction of interferon responses.
+Methods
+
+Immunoblots and immune complex kinase assays were performed to study the phosphorylation and activation of PKC-δ in response to IFN-α in CML-derived cell lines. The effects of pharmacological inhibition of PKC-δ on the suppressive effects of IFN-α on leukemic CFU-GM progenitors from CML patients were assessed by clonogenic assays in methylcellulose.
+Results
+
+IFN-α treatment of the sensitive CML-derived KT-1 cell line resulted in phosphorylation of PKC-δ and activation of its kinase domain. Such phosphorylation/activation of PKC-δ was required for phosphorylation of Stat1 on serine 727, as inhibition of PKC-δ activity blocked the IFN-α–dependent serine phosphorylation of Stat1 and IFN-α–inducible gene transcription. IFN-α treatment strongly inhibited leukemic CFU-GM progenitor colony fromation from bone marrow or peripheral blood of patients with CML, and such inhibition was reversed by concomitant treatment of the cells with the PKC-δ pharmacologic inhibitor rottlerin.
+Conclusion
+
+Taken altogether, our data demonstrate that PKC-δ plays a critical role in Type I IFN signaling in BCR-ABL expressing cells, acting as a serine kinase for Stat1, to regulate transcriptional activation of interferon-regulated genes and induction of antileukemic responses.

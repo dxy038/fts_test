@@ -1,0 +1,19 @@
+Apportionment of urban particulate matter (PM) to sources is central for air quality management and efficient reduction of the
+substantial public health risks associated with fine particles (PM2.5). Traffic is an important source combustion particles, but also a
+significant source of resuspended particles that chemically resemble Earth's crust and that are not affected by development of
+cleaner motor technologies. A substantial fraction of urban ambient PM originates from long-range transport outside the immediate
+urban environment including secondary particles formed from gaseous emissions of mainly sulphur, nitrogen oxides and ammonia.
+Most source apportionment studies are based on small number of fixed monitoring sites and capture well population exposures to
+regional and long-range transported particles. However, concentrations from local sources are very unevenly distributed and the
+results from such studies are therefore poorly representative of the actual exposures. The current study uses PM2.5 data observed at
+population based random sampled residential locations in Athens, Basle and Helsinki with 17 elemental constituents, selected
+VOCs (xylenes, trimethylbenzenes, nonane and benzene) and light absorbance (black smoke).
+The major sources identified across the three cities included crustal, salt, long-range transported inorganic and traffic sources.
+Traffic was associated separately with source categories with crustal (especially Athens and Helsinki) and long-range transported
+chemical composition (all cities). Remarkably high fractions of the variability of elemental (R2N0.6 except for Ca in Basle 0.38)
+and chemical concentrations (R2N0.5 except benzene in Basle 0.22 and nonane in Athens 0.39) are explained by the source factors
+of an SEM model. The RAINS model that is currently used as the main tool in developing European air quality management
+policies seems to capture the local urban fraction (the city delta term) quite well, but underestimates crustal particle levels
+in the three cities of the current study. Utilizing structural equation modelling parallel with traditional principal component
+analysis (PCA) provides an objective method to determine the number of factors to be retained in a model and allows for formal
+hypotheses testing.

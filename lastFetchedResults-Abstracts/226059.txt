@@ -1,0 +1,11 @@
+The synthesis of plant-wide control structures has resurfaced as the most important design problem in process control. In this
+paper we provide a comparative analysis of various approaches, with an emphasis on how well they address the inherent theoretical
+and practical issues associated with the design of such control systems. Starting with a formal statement of the problem, which
+corresponds to a multi-objective optimization problem, this paper argues that the central issue to be resolved is the translation of
+implicit operating objectives to sets of feedback-controlled variables. The principle of the Optimizing Feedback Control Structures is
+proposed as the formal medium for the identi®cation of controlled variables. Furthermore, it is shown that the selection of the best
+sets of input (manipulated) and output (measured) variables for the formation of the controllers' structures is governed by classical
+control-theoretical aspects, such as; open-loop gains, model uncertainty, and nonminimum-phase process characteristics. Hier-
+archical viewing of a plant is proposed as an eective mechanism to contain the complexities of the problem by streamlining the (i) spe-
+ci®cation of control objectives at dierent time-scales, (ii) modeling needs and model uncertainties, (iii) selection of measured and
+manipulated variables, and (iv) formation of the control structures.

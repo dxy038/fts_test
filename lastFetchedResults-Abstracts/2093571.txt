@@ -1,0 +1,10 @@
+Measuring structural damage during earthquakes has always been a challenging problem for earthquake engineers.
+Various damage indices are proposed with the objective of quantifying the structural damage in prototype and
+model structures subjected to seismic excitation. In this study, seismic vulnerability of irregular steel buildings is
+assessed in three dimensions considering effects of the panel zone, which has not been considered in recent
+studies of the field of seismic vulnerability. The buildings are modeled with different storeys and irregular plans.
+Seismic performance of buildings was assessed in life-safety and collapse-prevention levels. Cumulative functions of
+damage indices are applied in the nonlinear dynamic analysis of buildings in the near-field ground motions. It is
+concluded that participation rates of deformation and energy in the damage of irregular buildings are 74.5% and
+25.5%, respectively. Severe damage and collapse due to seismic dissipated energy occurred in the initial storeys of
+low-rise buildings and in the middle storeys of high-rise buildings.

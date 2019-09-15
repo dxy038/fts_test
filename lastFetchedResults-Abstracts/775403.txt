@@ -1,0 +1,11 @@
+With increasing wavelength capacity, the fault tolerant policy of the
+mesh optical network becomes much more important. To meet the survivability
+requirement, a set of cost efficient fault tolerant mechanisms are designed in this
+paper. The main objective is the minimization of the total number of required
+wavelengths. Furthermore, based on the method of the Integer Linear Program
+(ILP), shared-path protection and shared-link protection strategies are achieved,
+respectively. Moreover, the objective of minimizing the load imbalance is used to
+ensure the network resources utilized efficiently, and then the wavelength contention
+can be mitigated by selecting the working path and backup path reasonably.
+The results show that the survivability of the optical network can be guaranteed in a
+cost efficient manner.

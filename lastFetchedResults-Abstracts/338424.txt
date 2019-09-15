@@ -1,0 +1,11 @@
+Objective
+Some pyrimidine analogues have been found to induce differentiation of several human myeloid leukemia cells. Newly synthesized heterocyclic pyrimidine derivatives promote neurite outgrowth and survival in neuronal cell lines. In this study, the growth-inhibiting and differentiation-inducing effects of these pyrimidine derivatives on human myeloid leukemia cells were examined.
+Materials and Methods
+
+Several myeloid leukemia cells were cultured with novel heterocyclic pyrimidine derivatives. Cell differentiation was determined by nitroblue tetrazolium-reducing activity, morphologic changes, expression of CD11b, lysozyme activity, and hemoglobin production.
+Results
+
+MS-430 (2-piperidino-5,6-dihydro-7-methyl-6-oxo (7H) pyrrolo [2,3-d] pyrimidine maleate) effectively induced HL-60 cells into mature granulocytes. MS-430 activated the mitogen-activated protein kinase (MAPK) of the cells before causing granulocytic differentiation. MAPK activation was necessary for MS-430–induced differentiation, because PD98059, an inhibitor of MAPK kinase, suppressed the differentiation induced by MS-430. MS-430 also induced monocytic differentiation of THP-1, P39/Tsu, and P31/Fuj leukemia cells, but did not affect erythroid differentiation of K562 or HEL cells.
+Conclusions
+
+MS-430 potently induces differentiation of some myelomonocytic leukemia cells. This novel synthesized pyrimidine compound shows promise as a therapeutic agent for treatment of leukemia and as a neurotrophic drug.

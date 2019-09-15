@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to evaluate the effect of CF101, a synthetic agonist to the A3 adenosine receptor (A3AR), on the production of granulocyte colony-stimulating factor (G-CSF). The ability of CF101 to act as a myeloprotective agent in chemotherapy-treated mice was tested.
+Methods
+
+CF101 was administered orally to naïve mice and its effect was studied on blood cell counts (coulter counter), serum G-CSF level (ELISA), bone marrow colony-forming cells (soft agar culture), and splenocytes' ability to produce ex vivo G-CSF. Protein extract was prepared from splenocytes and Western blot analysis was carried out to evaluate expression level of key proteins. In an additional set of experiments, CF101 was administered to mice 48 hours after cyclophosphamide treatment and blood cell counts as well as serum G-CSF levels were monitored.
+Results
+
+Oral administration of CF101 to naïve mice led to the elevation of serum G-CSF levels, an increase in absolute neutrophil counts (ANC), and bone marrow colony-forming cells. Splenocytes derived from these mice produced higher G-CSF level than controls. The molecular mechanisms underlying the events prior to G-CSF production included the upregulation of NF-κB and the upstream kinases phosphoinositide 3-kinase (PI3K), protein kinase B/Akt (PKB/Akt), and IKK. Accelerated recovery of white blood cells and neutrophil counts were observed in cyclophosphamide-treated mice following CF101 administration.
+Conclusion
+
+CF101 induced upregulation of the PI3K/NF-κB pathway leading to G-CSF production, resulting in myeloprotective effect in cyclophosphamide-treated mice.

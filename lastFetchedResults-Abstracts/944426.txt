@@ -1,0 +1,11 @@
+Background
+Biomonitoring is used in exposure and risk assessments to reduce uncertainties along the source-to-outcome continuum. Specifically, biomarkers can help identify exposure sources, routes, and distributions, and reflect kinetic and dynamic processes following exposure events. A variety of computational models now utilize biomarkers to better understand exposures at the population, individual, and sub-individual (target) levels. However, guidance is needed to clarify biomonitoring use given available measurements and models.
+Objective
+
+This article presents a biomonitoring research framework designed to improve biomarker use and interpretation in support of exposure and risk assessments.
+Discussion
+
+The biomonitoring research framework is based on a modified source-to-outcome continuum. Five tiers of biomonitoring analyses are included in the framework, beginning with simple cross-sectional and longitudinal analyses, and ending with complex analyses using various empirical and mechanistic models. Measurements and model requirements of each tier are given, as well as considerations to enhance analyses. Simple theoretical examples are also given to demonstrate applications of the framework for observational exposure studies.
+Conclusion
+
+This biomonitoring framework can be used as a guide for interpreting existing biomarker data, designing new studies to answer specific exposure- and risk-based questions, and integrating knowledge across scientific disciplines to better address human health risks.

@@ -1,0 +1,11 @@
+Objective. Our aim was to develop a mathematical model to calculate forces, tension and stretching in the hip joint capsule, under conditions caused by the joint effusion usually accompanying hip disease.
+
+Design. A mathematical model was developed, based on experimental data from cadaver studies.
+
+Background. Intracapsular pressure is important with respect to the degree of painless movement in the hip. Previously, we established the relations between the rotation around the axis of the neck of the femur, joint effusion, intracapsular pressure and joint stability.
+
+Methods. In six cadaver adult hips the joint distraction, the traction force along and the rotation around the axis of the neck of the femur and the intracapsular pressure, were simultaneously monitored as the volume of intracapsularly infused saline was increased. The elasticity-constants included in the extracted formula for the fluid pressure were calculated in a designed computer software based on these experimental data.
+
+Results. Presented in Figures 3–12.
+
+Conclusions. In the normal joint there is no increase in intracapsular pressure, nor any tension in the hyperboloid shape capsule within the normal range of rotation around the axis of the neck of the femur. This shape is distorted in a hip with effusion, rotation then resulting in an increased intracapsular pressure and tension in the capsule, with potential risk of ruptures.

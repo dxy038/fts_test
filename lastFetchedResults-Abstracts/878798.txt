@@ -1,0 +1,12 @@
+In this paper we obtain second-order optimality conditions of Karush–Kuhn–Tucker type and Fritz John one for a problem
+with inequality constraints and a set constraint in nonsmooth settings using second-order directional derivatives. In the necessary
+conditions we suppose that the objective function and the active constraints are continuously differentiable, but their gradients
+are not necessarily locally Lipschitz. In the sufficient conditions for a global minimum ¯x we assume that the objective function
+is differentiable at ¯x and second-order pseudoconvex at ¯x, a notion introduced by the authors [I. Ginchev, V.I. Ivanov, Higherorder
+pseudoconvex functions, in: I.V. Konnov, D.T. Luc, A.M. Rubinov (Eds.), Generalized Convexity and Related Topics, in:
+Lecture Notes in Econom. and Math. Systems, vol. 583, Springer, 2007, pp. 247–264], the constraints are both differentiable and
+quasiconvex at ¯x. In the sufficient conditions for an isolated local minimum of order two we suppose that the problem belongs
+to the class C1,1. We show that they do not hold for C1 problems, which are not C1,1 ones. At last a new notion parabolic local
+minimum is defined and it is applied to extend the sufficient conditions for an isolated local minimum from problems with C1,1
+data to problems with C1 one.
+© 2007 Elsevier Inc. All rights reserved.

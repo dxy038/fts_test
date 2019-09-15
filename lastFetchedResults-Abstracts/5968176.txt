@@ -1,0 +1,1 @@
+The paper presents method, algorithm and software in MATLAB and Java for solving various optimization problems when the linear objective function is subject to fuzzy linear system of equations or fuzzy linear systems of inequalities as constraint.

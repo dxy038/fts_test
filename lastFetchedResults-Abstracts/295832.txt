@@ -1,0 +1,11 @@
+Background:
+Burn depth assessment is important as early excision and grafting is the treatment of choice for deep dermal burn. Inaccurate assessment causes prolonged hospital stay, increased medical expenses and morbidity. Based on reflected burn spectra, we have developed an artificial neural network to predict the burn healing time.
+Purpose:
+Our study is to develop a non-invasive objective method to predict burn-healing time.
+Methods and materials:
+Burns less than 20% TBSA was included. Burn spectra taken on the third postburn day using reflectance spectrometer were analyzed by an artificial neural network system.
+Results:
+Forty-one spectra were collected. With the newly developed method, the predictive accuracy of burns healed in less than 14 days was 96%, and that in more than 14 days was 75%.
+Conclusions:
+Using reflectance spectrometer, we have developed an artificial neural network to determine the burn healing time with 86% overall predictive accuracy.
+

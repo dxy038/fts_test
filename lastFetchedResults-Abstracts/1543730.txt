@@ -1,0 +1,1 @@
+This paper develops a minimax immunization strategy for an infinite factor interest rate model. The risk of a portfolio of cash flows is measured as the maximum sensitivity of the portfolio value. The objective is to choose the portfolio whose maximum sensitivity over a set of possible interest rate shocks is minimum.

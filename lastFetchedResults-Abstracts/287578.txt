@@ -1,0 +1,11 @@
+Purpose
+The effect of left ventricular ejection fraction (EF) independent of other covariates on heart failure (HF) outcomes is unknown. The objective of our study was to test the hypothesis that HF patients with EF > 45% have better outcomes compared with those with EF <= 45%.
+Methods
+
+We analyzed the Digitalis Investigation Group trial data, focusing on 7617 patients without valvular heart disease. Using propensity scores, we matched 793 patients with EF >45% with 2094 patients with EF <= 45%. We used Kaplan-Meier survival and multivariable Cox proportional hazard analyses to estimate the effect of EF on outcomes.
+Results
+
+Overall, 827 (28.6%) died and 707 (24.5%) were hospitalized during a median 39-month follow up. Compared with 30.2% death in EF <= 45% patients, 23.6% of those with EF > 45% died (p = 0.003). Respective proportions for HF hospitalization were 26.6% and 19.0% (p < 0.001). Patients with EF > 45% had a significant 19% decreased risk of death (unadjusted hazard ratio {HR} = 0.81; 95% confidence interval {CI} = 0.72–0.99) and a significant 32% reduced risk of hospitalization due to worsening HF (unadjusted HR = 0.68; 95% CI = 0.57–0.81). Adjustment for covariates and propensity score did not alter these associations. HF patients with EF > 45% were more likely to be hospitalized due to unstable angina (unadjusted HR = 1.23.68; 95% CI = 0.99 – 1.53).
+Conclusion
+
+Patients with EF > 45% had improved survival and reduced HF hospitalization. However, they had a higher risk for hospitalization due to unstable angina, underscoring the progressive nature of atherosclerosis and ischemia in these patients.

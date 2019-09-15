@@ -1,0 +1,10 @@
+The paper considers the problem of solving an
+open transportation problem in conditions when demand
+exceeds supply. The transportation problem is considered
+to have fuzzy objective, fuzzy constraints, and fuzzy
+decision variables. To solve this problem without adding
+any fictitious supplier is impossible. The proposed paper
+describes development of a new method that would
+provide a better and realistic solution to the transportation
+problem considering fuzzy conditions and that would be
+free of other complications of classical methods.

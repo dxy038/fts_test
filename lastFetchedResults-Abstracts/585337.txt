@@ -1,0 +1,12 @@
+A Single item EOQ model is modeled using crisp arithmetic approach in decision making
+process with demand unit cost and dynamic setup cost varies with the quantity
+produced/Purchased. This paper considers the modification of objective function and storage
+area in the presence of estimated parameters. The model is developed for the problem by
+employing NLP modeling approaches over an infinite planning horizon. It incorporates all
+concepts of crisp arithmetic approach, the quantity ordered, the demand per unit and compares
+with other model that of the crisp would optimal ordering policy of the problem over an infinite
+time horizon is also suggested. Investigation of the properties of an optimal solution allows
+developing an algorithm for obtaining solution through LINGO 13.0 version whose validity is
+illustrated through an example problem. Sensitivity analysis of the optimal solution is also
+studied with respect to changes in different parameter values and to draw managerial insights. 
+

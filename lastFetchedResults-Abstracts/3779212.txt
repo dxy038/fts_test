@@ -1,0 +1,1 @@
+The 1988 version of the message encryption and authentication procedures for Internet electronic mail makes use of bidirectional MAC (BMAC). When used for multicast electronic mail it is important that this BMAC act as a one-way function. It is shown that it is not a one-way function, which means that the BMAC technique should not be used for authenticating multicast messages

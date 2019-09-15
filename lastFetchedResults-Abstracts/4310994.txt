@@ -1,0 +1,1 @@
+The objective of this paper is to present an alternative to matrix-based techniques, namely the parallel finite difference time domain (PFDTD) method, which enables us to solve large (in terms of degrees of freedom or DOFs) and complex packaging problems. A test structure provided by IBM is analyzed using the PFDTD to illustrate its application to such problems

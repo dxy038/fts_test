@@ -1,0 +1,11 @@
+Objective
+To apply independent component analysis (ICA) in intracranial recordings to analyze interactions during temporal lobe seizures.
+Methods
+Seizures from 20 patients with bitemporal implantation were classified as unilateral or bilateral and analyzed with ICA. During the period preceding bilateral activity, correlation coefficients were calculated between ICA components having ictal activity during the unilateral seizure phase (early ICA components) and every channel of the original EEG. ICA components were classified as unilateral if the correlation was >0.2 exclusively with channels in one hemisphere; and bilateral if both hemispheres were involved.
+Results
+One hundred twenty-three seizures were analyzed. Thirty-two percent of visually classified unilateral seizures and 64% of bilateral seizures (during the unilateral phase) had bilateral ICA components. The proportion of early ICA components that were bilateral and the proportion of channels contralateral to the visually identified seizure with correlation higher than 0.2 with at least one early ICA component were significantly lower in seizures that stayed unilateral than in seizures that later became bilateral by visual inspection (11 and 10%, respectively, in unilateral seizures; 33 and 28% in bilateral seizures; P=0.001).
+Conclusions
+In patients with bitemporal epilepsy, approximately 20% of the components extracted using ICA have a bitemporal distribution even at the time when the seizures are apparently unilateral. The presence of early contralateral ictal activity is more frequent and extensive in seizures that later become evidently bilateral.
+Significance
+Minimal contralateral seizure activity is present even when the discharge appears unilateral and this is more frequent in seizures which later spread to the contralateral temporal lobe.
+

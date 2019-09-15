@@ -1,0 +1,10 @@
+Hotels are fundamental elements of tourism industry and provide various services for tourists. Moreover, hotels development has an important impact on tourism industry development. Therefore, an understanding of hotels relative efficiency performance, over a period of time, is important for practitioners, analysts, and policymakers alike.
+
+The main objective of this paper is to measure the efficiency of the four and five stars hotels in Tehran. A Data Envelopment Analysis (DEA) is employed to investigate the technical efficiency of eight hotels using the data over the period 1380 - 1384. DEA analysis is a methodology for analyzing the relative efficiency of units having the same multiple inputs and multiple outputs. In this study, the input variables comprise employee, rooms, restaurants and land and the output variables include hotel income and occupancy rate.
+
+The results show that technical and scale efficiency scores in all periods are relatively higher but there is no a regular trend over the period under study. Since 1380 to 1384; 75, 62.5, 75, 62.5, and 50 percent of the selected hotels were respectively efficient under the constant and variable to scale assumptions. Moreover, the findings confirm that more scale efficiency (0.997) refers to 1380 and less scale efficiency (0.894) refers to 1381 and 1382. The results also show that more technical efficiency, on average, under variable to scale assumption (0.964) refers to 1380 and less technical efficiency (0.894) refers to 1384. Finally, the efficiency of the five stars hotels is more than the four stars hotels implying the priority of the five stars hotel's development in Tehran.
+
+Overall, the findings indicate that the particular problem is mismanagement in the Tehran's hotels. Consequently, it caused the average scale efficiency to be more than the average technical efficiency. Since management plays a vital role in the efficiency improvement of hotels, this paper suggests the improvements of managerial systems in the hotels. More specifically, education, employment and Customer Reservation Systems (CRS) are the main factors influencing the efficiency.
+
+
+

@@ -1,0 +1,10 @@
+Optimum operation of grinding mills are important for the economic recovery of the valuable minerals, for energy eciency, as
+well as from the point of view of pollution control. In many mineral bene®ciation operations, the economic objectives translate into
+the maximization of throughput with suitable constraints on the product particle size distribution. While normal PID type con-
+trollers at the regulatory level are capable of controlling the process at the desired values of the process variables, a supervisory
+control system based on a process model will be required for optimizing the operation. In the present paper the ball mill model,
+together with the hydrocyclone separation system model is used in a simulation study to generate a response surface relating the
+control variables with plant load variables and manipulated variables. This response surface together with a suitably formulated
+economic objective function is used for on-line optimization to determine the optimum setpoints for the controlled variables in the
+supervisory control system. The model based supervision together with the regulatory layer control has been tested using simula-
+tion.

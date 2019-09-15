@@ -1,0 +1,6 @@
+Backgrounds and Objectives: This research is to develop new systems for drug release systems based on sol - gel systems. The objective of this study is to develop controlled release formulation of water insoluble Olanzapine (OZ), using Glycerol monooleate (GMO) and Polyethylene glycol (PEG 300). 
+Materials and Methods: A Box- Behnken response surface methodology was applied to design gel system with 3 factors with an initial drug containing, weight ratio of GMO/water (w/w) and weight ratio of PEG 300/GMO (w/w). 
+Results:  Therefore, in this study Design-Expert® software with Box- Behnken response surface methodology has been used specifically to determine the relationships between variables and responses. 
+Discussion:  According to the results of experiments, a quadratic model as an appropriate equation has been selected to fit the percentage of loading. Percentage of release at 12th and 168th hr a cubic model is selected. Kinetic release profile of OZ was investigated with several models, from which Higuchi model showed the best fitting and highest correlation.  
+Conclusion: Optimization of gel system was carried out based on statistical concept of experimental design. Validation test was carried out under optimum conditions of the parameters predicted by the polynomial model
+

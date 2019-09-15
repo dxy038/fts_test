@@ -1,0 +1,13 @@
+Gas lift is one of the most important operations to improve oil recovery in low production or non productive oil wells. Gas 
+lift optimization includes design optimization such as optimum selection of injection depth and pressure and operation 
+optimization such as gas lift allocation optimization or real time optimization Different algorithms are applicable for gas 
+lift allocation optimization as the most important part of gas lift optimization. The optimization procedure is done by 
+considering incremental oil revenue, gas lift cost and mainly compression cost. Many objective functions are applicable 
+for gas lift optimization such as cost function, oil production function and added value. This problem can be solved in a 
+limited or unlimited gas injected condition.
+In this paper, we look at different steps to solve a gas lift allocation optimization problem including the effect of gas 
+injection on oil production, concept of gas lift performance curve, objective function definition and solution methods. 
+The most important algorithms to solve this problem are graphical algorithms, numerical optimization algorithms, usual 
+algebraic algorithms and evolutionary algorithms. Although each of these methods with a good objective function can get 
+a reliable solution, using algebraic algorithms and evolutionary algorithms are most common because of easy constraint 
+application, higher degree of flexibility, accuracy in optimum solution and existence of different software

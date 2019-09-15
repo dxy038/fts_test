@@ -1,0 +1,5 @@
+A non-linear cathodic protection problem arising from corrosion engineering is considered. The objective is
+to present some iterative methods and study the convergence. We show both numerically and theoretically
+that the Newton{Raphson iteration is monotonically lower-convergent and a proposed combined iteration is
+alternative-convergent. In the combined case, the exact solution locates between two subsequent iterative
+solutions. Boundary element methods are employed for the numerical calculation

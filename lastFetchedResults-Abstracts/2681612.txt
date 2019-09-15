@@ -1,0 +1,11 @@
+Forward-reverse logistics network has remained a subject of intensive research over the past few years. It is of significant importance to be
+issued in a supply chain because it affects responsiveness of supply chains. In real world, problems are needed to be formulated. These
+problems usually involve objectives such as cost, quality, and customers' responsiveness and so on. To this reason, we have studied a
+single-objective model for an integrated forward/reverse logistics network design. This model includes seven echelons; four echelons in the
+forward direction and three in the reverse direction. We present an effective algorithm based on ant colony optimization for this NP-hard
+problems to maximize the benefit. The proposed metaheuristic algorithm is a new approach in the field of closed-loop supply chain
+network design. Furthermore, the developed model is a three-objective one which regards incomes, costs, and the emissions of CO2. A new
+approach is utilized in order to integrate three various-dimension objective functions. The performance of the proposed algorithm has been
+compared utilizing the optimum solutions of the LINGO software. Besides, various instances with small, medium, and large sizes are
+generated and solved so as to make the evaluation of the algorithm reliable. The obtaining results clearly demonstrate superiority
+performance of the proposed algorithm.

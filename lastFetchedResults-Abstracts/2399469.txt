@@ -1,0 +1,8 @@
+Objective
+ rapid scan FT-IR and Knoop microhardness to determine the effect of specimen temperature on the rate and extent of polymerization of a dental resin.
+s
+llimeter thick specimens of shade A2 Tetric EvoCeram were light cured for 20 s at 22, 26, 30, and 35 °C. The IR spectrum was obtained at the bottom of the specimens at a rate of 3 measurements per second for the first 5 min, and then again 2 h later. The Knoop microhardness was measured at the bottom of the samples in the region where the IR spectrum was recorded at 5 min and 2 h after light curing. Data were statistically analyzed using mixed model ANOVA (with Fisher's PLSD) to examine the effect of temperature, time and their interaction. The rate of conversion was determined using first differences and smoothed using a cubic spline procedure.
+s
+ttom surfaces of the samples light cured at 22, 26, 30 and 35 °C were all significantly different from each other (p &lt; 0.05). The higher temperature resulted in higher degree of conversion and Knoop microhardness values, and faster maximum rate of polymerization, which also occurred sooner. One second after the light was turned on, the rate of conversion was 106% faster at 35 °C than at 22 °C (p = 0.003). Regression analysis showed a positive linear correlation between the degree of conversion and Knoop microhardness (r2 = 0.93).
+icance
+tively small difference in temperature can have a large and significant effect on the rate and extent of polymerization of dental resin. Consequently laboratory studies comparing the performance of resins should be conducted at clinically relevant temperatures.

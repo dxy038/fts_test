@@ -1,0 +1,1 @@
+This paper deals with objective quality monitoring for digital broadcasting networks. Several video quality assessment methods are described and discussed regarding the scope of applications. A no reference method for video quality assessment is proposed, based on the detection of mismatched blocks.

@@ -1,0 +1,11 @@
+Objective
+To test the hypothesis that local coherence in extra-dural EEG recordings, a direct measure of synchronous cortical network activity, oscillates with the same periodicity as EEG power cycling and follows a similar developmental trajectory.
+Methods
+Local coherence was derived from continuous EEG recordings from closely spaced (1 cm) chronically implanted extra-dural electrodes over the right hemisphere in five fetal baboons (Papio sp.). A ratio of high to low frequency EEG band power (14–18 Hz to 4–7 Hz), was used to characterize EEG power cycling.
+Results
+Data were obtained within a developmental window (137–151 days; term  175 days) during which fetal EEG power cycling becomes increasingly well-organized. During this period ultradian oscillations in local coherence with periods of  1 h developed in parallel with EEG power cycling of approximately the same periods. However, the cross-correlation and phase relationship between local coherence and power oscillations were variable.
+Conclusions
+These findings suggest that cycles in cortical synchrony develop in parallel with fetal power cycles, but are not tightly coupled to them.
+Significance
+Coherence provides a direct measure of cortical network dynamics not possible with univariate EEG measures such as spectral power. Reported here are the first measurements of local coherence in the developing fetal brain. Local coherence is studied with the long-term goal of monitoring the development of cortical network activity.
+

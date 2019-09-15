@@ -1,0 +1,11 @@
+Objective
+EEG coherence is decreased in Alzheimer’s disease (AD), suggesting decreased interaction between brain areas. Nonlinear EEG analysis in AD points to decreased complexity of brain dynamics, implicating increased interaction. To clarify these apparently paradoxical findings from linear and nonlinear analysis, we calculated global coherence and global correlation dimension (D2), a nonlinear measure, in the EEG of patients with probable AD and controls. Our hypothesis is that these measures are related to each other when calculated in a comparable way.
+Methods
+From 15 patients with probable AD (mean age 63.1 years; SD 6.3) and 21 age-matched controls with subjective memory complaints (mean age 62.8; SD 12.0), band filtered EEG data were analysed in six frequency bands. For each frequency band average coherence and multichannel D2 were determined.
+Results
+ANOVA for repeated measures showed for D2 an interaction between band and group, but not for coherence. In the beta band and upper alpha band, D2 was higher in patients with probable AD compared to controls, while global coherence tended to be lower in these frequency bands in patients with probable AD. In the frequency range from theta to beta, coherence and D2 were inversely correlated without group differences.
+Conclusions
+When calculated in comparable ways, global correlation dimension and coherence are related measures. In AD, these measures change especially in the higher frequency ranges, both pointing to decreased functional cortical connectivity.
+Significance
+Both global coherence and global correlation dimension seem to measure global connectivity, but nonlinear measures may be more sensitive. In AD, connectivity measures are not equally impaired in all frequency ranges, possibly reflecting differentiated affection of the dynamical processes responsible for the different frequency bands.
+

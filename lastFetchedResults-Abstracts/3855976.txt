@@ -1,0 +1,1 @@
+A wavelet domain image resolution enhancement method is proposed. The method adopts the cycle-spinning methodology adapted for use in the wavelet domain. The perceptual and objective quality of resolution enhanced images compare favourably with recently emerged algorithms in the field

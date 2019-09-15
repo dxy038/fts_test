@@ -1,0 +1,19 @@
+OBJECTIVE
+
+To elucidate determinants of pulmonary venous (PV) flow.
+
+BACKGROUND
+
+Right ventricular (RV) systolic pressure (vis a tergo), left atrial (LA) relaxation and left ventricular (LV) systole and relaxation (vis a fronte) have been suggested as determinants of the pulmonary venous (PV) anterograde Doppler flow velocities, but their relative contributions to those flow velocities have not been quantified.
+
+METHODS
+
+We analyzed, by multiple regression analysis, the determinants of PV anterograde velocities in an open-pericardium, paced (70 and 90 beats/min) pig model in which LA afterload was modified by creating LV regional ischemia (left anterior descending coronary artery constriction). We measured high fidelity LA, LV and RV pressures and Doppler flow velocities (epicardial echocardiography). We calculated LV tau, LA relaxation (a through x pressure difference divided by time, normalized by a pressure), LA peak v through x and RV systolic through LA peak v (RVSP-v) pressure differences, LV ejection fraction, long-axis shortening, stroke volume (LV outflow integral × outflow area) and LA four-chamber dimensions, Doppler transmitral and PV flow velocities and velocity-time integrals.
+
+RESULTS
+
+Left ventricular regional ischemia increased mildly LA y trough pressure (8 ± 1 vs. 6 ± 1 mm Hg, p = 0.001). Left ventricular stroke volume (coefficient: 0.5 cm/ml, SE: 0.2, p = 0.005) and LA peak v pressure (coefficient: −0.8 cm/mm Hg, SE: 0.3, p = 0.008) determined the PV total systolic integral. Left atrial relaxation determined both PV early systolic peak velocity and integral (coefficient: −0.8 cm/mm Hg, SE: 0.3, p = 0.04). Left atrial maximum area (coefficient: 2 cm−1, SE: 0.7, p = 0.01) and RVSP-v (coefficient: 0.1 cm/mm Hg, SE: 0.05, p = 0.03) determined the late systolic integral. The PV total systolic integral determined both PV early diastolic peak velocity and integral (coefficient: 1.2, SE: 0.2, p = 0.001).
+
+CONCLUSIONS
+
+In an experimental model of LV acute ischemia of limited duration, the main independent predictors of PV systolic anterograde flow velocities are LA relaxation and compliance (LA peak v pressure) and LV systole—all vis a fronte factors. In the setting of mildly increased LA pressures, PV systolic flow (LA reservoir filling) is an independent predictor of PV early diastolic flow (LA early conduit).

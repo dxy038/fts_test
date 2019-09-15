@@ -1,0 +1,13 @@
+In industrial practice, constrained steady state optimisation and predictive control are separate, albeit
+closely related functions within the control hierarchy. This paper presents a method which integrates predictive
+control with on-line optimisation with economic objectives. A receding horizon optimal control
+problem is formulated using linear state space models. This optimal control problem is very similar to the
+one presented in many predictive control formulations, but the main difference is that it includes in its
+formulation a general steady state objective depending on the magnitudes of manipulated and measured
+output variables. This steac:y state objective may include the standard quadratic regulatory objective,
+together with economic objectives which are often linear. Assuming that the system settles to a steady state
+operating point under receding horizon control, conditions are given for the satisfaction of the necessary
+optimality conditions of the steady-state optimisation problem. The method is based on adaptive linear
+state space models, which are obtained by using on-line identification techniques. The use of model
+adaptation is justified from a theoretical standpoint and its beneficial effects are shown in simulations. The
+method is tested with simulw:ions of an industrial distillation column and a system of chemical reactors.

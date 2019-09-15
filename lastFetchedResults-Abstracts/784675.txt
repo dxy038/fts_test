@@ -1,0 +1,16 @@
+Objective: Several limitations of published bioelectrical impedance analysis (BIA) equations have
+been reported. The aims were to develop in a multiethnic, elderly population a new prediction equation and crossvalidate
+it along with some published BIA equations for estimating fat-free mass using deuterium oxide dilution
+as the reference method. Design and setting: Cross-sectional study of elderly from five developing countries.
+Methods: Total body water (TBW) measured by deuterium dilution was used to determine fat-free mass (FFM) in
+383 subjects. Anthropometric and BIA variables were also measured. Only 377 subjects were included for the
+analysis, randomly divided into development and cross-validation groups after stratified by gender. Stepwise
+model selection was used to generate the model and Bland Altman analysis was used to test agreement. Results:
+FFM = 2.95 - 3.89 (Gender) + 0.514 (Ht2/Z) + 0.090 (Waist) + 0.156 (Body weight). The model fit parameters
+were an R2, total F-Ratio, and the SEE of 0.88, 314.3, and 3.3, respectively. None of the published BIA equations
+met the criteria for agreement. The new BIA equation underestimated FFM by just 0.3 kg in the cross-validation
+sample. The mean of the difference between FFM by TBW and the new BIA equation were not significantly
+different; 95% of the differences were between the limits of agreement of -6.3 to 6.9 kg of FFM. There was no
+significant association between the mean of the differences and their averages (r= 0.008 and p= 0.2).
+Conclusions: This new BIA equation offers a valid option compared with some of the current published BIA
+equations to estimate FFM in elderly subjects from five developing countries

@@ -1,0 +1,8 @@
+Objective
+m of this work is to evaluate a set of indexing and retrieval strategies based on the integration of several biomedical terminologies on the available TREC Genomics collections for an ad hoc information retrieval (IR) task.
+als and methods
+pose a multi-terminology based concept extraction approach to selecting best concepts from free text by means of voting techniques. We instantiate this general approach on four terminologies (MeSH, SNOMED, ICD-10 and GO). We particularly focus on the effect of integrating terminologies into a biomedical IR process, and the utility of using voting techniques for combining the extracted concepts from each document in order to provide a list of unique concepts.
+s
+mental studies conducted on the TREC Genomics collections show that our multi-terminology IR approach based on voting techniques are statistically significant compared to the baseline. For example, tested on the 2005 TREC Genomics collection, our multi-terminology based IR approach provides an improvement rate of +6.98% in terms of MAP (mean average precision) (p &lt; 0.05) compared to the baseline. In addition, our experimental results show that document expansion using preferred terms in combination with query expansion using terms from top ranked expanded documents improve the biomedical IR effectiveness.
+sion
+e evaluated several voting models for combining concepts issued from multiple terminologies. Through this study, we presented many factors affecting the effectiveness of biomedical IR system including term weighting, query expansion, and document expansion models. The appropriate combination of those factors could be useful to improve the IR performance.

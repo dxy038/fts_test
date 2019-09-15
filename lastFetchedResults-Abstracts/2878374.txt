@@ -1,0 +1,1 @@
+We present a platform that will aid researchers in developing algorithms for specific (primarily image processing) tasks by providing training data sets with ground truth and with providing evaluation of the outputs of the algorithms in an objective manner under identical conditions using standardized measures.

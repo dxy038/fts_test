@@ -1,0 +1,9 @@
+A new method for the design of a bidirectional inverter based on the sinusoidal pulse-width
+modulation principle and the use of a low-cost and lightweight ferrite-core transformer is presented.
+The inverter is designed for either ohmic or inductive loads. In the case of inductive loads the reactive
+power is transferred back to the DC input power source using a new active rectifier design. The
+inverter is controlled by two minimum-time feedback loops, providing relatively low output voltage
+distortion (less than 2% for DC input higher than 24v) and good load regulation (better than 2%),
+while the inverter efficiency remains relatively constant (from 80 to 85%) over a wide output power
+range (75 to 200W) and DC input voltage range (23 to 28V). Theoretical results are experimentally
+verified using a laboratory prototype.

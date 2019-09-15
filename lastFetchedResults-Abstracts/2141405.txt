@@ -1,0 +1,7 @@
+The main objective of this work is to measure water quality using a stochastic index built with tools of Probability Theory. Its great advantage is that it accounts for the underlying uncertainty in quality classification that results from variations in the data for individual physical and chemical characteristics, considering them as random variables.
+
+pare the results obtained by measuring water quality with this index (the probabilistic index, PI) and a classical deterministic index (the general quality index, GQI). Also we do a comparison with other usual indices in order to validate the PI index.
+
+onstrate the application of PI and GQI indices, we used information from the Confederaciَn Hidrogrلfica del Jْcar (Spain) for the period between 1990 and 2005. Our analyses showed that GQI was positively correlated with PI throughout the study period. Because of its high potential, the PI index can be used to analyze possible temporal changes in water quality, as well as to determine the individual influence of each variable in water quality. The results suggested an improvement in water quality over time and that omitting individually, one at a time, five of the nine water quality variables from the PI calculation significantly improved the calculated water quality.
+
+y of this paper is the design of an index that takes into account the uncertainty inherent to data, and its application for measuring water quality from a general perspective.

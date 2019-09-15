@@ -1,0 +1,9 @@
+Objective: This paper investigates the three-dimensional MHD flow of viscoelastic fluid with mass transfer over an exponentially stretching surface.
+
+: Nonlinear partial differential equations are reduced into ordinary differential equations by employing similarity variables. The corresponding nonlinear expressions for velocity and concentration are solved by homotopy analysis method.
+
+s: Convergence analysis is performed graphically and numerically. Results for velocities, concentration and Sherwood number are displayed and discussed in detail.
+
+sions: The momentum boundary layer thicknesses are reduced whereas the concentration boundary layer thickness is increased for the larger values of the Hartman number. The local Sherwood number is an increasing function of the Hartman number and viscoelastic parameter.
+
+ce implications: Flows of non-Newtonian fluids have an extensive applications in the industry and technology, for example in petroleum drilling, manufacturing of foods and paper, polymers extrusion and many others.

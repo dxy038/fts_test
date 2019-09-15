@@ -1,0 +1,22 @@
+The rapid growth and increasing of
+information technology and computer network have
+caused that data transition in digital form is considered
+more and more. The main disturbance of owners and
+producers of digital products is to protect distribution and
+unauthorized copying. An effective solution for this
+problem is digital watermarking techniques. The purpose
+of audio digital watermarking is to insert a series of
+hidden information into audio file so that it is not heard
+and robust against signal processing attacks. This paper
+proposes a new audio watermarking method that is able
+to embed watermark sequence into host signal based on
+remaining numbers. The extraction process is carried out
+blindly without any knowledge about original audio
+signal. For comprehensive evaluation of the proposed
+method, several experiments including subjective and
+objective tests (MOS, SNR and SNRseg measures),
+robustness and performance (BER, NC, TP and FP
+measures) against Stirmark attacks as well as capacity
+have been performed. Experimental results show that the
+proposed method is able to improve trade-off among
+three measures transparency, robustness, and capacity.

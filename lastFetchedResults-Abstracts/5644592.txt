@@ -1,0 +1,1 @@
+In this paper, we study the optimization problem with stochastic interest rates faced by an insurance firm who can control its cash-balance dynamics by adjusting the underlying premium rates. Our objective is to minimize the total deviation of the cash-balance process in an insurance firm to some pre-set target levels by selecting an appropriate premium policy.

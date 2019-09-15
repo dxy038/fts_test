@@ -1,0 +1,7 @@
+In this paper a new class of higher order (F ,ρ,σ)-type I functions for a multiobjective
+programming problem is introduced, which subsumes several known studied classes.
+Higher order Mond–Weir and Schaible type dual programs are formulated for a nondifferentiable
+multiobjective fractional programming problem where the objective functions and
+the constraints contain support functions of compact convex sets in Rn. Weak and strong
+duality results are studied in both the cases assuming the involved functions to be higher
+order (F ,ρ,σ)-type I. A number of previously studied problems appear as special cases

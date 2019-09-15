@@ -1,0 +1,11 @@
+Objective. the purpose of this study was to determine whether passive mechanisms can account for impact force regulation with changing shoe hardness.
+
+Design. A three-dimensional musculoskeletal model of the lower extremity was developed to simulate impact in running with two different shoe hardnesses.
+
+Background. Considerable research has focused on developing shoe cushioning to reduce impact forces. However, only minimal changes in peak external impact force have been observed with changes in shoe hardness. It is hypothesized that passive mechanisms can regulate impact forces with changing shoe hardness, without changing muscle activities.
+
+Methods. Initial kinematic inputs for the simulations were measured from nine male subjects performing heel-toe running. Simulations were performed with initial conditions and muscle stimulation patterns held constant while shoe hardness was varied between a hard and a soft condition.
+
+Results. There was no significant difference between the soft and hard shoe peak impact forces. Peak rates of loading were greater for the hard shoe than the soft shoe. Muscle forces changed with shoe conditions. For some muscles (including the tibialis anterior) the forces were greater for the hard shoe, whereas for other muscles (including the peroneus) forces were greater for the soft shoe condition.
+
+Conclusions. Peak impact forces with changing shoe conditions can be regulated by passive mechanical changes without changing muscle activities or kinematics before touchdown.

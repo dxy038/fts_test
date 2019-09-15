@@ -1,0 +1,31 @@
+Problems of stability of input filters of
+drives controlled by direct torque and flux
+control methods are studied. Two direct methods
+for AC drive control, Depenbrock’s (DSC) and
+Takahashi’s, are based on two-level hysteresis
+control of torque and flux. The objective of the
+paper is to show that in the case of inverter
+drives controlled by these methods and fed from
+a DC source through an LC input filter
+instabilities of this filter can often occur. The
+case is different from studies published by Lip0
+and Krause (1969) and Ahmed et al. (1986) as it
+includes closed loops for torque and flux
+control. These fast nonlinear control loops mean
+that during input filter voltage and current
+oscillations the main state variables (flux and
+torque) do not oscillate. The basic difficulty in
+the analysis of stability of multidimensional
+variable-structure systems is the complexity of
+available methods. In the paper a state-averaging
+model of a drive controlled by two-level
+hysteresis controllers is proposed. Application of
+this model significantly simplifies the stability
+analysis. The analysis has been done by plotting
+the migration of eigenvalues of the linearised
+state matrix. A new strategy of active damping
+of input filter oscillations is proposed and its
+influence on the drive behaviour during
+transients is shown. Theoretical considerations
+are supported by results of simulation of ‘the
+2.6MW inverter-fed drive.

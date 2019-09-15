@@ -1,0 +1,4 @@
+A procedure to obtain a topology of an optimal structure considering ßexibility is presented. The methodology
+is based on a mutual energy concept for formulation of ßexibility and the homogenization method.
+A multi-objective optimization problem is formulated as an application of compliant mechanism design.
+Some examples of the design of compliant mechanisms for plane structures are presented.

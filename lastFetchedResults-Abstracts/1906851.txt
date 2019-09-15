@@ -1,0 +1,10 @@
+Arguably, the natural gas transmission pipeline infrastructure in Iran represents one of the largest and
+most complex mechanical systems in the world. The optimization of large gas trunk lines known as
+IGAT results in reduced fuel consumption or higher capability and improves pipeline operation. In the
+current study, a single-objective optimization was conducted for Khormoj compressor station on the
+Iranian gas trunk line V (IGAT5). The system consists of over 504 kilometers of 56-inch pipeline
+from South Pars to Aghajari. This system passes through a tortuous terrain with changes in elevation
+which makes the optimization process even more challenging. Genetic algorithm (GA) was used in
+this optimization along with detailed models of the performance characteristics of compressors. The
+results show that in stations having the same compressor in parallel the minimum power (energy)
+consumption is reached when split flow in all the compressors is the same.

@@ -1,0 +1,15 @@
+Background: High-energy linear accelerator (linac) is a valuable tool and the most
+commonly used device for external beam radiation treatments in cancer patients. In
+the linac head, high-energy photons with energies above the threshold of (?,n) interaction produce photoneutrons. These photoneutrons deliver the extra dose to the patients
+undergoing radiation treatment and increase the risk of secondary cancer.
+Objective: In this study, a simplifed model of the linac head was simulated and
+photoneutron dose equivalent was calculated at the isocenter and maze in the sphere
+detector. In addition, the absorbed and equivalent dose of photoneutron were estimated
+in the some organs of the phantom.
+Methods: The simulations were made using the Monte Carlo code. The ICRP reference adult male voxel phantom was used as the human body model for dosimetry
+calculations.
+Results: The results of dose calculations at the isocenter and maze showed that
+photoneutron dose decreases as the function of distance from the isocenter and increases with increasing the distance from the entrance maze.
+Conclusion: It is concluded that the simplifed model of linac head is a useful and
+reliable method in dosimetry calculations. Calculations illustrated that the photoneutron dose is not negligible and duo to its harmful biological effects on body, it should
+be considered in the treatment plans.

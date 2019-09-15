@@ -1,0 +1,16 @@
+Quantification of uncertainties in the source term estimations by a large
+computer code, such as MELCOR and MAAP, is an essential process of the current
+probabilistic safety analysis, The main objective of the present study is to investigate the
+applicability of a combined procedure of the response surface method (RSM) based on
+input determined from a statistical design and the Latin hypercube sampling (LHS)
+technique for the uncertainty analysis of CsI release fractions under a hypothetical severe
+accident sequence of a station blackout at Young-Gwang nuclear power plant using
+MAAP3,OB code as a benchmark problem. On the basis of the results obtained in the
+present work, the RSM is recommended to be used as a principal tool for an overall
+uncertainty analysis in source term quantifications, while using the LHS in the calculations
+of standardized regression coefficients (SRC) and standardized rank regression
+coefficients (SRRC) to determine the subset of the most important input parameters in the
+final screening step and to check the cumulative distribution functions obtained by RSM.
+Verification of the response surface model for its sufficient accuracy is a prerequisite for
+the reliability of the final results that can be obtained by the combined procedure proposed
+in the present work.

@@ -1,0 +1,1 @@
+The main objective of our work is to develop a fast and accurate total solution for dramatically reducing electromagnetic interference (EMI) noise in high-performance LSI microchips at the design stage through unifying estimation, reduction, and verification. This innovative methodology has been proven in the successful design of a 32-bit microprocessor with very low EMI noise.

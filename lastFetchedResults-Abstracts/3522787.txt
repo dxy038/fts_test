@@ -1,0 +1,1 @@
+Internally bypassed star couplers allow bidirectional coherent communication at the same frequency via one subscriber line. For longer subscriber lines the serious limiting factor due to Rayleigh backscattering can be overcome by distributing the star.

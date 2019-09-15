@@ -1,0 +1,7 @@
+In this paper, exergy transfer effectiveness is defined to describe the performance of heat exchangers operating above/below the
+surrounding temperature with/without finite pressure drop. It is discussed systemically that the effects of heat transfer units number, the
+ratio of the heat capacity of cold fluids to that of hot fluids and flow patterns on exergy transfer effectiveness of heat exchangers.
+Furthermore, the results of exergy transfer effectiveness with a finite pressure drop are compared with those without pressure drop when
+different objective media, such as ideal gas and incompressible liquid, etc. are applied. The detailed comparisons of the exergy transfer
+effectiveness with heat transfer effectiveness are also performed for the parallel flow, counter flow and cross flow heat exchangers
+operating above/below the surrounding temperature.

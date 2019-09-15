@@ -1,0 +1,1 @@
+In this paper the hardware/software co-simulation results (Gajski et al., 1992) of a four node single-bus based multicomputer architecture are presented. The application used to illustrate the co-simulation is a parallel matrix multiplication algorithm. The objective is to illustrate the trade-offs and improvements in design that can be made within a co-simulation environment

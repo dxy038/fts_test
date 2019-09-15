@@ -1,0 +1,1 @@
+The authors´ aim is to design, build and test a practical voiceband HF modem that can cope with frequency selective fading. The main objective is to implement the most cost effective system employing the available serial and parallel signal processor devices that can deal with the appropriate detection algorithms as well as simulate the HF channel itself.

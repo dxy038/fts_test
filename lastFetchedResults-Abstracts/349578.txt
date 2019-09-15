@@ -1,0 +1,11 @@
+Objective
+Performing a motor task after a period of training has been associated with reduced cortical activity and changes in oscillatory brain activity. Little is known about whether learning also affects the neural network associated with motor preparation and post movement processes. Here we investigate how short-term motor learning affects oscillatory brain activity during the preparation, execution, and post-movement stage of a force–feedback task.
+Methods
+Participants performed a visually guided power-grip tracking task. EEG was recorded from 64 scalp electrodes. Power and coherence data for the early and late stages of the task were compared.
+Results
+Performance improved with practice. During the preparation for the task alpha power was reduced for late experimental blocks. A movement execution-related decrease in beta power was attenuated with increasing task practice. A post-movement increase in alpha and lower beta activity was observed that decreased with learning. Coherence analysis revealed changes in cortico-cortical coupling with regard to the stage of the visuomotor task and with regard to learning. Learning was variably associated with increased coherence between contralateral and/or ipsilateral frontal and parietal, fronto-central, and occipital brain regions.
+Conclusions
+Practice of a visuomotor power-grip task is associated with various changes in the activity of a widespread cortical network. These changes might promote visuomotor learning.
+Significance
+This study provides important new evidence for and sheds new light on the complex nature of the brain processes underlying visuomotor integration and short-term learning.
+

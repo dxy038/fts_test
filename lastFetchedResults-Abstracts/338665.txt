@@ -1,0 +1,11 @@
+Objective
+Thymic output of newly developed ab T cells in humans can be measured via signal joint T-cell receptor rearrangement excision circles (sjTRECs). Deletion of the TCRD locus via dRec to ψJa recombination during TCRA rearrangement results in the production of such sjTRECs. The deleting elements dRec and ψJa are highly conserved between humans and mice and used in a comparable manner. We developed and evaluated a real-time quantitative PCR (RQ-PCR) to detect and quantify dRec-ψJa sjTRECs in murine peripheral blood leukocytes for estimation of thymic output of newly developed ab T cells in mice.
+Methods
+
+The threshold cycle (Ct) of the sjTREC RQ-PCR was related to the Ct value of an endogenous reference gene. The difference in Ct value (DCt) was correlated to the absolute numbers of CD45+ and CD3+cells per mL of blood, as obtained by a single platform flow cytometric assay, resulting in the frequency of sjTRECs in CD45+ and CD3+ cells.
+Results
+
+The RQ-PCR proved to be sensitive with a detection level of approximately one sjTREC copy in 100 ng of DNA. SjTRECs could not be detected in peripheral blood leukocytes of RAG-1−/− mice, demonstrating the specificity of the assay. As in humans and primates, sjTREC levels declined in aging and thymectomized mice. Remarkably, significant mouse strain–dependent differences in sjTREC levels were observed. 129Sv and C57BL/6 mice had significantly lower sjTREC levels in blood than Balb/c and DBA2 mice.
+Conclusion
+
+Quantification of murine sjTRECs by RQ-PCR may allow for accurate assessment of thymic output in mice.

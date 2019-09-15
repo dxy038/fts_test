@@ -1,0 +1,9 @@
+Study objective
+We evaluate the association between emergency physicians' fear of malpractice and the triage and evaluation patterns of patients with symptoms suggestive of acute coronary syndrome.
+Methods
+We surveyed 33 emergency physicians of 2 university hospitals during the preintervention phase of an implementation trial of the Agency for Health Care Policy and Research Unstable Angina guideline in 1,134 study patients. The survey included a 6-item instrument that addressed concerns about malpractice and a measure of general risk aversion. We used hierarchical logistic regression to model emergency department (ED) triage decisions and diagnostic testing as a function of fear of malpractice, with adjustment for patient characteristics, Agency for Health Care Policy and Research guideline risk group, study site, and clustering by emergency physician.
+Results
+Overall, emergency physicians in the upper tertile of malpractice fear were less likely to discharge low-risk patients compared with emergency physicians in the lower tertile (adjusted odds ratio [OR] 0.34; 95% confidence interval [CI] 0.12 to 0.99; P=.05). Patients treated by emergency physicians in this group were also more likely to be admitted to an ICU or telemetry bed (adjusted OR 1.7; 95% CI 1.2 to 2.4). In addition, emergency physicians in the upper tertile of malpractice fear were more likely to order chest radiography, as well as cardiac troponin. Malpractice fear accounted for a similar amount of variance after controlling for emergency physicians' risk aversion.
+Conclusion
+Malpractice fear accounts for significant variability in ED decisionmaking and is associated with increased hospitalization of low-risk patients and increased use of diagnostic tests.
+

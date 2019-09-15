@@ -1,0 +1,6 @@
+We formulate a pair of multiobjective nonlinear symmetric dual variational
+problems. For the single objective problems our problems become the symmetric
+dual pair of I. Smart and B. Mond J. Math. Anal. Appl. 152, 1990, 536]545..
+Under invexity assumptions, we establish the weak, strong, converse, and self
+duality theorems for our variational problems by using the concept of efficiency.
+Also, we give the static case of our symmetric duality results

@@ -1,0 +1,23 @@
+Fixed charge solid transportation problems are formulated as
+profit maximization problems under a budget constraint at each
+destination. Here item is purchased in different depots at
+different prices. Accordingly the item is transported to different
+destinations from different depots using different vehicles. Units
+are sold from different
+ destinations to the customers at different selling prices. Here selling prices, purchasing costs,
+unit transportation costs, fixed charges, sources at origins,
+demands at destinations, conveyances capacities are assumed to be
+crisp or fuzzy. Budget constraints at destinations are imposed. It
+is also assumed that transported units are integer multiple of
+packets. So the problem is formulated as constraint optimization
+integer programming problem in crisp and fuzzy environments. As
+optimization of fuzzy objective as well as consideration of fuzzy
+constraint is not well defined, different measures-
+possibility/necessity/credibility
+ of fuzzy event are used to transform the problem into equivalent crisp problem.
+ The reduced crisp problem is solved following generalized reduced gradient(GRG) method using lingo software.
+ A  dominance  based genetic algorithm (DBGA) and a particle swarm optimization (PSO) technique using swap sequence are also developed for this purpose and are used to solve the model.  The
+models are illustrated with numerical examples. The results obtained
+using DBGA and PSO are compared with those obtained from GRG.
+Moreover, a statistical analysis  is presented to compare the
+algorithms.

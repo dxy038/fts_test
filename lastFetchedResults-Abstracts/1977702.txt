@@ -1,0 +1,5 @@
+In the present work, innovative analytical techniques, such as an amperometric electronic tongue and a commercial electronic nose were used, together with spectrophotometric methods, to predict sensorial descriptors of Italian red dry wines of different denominations of origin. Genetic Algorithms were employed to select variables and build predictive regression models. On the selected models, an accurate validation technique (the Bootstrap procedure) and a procedure for the detection of outliers (Williams plot) were applied.
+
+sults obtained demonstrate the possibility of using these innovative techniques in order to describe and predict a large part of the selected sensorial information. It was not possible to build an acceptable regression model for only one descriptor, sourness.
+
+oposed analytical methods have the advantage of being rapid and objective; furthermore, the statistical methods applied could be considered a rational operative procedure for building regression models with real predictive capability.

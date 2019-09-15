@@ -1,0 +1,1 @@
+Extremum control has uses beyond the conventional optimisation of performance indices related to productivity: it can also fulfill a dynamic control objective. This has been shown by presenting an algorithm that directly optimises a GMV-type of cost function, showing good local convergence properties as well.

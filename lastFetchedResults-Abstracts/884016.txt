@@ -1,0 +1,6 @@
+Abstract
+According to the importance of location sciences, in decreasing the costs and efficiency on presenting services, there are several researches in this context. Besides, Mathematical models have been presented to explain the general state of different location problems. Several objective functions relevant to each model, have been formulated. According to lack of the researches in context of dynamic locating and moving object allocation, this type of location/allocation problems are considered in this research. This type of problems is divided into three main categories. In this paper, one of the useful classes of the mentioned problems is formulated as an optimization problem and an efficient solution based on genetic algorithm is presented. Evaluating the proposed method, a sample problem is designed and solved using both proposed and traditional methods. The results of implementation have indicated the efficiency of the proposed method.
+
+
+Keywords: Moving Objects, Optimization, Allocation, Genetic Algorithm
+

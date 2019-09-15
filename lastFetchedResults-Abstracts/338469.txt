@@ -1,0 +1,11 @@
+Objective
+Thrombopoietin (TPO) and transforming growth factor-β1 (TGF-β1) have been shown to exert opposite effects on proliferation and megakaryocytic differentiation of hematopoietic cells. To determine whether TGF-β1 interferes directly with TPO-induced signal transduction in hematopoietic cells, we compared the regulatory effects in the TPO-responsive cell lines Mo-7e and HEL.
+Material and Methods
+
+The cells were stimulated by 100 ng/mL TPO and/or 100 ng/mL TGF-β1 and analyzed for proliferation (3H thymidine incorporation), viability (trypan blue exclusion), and protein expression and phosphorylation (Western blot).
+Results
+
+TPO enhanced the proliferation of Mo-7e cells as determined by 3H-thymidine incorporation, whereas TGF-β1 suppressed baseline cell growth and antagonized the proliferative effect of TPO. TPO-induced proliferation also was reduced by a specific inhibitor of the mitogen-activated protein kinase (MAPK) pathway (PD098059), which inhibits activation of the MAPK extracellular signal-regulated kinases (ERK) ERK1 and ERK2, and AG490, an inhibitor of Janus kinase-2, which completely blocked TPO-induced proliferation. As demonstrated by Western blotting, TGF-β1 reduced the TPO-stimulated ERK1/ERK2 and STAT5 phosphorylation in Mo-7e and HEL cells. This effect was completely reversed by preincubation with a tyrosine phosphatase inhibitor (Na3VO4), which suggests that TGF-β1 activated a phosphatase. Although STAT3 also was activated by TPO, STAT3 activation remained unaltered by TGF-β1.
+Conclusion
+
+Taken together, these data suggest that TGF-β1 modulates TPO-mediated effects on megakaryocytic proliferation by interfering with TPO-induced signal transduction, particularly by reducing the activities of MAPK ERK1/ERK2 and STAT5.

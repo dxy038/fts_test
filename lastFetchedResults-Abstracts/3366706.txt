@@ -1,0 +1,1 @@
+An objective methodology for the specification and analysis of communicating processes is presented. It is based on an algebraic theory that is a formalization of a particular state machine model. The approach recognizes the fact that the complexity of system interactions is such that computer aid is not only appropriate but necessary for any practical design methodology.

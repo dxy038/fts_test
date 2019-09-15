@@ -1,0 +1,5 @@
+The design of vertical formwork is dependent on the lateral pressure predicted to act on the form face. Experimental research into the construction of blocks on a gravity dam was carried out with the objective of verifying and comparing the adequacy of different theories. Pressure was measured indirectly as the load on the trusses of formwork support, which allows verification of the adequacy of the integral of the pressure envelopes, proposed by different authors, using a finite element model in ABAQUS.
+
+lysis of the relationship between safety and exactitude was carried out with the objective of determining which method apply to formwork design depending on: safety factors, work monitoring, degree of planning and knowledge about the filling process.
+
+ concluded by recommending the application of different theories based on these parameter values.

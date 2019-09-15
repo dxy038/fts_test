@@ -1,0 +1,15 @@
+Comprehensive acoustic measurements on bouncing particles
+in a GIS have been carried out. The objective is to find parameters
+that both are available from external acoustic measurements
+and usable for assessing whether a particle has the potential
+to cause an insulation breakdown. The elapsed time between subsequent
+particle impacts is a measure of how far into the high-field
+region the particle can move, and thus also a measure on criticality.
+Secondly, the amplitude of the acoustic signal generated as a
+particle impacts the enclosure increases with increasing particle
+length and thus also with increasing criticality. Moreover, plotting
+these two parameters against each other (‘particle flight the’ vs.
+‘signal amplitude at impact’) for a significant number of impacts
+(e.g. 1,000) always yields a very characteristic pattern, which in
+itselfis a strong indication that the recorded signals are generated
+by one, moving particle.

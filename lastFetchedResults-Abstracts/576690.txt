@@ -1,0 +1,7 @@
+Objective: Despite using the Bacille Calmette Guerin (BCG) vaccine, tuberculosis (TB) is still a worldwide disease that kills 2-3 million people each year. Developing a new and more effective vaccine is one way to possibly reduce the morbidity and mortality of TB. The Mtb72F vaccine is one of the important subunit vaccines applied in human clinical trials. In this study, we have constructed an expression vector that contains the Mtb72F fragment with some new modifications. 
+Materials and Methods: In this experimental study, Mtb32N and Mtb39 fragments were amplified by polymerase chain reaction (PCR) using specific primers and inserted into pET21b\Mtb32C. Colony-PCR, restriction enzyme analysis, and DNA sequencing were used to confirm the accuracy of the cloning. We used Western blot to verify the desired protein expression.
+Results: The amplified fragments showed the desired size in PCR and digestion methods,
+and protein expression was confirmed using a monoclonal antibody.
+
+Conclusion: Our modification made it possible to insert another gene or gene fragments into the Mtb72F vector for developing new constructs. In addition, our data has shown that the placement of the histidine tag in the carboxyl- (C-) or amino- (N-) terminal part of a protein may influence protein expression and/or stability. 
+

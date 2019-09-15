@@ -1,0 +1,14 @@
+Two of the most realistic assumptions in the field of scheduling are the consideration of setup and transportation
+times. In this paper, we study the flexible flowshop scheduling where setup times are anticipatory
+sequence-dependent and transportation times are job-independent. We also assume that there are
+several transporters to carry jobs. The objective is to minimize total weighted tardiness. We first formulate
+the problem as a mixed integer linear programming (MILP) model. With this, we solve small-sized
+instances to optimality. Since this problem is known to be NP-hard, we then propose an effective metaheuristic
+to tackle large-sized instances. This metaheuristic, called electromagnetism algorithm (EMA),
+originates from the attraction–repulsion mechanism of the electromagnetism theory. We conduct a series
+of experiments and complete statistical analyses to evaluate the performance of the proposed MILP
+model and EMA. On a set of instances, we first tune the parameters of EMA. Then, the efficiency of the
+model and general performance of the proposed EMA are assessed over a set of small-sized instances.
+To further evaluate EMA, we compare it against two high performing metaheuristics existing in the literature
+over a set of large-sized instances. The results demonstrate that the proposed MILP model and
+EMA are effective for this problem.

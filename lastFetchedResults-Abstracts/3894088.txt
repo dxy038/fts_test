@@ -1,0 +1,1 @@
+The paper proposes a performance evaluation and comparison of G.729, AMR, and fuzzy voice activity detection (FVAD) algorithms. The comparison was made using objective, psychoacoustic, and subjective parameters. A highly varied speech database was also set up to evaluate the extent to which VADs depend on language, the signal-to-noise ratio (SNR), or the power level.

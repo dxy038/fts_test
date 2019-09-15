@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem cells (HSC) are considered to display a quiescent state with low turnover rate. We investigated the cell-cycle kinetics of HSC after a single dose of cytarabine (Ara-C).
+Materials and methods
+
+We analyzed by flow cytometry the cell-cycle status of linlowsca-1+c-kit+ (LSK) stem cells isolated from the bone marrow of C57Bl/6 mice sacrificed at 0, 2, 4, 6, 8, 12, 20, 48, 72, and 96 hours after intraperitoneal injection of Ara-C (100 mg/kg) using 7-aminoactinomycin-D (7-AAD) for DNA staining. In vivo bromodeoxyuridine (BrdU) incorporation and Ki-67 expression in HCS were also measured.
+Results
+
+Two hours after administration of Ara-C, LSK cells ceased to incorporate BrdU. At 4 hours, a decrease of S-phase cells from 10% at baseline to 4% was found (p < 0.05), followed by a rapid increase of BrdU and 7-AAD incorporation reaching a maximum of 28% S-phase cells at 20 hours (p < 0.001). Ki-67 expression suggested recruitment of 20% of cells from G0 into cell cycle. The total number of LSK cells increased 2.5-fold within this short time interval. After 72 hours, a recovery of cell cycling to baseline levels was observed.
+Conclusion
+
+This data shows that a single injection of Ara-C first rapidly induced S-phase arrest in HSC for up to 4 hours. Subsequently, an unexpectedly rapid activation of HCS with recruitment of G0 cells into cell cycle was observed. The mechanism of cell-cycle activation of LSK cells remains unknown, but reduction of the number of differentiated end cell did not appear to be the primary trigger.

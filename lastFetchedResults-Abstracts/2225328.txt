@@ -1,0 +1,28 @@
+Objective: To explore the cumulative genotoxic damage to glioblastoma (GBM) cells,
+grown as multicellular spheroids, following exposure to 6 MV X-rays (2 Gy, 22 Gy) with or
+without, 2- methoxy estradiol (2ME2), iododeoxyuridine (IUDR) or topotecan (TPT), using
+the Picogreen assay.
+Materials and Methods: The U87MG cells cultured as spheroids were treated with 6
+MV X-ray using linear accelerator. Specimens were divided into five groups and irradiated
+using X-ray giving the dose of 2 Gy after sequentially incubated with one of
+the following three drug combinations: TPT, 2-ME2/TPT, IUDR/TPT or 2ME2/IUDR/
+TPT. One specimen was used as the irradiated only sample (R). The last group was
+also irradiated with total dose of 22 Gy (each time 2 Gy) of 6 MV X-ray in 11 fractions
+and treated for three times. DNA damage was evaluated using the Picogreen method
+in the experimental study.
+Results: R/TPT treated group had more DNA damage [double strand break (DSB)/single
+strand break (SSB)] compared with the untreated group (P < 0.05). Moreover the R/
+TPT group treated with 2ME2 followed by IUDR had maximum DNA damage in spheroid
+GBM indicating an augmented genotoxicity in the cells. The DNA damage was induced
+after seven fractionated irradiation and two sequential treatments with 2ME2/IUDR/TPT.
+To ensure accuracy of the slope of dose response curve the fractionated radiation was
+calculated as 7.36 Gy with respect to ?/B ratio based on biologically effective dose (BED)
+formulae.
+Conclusion: Cells treated with 2ME2/IUDR showed more sensitivity to radiation and
+accumulative DNA damage. DNA damage was significantly increased when GBM
+cells treated with TPT ceased at S phase due to the inhibition of topoisomerase
+enzyme and phosphorylation of Chk1 enzyme. These results suggest that R/TPTtreated
+cells increase sensitivity to 2ME2 and IUDR especially when they are used
+together. Therefore, due to an increase in the level of DNA damage (SSB vs. DSB)
+and impairment of DNA repair machinery, more cell death will occur. This in turn may
+improve the treatment of GBM.

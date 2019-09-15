@@ -1,0 +1,3 @@
+The objective of this research is to modeling the thermo mechanical behavior when machining a stainless steel (AISI 316) and to determine the influence of the friction coefficient in the tool-chip interface on cutting and feed forces, cutting temperature, plastic strain, plastic strain rate, maximum shear stress and residual stresses. An experimental validation of the cutting process was conducted in order to verify the numerical simulated results and the comparison shows that the friction modeling at the tool-chip interface has a significant influence on the final results.
+
+ore, it can be concluded that the friction coefficient has a strong effect in the cutting process and is crucial to obtain valuable predictions when machining with the FEM model.

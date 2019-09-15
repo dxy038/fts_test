@@ -1,0 +1,16 @@
+The objective of this study was to model seasonal behavior
+of broiler price in Iran that can be used to forecast the
+monthly broiler prices. In this context, the periodic autoregressive
+(PAR), the seasonal integrated models, and the Box-Jenkins
+(SARIMA) models were used as the primary nominates for the
+forecasting model. It was shown that the PAR (q) model could
+not be considered as an appropriate method for modeling
+seasonal behavior of the broiler price. Results of seasonal unit
+root test indicated that the monthly prices of broiler follow a
+non-stationary stochastic seasonal process. Accordingly, the regression-based
+model is an appropriate modeling framework.
+While SARIMAis an alternative modeling approach, the RMSE
+of forecasting error suggested the superiority of the regressionbased
+model over the SARIMAmodel. Therefore, the estimated
+parameters of the regression-based model can be used to predict
+the monthly prices of broiler in Iran.

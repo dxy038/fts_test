@@ -1,0 +1,1 @@
+The control of the uptake of growth factors in tissue engineering is mathematically modeled via a partial differential equation subject to boundary and initial conditions. The main objective is to regulate cellular processes for the growth or regineration of a tissue within an assigned terminal time. CAS wavelets approach is proposed to solve the optimal control problem.

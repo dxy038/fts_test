@@ -1,0 +1,11 @@
+Objective
+To investigate the effects of hyperglycemia on persistent Na+ currents in human diabetic nerves, eliminating the factors of passive membrane properties as a factor. Previous studies show that strength–duration time constant of a nerve is shortened under hyperglycemia, suggesting reduced axonal persistent Na+ currents. However, the time constant is also affected by changes in passive membrane properties. Latent addition using computerized threshold tracking is a new method that can separately evaluate Na+ currents and passive membrane properties.
+Methods
+Latent addition was used to estimate nodal Na+ currents in median motor axons of 83 diabetic patients. Brief hyperpolarizing conditioning current pulses were delivered, and threshold changes at the conditioning-test interval of 0.2 ms were measured as an indicator of nodal persistent Na+ currents. Seventeen patients were examined before and after insulin treatment.
+Results
+There was an inverse linear relationship between hemoglobin A1c levels and threshold changes at 0.2 ms (P=0.02); the higher hemoglobin A1c levels were associated with smaller threshold changes. After insulin treatment, there was a significant improvement in nerve conduction velocities associated with greater threshold changes at 0.2 ms (P=0.03), suggesting an increase in persistent Na+ currents. The fast component of latent addition, an indicator of passive membrane properties, was not affected by the state of glycemic control.
+Conclusions
+Hyperglycemia could suppress nodal persistent Na+ currents, presumably because of reduced trans-axonal Na+ gradient or impaired Na+ channels, and this can be rapidly restored by glycemic control.
+Significance
+Reduced nodal Na+ currents may partly contribute to the pathophysiology of human diabetic neuropathy.
+

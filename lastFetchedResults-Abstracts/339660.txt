@@ -1,0 +1,11 @@
+Objective
+P-glycoprotein (pgp) is a membrane transporter encoded by the multidrug resistance (MDR1, ABCB1) gene. Pgp is a poor prognostic factor in elderly patients with acute myeloid leukemia (AML). In addition to its role in drug efflux, pgp has been implicated in cellular cholesterol homeostasis. We investigated the effects of exogenous cholesterol removal on pgp expression and function.
+Methods
+
+KG1a drug-naïve, primitive leukemia cells were cultured in serum-free medium with or without the addition of low-density lipoprotein (LDL) cholesterol. After 72 hours, pgp expression and function was assessed by flow cytometry and total cholesterol content of the KG1a cells was determined by the Amplex Red cholesterol assay. The addition of clinically available cholesterol-lowering agents, 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors to KG1a cells was also assessed.
+Results
+
+There was a 39% (SEM = 8.3%; p = 0.03) decrease in pgp protein expression after 3 days of serum-free culture. The decrease was also observed at the message and functional levels. In the presence of low-density lipoprotein cholesterol, pgp expression was restored to 86% of the basal value. Addition of a HMG-CoA reductase inhibitor to KG1a cells resulted in an additional 26% (lovastatin, p = 0.03) and 16% (pravastatin, p = 0.05) reduction in pgp, respectively. Furthermore, toxicity of the pgp substrate drug daunorubicin was enhanced following lovastatin preculture (p = 0.04).
+Conclusion
+
+LDL cholesterol contributes to pgp expression and chemoresistance in primitive leukemia cells. Use of HMG-CoA reductase inhibitors may be of clinical value in lowering pgp expression in AML.

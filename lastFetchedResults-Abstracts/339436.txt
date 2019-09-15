@@ -1,0 +1,11 @@
+Objective
+Dendritic cells play a central role in regulating the innate and adaptive immune responses. Plasmacytoid dendritic cells (PDC) represent a newly identified kind of DC with specialized functions aimed at fighting against viral infections. Recently, we have shown that CD4+CD56+ malignancies were leukemia arising from PDC, with a particularly aggressive clinical course. Hence, we asked whether these malignant PDC could be killed via TRAIL, a death-inducing ligand that belongs to a new class of anticancer drugs currently under development.
+Materials and Methods
+
+In this study we used a PDC line (GEN2.2) we recently developed from leukemic PDC as a model.
+Results
+
+We show that GEN2.2 PDC are sensitive to TRAIL-induced apoptosis and can be killed in vitro by TRAIL-expressing NK cells. Our results suggest that TRAIL binds to Death Receptor 5 (DR5) expressed by GEN2.2 and induces apoptosis mainly via caspases 10, 8, and 3. Interestingly, during infection with influenza, DR5 decreases on GEN2.2 cell surface, which consequently become resistant to TRAIL-induced apoptosis. Moreover, we confirmed the expression of DR5 or DR4 on half of LPDC tested, suggesting the possibility to kill these cells via TRAIL. Hopefully, normal PDC expressed neither DR4 nor DR5.
+Conclusion
+
+These results suggest that TRAIL agonists represent a therapeutic alternative for the treatment of LPDC.

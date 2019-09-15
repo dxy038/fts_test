@@ -1,0 +1,8 @@
+Integrated optimization of structural topology and control system is considered. The problem is formulated
+as mixed discrete-continuous multi-objective programming with a linear quadratic regulator cost index, and
+measures of robustness and controllability as objectives. The Genetic Algorithm (GA), a guided random
+search technique, is adopted for the problem-solving. A member elimination strategy that allows deleted
+members to be recovered is suggested in the search procedure. As veriÞcation for the proposed method,
+optimum layout and actuator placement for a 45-bar truss is illustrated. Numerical results indicate that the
+genetic algorithm can converge to optimum solutions by searching only a minor fraction of the solution
+space. Discussions on the algorithm are presented

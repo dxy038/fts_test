@@ -1,0 +1,3 @@
+The objective of this study is to contribute to widespread use of earth-to-air heat exchangers by proposing a design procedure. In this paper, it is discussed the design method when an earth-to-air heat exchanger system consists of multiple pipes with a close arrangement.
+
+A numerical model for this multi-cool/heat tube system was developed and it was verified by field measurements. With taking into account the thermal interference between tubes, the heat transfer performance was evaluated under various design conditions such as number of tubes, arrangement interval, air velocity and length, and soil properties. Based on these results, an estimation method for the heat transfer rate for the multi-cool/heat tube system is proposed.

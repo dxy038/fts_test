@@ -1,0 +1,15 @@
+This study performs a set of Observing System Simulation Experiments (OSSEs) using
+Geostationary Operational Environmental Satellite (GOES) soundings. The primary objective of the OSSEs
+is to demonstrate that targeted observations can improve forecast accuracy by enhancing the initial
+conditions and mitigating their uncertainties. Hurricane Floyd (1999) is chosen as a study case. The main
+reason for choosing hurricane Floyd as a test case is that the movement of the storm was dictated by a midlevel
+complex polar jet steering flow region. This well-defined feature allowed us to examine the inaccuracy of
+analysis over the steering flow area using GOES soundings as targeted observations and its impact on the
+forecast track error. The set of experiments starts from a baseline forecast of hurricane Floyd using the
+Operational Multiscale Environment model with Grid Adaptivity (OMEGA). From GOES satellite
+soundings, atmospheric vertical profiles were extracted to simulate targeted observations. These data
+extracts were assimilated in the initial conditions to simulate new forecasts of hurricane Floyd which were
+then compared against both the baseline track and observed track. It was found that targeted observations in
+a forecast sensitive area can help to reduce hurricane forecast track error. Assimilation of only the subset of
+data (about 50 soundings) from the subjectively chosen fully sampled target region produced a considerable
+reduction of the track forecast errors (about 30%) within the first critical three days of the forecast.

@@ -1,0 +1,10 @@
+The objective of this task force report is to provide an
+examplanation of the phenomena of very fast transients which can
+occur in Gas Insulated Substations. The simulation of the GlS for this
+iype of transients should be suitable for frequencies from 100 kHz up
+to 50 MHz. The corresponding equivalent circuits developed in
+previous work of CIGRE have been reported. Accuracy of the
+simulation of this phenomenon and verification with field
+measurements are given. An example of a GIS calculation with
+detailed input data is presented which could be used for the
+recalculation of the results.

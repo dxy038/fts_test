@@ -1,0 +1,1 @@
+Proper minimal points are of special interest in multiple objective optimization problems. In this paper, proper minimal points of sets in locally convex spaces and proper minimal solutions of constrained vector problems in topological linear spaces are characterized as solutions of scalar optimization problems. In the latter case no differentiability assumption is made

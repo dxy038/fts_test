@@ -1,0 +1,1 @@
+An effective methodology for a robust global optimization of electromagnetic devices is presented. In the method, gradient index is minimized while the original objective function to be minimized is transformed to a constraint. Since the objective function values and gradient indices are approximated using surrogate functions, the method is numerically efficient.

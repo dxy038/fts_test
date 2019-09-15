@@ -1,0 +1,8 @@
+Objective
+l technique using a composite disk under diametral compression was presented in a previous study for measuring the bond strength between intracanal posts and dentin. This study deals with the stress distribution within the composite disk to allow the bond strength to be calculated accurately. The effects of changing geometrical and material parameters on the post–dentin interfacial stress are also evaluated.
+s
+nite element method with 3D models is used to analyze the stress distribution and to carry out the sensitivity analysis. Progressive post–dentin interfacial debonding is also simulated to better understand the failure process observed in experiments.
+s
+al mismatch causes stress concentrations at the interfaces. The results are presented as correction factors to be used in conjunction with the analytical solution for a homogeneous disk. Comparison between the stresses at the post–dentin interface and those in dentin confirms that interfacial debonding will take place prior to fracture in the dentin.
+icance
+merical solutions presented here will facilitate the adoption of the composite disk in diametral compression for bond strength measurement.

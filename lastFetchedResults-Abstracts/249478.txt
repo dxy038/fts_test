@@ -1,0 +1,14 @@
+A new numerical method is developed for the boundary optimal control problems of the heat conduction
+equation in the present paper. When the boundary optimal control problem is solved by minimizing the
+objective function employing a conjugate-gradient method, the most crucial step is the determination
+of the gradient of objective function usually employing either the direct di>erentiation method or the
+adjoint variable method. The direct di>erentiation method is simple to implement and always yields
+accurate results, but consumes a large amount of computational time. Although the adjoint variable
+method is computationally very e?cient, the adjoint variable does not have su?cient regularity at the
+boundary for the boundary optimal control problems. As a result, a large numerical error is incurred
+in the evaluation of the gradient function, resulting in premature termination of the conjugate gradient
+iteration. In the present investigation, a new method is developed that circumvents this di?culty with
+the adjoint variable method by introducing a partial di>erential equation that describes the temporal
+and spatial dynamics of the control variable at the boundary. The present method is applied to the
+Neumann and Dirichlet boundary optimal control problems, respectively, and is found to solve the
+problems e?ciently with su?cient accuracy

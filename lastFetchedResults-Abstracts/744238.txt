@@ -1,0 +1,15 @@
+Objective
+To determine whether serum B-type natriuretic peptide measured at rest and peak exercise and ΔBNP contribute to the predictive value and diagnostic accuracy of exercise test in the diagnosis of myocardial ischemia.
+Background
+
+Ventricular myocytes release BNP in response to increased wall stress that occurs in acute ischemia. During exercise testing, transient myocardial ischemia could also cause acute myocardial stress and changes in circulating BNP.
+Methods
+
+BNP was measured before and immediately after exercise testing with radionuclide imaging in 203 consecutive subjects referred for chest pain evaluation. Tested subjects were classified as ischemic and non-ischemic based on exercise results, and no ischemia, mild–moderate, and severe ischemia according to perfusion scan results. A logistic regression model, constructed of an ROC and an AUC (area under the curve), was used.
+Results
+
+Ischemic ECG changes (≥ 1 mm, horizontal S–T shift) were detected in the treadmill exercise test in 127 subjects (62.6%), and 76 (37.4%) had neither ST segment shift nor chest pain. Baseline BNP was higher in the ischemic group compared to the non-ischemic group (p = 0.044); peak BNP was also higher in the ischemic group (p = 0.025), as was ΔBNP (p = 0.0126). Of these 127 subjects, 106 (52% of all) had abnormal perfusion scan results. In the ischemic group, the median baseline, peak exercise BNP, and ΔBNP values from baseline to peak were higher than in the non-ischemic group. In the severe ischemic group these variables were approximately three-fold higher than in the mild–moderate ischemic group (p < 0.0001 for baseline; p < 0.0001 for peak; and p < 0.0001 for ΔBNP). Rest, peak exercise, and ΔBNP values were significantly higher in patients with previous myocardial infarction (p < 0.001) and in patients treated with beta blockers; peak exercise BNP was higher in hypertensives and diabetics (p < 0.05). The ROC convergence model showed that the AUC for peak-exercise BNP was best able to discriminate and predict severe ischemia and no ischemia, while ΔBNP from rest to peak exercise discriminated best between mild–moderate and severe ischemia.
+Conclusions
+
+Peak exercise BNP and ΔBNP improved the sensitivity, specificity, positive likelihood ratio, predictive value, and diagnostic accuracy of severe ischemia detection during an exercise test. The contribution of BNP determination during exercise was, however, less impressive than previously reported by others.
+

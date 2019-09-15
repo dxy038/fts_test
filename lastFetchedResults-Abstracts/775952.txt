@@ -1,0 +1,11 @@
+Electricity production using solar thermal energy is one of the main research areas at present in the field of renewable
+energies, these systems being characterised by the need of reliable control systems aimed at maintaining desired operating
+conditions in the face of changes in solar radiation, which is the main source of energy. A new prototype of solar system
+with parabolic trough collectors was implemented at the Plataforma Solar de Almerı´a (PSA, South-East Spain) to investigate
+the direct steam generation process under real solar conditions in the parabolic solar collector field of a thermal
+power plant prototype. This paper presents details and some results of the application of a control scheme designed
+and tested for the recirculation operation mode, for which the main objective is to obtain steam at constant temperature
+and pressure at the outlet of the solar field, so that changes produced in the inlet water conditions and/or solar radiation
+will only affect the amount of steam produced by the solar field. The steam quality and consequently the nominal efficiency
+of the plant are thus maintained.
+  2005 Elsevier Ltd. All rights reserved

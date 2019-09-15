@@ -1,0 +1,5 @@
+Objective (s): Study of observed changes in disease incidence provides valuable information for planning and reform programs. 
+Methods: In this study we use Poisson piecewise regression model for modeling change points and their locations for TB trend in of Iran.
+Results: The findings showed that there are two change points for TB trend in Iran.
+Conclusion: We find two change points in TB trend and consequently we could divide the TB trend into three segments with different rate of TB.
+

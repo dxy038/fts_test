@@ -1,0 +1,14 @@
+The main objective of this paper is to determine the
+potential and electric-field distributions along a typical ceramic
+extremely-high-voltage post insulator covered with atmospheric ice
+during a melting period. Commercial software, Coulomb 3D, based
+on the boundary element method (BEM), was used for all of the
+three-dimensional modeling and simulations. It was demonstrated
+that the BEM is well suited for evaluating the effect of ice shedding
+on the potential and electric-field distributions along an ice-covered
+insulator during a melting period. The results obtained show that
+the length and number of ice free zones, also called air gaps, are the
+major parameters that affect the applied voltage distribution along
+an ice-covered insulator. The meanelectric field per arcing distance,
+affected mainly bythe air-gap lengths, can provide a goodindication
+of the presence of partial arcing along the different air gaps.

@@ -1,0 +1,11 @@
+Objective
+To study the release of antiviral drug acyclovir (ACY) and antibacterial drug chlorhexidine diacetate (CDA) from synthesized copolymers of ethyl methacrylate and hexyl methacrylate of different molecular weights. The effect of the copolymer molecular weight and the effect of drug loading into the copolymer on the release of the drugs have been studied.
+Method
+
+Copolymers (I–IV) of ethyl methacrylate (EMA) and hexyl methacrylate (HMA) were synthesized by free radical solution polymerization with a yield of 76–82%. The copolymer composition was determined by proton NMR spectroscopy. The molecular weight of the copolymers was determined by gel permeation chromatography (GPC). Copolymers I and II were of higher molecular weight while copolymers III and IV were of lower molecular weight. The copolymers were impregnated with 2.5 wt.% of ACY and CDA individually and the release rate of these drugs in water at 37 °C was examined. Drug loading was studied with 2.5, 5.0 and 7.5 wt.% of ACY and CDA incorporated into a separate polymer.
+Results
+
+Measurements of the in vitro rate of drug release showed a sustained release of drug over extended period of time. ACY release rate increases with decrease in copolymer molecular weight from copolymers I to IV (p < 0.001) while CDA showed a different release profile. CDA release rate was higher from higher molecular weight copolymers I and II than from lower molecular weight copolymers III and IV (p < 0.001). ACY release rate increases steadily with increase in drug load (p = 0.011) while CDA release rate had a leveling effect with increase in drug load.
+Significance
+
+Varying the copolymer molecular weight as well as the drug concentration alters the drug release rates and thus it is possible to control the drug release rates to a desired value.

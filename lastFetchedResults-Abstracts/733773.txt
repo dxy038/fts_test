@@ -1,0 +1,11 @@
+Objective
+To evaluate whether the adult smoking rate changed in Lexington-Fayette County, Kentucky, following the enactment of a smoke-free public places ordinance.
+Methods
+
+Behavioral Risk Factor Surveillance System (BRFSS) data from 2001–2005 were used to test whether smoking rates changed in Fayette County from the pre- to post-law period, relative to the change in 30 Kentucky counties with similar demographics. The sample consisted of 10,413 BRFSS respondents: 7139 pre-law (40 months) and 3274 post-law (20 months).
+Results
+
+There was a 31.9% decline in adult smoking in Fayette County (25.7% pre-law to 17.5% post-law). In the group of 30 Control counties, the rate was 28.4% pre-law and 27.6% post-law. Controlling for seasonality, time trend, age, gender, ethnicity, education, marital status, and income, there was a significant Time (pre- vs. post-law) by Group (Fayette vs. Controls) interaction. There were an estimated 16,500 fewer smokers in Fayette County during post-law compared to pre-law.
+Conclusion
+
+There was a significant effect of smoke-free legislation on adult smoking rates.

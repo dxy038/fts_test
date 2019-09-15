@@ -1,0 +1,15 @@
+The time that containerships or transportation trucks spend in marine container terminals for loading
+and unloading their cargo is a real cost scenario which affects, not only the smooth operation of ports,
+but also affect the overall cost of container trade. The operators of shipping lines and container
+terminals are required to realize the importance of this issue and the costs associated with dealing long
+queues of ships and trucks at loading or discharging ports. This paper introduces the concept of the
+classical Analytical Hierarchy Process (AHP) together with the Fuzzy AHP (FAHP) to help the decision
+makers in their judgments towards implementing costly loading and discharging facilities at their
+container terminals. The main objective of this study is to provide a decision-making tool and also to
+introduce the concept of the Multiple Attribute Decision-Making (MADM) technique by using and
+comparing both of the AHP and FAHP techniques for solving the problem of selecting the most
+efficient container yard gantry crane amongst three alternatives including Straddle Carriers (SCs),
+Rubber Tyred Gantry Cranes (RTGs), and Rail Mounted Gantry Cranes (RMGs) by incorporating the
+quantitative and the qualitative determining attributes into the problem. Both of the AHP and FAHP
+analyses in this study have shown that RMG, RTG, and SC systems are the best operational
+alternatives, respectively.

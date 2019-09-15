@@ -1,0 +1,14 @@
+Is there a single combination of hydrologic model and data that yields the best simulations of runoff from a set of catchments in West Africa in the coming decades?
+
+To answer this question, a semi-distributed modelling platform was developed. It comprises two models (GR2M and Water Balance Model) and various datasets as inputs to these models (three potential evapotranspiration [PET] grids and four soil water holding capacity [WHC] grids). The platform makes it possible to regionalise runoff flows, which are discretised in grids of mesh size 0.5° × 0.5°. On the basis of these datasets and models, we compare the performance of the various possible data-model combinations.
+
+The study area contains 49 catchments located in Côte d’Ivoire, Guinea, Mali, Burkina Faso and Niger.
+
+The analysis shows that the selected models are hardly sensitive at all to the different PET grids but more sensitive to the soil grids. The GR2M model clearly gives the best results for the set of catchments, but does not perform well over the entire study area, whatever the grid dataset used:
+
+•
+
+    It is thus seen to be difficult to define a single data-model combination that is optimal for simulating runoff in West Africa.
+•
+
+    As to the existence of a “general” model that could be used anywhere, we find that, for the selected study area, neither of the two models selected fully meets the objective.

@@ -1,0 +1,11 @@
+Objective
+Normal and malignant hematopoietic cells are shown to express and secrete various cytokines and chemokines, some of which are believed to play an important role in normal and abnormal hematopoiesis in an autocrine/paracrine manner. To explore the possibility of a cytokine/chemokine network participating in the pathophysiology of anemic disorders, we evaluated the ability of inflammatory cytokines to induce chemokine expression using erythroid progenitor cells.
+Methods
+
+Erythropoietin-dependent human leukemia cell line AS-E2 was used as a model of erythroid colony-forming unit (CFU-E) cells. The expression of mRNA of 8 chemokines was examined using RT-PCR, before and after TNF-α, IFN-γ, and IL-1β stimulation. For MIP-3α, the promoter activity was analyzed by luciferase assay and secretion was confirmed by ELISA. The expression of CCR6, the specific receptor for MIP-3α, was analyzed by RT-PCR and flow cytometry.
+Results
+
+Unstimulated AS-E2 cells constitutively expressed transcripts for MCP-4, IP-10, PF-4, IL-8, and MIP-3α. Stimulation with TNF-α, IFN-γ, and IL-1β upregulated MIP-3α mRNA expression and induced its protein secretion. Luciferase assay revealed that these cytokines could upregulate promoter activity of the MIP-3α gene, possibly through the NF-κB pathway. CCR6 mRNA was detected and its intracellular expression was confirmed.
+Conclusion
+
+These data suggest that inflammatory cytokine-stimulated erythroid progenitors secrete MIP-3α, which may function in an autocrine/paracrine manner. Furthermore, the existence of intracellular CCR6 suggests the involvement in cytokine signaling of a MIP-3α-dependent internal autocrine mechanism. These mechanisms may play a role in pathophysiology of anemic disorders, such as secondary anemia and bone marrow failure syndromes.

@@ -1,0 +1,11 @@
+Objective
+A method for conduction block (CB) estimation, based on compound muscle action potentials (CMAP) elicited by stimulation at sites proximal and distal to the region in which a block is suspected, which is less sensitive to temporal dispersion than methods based on area and amplitude estimation, routinely used in clinical practice.
+Methods
+The method is based on deconvolution of CMAPs. It provides the delay distribution that convolved with a kernel (estimated by an optimisation method) gives a reconstruction of the CMAPs. The integral of the delay distribution was used to estimate CB. The method was tested on phenomenological signals (sum of delayed and amplitude scaled versions of the same signal), structure based simulated signals (from a plane layer generation model of surface EMG), and experimental signals (eight healthy subjects; CMAPs recorded over abductor digiti minimi; different temporal dispersions obtained comparing above-elbow stimulation of ulnar nerve with below-elbow stimulation or with wrist stimulation; conduction distances about 10 and 35 cm, respectively).
+Results
+Deconvolution method gives more precise estimates of the simulated CB with respect to area and amplitude methods (phenomenological signals: bias in CB estimation in the worst case about 10% for deconvolution, 30% for area, 60% for amplitude). Experimental data: by increasing temporal dispersion, in the average CB estimation increases 4% for area and 10% for amplitude, no increase for deconvolution.
+Conclusions
+The new method for CB estimation is less sensitive to temporal dispersion than area and amplitude methods.
+Significance
+The proposed method provides a precise CB estimation. Being stable to temporal dispersion, it allows to diagnose CB with a lower confidence threshold than in the case of area and amplitude.
+

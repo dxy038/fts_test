@@ -1,0 +1,1 @@
+Freeway traffic control is achieved using High Order Sliding Mode Control (HOSMC) and the concept of differentially flat systems. The main objective of this paper, which follows the work in is to evaluate the impact of the traffic ramp metering on the freeway network using real field data of the French motorway A6.

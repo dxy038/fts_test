@@ -1,0 +1,19 @@
+Background: Numerical study of angulation effects of renal arteries on blood
+?ow has been of great interest for many researchers.
+Objective: This paper aims at numerically determining the angulation effects of
+stenosed renal arteries on blood ?ow velocity and renal mass ?ow.
+Method: An anatomically realistic model of abdominal aorta and renal arteries
+is reconstructed from CT-scan images and used to conduct numerical simulation of
+pulsatile non-Newtonian blood ?ow incorporating ?uid-structure interaction. The
+renal arteries in the realistic model have left and right branch angles of 53° and 45°,
+respectively. Atrapezium shape stenosis is considered in the entrance of right renal
+artery. Two other branch angles, i.e. 90° and 135°, are also considered for right renal
+artery to study the angulation effects.
+Results: Comparison between models with right renal branch angles of 45°, 90°
+and 135° reveals that high curvature of streamlines in the entrance of the renal artery
+with the angle of 135? causes the ?ow velocity and renal mass ?ow to be less than
+those of 45?and 90?.
+Conclusion: It is concluded that large renal branch angles cause the arteries to
+be unable to deliver blood in the requisite amounts to kidney. Kidney responds to
+counteract low blood ?ow by activating the renin-angiotension system which leads to
+severe hypertension.

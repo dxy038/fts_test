@@ -1,0 +1,1 @@
+In the MULTIWAY CUT problem, we are given an undirected edge-weighted graph image with image denoting the cost (weight) of edge e. We are also given a subset S of V, of size k, called the terminals. The objective is to find a minimum cost set of edges whose removal ensures that the terminals are disconnected.

@@ -1,0 +1,1 @@
+The small-signal responses of a buck converter along its route to chaos at different equilibrium points are computed. Bifurcation sequences similar to those of characteristic multiplier loci can be observed. The objective is to demonstrate the feasibility of using frequency-domain analysis to study the chaotic phenomenon of power converters

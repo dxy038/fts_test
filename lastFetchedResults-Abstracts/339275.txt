@@ -1,0 +1,11 @@
+Objective
+Several compounds, including butyrate and trichostatin A, have been shown to activate γ-gene expression via p38 mitogen-activated protein kinase (MAPK) signaling. In eukaryotic cells, reactive oxygen species (ROS) act as signaling molecules to mediate phosphorylation of tyrosine kinases such as p38 MAPK to regulate gene expression. Therefore, we determined the role of the reactive oxygen species hydrogen peroxide (H2O2) in drug-mediated fetal hemoglobin (HbF) induction.
+Methods
+
+H2O2 levels were measured using 2′,7′-dichlorofluorescein-diacetate in K562 cells after drug treatments. To confirm a role for H2O2 in HbF induction, studies were completed with the mitochondrial respiratory chain inhibitor myxothiazole, which prevents ROS generation. The ability of myxothiazole to block γ-globin mRNA accumulation and HbF induction was measured in K562 cells and burst-forming unit-erythroid colonies respectively using quantitative real-time PCR and alkaline denaturation.
+Results
+
+Butyrate and trichostastin A stimulated p38 MAPK phosphorylation via a H2O2-dependent mechanism. Pretreatment with myxothiazole to inhibit ROS formation or SB203580 to impede p38 MAPK signaling attenuated γ-gene activation in K562 cells and HbF induction in erythroid progenitors. However, myxothiazole had no effect on the ability of hydroxyurea to induce HbF.
+Conclusion
+
+The findings presented herein support a ROS-p38 MAPK cell signaling mechanism for HbF induction by butyrate and trichostatin A.

@@ -1,0 +1,1 @@
+Simple LMI methods are proposed for the joint multi-model multi-objective design of static or fixed order output feedback, feedforward and anti-windup controllers. The technique accounts for modal, H<sub>&#8734;</sub> and H<sub>2</sub> specifications on the linear closed loop, as well as robust stability and L<sub>2</sub> performance specifications on the saturated one.

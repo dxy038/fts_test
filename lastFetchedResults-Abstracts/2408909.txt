@@ -1,0 +1,16 @@
+This article presents the application of two algorithms: heuristic big bang-big crunch (HBB-BC) and a heuristic particle swarm
+
+ant colony optimization (HPSACO) to discrete optimization of reinforced concrete planar frames subject to combinations of
+
+gravity and lateral loads based on ACI 318-08 code. The objective function is the total cost of the frame which includes the cost
+
+of concrete, formwork and reinforcing steel for all members of the frame. The heuristic big bang-big crunch (HBB-BC) is based
+
+on BB-BC and a harmony search (HS) scheme to deal with the variable constraints. The HPSACO algorithm is a combination of
+
+particle swarm with passive congregation (PSOPC), ant colony optimization (ACO), and harmony search scheme (HS)
+
+algorithms. In this paper, by using the capacity of BB-BC in ACO stage of HPSACO, its performance is improved. Some design
+
+examples are tested using these methods and the results are compared.
+

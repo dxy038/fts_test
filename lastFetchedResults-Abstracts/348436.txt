@@ -1,0 +1,11 @@
+Objective
+Adults exhibit strong auditory 40 Hz magnetic steady state responses (SSR). Although EEG measured SSR has been studied in children, the developmental course of the magnetic SSR is unknown.
+Methods
+Sixty-nine healthy subjects ranging in age from 5 to 52 years participated in a magnetoencephalographic (MEG) study. Stimuli were monaural 500 ms duration click trains with a 25 ms inter-click interval. Contralateral magnetic responses for both hemispheres were recorded with a 37-channel MEG system. Responses were averaged and examined using wavelet-based time-frequency analysis. Source analyses were also conducted on a subset of the data.
+Results
+Gamma power from 200 to 500 ms post-stimulus onset was computed and was significantly related to subject age in both hemispheres. Hemispheric asymmetry was observed for the anterior–posterior SSR source locations, suggestive of asymmetry similar to that previously described for the SSR and other auditory evoked magnetic field components.
+Conclusions
+The 40 Hz power findings are generally consistent with previous EEG studies of steady state responses in children showing age-related changes in the 40 Hz SSR.
+Significance
+Age-related changes in the strength of the magnetic 40 Hz SSR may continue to develop well beyond early childhood, which should be taken into consideration in planning future studies using adolescents and young adults.
+

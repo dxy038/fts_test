@@ -1,0 +1,11 @@
+Objective
+In this report, methods to expand the number of human cord blood hematopoietic stem cells were explored.
+Materials and Methods
+
+CD34+ cord blood cells were expanded in the presence of various cytokine combinations in either a stroma-free cell culture system or a preformed porcine microvascular endothelial cell layer. After 7 to 21 days, stem cell number and function were monitored. In addition, the replicative history of stem cells was tracked using the fluorescent dye, PKH26.
+Results
+
+With the addition of various cytokine combinations, total cellular expansion was equivalent for both culture systems, although the endothelial cell–based system contained statistically greater numbers of CD34+ cells. By day 21, the endothelial-based system receiving the FLT3L, SCF, IL-6, and GM-CSF cytokine combination contained five-fold greater numbers of CD34+ than the stroma cell–free culture cell system. Endothelial-based cultures receiving these four cytokines plus megakaryocyte growth and development factor produced a 640-fold expansion of CD34+CD38− cells as compared to a four-fold expansion in the stroma-free system. The number of progenitor cells generated was similar with both systems, yet the greatest degree of expansion of cobblestone area–forming cells was observed in the endothelial based cultures (11-fold vs four-fold). Virtually all CD34+ and CD34+CD38+ cells expanded in the presence of endothelial cells had undergone self replication by day 10, yet stromal cell–free cultures contained a significant number (4.8%) of quiescent cells. Identical numbers of re-isolated cord blood CD34+ cells expanded in both systems exhibited a similar ability to engraft and generate cells belonging to multiple hematopoietic lineages in human fetal bones implanted in immunodeficient mice.
+Conclusions
+
+These results suggest that the use of preformed endothelial cell monolayers might permit the ex vivo generation of sufficient numbers of cord stem cells to serve as successful grafts for adult transplant recipients.

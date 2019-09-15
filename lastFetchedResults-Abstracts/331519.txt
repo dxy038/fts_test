@@ -1,0 +1,11 @@
+Objective
+This study evaluated the degree of conversion (DC), maximum rate of cure (image), and polymerization stress (PS) developed by an experimental dental composite subjected to different irradiant energies (3, 6, 12, 24, or 48 J/cm2) under constant irradiance (500 mW/cm2).
+Methods
+
+DC and image were monitored for 10 min on the bottom surface of 2-mm thick disks and on 150-μm thick films (representing the top of the specimen) using ATR-FTIR. PS was monitored for 10 min in 2-mm thick disks bonded to two glass rods (Ø = 5 mm) attached to a universal testing machine. One-way ANOVA/Tukey tests were used and differences in DC and image between top and bottom surfaces were examined using Student's t-test. Statistical testing was performed at a pre-set alpha of 0.05.
+Results
+
+For a given surface, DC showed differences among all groups, except at the top between 24 and 48 J/cm2. image was similar among all groups at the same surface and statistically higher at the top surface. PS also showed significant differences among all groups. Data for 48 J/cm2 were not obtained due to specimen failure at the glass/composite interface.
+Significance
+
+Increases in irradiant exposure led to significant increases in DC and PS, but had no effect on image.

@@ -1,0 +1,11 @@
+We present a flexible and easy to use genetic algorithm-based library for optimising the spatial configurations of land-use. LUPOlib, the
+Land-Use Pattern Optimisation-library, can be applied to a variety of spatial planning problems to derive target-driven scenarios that identify
+trade-offs between conflicting objectives and solve optimum allocation problems (e.g. allocation of reserve sites or management actions). A
+major novelty is that spatial changes are performed according to a patch topology that allows to simultaneously integrate changes of different
+landscape elements (e.g. in agricultural fields and linear changes along corridors). The objective function evaluation is based on a grid representation
+of the landscape where neighbourhood dependencies like lateral flows or the landscape pattern can explicitly be considered. A parameter
+file allows the user to control the optimisation, the modelled land-use changes, objective weightings and constraints as well as input data.
+Only the case study-specific objective function needs to be specified in the source code. LUPOlib has been applied so far in two case studies to
+find optimum trade-offs between habitat requirements of three different bird species and to analyse cost-effectiveness of management actions for
+species conservation. The results suggest that LUPOlib can be a useful tool to support management decisions. It could be used as an extension to
+a GIS and for spatially explicit decision support tools.

@@ -1,0 +1,9 @@
+The problem of design optimization is of high industrial interest, and has been extensively studied for years,
+with excellent results. However, there is the well-known issue of a reasonable balance between the compu-
+tational e ort usually required by stochastic methods, and the fact that deterministic optimizers, even though
+much more e cient, are not guaranteed to localize a good minimum, as they can remain trapped in the  rst
+found local one. To overcome these problems, the authors developed a hybrid strategy, which gave good
+results in terms of speed and reliability of the obtained optima, especially when the objective function is
+obtained through a  nite element analysis, due, for example, to the absence of an analytical solution of the
+problem, and the direct use of a stochastic method would be unfeasible for practical purposes, because of
+the intolerable processing time required

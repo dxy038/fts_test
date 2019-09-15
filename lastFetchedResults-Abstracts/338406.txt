@@ -1,0 +1,11 @@
+Objective
+The Fas ligand (Fas-L) expressed on mature erythroblasts may induce apoptosis of more immature erythroid cells that express Fas, whereas stem cell factor (SCF) may prevent Fas-mediated cell death in hematopoietic progenitor cells. The manner in which SCF prevents Fas-mediated cell death still is unclear. Given the essential role of SCF and the potentially important involvement of the Fas/Fas-L system in the development of erythrocytes, we studied mechanisms related to SCF prevention of Fas-mediated apoptosis.
+Materials and Methods
+
+We used primary cultured human erythroid colony-forming cells (ECFC) derived from CD34+ cells and enriched glycophorin A positive (GPA+) c-kit+ cells in ECFC. Apoptosis of ECFC was induced by an Fas-L mimetic monoclonal antibody CH11. DNA fragmentation and the activation of caspase-3 and caspase-8 were measured using commercially available kits. Characterization of expanded cells was performed using multiparameter flow cytometry. Lyn kinase activity was measured by enolase kinase assays.
+Results
+
+SCF inhibited the CH11-induced DNA fragmentation of ECFC as well as enriched GPA+ c-kit+ cells in ECFC, but not those of GPA+ c-kit− cells. SCF also inhibited the activation of caspase-3 and caspase-8, without downregulation of the surface expression of Fas, suggesting that SCF prevents apoptosis through uncoupling of Fas ligation from subsequent caspase activation. PP2, a specific inhibitor of Src-family kinases, antagonized the effects of SCF in preventing Fas-mediated apoptosis.
+Conclusions
+
+We propose that SCF prevents Fas-mediated apoptosis of erythroid progenitor cells in a manner dependent on the activity of Src-family tyrosine kinases. We also identified active Lyn in erythroid cells. These data suggest the presence of a novel Src-family–dependent function of SCF in the development of erythrocytes.

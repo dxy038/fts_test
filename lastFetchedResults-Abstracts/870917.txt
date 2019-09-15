@@ -1,0 +1,6 @@
+A sufficient optimality theorem is proved for a certain minmax programming
+problem under the assumptions of proper b,h.-invexity conditions on the functions
+involved in the objective and in the constraints. Next a dual is presented for
+such a problem and duality theorems relating the primal and the dual are proved.
+The dual for a minimax generalized.fractional programming problem is presented
+as special case of the main problem considered in the paper.

@@ -1,0 +1,9 @@
+Objective
+Mechanisms of T-cell stimulation by Flt3 ligand (Flt3L) and granulocyte-macrophage colony-stimulating factor (GM-CSF) remain unclear. Herein, we compared the effects of Flt3L and GM-CSF on the expansion of dendritic cells (DC) and T-cell subsets and cytokine expression.
+Methods
+Naïve and effector/memory T cells were analyzed by flow cytometry (FC). CD4+ and CD8+ T cells and CD11c+CD11bdull/− (DC1) and CD11c+CD11b+ (DC2) subsets were isolated and the frequency of IFN-γ-, IL-12- (type 1) and IL-4-, IL-10 (type 2)-producing cells and cytokine mRNA expression evaluated.
+Results
+Flt3L expanded both DC1 and DC2 subsets with a significantly higher percentage and number of DC1 than DC2, while GM-CSF preferentially expanded the DC2 subset. Isolated DC1 from Flt3L-injected mice had significantly higher levels of IL-12 (p40) than IL-10, while the converse occurred with DC2. The numbers of naïve and memory T cells were elevated in mice that received Flt3L or GM-CSF. However, the number of memory CD4+ and CD8+ T cells was significantly increased in Flt3L as compared to GM-CSF cohorts. While GM-CSF increased the frequency of both type 1 and type 2 cytokine-producing cells, Flt3L significantly augmented the frequency of type 1 T cells.
+Conclusions
+In contrast to GM-CSF, Flt3L preferentially induces the expansion of type 1 T cells. The mechanism of Flt3L-induced T-cell stimulation is associated with the expansion of the IL-12 (p40)–producing DC1 and memory T cells.
+

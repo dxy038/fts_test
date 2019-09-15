@@ -1,0 +1,11 @@
+Objective
+Identification of immunogenic leukemia-associated antigens as target structures is mandatory for specific immunotherapy of leukemia. Here, we define acute myeloid leukemia (AML) antigens eliciting a humoral immune response in the autologous host.
+Materials and Methods
+
+We applied the method of serologic screening of cDNA expression libraries with autologous serum (SEREX). To date, this technique has been used to characterize antigen structures in solid tumors. The mRNA expression pattern of these newly in AML isolated antigens and previously described leukemia antigens (PRAME, MAGE-1, and Wt-1) was evaluated by reverse transcriptase polymerase chain reaction. For Wt-1, Western blotting also was performed.
+Results
+
+Screening of a cDNA expression library prepared from a patient with AML FAB M2 using autologous and allogeneic sera, followed by sequencing of positive clones, yielded three autoantigens (Prp1p/Zer1p, L19H1, and one without homology to previously described genes) and two antigens reactive with allogeneic sera (MAZ, PINCH). PRAME mRNA was expressed in 47% of 34 AML patients, but not in 13 CD34+ cell samples or in peripheral blood mononuclear cells of 13 healthy volunteers. mRNA expression of MAZ was detected in 44% of AML patients, but only in 8% of healthy donors. Humoral responses to MAZ were detected in 35%. More than 80% of the screened AML patients showed simultaneous expression of two or more of these antigens.
+Conclusions
+
+Differential expression in AML patients vs healthy volunteers suggests that the immunogenic antigens PRAME and MAZ are potential candidates for immunotherapy in AML.

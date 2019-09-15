@@ -1,0 +1,20 @@
+Background
+The Centers for Disease Control and Prevention (CDC) has published guidelines recommending screening high-risk groups for latent tuberculosis infection (LTBI). The goal of this study was to determine the impact of computerized clinical decision support and guided web-based documentation on screening rates for LTBI.
+Design
+
+Nonrandomized, prospective, intervention study.
+Setting and participants
+
+Participants were 8463 patients seen at two primary care, outpatient, public community health center clinics in late 2002 and early 2003.
+Intervention
+
+The CDC’s LTBI guidelines were encoded into a computerized clinical decision support system that provided an alert recommending further assessment of LTBI risk if certain guideline criteria were met (birth in a high-risk TB country and aged <40). A guided web-based documentation tool was provided to facilitate appropriate adherence to the LTBI screening guideline and to promote accurate documentation and evaluation. Baseline data were collected for 15 weeks and study-phase data were collected for 12 weeks.
+Main outcome measures
+
+Appropriate LTBI screening according to CDC guidelines based on chart review.
+Results
+
+Among 4135 patients registering during the post-intervention phase, 73% had at least one CDC-defined risk factor, and 610 met the alert criteria (birth in a high-risk TB country and aged <40 years) for potential screening for LTBI. Adherence with the LTBI screening guideline improved significantly from 8.9% at baseline to 25.2% during the study phase (183% increase, p < 0.001).
+Conclusions
+
+This study demonstrated that computerized, clinical decision support using alerts and guided web-based documentation increased screening of high-risk patients for LTBI. This type of technology could lead to an improvement in LTBI screening in the United States and also holds promise for improved care for other preventive and chronic conditions.

@@ -1,0 +1,5 @@
+Objective: The P300 event-related brain potential (ERP) was elicited with auditory and visual stimuli in a separate session of a 3 stimulus oddball paradigm, and the scalp topography was assessed with 15 electrode locations.
+Methods: Target (0.10), standard (0.80), and infrequent non-target (0.10) stimuli in the auditory task were 2000, 1000 and 500 Hz tone, and in the visual task, ‘X’, ‘O’, and ‘H’, respectively. The stimuli were presented in a random series, once every 2 s, and participants responded only to the target (N=12).
+Results: Target stimuli elicited larger P300 components than non-target did in both stimulus modalities. For both target and non-target stimuli, P300 amplitude was larger and latency longer for the visual compared with the auditory stimulus. Analysis of normalized P300 amplitude data indicated that the target and non-target P300s from both modalities had identical topography.
+Conclusion: The findings suggest that both target and non-target stimuli in 3 stimulus oddball paradigm elicited the same type of P300 (P3b) for both stimulus modalities.
+

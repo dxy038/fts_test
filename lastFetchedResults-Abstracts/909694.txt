@@ -1,0 +1,8 @@
+A spatial decision support system (SDSS) based on multi-criteria and multi-objective decision analysis is applied in a case study
+in Ethiopia to reduce soil erosion on the basis of reallocation of crops according to their capacity to protect the soil. The case study
+is carried out in the Adwa district. The SDSS has been implemented using the widespread GIS software IDRISI 32 (release 2) and
+with the direct involvement of local stakeholders in defining factors and constraints. These are based on land cover-land use, altitude,
+potential erosion, proximity to roads, water and the relative soil protective capacity of each crop species. A reduction of soil loss
+from an average of 4.5 t ha 1 yr 1 to values below the risk threshold of soil degradation (1 t ha 1 yr 1) would be achieved through
+the application of the SDSS results. The biggest impediment to the reallocation exercise, however, is the shortage of cultivable
+land suitable for cultivation.

@@ -1,0 +1,8 @@
+Quite effective low-order finite element and finite volume methods for incompressible fluid flows have
+been established and are widely used. However, higher-order finite element methods that are stable, have
+high accuracy and are computationally efficient are still sought. Such discretization schemes could be
+particularly useful to establish error estimates in numerical solutions of fluid flows. The objective of this
+paper is to report on a study in which the cubic interpolated polynomial (CIP) method is embedded into
+4-node and 9-node finite element discretizations of 2D flows in order to stabilize the convective terms.
+To illustrate the capabilities of the formulations, the results obtained in the solution of the driven flow
+square cavity problem are given. Copyright q 2006 John Wiley & Sons, Ltd

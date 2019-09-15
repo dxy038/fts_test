@@ -1,0 +1,14 @@
+Accurate crude oil measurement at the metering station is one of main aims in an oil
+export terminal. The main objective is to decrease or remove any error at the metering
+station. It is found that crude oil temperature at metering station has significant effects
+on measured volume and may cause big uncertainty at the metering point, as crude oil
+flows through the pipeline pick up the solar radiation and heat up. This causes the
+crude oil temperature at the metering point to rise and higher uncertainty to be created.
+The amount of temperature rise depends on the main pipeline flow rate. In Kharg
+Island, there is about a 3 km distance between crude oil storage tanks and the metering
+point. The crude oil flows through the pipeline due to gravity effects as storage tanks
+are located 60m higher than the metering point. The flow rate could be controlled by
+the appropriate valves. In this study, based on the climate and geographical conditions
+of Kharg Island, the temperature at the metering point has been calculated and the
+effects of main pipe line flow rate have been investigated. Further, the uncertainty in
+the measurement system due to temperature rise has been studied

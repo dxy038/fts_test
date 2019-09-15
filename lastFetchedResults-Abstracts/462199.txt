@@ -1,0 +1,9 @@
+Context: Firearm-related injuries rank second only to motor vehicle–related injuries as a cause of injury death in Wisconsin.
+Objective: To evaluate the attributes of the Wisconsin Firearm-Related Injury Surveillance System.
+Design: A structured surveillance system evaluation using predetermined criteria.
+Setting: A passive surveillance system linking administrative data from existing state-funded inpatient hospitalization and mortality databases.
+Participants: State health department.
+Main Outcome Measures: Attributes assessed included simplicity, flexibility, acceptability, sensitivity, predictive value positive, representativeness, timeliness, resources, and data quality.
+Results: The use of two existing state databases simplifies data acquisition and linkage. However, hospital discharge and vital records databases are not sufficiently flexible to collect perpetrator and circumstance information. Acceptability is high because of state-mandated reporting to both databases. For firearm-related injuries requiring hospitalization, the system’s predictive value positive is 97% when E codes are compared with data from chart reviews. The system is considered timely because annual data from the hospital discharge and vital records systems can be obtained, linked, analyzed, and reported by September of the subsequent year. The system is sustainable largely because existing software is used for annual evaluations, which requires less than 2 weeks of staff time.
+Conclusions: With minimal resources and time, the Wisconsin Firearm-Related Injury Surveillance System uses existing state government databases to describe and report the burden of firearm-related injuries. Additional information on circumstances, perpetrators, and weapons involved are available but additional resources are needed to integrate this information with existing data.
+

@@ -1,0 +1,1 @@
+This paper deals with the problem of snubberless commutation in matrix converters. A novel method employs current detection within intelligent gate drive circuits for each bidirectional cell which communicate with the gate drives of other cells. The problems with other methods at low currents are overcome. Experimental results verifying the method are presented

@@ -1,0 +1,1 @@
+A flux search controller is proposed to achieve the best efficiency in a direct torque controlled induction motor with light load. The reference flux value is determined through a minimization algorithm with stator current as objective function. Experimental results show that using motor current instead of motor input power as the objective function causes better performance.

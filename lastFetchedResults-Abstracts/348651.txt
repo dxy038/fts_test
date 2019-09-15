@@ -1,0 +1,11 @@
+Objective
+The EEG provides an objective staging of hepatic encephalopathy (HE), but its interpretation may be biased by inter-observer variability. This study aims at comparing an entirely automatic EEG classification of HE based on an artificial neural network-expert system procedure (ANNES) with visual and spectral analysis based EEG classifications.
+Methods
+Two hundred and thirty-eight consecutive cirrhotic patients underwent closed-eye EEG. They were followed up for up to one-year to detect bouts of overt HE and death. The EEG was classified by ANNES, qualitative visual reading, main basic rhythm frequency and spectral analysis. The classifications were assessed on the basis of: (i) match with liver function, (ii) prognostic value and (iii) repeatability.
+Results
+All classifications were found to be related to the severity of liver failure, with cognitive findings and a history of previous bouts of HE. All of them had prognostic value on the occurrence of overt HE and on survival. The ANNES based classification was more repeatable than the qualitative visual one, and had the advantage of detecting low power EEG, but its efficiency in analyzing low-grade alterations was questionable.
+Conclusions
+An entirely automatic – ANNES based – EEG classification of HE can improve the repeatability of EEG assessment, but further improvement of the device is required to classify mild alterations.
+Significance
+The ANNES based EEG grading of HE needs further improvements to be recommended in clinical practice, but it is already sufficient for detecting normal and clearly altered EEG tracings.
+

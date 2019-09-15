@@ -1,0 +1,11 @@
+Objective
+The Ets-family transcription factor PU.1 is expressed specifically in the hematopoietic system, in which it is absolutely required for the generation of B lymphocytes and macrophages. In contrast, overexpression of PU.1 blocks terminal differentiation of the erythroid lineage, in which it can act as an oncogene. In this study we used a multipotential progenitor cell line to examine the effects of PU.1 overexpression on myeloerythroid commitment within a single model system.
+Materials and Methods
+
+PU.1 cDNA was introduced transiently and stably into the multipotent, nonleukemic hemopoietic cell line FDCPmix. Transiently transfected cells were isolated by fluorescence-activated cell sorting within 18 hours of transfection. Stable transfectants were selected by antibiotic resistance over a number of weeks. The effects of short- and long-term overexpression of PU.1 on self-renewal, proliferation, and differentiation were investigated.
+Results
+
+A transient pulse of expression in multipotent progenitor cells eliminated the options of self-renewal and erythroid differentiation, resulting in commitment to the myeloid lineage. However, this transient pulse of expression did not affect the subsequent lineage choice of bipotent granulocyte/macrophage progenitors. In contrast, continuous expression of PU.1 resulted in a strong bias toward macrophage rather than granulocyte differentiation.
+Conclusion
+
+These results demonstrate promyeloid effects of PU.1 at two distinct stages of hematopoiesis.

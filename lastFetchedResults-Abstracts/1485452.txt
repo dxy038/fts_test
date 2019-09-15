@@ -1,0 +1,7 @@
+Rationale: Guidelines for assessing the potential allergenicity of genetically modified (GM) organisms recommend testing the digestibility of the introduced protein by pepsin. Previous studies detailed the digestion procedure but have not described a simple objective measurement of the extent of digestion nor evaluated the impact of variation in pepsin activity.
+
+s: Samples of eight proteins were digested by pepsin at pH 1.2 and 2.0 using standard conditions (10,000 U of pepsin activity per mg test protein) as well as 5000 and 20,000 units per mg of test protein. An independent digestion assay of hemoglobin was used to verify pepsin activity for each assay. Digestion was stopped in timed samples between 0.5 and 60 min. Digestion samples and undigested protein (10% and 100%) were separated by SDS–PAGE. Residual stained protein bands were measured by image analysis.
+
+s: The differences in pH and pepsin concentration only had minor effects on digestion of intermediately stable proteins: concanavalin A, ovalbumin, and lysozyme, but not on rapidly digested or stable proteins.
+
+sions: Verification of pepsin activity and measurement of an objective endpoint of digestion (e.g. (90%) should provide more comparable results for the safety assessment of novel food proteins.

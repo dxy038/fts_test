@@ -1,0 +1,21 @@
+Electric power restructuring offers a major change to the vertically integrated
+monopoly. The change manifests the main part of engineers’ efforts to reshape the three
+components of today’s vertically integrated monopoly: generation, distribution and
+transmission. In a restructured environment, the main tasks of these three components will
+remain the same as before, however, to comply with FERC orders, new types of unbundling,
+coordination and rules are to be established to guarantee competition and non-discriminatory
+open access to all users.
+This paper provides the generation schedule of a GENCO in a deregulated power system. It is
+shown that the goal of generation schedule in the new structure is different from the traditional
+centralized power systems. The modeling of generation scheduling problem in a competitive
+environment is demonstrated by taking into account the main purposes of GENCOs which are
+selling electricity as much as possible and making higher profit. The GENCOs of an area are
+introduced via a model whose objective function consists of hourly spot market price as income
+and different kinds of costs. The constraints are the general ones of such a problem e.g.
+minimum up/down time, minimum and maximum generation and ramp rate. Using one of the
+classical optimization methods, the hourly generation schedule of the generating units will be
+obtained in this competitive environment. The results of this section will be used by ISO. The
+ISO will finalize the schedules of GENCOs by taking into account the technical considerations
+like the power flow of transmission lines. The model and the optimization methods are
+implemented on IEEE-RTS benchmark with 24 buses and 32 generating units.
+

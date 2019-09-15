@@ -1,0 +1,10 @@
+AbstractContext
+ntext of this research is software developers’ perceptions about the use of code examples in professional software development.
+ive
+imary objective of this paper is to identify the human factors that dominate example usage among professional software developers, and to provide a theory that explains these factors.
+
+ieve this goal, we analyzed the perceptions of professional software developers as manifested on LinkedIn online community. We analyzed the data qualitatively using adapted grounded theory research procedures.
+s
+search yields an initial framework of key factors that dominate professional developers’ perception regarding example usage. We use the theoretical lens of prejudice theory to put these factors in a broader context, and outline initial recommendations to address these factors in professional organizational context.
+sion
+sults of this work, in particular the use of qualitative techniques – allowed us to obtain rich insight into key human factors that affect professional software developers, and enrich the body of literature on the issues of reuse. These factors need to be taken into account as part of an organizational reuse strategy.

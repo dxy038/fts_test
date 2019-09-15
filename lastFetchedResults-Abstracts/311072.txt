@@ -1,0 +1,11 @@
+Objective.  To assess the efficacy of estimating proximal tibial translation using video-based motion capture and an array of surface-mounted targets ideal for tracking motion of the tibia.
+
+Design. Superficial and bone-anchored tracking targets were used to create two independent sets of data locating the proximal tibia in a global coordinate system.
+
+Background. Knowledge of the effect that soft tissue movement has on estimates of proximal tibial translation has not been reported to date. This basic information is necessary to establish construct validity for any study proposing to document tibial translation using standard video-based motion capture methods.
+
+Methods. A six camera motion capture system was used to collect surface-mounted and bone-anchored data for seven healthy adult subjects walking at a self-selected speed. The subjects walked along the positive Y-axis of the global reference system, with the positive Z-axis oriented vertically.
+
+Results. Average peak differences in the location of the proximal tibia calculated from the bone and surface-mounted targets were 7.1, 3.7 and 2.1 mm along the X, Y and Z axes of the global coordinate system respectively. Individual subject peak differences were as large as 14.1, 11.8 and 8.3 mm along the X, Y and Z axes.
+
+Conclusions. Estimates of tibial translation with a measurement resolution better than 3 mm are not likely using standard motion capture methods and tracking targets attached superficially to the lower leg.

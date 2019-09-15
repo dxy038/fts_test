@@ -1,0 +1,12 @@
+Objective
+pose a novel associate classification algorithm SAC (structural association classification) and develop a compound pyramid model for accurate and precise protein secondary structure prediction.
+
+on the slide window theory, the protein sequence was treated as a window with length of 13, in which the target amino acid resided in the center, while the remaining area was targeted as secondary amino acid structures. To the head and tail of the sequence, the mirror method was employed to fill the space with an opposite- position structure in relation to the central position.
+
+ mining process, the KDD∗ model not only focuses on the high support and confidence rules, but also pay attention to high confidence and low support rules, which is called ‘knowledge in shortage’.
+
+s the end of the mining process, sets H, E and C, consisted of rule sets whose consequents are α-helix, β-sheet and C-coil, were created respectively to meet the basic requirements for the protein secondary structure prediction. The knowledge base of protein secondary structure was then established with these three newly-acquired rule sets. Through the CMAR (Classification based on Multiple Association rules) algorithm, a novel multi-classifier was developed to determine the best likelihood of a given window to the secondary structure through the adjacent information on amino acid sequential window and screening of three different rule sets.
+
+otein knowledge base consisted of 8049 rules corresponding to sets H, E and C with 2642, 1895 and 3512 rules, respectively, was obtained. Experiment shows, theoretically, accuracy ratio exceeded 85% when confidence threshold value was 70% and 90%. Through the classification process using the multi-classifier SAC developed in four experiments, the significantly high accuracy and recall ratios up to 83.06% (According to Q 3 criterion, followed by abbreviation) in RS126 (Chen &amp; Chaudhari, 2007; Guo et al., 2004; Hu et al., 2004; Liu et al., 2004) and 80.49% in CB513 (Guo et al., 2004; Liu et al., 2004; Wang &amp; Liu (2004)), respectively, were demonstrated.
+sion
+ructural association classification algorithm with pyramid classification developed in the present study demonstrated significantly high accuracy in the protein secondary structure prediction. The study results suggest a highly reliable and accurate alternative in the contemporary protein structure prediction.

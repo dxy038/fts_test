@@ -1,0 +1,7 @@
+The amplitude and angular distribution of the light scattered by planetary surfaces give essential information about their physical and compositional properties. In particular, the angular variation of the bidirectional reflectance, characterized through the phase curve, is directly related to the grain size, shape and internal structure. We use a new radiative transfer model that allows specifying the photometric parameters of each grain individually to study the evolution of the phase curve for various kinds of mixtures (spatial, intimate and layered), mimicking different situations encountered for natural surfaces.
+
+s show that the phase curve evolution is driven by the most abundant/brightest/highly anisotropic scattering grains within the mixture. Both spatial and intimate mixtures show similar trends in the phase curves when varying the photometric parameters of the grains. Simple laws have been produced to quantify the evolution of these variations. Layered mixtures have also been investigated and are generally very sensitive to the photometric properties of the top monolayer.
+
+ations for the interpretation of photometric data and their link with the phases identified by spectroscopy are examined. The photometric properties of a few planetary bodies are also discussed over a couple of examples.
+
+different results constitute a new support for the interpretation of orbital/in situ photometric datasets.

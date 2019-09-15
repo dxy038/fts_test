@@ -1,0 +1,20 @@
+In this paper, a coupled model based on finite element method (FEM), boundary element method (BEM)
+and scaled boundary FEM (SBFEM) (also referred to as the consistent infinitesimal finite element
+cell method) for dynamic response of 2D structures resting on layered soil media is presented. The
+SBFEM proposed by Wolf and Song (Finite-element Modelling of Unbounded Media. Wiley: England,
+1996) and BEM are used for modelling the dynamic response of the unbounded media (far-field).
+The standard FEM is used for modelling the finite region (near-field) and the structure.
+In SBFEM, which is a semi-analytical technique, the radiation condition at infinity is satisfied
+exactly without requiring the fundamental solution. This method, also eliminates the need for the
+discretization of interfaces between different layers. In both SBFEM and BEM, the spatial dimension
+is decreased by one. The objective of the development of this coupled model is to combine
+advantages of above-mentioned three numerical models to solve various soil–structure interaction (SSI)
+problems efficiently and effectively. These three methods are coupled (FE–BE–SBFEM) via substructuring
+method, and a computer programme is developed for the harmonic analyses of SSI systems.
+The coupled model is established in such a way that, depending upon the problem and far-field
+properties, one can choose BEM and/or SBFEM in modelling related far-field region(s). Thus, BEM
+and/or SBFEM can be used efficiently in modelling the far-field. The proposed model is applied
+to investigate dynamic response of rigid and elastic structures resting on layered soil media. To
+assess the proposed SSI model, several problems existing in the literature are chosen and analysed.
+The results of the proposed model agree with the results presented in the literature for the chosen
+problems. The advantages of the model are demonstrated through these comparisons

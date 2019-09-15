@@ -1,0 +1,16 @@
+Building design is a decision making process. in Il'hich decisions are made on rhe selecrion of certain
+design /"ariahles in order to achiae cerrain objeuires (i.e. economv. thermal comforr, t'isual comfort.
+aesthetics. etc.). In/ormation on rhe relationships between the /"ariables and the desired objectives
+is necessarvfor proper decision making. Architects have traditionally reached their design decisions
+based on past experience. Howel·er. total reliance upon indil'idual experience may lead to incomplete
+and inaccurate results. Therefore. giren todar's complexities in building design, as well as advances
+in computer rechnology. systematic approaches can be used as an aid ro. not a replacement for,
+building designers in the decision making process.
+This paper presents the results of implementing an optimization model to the design of energy
+consening air-conditioned residential buildings in different climatic regions. Optimum sets of
+building design /"ariahles for llpica! ['.S. and Saudi residences are presented. with the objective
+of minimi=ing annual energr consumption Ii" those buildings. Optimization results showed that
+significant energy .wrings can be achiel'ed by using optimization in the thermal design of buildings.
+Valuable design information on the selection and arrangement olvarious building components can
+he obtained in the ear/r stages of the huilding des(qn process hy the implementation of optimization
+techniques. as in the model implemented in this paper.

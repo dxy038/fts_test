@@ -1,0 +1,14 @@
+We consider a problem of minimization of convex function f x. over the convex
+region R where the objective function and the feasible region have a common
+direction of recession. In cases when one of these directions is not in the constancy
+space of the objective function, then the minimal solution is not achieved even if
+the function f x. is bounded below over the region R. Many algorithms, if applied
+to this class of programmes, do not guarantee convergence to the global infimum.
+Our approach to this problem leads to derivation of the equation of the feasible
+parametrized curve C t., such that the infimum of the logarithmic penalty function
+along this curve is equal to the global infimum of the objective function over the
+region R. We show that if all functions defining the program are analytic, then
+C t. is also an analytic function. The equation of the curve can be successfully used
+to determine the global infimum in particular, unboundedness.of the convex
+constrained programmes in cases when the application of classical methods, such
+as the steepest descent method, fails to converge to the global infimum

@@ -1,0 +1,11 @@
+Objective
+To investigate whether expression of a membrane-anchored form of erythropoietin (MbEpo) results in self-controlled, autocrine proliferation, and differentiation of erythroid cells. This would provide a possible approach to the selective expansion of genetically corrected erythroid cells in gene-therapy protocols.
+Materials and Methods
+
+We designed retroviral vectors encoding MbEpo or secreted erythropoietin (Epo) and enhanced green fluorescent protein. Several Epo-dependent cell lines were transduced and their proliferative capacity evaluated. This approach was also assessed in human bone marrow CD34+ cells and mouse bone marrow transplants.
+Results
+
+Retroviral vector–mediated MbEpo expression induced autocrine proliferation of the Epo-dependent cell lines DAE7 and UT7/Epo. However, it blocked the Epo receptor (EpoR)–induced activation of granulocyte macrophage colony-stimulating factor–dependent UT7/GM cells and the erythroid differentiation of both human hematopoietic cells in vitro and of mouse bone marrow cells in transplant experiments. MbEpo was present at the surface of UT7/GM cells. It did not affect the membrane localization of the EpoR, but prevented its normal Epo-dependent phosphorylation and internalization. By contrast to these inhibitory effects, a higher rate of EpoR replenishment in UT7/GM cells before MbEpo production rendered cell proliferation independent of exogenous growth factor.
+Conclusions
+
+Activation of EpoR gene expression before MbEpo-induced EpoR activation is essential for activation or inhibition of growth and differentiation of Epo-dependent cell lines. It will be necessary to delay MbEpo expression in late erythroid progenitors until after EpoR gene activation, for erythroid cell expansion to be achieved in vivo.

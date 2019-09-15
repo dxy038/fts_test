@@ -1,0 +1,8 @@
+Objective
+It is still largely unknown as to what material parameter requirements would be most suitable to minimise the fracture and maximising the retention rate of the restoration of cervical non-carious lesions (NCCL). The present paper, as a first of its kind, proposes a radical approach to address the problems of material improvement, namely: numerical-based, fracture and damage mechanics materials optimisation engineering. It investigates the influence of the elastic modulus (E) on the failure of cervical restorative materials and aims to identify an E value that will minimise mechanical failure under clinically realistic loading conditions.
+Method
+
+The present work relies on the principle that a more flexible restorative material would partially buffer the local stress concentration. We employ a “most favourable” parametric analysis of the restorative's elastic modulus using a fracture mechanics model embedded into finite element method. The advanced numerical modelling adopts a Rankine and rotating crack material fracture model coupled to a non-linear analysis in an explicit finite element framework.
+Results
+
+The present study shows that the restorative materials currently used in non-carious cervical lesions are largely unsuitable in terms of resistance to fracture of the restoration and we suggest that the elastic modulus of such a material should be in the range of 1 GPa. We anticipate that the presented methodology would provide more informative guidelines for the development of dental restorative materials, which could be tailored to specific clinical applications cognisant of the underlying mechanical environment.

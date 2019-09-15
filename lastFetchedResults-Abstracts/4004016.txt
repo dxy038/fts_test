@@ -1,0 +1,1 @@
+The model error (ME) is an objective measure for assessing the quality of different models of a given ARMA process. The expression for ME can be evaluated easily in the time domain. This quality measure for known and given processes is necessary for an objective comparison of the performance of estimation algorithms and of order selection criteria

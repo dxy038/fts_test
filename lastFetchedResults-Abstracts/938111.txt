@@ -1,0 +1,16 @@
+Vinyl chloride ŽVC. is a trans-species carcinogen, producing tumors in a variety of tissues, from both inhalation
+and oral exposures, across a number of species. In particular, exposure to VC has been associated with a rare tumor,
+liver angiosarcoma, in a large number of studies in mice, rats, and humans. The mode of action for the
+carcinogenicity of VC appears to be a relatively straightforward example of DNA adduct formation by a reactive
+metabolite, leading to mutation, mistranscription, and neoplasia. The objective of the present analysis was to
+investigate the comparative potency of a classic genotoxic carcinogen across species, by performing a quantitative
+comparison of the carcinogenic potency of VC using data from inhalation and oral rodent bioassays as well as from
+human epidemiological studies. A physiologically-based pharmacokinetic ŽPBPK. model for VC was developed to
+support the target tissue dosimetry for the cancer risk assessment. Unlike previous models, the initial metabolism of
+VC was described as occurring via two saturable pathways, one representing low capacity-high affinity oxidation by
+CYP2E1 and the other Žin the rodent. representing higher capacity-lower affinity oxidation by other isozymes of
+P450, producing in both cases chloroethylene oxide ŽCEO. and chloroacetaldehyde ŽCAA. as intermediate reactive
+products. Depletion of glutathione by reaction with CEO and CAA was also described. Animal-based risk estimates
+for human inhalation exposure to VC using total metabolism estimates from the PBPK model were consistent with
+risk estimates based on human epidemiological data, and were lower than those currently used in environmental
+decision-making by a factor of 80.

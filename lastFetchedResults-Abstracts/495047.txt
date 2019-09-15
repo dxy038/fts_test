@@ -1,0 +1,59 @@
+Nowadays, sustainable development and improving environmental quality and surveillance has become of a great concern. Making decision for environmental assessments is one of the fundamental issues. Analysis of factors affecting people's desires from the social and economical needs and shortcomings standpoint can predict a significant aid to tourism areas. One of these factors is people's validation of visiting and using of these tourist areas. Which are the direct profits of promenades and people express it by willingness to pay amounts. One of the standard methods and flexible researches to measure the willingness, recreational values and environmental resources is valuation method. This study investigated the value of the Anzali wetland located in southwest of the Caspian Sea. To achieve this objective, the valuations with conditional willingness to pay irrespective of individuals under certain hypothetical scenarios were studied. Based on the above method to estimate the value of outing, estimating consumer surplus goods provided by ecosystems, tourism is. Therefore, in this way people rate their willingness to pay (mainly based on the suggested amounts given) for the use of environmental goods to be expressed. Willingness to pay, treating people demand for environmental goods was mainly affected by some of the social conditions and economics. For the stipulated model to measure willingness to pay, that person would assume the proposed amount (price of entry fee) for the recreational value of Anzali wetland according to the maximum utility under the following conditions otherwise it accepts or rejects. u (l,y - a; s ) + gj > u (0,y ; s) + s0 (1)
+
+^Indirect utility that a person gets Y Individual income^ The proposed amount and $ Other social -
+
+8 F
+
+economic characteristics, which is under effect the personal taste 0 and 1 With mean zero random variables that are independent and identical distribution, are. Explanatory variables, including economic, social variables such as age, education, gender, income, environmental quality of wetlands and the proposed price to individuals (as wetland entry fee) is. Which to evaluate its impact on the level of willingness to pay people Logite regression model is used Cumulative distribution function as a random variable Logistic relationship (2) is:
+
+1 + exp
+
+The probability of a person they amount to the recreational value of the proposed accept or unaccepted respectively through relationships obtained 3 and 4 comes.
+
+'<-'<*'•!»-(3) '-'■-ttV <4)
+
+That the cumulative distribution function F above logistic random variable, Xi vector of social and economic variables and e the natural logarithm. Top logistic functions to estimate the maximum method Likelihood and was used SHAZAM software. For evaluation of change in each independent variable on the probability of acceptance of the proposed amount was used of the following relationship.
+Also, for tests Nkooey fitted after model parameters were used estimated coefficient of determination McFadden, Likelihood Ratio Statistic and the percentage of correct prediction. Coefficient of determination McFadden index good fit for the data sample and is the square of correlation coefficient between dependent dual variable and probability predicted. The above index is calculated as follows.
+
+//„] (6) Which in it ^maximum value Likelihood logarithmic function under the restriction that all regression
+
+coefficients, except constant coefficients are zero, is the maximum value function Likelihood case
+
+without limitation. Pearson Likelihood function, the model bound state (which all coefficients are zero) compared with the unbound state said. This Statistic shows the significant coefficients simultaneously, and if is significant Statistic with the probability Statistic Likelihood ratio, it could be concluded that the explanatory variables in the model as well have been able to describe the dependent variable. The statistics is as follows.
+
+LR=-2[L(\$ml-L0)] (7)
+
+Other good fitted indicators percent correct prediction is explanation of the adaptation of decision people with dependent variables of the model. For this purpose, index z' = x' p , calculated for each decision maker and then using the appropriate cumulative probability distribution functions associated with these indicators, is estimated the first option in the dichotomous choice model likely. If the estimated probability of greater than 0.5 is the predicted probability results with the actual value of more than 50% are compliant and otherwise not. Finally, after estimating Logit model parameters, to calculate the average willingness to pay people to recreational value Anzali wetland method mean WTP part (Truncated Mean WTP) was used, the amount of expected WTP in this method is calculated by the integration range from zero to Bid function logistic probability distribution of qualitative variables, as follows.
+
+MaxA MaxA .
+
+E (WTP )= J F^AU)dA = J (--r . .-——r) dA
+
+o 0J 1 + exp [- (a + M ) J
+
+, a * = (a + y F + Q S ) (8)
+
+e ( wtp ) Expected willingness to pay that amount and a width of the source is adjusted by means of socio - economic origin of the width of the main (a ) added.
+
+Characteristics of socio-economic related to population study, shows that 64% of people interviewed were male and 36% of them women, mean age 35 years and standard deviation of 10.7 years, that approximately 52% of those with university education were. The resident status of those interviewed indicated 46% of people interviewed residents of northern cities were. The median income of the study population of about 406.2 dollars with a standard deviation of about 169.89 dollars was estimated. Assessment of willingness to pay people shows that 40% of the patients studied populations are not willing to pay for the recreational value of Anzali wetland. According to the results presented (table 1), coefficients of variables the proposed price, income, environmental quality in wetlands and age was significant at 5% level, but other variables at 5% level significant effect on willingness to pay do not. Price proposed variable weight traction (-0.99) shows that if the proposed 1% price increase to people likely to want people to pay a positive outing for value greatly affected and reduced the rate of 99%. Likely to amount to acceptance in accordance with the sign expected income variable, the positive is estimated that the expression of people exert increasing willingness to pay for the recreational value of Anzali Wetland, along with increasing their income level. Based on the traction weight variable income increased 1% on individual income, a positive willingness to pay for the value of his outing to the 95% rate increase. Based on the traction weight variable income increased 1% on individual income, a positive willingness to pay for the value of his outing to the 95% rate increase.
+In addition, with increasing educational level of people increased willing to pay people with the attention to table and positive estimated value. The reason it seems more people knowledge of favor of environmental and keeps them from the indirect results of increased education and awareness. Minus variable age shows that younger people want to pay more for value are outing. If a unit is added to the age responsive desire to accept the proposed amount of about 0.23 unit decreases. Tension related to the total weight value of the variable virtual environment in the form of Anzali Wetland, which is expressed environmental quality 0.32. Final of the two independent variables related to education and income, respectively 0.15, 0.145. In other words, increasing the probability of acceptance of these variables, with increases a unit willingness to pay visits respectively by 0.15, 0.145 percent. The final variable of the proposed price, is equal -0.583, increasing one unit of the above variables to reduce the risk of willingness to accept payment in the amount of visitors to size 0.583 is percent. In order to verify the results of statistical model, the parameters mentioned in section Materials and methods were used which results in the (table 2) is presented.
+Table 2: Results of tests Logite Nkooey fitting model for the recreational value of Anzali Wetland
+Results of tests Likelihood ratio test  
+Likelihood Logarithms Function  -22.52
+Logarithmic Logarithms (0)  -33.651
+Ratio test Logarithms  22.244
+Value P  0.00047
+Coefficient of determination Mc Fadden  0.43
+Percent correctly predicted  76%
+
+(Ref.: research findings)
+As seen in the coefficient of determination McFadden explanatory variables showed that about 43% of explains variability. The results of the likelihood tests indicated that the coefficients of explanatory variables in the model with probability higher than 99% are at zero, which showed is selected in absence of suitable function form. Finally, test statistics and percent correctly predicted more than 50% is estimated that 76% of respondents indicated answers based on your social- economically characteristics and in accordance with the expected and logical process has to follow.
+
+Average willingness to pay for the value of people walk about 1490 USD Anzali wetland was calculated for each visitor. Anzali wetland and the recreational value in using the relationship
+
+(Average value of the number WTP x of visitors) = annual recreational value of Anzali wetland based on information obtained from the region
+
+Anzali wetland and the number of visitor's annually over 100 thousand people are estimated. Hence, the annual recreational value of Anzali Wetland will be equal to 1490000000 rails.
+
+Motivation in lower age groups is higher. However, the impact of income level, undoubtedly moving toward a more equitable distribution of income significantly this will motivate cooperative. In addition, the quality of environmental variables (environmental value of wetlands) significantly positive effect on is acceptable the entry fee. Given the importance that people attach to visit are attractive environments require that the planners and authorities had to pay more attention to this case and expanding, creating suitable facilities for families, improving health in these spaces in order to enhance the welfare of the community to help more.
+

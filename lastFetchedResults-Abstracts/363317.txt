@@ -1,0 +1,9 @@
+Study objective
+Current risk stratification tools do not identify very-low-risk patients who can be safely discharged without prolonged emergency department (ED) observation, expensive rule-out protocols, or provocative testing. We seek to develop a clinical prediction rule applicable within 2 hours of ED arrival that would miss fewer than 2% of acute coronary syndrome patients and allow discharge within 2 to 3 hours for at least 30% of patients without acute coronary syndrome.
+Methods
+This prospective, cohort study enrolled consenting eligible subjects at least 25 years old at a single site. At 30 days, investigators assigned a diagnosis of acute coronary syndrome or no acute coronary syndrome according to predefined explicit definitions. A recursive partitioning model included risk factors, pain characteristics, physical and ECG findings, and cardiac marker results.
+Results
+Of 769 patients studied, 77 (10.0%) had acute myocardial infarction and 88 (11.4%) definite unstable angina. We derived a clinical prediction rule that was 98.8% sensitive and 32.5% specific. Patients have very low risk of acute coronary syndrome if they have a normal initial ECG, no previous ischemic chest pain, and age younger than 40 years. In addition, patients at least 40 years old and with a normal ECG result, no previous ischemic chest pain, and low-risk pain characteristics have very low risk if they have an initial creatine kinase-MB (CK-MB) less than 3.0 μg/L or an initial CK-MB greater than or equal to 3.0 μg/L but no ECG or serum-marker increase at 2 hours.
+Conclusion
+The Vancouver Chest Pain Rule for early discharge defines a group of patients who can be safely discharged after a brief evaluation in the ED. Prospective validation is needed.
+

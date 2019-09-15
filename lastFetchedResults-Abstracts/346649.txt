@@ -1,0 +1,5 @@
+Objective: In response to the rapidly increasing interest in using human voice in cognitive brain research, a new method, semisynthetic speech generation (SSG), is presented for generation of speech stimuli.
+Methods: The method synthesizes speech stimuli as a combination of purely artificial processes and processes that originate from the natural human speech production mechanism. SSG first estimates the source of speech, the glottal flow, from a natural utterance using an inverse filtering technique. The glottal flow obtained is then used as an excitation to an artificial digital filter that models the formant structure of speech.
+Results: SSG is superior to commercial voice synthesizers because it yields speech stimuli of a highly natural quality due to the contribution of the man-originating glottal excitation.
+Conclusion: The artificial modelling of the vocal tract enables one to adjust the formant frequencies of the stimuli as desired, thus making SSG suitable for cognitive experiments using speech sounds as stimuli.
+

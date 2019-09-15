@@ -1,0 +1,10 @@
+The objective of this paper is to study an integrated two-supplier supply chain whose suppliers
+are unreliable. An unreliable supplier is alternative between available (ON) and unavailable
+(OFF) states which are considered to be independent exponential variables. The suppliers apply
+a continuous review policy and the retailer uses an adapted continuous review base on an(R,Q)
+policy. Transportation times are constant and lead times are non-zero random variables. The
+retailer faces independent Poisson demands. Using the idea of the one-for-one ordering policy,
+we implicitly incorporate the distribution function of the random delay for obtaining the value
+of the expected costs of system. Finally, resorting to a dozen of sample problems, we show that
+the average cost reduction in our inventory system is at least 3.69% and at most 36.95%
+comparing to the one with only one supplier.

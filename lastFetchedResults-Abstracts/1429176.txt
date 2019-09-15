@@ -1,0 +1,10 @@
+Background
+rman Algorithm Project, Phase 2 (GAP2) revealed that a standardized stepwise treatment regimen (SSTR) results in better treatment outcomes than treatment as usual (TAU) in depressed inpatients. The objective of this study was a health economic evaluation of SSTR based on a cost effectiveness analysis (CEA).
+s
+as a randomized controlled study with 148 patients. In an intention to treat (ITT) analysis direct treatment costs for study duration (SD) and total time in hospital (TTH; enrolment to discharge) were calculated based on daily hospital charges followed by a CEA to calculate cost expenditure per remitted patient.
+s
+ent costs in SSTR compared to TAU were significantly lower for SD (SSTR: 10 830 € ± 8 632 €, TAU: 15 202 € ± 12 483 €; p = 0.026) and did not differ significantly for TTH (SSTR: 21 561 € ± 16 162 €; TAU: 18 248 € ± 13 454; p = 0.208). CEA revealed that the costs per remission in SSTR were significantly lower for SD (SSTR: 20 035 € ± 15 970 €; SSTR: 38 793 € ± 31 853 €; p &lt; 0.0001) and TTH (SSTR: 31 285 € ± 23 451 €; TAU: 38 581 € ± 28 449 €, p = 0.041).
+tions
+ct costs were not assessed. Different dropout rates in TAU and SSTR complicated interpretation of data.
+sion
+R-based algorithm results in a superior cost effectiveness at no significant extra costs. Implementation of treatment algorithms in inpatient-care may help reduce treatment costs.

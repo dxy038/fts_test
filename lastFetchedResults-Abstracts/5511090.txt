@@ -1,0 +1,1 @@
+We have examined application of a planar patch array antenna to a multi-beam antenna of dielectric lens. Under several constraints of structure, the lens shape has been designed by the multi-objective genetic algorithm. We demonstrate that the designed antenna has high gain and low sidelobe for each beam through the trial manufacturing model and evaluation.

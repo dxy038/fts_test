@@ -1,0 +1,9 @@
+A set of simple test cases have been defined, within the activities of the CIE technical committee 3.33 and Subtask C
+of the IEA SHC Task 31, based on analytical or experimental references, with the objective of assessing lighting computer
+programs. The present paper aims to show the applicability and the usefulness of these test cases through the
+analyses of a conducted set of benchmarks. It is shown that the use of the CIE test cases allows to verify the level
+of accuracy of the tested programs with respect to the lighting physical laws that are highlighted separately within
+the different test cases. The comparison of the results of the different tested programs shows also that a program with
+a high accuracy in respect to a given aspect of lighting simulation is not necessarily accurate in simulating other aspects,
+which proves the usefulness of the CIE test cases in identifying the domain of applicability of a tested program.
+  2005 Elsevier Ltd. All rights reserved

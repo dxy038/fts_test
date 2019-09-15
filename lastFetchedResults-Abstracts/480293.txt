@@ -1,0 +1,3 @@
+The objective of this paper is to develop arithmetic operations between generalized trapezoidal
+(triangular) fuzzy numbers so that the drawbacks of the existing works are overcome.
+In this respect, the extension principle has been used to calculate different arithmetic operations

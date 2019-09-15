@@ -1,0 +1,22 @@
+Background: The time and frequency features of motor unit action potentials
+(MUAPs) extracted from electromyographic (EMG) signal provide discriminative
+information for diagnosis and treatment of neuromuscular disorders. However, the
+results of conventional automatic diagnosis methods using MUAP features is not convincing
+yet.
+Objective: The main goal in designing a MUAP characterization system is obtaining
+high classification accuracy to be used in clinical decision system. For this aim, in
+this study, a robust classifier is proposed to improve MUAP classification performance
+in estimating the class label (myopathic, neuropathic and normal) of a given MUAP.
+Method: The proposed scheme employs both time and time–frequency features of
+a MUAP along with an ensemble of support vector machines (SVMs) classifiers in
+hybrid serial/parallel architecture. Time domain features includes phase, turn, peak to
+peak amplitude, area, and duration of the MUAP. Time–frequency features are discrete
+wavelet transform coefficients of the MUAP.
+Results: Evaluation results of the developed system using EMG signals of 23 subjects
+(7 with myopathic, 8 with neuropathic and 8 with no diseases) showed that the
+system estimated the class label of MUAPs extracted from these signals with average
+of accuracy of 91% which is at least 5% higher than the accuracy of two previously
+presented methods.
+Conclusion: Using different optimized subsets of features along with the presented
+hybrid classifier results in a classification accuracy that is encouraging to be used in
+clinical applications for MUAP characterization.

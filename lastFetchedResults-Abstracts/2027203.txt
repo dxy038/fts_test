@@ -1,0 +1,9 @@
+This article presents the seismic vulnerability assessment of the S. Jo?o de Loure bridge, in
+Portugal. The single span steel bridge has riveted joints, commonly affected by corrosion,
+which can lead to a significant stiffness reduction. With the objective of evaluating the
+influence of the joints stiffness in the structural response of the bridge, a structural model of
+the bridge was created, and natural frequencies, maximum axial forces and maximum stresses,
+and maximum mid-span deflection were analysed. Four possible element rupture scenarios
+where also studied. Two of them where proved to be a risk for the structural safety of the
+bridge. A commonly used strengthening solution intending to reduce the bridge’s mid-span
+deflection with external pre-stressing cables was studied.

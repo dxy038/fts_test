@@ -1,0 +1,9 @@
+Objective
+The gene encoding the peripheral cannabinoid receptor Cb2 is located in the common virus integration site Evi11 and is associated with hematopoietic malignancies in mice. To determine the effect of Cb2 overexpression on hematopoietic development in vivo, Cb2 transgenic mice were generated.
+Materials and Methods
+A Cb2 expression vector was constructed containing a Cb2 cDNA fragment cloned into the 14kb Sca-1 (Ly-6E.1) gene. Two transgenic lines in which Cb2 expression is controlled by the Sca-1 promoter were generated, and the effect on hematopoietic development was studied. Expression of Cb2 mRNA or protein was studied by RNase protection analysis and ligand binding assays, respectively. Leukemic predisposition was investigated by injecting newborn transgenic as well as control animals with Cas-Br-M murine leukemia virus (Cas-Br-M MuLV).
+Results
+Although increased expression of the Cb2 gene was observed in hematopoietic tissues, follow-up of more than 1 year did not reveal any hematologic defect. Interestingly, infection of newborn pSca-1/Cb2 transgenic mice with Cas-Br-M MuLV revealed that significantly more transgenic mice developed leukemia than virus-treated control littermates. Because these studies provide evidence for the cooperative potential of Cb2 in leukemia progression, we wished to identify genes that may collaborate with Cb2 in leukemic transformation. Our study suggests that Evi1, another common target for proviral integration in mouse leukemias, may be overexpressed in virus-induced leukemias in pSca-1/Cb2 transgenic mice.
+Conclusions
+The data indicate that hematopoietic precursor cells that express high levels of Cb2 possess increased susceptibility for leukemia development and that Cb2 and Evi1 might collaborate in leukemogenesis.
+

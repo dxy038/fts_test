@@ -1,0 +1,11 @@
+Objective
+Bipolar montages are routinely employed for the interpretation of scalp and intracranial EEGs (icEEGs). In this manuscript we consider the assumptions that support the use of a bipolar montage and question the universal appropriateness of bipolar representation of icEEGs for the time-series analysis of these signals. Bipolar montages introduce an element of spatial processing into the observed time-series. In the case of icEEGs, we argue ambiguity may be introduced in some settings through this operation because of a lack of certifiability of local differentiability and continuity of the spatial structure of icEEGs, and their suboptimal spatial sampling.
+Methods
+Example icEEGs were collected from three patients being studied for possible resective epilepsy surgery. Referential and bipolar representations of these signals were subjected to different visual and time-series analysis. The time-series measures calculated were the power spectral density and magnitude squared coherence.
+Results
+Visual analysis and time-series measures revealed that the icEEG time-series was altered by the use of a bipolar montage. The changes resulted from either the introduction of unrelated information from the two referential time-series into the bipolar time-series, or from the removal or alteration of information common to the two referential time-series in the bipolar time-series. The changes could not be predicted without prior knowledge of the relationship between measurement sites that form the bipolar montage.
+Conclusions
+In certain settings, bipolar montages alter icEEGs and can confound the time-series analysis of these signals. In such settings, bipolar montages should be used with caution in the time-series analysis of icEEGs.
+Significance
+This manuscript addresses the representation of the intracranial EEG for time-series analysis. There may be contexts where the assumptions underpinning correct application of the bipolar montage to the intracranial EEG are not satisfied.
+

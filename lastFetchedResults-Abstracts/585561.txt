@@ -1,0 +1,21 @@
+In this research a multi-objective Imperialist
+Competitive Algorithm (MOICA) is applied for
+Environmental and Economic Power Dispatch (EED)
+problem. Due to the environmental concerns that arise
+from the emissions produced via fossil-fueled electric
+power plants, the classical economic dispatch, which
+operates electric power systems so as to minimize only
+the total fuel cost, can no longer be considered alone.
+Hence, by environmental dispatch, emissions can be
+reduced by dispatch of power generation to minimize
+emissions. Also, power generated, system loads, fuel cost
+and emission coefficients are subjected to inaccuracies
+and uncertainties in real-world situations. The proposed
+technique has been carried out on the IEEE 30-bus and
+118-bus test system. The results demonstrate the
+capability of the proposed MOICA approach to solve of
+multi-objective EED problem. The comparison reported
+results with MODE and other techniques reveals the
+superiority of the proposed MOICA approach and
+confirms its potential for solving other power systems
+multi-objective optimization problems.

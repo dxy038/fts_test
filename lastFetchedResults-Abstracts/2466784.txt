@@ -1,0 +1,10 @@
+Context
+ation system development (ISD) has been plagued with high failure rates. This is partially due to the activities being a combination of both a technical and social processes involving stakeholders with conflicting interests.
+ive
+ng software risk management theories and frameworks offer limited suggestions for actions that can be taken to reduce the chance of failure of ISD projects. Our objective is to examine the connections among some of the more important user related risks in order to shed light on how specific strategies enhance the chance of project success.
+
+ducted a sample of information systems project managers to test a multivariate model to explain the impact of pursuing a partnership with users on the conflicts that arise between users and developers, role ambiguity, and subsequent impact on project performance.
+s
+oposed model was supported, suggesting that user–developer conflict and role ambiguity have a negative impact on performance estimation difficulty, which negatively affects project performance.
+sion
+t of project partnering yields a number of significant relationships in the model indicating an organization can implement practices that reduce risks associated with role ambiguity and conflict in system development projects.

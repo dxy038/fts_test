@@ -1,0 +1,1 @@
+A number of important problems from system and control theory can be numerically solved by reformulating them as semidefinite programming (SDP) problems, that is, linear objective minimization with linear matrix inequality constraints. The objective of the article is to provide a brief introduction to SDP and its application to problems from chemical process control

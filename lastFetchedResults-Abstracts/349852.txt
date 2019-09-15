@@ -1,0 +1,11 @@
+Objective
+The cerebellum takes part in several motor functions through its influence on the motor cortex (M1). Here, we applied the theta burst stimulation (TBS) protocol, a novel form of repetitive Transcranial Magnetic Stimulation (rTMS) over the lateral cerebellum. The aim of this study was to test whether TBS of the lateral cerebellum could be able to modulate the excitability of the contralateral M1 in healthy subjects.
+Methods
+Motor-evoked potentials (MEPs) amplitude, short intracortical inhibition (SICI), long intracortical inhibition (LICI) and short intracortical facilitation (SICF) were tested in the M1 before and after cerebellar continuous TBS (cTBS) or intermittent TBS (iTBS).
+Results
+We found that cTBS induced a reduction of SICI and an increase of LICI. On the other hand, cerebellar iTBS reduced LICI. MEPs amplitude also differently vary following cerebellar stimulation with cTBS or iTBS, resulting in a decrease by the former and an increase by the latter.
+Conclusions
+Although the interpretation of these data remains highly speculative, these findings reveal that the cerebellar cortex undergoes bidirectional plastic changes that modulate different intracortical circuits within the contralateral primary motor cortex.
+Significance
+Long-lasting modifications of these pathways could be useful to treat various pathological conditions characterized by an altered cortical excitability.
+

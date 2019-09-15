@@ -1,0 +1,11 @@
+Objective
+To compare the heating behaviour of three figure-of-eight shaped coils during repetitive transcranial magnetic stimulation (rTMS).
+Methods
+A custom-made coil (referred to as test coil) with a resistance-optimized conductor geometry was compared with two commercially available eight-shaped coils. Each coil was attached to the same energy source, which generated trains of 50 biphasic magnetic pulses every 20 s. Coil temperature was continuously measured during nine rTMS protocols using various combinations of stimulus frequencies (5, 10 or 20 Hz) and intensities (40, 50 or 60% of maximum stimulator output). A heating curve relating coil temperature and the number of applied stimuli was generated for each coil and rTMS condition. In eleven healthy volunteers, we evaluated the effectiveness of motor cortex stimulation. For each coil, we determined the motor threshold (MT) in the right first dorsal interosseus muscle.
+Results
+The slope of the heating curves of the test coil was markedly flattened relative to the heating curves of the two standard coils. This allowed the application of at least twice as many stimuli until the temperature of the coil reached 40 °C. Based on these data, we showed that a one-mass model could be used to accurately describe the heating behaviour of each coil. MTs determined with the test coil were comparable to or lower than the MTs that were determined with the standard coils.
+Conclusions
+The efficacy of the test coil to stimulate the M1 was comparable to the efficacy of the two standard coils, yet thermal characteristics were markedly improved.
+Significance
+Overheating of figure-of-eight shaped coils can be markedly delayed without reducing the efficacy of rTMS.
+

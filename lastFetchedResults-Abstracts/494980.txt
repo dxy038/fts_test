@@ -1,0 +1,2 @@
+In this paper, a review of Multiple objective Flowshop Scheduling Problems is introduced. Different version of the problem are classified according to different multi objective optimization approaches, flowshop assumptions, solving methods, and also objective functions terms. This paper can be considered as a complete and valuable reference for researchers in the field of scheduling, especially multiple objective ones.
+

@@ -1,0 +1,18 @@
+In traditional inventory models such as the economic order quantity (EOQ) and the economic production
+quantity (EPQ) the sole objective is to minimize the total inventory-related costs, typically holding cost
+and ordering cost. These models do not consider the presence of defective products in the lot or rework of
+them. Recently, Jamal, Sarker, and Mondal (Jamal, A. A. M., Sarker, B. R., & Mondal, S., (2004). Optimal
+manufacturing batch size with rework process at single-stage production system. Computers and Industrial
+Engineering, 47(1), 77–89) proposed a model, which dealt with the optimum batch quantity in a single-
+stage system in which rework is done by addressing two different operational policies to minimize
+the total system cost, but their models do not consider planned backorders. In this direction, this paper
+develops an EPQ type inventory model with planned backorders for determining the economic production
+quantity for a single product, which is manufactured in a single-stage manufacturing system that
+generates imperfect quality products, and all these defective products are reworked in the same cycle.
+We also establish the range of real values of the proportion of defective products for which there is an
+optimal solution, and the close form for the total cost of inventory system. The use of the inventory model
+is illustrated with numerical examples. The classical EOQ, EPQ inventory models with or without planned
+backorders and Jamal, Sarker and Mondal’s model (Jamal, A. A. M., Sarker, B. R., & Mondal, S., (2004). Optimal
+manufacturing batch size with rework process at single-stage production system. Computers and
+Industrial Engineering, 47(1), 77–89) are shown to be special cases of the EPQ inventory model presented
+in this paper.

@@ -1,0 +1,28 @@
+In this paper we present methods and results for the estimation and modelling of the
+recovery intensity for Income Protection (IP) insurance claims, allowing for different causes of
+claim. We use UK data supplied by the Continuous Mortality Investigation relating to claims
+paid in the years 1975 to 2002, inclusive. Each claim is classified by one of 70 possible causes
+according to ICD8.
+We group causes where appropriate, and then use the Cox model and generalised linear
+models to model the recovery intensity.
+In two subsequent papers we complete our modelling of IP claim termination rates by
+discussing the modelling of the mortality of IP claimants.
+There are two main reasons why it is useful to incorporate cause of sickness in the modelling
+of IP claim terminations:
+(i) The cause of sickness will be known to the insurer for a claim in the course of payment. A
+reserve can be set more accurately for such a claim if a model of the termination rates
+appropriate for this cause is available.
+(ii) Different causes of claim will become more or less significant over time. For example,
+tuberculosis may have been an important cause of sickness in the past, but is likely to be far
+less significant now; the swine flu pandemic starting in 2009 is likely to have a significant
+effect on observed aggregate claim termination rates, skewing them towards higher rates at
+shorter durations. Information about trends in morbidity, together with a model of
+termination rates by cause of claim, allows future aggregate claim termination rates to be
+predicted more accurately, reserves to be set at more appropriate levels and policies to be
+priced more accurately.
+One of the covariates included in our models for recovery intensities is Calendar Year.
+Aggregate recovery intensities have been decreasing over the period considered, 1975 to 2002,
+and this is generally reflected in the models for recovery intensities by cause of sickness.
+However, when these intensities are projected for years beyond 2002, the results are not always
+plausible.
+keywords

@@ -1,0 +1,11 @@
+Objective
+The evolutionarily conserved Kit receptor is vital for function of hematopoietic stem cells (HSC). KitW-41 (W-41) and KitW-42 (W-42) are single residue changes in the KIT intracellular phosphotransferase domain, while KitW-v (W-v) is a single residue change in the ATP binding domain. This study tests how each mutation affects HSC function.
+Methods
+
+Cells in mutant and C57BL/6J+/+ blood and marrow were compared. Overall HSC function was measured by competitive repopulation. Functions of specific progenitor populations were tested with stage-specific competitive repopulation and standard colony-forming unit assays.
+Results
+
+Bone marrow cells from these Kit mutants are severely defective at reconstituting peripheral blood lineages and bone marrow of irradiated recipients, when compared to +/+ control marrow. These defects increased with time. Marrow from W-41/+ and W-v/+ functions similarly but better than marrow from W-41/W-41 and W-42/+, to repopulate the erythroid and lymphoid lineages. Long-term (LT) and short-term (ST) HSC from W-v/+, W-41/W-41, and W-42/+ are more defective at reconstituting bone marrow than LT- and ST-HSC from W-41/+ and +/+. Common myeloid progenitor (CMP) cells from W-42/+ and W-41/W-41 are more defective at producing spleen colonies than CMP from W-v/+ and W-41/+.
+Conclusion
+
+Heterozygous Kit mutants with little or no apparent anemia exhibit surprisingly large defects in overall HSC function. Multiplying the fractional defects in LT-HSC, ST-HSC, and CMP can account for overall effects of W-v/+, but does not completely account for the defects observed with W-41/+, W-42/+, and W-41/W-41.

@@ -1,0 +1,5 @@
+The present paper is centred on the design of a bayonet tube steam generator, fundamental part of an innovative lead-cooled fast nuclear reactor (LFR). The construction of the LFR is the main objective of the European project named LEADER, of which Ansaldo Nucleare is an important member. The steam generator described in this paper is expected to be installed in a 300 MW thermal power demonstrator plant, named ALFRED.
+
+vestigations carried out in this work through the RELAP 5 code have first faced the sizing of the single bayonet tube and then the design of the whole heat exchanger. The configurations of the four coaxial tubes composing the single bayonet, the length of the bayonets and the materials employed have been investigated; the final heat exchanger configuration provides 510 bayonet tubes of 6 m active length with a thermal insulation between the inner descending tube and the rising annulus, assured by a special extremely insulating paint.
+
+ole steam generator has shown its capability to reach the required exchanged power of 37.5 MWth, providing as output dry superheated steam at the desired temperature of 450 °C.

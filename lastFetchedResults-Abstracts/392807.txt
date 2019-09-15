@@ -1,0 +1,9 @@
+Objective
+To generate anatomical data on the human middle ear and adjacent structures to serve as a base for the development and optimization of new implantable hearing aid transducers. Implantable middle ear hearing aid transducers, i.e. the equivalent to the loudspeaker in conventional hearing aids, should ideally fit into the majority of adult middle ears and should utilize the limited space optimally to achieve sufficiently high maximal output levels. For several designs, more anatomical data are needed.
+Methods
+Twenty temporal bones of 10 formalin-fixed adult human heads were scanned by a computed tomography system (CT) using a slide thickness of 0.63 mm. Twelve landmarks were defined and 24 different distances were calculated for each temporal bone.
+Results
+A statistical description of 24 distances in the adult human middle ear which may limit or influence the design of middle ear transducers is presented. Significant inter-individual differences but no significant differences for gender, side, age or degree of pneumatization of the mastoid were found. Distances, which were not analyzed for the first time in this study, were found to be in good agreement with the results of earlier studies.
+Conclusion
+A data set describing the adult human middle ear anatomy quantitatively from the point of view of designers of new implantable hearing aid transducers has been generated. In principle, the method employed in this study using standard CT scans could also be used preoperatively to rule out exclusion criteria.
+

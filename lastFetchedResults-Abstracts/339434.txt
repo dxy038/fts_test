@@ -1,0 +1,11 @@
+Objective
+The Hedgehog family of intercellular proteins has a crucial role in embryonic development. Recent experimental data suggests that the Hedgehog pathway may play a role in early hematopoiesis and angiogenesis. Stem cell leukemia (SCL), a basic helix-loop-helix (bHLH) transcription factor, is essential for the specification and function of the hemangioblast. SCL expression in early hematopoietic precursors and endothelium is directed by a 3′ enhancer. We hypothesized that the SCL 3′ enhancer is regulated by Hedgehog signaling during specification of mesoderm towards hemangioblastic fate.
+Materials and Methods
+
+Whole embryos derived from transgenic mouse lines carrying reporter genes under the regulation of SCL 3′ enhancer were cultured in the presence of active Hedgehog peptide. Hedgehog transcriptional regulation of SCL 3′ enhancer was studied by in vitro and in vivo binding and reporter assays.
+Results
+
+Hedgehog induced expansion of cells in which the SCL 3′ enhancer was transcriptionally activated. A Gli-binding site within the 3′ enhancer of SCL was identified and Gli1 was demonstrated to bind and transactivate this enhancer in a sequence-dependent manner. We further demonstrated that the core region of the SCL 3′ enhancer is transcriptionally regulated by Hedgehog in-vivo and that the Gli-binding site located in this enhancer is essential for Hedgehog transcriptional regulation in vitro.
+Conclusion
+
+These findings suggest that SCL may be a direct target of Hedgehog signaling during hemangioblast specification.

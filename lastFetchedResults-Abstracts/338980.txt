@@ -1,0 +1,11 @@
+Objective
+The slow accumulation of malignant cells in chronic lymphocytic leukemia (CLL) suggests a defect in the induction of apoptosis in these cells. Previous studies have found sporadic alterations in the apoptotic apparatus in CLL cells, but a widespread defect has not been detected until now. A crucial checkpoint in the progression of apoptosis is the activity of inhibitor of apoptosis proteins (IAP) that control the activity of caspases upon the release of cytochrome c from mitochondria. The aim of this study was to evaluate the role of IAP in the regulation of apoptosis in CLL cells.
+Materials and methods
+
+Lysates from CLL cells were prepared, and the regular function of components of the cytochrome c-dependent caspase-activating machinery (the apoptosome) was investigated. The effect of IAP in caspase-inhibition was tested using a peptide derived from the mitochondrial IAP antagonist Smac/DIABLO. Regulation of expression as well as inhibitory function of the X-linked IAP (XIAP) by cytokines was analyzed.
+Results
+
+The apoptosome was found to be structurally and functionally competent in CLL. XIAP expression was enhanced by culture in the presence of cytokines. Smac/DIABLO was easily detectable in CLL cells and was released into the cytosol during apoptosis. No inhibitory effect of IAP was detected in CLL, irrespective of XIAP levels and culture conditions.
+Conclusion
+
+Although XIAP is present in CLL cells and is up-regulated in conditions where apoptosis is prevented, no caspase-inhibiting anti-apoptotic effect of IAP is detectable. This is likely due to the high expression of Smac/DIABLO in CLL cells that is sufficient to overcome the caspase-inhibiting effect of IAP.

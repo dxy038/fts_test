@@ -1,0 +1,7 @@
+Objective.  To test the hypothesis that the Weibull moduli of single- and multilayer ceramics are controlled primarily by the structural reliability of the core ceramic.
+
+Methods. Seven groups of 20 bar specimens (25×4×1.2 mm) were made from the following materials: (1) IPS Empress®—a hot-pressed (HP) leucite-based core ceramic; (2) IPS Empress2®—a HP lithia-based core ceramic; (3 and 7) Evision®—a HP lithia-based core ceramic (ES); (4) IPS Empress2® body—a glass veneer; (5) ES (1.1 mm thick) plus a glaze layer (0.1 mm); and (6) ES (0.8 mm thick) plus veneer (0.3 mm) and glaze (0.1 mm). Each specimen was subjected to four-point flexure loading at a cross-head speed of 0.5 mm/min while immersed in distilled water at 37 °C, except for Group 7 that was tested in a dry environment. Failure loads were recorded and the fracture surfaces were examined using SEM. ANOVA and Duncan's multiple range test were used for statistical analysis.
+
+Results. No significant differences were found between the mean flexural strength values of Groups 2, 3, 5, and 6 or between Groups 1 and 4 (p>0.05). However, significant differences were found for dry (Group 7) and wet (Groups 1–6) conditions. Glazing had no significant effect on the flexural strength or Weibull modulus. The strength and Weibull modulus of the ES ceramic were similar to those of Groups 5 and 6.
+
+Significance. The structural reliability of veneered core ceramic is controlled primarily by that of the core ceramic.

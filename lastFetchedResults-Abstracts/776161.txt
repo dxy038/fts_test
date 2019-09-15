@@ -1,0 +1,6 @@
+In order to evaluate the performance of solar home systems (SHS), data on local insolation is a prerequisite. We present
+the outline of a new method to estimate insolation if direct measurements are unavailable. This method comprises estimation
+of daily irradiation by correlating photovoltaic (PV)-module currents from a number of solar home systems, located a
+few kilometres apart. The objective is to obtain reliable daily and monthly insolation figures that are representative for an
+area of a few square kilometres.
+  2005 Elsevier Ltd. All rights reserved.

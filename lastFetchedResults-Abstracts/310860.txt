@@ -1,0 +1,11 @@
+Objective.  To investigate the influence of inserting a Fuji pressure sensitive film between the tibiofemoral joint of knee prosthesis on actual contact characteristics.
+
+Design. A finite element analysis was used to investigate the alteration of contact characteristics of the tibiofemoral joint due to inserting a pressure sensitive film between the contacting surfaces.
+
+Background. The discrepancy between actual contact behaviors of tibiofemoral joint of knee prosthesis and the measurement using Fuji pressure sensitive film was not discussed extensively. The change of direct contact circumstance of the tibiofemoral joint due to inserting a pressure sensitive film was not well reported.
+
+Method. A two-dimensional finite element model of the tibiofemoral joint of knee prosthesis in the sagittal plane was constructed. Four different radii of the femoral component were used to investigate the conformity effect. Two-layers of plane strain element were used to model the pressure sensitive film. The influence of inserting a pressure sensitive film on the actual contact characteristics was analyzed by comparing the results of the change in contact radius.
+
+Results. Inserting a pressure sensitive film between contacting surfaces would disturb the original contact behaviors, especially in the lowest conformity design. The maximum difference of contact radius between the model simulating actual contact circumstance and the model with inserting a pressure sensitive film between contacting surface was 77% in the lowest conformity condition at the smallest load.
+
+Conclusions. This study proposes a quantitative analysis of contact characteristics in the tibiofemoral joint of knee prosthesis between the models with and without inserting a pressure sensitive film into the contact surface. The measurement of contact area in artificial tibiofemoral joints by using Fuji pressure sensitive film is always overestimated its true contact area by 14–77%.

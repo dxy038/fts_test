@@ -1,0 +1,8 @@
+Objective
+ is known about the association of mild symptoms and mental well-being with risk of disability pension (DP) due to somatic diagnoses, even less for DP due to low back diagnoses (LBD). Moderate genetic influences on personality traits, life dissatisfaction and DP exist suggesting that shared genetic influences may underlie these associations. One can control for familial confounding (genetics and family environment) by examining twins. This twin study aimed to investigate personality traits and life dissatisfaction as predictors for DP due to LBD accounting for familial confounding.
+s
+n 24043 twins aged 18–65 year in a baseline survey in 1975 was followed up from national DP register data until 2004. Personality traits were assessed using the short version of the Eysenck Personality Inventory and life dissatisfaction was measured with a four item scale on levels of interest, happiness, easiness, and loneliness of life. Cox proportional hazards regression was used to calculate hazard ratios (HR) with 95% confidence intervals (CI).
+s
+ to LBD was granted to 537 individuals during the follow-up. Each one unit increase in life dissatisfaction (HR 1.06; 95%CI 1.03, 1.10) and neuroticism (1.07; 1.03, 1.10) but not extroversion was significantly associated with an elevated risk for DP due to LBD. These associations with life dissatisfaction and neuroticism remained when socioeconomic status, education, and marital status were taken into account, and demonstrated an independence from familial confounding.
+sion
+issatisfaction and neuroticism seems to be early, perhaps causal risk factors for DP due to LBD.

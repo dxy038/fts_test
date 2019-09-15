@@ -1,0 +1,10 @@
+Background: Gold nanoparticles are emerging as promising agents for cancer therapy and are being investigated as drug carriers, photothermal agents, contrast agents
+and radiosensitisers.
+Objective: The aim of this study is to understand characteristics of secondary
+electrons generated from interaction of gold nanoparticles GNPs with x-rays as a function of nanoparticle size and beam energy and thereby further understanding of GNPenhanced radiotherapy.
+Methods: Effective range, defection angle, dose deposition, energy, and interaction processes of electrons produced from the interaction of x-rays with a GNP were
+calculated by Monte Carlo simulations. The MCNPX code was used to simulate and
+track electrons generated from 30 and 50 nm diameter GNP when it is irradiated with
+a cobalt-60 and 6MV photon and electron beam in water.
+Results: When a GNP was present, depending on beam types used, secondary electron production increased by 10- to 2000-fold compared to absence of a GNP.
+Conclusion: GNPs with larger diameters also contributed to more doses.

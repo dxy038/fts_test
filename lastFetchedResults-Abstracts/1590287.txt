@@ -1,0 +1,11 @@
+Objective: To evaluate whether unemployment is a risk factor in suicide.
+
+: This study was designed as a follow-up study of a cross-sectional sample. People in years at risk were calculated from the date of the interview until death, or for those who survived, until the end of the follow-up period at 31 December 1993. Information on the dependent variable, was obtained from the Cause of Death Register by the Swedish personal registration number. The data were analysed by a proportional hazard model in order to estimate relative risks (RR) of suicide with 95% confidence intervals (CI). The background variables were added one by one to the model according to their casual order, namely, sex, age, marital status, form of tenure and health status.
+
+g: Sweden.
+
+ts: The present study is focused on a simple random cross-sectional sample of 37 789 people aged 20–64 y. The data is collected only once from each person. Main outcome measures: Suicide and undetermined deaths (E950-959 and E980-989 according to ICD-8 and ICD-9 1987).
+
+s: The high relative risk for suicide for unemployment/sickness pension decreased from 3.86 to 1.93 (1.63–3.67) when adding the variables sex, age, marital status, form of tenure and health status one by one into the model. People living alone, form of tenure (renting an apartment) and those who reported poor health had high suicide risks in the final model varied between 1.66 and 3.39.
+
+sions: Unemployment is an important social variable associated with increased suicide risk. Socio-economic position defined as form of tenure is important for social patterning in suicide. Self-rated poor health is also strongly related to suicide.

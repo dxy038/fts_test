@@ -1,0 +1,1 @@
+A bidirectional single-aperture modulating retroreflector is realized by superimposing a small low-frequency signal on the interrogating beam. Transmitted and received data are frequency-separated, enabling full-duplex operation and autodetection of illumination.

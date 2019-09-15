@@ -1,0 +1,11 @@
+Objective
+To investigate quantitative EEG (qEEG) in anorexia nervosa (AN) and bulimia nervosa (BN) in comparison with healthy controls.
+Methods
+Resting EEG was recorded in 30 healthy females (age: 27.1 ± 5.5), 16-AN females (age: 26.4 ± 9.5) and 12-BN females (age: 27.0 ± 6.3). Cortical EEG sources (delta, theta, alpha 1, alpha 2, beta 1, beta 2) were modeled by LORETA solutions. The statistical analysis was performed considering the factors Group, power Band, and region of interest (central, frontal, parietal, occipital, temporal, limbic).
+Results
+Alpha 1 sources in central, parietal, occipital and limbic areas showed a greater amplitude in Controls versus AN and BN groups. Alpha 2 sources in parietal, occipital and limbic areas showed a greater amplitude in Controls than in both AN and BN groups. Alpha 1 sources in temporal area showed a greater amplitude in Controls compared to both the BN and AN groups as well as in the BN group compared to AN group. Central alpha 1 source correlated significantly with BMI in patients.
+Conclusions
+These results support the hypothesis that eating disorders are related to altered mechanisms of cortical neural synchronization, especially in rolandic alpha rhythms.
+Significance
+To our knowledge this is the first study by LORETA able to detect modifications of cortical EEG activity in eating disorders.
+

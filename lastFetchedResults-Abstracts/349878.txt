@@ -1,0 +1,11 @@
+Objective
+We evaluated BOLD correlates of alertness fluctuations commonly seen during prolonged EEG-fMRI studies to better define the brain areas active at different phases of vigilance and to assess the contribution of these fluctuations to the BOLD signal.
+Methods
+We evaluated BOLD changes specifically related to the main physiological EEG rhythms (alpha, beta, theta, delta, spindles) in 15 epilepsy patients with rare discharges (all the regressors were included in the same general linear model to improve specificity).
+Results
+We found a consistent effect of spindles, alpha and theta. For alpha, BOLD was positively correlated in thalami and putamen, and negatively correlated in the occipital, parietal and frontal lobes. For theta, a negative correlation was found over the parietal, temporal and frontal lobes. Spindles were correlated with a positive BOLD in thalami and putamen. Rhythm regressors added as confounds in the fMRI analysis explained at least 5% of BOLD signal variance in 6.8 ± 8.9% of gray matter voxels, a contribution which is of the order of typical changes in fMRI studies.
+Conclusion
+First, we found specific cerebral structures involved in each main EEG rhythm generation. Second, fluctuations of these rhythms following vigilance changes are responsible for noteworthy BOLD changes.
+Significance
+Physiological EEG rhythms may be integrated to the analysis of EEG-fMRI in studies with fluctuation of alertness, to eliminate possible confounding factors
+

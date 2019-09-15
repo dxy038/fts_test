@@ -1,0 +1,25 @@
+The  purpose  of  this  article  is  to  present  an  optimi
+zation  model  for  designing  an 
+acceptance  sampling  plan  based  on  cumulative  sum  of
+  run  length  of  conforming  items. 
+The  objective  is  to  minimize  the  total  loss  includi
+ng  both  the  producer  and  consumer 
+losses.  The  concept  of  minimum  angle  method  is  appl
+ied  to  consider  producer  and 
+consumer  risks  in  the  optimization  model.  Also  the 
+average  number  of  inspection  is 
+considered  in  the  constraint  of  the  model.  A  practi
+cal  case  study  has  been  done  and  a 
+sensitivity analysis is performed for elaborating t
+he effect of some important parameters 
+on the objective function. The results of sensitivi
+ty analysis showed that the performance 
+of the proposed model is logical, reliable in all t
+he cases and also has better performance 
+in comparison with classical method in most of the 
+cases. A computational experiment is 
+done   to   compare   the   different   sampling   schemes.   The
+   results   of   computational 
+experiment showed  that the proposed model  has bette
+r performance due to smaller  ANI 
+value in all cases.

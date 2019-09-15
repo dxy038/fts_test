@@ -1,0 +1,1 @@
+This paper analyses two narrowband speech codecs, the 4.8 kbit/s FS1016 coder and the 8 kbit/s G729 coder, using objective psychoacoustic measures. Four measures are used: loudness, sharpness, roughness and tonality. The results show sharpness and roughness as the two major contributing factors to the subjective difference between the two coders.

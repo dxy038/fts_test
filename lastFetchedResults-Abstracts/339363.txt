@@ -1,0 +1,11 @@
+Objective
+AMD3100 is a new CXCR4 antagonist that induces a rapid release of hematopoietic progenitors from the bone marrow to the peripheral blood. We conducted a clinical study where patients with multiple myeloma and non-Hodgkin's lymphoma were treated with AMD3100 (A) to increase the number of peripheral blood progenitor cells (PBPCs) when given a mobilization regimen of granulocyte colony-stimulating factor (G-CSF, G). Because experimental data suggest that A+G-mobilized PBPCs are functionally different from G-mobilized PBPCs, we were interested in an intraindividual comparison of the gene expression profile of CD34+ cells in the two different settings.
+Methods
+
+To this end peripheral blood CD34+ cells of three patients (three G, three A+G samples) were isolated by immunomagnetic followed by flow cytometric sorting to a purity of >99%. Total RNA was purified. Differentially expressed genes were analyzed by using the Affymetrix GeneChip Human Genome U133 Plus2.0 and the software package Micro Array Solutions 1.3 (SAS Institute Inc.).
+Results
+
+We found a pattern of unanimously higher (81 genes, log2 ratio > 0.5; p < 0.0001) or lower (29 genes, log2 ratio < −0.4; p < 0.0001) expressed genes in the A+G-mobilized vs G-mobilized CD34+ PBPCs. Significant changes of four selected genes noted in the microarray analysis were validated by quantitative real-time polymerase chain reaction. Genes were grouped according to gene function. Only increased expression was found in the categories antiapoptosis (e.g., MPO, HSPA1B), cell cycle (e.g., MS4A3, RRM2), replication/DNA repair (e.g., MPO, HSPA1B), cell motility (e.g., TNFSF4, HMMR), and oxygen transport. Decreased expression occurred in the proapoptosis gene group (e.g., MDA5, BCL10). CXCR4 receptor gene expression itself was significantly 1.5-fold higher in the A+G vs G group.
+Conclusion
+
+We conclude that A+G-mobilized CD34+ PBPCs express significantly higher amounts of genes that potentially promote superior engraftment after myeloablative therapy than G-mobilized CD34+ PBPCs.

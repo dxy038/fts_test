@@ -1,0 +1,14 @@
+Background
+The ASSENT-3 study examined the safety and efficacy of 3 alternative regimens for ST-elevation acute myocardial infarction: full-dose tenecteplase (TNK-tPA) plus enoxaparin; half-dose TNK-tPA plus unfractionated heparin plus abciximab; and full-dose TNK-tPA plus unfractionated heparin.
+Objective
+
+The aim of the study was to examine the resource and economic effects of the 3 regimens in ASSENT-3 using empirically collected data from the trial.
+Methods
+
+Cost estimates for each resource use component collected in ASSENT-3 were derived from Medicare reimbursement rates and from detailed billing data collected as part of a previous study. Costs of study drugs were estimated using average wholesale prices. All analyses were by intention to treat. Resource use and medical costs were examined first in the United States alone, and then in the entire cohort.
+Results
+
+Differences in costs across treatment arms were primarily due to differences in cost of study medication. Irrespective of source of cost weights, the least expensive alternative among the 3 treatment regimens was TNK-tPA and enoxaparin. Although not statistically significant, in 80% of 1000 bootstrap replications, the TNK-tPA enoxaparin arm was associated with 30-day cost savings relative to the unfractionated heparin arm.
+Conclusion
+
+The favorable clinical outcomes demonstrated for enoxaparin arm relative to the unfractionated heparin arm in ASSENT-3 were accompanied by a favorable distribution of costs and support the designation of this regimen as economically attractive by conventional benchmarks.

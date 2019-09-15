@@ -1,0 +1,17 @@
+Because of the necessity for considering various creative and engineering design criteria, optimal design
+of an engineering system results in a highly-constrained multi-objective optimization problem. Major
+numerical approaches to such optimal design are to force the problem into a single objective function
+by introducing unjustifiable additional parameters and solve it using a single-objective optimization
+method. Due to its difference from human design in process, the resulting design often becomes
+completely different from that by a human designer.
+This paper presents a novel numerical design approach, which resembles the human design process.
+Similar to the human design process, the approach consists of two steps: (1) search for the solution
+space of the highly-constrained multi-objective optimization problem and (2) derivation of a final design
+solution from the solution space. Multi-objective gradient-based method with Lagrangian multipliers
+(MOGM-LM) and centre-of-gravity method (CoGM) are further proposed as numerical methods for
+each step.
+The proposed approach was first applied to problems with test functions where the exact solutions
+are known, and results demonstrate that the proposed approach can find robust solutions, which cannot
+be found by conventional numerical design approaches. The approach was then applied to two practical
+design problems. Successful design in both the examples concludes that the proposed approach can
+be used for various design problems that involve both the creative and engineering design criteria

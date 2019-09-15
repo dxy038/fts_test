@@ -1,0 +1,8 @@
+Background and Objective: Menorrhagia is considered as one of the most common gynecological problem at child-bearing age of women. Regarding the prevalence of this disease, this study examined the effect of Nettle extract in menorrhagia improvement by statistical modeling.
+
+Materials and Methods: The statistical modeling was performed by data collection from 100 patients with menorrhagia. One-hundred patients were randomly assigned to two groups, i.e. intervention group (nettle and mefenamic acid) and control group (placebo and mefenamic acid) with an equal size of 50. In this study, joint longitudinal and generalized linear model were used for predicting the probability of recovery of women who participated in the study. Joint modeling with common random effects was performed by controlling variables such as age and body mass index to assess the impact of nettle extract on improving menorrhagic patients.
+
+Results: Based on the results, the average number of menstrual days in the third month (second cycles after intervention) were 5.52 ± 1.44 and 6.19 ± 1.82 in nettle extract and control groups, respectively. The difference between the two groups was statistically significant (p =0.023). The chance of improvement who were in nettle group was 1.5 times of control group, but there was no significant difference regarding improvement between the two groups (p=0.347).
+
+Conclusion: In general, joint model is more accurate than the conventional models. Probability of improvement was higher in the intervention group than the control group. Using nettle extract in reducing the number of days of menstrual cycle in patients with menorrhagia has a positive impact.
+

@@ -1,0 +1,1 @@
+We propose some principles for performance evaluation of graphics recognition algorithms. The main principles include using continuous values of matching degree instead of binary values, selecting objective-driven and comprehensive performance contents, and defining metrics quantitatively, normatively, objectively, and compatibly with the human vision evaluation

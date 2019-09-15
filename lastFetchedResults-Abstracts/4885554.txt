@@ -1,0 +1,1 @@
+The formulas for calculating the Hessian matrix of the objective function in the problem of lossy filter design by optimization are derived and the circuit optimization technique is extended to filter design. This paper presents a global optimization method to solve the multiminimum problem of the functions. The effectiveness of the method is explained by examples

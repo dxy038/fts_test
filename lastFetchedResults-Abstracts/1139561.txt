@@ -1,0 +1,7 @@
+The development of a ready-to-use desalted cod implies the study and optimisation of many process variables. One of them is the water management during the desalting trials.
+
+The desalting process in some way is similar to a leaching one, although the sample rehydration is as important as the NaCl leakage. It is well known, in chemical engineering, that the batch leaching process can be accomplished in three different ways depending on the liquid phase management: a single stage (corresponding to no water renewal during desalting), new solvent in each stage (corresponding to water renewal) and multistage counter-current flux. The traditional desalting process at home implies the second option, changing the water two or three times during the approximately 24 h employed in the process.
+
+The objective of this study was the analysis of the influence of water management during the desalting process on weight changes and NaCl concentration in the cod liquid phase, in order to determine the optimum combination for an industrial desalting process.
+
+The obtained results supported the idea that a single stage desalting process would be the best one from an industrial point of view, since it was the one that gave a commercial product with higher process yields and lower wastes than the traditional one.

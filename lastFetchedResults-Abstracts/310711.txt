@@ -1,0 +1,11 @@
+Objective. To assess the sources of variability associated with an EMG-assisted model of spine loading.
+
+Design. In vivo measurements of trunk dynamics, lifting moments and muscle activities were used as inputs into an EMG-assisted spine loading model.
+
+Background. Several types of variability are inherent in biomechanical assessments of risk associated with trunk bending motions during lifting. Variability may occur as a function of variations in spine loading due to either subject variations in motion profiles (kinematics) or biomechanical model performance.
+
+Methods. Twelve experienced and inexperienced materials handlers performed 10 repeated lifts where load weight, asymmetry, and velocity were varied. The experiment was replicated on a second day to assess day to day variability.
+
+Results. These model performance variables indicated that variability was mainly a function of subject characteristics and experience. Minor variations in variability were associated with the task asymmetry and weight lifted. Advanced analyses suggested that experienced workers had a greater range of back motion compared to inexperienced workers which would affect the length–strength component of the model calibration.
+
+Conclusions. This study indicates that for the results of an EMG-assisted model to be accurate, it is important to ensure that the model reflects a realistic relationship between the trunk muscle length and the muscle force production capacity. Underestimation if this relationship can degrade model fidelity and robustness.

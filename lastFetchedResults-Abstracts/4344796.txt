@@ -1,0 +1,1 @@
+The main objective of this paper is to introduce and illustrate a new tool stemming from Young measure theory in order to capture concentrations, jump sign and gradient oscillations of sequences of SBV-functions. We show how this notion of measure can be applied for the analysis of approximating solutions of Mumford-Shah type energy functionals in the one dimensional case.

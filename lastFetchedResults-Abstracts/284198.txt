@@ -1,0 +1,14 @@
+Objectives
+Previous studies have established familial clustering of bicuspid aortic valve (BAV), presumably indicating genetic inheritance. Our objective was to statistically test whether the segregation pattern of BAV is consistent with genetic inheritance and to obtain an estimate of the size of the genetic effect (heritability).
+Background
+
+Bicuspid aortic valve occurs in 1% of the population, making it the most common cardiovascular malformation (CVM). Bicuspid aortic valve is frequently an antecedent to aortic valve stenosis or insufficiency and is often associated with other CVMs, including aortic root dilation. The genetic and developmental significance of these findings remains obscure.
+Methods
+
+In 50 probands with BAV, we obtained a three-generation family history and echocardiograms on first-degree relatives. Heritability (h2) of BAV and BAV and/or other CVMs were estimated using maximum-likelihood-based variance decomposition extended to dichotomous traits implemented in the computer package Sequential Oligogenic Linkage Analysis Routines (SOLAR, San Antonio, Texas).
+Results
+
+A total of 309 probands and relatives participated. Bicuspid aortic valve was identified in 74 individuals (prevalence = 24%). A total of 97 individuals had BAV and/or other CVM (prevalence = 31%), including aortic coarctation, ventricular or atrial septal defect, abnormal mitral valve, aortic root dilation, or hypoplastic left heart syndrome. The heritability (h2) of BAV and BAV and/or other CVMs were 89% and 75%, respectively.
+Conclusions
+
+The high heritability of BAV suggests that in this study population BAV determination is almost entirely genetic. The heritability of BAV plus other cardiovascular anomalies suggests that valve malformation can be primary to defective valvulogenesis or secondary to other elements of cardiogenesis.

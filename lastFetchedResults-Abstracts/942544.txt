@@ -1,0 +1,14 @@
+Introduction
+Owing to their small size, fine particles, i.e., those having a diameter ≤ 2.5 μm (PM2.5), have a high alveolar penetration capacity, thereby triggering a local inflammatory process with circulatory repercussion. Despite being linked to respiratory and cardiovascular morbidities, there is limited evidence of an association between this type of particulate matter and short-term increases in mortality.
+Objective
+
+The aim of this study was to analyse and quantify the short-term impact of PM2.5 on daily mortality due to diseases of the circulatory system, registered in Madrid from 1 January 2003 to 31 December 2005.
+Methods
+
+An ecological longitudinal time-series study was conducted, with risks being quantified by means of Poisson regression models. As a dependent variable, we took daily mortality registered in Madrid from 1 January 2003 to 31 December 2005, attributed to all diseases of the circulatory system as classified under heads I00–I99 of the International Classification of Diseases-10th revision (ICD-10) and broken down as follows: I21, acute myocardial infarction (AMI); I20, I22–I25, other ischemic heart diseases; and I60–I69, cerebrovascular diseases. The independent variable was daily mean PM2.5 concentration. The other variables controlled for were: chemical pollution (PM10, O3, SO2, NO2 and NOx); acoustic and biotic pollution; influenza; minimum and maximum temperatures; seasonalities; trend; and autocorrelation of the series.
+Results
+
+A linear relationship was observed between PM2.5 levels and mortality due to diseases of the circulatory system. For every increase of 10 μg/m3 in daily mean PM2.5 concentration, the relative risks (RR) were as follows: for overall circulatory mortality, associations were established at lags 2 and 6, with RR of 1.022 (1.005–1.039) and 1.025 (1.007–1.043) respectively; and for AMI mortality, there was an association at lag 6, with an RR of 1.066 (1.032–1.100). The corresponding attributable risks percent (AR%) were 2.16%, 2.47% and 6.21% respectively. No statistically significant association was found with other ischemic heart diseases or with cerebrovascular diseases.
+Conclusion
+
+PM2.5 concentrations are an important risk factor for daily circulatory-cause mortality in Madrid. From a public health point of view, the planning and implementation of specific measures targeted at reducing these levels constitute a pressing need.

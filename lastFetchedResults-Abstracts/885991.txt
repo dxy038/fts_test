@@ -1,0 +1,5 @@
+In the present paper a dynamic separation problem is modeled and solved using Mixed Integer Nonlinear Programming (MINLP) techniques. The objective is to maximize the profit for continuous cyclic operation, and at the same time, to find the optimal configuration for the separation column system. The dynamics of the chromatographic separation process are modeled as a boundary value problem which is solved, within the optimization, using an iterative finite difference method.
+
+The separation of a fructose–glucose mixture is solved using the Extended Cutting Plane (ECP) method. It is shown that the production planning can be done efficiently for different purity requirements, such that all the output of a system can be utilized. Using a process design that is optimized it is thus possible to use existing complex systems, or to design new systems, more efficiently and also to reduce the energy costs or the costs in general.
+
+The presented problem is a challenging application involving time-consuming calculations that, though the high capacity of todays computers, underlines the role of robust and fast numerical tools within optimization.

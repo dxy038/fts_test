@@ -1,0 +1,16 @@
+Objective:
+ntify the ventilatory efficiency of different modes of mechanical ventilation used to achieve full ventilatory support in normal subjects. Modes compared were assist-control, synchronized intermittent mandatory ventilation (SIMV), and SIMV with 10 cm H2O (0.98 kPa) of pressure support.
+:
+ctive, randomized blocks repeated measures design. Subjects served as their own controls.
+g:
+ersity affiliated pulmonary laboratory.
+ts:
+althy volunteers, aged 31–54 years.
+e Measures:
+ volume, respiratory rate, average tidal volume, oxygen consumption, and ventilatory equivalent.
+ention:
+ne spontaneous ventilation data collection was followed by mechanical ventilation by mouthpiece in each of three modes in a random sequence. All modes used a machine set rate of 12 breaths per minute, Vt of 10 cc/kg of ideal body weight, inspiratory time of 1 second, square wave flow pattern and a sensitivity of −1 cm H2O (−0.09806 kPa) to achieve full ventilatory support. Data were collected continuously for 5 minutes and the mean values were reported. Ventilatory equivalent for oxygen is a measure of the efficiency of the ventilatory pump at various work loads and was calculated by dividing Ve (BTPS) by the Vo2 (STPD).
+s:
+were significant differences by mode of mechanical ventilation in average tidal volume (p=0.02), minute volume (p=0.02), oxygen consumption (p=0.04), and ventilatory equivalent (p=0.01) using ANOVA. There was no significant difference (p=0.66) by mode of ventilation in respiratory rate. Pairwise follow-up comparisons for these variables found that SIMV with pressure support produced a significantly greater average tidal volume, minute volume, oxygen consumption, and ventilatory equivalent than SIMV alone. SIMV with pressure support also produced a significantly greater minute volume and ventilatory equivalent than assist-control. There were no significant differences between assist-control and SIMV. All three modes produced a lower ventilatory equivalent and higher oxygen consumption than spontaneous breathing.
+sions:
+ith pressure support significantly increased minute volume and ventilatory equivalent when compared with assist-control or SIMV alone, and thus was the most efficient mode of full ventilatory support for our subjects. We found no difference in ventilatory efficiency between assist-control and SIMV. All three mechanical modes were less efficient for our subjects than spontaneous breathing. The inspiratory time of 1 second used in this study, although common in clinical practice, may be inadequate for some patients.

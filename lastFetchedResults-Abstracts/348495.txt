@@ -1,0 +1,11 @@
+Objective
+To evaluate the incidence and clinical correlations of abnormal QEEG features in alcoholic patients.
+Methods
+Quantitative EEG (frequency analysis, absolute and relative powers of the four classical bands) was assessed in 191 male alcoholic patients admitted in our facility for detoxification process. All underwent psychiatric, medical and neurological examination prior to the EEG recording, in search for specific clinical or paraclinical findings. The presence or absence of relevant clinical features was codified as nominal dichotomic variables to be related to specific QEEG features.
+Results
+Only 7 patients had normal QEEG. The most frequent alteration (81 cases) was decreased power in slow (delta and theta) bands with a concurrent increase in beta band, followed by decreased power only in slow bands (33), increase only in beta band (29), decrease in both slow and alpha bands without beta alterations (28), decrease only in alpha band (6) and others. Alterations in slow and beta bands were uncorrelated. However, a significant correlation was found between decreased power in slow bands and cortical atrophy as revealed by MRI (especially in patients with early onset of alcoholism), time elapsed from the beginning of alcoholic habits (but only in younger or early onset subjects) and in a lesser degree arterial hypertension, but neither with age nor any other clinical or psychiatric feature. On the other hand, increased power in beta band correlated mainly with the use of benzodiazepines, sensoperceptual alterations (hallucinations, illusions), clinical seizures and family history of alcoholism. The effects of those variables were strongly interrelated.
+Conclusions
+Decreased power in slow bands in alcoholic patients may be an indicator of brain atrophy or chronic brain damage, while increase in beta band is related to medication use, family history of alcoholism, hallucinations and seizures, suggesting a state of cortical hyperexcitability.
+Significance
+This study show the relation of specific QEEG alterations to certain clinical features found in alcoholics, in a further attempt to elucidate the semiological value of those alterations in individual patients.
+

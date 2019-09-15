@@ -1,0 +1,1 @@
+Brillouin scattering effect in a colorless 25-km bidirectional WDM PON is experimentally evaluated. Downstream 10-Gb/s DPSK signal is directly received with a novel FBG, seeding an R-SOA at the ONU, for upstream 1.25-Gb/s OOK transmission.

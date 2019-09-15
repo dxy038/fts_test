@@ -1,0 +1,1 @@
+We experimentally demonstrate a novel bidirectional WDM-PON architecture based on a single, depolarized, 130 ran, CW supercontinuum source. The architecture incorporating low- cost, wavelength-locked FP-LDs features a unique wavelength band allocation scheme of the C- band for an OLT, the L-band for ONUs, and the U-band for channel monitoring.

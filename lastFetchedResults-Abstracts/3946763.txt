@@ -1,0 +1,1 @@
+A simple computational procedure has been developed for maximizing reliability of multistage parallel systems subject to multiple nonlinear constraints. It appears that the procedure can be applied to a variety of optimization problems with separable objective and multiple constraint functions.

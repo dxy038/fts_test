@@ -1,0 +1,11 @@
+Objective
+Erythropoietin (Epo) bioactivity is significantly reduced by modification of lysine residues with amine-reactive reagents, which are the most commonly used reagents for attaching polyethylene glycols (PEGs) to proteins to improve protein half-life in vivo. The aims of this study were to determine whether Epo bioactivity can be preserved by targeting attachment of maleimide-PEGs to engineered cysteine analogs of Epo, and to determine whether the pegylated Epo cysteine analogs have improved pharmacokinetic properties in vivo.
+Materials and Methods
+
+Thirty-four Epo cysteine analogs were constructed by site-directed mutagenesis and expressed as secreted proteins in baculovirus-infected insect cells. Following purification, monopegylated derivatives of 12 cysteine analogs were prepared using 20-kDa maleimide-PEGs. In vitro biological activities of the proteins were measured in an Epo-dependent cell proliferation assay. Plasma levels of insect cell–expressed wild-type Epo (BV Epo) and a pegylated Epo cysteine analog were quantitated by ELISA following intravenous administration to rats.
+Results
+
+Biological activities of 17 purified Epo cysteine analogs and 10 purified pegylated Epo cysteine analogs were comparable to that of BV Epo in the in vitro bioassay. The only pegylated cysteine analogs that displayed consistently reduced in vitro bioactivities were substitutions for lysine residues, PEG-K45C and PEG-K154C. The pegylated Epo cysteine analog had a slower initial distribution phase and a longer terminal half-life than BV Epo in rats, but the majority of both proteins were cleared rapidly from the circulation.
+Conclusions
+
+Targeted attachment of maleimide-PEGs to engineered Epo cysteine analogs permits rational design of monopegylated Epo analogs with minimal loss of in vitro biological activity. Insect cell–expressed Epo proteins are cleared rapidly from the circulation in rats, possibly due to improper glycosylation. Site-specific pegylation appears to improve the pharmacokinetic properties of Epo.

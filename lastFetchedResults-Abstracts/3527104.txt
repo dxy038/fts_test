@@ -1,0 +1,1 @@
+To minimize an objective function of k variables defined as the generalized discrete least pth objective using gradient methods.

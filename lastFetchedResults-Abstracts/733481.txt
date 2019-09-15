@@ -1,0 +1,12 @@
+Objective.
+To examine the effects of non-alcoholic beverage and caffeine consumption on all-cause mortality in older adults.
+Methods.
+
+The Leisure World Cohort Study is a prospective study of residents of a California retirement community. A baseline postal health survey included details on coffee, tea, milk, soft drink, and chocolate consumption. Participants were followed for 23 years (1981–2004). Risk ratios (RRs) of death were calculated using Cox regression for 8644 women and 4980 men (median age at entry, 74 years) and adjusted for age, gender, and multiple potential confounders.
+Results.
+
+Caffeine consumption exhibited a U-shaped mortality curve. Moderate caffeine consumers had a significantly reduced risk of death (multivariable-adjusted RR = 0.94, 95% CI: 0.89, 0.99 for 100–199 mg/day and RR = 0.90, 95% CI: 0.85, 0.94 for 200–399 mg/day compared with those consuming < 50 mg/day). Individuals who drank more than 1 can/week of artificially sweetened (but not sugar-sweetened) soft drink (cola and other) had an 8% increased risk (95% CI: 1.01–1.16). Neither milk nor tea had a significant effect on mortality after multivariable adjustment.
+Conclusions.
+
+Moderate caffeine consumption appeared beneficial in reducing risk of death. Attenuation in the observed associations between mortality and intake of tea and milk with adjustment for potential confounders suggests that such consumption identifies those with other mortality-associated lifestyle and health risks. The increased death risk with consumption of artificially sweetened, but not sugar-sweetened, soft drinks suggests an effect of the sweetener rather than other components of the soft drinks, although residual confounding remains a possibility.
+

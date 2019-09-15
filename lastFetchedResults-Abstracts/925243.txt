@@ -1,0 +1,6 @@
+The application of particle swarm optimization (PSO) in parameters design of a split-phase single-phase induction
+motor is proposed in this paper. The PSO considers the motor efficiency as objective function and five performance
+related items as constraints. The main advantages of the proposed technique are; its simple structure and its
+straightforward verification of maximum efficiency of induction motor for a given output power. The PSO algorithm
+was implemented on a test motor and therefore, a code has been provided under MATLAB software. The results show
+that the PSO method gives more suitable design optimization against conventional methods.

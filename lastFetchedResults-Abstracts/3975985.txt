@@ -1,0 +1,1 @@
+A linearisation technique is presented which is based on using the second harmonic zone (SHZ) distortion energy. Its objective is to maximise the linearisation with minimum gain reduction over a wide bandwidth. A theoretical analysis is presented and supported by the results from a practical demonstration

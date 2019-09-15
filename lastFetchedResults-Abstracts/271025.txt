@@ -1,0 +1,21 @@
+The objective of this paper is to answer the question of how accurately the simple Euler
+or transverse shear correction E.ngesser/Haringx/Timoshenko column buckling formulae are, when
+orthotropic composite material and moderate thickness are involved. The column is in the form of
+a hollow circular cylinder and the Euler or Timoshenko loads are based on the axial modulus. For
+this purpose, a three-dimensional elasticity solution is presented. As an example, the cases of an
+orthotropic material with stiffness constants typical of glass/epoxy or graphite/epoxy and the
+reinforcing direction along the periphery or along the cylinder axis are considered. First, it is found
+that the elasticity approach predicts in all cases a lower than the Euler value critical load. Moreover,
+the degree of non-conservatism of the Euler formula is strongly dependent on the reinforcing
+direction ; the axially reinforced columns show the highest deviation from the elasticity value. The
+degree of non-conservatism of the Euler load for the circumferentially reinforced columns is much
+smaller and is comparable to that of isotropic columns. Second, the Engesser or first Timoshenko
+shear correction formula is in all cases examined conservative, i.e., it predicts a lower critical load
+than the elasticity solution. The Haringx or second Timoshenko shear correction formula is in most
+cases (but not always) conservative. However, in all cases considered, the second estimate is always
+closer to the elasticity solution than the first one. For the isotropic case both Timoshenko formulas
+are conservative estimates. Examination of a new formula for column buckling that adds a second
+term to the Euler load expression and is supposed to account for thickness effects, shows that this
+estimate is a non-conservative estimate but performs very well with very thick sections, being closest
+to the elasticity solution, but in general no better than the Timoshenko formulas for moderate
+thickness. Copyright © 1966 Elsevier Science Ltd

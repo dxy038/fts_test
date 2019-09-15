@@ -1,0 +1,11 @@
+Objective. The overall response, load transmission, role of ligaments, and state of stress in various components under varus-valgus moments in the intact and collateral-deficient tibiofemoral joint are investigated.
+
+Design. A non-linear finite element model consisting of bony structures (tibia and femur), their articular cartilage layers, medial and lateral menisci and four primary ligaments (cruciates and collaterals) is utilized.
+
+Background. Valgus and varus stresses are among the primary mechanisms of injury to knee ligaments. Several in vitro studies have investigated the role of ligaments in resisting such loads and on the way deficiency in either collateral may affect the response.
+
+Methods. Cartilage layers are isotropic while menisci are non-homogeneous composite. The articulation of cartilage layers with each other and with the intervening menisci and the wrapping of the medial collateral ligament around the tibial edge are treated as large displacement frictionless contact problems. The non-linear elastostatic response of the joint at full extension is computed under varus-valgus moments applied to the femur with the tibia fixed. Cases simulating deficiency in collaterals and constraint on femoral axial rotation are also studied.
+
+Results. The response is non-linear with large coupled axial rotations, internal in varus and external in valgus. In intact and collateral-deficient states, the joint shows varus or valgus openings so that the articulation occurs at one plateau only, medial in varus and lateral in valgus. Large tensile forces in cruciates in collateral-cut models generate higher compression penalty on the loaded plateau.
+
+Conclusions. Collaterals are the primary load-bearing structures; their absence would substantially increase primary laxities, coupled axial rotations, forces in cruciates, and articular contact forces. Good agreement with measurements is found.

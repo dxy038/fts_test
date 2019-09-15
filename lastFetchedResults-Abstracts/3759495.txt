@@ -1,0 +1,1 @@
+The objective of the present paper is to investigate possible methods to reduce a program´s execution time by detecting and converting automatically the more frequently executed program parts, mostly inner loops, into microcode.

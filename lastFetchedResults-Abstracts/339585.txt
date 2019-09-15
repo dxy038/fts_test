@@ -1,0 +1,11 @@
+Objective
+To identify leukemia-associated antigens, we applied the serological identification of antigens by the recombinant expression cloning (SEREX) method to a chronic myelogenous leukemia (CML) patient who achieved a cytogenetic response to interferon-α.
+Materials and Methods
+
+Immunoscreening of the cDNA library was performed with sera from a CML patient. Two isolated antigens were used to evaluate the expression pattern using Northern blot analysis and quantitative reverse transcriptase polymerase chain reaction. Western blotting and enzyme-linked immunosorbent assay were also performed for serological analysis.
+Results
+
+We identified 14 positive clones, representing five different antigens. Of these, two genes were further validated. One (clone 70) was the human polyribonucleotide nucleotidyltransferase 1 (PNPT1), which is the type I interferon (α/β-responsive gene). The mRNA of clone 70 was ubiquitously expressed in normal human tissues. The other gene (clone 57) was the heat shock 70-kDa protein 4-like (HSPA4L), which is a member of the heat shock protein 110 family, whose mRNA is strongly expressed in normal human testis and overexpressed in leukemia cells. Seroactivity against HSPA4L was detected in 6 of 9 acute myeloid leukemia patients, 4 of 10 acute lymphoblastic leukemia patients, 9 of 11 CML patients, and none of 10 healthy volunteers. Leukemia patients had higher titer of the antibodies against the protein than healthy volunteers.
+Conclusions
+
+These results suggest that HSPA4L, a member of heat shock protein, is highly expressed by leukemia cells, and elicit humoral immune responses in leukemia patients, and it might be a potential target for antileukemia therapy and an antigen-specific immunotherapy for leukemia.

@@ -1,0 +1,20 @@
+Objective: The phenylalanine hydroxylase (PAH) locus has high linkage disequilibrium. Haplotypes
+related to this locus may thus be considered sufficiently informative for genetic diagnosis
+and carrier screening using multi-allelic markers. In this study, we present an efficient
+method for haplotype analysis of PAH locus using multiplexing dyes. In addition, we explain
+how to resolve the dye shift challenge in multiplex short tandem repeat (STR) genotyping.
+Materials and Methods: One hundred family trios were included in this descriptive
+study. The forward primer of a tetra-nucleotide STR and the reverse primer of a variable
+number tandem repeat (VNTR) were labeled with three different non-overlapping dyes
+5-carboxyfluorescein (FAM), 6-carboxy-N,N,N’,N’-tetramethylrhodamine (HEX) and 6-carboxy-
+N,N,N’,N’-tetramethylrhodamine (TAMRA). The polymerase chain reaction (PCR)
+products from each family trio were multiplexed for capillary electrophoresis and results
+were analyzed using Peak Scanner software.
+Results: Multiplexing trio products decreased the cost significantly. The TAMRA labeled products
+had a significant predictable shift (migrated at a slower electrophoretic rate) relative to the
+HEX and FAM labeled products. Through our methodology we achieve, the less inter-dye shift
+than intra-dye shift variance. Correcting the dye shift in the labeled products, according to the
+reference allele size, significantly decreased the inter-dye variability (P < 0.001).
+Conclusion: Multiplexing trio products helps to detect and resolve the dye shift accurately
+in each family, which otherwise would result in diagnostic error. The dye system of FAM,
+HEX and TAMRA is more feasible and cheaper than other dye systems.

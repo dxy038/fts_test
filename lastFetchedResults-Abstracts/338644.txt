@@ -1,0 +1,11 @@
+Objective
+The study of hematopoietic stem cells (HSC) is limited by lack of specific markers for HSC. Rhodamine 123 (Rho) is one of the substrates of P-glycoprotein (Pgp), and the presence of active Pgp can be shown by the efflux of Rho. Rho can also be used to measure the mitochondrial transmembrane potential (energy state) of a cell. We reasoned that selection of hematopoietic progenitors using a combination of Rho efflux and phenotypic markers might be superior to use of phenotypic markers alone.
+Materials and Methods
+
+We used the myeloid-lymphoid initiating cell (ML-IC) assay as functional measure of primitive progenitors. Umbilical cord blood CD34+CD33−CD38−, CD34+CD33−CD38−Rho−, and CD34+CD33−CD38−Rho−c-kit+ cells were sorted singly onto AFT024 feeders to assess their capacity to become ML-IC.
+Results
+
+The frequency of ML-IC in CD34+CD33−CD38−Rho− cells was significantly higher (15 ± 0.4%) than that in CD34+CD33−CD38− cells (6.2 ± 0.9%, p < 0.05). However, the frequency of long-term culture-initiating cells (LTC-IC) (17 ± 3% vs 12 ± 1.5%) and natural killer culture-initiating cells (NK-IC) (25 ± 3% vs 20 ± 4%) was similar in the two populations. Following the treatment of CD34+CD33−CD38−Rho− cells with verapamil, which blocks Pgp function, no increase in ML-IC was detected compared with CD34+CD33−CD38− cells (6 ± 0.7%), suggesting that differences in the energy state, which is reflected by Rho staining after verapamil treatment, cannot be used as a criterion to identify human HSC. Further selection of CD34+CD33−CD38−Rho− cells based on expression of c-kit significantly increased the frequency of ML-IC, LTC-IC and NK-IC by 1.75-, 1.3-, and 1.8-fold, respectively.
+Conclusion
+
+Combining the function of Pgp and phenotypic features of hematopoietic progenitors enriches the frequency of cord blood ML-IC to greater than 25%. Use of such enriched populations will allow us to characterize the biological behavior of human HSC.

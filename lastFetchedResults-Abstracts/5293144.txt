@@ -1,0 +1,1 @@
+This paper explores the driver/receiver conflict problem in interconnect testing with bidirectional pins and 3-state output pins in boundary-scan. The objective is to have a higher-level (higher than chip) designer be aware of this conflict. Some existing algorithms are reviewed

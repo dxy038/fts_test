@@ -1,0 +1,9 @@
+Robust optimization is conventionally defined as the collection of the possible problem solutions that can ensure acceptable
+performances and sufficient immunity against the effects of uncertain parameter variability. Methods proposed until
+now use a probabilistic way to model uncertainty and to quantify the final sensitivity. In this work, a fuzzy uncertainty
+modellization is adopted for structural engineering. In particular, to define solution performance scattering, the fuzzy
+entropy is used as a global measure of variable dispersion. The final formulation of the problem deals with two antithetical
+objective functions, the fuzzy expected value of structural performance and its fuzzy entropy. This fuzzy-based approach in
+robust design is able to give a set of Pareto optimal solutions in terms of structural efficiency and sensitivities regarding
+uncertainty, and represents a suitable tool in supporting the decision maker. Finally, different applications have been developed
+to demonstrate the applicability of the proposed method.

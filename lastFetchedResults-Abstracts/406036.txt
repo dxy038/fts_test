@@ -1,0 +1,12 @@
+Model for End-Stage Liver Disease (MELD) predicts nontransplant surgical mortality in patients with cirrhosis. Northup PG, Wanamaker RC, Lee VD, Adams RB, Berg CL.
+Objective
+We sought to determine the ability of the Model for End-Stage Liver Disease (MELD) score to predict 30-day postoperative mortality for patients with cirrhosis undergoing nontransplant surgical procedures.
+Summary background data
+The Child-Pugh class historically has been used by clinicians to assist in management decisions involving patients with cirrhosis. However, this classification scheme has a number of limitations. Recently, MELD was introduced. It has been shown to be highly predictive of mortality in a variety of clinical scenarios.
+Methods
+Adult patients with a diagnosis of cirrhosis undergoing nontransplant surgical procedures between January 1, 1996, and January 1, 2002, at a single center were analyzed. The preoperative MELD score was calculated for all patients, and the MELD's performance in predicting 30-day mortality was determined using multivariate regression techniques.
+Results
+A total of 140 surgical procedures were identified and analyzed. The 30-day mortality rate was 16.4%. The mean admission MELD score for the patients who died (23.3, 95% confidence interval 19.6-27.0) was significantly different from those patients surviving beyond 30 days (16.9, 15.6-18.2), P=0.0003. The c-statistic for MELD score predicting 30-day mortality was 0.72. Further subgroup analysis of 67 intra-abdominal surgeries showed an in-hospital mortality of 23.9%. The mean MELD score for patients dying (24.8, 20.4-29.3) was significantly different from survivors (16.2, 14.2-18.2), P=0.0001. The c-statistic for this subgroup was 0.80.
+Conclusions
+The MELD score, as an objective scale of disease severity in patients with cirrhosis, shows promise as being a useful preoperative predictor of surgical mortality risk. [Abstract reproduced by permission of Ann Surg 2005;242:244-51]
+

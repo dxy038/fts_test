@@ -1,0 +1,11 @@
+Objective
+To identify genes involved in megakaryopoiesis, high-density oligonucleotide microarrays were used to compare transcript profiles from undifferentiated CD34+CD38lo cells and culture-derived megakaryocytes (MKs).
+Materials and methods
+
+Megakaryocyte differentiation was achieved in vitro by inducing primary human CD34+CD38lo cells in serum-deprived media supplemented with the cytokine combination of interleukin-3, interleukin-6, stem cell factor, and thrombopoietin for 10 days. Three replicate microarray experiments were performed using hematopoietic cells isolated from three different organ donors and high-density oligonucleotide microarrays.
+Results
+
+Analysis of gene array data resulted in 304 differentially expressed genes (p ≤ 0.001, fold change ≥3). A third of the 25 most highly up-regulated genes were known to participate in hemostasis (z = 6.75), and no genes known to be associated with MKs were among the down-regulated genes. We also found a large proportion of up-regulated transcripts in gene ontology categories of adhesion and receptor activity (85%) and signal transduction activity (68%). At the same time, 70% of genes within transcription factor functions were down-regulated. Confirmatory studies indicated that the array results correlated with mRNA and protein expression levels in primary MKs.
+Conclusion
+
+This study provides a global expression profile of human MKs and a list of novel and previously uncharacterized candidate genes that are important components of megakaryopoiesis.

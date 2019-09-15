@@ -1,0 +1,9 @@
+Study objective
+The identification of risk factors for recurrent motor vehicle crashes is the basis for prevention, but few studies have been published on predictors of recurrence. Our objective is to determine the main variables predicting recurrent crashes in subjects attending an emergency department (ED) for injuries after motor vehicle crash.
+Methods
+During a 5-year follow-up period, we studied 2,354 consecutive adult subjects treated in the ED after a motor vehicle crash in 1998. The variables of the original event were tested for predicting recurrence in a Cox proportional hazard model.
+Results
+During follow-up, 390 of 2,325 (16.8%) survivors were treated for injury after a new crash. The overall event rate was 34 per 1,000 subject-years. Four variables (age ≤32 years, male sex, nighttime crash, and blood alcohol concentration >50 mg/dL) were identified as independent predictors of recurrent crash. After adjustment for sex, age, and nighttime, alcohol was the leading predictor (relative risk 3.73; 95% confidence interval 3.00 to 4.64). In the presence of the 4 variables, the recurrence rate was as high as 145 (117 to 175) events per 1,000 subject-years, and alcohol per se accounted for more than 75% of events. In the absence of the 4 variables, the rate was as low as 11 (7 to 17) events per 1,000 subject-years.
+Conclusion
+Alcohol was the most powerful behavioral factor predicting recurrent events in subjects treated in an ED for injury after motor vehicle crash, along with young age, male sex, and nighttime.
+

@@ -1,0 +1,1 @@
+We study vehicle routing problems with constraints on the distance traveled by each vehicle or on the number of vehicles. The objective is either to minimize the total distance traveled by vehicles or to minimize the number of vehicles used. We design constant differential approximation algorithms for kVRP. Note that, using the differential bound for

@@ -1,0 +1,1 @@
+This paper deals with the estimation of the parameters of the Monod model for the activated sludge process on the basis of oxygen uptake rate data only. The objective of the paper is to analyze the practical model identifiability properties and to design informative experiments for parameter estimation. The results are illustrated by simulation

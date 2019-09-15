@@ -1,0 +1,1 @@
+A modified approach for reducing the order of discrete time systems is presented. The objective of the reduction process is to preserve specific design parameters of the transfer function such as phase margin, gain margin, and bandwidth. This approach is attractive because it can be easily implemented and does not involve any complex algebra.

@@ -1,0 +1,8 @@
+In this paper, the computational studies are
+performed to compute the principle plane patterns of micro
+strip patch array antenna. The objective of present work is to
+design the rectangular micro strip patch antenna to achieve
+good directivity. The principle plane patterns are computed
+for different dielectric constants by keeping inter element
+spacing constant. The best possible antenna array is chosen
+by computing the Directivity for each dielectric constant.

@@ -1,0 +1,9 @@
+Objective:
+To compare automated platforms with the routinely used methods in our clinical laboratory for the quantitation of 25-hydroxyvitamin D [25(OH)D] and 1,25-dihydroxyvitamin D [1,25(OH)2D].
+Method:
+The NEXgen Four and Triturus ELISA platforms, utilizing the IDS enzyme immunoassay (EIA) kit for 25(OH)D, and the DiaSorin Liaison 25(OH)D methods were compared with the DiaSorin radio immunoassay (RIA) kit. The NEXgen Four and the Triturus, utilizing IDS EIA for 1,25(OH)2D, were compared with the thymus radioreceptor assay (RRA) for measurement of 1,25(OH)2D.
+Results:
+NEXgen correlated best with DiaSorin RIA (r2 = 0.652). NEXgen correlated best with the thymus RRA method (r2 = 0.541). Imprecision CV values for NEXgen 1,25(OH)2D were 2.8–9.4% within-run and 10.2–13.9% between-run compared with a between-run precision of 14.0–16.9% with the thymus RRA method.
+Conclusion:
+NEXgen correlated best with DiaSorin RIA for measurement of 25(OH)D. NEXgen correlated best and demonstrated better precision than thymus RRA for quantitation of 1,25(OH)2D.
+

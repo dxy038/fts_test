@@ -1,0 +1,17 @@
+This research proposes a unied scheme to mathematically model and multiobjectively
+optimize the EDM parameters on tungsten carbide cobalt alloy (WC-6%Co),
+applying response surface methodology and a desirability function technique. Discharge
+current, pulse on-time, duty cycle and average discharge voltage have been chosen to
+be correlated with material removal rate, tool wear rate and surface roughness (Ra) as
+performance measures. The required experimental data were obtained in accordance with
+the face-centered central composite design. Signicant parameters in the form of main, twoway
+interaction and pure quadratic eects were carefully identied conducting a complete
+analysis of variance at 1%, 5% and 7% signicance levels, and the adequacy of all tted
+second order regression models was conrmed. Parametric analysis was undertaken through
+direct and reciprocity eect plots to fully reveal the dierent facets of ED-machinability
+characteristics. Finally, the optimization issue has been formulated as multi-objective from
+which the optimal parametric setting, yielding the most enviable conditions simultaneously,
+was then obtained in a compromised manner employing the notion of a desirability concept.
+The predicted optimal results were also interpreted and veried experimentally. The values
+of relative validation errors are all quite satisfactory (below 11%), which prove the ecacy
+and reliability of the suggested approach.

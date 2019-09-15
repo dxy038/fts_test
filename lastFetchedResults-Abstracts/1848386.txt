@@ -1,0 +1,8 @@
+Objective
+tudy aimed to prospectively compare measurement precision of calf intramyocellular lipid (IMCL) quantification at 3.0 and 1.5 T using 1H magnetic resonance spectroscopy (1H-MRS).
+als and Methods
+mined the soleus and tibialis anterior (TA) muscles of 15 male adults [21–48 years of age, body mass index (BMI)=21.9–38.0 kg/m2]. Each subject underwent 3.0- and 1.5-T single-voxel, short-echo-time, point-resolved 1H-MRS both at baseline and at 31-day follow-up. The IMCL methylene peak (1.3 ppm) was scaled to unsuppressed water peak (4.7 ppm) using the LCModel routine. Full width at half maximum (FWHM) and signal-to-noise ratios (SNRs) of unsuppressed water peak were measured using jMRUI software. Measurement precision was tested by comparing interexamination coefficients of variation (CV) between different field strengths using Wilcoxon matched pairs signed rank test in all subjects. Overweight subjects (BMI&gt;25 kg/m2) were analyzed separately to examine the benefits of 3.0-T acquisitions in subjects with increased adiposity.
+s
+nificant difference between 3.0 and 1.5 T was noted in CVs for IMCL of soleus (P=.5). CVs of TA were significantly higher at 3.0 T (P=.02). SNR was significantly increased at 3.0 T for soleus (64%, P&lt;.001) and TA (62%, P&lt;.001) but was lower than the expected improvement of 100%. FWHM at 3.0 T was significantly increased for soleus (19%, P&lt;.001) and TA (7%, P&lt;.01). Separate analysis of overweight subjects showed no significant difference between 3.0- and 1.5-T CVs for IMCL of soleus (P=.8) and TA (P=.4).
+sion
+current technology, 1H-MRS for IMCL at 3.0 T did not improve measurement precision, as compared with 1.5 T.

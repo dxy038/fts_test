@@ -1,0 +1,12 @@
+Objective
+To characterise flash visual evoked potentials (FVEPs) in 20 patients with Creutzfeldt–Jacob disease (CJD), and assess the relationships between spontaneous EEG patterns and the responses to individual stimuli.
+Methods
+We analysed the shape and time course of periodic sharp wave complexes (PSWCs) and responses to 1 Hz flashes. In nine patients, we applied an algorithm based on an autoregressive model with exogenous input (ARX) to estimate responses to individual random flashes and their interaction with PSWCs.
+Results
+The FVEPs included P1 and N1 components in all patients, and the P2 peak in 18. Eight patients showed giant FVEPs (N1-P2>60 V), all of whom had an MM polymorphism in codon 129 of the prion protein gene; in seven cases, the presence of giant FVEPs correlated with a prominent and almost continuous periodic EEG pattern. Giant N1-P2 abnormally spread on the anterior scalp regions, and had a different waveform distribution from that of the PSWCs.
+In five patients with a normal or slightly enlarged average N1-P2 amplitude, single sweep (ARX) analysis revealed a period of relative refractoriness following individual PSWCs. In four patients with ‘giant’ FVEPs, the individual responses occurred regardless of the interval between the stimulus and previous PSWC, but their amplitude had an inverse relationship with the interval length.
+Conclusions
+Giant responses to flash stimuli are a common finding in CJD patients (40% of our cases). Single sweep ARX analysis showed that PSWCs were followed by a period of partial refractoriness, which prevented most of the individual responses to flashes, but not giant FVEPs. The association between prominent spontaneous paroxysms and giant FVEPs suggests that both are due to a common hyperexcitable change favouring neuronal synchronisation.
+Significance
+Our data contribute to clarifying the debated problem of the occurrence of giant FVEPs in CJD and their relationships with the spontaneous periodic EEG pattern.
+

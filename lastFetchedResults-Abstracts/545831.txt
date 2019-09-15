@@ -1,0 +1,31 @@
+Objective: microRNAs (miRNAs) are a new class of non-coding RNAs involved in regulating
+various biological processes including proliferation, differentiation, and apoptosis,
+among others. Alterations in miRNA expression are reported in several human cancers,
+which suggests their potential roles in tumor initiation and progression. Members of the
+miR-302 cluster are highly expressed in embryonic stem cells (ESC), where they regulate
+cell self-renewal and pluripotency. Based on the cancer stem cell (CSC) hypothesis,
+mis-expression of such genes might contribute to tumorigenicity. This study aims to find a
+potential link between the expression level of human/homo sapiens miR-302b (has-miR-
+302b) and tumor/grade state of gastric tissues.
+Materials and Methods: A matched based case-control study was conducted that included
+tumor and matched marginal non-tumor surgical specimens from 34 patients diagnosed
+with gastric adenocarcinoma. Randomly selected samples were obtained from
+the Iran National Tumor Bank. cDNA synthesis was carried out on total RNA, by using
+the miRCURY LNA™ Universal RT microRNA PCR Kit. Real-time reverse transcriptionpolymerase
+chain reaction (RT-PCR) assays were performed with specific LNA™ primers
+and SYBR Green master mix. The human embryonic carcinoma cell line, NTERA2 (NT2)
+and a human gastric adenocarcinoma cell line, AGS, were used to optimize the PCR reactions.
+A comparative evaluation of miR-302b expression in tumor and non-tumor gastric
+samples was performed by either paired t test or Wilcoxon non-parametric test. The ability
+of miR-302b to discriminate tumor from non-tumor gastric samples was evaluated using
+the area under the receiver operating characteristic (ROC) curve.
+Results: According to our data, miR-302b expression (normalized to that of the U6 snRNA
+housekeeping gene) in the pluripotent cell line NT2 was more than 500 times greater than
+that of the AGS cell line. The level of expression was even lower in tumor and non-tumor
+gastric tissue samples. The data further revealed a down-regulation of miR-302b in gastric
+tumor samples (p=0.001), particularly in high-grade adenocarcinoma (p=0.009). However,
+ROC analysis data demonstrated a low sensitivity and specificity of miR-302b expression
+to discriminate between the tumor and non-tumor state of the samples (AUC=0.63).
+Conclusion: Despite the upregulation of some hESC-specific genes in tumors, our data
+revealed a down-regulation of miR-302b in high-grade tumors. This data suggested a potential
+tumor-suppressor role for miR-302b in tumorigenesis of gastric tissue.

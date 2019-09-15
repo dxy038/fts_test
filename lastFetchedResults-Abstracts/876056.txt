@@ -1,0 +1,9 @@
+Sufficient optimality conditions are obtained for a nonlinear multiple objective fractional programming
+problem involving η-semidifferentiable type I-preinvex and related functions. Furthermore,
+a general dual is formulated and duality results are proved under the assumptions of generalized
+semilocally type I-preinvex and related functions. Our result generalize the results of Preda [V. Preda,
+Optimality and duality in fractional multiple objective programming involving semilocally preinvex
+and related functions, J. Math. Anal. Appl. 288 (2003) 365–382] and Stancu-Minasian [I.M. Stancu-
+Minasian, Optimality and duality in fractional programming involving semilocally preinvex and
+related functions, J. Inform. Optim. Sci. 23 (2002) 185–201].
+ 2005 Elsevier Inc. All rights reserved

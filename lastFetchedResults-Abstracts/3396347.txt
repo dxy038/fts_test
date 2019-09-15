@@ -1,0 +1,1 @@
+We propose a new bidirectional dense wavelength-division-multiplexing (DWDM)-based passive optical network using optical carrier suppression and separation technique to generate both upstream and downstream wavelength channels from a single laser. Thirty-two DWDM channels have been generated, and symmetric 10-Gb/s data transmission of a wavelength pair has been demonstrated.

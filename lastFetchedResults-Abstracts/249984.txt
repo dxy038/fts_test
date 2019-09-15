@@ -1,0 +1,6 @@
+The objective of this work is to study some techniques to increase computational performance of stabilized
+finite element simulations of miscible displacements. We propose the use of a reduced integration
+technique for bilinear quadrilateral elements in the determination of the pressure and concentration
+fields. We also study the evaluation of pressure gradient (Darcy’s velocity) by differentiation at superconvergent
+points. Numerical examples are shown to validate our approach, accessing its efficiency
+and accuracy

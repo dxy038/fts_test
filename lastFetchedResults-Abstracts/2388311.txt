@@ -1,0 +1,12 @@
+Many industrial problems are concerned with optimization of large and
+complex systems involving many criteria. Indeed, optimization problems encountered in
+practice are seldom mono-objective. In general, there are many con
+icting objectives to
+handle. This study introduces a new method for the solution of multi-objective optimization
+problems. Multi-objective optimization is utilized to nd the most suitable solution, which
+covers the requirements and demands of decision makers. The main goal of the resolution
+of a multi-objective problem is to obtain a Pareto optimal set and, consequently, the
+Pareto front. This method is based on the Charged System Search (CSS) algorithm,
+which is inspired by the Coulomb and Gauss laws of electrostatics in physics. In order
+to illustrate the eciency of the proposed method, numerical examples are solved and
+results are compared to show the ability of the CSS in nding optimal solutions.

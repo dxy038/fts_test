@@ -1,0 +1,5 @@
+Objective: To evaluate an automated enzyme linked, ferrictripyridyltriazine spectrophotometric assay (EFTSA) for plasma ascorbic acid.
+Design and Methods: Using aqueous ascorbic acid solutions and plasma containing native and/or added ascorbic acid, the following were assessed: reaction kinetics, dose response relationships, recovery of added ascorbic acid, specificity, precision.
+Results: Performing the test on a Cobas Fara centrifugal analyser, the test is linear at least to 400 μmol/L; within-run CVs at 20, 50, 140, and 300 μmol/L ascorbic acid, in both pure aqueous solutions and in plasma, were <5.5%; 99-105% of added ascorbic acid (from 30-130 μmol/L) was recovered. The reaction of ascorbic acid is virtually instantaneous; other native antioxidants do not appear to interfere, and there is no interference by dehydroascorbic acid when readings are taken within a 15-60-s reaction time window.
+Conclusion: EFTSA appears suitable for the routine measurement of ascorbic acid in plasma.
+

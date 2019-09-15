@@ -1,0 +1,11 @@
+Objective
+To develop a reliable technique to enrich for rare cells in blood suspensions using only negative selection steps including a flow-through immunomagnetic cell separations system and by optimizing variables normally encountered during such enrichment processes.
+Methods
+
+A human breast cancer cell line was cultivated and spiked at a ratio of 1 cancer cell to 105 total leukocytes in buffy coat or 1 cancer cell to 108 total cells in whole blood samples. The final, optimized process consisted of: a red cell lysis step, immunomagnetically staining leukocytes with an anti-CD45 PE, anti- MACS sandwich, immunomagnetic sorting using a flow-through system (QMS), and a final cell analysis step using either an automated cell counter, filtration, and visual counting or a cytospin analysis.
+Results
+
+The final, optimized process produced a final enrichment of the rare cancer cells of 5.17 log10 and an average, final recovery of 46%. It should be noted that a negative depletion protocol was used (i.e., no labeling of the rare cancer cells was used).
+Conclusions
+
+To the authors' knowledge, no examples in the literature exist of a 5.17 log10 enrichment of cancer cells in human blood using a negative depletion protocol. The closest example is a 4 log10 enrichment in which two positive magnetic cell separation steps were used (none were used in this study). Ongoing studies are investigating further modifications of the precommercial, prototype flow-through immunmagnetic separation system to increase both the enrichment and recovery rate. However, even at current performance levels, the presented process could significantly improve visual and molecular analysis of rare cells in blood.

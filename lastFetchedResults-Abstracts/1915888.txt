@@ -1,0 +1,8 @@
+Objective
+luate the influence of Everolimus (RAD001) on chemically induced urothelial lesions in mice and its influence on in vitro human bladder cancer cell lines.
+s
+le mice were given N-butyl-N-(4-hydroxybutyl) nitrosamine in drinking water for a period of 12 weeks. Subsequently, RAD001 was administered via oral gavage, for 6 weeks. At the end of the experiment, all the animals were sacrificed and tumor development was determined by means of histopathologic evaluation; mammalian target of rapamycin (mTOR) expressivity was evaluated by immunohistochemistry. Three human bladder cancer cell lines (T24, HT1376, and 5637) were treated using a range of RAD001 concentrations. MTT assay, terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL), and flow cytometry were used to assess cell proliferation, apoptosis index, and cell cycle analysis, respectively. Immunoblotting analysis of 3 cell line extracts using mTOR and Akt antibodies was performed in order to study the expression of Akt and mTOR proteins and their phosphorylated forms.
+s
+cidence of urothelial lesions in animals treated with RAD001 was similar to those animals not treated. RAD001 did not block T24 and HT1376 cell proliferation or induce apoptosis. A reduction in cell proliferation rate and therefore G0/G1 phase arrest, as well as a statistically significant induction of apoptosis (P = 0.001), was only observed in the 5637 cell line.
+sion
+ seems not to have a significant effect on chemically induced murine bladder tumors. The effect of RAD001 on tumor proliferation and apoptosis was achieved only in superficial derived bladder cancer cell line, no effect was observed in invasive cell lines.

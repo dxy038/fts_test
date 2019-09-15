@@ -1,0 +1,1 @@
+This paper addresses the problem of time-optimal tracking for two-wheel driven carts. The objective of this research is to design a time-optimal tracking control strategy. In this paper, a search method is proposed for the carts to track and catch the target moving on a known straight line trajectory. Using numerical example, we show simulation results

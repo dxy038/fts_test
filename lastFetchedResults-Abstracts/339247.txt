@@ -1,0 +1,11 @@
+Objective
+Mast cells are considered major players in IgE-mediated allergic responses, but have also recently been recognized as active participants in innate as well as specific immune responses. Heat stress can modulate innate immunity by inducing stress proteins such as heat shock proteins (HSPs). It has been reported that HSPs are capable of inducing the production of pro-inflammatory cytokines by the monocyte-macrophage system. In the current study, we explored whether the stress response induces HSPs and affects the signaling pathways of mast cells.
+Methods
+
+In mouse mast cells, derived from a culture of bone marrow cells of male BALB/cBy and null HSF-1−/− mice, responsiveness to exogenous and endogenous HSP70 was monitored by measuring cytokine release.
+Results
+
+Using BMMC, we show that treatment with heat shock or acetylsalicylic acid results in a selective induction of HSPs, and leads to release of HSP70 into the extracellular environment. The release of HSP70 from mast cells may be of functional importance. We found that after induction of HSP70, the production of TNF-α and IL-6 was increased. In a number of experiments, we demonstrated that exogenous/secreted HSP70 is most likely responsible for the activation of mast cells to produce cytokines. Extracellular HSP70 induced production of TNF-α and IL-6 through the activation of the TLR4 receptor pathway, which was evidenced by an abrogation of the response in mast cells cultured from TLR4null or HSF-1−/− mice.
+Conclusion
+
+Our experiments suggest that stress conditions can induce pro-inflammatory cytokine production by mast cells through an autocrine or paracrine stimulation of TLR receptors after a heat shock response. The recognition that heat shock proteins induce mast cell activation suggests an involvement of these cells in the immunological processes induced by heat shock response.

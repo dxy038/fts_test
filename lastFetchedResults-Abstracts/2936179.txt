@@ -1,0 +1,1 @@
+The error in bidirectional reflectance and albedo retrievals due to random noise in the observed reflectances is found to be less than the noise RMSE using 16-day MODIS-MISR angular sampling

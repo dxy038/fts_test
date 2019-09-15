@@ -1,0 +1,1 @@
+We consider the optimal control of pull manufacturing systems. We study a fluid model of a flow shop, with buffer holding costs non-decreasing along the route. The system is subject to a constant exogenous demand, thus incurring additional shortfall/inventory costs. The objective is to determine the optimal control for the production rate at each machine in the system.

@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem and progenitor cells normally reside in the bone marrow but can be mobilized into the peripheral blood following treatment with granulocyte colony-stimulating factor (G-CSF) or myelosuppressive chemotherapy. Although the number of transplants performed with mobilized blood currently exceeds those performed with bone marrow, little is known of the molecular mechanisms responsible for this phenomenon. We sought to determine whether mobilization induced by G-CSF or chemotherapy was triggered by common or distinct mechanisms.
+Methods
+
+Balb/c mice were mobilized with either G-CSF alone, cyclophosphamide alone, or the combination of both agents. Spleens, peripheral blood, bone marrow extracellular fluids, and cells were taken at different time points and analyzed for the expression of VCAM-1, the number of peripheral blood progenitor cells, concentration of neutrophil proteases, and number of granulocytes.
+Results
+
+Administration of either G-CSF or the myelosuppressive agent cyclophosphamide results in a sharp reduction of VCAM-1/CD106 expression in the bone marrow that coincides with the accumulation of granulocytic precursors and release of active neutrophil proteases neutrophil elastase and cathepsin G that directly cleave VCAM-1/CD106 in vitro. These events follow precisely the kinetics of hematopoietic progenitor cell mobilization into the peripheral blood.
+Conclusion
+
+We have identified a commonality of events during mobilization induced by either G-CSF or chemotherapy, which include the accumulation in the bone marrow of active neutrophil proteases that directly cleave VCAM-1 and lead to the sharp reduction of VCAM-1 expression in this tissue.

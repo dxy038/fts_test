@@ -1,0 +1,11 @@
+Objective
+Activation of the SRC family of protein tyrosine kinases is an important component of intracellular signaling in hematopoiesis, but their critical substrates are less well understood. In this report, we describe the cloning and functional characterization of murine SKAP55R (mSKAP55R), an SRC family kinase substrate.
+Materials and Methods
+
+Expression of mSKAP55R was examined by Northern blot. Phosphorylation of mSKAP55R was examined by transient transfection of COS cells. For overexpression studies, mSKAP55R was cloned into a bicistronic murine stem cell virus–based retrovirus. Transduced cells (FDC-P1 cell line and murine bone marrow) were FACS isolated by expression of the selectable marker green fluorescent protein.
+Results
+
+mSKAP55R showed 90% amino acid identity to the recently published human SKAP55R. mSKAP55R contained a central pleckstrin homology domain, a C-terminal SH3 domain, and a putative SRC kinase consensus substrate DEIY260. mSKAP55R was expressed in all hematopoietic lineages, with relative mRNA levels greatest in cells of the myeloid and erythroid lineages. Induced myeloid differentiation of M1 and HL-60 cell lines was associated with an eight-fold increase in mSKAP55R mRNA. Transient expression of mSKAP55R in COS cells demonstrated that tyrosine 260 was the predominant site of phosphorylation by FYN kinase. Furthermore, this phosphotyrosine was essential for coimmunoprecipitation of FYN with mSKAP55R. Enforced expression of mSKAP55R inhibited in vitro growth of the myeloid FDC-P1 cell line and primary hematopoietic progenitors. In contrast, a tyrosine 260 mutant mSKAP55R had no effect on in vitro growth.
+Conclusion
+
+These studies implicate mSKAP55R in the processes of myeloid differentiation and growth arrest.

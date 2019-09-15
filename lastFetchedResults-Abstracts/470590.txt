@@ -1,0 +1,9 @@
+Objective
+We hypothesize that genetic variations (single nucleotide polymorphisms-SNPs) in the tumor necrosis factor-α (TNF-α), TNF receptors (TNFRI and TNFRII), interleukin-6 (IL-6) and IL-6 receptor (IL-6R) genes predict high-risk status for spontaneous preterm birth (sPTB) in European-American women. In this study we examine the allelic and genotypic variations and the gene-gene interactions in the TNF-α, TNFRs, IL-6, and IL-6R genes in maternal DNA samples by using a case-control model.
+Study design
+Maternal DNA from cases of sPTB after preterm labor (n = 101) and controls (normal term labor and delivery) (n = 321) were genotyped for SNPs in the TNF-α (6), TNFRI (6), TNFRII (7), IL-6 (5), and IL-6R (3) loci. SNPs were tested for both allele and genotype differences (cases vs controls) with the use of standard genetic epidemiologic methods. Multilocus interaction was assessed with multifactor dimensionality reduction analysis (MDR) to test all single and multilocus combinations for the ability to predict sPTB.
+Results
+Few significant allelic and genotypic associations were detected between cases and controls in maternal DNA. Single locus analysis documented independent association of SNPs at −7294 (allele and genotype) of TNFRI and 24660 (genotype) TNFRII loci with sPTB. MDR revealed a significant 3 locus model that includes SNPs −3448 of TNF-α, −7227 of IL-6, and 33314 of IL-6R. This interactive model allowed the successful prediction of pre- to low-risk genotypes is 3.50 (95% CI 2.52-4.87, P< .001).
+Conclusion
+This is the first report to document a multilocus interaction in sPTB that predicts 65.2% of the cases in a European-American sample. Although putatively significant associations with sPTB were seen at a few single locus sites in TNFRI and TNFRII, they were not as predictive as the 3-locus model produced by MDR, suggesting the use of multilocus analyses in gene association studies of complex disease such as sPTB.
+

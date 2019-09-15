@@ -1,0 +1,1 @@
+In this paper design criteria for manipulators are discussed and formulated for a multi-objective optimization problem. Optimality aspects are identified as suitable for numerical computations in a kinematic design procedure by looking at main aspects for analysis and design purposes.

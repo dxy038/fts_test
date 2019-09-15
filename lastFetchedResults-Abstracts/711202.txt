@@ -1,0 +1,19 @@
+A solid travelling salesman problem (STSP) is a travelling salesman problem (TSP)
+ where the salesman visits all the cities only once in his tour using different conveyances
+  to travel from one city to another. Costs and environmental effect
+ factors for travelling between the cities using different conveyances are different.
+ Goal of the problem is to find a
+ complete tour with minimum cost that damages the environment
+ least. An ant colony optimization (ACO) algorithm is developed
+ to solve the problem. Performance of the algorithm for the problem
+ is compared with another soft computing algorithm, Genetic
+ Algorithm(GA). Problems are solved with crisp as well as fuzzy costs. For
+ fuzzy cost and environmental effect factors, cost function as well as environment
+ constraints become fuzzy. As optimization of a fuzzy objective function
+ is not well defined, fuzzy possibility approach is used to get
+ optimal decision. To test the efficiency of the algorithm, the
+ problem is solved considering only
+ one conveyance facility ignoring the environmental effect constraint, i.e., a classical
+ two dimensional TSP (taking standard data sets
+ from TSPLIB for solving the problem). Different numerical
+ examples are used for illustration.

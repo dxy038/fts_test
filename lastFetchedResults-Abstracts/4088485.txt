@@ -1,0 +1,1 @@
+The authors propose a novel marker extraction algorithm for fine image segmentation. The proposed algorithm generates dense markers in visually complex areas and coarse markers in visually uniform areas, which conforms to the human perceptual system. Experimental results show that the proposed method achieves better objective and subjective quality for fine image segmentation

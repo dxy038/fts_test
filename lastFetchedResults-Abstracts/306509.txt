@@ -1,0 +1,5 @@
+Objective: This study was designed to test the algorithm for the recognition of leukemia/lymphoma pattern, based on cell immunophenotype assessed using specific monoclonal antibodies and measured using flow cytometry.
+Design and Method: Analysis was performed by comparing phenotyping data with reference data, followed by scoring of such comparisons. Output of the recognition was designed as a report list of possible diagnoses (defined as objects in the informatic system). Reference data were compiled from the respective literature.
+Results: From 57 blood and bone marrow samples tested in this study, accurate recognition of the real diagnosis (object) appeared on the first four places of the report list in 54 (94.7%) samples.
+Conclusion: The list of the objects recognized by the use of algorithm appeared to be helpful in making a differential diagnosis, occasionally pointing to the states that the physician had not in mind at the start of the analysis
+

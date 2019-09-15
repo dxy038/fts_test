@@ -1,0 +1,21 @@
+Objective: Helicobacter pylori is associated with chronic gastritis, peptic ulcers, gastric adenocarcinoma
+and gastric mucosa-associated lymphoid tissue (MALT) lymphoma. Antibiotic
+therapies do not protect from potential re-infection and have a risk for development of drug
+resistance. Therefore, prophylactic vaccine mediated protection against H. pylori is an attractive
+clinical interest. H. pylori adhesin A (HpaA) is a conserved surface lipoprotein and plays
+important roles in the pathogenesis of infection. In this study the recombinant protein (rHpaA)
+was over-expressed in E.coli.
+Materials and Methods: The hpaA gene was amplified by PCR. Prokaryote expression vector
+pET28a-hpaA was constructed, and used to transform E.coli BL21DE3. The expression
+of recombinant protein induced by IPTG was examined by SDS-PAGE. Western blot were
+used to determine immunoreactivity of rHpaA by a rabbit polyclonal antibodies against whole
+cell of H. pylori.
+Results: The hpaA gene nucleotide sequence in the recombinant plasmid vector of pET-28-
+a-hpaA was consistent with that of H.pylori hpaA as published in the GenBank. SDS-PAGE
+demonstrated that the constructed prokaryotic expression efficiently produced rHpaA at the
+1.5 mmol/L of IPTG. HpaA fusion protein was able to react with the rabbit polyclonal antibody
+against whole cells of H. pylori.
+Conclusion: A prokaryotic expression system pET-28a-hpaA-BL21 with high efficiency of H.
+pylori hpaA gene was successfully established and the HpaA fusion protein showed satisfactory
+immunoreactivity. These results indicate that production of a specific recombinant protein
+is an alternative and potentially more expeditious strategy for development of H. pylori vaccine.

@@ -1,0 +1,9 @@
+Large format detectors in the long wavelength region of the thermal infrared (TIR) spectrum (λ ∼ 11–15 μm) with very high radiometric and imaging performances are of increasing scientific and operational interest for, e.g. meteorology and atmospheric chemistry in missions such as Meteosat Third Generation (MTG) or Planetary Science missions.
+
+onths ESA project started in 2008, whose overall purpose is to expand and assess the performance of broadband 11–15 μm Quantum Well Infrared Photodetectors (QWIP) for spectro-imaging applications: Dispersive Spectrometers (DS) and Fourier Transform Spectrometers (FTS). The primary objective is the development of an optimized detection layer focusing on its technology and the necessary performance levels.
+
+s paper, we present a theoretical and experimental study of the optical coupling inside the pixels of a QWIP focal plane array. The broadband 11–15 μm absorption spectrum is achieved by the use of a quantum well stack containing several kinds of quantum wells.
+
+tural narrowband optical coupling of classical diffraction gratings doesn’t allow an efficient and uniform broadband optical coupling of the IR incident light over the whole 11–15 μm spectral band. Specific aperiodic or quasiperiodic optical coupling schemes have to be used.
+
+s work we demonstrate the ability of obtaining a good spectral matching with various original broadband diffractive structures. An extensive experimental study is presented. Comparison with simulated spectra is performed.

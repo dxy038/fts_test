@@ -1,0 +1,22 @@
+Topography is one of the major factors controlling the spatial pattern of
+saturated areas, which in turn is a key to understand much of the variability in soils
+and hydrological processes. The topographic wetness index (TWI) which combines
+local upslope contributing area and slope, is commonly used to quantify
+topographic control on hydrological processes. On the other hand, the interaction
+of topography with the climate affects the distribution of soil organic matter (SOM)
+as one of the most effective soil quality parameters that has been shown to correlate
+with TWI and can be predicted by TWI. The main objective of this study was to
+evaluate different flow direction algorithms of TWI and to select suitable algorithm
+for the study area and to map soil organic carbon in a loess hillslope of Toshan
+area, Golestan Province, Iran. TWI was calculated by single flow direction (SFD),
+biflow direction (BFD) and multiple flow direction algorithms (MFD). 135
+Samples were collected at random systematic method (0-20 cm depth). The results
+showed D-Infinity (BFD) and MFD algorithms in the study area had stronger
+correlation with SOM than SFD (D8 and RHO8) algorithms. However TWIs used
+in most studies are calculated using a SFD algorithm, which assumes that all water
+from a grid cell flows into only one neighboring cell. But this assumption is not
+always valid, especially in areas with low relief where movement of water may be
+divergent. Finally, TWI is suggested to be calculated with different algorithms so
+that the best method could be selected to obtain accurate results.
+Keywords: Flow direction algorithms, Soil organic carbon, Topography,
+Topographic wetness index

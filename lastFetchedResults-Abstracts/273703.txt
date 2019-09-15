@@ -1,0 +1,9 @@
+Ultrasonic waves are powerful and popular methods for measuring mechanical properties of solids even at nanoscales.
+The extraction of material constants from the measured wave data requires the use of a model that can accurately describe
+the wave motion in the solid. The objective of this paper is to develop a continuum theory with microstructures that can
+capture the effect of the microstructure or nanostructure in ultra-thin films when waves of short wavelengths are used. This
+continuum theory is developed from assumed displacement fields for microstructures. Local kinematic variables are introduced
+to express these local displacements and are subjected to internal continuity conditions. The accuracy of the present
+theory is verified by comparing the results with those of the lattice model for the thin film. Specifically, dispersion curves
+for surface wave propagation and wave propagation in a thin film supported by an elastic homogeneous substrate are studied.
+The inadequacy of the conventional continuum theory is discussed.

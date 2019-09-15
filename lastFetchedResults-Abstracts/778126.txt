@@ -1,0 +1,23 @@
+Actually the environmental concerns arise
+from the emissions produced by fossil fueled electric
+power plants, the classical economic dispatch, which
+operates electric power systems to minimize the total fuel
+cost which can no longer be considered alone. Thus, by
+environmental dispatch, emissions can be reduced
+through dispatch of power generation. The proposed
+Environmental Economic Load Dispatch (EED) is
+formulated mathematically as a nonlinear constrained
+multiobjective problem with competing and noncommensurable
+objectives of fuel cost, emission and
+system loss. So, a multi-objective meta-heuristic of
+Improved Harmony Search Algorithm (IHSA) is applied
+in this paper to solve the EED problem through the
+advantages of fuzzy mechanism. In addition, renewable
+sources and wind energy in particular have recently been
+getting more interest because of various environmental
+and economic considerations. Accordingly, wind power
+is included in the problem formulation to find the effects
+in power system. The proposed technique has been
+applied over the IEEE 30 and 118-bus test power system.
+The achieved results demonstrate the validity of proposed
+technique.

@@ -1,0 +1,11 @@
+We present a novel approach to synthesizing accurate visible speech based on searching and concatenating optimal
+variable-length units in a large corpus of motion capture data. Based on a set of visual prototypes selected on a source face and a
+corresponding set designated for a target face, we propose a machine learning technique to automatically map the facial motions
+observed on the source face to the target face. In order to model the long distance coarticulation effects in visible speech, a large-scale
+corpus that covers the most common syllables in English was collected, annotated and analyzed. For any input text, a search algorithm
+to locate the optimal sequences of concatenated units for synthesis is desrcribed. A new algorithm to adapt lip motions from a generic
+3D face model to a specific 3D face model is also proposed. A complete, end-to-end visible speech animation system is implemented
+based on the approach. This system is currently used in more than 60 kindergarten through third grade classrooms to teach students
+to read using a lifelike conversational animated agent. To evaluate the quality of the visible speech produced by the animation system,
+both subjective evaluation and objective evaluation are conducted. The evaluation results show that the proposed approach is
+accurate and powerful for visible speech synthesis.

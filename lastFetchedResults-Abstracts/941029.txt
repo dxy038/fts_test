@@ -1,0 +1,15 @@
+Air quality monitoring data are important bases for air quality management strategies planning and performance assessment.
+Therefore, the environmental protection authorities need to plan the air quality monitoring network effectively. However, in
+Taiwan, the national Environmental Protection Administration (EPA) and some county environmental protection bureaus (EPB)
+separately installed their own monitoring stations. This study developed an integrated methodology and computer system for
+planning air quality monitoring networks. The environmental, social, and economic objectives and sub-objectives, and their
+weights were identified using system analysis and multiple objective planning, based on the principles of sustainable development.
+A multiple objective optimization model and procedure for sustainable air quality monitoring networks planning are developed in
+this study. According to the procedure, a multiple objective planning system for sustainable air quality monitoring networks
+(MOPSSAQMN) is developed using computer software based on the modified bounded implicit enumeration algorithm with the
+constraint arrangement method. The air quality monitoring network of Taoyuan County, in northern Taiwan, was used as a case
+study to demonstrate the proposed method. Two satisfactory alternatives based on different conditions were generated using
+MOPSSAQMN. The compared results show that this study generated better alternatives than the current monitoring network. An
+installation schedule for the alternative was proposed, and its first step is now being implemented by the EPB of Taoyuan County
+Government. The procedure and computer system developed in this study can be used to assist the competent authorities to devise
+good and different alternatives for air quality monitoring networks planning.

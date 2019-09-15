@@ -1,0 +1,8 @@
+Objective
+e applied fluorimetric method to monitor aldehyde dehydrogenase (ALDH*) activity in human saliva samples to study inactivation, reactivation and inhibition of the enzyme.
+
+ samples were collected to buffer stock solution, containing various thiols, and assayed in the presence of the fluorogenic substrate 6-dimethylamino-2-naphthaldehyde and NAD+. Fluorescence of the produced 6-dimethylamino-2-naphthalene carboxylate was used to measure the reaction rate.
+s
+c parameters for the highly fluorogenic substrate, 6-dimethylamino-2-naphthaldehyde were measured, with apparent Km of 7.9 μM at pH 7.3. The apparent Km for NAD+ was 1.2 μM. The observed ALDH activity is unstable in the absence of thiols, but can be stabilized by 1 mM glutathione, and inactivated enzyme can be re-activated within 10 min by treatment of 0.5 mM DTT. Two-assay procedure was applied to measure degree of inactivation of ALDH in saliva samples. It was found that degree of ALDH inactivation in fresh samples, stabilized by glutathione, is between 0% and 90%, with average value ca. 40%. Caffeine and theophylline were shown to be moderate inhibitors of salivary ALDH.
+sions
+ion of the salivary ALDH in fresh saliva may be reliably measured using fluorimetric two-assay procedure. Preliminary statistics indicate that in most individuals this enzyme is partially inactive. Inhibition of the salivary ALDH by caffeine may have consequences for nutrition safety.

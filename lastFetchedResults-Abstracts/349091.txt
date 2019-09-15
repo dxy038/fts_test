@@ -1,0 +1,11 @@
+Objective
+Reticulothalamocortical (RTC) and cortico-cortical (CC) communications underlie multiple fundamental neurophysiological processes. Detecting changes in RTC versus CC communication from the EEG alone remains an unsolved problem. RTC communication shows complex (linear and nonlinear) properties in EEG. Aiming to detect changes in complexity of RTC communication from EEG, we applied a novel concept to analyze the complexity of information flow in RTC communication on different time scales of neuronal oscillations with mutual information function (MIF).
+Methods
+We studied information flow in RTC and CC communication in a previously established model of moderate and deep propofol/fentanyl anesthesia in six juvenile pigs. We recorded the electrothalamogram (EThG) of the reticular thalamic nucleus (RTN) and the electrocorticogram (ECoG) of five ipsilateral regions and characterized their linear (spectral power, coherence) and complexity (MIF) properties.
+Results
+During deep anesthesia, ECoG complexity over the temporoparietal region decreased on the time scale of beta frequency band. The spectral power in the beta frequency band decreased over others, but not over the temporoparietal region. Coherence decreased predominantly in the alpha band in both CC and RTC communication while information flow complexity decreased specifically in RTC, but not in CC, communication, suggesting higher information flow in RTC communication during deep anesthesia.
+Conclusions
+Information flow complexity changes in ECoG specifically reflect changes in RTC communication.
+Significance
+RTC communication can be quantified from cerebrocortical activity alone by assessing information flow complexity of CC communication.
+

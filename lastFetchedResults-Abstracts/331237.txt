@@ -1,0 +1,11 @@
+Objective
+The intent of this project was to examine the effect of two different modes of fatigue loading, contact and flexure, on the flexure strength of a dental composite.
+Methods
+
+The composite was Restolux (a fiber-filled composite) formed as bars 3 mm × 3 mm × 25 mm in size. The cyclic loading ranges were 30–50, 60–80, and 90–110 N for contact loading and 20–40 and 40–60 N for the flexure loading. Number of cycles completed was 1, 1000 or 100,000 in four different media: air, water, artificial saliva, and a 50/50 mixture of water and ethanol. Specimens were aged in sealed polyethylene containers in their respective media for 4 months at 37 °C.
+Results
+
+Statistical analysis indicated a significantly lower flexure strength for the specimens flexure loaded versus contact loaded. For the flexure loaded specimens, the number of cycles had no significant effect, but the aging, load, and the media were all significant. For the contact loaded specimens, a significant effect was observed for the media, aging, and cycles completed, but no effect for the different cycling loads.
+Significance
+
+In summary, the decrease in flexure strength from flexure loading was mainly affected by the aging media, whereas, the decrease from contact loading was attributed mainly to the number of cycles.

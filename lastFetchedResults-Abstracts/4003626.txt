@@ -1,0 +1,1 @@
+In the above paper by Sharkey et al. (ibid. vol.13 (1997)), a standard for the kinematics of a generalized stereo robot head was presented. In this paper the commenters attempt to clarify some statements of the paper, particularly regarding modeling and calibration. The objective is to provide a simple model to researchers in active vision that complies to all needs.

@@ -1,0 +1,1 @@
+A delivery problem which reduces to the NP-complete set-partitioning problem is investigated. The sequential and parallel simulated annealing algorithms to solve the delivery problem are discussed. The objective is to improve the quality of solutions to the problem by applying parallelism

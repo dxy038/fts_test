@@ -1,0 +1,11 @@
+Objective
+Activating mutations in FLT3 are known to be a frequent transforming event in acute myeloid leukemia. Small molecule–inhibitor therapy targeting the FLT3 kinase is, therefore, an attractive strategy. FLT3 kinase inhibitors, such as PKC412, have already entered clinical trials. Even though results are encouraging, emergence of primary and secondary resistance does occur in the majority of patients. Thus, it will be crucial to carefully characterize the activity of every single compound against different activating and resistance FLT3-internal tandem duplication (ITD) mutations. Here we tested the efficacy of sunitinib and sorafenib to inhibit primary FLT3 activating mutations (ITD and D835Y) and of secondary resistance mutations.
+Methods
+
+Ba/F3 cell lines stably expressing oncogenic FLT3 mutations were used to calculate cellular IC50 values for sunitinib and sorafenib using cell proliferation assays. Differential IC50 values for sorafenib toward FLT3-ITD and FLT3-D835Y were confirmed by Western blotting. Cell death was measured by propidium-iodide staining and flow cytometry.
+Results
+
+Sorafenib inhibits FLT3-ITD more potent than FLT3-D835Y, while sunitinib is equally effective against both mutant forms of FLT3. Importantly, sensitivity toward sorafenib and sunitinib varies between the different secondary FLT3-ITD resistance mutations.
+Conclusions
+
+These results establish sensitivity profiles for the FLT3 inhibitors sunitinib and sorafenib. This may help to develop rational treatment strategies for acute myeloid leukemia with these compounds.

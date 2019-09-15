@@ -1,0 +1,11 @@
+Objective
+Several studies have provided evidence for the notion that the coupling between slow and fast frequency in the EEG spectrum indicates cortico-subcortical cross-talk (CSC-ct). In addition, findings for increased limbic activation due to reduced cortical inhibition have recently been acquired. To get further insights into these mechanisms, the current study investigated whether CSC-ct would decrease as a function of increased slow (SW) or fast wave (FW) activity.
+Methods
+Resting state EEG recordings were obtained from 46 healthy, right-handed participants. CSC-ct was quantified by computing cross-frequency correlations between the power in the slow and fast frequency range. CSC-ct was compared between groups with relatively low and high SW activity and groups with relatively low and high FW activity.
+Results
+Relatively reduced SW, but not FW activity was associated with a significant coupling between slow and fast frequency EEG. Furthermore, relatively enhanced resting state SW activity was paralleled by slow and fast frequency EEG decoupling.
+Conclusions
+These findings are in line with the notion that increased subcortical drive can go accompanied by reduced CSC-ct.
+Significance
+Cross-frequency EEG analyses might provide a unique approach to obtain novel insights into cortico-subcortical interactions in relation to affective and cognitive behavior.
+

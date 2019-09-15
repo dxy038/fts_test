@@ -1,0 +1,11 @@
+Objective
+Co-registration of EEG (electroencephalogram) and fMRI (functional magnetic resonance imaging) remains a challenge due to the large artifacts induced on the EEG by the MR (magnetic resonance) sequence magnetic fields. Thus, we present an algorithm, based on the average-subtraction method, which is able to correct EEG data for gradient and pulse artifacts.
+Methods
+MR sequence timing parameters are estimated from the EEG data and both slice and volume artifact templates are subtracted from the data. A clustering algorithm is proposed to account for the variability of the pulse artifact.
+Results
+The algorithm is able to keep the spontaneous EEG as well as visual evoked potentials (VEPs), while removing gradient and pulse artifacts with only a subtraction of selectively averaged data. In the frequency domain, the artifact frequencies are strongly attenuated. Estimated MR sequence time parameters showed that the correction is extremely sensitive to the slice time value. Pulse artifact clustering showed that most of the variability is due to the time jitter of the pulse artifact markers.
+Conclusions
+Selective subtraction of averages in combination with proper time alignment is enough to remove most of the MR-induced artifacts.
+Significance
+Clean EEG can be obtained from raw signals that are corrupted by MR-induced artifacts during simultaneous EEG–fMRI scanning without using dedicated hardware to synchronize EEG and fMRI clocks
+

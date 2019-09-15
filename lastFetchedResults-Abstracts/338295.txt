@@ -1,0 +1,11 @@
+Objective
+Ribonucleotide reductase (RR) is the rate-limiting enzyme for the de novo synthesis of deoxyribonucleotides. Its activity is significantly increased in tumor cells related to the proliferation rate. Therefore, the enzyme is considered to be an excellent target for cancer chemotherapy. In the present study, we investigated whether the antineoplastic effects of trimidox (3,4,5-trihydroxybenzamidoxime), a novel inhibitor of RR, were due to induction of apoptosis.
+Method
+
+HL-60 cells were incubated with various concentrations of trimidox. Consequently, cell morphology, DNA condensation, annexin binding, DNA fragmentation, and signature type cleavage of poly(ADP-ribose)polymerase and gelsolin were determined. We also tested the involvement of CD95 and CD95 ligand in apoptosis induction. Furthermore, we examined the c-myc expression of HL-60 cells after incubation with trimidox in order to elucidate a possible association between c-myc expression and induction of apoptosis in the case of trimidox.
+Result
+
+Trimidox incubation caused a time-dependent increase of c-myc RNA expression and this was accompanied by the induction of apoptosis. Apoptosis was triggered independently of CD95 by the activation of caspases and PARP cleavage.
+Conclusion
+
+We conclude that trimidox is able to induce programmed cell death. The induction of apoptosis was demonstrated by various biochemical and morphological methods and seems to be associated with the induction of c-myc. Apoptosis was induced by the activation of caspases and without change of the CD95 and CD95 ligand expression.

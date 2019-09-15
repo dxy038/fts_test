@@ -1,0 +1,11 @@
+Objective
+β1-integrins mediate hematopoietic stem and progenitor cell homing and retention in the bone marrow (BM) and inhibit hematopoietic proliferation and differentiation. Having no intrinsic kinase activity, integrins recruit intracellular kinases, such as the focal adhesion kinase (FAK) or the related proline-rich tyrosine kinase 2 (PYK2), to initiate signal transduction. Phosphatidylinositol-3-kinase (PI3K), which is involved in β1-integrin signaling in many cell types, is physically and functionally associated with FAK in anchorage-dependent cells. Because PYK2 is the principal focal adhesion kinase expressed in primary human CD34+ cells, we assessed its functional relationship with PI3K in CD34+ cells in response to integrin engagement.
+Methods
+
+β1-integrins on primary mobilized peripheral blood CD34+ cells and CD34+ KG1A cells were engaged by adhesion to fibronectin (FN) or by cross-linking with an anti-β1 integrin antibody, respectively. PI3K activity and PYK2 phosphorylation were then assessed in the presence or absence of the PI3K inhibitor, wortmannin. Association between PI3K, PYK2, and the β1-integrin subunit were also evaluated in co-immunoprecipitation experiments.
+Results
+
+β1-integrin engagement induced PI3K activation, which was required for, and temporally preceded, PYK2 phosphorylation, indicating that PI3K lies upstream of PYK2 in CD34+ cells. Furthermore, although PYK2 and PI3K were constitutively associated, interaction of the PYK2/PI3K complex with β1-integrins required prior integrin engagement and PI3K activation.
+Conclusion
+
+Activation of PI3K following β1-integrin engagement on human CD34+ cells results in subsequent phosphorylation of PYK2, and is required for the recruitment of the PI3K/PYK2 complex to β1-integrins at the cell surface.

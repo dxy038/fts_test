@@ -1,0 +1,1 @@
+In this paper we propose a recursive least squares (RLS) based ultra wide band (UWB) localization scheme using a certain localizer´ selection criterion that enables a node with unknown location choose its localizer nodes in order to achieve a desired objective criterion. The nodes could be mobile or stationary

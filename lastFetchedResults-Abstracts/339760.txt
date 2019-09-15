@@ -1,0 +1,11 @@
+Objective
+Various cytokines and growth factors control the differentiation and maturation of megakaryocytes (MKs). However, the mechanism regulating platelet release from MKs is not well understood. Here, we investigated a role of Lnk/Sh2b3, an intracellular adaptor protein, in megakaryopoiesis.
+Materials and Methods
+
+Number of MK progenitor in bone marrow (BM) of wild-type or Lnk−/− mice and their sensitivity to thrombopoietin (TPO) were determined in colony-forming unit assay. Using BM-derived wild-type or Lnk−/− MKs stimulated with TPO, activation of the signaling molecules was biochemically analyzed and effect of integrin stimulation on TPO signals was studied by addition of vascular cell adhesion molecule (VCAM-1). Platelet production from MKs in the presence of VCAM-1 was counted by flow cytometry and their morphological change was observed by time-lapse microscopy.
+Results
+
+Lnk−/− mice showed elevated platelets and mature MKs due to enhanced sensitivity of progenitors to TPO. Erk1/2 phosphorylation induced by TPO was augmented and prolonged in Lnk−/− MKs while activation of signal transducers and activators of transcription (Stat)3, Stat5, and Akt was normal. Wild-type MKs, but not in Lnk−/− MKs on VCAM-1 showed reduced Stat5 phosphorylation and mitogen-activated protein kinases activation upon stimulation with TPO. Additionally, the presence of VCAM in culture accelerated spontaneous platelet release from mature wild-type MKs, but not from Lnk−/− MKs.
+Conclusions
+
+Results suggest that contact of MKs with adhesion molecules via integrins might contribute to platelet release, which is under Lnk-mediated regulation of Stat-5 activation and show that Lnk functions in responses controlled by cell adhesion and in crosstalk between integrin- and cytokine-mediated signaling.

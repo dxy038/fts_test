@@ -1,0 +1,2 @@
+In this paper, the finitely many constraints of a fuzzy relation inequalities problem are studied and the linear objective function on the region defined by a fuzzy max-average operator is optimized. A new simplification technique which accelerates the resolution of the problem by removing the components having no effect on the solution process is given together with an algorithm and a numerical example to illustrate the steps of the problem resolution process.
+

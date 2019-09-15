@@ -1,0 +1,1 @@
+A new SOS-expressed blind channel shortening algorithm is proposed. It is based on a necessary and sufficient condition that guarantees detection of all possible shortening equalizers before the best one is selected. The unique existing SOS-based blind channel shortening algorithm meets the same objective but has a much higher complexity

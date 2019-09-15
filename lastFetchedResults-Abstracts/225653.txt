@@ -1,0 +1,11 @@
+In this paper, the objectives and detailed analysis of
+the multistage distribution expansion are presented. The problem
+is modeled as a directed graph minimum edge cost network flow
+problem. This new formulation details a multistage framework
+within a single mathematical program while addressing several
+deficiencies of previous approaches. The accuracy of a single
+step approximation of the objective function, without using the
+conventional linearization techniques, is discussed. Each of the
+constraints is introduced in terms of industry standard practices.
+Detailed numerical results for practical study cases are provided
+in a separate paper.

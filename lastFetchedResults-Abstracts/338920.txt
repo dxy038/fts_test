@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to assess the effects of interleukin-4 and signal transducer and activator of transcription (Stat)-6 on IL-3 + SCF-induced mast cell development.
+Materials and Methods
+
+Unseparated mouse bone marrow cells were cultured in IL-3 + SCF, giving rise to mast cells and monocytes/macrophages. The addition of IL-4, the use of Stat6-deficient bone marrow cells, and expression of a constitutively active Stat6 mutant were employed to assess the effects of IL-4 and Stat6 on cell viability, proliferation, and differentiation. Bax-deficient and bcl-2 transgenic bone marrow cells were used to assess the importance of the mitochondria in IL-4-mediated effects.
+Results
+
+IL-4 elicited apoptosis and limited the cell cycle progression of developing bone marrow cells, without affecting cell differentiation. Apoptosis required that IL-4 be present during the first 8 days of the 21-day culture period. Cell death correlated with loss of mitochondrial membrane potential. Accordingly, IL-4-mediated apoptosis was inhibited by Bax deletion or bcl-2 overexpression. Lastly, Stat6 activation was both necessary and sufficient to inhibit cell survival.
+Conclusion
+
+IL-4 exerts potent apoptotic effects on developing mast cells and monocyte/macrophages through mitochondrial damage and Stat6 activation.

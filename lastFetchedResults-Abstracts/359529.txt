@@ -1,0 +1,9 @@
+Background
+In the past 11 years, Ontario has generated institution-level performance report cards on outcomes of coronary artery bypass graft (CABG) surgery. The objective of this study was to evaluate the differences in patient characteristics and outcomes observed during the transition from no reporting to confidential, and ultimately public performance report cards for CABG surgery in a public health system.
+Methods
+We used clinical and administrative data to assess crude, expected, and risk-adjusted 30-day mortality rates after isolated CABG surgery in Ontario for 67 693 patients from September 1, 1991, to March 31, 2002. Confidence intervals on relative mortality reductions were determined by bootstrapping. We compared 30-day mortality trends to a control outcome (risk-adjusted 30-day all-cause readmission). We analyzed inhospital mortality trends for Ontario compared with the rest of Canada for the period from 1992 to 1998.
+Results
+The risk-adjusted 30-day mortality rate decreased 29% (95% CI 21-39) from the era of no reporting (1991-1993) to confidential reporting (1994-1998). There was no further decrease with public reporting (1999-2001). The control outcome of 30-day readmission did not decrease across reporting eras. Inhospital mortality fell significantly faster in Ontario during the period of confidential reporting than in other parts of Canada.
+Conclusion
+Ontario CABG mortality outcomes improved sharply after provider results were confidentially disclosed at an institutional level. No such changes were seen for nondisclosed outcomes or regions outside Ontario. Further public reporting of outcomes had no discernible impact on performance. These results are consistent with the hypothesis that confidential disclosure of outcomes was sufficient to accelerate quality improvement in a public system with little competition for patients between hospitals.
+

@@ -1,0 +1,9 @@
+The objective of this work is the study of fundamental common aspects of NOx catalytic reduction over a Co/Pd-HFER zeolite catalyst, using methanol or methane as reducing agent. Temperature Programmed Surface Reaction (TPSR) studies were performed with reactant mixtures comprising NO2 and one of the reducing agents.
+
+The formation of formaldehyde was detected in both studied reactions (NO2–CH4 and NO2–CH3OH) in the temperature range between 100 and 220 °C. At higher temperature, when the NOx reduction process effectively begins, formaldehyde starts to be consumed.
+
+Using methanol as reducing agent, nitromethane and nitrosomethane, are detected. At 300 °C these species are consumed and cyanides and iso-cyanides formation occurs. On the contrary, with methane, these last species were not detected; however, there are strong evidences for CH3NO and CH3NO2 formation.
+
+Thus, using methanol or methane, similar phenomena were detected. In both cases, common intermediary species seem to play an important role in the NOx reduction process to N2.
+
+These results suggest that methanol can be considered as a reaction intermediate species in the mechanism of the reduction of NO2 with methane, over cobalt/palladium-based ferrierite catalysts.

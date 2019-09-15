@@ -1,0 +1,6 @@
+In this article, we consider a two-dimensional stochastic Navier–Stokes equation (SNSE) on a smooth
+bounded domain, driven by affine-linear multiplicative white noise and with random initial conditions and
+Dirichlet boundary conditions. The random initial condition is allowed to anticipate the forcing noise. Our
+main objective is to prove the existence and uniqueness of the solution to the SNSE under sufficient Malliavin
+regularity of the initial condition. To this end we employ anticipating calculus ideas.
+© 2013 Elsevier Inc. All rights reserved

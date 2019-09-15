@@ -1,0 +1,9 @@
+Study objective
+We compare intravenous midazolam and droperidol for the onset of sedation of acutely agitated patients in the emergency department (ED).
+Methods
+This was a double-blind, randomized, clinical trial set in the ED of a university teaching hospital. Subjects were adults, acutely agitated because of mental illness, intoxication, or both, who received midazolam or droperidol, 5 mg intravenously, every 5 minutes until sedated. We analyzed time to sedation using survival analysis, median times to sedation, and proportions sedated at 5 and 10 minutes.
+Results
+Seventy-four patients received midazolam; 79 patients, droperidol. Survival analysis showed no difference in time to sedation (hazard ratio 0.86; 95% confidence interval [CI] 0.61 to 1.23), P=.42. Median time to sedation was 6.5 minutes for midazolam (median dose 5 mg) and 8 minutes for droperidol (median dose 10 mg), P=.075 (effect size 1.5 minutes; 95% CI 0 to 4 minutes). At 5 minutes, 33 of 74 (44.6%) patients from the midazolam group were adequately sedated compared with 13 of 79 (16.5%) patients from the droperidol group, a difference of 28.1% (95% CI 12.9% to 43.4%; P<.001). By 10 minutes, 41 of 74 (55.4%) from the midazolam group were sedated compared to 42 of 79 (53.2%) from droperidol, a difference of 2.2% (95% CI −14.9% to 19.3%; P=.91). Eleven adverse events occurred in the midazolam group and 10 in the droperidol group. Three patients required active airway management (3 patients with assisted ventilation and 1 patient intubated); all received midazolam.
+Conclusion
+There is no difference in onset of adequate sedation of agitated patients using midazolam or droperidol. Patients sedated with midazolam may have an increased need for active airway management.
+

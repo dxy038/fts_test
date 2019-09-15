@@ -1,0 +1,19 @@
+In this paper, we propose a high-resolution image
+reconstruction algorithm considering inaccurate subpixel registration.
+A regularized iterative reconstruction algorithm is adopted
+to overcome the ill-posedness problem resulting from inaccurate
+subpixel registration. In particular, we use multichannel image reconstruction
+algorithms suitable for applications with multiframe
+environments. Since the registration error in each low-resolution
+image has a different pattern, the regularization parameters are
+determined adaptively for each channel.We propose two methods
+for estimating the regularization parameter automatically. The
+proposed algorithms are robust against the registration error
+noise, and they do not require any prior information about the
+original image or the registration error process. Information
+needed to determine the regularization parameter and to reconstruct
+the image is updated at each iteration step based on the
+available partially reconstructed image. Experimental results
+indicate that the proposed algorithms outperform conventional
+approaches in terms of both objective measurements and visual
+evaluation.

@@ -1,0 +1,8 @@
+Objective
+ical events extraction concerns about events describing changes on the state of bio-molecules from literature. Comparing to the protein–protein interactions (PPIs) extraction task which often only involves the extraction of binary relations between two proteins, biomedical events extraction is much harder since it needs to deal with complex events consisting of embedded or hierarchical relations among proteins, events, and their textual triggers. In this paper, we propose an information extraction system based on the hidden vector state (HVS) model, called HVS-BioEvent, for biomedical events extraction, and investigate its capability in extracting complex events.
+s and material
+s been previously employed for extracting PPIs. In HVS-BioEvent, we propose an automated way to generate abstract annotations for HVS training and further propose novel machine learning approaches for event trigger words identification, and for biomedical events extraction from the HVS parse results.
+s
+oposed system achieves an F-score of 49.57% on the corpus used in the BioNLP’09 shared task, which is only 2.38% lower than the best performing system by UTurku in the BioNLP’09 shared task. Nevertheless, HVS-BioEvent outperforms UTurku's system on complex events extraction with 36.57% vs. 30.52% being achieved for extracting regulation events, and 40.61% vs. 38.99% for negative regulation events.
+sions
+sults suggest that the HVS model with the hierarchical hidden state structure is indeed more suitable for complex event extraction since it could naturally model embedded structural context in sentences.

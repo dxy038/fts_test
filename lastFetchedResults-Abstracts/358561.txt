@@ -1,0 +1,11 @@
+Background
+Many cardiovascular epidemiologic studies rely on diagnosis codes in health care claims databases. Despite important changes in the care and diagnosis of acute myocardial infarction (AMI), the validity of hospital discharge diagnosis codes for AMI in the US Medicare system has not been recently examined. Our objective was to examine the accuracy of International Classification of Diseases—ninth revision—Clinical Modifications (ICD-9-CM) discharge diagnosis codes and diagnosis-related groups (DRG) codes for AMI in a Medicare claims database.
+Methods
+
+We sampled hospitalization episodes from Medicare beneficiaries in Pennsylvania during 1999, 2000, or both. We used Medicare data to identify patients with hospitalizations containing indicators of AMI (ICD-9-CM diagnosis codes 410.X0 and 410.X1 or DRG codes 121, 122, and 123). Hospital records for these episodes were reviewed by trained abstractors using World Health Organization criteria for diagnosing AMI. We then calculated the positive predictive value of Medicare claims-based definitions of AMI.
+Results
+
+Of 2200 hospitalization episodes with Medicare diagnosis codes suggestive of AMI, 2022 hospital records (91.9%) were obtained. The positive predictive value for a primary Medicare claims-based definition was 94.1% (95% CI, 93.0%–95.2%). Positive predictive values for alternative claims-based definitions ranged slightly, with the definition including DRG codes and length-of-stay restrictions yielding the highest positive predictive value, 95.4% (95% CI, 94.3%–96.4%). Subjects with a history of myocardial infarction had a significantly lower positive predictive value than subjects without a history of myocardial infarction (88.1% vs 94.6%, P <.001).
+Conclusions
+
+In this study, we observed high positive predictive values for a Medicare claims-based diagnosis of AMI and a diagnosis based on structured hospital record review.

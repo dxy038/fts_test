@@ -1,0 +1,11 @@
+Objective
+In chronic myeloid leukemia (CML), imatinib mesylate (IM; Gleevec, Glivec) induces a G0/G1 cell-cycle block in total CD34+ cells without causing significant apoptosis. Bryostatin-1 (bryo), a protein kinase C (PKC) modulator, was investigated for its ability to increase IM-mediated apoptosis either through induction of cycling of G0/G1 Ph+ cells or antagonism of the IM-induced cell-cycle block.
+Methods
+
+The Ph+ K562 cell line and primary CD34+ CML cells were studied for cell-cycle progression (PI staining), proliferation (3H thymidine uptake), and survival (dye exclusion).
+Results
+
+Following 48 hours exposure to IM, on average more than 80% of surviving K562 cells were in G0/G1 as compared to approximately 50% for untreated control cultures (p < 0.001). After accounting for IM-induced cell kill, the absolute number of viable G0/G1 cells was significantly increased, confirming its anti-proliferative effect. However, pretreatment for 24 hours with bryo both increased K562 total cell kill and normalized the percentage of cells recovered in G0/G1, thus reducing their absolute number. For primary CML CD34+ cells, pretreatment with bryo prior to IM significantly enhanced cell death of both total and, critically, G0/G1 populations.
+Conclusion
+
+These results suggest that carefully scheduled drug combinations that include an agent to antagonize the anti-proliferative effect of IM may prove more efficacious within the Ph+ stem cell compartment than IM monotherapy.

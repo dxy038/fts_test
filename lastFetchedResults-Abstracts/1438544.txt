@@ -1,0 +1,13 @@
+Determining Safety Integrity Level on a Hydrogen Production Unit with Application of the Layers of Protection Analysis Method
+
+
+Backgrounds and Objective: The criticality of existing hazards of chemical processes requires that several protection layers to be used against them. In this regard, applied layers efficiency and resistance analysis is a necessity. In this study the level safety of protection layers of a hydrogen production unit, has been evaluated.
+
+Materials and Methods: In order to assess the protection layers the preferred Layers of Protection Analysis method has been used. In this study, events have the severe effect, initiating causes and frequencies, Independent Protection Layers and Probability of Failure on Demand, the total probability of intermediate events and Safety Integrity Level were investigated.
+
+Results: Results showed that the essential risk reduction was ranging from 10-1 to 10-2 and a Safety Integrity Level 2 was determined as a requirement. The results also specified it was not necessary to carry out a Quantitative Risk Analysis study.
+
+Conclusion: The time consuming nature of preferred Layers of Protection Analysis method, dis show the combination of this method by a software tools may result in more efficient method and lead to more speed and precision.
+
+Keywords: Layers of Protection Analysis, Safety, Integrity, Hydrogen
+

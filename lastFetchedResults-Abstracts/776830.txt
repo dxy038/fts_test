@@ -1,0 +1,14 @@
+New comparative tests on two different types of solar collectors are presented in this paper. A standard glazed flat plate collector and
+an evacuated tube collector are installed in parallel and tested at the same working conditions; the evacuated collector is a direct flow
+through type with external compound parabolic concentrator (CPC) reflectors.
+Efficiency in steady-state and quasi-dynamic conditions is measured following the standard EN 12975-2 and it is compared with the
+input/output curves measured for the whole day.
+The first purpose of the present work is the comparison of results in steady-state and quasi-dynamic test methods both for flat plate
+and evacuated tube collectors. Beside this, the objective is to characterize and to compare the daily energy performance of these two types
+of collectors. An effective mean for describing and analyzing the daily performance is the so called input/output diagram, in which the
+collected solar energy is plotted against the daily incident solar radiation. Test runs have been performed in several conditions to reproduce
+different conventional uses (hot water, space heating, solar cooling).
+Results are also presented in terms of daily efficiency versus daily average reduced temperature difference: this allows to represent the
+comparative characteristics of the two collectors when operating under variable conditions, especially with wide range of incidence
+angles.
+  2010 Elsevier Ltd. All rights reserved

@@ -1,0 +1,19 @@
+Objective: OCT4B1, a novel variant of OCT4, is expressed in cancer cell lines and tissues.
+Based on our previous reports, OCT4B1 appears to have a crucial role in regulating
+apoptosis as well as stress response [heat shock proteins (HSPs)] pathways. The aim of
+the present study was to determine the effects of OCT4B1 silencing on the expression of
+high molecular weight HSPs in three different human tumor cell lines.
+Materials and Methods: In this experimental study, OCT4B1 expression was suppressed
+in AGS (gastric adenocarcinoma), 5637 (bladder tumor) and U-87MG (brain tumor) cell
+lines using RNAi strategy. Real-time polymerase chain reaction (PCR) array was employed
+for expression level analysis and the fold changes were calculated using RT2 Profiler
+PCR array data analysis software version 3.5.
+Results: Our data revealed up-regulation of HSPD1 (from HSP60 family) as well as
+HSPA14, HSPA1L, HSPA4, HSPA5 and HSPA8 (from HSP70 family) following OCT4B1
+knock-down in all three cell lines. In contrast, the expression of HSP90AA1 and HSP-
+90AB1 (from HSP90 family) as well as HSPA1B and HSPA6 (from HSP70 family) was
+down-regulated under similar conditions. Other stress-related genes showed varying expression
+pattern in the examined tumor cell lines.
+Conclusion: Our data suggest a direct or indirect correlation between the expression of
+OCT4B1 and HSP90 gene family. However, OCT4B1 expression was not strongly correlated
+with the expression of HSP70 and HSP60 gene families.

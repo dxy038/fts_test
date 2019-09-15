@@ -1,0 +1,11 @@
+Objective
+To investigate the mechanisms of antiproliferative effect induced by the mammalian target of rapamycin (mTOR) inhibitor temsirolimus in mantle cell lymphoma (MCL).
+Materials and Methods
+
+The antiproliferative effect of temsirolimus on three well-defined MCL cell lines was examined by the MTS assay. Induction of cell-cycle arrest, autophagy, and apoptosis were determined by fluorescence-activated cell sorting analysis. The molecular mechanisms underlining these effects were determined by Western blot. Synergy between temsirolimus and vorinostat were examined by MTS assay and the combination index was calculated.
+Results
+
+Temsirolimus has antiproliferative activity in three MCL cell lines in a dose- and time-dependent manner. Mechanistically, temsirolimus inhibited mTOR, as evidenced by inhibition of ribosomal S6 phosphorylation, and induced cell-cycle arrest in the G0/G1 phase and a decrease in p21 expression without altering p27 or cyclin D1 levels. Furthermore, temsirolimus increased the number of acidic vesicular organelles and the amount of microtubule-associated protein 1 light-chain 3 processing, which are characteristic of autophagy, without induction of apoptosis. These changes were not associated with alteration in phosphorylated extracellular signal-regulated kinase (ERK), beclin-1, Bax, or Bak levels. In contrast, treatment of these cell lines with the histone deacetylase inhibitor vorinostat decreased ERK phosphorylation, activated caspase 3, and induced apoptosis. Moreover, temsirolimus synergized with submaximal concentrations of vorinostat in all MCL cell lines.
+Conclusion
+
+This is the first report of temsirolimus-induced autophagy in MCL, and of vorinostat inhibition of ERK phosphorylation in MCL. Collectively, these data suggest that the combination of temsirolimus and vorinostat have synergistic antiproliferative activity in MCL cells by distinctively targeting apoptosis and autophagy.

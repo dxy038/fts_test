@@ -1,0 +1,11 @@
+Objective
+Human cord blood (CB) is a potential source of hematopoietic stem cells (HSC) for gene therapy to treat patients with hematopoietic disorders. However, limited numbers of CB CD34+ cells, low transduction efficiency with lentiviral vectors (LVs), and low engraftment efficiency of nonobese diabetic/severe combined immunodeficient (NOD/SCID) repopulating cells (SRC), a measure of HSC, are blocks to this procedure. To optimize culture and transduction conditions, we compared various lengths of time for prestimulation before transduction, transduction duration, and posttransduction cell culture.
+Materials and Methods
+
+We used a LV to transduce human CB CD34+ cells followed by engraftment into NOD/SCID mice. We evaluated the effects of prestimulation and transduction time and optimized ex vivo cell culture duration before transplantation.
+Results
+
+We were able to achieve up to 40% transduction efficiency and up to 50% engraftment efficiency of SRC in CB CD34+ cells when CB CD34+ cells were either not prestimulated or prestimulated in 1% fetal bovine serum medium for 1 hour, followed by 5 hours transduction and 3 days culture in a cocktail of growth factors after transduction. No apparent functional changes of CB CD34+ cells were noted under these conditions.
+Conclusion
+
+This gene-transduction/cell-expansion protocol is the first systematic study to optimize prestimulation time, transduction time, and, very importantly, ex vivo culture time after transduction, and may be of use for LV gene transduction in a gene therapy setting.

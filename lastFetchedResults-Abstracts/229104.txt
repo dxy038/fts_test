@@ -1,0 +1,13 @@
+There is an increasing demand for human body motion data. Motion capture and physical animation have been
+used to generate such data. It is, however, apparent that such methods cannot automatically generate arbitrary
+human body motions. A human body is a redundantmulti-linked body controlled by a number of muscles. For this
+reason, the muscles must work appropriately and cooperatively for controlling the whole body. It is well-known
+that the human body control system is composed of two parts: The open-loop feed-forward control system and
+the closed-loop feedback control system. Many researchers have investigated the characteristics of the latter by
+analyzing the response of a human body to various external perturbations. However, for the former, very few
+studies have been done. This paper proposes an open-loop feed-forward model of of the lower extremities which
+includes postural control for accurate animation of a human body. Assumptions are made here that the feedforward
+controller minimizes a certain objective value while keeping the balance of the body stable. The actual
+human motion data obtained using a motion capturing technique is compared with the trajectory calculated using
+our method for verification. The best criteria which is based on muscle dynamics is proposed.Using our method,
+dynamically correct human animation can be created by merely specifying a few key postures

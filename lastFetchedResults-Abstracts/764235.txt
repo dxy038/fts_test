@@ -1,0 +1,8 @@
+Actual evapotranspiration is one of the most important components of the water balance equation that is hard to estimate due to need of huge data. The use of remote sensing technology allows retrieving spatial data and minimizing meteorological data and is an efficient approach to overcome this problem. Different methods have been suggested for this task, so far. However, rare studies are available to compare their performances. This issue constructs objective of the present study. To end this three different schemes have been tested including 1) the widely used one-source SEBAL and METRIC models, where soil and vegetation are considered as a sole source, 2) the two-sources TSEB and STSEB models, where soil and vegetation components of the surface energy balance are treated separately and 3) one-two source SETEB model, which is a combination of the SEBAL and TSEB algorithms. In order to implement and evaluate the models, MODIS remote sensing data were acquired on 6 days of July 2011 and simultaneously Lysimeter observations of Tabriz University experimental farm on the similar days were recorded while the Tera satellite was passing the region. The results revealed acceptable and close estimations of ETA by the methods. Nevertheless, the highest and lowest performances were belonged to SETEB and TSEB with absolute error (MAPD) of 8.73 and 27.94, respectively. Despite the complexity of the two sources models, SEBAL and METRIC with simpler methodology resulted proper estimation of ETA that makes them suitable for large-scale studies. The SETEB also gains this simplicity aspect and recommendable for basin scale application.
+
+
+
+
+
+Keywords: Actual evapotranspiration, Remote Sensing, Fluxes Energy Models, MODIS.
+

@@ -1,0 +1,11 @@
+The objective of the work reported is to study the effect of wavelength and the material removal mechanisms of a laser
+process for removing copper oxide from copper. The removal of copper oxide is necessary in electronics device fabrication
+in order to improve the surface wetability and so achieve a good quality solder joint. Such a laser cleaning process could be
+incorporated into an existing laser soldering process. The effect of Q-switched Nd:YAG radiation at 1064 nm, 532 nm and
+266 nm the first, second and fourth Nd:YAG harmonics.on the oxidised surface of a copper alloy foil was studied with
+increasing fluence. The laser-treated surfaces were characterised using optical microscopy, scanning electron microscopy
+ SEM., and static secondary ion mass spectroscopy SSIMS.. Successful oxide removal was achieved at all wavelengths
+above certain thresholds that defined the lower end of the process operating window for single-pulse operation. The ablation
+mechanisms involved in the removal of copper oxide from copper at 1064 nm, 532 nm and 266 nm were found to combine
+both thermal and mechanical effects, the surface melting first occurring at fluences lower than those at which cleaning is
+initialised. q1998 Elsevier Science B.V.

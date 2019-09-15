@@ -1,0 +1,9 @@
+In this paper we consider the single machine scheduling problems with time-dependent deterioration
+and exponential learning effect, i.e., the actual processing time of a job depends not only on the processing
+times of the jobs already processed but also on its scheduled position. We consider the following
+objective functions: the makespan, the sum of the dth ðd P 0Þ power of job completion times, the total
+weighted completion time and the maximum lateness. We show that the makespan minimization problem,
+the sum of the dth power of job completion times minimization problem can be solved by the smallest
+(normal) processing time first (SPT) rule, respectively. We also show that the total weighted
+completion time minimization problem and the maximum lateness minimization problem can be solved
+in polynomial time under certain conditions.

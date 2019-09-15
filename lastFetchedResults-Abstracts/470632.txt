@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to evaluate the prevalence of labor dystocia and its association with interpregnancy interval.
+Study design
+We linked the birth data for Michigan infants who were born from 1994 to 2002 with the hospital discharge data. The International Classification of Diseases (9th revision, clinical modifications, ICD-9-CM) codes that indicate labor dystocia were identified by a physician panel and classified as functional and mechanical dystocia. We estimated the prevalence of labor dystocia and used stratified and logistic regression analyses to evaluate labor dystocia in relation to interpregnancy interval, controlling for other reproductive risk factors.
+Results
+Overall, 20.8% of the births involved labor dystocia (11.1% functional; 12.5% mechanical). Both functional and mechanical dystocia were more prevalent in first births than in subsequent births; mechanical dystocia was more prevalent in multiple births than in singleton births. In singleton births to multiparous mothers, labor dystocia was associated with the interpregnancy interval in a dose-response fashion. Compared with an interpregnancy interval of <2 years, the adjusted odds ratios that was associated with interpregnancy intervals of 2 to 3, 4 to 5, 6 to 7, 8 to 9, and 10+ years were 1.06 (95% CI, 1.04-1.08), 1.15 (95% CI, 1.12-1.17), 1.25 (95% CI, 1.21-1.29), 1.31 (95% CI, 1.26-1.37), and 1.50 (95% CI, 1.45-1.56), respectively, when we controlled for other reproductive risk factors. Functional dystocia was associated more strongly with interpregnancy interval than mechanical dystocia.
+Conclusion
+Labor dystocia is common. In singleton births to multiparous mothers, labor dystocia increased with interpregnancy interval.
+

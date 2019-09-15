@@ -1,0 +1,1 @@
+In this paper we investigate how neural fields can produce an elegant solution for the problem of moving multiple robots in formation. The objective is to acquire a target, avoid obstacles and keep a geometric configuration at the same time. Several formations for a team of three robots are considered.

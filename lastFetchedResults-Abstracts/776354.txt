@@ -1,0 +1,12 @@
+The objective of this work is to theoretically and experimentally investigate the flow and temperature distribution in a solar collector
+panel with an absorber consisting of horizontally inclined strips. Fluid flow and heat transfer in the collector panel are studied by means
+of computational fluid dynamics (CFD) calculations. Further, experimental investigations of a 12.5 m2 solar collector panel with 16 parallel
+connected horizontal fins are carried out. The flow distribution through the absorber is evaluated by means of temperature measurements
+on the backside of the absorber tubes. The measured temperatures are compared to the temperatures determined by the
+CFD model and there is a good similarity between the measured and calculated results.
+Calculations with the CFD model elucidate the flow and temperature distribution in the collector. The influences of different operating
+conditions such as flow rate, properties of solar collector fluid, solar collector fluid inlet temperature and collector tilt angle are
+shown. The flow distribution through the absorber fins is uniform if high flow rates are used. By decreased flow rate and decreased content
+of glycol in the glycol/water mixture used as solar collector fluid, and by increased collector tilt and inlet temperature, the flow distribution
+gets worse resulting in an increased risk of boiling in the upper part of the collector panel.
+  2007 Elsevier Ltd. All rights reserved

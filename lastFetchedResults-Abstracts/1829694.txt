@@ -1,0 +1,8 @@
+Purpose
+diagnosis is critical for improving the outcome of patients with renal cell carcinoma (RCC). In this study, we applied a proteomic approach to identify serum biomarkers associated with different stages of renal tumor development.
+als and methods
+otein expression profiles in patient serum samples were analyzed using surface enhanced laser desorption/ionization time-of-flight mass spectroscopy (SELDI-TOF-MS). The subjects included 65 patients with renal cell carcinomas, 34 with benign renal tumors, and 69 normal controls. A diagnostic decision tree was developed and validated based on the differentially expressed proteins between the serum of patients with small (⩽3 cm) RCC tumors and normal controls.
+s
+mbers of proteins differentially expressed in the serum samples were 29 between the patients with RCC and normal controls, 18 between patients with RCC and benign renal tumors, and 35 between patients with small RCC tumors and normal controls, respectively. The diagnostic decision tree generated from the differentially expressed proteins between patients with small RCC tumors and normal controls proved efficient in the early diagnosis of renal cell carcinoma, with a sensitivity of 81.8% and specificity of 100%. The eukaryotic initiation factor 2B delta subunit (eIF2B-delta) was identified as the most highly up-regulated protein in the serum of patients with RCC.
+sions
+TOF-MS is a simple, sensitive and highly reproducible technique that can be used to identify serum biomarkers. The serum biomarkers identified by this study may facilitate early diagnosis of RCC and offer new targets for mechanistic understanding and clinical therapy of this disease.

@@ -1,0 +1,11 @@
+Objective
+In utero hematopoietic cell transplantation (IUHCT) typically achieves low-level mixed hematopoietic chimerism. However, the goal of IUHCT is to achieve therapeutic levels of chimerism. We hypothesized that prenatal adoptive immunotherapy might achieve high-level donor chimerism after IUHCT.
+Materials and methods
+
+BALB/CE15 fetal mice were transplanted with a mixture of C57BL/6 (B6) T-cell–depleted bone marrow (TCD BM) cells and splenocytes from B6 mice presensitized to BALB/C alloantigen. The splenocytes were preincubated in L-leucyl-L-leucine methyl ester (LLME), to minimize graft vs host disease (GVHD). Recipients were followed after birth for donor cell chimerism and GVHD.
+Results
+
+Full donor hematopoietic chimerism following a single prenatal transplant was achieved in seven transplanted animals. Fully chimeric animals were healthy, without evidence of GVHD, and maintained their engraftment for the duration of the study (48 weeks). However, the addition of presensitized LLME-treated cells decreased survival until weaning relative to TCD BM alone, suggesting that some animals were lost to acute GVHD. Surviving chimeric animals demonstrated increased frequencies of T-regulatory cell populations in their spleen and BM, suggesting that they had successfully suppressed GVHD, allowing survival.
+Conclusions
+
+This study represents “proof in principle” that prenatal immunotherapeutic strategies may achieve complete hematopoietic engraftment across full MHC barriers when combined with IUHCT. However, strategies with greater hematopoietic specificity must be developed prior to consideration of clinical application.

@@ -1,0 +1,8 @@
+Objective
+e previously demonstrated that the mechanism of nifedipine (NIF)-induced gingival overgrowth is related to the observation that proliferation and cell cycle progression of gingival fibroblasts derived from NIF reactive patient (NIFr) are greater than those from NIF non-reactive patient (NIFn). Gingival overgrowth has also been reported to be a result of inhibited apoptosis of gingival fibroblasts. Apoptosis in fibroblasts is induced by lipopolysaccharide (LPS). Thus, we focused upon evaluating whether there is a difference in LPS-induced apoptosis between NIFn and NIFr.
+s
+IFn and NIFr were arrested in DMEM containing 0.5% FBS, stimulated by LPS, and assayed for apoptosis, cell cycle analysis, Western blotting, and caspase activity.
+s
+ed to NIFn, the number of apoptotic cells was significantly decreased and the percentage of cells in S and G2/M phase was significantly increased in NIFr. The levels of Bax and cytochrome c proteins in NIFr were not up-regulated by LPS compared with NIFn. Both NIFn and NIFr displayed the following changes in protein expression: increased Bad, decreased Bcl-xL, and unchanged Bcl-2 and p53. Caspase-3 and -9 activities were significantly increased by LPS in NIFn but were unchanged in NIFr. Caspase-2 activity remained constant whilst caspase-8 activity significantly increased upon LPS treatment in both NIFn and NIFr.
+sion
+ax, cytochrome c, p53, and caspases-2, -3, -8, and -9 are pro-apoptotic proteins. Bcl-2 and Bcl-xL are anti-apoptotic proteins. Thus, the mechanism of NIF-induced gingival overgrowth might be related to decreased apoptosis in NIFr through a reduction of Bax, cytochrome c, and caspase-3 and -9.

@@ -1,0 +1,11 @@
+Objective
+The immune-mediated effect of natural killer (NK) and cytotoxic T cells against residual tumor cells previously was shown to prevent relapse and reinduce remission after bone marrow transplantation. Human umbilical cord blood is a rich source of cytotoxic CD56+ cells including fetal NK cells (CD16−CD56+1) with high lytic capabilities upon activation with interleukin-2 (IL-2). Cord blood transplantations are reported to be associated with lower risk of graft-vs-host disease, which may jeopardize the graft-vs-leukemia effect. Therefore, our goal was to expand and amplify, ex vivo, cord blood-derived CD56+ cell-mediated cytotoxic activity.
+Materials and Methods
+
+Cord blood-derived CD56+ cells were separated using anti-CD56 monoclonal antibody and immunomagnetic beads. The cells were expanded in the presence of irradiated feeder cells and various concentrations of IL-2.
+Results
+
+Maximal fold expansion (152 ± 29) was achieved on day 22 by culturing the cells in the presence of irradiated autologous lymphocytes. Irradiated murine stromal cells yielded 42 ± fourfold expansion (p < 0.05). FACS analysis at the peak of expansion revealed that the cells were 96% ± 1% CD56+. Interferon-γ levels significantly decreased throughout the culture period (from 1,034 ± 34 pg/mL to 21 ± 8 pg/mL) as did IL-6 levels (from 11,535 ± 1,452 pg/mL to 323 ± 161 pg/mL) whereas tumor necrosis factor-α levels did not change. The expanded cells manifested potent lytic capabilities against K562 and Colo-205 cell lines (70.9% ± 2.0% and 48.2% ± 4.0%, respectively) (n = 5) (effector-to-target ratio 25:1). Coculturing the expanded NK cells with fresh ALL blasts resulted in 85% ± 1% inhibition of colony growth in methylcellulose (n = 2). In addition, the CD56+ expanded cells induced 44% ± 7.5% apoptosis of K562 target cells (n = 3).
+Conclusions
+
+It is possible to effectively expand cord blood-derived CD56+ cells, ex vivo, while maintaining their antileukemic capablilities.

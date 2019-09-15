@@ -1,0 +1,3 @@
+This paper proposed a new routing protocol named Ant-based Stable Weight Routing Protocol (ASWRP). This protocol is a combination of Ant-based Routing Algorithm (ARA) and Stable Weight Routing Protocol (SWRP) with multi-route capability, which uses a weight-based solution in order to choose a stable path to enhance efficiency. In this algorithm, the weight of each link is defined based on three factors including expiration time of link, amount of pheromone and hop count. The objective of this protocol is to use intelligent algorithm of ant and a weight-based algorithm in order to recognize and use routes with higher stability and reach a lower number of lost packets. Simulation results show that the efficiency of ASWRP is much higher than that of SWRP.
+
+

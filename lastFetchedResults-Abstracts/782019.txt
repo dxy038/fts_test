@@ -1,0 +1,20 @@
+Laboratory analyses represent a key element in veterinary medicine diagnosis providing
+objective information about the health status of a patient. Analytic data are interpreted by
+comparing them with a specific reference intervals previously determined on a reference
+population of healthy animals. The International Federation of Clinical Chemistry recommends
+the use of nonparametric methods and, as a consequence, a reference sample of at
+least 120 healthy subjects, to obtain reliable reference intervals. Such order of magnitude for
+the reference sample is not always feasible especially if the laboratory variable under study
+is affected by several sources of variation, e.g., environmental conditions, physiological status
+of the animal, age, or gender.Aconvenientmethod to estimate reference intervals should
+be able to avoid assumptions on the probability distribution of the considered variable and
+produce robust results even with a limited sample size.
+This study presents a new statistical approach, based on data bootstrap, to estimate reference
+intervals for 12 blood biochemical variables in Sarda dairy sheep. The method was
+applied to real and simulated data from 120 to 40 animals. The reference intervals calculated
+with the new method remained quite constant as sample size decreased from 120
+down to 60 animals, and became wider with fewer individuals. So, a minimum threshold of
+60 animals could be considered a good limit to obtain reliable reference intervals for blood
+biochemical variables in Sarda dairy sheep. Moreover, comparisons between results from
+real and simulated data suggested that the method could be also applied to other laboratory
+variables.

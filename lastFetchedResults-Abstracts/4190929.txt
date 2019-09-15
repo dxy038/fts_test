@@ -1,0 +1,1 @@
+This paper presents a sufficient condition for the existence, uniqueness and global robust asymptotic stability of the equilibrium point for bidirectional associative memory (BAM) neural networks with discrete time delays. Some numerical examples are given to compare our results with the previous robust stability results derived in the literature.

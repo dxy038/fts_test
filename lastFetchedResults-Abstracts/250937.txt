@@ -1,0 +1,11 @@
+The calibration of constitutive models is based on the solution of an optimization problem, whereby the
+sought parameter values minimize an objective function that measures the discrepancy between experimental
+observations and the corresponding simulated response. By the introduction of an appropriate
+adjoint problem, the resulting formulation becomes well suited for a gradient-based optimization scheme.
+A class of viscoelastic models is studied, where a discontinuous Galerkin method is used to integrate the
+governing evolution equation in time. A practical solution algorithm, which utilizes the time-flow structure
+of the underlying evolution equation, is presented. Based on the proposed formulation it is convenient to
+estimate the sensitivity of the calibrated parameters with respect to measurement noise. The sensitivity
+is computed using a dual method, which compares favourably with the conventional primal method. The
+strategy is applied to a viscoelasticity model using experimental data from a uniaxial compression test.
+Copyright q 2006 John Wiley & Sons, Ltd.

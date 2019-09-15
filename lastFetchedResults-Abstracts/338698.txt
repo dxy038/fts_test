@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DC) are professional antigen-presenting cells playing a pivotal role in the induction of immunological responses. There is evidence that DC survival during ongoing immune responses is finite. However, little is known about the mechanisms regulating apoptosis in these cells. Here, we have investigated the effects of the anti-inflammatory cyclopentenone prostaglandins on human monocyte-derived DC.
+Materials and Methods
+
+Phenotype of DC was determined by flow cytometry and their allostimulatory potential in mixed leukocyte reaction. Induction of apoptosis in DC was monitored by staining with annexin-V-FITC and propidium iodide, propidium iodide staining of cell nuclei, and fluorimetric assay of caspase activity. Induction of maturation in DC was obtained by stimulation with TNF-α, LPS, IFN-γ, CD40-ligand, or different combinations of these stimuli. PPAR-γ expression in DC was determined by RT-PCR.
+Results
+
+Exposure of immature DC to cyclopentenone prostaglandins blunted their allostimulatory capacity and skewed their phenotype by downregulating CD1a and costimulatory molecules. These effects were due to activation of caspases and induction of apoptotic cell death in DC by cyclopentenone prostaglandins. Mature DC showed enhanced susceptibility to apoptosis via cyclopentenone prostaglandins as compared with immature DC. Although DC express PPAR-γ, the corresponding receptor for some of these metabolites, PPAR-γ activation by a synthetic high-affinity agonist failed to impair DC viability.
+Conclusions
+
+Cyclopentenone prostaglandins induce apoptosis of human DC by a PPAR-γ-independent mechanism. Since these compounds are released during an inflammatory event and show anti-inflammatory properties, they may contribute to the downregulation of DC function through apoptotic cell death.

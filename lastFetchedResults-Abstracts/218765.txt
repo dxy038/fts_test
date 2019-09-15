@@ -1,0 +1,8 @@
+The objective of this study was to develop a thermal model that can be used for prediction of saffron
+flowering time. For this pwpose, existing data on saffron flower emergence time were collected in a wide range
+of temperature regimes over the saffron production regions of Khorasan province, Iran. Linear second-order
+polynomial and 5-parameter beta models were used and statistically compared for their ability in predicting
+saffron flowering time as a function of temperature. The results showed a significant delay in flowering date
+across the temperature gradient. While beta model had a better statistical performance but the simple linear
+model also showed a good predicting ability and therefore, can be used as a reliable model.
+

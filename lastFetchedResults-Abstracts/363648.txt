@@ -1,0 +1,9 @@
+Study objective
+To develop software that categorizes electronic head computed tomography (CT) reports into groups useful for clinical decision rule research.
+Methods
+Data were obtained from the Second National Emergency X-Radiography Utilization Study, a cohort of head injury patients having received head CT. CT reports were reviewed manually for presence or absence of clinically important subdural or epidural hematoma, defined as greater than 1.0 cm in width or causing mass effect. Manual categorization was done by 2 independent researchers blinded to each other’s results. A third researcher adjudicated discrepancies. A random sample of 300 reports with radiologic abnormalities was selected for software development. After excluding reports categorized manually or by software as indeterminate (neither positive nor negative), we calculated sensitivity and specificity by using manual categorization as the standard. System efficiency was defined as the percentage of reports categorized as positive or negative, regardless of accuracy. Software was refined until analysis of the training data yielded sensitivity and specificity approximating 95% and efficiency exceeding 75%. To test the system, we calculated sensitivity, specificity, and efficiency, using the remaining 1,911 reports.
+Results
+Of the 1,911 reports, 160 had clinically important subdural or epidural hematoma. The software exhibited good agreement with manual categorization of all reports, including indeterminate ones (weighted κ 0.62; 95% confidence interval [CI] 0.58 to 0.65). Sensitivity, specificity, and efficiency of the computerized system for identifying manual positives and negatives were 96% (95% CI 91% to 98%), 98% (95% CI 98% to 99%), and 79% (95% CI 77% to 80%), respectively.
+Conclusion
+Categorizing head CT reports by computer for clinical decision rule research is feasible.
+

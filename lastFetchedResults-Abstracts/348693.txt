@@ -1,0 +1,11 @@
+Objective
+Electrical stimulation of the median nerve followed by a magnetic pulse on the primary motor cortex (M1) is effective to cause an increase in the amplitude of motor evoked potential (MEP) registered in the target muscle with the interstimulus interval (ISI) at 25 ms (paired associative stimulation, PAS). The aim of this study is to evaluate the reproducibility of PAS with ISI 25 (PAS25), assessed in two separate sessions. Intraindividual reliability of TMS measures was also evaluated.
+Methods
+Motor threshold of abductor pollicis brevis (APB), assessed at rest, and MEP amplitude of APB and abductor digiti minimi (ADM) were assessed before and after PAS25 in 18 healthy volunteers (nine males and nine females).
+Results
+Data showed a significant increase of MEP amplitude in the target muscle (APB) after PAS25 and a reproducibility of group effect in the two sessions, as assessed by ANOVA, but a lack of intraindividual reliability, as assessed by intraclass correlation coefficients (ICC).
+Conclusions
+The results underline the reproducibility of mean effects and the need to be careful when comparing the same subject on different days.
+Significance
+Electrical stimulation of the median nerve followed by a magnetic pulse delivered on M1 after 25 ms causes a reproducible increase in MEP amplitude, without showing an acceptable intraindividual reliability.
+

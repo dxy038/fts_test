@@ -1,0 +1,14 @@
+This  paper  deals  with  a  multi-objective  integrated  inventory  model  to
+coordinate a two-stage supply chain including a single buyer and multiple vendors. The earlier work 
+on the problem is limited to considering only one type of discount. This paper extends the problem 
+under the multiple quantity discount environment. We try to minimize the system cost, number of 
+defective items, number of late delivered items and maximize the total purchasing value. Numerical 
+examples are presented to provide some insights into the proposed model and different discount 
+schemes. Results obtained from sensitivity analysis show that changes in unit prices have a 
+relatively large effect on the objective function; as the upper bounds of discount intervals are 
+reduced, the value of objective function decreases. It is also seen that the order quantity from 
+the suppliers increases as the number of suppliers offering all unit quantity discounts increases.  
+In addition, we use a solution approach that is not used by previous studies on this problem, and 
+the obtained results show that the DE algorithm, proposed in this study, outperforms the PSO 
+proposed by Kamali et al.  1] in both solution quality and computational time.
+

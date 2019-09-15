@@ -1,0 +1,1 @@
+In this paper, a controller reduction approach based on the closed-loop controllability and observability gramians is proposed. The motivation is to preserve the input/output relationship of the closed-loop system while the order of the controller is reduced. A structured transformation on the gramians employed to achieve this objective.

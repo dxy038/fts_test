@@ -1,0 +1,11 @@
+Objective
+We sought to determine temporal patterns of functional connectivity between the parietal, premotor, and motor cortices during preparation and execution of praxis hand movements.
+Methods
+Normal subjects were instructed to perform six transitive (tool use) and intransitive (communicative gesture) self-paced pantomimes with the right hand while recording 64-channel electroencephalography (EEG) and electromyography (EMG) from right thumb and forearm flexors. Focusing on corticocortical coherence, we explored the time-course of synchronously active parietal and premotor circuits involved in these motor tasks. Trials were marked for EMG onset and averaged across subjects to determine changes in coherence relative to baseline between parietal, premotor, and motor areas.
+Results
+Coherence of homologous electrode pairs was similar when comparing transitive and intransitive movements. During preparation, beta band (18–22 Hz) coherence was maximal between electrodes over the left parietal lobe and left premotor electrodes. Additionally during preparation, the premotor area showed high coherence to the motor hand area and the parietal cortex. Electrodes over the supplementary motor area also showed coherence to the motor and parietal, but not the premotor area. Before and during execution, a second peak of high coherence increase was present in each area that demonstrated coherence increases during preparation. There was no coherence increase between parietal and motor areas. Coherence rapidly diminished 1.5–2.0 s after movement onset.
+Conclusions
+Patterns of increased corticocortical coupling within a parietal, premotor, and motor network are present during preparation and execution of praxis movements.
+Significance
+This study adds to evidence that parietofrontal networks may be critical for integrating preparatory and motor-related activity for praxis movements
+

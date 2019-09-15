@@ -1,0 +1,11 @@
+Objective. To describe a gauging device for electrogoniometer sensors and to evaluate the reliability and accuracy of different sensors including two similar sensors.
+
+Design. Repeated measurement design for reliability.
+
+Background. Despite being considered reliable equipment, several aspects of electrogoniometer reliability and accuracy have not been reported so far.
+
+Method. Five repeated measurements of each electrogoniometer sensor were performed in 1° increments, during the whole uniplanar amplitudes of flexion, extension, lateral deviations and rotational movements, totaling 6380 measurements.
+
+Results. Values from the coefficient of variation and mean square error, respectively indicated that the reliability and accuracy of the sensors varied between sensors and movements, with goniometers being more reliable and accurate than torsiometers. A significant difference between identical sensors was identified.
+
+Conclusions. No similar pattern of variation was found between the sensors evaluated, indicating that every sensor should be tested for its reliability and accuracy when highly precise measurements are needed, and particularly when bilateral limbs are being compared.

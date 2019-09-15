@@ -1,0 +1,1 @@
+We present an efficient algorithm for mapping a virtual optical network topology onto a physical multi-domain optical network with the objective of minimizing the total network link cost.

@@ -1,0 +1,7 @@
+Given a sequence of functions bounded in L1  0  1  , is it possible to extract a
+subsequence that is pointwise bounded almost everywhere? The main objective of
+this note is to present an example showing that this is not possible in general. We
+will also prove a pair of positive results. We show that if the sequence of functions
+consists of multiples of characteristic functions of measurable sets, the answer is yes.
+We also show that it is always possible to extract a subsequence that is pointwise
+bounded on a countable, dense set of points

@@ -1,0 +1,11 @@
+Objective
+To examine the relationship between coil–cortex distance and effective cortical stimulation using transcranial magnetic stimulation (TMS) in the left and right motor cortex. We also compare the effect of coil–cortex distance using 50 and 70 mm figure-eight stimulating coils.
+Methods
+Coil–cortex distance was manipulated within each participant using 5 and 10 mm acrylic separators placed between the coil and scalp surface. The effect of cortical stimulation was indexed by resting motor threshold (MT).
+Results
+Increasing distance between the coil and underlying cortex was associated with a steep linear increase in MT. For each additional millimetre separating the stimulating coil from the scalp surface, an additional  2.8% of absolute stimulator output ( 0.062 T) was required to reach MT. The gradient of the observed distance effect did not differ between hemispheres, and no differences were observed between the 50 and 70 mm TMS coils.
+Conclusions
+Coil–cortex distance directly influences the magnitude of cortical stimulation in TMS. The relationship between TMS efficacy and coil–cortex distance is well characterised by a linear function, providing a simple and effective method for scaling stimulator output to a distance adjusted MT.
+Significance
+MT measured at the scalp-surface is dependent on the underlying scalp–cortex distance, and therefore does not provide an accurate index of cortical excitability. Distance-adjusted MT provides a more accurate index of cortical excitability, and improves the safety and efficacy of MT-calibrated TMS.
+

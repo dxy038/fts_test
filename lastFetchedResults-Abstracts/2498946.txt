@@ -1,0 +1,6 @@
+Background: Leachate produced by waste disposal sites can be contaminating groundwater. The contamination vulnerability and groundwater protection assessment has proved to be an effective tool for the delineation of protection zones in area affected by groundwater contamination.
+The main objective of the study is to evaluate aquifer pollution vulnerability in the new waste disposal site leachate Isfahan city using DRASTIC model combine with GIS. 
+Methods: In order to conduct research Seven hydro-geological factors consist of Depth of water, net Recharge, Aquifer media, Soil media, Topography, Impact of vadose zone and hydraulic Conductivity are incorporated into DRASTIC model and the ArcGIS 9.3 were used to create a groundwater vulnerability map by overlaying the available hydro-geological data.
+Findings: The study shows that The DRASTIC scores obtained from the model vary from 115, 126, 130 and the contamination of aquifer potential by landfill leachates is medium 
+Conclusion: The DRASTIC method is valuable to assess the potential contamination of groundwater by leachate from the landfill site. GIS is a useful tool for local authorities are responsible for municipal solid waste disposal management.
+

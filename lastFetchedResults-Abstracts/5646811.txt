@@ -1,0 +1,1 @@
+A maximum likelihood formulation of the problem of determining the blur directly from the degraded image itself is discussed. The ultimate objective is restoration of images degraded by unknown blurs by first identifying the blur, and then estimating the original via a recursive restoration procedure.

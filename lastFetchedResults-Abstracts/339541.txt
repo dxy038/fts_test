@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DC) play a critical role in establishment and maintenance of central and peripheral tolerance. Despite intensive research, our knowledge of the molecular mechanisms regulating DC development and function is limited, thus hindering our ability to generate appropriate DC populations for manipulating immune tolerance. We utilized mice deficient in the SH2-containing inositol-5-phosphatase (SHIP) to examine the role of cytokine signaling in DC development and function.
+Methods
+
+We analyzed the phenotype of both primary and bone marrow (BM)-derived DC (BMDC) using flow cytometry. In addition, cytokine production was measured using cytometric bead arrays and the ability of DC to induce allogeneic T-cell proliferation was assessed using thymidine incorporation assays.
+Results
+
+We demonstrated that spleen DC isolated from SHIP-deficient mice are increased in number and have an altered phenotype. In vitro analyses revealed that SHIP-deficient BM cells give rise to a higher frequency of myeloid, but not plasmacytoid, DC due to both an increased progenitor frequency and enhanced cytokine sensitivity. The BMDC exhibit an altered phenotype that correlates with a reduced capacity to induce allogeneic T-cell proliferation. Addition of interleukin-6 to WT BM cultures during DC differentiation partially induces a KO phenotype.
+Conclusion
+
+These studies suggest that myeloid and plasmacytoid DC progenitors are differentially sensitive to signaling pathways in which SHIP is involved. Moreover, they suggest that interleukin-6 may have an important role in regulating the phenotype and function of myeloid DC.

@@ -1,0 +1,11 @@
+Objective
+In vivo, several drugs have been shown to increase fetal hemoglobin (HbF), including 5-azacytidine (AZA), sodium butyrate (SB), and hydroxyurea (HU). Studies in K562 cells suggest that cyclic guanosine monophosphate (cGMP) is required for HbF induction; however, the role of cyclic nucleotides in HbF induction in primary erythroid cultures has not been established.
+Methods
+
+CD34-selected peripheral blood monocytes cultured in a semi-solid serum-free system that mimics in vivo F-cell production are utilized to explore the role of cyclic adenosine monophosphate (cAMP) and cGMP in HbF induction in response to HU, AZA, and SB.
+Results
+
+In serum-free CD34 cultures, HU, SB, and AZA all markedly stimulate FNRBC production up to 30-fold, associated with induction of γ-globin mRNA and total HbF protein. Guanylate cyclase inhibition results in only minimal blunting of HbF induction by each agent. In contrast, adenylate cyclase inhibition markedly reduces HU, SB, and AZA-mediated FNRBC induction and γ-globin mRNA induction. The adenylate cyclase activator forskolin modestly induces FNRBC production and augments the action of standard induction agents. HU, AZA, and SB, however, fail to significantly stimulate adenylate cyclase themselves.
+Conclusions
+
+In human CD34+ cultures, cAMP production is required for full induction of HbF by HU, SB, and AZA, while perturbation of cGMP production has only minimal effects. These findings are in marked contrast to data in K562 cells where cGMP production is critical for HbF induction while cAMP stimulation blunts HbF response, and suggest that these agents may share a common induction pathway.

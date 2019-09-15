@@ -1,0 +1,1 @@
+A new approach for the design of two-band FIR filter banks with short system delays is proposed. The method is based on the perfect reconstruction condition and takes into consideration the characteristics of the individual filters. It involves minimizing an objective function by optimization. Two design examples are presented to illustrated the design procedure

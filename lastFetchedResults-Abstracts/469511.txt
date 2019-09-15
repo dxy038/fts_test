@@ -1,0 +1,9 @@
+Objective
+Fluorescence spectroscopy is a promising technology for the detection of cervical squamous intraepithelial lesions (SILs). In this study we took repeated measures in the cervix to determine whether the order of measurement produces changes in fluorescence intensity and whether there are differences in variation due to pressure.
+Methods
+A pressure sensitive fiber-optic probe to measure fluorescence spectra was calibrated at light, medium, and firm levels (0.2, 0.4, 0.6 N). Measurements were made 3 times at each of 2 sites in the patient's cervix. Spectroscopic data were preprocessed and analyzed to compare order of pressure and intensity variability as a function of pressure on measurements.
+Results
+Four providers took 3 measurements from 2 sites each in 18 patients, yielding 108 measurements. After corrections for multiple comparisons, neither the order of probe pressure nor the variability of probe pressure significantly affected variations in fluorescence intensity.
+Conclusion
+This study shows that the probe pressure variability is probably not an issue for these devices.
+

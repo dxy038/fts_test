@@ -1,0 +1,8 @@
+The objective of this study is to develop a dynamic finite element code that can effectively cope with
+strong non-linearities and discontinuities common in impact collapse problems, and whose calculation
+cost is sufficiently low to enable dynamic analyses of full-model large-scale structures. The adaptively
+shifted integration (ASI) technique is modified into the ASI-Gauss technique to further reduce calculation
+cost. Algorithms considering member fractures and elemental contact are also presented. Impact collapse
+analysis is conducted to simulate the aircraft impact with the World Trade Center South Tower (WTC2),
+and the analytical results showed good agreement with the observed data. Copyright q 2006 John Wiley
+& Sons, Ltd.

@@ -1,0 +1,1 @@
+We propose to use optimization techniques known as genetic algorithms in the searching of the optimal edge configuration. An objective function is supplied which assigns a fitness value to each edge configuration. Fitness represents the ability of an individual to survive and reproduce; in our case it is evaluated on the basis of the local nature of the edges

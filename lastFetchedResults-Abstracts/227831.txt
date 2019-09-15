@@ -1,0 +1,12 @@
+To reduce the voltage distortion in a distribution network, parallel (shunt) harmonic
+impedances (SHIs) can be strategically positioned in the network. However, to avoid the additional
+cost of adding SHIs to the distribution network, the SHI function can be implemented as a
+secondary function of convertors connecting loads or generators to the mains. A control strategy
+for a single-phase bidirectional full-bridge AC–DC convertor is proposed. This control strategy
+allows a fixed resistive impedance to be programmed for harmonics, independent of the direction of
+the fundamental power flow. Hence, the bidirectional rectifier obtained behaves, as a secondary
+function, like a resistive SHI, providing damping for resonances and resulting in an overall
+improvement of the voltage distortion in the distribution network. The theoretical results obtained
+are verified by using an experimental test setup. The superior damping potential of the
+experimental bidirectional rectifier with the proposed control scheme is demonstrated by a
+comparison with experimental results previously obtained for ‘classical’ control schemes.

@@ -1,0 +1,7 @@
+The objective of the present study is to show that the numerical instability characterized by checkerboard
+patterns can be completely controlled when non-conforming four-node  nite elements are employed.
+Since the convergence of the non-conforming  nite element is independent of the Lam e parameters,
+the sti ness of the non-conforming element exhibits correct limiting behaviour, which is desirable in
+prohibiting the unwanted formation of checkerboards in topology optimization. We employ the homogenization
+method to show the checkerboard-free property of the non-conforming element in topology
+optimization problems and verify it with three typical optimization examples

@@ -1,0 +1,1 @@
+A fourth-order finite-difference formula is applied to bidirectional beam-propagation method based on scattering operators. The method is shown to provide significant improvement in accuracy and efficiency, particularly for waveguide structures of high index contrast.

@@ -1,0 +1,11 @@
+Objective
+To test the hypothesis that bilayer ceramic cylinders and spheres can provide valid confirmation of thermal incompatibility stresses predicted by finite element analyses.
+Methods
+
+A commercial core ceramic and an experimental core ceramic were used to fabricate open-ended cylinders and core ceramic spheres. The core cylinders and spheres were veneered with one of four commercial dental ceramics representing four thermally compatible groups and four thermally incompatible groups. Axisymmetric thermal and viscoelastic elements in the ANSYS finite element program were used to calculate temperatures and stresses for each geometry and ceramic combination. This process required a transient heat transfer analysis for each combination to determine input temperatures for the structural model.
+Results
+
+After fabrication, each specimen was examined visually using fiberoptic transillumination for evidence of cracking. There were 100% failures of the thermally incompatible cylinders while none of the thermally compatible combinations failed. Among the spheres, 100% of the thermally incompatible systems failed, 16% of one of the thermally compatible systems failed, and none of the remaining compatible combinations failed. The calculated stress values were in general agreement with the experimental observations, i.e., low residual stresses for the specimens that did not fail and high residual stresses for the specimens that did fail.
+Significance
+
+Simple screening geometries can be used to identify highly incompatible ceramic combinations, but they do not identify marginally incompatible systems.

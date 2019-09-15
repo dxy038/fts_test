@@ -1,0 +1,7 @@
+This paper presents a multi objective geometric programming model which determines the product's selling price in
+two markets. We assume demand is a function of price and marketing expenditure in two markets. The cost of
+production is also assumed to be a function of demands in both markets. Our model is a posynomial function which is
+solved using Geometric Programming (GP). In our GP implementation, we use a transformed dual problem to change
+the model into an optimization of an unconstraint problem with a single variable solved using a simple line search. In
+order to study the behavior of the model we analyze the solution in different cases and a numerical example is used to
+demonstrate the implementation for each case.

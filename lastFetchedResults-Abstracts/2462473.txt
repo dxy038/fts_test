@@ -1,0 +1,7 @@
+This paper is based on the remote maintenance system project (WPRM) for the demonstration fusion power reactor (DEMO). Following ITER, DEMO aims to confirm the capability of generating several hundred of MW of net electricity by 2050. The main objective of these activities is to develop an efficient and reliable remote handling (RH) system for replacing the divertor cassettes.
+
+aper presents the preliminary results of the concept design of the divertor RH system. The proposed divertor mover is a hydraulic telescopic boom driven from the transportation cask through the maintenance tunnel of the reactor. The boom is divided in three sections of 4 m each, and it is driving an end-effector in order to perform the scheduled operations of maintenance inside the vacuum vessel.
+
+ternative design of the end effector to grip and manipulate the divertor cassette are also presented in this work. Both the concepts are hydraulically actuated, basing on the ITER previous studies. The divertor cassette end-effector consists of a lifting arm linked to the divertor mover, a tilting plate, a cantilever arm and a hook-plate.
+
+in objective of this paper is to illustrate the feasibility of DEMO divertor remote maintenance operations.

@@ -1,0 +1,11 @@
+Objective.  To develop indices that quantify 360° torso surface asymmetry sufficiently well to estimate the Cobb angle of scoliotic spinal deformity within the clinically important 5–10° range.
+
+Design. Prospective study in 48 consecutive adolescent scoliosis patients (Cobb angles 10–71°).
+
+Background. Scoliotic surface asymmetry has been quantified on the back surface by indices such as back surface rotation (BSR) and curvature of the spinous process line and torso centroid line, though with limited success in spinal deformity estimation. Quantification of 360° torso shape may enhance surface–spine correlation and permit reduced use of harmful X-rays in scoliosis.
+
+Methods. For each patient a 3D torso surface model was generated concurrently with postero-anterior X-rays. We computed indices describing principal axis orientation, back surface rotation, and asymmetry of the torso centroid line, left and right half-areas and the spinous process line. We calculated correlations of each index to the Cobb angle and used stepwise regression to estimate the Cobb angle.
+
+Results. Several torso asymmetry indices correlated well to the Cobb angle (r up to 0.8). The Cobb angle was best estimated by age, rib hump and left–right variation in torso width in unbraced patients and by centroid lateral deviation in braced patients. A regression model estimated the Cobb angle from torso indices within 5° in 65% of patients and 10° in 88% (r=0.91, standarderror=6.1°).
+
+Conclusion. Consideration of 360° torso surface data yielded indices that correlated well to the Cobb angle and estimated the Cobb angle within 10° in 88% of cases.

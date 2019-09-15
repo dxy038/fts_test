@@ -1,0 +1,7 @@
+The objective of this ongoing activity is to develop a fusion specific component failure database useful to quantify probabilistic safety assessment, support design activity, quantify reliability, availability, maintainability, and inspectability (RAMI) analyses, and support any other uses where field experience can provide feedback to fusion facility design and operation.
+
+ta collection began in 1989. At first, it was to “harvest” already-published data from high-technology industries. Later, attention was also directed to collecting and analyzing operating experience data from existing tokamaks and other fusion experiments.
+
+ing experience of European, American and Japanese facilities are being investigated. The main studies performed thus far have been on JET systems (such as Vacuum, Active Gas Handling (AGH), Neutral Beam Injectors, Power Supply and Ion Cyclotron Resonant Heating systems), ASDEX Electron Cyclotron Resonant Heating system, and the Tore Supra cryogenics, superconducting magnet and water cooling system of plasma facing component for Europe; DIII-D, TFTR, Tritium Systems Test Assembly and other facilities for the United States; and the Tritium Processing Laboratory for Japan. Additional systems will be investigated in the future.
+
+per is dedicated to give an overview on the overall activity, with indication of references, and a global overview on availability of different fusion devices.

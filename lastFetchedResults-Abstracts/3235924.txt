@@ -1,0 +1,1 @@
+We consider the m machine blocking flowshop scheduling problem. The objective is to obtain a feasible solution that minimizes the total tardiness criterion. We derive new machine based lower bound for this problem. Favorable experimental results are reported on an extensive set of problem instances.

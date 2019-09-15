@@ -1,0 +1,1 @@
+The variation principle is used to search for the shape and magnetic structure of material when the objective function is extremized. The algorithm is derived analytically. Numerical computing leads to optimal distribution of anisotropic magnetic material

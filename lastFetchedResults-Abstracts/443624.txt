@@ -1,0 +1,11 @@
+Background
+The objective of this study was to measure the impact of higher speed limits on traffic deaths several years after the repeal of the 55 miles per hour (mph) National Maximum Speed Limit (NMSL).
+Methods
+
+Traffic fatality rates for 2003 were calculated for all 50 states and the District of Columbia, and compared between states with speed limits ≤65 mph versus greater than 65 mph, adjusted for state differences in vehicle miles traveled and other potential confounding factors using negative binomial regression.
+Results
+
+In 29 states with speed limits greater than 65 mph, there was a 13% increase in the risk of traffic fatalities (risk ratio 1.13, 95% confidence interval [CI] 1.03 to 1.24, P = .009). An estimated 2,985 lives may be saved per year with a nationwide speed limit of 65 mph or less.
+Conclusions
+
+Nationwide restriction of speed limits to 65 mph or less will save almost 3,000 lives every year.

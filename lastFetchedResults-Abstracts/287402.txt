@@ -1,0 +1,11 @@
+Purpose
+The objective of this study was to assess the potential association between intrauterine growth retardation measured as (i) small for gestational age (SGA) and (ii) low birth weight (LBW) and dental caries in the primary dentition in the United States.
+Methods
+
+Cross-sectional data from The Third National Health and Nutritional Examination Survey (1988–1994) were used in the analysis. Singletons white, African American, and Mexican American children, 2 to 5 years old, with complete dental caries examination and an available birth certificate were studied (n = 3218). Small for gestational age was defined according to Zhang and Bowes (1994). Low-birth-weight children were those born weighing less than 2500 g. Dental caries was assessed as the DFs (decayed and filled surfaces) Index. Known confounders and risk factors were considered in the analysis (poverty level, race or ethnicity, carbohydrate consumption, dental visit, secondary smoking, mother's education). Stratified analysis was followed by multivariate modeling separately for LBW and SGA using Poisson regression. The SUDDAN statistical package was used.
+Results
+
+Although not significant, in bivariate analysis DFs mean was lower (P = 0.455) for SGA (1.5; SE = 0.3) than for normal for gestational age children (1.8; SE = 0.2) and it was higher (P = 0.335) for LBW (2.7; SE = 1.0) than for normal-weight children (1.7; SE = 0.2). After adjusting for possible confounders, we could not find any association between SGA (0.70; 95% CI = 0.44–1.13) or LBW (1.07; 95% CI = 0.50–2.30) and dental caries.
+Conclusion
+
+This study does not support the association between LBW or SGA and dental caries for primary teeth among the U.S. population. If the hypothesis of increased risk for dental caries among children with LBW and SGA is true, it is possible that in this population general preventive measures such as fluoride exposure modify the association.

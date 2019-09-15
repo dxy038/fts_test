@@ -1,0 +1,9 @@
+Objective
+Osteoblasts play an important role in regulating hematopoiesis in the bone marrow. Here we show that U2-OS, a widely used osteoblastic cell line derived from an osteosarcoma, has the capacity to support proliferation of human hematopoietic progenitor cells in vitro. In this study, U2-OS cells are characterized at the molecular level to unravel the molecular mechanisms underlying the support of hematopoiesis.
+Materials and Methods
+U2-OS was analyzed in great detail using RT-PCR and flow cytometry. In addition, a cDNA library was constructed and randomly sequenced to obtain insight in the repertoire of expressed molecules.
+Results
+A broad panel of growth factors and cytokines is expressed by U2-OS. TGF-β, GM-CSF, c-kit ligand, and IL-7 are produced constitutively and IL-1β, IL-6, IL-8, TNF-α, IFN-γ, and MIP1-α are upregulated upon stimulation. In addition to those, mRNAs of the CC chemokine LARC and leukemia inhibitory factor were identified. U2-OS cells express high levels of β1-integrins at the cell surface: VLA-2, VLA-3, VLA-4, VLA-5, VLA-6, and the integrin αvβ3. Besides integrins, ALCAM and NCAM are detected on the cell surface of U2-OS. Interestingly, we show that CD34+ progenitor cells expressing ALCAM are highly proliferative when compared with CD34+ ALCAMlow cells, hinting at a role for ALCAM in anchoring progenitor cells to the bone marrow stroma. Interestingly, random sequencing of an U2-OS cDNA library yielded almost 10% of novel cDNAs with a potential role in hematopoiesis. The involvement of these novel molecules in hematopoiesis is an interesting target for future investigations.
+Conclusions
+We conclude that U2-OS supports outgrowth of hematopoietic progenitor cells and accordingly expresses adhesion molecules and growth factors and a number of novel, as yet uncharacterized potentially interesting genes.
+

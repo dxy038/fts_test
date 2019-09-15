@@ -1,0 +1,10 @@
+AbstractBackground
+often difficult to differentiate early melanomas from benign melanocytic nevi even by expert dermatologists, and the task is even more challenging for primary care physicians untrained in dermatology and dermoscopy. A computer system can provide an objective and quantitative evaluation of skin lesions, reducing subjectivity in the diagnosis.
+ive
+jective is to make a low-cost computer aided diagnostic tool applicable in primary care based on a consumer grade camera with attached dermatoscope, and compare its performance to that of experienced dermatologists.
+s and materials
+pose several new image-derived features computed from automatically segmented dermoscopic pictures. These are related to the asymmetry, color, border, geometry, and texture of skin lesions. The diagnostic accuracy of the system is compared with that of three dermatologists.
+s
+ data set of 206 skin lesions, 169 benign and 37 melanomas, the classifier was able to provide competitive sensitivity (86%) and specificity (52%) scores compared with the sensitivity (85%) and specificity (48%) of the most accurate dermatologist using only dermoscopic images.
+sion
+w that simple statistical classifiers can be trained to provide a recommendation on whether a pigmented skin lesion requires biopsy to exclude skin cancer with a performance that is comparable to and exceeds that of experienced dermatologists.

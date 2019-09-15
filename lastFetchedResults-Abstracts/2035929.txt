@@ -1,0 +1,8 @@
+Abstract - In this work, the effect of secondary service
+optimal power allocation on cognitive radio systems has been
+investigated. We have formulated and solved an optimization
+problem with the objective of maximizing the secondary
+service’s capacity. We have also investigated the effect of
+having optimal power allocation against constant power
+allocation on secondary service capacity and the primary
+service outage probability degradation

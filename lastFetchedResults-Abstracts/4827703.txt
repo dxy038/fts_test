@@ -1,0 +1,1 @@
+An adaptive transform coding of images is presented. Zonal sampling is used to select significant coefficients to be coded and which are delimited by imposed segmental signal-to-noise ratio in each block. The bit allocation scheme uses a codebook for vectorial classification. Good objective and subjective results are obtained when compared with other coders

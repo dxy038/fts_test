@@ -1,0 +1,1 @@
+We analyze the objective cost of SBVTs as a function of the traffic conveyed by IP/MPLS-over-flexgrid networks. Optimal results show that cost increment with respect to BVTs is related to the aggregation level.

@@ -1,0 +1,1 @@
+We propose a technique to perform frame-rate up-conversion in baseline H.264/AVC compliant decoders. It exploits a low-complexity motion estimation algorithm including a novel method to enhance the consistency of motion fields. The final interpolation through adaptive median filtering provides excellent results in terms of objective and subjective visual quality

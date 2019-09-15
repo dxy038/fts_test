@@ -1,0 +1,11 @@
+Objective
+The role of interleukin (IL)-7 in human B lymphopoiesis is still controversial. We used an in vitro culture system to verify involvement of IL-7 in development of human pro-B cells from hematopoietic stem cells.
+Materials and Methods
+
+Human CD34+ bone marrow cells were cultured for 4 weeks on MS-5 mouse stromal cells to induce pro-B cells. Expression of IL-7 receptor α or other B-cell differentiation marker genes on cultured human CD34+bone marrow cells was investigated by reverse transcription polymerase chain reaction (RT-PCR). Colony assay of human CD34+ bone marrow cells was also performed to determine the effect of IL-7 on colony-forming ability. Neutralizing antibody or reagent that eliminates the effect of IL-7 was added to the culture system, and the number of pro-B cells induced was estimated by flow cytometry.
+Results
+
+RT-PCR analysis revealed mRNA expression of IL-7 receptor α as well as B-cell differentiation marker genes in not only CD19+ pro-B cells but also CD19− CD33− cells induced from CD34+ bone marrow cells after cultivation for 4 weeks on MS-5 cells. Addition of anti-mouse IL-7 antibody, anti-human IL-7 receptor α antibody, or JAK3 kinase inhibitor reduced the number of pro-B cells induced, demonstrating that elimination of IL-7 reduces pro–B-cell development. Addition of anti-mouse IL-7 antibody emphasized the colony-forming ability of burst-forming unit erythroid cells.
+Conclusions
+
+IL-7 produced by MS-5 cells is required for human pro–B-cell development from CD34+bone marrow cells in our culture system, and IL-7 appears to play a certain role in early human B lymphopoiesis.

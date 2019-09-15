@@ -1,0 +1,1 @@
+The first part of the discussion reviews recent successes in modeling of discrete time financial data and argues that a direct approach is better suited than stochastic volatility. The second part reviews recent work on estimating continuous time models with emphasis on simulation-based techniques and joint estimation of the risk neutral and objective probability distributions.

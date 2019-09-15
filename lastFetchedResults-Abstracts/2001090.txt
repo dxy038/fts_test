@@ -1,0 +1,6 @@
+In this paper, the concept of stability for fuzzy control systems
+is discussed from a mathematical point of view. Our main objective
+is to investigate the stability of fuzzy linear systems with bounded
+input and bounded output. Necessary and sufficient conditions for this
+kind of stability are presented by a theorem and it is illustrated by
+solving an example.

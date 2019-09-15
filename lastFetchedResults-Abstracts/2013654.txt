@@ -1,0 +1,28 @@
+The objective of this article is to present a new
+method for identifying the damage location in a multi-story
+shear building by direct model updating method. In this
+regard, structural perturbation matrices should be determined
+that are directly defined as the discrepancy between
+mass and stiffness matrices of undamaged and damaged
+structures. As a result of expanding the dynamic orthogonality
+conditions, mass and stiffness perturbation matrices
+are formulated by the initial information of undamaged
+structures as well as the structure’s modal parameters
+before and after the occurrence of damages. These matrices
+cannot easily detect the damage site. Therefore, a more
+explicit determination of damage location is performed
+dividing the amount of change in these matrices’ diagonals
+by the physical properties of undamaged structure. This
+modification facilitates the damage localization process
+and yields precise and preferable results in comparison
+with applying classical methods such as natural frequencies,
+mode shapes and structural properties changes. Subsequently,
+the applicability and effectiveness of the
+proposed damage detection method are verified numerically
+and experimentally. For numerical verification of the
+proposed methods, a six-story shear building is utilized as a
+discrete system. Then, the experimental verification of
+proposed methods is conducted detecting the location of
+damages in a simple laboratory frame. It can be deduced
+that the proposed damage localization method can reliably
+detect and also localize the structural damage.

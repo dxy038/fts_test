@@ -1,0 +1,1 @@
+Presents a basic computation method to solve a class of control synthesis problems associated with temporal-safety supervision of logical discrete-event systems. A worst-case complexity analysis is also given to enable an objective assessment of the proposed method

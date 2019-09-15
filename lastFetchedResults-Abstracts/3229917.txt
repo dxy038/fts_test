@@ -1,0 +1,1 @@
+We evaluated the effects of bidirectional signal assignment between neighboring cores in MCF for the reduction of inter-core cross-talk with 98-km MCF. We clarify its advantage and several specific limiting factors.

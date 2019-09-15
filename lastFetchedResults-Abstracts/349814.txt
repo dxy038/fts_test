@@ -1,0 +1,11 @@
+Objective
+To assess affective event-related brain potentials (ERPs) using visual pictures that were highly distinct on arousal level/valence category ratings and a response task.
+Methods
+Images from the International Affective Pictures System (IAPS) were selected to obtain distinct affective arousal (low, high) and valence (negative, positive) rating levels. The pictures were used as target stimuli in an oddball paradigm, with a visual pattern as the standard stimulus. Participants were instructed to press a button whenever a picture occurred and to ignore the standard. Task performance and response time did not differ across conditions.
+Results
+High-arousal compared to low-arousal stimuli produced larger amplitudes for the N2, P3, early slow wave, and late slow wave components. Valence amplitude effects were weak overall and originated primarily from the later waveform components and interactions with electrode position. Gender differences were negligible.
+Conclusion
+The findings suggest that arousal level is the primary determinant of affective oddball processing, and valence minimally influences ERP amplitude.
+Significance
+Affective processing engages selective attentional mechanisms that are primarily sensitive to the arousal properties of emotional stimuli. The application and nature of task demands are important considerations for interpreting these effects.
+

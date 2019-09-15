@@ -1,0 +1,16 @@
+This paper presents an approach for determining
+optimal or near-optimal locations and sizes of single-tuned passive
+harmonic filters among existent capacitor busses in a power
+system. The objective of the harmonic filter planning is to control
+the system-wide voltage distortion, while individual/total harmonic
+voltage distortion limits at each network bus, and the filter
+component limits are considered as constraints. The tuned frequency
+deviation of the filter caused by component manufacturing
+errors and environment is also taken into account in the problem.
+The proposed two-phase planning procedure is first to formulate
+an unconstrained optimization problem for placement of the
+filters based on sensitivity analysis. Next, a constrained problem is
+formulated and is solved by a genetic algorithm-based optimizer.
+The proposed method is tested with an actual distribution system.
+Test results show that the method is effective, computationally
+robust, and suitable for passive filter planning in a power system.

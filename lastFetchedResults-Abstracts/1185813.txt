@@ -1,0 +1,13 @@
+The main objective of this research is to apply a reasonable strategy for selecting a critical earthquake (the earthquake from which the designer obtains the maximum response) with the help of the most suitable parameter in earthquake, based on statistical studies of various earthquake parameters. For this purpose, from amongst 1800 existing earthquake records in Iran, up to the year 1997, 150 records were selected based on the following factors:
+
+(i)
+
+    Data availability of causative earthquake related to each selected earthquake record;
+(ii)
+
+    Possibility for appropriate data correction;
+(iii)
+
+    Sufficient subsoil information about earthquake recording stations.
+
+After selection of the appropriate earthquake records, various parameters including, PGA (Peak Ground Acceleration), EPA (Effective Peak Acceleration), PGV (Peak Ground Velocity), EPV (Effective Peak Velocity), PGD (Peak Ground Displacement), Arias intensity, and Dur (Duration) were obtained for these records. Finally, with the aid of the applied strategy, the linear relationships between various couples of parameters were obtained. The parameters PGV, EPA and EPV, in order of increasing importance, have the most appropriate linear relationships with the earthquake parameters. Based on this result and some other facts such as the knowledge of practicing engineers about earthquake parameters and possibility of obtaining parameters with the least possible error, EPA was chosen as the most suitable earthquake parameter for selection of the critical earthquake.

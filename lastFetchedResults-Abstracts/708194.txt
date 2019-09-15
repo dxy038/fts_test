@@ -1,0 +1,9 @@
+Objective
+Cardiac troponin I (cTnI) is considered the most specific marker of cardiac muscle injury. We encountered several patients with rhabdomyolysis and elevated cTnI, although they did not otherwise have evidence of cardiac injury. We determined the prevalence of false-positive cTnI in emergency department (ED) patients with rhabdomyolysis.
+Methods
+We conducted a retrospective cohort study of ED patients admitted with a diagnosis of rhabdomyolysis. Patients were included in the study if they had a serum creatine kinase (CK) of 1000 U/L or greater and at least one serum cTnI determination. Patients with positive cTnI were considered true positives if they had either electrocardiography (EKG) or echocardiography abnormalities; false positives if both the EKG and the echocardiography were considered normal; or indeterminate if they did not have both an EKG and an echocardiogram. The primary outcome of the study was the prevalence of false-positive cTnI. Secondary outcomes included risk stratification by cocaine use, myoglobinuria, and renal failure and correlation of peak CK and troponin levels.
+Results
+One hundred nine patients were included in the final analysis; 55 (50%) patients had a positive cTnI. Of the 55 patients with positive cTnI, 32 (58%) were true positives, 18 (33%) were false positives, and 5 (9%) were indeterminate. The prevalence of false-positive cTnI was 17% (18/109, 95% confidence interval 0.10-0.25). There was no association between false-positive cTnI and cocaine use, renal failure, or myoglobinuria. There was poor correlation between peak CK and peak cTnI levels (r = −.08, 95% confidence interval −0.34 to 0.19).
+Conclusion
+The prevalence of false-positive cTnI in ED patients with rhabdomyolysis is 17%.
+

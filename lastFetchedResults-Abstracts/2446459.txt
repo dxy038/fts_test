@@ -1,0 +1,13 @@
+Belgium has decided to join the Broader Approach agreement. SCK•CEN has been designated by the Belgian Government to lead and coordinate the Belgian in-kind contributions in this field. Three main tasks are directly performed within SCK•CEN itself, all related to the engineering of the test cell of IFMIF:•
+ation of the high flux test modules (HFTM) test rigs in the Belgian reactor BR2, for validation purposes.
+
+inary design of the start-up monitoring module (STUMM).
+
+tual design of the low flux test module (LFTM).
+
+
+radiation in the high flux BR2 reactor (Mol, Belgium) will allow validating the design of the HFTM-V (vertical lay-out) and is mostly focused on the heating system and the instrumentation performance and endurance under intense neutron flux.
+
+UMM is designed similar to the HFTM in order to reproduce the instantaneous irradiation conditions (flux, flux shape, temperature, etc.) of the samples. The STUMM will be loaded during the commissioning phase of the installation and will simulate the HFTM while monitoring the various parameters for characterizing the facility.
+
+y, the main objective of the task dedicated to the low flux test module is to pre-design the modules to be loaded in this area; but a first step is to check if the irradiation conditions fit with the ones foreseen in a DEMO-type reactor for remote components situated behind the blanket and further outwards.

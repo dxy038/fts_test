@@ -1,0 +1,1 @@
+Denoising of complex-valued signals involves the relationships between the real and imaginary parts of the signal. The authors introduce the idea of local directional thresholding, well-suited to signals that are bidirectional overall but unidirectional at any one time, such as Doppler ultrasound, and show its efficacy on synthetic and real data.

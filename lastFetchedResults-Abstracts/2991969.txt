@@ -1,0 +1,1 @@
+We use the parametric figure model based on the directed hypergraph to represent the store structure of pressed cross chains, and carry it out using the object oriented method. By making use of a clear data structure to store the constraints model, we can implement the spreading and solving of the constraints and represent the bidirectional constraints conveniently

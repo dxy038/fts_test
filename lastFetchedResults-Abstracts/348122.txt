@@ -1,0 +1,11 @@
+Objective
+Surface Laplacian estimation enhances EEG spatial resolution. In this paper, we compare, on empirical grounds, two computationally different estimations of the surface Laplacian.
+Methods
+Surface Laplacian was estimated from the same monopolar data set with both Hjorth's method [local; Electroenceph Clin Neurophysiol 39 (1975) 526] as modified by MacKay [Electroenceph Clin Neurophysiol 56 (1983) 696] and with spherical spline interpolation [global; Electroenceph Clin Neurophysiol 72 (1989) 184].
+Results
+The grand averages computed with the two methods proved to be very similar but differed markedly from the monopolar ones. The two different computations were highly correlated, presented low relative errors and allowed to evidence comparable experimental effects.
+Conclusions
+These results suggest that Hjorth's method and spherical spline interpolation convey similar topographic and chronometric informations.
+Significance
+We provide empirical evidence that local and global methods of surface Laplacian estimation are equivalent to improve the spatial resolution of EEG traces. Global methods allow to explore the scalp topography and local methods allow to spare time in electrode setting that can be useful for studies on special populations (i.e. children, aged subjects) and for clinical purposes.
+

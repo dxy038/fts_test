@@ -1,0 +1,9 @@
+Objectives:
+Self-monitoring blood uric acid device is an important tool for patients to efficiently monitor their blood uric acid concentrations. The objective of the present study was to evaluate the accuracy of EasyTouch uric acid monitoring system.
+Design and methods:
+Capillary blood uric acid concentrations measured using EasyTouch and the reference values obtained from COBAS MIRA were performed in the Department of Laboratory Medicine, Wei-Gong Memorial Hospital. Results were evaluated using (1) linear regression analysis, (2) percentage of readings within a defined range of deviation from the reference value, and (3) coefficients of variation (CVs) calculated from 60 measurements in series.
+Results:
+The window of the 177 EasyTouch readings covered a wide range from 0.1785 to 0.6367 mmol/L (3–10.7 mg/dL). Linear regression analysis yielded a regression slope of 0.975, an intercept of 0.0118 mmol/L and an R2 of 0.8966. Of the EasyTouch readings, 64 (36.2%), 61 (34.5%), 34 (19.2%), 9 (5.08%), and 9 (5.08%) were within the intervals of <5%, 5–10%, 10–15%, 15–17%, and >17%, respectively, of the reference values. Further analysis for the performance of each lot of strips showed that both coefficients of correlation and the percentages of readings within the CLIA's criterion (±17%), respectively, were in a narrow range from 0.8777 to 0.9541 and from 92.1% to 100%. The CVs for the seven lots of strips (lot 1 to lot 7) ranged from 2.93% to 6.33%, 3.2% to 5.9%, 3.64% to 7.0%, 2.84% to 7.6%, 2.68% to 5.42%, 3.03% to 6.93%, and 3.18% to 5.17%, respectively.
+Conclusion:
+EasyTouch is an acceptable diagnostic device which provides accurate uric acid measurements.
+

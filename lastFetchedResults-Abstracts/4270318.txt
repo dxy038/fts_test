@@ -1,0 +1,1 @@
+The paper describes a multi-objective model to optimally schedule a service on a mobile device that requires data communication with the external data repositories.

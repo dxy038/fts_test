@@ -1,0 +1,3 @@
+An alternative to the use of desirability function for optimising multiple responses is proposed. Instead of defining a compromise among responses to find a region of experimental conditions by one-dimensional optimisation of the so-called desirability function, the proposal is to directly study the problem in its real nature as a vectorial optimisation problem.
+
+timal solutions for a given problem (the so-called Pareto optimal solutions) are estimated by means of an evolutionary algorithm and the interpretation of results is shown by some examples that involve two responses and three factors to be able to represent both the experimental domain and the objective space.

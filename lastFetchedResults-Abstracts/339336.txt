@@ -1,0 +1,11 @@
+Objective
+The rapid diagnosis of acute graft-versus-host disease (GVHD) following allogeneic hematopoietic cell transplantation (HCT) is important for optimizing the management of this life-threatening complication. Current diagnostic techniques are time-consuming and require invasive tissue sampling. We investigated serum protein pattern analysis using surface-enhanced laser desorption ionization time-of-flight (SELDI-TOF) mass spectrometry as a tool to diagnose GVHD.
+Patients and Methods
+
+Eighty-eight serum samples were obtained from 34 patients undergoing HCT either pretransplant (n = 28 samples) or at various time points posttransplant (n = 60 samples), including 22 samples obtained on the day of onset of acute GVHD symptoms. Serum proteomic spectra generated from a “training set” of known samples were used to identify distinct proteomic patterns that best categorized a sample as either pretransplant, posttransplant non-GVHD, or GVHD; these distinct proteomic signatures were subsequently used to classify samples from a masked “test” sample set into the appropriate diagnostic category.
+Results
+
+Proteomic pattern analysis accurately distinguished GVHD samples from both posttransplant non-GVHD samples and pretransplant samples (100% specificity and 100% sensitivity in both cases). Furthermore, distinct serum proteomic signatures were identified that distinguished pretransplant from posttransplant non-GVHD samples (100% specificity and 94% sensitivity).
+Conclusion
+
+These preliminary data suggest a potential application of SELDI-TOF-based proteomic analysis as a rapid and accurate method to diagnose acute GVHD.

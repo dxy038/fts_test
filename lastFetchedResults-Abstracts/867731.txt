@@ -1,0 +1,13 @@
+Unlike manufacturing, where standard shifts and days off are the rule, the service industry operates every
+day of the week across a month and a year. To maintain the morale and productivity of the workers in the
+service industry, the weekend off requirements, one of the important work preferences for the workers,
+should be respected and balanced for a longer planning horizon beyond a week. This paper deals with the
+monthly tour scheduling problem with mixed skills considering the weekend off requirements in contrast
+to the weekly planning horizon that is typical in most literature. The objective is to obtain the most
+economical mix of types of workers satisfying the patterns of demands for the workers and desired work
+characteristics. Two model formulations are developed based on implicit programming techniques. One
+model uses a general integer programming (GIP) formulation and assigns the lunch break hours aggregately
+to the workers based on the worker types. The other one adopts a binary integer programming
+(BIP) formulation and assigns the lunch break hours explicitly to the individual workers. The effectiveness
+of the two models is illustrated by the numerical tests and the results show that the BIP formulation
+is more efficient than the GIP formulation.

@@ -1,0 +1,3 @@
+he objective of this paper is to assess the state-of-the-art of heat transfer in nucleate pool-boiling. Therefore, the paper consists of two parts: part I reviews and examines the effects of major boiling surface parameters affecting nucleate-boiling heat transfer, and part II reviews and examines the existing prediction methods to calculate the nucleate pool-boiling heat transfer coefficient (HTC).
+
+A literature review of the parametric trends points out that the major parameters affecting the HTC under nucleate pool-boiling conditions are heat flux, saturation pressure, and thermophysical properties of a working fluid. Therefore, these effects on the HTC under nucleate pool-boiling conditions have been the most investigated and are quite well established.

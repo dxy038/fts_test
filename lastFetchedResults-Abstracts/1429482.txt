@@ -1,0 +1,8 @@
+Objective
+tudy was designed to investigate patterns of fractional amplitude of low-frequency fluctuations (fALFF, an indicator for the intensity of regional brain spontaneous activities) of patients with first-episode drug-naïve panic disorder (PD).
+s
+ patients (17 females, 13 males, age: 47.70±10.69 years old) and twenty healthy controls (10 females, 10 males, age: 41.40±13.94 years old) received 3-Tesla resting-state functional magnetic resonance imaging (RFMRI) scanning and the rating of clinical scales. RFMRI data was processed and analyzed by the REST toolbox (resting-state functional MRI data analysis toolbox) to calculate fALFF. fALFF were compared between patients and controls to detect endophenotype of fALFF in patients with first-episode drug-naïve PD.
+s
+nd decreased fALFF in right middle occipital gyrus [FDR (false discovery rate) corrected p&lt;0.05, cluster &gt;5 voxles, volume &gt;135 mm3, T threshold: 6.1168, surface connected theory] and increased fALFF in right putamen and right ventral lateral nucleus of thalamus of patients (uncorrected p&lt;0.00005, cluster &gt;5 voxles, volume &gt;135 mm3, T threshold: 4.5439, surface connected theory). fALFF of patients also showed a positive correlation with clinical rating scores of PD in right cuneus.
+sions
+to-striato-thalamic dysfunction of fALFF might represent a kind of endophenotype biomarker of first-episode drug-naïve PD.

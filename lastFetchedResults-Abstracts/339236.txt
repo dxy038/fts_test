@@ -1,0 +1,11 @@
+Objective
+Iron overload is a key contributor to the pathogenesis of multiple disorders including the sideroblastic anemias. The specific iron compounds present in tissues or cells that are the target of iron deposition remain poorly understood, but there is evidence that some forms are magnetically active. We have developed a simple and specific method to purify iron-overloaded red blood cells using magnetic affinity columns. Here we describe this method and characterize purified Sod2-deficient siderocytes.
+Materials and Methods
+
+RBC derived from mice transplanted with Sod2-deficient hematopoietic stem cells served as a source of iron-laden cells. Purification was based upon the observation that iron deposits in Sod2-deficient cells are “magnetically susceptible” and allow for retention of iron-laden cells in a strong magnetic field. Peripheral blood from Sod2-deficient chimeric mice was passed through magnetic separation columns; iron-overloaded cells were eluted and characterized by flow cytometry, Western blot, and microscopy.
+Results
+
+We were able to purify 2.8% of the total red cells as iron-laden siderocytes. The magnetically purified Sod2-deficient cells were predominantly identified as reticulocytes. They had numerous siderotic granules, produced enhanced levels of reactive oxygen species, and showed increased protein oxidative damage, mitochondrial enrichment, and mitochondrial hyperpolarization.
+Conclusions
+
+Our method can be used to purify iron-laden cells as well as iron-associated subcellular fractions prepared from iron-loaded tissues, allowing elucidation of the structure, location, and protein composition of such iron deposits. This data will help develop our understanding of the pathogenesis of SA and other disorders characterized by iron overload.

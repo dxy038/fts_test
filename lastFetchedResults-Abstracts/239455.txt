@@ -1,0 +1,7 @@
+In this formulation, the objective function and operating constraints include the corona
+power-loss term. The objective function consists of three terms: cost of investment of new
+transmission lines, ohmic power loss of new and existing lines, and corona-power loss of new
+lines. This combination of terms results in a non-linear objective function. The non-linear
+programming or the non-convex optimization technique is used to solve such large-scale
+practical problem. The new formulation has been applied to the 28-bus Jordanian high-voltage
+transmission network in order to test and justify its applicability.

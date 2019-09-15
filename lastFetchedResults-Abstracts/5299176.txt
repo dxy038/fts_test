@@ -1,0 +1,1 @@
+In this paper, we study how to evolve planar fractal-random arrays using the methods developed for linear fractal-random array optimization and apply them to an existing multi-objective genetic algorithm, the strength Pareto evolutionary algorithm.

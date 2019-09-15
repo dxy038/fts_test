@@ -1,0 +1,9 @@
+An iron pole shape optimization method to reduce
+cogging torque in Interior Permanent Magnet (IPM) motors is
+developed by using the reduced basis technique coupled by
+finite element and design of experiments methods. Objective
+function is defined as the minimum cogging torque. The
+experimental design of Taguchi method is used to build the
+approximation model and to perform optimization. This
+method is demonstrated on the rotor pole shape optimization of
+a 4-poles/24-slots IPM motor.

@@ -1,0 +1,1 @@
+We propose and demonstrate a bidirectional WDM-PON utilizing a SCM technique for down-link and a baseband technique for up-link with a RSOA for re-modulation. The BER performances of our scheme were shown to be as good as those in the case of continuous wave (CW) light injected RSOA.

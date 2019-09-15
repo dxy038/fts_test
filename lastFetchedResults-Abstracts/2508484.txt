@@ -1,0 +1,20 @@
+Background: Most of the current brachytherapy treatment planning systems (TPS)
+use the TG-43U1 recommendations for dosimetry in water phantom, not considering
+the heterogeneity effects.
+Objective: The purpose of this study is developing a method for obtaining correction factors for heterogeneity for Cs-137 brachytherapy sources based on pre-calculated MC simulations and interpolation.
+Method: To simulate the effect of phantom heterogeneity on dose distribution around
+Cs-137 sources, spherical water phantoms were simulated in which there were spherical shells of bone with different thicknesses (0.2cm to 1.8cm with 0.1cm increment)
+at different distances (from 0.1cm to 10cm, with 0.5cm increment) from the source
+center. The spherical shells with 0.1cm thickness at different distances from 0.1cm to
+10cm were used as tally cells. The doses at these cells were obtained by tally types F6,
+*F8, and *F4.The results indicate that the percentage differences between the doses in
+heterogeneity sections with the dose at the same positions inside the homogeneous water phantom vary when the distance of bone section from the source center increases,
+because of decreasing the average energy of photons reaching the bone layer. Finally,
+the results of Monte Carlo simulations were used as the input data of MATLAB software, and the percentage dose difference for each new confguration (i.e. different
+thickness of inhomogenity at different distances from the source) was estimated using
+the 2D interpolation of MATLAB.
+Results: According to the results, the algorithm used in this study, is capable of
+dose estimation with high accuracy.
+Conclusion: The developed method using the results of Monte Carlo simulations
+and the dose interpolation can be used in treatment planning systems for heterogeneity
+corrections.

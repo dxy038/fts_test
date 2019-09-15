@@ -1,0 +1,15 @@
+A continuum-based sizing design sensitivity analysis (DSA) method is presented for the transient dynamic
+response of non-linear structural systems with elastic}plastic material and large deformation. The methodology
+is aimed for applications in non-linear dynamic problems, such as crashworthiness design. The
+"rst-order variations of the energy forms, load form, and kinematic and structural responses with respect to
+sizing design variables are derived. To obtain design sensitivities, the direct di!erentiation method and
+updated Lagrangian formulation are used since they are more appropriate for the path-dependent problems
+than the adjoint variable method and the total Lagrangian formulation, respectively. The central di!erence
+method and the "nite element method are used to discretize the temporal and spatial domains, respectively.
+The Hughes}Liu truss/beam element, Jaumann rate of Cauchy stress, rate of deformation tensor, and
+Jaumann rate-based incrementally objective stress integration scheme are used to handle the "nite strain
+and rotation. An elastic}plastic material model with combined isotropic/kinematic hardening rule is
+employed. A key development is to use the radial return algorithm along with the secant iteration method
+to enforce the consistency condition that prevents the discontinuity of stress sensitivities at the yield
+point. Numerical results of sizing DSA using DYNA3D yield very good agreement with the "nite di!erence
+results. Design optimization is carried out using the design sensitivity information

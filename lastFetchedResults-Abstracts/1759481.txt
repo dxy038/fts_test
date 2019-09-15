@@ -1,0 +1,8 @@
+Objective
+gh children with autism spectrum disorders (ASDs) are eligible to receive special education services via an individualized education program (IEP), approximately 12% to 20% do not. Our objective was to determine which clinical and demographic characteristics are associated with IEP receipt among a nationally representative sample of children with ASD.
+s
+data from the 2007 National Survey of Children's Health, we determined which clinical and demographic covariates are associated with IEP receipt for children ages 6 to 17 years with a current, parent-reported ASD diagnosis (n = 759). Logistic regression models were used to assess the association of covariates with IEP receipt. Application of weighting techniques made the findings representative of the noninstitutionalized population of US children 6 to 17 years old.
+s
+ weighted model, 90% of children with ASD receive an IEP. Maternal education level above high school (adjusted odds ratio [aOR] 4.08, P = .01) and presence of perceived need for coordination of care (aOR 3.62, P = .02) were associated with IEP receipt, while Hispanic children were less likely to receive an IEP compared with white children (aOR 0.12, P = .001). The following factors were not associated with IEP receipt: severity of ASD, speech, and behavior problems.
+sions
+ildren with ASD in the United States, socioeconomic factors, not disability severity, are associated with IEP receipt. Future research should address methods to overcome this disparity in care. Health care providers may help to advocate for appropriate educational services for patients with ASD.

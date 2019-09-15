@@ -1,0 +1,15 @@
+The transient wear process at contact frictional interface of two elastic bodies in relative steady motion induces evolution
+of shape of the interface. A steady wear state may be reached with uniform wear rate and fixed contact surface shape.
+In this paper, the optimal contact shape is studied by formulating several classes of shape optimization problems, namely
+minimization of generalized wear volume rate, friction dissipation power and wear dissipation rate occurring in two
+bodies. The wear rule was assumed as a nonlinear dependence of wear rate on friction traction and relative sliding velocity,
+similar to the Archard rule. The wear parameters of two bodies may be different. It was demonstrated that different optimal
+contact shapes are generated depending on objective functional and wear parameters. When the uniform wear rate is
+generated at contact sliding surfaces, the steady state is reached. It was shown that in the steady state the wear parameters
+of two bodies cannot be independent of each other. The solution of nonlinear programming problem was provided by the
+iterative numerical procedure. It was assumed that the relative sliding velocity between contacting bodies results from
+translation and rotation of two bodies. In general, both regular and singular regimes of wear rate and pressure distribution
+may occur. The illustrative examples of drum brake, translating punch and rotating annular punch (disc brake) provide the
+distribution of contact pressure and wear rate for regular and singular cases associated with the optimality conditions. It is
+shown that minimization of the generalized wear dissipation rate provides solutions assuring existence of steady wear
+states.

@@ -1,0 +1,1 @@
+Fuzziness is one of the general characteristics of human thinking and objective things. This paper presents a kind of methods for mining classification rules based on fuzzy sets. This method first obtain thematic data set using fuzzy retrieval techniques, then sums up abstractly by means of fuzzy clustering, and thus the gains necessary classification rules.

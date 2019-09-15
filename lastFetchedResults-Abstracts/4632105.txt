@@ -1,0 +1,1 @@
+In this work, a triple-band low noise amplifier (LNA) is designed, optimized and implemented on SiGe 0.18&#956;m BiCMOS for GSM 1800, GPS, and WCDMA applications with 16dB gain, 1.2dB noise figure and 5dBm IIP3. The design is based on a multi-objective nonlinear optimization program, which is developed as the design aid tool.

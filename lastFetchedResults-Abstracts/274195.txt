@@ -1,0 +1,14 @@
+By trying to increase the luminosity or the life expectancy of an incandescent lamp, an idea consists of a series of successive
+rolling up of the tungsten filament. This gives geometrical configurations of filaments named simple, twin, or triple
+helical spring, etc. . . In this paper, we will limit only to the cases of the simple and twin helical spring filaments. Under the
+combined effects of the high temperature and the stresses induced by its own weight, the filament creeps by becoming plastically
+deformed in a permanent and a continuously manner, until the rupture. The theoretical study of the behaviour of
+these filaments needs the knowledge of internal efforts distribution, deformations modes, and their evolutions. The present
+work consists on an elastic structural analysis which must be the first step. Since the objective is also to study the influence
+of the filament self-weight solicitation, the orientation (or position) with respect to gravitational direction should be taken
+into account. Numerical results are obtained by finite element method. They showed a negligible influence of the solicitations
+due to the variation of the temperature with respect to those of the self-weight, and a relative sensitivity to the position
+changes for the twin helical spring filament. For this later, we have developed an analytical method which is only valid
+in the case of a vertical position. Because of some difficulties, the comparison between the numerical and analytical results
+could not be carried out directly. However, the analytical approach proved to be qualitatively useful for the analysis of
+numerical results.

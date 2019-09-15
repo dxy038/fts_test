@@ -1,0 +1,15 @@
+The scope of this paper is to summarise a methodology developed for TRENDS (TRansport and ENvironment Database
+System—TRENDS). The main objective of TRENDS was the calculation of environmental pressure indicators caused by
+transport. The environmental pressures considered are associated with air emissions from the four main transport modes, i.e.
+road, rail, ships and air. In order to determine these indicators a system for calculating a range of environmental pressures due to
+transport was developed within a PC-based MS Access environment. Emphasis is given on the latest features incorporated in
+the model and their applications.
+One of the recently developed features of the software provides an option for simple scenario analysis including vehicle
+dynamics (such as turnover and evolution) for all EU15 member states. This feature is called the Transport Activity Balance
+module (TAB) and enables the production of collective results for all transport modes as well as a comparative assessment of air
+emissions produced by the various modes. Traffic activity and emission data obtained according to a basic (reference) scenario
+are displayed for the time period 1970–2020. In addition, a detailed assessment of the results produced by TRENDS was
+conducted by means of comparison with data found in the literature.
+Finally, vehicle emissions produced by the model for the EU15 member states were spatially disaggregated for the base year,
+1995 and GIS maps were generated. Examples of these maps are displayed in this document, for the various modes of transport
+considered in the study.

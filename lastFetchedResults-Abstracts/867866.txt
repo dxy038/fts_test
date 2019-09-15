@@ -1,0 +1,12 @@
+Scheduling with learning effects has received a lot of research attention lately. By learning effect, we
+mean that job processing times can be shortened through the repeated processing of similar tasks. On
+the other hand, different entities (agents) interact to perform their respective tasks, negotiating among
+one another for the usage of common resources over time. However, research in the multi-agent setting
+is relatively limited. Meanwhile, the actual processing time of a job under an uncontrolled learning effect
+will drop to zero precipitously as the number of jobs increases or a job with a long processing time exists.
+Motivated by these observations, we consider a two-agent scheduling problem in which the actual processing
+time of a job in a schedule is a function of the sum-of-processing-times-based learning and a control
+parameter of the learning function. The objective is to minimize the total weighted completion time
+of the jobs of the first agent with the restriction that no tardy job is allowed for the second agent. We
+develop a branch-and-bound and three simulated annealing algorithms to solve the problem. Computational
+results show that the proposed algorithms are efficient in producing near-optimal solutions.

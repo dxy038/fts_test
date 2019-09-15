@@ -1,0 +1,1 @@
+Some new approaches to active compensator allocation and sizing in distribution networks have been proposed in the paper. A few objective functions as well as their advantages and disadvantages have been given. Moreover, software which enables practical verification of the strategies has been described.

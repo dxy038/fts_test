@@ -1,0 +1,10 @@
+Context
+-oriented programming (AOP) promises to improve many facets of software quality by providing better modularization and separation of concerns, which may have system wide affect. There have been numerous claims in favor and against AOP compared with traditional programming languages such as Objective Oriented and Structured Programming Languages. However, there has been no attempt to systematically review and report the available evidence in the literature to support the claims made in favor or against AOP compared with non-AOP approaches.
+ive
+esearch aimed to systematically identify, analyze, and report the evidence published in the literature to support the claims made in favor or against AOP compared with non-AOP approaches.
+
+formed a systematic literature review of empirical studies of AOP based development, published in major software engineering journals and conference proceedings.
+s
+arch strategy identified 3307 papers, of which 22 were identified as reporting empirical studies comparing AOP with non-AOP approaches. Based on the analysis of the data extracted from those 22 papers, our findings show that for performance, code size, modularity, and evolution related characteristics, a majority of the studies reported positive effects, a few studies reported insignificant effects, and no study reported negative effects; however, for cognition and language mechanism, negative effects were reported.
+sion
+ likely to have positive effect on performance, code size, modularity, and evolution. However its effect on cognition and language mechanism is less likely to be positive. Care should be taken using AOP outside the context in which it has been validated.

@@ -1,0 +1,10 @@
+This paper presents a novel multi-objective mathematical model of a periodic vehicle
+routing problem (PVRP) in a competitive situation for obtaining more sales. In such a situation, the
+reaching time to customers affects the sale amount; therefore, distributors intend to service customers
+earlier than other rivals for obtaining the maximum sale. Moreover, a partial driver’s benefit is related
+to the amount of their sale; thus, the balance of goods based on the vehicles capacity is important. Due
+to its complexity, it is so difficult to optimally solve this problem in a reasonable computational time.
+Hence, two algorithms are proposed based on multi-objective particle swarm optimization (MOPSO)
+and NSGAII algorithm. A comparison of our results with three performance metrics confirms that the
+proposed MOPSO is an efficient algorithm for solving the competitive PVRP with a reasonable
+computational time.

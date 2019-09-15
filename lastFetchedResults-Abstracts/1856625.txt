@@ -1,0 +1,5 @@
+Changing requirements and on-going decision making along the entire project life cycle are well handled by Agile methods. However Agile projects still use evaluation methods during the RFP stage that do not fulfill the flexibility mandated by the Agile manifesto.
+
+t evaluation methods assume a single development alternative, and thus a fixed cost–benefit tradeoff. The proposed model provides a more realistic approach by relaxing this assumption. It assumes that a supplier can propose several different alternatives (Multi-Alternative Proposal) reflecting diverse potential cost-benefit tradeoffs. The model makes it possible to rank the suppliers of these Multi-Alternative Proposals at the RFP stage.
+
+eas behind the method combine concepts from both the Agile approach and Data Mining. Thus suppliers who provide multi-alternative proposals can be ranked in an objective, but very intuitive manner.

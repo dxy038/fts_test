@@ -1,0 +1,1 @@
+The possibility to classify the land cover by the characteristics of surface anisotropy is attempted using bidirectional reflectance distribution function (BRDF) model. The semiempirical BRDF model is applied to the SeaWiFS (Sea-viewing Wide Field-of-view Sensor) data around Japan. The results is compared with the field survey based vegetation map

@@ -1,0 +1,15 @@
+This paper presents, analyzes, and tests a row-action method for solving the regularized linear programming problem:
+image
+minimize 1/2short parallelxshort parallel22+αcTx
+image
+subjectto Axgreater-or-equal, slantedb,where α is a given positive constant. The proposed method is based on the observation that the dual of this problem has the form:
+image
+maximize bTy−1/2short parallelATy−αcshort parallel22
+image
+subjectto ygreater-or-equal, slanted0,and if yα solves the dual then the point xα=ATyα−αc provides the unique solution of the primal. Maximizing the dual objective function by changing one variable at a time results in an effective row-action method which is suitable for solving large sparse problems.
+
+One aim of this paper is to clarify the convergence properties of the proposed scheme. Let yk denote the estimated dual solution at the end of the kth iteration, and let xk=ATyk−αc denote the corresponding primal estimate. It is proved that the sequence {xk} converges to xα, while the sequence {yk} converges to a point yα that solves the dual. The only assumption which is needed in order to establish these claims is that the feasible region is not empty.
+
+Yet perhaps the more striking features of the algorithm are related to temporary situations in which it attempts to solve an inconsistent system. In such cases the sequence {yk} obeys the rule:
+image
+yk=uk+kv,where {uk} is a fastly converging sequence and v is a fixed vector that satisfies ATv=0 and bTv>0. So the sequence {xk} is almost unchanged for many iterations. The paper ends with numerical experiments that illustrate the effects of this phenomenon and the close links with Kaczmarz's SOR method.

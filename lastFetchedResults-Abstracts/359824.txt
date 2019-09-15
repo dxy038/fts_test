@@ -1,0 +1,16 @@
+Background
+Increased slope of exercise ventilation to carbon dioxide production (VE/VCO2) is an established prognosticator in patients with heart failure. Recently, the occurrence of exercise oscillatory breathing (EOB) has emerged as an additional strong indicator of survival.
+Objective
+
+The aim of this study is to define the respective prognostic significance of these variables and whether excess risk may be identified when either respiratory disorder is present.
+Methods
+
+In 288 stable chronic HF patients (average left ventricular ejection fraction, 33 ± 13%) who underwent cardiopulmonary exercise testing, the prognostic relevance of VE/VCO2 slope, EOB, and peak Vo2 was evaluated by multivariate Cox regression.
+Results
+
+During a mean interval of 28 ± 13 months, 62 patients died of cardiac reasons. Thirty-five percent presented with EOB. Among patients exhibiting EOB, 54% had an elevated VE/VCO2 slope. The optimal threshold value for the VE/VCO2 slope identified by receiver operating characteristic analysis was <36.2 or ≥36.2 (sensitivity, 77%; specificity, 64%; P < .001).
+
+Univariate predictors of death included low left ventricular ejection fraction, low peak Vo2, high VE/VCO2 slope, and EOB presence. Multivariate analysis selected EOB as the strongest predictor (χ2, 46.5; P < .001). The VE/VCO2 slope (threshold, <36.2 or ≥36.2) was the only other exercise test variable retained in the regression (residual χ2, 5.9; P = .02). The hazard ratio for subjects with EOB and a VE/VCO2 slope ≥36.2 was 11.4 (95% confidence interval, 4.9-26.5; P < .001).
+Conclusion
+
+These findings identify EOB as a strong survival predictor even more powerful than VE/VCO2 slope. Exercise oscillatory breathing presence does not necessarily imply an elevated VE/VCO2 slope, but combination of either both yields to a burden of risk remarkably high.

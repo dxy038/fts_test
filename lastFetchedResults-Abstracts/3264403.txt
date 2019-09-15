@@ -1,0 +1,1 @@
+This paper presents the design of a directive and circularly polarized antenna with parasitic elements over the [2.23-2.68] GHz frequency band. The objective of this work is to design an architecture parasitic antenna with single feed element that meets to the radiation objectives: a broadside directional beam with circular polarization over the [2.23-2.68] GHz frequency band.

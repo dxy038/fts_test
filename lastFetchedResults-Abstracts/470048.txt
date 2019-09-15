@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to develop a predictive model for preeclampsia.
+Study design
+This was a prospective screening study for preeclampsia using uterine artery Doppler ultrasound in unselected low-risk singleton pregnancies at community hospitals in the UK (n = 32,157). Logistic regression models were developed and their predictive ability assessed using the area under the receiver operator curve (AROC).
+Results
+Six hundred twelve (2.0%) women developed preeclampsia, and 144 (0.5%) required early delivery (<34 weeks). A model using both maternal and ultrasound factors had an AROC of 0.798, which was higher than ultrasound alone (0.729, P< .0001) or maternal factors alone (0.712, P< .0001). In early onset disease, the ROC of ultrasound alone (0.922) was not significantly improved by adding maternal predictors (0.945, P = .27). In contrast, late onset disease was better predicted by the combined model (AROC 0.798) than ultrasound alone (AROC 0.729, P< .0001) or maternal factors alone (AROC 0.712, P< .0001).
+Conclusion
+The combination of uterine artery Doppler ultrasound and maternal factors provided the best estimate of risk.
+

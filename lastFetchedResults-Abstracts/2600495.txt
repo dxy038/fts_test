@@ -1,0 +1,14 @@
+In this research, multi-level optimization of the prole of the splitter blades
+of a turbocharger compressor is performed using genetic algorithm in order to improve its
+performance. Successive corrections of the prole at hub, mid-span, and shroud of the
+splitter blades, with the objective of decreasing the incidence losses at the leading edge and
+adjustment of the blade loading at the shroud, result in an impeller having improved splitter
+blades. The impeller 
+ow field analysis shows that the optimization has been successful in
+reducing the 
+ow leakage at the shroud region as well as the losses in the leading edge region.
+Although numerical simulations predict a decrease by 0.5% in pressure ratio at design point,
+a 2.2-point improvement in isentropic efficiency is calculated. Based on the optimization
+results, a new impeller is designed, manufactured, and tested on a turbocharger test bed.
+Experimental results support the simulation predictions on the expected improvement in
+performance.

@@ -1,0 +1,8 @@
+The bottom surface of conventional cavity receiver cannot be fully covered by coiled metal tube during fabrication, which would
+induce a dead space of solar energy absorption. The dead space of solar energy absorption can severely decrease the optical efficiency
+of cavity receiver. Two new types of cavity receiver with bottom surface convex are put forward with the objective to solve the problem of
+dead space of solar energy absorption and improve the optical efficiency of cavity receiver. The optical efficiency and heat flux distribution
+of the two new types of cavity receiver are analyzed by Monte Carlo ray tracing method. Besides, the optical efficiency comparisons
+between conventional cavity receiver and the two new types of cavity receiver are conducted at different characteristic parameter
+conditions.
+  2013 Elsevier Ltd. All rights reserved.

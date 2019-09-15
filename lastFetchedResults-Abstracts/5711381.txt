@@ -1,0 +1,1 @@
+In this paper, a new market allocation method is proposed and the deregulated power market is formulated as a multi-objective optimization problem. An efficient algorithm that exploits simplicity out of a complex search to speed up the searching process is proposed and solves this problem accurately

@@ -1,0 +1,1 @@
+It is shown that layered feedforward nets are convergent, while nonperiodic oscillations might occur in bidirectional nets. The virtual lateral inhibition phenomenon in feedforward nets is discussed. It is shown that a certain kind of nonlinearity in output functions may be successfully used in realizing winner-take-all networks

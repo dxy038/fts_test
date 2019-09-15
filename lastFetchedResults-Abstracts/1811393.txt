@@ -1,0 +1,8 @@
+Background
+han one million individuals in Mexico are infected with hepatitis C virus (HCV), and 80% are at risk for developing a chronic infection that could lead to hepatic cirrhosis and other complications that impact quality of life and institutional costs. The objective of the study was to determine the most cost-effective treatment against HCV among the following: peginterferon, peginterferon plus ribavirin, peginterferon plus ribavirin plus thymosin, and no treatment.
+s
+ried out cost-effectiveness analysis using the institutional perspective, including a 45-year time frame and a 3% discount rate for costs and effectiveness. We employed a Bayesian-focused decision tree and a Markov model. One- and two-way sensitivity analyses were performed, as well as threshold-oriented and probabilistic analyses, and we obtained acceptability curves and net health benefits.
+s
+ therapy (peginterferon plus ribavirin plus thymosin alpha-1) was dominant with lower cost and higher utility in relationship with peginterferon + ribavirin option, peginterferon alone and no-treatment option. In triple therapy the cost per unit of success was of $1,908 [USD/quality-adjusted life years (QALY)] compared with peginterferon plus ribavirin $2,277/QALY, peginterferon alone $2,929/QALY, and no treatment $4,204/QALY. Sensitivity analyses confirmed the robustness of the base case.
+sions
+erferon plus ribavirin plus thymosin alpha-1 option was dominant (lowest cost and highest effectiveness). Using no drug was the most expensive and least effective option.

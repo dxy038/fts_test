@@ -1,0 +1,8 @@
+Objective
+pare the diagnostic ability of gadoxetic acid-enhanced hepatocyte-phase MR images with aspartate aminotransferase-to-platelet ratio index (APRI) to predict liver fibrosis stage.
+als and Methods
+udy included 100 patients who underwent gadoxetic acid-enhanced MRI and either liver biopsy or liver surgery. Liver fibrosis stage was histologically determined according to the METAVIR system: F0 (n=16), F1 (n=17), F2 (n=10), F3 (n=21) and F4 (n=36). Four measures were used as imaging-based fibrosis markers: liver-spleen contrast ratio, liver-enhancement ratio, corrected liver-enhancement ratio and spleen index. APRI represented a blood test-based fibrosis marker. The diagnostic ability of those fibrosis markers were compared through receiver-operating characteristic analysis.
+s
+ea under the curve (AUC) for APRI prediction of severe fibrosis (≥F3 and F4) was significantly greater than that of corrected liver-enhancement ratio. However, corrected liver-enhancement ratio had a greater AUC for prediction of mild fibrosis (≥F1) than APRI, although the difference was insignificant.
+sion
+ted liver-enhancement ratio with gadoxetic acid-enhanced MRI is correlated to the stage of liver fibrosis. APRI, however, has greater reliability for predicting severe fibrosis and cirrhosis than does the imaging-based fibrosis marker tested in this study.

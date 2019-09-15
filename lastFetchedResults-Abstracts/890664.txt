@@ -1,0 +1,16 @@
+Presenting an efficient general feature selection method for the problem of the curse of dimensionality
+is still an open problem in pattern recognition, and, considering the cooperation among features
+through search processes, it is the most important challenge. In this paper, a combinatorial approach has
+been proposed, which consists of three feature reduction algorithms that have been applied in a parallel
+manner to cooperate. We consider each of these algorithms as a component in a reduction framework. For
+each component, among all various attribute selection algorithms, the Tabu Search (TS) a useful and state
+of the art algorithm, is used. To take account of the interaction between features, more subsets should be
+examined. Hence, each component should explore individually through feature space in a local area which
+is different from other components. The proposed algorithm, called the Cooperative-Tabu-Search (CTS),
+and also a revised version of this new method, is introduced to accelerate the convergence. After sufficient
+iterations, which satisfy the objective function; the final subset has been selected by voting between three
+reduction phases, and the data is then transformed into the new space, where the data are classified with
+some commonly used classifiers, such as Nearest Neighbor (NN) and Support Vector Machine (SVM). The
+employed benchmark of this paper is chosen among the UCI datasets to evaluate the proposed method
+compared to others. The experimental results show the supremacy of the accuracy of the implemented
+combinatorial approach in comparison with traditional methods.

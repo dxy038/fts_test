@@ -1,0 +1,1 @@
+A new automatic optimization method called Razor Search is presented. The method, which is based on pattern search, was specifically developed for the optimization by computer of networks for which the objective is to minimize the maximum deviation of some response from a desired ideal response specification. Examples falling within the scope of this paper are shown in Fig. 1.

@@ -1,0 +1,14 @@
+IN this paper, a new approach to formulate a class of scheduling problems is introduced, which
+can be applied to many other discrete problems with complicated structures. The concept
+of graph circular coloring is applied to develop a model for the special case of an open shop
+scheduling problem. In this problem, there are some independent jobs to be processed in a
+shop with dedicated renewable resources. Each job consists of several tasks with no precedence
+restriction. Each task is processed without preemption. The processing time of the tasks is given.
+Processing each task requires using some multiple specified types of resource, while no more than
+one task can use each resource, simultaneously. Some tasks can be shared by more than one job
+and the process may be repeated more than once. The objective is to develop a schedule which
+yields the minimal makespan length of all jobs, as well as the number of cycles. The model is first
+developed for cases when the processing time of each task is one unit and, then, it is generalized
+by relaxing this restriction. In both cases, a circular coloring formulation is shown in comparison
+with traditional formulation (single process execution) results in an improved makespan and also
+the required information regarding the optimum number of cycles to repeat the process.

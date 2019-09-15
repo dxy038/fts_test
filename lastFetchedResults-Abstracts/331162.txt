@@ -1,0 +1,11 @@
+Objective
+Poly(methyl methacrylate) (PMMA) is commonly processed in dentistry by thermally initiating the free-radical polymerization of methyl methacrylate (MMA). Residual MMA, a tissue irritant, is a concern. The concentration of MMA ([MMA]) versus time and temperature was studied to identify optimum processing conditions.
+Materials and methods
+
+One hundred milligram portions of plain and dental PMMA powders were incubated (10–170 °C, 1–384 h), with and without 6.0 μL MMA added. After incubation, [MMA] was determined by GC.
+Results
+
+For plain PMMA alone, equilibrium was attained in about 100 h. The equilibrium data for log[MMA] versus 1/T was better fitted by a quadratic than a straight line, and formed an upper bound to the values of [MMA] when PMMA was incubated with MMA at temperatures >not, vert, similar120 °C. The response surface for [MMA] versus log(time) and reciprocal temperature was fitted. An ‘overshoot’ in the equilibration process was identified, and postulated to be due to a rapidly formed intermediate of unknown chemistry.
+Significance
+
+Minimization of the residual MMA in acrylic denture bases prepared by processing a mixture of PMMA and MMA is important for reasons of mechanical properties and irritancy. The response surface mapped here allows direct identification of the optimum processing conditions.

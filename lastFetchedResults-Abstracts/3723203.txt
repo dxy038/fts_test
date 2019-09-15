@@ -1,0 +1,1 @@
+A new on-line learning algorithm for feedforward neural networks is presented. This algorithm is realised by using a technique for minimum tracking of a time-dependent objective function. Theoretical analysis shows that it converges exponentially, and simulations show that it is very effective

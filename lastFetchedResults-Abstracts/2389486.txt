@@ -1,0 +1,7 @@
+The primary scientific objective of the Mars Advanced Radar for Subsurface and Ionosphere Sounding (MARSIS), which will be on board Mars Express mission scheduled for launch in 2003, is to map the distribution and depth of the liquid water/ice interface in the upper kilometres of the crust of Mars. MARSIS will also provide unique information to help us understand the recent crustal evolution of the planet. In addition an ionosphere sounding experiment will measure the electron density and structure of the upper atmosphere during day-time operations.
+
+cribe the design approach and expected performance by focusing on a model of the surface scattering, which is critical to obtaining a good quality radar response.
+
+racterize the surface in terms of large-scale morphology upon which small-scale geometric variation is superposed. Moreover, MOLA data have been processed using a fractals model to better describe the surface roughness of Mars.
+
+d three categories of rock material with different dielectric properties to assess the performance of the Radar Sounder and detect the depth of the ice/water and dry/ice interface. This paper will focus on studying the effect of Mars surface roughness on the penetration performance of MARSIS as a subsurface sounding instrument. The impact of ionosphere on MARSIS operation and performance is significant and will be discussed in a future paper by other authors.

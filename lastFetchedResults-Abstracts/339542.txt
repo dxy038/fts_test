@@ -1,0 +1,11 @@
+Objective
+The ability of erythropoietin (EPO) to elicit a pro-angiogenic effect on human mesenchymal stem cells (hMSC) was tested. hMSC are currently under study as therapeutic delivery agents that target tumor vessels. Hypoxia favors the differentiation of hMSC towards a pro-angiogenic program. However, the classical angiogenic factors, vascular endothelial growth factor and basic fibroblast growth factor, are not fully capable of restoring this effect. The hypoxia-regulated factor, EPO, induces angiogenesis in endothelial cells. Here, EPO's pro-angiogenic effect on hMSC was analyzed.
+Methods
+
+hMSC were tested for EPO receptor expression by western blot, immunofluorescence, and flow cytometry assays. Downstream receptor signaling components JAK and STAT were measured by standard assays. Pro-angiogenesis effects mediated by EPO treatment of hMSC were measured by proliferation, cytokine, or pro-angiogenesis factor secretion, metalloprotease activation, migration, invasion, wound healing, and tubule formation assays.
+Results
+
+hMSC express the cognate EPO receptor and are capable of promoting angiogenesis following EPO treatment in all the angiogenesis assays tested. EPO-treated hMSC proliferate and secrete pro-angiogenesis factors more readily than untreated hMSC. EPO leads to increased hMSC chemotaxis, migration, and activation of matrix metalloprotease-2. This treatment causes greater recruitment of vessels as measured in an in vivo angiogenesis assay.
+Conclusion
+
+EPO is capable of eliciting a pro-angiogenesis program in hMSC that instigates secretion of angiogenic factors and the subsequent recruitment of endothelium. This study defines a novel mechanism for tumor cell recruitment of blood vessels that is important to consider in the design of stem cell–based therapies.

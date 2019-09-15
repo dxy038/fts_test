@@ -1,0 +1,7 @@
+Background/Aims
+The Peroxisome Proliferator-Activated Receptor (PPAR) α belongs to the superfamily of Nuclear Receptors and plays an important role in numerous cellular processes, including lipid metabolism. It is known that PPARα also has an anti-inflammatory effect, which is mainly achieved by down-regulating pro-inflammatory genes. The objective of this study was to further characterize the role of PPARα in inflammatory gene regulation in liver.
+Results
+According to Affymetrix micro-array analysis, the expression of various inflammatory genes in liver was decreased by treatment of mice with the synthetic PPARα agonist Wy14643 in a PPARα-dependent manner. In contrast, expression of Interleukin-1 receptor antagonist (IL-1ra), which was acutely stimulated by LPS treatment, was induced by PPARα. Up-regulation of IL-1ra by LPS was lower in PPARα −/− mice compared to Wt mice. Transactivation and chromatin immunoprecipitation studies identified IL-1ra as a direct positive target gene of PPARα with a functional PPRE present in the promoter. Up-regulation of IL-1ra by PPARα was conserved in human HepG2 hepatoma cells and the human monocyte/macrophage THP-1 cell line.
+Conclusions
+In addition to down-regulating expression of pro-inflammatory genes, PPARα suppresses the inflammatory response by direct up-regulation of genes with anti-inflammatory properties.
+

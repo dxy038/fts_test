@@ -1,0 +1,11 @@
+Objectives
+Polymerization shrinkage of dental composite materials is recognized as one of the main reasons for the development of marginal leakage between a tooth and filling material. In addition, hydroscopic expansion due to water sorption is known to cause instability in dental materials. Several methods have been proposed to quantify the polymerization shrinkage and hydroscopic expansion. However, in the case of anisotropic materials, such as unidirectional fiber-reinforced composites (FRCs), the measurement method must allow for the discrimination of the shrinkage or expansion in the two orthogonal directions. In this work, optical fiber sensors were employed to study strains in dental materials induced by polymerization shrinkage and hydroscopic expansion.
+Methods
+
+Four dental materials were evaluated in this study: unfilled BisGMA/TEGDMA-based resin, Z250 dental restorative composite, unidirectional and bidirectional fiber reinforced composites. The changes in the linear strain due to the polymerization shrinkage and hydroscopic expansion were monitored in real-time using embedded optical fiber Bragg grating (FBG) sensors. The polymerization shrinkage was monitored during the light curing process. FBG sensors were also used to record the hydroscopic expansion of the samples which were immersed in water up to 132 days.
+Results
+
+Unfilled polymer resin had the highest polymerization shrinkage of 0.84%. Unidirectional FRC had a relatively high shrinkage in the transverse direction with respect to the reinforcing fibers (0.41%) whereas the shrinkage along the reinforcing fibers was small (0.02%). Bidirectional FRC showed a low shrinkage value (0.03%). For most tested materials the hydroscopic expansion seemed to compensate for the polymerization shrinkage.
+Significance
+
+Fiber Bragg grating sensors are suitable for accurate real-time monitoring of small internal strains of biomaterials, e.g., due to polymerization shrinkage and hydroscopic expansion. Detailed data on polymerization shrinkage and water sorption behavior of different dental materials can be used to optimize the mechanical properties of dental composite materials and to improve the longevity of a dental restoration.

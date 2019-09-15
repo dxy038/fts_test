@@ -1,0 +1,1 @@
+A novel approximation for the delays used in focused beamforming is presented which is based on weighting the terms of the Fresnel approximation. The objective is to enlarge the validity region of the Fresnel approximation to investigate wider scanning regions. The results obtained by applying the proposed approximation to a planar array are presented

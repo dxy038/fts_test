@@ -1,0 +1,11 @@
+Objective
+All-trans retinoic acid (ATRA) has been used as the first-line therapy for patients with acute promyelocytic leukemia (APL). We previously reported that ATRA increased serum thrombopoietin (TPO) levels accompanied by thrombocytosis during ATRA therapy for APL. In this study, we investigated the mechanism of transcriptional regulation of TPO gene by ATRA using human bone marrow stromal cells.
+Materials and methods
+
+Real time reverse transcriptase polymerase chain reaction and Western blotting were performed to quantify TPO mRNA and protein levels in cells from the human bone marrow stromal cell line KM101. Luciferase-based reporter assay, electrophoretic mobility shift assay (EMSA), and chromatin immunoprecipitation (ChIP) assay were performed to identify a retinoic acid responsive element in the promoter region of TPO gene (TPO-RARE).
+Results
+
+TPO mRNA expression was up-regulated by approximately 2.9 times 8 hours after stimulation with 10−6 M ATRA in KM101 cells. In contrast, ATRA did not alter TPO mRNA expression in cells from the human hepatoma cell line HepG2. Protein level of KM101 cells also was increased with 10−6 M ATRA for 48 hours in KM101 cells. We found the synthesized RARα protein bound to [γ-32P]-labeled TPO-RARE probe and its binding was competed by adding 200× amount of cold TPO-RARE probe by EMSA. In addition, [γ-32P]-labeled TPO-RARE probe bound to KM101 nuclear protein extract was supershifted by anti-RARα antibody and modified by treatment with ATRA. The relative luciferase activity of TPO gene was increased by 2.2× and the histone H4 was acetylated through TPO-RARE after ATRA stimulation in KM101 cells by ChIP assay.
+Conclusions
+
+These data support the direct up-regulation of TPO transcription by ATRA stimulation in human bone marrow stromal cells and propose one of the mechanisms of thrombocytosis during ATRA therapy for APL.

@@ -1,0 +1,9 @@
+Study objective
+The accurate diagnosis of influenza remains a diagnostic dilemma. We examine the performance of various strategies for diagnosing influenza infection in an unselected sample of adults during influenza season.
+Methods
+Consecutive adults presenting to a university emergency department or urgent care clinic between January and March 2002 with acute respiratory complaints were eligible for this prospective observational study. The performance of clinician judgment, a rapid influenza test, and a clinical prediction rule in predicting influenza infection was evaluated using referent standard of reverse transcriptase polymerase chain reaction. Statistical significance was assessed using McNemar's test of proportions.
+Results
+Fifty-three of 258 (21%) patients had a positive influenza reverse transcriptase polymerase chain reaction test. Overall, clinician judgment showed sensitivity of 29% (95% confidence interval [CI] 18% to 43%) and specificity of 92% (95% CI 87% to 95%). The rapid influenza test showed a sensitivity of 33% (95% CI 22% to 47%) and specificity of 98% (95% CI 96% to 99%). The clinical prediction rule showed a sensitivity of 40% (95% CI 27% to 54%) and specificity of 92% (95% CI 87% to 95%). Clinician judgment when patients presented within 48 hours showed a sensitivity of 67% (95% CI 39% to 86%) and specificity of 96% (95% CI 81% to 99%). Neither the rapid influenza test (P=.10) nor the clinical prediction rule (P=.42) was superior to clinician judgment alone in the diagnosis of influenza.
+Conclusion
+The suggestion that a clinical decision rule or a rapid influenza test is better than clinical judgment alone for the diagnosis of influenza in an unselected patient population is not supported by this study.
+

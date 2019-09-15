@@ -1,0 +1,1 @@
+The objective of this note is to further investigate the subgroup structure of the multiplicative group D*(G) of the skew field, or division ring of fractions formed from the group ring of a finitely-generated torsion-free nilpotent group G. In particular, it will be shown that certain wreath products can be embedded in D*(G) for some G.

@@ -1,0 +1,19 @@
+For some problems global optimization algorithms may have a significant probability of not converging
+to the global optimum or require an extremely large number of function evaluations to reach it. For
+such problems, the probability of finding the global optimum may be improved by performing multiple
+independent short searches rather than using the entire available budget of function evaluations on a single
+long search. The main difficulty in adopting such a strategy is to decide how many searches to carry out
+for a given function evaluation budget. The basic premise of this paper is that different searches may
+have substantially different outcomes, but they all start with rapid initial improvement of the objective
+function followed by much slower progress later on. Furthermore, we assume that the number of function
+evaluations to the end of the initial stage of rapid progress does not change drastically from one search to
+another for a given problem and algorithmic setting. Therefore we propose that the number of function
+evaluations required for this rapid-progress stage be estimated with one or two runs, and then the same
+number of function evaluations be allocated to all subsequent searches. We show that these assumptions
+work well for the particle swarm optimization algorithm applied to a set of difficult analytical test problems
+with known global solutions. For these problems we show that the proposed strategy can substantially
+improve the probability of obtaining the global optimum for a given budget of function evaluations. We
+also test a Bayesian criterion for estimating the probability of having reached the global optimum at the
+end of the series of searches and find that it can provide a conservative estimate for most problems. Finally,
+we demonstrate the approach on a particularly challenging engineering design problem constructed so as
+to have at least 32 widely separated local optima. Copyright q 2006 John Wiley & Sons, Ltd

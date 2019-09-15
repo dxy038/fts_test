@@ -1,0 +1,7 @@
+Background. To effectively promote physical activIty, researchers and policy makers have advocated for greater use of environmental approaches, such as the construction of community paths and trails. However, research on the use of these facilities is limited.
+
+Methods. In this cross-sectional community study, we examined associations between self-reported and objective physical environmental variables and use of the Minuteman Bikeway (Arlington, MA) in a random sample of 413 adults. Sociodemographic and perceived environmental variables were measured with a mail survey during September 1998. Geographic information system (GIS) data were used to geocode survey respondents' homes and create three objective environmental variables: distance to the Bikeway, steep hill barrier, and a busy street barrier.
+
+Results. In logistic models, age and female gender showed statistically significant inverse associations with Bikeway use over the previous 4-week period. Increases in self-reported (OR = 0.65) and GIS distance (OR = 0.57) were associated with decreased likelihood of Bikeway use. Absence of self-reported busy street (OR = 2.01) and GIS steep hill barriers (OR = 1.84) were associated with Bikeway use.
+
+Conclusions. Environmental barriers such as travel distance and hilly terrain should be considered when planning community trails. A better understanding of such factors may lead to more effective promotion of trail use. 

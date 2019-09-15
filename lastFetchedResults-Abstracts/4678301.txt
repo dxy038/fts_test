@@ -1,0 +1,1 @@
+A bidirectional algorithm for computing spectral coefficients of convolutional and tailbiting codes is presented and used to obtain new codes.

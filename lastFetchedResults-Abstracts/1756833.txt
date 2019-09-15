@@ -1,0 +1,8 @@
+Objective
+estigate the association between specific mental disorders and the common cold.
+s
+ve binomial regression analyses were applied to examine cross-sectional associations of a broad range of mental disorders according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) employing the standardized Munich Composite International Diagnostic Interview, with the self-reported number of occurrences of the common cold during the past 12 months in a representative population sample of 4022 German adults aged 18–65 years.
+s
+adjustment for covariates including age, gender, and marital and socioeconomic status, having any 12-month DSM-IV mental disorder (incidence rate ratio [IRR] = 1.44, 95% confidence interval [CI] = 1.29–1.60), any substance abuse or dependence (IRR = 1.32, 95% CI = 1.14–1.52), possible psychotic disorder (IRR = 1.43, 95% CI = 1.09–1.87), any mood disorder (IRR = 1.35, 95% CI = 1.16–1.56), any anxiety disorder (IRR = 1.40, 95% CI = 1.23–1.59), or any somatoform disorder (IRR = 1.38, 95% CI = 1.18–1.62) was shown to be positively associated with the number of occurrences of a cold during the past 12 months.
+sion
+esence of a DSM-IV mental disorder was associated with a 44% higher risk of having experienced a cold in the past 12 months. Further studies are needed to explore potential common risk factors for incidence of mental disorders and the common cold, since the pathway connecting them has not been fully determined.

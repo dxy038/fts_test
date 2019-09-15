@@ -1,0 +1,1 @@
+We propose a hybrid all-optical repeater for 10G/1G-EPON mixed bit-rate upstream link. Through a bidirectional transmission experiments, we successfully achieved a total loss budget of 62.1 dB which corresponds to 80km reach and 1024 split.

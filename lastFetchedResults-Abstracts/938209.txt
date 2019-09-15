@@ -1,0 +1,14 @@
+The objective of this study was to assess the relationship between blood-lead levels ŽBLL., hematological, liver and
+renal indicators among workers in a lead battery factory in Taiwan over a 10-year period. Blood samples were taken
+periodically from 30 workers and BLL, HGB Žhemoglobin., RBC Žred blood cells., WBC Žwhite blood cells. and HCT
+Žhematocrit. were measured. Levels of GPT Žalanine aminotransferase. and Crea Žcreatinine. in the blood were
+assessed to indicate liver and renal function, respectively. The results showed that there was a general decrease in
+BLL over the 10-year period Žexcept for 1993.. There was a similar trend for HCT, RBC and Crea. There was no
+significant trend for the other health indicators. Four generalized estimating equation ŽGEE. models  correlation
+model ŽA., threshold correlation model ŽB., instant change model ŽC. and lag change model ŽD.  were set up to
+demonstrate the causal relationship between BLL and the other health indicators. Models A and C showed that BLL
+correlated positively with RBC, but negatively with Crea. Model B showed that BLL correlated positively with GPT.
+There were no significant correlations of BLL with the other indicators. Models C and D, ŽGEE with logit link
+function to analyze the association between changes BLL and the other health indicators. showed that when BLL
+increased, RBC and HCT increased, both longitudinally and cross-sectionally. The authors conclude that long-term
+exposure to lead stimulates production of RBC and HCT, but the effect on liver and renal function was unclear.

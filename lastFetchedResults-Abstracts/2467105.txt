@@ -1,0 +1,10 @@
+Context
+tanding and resolving counterexamples in model checking is a difficult task that often takes a significant amount of resources and many rounds of regression model checking after any fix. As such, it is desirable to have algorithmic methods that correct finite-state models when their model checking for a specific property fails without undermining the correctness of the rest of the properties, called the model correction problem.
+ive
+jective of this paper is to mitigate time and space complexity of correction.
+
+ieve the objective, this paper presents a distributed method that solves the model correction problem using the concept of satisfying subsets, where a satisfying subset is a subset of model computations that meets a new property while preserving existing properties. The proposed method automates the elimination of superfluous non-determinism in models of concurrent computing systems, thereby generating models that are correct by construction.
+s
+e implemented the proposed method in a distributed software tool, called the Model Corrector (ModCor). Due to the distributed nature of the correction algorithms, ModCor exploits the processing power of computer clusters to mitigate the space and time complexity of correction. Our experimental results are promising as we have used a small cluster of five regular PCs to automatically correct large models (with about 3159 reachable states) in a few hours. Such corrections would have been impossible without using ModCor.
+sions
+sults of this paper illustrate that partitioning finite-state models based on their transition relations and distributing them across a computer cluster facilitates the automated correction of models when their model checking fails.

@@ -1,0 +1,1 @@
+The objective of this paper is to derive a satellite attitude estimation algorithm only using vector observation from the star-sensor, in gyros-less or gyro-disable mode. State estimation is achieved through the unscented Kalman filter (UKF) based on unscented transformation. Simulation results indicate that this approach is feasible and effective

@@ -1,0 +1,9 @@
+This paper presents Danish experiences with measurement of odour from a rendering plants bio-filter by use of a recently developed Danish Odour Sensor System (DOSS). A rendering plant produces numerous odorous compounds and might cause annoyance in the environment. The plant management wants to minimize the amount of odour components released into the surroundings. The intention of the DOSS project is to develop a so-called electronic nose with a fast response time for use as an on-line odour-monitoring tool in the exhaust from bio-filters.
+
+in DOSS objective is to develop and evaluate gas sensors and sensor systems (collectively called electronic noses) for industrial applications, specifically a system for on-line process control. The sensors should provide real-time measurement assessment of odours at the source and possibly at the receptor location. Bio-filter outlet is estimated to be less than 5000 OU/m3 (Odour Units).
+
+SS uses six QMB sensors, six MOS sensors and four chemical/infrared/capacitive sensors for measuring O2, H2O, CO, CO2. The data during instrument development is gathered from sample bags and compared with reference odour concentrations (OU/m3). Results from experiments are presented. Principal components analysis (PCA) and partial least squares (PLS) regression plots indicate good classification and prediction expectation. Preliminary results on interfering compounds, e.g. H2O, H2S and CO2 are shown.
+
+thod was thus far developed and evaluated under laboratory conditions. Generally, the results obtained with the electronic nose measurement method showed a good repeatability and a potential to get useful results comparable with odour emission over the range 1000–30,000 OU/m3.
+
+ments with the DOSS have shown that the method has a high potential as fast, reliable odour-monitoring tool for rendering plant emission monitoring.

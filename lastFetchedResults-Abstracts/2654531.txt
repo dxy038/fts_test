@@ -1,0 +1,18 @@
+The optimal reactive power dispatch (ORPD) problem is a very important aspect in power system planning,
+and it is a highly non-linear, non-convex optimization problem because it consists of both the continuous and
+discrete control variables. Since a power system has an inherent uncertainty, this paper presents both the
+deterministic and stochastic models for the ORPD problem in multi-objective and single-objective
+formulations, respectively. The deterministic model considers three main issues in the ORPD problem
+including the real power loss, voltage deviation, and voltage stability index. However, in the stochastic
+model, the uncertainties in the demand and equivalent availability of shunt reactive power compensators
+have been investigated. To solve them, we proposed a new modified harmony search algorithm (HSA),
+implemented in single and multi-objective forms. Since, like many other general purpose optimization
+methods, the original HSA often traps into the local optima, an efficient local search method called chaotic
+local search (CLS) and a global search operator are proposed in the internal architecture of the original HSA
+algorithm to improve its ability in finding the best solution because the ORPD problem is very complex, with
+different types of continuous and discrete constrains, i.e. excitation settings of generators, sizes of fixed
+capacitors, tap positions of tap changing transformers, and amount of reactive compensation devices.
+Moreover, the fuzzy decision-making method is employed to select the best solution from the set of Pareto
+solutions. The proposed model is individually examined and applied on different test systems. The
+simulation results show that the proposed algorithm is suitable and effective for the reactive power dispatch
+problem compared to the other available algorithms.

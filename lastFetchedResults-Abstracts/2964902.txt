@@ -1,0 +1,1 @@
+Various methods for design of fault detectors by using multi objective techniques are presented. The advantages of using multi objective design methods are shown. The design methods are compared to standard fault detection and isolation (FDI) design methods. The FDI problem with uncertain model dynamics is addressed as well

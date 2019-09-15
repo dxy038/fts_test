@@ -1,0 +1,7 @@
+Ipclass — an interactive program for calibrating activated sludge systems is formulated and demonstrated. The model involves
+a heuristic screening algorithm for exploring the system equations structure, analytical computations of the sensitivities of the
+variables to the model coefficients, analytical computations of the gradients of the objective functions selected for the calibration
+process, and a gradient interactive steepest descent minimization scheme. The methodology was implemented in an end-user PC
+program: Ipclass, that uses the TK Solver and Matlab as computational engines, and Visual Basic as the shell. Applications
+to the activated sludge system models of (Argaman Water Research 29(1) (1995), 137-145) and Argaman et al. (Journal of Environmental
+Engineering ASCE 125(7) (1999), 608-617) are presented.

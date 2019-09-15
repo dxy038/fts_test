@@ -1,0 +1,20 @@
+Objective: Autoimmune diseases precede a complex dysregulation of the immune system.
+T helper17 (Th17) and interleukin (IL)-17 have central roles in initiation of inflammation
+and subsequent autoimmune diseases. IL-27 significantly controls autoimmune
+diseases by Th17 and IL-17 suppression. In the present study we have created genetic
+engineered mesenchymal stem cells (MSCs) that mediate with lentiviral vectors to release
+IL-27 as an adequate vehicle for ex vivo gene therapy in the reduction of inflammation and
+autoimmune diseases.
+Materials and Methods: In this experimental study, we isolated adipose-derived MSCs
+(AD-MSCs) from lipoaspirate and subsequently characterized them by differentiation. Two
+subunits of IL-27 (p28 and EBI3) were cloned in a pCDH-513B-1 lentiviral vector. Expressions
+of p28 and EBI3 (Epstein-Barr virus induced gene 3) were determined by real time
+polymerase chain reaction (PCR). MSCs were transduced by a pCDH-CMV-p28-IRESEBI3-
+EF-copGFP-Pur lentiviral vector and the bioassay of IL-27 was evaluated by IL-10
+expression.
+Results: Cell differentiation confirmed true isolation of MSCs from lipoaspirate. Restriction
+enzyme digestion and sequencing verified successful cloning of both p28
+and EBI3 in the pCDH-513B-1 lentiviral vector. Real time PCR showed high expressions
+level of IL-27 and IL-10 as well as accurate activity of IL-27.
+Conclusion: The results showed transduction of functional IL-27 to AD-MSCs by means of a
+lentiviral vector. The lentiviral vector did not impact MSC characteristics.

@@ -1,0 +1,9 @@
+The use of in-flight oxygen collection has shown to significantly improve space launcher performance. The conceptual approach followed by Belgian teams working on oxygen collection has been to try to widening the available design margins in order to reduce the required technological leap and limit the economical risk associated with such a development.
+
+m of the ESA-funded theoretical and experimental study on an air separation device is to demonstrate the possibility of performing efficient air distillation in a compact rotating column. An integration of the vehicle, propulsion system and separation unit designs is presented. The objective is to optimise the overall vehicle performance while keeping technological difficulty and system complexity at a reasonable level.
+
+nce vehicles are presented within their specific mission profiles with an emphasis on TSTO's.
+
+ent layouts of the internal energy and mass flowsheets have been studied and were compared in order to make best use of the refrigeration capacity of the hydrogen fuel running through the propulsion system during the first phase of the flight. In those flowsheets, the separator is considered as a classical distillation tray column. That analysis provides the requirements in terms of heat exchange capacity, compression ratios and number of so-called transfer units needed in the separator. The system is intentionally kept simple to limit complexity, but the analysis is thorough and accurate, including, for example, the effect of the presence of argon. Results for a supersonic carrier are presented.
+
+act separation unit has been designed in order to reach those requirements. That includes internals, practical building with estimates of pressure drops, separation performance and flow limitation. Main results are given, sizing of the separator bed is provided for a carrier plane showing that such on-board separator is indeed practical.

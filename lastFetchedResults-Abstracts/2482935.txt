@@ -1,0 +1,11 @@
+This paper explores the capabilities of Multi-objective Particle Swarm Optimization algorithm
+in a simulation-optimization model for solving waste load allocation problems. The main goals are total
+treatment costs, violation of the water quality standards and equity. In this research, the water quality
+simulation model is coupled with a multi-objective optimization model, MOPSO. In order to derive nondominated
+solutions, two different optimization models are used. The first is referred to as the cost versus
+quality model and the second one also consider minimizing cost and inequity. For the each case, the trade-off
+curve (Pareto front) is derived and the best non-dominated solution on the trade-off could be selected by
+stakeholders and decision makers. The proposed model has been developed for Haraz River in the northern
+part of Iran which represented scenarios considering different interests and answered questions to modify
+scenarios according to the decision makers’ideas. Solutions were compared with NSGA-II, and the results
+demonstrate a suitable convergence and diversity of proposed algorithm.

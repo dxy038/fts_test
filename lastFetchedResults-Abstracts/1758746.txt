@@ -1,0 +1,8 @@
+Objective
+m of this study was to determine the percentage of hospitals with adequate sample size to meaningfully compare performance by using the Agency for Healthcare Research and Quality (AHRQ) pediatric quality indicators (PDIs), which measure pediatric inpatient adverse events such as decubitus ulcer rate and infections due to medical care, have been nationally endorsed, and are currently publicly reported in at least 2 states.
+s
+formed a cross-sectional analysis of California hospital discharges from 2005–2007 for patients aged &lt;18 years. For 9 hospital-level PDIs, after excluding discharges with PDIs indicated as present on admission, we determined for each PDI the volume of eligible pediatric patients for each measure at each hospital, the statewide mean rate, and the percentage of hospitals with adequate volume to identify an adverse event rate twice the statewide mean.
+s
+sted California-wide event rates for PDIs during the study period (N = 2 333 556 discharges) were 0.2 to 38 per 1000 discharges. Event rates for specific measures were, for example, 0.2 per 1000 (iatrogenic pneumothorax in non-neonates), 19 per 1000 (postoperative sepsis), and 38 per 1000 (pediatric heart surgery mortality), requiring patient volumes of 49 869, 419, and 201 to detect an event rate twice the statewide average; 0%, 6.6%, and 25%, respectively, of California hospitals had this pediatric volume.
+sion
+these AHRQ-developed, nationally endorsed measures of the quality of inpatient pediatric care, one would not be able to identify many hospitals with performance 2 times worse than the statewide average due to extremely low event rates and inadequate pediatric hospital volume.

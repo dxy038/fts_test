@@ -1,0 +1,12 @@
+This study presents an optimized design of microgrid (MG) in distribution systems with multiple distributed generation (DG) units
+under different market policies such as pool/hybrid electricity market.
+Proposed microgrid includes various energy sources such as photovoltaic array and wind turbine with energy storage devices such as
+battery bank.
+In this study, microgrid is considered as independent power producer company (IPP) in power system. Price of selling/buying power
+in on-peak or off-peak for MG, DG and upstream power system (DISCO) under pool/bilateral/hybrid electricity market are different. In
+this study, particle swarm optimization (PSO) algorithm has been implemented for the optimization of the microgrid cost. The costs
+include capital cost, replacement cost, operation and maintenance costs and production cost for microgrid and DGs. Then, an objective
+function to maximize total net present worth (NPW) is presented. PSO approach is employed to obtain the minimum cost of microgrid,
+during interconnected operation by optimizing the production of local DGs and power exchanges with the main distribution grid. The
+optimization algorithm is applied to a typical LV network operating under different market policies.
+  2011 Elsevier Ltd. All rights reserved.

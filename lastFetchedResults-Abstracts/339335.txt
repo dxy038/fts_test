@@ -1,0 +1,11 @@
+Objective
+The selective elimination of alloreactive T cells from donor stem cell grafts prior to hematopoietic stem cell transplantation (HSCT) is an important goal in the prevention of graft-vs-host disease (GVHD). However, in HLA-identical donor-recipient pairs, it has proven difficult to identify alloreactive T cells using in vitro systems pretransplant due, in part, to their low frequency and a lack of methodological standardization. To better understand the alloresponse between HLA-identical related pairs, we characterized the alloreactive T cells generated in a mixed lymphocyte reaction (MLR) assay system.
+Methods
+
+HSCT donor peripheral blood mononuclear cells (responder) were labeled with carboxyfluorescein diacetate, succinimidyl ester (CFSE) dye and cocultured with irradiated HSCT recipient cells (stimulator) in a one-way MLR. Alloreactive T cells were sorted by upregulation of activation markers (CD25 in most cases) and the responding clonotypes were defined by sequencing the complementarity region 3 (CDR3) of the T cell receptor β-chain.
+Results
+
+We show that the recruitment of alloreactive CD4+ T cells is highly variable. Oligoclonal CD4+ T-cell expansions in repeated MLRs performed in the same donor-recipient pair showed inconsistent recruitment of clonotypes. The recruitment of alloreactive CD8+ T cells was more consistent in repeated assays, with the same clonotypes identified in the same donor-recipient pair performed under different conditions.
+Conclusion
+
+Taken together, our data show that even in culture conditions constrained to eliminate background proliferation, stochastic events and low precursor frequencies preclude reproducible elicitation of immunodominant T cell clonotypes with the potential to cause GVHD.

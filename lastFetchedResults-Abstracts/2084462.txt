@@ -1,0 +1,5 @@
+The objective of KATRIN is the determination of the mass of the electron anti-neutrino with a sensitivity of 200 meV by investigating the kinematics of the electrons from tritium β decay. It is currently under construction at KIT (Karlsruhe Institute of Technology).
+
+component of the KATRIN experiment is the Windowless Gaseous Tritium Source (WGTS), in which molecular tritium decays with an activity of 1011 Bq. A precise understanding of the properties of the WGTS is mandatory for the neutrino mass determination. In particular the gas dynamics is crucial since the measured energy spectrum is influenced by inelastic scattering of the decay electrons with the tritium molecules as well as Doppler broadening of the electron energy. Therefore parameters of the WGTS such as purity, temperature, density and velocity distributions of the tritium gas and the magnetic field strength inside the WGTS have to be modeled in detail.
+
+alk gives an overview of the simulation and modeling program package currently in development which allows us to study the influence of the WGTS parameters on the measured electron energy spectrum.

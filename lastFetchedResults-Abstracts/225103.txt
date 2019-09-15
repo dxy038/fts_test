@@ -1,0 +1,17 @@
+Utilities frequently use ADSS (All Dielectric
+Self-Supporting) fiber-optic cables installed on transmission lines
+3–6 m below the high voltage conductors. Dry-band arcing occurs
+on the fiber-optic cables when the cables are polluted and wet.
+This has been assumed to cause cable failures.
+An equivalent circuit has been developed to represent the
+polluted fiber-optic cable in the high voltage environment. The
+objective of this paper is to present a novel numerical method that
+can be used to predict dry-band arcing in fiber-optic cables. KCL
+(Kirchoffs Current Law) is used to derive node point equations
+for the equivalent circuit. Forward elimination and backward
+substitution of node voltage is used to solve the equations. The
+effect of pollution, tower arrangement, and conductor sag is
+analyzed. The numerical method has speed advantages over
+circuit simulation methods. This method includes conductor sag,
+non uniform pollution, and variable capacitance. This algorithm
+can be used to predict dry band arcing in fiber-optic cables.

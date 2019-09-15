@@ -1,0 +1,1 @@
+A multi-objective genetic algorithm (GA) has been applied in conjunction with the numerical electromagnetic code (NEC) to the optimization of wire pre-fractal Koch-like antennas in terms of bandwidth, efficiency, and electrical size. Their performance is compared to that of other nonfractal designs.

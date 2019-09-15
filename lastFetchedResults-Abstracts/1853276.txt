@@ -1,0 +1,8 @@
+Objective
+EIRA has proved to be successful in the detection of anomalous patient responses to treatments in the Intensive Care Unit, it could not describe to clinicians the rationales behind the anomalous detections. The aim of this paper is to address this problem.
+s
+tempts have been made in the past to build knowledge-based medical systems that possess both argumentation and explanation capabilities. Here we propose an approach based on Dung's seminal calculus of opposition.
+s
+e developed a new tool, arguEIRA, which is an extension of the existing EIRA system. In this paper we extend EIRA by providing it with an argumentation-based justification system that formalizes and communicates to the clinicians the reasons why a patient response is anomalous.
+sion
+mparative evaluation of the EIRA system against the newly developed tool highlights the multiple benefits that the use of argumentation-logic can bring to the field of medical decision support and explanation.

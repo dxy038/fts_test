@@ -1,0 +1,15 @@
+The paper shows the practical importance of the failure probability-safety factor method for designing
+engineering works. The method provides an automatic design tool by optimizing an objective function
+subject to the standard geometric and code constraints, and two more sets of constraints, that guarantee
+some given safety factors and failure probability bounds, associated with a given set of failure modes.
+Since a direct solution of the optimization problem is not possible, the method proceeds as a sequence
+of three steps: (a) an optimal classical design, based on given safety factors, is done, (b) failure
+probabilities or bounds of all failure modes are calculated, and (c) safety factors bounds are adjusted.
+This implies a double safety check that leads to safer structures and designs less prone to wrong or
+unrealistic probability assumptions, and to excessively small (unsafe) or large (costly) safety factors.
+Finally, the actual global or combined probabilities of the different failure modes and their correlation
+are calculated using a Monte Carlo simulation. In addition, a sensitivity analysis is performed. To
+this end, the optimization problems are transformed into another equivalent ones, in which the data
+parameters are converted into artificial variables. In this way, some variables of the dual associated
+problems become the desired sensitivities. The method is illustrated by its application to the design
+of a composite beam

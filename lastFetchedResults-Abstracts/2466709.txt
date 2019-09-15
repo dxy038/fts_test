@@ -1,0 +1,10 @@
+Context:
+n quality of software systems be predicted before deployment? In attempting to answer this question, prediction models are advocated in several studies. The performance of such models drops dramatically, with very low accuracy, when they are used in new software development environments or in new circumstances.
+ive
+in objective of this work is to circumvent the model generalizability problem. We propose a new approach that substitutes traditional ways of building prediction models which use historical data and machine learning techniques.
+
+s paper, existing models are decision trees built to predict module fault-proneness within the NASA Critical Mission Software. A genetic algorithm is developed to combine and adapt expertise extracted from existing models in order to derive a “composite” model that performs accurately in a given context of software development. Experimental evaluation of the approach is carried out in three different software development circumstances.
+s
+sults show that derived prediction models work more accurately not only for a particular state of a software organization but also for evolving and modified ones.
+sion
+proach is considered suitable for software data nature and at the same time superior to model selection and data combination approaches. It is then concluded that learning from existing software models (i.e., software expertise) has two immediate advantages; circumventing model generalizability and alleviating the lack of data in software-engineering.

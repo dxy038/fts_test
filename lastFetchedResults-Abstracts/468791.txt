@@ -1,0 +1,9 @@
+Objective
+The study was undertaken to assess whether prenatal Doppler variables can identify cases of fetal growth restriction (FGR) approaching term who are at risk for adverse neonatal outcome.
+Study design
+From a cohort of FGR cases delivered at ≥34 weeks, fetal biometry and pulsatility indices (PI) of fetal arteries obtained less than 2 weeks before delivery were related to adverse neonatal outcome, defined as admission to the neonatal intensive care unit (NICU) for indications other than low birth weight alone.
+Results
+Stepwise regression analysis showed that after controlling for gestational age at delivery and fetal biometry, only the last umbilical artery (UA) PI percentile was significantly predictive of adverse neonatal outcome (odds ratio = 1.02, 95% CI 1.01-1.03, P = .02). Receiver operating characteristic curve analysis identified a UA PI at the 65th percentile as optimal predictor of adverse neonatal outcome (sensitivity = 60%, false-positive rate = 30%).
+Conclusion
+In FGR cases delivered at ≥34 weeks' gestation, Doppler PI at the UA independently predicts the likelihood of admission to the NICU for reasons other than low birth weight alone.
+

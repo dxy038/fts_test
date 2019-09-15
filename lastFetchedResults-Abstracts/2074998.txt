@@ -1,0 +1,26 @@
+1. Introduction
+Many of citizens living in urban areas are exposed to many dangers which the main result of the fire. Among the elements of fire stations and Land Use Services - Emergency towns which are vital role in protecting life and property against various disasters, particularly hazards are human. City of safety against fire hazards and safety guarantees in different land uses and urban Taxpayers important element of the charge. The layout and location of fire stations and the location and number of sites suitable for coating according to the characteristics of the citizens, current and anticipated financial and logistical possibilities for future development of the In this context, critical and immediate need is.
+2.	Study Area
+As one of the major cities of Mashhad, Iran &apos;s second-largest city in the country, according to the statistics of the population, especially on holidays (due to the flexible nature of pilgrims in Mashhad), seems to be insufficient and inappropriate location of urban facilities and equipment, problems citizens has created. On the other hand, in Mashhad, like other metropolitan cities are faced with the phenomenon of marginalization. the core of the physical development of the marginalized population, over time, have been ingested within the law, without any infrastructure and facilities, such spontaneously formed.
+3.	Material and Methods        
+The research method is descriptive - analytical and practical aspects are described.
+A) Studies Library (documents and comments)
+B) Harvest field contains the geographic coordinates of spatial data like Hydrant valves.
+C) The use of GIS and Arc GIS 9.3 software for locating fire stations through the implementation process: 1 - extract the effective parameters in the model proposed center location 2 - Selecting optimal locations for proposed using multi criteria decision making.
+D) Method of data analysis: the analysis of the research model using fuzzy logic and analytic hierarchy process is.  This method is a combination of qualitative and quantitative methods.
+4. Results and Discussion
+The basic criteria are effective in locating fire stations.
+The process of locating fire stations after analyzing the current status of all stations in the city area - no proper access to such services by using fuzzy logic and analytic hierarchy process on 31 indicators grouped in five general measures of time, physical, population, numerous fires and accidents, and natural and infrastructural factors have been identified. Accordingly, the criteria for determining the location of the station, expert opinions and perceptions of fire safety services, field researcher, the optimal area of interest was determined. All of the above criteria through modeling in localization models using fuzzy analytic hierarchy process to analyze the situation and identify the zones have been used to create new stations.
+Spatial analysis - location and identification of the optimal locations.
+After identifying the factors and parameters to locate the optimal area for the construction of new fire stations in the service area, fire safety services, based on data the layers of the needed data (twenty-five of the information layer Location and Description) formed  &apos;s.
+Process analysis of existing fire stations and locate new zones.
+Step 1: Determine the overall goal
+Step 2: Determination of micro-objectives, criteria and selection models to identify the optimal zones.
+Step 3: Describe and analyze the data and identify indicators.
+Step 4: Identify the subject area of optimal (fuzzy logic model).
+Step 5: Identify zones of optimal combination of parameters (model AHP)
+Step 6: objective evaluation of the identified zones.
+Step 7: Identify the optimal marginal zones.
+Step 8: Identify and prioritize improvement areas.
+5. Conclusion
+Based on the analysis of existing fire stations and locate the optimal zone, create new stations in Mashhad (eight steps) were determined by the macro and micro targets. The optimal criteria for identifying zones on the 31 indicators in five main criteria of time, physical, population, numerous fires and accidents, natural causes and categories of infrastructure are examined. The set of indicators, analyzes the current status of all stations in the city area without proper access to such services was discussed. Next, a review of models and different methods and criteria and indicators used to evaluate the composition to attain the final zone, the Analytical Hierarchy Process (AHP) and fuzzy logic models are used. Then, based on analysis conducted on 42 layers of GIS data production environments based on the specified models, 17 new stations were selected to create the optimal zone. In the final stage, based on the criteria for determining the location of stations, expert opinions Fire Department and field research, in addition to 30 fire stations available (up to 1386) 28 points optimized to create a new station (Map No. 4) designation and is suggested . Since the establishment of priorities proposed stations (of the time) needs to be a priority for them. The priority topic Create a new station on the map (4) is specified.

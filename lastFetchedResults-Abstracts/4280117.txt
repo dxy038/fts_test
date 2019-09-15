@@ -1,0 +1,1 @@
+A neural network based alternator power angle estimation method is presented in this paper. The method is dedicated to detect load commutations in marine electrical network and to issue scheduling variables to gain scheduling controller. The global objective is to deal with the unexpected parameter oscillations problem in transient process when load commutations happen.

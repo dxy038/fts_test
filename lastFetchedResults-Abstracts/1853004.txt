@@ -1,0 +1,8 @@
+Objective
+upervised methods and unsupervised methods have been widely used to solve the tumor classification problem based on gene expression profiles. This paper introduces a semi-supervised graph-based method for tumor classification. Feature extraction plays a key role in tumor classification based on gene expression profiles, and can greatly improve the performance of a classifier. In this paper we propose a novel multi-step dimensionality reduction method for extracting tumor-related features.
+s and materials
+the Wilcoxon rank-sum test is used for gene selection. Then gene ranking and discrete cosine transform are combined with principal component analysis for feature extraction. Finally, the performance is evaluated by semi-supervised learning algorithms.
+s
+w the validity of the proposed method, we apply it to classify four tumor datasets involving various human normal and tumor tissue samples. The experimental results show that the proposed method is efficient and feasible. Compared with other methods, our method can achieve relatively higher prediction accuracy. Particularly, it is found that semi-supervised method is superior to support vector machines in classification performance.
+sions
+oposed approach can effectively improve the performance of tumor classification based on gene expression profiles. This work is a meaningful attempt to explore and apply multi-step dimensionality reduction and semi-supervised learning methods in the field of tumor classification. Considering the high classification accuracy, there should be much room for the application of multi-step dimensionality reduction and semi-supervised learning methods to perform tumor classification.

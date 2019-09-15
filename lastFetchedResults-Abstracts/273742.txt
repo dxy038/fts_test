@@ -1,0 +1,11 @@
+Dielectric elastomer actuators (DEAs) show promise for robotic and mechatronic applications. However, to date, these
+actuators have experienced high rates of failure that have prevented their practical application. Here, large scale modes of
+failure of DEAs and their performance limits are studied. The objective is to provide design guidelines and bound the performance
+of DEAs that avoid failure. An idealized DEA is modeled and its failure is predicted as a function of film prestretch
+used during actuator fabrication, actuation voltage, and stretch rate. Three failure modes are considered: pull-in,
+dielectric strength, and material strength. Each failure mode is shown to dominate for different combinations of pre-stretch
+and stretch rate. High stretch rates lead to dielectric strength failure while low stretch rates lead to pull-in failure. Material
+strength failure is less important for most cases. Model predictions are validated experimentally using practical DEAs
+operating under load. This study suggests that DEAs cannot be operated reliably under load for long periods of time
+or low stretch rates due to pull-in failure limitations. To be reliable, DEAs must be used for short periods of time with
+high stretch rates.

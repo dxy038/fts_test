@@ -1,0 +1,9 @@
+Attention with reverse logistics networks has increased during the last decade since their economic
+impact has been increasingly important and as environmental legislation has been becoming stricter.
+In this paper, A multi-period multi-echelon forward–reverse logistics network design under risk model is
+developed. The proposed network structure consists of three echelons in the forward direction, (suppliers,
+facilities and distribution centers) and two echelons, in the reverse direction (disassembly, and redistribution
+centers), first customer zones in which the demands are stochastic and second customer zones
+in which the demand is assumed to be deterministic, but it may also assumed to be stochastic. The problem
+is formulated in a stochastic mixed integer linear programming (SMILP) decision making form as a
+multi-stage stochastic program. The objective is to maximize the total expected profit.

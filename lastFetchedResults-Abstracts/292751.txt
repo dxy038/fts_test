@@ -1,0 +1,6 @@
+In this paper some expressions for stresses conjugate to two-point deformation tensors are derived. These expressions
+are offered in both the component and basis-free forms. Although, the material time rate of a two-point deformation tensor
+is not an objective quantity, the stress tensor conjugate to it may be determined. The component-form expressions are
+obtained by using the notion of conjugacy together with the objectivity of the stress power. The component-form expressions
+are then extended to a unified basis-free form, using a theorem established for this purpose. The specific results are
+provided for all different cases of distinct and coalescent principal stretches in a three-dimensional inner product space.

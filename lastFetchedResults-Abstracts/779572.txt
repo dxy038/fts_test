@@ -1,0 +1,14 @@
+SALIS is a repository of open source software along with
+metadata information. It is a pilot project covering the areas of computer
+networks and information systems. The objective is to demonstrate the
+usefulness of such repositories to the Indian academic and developer
+community in making informed decisions while using open source software.
+To enable organization and retrieval of the information stored in
+the repository, a modified CCS (Computing Classification Scheme) by
+ACM(Association of Computing Machinery) was used. Since a sizeable
+section of the end-user community was familiar with the USPTO classification
+scheme, a need was felt to classify the software by the USPTO
+scheme also. Instead of classifying by two schemes, it was decided to
+have a mapping or a concordance between the two schemes so that the
+classification process can be simplified. The approach used to derive a
+concordance between two diverse classification schemes is described.

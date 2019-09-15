@@ -1,0 +1,9 @@
+Background
+A primary limitation of using transit time flow measurement to predict early graft failure in coronary artery bypass grafting has been the lack of cutoff values for objective criteria.
+Methods
+We analyzed a total of 261 grafts that were evaluated by intraoperative transit time flow measurement and underwent early postoperative coronary angiography within 3 months of surgery. Based on the control angiography, failing grafts were defined as occluded or patent grafts with greater than 50% stenosis or poor flow characteristics. Normal and failing graft indicators were compared according to the graft territories.
+Results
+According to the receiver operating characteristic curve analysis for the grafts to left coronary arteries, a mean flow of 15 mL/min or less, a pulsatility index of 5.1 or higher, and a backward flow of 4.1% or higher were found to be the optimal cutoff criteria to predict early graft failure. Similarly, for the grafts to right coronary arteries, the cutoff values were 20 mL/min, 4.7, and 4.6%, respectively. A systolic dominant flow curve pattern was a risk factor only in grafts to the left coronary arteries. Negative predictive values of these cutoff criteria ranged from 0.91 to 0.96, whereas positive predictive values ranged from 0.31 to 0.80.
+Conclusions
+Using these criteria, transit time flow measurement may be a useful method to predict early graft failure. However, surgeons should be aware of the low positive predictive values to avoid unnecessary graft revision.
+

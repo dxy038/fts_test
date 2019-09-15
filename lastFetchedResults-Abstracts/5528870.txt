@@ -1,0 +1,1 @@
+This paper studies the optimal control of a domestic micro combined heat and power system. The objective function is to reduce the gas and electricity bill of the consumer. The problem is nonlinear and contains continuous and logical variables. Two solutions are compared in this paper: Dynamic Programming and Mixed Integer Linear Programming.

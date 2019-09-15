@@ -1,0 +1,11 @@
+Objective
+Lymphoma and leukemia account for nearly 8% of cancer fatalities each year. Present treatments do not differentiate between normal and malignant cells. New reagents that distinguish malignant cells and enable the isolation of these cells from the normal background will enhance the molecular characterization of disease and specificity of treatment.
+Methods
+
+Peptide ligands were selected from a phage-displayed peptide library by biopanning on the B-cell lymphoma line, A20. The isolated peptides were assessed as reagents for identification and isolation of lymphoma cells by flow cytometry and cell capture with magnetic beads.
+Results
+
+Two novel peptides and one obtained previously on cardiomyocytes were selected. A20 cells bind phage displaying these peptides 250- to 450-fold over control phage. These phage bind to other bone marrow–derived cancel lines including some macrophage and T cells but do not bind to normal splenocytes. Synthetic constructs of these peptides have binding affinities comparable to B-cell-specific antibodies. Similar to antibodies, these peptides can be used in flow cytometry and magnetic bead capture to distinguish lymphoma cells from normal splenocytes.
+Conclusion
+
+Bone marrow–derived malignant cells express cell surface markers that can be used to distinguish them from normal cells. These results demonstrate the ability to use an unbiased screen to rapidly generate high-affinity peptide ligands for identification and isolation of lymphoma cells.

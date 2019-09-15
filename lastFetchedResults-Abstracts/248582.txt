@@ -1,0 +1,27 @@
+This work is concerned with the numeric sti ness matrices of three-noded triangular plate bending  nite
+elements; in particular with those numeric sti ness matrices, which are freedom-de cient and comply with
+the conditions of the patch test.
+Subsequent to initial transformation of the rotation connectors for such matrices it is evident that there
+must exist an unique decomposition to the sti ness matrix  K6 2R6 6 of the corresponding Kirchho  six-
+noded constant bending moment triangle. In  K6 all six trial functions are themselves synonymous with those
+which describe the patch test.
+The transformation matrices of decomposition, and subsequent restoration upon modi cation or design,
+are derived explicitly and are succinct in application. Decomposition of the numeric sti ness matrix leads
+to exceptional versatility in objective modi cation, e.g. design of the matrix by adaptive process. Attention
+is con ned here to the sti ness matrices K9 2R9 9 of nine-degree-of-freedom three-noded Kirchho  plate
+bending triangles with their single-degree-of-freedom de ciency.
+The decomposition of the element sti ness matrix immediately reveals those six coe cients which are
+available for design. They control the e ect of transverse shear and are the constituents of a symmetric
+positive-de nite matrix M3 2R3 3 which is designated the `mechanism restraint' matrix. It is necessary only
+that the designed coe cients are such that the matrix M3 remains symmetric and positive de nite so as to
+ensure retention of patch test satisfaction on restoration to the newly designed K9.
+The illustrative examples provide a  rst perception of the leap in expectation which is enabled by design
+of the numeric K9 when uninhibited by formal method. Thus, the feasibility is illustrated of simple adaptive
+design of K9 with objective to recover cubically varying w displacements over an equilateral patch of equal
+triangles. This recovery is readily achieved by ad hoc inverse method but raises the issue of uniqueness
+in design. In highlighting the characteristics of M3 it is evident that there remains a wealth of opportunity
+for further research before adaptive design of the element sti ness matrix, within an arbitrary prevailing w
+displacement  eld, can become a practical reality.
+An appendix lists the Fortran computer codings which are used in the examples to calculate the sti ness
+matrix  K6 of the six-noded constant bending moment Kirchho  triangle as well as the explicit transformation
+matrices for decomposition and restoration of the numeric K9 sti ness matrix

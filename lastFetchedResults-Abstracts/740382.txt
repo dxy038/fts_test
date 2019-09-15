@@ -1,0 +1,9 @@
+Purpose
+Recent studies and anecdotal evidence suggest that patient safety may be compromised on weekends. Our objective was to determine whether rates of complications in hospitals are higher on weekends than on weekdays.
+Methods
+We examined records from 4,967,114 admissions to acute care hospitals in 3 states and analyzed complication rates using the Patient Safety Indicators. We selected 8 indicators that could be assigned to a single day: complications of anesthesia, retained foreign bodies, postoperative hemorrhage, accidental cuts and lacerations during procedures, birth trauma, obstetric trauma during vaginal deliveries with and without instrumentation, and obstetric trauma during cesarean delivery. Odds ratios (ORs) comparing weekends versus weekdays were adjusted for demographics, type of admission, and admission route. In a subgroup analysis of surgical complications, we restricted the population to patients who underwent cardiac or vascular procedures.
+Results
+Four of the 8 complications occurred more frequently on weekends: postoperative hemorrhage (OR 1.07, 95% confidence interval [CI], 1.01-1.14), newborn trauma (OR 1.06, 95% CI, 1.03-1.10), vaginal deliveries without instrumentation (OR 1.03, 95% CI, 1.02-1.04), and obstetric trauma during cesarean sections (OR 1.36, 95% CI, 1.29-1.44). Complications related to anesthesia occurred less frequently on weekends (OR 0.86). Among patients undergoing vascular procedures, surgical complications occurred more frequently on weekends (OR 1.46, 95% CI, 1.16-1.85).
+Conclusions
+Rates of complications are marginally higher on weekends than on weekdays for some surgical and newborn complications, but more significantly for obstetric trauma and for surgical complications involving patients undergoing vascular procedures. Hospitals should work toward increasing the robustness of safeguards on weekends.
+

@@ -1,0 +1,11 @@
+Objective
+The protooncogene c-Myc plays an important role in the control of cell proliferation, apoptosis, and differentiation, and its aberrant expression is frequently seen in multiple human cancers, including acute myeloid leukemia (AML). As c-Myc heterodimerizes with Max to transactivate downstream target genes in leukemogenesis. Inhibition of the c-Myc/Max heterodimerization by the recently identified small-molecule compound, 10058-F4, might be a novel antileukemic strategy.
+Materials and Methods
+
+HL-60, U937, and NB4 cells and primary AML cells were used to examine the effects of 10058-F4 on apoptosis and myeloid differentiation.
+Results
+
+We showed that10058-F4 arrested AML cells at G0/G1 phase, downregulated c-Myc expression and upregulated CDK inhibitors, p21 and p27. Meanwhile, 10058-F4 induced apoptosis through activation of mitochondrial pathway shown by downregulation of Bcl-2, upregulation of Bax, release of cytoplasmic cytochrome C, and cleavage of caspase 3, 7, and 9. Furthermore, 10058-F4 also induced myeloid differentiation, possibly through activation of multiple transcription factors. Similarly, 10058-F4–induced apoptosis and differentiation could also be observed in primary AML cells.
+Conclusion
+
+Our study has shown that inhibition of c-Myc/Max dimerization with small-molecule inhibitors affects multiple cellular activities in AML cells and represents a potential antileukemic approach.

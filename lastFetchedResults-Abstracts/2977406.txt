@@ -1,0 +1,1 @@
+Presents a variant of a probabilistic approach to motion planning. The objective is to face large, complex industrial environments for maintenance purpose. The contribution is based on a structuring of the workspace into boxes that limits the size of the graph to be searched. The algorithm was integrated in a commercial CAD system and real-size experiments are presented

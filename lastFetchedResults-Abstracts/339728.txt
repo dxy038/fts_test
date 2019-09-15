@@ -1,0 +1,11 @@
+Objective
+Bcl-2 family proteins play a critical role in malignancies by regulating the balance between cell survival and apoptosis. R-(-)−gossypol (AT-101) is a small molecule that mimics the BH3 domain of cellular Bcl-2 inhibitors and interferes with the function of prosurvival Bcl-2 proteins. We examined the cytotoxicity of AT-101 in the context of multiple myeloma, a fatal hematological malignancy.
+Materials and Methods
+
+Multiple myeloma cell lines and primary cells obtained from multiple myeloma patients were used to investigate the effects of AT-101. Cell viability, apoptosis, and apoptosis pathways were examined using conventional viability assays, flow cytometry, and immunoblots.
+Results
+
+AT-101 was not only cytotoxic to conventional multiple myeloma cell lines, but was also effective against drug-resistant cell lines and primary multiple myeloma patient cells. Furthermore, AT-101 decreased proliferation of multiple myeloma cell lines in the presence of marrow stromal cells, indicating that this drug may overcome the protective effect of the microenvironment that is important for multiple myeloma cell proliferation and survival. Apoptosis was activated via the mitochondrial pathway in multiple myeloma cell lines treated with AT-101 as demonstrated by an increased Bax to Bcl-2 ratio, mitochondrial membrane depolarization, and caspase activation. Finally, our studies demonstrated that AT-101 exhibits potent synergy with dexamethasone, a valuable therapeutic for multiple myeloma.
+Conclusion
+
+These data suggest that the activity of AT-101 may be highly relevant to multiple myeloma disease biology and may represent an option for treatment of patients with this disease.

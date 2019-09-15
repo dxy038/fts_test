@@ -1,0 +1,11 @@
+Objective
+To develop an immunomagnetic cell separation system for allogeneic hematopoietic stem cell (HSC) transplantations, which can achieve a high level of T-cell depletion (at least 4.0 log10), high level of recovery of hematopoietic stem cells (>90%), with a high throughput (>106 cells/second).
+Methods
+
+Peripheral blood leukocytes (PBLs) from buffy coats were spiked with CD34-expressing cells (KG1a) to mimic a leukaphoresis product containing stimulated HSCs. T cells were labeled with anti-CD3+ Dynabeads and separated in a quadrupole magnetic cell sorter (QMS). The performance of the system with respect to T-cell depletion and recovery of non–T cells and spiked KG1a was determined using four-color, flow cytometry analysis, with the aid of Trucount cell-concentration calibration beads. Limiting dilution assays were also performed to quantify the log10 depletion of clonable T cells.
+Results
+
+While the general performance of the QMS system is governed by proven theoretical principles, significant system variability exist, not all of which can be explained by our current understanding. Consequently, a factorial design was employed, guided by JMP software, to optimize the labeling conditions and operation of the QMS focused on maximizing the depletion of T cell, and recovery of unlabeled cells including KG1a cells. From these studies, an optimized, no wash, immunomagnetic labeling protocol and optimized QMS operating conditions were developed. For an average initial cell concentration of 1.7 × 108 total cells, an average 3.96 ± 0.33 log10 depletion (range, 3.53–4.34) of CD3+CD45+ cells with a mean 99.43% ± 4.23% recovery of CD34+CD45+ cells (range, 94.38–104.90%) was achieved at a sorting speed of 106 cells/s (n = 6). Limiting dilution assays on the T-cell depleted fractions, which gave a log10 depletion of 3.51 for the clonable T cells.
+Conclusion
+
+We suggest that this system will provide superior performance with respect to T-cell depletion and CD34+ recovery for clinical allogeneic bone marrow transplants. Ongoing studies, on a clinical scale, are being conducted to demonstrate this claim.

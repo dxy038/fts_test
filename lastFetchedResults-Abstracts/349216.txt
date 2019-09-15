@@ -1,0 +1,11 @@
+Objective
+Recently, the extended brain symmetry index (BSI) was introduced to assist the visual interpretation of the EEG, in particular to quantify both the spatial (left–right) and the temporal spectral characteristics. The BSI has found application in monitoring during carotid endarterectomy, acute stroke and focal seizure detection. Here, we present additional relevant characteristics and a slightly modified version of this index, simulating its behavior as may occur in various clinical conditions, with an emphasis on the detection of cerebral ischaemia.
+Methods
+The behavior of the revised and standard sBSI and tBSI is illustrated using random noise signals to simulate various changes in the EEG. The indices are evaluated as a function of spatial and temporal changes, and as a function of the number of channels.
+Results
+The r-sBSI and the r-tBSI are normalized in the range [0–1] with sensitivities of about 0.05 for a 10% difference in signal amplitude, either spatial or temporal. The baseline value of the sBSI shows a modest dependence on the number of channels used.
+Conclusions
+The revised BSI has an improved sensitivity (about two times) to detect interhemispheric asymmetry and diffuse changes. The modified expression of the tBSI is more compact and allows a more intuitive understanding than previously proposed.
+Significance
+qEEG assists in a more objective interpretation of the EEG, and is relevant in neuromonitoring.
+

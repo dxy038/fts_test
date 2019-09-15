@@ -1,0 +1,16 @@
+Voronoi cells and the notion of natural neighbours are used to develop a  nite di erence method for
+the di usion operator on arbitrary unstructured grids. Natural neighbours are based on the Voronoi
+diagram, which partitions space into closest-point regions. The Sibson and the Laplace (non-Sibsonian)
+interpolants which are based on natural neighbours have shown promise within a Galerkin framework
+for the solution of partial di erential equations. In this paper, we focus on the Laplace interpolant with
+a two-fold objective:  rst, to unify the previous developments related to the Laplace interpolant and
+to indicate its ties to some well-known numerical methods; and secondly to propose a Voronoi cell
+ nite di erence scheme for the di usion operator on arbitrary unstructured grids. A conservation law in
+integral form is discretized on Voronoi cells to derive a  nite di erence scheme for the di usion operator
+on irregular grids. The proposed scheme can also be viewed as a point collocation technique. A detailed
+study on consistency is conducted, and the satisfaction of the discrete maximum principle (stability) is
+established. Owing to symmetry of the Laplace weight, a symmetric positive-de nite sti ness matrix
+is realized which permits the use of e cient linear solvers. On a regular (rectangular or hexagonal)
+grid, the di erence scheme reduces to the classical  nite di erence method. Numerical examples for
+the Poisson equation with Dirichlet boundary conditions are presented to demonstrate the accuracy and
+convergence of the  nite di erence scheme

@@ -1,0 +1,9 @@
+The problem of assigning locomotives to trains consists of determining the number of
+locomotives of different types that provide sufficient power to pull trains on fixed schedules. The
+objective is to minimize the fixed and operational locomotive costs. The locomotive assignment
+problem is defined for cyclic and non cyclic problems. In this paper, an approach using a genetic
+algorithm and a neural network algorithm is presented to find a cyclic solution on a one-week
+horizon, while satisfying the power demands of all trains. This system was tested using realistic data
+from the Canadian National (C.N.) North America Company with about 1600 trains and 1300
+locomotives.
+

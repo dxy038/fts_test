@@ -1,0 +1,5 @@
+This paper deals with the control of the thawing front propagation in a foodstu. Recently, many results were obtained about the
+large in¯uence of the pressure on the thawing time. However, such a technology is used without any control of the thawing kinetics,
+which seems to aect the quality of the foodstu. With a view to improving it and to choosing the thawing time, the melting front
+propagation rate has to be mastered. To achieve this objective, we propose here to use a nonlinear control methodology. This
+methodology is carried out on water thawing.

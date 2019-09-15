@@ -1,0 +1,9 @@
+Objective
+To evaluate the diagnostic accuracy of vital signs for detecting brain lesions in patients with impaired consciousness in a rural setting.
+Methods
+We enrolled patients older than 12 years who presented with impaired consciousness of non-traumatic origin to the intensive care unit of a rural teaching hospital. The design was a cross sectional analysis of a hospital-based case series, independently comparing vital signs on admission (temperature, pulse, systolic and diastolic blood pressure) against a reference standard (final diagnosis). Diagnostic accuracy was measured by computing multi-level likelihood ratios, and area under the receiver operating characteristic (ROC) curve.
+Results
+We studied 386 patients of whom 242 (62.7%) were men. A total of 178 patients (46%) had a brain lesion. None of the clinical predictors could accurately distinguish between those with and without a brain lesion. The area under the ROC curve for pulse was 0.61 (S.E. 0.02); that for the systolic and diastolic blood pressure 0.70 (S.E. 0.02) each. Systolic BP provided informative test results in 29.7%, diastolic BP in 37.2% and pulse rate in 19.9% patients.
+Conclusion
+Our findings suggest that the vital signs lack accuracy for ruling in or ruling out brain lesion in patients with impaired consciousness.
+

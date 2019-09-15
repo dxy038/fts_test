@@ -1,0 +1,18 @@
+The main objective of this study is to drive a simple solution for prediction of steel fiber reinforced concrete (SFRC) behavior
+
+under four point bending test (FPBT). In this model all the force components at the beam section (before and after cracking)
+
+are formulated by applying these assumptions: a bilinear elastic-perfectly plastic stress-strain response for concrete behavior
+
+in compression, a linear response for the un-cracked tension region in a concrete constitutive model, and an exponential
+
+relationship for stress-crack opening in the crack region which requires two parameters.Then the moment capacity of the critical
+
+cracked section is calculated by applying these assumptions and satisfying equilibrium lawat critical cracked section. After that,
+
+parametric studies have been done on the behavior of SFRC to assess the sensitively of model. Finally the proposed model has
+
+been validated with some existing experimental tests.The result shows that the proposed solution is able to estimate the behavior
+
+of SFRC under FPBT with simplicity and proper accuracy.
+

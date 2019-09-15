@@ -1,0 +1,1 @@
+A multiple-valued asymmetric bidirectional associative memory (MABAM) is proposed. Using multiple-valued neurons, this model can store multiple-valued data pairs, so as to decrease the number of neurons in each layer and hence the number of interconnections. We suggest a learning rule for this model and prove its validity. Simulation results show the performance of this model

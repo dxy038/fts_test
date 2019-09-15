@@ -1,0 +1,11 @@
+Objective. Our previous study has developed the non-invasive models to predict the vertebral inclination angles by relating the external stick marker angles and radiographic measurements during trunk flexion. Based on these models, the present study attempted to further predict the inclination angles using externally measured body posture (i.e., lumbar posture, trunk flexion angle, knee angle) as well as load handling.
+
+Design. Prediction models of the vertebral inclination angles were developed with a stepwise regression technique. This was done by selecting related postural variables as well as load handling as predictors.
+
+Background. The technique of skin-surface stick marker has been investigated for measuring vertebral inclination angles. This technique, however, is rarely systematically validated by radiographic measurement because of concerns over radiation exposure, especially for ergonomical purposes.
+
+Methods. Twelve healthy men aged 22–31 years were recruited in the experiment. The angles of the vertebral markers and subject’s posture were recorded videographically as the subject performed a given task. Prediction models were then developed to express the relationships between the vertebral inclinations and the lifting postures.
+
+Results. The prediction models revealed that the lumbar posture (lordosis or kyphosis) had a statistically significant effect on these inclination angles. Non-linear first-order regression models of the torso angle and the pelvic angle were fit to the transformed vertebral inclination angles (transformed from external stick marker angle), with resulting R2 values between 0.86 and 0.92.
+
+Conclusions. These findings indicate that the vertebral inclination angles can be calculated easily and with relative accuracy on the basis of the externally measured torso and pelvis angles.

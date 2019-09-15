@@ -1,0 +1,1 @@
+This paper presents a novel bidirectional DC-DC converter for 42V/14V dual voltage systems in automobiles. The converter uses clamped zero voltage switching to minimize losses, and interleaving for reduced current ripple. SABER simulations are presented to verify the design. The simulation results are confirmed by hardware implementation.

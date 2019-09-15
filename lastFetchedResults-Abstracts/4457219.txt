@@ -1,0 +1,1 @@
+The Boolean function factoring method with the objective of logic-level minimization is discussed in this paper. An optimization algorithm for combinational logic circuits is proposed based on Lawler´s clustering algorithm and sublogic structural transformation

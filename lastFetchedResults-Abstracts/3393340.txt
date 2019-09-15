@@ -1,0 +1,1 @@
+A multi-objective optimisation approach is to facilitate the mapping of continuous-time controllers into the discrete domain. This technique enables the control engineer to meet a set of different in a balanced way and exploits the availability of suitable software.

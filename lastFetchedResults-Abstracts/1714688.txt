@@ -1,0 +1,9 @@
+Many industrial processes are based on two reactions: a primary one related to the achievement of the main process objective and a secondary one which is necessary to continuously run the process. Those reactions can be performed continuously by means of two interconnected fluidized beds.
+
+oposed design consists of two interconnected circulating fluidized beds (CFB). Both reactors can be operated in fast fluidization regime improving the particles' gas contact and reducing the reactor's system volume. The two CFBs are interconnected by means of pneumatically controlled divided loop-seals and a bottom extraction/lift. The divided loop-seals can re-circulate back to the reactor of origin part of the entrained solids; this implies that the amount of exchanged solids can be controlled and uncoupled from the amount of entrained solids. The bottom extraction/lift compensates the lower entrainment capability of the reactor with less fluidizing gas availability.
+
+ense hydrodynamic test campaign has been performed with a full scale cold flow model. The design has proven to be reliable offering a stable operational window. Some interesting dependencies of the entrained solids flux have been found: from the cyclone pressure drop and the superficial gas velocity.
+
+vided loop-seal allowed a stable internal recirculation of the entrained solids, up to 50%, without affecting the reactors' hydrodynamics. Such system could work effectively by controlling the pressures in correspondence of the points where the loop-seals return legs merge with the reactors. In this way gas backflows and particle losses through the cyclones are avoided.
+
+ operational procedure of the pneumatically controlled double loop CFB has been defined by means of a combined usage of the two key components: the bottom extraction/lift and the pneumatically controlled divided loop-seals. Design improvements were also identified.

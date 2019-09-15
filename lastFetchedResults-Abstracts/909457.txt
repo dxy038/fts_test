@@ -1,0 +1,11 @@
+The problem of analyzing the chemical state of the troposphere and the associated emission scenario on the basis of observations
+and model simulations is considered. The method applied is the four-dimensional variational data assimilation method (4D-var)
+which iteratively minimizes the misfit between modeled concentration levels and measurements. The overall model–observation
+discrepancy is measured in terms of a cost function, of which the gradient is calculated for subsequent minimization by adjoint
+modeling. The model applied is the University of Cologne EURopean Air pollution Dispersion model (EURAD) simulating the
+meso-alpha scale. The forward and adjoint components are Bott’s horizontal and vertical advection scheme (Bott, Mon. Wea. Rev.
+117 (1989), 1006), implicit vertical diffusion, and the RADM2 gas phase chemistry. The basic feasibility of the adjoint modeling
+technique for emission rate assessment is demonstrated by identical twin experiments. The objective of the paper is to demonstrate
+the skill and limits of the 4D-var technique to analyze the emission rates of non-observed precursor constituents of ozone, when
+only ozone observations are available. It is shown that the space–time variational approach is able to analyze emission rates of NO
+directly. For volatile organic compounds (VOC), regularization techniques must be introduced, however.

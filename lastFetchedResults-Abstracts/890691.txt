@@ -1,0 +1,11 @@
+Control charts are widely used for monitoring the quality of a product or a process. Their implementation
+cost motivates researchers to design them with the lowest cost and most desirable statistical
+properties. Usually, the cost function is optimized subject to statistical properties. However, the cost
+function also depends on statistical properties, and minimizing it as the only objective is not an efficient
+method of economic statistical design of control charts. In this paper, cost function, as well as statistical
+properties, including probability of Type I error, power of X control chart, and Average Time to Signal
+(ATS), are considered as objectives; the corresponding constraints are also used. Then, a Multi-Objective
+Genetic Algorithm for Economic Statistical Design (MOGAESD) is proposed for identifying the Pareto optimal
+solutions of control chart design. The preferred solution is selected by the designer. The performance
+of the proposed method is compared through some numerical examples reported in the literature. The
+results show that the proposed approach is effective.

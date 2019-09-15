@@ -1,0 +1,1 @@
+We study the problem of survivable Virtual Optical Network (VON) mapping in a flexible grid optical network with programmable regenerators that are capable of converting spectrum and modulation format. We propose heuristic algorithms to address the problem with the objective of minimizing blocking probability for dynamic VON requests.

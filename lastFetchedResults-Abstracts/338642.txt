@@ -1,0 +1,11 @@
+Objective
+The objective of this study was to delineate a precise molecular map of the commonly deleted region (CDR) on mouse chr2 in radiation-induced mouse acute myeloid leukemic (AML) cells.
+Materials and Methods
+
+We used a PCR-based loss of heterozygosity (LOH) assay to map the chr2-CDR in AML cells isolated from F1 hybrid mice (imageBALB/cJ × imageCBA/CaJ) which developed AML following exposure to a single dose of 3 Gy of 137Cs γ rays. A total of 30 polymorphic microsatellite markers, mapping within or close to chr2(D-E), were used under optimized PCR conditions that generate a single major band for each marker on a nondenaturing polyacrylamide gel.
+Results
+
+Detailed LOH mapping identified two distinct AML-CDRs: one localized to a 4.6 centiMorgan (cM) interval between markers D2Mit272 and D2Mit394; the other mapped to a 0.8 cM interval between markers D2Mit276 and D2Mit444. Both CDRs span the mouse chr2E region.
+Conclusion
+
+The data present, for the first time, evidence for two distinctly noncontiguous CDRs on mouse chr2 harboring gene(s) involved in AML development. These CDRs are orthologous to human chromosomes 11p11-13 and 15q11-15 that have been implicated in subsets of AML. This finding indicates the region of mouse chr2 that must be searched for candidate genes involved in radiation-induced AML.

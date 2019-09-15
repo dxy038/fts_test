@@ -1,0 +1,7 @@
+The main objective of the paper is to characterize multipliers of summability fields of regular methods,
+while relaxing the usual boundedness condition. For this purpose we use the sequence spaces of A-bounded
+sequences and A-uniformly integrable sequences. Among the main results, it is shown that the space of
+multipliers is closely related to the space of A-statistically convergent sequences and that A-statistical convergence
+over  ∞ is equivalent to a regular matrix method. This observation eliminates the need for separate
+proofs of several A-statistical convergence results.
+© 2007 Elsevier Inc. All rights reserved

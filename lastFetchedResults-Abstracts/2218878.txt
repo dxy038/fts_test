@@ -1,0 +1,17 @@
+Background: Noise pollution has increased to alarming extent in most of the urban areas in Pakistan. It is assumed
+even more perilous than air and water pollution due to its direct acute and chronic physio-psychological effects.
+The objective of this study is to analyze and evaluate the psychological and physiological effects caused by traffic
+noise on traffic wardens and to find relation type between exposure time and effect.
+Methods: Three wardens check posts near roads were selected for survey in Taxila and Islamabad cities of Pakistan.
+Survey conducted included noise measurements at aforementioned check posts for one month and Performa
+based interviews of traffic wardens.
+Results and conclusions: Analysis of results showed that noise levels varied between 85-106 dB hence violating
+OSHA regulations. Major psychological effects found in wardens were aggravated depression 58%, stress 65%,
+public conflict 71%, irritation and annoyance 54%, behavioral affects 59% and speech interference 56%. Physiological
+effects found were hypertension 87%, muscle tension 64%, exhaustion 48%, low performance levels 55%, concentration
+loss 93%, hearing impairment 69%, headache 74% and cardiovascular issue 71%. Relation between exposure time
+and effects were evaluated by using simple regression test in excel. Percentage of psychological and physiological
+effects in wardens varied with the exposure time; aggravated depression (R2 = 0.946, P = 0.133), stress suffering
+(R2 = 0.014, P = 0.173), public conflict (R2 = 0.946, P = 0.133), irritation and annoyance (R2 = 0.371, P = 0.137), behavioral
+affects (R2 = 0.596, P = 0.0616) and speech interference (R2 = 0.355, P = 0.445), hypertension (R2 = 0.96, P = 0.00095) and
+cardiovascular issue (R2 = 0.775, P = 0.044).

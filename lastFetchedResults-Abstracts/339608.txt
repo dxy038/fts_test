@@ -1,0 +1,11 @@
+Objective
+In many developing tissues, signaling mediated by activation of the transmembrane receptor Notch influences cell-fate decisions, differentiation, proliferation, and cell survival. Notch receptors are expressed on hematopoietic cells and cognate ligands on bone marrow stromal cells. Here, we investigate the role of mNotch1 signaling in the control of erythroid differentiation of multipotent progenitor cells.
+Materials and Methods
+
+Multipotent FDCP-mix cell lines engineered to permit the conditional induction of the constitutively active intracellular domain of mNotch1 (mN1IC) by the 4-hydroxytamoxifen (OHT)-inducible system were used to analyze the effects of activated mNotch1 on erythroid differentiation and on expression of Gata1, Fog1, Eklf, NF-E2, and β-globin. Expression was analyzed by Northern blotting and real-time polymerase chain reaction. Enhancer activity of reporter constructs was determined with the dual luciferase system in transient transfection assays.
+Results
+
+Induction of mN1IC by OHT resulted in increased and accelerated differentiation of FDCP-mix cells along the erythroid lineage. Erythroid maturation was induced by activated Notch1 also under conditions that normally promote self-renewal, but required the presence of erythropoietin for differentiation to proceed. While induction of Notch signaling rapidly upregulated Hes1 and Hey1 expression, the expression of Gata1, Fog1, Eklf, and NF-E2 remained unchanged. Concomitantly with erythroid differentiation, activated mNotch1 upregulated β-globin RNA. Notch signaling transactivated a reporter construct harboring a conserved RBP-J (CBF1) binding site in the hypersensitive site 2 (HS2) of human β-globin. Transactivation by activated Notch was completely abolished when this RBP-J site was mutated to prevent RBP-J binding.
+Conclusions
+
+Our results show that activation of mNotch1 induces erythroid differentiation in cooperation with erythropoietin and upregulates β-globin expression.

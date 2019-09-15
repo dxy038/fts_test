@@ -1,0 +1,12 @@
+A series of experiments were conducted to investigate the effects of different working fluids on the behavior and performance of a bidirectional
+thermodiode. The thermodiode was made up of two rectangular loops mounted between a collector plate and a radiator plate.
+The loops were filled with a working fluid for effective heat transfer when the thermodiode was forward biased. Five different working
+fluids were tested with thermal conductivity values ranging from 0.1 to 0.607 W/m-K, thermal expansion coefficient values ranging from
+2.54   10 4 to 1.43   10 3 1/K, and kinematic viscosity values ranging from 6.5   10 7 to 1   10 4 m2/s. The thermodiode was heated
+by a radiant heater consisting of 88 halogen lamps that generated a heat flux of about 103 W/m2 on the collector surface. Experimental
+results indicated that the onset time for natural convection to be induced throughout the diode system did not differ considerably when
+different working fluids were used. On the other hand the required fluid temperature differences in the loops for the onset of throughflow
+were quite different and depended strongly upon the viscosity and other properties such as thermal expansion coefficient and specific heat
+of the working fluid. Of the five fluids tested, water and low-viscosity silicon oil had the highest heat transfer rate. An analytical model
+was developed to predict and analyze the steady operation of the diode system when different working fluids are used.
+Published by Elsevier Ltd.

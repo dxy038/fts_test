@@ -1,0 +1,11 @@
+Objective
+We investigated the influence of the number of stimuli on signal-to-noise (S/N) ratio of CSERP.
+Methods
+CSERP from 20 normosmic subjects were obtained in response to stimulation with two olfactory (H2S and PEA) and a trigeminal (CO2) stimulant. For each of these odors, 160 stimuli were delivered into the right nostril (duration 200 ms, mean ISI 30 s) using a constant-flow, air-dilution olfactometer. For each EEG recording site (Fz, Cz, Pz, C3, C4), peak-to-peak amplitude N1P2 and noise amplitude levels were determined. Subsequently, S/N ratios were calculated.
+Results
+The S/N ratios for olfactory ERP generally improved for H2S and PEA. For responses to PEA, S/N ratios increased significantly up to 80 averages (S/N ratio = 5.6). The number of stimuli for an optimal S/N ratio for trigeminal ERP was slightly lower, i.e. 60 averages (S/N ratio = 7.9).
+Conclusions
+S/N N1P2 ratios in olfactory and trigeminal ERP significantly improve with an increasing number of responses averaged under these experimental conditions. This is mainly due to a reduction of noise level. Applying more stimuli has little additional effect on S/N ratio due to a concomitant decrease in signal amplitude.
+Significance
+An optimal S/N ratio is essential when recording CSERP in neurodegenerative disorders, where responses may be of low amplitude, and for medico-legal purposes
+

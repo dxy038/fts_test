@@ -1,0 +1,8 @@
+Objective
+luate the difference between the PSA density (PSAD) calculated with 3 imaging modalities and the PSAD of the radical prostatectomy specimen.
+als and methods
+AD of 60 men with clinically localized prostate cancer was calculated with transabdominal ultrasound (TAUS), transrectal ultrasound (TRUS), and computed tomography (CT) before radical retropubic prostatectomy, and was compared with the PSAD of the surgical specimen using the paired t-test. The relationship of the real prostate volume and the difference between the PSAD calculated with the 3 imaging modalities and that of the PSAD of the specimen was analyzed using Pearson's correlation coefficient. Finally, the sensitivity of PSAD calculated with the examined imaging modalities and the specimen was also studied.
+s
+an difference between the PSAD calculated by each one of the 3 imaging modalities and the PSAD of the specimen was −0.01 ng/ml/cm3 (P = 0.28) for TAUS, 0.01 ng/ml/cm3 (P = 0.37) for TRUS, and −0.03 ng/ml/cm3 (P = 0.001) for CT. This difference has not been shown to depend on the real prostate volume according to Pearson's correlation coefficient, which was 0.056 (P = 0.673) for TAUS, −0.014 (P = 0.917) for TRUS, and 0.184 (P = 0.159) for CT. The sensitivity of PSAD calculated with TAUS, TRUS, and CT was 58.3%, 65%, and 45%, respectively, while that of the specimen was 70%.
+sions
+gh PSAD showed a moderate sensitivity, TRUS and TAUS are the imaging modalities that calculate it closer to the real PSAD of the specimen.

@@ -1,0 +1,1 @@
+A spatial information search strategy based on the Bidirectional Neural Associative Memory model produces search results that are sensitive to user preferences.

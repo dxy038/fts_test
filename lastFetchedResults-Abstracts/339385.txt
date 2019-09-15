@@ -1,0 +1,11 @@
+Objective
+Clock genes are known to mediate circadian rhythms in the central nervous system and peripheral organs. Although they are expressed in mouse hematopoietic progenitor and stem cells, it is unknown if they are related to circadian rhythms in these cells. We therefore investigated the 24-hour patterns in the activity of several clock genes in the bone marrow (BM) side population (SP) primitive stem cells, and compared these 24-hour patterns to clock gene variations in the whole BM and liver.
+Methods
+
+Cells were obtained from 84 B6D2F1 mice in three replicate experiments on the second day after release into constant darkness from a standardizing light-dark schedule. mRNA expression of clock genes was measured with quantitative reverse transcriptase polymerase chain reaction.
+Results
+
+mPer2 displayed circadian rhythms in SP cells, whole BM, and liver cells. mPer1 and mRev-erbα showed a circadian rhythm in whole BM and liver, but not SP cells. mBmal1 was not expressed rhythmically in SP cells, nor in the whole BM, contrary to rhythms observed in the liver.
+Conclusions
+
+With the exception of mPer2, most clock genes studied in primitive hematopoietic SP stem cells were not oscillating in a fully organized circadian manner, which is similar to immature cells in rapidly proliferating organs, such as the testis and thymus. These findings indicate that circadian clock gene expression variations in BM are developmentally regulated.

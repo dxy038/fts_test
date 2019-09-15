@@ -1,0 +1,17 @@
+The main objective of this paper is solving the problem of voltage variations of Hybrid Photovoltaic/
+Fuel cell at different conditions. Because of valuable advantages of hybrid DG power
+systems, using from these power systems become more and more prevalent. But there are some
+defects that cause the application of DG power system unacceptable. One of these deficiencies
+relates to the malfunction of energy sources. For example, during shaded conditions the output
+power of PV arrays reduces to negligible values or by stopping the correct electrochemical process
+of fuel cell, it cannot deliver power to the grid. The other problem of Hybrid Photovoltaic/
+Fuel cell is that there is not enough reactive power for delivering to the load and this cause the
+voltage reduction of DG power system. To solve mentioned problems, in this survey, it is suggested
+that by applying SMES system and D-STATCOM, active and reactive power can be provided
+to the load, respectively. But, adding these elements to the power system at the same time
+needs to an efficient controller. In this paper, multivariable control strategy as an efficient method
+which can regulate the voltage of the DG power system busses with an appropriate dynamic
+is selected to design the controller. Generally, in this paper, after designing one standard Hybrid
+PV/Fuel cell DG power system, by adding the elements of SMES system and D-STATCOM, the
+voltage of the proposed system is regulated at different conditions and this fact is approved via
+simulation tests.

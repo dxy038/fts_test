@@ -1,0 +1,8 @@
+In this paper we provide a duality theory for multiobjective optimization problems with convex
+objective functions and finitely many D.C. constraints. In order to do this, we study first the duality
+for a scalar convex optimization problem with inequality constraints defined by extended real-valued
+convex functions. For a family of multiobjective problems associated to the initial one we determine
+then, by means of the scalar duality results, their multiobjective dual problems. Finally, we consider
+as a special case the duality for the convex multiobjective optimization problem with convex
+constraints.
+ 2005 Elsevier Inc. All rights reserved.

@@ -1,0 +1,11 @@
+Objective
+Event-related desynchronization (ERD) and synchronization (ERS) were studied during an auditory–verbal working memory task in patients suffering from Parkinson's disease (PD).
+Methods
+PD patients (n=7, mean age 59) at a mild stage of the disease volunteered in the study. A group of healthy subjects (n=10, mean age 61) served as control group. ERD and ERS of the 1–25 Hz EEG frequencies were studied using wavelet transforms during memory encoding and retrieval.
+Results
+Both groups performed equally well on the memory task. Statistically significant differences in ERD/ERS responses were observed in posterior electrodes during encoding of the memory set due to the fact that alpha ( 10–15 Hz) ERS was elicited in the controls, but not in the PD group. In broad frequency bands ( 6–25 Hz) ERD responses were observed in both groups during memory retrieval. A pre-stimulus alpha ERS seen in the control group was absent in the PD group.
+Conclusions
+The results of this preliminary study indicate that Parkinson's disease might affect brain oscillatory responses in the alpha frequency range in the encoding phase of auditory–verbal working memory.
+Significance
+The ERD/ERS patterns may reflect neurophysiological alterations in the processes underlying working memory deficits in PD.
+

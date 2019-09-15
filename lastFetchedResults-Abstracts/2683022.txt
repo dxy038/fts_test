@@ -1,0 +1,8 @@
+Background and Objective: Saccharomyces cerevisiae is one of the probiotic yeasts that has positive effects on health. Pseudomonas aeruginosa is one of the important opportunistic pathogenic bacteria. The purpose of this study was to determine the effect of supernatant of Saccharomyces cerevisiae on preventing the growth of Pseudomonas aeruginosa and its effect on exotoxin S gene expression by Real-Time PCR method.
+
+Materials and Methods: Pseudomonas aeruginosa was cultured in brain heart broth. Total RNA extraction was done by RNA Protect Bacteria kit and cDNA extraction was performed with QuantiTect Reverse Transcription kit. Saccharomyces cerevisiae was cultured in potato dextrose broth culture media and its supernatant was gained. Minimal Inhibitory Concentration (MIC) test for supernatant against P. aeruginosa was done by micro dilution broth method three times. The bacterial suspension of P. aeruginosa was admixed three times with pure culture, supernatant yeast. Each Real-Time PCR test was performed with a QuantiTect SYBER Green PCR kit to measure the expression of Exotoxin S gene.
+
+Results: Supernatant Minimal Inhibitory Concentration (MIC) test against Pseudomonas aeruginosa was 2048 µg/ml. The results of Real-Time PCR test represent the Exotoxin S gene expression efficiency in the culture of bacteria and supernatant was 1.77. 
+
+Conclusion: Supernatant of Saccharomyces cerevisiae could prevent the growth of Pseudomonas aeruginosa, but increases the expression of Exotoxin S gene in Pseudomonas aeruginosa, because supernatant 1/2 MIC concentrations was used and the gene expression efficiency number was greater than 1.
+

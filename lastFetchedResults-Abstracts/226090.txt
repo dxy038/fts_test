@@ -1,0 +1,5 @@
+This work addresses the computation of surfactant feed pro®les for shaping a particle size distribution to a bimodal target dis-
+tribution. A fundamental population balance model of styrene semibatch emulsion polymerization is used in this control study.
+Both surfactant feed rate and free surfactant concentration are considered as alternative control variables and a comparison is made
+of the two approaches. A comparison is also made of several dierent objective function norms in the optimization. Results suggest
+that a min±max norm, tied to the distribution modes, is the most appropriate metric.

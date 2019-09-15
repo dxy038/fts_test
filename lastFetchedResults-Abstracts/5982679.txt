@@ -1,0 +1,1 @@
+In order to accurately obtain the working performance of the grounding grid, the soil structure must be analyzed precisely. In this paper, the objective function is set up based on the difference square of the estimated value and analyzed value. The genetic algorithm is introduced to get the optimum solution of the objective function.

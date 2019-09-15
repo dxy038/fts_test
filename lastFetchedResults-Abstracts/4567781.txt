@@ -1,0 +1,1 @@
+We propose a simple wireless access point for hybrid access networks and experimentally demonstrate bidirectional operation in W-Band. Photonic up-conversion and electrical downconversion are used in the downlink, while in the uplink both up- and down-conversion are conducted by electrical means.

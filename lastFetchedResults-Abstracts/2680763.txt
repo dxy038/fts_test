@@ -1,0 +1,15 @@
+The capacitated arc routing problem (CARP) is one of the most important routing problems with
+many applications in real world situations. In some real applications such as urban waste
+collection and etc., decision makers have to consider more than one objective and investigate
+the problem under uncertain situations where required edges have demand for more than one
+type of commodity. So, in this research, a new fuzzy chance constrained programming model
+based on credibility measure for CARP with two objectives: minimizing the number of vehicle
+and minimizing the total travel cost is formulated. In this model each required edge has demand
+for more than one type of commodity and also all demands for each commodity are supposed to
+be triangular fuzzy numbers. Then we develop a multi-objective genetic algorithm using the
+Pareto ranking technique and hybrid it with stochastic simulation to design an intelligent
+algorithm to solve the fuzzy chance constrained model. In order to improve the quality of final
+solutions, we also propose a new heuristic method to generate a good initial solution in initial
+population of genetic algorithm. Some data sets with fuzzy demand generated randomly are
+used to evaluate and investigate key characteristics of the new proposed model and solution
+approach. 

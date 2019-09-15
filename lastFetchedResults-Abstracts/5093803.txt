@@ -1,0 +1,1 @@
+A comparative evaluation of speech enhancement algorithms for robust automatic speech recognition is presented. The evaluation is performed on a core test set of the TIMIT speech corpus. Mean objective speech quality scores as well as ASR correctness scores under two noise conditions are given.

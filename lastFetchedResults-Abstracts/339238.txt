@@ -1,0 +1,11 @@
+Objective
+The genetic and immunological mechanism(s) responsible for the significant decrease in the incidence of graft-vs-host disease (GVHD) following HLA-disparate unrelated cord blood transplantation remains largely unknown. In this study, we investigated if cord blood (CB) CD4+CD25+ T cells play a significant role in reducing the immune responses of allo-reactive CD4+CD25− T lymphocytes.
+Methods
+
+We compared CB CD4+CD25− and CD4+CD25+ T cells, either naïve or antigenic stimulated, to their counterparts in unmobilized adult peripheral blood (APB) with respect to genetic expression patterns, immunophenotype, suppressive activity, and mechanism(s) of suppression.
+Results
+
+Both naïve CB and APB CD4+CD25+ T cells expressed similarly elevated mRNA levels of CTLA-4, GITR, Foxp3, CD25, and elevated protein levels of CTLA-4 (p < 0.001) and GITR (p < 0.001). However, only naïve APB but not CB CD4+CD25+ T cells showed suppression of allogeneic responses. Stimulation of CD4+CD25− T cells by MUTZ-iDC (MUTZ-3-specific immature dendritic cells) elicited amplification of these genes and potent suppression (69% ± 5% and 71% ± 3% suppression, p < 0.001, CB and APB, respectively) on CD4+CD25− T cell proliferation induced by MUTZ-iDC but not by unrelated stimulators. Compared to that from unmobilized APB, a significantly higher percentage (2.7-fold ± 0.5-fold; p < 0.002) of CD4+CD25+CTLA-4+ T regulatory (Treg) cell subsets were induced from CB CD4+CD25− T cells following allogeneic stimulation.
+Conclusion
+
+Our results suggest that CB CD4+CD25+ Treg cells, which are induced at a higher rate by allogeneic stimulation when compared to unmobilized APB, can readily function as potent allogeneic immune suppressors and may in part contribute to the decrease in CB alloantigen recognition and activation of CB CD4+CD25− T cells.

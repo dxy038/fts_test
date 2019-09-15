@@ -1,0 +1,1 @@
+We analyze a multicommodity transportation problem with fuzzy objective function and fuzzy constraints using fuzzy graphs. We developed an algorithm based on graph theory considering the transportation costs and capacities as fuzzy numbers. We applied the proposed algorithm in a railway net and the obtained results are analyzed.

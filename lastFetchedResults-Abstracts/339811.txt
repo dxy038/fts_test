@@ -1,0 +1,11 @@
+Objective
+IL-17F, a member of the interleukin (IL)-17 cytokine family, most closely resembles IL-17A structurally. IL-17A is a potent stimulator of granulopoiesis; its expression is induced in response to microbial challenge. Although IL-17F is considered to be a weak IL-17A analog that is also mediating its effect via IL-17R, its exact role and in vivo functions are unknown. Our goal was to determine the in vivo activity of IL-17F on granulopoiesis as well as on release of granulopoiesis-stimulating downstream cytokines in mice and directly compare its effect to IL-17A.
+Materials and Methods
+
+Murine IL-17A (mIL-17A) or IL-17F (mIL-17F) was expressed in vivo in C57BL6 mice using adenoviral gene transfer technology. Peripheral cell counts were assessed as well as hematopoietic precursors using colony-forming assays at set time points. Downstream cytokines were measured using enzyme-linked immunosorbent assay and reverse transcriptase polymerase chain reaction.
+Results
+
+We found mIL-17F to have similar expression kinetics as mIL-17A in splenocytes in vitro and in vivo, following challenge with microbial agents. Overexpression of mIL-17F in vivo resulted in similar neutrophilia and only in slightly reduced myeloid progenitor expansion when compared to mIL-17A. In vivo, there was no difference in releases for granulocyte-macrophage colony-stimulating factor; regulated on activation, normal T expressed and secreted; interferon-inducible protein-10; IL-6; and monocyte chemotactic protein-1 between either cytokine. IL-1A, macrophage inflammatory protein -2 (MIP), KC, and granulocyte colony-stimulating factor expression was approximately half of that seen with mIL-17A.
+Conclusion
+
+Both IL-17A and IL-17F are induced by similar stimuli, have similar expression kinetics and despite only minimal in vitro activity for IL-17F, surprisingly they exert similar in vivo bioactivity. IL-17F bioactivity appears to be augmented in vivo through mechanisms that require further investigation.

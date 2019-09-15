@@ -1,0 +1,8 @@
+To improve the performance of electric machinery, it is necessary to obtain the optimal topology of
+a structure in magnetic "elds. The homogenization design method is applied to obtain the optimal topology.
+In the method, the change of inner hole size and rotational angle of unit cell determines the optimal material
+distribution in a design domain and this distribution de"nes an optimal topology. The objective function is
+de"ned as maximizing magnetic mean compliance (MMC). This is the same as maximizing magnetic vector
+potential and e!ective to improve the performance of electomagnet. The analysis and optimization is
+performed based on three-dimensional hexahedral elements. This design method is applied to the H-shaped
+electromagnet (H-magnet)

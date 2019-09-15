@@ -1,0 +1,7 @@
+Objective: Synthetic fluorescent dyes that are conjugated to antibodies are useful tools to
+probe molecules. Based on dye chemical structures, their photobleaching and photostabil- ity indices are quite diverse. It is generally believed that among different fluorescent dyes, Alexa Fluor family has greater photostability than traditional dyes like fluorescein isothio- cyanate (FITC) and Cy5. Alexa Fluor 568 is a member of Alexa Fluor family presumed to have superior photostability and photobleahing profiles than FITC.
+Materials and Methods: In this experimental study, we conjugated Alexa Fluor 568 and FITC dyes to a mouse anti-human nestin monoclonal antibody (ANM) to acquire their pho- tobleaching profiles and photostability indices. Then, the fluorophore/antibody ratios were calculated using a spectrophotometer. The photobleaching profiles and photostability indi- ces of conjugated antibodies were subsequently studied by immunocytochemistry (ICC). Samples were continuously illuminated and digital images acquired under a fluorescent microscope. Data were processed by ImageJ software.
+Results: Alexa Fluor 568 has a brighter fluorescence and higher photostability than
+FITC.
+Conclusion: Alexa Fluor 568 is a capable dye to use in photostaining techniques and it has a longer photostability when compared to FITC.
+

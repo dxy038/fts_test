@@ -1,0 +1,1 @@
+In this paper, firstly, we present fuzzy relation linear programming with fuzzy objective coefficients, it is expanded to conventional fuzzy relation linear programming with crisp objective coefficients. Secondly, a solution procedure is given based on a norm of trapezoid fuzzy number. And finally, A numerical example is given for illustration purpose.

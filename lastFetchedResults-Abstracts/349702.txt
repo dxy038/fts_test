@@ -1,0 +1,11 @@
+Objective
+At present, whole-head MEG systems are designed to accommodate adult heads, thereby introducing a technical issue unique to pediatric MEG. It is known that magnetic field strength decreases as a function of 1/distance2. For pediatric patients, we questioned whether re-positioning the head to minimize the distance between the expected source location and the MEG sensor array would significantly improve source measurement.
+Methods
+Somatosensory-evoked fields (SEFs) were recorded in 17 children (mean = 4.96 years) with their head placed centrally in the MEG, and then re-positioned laterally to reduce the distance between the cortical source and sensors. Equivalent current dipole (ECD) source models were evaluated for changes in residual variance (RV), signal-to-noise ratio (SNR), moment (strength), and location.
+Results
+Re-positioning the head closer to the sensors resulted in a significant shift in the mediolateral dipole coordinate location, accompanied by a significant increase in the SNR, decrease in the dipole RV, and a reduction in size of ECD confidence volumes.
+Conclusions
+We conclude that for clinical pediatric measurement of the SEF, repositioning of the head to minimize the distance between the expected SEF source location and the sensor array will significantly improve SEF source measurement and concomitant ECD source modeling.
+Significance
+These issues are relevant to all pediatric MEG settings involving healthy or clinical populations and underscores the need for future development of a MEG helmet specifically designed for pediatric populations.
+

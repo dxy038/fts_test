@@ -1,0 +1,6 @@
+The single vehicle routing problem with multiple routes is a variant of the vehicle routing
+problem where the vehicle can be dispatched to several routes during its workday to serve a
+number of customers. In this paper we propose a goal programming model for multi-objective
+single vehicle routing problem with time windows and multiple routes. To solve the model, we
+present a heuristic method which exploits an elementary Shortest Path Algorithm with Resource
+Constraints. Computational results of the proposed algorithm are discussed.

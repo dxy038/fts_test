@@ -1,0 +1,5 @@
+This paper shows a possible way to achieve a thermoeconomic optimization of combined cycle gas turbine (CCGT) power plants. The optimization has been done using a genetic algorithm, which has been tuned applying it to a single pressure CCGT power plant. Once tuned, the optimization algorithm has been used to evaluate more complex plants, with two and three pressure levels in the heat recovery steam generator (HRSG).
+The variables considered for the optimization were the thermodynamic parameters that establish the configuration of the HRSG.
+Two different objective functions are proposed: one minimizes the cost of production per unit of output and the other maximizes the annual cash flow. The results obtained with both functions are compared in order to find the better optimization strategy.
+The results show that it is possible to find an optimum for every design parameter. This optimum depends on the selected optimization strategy
+

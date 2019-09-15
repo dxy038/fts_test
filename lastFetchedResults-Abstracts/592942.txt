@@ -1,0 +1,85 @@
+Objective: Vibrio cholerae (V. cholerae) causes a potentially lethal disease named cholera. The cholera enterotoxin (CT) is a major virulence factor of V. cholerae. In addition
+to CT,
+V.
+cholerae
+produces other putative toxins, such as the zonula occludens
+
+toxin
+(Zot)
+and
+accessory
+cholera
+enterotoxin
+(Ace).
+The
+ace
+gene
+is
+the
+third
+gene
+
+of
+the
+V.
+cholerae
+virulence
+cassette.
+
+The
+Ace
+toxin
+alters
+ion
+transport,
+causes
+fluid
+
+accumulation
+in
+ligated
+rabbit
+ileal
+loops,
+and
+is
+a
+cause
+of
+mild
+diarrhea.
+The
+aim
+of
+
+this
+study is the cloning and overexpression of the ace
+gene into Escherichia
+coli (E.
+
+coli)
+and determination of some characteristics of the recombinant Ace
+protein.
+
+Materials and Methods: In this experimental study, the ace gene was amplified from V. cholerae strain 62013, then cloned in a pET28a expression vector and transformed into an  E. coli (DH5 ?) host strain. Subsequently, the recombinant vector was retransformed into E. coli BL21 for expression, induced by isopropythio-B-D-galctoside (IPTG) at a different
+
+concentration, and examined by SDS-PAGE and Western blot. A rabbit ileal loop experiment was conducted. Antibacterial activity of the Ace protein was assessed for E. coli, Stapylococcus aureus (S. aureus), and Pseudomonas aeruginosa (P. aeruginosa). 
+Results: The recombinant Ace protein with a molecular weight of 18 kDa (dimeric form) was expressed in E. coli BL21. The Ace protein showed poor staining with Coomassie blue stain, but stained efficiently with silver stain. Western blot analysis showed that the recombinant Ace protein reacted with rabbit anti-V. cholerae polyclonal
+antibody.
+The
+Ace
+protein
+had
+antibacterial
+activity
+at
+a
+concentration
+of
+?200
+
+µg/ml
+and caused significant  fluid accumulation in the ligated rabbit ileal loop test.
+
+Conclusion: This study described an E. coli cloning and expression system (E. coli BL21- pET-28a-ace) for the Ace protein of V. cholerae. We confirmed the antibacterial properties and enterotoxin activity of the resultant recombinant Ace protein.
+

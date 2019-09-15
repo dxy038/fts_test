@@ -1,0 +1,11 @@
+Objective
+Most myeloma tumor cells from patients express NKG2D ligands. We have reported the development of a chimeric NKG2D receptor (chNKG2D), which consists of the NKG2D receptor fused to the CD3ζ chain. T cells expressing this receptor kill and produce cytokines in response to NKG2D-ligand+ tumor cells. Therefore, we investigated whether human chNKG2D T cells respond against human myeloma cells.
+Materials and Methods
+
+ChNKG2D T cells were generated from healthy donors and myeloma patients. The effector phase of chNKG2D T cells was analyzed by cell-surface marker expression and human myeloma cell lines were tested for expression of NKG2D ligands. Lysis of myeloma cell lines and cytokine secretion by chNKG2D T cells was determined. ChNKG2D T cells grown in serum-free media, or cyropreserved, were assessed for effector cell functions.
+Results
+
+Myeloma cell lines expressed NKG2D ligands. ChNKG2D T cells from healthy donors and myeloma patients lysed myeloma cells, and secreted proinflammatory cytokines when cultured with myeloma cells or patient bone marrow, but not with peripheral blood mononuclear cells or normal bone marrow. Lysis of myeloma cells was dependent on chNKG2D T-cell expression of NKG2D and perforin. Additionally, chNKG2D T cells upregulated CD45RO, did not express CD57, and maintained expression of CD27, CD62L, and CCR7, indicating that the T cells were at an early effector stage. Finally, we showed that chNKG2D T cells generated with serum-free media, or when cryopreserved, maintained effector functions.
+Conclusion
+
+ChNKG2D T cells respond to human myeloma cells and can be generated using clinically applicable cell culture techniques.

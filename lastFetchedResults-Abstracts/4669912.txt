@@ -1,0 +1,1 @@
+A proposal to improve and control the final test of integrated circuits is presented. The objective is to improve the productivity of VLSI equipment by using a statistical process to reduce downtime and eliminate test escapes. Goals, developments, and implementation of this process are reviewed

@@ -1,0 +1,9 @@
+Objective
+To assess whether structural brain damage as detected by magnetization transfer imaging (MTI) in Alzheimer's disease (AD) and mild cognitive impairment (MCI) is located in the gray matter (GM) and/or the white matter (WM).
+Methods
+Fifty-five AD patients, 19 MCI patients and 43 subjects with normal cognitive function participated in this study. GM and WM segmentations were generated from dual fast spin-echo MR images. These masks were co-registrated to MT images for volumetric MTI-analysis of the GM and WM.
+Results
+AD patients had a lower GM volume than controls. Both MCI and AD patients had more structural brain damage in both GM and WM than subjects with normal cognition. Cerebral lesion load in both GM and WM was associated with the degree of cognitive impairment.
+Conclusion
+Using MTI, structural brain changes that are related to cognitive impairment could be demonstrated in both GM and WM of patients with AD and MCI. These results suggest that cerebral changes are present in GM and WM even before patients are clinically demented.
+

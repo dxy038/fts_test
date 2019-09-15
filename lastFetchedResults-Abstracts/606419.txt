@@ -1,0 +1,13 @@
+This paper presents analytical and experimental studies on optimization of the gas delivery and current collection
+system in a proton exchange membrane (PEM) fuel cell for the objective of reducing ohmic loss, thereby achieving
+higher power density. Specifically, the dimensions of current collection ribs as well as the rib distribution were
+optimized to get a maximized power density in a fuel cell. In the modeling process, the power output from a fixed
+area of membrane is calculated through analysis of an electrical circuit simulating the current from electrochemical
+reaction flowing to the current collectors. Current collectors of two-dimensional ribs and three-dimensional pillars
+were considered. Analyses found that three-dimensional pillars allow higher power density in a PEM fuel cell.
+Considering the mass transfer enhancement effect, three-dimensional pillars as current collectors in gas flow field
+may be a good choice if the fuel cell operates at low current density and there is no liquid water blocking the flow
+channels. The analyses did not consider the existence of liquid water, meaning the current density is not very high.
+The study concluded that decreasing the size of both the current collector and its control area yields a significant
+benefit to a higher power density. A preliminary experimental test in a PEM fuel cell has verified the conclusion of
+the analytical work.

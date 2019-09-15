@@ -1,0 +1,5 @@
+Objective: Replacment of CD133+ cell's (B globin gene by using a gene targeting construct containing the B globin gene and essential elements for homologous recombination. Materials and Methods: pFBGGT was amplified, then digested using the Nhel and Xhol restriction enzymes, and finally, a 13.3 kb band (naked DNA) was extracted from the agarose gel. Biological activity of positive and negative selection markers were checked by transfection of COS-7 cells with linear plasmid. Hematopoietic stem cells (HSCs) were separated and transfected with linear plasmids using lipofection followed by positive and negative selection. Polymerase chain reaction (PCR) were done on DNA from the selected cells and the products were sequenced.
+
+Results: The results of biological activity assays showed that selection markers were active. PCRs for hygromycin, neomycin and joining segments were positive but PCRs for TK1 and TK2 genes were negative. Sequencing PCR product joining segment confirmed the formation of homologous recombination.
+
+Conclusion: In this novel strategy gene replacement was achieved and biological activities of its components were observed.

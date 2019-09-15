@@ -1,0 +1,5 @@
+The main objective of the ITER ECRH upper launcher (UL) is to control magnetohydrodynamic activity, in particular neoclassical tearing modes (NTMs), by driving several MW of EC current near the q = 1, 3/2, 2 flux surfaces, where NTMs are expected to occur.
+
+eering of the EC power is done by the steering mechanism assembly (SMA) that comprises a reflecting mirror and a frictionless and backlash free pneumo-mechanical system actuated with pressurised helium gas. The control requirements for this component in terms of steering accuracy and speed are reviewed. With respect to these requirements, the performance of the first SMA prototype is assessed in a mock up of the UL pneumatic configuration.
+
+pected design characteristics of the SMA have been verified and an overall satisfactory performance has been assessed. Furthermore, the main challenges for the future work, such as the pressure and angular position control, have been identified.

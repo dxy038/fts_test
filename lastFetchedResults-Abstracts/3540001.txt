@@ -1,0 +1,1 @@
+Using an unbiased objective function and a fast algorithm which employs an iterative least-squares technique, consistent estimates are obtained for the parameters of a linear difference equation which describes a system having an output corrupted by correlated noise. The method is applied to a simulated process and compared with the generalised least-squares method.

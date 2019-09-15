@@ -1,0 +1,9 @@
+Study objective
+Neural networks can risk-stratify emergency department (ED) patients with potential acute coronary syndromes with a high specificity, potentially facilitating ED discharge of patients to home. We hypothesized that the use of “real-time” neural networks would decrease the admission rate for ED chest pain patients.
+Methods
+We conducted a before-and-after trial. Consecutive ED patients with chest pain were evaluated before and after implementation of a neural network in an urban university ED. Data included 40 variables used in neural networks for acute myocardial infarction and acute coronary syndrome. Data were obtained in real time, and neural network outputs were provided to the treating physician while patients were in the ED. On hospital discharge, attending physicians received feedback, including neural network output, their initial clinical impression, cardiac test results, and final diagnosis. The main outcome was the actual admit/discharge decision made before versus after the implementation of the neural network.
+Results
+Before implementation, 4,492 patients were enrolled; after implementation, 432 patients were enrolled. Implementation of the neural network did not decrease the hospital admission rate (before: 62.7% [95% confidence interval (CI) 61.3% to 64.1%] versus after: 66.6% [95% CI 62.2% to 71.0%]). Additionally, the ICU admission rates were not different (11.4% [95% CI 10.5% to 12.3%] versus 9.3% [95% CI 6.6% to 12.0%]). Physician query found that the neural network changed management in only 2 cases (<1%).
+Conclusion
+The use of real-time neural network feedback did not influence the admission decision for ED patients with chest pain, most likely because the neural network output was delayed until the return of cardiac markers, and the disposition decision had already been made by that time.
+

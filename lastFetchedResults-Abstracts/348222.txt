@@ -1,0 +1,11 @@
+Objective
+In clinical electromyography, motor unit potential (MUP) size is used to indicate the myo- or neurogenic origin of the pathological process, whereas the irregularity of MUP shape is considered not useful in this respect. The aim of the present study was to find a method to improve classification of MUPs using a combined analysis of the size and irregularity of the potential.
+Methods
+The records with at least 20% of irregular potentials from 14 healthy subjects and 34 patients were analysed. Principal Component Analysis (PCA) was applied in the analysis of data to find a linear function combining the size and the irregularity of a MUP.
+Results
+The linear combination of size and irregularity measures, i.e. size index (SI) and irregularity coefficient (IR) obtained using Principal Component Analysis (PCA) did not increase the discriminating ability in comparison to SI. We have defined a non-linear function of the SI and IR called SIIR, which modifies SI values for irregular potentials only. Its discriminating ability is higher than that of SI.
+Conclusions
+By combined assessment of the size of a MUP and its irregularity, the differentiation between neurogenic and myopathic potentials could be considerably improved.
+Significance
+The proposed coefficient SIIR seems to be more discriminating than others presently used. When applied in clinical studies it may be useful in the evaluation of confusing, atypical motor unit potentials.
+

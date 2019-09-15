@@ -1,0 +1,3 @@
+Abstract
+To design an urban water network in addition to minimizing the cost, improving the water pressure is very important. Then in this paper a bi-objective optimization model for the new city of Sahand in Northwestern Iran is developed.  Due to its non-linearity and the huge number of variables, the genetic algorithm has been utilized to solve it. Several Pareto solutions have been obtained and then based on the game theory approach (the area monotonic solution), the most efficient point was provided. The solution is simulated by the WaterGems software and the elements of the network are designed. This optimum solution shows a decrease of 13% in total cost in addition to the improved water pressure.
+

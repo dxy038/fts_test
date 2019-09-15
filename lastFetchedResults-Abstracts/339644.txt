@@ -1,0 +1,11 @@
+Objective
+Polycythemia vera (PV) is a myeloproliferative disorder, arising from the acquired mutation(s) of a hematopoietic stem cell. The JAK2 V617F somatic mutation is found in most PV patients; however, it is not the disease-initiating mutation. Because microRNAs (miRNAs) play a regulatory role in hematopoiesis, we studied miRNA expressions in PV and normal erythropoiesis.
+Methods
+
+Peripheral blood mononuclear cells were cultured in a three-phase liquid system resulting in synchronized expansion of erythroid progenitors. Using gene-expression profiling by CombiMatrix MicroRNArray, we searched for PV-specific changes at days 1, 14, and 21. Twelve miRNA candidates were then reevaluated by quantitative real-time polymerase chain reaction in a larger number of samples obtained from progenitors at the same stage of differentiation.
+Results
+
+A significant difference in miR-150 expression was found in PV. In normal erythropoiesis, three expression patterns of miRNAs were observed: progressive downregulation of miR-150, miR-155, miR-221, miR-222; upregulation of miR-451, miR-16 at late stages of erythropoiesis; and biphasic regulation of miR-339, miR-378. The miR-451 appears to be erythroid-specific.
+Conclusions
+
+We identified the miRNAs with regulated expression in erythropoiesis; one appeared to be PV-specific. Their miRNA expression levels define early, intermediate, and late stages of erythroid differentiation. The validity of our findings was confirmed in nonexpanded peripheral blood cells.

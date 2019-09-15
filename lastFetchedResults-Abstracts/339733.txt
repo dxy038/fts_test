@@ -1,0 +1,11 @@
+Objective
+The retinoic acid receptors (RARs) α, β2, and γ regulate specific subsets of target genes during all-trans retinoic acid (RA) induced differentiation of F9 teratocarcinoma stem cells. The Tie1 gene exhibited reduced expression in RA-treated F9 RARγ–/– cells as compared to wild-type (WT) by microarray analysis. Our goal was to analyze the Tie1 gene, which encodes a surface receptor tyrosine kinase expressed in the hematovascular system.
+Materials and Methods
+
+We assessed Tie1, Tie2, Flk1, Runx1, Peg/Mest2, and angiopoietin-1 and 2 mRNA levels and Tie1 promoter activity.
+Results
+
+We showed that RARγ, but not RARα or RARβ2, is required for Tie1 promoter activation by RA. Treatment with a RARγ selective agonist plus a retinoid X receptor agonist (LGD1069) increased Tie1 mRNA levels by 11- ± 2.5-fold 48 hours after RA addition in F9 WT, but not in F9 RARγ–/– cells, by quantitative reverse transcription polymerase chain reaction. Multiple putative GATA elements were identified in the Tie1 proximal promoter. RA increased GATA4 transcripts by 12- ± 1-fold in F9 WT at 48 hours, but not in F9 RARγ–/– cells. In addition, transfection of a GATA4 expression vector increased Tie1 promoter/luciferase activity in both RA-treated F9 WT and RARγ–/– cells. Tie1 promoter deletion analyses indicated that a region of the promoter that possessed multiple GATA sites mediated the RA-associated Tie1 transcriptional increase.
+Conclusions
+
+Our results indicate that GATA4 plays a role in the RA/RARγ-associated transcriptional activation of the Tie1 promoter. An understanding of RAR specificity in RA signaling should result in insights into hematopoietic stem cell signaling and potentially in improved therapies for several human diseases.

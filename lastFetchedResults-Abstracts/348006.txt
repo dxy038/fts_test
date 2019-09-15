@@ -1,0 +1,11 @@
+Objective
+We characterised the spectral response of the EEG to median nerve stimulation using wavelet analysis, and compared the relative magnitudes of effect of several different action–observation conditions on the beta and mu ‘rebound’ rhythms.
+Methods
+EEG responses to median nerve stimulation were recorded from 8 normal adult subjects during baseline or action–observation conditions. Analysis was performed by convolution of the EEG with a family of wavelets.
+Results
+Decreased power in the mu and beta bands characterized the EEG following median nerve stimulation until 500 ms post-stimulus, followed by increased amplitudes (‘rebound’) of both rhythms. Execution of movement, observation of object-directed movement and observation of somatosensory stimulation all caused a decreased rebound of the beta rhythm whereas observation of aimless thumb movement did not.
+Conclusions
+Wavelet analysis of the EEG extracted similar features reported in previous studies using bandpass filtering with respect to the activation state of the motor cortex during action observation. Further, our results show that observation of somatosensory stimulation alone is sufficient to cause significant modulation of motor cortex activity.
+Significance
+These results add further details as to what stimuli can activate the human mirror neuron system and the analytical techniques used may be useful for future studies of clinical populations such as autistic patients.
+

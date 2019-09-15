@@ -1,0 +1,8 @@
+Objective
+m of this work is to provide a supervised method to assist the diagnosis and monitor the progression of the Alzheimer's disease (AD) using information which can be extracted from a functional magnetic resonance imaging (fMRI) experiment.
+s and materials
+oposed method consists of five stages: (a) preprocessing of fMRI data, (b) modeling of the fMRI voxel time series using a generalized linear model, (c) feature extraction from the fMRI experiment, (d) feature selection, and (e) classification using the random forests algorithm. In the last stage we employ features that were extracted from the fMRI and other features such as demographics, behavioral and volumetric measures. The aim of the classification is twofold: first to diagnose AD and second to classify AD as very mild and mild.
+s
+thod is evaluated using data from 41 subjects. The stage of AD is established using the Washington University Alzheimer's Disease Research Center recruitment and assessment procedures. The method classifies a patient as healthy or demented with 84% sensitivity and 92.3% specificity, and the stages of AD with 81% and 87% accuracy for the three class and the four class problem, respectively.
+sions
+thod is advantageous since it is fully automated and for the first time the diagnosis and staging of the disease are addressed using fMRI.

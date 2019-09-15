@@ -1,0 +1,11 @@
+Objective
+The regulatory roles of a number of early-acting growth factors on the generation of natural killer (NK) cells and B cells from primitive progenitors were studied. Experiments focused on the contributions of granulocyte-macrophage colony-stimulates factor (GM-CSF) and interleukin-3 (IL-3) to the regulation of the early events of lymphopoiesis.
+Materials and Methods
+
+Two progenitor populations isolated from human fetal liver were studied, CD38−CD34++lineage− (Lin−) cells (candidate hematopoietic stem cells [HSCs]) and the more mature CD38+CD34++Lin− cells. The effects of different cytokines on the generation of CD56+CD3− NK cells and CD19+ B cells were studied in serum-deprived cultures in the absence of stroma.
+Results
+
+NK cells generated in vitro were able to kill NK-sensitive target cells, expressed NK-associated marker CD161 (NKR-P1A), but exhibited little or no expression of CD2, CD8, CD16, CD94/NKG2A, or killer cell inhibitory receptors (KIRs). Among the cytokine combinations tested, kit ligand (KL) and IL-15 provided the best conditions for generating CD56+ NK cells from CD38+CD34++Lin− cells. However, either flk-2/flt3 ligand (FL), GM-CSF, IL-3, or IL-7 could partially substitute KL. All of these cytokines also supported the growth of NK-cell progenitors from candidate HSC, with the combination of IL-15, KL, GM-CSF, and FL generating the greatest number of CD56+ cells. B cells were generated from both progenitor populations in response to the combined effects of KL, FL, and IL-7. Both B and NK cells were generated with the further addition of IL-15 to these cultures. The in vitro generated B cells were CD10+, CD19+, HLA-DR+, HLA-DQ+, and some were CD20+, but no cytoplasmic or surface immunoglobulin M expression was observed. In contrast with NK lymphopoiesis, GM-CSF, IL-3, and IL-15 had no effect on the generation of B cells from CD38−CD34++Lin− cells, and GM-CSF inhibited B-cell generation from CD38+CD34++Lin− progenitors.
+Conclusion
+
+These findings indicate a differential regulation of NK and B lymphopoiesis beginning in the early stages of hematopoiesis as exemplified by the distinctive roles of IL-7, IL-15, GM-CSF, and IL-3.

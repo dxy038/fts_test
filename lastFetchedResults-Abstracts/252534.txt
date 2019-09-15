@@ -1,0 +1,19 @@
+Glass surface temperature can be measured using a radiation thermometer
+operating at a mid-IR wavelength, typically the 3–5μm band, where the glass is
+opaque. For optical fiber preforms, the temperature measurement requirement may
+exceed 2,200◦C. Scale realization at national measurement institutes at these temperatures
+is usually carried out at short wavelengths, typically less than 1μm. The mismatch
+in wavelength can lead to significant uncertainties when calibrating a radiation
+thermometer working at 3–5μm. To overcome this, a narrow band 3.95μm radiation
+thermometer has been built that is designed to be used from 1,000 to 2,500◦C. It is calibrated
+by measurement of high-temperature metal–carbon eutectic fixed-points. The
+instrument is based on silicon lenses, with a liquid nitrogen (LN2)-cooled InSb detector,
+and narrow-band iInterference filter. An anti-reflection coated objective lens/aperture
+stop focuses onto a field stop giving a 1mm target, then a collimating lens, and
+glare stop. All parts visible to the detector, other than the target area, are either at LN2
+temperature or are part of a temperature-stabilized housing. A relay-operated shutter
+that blocks the field stop is used to subtract the background. The size-of-source effect
+of the instrument has been measured. Gold-point measurements have been made to
+assess the stability. The device has been calibrated using high-temperature fixed points.
+A three-parameter fit has been applied and the resultant scale compared to an ITS-90
+realization.

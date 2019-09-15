@@ -1,0 +1,9 @@
+The optimum design of isotropic shell structures with random initial geometric, material and thickness imperfections is
+investigated in this paper and a robust and efficient methodology is presented for treating such problems. For this purpose,
+the concept of an initial ‘‘imperfect’’ structure is introduced involving not only geometric deviations of the shell structure
+from its perfect geometry but also a spatial variability of the modulus of elasticity as well as of the thickness of the shell. An
+efficient reliability-based design optimization (RBDO) formulation is proposed. The objective function is considered to be
+the weight of the structure while both deterministic and probabilistic constraints are taken into account. The overall probability
+of failure is taken as the global probabilistic constraint for the optimization procedure. Numerical results are presented
+for a cylindrical panel, demonstrating the efficiency as well as the applicability of the proposed methodology in
+obtaining rational optimum designs of imperfect shell-type structures.

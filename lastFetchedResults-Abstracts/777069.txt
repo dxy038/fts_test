@@ -1,0 +1,7 @@
+A new application of pattern search optimization technique for estimating the parameters of solar cell and PV module is introduced in
+this article. The estimated parameters are the generated photocurrent, saturation current, series resistance, shunt resistance, and ideality
+factor. A new objective function formulation is introduced to guide the estimation technique toward the model parameters. The proposed
+approach is tested and validated using different test cases, e. g. solar cell and PV module, to show its potential. Outcomes of
+the developed approach are compared with those of different parameter estimation techniques to measure its accuracy. Comparison
+results are in favor of pattern search algorithm in all cases.
+  2011 Elsevier Ltd. All rights reserved.

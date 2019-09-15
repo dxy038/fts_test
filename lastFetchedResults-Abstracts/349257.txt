@@ -1,0 +1,11 @@
+Objective
+Automatic seizure detection has attracted attention as a method to obtain valuable information concerning the duration, timing, and frequency of seizures. Methods currently used to detect EEG seizures in adults show high false detection rates in neonates because they lack information about specific age-dependent features of normal and pathological EEG and artifacts. This paper describes a novel multistage knowledge-based seizure detection system for newborn infants to identify and classify normal and pathological newborn EEGs as well as seizures with a reduced false detection rate.
+Methods
+We developed the system in a way to make comprehensive use of spatial and temporal contextual information obtained from multichannel EEGs. The system development consists of six major stages: (i) EEG data collection and bandpass filtering; (ii) automatic artifact detection; (iii) feature extraction from segments of non-seizure and seizure activities; (iv) feature selection via the relevance and redundancy analysis; (v) EEG classification and pattern recognition using a trained multilayer back-propagation neural network; and (v) knowledge-based decision-making to examine each of possible EEG patterns from a multi-channel perspective. The system was developed and tested with the EEG recordings of 10 newborns aged between 39 and 42 weeks.
+Results
+The overall sensitivity, selectivity, and average detection rate of the system were 74%, 70.1%, and 79.7%, respectively. The average false detection of 1.55/h was also achieved by the system with a feature reduction up to 80%.
+Conclusions
+The expert rule-based decision-making subsystem accompanying the classifier helped to reduce the false detection rate, reject a wide variety of artifacts, and discriminate various patterns of EEG.
+Significance
+This paper may serve as a guide for the selection of discriminative features to improve the accuracy of conventional seizure detection systems for routine clinical EEG interpretation and brain activity monitoring in newborns especially those hospitalized in the neonatal intensive care units.
+

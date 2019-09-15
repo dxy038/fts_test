@@ -1,0 +1,1 @@
+We developed a heuristic procedure to optimize wavelength division multiplexing (WDM) networks with reliability as objective function. Optimization experiments have been carried out on a case study network, exploring the trade-off between network cost and reliability.

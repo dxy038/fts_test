@@ -1,0 +1,7 @@
+The focus of this study is to analyze single-machine scheduling and due date assignment problems with
+position-dependent processing time. Two generally positional deterioration models and two frequent
+due date assignment methods are investigated. The objective functions include the cost of changing
+the due dates, the total cost of positional weight earliness, and the total cost of the discarded jobs that
+cannot be completed by their due dates. We conclude that the problems are polynomial time solvable.
+Significantly enough, after assessing the special case of each problem, this research found out that they
+can be optimally solved by lower order algorithms.

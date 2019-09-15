@@ -1,0 +1,11 @@
+Objective
+We investigated whether the expression of CD11b on precursors derived in vitro from CD34+ hematopoietic stem cells was related to their ability to generate CD11b− and CD11b+ Langerhans dendritic cells (LC).
+Methods
+
+Human CD34+ cells purified from cord blood were cultured with FLT3 ligand, thrombopoietin, and stem cell factor (FTS) for 2 weeks, analyzed, and sorted by FACS. Sorted fractions were cultured as above, or differentiated into LC with GM-CSF, IL-4, and TGF-β1 (G4-TGF) for 6 days. The capacity of LC to internalize langerin and dextran was assessed.
+Results
+
+Ex vivo, human CD34+ cells were CD11b− and mostly CLA+. After 2 weeks of culture with FTS, CD34−CLA−CD11b− and CD34−CLA−CD11b+ cells emerged. CD11b− cells were the most ancestral because they were the only ones to proliferate with FTS, and constantly generated CD11b+ cells. Both CD11b− and CD11b+ sorted cells generated E-cadherin+langerin+ LC after incubation with G4-TGF. The former fraction contained 46% ± 15% of E-cadherin+ and 10% ± 5% of langerin+ cells, whereas in the latter fraction these values reached respectively 66% ± 23% and 30% ± 16% (mean ± SD, n = 7, p < 0.056). Looking at functional properties, CD11b− and CD11b+ LC were similar in terms of langerin and dextran endocytosis. By contrast, only CD11b+ LC internalized fluorescent LPS.
+Conclusion
+
+Human CD34+CD11b− cells differentiate in FTS culture into a CD34−CD11b− precursor that in turn generates CD34−CD11b+ cells. These cells are enriched in LC precursors compared to CD34−CD11b− cells. Both CD11b− and CD11b+ LC are generated in vitro, and each fraction may assume different functions in inflammatory situations.

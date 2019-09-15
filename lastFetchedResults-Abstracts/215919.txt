@@ -1,0 +1,19 @@
+The Fuzzy Logic Congestion Detection (FLCD) algorithm is a recent proposal for congestion
+detection in IP networks which combines the good characteristics of both traditional Active
+Queue Management (AQM) algorithms and fuzzy logic based AQM algorithms. The
+Membership Functions (I\IIFs) of the FLCD algorithm are designed using a Multi-Objective
+Particle Swarm Optimization (MOPSO) algorithm, in order to achieve optimal performance
+on all the major performance metrics of IP congestion control. The FLCD algorithm achieves
+better performance when compared to the basic Fuzzy Logic AQM and Random Explicit
+Marking (REM) algorithms. Since the optimization process is undertaken offline and is based
+on a single optimization script, the performance of the FLCD algorithm may not be optimal
+under different network conditions, due to the fact that the IP environment is characterized
+by dynamic traffic patterns. This paper proposes two online self-learning and organization
+structures that enable the FLCD algorithm to learn the system conditions and adjust the
+fuzzy rule base in accordance with prevailing conditions. The self-organized FLCD algorithm
+is compared with the unorganized FLCD, the basic Fuzzy Logic AQM and the Adaptive
+Random Early Detection (RED) algorithms using simulations with dynamic traffic patterns.
+Performance results show that the self-organized FLCD algorithm is more robust than the
+other algorithms. Compared to the unorganized FLCD, the new scheme improves the UDP
+traffic delay for short round trip times and also reduces packet loss rates. In terms of jitter,
+fairness and link utilization, it exhibits a similar performance to the unorganized FLCD algorithm.

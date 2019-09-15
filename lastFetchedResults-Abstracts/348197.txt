@@ -1,0 +1,11 @@
+Objective
+Development of an EEG preprocessing technique for improvement of detection of Alzheimer's disease (AD). The technique is based on filtering of EEG data using blind source separation (BSS) and projection of components which are possibly sensitive to cortical neuronal impairment found in early stages of AD.
+Methods
+Artifact-free 20 s intervals of raw resting EEG recordings from 22 patients with Mild Cognitive Impairment (MCI) who later proceeded to AD and 38 age-matched normal controls were decomposed into spatio-temporally decorrelated components using BSS algorithm ‘AMUSE’. Filtered EEG was obtained by back projection of components with the highest linear predictability. Relative power of filtered data in delta, theta, alpha 1, alpha 2, beta 1, and beta 2 bands were processed with Linear Discriminant Analysis (LDA).
+Results
+Preprocessing improved the percentage of correctly classified patients and controls computed with jack-knifing cross-validation from 59 to 73% and from 76 to 84%, correspondingly.
+Conclusions
+The proposed approach can significantly improve the sensitivity and specificity of EEG based diagnosis.
+Significance
+Filtering based on BSS can improve the performance of the existing EEG approaches to early diagnosis of Alzheimer's disease. It may also have potential for improvement of EEG classification in other clinical areas or fundamental research. The developed method is quite general and flexible, allowing for various extensions and improvements.
+

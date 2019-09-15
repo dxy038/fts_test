@@ -1,0 +1,5 @@
+Objective: The aim of these modeling studies on the generation of motor unit potentials (MUPs) was to establish the influence of MU parameters and recording conditions on the shape irregularity of MUPs. The focus was on the dependence of the irregularity of MUPs on fiber density, fiber diameters and the recording distance from the end-plate zone.
+Methods: The study was performed using the ‘EMG Simulator’ software for modeling of MUP and our own software for calculations.
+Results: The results indicate that the irregularity of a MUP increases with increased recording distance from the end-plate zone and decreases with increased fiber diameter and/or with increased fiber density. The quantitative relationship between these factors has been derived.
+Conclusions: The relationships determine the structural conditions in which irregular potential may be generated and therefore may be helpful in the interpretation of atypical MUPs.
+

@@ -1,0 +1,11 @@
+Objective
+Despite much investigation into T regulatory cells (Tregs), little is known about the mechanism controlling their recruitment and function. Because multipotent mesenchymal stromal cells (MSCs) exert an immune regulatory function and suppress T-cell proliferation, this in vitro study investigated their role in Treg recruitment and function.
+Materials and Methods
+
+Human MSCs and different T cell populations (CD3+, CD3+/CD45RA+, CD3+/CD45RO+, CD4+/CD25+, CD4+/CD25+/CD45RO+, CD4+/CD25+/CD45RA+) from healthy donors were cocultured for up to 15 days. Harvested lymphocytes were analyzed by flow cytometry and FoxP3 and CD127 expressions were measured by real-time polymerase chain reaction. Their regulatory activity was assessed.
+Results
+
+We demonstrate MSC recruit Tregs from a fraction of CD3+ and from immunoselected CD3+/CD45RA+ and CD3+/CD45RO+ fractions. After culture with MSCs both immunoselected fractions registered increases in the CD4+/CD25bright/FoxP3 subset and CD127 expression was downregulated. When purified Treg populations (CD4/CD25+, CD4/CD25+/CD45RA+, and CD4/CD25+/CD45RO+) are used in MSC cocultures, they maintain FoxP3 expression and CD127 expression is downregulated. Treg suppressive capacity was maintained in Treg populations that were layered on MSC for up to 15 days while control Tregs lost all suppressive activity after 5 days culture.
+Conclusions
+
+In conclusion, our study demonstrates that MSCs recruit, regulate, and maintain T-regulatory phenotype and function over time.

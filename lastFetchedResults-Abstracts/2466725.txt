@@ -1,0 +1,10 @@
+Context
+nstant changes in today’s business requirements demand continuous database revisions. Hence, database structures, not unlike software applications, deteriorate during their lifespan and thus require refactoring in order to achieve a longer life span. Although unit tests support changes to application programs and refactoring, there is currently a lack of testing strategies for database schema evolution.
+ive
+ork examines the challenges for database schema evolution and explores the possibility of using various testing strategies to assist with schema evolution. Specifically, the work proposes a novel unit test approach for the application code that accesses databases with the objective of proactively evaluating the code against the altered database.
+
+proach was validated through the implementation of a testing framework in conjunction with a sample application and a relatively simple database schema. Although the database schema in this study was simple, it was nevertheless able to demonstrate the advantages of the proposed approach.
+s
+changes in the database schema, the proposed approach found all SELECT statements as well as the majority of other statements requiring modifications in the application code. Due to its efficiency with SELECT statements, the proposed approach is expected to be more successful with database warehouse applications where SELECT statements are dominant.
+sion
+it test approach that accesses databases has proven to be successful in evaluating the application code against the evolved database. In particular, the approach is simple and straightforward to implement, which makes it easily adoptable in practice.

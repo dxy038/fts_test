@@ -1,0 +1,5 @@
+Objective: Universal high-resolution time-frequency parameterization of sleep EEG structures.
+Methods:A new algorithm called Matching Pursuit was used for the decomposition of sleep EEG into waveforms chosen from a large and redundant set of functions. As a result all signal structures were parameterized in terms of their frequency, time occurrence, time span and energy. Slow wave activity and sleep spindles were identified according to neurophysiological criteria and various distributions describing their time evolution, topographical and frequency characteristics were constructed.
+Results: Two types of sleep spindles of different topological and spectral properties were identified. High time–frequency resolution made possible separation of superimposed spindles. Cross-correlation between high- and low-frequency components of superimposed spindles revealed a fixed time-delay between them, the high-frequency component preceding the low-frequency one.
+Conclusion: The results of our study suggest that processes of generation of both types of sleep spindles are weakly coupled.
+

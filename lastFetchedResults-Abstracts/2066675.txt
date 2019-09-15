@@ -1,0 +1,8 @@
+Objective
+onstrate the feasibility of SPECT/MRI in small animal using a dual device.
+al and methods
+l animal pinhole camera (1.5 mm in diameter) coupled together with a dedicated low-field (0.1 T) small MR imager (imaging volume of 10×10×6 cm3) was used. SPECT consisted of acquiring 48 projections after intra-venous injections of 0.2 ml and 700 MBq of 99mTc-Sestamibi and was immediately followed by MRI with 3D isotropic T1 and T2 weighted imaging sequences. Two adult Swiss nude mice with stereotaxic brain implanted human glioblastoma cells and maintained under isoflurane 1.5% and air 0.3 L min−1 in a warmed-up and non-magnetic imaging cell for both modalities were used in this study.
+s
+ images of SPECT/low-field MRI were obtained with isotropic voxel resolutions of 1×1×1 mm3 for SPECT and 0.5×0.5×0.5 mm3 for MRI. Total acquisition time for both imaging modalities was 2.5 h.
+sion
+magnetic field strength of 0.1 T is a potential solution for a small animal dual imaging device combining pinhole SPECT and MRI in a single machine.

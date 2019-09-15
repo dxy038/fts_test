@@ -1,0 +1,23 @@
+In recent years, FACTS devices are recognized
+as one of the most effective ways to improve power
+system operation controllability and increase power
+transfer limits. Gate-Controlled Series Capacitor (GCSC)
+is one of these FACTS devices which is installed in series
+with the transmission line. In turn, the supplementary
+controllers are applied to FACTS technology to boost the
+produced damping torque. Recently, evolutionary and
+meta-heuristic algorithms have been extensively used to
+optimize the parameters of damping controllers. In this
+paper, on the basis of the linearized Heffron-Phillips
+model of a single machine power system with GCSC, the
+Particle Swarm Optimization (PSO) algorithm is used to
+design a lead-lag damping controller for the GCSC. A
+time domain and an undamped eigenvalue based
+objective functions are employed as two different fitness.
+To verify the robustness of the proposed controllers,
+various operating conditions are simulated due to a severe
+disturbance. Observing and analyzing the results reveals
+appropriate performance of this controller in damping the
+power system oscillations and enhancing the dynamic
+stability. Moreover, the undamped eigenvalue based
+fitness is superior to time domain based one.

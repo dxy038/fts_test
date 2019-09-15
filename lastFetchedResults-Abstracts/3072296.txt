@@ -1,0 +1,1 @@
+We present data transmission experiments at 3 Gbit/s with VCSELs and MSM photodiodes as parts of a GaAs-based monolithically integrated transceiver chip which is well suited for low-cost and compact bidirectional optical interconnection in mobile systems or home networks.

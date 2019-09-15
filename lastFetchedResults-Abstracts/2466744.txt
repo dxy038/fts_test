@@ -1,0 +1,10 @@
+Context
+e-Oriented Computing (SOC) is a promising computing paradigm which facilitates the development of adaptive and loosely coupled service-based applications (SBAs). Many of the technical challenges pertaining to the development of SBAs have been addressed, however, there are still outstanding questions relating to the processes required to develop them.
+ive
+jective of this study is to systematically identify process models for developing service-based applications (SBAs) and review the processes within them. This will provide a useful starting point for any further research in the area. A secondary objective of the study is to identify process models which facilitate the adaptation of SBAs.
+
+er to achieve this objective a systematic literature review (SLR) of the existing software engineering literature is conducted.
+s
+ this research 722 studies were identified using a predefined search strategy, this number was narrowed down to 57 studies based on a set of strict inclusion and exclusion criteria. The results are reported both quantitatively in the form of a mapping study, as well as qualitatively in the form of a narrative summary of the key processes identified.
+sion
+are many process models reported for the development of SBAs varying in detail and maturity, this review has identified and categorised the processes within those process models. The review has also identified and evaluated process models which facilitate the adaptation of SBAs.

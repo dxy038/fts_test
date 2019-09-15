@@ -1,0 +1,1 @@
+In this paper we consider optimization problems with fuzzy-valued objective function. For this class of fuzzy optimization problems we obtain Karush-Kuhn-Tucker type optimality conditions considering the concept of strongly generalized differentiable fuzzy-valued functions.

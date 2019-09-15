@@ -1,0 +1,9 @@
+Objective
+We hypothesize that the number of patients who leave without being seen is correlated with the simple-to-use National Emergency Department Overcrowding Scale (NEDOCS).
+Methods
+Results of a 6-item ED overcrowding scale (NEDOCS) were collected prospectively over a 17-day study period. The following additional data were extracted from records for each 2-hour study period: (1) number of registered patients, (2) number of ambulances that arrived, and (3) number of patients signed in that hour who eventually left without being seen. Spearman correlation coefficients were computed for the leaving without being seen (LWBS) rate with the NEDOCS score at the time of patient presentation and 2, 4, and 6 hours later.
+Results
+The study period represents two hundred fourteen 2-hour periods. The LWBS rate was determined for 100% of the times; NEDOCS scores were determined for a sampling of 62% of the times spread equally over all hours of the day and days of the week. Correlation between the NEDOCS score and LWBS was 0.665.
+Conclusion
+The NEDOCS score is well correlated with LWBS
+

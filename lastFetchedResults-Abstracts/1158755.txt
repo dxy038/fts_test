@@ -1,0 +1,7 @@
+A recently developed AlMgSc alloy is studied since this material, which is well adapted to the aeronautic domain, is poorly known.
+
+The first objective is to reach a better knowledge of this alloy to provide the missing useful information to the aeronautic industry and to help research institutes who want to simulate sheet forming processes by Finite Element (FE) simulations. A set of experimental tests has been performed on the as-received sheets, material laws have been chosen and the corresponding material parameters have been adjusted to correctly describe the material behaviour.
+
+The second objective is to study the applicability of the Single Point Incremental Forming process (SPIF) on this material. Truncated cones with different geometries were formed and the maximum forming angle was determined. A numerical model was developed and proved to be able to predict both the force evolution during the process and the final geometrical shape. Moreover, the model helps reaching a better understanding of the process.
+
+The characterisation method described in this research and applied on the AlMgSc alloy can be extended to other alloys. In addition, the numerical simplified model, able to accurately describe the SPIF process with a reduced computation time, can be used to study more complex geometries.

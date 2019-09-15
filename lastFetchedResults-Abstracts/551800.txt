@@ -1,0 +1,7 @@
+Uncertainty inherent in the nancial market was usually consid-
+ered to be random. However, randomness is only one special type of uncer-
+tainty and appropriate when describing objective information. For describing
+subjective information it is preferred to assume that uncertainty is fuzzy. This
+paper denes the expected payo of trading strategies in a fuzzy nancial
+market within the framework of credibility theory. In addition, a computable
+integral form is obtained for expected payo of each strategy.

@@ -1,0 +1,1 @@
+We illustrate the generalized local maximum principle published earlier (2000), which gives necessary conditions for optimality of abnormal trajectories in optimal control problems. In this theorem the multiplier associated with the objective is non-zero

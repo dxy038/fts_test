@@ -1,0 +1,1 @@
+Deals with a novel crosspoint array with bipolar monolithic integrated ON-attenuation compensated crosspoints, i.e., bidirectional amplifying crosspoints for space-division PABXs. Properties of the crosspoints are described in detail. The array is realized with the aid of an I/SUP 2/L-crosspoint array for switching and control.

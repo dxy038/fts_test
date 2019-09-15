@@ -1,0 +1,13 @@
+Inventory classification is one of important techniques in inventory control
+context. Managers have to classify inventories because of their variety and
+high volume. So a stream of research has been to attempt to find methods
+that increase the management control by determining the number of inventory
+classes. In this paper the multiple objective particle swarm optimization
+algorithm has been used. This algorithm has been presented by Chi-Yang Tsai
+and Szu-Wei Yeh in 2008. Multiple objective particle swarm optimization algorithm
+is an evolutionary algorithm that enables the management to optimize
+multiple objectives simultaneously. Minimizing costs of inventory holding
+and ordering and maximizing inventory turnover ratios are this model’s objectives.
+We write the software program of this model and then test it on a sample
+of 100 items. Results show that this algorithm can decrease costs of holding &
+ordering and also increase the inventory turnover ratios significantly.

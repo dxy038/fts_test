@@ -1,0 +1,10 @@
+Performance optimization of a single-effect lithium bromide water absorption refrigeration
+system is the subject of this paper. First, the thermodynamic model of the system wasderived based on the
+first and second law analysis of an absorption refrigeration cycle with LiBr-water as the working fluid pair.
+Then, the effects of different design parameters such as the generator inlet hot water temperature, evaporator
+inlet chilling water temperature and absorber and condenser inlet cooling water temperatures on the performance
+of the systemwere investigated. In order that, by defining the coefficient of performance (COP), exergy
+efficiency (Second-law efficiency) and total cost function of the system as the objective functions, the genetic
+algorithm optimization technique was implemented to evaluate these performance indexes. Finally, the optimal
+values of design parameters and objective functions were found and compared to the initial values. Results
+show significant improvement in system COP (about 75 %), exergy efficiency (47 %) and total cost (12 %).

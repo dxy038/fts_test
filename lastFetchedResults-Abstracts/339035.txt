@@ -1,0 +1,11 @@
+Objective
+In allogeneic hematopoietic stem cell (HSCT) transplantation, recovery of the T cell receptor (TCR) repertoire depends upon the composition of the graft and is modulated by peri-transplant immunosuppression, viral infections, and graft-vs-host disease (GVHD). We hypothesized that after allogeneic HSCT, molecular analysis of the TCR repertoire can be used to identify and quantitate immunodominant T cell clones that may play a role in GVHD or other clinical events.
+Methods
+
+We utilized a rational strategy for the analysis of the expanded CTL clones. First, we studied the VB spectrum in a cohort of patients who had received either matched sibling or unrelated donor grafts. The CDR3 sequences of immunodominant clones were identified and clonotypic PCR and sequencing was applied to determine the level of clonotype sharing.
+Results
+
+Significant expansions of VB families were observed following transplantations; 61% were oligo/monoclonal. Immunodeficiency was reflected by depletion of multiple VB families from both the CD8 and CD4 repertoires. The level of sharing varied between clonotypes, suggesting that some antigens have a more “public” spectrum while others are restricted to specific patients. Immunodominant CDR3 sequences common to allogeneic HSCT, healthy controls, and other conditions were identified.
+Conclusion
+
+The clonotypes of expanded CTL clones may reflect responses to alloantigens (e.g., in correlation with clinical GVHD) or pathogens. In the future, molecular T cell diagnostics may become a powerful clinical tool in transplantation to monitor disease and to direct treatment.

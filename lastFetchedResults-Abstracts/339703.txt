@@ -1,0 +1,11 @@
+Objective
+Acute myeloid leukemia (AML) is a highly malignant neoplasm responsible for nearly 10,000 cancer-related deaths annually in the United States. Treatment options for elderly patients with AML remain limited. Standard regimens using cytarabine (cytosine arabinoside [AraC]), a nucleotide analogue, result in significant toxicity with poor overall response. Combination of a cytotoxic chemotherapy and tumor-specific immunotherapy has the potential to improve overall efficacy by inducing an anti-tumor immune response against minimal residual disease. The studies reported here were performed to evaluate the therapeutic benefit of combining a granulocyte macrophage colony-stimulating factor (GM-CSF)–secreting tumor cell immunotherapy with AraC treatment.
+Materials and Methods
+
+C57Bl/6 mice were challenged with C1498-luc cells intravenously and evaluated by in vivo imaging throughout the study to monitor the systemic progression of the tumor. Individual animals were euthanized when in vivo total photon counts exceeded 5 × 108 and/or when they were in poor clinical condition. Cytotoxicity assay was performed to evaluate effector function and flow cytometry was used for phenotyping of splenocytes from experimental animals.
+Results
+
+Administration of GM-CSF–secreting tumor cell immunotherapy during AraC -induced cytopenia enhanced the anti-tumor efficacy of the immunotherapy, resulting in prolonged survival. AraC treatment did not negatively impact antigen-specific T-cell activation elicited by the immunotherapy and surviving animals treated with the combination demonstrated strong tumor-specific memory responses.
+Conclusion
+
+GM-CSF–secreting tumor cell immunotherapy in combination with AraC prolongs survival of tumor-bearing mice, with a median survival time of 61 days observed in mice treated with AraC alone and 90% of mice treated with the combination therapy still alive by day 150.

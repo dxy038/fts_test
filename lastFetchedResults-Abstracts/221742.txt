@@ -1,0 +1,16 @@
+We address the problem of Bayesian image reconstruction
+with a prior that captures the notion of a clustered intensity
+histogram. The problem is formulated in the framework
+of a joint-MAP (maximum a posteriori) estimation with the prior
+pdf modeled as a mixture-of-gammas density. This prior pdf has
+appealing properties, including positivity enforcement. The joint
+MAP optimization is carried out as an iterative alternating descent
+wherein a regularized likelihood estimate is followed by a mixture
+decomposition of the histogram of the current tomographic image
+estimate. The mixture decomposition step estimates the hyperparameters
+of the prior pdf. The objective functions associated with
+the jointMAPestimation are complicated and difficult to optimize,
+but we show how they may be transformed to allow for much easier
+optimization while preserving the fixed point of the iterations. We
+demonstrate the method in the context of medical emission and
+transmission tomography.

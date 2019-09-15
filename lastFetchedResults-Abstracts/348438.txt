@@ -1,0 +1,11 @@
+Objective
+The current study uses magnetoencephalography (MEG) to characterize age-related changes and gender differences in the amplitudes and timing of cortical sources evoked by median nerve stimulation.
+Methods
+Thirty-four healthy subjects from two age groups: 20–29 and >64 years of age were examined. After measuring the MEG responses, we modeled the data using a spatio-temporal multi-dipole modeling approach to determine the source locations and their associated timecourses.
+Results
+We found early, large amplitude responses in the elderly in primary somatosensory ( 20 ms) and pre-central sulcus timecourses ( 22 ms) and lower amplitude responses in the elderly later in primary somatosensory ( 32 ms) and contralateral secondary somatosensory timecourses ( 90 ms). In addition, females had larger peak amplitude responses than males in the contralateral secondary somatosensory timecourse ( 28 and 51 ms).
+Conclusions
+These results show that the median nerve stimulation paradigm provides considerable sensitivity to age- and gender-related differences. The results are consistent with the theory that increased amplitudes identified in the elderly may be associated with decreased inhibition.
+Significance
+The results emphasize that an examination of two discrete age groups, collapsed across gender, cannot provide a complete understanding of the fundamental changes that occur in the brain across the lifetime.
+

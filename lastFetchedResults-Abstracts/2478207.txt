@@ -1,0 +1,8 @@
+Background and Aim:&nbsp;Pathology Information Systems provide opportunities for pathologists and clinical laboratory professionals to influence clinical care and modern research programs. The objective of this study was to determine the minimum data set of Anatomical Pathology Information System from the experts&rsquo; point of view.
+
+Materials and Methods:&nbsp;This study is considered an applied research conducted through a descriptive cross-sectional research method. The research instrument was a questionnaire containing data elements related to sample and those related to the patient. This questionnaire was completed by three groups of participants including 22 experts in the field of Pathology and Laboratory Medicine, 23 experts in Health Informatics and Health Information Management, and 6 Insurance experts. The collected data were analyzed using descriptive statistics and SPSS software.
+
+Results:&nbsp;The results indicated that all information elements contained in the questionnaire except the address of the pathologist, resident or the person who performs the act of gross examination were considered as informational elements essential to the system and the high average of five was allocated to them.
+
+Conclusion:&nbsp;Based on the results of this study, the Minimum Data Set of Anatomical Pathology Information System can be presented in two main categories: Clinical and non-clinical information, which include identity information, management information, insurance information, clinical information and the data related to the study of&nbsp;&nbsp;anatomiaca&nbsp;pathology samples.
+

@@ -1,0 +1,11 @@
+Objective. To determine whether the mechanical behavior of the entire lumbar spine differs following mono- and bisegmental stabilization.
+
+Design. The mechanical behavior of the lumbar spine was studied using the finite element method.
+
+Background. Nonunion is somewhat more frequent after bi- than after monosegmental stabilization of the spine. Little is known about differences between the mechanical behavior associated with these procedures.
+
+Methods. A three-dimensional nonlinear finite element model of the lumbar spine with internal spinal fixators and bone grafts was used to study mechanical behavior after mono- and bisegmental fixation with and without stabilization of the bridged vertebra. Finite element analyses were performed to determine the influence of four different graft positions, five loading conditions, and six different pretensions in the longitudinal fixator rod. The following parameters were considered: the maximum contact pressure at the interface between the bone graft and vertebral body, the force transmitted by the bone graft, and the size of the contact area between the graft and the vertebral body.
+
+Results. Our model shows no clear differences between mono- and bisegmental fixation. Additional stabilization of the bridged vertebra exerts a partly adverse influence on the parameters studied. Pretension in the bridged region has a strong effect on the mechanical behavior.
+
+Conclusions. The mechanical behavior of the lumbar spine after mono- and bisegmental stabilization is similar. Thus biological factors and the surgical procedure are probably decisive in determining the fusion rate.

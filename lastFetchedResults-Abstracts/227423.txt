@@ -1,0 +1,14 @@
+The paper describes the ongoing development of optimisation methods for layout design of
+equi-block n-aspect mass transit signalling systems. The authors previously applied genetic algorithms
+(GAS) in place of conventional gradient search methods for solving the problem. Being theoretically
+and empirically sound for providing multiple-point search, the GA-based approach simplifies the
+gradient search approach, broadens the scope for dealing with changes of either the objective function
+or signalling scheme, and provides robust and global convergence in complex search spaces. The GAbased
+formulation divides an inter-station run into three sections: a constraint section, a stretchable
+section and a critical section. Since each of these sections was prescribed with a different design
+criterion, the GA optimises separately the layout of block joints in each section and their positions
+within each section. The solution time for optimal signalling design is further reduced with the use of
+differential evolution (DE) algorithms. The DE-based method combines the three subordinate
+objective functions in the original GA algorithm into one composite objective function for one single
+search. The performance improvements of the DE algorithms over the GA-based method are shown.
+The choice of variants for solving the DE-based signalling design problem is also discussed.

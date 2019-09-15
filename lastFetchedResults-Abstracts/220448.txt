@@ -1,0 +1,15 @@
+Objective(s): Providing a simulation model for understanding process and patient flow in outpatient clinics
+and estimating patients' waiting time.
+Methods: This was a descriptive study. In this study outpatient clinics of general teaching hospitals in Tehran
+were grouped according to statistical distribution of patients' arrival time and a sample of each group was
+selected. Then the data of arrival time, service time and flow of patient at clinic for 357 patients were
+collected. At last a simulation model of outpatient clinics was provided and validated.
+Results: Simulation model outputs showed that the mean patient waiting time for examination by novice
+resident was about 58 minutes, for experienced resident was about 52 minutes and for attend was about 53
+minutes. Review of examination process with simulation model showed that about 42-62 percent of patients'
+waiting time for examination was before physician arrival at clinic. There were no statistical differences
+between new and follow-up patients' waiting time and waiting time for primary and complementary'
+examination by residents and attend.
+Conclusion: We found that the time gap between patient admission and arrival of physician was the most
+important factor in rising outpatient waiting time. Efforts to lessening this time will decrease total waiting
+time for examination about 60 percent

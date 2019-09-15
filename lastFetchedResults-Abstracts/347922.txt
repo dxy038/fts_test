@@ -1,0 +1,9 @@
+Objective
+Injury currents are a hallmark of acute lesions in polarized cells. Our objective was to develop a non-invasive technique for monitoring human near-DC injury currents in vivo.
+Methods
+Using diagnostic muscle biopsy as controlled paradigm, injury-related magnetic DC-fields were mapped for 60 min postsurgery over leg muscle lesions of 9 subjects. A 49-channel magnetometer was used in combination with a mechanical horizontal modulation of the subject beneath the sensor array.
+Results
+Magnetic DC-field maps showed salient differences between biopsy and contralateral legs in 8/9 patients with a characteristic slowly decaying field in all biopsy legs. A variety of anomalous DC-field patterns was recorded over the biopsy sites, corresponding to theoretically predicted geometric variations of equivalent DC-current dipoles, i.e. wound surfaces, pointing into opposing muscle fibre ends. By contrast, all control measurements showed an elongated dipolar DC-field pattern. Additionally, mean global DC-field strengths were significantly higher over biopsy legs compared to the contralateral site.
+Conclusions
+Our pilot data illustrate that human injury currents can be detected using non-invasive magnetometry. Thus, DC-magnetometry may provide an essential new tool for clinical monitoring of injury currents, possibly also in brain tissue, e.g. in case of anoxic or peri-infarct depolarizations.
+

@@ -1,0 +1,11 @@
+This paper presents an application of structural synthesis techniques to the design of an exhaust system belonging to
+a heavy truck. The system is excited by the vehicle's powertrain over a wide frequency range, containing ®ve resonant
+peaks. Through the optimization procedure, the ®nite element method model is modi®ed, and the pro®le of the supporting
+beams is automatically redesigned to achieve superior performance: ®rst, obtaining optimum values for the
+natural frequencies and later minimizing the dynamic displacements. It is important to mention that structural synthesis
+software as the one employed in this study (VMA/GENESIS version 3.0) usually cannot deal with entities that present
+dierent values at the various analysis steps as is the case of frequency dependent displacement. It means that such
+physical terms cannot be computationally expressed as objective functions or constraints for optimization purposes.
+This problem is overcome by means of a mathematical arti®ce, the ``Beta Method''. This scheme relies on an auxiliary
+design variable for optimization and minimizes the maximum value assumed by a certain entity. The rules for expressing
+the optimization problem better in terms of the ``Beta'' variable will also be outlined

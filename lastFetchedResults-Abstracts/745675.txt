@@ -1,0 +1,12 @@
+Objective
+To elucidate the usefulness of CT in evaluating left ventricular (LV) volumes and ejection fraction (EF) in ischemic heart disease (IHD), we compared 64-slice CT with conventional left ventriculography (CLVG).
+Materials and methods
+
+71 subjects with suspected or confirmed IHD underwent ECG-gated enhanced CT before or after cardiac catheterization. End-diastolic volume (EDV) and end-systolic volume (ESV) of LV were selected in 20 phases of R–R interval of ECG, and data sets were reconstructed to determine EDV, ESV, SV, and EF of LV using a multislice area summation method; in CLVG these parameters were calculated from the right anterior oblique 30-degree projection.
+Results
+
+Correlation coefficients between CT and CLVG for EDV, ESV, SV, and EF were 0.759, 0.895, 0.550, and 0.836, respectively (P < 0.01). In 35 subjects without apical asynergy of LV wall motion, correlation coefficients between CT and CLVG were 0.77, 0.91, 0.63, and 0.87 respectively (P < 0.01); in 36 subjects, with apical asynergy, the correlation coefficients were 0.751, 0.875, 0.503, and 0.738, respectively (P < 0.01). The limits of agreement of all parameters were wider in the subjects with apical asynergy of LV wall motion than the subjects without.
+Conclusion
+
+There was good correlation between EDV, ESV, SV, and EF estimated by CT and those by CLVG, but CT tended to overestimate EDV and ESV and underestimate EF. In subjects with apical asynergy of LV wall motion, estimates of EF were less correlated between CT and CLVG and the limits of agreement of all parameters were wider than in those without. These discrepancies may come from the capability of CT to estimate LV wall asynergy 3-dimensionally and more accurately.
+

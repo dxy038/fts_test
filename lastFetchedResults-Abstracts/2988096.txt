@@ -1,0 +1,1 @@
+The main objective of the paper is to evaluate, from the software reuse point of view, the generic models of manufacturing and their suitability for developing control software for flexible manufacturing systems (FMS). After evaluating the main architectures, we can conclude that a new methodology with systematic reuse is required

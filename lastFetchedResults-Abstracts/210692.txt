@@ -1,0 +1,18 @@
+Background/ objective: Diagnosis of melanoma in the early stages can have a significant effect on decreasing
+the mortality rate caused by this type of skin cancer. Melanoma is hard to be diagnosed in the early stages. even
+by the best physicians. Therefore, providing a method to easier the early diagnosis of this type of cancer is very
+valuable and vital.
+Materials & Methods: In this research, by extraction of images' features and classifying them, we proposed an
+algorithm which enables the melanoma diagnosis. In the first step, before proper features extraction, we used
+polarized filter with proper angle for determining accurate boundaries between the normal and affected tissue. In
+the next step, with help of dermatologists we extracted the lesion '5 features. Moreover. we optimized the
+different features in order to have an exact and accurate classification of skin lesion and reduction in classifier
+training time.
+Results: Features optimization occurred via three following methods: Principal Component analysis, sequential
+forward selection and consultation with the dermatologist. By classifier help, all the optimized features were
+classified, enabled us to complete the algorithm. In the condition that we used the SVM classifier and optimized
+features with the direct ordinal selection method, the algorithm succeeded in diagnosing melanoma with the
+approximate accuracy of91 %.
+Conelusion: The proposed method is useful for diagnosing the melanoma with a convenient price and
+considerable high accuracy. Also, this software package has the connection capability to dermatoscopy and is
+helpful for diagnosing the melanoma.

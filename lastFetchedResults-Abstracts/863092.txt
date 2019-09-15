@@ -1,0 +1,11 @@
+Simulation-based surrogate models have been used for a variety of applications in
+automotive industry. In this paper, based on the FEM analysis, both of the response surface
+model (RSM) and Kriging model are used to optimize an ADI upper control arm, where the
+weight of the upper control arm is considered as the design objective, and the maximum
+allowable von Mises stress the constraint objective. The initial FEM analysis shows the
+stress distribution and maximum stress on the upper control arm under a very severe
+loading condition. And, by virtue of the result of FEM analyses, fifty simulations with six
+design variables are performed for RSM and Kriging model to construct the approximation
+of the weight and maximum stress to obtain the optimum result. The optimized results
+obtained by using RSM and KRG are confirmed by a verified FEM analysis. In addition, a
+fatigue analysis is carried out to verify the durability the final design.

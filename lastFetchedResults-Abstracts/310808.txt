@@ -1,0 +1,9 @@
+Objective.  To investigate the effects of knee flexion and ankle dorsiflexion on ground clearance during the swing phase of paraplegic gait.
+
+Background. Limitations of currently available walking orthoses are high energy consumption and upper limb loading. Knee flexion in the swing phase has been suggested as a means of reducing these.
+
+Methods. Kinematic data of paraplegic gait in two currently available orthoses were used to simulate the effects of knee flexion and ankle dorsiflexion on the swing foot ground clearance. This was used to validate a mathematical model of a simple ideal gait that was also developed.
+
+Results. It was shown that the implementation of knee flexion alone leads to a loss or no change in ground clearance. Implementing knee flexion and ankle dorsiflexion can be used to increase ground clearance.
+
+Conclusion. Flexion at the knee and ankle during the swing phase can potentially be used to allow a reduction in compensatory mechanisms by easing swing foot ground clearance.

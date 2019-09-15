@@ -1,0 +1,11 @@
+Objective. The hypothesis tested was that generation of torque at the wrist affects joint kinematics.
+
+Design. An in vivo study of normal wrist kinematics during plantar flexion motion against a constant load was undertaken, using a custom-designed instrumented apparatus to track the motion of the hand during the task.
+
+Background. Despite clinical observations of a relationship between motion-loading and pain in wrists affected by rheumatoid arthritis, there is little published literature on the in vivo kinematics of the normal human wrist under load.
+
+Methods. Ten volunteers with no wrist pathology were tested while generating torques of zero, 1.1 and 2.2 N m in a planar, unidirectional flexion motion. Hand kinematics were computed using the Planar Rigid Body Method algorithm and an 8 ° angular step size. The finite radius of motion and the range and standard deviation of the residuals to a fitted second-order curve were used as indices of changes in the kinematics.
+
+Results. The magnitude of both the range and standard deviation of the residuals were found to increase significantly with torque at the 95% confidence level.
+
+Conclusions. The wrist does not behave like a smooth mechanism when generating torque. Load affects carpal kinematics.

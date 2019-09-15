@@ -1,0 +1,9 @@
+Objective:
+The purpose of this study was to determine the cut-offs of serum biomarkers of liver fibrosis in HBsAg-positive patients by receiver operating characteristic (ROC) curves, and to determine the validity of these markers in parallel and serial interpretation.
+Methods:
+This study included 444 HBsAg-positive patients who had liver biopsy performed between January 1, 2003 and March 31, 2006. Some routine and clinical chemistry tests were run, and the stage of liver fibrosis was measured. The cut-offs of those markers were identified by using ROC curves. Sensitivity, specificity, predictive values (both positive and negative), and the Youden's index of these markers were calculated in parallel and serial interpretation.
+Results:
+The 444 patients were divided into a training group (322 patients) and a validation group (122 patients). All markers except gender, HB and TP were found to be statistically significant factors associated with significant fibrosis in the training group. The AUROC of GGT, APRI, AGE–PLT and AST in the training group were 0.772, 0.769, 0.748 and 0.700, respectively, and their sensitivities in the validation group were 65.00%, 70.00%, 75.00% and 60.00%, respectively. In parallel interpretation, the highest sensitivity was 85.00% at AGE–PLT AST, and in serial interpretation, the best specificity was 96.34% at GGT∩AGE–PLT.
+Conclusion:
+A few routine and serum biomarkers can be used to effectively assess most patients with HBsAg-positive CHB with and without significant liver fibrosis in parallel and serial interpretation.
+

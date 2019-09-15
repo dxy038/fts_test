@@ -1,0 +1,14 @@
+A new methodology is proposed for the topology optimization of fluid in Stokes flow. The binary
+design variable and no-slip condition along the solid–fluid interface are regularized to allow for the
+use of continuous mathematical programming techniques. The regularization is achieved by treating
+the solid phase of the topology as a porous medium with flow governed by Darcy’s law. Fluid flow
+throughout the design domain is then expressed as a single system of equations created by combining
+and scaling the Stokes and Darcy equations. The mixed formulation of the new Darcy–Stokes system
+is solved numerically using existing stabilized finite element methods for the individual flow problems.
+Convergence to the no-slip condition is demonstrated by assigning a low permeability to solid phase
+and results suggest that auxiliary boundary conditions along the solid–fluid interface are not needed.
+The optimization objective considered is to minimize dissipated power and the technique is used
+to solve examples previously examined in literature. The advantages of the Darcy–Stokes approach
+include that it uses existing stabilization techniques to solve the finite element problem, it produces
+0–1 (void–solid) topologies (i.e. there are no regions of artificial material), and that it can potentially
+be used to optimize the layout of a microscopically porous material

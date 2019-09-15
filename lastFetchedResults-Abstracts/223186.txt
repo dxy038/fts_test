@@ -1,0 +1,18 @@
+The Ecole Polytechnique Fédérale de Lausanne
+(EPFL), Lausanne, Switzerland, is deploying a flexible learning
+scheme for selected pilot courses in engineering education. In such
+a scheme, traditional lectures and written exercises are combined
+with additional Web-based learning resources. The main objective
+of this initiative is to sustain the evolution from traditional
+teaching to active learning and to better integrate the increasing
+number of educational resources available online. In engineering
+education, a key activity to sustain the learning process is hands-on
+experimentation carried out using either simulation tools or real
+equipment. This paper describes how a collaborative Web-based
+experimentation environment has been introduced at the EPFL
+for providing more flexibility to students performing laboratory
+experiments in automatic control, biomechanics, and fluid mechanics.
+It particularly describes the eJournal, a Web service
+integrated in the proposed learning environment that enables the
+collection and sharing of preparatory notes and experimental
+results with both peers and teaching assistants.

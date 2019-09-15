@@ -1,0 +1,1 @@
+The objective of this study is to demonstrate that genetic algorithm optimisation techniques can be successfully applied to enhance the performance of a typical linear quadratic missile autopilot controller design by incorporating several combinations of performance goals and constraints.

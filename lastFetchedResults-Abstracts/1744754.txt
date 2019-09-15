@@ -1,0 +1,5 @@
+This paper presents a novel probabilistic framework to process multiple sample queries in content based image retrieval (CBIR). This framework is independent from the underlying distance or (dis)similarity measures which support the retrieval system, and only assumes mutual independence among their outcomes.
+
+oposed framework gives rise to a relevance feedback mechanism in which positive and negative data are combined in order to optimally retrieve images according to the available information. A particular setting in which users interactively supply feedback and iteratively retrieve images is set both to model the system and to perform some objective performance measures.
+
+l repositories using different image descriptors and corresponding similarity measures have been considered for benchmarking purposes. The results have been compared to those obtained with other representative strategies, suggesting that a significant improvement in performance can be obtained.

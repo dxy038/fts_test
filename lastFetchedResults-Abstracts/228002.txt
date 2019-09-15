@@ -1,0 +1,12 @@
+The design and the integration of an electromechanical storage system into an electric
+vehicle power train are discussed. The objective of this study is to highlight the interest of
+sources hybridisation for heavy-duty vehicles with discontinuous mission profiles as garbage collection.
+This behaviour is characterised by a high peak-to-average battery power ratio. A solution to
+increase vehicle performances is to maintain the battery power within rated levels for charges and
+discharges with an auxiliary peak-power source which supplies or recovers the energy during acceleration
+or braking, respectively. In this case, the battery can be considered as an energy source. The
+authors have focused on a hybrid source made of a battery and an electromechanical storage
+system, which behaves as a power source. This principle has been verified with the help of simulations
+through Matlab/Simulinkw. To validate the simulation results, an experimental test bench
+including the hybrid source has been designed. This test bench allows to recreate the dynamic
+vehicle behaviour on a given mission profile. Experimental results are shown and discussed.

@@ -1,0 +1,9 @@
+Background
+Our objective was to assess the value of home blood pressure (BP) monitoring in comparison to office BP measurements and ambulatory monitoring in predicting hypertension-induced target-organ damage.
+Methods
+Sixty-eight untreated patients with hypertension with at least two routine prestudy office visits were included (mean age, 48.6 ± 9.1 [SD] years; 50 men). Office BP was measured in two study visits, home BP was measured for 6 workdays, and ambulatory BP was monitored for 24 h. All BP measurements were obtained using validated electronic devices. Target-organ damage was assessed by measuring the echocardiographic left-ventricular mass index (LVMI), urinary albumin excretion rate (AER) in two overnight urine collections, and carotid-femoral pulse-wave velocity (PWV) (Complior device; Colson, Garges-les-Gonesse, Paris, France).
+Results
+The correlation coefficients of LVMI with office BP were 0.24/0.15 (systolic/diastolic), with home BP 0.35/0.21 (systolic, P< .01), and with 24-h ambulatory BP 0.23/0.19, awake 0.21/0.16, and asleep 0.28/0.26 (asleep, both P< .05). The correlation coefficients of AER with office BP were 0.24/0.31 (diastolic, P< .05), with home BP 0.28/0.26 (both P< .05), and with 24-h ambulatory BP 0.25/0.24, awake 0.24/0.25 (diastolic, P< .05), and asleep 0.26/0.18 (systolic, P< .05). There was a trend for negative correlations between PWV and diastolic BP measurements (not significant). In multiple-regression models assessing independent predictors of each of the three indices of target-organ damage, systolic home BP and age were the only independent predictors of increased LVMI that reached borderline statistical significance.
+Conclusions
+These data suggest that home BP is as reliable as ambulatory monitoring in predicting hypertension-induced target-organ damage, and is superior to carefully taken office measurements.
+

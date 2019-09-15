@@ -1,0 +1,7 @@
+The objective of this work is to investigate the accuracyof the Adeline lighting software in simulating the illuminance distribution from
+daylighting and the electrical lighting consumption of an existing atrium building. The case study is an enclosed atrium space equipped
+with an automatic on=o2 lighting control system and roofed by a skylight made of several glazing systems. Field monitoring of the atrium
+space was conducted during summer and winter and included measurements of horizontal indoor and outdoor illuminance, solar radiation
+and electrical lighting system time-of-use. The computer simulation included the creation of one simple and one complex computer model
+used to simulate the daylighting performance of the atrium space. The software accuracy was evaluated based on comparisons between
+the predicted and the on-site measured illuminance distribution and lighting energyconsumption.

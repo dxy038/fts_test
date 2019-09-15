@@ -1,0 +1,14 @@
+Background
+Although studies have examined both the adverse consequences of lacking health insurance and the costs of insuring the uninsured, there are no estimates of the value of providing health insurance to those currently uninsured.
+Objective
+
+To examine the value associated with providing insurance to those currently uninsured through an incremental cost-effectiveness analysis.
+Methods
+
+People aged 25 to 64 in both the National Health Interview Survey (with 2-year mortality follow-up) and the Medical Expenditure Panel Survey were examined to estimate the contribution of sociodemographic, health, and health behavior characteristics on insured persons’ quality-adjusted life years (QALYs) and healthcare costs. Parameter estimates from these regression models were used to predict QALYs and costs associated with insuring the uninsured, given their characteristics for 1996. Markov decision-analysis modeling was then employed to calculate incremental cost-effectiveness ratios.
+Results
+
+The incremental cost-effectiveness of insurance for the average 25-year-old adult (through age 64) is approximately $35,000 per QALY gained (range $21,000 to $48,000). The incremental cost-effectiveness ratio becomes more favorable as people approach age 65.
+Conclusions
+
+The additional health care purchased with health insurance provides gains in quality-adjusted life at costs that compare favorably to those of other programs and medical interventions society now chooses to fund.

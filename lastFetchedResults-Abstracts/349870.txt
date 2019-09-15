@@ -1,0 +1,11 @@
+Objective
+To test the anticonvulsive potential of a range of repetitive transcranial magnetic stimulation (rTMS) frequencies by novel methods for simultaneous EEG and rTMS in a rat seizure model.
+Methods
+Seizures were triggered by intraperitoneal kainic acid (KA; 10 mg/kg). Rats (n = 21) were divided into three groups in which individual seizures were treated with rTMS trains at one of three frequencies: 0.25, 0.5 or 0.75 Hz. EEG was continuously viewed by an operator who identified each seizure onset. Consecutive seizures in each animal were (1) treated with active rTMS, (2) treated with sham rTMS, or (3) were untreated. EEG was re-analyzed post hoc by visual inspection, and seizure durations were compared within and between treatment groups.
+Results
+KA-induced seizures were abbreviated by 0.75 Hz (P = 0.019) and 0.5 Hz (P = 0.033) active EEG-guided rTMS. In contrast, neither active 0.25 Hz rTMS nor the control conditions affected seizure duration (P > 0.2).
+Conclusions
+We demonstrate that EEG-guided rTMS can suppress seizures in the rat KA epilepsy model, and that the effect is frequency dependent, with 0.75 and 0.5 Hz rTMS being superior to 0.25 Hz rTMS.
+Significance
+These data support the use of rat seizure models in translational research aimed at evaluation and development of effective rTMS anticonvulsive protocols. We also offer a proof of principle that real-time analysis of EEG can be used to guide rTMS to suppress individual seizures.
+

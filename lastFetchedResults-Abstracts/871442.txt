@@ -1,0 +1,10 @@
+In this paper we have obtained Fritz-John type necessary optimality criteria for
+non-linear programs under the hypotheses that the right differentials, at the
+optimal point, of the objective and the active constraint functions with respect to
+an arc are convex and the inactive constraint functions are continuous. A Mond-
+Weir type dual is associated and weak and strong duality results are established by
+assuming the functions involved to be locally P-connected. These results are
+further extended and necessary as well as sufficient optimality conditions are
+obtained for a weakly efficient solution of a multiobjective non-linear program. A
+proper weak minimum is defined and duality results are established by using this
+concept

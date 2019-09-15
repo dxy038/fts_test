@@ -1,0 +1,12 @@
+Objective
+cribe a modified version of a web-based insulin calculator for the control of blood glucose in critical care.
+
+ified a previously described calculator by incorporating bolus doses of insulin to be given. The calculator is now also able to store blood glucose concentrations, insulin rates, bed number and the date and time of calculation. We modified our feeding protocol to restrict the target enteral feed from 1800 to 1500 kcal per day and removed the night time rest period.
+g
+edded intensive care unit.
+ts and participants
+tients admitted to the ICU between June 2005 and May 2006.
+ements and results
+ndred and sixty-one patients admitted (mean APACHE II score 16 [S.D. 7]), mean age 51 years [S.D. 17]. One hundred and forty-six patients died prior to ICU discharge. Total of 5573 patient days with 13,029 recorded calculation data points. Mean blood glucose concentration was 6.7 mmol (95CI 3.7–12.1). There were 34 episodes of treated hypoglycaemia of which 11 were on an insulin infusion. There were two troughs in the time of data entry that corresponded with staff handover. There was no evidence of diurnal variation in blood glucose concentration. The mean value of the insulin infusion rate was 4.3 units/h (S.D. 3.7).
+sions
+b-based insulin calculator facilitates the dosing of insulin in critical care. The lack of diurnal blood glucose concentrations suggests that once daily estimation of blood glucose may be an acceptable method of monitoring blood glucose concentrations in critical care.

@@ -1,0 +1,11 @@
+We propose an algorithm for deinterlacing of interlaced
+video sequences. It successively builds approximations to the deinterlaced
+sequence by weighting various interpolation methods. A particular example
+given here uses four interpolation methods, weighted according
+to the errors each one introduces. Due to weighting, it is an adaptive
+algorithm. It is also time-recursive, since motion-compensated part uses
+the previously interpolated frame. Furthermore, bidirectional motion
+estimation and compensation allow for better performance in case of scene
+changes and covering/uncovering of objects. Experiments are run both
+on “real-world” and computer generated sequences. Finally, subjective
+testing is performed to evaluate the quality of the algorithm.

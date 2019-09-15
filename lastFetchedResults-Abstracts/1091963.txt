@@ -1,0 +1,8 @@
+
+BACKGROUND AND OBJECTIVE: Breast cancer is the most common cancer in women worldwide and radiotherapy is the best treatment choice after mastectomy. One of the main aims of radiotherapy is applying the uniform dose distribution in all treatment volume. The objective of this study was to evaluate the chest wall angle by reference axis (vertical and horizontal) and use optimum wedge filter in post-mastectomy radiotherapy.
+METHODS: One hundred and forty cases of breast cancer after mastectomy surgery were included in this study. Patients were planned by ALFARD treatment planning system (TPS) or three-dimensional (3D) CorePLAN Treatment Planning System (TPS). Dose Volume Histograms (DVHs) with different wedge angles and without wedge were obtained for every case. DVHs were analyzed and compared for finding optimum wedge angle. Chest wall angle with reference axis was determined by GetData software. The wedge angel and chest wall angel were compared to reach the equation between them.
+FINDINGS: The optimum wedge angle was the function of chest wall angles. In all cases the compensating wedge filter causes better homogeneity index and results of chest wall angle determination were in good agreement with the results of DVHs as gold standard for determining homogeneity index.
+CONCLUSION: Finding of this study showed that an improved chest wall angle in mastectomy patients is a new method for choosing optimum wedge angle.  Also time cost of this method is better than DVH technique.
+
+KEY WORDS: Radiotherapy, Dose volume histogram (DVH), Wedge filter, Mastectomy, Treatment planning system (TPS).
+

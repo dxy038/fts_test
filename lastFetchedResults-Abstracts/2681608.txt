@@ -1,0 +1,5 @@
+This paper considers a multi-objective portfolio selection problem imposed by gaining portfolio, divided yield, and risk control in an
+ambiguous investment environment, in which return and risk are characterized by probabilistic numbers. Based on the theory of possibility,
+a new multi-objective portfolio optimization model with portfolio, divided yield, and risk control is proposed, and then the proposed model
+is solved as a fuzzy goal programming model to fulfill aspiration level of each objective. Furthermore, numerical example of an efficient
+portfolio selection is provided to illustrate that the proposed model is versatile enough to be applicable to various unexpected conditions.

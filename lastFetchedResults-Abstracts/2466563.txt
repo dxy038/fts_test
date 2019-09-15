@@ -1,0 +1,8 @@
+Objective
+s paper, we present findings from an empirical study that was aimed at identifying the relative “perceived value” of CMMI level 2 specific practices based on the perceptions and experiences of practitioners of small and medium size companies. The objective of this study is to identify the extent to which a particular CMMI practice is used in order to develop a finer-grained framework, which encompasses the notion of perceived value within specific practices.
+
+d face-to-face questionnaire based survey sessions as the main approach to collecting data from 46 software development practitioners from Malaysia and Vietnam. We asked practitioners to choose and rank CMMI level 2 practices against the five types of assessments (high, medium, low, zero or do not know). From this, we have proposed the notion of ‘perceived value’ associated with each practice.
+s
+e identified three ‘requirements management’ practices as having a ‘high perceived value’. The results also reveal the similarities and differences in the perceptions of Malaysian and Vietnamese practitioners with regard to the relative values of different practices of CMMI level 2 process areas.
+sions
+and medium size companies should not be seen as being “at fault” for not adopting CMMI – instead the Software Process Improvement (SPI) implementation approaches and its transition mechanisms should be improved. We argue that research into “tailoring” existing process capability maturity models may address some of the issues of small and medium size companies.

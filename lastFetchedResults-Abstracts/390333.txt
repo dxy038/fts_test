@@ -1,0 +1,11 @@
+Background
+Identification of individuals latently infected with Mycobacterium tuberculosis is an important part of tuberculosis control. The current method, the tuberculin skin test (TST), has poor specificity because of the antigenic cross-reactivity of purified protein derivative (PPD) with M bovis BCG vaccine and environmental mycobacteria. ESAT-6 is a secreted antigen that is highly specific for M tuberculosis complex, but is absent from M bovis BCG. With an enzyme-linked immunospot (ELISPOT) assay for interferon gamma, we have identified ESAT-6-specific T cells as an accurate marker of M tuberculosis infection.
+Methods
+
+We did a prospective, masked study of 50 healthy contacts, with varying but well defined degrees of exposure to M tuberculosis, who attended an urban contact-tracing clinic. We assessed and compared the efficacy of our assay and TST for detection of symptomless infected individuals by correlation of test results with the degree of exposure to an infectious index case.
+Findings
+
+The ESAT-6 ELISPOT assay results had a strong positive relation with increasing intensity of exposure (odds ratio=9·0 per unit increase in level of exposure [95% CI 2·6–31·6], p=0·001), whereas TST results had a weaker relation with exposure (1-9 [1·0–3·5], p=0·05). By contrast, ELISPOT results were not correlated with BCG vaccination status (p=0·7), whereas TST results were significantly more likely to be positive in BCG-vaccinated contacts (12·1 [1·3–115·7], p=0·03).
+Interpretation
+
+This new antigen-specific T cell-based assay could allow more accurate identification of symptom-free individuals recently exposed to M tuberculosis, and thereby help to improve tuberculosis control.

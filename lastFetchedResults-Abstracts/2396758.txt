@@ -1,0 +1,14 @@
+In weight optimizitaion of double-layer grids, various parameters, such as
+members cross-sectional areas, the height between two layers, structure meshing in two
+directions and the topology of the structure should be considered. In this study, for
+simultaneous optimization of size, shape and topology of double-layer grids, a genetic
+algorithm is employed and is modied based on the fuzzy inference system. First, to
+eciently search in design space at each stage, some solutions are generated in the
+neighborhood of the best sample, which enhances searching operation in the neighborhood
+of the optimum solution. Then, in order to achieve the possible solutions, penalties for
+violation of constraints, and the number of violated constraints are considered in order
+to choose the next generation. The value of objective function and the values of genetic
+algorithm parameters have a great eect on the result of the algorithm. For adaptive
+setting of these parameters, the fuzzy inference system is employed. The eciency of these
+improvements has been conrmed by presenting some examples of truss structures and
+comparison with the other algorithms.

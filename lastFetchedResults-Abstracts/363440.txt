@@ -1,0 +1,9 @@
+Study objective
+We describe the epidemiology of frequent users of emergency departments (EDs), using a statewide dataset derived from linked ED, observation stay, and inpatient hospital discharge databases.
+Methods
+Unique patient identifiers were used to link visits across databases, encompassing all ED visits regardless of disposition. Individuals with 5 or more visits during a year were considered frequent users and were compared with infrequent users, as well as nonusers, using descriptive statistics.
+Results
+Only 1% of Massachusetts residents were frequent users, but they made 17.6% of all ED visits in fiscal year 2003; 57.8% of residents used multiple EDs. Compared with infrequent users, frequent users were more likely to die at their last visit (2.6% of frequent users versus 1.1% of infrequent users), were hospitalized at higher rates (18.8% versus 14.2% of visits), and were transported more frequently by ambulance (18.6% versus 12.1% of visits). Two percent of the uninsured individuals were frequent users compared with 2.1% of Medicaid enrollees, 2.0% of Medicare enrollees, and 0.4% of privately insured individuals. Only 15% of frequent users were uninsured. Frequent ED use is typically temporary; just 28.4% of frequent users in fiscal year 2002 remained frequent users in fiscal year 2003.
+Conclusion
+Uninsured individuals are no more likely than publicly insured individuals to be ED frequent users and compose only 15% of them. Frequent users tend to be sicker than infrequent users, but most use the ED at high rates temporarily and visit the ED less frequently or not at all the following year
+

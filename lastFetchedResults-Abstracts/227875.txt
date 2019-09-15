@@ -1,0 +1,14 @@
+Multiport DC–DC converters are of potential interest in applications such as generation
+systems utilising multiple sustainable energy sources. A family of multiport bidirectional DC–DC
+converters derived from a general topology is presented. The topology shows a combination of
+DC-link and magnetic coupling. This structure makes use of both methods to interconnect multiple
+sources without the penalty of extra conversion or additional switches. The resulting converters
+have the advantage of being simple in topology and have a minimum number of power devices.
+The proposed general topology and basic cells show several possibilities to construct a multiport
+converter for particular applications and provide a solution to integrate diverse sources owing to
+their flexibility in structure. The system features a minimal number of conversion steps, low cost
+and compact packaging. In addition, the control and power management of the converter by a
+single digital processor is possible. The centralised control eliminates complicated communication
+structures that would be necessary in the conventional structure based on separate conversion
+stages. A control strategy based on classical control theory is proposed, showing a multiple PIDloop
+structure. The general topology and a set of three-port embodiments are detailed.

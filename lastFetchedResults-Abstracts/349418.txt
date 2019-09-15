@@ -1,0 +1,11 @@
+Objective
+This paper presents a brain computer interface (BCI) actuated by flash onset and offset visual evoked potentials (FVEPs). Flashing stimuli, such as digits or letters, are displayed on a LCD screen for inducing onset and offset FVEPs when one stares at one of them. Subjects can shift their gaze at target flashing digits or letters to generate a string for communication purposes.
+Methods
+By designing the flickering sequences with mutually independent flash onsets (or offsets) and employing the inherent property that onset (or offset) FVEPs are time-locked and phase-locked to flash onsets (or offsets) of gazed stimuli, segmented epochs based on the flash onsets (or offsets) of gazed stimuli will be enhanced after averaging whereas those based on the onsets (or offsets) of non-gazed stimuli will be suppressed after averaging. The amplitude difference between the N2 and P2 peaks of averaged onset FVEPs, denoted by Amponset, and that between the N1 and P1 peaks of averaged offset FVEPs, denoted by Ampoffset, are detected during experiments. The stimulus inducing the largest value of the sum Amponset + Ampoffset is identified as the gazed target and the representative digit or letter is sent out.
+Results
+Five subjects participated in two experiments. In the first experiment, subjects were asked to gaze at 25 flickering stimuli one by one with each for a duration of 1 min. The mean accuracy with 10-epoch averages was 97.4%. In the second task, subjects were instructed to generate a string ‘0287513694E’ by staring at stimuli on a pseudo keypad comprising ten digits ‘0–9’ and two letters ‘B’ and ‘E’. The mean accuracy and information transfer rates were 92.18% and 33.65 bits/min, respectively.
+Conclusions
+The onset and offset FVEP-based BCI has shown that high information transfer rate has been achieved.
+Significance
+A novel FVEP-based BCI system is proposed as an efficient and reliable tool for disabled people to communicate with external environments.
+

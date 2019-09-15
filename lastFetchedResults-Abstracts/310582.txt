@@ -1,0 +1,20 @@
+Objective.
+To study ligament and extensor-mechanism function in the ACL-deficient knee.
+Design.
+
+Mathematical modeling of the muscles, ligaments, and bones at the knee.
+Background.
+
+Numerous experiments have documented an increase in anterior tibial translation (ATT) in the ACL-deficient knee, but its effect on the function of the knee-extensor mechanism is not fully understood. The load sharing between the knee ligaments is also unknown since ligament forces are difficult to measure in vivo.
+Methods.
+
+The geometry of the model bones is adapted from cadaver data. Eleven elastic elements describe the geometric and mechanical properties of the ligaments and joint capsute. The model is actuated by eleven musculotendinous units. Straight, anterior drawer and maximum, isometric extension are simulated by solving the equations for static equilibrium of the model.
+Results.
+
+The moment arm of the extensor mechanism and the torque at the knee are nearly equal in the intact and ACL-deficient model. Knee-ligament forces are lower in the ACL-deficient model than in the intact model. Ligament forces are lower because the shear force applied to the tibia decreases when the model ACL is removed.
+Conclusions.
+
+Function of the knee-extensor mechanism is not altered by loss of the ACL. The MCL is the primary restraint to anterior drawer in the ACL-deficient knee. The deep fibers of the MCL dominate the load sharing between the ligaments when the ACL is absent.
+Relevance
+
+The analysis suggests that differences in knee-extensor torques measured in normal and ACL-deficient subjects result from a deficit in quadriceps muscle strength and not from an increase in ATT when the ACL is absent. Although the function of the knee-extensor mechanism is not altered by loss of the ACL, the load-sharing among the ligaments is substantially different: the MCL provides practically all of the resisting force to ATT. This may explain the high incidence of late meniscal and MCL tears in patients with untreated ACL injuries.

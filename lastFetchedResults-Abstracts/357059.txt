@@ -1,0 +1,7 @@
+Background The clinical management of severe congestive heart failure (CHF) should be graded according to the prognosis of each individual patient. Our objective was to elaborate a prognostic rating system for severe CHF.
+
+Methods The EPICAL program (Épidémiologie de l'Insuffisance Cardiaque Abancée Lorraine) identified patients with severe CHF defined by hospitalization accompanied by class III/IV dyspnea, edema, or hypertension; an ejection fraction ≤30% or aardiothoracic index ≥60%. Baseline variables were tested in Cox multivariate models.
+
+Results Patients with ischemic heart disease (n = 219) had a lower 1-year survival rate (57.6%) than patients with dilated cardiomyopathy (n = 182) (69.1%). Multivariate analysis identified 5 prognostic factors for ischemic CHF and 7 for CHF caused by dilated cardiomyopathy. These variables were used to classify patients within prognostic subgroups of good (>75%), intermediate, or poor (≤25%) 1-year survival.
+
+Conclusion A score for prognostic prediction was further derived from readily available data to help physicians improve decision making and to assist in clinical trials as a stratification tool.

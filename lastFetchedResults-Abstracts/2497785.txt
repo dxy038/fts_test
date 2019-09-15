@@ -1,0 +1,9 @@
+In this paper, an efficient method is presented to control the attitude of a satellite with ON-OFF actuator.
+The main objective of this method is to control the amplitude of the limit cycle which commonly appears in
+the steady state of such systems, while simultaneously by consideration of real actuator constraints, it
+reduces the fuel consumption of system. The proposed method is a combination of a command modifier
+(which is based on the set point and the required accuracy of pointing, by means of optimization, it calculates
+the desired limit cycle), a phase plane controller (PPC) and a compensator (to compensate for the real
+constraints of the actuator). The effectiveness and outperformance of the proposed method is approved in
+comparison with the previous methods of attitude control problem through the closed loop simulation and the
+stability and robustness of the closed loop system is fully analyzed and illustrated by simulations.

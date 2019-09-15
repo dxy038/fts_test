@@ -1,0 +1,11 @@
+Objective
+To investigate whether the intracortical inhibitory (ICI) and facilitatory (ICF) circuits in the primary motor cortex between the first dorsal interosseous (FDI) and abductor digiti minimi (ADM) muscles are modulated differently.
+Methods
+We conducted paired-pulse transcranial magnetic stimulation in combination with different current directions (anterior-medially: AM, and posterior-laterally: PL) under relaxed and active muscle conditions with interstimulus intervals (ISIs) between 2 and 16 ms.
+Results
+In both muscle conditions, the conditioned motor-evoked potential (MEP) responses obtained with the AM current direction (preferentially eliciting early I-waves) were similar between the two muscles at all ISIs, but the MEP responses obtained with the PL current direction (preferentially eliciting late I-waves) were different between FDI and ADM muscles, in that the conditioned MEP responses in FDI muscle were inhibited at all ISIs under both muscle conditions, whereas those in ADM muscle were suppressed at only short ISIs (2–4 ms).
+Conclusions
+These results indicate that the inhibitory connections operating for the corticospinal tract neurons in FDI muscle are more potent, and, conversely, that those in ADM muscle are weaker.
+Significance
+The different modulations of ICI circuits between FDI and ADM muscles is an important neural mechanism which may contribute to different functional demands (finger dexterity).
+

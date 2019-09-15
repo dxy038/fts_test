@@ -1,0 +1,8 @@
+AbstractObjective
+esent work has the objective of developing an automatic methodology for the detection of lung nodules.
+ology
+oposed methodology is based on image processing and pattern recognition techniques and can be summarized in three stages. In the first stage, the extraction and reconstruction of the pulmonary parenchyma is carried out and then enhanced to highlight its structures. In the second stage, nodule candidates are segmented. Finally, in the third stage, shape and texture features are extracted, selected and then classified using a support vector machine.
+s
+ testing stage, with 140 new exams from the Lung Image Database Consortium image collection, 80% of which are for training and 20% are for testing, good results were achieved, as indicated by a sensitivity of 85.91%, a specificity of 97.70% and an accuracy of 97.55%, with a false positive rate of 1.82 per exam and 0.008 per slice and an area under the free response operating characteristic of 0.8062.
+sion
+ancer presents the highest mortality rate in addition to one of the smallest survival rates after diagnosis. An early diagnosis considerably increases the survival chance of patients. The methodology proposed herein contributes to this diagnosis by being a useful tool for specialists who are attempting to detect nodules.

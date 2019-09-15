@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to estimate the risks of stillbirth and neonatal and infant deaths in triplets, according to mode of delivery.
+Study design
+We used the “matched multiple birth” data file that was comprised of triple births that were delivered in the United States in the years 1995 through 1998. Analyses were restricted to fetuses that were delivered at ≥24 weeks of gestation. Based on the order of the birth of the fetuses within the triplet set, the mode of delivery of triplets was assigned as cesarean-cesarean-cesarean (all cesarean), vaginal-vaginal-vaginal (all vaginal), and vaginal-cesarean-cesarean or vaginal-vaginal-cesarean (other). Associations between mode of delivery and stillbirth, neonatal deaths (within 28 days), and infant deaths (up to 1 year) were expressed as relative risks with 95% confidence intervals and population attributable risks, which were derived from multivariate logistic regression models that were based on the method of generalized estimated equations (with all cesarean deliveries serving as the reference). All analyses were adjusted for several confounding factors.
+Results
+Ninety-five percent of all triplets were delivered by cesarean delivery. Vaginal delivery (all vaginal) was associated with an increased risk for stillbirth (relative risk, 5.70; 95% CI, 3.83, 8.49) and neonatal (relative risk, 2.83; 95% CI, 1.91, 4.19) and infant (relative risk, 2.29; 95% CI, 1.61, 3.25) deaths. The population-attributable risks were 15.9% for neonatal and 12.4% for infant deaths, which implied that these proportions of deaths were potentially avoidable had these triplet fetuses all been delivered by cesarean delivery rather than all fetuses being delivered vaginally.
+Conclusion
+Cesarean delivery of all 3 triplet fetuses is associated with the lowest neonatal and infant mortality rate. Vaginal delivery among triplet gestations should be avoided.
+

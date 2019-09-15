@@ -1,0 +1,11 @@
+Background
+The objective of this study is to look at how well patient history and examination findings can be used in screening for angina.
+Methods
+
+A total of 887 records were extracted from the electronic medical record system (EMR) in Selayang Hospital, Malaysia. The data was cleaned; 69 possible variables were extracted, and univariate and multivariate analyses were performed.
+Results
+
+From the univariate analysis, it was found that 19 variables are significantly associated with a diagnosis of angina. However, multiple logistic regression reveals that only 11 of these 19 variables are significantly related to a diagnosis of angina. Chest pain aggravated by exertion, history of diabetes mellitus, and history of heart disease (regardless of whether on treatment or not) are significant predictors of angina. Sudden onset chest pain, pain that is persistent, pain relieved by other means, pain aggravated by inspiration, and findings of rhonchi are important predictors of a diagnosis other than angina. The degree of overall accuracy is high at 71.3%. There are eight factors which are significant in the univariate analysis but are not significant in the multivariate analysis. These are marital status, pain relieved by glyceryl trinitrate (GTN), pain relieved by rest, associated nausea, pain aggravated by posture, pain aggravated by cough, history of hypertension, and history of smoking.
+Conclusions
+
+These findings suggest that examination findings do not play a significant role in screening for angina.

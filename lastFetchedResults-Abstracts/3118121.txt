@@ -1,0 +1,1 @@
+This paper presents the dynamics modeling and the control &amp; guidance architecture for specific target tracking indoors tasks using a miniature quad-rotor. Our objective is to develop a testbed using Matlab for experimentation and simulation of dynamics, control and guidance methods within a strong interplay between the hardware on board and software provisioned.

@@ -1,0 +1,6 @@
+Objective: To study whether hemodynamic changes in human brain generate scalp-EEG responses.
+Methods: Direct current EEG (DC-EEG) was recorded from 12 subjects during 5 non-invasive manipulations that affect intracranial hemodynamics by different mechanisms: bilateral jugular vein compression (JVC), head-up tilt (HUT), head-down tilt (HDT), Valsalva maneuver (VM), and Mueller maneuver (MM). DC shifts were compared to changes in cerebral blood volume (CBV) measured by near-infrared spectroscopy (NIRS).
+Results: DC shifts were observed during all manipulations with highest amplitudes (up to 250 μV) at the midline electrodes, and the most pronounced changes (up to 15 μV/cm) in the DC voltage gradient around vertex. In spite of inter-individual variation in both amplitude and polarity, the DC shifts were consistent and reproducible for each subject and they showed a clear temporal correlation with changes in CBV.
+Conclusions: Our results indicate that hemodynamic changes in human brain are associated with marked DC shifts that cannot be accounted for by intracortical neuronal or glial currents. Instead, the data are consistent with a non-neuronal generator mechanism that is associated with the blood–brain barrier.
+Significance: These findings have direct implications for mechanistic interpretation of slow EEG responses in various experimental paradigms
+

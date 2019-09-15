@@ -1,0 +1,5 @@
+Objective: Our main goal was to evaluate the accuracy of an original non-supervised spatio-temporal magnetoencephalography (MEG) localization method used to characterize interictal spikes generators.
+Methods: MEG and stereotactic intracerebral recordings (stereo-electro-encephalographic exploration, SEEG) data were analyzed independently in 4 patients. MEG localizations were performed with and without anatomical constraints.
+Results: We analyzed 1326 interictal spikes recorded using MEG. For each patient, 2–3 typical source patterns were described. These source configurations were compared with SEEG. SEEG findings and MEG spatio-temporal localization results were remarkably coherent in our 4 patients. Most of the MEG patterns were similar to interictal SEEG patterns from a spatio-temporal point of view.
+Conclusions: We were able to evaluate the usefulness of our non-invasive localization method. This approach described correctly the part of the epileptogenic network involved in the generation of interictal events. Our results demonstrate the potential of MEG in the non-invasive spatio-temporal characterization of generators of interictal spikes.
+

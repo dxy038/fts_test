@@ -1,0 +1,13 @@
+A new computational approach to the problem of limit analysis with quadratic yield condition is developed
+and tested. The problem is solved using the exact convex yield condition and the general case of unbounded
+yield set, corresponding to unrestricted hydrostatic pressure, is treated.
+The discretization by the  nite element method is based on an analysis of the duality between the static
+principle and the kinematic principle of limit analysis. Also the solution method for the discrete optimization
+problem is new and exploits this duality. The method simultaneously computes approximations to the  elds
+of stresses and 
+ow in the collapse state. The software used for the optimization problem is independent of
+continuum mechanics, but has been developed with applications in limit analysis as a primary objective.
+The e ciency and accuracy of the method for large problems is demonstrated by solving a classical problem
+in the plane strain model: approximately 90 000  nite element nodes with 3 stress components and 2 velocity
+components at each node. In two space dimensions this may be overkill, but it shows that we are able to
+solve problems in three space dimensions

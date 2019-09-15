@@ -1,0 +1,8 @@
+Objective
+elop an instrumented handbike system to measure the forces applied to the handgrip during handbiking.
+
+grees of freedom force sensor was built into the handgrip of an attach-unit handbike, together with two optical encoders to measure the orientation of the handgrip and crank in space. Linearity, precision, and percent error were determined for static and dynamic tests.
+s
+inearity was demonstrated for both the static and the dynamic condition (r = 1.01). Precision was high under the static condition (standard deviation of 0.2 N), however the precision decreased with higher loads during the dynamic condition. Percent error values were between 0.3 and 5.1%.
+sion
+s the first instrumented handbike system that can register 3-dimensional forces. It can be concluded that the instrumented handbike system allows for an accurate force analysis based on forces registered at the handle bars.

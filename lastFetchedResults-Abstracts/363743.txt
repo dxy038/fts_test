@@ -1,0 +1,9 @@
+Study objective
+We evaluate the validity of the Emergency Severity Index (version 3) (ESI) triage algorithm in a geriatric emergency department (ED) population and determine the association between ESI categorization and survival.
+Methods
+Validity was assessed using a retrospective analysis of hospitalization, ED length of stay, and observed resource use compared with resource utilization estimated at triage by the ESI. Survival analysis was conducted for the same cohort. The study was exempted by the hospital institutional review board, and the requirement for informed consent was waived.
+Results
+During the investigation, 1,087 patients older than 65 years were registered in the ED. Six patients were identified as direct admissions, and 152 were found to be repeat visitors, leaving 929 subject visits for analysis. In this cohort, hospitalization was associated with ESI triage assignment (Kendall’s τ-b=−0.476; 95% confidence interval [CI] −0.524 to −0.425). The area under the receiver operating characteristic curve for the predictive ability of the ESI for hospitalization was 0.77 (95% CI 0.748 to 0.806). Length of stay was associated with ESI assignment (Kruskal-Wallis test, P=.000). The relationship between triage categorization and resource utilization was significant (Spearman’s correlation=−0.683; 95% CI −0.716 to −0.647). ESI categorization was associated with vital status at 1 year (Kaplan-Meier χ2 67.85; df=4; P=.0000).
+Conclusion
+When used to triage patients older than 65 years, the ESI algorithm demonstrates validity. Hospitalization, length of stay, resource utilization, and survival were all associated with ESI categorization in this cohort.
+

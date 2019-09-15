@@ -1,0 +1,11 @@
+Objective
+The expression of mRNA for pre-Tα is specific for human plasmacytoid dendritic cells (PDC), a population ontogenically close to T cells. The latter need Gata-3 transcription factor to develop. PU1 and RelB are two transcription factors involved in the development of murine myeloid DC (MDC). To determine the lineage origin of human thymic DC, the expression of these genes was investigated.
+Materials and methods
+
+Fresh thymic DC, CD34+CD1a− progenitors, and progenitor-derived DC populations were sorted, analyzed, and compared to blood DC.
+Results
+
+Three DC populations were found in the thymus. 1) CD123−/loHLA-DRhi DC expressing PU1 and RelB; 2) CD123hiHLA-DR+ DC expressing only pre-Tα, the expression of which was similar to that of MDC and PDC from peripheral blood; and 3) a new mature CD123hiHLA-DRhi PDC population with pre-Tα, PU1 and RelB mRNAs. In culture, most CD34+CD1a− progenitors remained CD1a−CD123−; had a T and natural killer cell differentiation potential; and expressed Gata-3 mRNA contrary to DC precursors. A few cells (10%) became CD1a+CD123+ expressing pre-Tα, PU1, and RelB mRNAs and were able to differentiate into typical Langerhans cells with transforming growth factor-β. Coculture of thymic progenitors on a murine cell line generated CD123hiCD1a− cells with typical PDC morphology, expressing pre-Tα but not PU1 and RelB transcripts. Activated PDC acquired myeloid antigens, and up-regulated PU1 and RelB mRNAs while down-regulating pre-Tα mRNA expression.
+Conclusions
+
+Both DC maturation pathways may arise from distinct precursors but are interconnected. DC differentiation seems to occur from Gata-3− precursors upstream of T and natural killer precursors.

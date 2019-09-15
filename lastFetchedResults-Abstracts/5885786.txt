@@ -1,0 +1,1 @@
+The extraction of fetal electrocardiogram (FECG) from the composite maternal ECG signal is discussed. This problem can be modelled from the perspective of blind source extraction. Using the objective function presented by Barros, this paper proposes a new algorithm to extract the FECG with higher speed. Simulation results confirm the validity of the proposed algorithm

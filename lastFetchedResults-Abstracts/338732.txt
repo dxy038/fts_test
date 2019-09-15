@@ -1,0 +1,11 @@
+Objective
+In previous studies, we demonstrated that the diphtheria toxin-urokinase fusion protein DTAT was selectively toxic to acute myeloid leukemia (AML) cell lines overexpressing the CD87 urokinase receptor. In the present study, we analyzed the sensitivity of patient leukemic progenitors to DTAT and correlated the sensitivity with CD87 expression.
+Materials and Methods
+
+We isolated leukemic blasts by density gradient centrifugation and performed immunophenotyping by flow cytometry and blast sensitivity measurements by inhibition of cell proliferation and colony formation in semisolid media.
+Results
+
+We found CD87 overexpression in 18 (25%) of 71 patient leukemic blast samples, including 18 (28%) of 64 myeloid malignancies and 0 (0%) of 7 lymphoid malignancies. DTAT was toxic to patient leukemic blasts by both proliferation inhibition (IC50 ≤1 nM DTAT in 18/69 evaluable samples) and colony formation inhibition (>85% inhibition by 10 nM DTAT in 11/41 evaluable samples). Only AML and chronic myeloid leukemia (CML) blast crisis blasts (18/61 [30%]) were sensitive to DTAT by the proliferation inhibition assay. Lymphoid leukemia and chronic phase CML/chronic myelomonocytic leukemia (CMML) progenitors were insensitive to DTAT by the proliferation inhibition assay (n = 7 and N = 3, respectively). Similarly, normal marrow progenitors were insensitive to DTAT by both proliferation inhibition (n = 2) and colony inhibition (n = 5) assays. The DTAT toxicity measured by both proliferation inhibition assay and colony inhibition assay correlated with CD87 density (p < 0.0001 and p = 0.001, respectively). DTAT toxicity results were similar for leukemic blasts measured by either of the two assays (p = 0.0002).
+Conclusions
+
+This study provides the first evidence that a urokinase receptor targeted diphtheria fusion protein is toxic to patient AML blasts. The work also suggests that blast proliferation assays yield similar responses to leukemia colony-forming cell colony assays.

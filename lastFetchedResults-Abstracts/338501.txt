@@ -1,0 +1,11 @@
+Objective
+All-trans retinoic acid (RA) resistance in acute promyelocytic leukemia (APL) has been a serious clinical problem in differentiation-inducing therapy. However, the mechanisms underlying acquired RA resistance in APL patients are not well understood.
+Materials and Methods
+
+We recently established a spontaneous RA-resistant APL cell line (UF-1) from a patient and used this cell line as an excellent in vitro model for RA-resistant clinical situations. We investigated the structural and functional abnormalities of chimeric PML/RARα gene in UF-1 cells and preserved materials from the original patient.
+Results
+
+A novel point mutation was detected in the ligand-binding (E) domain of the RARα portion of the PML/RARα gene in UF-1 cells. This mutation resulted in amino acid substitution of Arg611 (imageGG) for Trp611 (imageGG) in the short-form PML/RARα protein, which corresponded to Arg276 in wild-type RARα. Importantly, the same mutation was also detected in the preserved materials from the original patient. COS-1 cells were transiently transfected with cDNA encoding wild-type and mutant PML/RARα constructed by site-directed mutagenesis and performed RA-binding assay. Interestingly, RA-binding activity was dramatically decreased in the mutant PML/RARα compared with that of the wild-type chimeric protein, suggesting that this single amino acid substitution is critical for RA binding.
+Conclusions
+
+These results strongly suggest that a novel point mutation in the ligand-binding domain of the RARα portion (Arg611) of the chimeric PML/RARα gene decreased sensitivity to all-trans RA. We conclude that acquisition of the PML/RARα mutation is one possible mechanism for development of RA resistance in patients with APL in vivo.

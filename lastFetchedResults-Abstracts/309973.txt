@@ -1,0 +1,9 @@
+Objective:
+Cell culture and animal model studies have strongly suggested a role for the rate-limiting enzyme for hexosamine biosynthesis, glutamine:fructose-6-phosphate amidotransferase (GFAT) in insulin resistance. However, there are very few clinical studies and none on Asian Indians, a high-risk group for type 2 diabetes (T2DM), which examined the role of GFAT in insulin resistance and T2DM.
+Design and method:
+The study group comprised of T2DM subjects without any complications (n = 25) and control non-diabetic subjects (n = 23). GFAT mRNA expression and activity were measured by semi-quantitative RT-PCR and fluorimetry, respectively. Oxidative damage was assessed in plasma by the extent of lipid peroxidation [thiobarbituric acid reactive substances (TBARS)] and protein carbonyl content (PCO) using standard methods.
+Result:
+The mean (± SE) GFAT activity was significantly higher in diabetic (30.22 ± 2.40 pM/mg protein/min) compared to control subjects (20.10 ± 1.12 pM/mg protein/min) (p < 0.001). Plasma levels of diabetic patients also exhibited increased lipid peroxidation and protein carbonylation. GFAT activity was positively correlated (p < 0.005) with GFAT mRNA, HbA1c, insulin resistance (HOMA-IR), postprandial plasma glucose and levels of TBARS and PCO. In multiple logistic regression analysis, the association between GFAT activity and T2DM persisted even after adjusting for age, gender, BMI and HOMA-IR (OR = 1.202, p = 0.026).
+Conclusion:
+Increased GFAT activity appears to be associated with insulin resistance, postprandial hyperglycaemia and oxidative stress in T2DM and may point towards a potential pathway amenable for therapeutic intervention.
+

@@ -1,0 +1,13 @@
+We suggest a shape optimization method for a non-linear and non-steady-state metal forming problem. It
+consists in optimizing the initial shape of the part as well as the shape of the preform tool during a two-step
+forging operation, for which the shape of the second operation is known. Shapes are described using spline
+functions and optimal parameter values of the splines are searched in order to produce, at the end of the
+forging sequence, a part with a prescribed geometric accuracy, optimal metallurgical properties and for
+a minimal production cost. The finite element method, including numerous remeshing operations, is used for
+the simulation of the process. We suggest using a least-squares-type algorithm for the unconstrained
+optimization method (based on external penalty) for which we describe the calculation of the derivatives of
+the objective function. We show that it can reduce to calculations which are equivalent to the derivative
+calculations of steady-state processes and to evolution equations. Therefore, the computational cost of such
+an optimization is quite reasonable, even for complex forging processes. Lastly, in order to reduce the errors
+due to the numerous remeshings during the simulation, we introduce error estimation and adaptive
+remeshing methods with respect to the calculation of derivatives.

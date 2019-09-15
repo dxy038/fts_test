@@ -1,0 +1,8 @@
+Objective
+s western countries are focusing on the introduction of reimbursement based on diagnosis-related groups (DRG) in inpatient mental health. The aim of this study was to analyze if psychosomatic inpatients treated for eating disorders could be reimbursed by a common per diem rate.
+s
+ion criteria for patient selection (n = 256) were (1) a main diagnosis of anorexia nervosa (AN), bulimia nervosa (BN) or eating disorder-related obesity (OB), (2) minimum length of hospital stay of 2 days, (3) and treatment at Charité Universitaetsmedizin Berlin, Germany during the years 2006–2009. Cost calculation was executed from the hospital's perspective, mainly using micro-costing. Generalized linear models with Gamma error distribution and log link function were estimated with per diem costs as dependent variable, clinical and patient variables as well as treatment year as independent variables.
+s
+osts/case for AN amounted to 5,251€, 95% CI [4407–6095], for BN to 3,265€, 95% CI [2921–3610] and for OB to 3,722€, 95% CI [4407–6095]. Mean costs/day over all patients amounted to 208€, 95% CI [198–218]. The diagnosis AN predicted higher costs in comparison to OB (p = .0009). A co-morbid personality disorder (p = .0442), every one-unit increase in BMI in OB patients (p = .0256), every one-unit decrease in BMI in AN patients (p = .0002) and every additional life year in BN patients (p = .0455) predicted increased costs.
+sion
+ a need for refinements to take into account considerable variations in treatment costs between patients with eating disorders due to diagnosis, BMI, co-morbid personality disorder and age.

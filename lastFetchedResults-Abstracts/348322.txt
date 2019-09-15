@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to analyse the regularity of the EEG background activity of Alzheimer's disease (AD) patients to test the hypothesis that the irregularity of the AD patients' EEG is lower than that of age-matched controls.
+Methods
+We recorded the EEG from 19 scalp electrodes in 10 AD patients and 8 age-matched controls and estimated the Approximate Entropy (ApEn). ApEn is a non-linear statistic that can be used to quantify the irregularity of a time series. Larger values correspond to more complexity or irregularity. A spectral analysis was also performed.
+Results
+ApEn was significantly lower in the AD patients at electrodes P3 and P4 (P<0.01), indicating a decrease of irregularity. We obtained 70% sensitivity and 100% specificity at P3, and 80% sensitivity and 75% specificity at P4. Results seemed to be complementary to spectral analysis.
+Conclusions
+The decreased irregularity found in the EEG of AD patients in the parietal region leads us to think that EEG analysis with ApEn could be a useful tool to increase our insight into brain dysfunction in AD. However, caution should be applied due to the small sample size.
+Significance
+This article represents a first step in demonstrating the feasibility of ApEn for recognition of EEG changes in AD.
+

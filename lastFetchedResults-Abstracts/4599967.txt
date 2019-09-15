@@ -1,0 +1,1 @@
+Genetic algorithms (GA) can be used to design complex multi-objective systems. The fitness function in the GA was designed using fuzzy multi-objective integer programming to capture fuzzy design goals such as driver comfort and quick stopping ability. The effectiveness of methods is demonstrated by a brake control design example.

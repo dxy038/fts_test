@@ -1,0 +1,12 @@
+Postbuckling solutions are obtained for multilayered strip delamination models subjected
+to in-plane compression, bidirectional bending, twisting, and a temperature load that may vary
+arbitrarily in the thickness direction. The differential equations of equilibrium, the end conditions
+and the continuity conditions at the junction of the sublaminates are reduced to a system of algebraic
+equations governing the deformation parameters. Besides providing closed-form postbuckling solutions,
+these equations also reveal explicitly the effects on buckling due to various factors including
+delamination geometry, anisotropic elastic and thermal expansion coefficients, in-plane force and
+strain loads, bending and twisting curvatures, and the temperature field. A simple expression is
+given for the energy release rate in terms of the mid-plane strains and the curvatures of the
+sublaminates at the delamination front. A moderate temperature gradient in the thickness direction
+may severely aggravate the postbuckling deformation and increase the energy release rate. ((" 1998
+Elsevier Science Ltd. All rights reserved

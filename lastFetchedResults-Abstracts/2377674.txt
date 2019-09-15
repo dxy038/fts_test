@@ -1,0 +1,9 @@
+Background and Objective: The use of low-molecular-weight, nonpeptidic molecules that degrade the interaction between the p53 protein and its negative regulator MDM2 (Murine- double minute colon 2) is a new therapeutic strategy for treatment of various types of cancer. One of these agents is RITA (reactivation of p53 and induction of tumor cell apoptosis) which binds to p53 protein and inhibits formation of p53-MDM2 complex while induces apoptosis in tumor cells by increasing p53 protein levels. The aim of this study was to assess the possible in vitro apoptotic effects of RITA on pre-B ALL NALM-6 cells. 
+Materials and Methods: NALM-6 cells were treated with different concentrations of RITA at different time intervals. The viability of NALM-6 cells and apoptosis was measured by MTT assay and PI staining, respectively. The level of p53, acetylated p53 as well as cleaved PARP and procaspase-3 were determined by Western blot in RITA-treated cells. The results were analyzed using Paired t test.
+Results: RITA has cytotoxic effects on NALM-6 cells. Flow cytometry analysis indicated increased apoptotic cells in sub G1 region in treated cells (P <  0.05). The Western blot analysis revealed that protein expression levels of p53, and its acetylation increased in response to RITA. In addition, RITA-induced apoptosis associated with activation of caspase-3 and PARP cleavage.
+Conclusion: The results of this study showed that RITA induced p53-dependent apoptosis in pre-B ALL NALM-6 cells.
+
+Key words: RITA, p53, MDM2, Apoptosis, ALL
+
+
+

@@ -1,0 +1,1 @@
+A multi-objective optimization model is developed for lightpath provisioning in hierarchical multi-domain optical networks. The proposed formulation is then solved and its results compared against some existing distributed heuristic strategies.

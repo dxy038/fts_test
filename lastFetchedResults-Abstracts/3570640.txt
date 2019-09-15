@@ -1,0 +1,1 @@
+The use of a Burrus l.e.d. as both photoemitter and photodetector in a continuously bidirectional analogue communications link is experimentally investigated. Such a system appears capable of operating at sampling rates below 100 kHz over links with about 5 dB loss to provide a signal/noise ratio of 50 dB.

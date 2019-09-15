@@ -1,0 +1,11 @@
+Objective
+To study in vivo behavior of hematopoietic stem cells (HSC).
+Materials and Methods
+
+Behavior of HSC is difficult to study because one cannot observe and track cells within the marrow microenvironment. Therefore, information must be obtained from indirect means, such as competitive repopulation assays or surrogate studies, such as observations of telomere shortening in granulocytes. In this article, we use granulocyte telomere length data and a novel approach, stochastic simulation, to derive replication rates of HSC. The approach is first applied to cats and then to humans.
+Results
+
+Human HSC replicate infrequently, on average once per 45 weeks (range: once per 23 to once per 67 weeks).
+Conclusions
+
+This rate is substantially slower than the average replication rates estimated for murine (once per 2.5 weeks) and feline (once per 8.3–10 weeks) HSC in vivo.

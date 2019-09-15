@@ -1,0 +1,7 @@
+An optimization framework for helicopter rotors based on high-fidelity coupled CFD/CSM analyses is presented. For this purpose the optimization software DAKOTA has been linked to a parametric geometry unit, a mesh generation unit and a fluid–structure module which consists of the DLR flow solver FLOWer coupled with the Comprehensive Rotorcraft Code HOST from Eurocopter.
+
+timizations themselves are carried out on coarse meshes while the results are verified on fine meshes. The mesh discretization in hover is based on a preliminary mesh refinement study. For forward flight the mesh discretization is in alignment with values from the literature.
+
+timization framework is first applied to various optimization problems in hover starting with the easy task of optimizing the twist rate for the 7A model rotor. The second optimization case investigates the effects of a combined Twist and Sweep optimization. The last optimization in hover involves all design parameters, namely Twist, Chord, Sweep, Anhedral, Transtart, Tipstart showing its superiority over simpler optimization problems with respect to the achieved improvement.
+
+ next step the framework is operated in forward flight. The optimization of Twist yields only small improvements in comparison with the 7A rotor indicating that the baseline rotor is already optimized for this type of flow condition. Finally a multi-objective optimization for Twist is carried out in order to find a compromise design between the conflicting goal functions for hover and forward flight.

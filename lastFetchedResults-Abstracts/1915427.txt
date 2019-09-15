@@ -1,0 +1,8 @@
+Objective
+luate the effects of metformin on renal cell carcinoma (RCC) and its underlying mechanisms.
+als and methods
+d 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) and colony formation assays to investigate the effects of metformin on RCC cell growth. Flow cytometry was used to evaluate the cell cycle changes after metformin treatment. We further determined the possible signaling molecules involved in this process by immunoblot analysis of various proteins. Furthermore, a xenograft model was used to study the effects of metformin on RCC tumor growth.
+s
+onstrated that metformin effectively inhibits cell proliferation in 786-O and OS-RC-2 RCC cell lines. Moreover, metformin down-regulated cyclin D1 expression and induced G0/G1 cell cycle arrest in these cells. Further study revealed metformin induced the activation of AMP-activated protein kinase (AMPK), and inhibited mammalian target of rapamycin (mTOR), which is a central regulator of protein synthesis and cell growth, and negatively regulated by AMPK. Most importantly, daily treatment of mice with metformin prevented RCC tumor growth in a xenograft model.
+sions
+min was able to induce G0/G1 cell cycle arrest and inhibit RCC growth in vitro and in vivo. These results suggest that metformin may be a potential therapeutic agent for the treatment of RCC.

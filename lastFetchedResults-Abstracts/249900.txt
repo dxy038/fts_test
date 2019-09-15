@@ -1,0 +1,10 @@
+The volume fraction of constituent particles in functionally graded materials (FGM) varies continuously
+and functionally, and its optimal tailoring could be made by the numerical optimization incorporated
+with the  nite element method. In such a case, the mesh density in  nite element discretization of
+the volume fraction  eld in uences the  nal design quality such that the further objective function
+reduction requires the re nement of volume fraction meshes. However, the uniform re nement of the
+volume fraction mesh is not e ective, from the numerical point of view, particularly when the  nite
+di erence scheme is employed. This numerical ine ciency could be resolved by locally increasing
+the mesh density only where more volume-fraction  exibility (i.e. more mesh density) is required. In
+this paper, we propose an e ective volume-fraction optimization procedure by applying the irregular
+h-re nement to the volume fraction discretization

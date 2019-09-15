@@ -1,0 +1,1 @@
+This paper argues that regression test optimization problems such as selection and prioritization require multi objective optimization in order to adequately cater for real world regression testing scenarios. The paper presents several examples of costs and values that could be incorporated into such a Multi Objective Regression Test Optimization (MORTO) approach.

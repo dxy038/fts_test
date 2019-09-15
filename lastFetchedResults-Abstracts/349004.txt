@@ -1,0 +1,11 @@
+Objective
+To introduce a sound synthesis tool for human EEG rhythms that is applicable in real time.
+Methods
+We design an event-based sonification which suppresses irregular background and highlights normal and pathologic rhythmic activity.
+Results
+We generated sound examples with rhythms from well-known epileptic disorders and find stereotyped rhythmic auditory objects in single channel and stereo display from generalized spike-wave runs. For interictal activity, we were able to separate focal rhythms from background activity and thus enable the listener to perceive its frequency, duration, and intensity while monitoring.
+Conclusions
+The proposed event-based sonification allows quick detection and identification of different types of rhythmic EEE events in real time and can thus be used to complement visual displays in monitoring and EEG feedback tasks.
+Significance
+The significance of the work lies in the fact that it can be implemented for on-line monitoring of clinical EEG and for EEG feedback applications where continuous screen watching can be substituted or improved by the auditory information stream
+

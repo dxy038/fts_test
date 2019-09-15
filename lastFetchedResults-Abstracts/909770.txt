@@ -1,0 +1,22 @@
+In this paper, the results obtained by inter-comparing several statistical techniques for modelling SO2 concentration at a point
+such as neural networks, fuzzy logic, generalised additive techniques and other recently proposed statistical approaches are reported.
+The results of the inter-comparison are the fruits of collaboration between some of the partners of the APPETISE project
+funded under the Framework V Information Societies and Technologies (IST) programme. Two different cases for study were
+selected: the Siracusa industrial area, in Italy, where the pollution is dominated by industrial emissions and the Belfast urban
+area, in the UK, where domesticheating makes an important contribution. The different kinds of pollution (industrial/
+urban) and different locations of the areas considered make the results more general and interesting. In order to make the intercomparison
+more objective, all the modellers considered the same datasets. Missing data in the original time series was filled by
+using appropriate techniques. The inter-comparison work was carried out on a rigorous basis according to the performance indices
+recommended by the European Topic Centre on Air and Climate Change (ETC/ACC). The targets for the implemented prediction
+models were defined according to the EC normative relating to limit values for sulphur dioxide. According to this
+normative, three different kinds of targets were considered namely daily mean values, daily maximum values and hourly mean
+values. The inter-compared models were tested on real cases of poor air quality. In the paper, the inter-compared techniques are
+ranked in terms of their capability to predict critical episodes. A ranking in terms of their predictability of the three different targets
+considered is also proposed. Several key issues are illustrated and discussed such as the role of input variable selection, the
+use of meteorological data, and the use of interpolated time series. Moreover, a novel approach referred to as the technique of
+balancing the training pattern set, which was successfully applied to improve the capability of ANN models to predict exceedences
+is introduced. The results show that there is no single modelling approach, which generates optimum results in terms of
+the full range of performance indices considered. In view of the implementation of a warning system for air quality control,
+approaches that are able to work better in the prediction of critical episodes must be preferred. Therefore, the artificial neural network
+prediction models can be recommended for this purpose. The best forecasts were achieved for daily averages of SO2 while
+daily maximum and hourly mean values are difficult to predict with acceptable accuracy.

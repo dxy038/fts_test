@@ -1,0 +1,9 @@
+Objective:  To determine if persons with patella alta exhibit elevated patellofemoral joint stress compared to pain-free controls during normal and fast walking speeds.
+
+Subjects: Twenty-four subjects (13 patella alta, 11 pain-free controls) participated.
+
+Methods: Sagittal and axial magnetic resonance images of the knee were obtained to quantify subject specific knee extensor mechanics and patellofemoral joint contact area. Instrumented gait analysis was used to quantify knee joint kinematics and kinetics. MRI and gait data were used as input variables into a model of patellofemoral joint stress. Analysis of variance with repeated measures was used to compare group differences and group × gait speed interactions for each dependent variable during stance.
+
+Results: During normal speed gait there were no group differences in peak knee flexion angle, knee extensor moment, joint reaction force, or stress. However, the patella alta group had significantly less contact area. During fast speed gait there were no group differences in peak knee flexion angle, knee extensor moment, or joint reaction force. However, the patella alta group demonstrated significantly less contact area and significantly greater stress compared to controls.
+
+Conclusion: Persons with patella alta demonstrated greater calculated patellofemoral stress during fast walking. This was the result of reductions in contact area as joint reaction forces were similar between groups.

@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem cells (HSCs) are characterized by their ability to give rise to all mature blood lineages and to renew themselves. In the present study, we show that β-catenin plays an essential role in the immortalization of hematopoietic progenitor cells (HPCs).
+Materials and Methods
+
+Cellular, molecular, and cytogenetic properties of the immortalized HPCs were determined using flow cytometry (immunophenotyping), microscopy (telomere length, spectral karyotyping), telomere repeat amplification protocol assay (telomerase activity), real-time polymerase chain reaction (expression studies), and in vitro and in vivo differentiation assays.
+Results
+
+Retroviral-mediated overexpression of human β-catenin in lin−- and lin−Sca-1+c-kit+ hematopoietic cells led to generation of novel, murine interleukin-3–, and stem cell factor–dependent hematopoietic multipotent progenitor cell lines (DK1mix and DK2mix) with stable surface antigen expression of the stem cell markers Sca-1 and c-kit (>92%) in long-term culture. Further, immunophenotypic characterization revealed a CD244+CD150−CD48− phenotype of DKmix cells, which is consistent with the expression profile of multipotential hematopoietic progenitors. Upon exposure to selective hematopoietic cytokines in vitro, and upon transplantation into irradiated congenic recipients, DKmix cells generated progenies of lymphoid and myeloid lineages. Continuous in vitro proliferation and expansion of DKmix cells were associated with stabilized telomere length and consistent telomerase activity. Interestingly, constitutive expression of β-catenin was not required for sustained long-term viability and proliferation of immortalized DKmix cells.
+Conclusion
+
+In summary, our findings define β-catenin as an important regulator in HPC self-renewal and function. Further, our results distinguish the importance of β-catenin in the immortalization process of HPCs, from its dispensable role in their maintenance.

@@ -1,0 +1,11 @@
+Objective
+This study compares the amplitude, latency, morphology, scalp topography and intracranial generators of laser-evoked potentials (LEPs) to CO2 and Nd:YAP laser stimuli.
+Methods
+LEPs were assessed in 11 healthy subjects (6 men, mean age 39 ± 10 years) using a 32-channel acquisition system. Laser stimuli were delivered on the dorsum of both hands (intensity slightly above pain threshold), and permitted to obtain lateralised (N1) and vertex components (N2-P2) with similar scalp distribution for both types of lasers.
+Results
+The N1-YAP had similar latencies but significantly higher amplitudes relative to N1-CO2. The N2-P2 complex showed earlier latencies, higher amplitudes (N2) and more synchronised responses when using Nd:YAP stimulation. The distribution of intracranial generators assessed with source localization analyses (sLORETA) was similar for Nd:YAP and CO2 lasers. The insular, opercular, and primary sensorimotor cortices were active during the N1 time-window, whereas the anterior midcingulate, supplementary motor areas and mid-anterior insulae were active concomitant to the N2-P2 complex.
+Conclusions
+Earlier latencies and larger amplitudes recorded when using Nd:YAP pulses suggest a more synchronized nociceptive afferent volley with this type of laser.
+Significance
+This, together with its handy utilization due to optic fibre transmission, may favour the use of Nd:YAP lasers in clinical settings.
+

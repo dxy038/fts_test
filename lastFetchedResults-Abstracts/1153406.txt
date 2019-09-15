@@ -1,0 +1,13 @@
+This paper focused on forming defects (fracture and wrinkle) in the two-stage deep-drawing. In order to solve the problems, it is necessary to improve simultaneously both fracture and wrinkle. For the reason, we had proposed a transfer forming technique, that is a new intermediate process die shape. We investigated the influences of forming defects on the intermediate process die shape, and searched an optimum solution of die shape for improving both of forming defects by using the multi-objective function and sweeping simplex method which is the optimization one.
+
+Following conclusions were obtained:
+
+(1)
+
+    A new method to change the intermediate die shape in the two-stage deep-drawing was tried. An optimum solution simultaneously improving both forming defects of the thickness decrease and the wrinkle was able to be searched.
+(2)
+
+    The transfer deep-drawing process that we proposed by employing an optimum condition to eliminate the defects has been proven as an effective process by the comparison with the experimental results.
+(3)
+
+    The process design system doing multi-objective optimization of both the thickness decrease and the wrinkle for the press forming was applied to the two-stage deep-drawing, and the effectiveness was confirmed.

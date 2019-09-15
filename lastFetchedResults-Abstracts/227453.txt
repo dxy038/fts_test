@@ -1,0 +1,5 @@
+The design problem of a permanent split capacitor (PSC) single phase induction motor is
+presented as a nonlinear multicriterion optimisation problem. A computer package is built which
+receives the initial values of motor parameters and gives the optimal values of these parameters with
+more than one objective function and non-violated constraints. Two design problems as an
+application of this approach are presented. The study is supported by actual models.

@@ -1,0 +1,11 @@
+Objective.  To determine if oversampling the surface electromyographic signal provides any benefit in analyzing common electromyographic timing and amplitude measures used in kinesiological studies.
+
+Design. A within subjects (n=8) repeated measures design was used to examine surface electromyographic signals captured under four contraction modes and acquired with five different analog-to-digital sampling rates.
+
+Background. There is a growing trend to sample surface electromyography at rates higher than the Nyquist rate. Though there is limited evidence to support oversampling, the necessity or benefit of doing so remains unclear.
+
+Methods. Surface electromyography was recorded from the triceps brachii during maximal, submaximal, and fatiguing isometric contractions, as well as dynamic contractions. The analog signals were bandpassed between 20 Hz and 2 kHz, and oversampled at 6 kHz. The signals were then digitally resampled at 3 kHz, 1 kHz, 500 Hz, and 250 Hz without benefit of an anti-aliasing filter. Amplitude and timing variables measured from both the rectified and smoothed signal were compared across sampling rates.
+
+Results. Oversampling produced no significant changes in timing and amplitude measures of the rectified or smoothed electromyographic signal. For the smoothed signal, minor undersampling at half the Nyquist rate was sufficient to accurately capture most timing and signal strength measures.
+
+Conclusions. Oversampling is unnecessary to gather typical amplitude and timing measures from the surface electromyographic signal. Electromyography sampled below half the Nyquist rate is likely to result in a poor temporal and amplitude representation of the signal.

@@ -1,0 +1,1 @@
+This paper demonstrates that a hybrid fuzzy neural network can serve as a classifier of low risk investment projects. The training algorithm for the regular part of the network is based on bidirectional incremental evolution proving more efficient than direct evolution. The approach is applied to empirical data on UK companies traded on the LSE

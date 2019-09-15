@@ -1,0 +1,1 @@
+A basic bidirectional fibre optic loop-structured network configuration which provides an automatic recovery mechanism against a line failure and employs WDM-TDMA techniques for signal multiplexing is presented. Experimental results of a prototype of such a network are also described.

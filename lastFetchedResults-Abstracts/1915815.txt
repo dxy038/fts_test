@@ -1,0 +1,8 @@
+Objective
+rge patterns, including prolonged length of stay (LOS) and adverse discharge disposition (ADD), are important clinical indicators of quality of care. We examined the effect of several indicators on discharge patterns after radical prostatectomy (RP).
+s
+ the Nationwide Inpatient Sample, we focused on RPs performed between 2001 and 2007. Multivariable logistic regression analyses predicting the likelihood of prolonged LOS and ADD were performed.
+s
+l, 89,883 eligible RPs were identified, yielding a weighted national estimate of 442,400 eligible RPs. The rates of prolonged LOS decreased from 28.9 in the early period (2001–2003) to 14.4% in the late period (2006–2007) (P &lt; 0.001). Similarly, the rates of ADD decreased from 7.4 in the early period to 5.0% in the late period (P &lt; 0.001). In multivariable analyses adjusted for clustering, both annual hospital caseload (AHC) and insurance status were independent predictors of prolonged LOS and ADD. For example, RP performed at low AHC hospitals were more frequently associated with prolonged LOS than intermediate (OR = 0.45, P &lt; 0.001) and high (OR = 0.21, P &lt; 0.001) AHC hospitals. Similarly, RP performed at low AHC hospitals were more frequently associated with ADD than intermediate (OR = 0.54, P &lt; 0.001) and high (OR = 0.63, P &lt; 0.001) AHC hospitals.
+sions
+roving temporal trend in discharge patterns was recorded in patients undergoing RP, with significant reductions in the rates of prolonged LOS and ADD. Nonetheless, important disparities were recorded when discharge patterns were stratified according to insurance status and AHC. Specifically, shorter LOS and lower rates of ADD should be expected in patients with private insurance and/or treated at high AHC institutions.

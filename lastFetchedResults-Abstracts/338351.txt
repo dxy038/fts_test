@@ -1,0 +1,11 @@
+Objective
+During megakaryocyte differentiation, the immature megakaryocyte increases its ploidy to a 2x DNA content by a process called endomitosis. This leads to the formation of a giant cell, the mature megakaryocyte, which gives rise to platelets. We investigated the role of human-nuc (h-nuc), a gene involved in septum formation in karyokynesis in yeast, during megakaryocytic polyploidization.
+Materials and Methods
+
+Nocodazole and 12-O-tetradecanoylphorbol-13-acetate (TPA) were used to induce megakaryocytic differentiation in K562 cell line. The ploidy distribution and CD41 expression of treated K562 cells were evaluated by flow cytometry. Using quantitative reverse transcriptase polymerase chain reaction (RT-PCR), we analyzed the h-nuc mRNA expression on treated K562 cells.
+Results
+
+Mature megakaryocyte-like polyploid cells were detected at day 5–7 of treatment with nocodazole. TPA also had a similar effect on K562 cells, but it was much weaker than that of nocodazole. The analysis of ploidy of nocodazole-treated K562 cells showed that nocodazole preferentially induced polyploidization of K562 cell line with a pronounced increase of the cells 8N at day 7 of culture. Expression of CD41, a differentiation-related phenotype, was significantly induced by TPA after 7 days of treatment, showing that functional maturation was mainly induced by TPA. In contrast, there was no significant increase in CD41 expression in nocodazole-treated K562 cells, suggesting that polyploidization and functional maturation are separately regulated during megakaryocytopoiesis. RT-PCR analysis indicated that h-nuc mRNA increased after 72 hours in the presence of nocodazole, preceding the induction of polyploidization.
+Conclusions
+
+Our data indicate that h-nuc might play a role in polyploidization during megakaryocytic differentiation via inhibition of septum formation.

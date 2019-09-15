@@ -1,0 +1,11 @@
+Objective
+We evaluated disease progression in a mouse model of a hematologic malignancy using a multimodality approach that included bioluminescence imaging (BLI) and magnetic resonance imaging (MRI). We aimed to examine the feasibility and capability of BLI and MRI and to establish techniques for quantitative assessment of disease severity.
+Methods
+
+Mice were inoculated intravenously with Ba/F3 cells transduced with firefly luciferase and p190 BCR-ABL genes. Disease progression in a given mouse was observed longitudinally by in vivo BLI and MRI (n = 5). Imaging studies, including in vivo BLI and MRI of living mice and ex vivo BLI of excised organs, were also performed at various time points (n = 4, 3, 4, and 4 at 1, 2, 3, and 4 weeks after cell inoculation).
+Results
+
+Longitudinal studies allowed the assessment of disease progression for each mouse, and an approximately 4-log increase in whole-body BLI signal was shown after initial detection. MRI demonstrated progressive hepatosplenomegaly and growth of hepatic nodules. Ex vivo BLI demonstrated proliferation of the implanted cells in various organs including bone marrow, and the signal for each organ increased with time (Spearman's rank correlation coefficient, R = 0.831–0.914) and as the whole-body signal, observed by in vivo BLI, increased (R = 0.921–0.982). MRI measurements of liver and spleen volumes were shown to have excellent accuracy and volume increases significantly correlated with the BLI organ signal (liver, R = 0.875; spleen, R = 0.971).
+Conclusion
+
+BLI and MRI allow repeated assessment of disease progression in a mouse model of a hematologic malignancy and provide quantitative markers of disease severity. BLI and MRI measurements reveal different details of disease progression and may play complementary roles in comprehensive assessment.

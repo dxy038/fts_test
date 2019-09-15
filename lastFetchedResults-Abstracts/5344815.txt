@@ -1,0 +1,1 @@
+We implement a single fiber based bidirectional 84 km long reach WDM-PON system with symmetric 10.66 Gb/s up- and downstream data rate by using a combined forward and backward distributed Raman amplifier pumping scheme.

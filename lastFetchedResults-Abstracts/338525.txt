@@ -1,0 +1,11 @@
+Objective
+Interaction between hematopoietic cells and stromal cells is important for regulation of hematopoiesis. Numerous soluble and membrane-bound factors directly regulating hematopoiesis have been documented, but little is known about how stromal cell activity is controlled. We previously reported that fetal hepatic cells in primary culture create the hematopoietic microenvironment and support expansion of blood cells from hematopoietic stem cells. In this study, we focused on lymphopoiesis reconstituted in our culture system and analyzed how stroma-mediated lymphopoiesis is regulated during embryonic development.
+Materials and Methods
+
+Subconfluent cultures of murine fetal hepatic cells were cocultured with hematopoietic stem cells derived from fetal liver in the presence of various cytokines. After 10 days of incubation, hematopoietic cells floating over the stromal layer were analyzed by various assays, including cell proliferation and FACS analysis.
+Results
+
+We found that oncostatin M, an inducer of hepatic development, strongly inhibited generation of B220+ lymphocytic cells and colony-forming unit–interleukin-7 (CFU–IL-7) from hematopoietic stem cells in our coculture system. In contrast, oncostatin M did not directly inhibit proliferation of B cells in response to IL-7 and SCF in semisolid cultures. Analysis of antigen expression in lymphoid cells revealed that oncostatin M apparently did not arrest cells at a particular stage of B-cell development.
+Conclusions
+
+The results suggest that oncostatin M inhibits lymphopoiesis by suppressing stromal activity of fetal hepatic cells to stimulate generation of CFU–IL-7 from their progenitors rather than by acting directly on lymphocytic cells.

@@ -1,0 +1,14 @@
+In this investigation, a novel approach is presented to find the optimum locations and capacity
+of Flexible AC Transmission Systems (FACTS) devices in a power system using a fuzzy
+multi-objective function. Maximising the fuzzy satisfaction allows the optimization algorithm
+to simultaneously consider the multiple objectives of the network to obtain active power loss
+reduction; i.e., new FACTS devices cost reduction, robustifying the security margin against
+voltage collapse, network loadability enhancement and a voltage deviation reduction of the
+power system. A Genetic Algorithm (GA) optimization technique is then implemented to
+solve the fuzzy multi-objective problem. Operational and control constraints, as well as load
+constraints. are considered for optimum device allocation. Also, an estimated annual load profile
+has been utilized in a Sequential Quadratic Programming (SQP) optimization sub-problem to
+find the optimum location and capacity of FACTS devices, accurately. A Thyristor Controlled
+Series Compensator (TCSC) and a Static Var Compensator (SVC) are utilized as series and
+shunt FACTS devices in this study. The Fars regional electric network is selected as a practical
+system to validate the performance and effectiveness of the proposed method.

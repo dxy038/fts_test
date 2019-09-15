@@ -1,0 +1,14 @@
+Background
+Computational methods are needed to design multivalent vaccines against flaviviruses (FVs) such as the West Nile virus or the dengue virus (DENV).
+Objective
+
+We aimed to use physicochemical property (PCP) consensus sequences of FV strains to delineate conserved motifs, areas of maximum variability, and specific loci that correlate with arthropod vector, serotype, and disease severity.
+Methods
+
+PCP consensus sequences for 27 species were prepared from 928 annotated sequences catalogued in Flavitrack. Alignments of these correlated well with the known structures of the NS3 protease domain and envelope (E) proteins. The PCPMer suite was used to identify motifs common to all FVs. Areas of PCP variability that correlated with phenotype were plotted on the structures.
+Results
+
+Despite considerable diversity at the amino acid level, PCPs for both proteins were well conserved throughout the FVs. A series of insertions in E separated tick- from mosquito-borne viruses and all arthropod-borne viruses from isolates with no known vector or directly from insects. Comparison of a PCP consensus sequence of E derived from 600 DENV strains (DENV600) with individual ones for DENV1–DENV4 showed that most major serotype-specific variation occurs near these insertions. The DENV600 differed from one prepared from eight hemorrhagic or fatal strains from four DENV serotypes at only three positions, two of which overlap known escape mutant sites.
+Conclusions
+
+Comparing consensus sequences showed that substantial changes occur in only a few areas of the E protein. PCP consensus sequences can contribute to the design of multivalent vaccines.

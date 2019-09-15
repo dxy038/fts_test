@@ -1,0 +1,11 @@
+Objective
+Recent theories about migraine pathogenesis have outlined an abnormal central processing of sensory signals, also suggested by an abnormal pattern of EEG hyper-synchronization under visual stimulation. The aim of the present study was to test the efficacy of topiramate and levetiracetam vs placebo in a double blind project observing the effects of the three treatments on the EEG synchronization in the alpha band under sustained flash stimulation.
+Methods
+Forty-five migraine without aura outpatients (MO) were selected and randomly assigned to 100 mg topiramate, 1000 mg levetiracetam or placebo treatment. In addition, 24 non-migraine healthy controls were submitted to EEG analysis. The EEG was recorded by 19 channels: flash stimuli with a luminosity of 0.2 J were delivered, in a frequency range from 3 to 30 Hz. We evaluated the phase synchronization index, that we previously applied in migraine, after EEG signals filtering in the alpha band. Our approach was based on the Hilbert transform.
+Results
+Both levetiracetam and topiramate significantly decreased migraine frequency, compared with placebo. MO patients displayed increased alpha-band phase synchronization as an effect of stimulus frequency; on the other hand the stimuli had an overall desynchronizing effect on control subjects. The phase synchronization index separates the two stages, before and after the treatment, only for levetiracetam, at stimulus frequencies of 9, 18, 24 and 27 Hz.
+Conclusions
+An abnormal alpha band synchronization under visual stimuli was confirmed in migraine; this phenomenon was reversed by levetiracetam preventive treatment.
+Significance
+These results confirmed in humans the inhibiting action of levetiracetam on neuronal hyper-synchronization.
+

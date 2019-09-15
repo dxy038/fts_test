@@ -1,0 +1,1 @@
+The Objective of this paper is to present comprehensive overview of formant and concatenative speech synthesis techniques. Initially, formant synthesis is explored and then concatenative synthesis. Using softwares, speech synthesis is performed by both methods and then their results are compared. The pros and cons of both these methods are discussed as well.

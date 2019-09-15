@@ -1,0 +1,1 @@
+Inductors play an essential role in the design of RF circuits. The parasitic effects plaguing integrated planar inductors require an accurate modeling and the careful exploration of their performance trade-offs. In this paper, a multi-objective performance modeling technique of planar inductors is presented, that supports both top-down and bottom-up design of RF circuits.

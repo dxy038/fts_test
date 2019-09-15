@@ -1,0 +1,8 @@
+Background and Objective: Length of stay (LOS) is one of the most important indexes for performance evaluation of hospitals and their manager. With respect to the importance of this index, we determined the factors affecting LOS.
+
+Materials and Methods: This was an analytical study. The under study population included patients which died in Hasheminejad hospital in 2010 and 935 patients using multi-stage cluster sampling method were selected. Variables, LOS, age, insurance and ICD10 code were gathered from patients’ files. Factors associated to LOS were analyzed using R software and semi-parameter Cox regression model. 
+
+Results: It was found out that 62.5% (585) of patients was women and most of them had an age larger than 50 years. Mean age (±SD) of patients was 50/02 (±19.07). In addition, 56% (586) of patients had Tamin-Ejtemaee insurance and 19.6% (185) had stayed without insurance or with complementary insurance. Mean LOS (±SD) of patients was 12.77 (±11.131) and LOS of men was more than women with a significant difference (p=0.005). Median of LOS was 14.2. The results of Cox regression for the variables age and sex was significant (p < .001) and insurance had not a significant effect on LOS.
+
+Conclusion: Two important features of LOS data are non-normality and presence of censorship, so using classic models for such data is not useful and this causes estimations with low precision. Because of these two features and for having more precise estimation, using survival analysis is suggested for such data.
+

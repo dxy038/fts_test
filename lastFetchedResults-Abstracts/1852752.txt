@@ -1,0 +1,10 @@
+SummaryObjective
+roduce an original case-based machine learning (ML) and prediction system Constud and its application on tabular data for estimation of the risk of enterobiasis among nursery school children in Estonia.
+s and materials
+stem consists of a software application and a knowledge base of observation data, parameters, and results. The data were obtained from anal swabs for the diagnosis of enterobiasis, from questionnaires for children's parents, observations in nursery schools and interviews with supervisors of the groups. The total number of studied children was 1905. Ten parallel ML processes were conducted to find the best set of weights for features and cases.
+s
+st goodness-of-fit according to the true skill statistic (TSS) was 0.381. Approximately equal fit can be reached using different sets of features. Cross-validation TSS of logit-regression and classification tree models was &lt;0.24. In addition to the higher prediction fit, Constud is not sensitive to missing values of explanatory variables.
+
+erall prevalence of enterobiasis was 22.8%; the mean of risk estimations was 47.8%. The overestimation of the prevalence in risk calculations can be interpreted as an inefficacy of the single swab analysis, or may be due to the relative constancy of the risk compared to the lability of infection and the applied objective function.
+sions
+ition to the higher prediction fit, Constud is not sensitive to missing values of explanatory variables. The main risk factors of enterobiasis among nursery school children were the child's age, communication partners, habits, and cleanness of rooms in the nursery school. Mixed age groups at nursery schools also enhance the risk.

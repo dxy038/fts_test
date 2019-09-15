@@ -1,0 +1,22 @@
+Abstract - The paper represents the design of recursive
+second order Butterworth low pass digital filter which
+optimizes both the magnitude and group delay
+simultaneously under the Multi-Objective Big Bang-Big
+Crunch Optimization algorithm. Multi-Objective problem of
+magnitude and group delay are solved using Multi-Objective
+BB-BC Optimization algorithm that operates on a complex,
+continuous search space and optimized by statistically
+determining the abilities of Big Bang Phase and Big Crunch
+Phase. Here both experimented fitness functions (magnitude
+error function and group delay error function) based on the
+mean squared error between the actual and the ideal filter
+response. MATLAB programming is used for
+implementation of proposed algorithm. Experimental results
+show that the proposed method can effectively optimize the
+magnitude and group delay functions simultaneously and by
+using this optimization algorithm, group delay becomes more
+constant in the passband than the other optimization
+algorithms. The Multi-Objective BB-BC Optimization seems
+to be promising tool for both IIR and FIR filter design
+especially in a dynamic environment where filter coefficients
+have to be adapted and fast convergence is of importance.

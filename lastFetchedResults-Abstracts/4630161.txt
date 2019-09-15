@@ -1,0 +1,1 @@
+This proposed algorithm includes coarsening, placement, and cell exchange phases. The objective is to generate a placement with low switching power. The positions of standard cells may be exchanged to balance power distribution. This program has been integrated into a commercial design flow. Experimental results are shown.

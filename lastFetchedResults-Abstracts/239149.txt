@@ -1,0 +1,15 @@
+From the process design, demand for utilities can be estimated. The utility
+system is then designed with respect to the process design. Energy-integrated
+process design can be introduced at this stage to seek the design that
+requires the minimum energy, and the corresponding levels at which the
+utility should enter the process can also be determined. The interaction
+between process design and the utility system is a further step of energy
+integration. This step is usually considered after the process design is
+energy-integrated and targets for minimum hot and cold utilities identified.
+When hot and cold utilities are specified, it is possible to deal with these
+utilities as normal process streams to be presented on a grid diagram with
+the rest of the process streams. The objective of this simultaneous approach
+for the interaction between utilities and process design is to assign the most
+effiCient way for the utility to be introduced to the process. Consequently,
+the synthesis of the heat-exchanger network design should become more
+effective, thereby resulting in a reduced demandfor utility import. Copyright

@@ -1,0 +1,1 @@
+A comprehensive discussion and an analysis of a practical and low cost controlling scheme for Active Front End (AFE) based on Space Vector PWM (SVPWM) technique would be presented in the paper to achieve the objective of reducing the Total Harmonic Distortion (THD) of the line current at the Point of Common Coupling (PCC) of a utility.

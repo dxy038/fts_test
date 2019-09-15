@@ -1,0 +1,5 @@
+general compartmental model of the spread of an infectious disease with mass action incidence is given. The global
+stability of this system is completely determined using Lyapunov functions. The general system exhibits the traditional threshold
+behaviour. The dimension of the system is arbitrary, allowing, in particular, for detailed modelling of the distribution of latency
+times for tuberculosis.
+© 2007 Elsevier Inc. All rights reserved.

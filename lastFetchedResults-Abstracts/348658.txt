@@ -1,0 +1,11 @@
+Objective
+Low-frequency repetitive transcranial magnetic stimulation (rTMS) can reduce cortical excitability. Here we examined whether inhibitory after effects of low-frequency rTMS are influenced by stimulus intensity, the type of TMS coil and re-afferent sensory stimulation.
+Methods
+In fifteen healthy volunteers, we applied 900 biphasic pulses of 1 Hz rTMS to the left primary motor cortex (M1) at an intensity that was 10% below or 15% above resting motor threshold. For rTMS, we used two different figure-of-eight shaped coils (Magstim or Medtronic coil) attached to the same stimulator. We recorded motor evoked potentials (MEPs) evoked with the same set-up used for rTMS (MEP-rTMS) before and twice after rTMS. Using a different TMS setup, we also applied monophasic pulses to the M1 in order to assess the effects of rTMS on corticospinal excitability, intracortical paired-pulse excitability and the duration of the cortical silent period (CSP). In a control experiment, the same measurements were performed after 15 min of 1 Hz repetitive electrical nerve stimulation (rENS) of the right ulnar nerve.
+Results
+Analysis of variance revealed an interaction between intensity, coil and time of measurement (p < 0.035), indicating that the effect of 1 Hz rTMS on MEP-rTMS amplitude depended on the intensity and the type of coil used for rTMS. Suppression of corticospinal excitability was strongest after suprathreshold 1 Hz rTMS with the Medtronic coil (p < 0.01 for both post-rTMS measurements relative to pre-intervention baseline). Regardless of the type of coil, suprathreshold but not subthreshold rTMS transiently prolonged the CSP and attenuated paired-pulse facilitation. Suprathreshold 1 Hz rENS also induced a short-lasting inhibition of MEP-rTMS.
+Conclusions
+Both the stimulation intensity and the type of TMS coil have an impact on the after effects of 1 Hz rTMS. Re-afferent feedback activation may at least in part account for the stronger suppression of corticospinal excitability by suprathreshold 1 Hz rTMS.
+Significance
+These data should be considered when rTMS is used as a therapeutic means.
+

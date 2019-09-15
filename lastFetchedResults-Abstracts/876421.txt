@@ -1,0 +1,11 @@
+We consider a production planning problem for a jobshop with unreliable machines producing a number
+of products. There are upper and lower bounds on intermediate parts and an upper bound on finished
+parts. The machine capacities are modelled as finite state Markov chains. The objective is to choose the
+rate of production so as to minimize the total discounted cost of inventory and production. Finding an optimal
+control policy for this problem is difficult. Instead, we derive an asymptotic approximation by letting
+the rates of change of the machine states approach infinity. The asymptotic analysis leads to a limiting
+problem in which the stochastic machine capacities are replaced by their equilibrium mean capacities. The
+value function for the original problem is shown to converge to the value function of the limiting problem.
+The convergence rate of the value function together with the error estimate for the constructed asymptotic
+optimal production policies are established.
+© 2006 Elsevier Inc. All rights reserved.

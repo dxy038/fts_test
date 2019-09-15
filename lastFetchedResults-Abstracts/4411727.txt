@@ -1,0 +1,1 @@
+Radar often operate under severe heat conditions. The objective of this paper is to evaluate the temperature sensitivity of the return loss of an active antenna. The antenna is composed of 8 elements and its active switching circuit. It is shown that the overall antenna structure is weakly dependent on the temperature within the tested range between -25 and 70&#176;C.

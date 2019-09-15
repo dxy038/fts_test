@@ -1,0 +1,40 @@
+Background The effect of celebrity suicides on copycat
+suicide attempts is not well known. Our objective was to
+determine the association between celebrity suicide and
+copycat suicide attempts.
+Methods We conducted a retrospective multicenter
+observational time series analysis. Celebrity suicides were
+selected by an operational definition via three nationwide
+television news internet sites from January 2005 to
+December 2008. The reference week was defined as the
+week preceding date of suicide notification to the public.
+Then two pre-event weeks and four post-event weeks were
+analyzed for suicide attempts. We derived a prediction
+model for suicide attempt visits for each ED for these seven
+observational weeks using a General Additive Model with
+data from the National Emergency Department Information
+System (NEDIS) database. We calculated the mean excess
+visit (EV = observed visit - expected visit) and mean
+excess visit ratio (EVR = EV/expected visit). We tested
+the mean EV and EVR between reference weeks versus the
+observational weeks using independent t test and repeated
+measures ANOVA.
+Results Five celebrity suicides occurred during the study
+period. Total number of ED visits was 5,453,441 in the 85
+EDs over the 4-year period, and suicide attempt or selfinjury
+occurred in 27,605. The mean excess visit for each
+observational interval per ED was less than 0.1 during
+pre-event periods but increased to 0.695 in the second
+post-event week. EVs were significantly higher in the first
+to the third post-event weeks (p = 0.02, p\0.01,
+p = 0.03, respectively) compared to reference week. The
+mean EVRs were significantly higher (=0.215) in the
+second post-week intervals compared with the reference
+week (p = 0.03). Mean EVs and mean EVRs showed
+significant increase in the post event period compared
+with the observational period (p = 0.001 in EV,
+p = 0.021 in EVR).
+Conclusion From a prediction model using a 4-year
+nationwide ED database, ED visits for suicide attempts or
+self injury increased following the announcements of
+celebrity suicides.

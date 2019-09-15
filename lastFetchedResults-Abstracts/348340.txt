@@ -1,0 +1,11 @@
+Objective
+To assess the impact of the scalp site on the biological effects of TMS.
+Methods
+We performed high-resolution, three-dimensional whole head magnetic resonance imaging (MRI) in a healthy subject, systematically measured the scalp-to-cortex distance across the head and calculated the resulting electric field in the superficial cortex.
+Results
+The variability in scalp-to-cortex distance led to differences in calculated cortical electric field strengths of a factor of two. A major portion of this variability was explained by a lateral to medial gradient with scalp-to-cortex distances being greatest close to the midline and smallest towards the temporal coordinates.
+Conclusions
+Because of the medio-lateral gradient in scalp-to-cortex distance interventions tailored on the basis of effects of TMS in the motor system will systematically induce stronger than expected electric currents when performed laterally to the motor spot.
+Significance
+The biological effects of TMS outside the motor spot may be markedly different from those observed in the motor system and this should be taken into account to optimize TMS for the evaluation or treatment of neuropsychiatric disorders.
+

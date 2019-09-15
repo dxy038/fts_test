@@ -1,0 +1,15 @@
+OBJECTIVE: To estimate the economic value of caregivers' efforts in maintaining ventilator-assisted individuals at home.
+
+: Nonexperimental, cross-sectional survey.
+
+G: Households of home-based ventilator-assisted individuals residing in 37 states
+
+IPANTS: Caregivers of 1404 ventilator-assisted individuals; 277 (19.7%) responses were received.
+
+E MEASURES: The Home Ventilator Care Cost and Utilization Survey and the Modified Katz Index.
+
+S: The economic value of caregiver effort was estimated deterministically by opportunity cost, aggregated market value, and aggregated replacement cost and estimated stochastically by ordinary least squares regression. Cost of formal home care services was estimated with the Medicare Schedule of Limits for Home Health Agency Costs. Estimates of total cost of home care for each method of valuing caregiver effort were calculated by summing the cost of formal home care services with the value of caregiver effort.
+
+S: The average monthly cost of formal home care services was estimated to be $6411 (SD, $8490; median, $2006; range, $0 to $38,607). After adding various values of caregiver effort to the cost of formal home care services, the average cost of home care increases by $960 to $12,483, depending on the method used to calculate the value of the caregiver's time; the median total cost of home care increased by $1403 to $17,793. Data also showed that, depending on the figure used to estimate the cost of long-term care and which method was used to calculate caregiver value, home care was more expensive for at least 4.6% of ventilator-assisted individuals and for as many as 36.7%.
+
+SIONS: The incorporation of the caregiver's time value into cost estimates did not substantially reduce the proportion of patients for whom home care was the least expensive alternative, except when caregiver effort was valued at a registered nurse's wage rate. However, the methods used to place an economic value on caregiver effort did not take into consideration the long-term economic impact on caregivers who reduce their work hours or forego employment or educational opportunities, nor did they take into account the lost wages of the ventilator-assisted individual or the extent to which the caregiver was financially dependent on the ventilator-assisted individual.

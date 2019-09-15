@@ -1,0 +1,10 @@
+Forecasters need climatological forecasting tools because of limitations of numerical
+weather prediction models. In this article, using Finnish SYNOP observations and ERA-40 model
+reanalysis data, low visibility cases are studied using subjective and objective analysis techniques. For the
+objective analysis, we used an AutoClass clustering algorithm, concentrating on three Finnish airports,
+namely, the Rovaniemi in northern Finland, Kauhava in western Finland, and Maarianhamina in
+southwest Finland. These airports represent different climatological conditions. Results suggested that
+combining of subjective analysis with an objective analysis, e.g., clustering algorithms such as the
+AutoClass method, can be used to construct climatological guides for forecasters. Some higher level
+subjective ‘‘meta-clustering’’ was used to make the results physically more reasonable and easier to
+interpret by the forecasters.

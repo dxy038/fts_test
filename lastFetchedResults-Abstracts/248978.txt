@@ -1,0 +1,15 @@
+A systematic design approach has been developed for thermal processes combining the  nite element method,
+design sensitivity analysis and optimization. Conductive heat transfer is solved in an Eulerian formulation,
+where the heat 
+ux is  xed in space and the material 
+ows through a control volume. For constant velocity
+and heat 
+ux distribution, the Eulerian formulation reduces to a steady-state problem, whereas the Lagrangian
+formulation remains transient. The reduction to a steady-state problem drastically improves the computational
+e ciency. Streamline Upwinding Petrov{Galerkin stabilization is employed to suppress the spurious oscilla-
+tions. Design sensitivities of the temperature  eld are computed using both the direct di erentiation and the
+adjoint methods. The systematic approach is applied in optimizing the laser surfacing process, where a moving
+laser beam heats the surface of a plate, and hardening is achieved by rapid cooling due to the heat transfer
+below the surface. The optimization objective is to maximize the rate of surface hardening. Constraints are
+introduced on the computed temperature and temperature rate  elds to ensure that phase transformations are
+activated and that melting does not occur

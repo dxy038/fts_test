@@ -1,0 +1,6 @@
+In the paper entitled “Multiresolution analysis on local fields” [H.K. Jiang, D.F. Li, N. Jin,
+Multiresolution analysis on local fields, J. Math. Anal. Appl. 294 (2) (2004) 523–532],
+we establish the orthonormal wavelet construction from multiresolution analysis on local
+fields. The objective of this paper is to construct wavelet frame on local fields. A necessary
+condition and four sufficient conditions for wavelet frame on local fields are given. An
+example is presented at the end.

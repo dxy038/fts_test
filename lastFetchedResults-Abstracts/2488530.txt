@@ -1,0 +1,7 @@
+This paper presents a set of multi-objective programming problems in a rough
+environment. These problems are classied into ve classes according to the location of the
+roughness in the objective functions or the feasible set. We study the class in which all of
+the objective functions are crisp and the feasible region is a rough set and, in particular,
+discuss the properties of the complete and ecient (Pareto optimal) solutions of rough
+multi-objective programming problems. In order to obtain these solutions, we need certain
+theorems, which we derive. Finally, we illustrate our results by examples.

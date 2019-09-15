@@ -1,0 +1,10 @@
+Context
+e-oriented architecture has become a widely used concept in software industry. However, we currently lack support for designing variability-intensive service-oriented systems. Such systems could be used in different environments, without the need to design them from scratch. To support the design of variability-intensive service-oriented systems, reference architectures that facilitate variability in instantiated service-oriented architectures can help.
+ive
+sign of variability-intensive service-oriented reference architectures is subject to specific constraints. Architects need to know these constraints when designing such reference architectures. Our objective is to identify these constraints.
+
+loratory case study was performed in the context of local e-government in the Netherlands to study constraints from the perspective of (a) the users of a variability-intensive service-oriented system (municipalities that implement national laws), and (b) the implementing organizations (software vendors). We collected data through interviews with representatives from five organizations, document analyses and expert meetings.
+s
+ntified ten constraints (e.g., organizational constraints, integration-related constraints) which affect the process of designing reference architectures for variability-intensive service-oriented systems. Also, we identified how stakeholders are affected by these constraints, and how constraints are specific to the case study domain.
+sions
+sults help design variability-intensive service-oriented reference architectures. Furthermore, our results can be used to define processes to design such reference architectures.

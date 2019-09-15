@@ -1,0 +1,11 @@
+Objective. To establish the range of forces and moments applied to lower limb orthoses during ambulation by routine users.
+
+Design. Well-established gait analysis techniques were used to determine the loading at the major joints. It was assumed that the joint moments were transmitted by the orthosis encompassing any particular joint. Two hundred and five assessments of 164 patients were successfully completed by a consortium of four gait laboratories in Europe. The orthosis specification and patient clinical data were also recorded.
+
+Background. The design and development of orthoses has occurred largely by evolution rather than by formal engineering methods. In particular, formal design has been hampered by a lack of information on the forces and moments applied during ambulation.
+
+Methods. A standard gait analysis procedure was employed to capture the data. In-house biomechanical models were used to calculate the joint loading. Data were normalised with respect to patient weight and leg length.
+
+Results. It was found that the median maximum normalised ankle moment transmitted by an ankle foot orthosis was 0.15 and the maximum knee moment was 0.09. The greatest moment transmitted by the hip joint of a hip knee ankle foot orthosis was also 0.09. There was a wide variation in the data due to differences in the impairments of the test subjects.
+
+Conclusion. It is possible to estimate the loads transmitted by an orthosis using established gait analysis procedures without the need for load measurement transducers. There is now a need both to collect a larger representative dataset and to perform validation studies with transducers.

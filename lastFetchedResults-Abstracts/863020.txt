@@ -1,0 +1,14 @@
+There have been many security events in the Internet. Many of them are due to arbitrary
+access permissions to the network resources of the malicious users, especially their free
+sending packets to anywhere in the network. However, current existing solutions such as
+ingress filtering and network firewalls cannot solve the problem of malicious access to
+the network flexibly and effectively. In this paper, we present an efficient access control
+method based on host identifiers, in which a safe and bidirectional authentication process is
+introduced whenever the host begins to access the network. Meanwhile, all the succeeding
+information exchanges between the host and the network can be controlled through the
+encrypt scheme negotiated during the access authentication process. Through analysis
+and experiments, we find that the proposed method has the following merits. First, our
+method has the capability to support various end-nodes to access the Internet in a uniform
+way. Second, with our method, end-nodes and the core network can establish a mutual
+trustworthy relationship to avoid any spoof from the other side. Third, our method can
+support host mobility very well.

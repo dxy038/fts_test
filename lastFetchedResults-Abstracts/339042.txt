@@ -1,0 +1,11 @@
+Objective
+Lack of good models for in vivo detection of multiple myeloma (MM) cells hampers our understanding of the disease. Our objective was to establish a murine model for MM, allowing sensitive and labor-free tracing and quantification of MM cells in an immunocompetent host.
+Methods
+
+5T33MM cells were retrovirally transduced, expressing enhanced green fluorescent protein (eGFP) and/or herpes simplex virus thymidine kinase (HSV-tk) as a control. Flow cytometric eGFP detection accuracy and sensitivity were assessed. Functional characteristics of transduced cells, including growth rate and production of IgG2b paraprotein and interleukin-6, were compared to those of nontransduced cells in vitro. For induction of MM, C57BL/KaLwRij mice were injected intravenously with transduced and nontransduced cells. Survival kinetics and distribution of eGFP cells in tissues were evaluated.
+Results
+
+Flow cytometric eGFP detection was accurate at 1:1000 transduced/nontransduced cell ratio. Transduced and nontransduced 5T33MM cells exhibited similar growth rates, producing comparable IgG2b and interleukin-6 levels. Intravenous injection of both nontransduced and eGFP-transduced MM cells to C57BL/KaLwRij mice resulted in paraplegia. At the time of paraplegia, eGFP-transduced MM cells were detected substantially in the bone marrow, spleen, and liver, less in lymph nodes, but not in the thymus. The bone marrow of paraplegic mice contained higher eGFP-transduced MM cells compared to that of nonparaplegic animals.
+Conclusions
+
+In the established eGFP-5T33 MM model, MM cells are easily traced in an immunocompetent host. This model simplifies the analysis of homing pattern studies, the evaluation of therapeutic effects of various treatment approaches and contributes towards better understanding of MM.

@@ -1,0 +1,8 @@
+Background
+is recent evidence about the existence of 7- and 3.5-day rhythms in some biological systems, particularly in human diseases. The objective of this work was to analyze and compare health data from various sources in Mexico to find this rhythm and a plausible explanation.
+s
+lyzed the hourly number of myocardial infarctions (MI), angina, arrhythmias, hypertension, and heart failure registered at the Clinical Research Department of Hospital de Cardiología of Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, in Mexico City for a period of 1 year (1996), with a total of 4947 cases. We used two methods based on the Fast Fourier Transform algorithm to determine the periodicities of this data.
+s
+ominant 1-day rhythm was found in the hourly data, and important periodicities of ∼7- and 3.5-day among other rhythms. These periodicities were also found in other medical data from different sources in Mexico, particularly a long database of MI mortality for the whole country.
+sions
+planation of the 7-day rhythm may be related to the social week of human activity, but the 3.5-day rhythm has no easy explanation. Here we discuss the possibility that these rhythms may be related to environmental conditions, particularly to the solar activity that has periods close to the 3.5 and 7 days. Regardless of the modest number of data, the finding of these rhythms on the incidence of MI and other cardiac-related diseases in Mexico confirms previous investigations concerning medical data from other Mexican health care institutions.

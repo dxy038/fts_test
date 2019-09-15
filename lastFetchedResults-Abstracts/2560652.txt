@@ -1,0 +1,14 @@
+The concepts of fortification and partial interdiction have not been considered
+concurrently in previous studies. In this paper, we added the fortification and partial 
+interdiction concepts to interdiction problem for the first time; the reason is that in 
+interdiction situations, defenders decide to protect some important facilities according to their 
+budgets, and attackers like to destroy most unprotected facilities according to their resources, 
+and therefore, to cripple the defenders' systems. Moreover, we use the advantages of 
+credibility-based fuzzy mathematical programming and introduce an integrated model based on 
+uncertainty contexts. In this bi-objective model, decision-maker gives satisfaction degrees for 
+constraints, and then we use the interactive possibility model to solve the bi-objective model with 
+varying confidence levels. These confidence levels specify the knowledge of attacker and defender 
+about themselves. In addition, we propose Genetic Algorithm (GA) to solve the suggested model. In 
+the experiments, we generate problem instances and solve  them by Multi-Objective  
+Mixed-Integer  Non-Linear  Programming (MOMINLP) and the proposed genetic algorithm for various settings.
+

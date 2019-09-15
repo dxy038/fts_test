@@ -1,0 +1,25 @@
+Network security depends on a number of factors. And a common
+characteristic of these factors is that they are dynamic in nature. Such factors
+include new vulnerabilities and threats, the network policy structure and traffic.
+These factors can be divided into two broad categories. Network risk and service
+risk. As the name implies, the former one corresponds to risk associated with the
+network policy whereas the later one depends on the services and software running
+on the system. Therefore, evaluating security from both the service and policy
+perspective can allow the management system to make decisions regarding how a
+system should be changed to enhance security as par the management objective.
+Such decision making includes choosing between alternative security architectures,
+designing security countermeasures, and to systematically modify security configurations
+to improve security. As there may be real time changes to the network
+threat, this evaluation must be done dynamically to handle such changes. In this
+paper, we provide a security metric framework that quantifies objectively the most
+significant security risk factors, which include existing vulnerabilities, historical
+trend of vulnerabilities of the remotely accessible services, prediction of potential
+vulnerabilities for these services and their estimated severity, unused address spaceand finally propagation of an attack within the network. These factors cover both the
+service aspect and the network aspect of risk toward a system. We have implemented
+this framework as a user-friendly tool called Risk based prOactive seCurity
+cOnfiguration maNAger (ROCONA) and showed how this tool simplifies security
+configuration management of services and policies in a system using risk measurement
+and mitigation. We also combine all the components into one single
+metric and present validation experiments using real-life vulnerability data from
+National Vulnerability Database (NVD) and show comparison with two existing
+risk measurement tools

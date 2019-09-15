@@ -1,0 +1,11 @@
+Objective
+The expression of Bcl-xL has been shown to be regulated during the maturation process of different hematopoietic cell lineages (i.e., erythroid cells, neutrophils, monocytes/macrophages). In the present study, we examined the expression of Bcl-xL in megakaryocytes derived from CD34+ progenitors and in the megakaryoblastic cell line UT7.
+Materials and Methods
+
+Expression of Bcl-xL was analyzed in CD41+ cells cultured in the presence of thrombopoietin and in UT7 cells treated with phorbol diester by Western blot, flow cytometry, and immunocytochemistry analysis. Apoptosis was determined at different culture times by terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick end labeling and propidium iodide uptake.
+Results
+
+Bcl-xL but not Bcl-2 was up-regulated in the megakaryocytic population (CD41+) during the first 15 days of culture, which was consistent with the pattern of Bcl-xL expression in UT7 cells differentiated to megakaryocytes by incubation with phorbol diester. However, by day 20 of culture, the levels of Bcl-xL in CD41+ cells were greatly reduced, and this expression pattern was accompanied by an increase in the number of apoptotic cells. At this culture time, we detected the presence of cytoplasmic fragments resembling proplatelets with prominent Bcl-x immunostaining, most likely due to the Bcl-xL isoform, in close proximity to Bcl-x− senescent megakaryocytes. The presence of Bcl-xL but not of Bcl-2 in platelets was confirmed by Western blot analysis.
+Conclusion
+
+Although little is known regarding the functional significance of survival proteins within the megakaryocytic compartment, the changes in the Bcl-xL expression pattern observed in UT7 and CD41+ cells may play a role in the survival of developing megakaryocytes and the lifespan of mature platelets.

@@ -1,0 +1,26 @@
+Introduction
+Intercropping of legumes with cereals is one of the old practical multi-cropping techniques to increase crop yields and to improve land use efficiency (Thobatsi, 2009; Poggio, 2005). Hence, competition among mixtures is thought to be the major aspect affecting yield as compared with solitary cropping. Species selection, seeding ratios and competition capability within mixtures can affect the growth and yield of the species used in intercropping systems (Agegnehu et al., 2006; Banik et al., 2006). Some competition indices such as land equivalent ratio, aggressivity, relative crowding coefficient and competitive ratio have been proposed to describe competition and economic advantages of intercropping systems (Dhima et al., 2007). Therefore, the objective of this study was to compare the productivity of corn intercropped with different bean cultivars compared with sole cultures and to examine the competitive relationships of corn and bean cultivars in intercrops.
+
+Materials and methods
+A field experiment was carried out in randomized complete block design with three replicates at the Sari Agricultural Sciences and Natural Resources University (latitude 36?N, longitude 53?E and altitude of 25m below sea level, GARMIN ,GPSmap) during 2010. The experimental treatments were mono-cropping of corn, white bean, bush bean, red bean, pinto bean, and intercropping of corn with bean types in 50:50 planting ratio. The plot size was 3.0m × 6.0m (providing 5.3 plants.m-2 for solitary treatment). Experimental plots of pure corn and mixed crops received the 300 kg.ha-1 of urea, 100 kg.ha-1 of potassium sulfate and triple super phosphate and the pure bean cultivars plots received 100 kg.ha-1 of urea, potassium sulfate and triple super phosphate all applied at planting. The experiment was planted on May 1 in 2010 and was harvested on September 20 in 2010. seed  yield was determined by harvesting each crop separately from the mixtures in the two middle rows. The land equivalent ratio (LER), aggressivity (A), relative crowding coefficient (K) and competitive ratio (CR) were calculated by using the following formula:
+LER= Yc/Ycc+ Yb/Ybb
+where Ycc and Ybb are the yields of corn and bean cultivars as sole crops, respectively and Yc and Yb are the yields of corn and bean cultivars as intercrops, respectively;
+Kcorn=(Yc × Zb)/(Ycc -Yc) × Zc and Kbean =(Yb× Zc)/(Ybb-Yb)× Zb
+where Zc and Zb are the proportions of corn and bean cultivars in the mixture, respectively; 
+Acorn= (Yc/Ycc × Zc)-(Yb/Ybb × Zb) and Abean= (Yb/Ybb× Zb)-(Yc/Ycc × Zc);
+CRcorn= (LERc/LERb) × (Zb/Zc) and CRbean= (LERb/LERc) × (Zc/Zb)
+For statistical analysis, analysis of variance (ANOVA) and least significant difference (LSD) were performed using SAS version 9.1 (SAS Institute Inc., Cary, NC, USA).
+
+Results and discussion 
+In the present experiment, intercropping the corn-bush bean and corn-pinto bean had the highest economical yields (5718.4 and 5687.1 kg.ha-1, respectively) and land equivalent ratios (LER=1.13 and 1.21, respectively). Among different crops, the highest relative crowding coefficients were related to red bean (K= 1.85), pinto bean (K= 2.41) and sword bean (K= 2.80). The most aggressivity value, however, belonged to pinto bean intercropped with corn (A= -0.02). Also, both the red bean and pinto bean (CR=0.75 and CR=0.98, respectively) had the maximum competitive ratios. Furthermore, the most corn relative crowding coefficient (K=1.15) belonged to corn and sword bean intercropping. The maximum corn aggressivity value was observed in corn intercropped with white bean (A=+0.60) and bush bean (A=+0.69). In conclusion, according to competition indices, intercropping of 50% corn +50 % red bean and pinto bean plants were superior as compared with other combinations.
+
+Acknowledgments 
+The authors wish to thank the Sari Agricultural Sciences and Natural Resources University for supporting this study.
+
+References 
+Agegnehu, G., Ghizam, A., and Sinebo, W. 2006. Yield performance and land-use efficiency of barley and faba bean mixed cropping in Ethiopian highlands. European Journal of Agronomy 25: 202-207.
+Banik, P., Midya, A., Sarkar, B.K., and Ghose, S.S. 2006. Wheat and chickpea intercropping systems in an additive series experiment: advantages and weed smothering. European Journal of Argonomy 24: 325-332.
+Dhima, K.V., Lithourgidis, A.A., Vasilakoglou, I.B., and Dordas, C.A. 2007. Competition indices of common vetch and cereal intercropping in two seeding ratio. Field Crops Research 100: 249-256.
+Poggio, S.L. 2005. Structure of weed communities occurring in monoculture and intercropping of field pea and barley. Agriculture Ecosystems Environment 109: 48-58. 
+Thobatsi, T. 2009. Growth and yield responses of maize (Zea mays L.) and cowpea (Vigna unguiculata L.) in an intercropping system. MSc Thesis. University of Pretoria. 149 pp
+

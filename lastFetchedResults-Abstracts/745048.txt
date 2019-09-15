@@ -1,0 +1,11 @@
+Objective
+To analyse the risk of coronary heart disease (CHD) events and total mortality among patients who had coronary artery bypass graft (CABG) surgery during 1988–1992.
+Methods
+
+A population-based myocardial infarction (MI) register included data on invasive cardiac procedures among residents of the study area. The subjects aged 35–64 years were followed-up for 12 years for non-fatal and fatal CHD events and all-cause mortality, excluding events within 30 days of the CABG operation. CABG was performed on 1158 men and 215 women.
+Results
+
+The overall survival of men who underwent CABG was similar to the survival of the corresponding background population for about ten years but started to worsen after that. At twelve years of follow-up, 23% (n = 266, 95% CI 234–298) of the men who had undergone the operation had died, while the expected proportion, based on mortality in the background population, was 20% (n = 231, 95% CI 226–237). The CHD mortality of men who had undergone the operation was clearly higher than in the background population. Among women, the mortality after CABG was about twice the expected mortality in the corresponding background population. In Cox proportional hazards models age, smoking, history of MI, body mass index and diabetes were significant predictors of mortality.
+Conclusions
+
+The prognosis of male CABG patients did not differ from the prognosis of the corresponding background population for about ten years, but started to deteriorate after that. History of MI prior to CABG and major cardiovascular risk factors was a predictor of an adverse outcome.

@@ -1,0 +1,11 @@
+Objective
+This study aimed to associate hospital admissions of kidney diseases with extreme temperature and prolonged heat/cold events in 7 regions of Taiwan.
+Methods
+
+Age-specific (< 65 years, 65 + years and all ages) hospital admission records of nephritis, nephrotic syndrome, or nephrosis, in the form of electronic insurance reimbursement claims, were retrieved from Taiwan's National Health Insurance Research Database during the period of 2000–2008. The area–age-specific relative risk (RR) accounting for 8 days of lag for temperature on hospital admissions of kidney diseases were estimated using distributed lag non-linear models with the Poisson distribution controlling for extreme temperature events, levels of air pollutants (PM10, O3, and NO2) and potential confounders.
+Results
+
+We observed a V or J-shape association between daily average temperatures and the RR estimates for hospital admissions of kidney diseases in Taiwan. The lowest risk for hospital admissions of kidney diseases was found at around 25 °C, and risk increased as temperatures deviated from 25 °C. The pooled cumulative 8-day RR for all ages of population of the 7 study areas were 1.10 (95% confidence interval (CI): 1.01, 1.19) at 18 °C and 1.45 (95% CI: 1.27, 1.64) at 30 °C. High temperature has more profound influence on hospital admission of kidney diseases than low temperature. Temperature risks for hospital admissions were similar between younger (< 65 years) and elderly (65 + years) population. This study observed no significant effects of prolonged heat extremes on hospital admissions of kidney diseases.
+Conclusions
+
+The heat effect for kidney morbidities leading to hospital admission was more significant than that of the cold temperature. This study did not find the age-dependent relative risks for temperature associating with hospital admissions of kidney diseases.

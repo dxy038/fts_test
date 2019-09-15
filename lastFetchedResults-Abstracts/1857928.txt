@@ -1,0 +1,8 @@
+AbstractObjectives
+jective of this study is to design a method for modeling hepatitis C virus (HCV) infection using multi-agent simulation and to verify it in practice.
+s and materials
+s paper, first, the modeling of HCV infection using a multi-agent system is compared with the most commonly used model type, which is based on differential equations. Then, the implementation and results of the model using a multi-agent simulation is presented. To find the values of the parameters used in the model, a method using inverted simulation flow and genetic algorithm is proposed. All of the data regarding HCV infection are taken from the paper describing the model based on the differential equation to which the proposed method is compared.
+s
+ant advantages of the proposed method are noted and demonstrated: these include flexibility, clarity, re-usability and the possibility to model more complex dependencies. Then, the simulation framework that uses the proposed approach is successfully implemented in C++ and is verified by comparing it to the approach based on differential equations. The verification proves that an objective function that performs the best is the function that minimizes the maximal differences in the data. Finally, an analysis of one of the already known models is performed, and it is proved that it incorrectly models a decay in the hepatocytes number by 40%.
+sions
+oposed method has many advantages in comparison to the currently used model types and can be used successfully for analyzing HCV infection. With almost no modifications, it can also be used for other types of viral infections.

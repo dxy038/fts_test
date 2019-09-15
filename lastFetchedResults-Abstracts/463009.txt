@@ -1,0 +1,11 @@
+Background
+Several physical activity measures used in U.S. surveillance systems lack estimates of reliability in this country. This information is needed among diverse populations of women and men, to aid in interpretation and use of the measures. The objective of this study was to document the test-retest reliability of several measures of physical activity and inactivity used in surveillance in a diverse adult population.
+Methods
+
+Test and retest surveys were conducted over the telephone with 106 African-American and white women and men living in Forsyth County, North Carolina or Jackson, Mississippi in 2003. Physical activity and inactivity were self-reported using surveillance measures, such as from the Behavioral Risk Factor Surveillance System. Reliability was determined using kappa and intraclass correlation coefficients (ICCs) overall and separately by gender and race.
+Results
+
+Thirteen percent of the participants met recommendations for physical activity, 44% were insufficiently active, and 43% were inactive. Reliability of the measures to categorize participants into these categories was 0.44 (95% confidence interval [CI]=0.27–0.58). The reliability of several categoric definitions of leisure activity ranged from 0.46 to 0.68. Occupational activity had substantial reliability (0.82, 95% CI=0.72–0.89), while any transportation activity (0.27, 95% CI=0.09–0.44) and walking (0.40, 95% CI=0.23–0.55) were lower. Indicators of inactivity categorized at >7 hours/week included time per week on the computer (0.83, 95% CI=0.57–0.78) and time per week watching television (0.40, 95% CI=0.22–0.54). Some gender and racial differences were noted in the reliability estimates.
+Conclusions
+
+In conclusion, this study provides estimates of test-retest reliability for several physical activity and inactivity measures used for surveillance purposes. Validity data, coupled with the reliability estimates reported here and elsewhere, can aid in interpretation and use of these measures in surveillance, as well as in epidemiologic studies.

@@ -1,0 +1,22 @@
+Appealing to the principle of vertical residence and stemming the horizontal expansion of the
+city, the Tehran Milad Tower is being built on 35000 sm3 site with the total area of 220000
+sm3. With a height of over 170m, this 56-story concrete building is in the final stages of
+construction and would be the highest residential building of Iran. Since Tehran is located in a
+high-risk earthquake zone, all of its structures must be designed for seismic loads. In this
+building, the lateral loads are carried with three main shear walls, which are located in an
+angle of 120 degrees and the gravity loads are transferred from the concrete slabs to the
+secondary shear walls.
+Since the introduction of Tuned Mass Dampers (TMD) by Frahm in 1909, as a passive control
+system, numerous investigations have been carried out to examine the effect of these devices
+in reducing seismic response of the structures. The objective of incorporating a TMD into a
+structures is to reduce the energy dissipation demand on the primary structural members
+subjected to external forces. This reduction is accomplished by transferring some of the
+structural vibration energy to the TMD and dissipating the energy at the damper of TMD.
+The purpose of this paper is to design and evaluate the effectiveness of TMD for response
+reduction of the Tehran tower under seismic excitations. A lumped mass model of the
+building was provided with 112 translational and 56 rotational degrees of freedom using solid
+and shell elements. Time history analyses were performed to calculate the response of the
+structure subjected to some earthquake records. The same procedure was followed for the
+models with attached TMD. The control effectiveness of TMD was evaluated by comparing
+the tower's responses with those of the towers without control device. Furthermore, multiple
+tuned mass dampers are suggested as a solution for insufficiency of TMD.

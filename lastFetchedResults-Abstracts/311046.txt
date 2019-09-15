@@ -1,0 +1,11 @@
+Objective.  To recognize and quantify the influence of biomechanical factors, namely anthropometry and foot placement, on the more common measures of stabilometric performance, including new-generation stochastic parameters.
+
+Design. Fifty normal-bodied young adults were selected in order to cover a sufficiently wide range of anthropometric properties. They were allowed to choose their preferred side-by-side foot position and their quiet stance was recorded with eyes open and closed by a force platform.
+
+Background. biomechanical factors are known to influence postural stability but their impact on stabilometric parameters has not been extensively explored yet.
+
+Methods. Principal component analysis was used for feature selection among several biomechanical factors. A collection of 55 stabilometric parameters from the literature was estimated from the center-of-pressure time series. Linear relations between stabilometric parameters and selected biomechanical factors were investigated by robust regression techniques.
+
+Results. The feature selection process returned height, weight, maximum foot width, base-of-support area, and foot opening angle as the relevant biomechanical variables. Only eleven out of the 55 stabilometric parameters were completely immune from a linear dependence on these variables. The remaining parameters showed a moderate to high dependence that was strengthened upon eye closure. For these parameters, a normalization procedure was proposed, to remove what can well be considered, in clinical investigations, a spurious source of between-subject variability.
+
+Conclusion. Care should be taken when quantifying postural sway through stabilometric parameters. It is suggested as a good practice to include some anthropometric measurements in the experimental protocol, and to standardize or trace foot position.

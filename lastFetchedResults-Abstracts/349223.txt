@@ -1,0 +1,11 @@
+Objective
+Standard outcome measures used for amyotrophic lateral sclerosis (ALS) clinical trials, including the ALS functional rating scale-revised (ALSFRS-R), maximal voluntary isometric contraction testing (MVICT), and manual muscle testing (MMT), are limited in their ability to detect subtle disease progression. Electrical impedance myography (EIM) is a new non-invasive technique that provides quantitative data on muscle health by measuring localized tissue impedance. This study investigates whether EIM could provide a new outcome measure for use in ALS clinical trials work.
+Methods
+Fifteen ALS patients underwent repeated EIM measurements of one or more muscles over a period of up to 18 months and the primary outcome variable, θz-max, measured. The θz-max megascore was then calculated using the same approach as has been applied in the past for MVICT. This and the MMT data were then used to assess each measure’s statistical power to detect a given effect on disease progression in a hypothetical planned clinical therapeutic trial.
+Results
+θz-max showed a mean decline of about 21% for the test period, averaged across all patients and all tested muscles. The θz-max megascore had a power of 73% to detect a 10% treatment effect in our planned hypothetical trial, as compared to a 28% power for MMT. These results also compared favorably to historical data for ALSFRS-R and MVICT arm megascore from the trial of celecoxib in ALS, where both measures had only a 23% power to detect the same 10% treatment effect.
+Conclusions
+The θz-max megascore may provide a powerful new outcome measure for ALS clinical trials.
+Significance
+The application of EIM to future ALS trials may allow for smaller, faster studies with an improved ability to detect subtle progression of the disease and treatment effects.
+

@@ -1,0 +1,11 @@
+Objective
+We studied whether distal peripheral nerves could be imaged using quantitative diffusion tensor imaging (DTI) with a 3-T MRI scanner, and visualized using tractography.
+Methods
+Altogether 6 healthy subjects were studied. The diffusion was quantified with apparent diffusion coefficient (ADC) and fractional anisotropy (FA) maps, and the direction of main diffusivity was visualized with color-coded orientation maps and tractography.
+Results
+We present the first DTI and tractography results of human distal peripheral nerves. The courses of median, ulnar, and radial nerves in the upper limb and of tibial and peroneal nerves in the lower limb were first analyzed quantifying ADC and FA, and then visualized in 3D with tractography. Tractography illustrated nicely the 3D courses of both upper and lower limb nerves which were reliably distinguished from the surrounding muscle tissue and ligaments.
+Conclusions
+Quantitative DTI and tractography can be used to image and visualize distal peripheral nerves.
+Significance
+DTI is a quantitative method that could provide useful information for the diagnosis and follow-up of nerve lesions, entrapments, and regeneration. Peripheral nerves as well-delineated structures also containing abundant branching into bundles of different diameters, could be used as ‘living phantoms’ for testing and validating different tractography methods
+

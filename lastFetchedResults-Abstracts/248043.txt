@@ -1,0 +1,14 @@
+One of the key components in computational mechanics procedures using global/local methods is the
+specification of the global/local interface. Global/local interfaces are usually specified by visually examining
+some measure of response such as colour-coded contour plots of stresses or strain energy. However, when
+both global and local domains are modelled in three dimensions, such a specification is not as obvious, and it
+lacks objectivity and uniqueness. An Objective Search Method (OSM)is presented to specify the global/
+local interface in three dimensions in a precise, repeatable and automated manner. The OSM performs the
+search incrementally in all directions in three dimensions radiating from a location of interest until certain
+generalized guidelines are satisfied and the global/local interface is identified. The OSM is suited to
+problems where localized phenomena exist but where their domains are not known a priori. The generalized
+guidelines for the OSM require the identification of nodes lying on the external surfaces of the model. As an
+important component of the OSM, a unique method to identify surface nodes has been developed and is
+also presented. Finally, the uniqueness, sensitivity and versatility of the OSM is illustrated using two
+example problems and the computational effort involved with the OSM is discussed in the context of a
+third example problem

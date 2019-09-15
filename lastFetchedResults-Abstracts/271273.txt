@@ -1,0 +1,9 @@
+method based on a self-organisational approach has been developed, where a local
+state operator defines the state of each finite element at each iteration. The algorithm is based on
+the principle of local adaptation with global feedback in the form of a derivative equation based on
+von Mises stresses that allows the local remodelling function to vary at each time step. The state
+operator has the form of a nonlinear differential equation solved iteratively based on the material
+density and strain energy density within each element. A constraint equation is formulated based
+on a maximum deviatoric strain energy criteria, with the objective to minimise the mass of the
+design domain subject to the above constraint. A number of examples are presented to demonstrate
+the use of this approach. G 1997 Elsevier Science Ltd

@@ -1,0 +1,1 @@
+We propose a passive architecture mixing G-PON and VDSL2 technologies. We evaluate a single-user per port FTTdp prototype providing up to 100Mbit/s bidirectional bit rate per customer over 100m from the distribution point.

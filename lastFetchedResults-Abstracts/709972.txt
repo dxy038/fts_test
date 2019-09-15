@@ -1,0 +1,13 @@
+Background
+The Belgian Nursing Minimum Data Set (B-NMDS) is a nationwide registration of 23 nursing activities. It was developed for the measurement of nursing care in acute hospitals. It is used to support healthcare management & policy decision making such as hospital financing and nurse staffing decisions.
+Objective
+To develop a measure of the intensity of nursing care based on information that is available in the B-NMDS.
+Design–setting–participants
+Retrospective analysis of the B-NMDS from all Belgian acute hospitals (n=115) for the year 2003. The sample included 690,258 inpatient days for 298,691 patients that were recorded from 1637 acute care nursing units.
+Methods
+The 23 nursing activities were synthesized into one new latent variable by PRINQUAL analysis. This variable was evaluated as a measure of nursing care intensity using key characteristics of the San Joaquin patient classification system, which was designed to measure the intensity of nursing care.
+Results
+The main NMDS component from the PRINQUAL analysis accounted for 26.8% of the variance. The distribution of inpatient days over all four San Joaquin categories is: 11.1% (self-care); 40.4% (average care); 30.8% (above average care); 17.7% (intensive care). In 97.5% of the nursing units the intensity of nursing care score of the B-NMDS (main NMDS component) followed the ordinality of the San Joaquin classification system. Furthermore, the San Joaquin categories alone explained more variability—70.2% in the intensity of nursing care measure (main NMDS component) than did other determinants, such as department type, age, diagnostic-related groups (DRG) and severity of illness, hospital type and hospital size together.
+Conclusion
+The B-NMDS is an instrument that produces a measure of the intensity of nursing care in acute hospitals.
+

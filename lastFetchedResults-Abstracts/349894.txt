@@ -1,0 +1,11 @@
+Objective
+Accurate localization of functionally significant brain regions reduces risks of post-operative neurological deficits. The gold standard for presurgical brain mapping is subdural electrocortical stimulation (ECS), which is an open-cranium surgical procedure. Functional MRI (fMRI) may be a noninvasive alternative if it can be shown that fMRI and ECS maps are spatially consistent. We formulate new 3D current density weighted ECS–fMRI correspondence indices and illustrate their use on human data.
+Methods
+Current density maps were computed for simulated and human datasets by solving the electrostatic Laplace equation. The proposed indices were characterized and compared with fixed radii and Euclidean distance indices.
+Results
+Results from simulated datasets showed that the proposed indices quantify correspondence between fMRI and the ECS truth predictably, and provide conspicuous sensitivity increase from fixed radii indices, whereas Euclidean distances may not be suitable measures of the correspondence.
+Conclusions
+The proposed indices reflect contextual information from surrounding electrodes and may be physiologically more meaningful in evaluating ECS–fMRI correspondence.
+Significance
+To identify safe limits of resection, an ECS map requires placement of electrodes on a patient’s brain. Our proposed indices accurately quantify ECS–fMRI correspondence and may be used to evaluate fMRI as a noninvasive alternative for defining resection limits.
+

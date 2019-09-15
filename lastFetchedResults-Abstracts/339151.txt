@@ -1,0 +1,11 @@
+Objective
+The first objective of this study was to examine the differences in levels of adducin (ADD1, ADD2, ADD3) mRNA expression during human erythropoiesis. The second objective was to determine whether the rapid induction of ADD2 expression could be attributed to a novel erythroid-specific promoter.
+Methods
+
+Expression of mRNA was quantified using real-time RT-PCR. Primary erythroid precursors were isolated from normal human bone marrow using fluorescence-activated cell sorting. Two model systems were compared: CD34+ hematopoietic stem cells induced to differentiate with erythropoietin and HEL cells induced to differentiate with hemin. 5′RACE analysis was performed using primary human erythroblasts as starting material.
+Results
+
+All three adducin genes showed different patterns of expression during erythropoietic differentiation of cultured CD34+ stem cells. Levels of ADD3 mRNA were higher than levels of ADD2 mRNA at early stages of erythropoiesis. Expression of ADD2 was induced to very high levels (100 times baseline) in erythropoietin-stimulated cultures. 5′RACE analysis identified a novel starting exon and putative erythroid promoter for ADD2.
+Conclusion
+
+These results suggest that expression of each adducin gene is regulated in a gene-specific manner during erythropoiesis. The early expression of ADD3 suggests that it may have a role in erythroblasts but is replaced by ADD2 in later stages of erythropoiesis. The very high levels of expression of ADD2 suggest that its promoter may be useful for directing erythroid-specific gene expression.

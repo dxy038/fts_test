@@ -1,0 +1,14 @@
+Background
+Recent data indicate that 10- to 14-mm Mycobacterium tuberculosis purified protein derivative (PPD) reactions are often due to prior infections with nontuberculous mycobacteria. Therefore, use of a 10-mm cutpoint to define latent tuberculosis infection (LTBI) results in false-positive diagnoses and unnecessary treatment for LTBI. A second skin test, Mycobacterium avium sensitin (MAS), has been shown to accurately identify false-positive PPD results.
+Objective
+
+To compare the costs and accuracy of a single skin-test strategy (SST) with PPD alone with a dual skin-test strategy (DST) where 10- to 14-mm PPD results are also tested with MAS.
+Methods
+
+A decision analytic model was developed to evaluate the two strategies. The model accounted for the costs of skin testing, the costs of LTBI treatment, the costs of undetected LTBI, and the sensitivity and specificity of each strategy.
+Results
+
+We estimated that DST saved $3 per subject tested compared to SST. Savings were due to a reduction in false-positive PPD results and consequent reduction in unnecessary treatment for LTBI of >60%. The DST strategy was associated with a minimal increase in undetected LTBI (6% vs 7%). Results were stable for a broad range of parameter values.
+Conclusion
+
+DST is a promising approach to improving the specificity of LTBI testing when a 10-mm PPD cutpoint is used and would reduce costs and unnecessary drug treatment.

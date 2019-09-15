@@ -1,0 +1,11 @@
+Objective
+To record mismatch negativity (MMN) to a visual stimulus fulfilling similar criteria to those of auditory MMN (A-MMN).
+Methods
+Twelve normal adults were instructed to simultaneously listen to a story and to pay attention to a visual target. Three windmill patterns that differed in the number of vanes (standard, deviant, or target) were used as visual stimuli, and were randomly presented. To ensure endogeneity, standard and deviant stimuli were alternated. To vary differences between frequent (standard) and infrequent (deviant) stimuli, deviants were changed by modulating the number of vanes. To examine effects of physical features of the target stimulus on changes in detection, two target conditions were used. The deviant-related component (DRC) was obtained by subtracting event-related potentials (ERPs) to the deviant stimulus from those to the standard stimulus.
+Results
+Seven subjects completed all phases of the experiment. Behavioral performances indicated that subjects' attention was directed by auditory context and identification of the target stimulus. Visual DRC appeared 150–300 ms after stimulus onset, and consisted of an early (DRN1) and a late (DRN2) component. Magnitude of deviancy from standard stimulus significantly influenced latency of DRN2 but not its magnitude, while changes in target stimulus affected latencies of both DRN1 and DRN2.
+Conclusions
+Our DRCs satisfied criteria for A-MMN. In contrast to A-MMN, only latency of the DRC was associated with visual sensory discrimination and attentional reorienting.
+Significance
+It is possible to record valid MMN to a visual stimulus, which allows the study of preattentive visual information processing.
+

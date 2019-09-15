@@ -1,0 +1,7 @@
+This paper addresses a scheduling problem on parallel dedicated machines in which the setup times are
+sequence-dependent and the setup operations are performed by a single server. The objective of the
+problem is to minimize the makespan of the system. The problem is formulated as an integer program
+and the lower bounds are constructed. A special case of the problem is presented and solved in polynomial
+time. For the general cases, a hybrid genetic algorithm is developed to solve the problem. The algorithm
+is tested by both randomly generated data sets and real-world data sets from a printing industry.
+The computational results show that the algorithm is efficient and effective for both types of data sets.

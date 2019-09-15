@@ -1,0 +1,11 @@
+To analyse the trade-o  relations among the set of criteria in multicriteria optimization, Pareto optimum
+sensitivity analysis is systematically studied in this paper. Original contributions cover two parts: theoretical
+demonstrations are  rstly made to validate the gradient projection method in Pareto optimum
+sensitivity analysis. It is shown that the projected gradient direction evaluated at a given Pareto optimum
+in the design variable space rigorously corresponds to the tangent direction of the Pareto curve=surface
+at that point in the objective space. This statement holds even for the change of the set of active
+constraints in the perturbed problem. Secondly, a new active constraint updating strategy is proposed,
+which permits the identi cation of the active constraint set change, to determine the in uence of this
+change upon the di erentiability of the Pareto curve and  nally to compute directional derivatives in
+non-di erentiable cases. This work will highlight some basic issues in multicriteria optimization. Some
+numerical problems are solved to illustrate these novelties

@@ -1,0 +1,7 @@
+Objective: To report methodological difficulties with restoration survival data in controlled clinical trials on Class II amalgam restorations using a split-mouth design. The advantages and disadvantages of different ways of handling these data are described.
+
+Methods: Three statistical methods (Kaplan-Meier estimation, logistic regression with random component and Friedman's statistic) are compared using data from a controlled clinical trial in which cavosurface angle (regular or non-standard) and cavity wall finish (applied or not applied) determine four treatment modalities of New True Dentalloy ® restorations.
+
+Results: In this study logistic regression with a random component yields the best interpretable results. Cavity wall finish in combination with a regular cavosurface angle is indicated as the worst and cavity wall finish in combination with a non-standard cavosurface angle as the best treatment when the criterion is replacement or not within 15 years.
+
+Conclusions: The dependency between restorations within a patient needs to be taken into account. Logistic regression with a random component may be a valuable alternative to very advanced statistical survival modelling when restricting the research question to replacement within a certain time interval is not a major problem.

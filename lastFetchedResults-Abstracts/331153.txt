@@ -1,0 +1,11 @@
+Objectives
+The aim of this study was to determine static load-bearing capacity and compressive fatigue limits (CFL) of laboratory particulate filler composite resin (PFC) with three different types of fiber-reinforced composite (FRC) substructures.
+Methods
+
+A total of 420 test specimens were prepared having 1.0 mm of FRC layer as substructure (short random, continuous unidirectional and bidirectional fiber orientations), and a 2.0-mm thick surface layer of PFC. Control specimens were prepared from plain FRC or PFC. The specimens (n = 15) were either dry stored or water stored (37 °C for 2 weeks) before they were loaded with a steel ball (Ø 3.0 mm) under static load until fracture and cyclic load with maximum controlled regimen following a staircase approach with maximum 103 cycles. The decrease in CFL compared to static load was calculated and data were analyzed using ANOVA and Weibull statistics.
+Results
+
+The highest static loads were registered for plain FRC specimens [short random 1842 N(205), continuous bidirectional 2258 N(233) and unidirectional fiber orientation 538 N(254)]. The specimens with FRC substructure and PFC coverage gave load values of 1517 N(249), 1670 N(241) and 677 N(240), respectively. The specimens made of PFC only, failed with 1047 N(230) load. The CFL for 103 cycles ranged between 19 and 39% of the static load values. ANOVA revealed that all factors significantly affected the load bearing capacity (p < 0.001).
+Significance
+
+The results suggested that the material combination of continuous bidirectional or random FRC and PFC, gave higher CFL and static load-bearing capacity than that obtained with plain particulate filler composite resin

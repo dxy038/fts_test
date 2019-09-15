@@ -1,0 +1,18 @@
+The paper presents a 3D-based adaptive first-order shell finite element to be applied to hierarchical
+modelling and adaptive analysis of complex structures. The main feature of the element is that it is
+equipped with 3D degrees of freedom, while its mechanical model corresponds to classical first-order
+shell theory. Other useful features of the element are its modelling and adaptive capabilities. The element is
+assigned to hierarchical modelling and hpq-adaptive analysis of shell parts of complex structures consisting
+of solid, thick- and thin-shell parts, as well as of transition zones, where h, p and q denote the mesh
+density parameter and the longitudinal and transverse orders of approximation, respectively. The proposed
+hp-adaptive first-order shell element can be joined with 3D-based hpq-adaptive hierarchical shell elements
+or 3D hpp-adaptive solid elements by means of the family of 3D-based hpq/hp- or hpp/hp-adaptive
+transition elements.
+The main objective of the first part of our research, presented in this paper, is to provide non-standard
+information on the original parts of the element algorithm. In order to do that, we present the definition of
+shape functions necessary for p-adaptivity, as well as the procedure for imposing constraints corresponding
+to the lack of elongation of the straight lines perpendicular to the shell mid-surface, which is the procedure
+necessary for q-adaptivity. The 3D version of constrained approximation presented next is the basis for
+h-adaptivity of the element. The second part of our research, devoted to methodology and results of the
+numerical research on application of the element to various plate and shell problems, are described in the
+second part of this paper. Copyright q 2006 John Wiley & Sons, Ltd

@@ -1,0 +1,1 @@
+A new clocking scheme is presented for operating the parallel part of serial-parallel-serial charge-coupled device shift registers. This bidirectional clocking scheme allows charge movements in two directions without losing the bit-density advantages of ordinary ripple clocking. The bidirectional ripple clock requires less clock lines and no process modifications.

@@ -1,0 +1,13 @@
+The aim of this work is to lay theoretical foundations for the prediction of crack paths within the theory
+of quasistatic LEFM under the most general hypotheses] arbitrary three!dimensional geometry\ arbitrary
+loading[ This objective requires to derive the expression of the stress intensity factors along the crack front
+after an arbitrary in_nitesimal propagation[ Only the _rst two terms of their expansion in powers of the
+crack extension length d\ proportional to d9 0 and d0:1\ are considered in this paper[ Fully general formulae
+for these terms are obtained by combining arguments of dimensional analysis "scale changes# and regularity
+properties "continuity\ di}erentiability# of the stresses at a _xed\ given point with respect to d for d 9
+derived from the Bueckner Rice weight function theory[ This notably allows to extend the Cotterell Rice
+criterion for stable rectilinear propagation of a mode I crack under plane strain conditions to the three!
+dimensional case[ As an application\ a penny!shaped crack induced by hydraulic fracturing is considered[
+Conclusions concerning the in~uence of the orientation and depth of such a crack upon the stability of its
+coplanar propagation seem to be compatible with experimental evidence[   0887 Elsevier Science Ltd[ All
+rights reserved[

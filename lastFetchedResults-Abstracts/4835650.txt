@@ -1,0 +1,1 @@
+In this paper we present a new distributed architecture aimed to teleoperate a robot over Internet. The long term objective of the system design is to give the possibility for students to have remote experimentation. The main features of the proposed work concern the adaptation of the control strategy, by real time evaluation of quality of service, and experimentation parameters

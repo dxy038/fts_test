@@ -1,0 +1,16 @@
+The integrity of a composite laminate can be greatly affected by an existence of embedded
+interlaminar flaw. In general, identification of such a flaw often requires expensive tools and tedious
+processes. The aim of the present work is to develop a novel method with the aid of an intelligent
+post-processing scheme, thereby not relying on those sophisticated experiments. Essentially the
+proposed procedure utilizes an inverse analysis to estimate unknown delamination parameters from
+limited measurements. The procedure first constructs approximate functions relating the delamination
+parameters to measurement parameters. Then, a multi-dimensional minimization technique is adopted
+to search for the best estimates of unknown parameters corresponding to the lowest value of error
+objective function. In the present verification and simulation analyses, surface strains at discrete locations
+on a composite laminate under three-point bending are selected as the input measurements.
+Although reasonable estimates are obtained with these measurements, to increase their accuracy, the
+deflection at load point is also included as measurement input. Additional improvements are observed
+when those measurements under multiple loading conditions are included. A detailed error sensitivity
+analysis is also carried out to confirm the method’s robustness. These results suggest the current
+method to be one of the alternate identification approaches for detecting a single embedded delamination
+in composite laminates.

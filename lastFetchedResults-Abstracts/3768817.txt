@@ -1,0 +1,1 @@
+A new way of implementing the variable-length shift-register function is presented. It utilizes two bidirectional shift registers of length N/2 where N is the maximum length anticipated for any input string.

@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma, a plasma cell malignancy, is predominantly localized in the bone marrow. These tumoral cells display a heterogeneous expression of CD45. It is, however, unclear which subpopulation is responsible for the homing and outgrowth of the myeloma cells. In this work, we investigated the in vivo homing, proliferation, and differentiation of both CD45+ and CD45− cells in two murine myeloma models.
+Materials and Methods
+
+5T2MM and 5T33MM in vivo lines of murine multiple myeloma were used. CD45 and IGF-I receptor expression was analyzed by FACS. Proliferative capacity was assessed by in vivo bromodeoxyuridine incorporation. 5TMM cells were separated into CD45+ and CD45− fractions by MACS. Initial homing was investigated in vivo by tracing of radioactively labeled cells. Myeloma cells were detected by FACS and histology. Osteolytic lesions were analyzed by radiography.
+Results
+
+Both CD45+ and CD45− 5TMM cells were able to home to the bone marrow, although the migration of the latter subset was lower, which was related to a low IGF-I receptor expression. Recipients of both fractions developed myeloma as evidenced by the presence of serum paraprotein, osteolytic lesions, and bone marrow infiltration by myeloma cells. The tumor load in the recipients of CD45− cells was higher than the CD45+ cells, which could be explained by a lower proliferation rate of the latter population. While the separated cells before injection had a homogenous expression of CD45, cells isolated from the bone marrow of these terminally diseased mice had a heterogeneous expression pattern, indicating an in vivo differentiation pattern of CD45− to CD45+ cells and vice versa.
+Conclusion
+
+We conclude that both CD45+ and CD45− 5TMM subpopulations contain clonogenic myeloma cells with bone marrow homing and proliferative capacity.

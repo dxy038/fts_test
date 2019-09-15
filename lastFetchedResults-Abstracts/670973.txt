@@ -1,0 +1,15 @@
+A thermodynamic model is used to predict the sea surface temperature  SST. anomalies in the Gulf of Mexico for
+extended periods as long as 3 months and for seasonal prediction. The basic equation of the model is the thermodynamic
+energy equation applied to the upper mixed layer of the ocean, which includes the horizontal transport of heat by mean
+ocean currents and by eddy turbulence, as well as heating by short and long-wave radiation, evaporation and sensible heat
+given off to the atmosphere.
+An objective verification of the skill of the predictions is presented for the period from March 1986 to February 1987.
+As an initial condition for the first month of the prediction we used the observed SST anomalies in the previous month,
+and for the second and third month we used the predicted monthly value in the previous corresponding month.
+Regarding the atmospheric interaction, the results show that the initial atmospheric forcing, which consists of the
+observed anomalies of surface air temperature and the surface wind in the month previous to the first month of the
+prediction, plays an important role in the prediction.
+The skill of the model is increased in the semi-prediction where we use, as atmospheric forcing, the surface air
+temperature anomalies and the surface wind anomalies for the current month instead of those belonging at the previous
+month to the first month of prediction. This result suggests that a coupled model in which were predicted simultaneously the
+ocean temperature and the atmospheric variables would improve the predictions of the SST anomalies

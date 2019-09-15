@@ -1,0 +1,26 @@
+The objective of this study was to fit a hydrothermal
+germination model to germination data for a seedlot of
+radiata pine (Pinus radiata D. Don). Seeds were
+incubated for 50 d at constant temperatures and water
+potentials (T ¼ 12.5–32.58C,C ¼ 0 to 21.2MPa). Most
+seeds completed germination within 50 d, but for low C
+and/or non-optimal temperatures (T , 17.58C,
+T . 258C) many seeds did not complete germination.
+In general, germination data conformed to the hydrothermal
+model. Departures from the model were
+encountered for slow-germinating seeds at suboptimal
+temperatures (T # 208C). To account for these departures,
+two alternative hydrothermal models were fitted
+with an additional term for an upwards shift in seed base
+water potential with increasing time to germination. The
+alternativemodelsmore correctly predicted germination
+time than the original model. Similarly, reduced
+percentage germination at supra-optimal temperatures
+(T . 208C) was explained by including a term in the
+hydrothermal model which shifted the base water
+potential of seeds upwards towards zero, which in turn
+reduced the predicted rate that hydrothermal time
+would be accumulated by seeds. The rate of this
+upwards shift in base water potential was dependent on
+time to complete germination and ambient water
+potential as well as supra-optimal temperature.

@@ -1,0 +1,1 @@
+Power amplifiers are used extensively in many TV signal transmissions with an important requirement of exceptional linearity. One efficient approach can be reached by introducing digital predistortion techniques. In this paper, we present a simple and efficient way to perform this objective.

@@ -1,0 +1,13 @@
+The objective of this research study is to assess the capability of time-series of MODIS imagery to provide information suitable for enhancing the understanding of the temporal cycles shown by the abnormal growth of the floating macrophytes in order to support monitoring and management action of Lake Victoria water resources.
+
+oliferation of invasive plants and aquatic weeds is of growing concern. Starting from 1989, Lake Victoria has been interested by the high infestation of water hyacinth with significant socio-economic impact on riparian populations.
+
+s paper, we describe an approach based on the time-series of MODIS to derive the temporal behaviour, the abundance and distribution of the floating macrophytes in the Winam Gulf (Kenyan portion of the Lake Victoria) and its possible links to the concentrations of the main water constituencies.
+
+s end, we consider the NDVI values computed from the MODIS imagery time-series from 2000 to 2009 to identify the floating macrophytes cover and an appropriate bio-optical model to retrieve, by means of an inverse procedure, the concentrations of chlorophyll a, coloured dissolved organic matter and total suspended solid.
+
+ps of the floating vegetation based on the NDVI values allow us to assess the spatial and temporal dynamics of the weeds with high time resolution.
+
+ting vegetation index (FVI) has been introduced for describing the weeds pollution level.
+
+sults of the analysis show a consistent temporal relation between the water constituent concentrations within the Winam Gulf and the FVI, especially in the proximity of the greatest proliferation of floating vegetation in the last 10 years that occurred between the second half of 2006 and the first half of 2007.The adopted approach will be useful to implement an automatic system for monitoring and predicting the floating macrophytes proliferation in Lake Victoria.

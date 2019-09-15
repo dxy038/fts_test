@@ -1,0 +1,11 @@
+Objective
+To evaluate the ability of the Framingham risk function to predict the 10-year coronary heart disease (CHD) risk in French men.
+Methods
+
+3440 men, aged 45 to 60years, free of CHD at baseline, were selected from the SU.VI.MAX cohort. The expected number of event, obtained from applying the Framingham risk score to the baseline SU.VI.MAX biological and clinical data of 1994/1996, were compared to the actual risks observed in the cohort. The accuracy of the Framingham risk function was assessed using the area under the receiver operating characteristic (ROC) curve.
+Results
+
+The overall Framingham risk function predicted twice as many CHD events than observed. The area under the ROC curve for Framingham risk score was 74%.
+Conclusion
+
+The Framingham risk function may discriminate between high risk from low risk subjects, but it is not valid for estimating absolute 10-year CHD risk in this French population.

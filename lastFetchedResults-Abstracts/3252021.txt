@@ -1,0 +1,1 @@
+A middle point discrete version of simultaneous perturbation stochastic approximation (DSPSA) algorithm was previously introduced to solve the discrete stochastic optimization problem. We consider the rate of convergence of DSPSA in this paper. This rate will allow for objective comparisons with other discrete stochastic optimization methods.

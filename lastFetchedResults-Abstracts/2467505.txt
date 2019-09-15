@@ -1,0 +1,10 @@
+AbstractContext
+re ecosystems are increasingly popular for their economic, strategic, and technical advantages. Application platforms such as Android or iOS allow users to highly customize a system by selecting desired functionality from a large variety of assets. This customization is achieved using variability mechanisms.
+ive
+ility mechanisms are well-researched in the context of software product lines. Although software ecosystems are often seen as conceptual successors, the technology that sustains their success and growth is much less understood. Our objective is to improve empirical understanding of variability mechanisms used in successful software ecosystems.
+
+lyze five ecosystems, ranging from the Linux kernel through Eclipse to Android. A qualitative analysis identifies and characterizes variability mechanisms together with their organizational context. This analysis leads to a conceptual framework that unifies ecosystem-specific aspects using a common terminology. A quantitative analysis investigates scales, growth rates, and—most importantly—dependency structures of the ecosystems.
+s
+ the studied ecosystems, we identify rich dependency languages and variability descriptions that declare many direct and indirect dependencies. Indirect dependencies to abstract capabilities, as opposed to concrete variability units, are used predominantly in fast-growing ecosystems. We also find that variability models—while providing system-wide abstractions over code—work best in centralized variability management and are, thus, absent in ecosystems with large free markets. These latter ecosystems tend to emphasize maintaining capabilities and common vocabularies, dynamic discovery, and binding with strong encapsulation of contributions, together with uniform distribution channels.
+sion
+e of specialized mechanisms in software ecosystems with large free markets, as opposed to software product lines, calls for recognition of a new discipline—variability encouragement.

@@ -1,0 +1,1 @@
+We describe an algorithm for solving a single machine scheduling problem with additional assumptions motivated by magnetic resonance imaging (MRI) systems. In the operating model, the temperature dynamics is involved and the objective is to minimize the total production time.

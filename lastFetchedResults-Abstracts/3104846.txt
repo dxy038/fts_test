@@ -1,0 +1,1 @@
+This paper proposes a novel bidirectional AC-AC converter based on the Z-source concept. This converter can provide bidirectional power flow. It has symmetrical circuit structure, and can reduce in-rush and harmonic current, provide larger range of output AC voltage and improve reliability. Simulation results verify the validity of the proposed converter.

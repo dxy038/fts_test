@@ -1,0 +1,11 @@
+Objective
+To investigate the presence of EEG abnormalities in frontotemporal lobar degeneration (FTLD) in comparison with Alzheimer’s disease (AD) and non-demented individuals with subjective memory complaints (SMC), using an elaborated visual EEG rating scale; furthermore, to investigate whether assessment of resting-state functional connectivity of the EEG is superior to visual evaluation in distinguishing between FTLD, AD and non-demented controls.
+Methods
+EEGs of 15 patients with FTLD, 20 with AD and 23 individuals with SMC were visually compared using the Grand Total EEG (GTE) score. The synchronization likelihood (SL) as a measure of functional connectivity between different EEG channels was calculated for the 0.5–4 Hz, 4–8 Hz, 8–10 Hz, 10–13 Hz, 13–30 Hz and 30–45 Hz frequency bands. Patients had mild to moderate dementia.
+Results
+In AD, as expected, the GTE revealed significant differences from FTLD and SMC, indicating more EEG slowing and loss of reactivity. Patients with FTLD, however, could not be discriminated from individuals with SMC by the GTE score. Analysis of resting-state functional connectivity showed decreased SL in AD compared to both FTLD and SMC in the lower and higher alpha frequency band and decreased SL in AD compared to SMC in the beta frequency band, whereas no differences between FTLD and AD or SMC were found.
+Conclusions
+In patients with mild to moderate FTLD both the visually rated EEG and EEG measures of resting-state functional connectivity are normal.
+Significance
+Although widespread neuronal degeneration takes place in frontotemporal lobar degeneration, this is not reflected in the EEG during the mild to moderate stages of the disease. An abnormal EEG in a mildly demented subject favours a diagnosis of AD.
+

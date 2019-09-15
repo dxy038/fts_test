@@ -1,0 +1,11 @@
+Objective
+Allogeneic stem cell transplantation is a potentially curative therapy for patients with multiple myeloma. Polyclonal antithymocyte globulins (ATG) or monoclonal anti-CD52 (Alemtuzumab) are included in conditioning regimens to enhance engraftment and reduce risk of severe graft-vs-host disease. Because both agents have been reported to induce depletion of B cells, we sought to investigate their cytotoxic activity on myeloma cells.
+Materials and Methods
+
+Complement-mediated and complement-independent activity of ATG-Fresenius and Alemtuzumab was investigated on four myeloma cell lines (RPMI-8226, U266, KMS-12-BM, and EJM) and bone marrow samples from six myeloma patients. Cytotoxicity was determined by staining with annexin V-fluorescein isothiocyanate and 7-amino-actinomycin D followed by flow cytometry.
+Results
+
+ATG at a concentration of 500 μg mL−1 induced up to 100% and 85% complement-dependent killing of myeloma cell lines and primary myeloma samples respectively. In the absence of complement ATG still could induce up to 50% and 80% apoptosis in myeloma cell lines and primary myeloma samples, respectively. Preincubation of myeloma cells with a general caspase inhibitor abrogated ATG-induced complement-independent cell death. Alemtuzumab-mediated myeloma cytotoxicity was only observed in KMS-12-BM cells, and in none of the patient samples.
+Conclusion
+
+ATG induces marked cytotoxic activity both in myeloma cell lines and in primary myeloma samples. Further elucidation of antibodies and antigens involved may pave the way for antibody-based myeloma therapy.

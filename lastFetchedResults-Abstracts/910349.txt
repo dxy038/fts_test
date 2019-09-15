@@ -1,0 +1,8 @@
+Integrated modelling of the urban wastewater system has received increasing attention in recent years and it has been clearly demonstrated, at
+least at a theoretical level, that system performance can be enhanced through optimized, integrated control. However, most research to date has
+focused on simple, single objective control. This paper proposes consideration of multiple objectives to more readily tackle complex real world
+situations. The water quality indicators of the receiving water are considered as control objectives directly, rather than by reference to surrogate
+criteria in the sewer system or treatment plant. A powerful multi-objective optimization genetic algorithm, NSGA II, is used to derive the Pareto
+optimal solutions, which can illustrate the whole trade-off relationships between objectives. A case study is used to demonstrate the benefits of
+multiple objective control and a significant improvement in each of the objectives can be observed in comparison with a conventional base case
+scenario. The simulation results also show the effectiveness of NSGA II for the integrated urban wastewater system despite its complexity.

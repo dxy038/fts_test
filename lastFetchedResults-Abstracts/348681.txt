@@ -1,0 +1,11 @@
+Objective
+The P300 event-related brain potential (ERP) was elicited using a visual three-stimulus oddball paradigm (standard 0.70, target 0.15, non-target 0.15) to examine how target/standard stimulus context affects non-target processing.
+Methods
+Target/standard discrimination difficulty (easy or difficult) and non-target /target similarity (similar or dissimilar) were manipulated orthogonally. Participants (N = 13) were instructed to respond to each infrequent target stimulus by pressing a button.
+Results
+Target stimuli in all task conditions elicited P3b, which was affected only by the difficulty of target/standard discrimination. When target/standard discrimination was easy, the amplitude of non-target P3 was larger for similar than for dissimilar non-target. In contrast, when target/standard discrimination was difficult, non-target stimuli elicited P3a, the amplitude of which was larger for dissimilar than for similar non-target. Thus, the P300 component for non-target stimuli and the pattern of the effect of target similarity on each P300 component varied as a function of the target/standard stimulus context.
+Conclusions
+The target/standard stimulus context influences the attentional set for stimulus processing such that it determines whether non-target stimuli are processed as task-relevant or distractor information.
+Significance
+The present results are important for understanding the mechanism of cognitive modification in non-target processing.
+

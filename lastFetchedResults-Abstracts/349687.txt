@@ -1,0 +1,11 @@
+Objective
+To elucidate the differences in temporal processing between positive and negative facial expressions by using event-related potentials (ERPs) with spatially filtered images.
+Methods
+Based on the traits of parallel visual pathways, four types of facial expression images (happiness, fear, anger and neutral) with low, high and broadband spatial frequencies (LSF, HSF and BSF, respectively) were carefully created with the consideration of luminance, contrast and emotional intensity. These images were pseudo-randomly presented to 13 healthy subjects to record ERPs. Twenty recording electrodes were placed over the scalp according to the International 10–20 system. For emotion-relevant late negative components with latencies of 190–390 ms, the amplitude differences among the four facial expressions were analyzed for sequential 20-ms time windows by ANOVA.
+Results
+There were significant amplitude differences between positive and negative LSF facial expressions in the early time windows of 270–310 ms at the occipitotemporal region. Subsequently, the amplitudes among negative HSF facial expressions differed significantly in the later time windows of 330–390 ms.
+Conclusions
+Discrimination between positive and negative facial expressions precedes discrimination among different negative expressions in a sequential manner based on parallel visual channels.
+Significance
+ERPs with spatially filtered images have provided the first evidence for sequential discrimination of positive and negative facial expressions.
+

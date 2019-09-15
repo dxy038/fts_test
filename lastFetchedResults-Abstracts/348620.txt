@@ -1,0 +1,11 @@
+Objective
+The main aim was to track the dynamics of pattern-learning using single-trial event-related potentials (ERPs). A new ‘learning-oddball’ paradigm was employed presenting eight random targets (the ‘no-pattern’) followed by eight regular targets (the ‘pattern’). In total, six repetitions of the ‘no-pattern’ followed by the ‘pattern’ were presented.
+Methods
+We traced the dynamics of learning by measuring responses to 16 (eight random–eight regular) targets. Since this alternation of the ‘no-pattern’ followed by the ‘pattern’ was repeated six times, we extracted single-trial responses to all 96 targets to determine if learning occurred more rapidly with each repetition of the ‘pattern.’
+Results
+Following random targets, ERPs contained a marked P3–N2 component that decreased to regular targets, whereas a contingent negative variation (CNV) appeared. ERP changes could be best described by sigmoid ‘learning’ curves. Single-trial analyses showed that learning occurred more rapidly over repetitions and suggested that the CNV developed prior to the decay of the N2-P3 component.
+Conclusions
+We show a new paradigm-analysis methodology to track learning processes directly from brain signals.
+Significance
+Single-trial ERPs analyses open a wide range of applications. Tracking the dynamic structure of cognitive functions may prove crucial in the understanding of learning and in the study of different pathologies.
+

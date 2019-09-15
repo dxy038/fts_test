@@ -1,0 +1,1 @@
+The primary objective of this paper is to investigate three distinct solutions to stabilize performance of a mechanical load that has resonance. In this case, the load inertia varies from 0.25 PU to 2.0 PU of the motor inertia.

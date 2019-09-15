@@ -1,0 +1,8 @@
+In this paper we investigate a vector optimization problem (P) where objective and constraints
+are given by set-valued maps. We show that by mean of marginal functions and suitable scalarizing
+functions one can characterize certain solutions of (P) as solutions of a scalar optimization problem
+(SP) with single-valued objective and constraint functions. Then applying some classical or recent
+results in optimization theory to (SP) and using estimates of subdifferentials of marginal functions,
+we obtain optimality conditions for (P) expressed in terms of Lagrange or sequential Lagrange multipliers
+associated with various coderivatives of the set-valued data.
+ 2005 Elsevier Inc. All rights reserved.

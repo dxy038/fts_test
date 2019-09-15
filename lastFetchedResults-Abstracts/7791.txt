@@ -1,0 +1,1 @@
+In this paper we analyze nine different location models when demand points are partitioned into groups and each group defines an individual term in the definition of the objective function. We find the set of all possible optimal locations for these problems. The multiple facility case is solved using tabu search and simulated annealing metaheuristics.

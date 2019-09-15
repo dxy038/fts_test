@@ -1,0 +1,8 @@
+Summary
+in objective of this study was to identify the best predictors for student achievements (Undergraduate Grade Point Average (UGPA)) in their first year in an undergraduate nursing programme.
+
+ere acquired from the Tracking Project database which is held by the Faculty of Medical and Health Sciences at the University of Auckland. The data (n = 134) included information on student demographics, final year secondary school achievements (National Certificate of Educational Achievement Grade Point Average (NCEAGPA) &amp; NCEA Credits), university admission ranking scores, and achievements in first year in the undergraduate nursing programme (UGPA). Linear regression models were used to identify the best predictors for first year students' UGPA in the nursing programme.
+
+gression models suggest that the best predictor for the first year GPA is the NCEAGPA (beta = .488; R2(for the entire model) = .53), followed by the admission ranking scores (beta = .308; R2 = .40).
+
+on these findings, it is suggested that a Dual Admission Model (DAM) be utilised whereby students could be admitted either by the current university admission criteria or by an alternative model, which is purely based on the predictability of achievement within the nursing programme. Application of the DAM to other institutions/countries was discussed.

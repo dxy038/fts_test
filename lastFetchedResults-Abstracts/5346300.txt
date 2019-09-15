@@ -1,0 +1,1 @@
+A bidirectional Viterbi decoding algorithm for framed information with repeat request which is an extended version of the Yamamoto-Itoh scheme (1980) is presented. A method to estimate the unreliable region in a received frame using the proposed algorithm is also presented

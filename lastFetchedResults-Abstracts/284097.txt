@@ -1,0 +1,14 @@
+Objectives
+The objective of this study was to test the hypothesis that the severity of left ventricular remodeling predicts the response to treatment and outcomes in chronic heart failure.
+Background
+
+Reversal of remodeling should produce the most favorable outcome in patients with the most severe remodeling.
+Methods
+
+In 5,010 heart failure patients on background therapy and randomized to valsartan and placebo, serial recordings of left ventricular internal diastolic diameter (LVIDd) and ejection fraction (EF) were read at sites that had to meet qualifying standards before participating. Baseline LVIDd and EF were pooled across treatments and retrospectively grouped by quartiles Q1 to Q4, representing best to worst. Kaplan-Meier survival curves were obtained by the log-rank test. Q1 was compared with Q4 for mortality and combined mortality and morbidity (M + M) from Cox regression risk ratios (RRs). Valsartan versus placebo changes from baseline in LVIDd and EF were analyzed by quartiles from analysis of covariance. Valsartan and placebo were compared by RRs for M + M.
+Results
+
+Survival rates were greater in the better quartiles for LVIDd and EF (p < 0.00001). The RR for Q1 versus Q4 in events approached 0.5 for both LVIDd and EF (p < 0.0001). An LVIDd decrease and EF increase were quartile-dependent and greater with valsartan than placebo at virtually all time points. The RR for M + M outcomes favored valsartan in the worse quartiles.
+Conclusions
+
+Stratification by baseline severity of remodeling showed that patients with worse LVIDd and EF are at highest risk for an event, yet appear to gain the most anti-remodeling effect and clinical benefit with valsartan treatment.

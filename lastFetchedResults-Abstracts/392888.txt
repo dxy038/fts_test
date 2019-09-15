@@ -1,0 +1,9 @@
+Objective
+Patients of laryngeal cancer who have undergone the surgical removal of the entire larynx suffer the loss of phonation. Electrolarynx (EL) speech is the most commonly adopted alaryngeal phonation. However, EL speech is notorious of the sound quality being monotonic and robotic with the lack of pitch control and the presence of the radiated noise. This paper provides a review of modalities in EL speech as well as introducing the technologies to control the pitch and reduce the noise of the device.
+Methods
+Improvements of EL speech quality have been divided into two parts: improving the sound quality of EL device by applying different enhancement algorithms to reduce the radiated and the additive noise, and implementing pitch-control function to the EL with advanced technology.
+Results
+Adaptive filtering and the subtractive-type algorithms have shown to be able to reduce the noise level associated with EL speech. And more mature technologies are showing promise to the making of a hand-free EL system producing more accurate and synchronized pitch and voice onset control.
+Conclusion
+The advent of micro-technology and human-machine integration promisingly improves EL speech quality and more efficient algorithms enhance EL sound quality. Such improvements apparently improve the intelligibility of EL speech, and thus better quality of life of the EL speakers
+

@@ -1,0 +1,17 @@
+In the semi-arid Amudarya delta region (Aral Sea Basin) the human-controlled hydrological regime is a major factor influencing
+ecosystem dynamics. Alterations to the flow of the Amudarya River, mainly to serve the needs of irrigated agriculture during Soviet
+times, have caused severe environmental degradation. Since independence, the former Soviet Union states of the basin are searching
+for new, ecologically sound, water management strategies to mitigate the damages to economy, human populations and ecosystems.
+To assist in the evaluation of tradeoffs in water allocation and the determination of restoration goals, we created a simple water
+management model for the Amudarya River and its delta region with the modeling system EPIC (originally developed by the
+USAID project ‘Environmental Policies and Institutions for Central Asia’). The water management model determines optimal water
+allocation in the irrigation network by multi-objective optimization in monthly time steps. Water management alternatives can be
+developed for a time period of up to 15 years based on changing requirements of the water users (e.g. as a result of increased water
+use efficiency in agriculture), inflow to the delta (e.g. increase in water use upstream), priorities of the optimization criteria (e.g.
+reflecting policy decisions) or introducing minimum flow requirements to selected canals. Historic salt dynamics of the Tyuyamuyun
+reservoir system at the entrance to the Amudarya delta were investigated and EPIC was extended to treat such multi-body reservoir
+systems. The model was calibrated and tested using a high water (1994) and a low water (1997) year. Modeled water allocation takes
+place in accordance with observational data. The model reacts well to changes in allocation priorities given by the user. Application
+of the model to a 14-year characteristic time period was successful. The model constitutes a main module of an integrated GIS-based
+simulation tool that facilitates the evaluation of the ecological effects of alternative water management strategies in the Northern
+Amudarya delta.

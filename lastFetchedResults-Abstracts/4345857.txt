@@ -1,0 +1,1 @@
+This paper proposes a distributed approach for multiple-targets tracking in a visual sensor network. A geometric structure of asymmetric Voronoi diagram is constructed to make the approach be applicable to those visual sensors that sensing distances are different. The objective of the proposed approach is to improve target tracking results of a visual sensor network.

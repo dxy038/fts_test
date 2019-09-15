@@ -1,0 +1,26 @@
+Striving to maximize baseline (Joint Photographers
+Expert Group—JPEG) image quality without compromising
+compatibility of current JPEG decoders, we develop an imageadaptive
+JPEG encoding algorithm that jointly optimizes
+quantizer selection, coefficient “thresholding,” and Huffman
+coding within a rate-distortion (R-D) framework. Practically
+speaking, our algorithm unifies two previous approaches to
+image-adaptive JPEG encoding: R-D optimized quantizer
+selection and R-D optimal thresholding. Conceptually speaking,
+our algorithm is a logical consequence of entropy-constrained
+vector quantization (ECVQ) design principles in the severely
+constrained instance of JPEG-compatible encoding. We explore
+both viewpoints: the practical, to concretely derive our
+algorithm, and the conceptual, to justify the claim that our
+algorithm approaches the best performance that a JPEG encoder
+can achieve. This performance includes significant objective peak
+signal-to-noise ratio (PSNR) improvement over previous work
+and at high rates gives results comparable to state-of-the-art
+image coders. For example, coding the Lenna image at 1.0
+b/pixel, our JPEG encoder achieves a PSNR performance of 39.6
+dB that slightly exceeds the quoted PSNR results of Shapiro’s
+wavelet-based zero-tree coder. Using a visually based distortion
+metric, we can achieve noticeable subjective improvement as
+well. Furthermore, our algorithm may be applied to other
+systems that use run-length encoding, including intraframe
+MPEG and subband or wavelet coding.

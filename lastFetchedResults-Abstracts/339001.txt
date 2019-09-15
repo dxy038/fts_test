@@ -1,0 +1,11 @@
+Objective
+In this study, a serum-free, stroma-free, and chemically defined medium for hematopoietic stem cell (HSC) expansion was systematically developed and optimized using factorial design and the steepest ascent method.
+Materials and methods
+
+Mononuclear cells (MNCs) were isolated from umbilical cord blood (UCB). HSCs were stimulated to proliferate ex vivo in the MNC culture system with variable serum substitutes, cytokines, and basal media according to experimental design. The expanded cells were assessed for cellular characteristics by surface antigen analysis, colony-forming cell assay (CFC assay), and long-term culture-initiating cell assay (LTC-IC assay).
+Results
+
+The optimal compositions of serum substitutes and the cytokine cocktail for HSC expansion in the MNC culture system were BIT (4 g/L BSA, 0.71 μg/mL insulin, and 27.81 μg/mL transferrin), and CC-9 (5.53 ng/mL TPO, 2.03 ng/mL IL-3, 16 ng/mL SCF, 4.43 ng/mL FL, 2.36 ng/mL IL-6, 1.91 ng/mL G-CSF, 1.56 ng/mL GM-CSF, 2.64 ng/mL SCGF, and 0.69 ng/mL IL-11) in the Iscove's modified Dulbecco's medium. After 6-day culture, the absolute fold expansions for white blood cells, CD34+ cells, CD34+CD38− cells, CFC, and LTC-IC were 1.4-, 30.4-, 63.9-, 10.7-, 2.8-fold, respectively.
+Conclusion
+
+Using the statistic methodology to develop HSC medium, our formula had lower cytokine concentrations comparing to other literatures and commercial media, but had superior or comparable expansion ability on HSC growth.

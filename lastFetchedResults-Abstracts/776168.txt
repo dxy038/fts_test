@@ -1,0 +1,9 @@
+This paper presents the conceptual design of the first solar power plant using Direct Steam Generation (DSG) in a
+parabolic-trough solar field. Experience and know-how in the DSG process acquired during the DISS project were
+applied in designing the solar field of this plant. The 5-MWe plant is composed of a DSG parabolic-trough solar field
+connected to a superheated steam Rankine power cycle. The solar field produces 410  C/70-bar superheated steam.
+Detail engineering of this plant is currently underway within the framework of the INDITEP project, which is promoted
+by a German-Spanish consortium with the financial support of the European Commission (Contract No.
+ENK5-CT-2001-00540). The main design objective is to assure high operational flexibility and reliability. This is the
+reason why a robust superheated steam turbine has been selected, though the efficiency of its power block is modest.
+  2005 Elsevier Ltd. All rights reserved

@@ -1,0 +1,14 @@
+Objective: Amino acid alignment analysis of deduced amino acid residues revealed a tripeptide
+(SKI) at the carboxy terminus of peroxisomal protein eDNA. In order to see the importance
+of the above sorting signal, we have performed a site-directed mutagenesis to delete
+SKI tripeptide and its transfection into CHO-K1 and P19 cells .
+Materials and Methods: In order to create the appropriate site-directed mutant, PCR was
+done with specific primers. Amplified PeP cDNAs either containing SKI or deleted ones were
+constructed downstream of EGFP eDNA under regulation of the cytomegalovirus (CMV)
+promoter in a pEGFP-C1 vector. Transfection of P19 and CHO cells was done with lipofectamine2000.
+Results: Gradient PCR showed that the best annealing temperature was 71.6 "C. Transfection
+of plasmids containing chimera of EGFP-PEP cDNAs into the CHO-K1 and P19 cells
+showed several punctuate structures, presumably peroxisomes, while SKI deletion showed
+a cytosolic mislocalization of the EGFP pattern.
+Conclusion: Taken together, these data strongly suggest that SKI, which is located at the
+C- terminus of the protein, is required for sorting this protein

@@ -1,0 +1,15 @@
+Using a Representative volume element (RVE) to represent the microstructure of periodic composite
+materials, this paper develops a non-linear numerical technique to calculate the macroscopic shakedown
+domains of composites subjected to cyclic loads. The shakedown analysis is performed using homogenization
+theory and the displacement-based finite element method. With the aid of homogenization
+theory, the classical kinematic shakedown theorem is generalized to incorporate the microstructure of
+composites. Using an associated flow rule, the plastic dissipation power for an ellipsoid yield criterion
+is expressed in terms of the kinematically admissible velocity. By means of non-linear mathematical
+programming techniques, a finite element formulation of kinematic shakedown analysis is then developed
+leading to a non-linear mathematical programming problem subject to only a small number of
+equality constraints. The objective function corresponds to the plastic dissipation power which is to be
+minimized and an upper bound to the shakedown load of a composite is then obtained. An effective,
+direct iterative algorithm is proposed to solve the non-linear programming problem. The effectiveness
+and efficiency of the proposed numerical method have been validated by several numerical examples.
+This can serve as a useful numerical tool for developing engineering design methods involving
+composite materials

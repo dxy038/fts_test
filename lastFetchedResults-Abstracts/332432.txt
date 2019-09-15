@@ -1,0 +1,11 @@
+Objective
+To evaluate the accuracy of stone dies produced from impressions with polyether impression materials and a vinyl polysiloxane reference material after prolonged storage at 0, 50, or 100% relative humidity.
+Methods
+
+Impressions were taken with light and heavy-bodied types of the polyethers P2 (P2L/H; Heraeus Kulzer) and Impregum (IML/H; 3M ESPE) and vinyl polysiloxane Flexitime (FLL/H; Heraeus Kulzer) from a truncated steel master cone in cylindrical trays giving 4 mm layer thickness at the prominence line. Impressions were taken at 23 °C, and stone dies were poured after 1, 2, 3, 4, or 5 days storage at 23 °C and 0, 50, or 100% RH. Accuracy was determined as discrepancy between a steel ring with accurate fit on the master cone and the stone die and expressed as base diameter deviation Δd (μm). One-way ANOVA and Duncan's post-hoc test were used for statistical data analysis (p<0.05).
+Results
+
+P2L/H showed significant Δd increase (30–240 μm) depending on storage time and humidity (p<0.05). Dies from IML/H at 0% RH were 90 through 180 μm enlarged, at 50% RH the maximum diameter increase was 60 μm, and at storage in 100% RH all dies were 25–120 μm smaller (p<0.05). Dies from FLL/H showed maximum Δd deviations (55 to −10 μm).
+Conclusions
+
+P2 impressions release volatile substances during storage and should preferably be poured within less than 24 h. Impregum absorbs water and should be stored at <50% humidity. The accuracy of Flexitime is scarcely affected by storage time or by ambient humidity.

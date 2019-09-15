@@ -1,0 +1,1 @@
+Considers the (1-block) l<sub>1</sub>-optimal control problem from the viewpoint of deadbeat control of the objective function, and shows that the minimum-time deadbeat controller (MTDC) gives a certain suboptimal solution. It is also shown by an example that MTDC can give an optimal solution in some cases

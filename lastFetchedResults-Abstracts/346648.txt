@@ -1,0 +1,5 @@
+Objective: We have used EEG to measure effects of air- and bone-conducted sound from the coil in transcranial magnetic stimulation (TMS).
+Methods: Auditory-evoked potentials to TMS were recorded in three different experimental conditions: (1) the coil 2 cm above the head, (2) the coil 2 cm above the head but rigidly connected by a plastic piece to the scalp, (3) the coil pressed against the scalp over the motor cortex.
+Results: The acoustical click from the TMS coil evoked large auditory potentials, whose amplitude depended critically on the mechanical contact of the coil with the head.
+Conclusion: Both air- and bone-conducted sounds have to be taken into account in the design and interpretation of TMS experiments.
+

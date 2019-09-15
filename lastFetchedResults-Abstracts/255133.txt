@@ -1,0 +1,10 @@
+In this paper the installation and long-term operation of a system for continuous monitoring of
+fumarolic gases is described. Several physicochemical and gas-geochemical parameters such as the
+concentration of CO2, H2S and CO in the fumarolic emissions, as well as the temperatures of the hydrothermal
+steam and soil in close vicinity of the fumarole and steam pressure are measured in short-time intervals
+(typically 15 seconds). Data are logged on-site and in parallel transferred to a remote station by digital
+telemetry. Specially developed software enables the real-time observation of the local conditions in the crater
+and full bidirectional control of the monitoring system. Fluctuations in the monitored parameters are also
+reported. From the data presented it can be concluded that environmental conditions (direction and strength of
+wind, precipitation) will interact with some of the parameters monitored. These influences can only be revealed
+by continuously operated monitoring systems.

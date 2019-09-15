@@ -1,0 +1,8 @@
+In this paper we propose a derivative-free optimization algorithm based on conditional moments for
+finding the maximizer of an objective function. The proposed algorithm does not require calculation or
+approximation of any order derivative of the objective function. The step size in iteration is determined
+adaptively according to the local geometrical feature of the objective function and a pre-specified quantity
+representing the desired precision. The theoretical properties including convergence of the method are presented.
+Numerical experiments comparing with the Newton, Quasi-Newton and trust region methods are
+given to illustrate the effectiveness of the algorithm.
+© 2006 Elsevier Inc. All rights reserved.

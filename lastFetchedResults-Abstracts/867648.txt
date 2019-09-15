@@ -1,0 +1,11 @@
+This paper deals with a novel line balancing problem for flexible transfer lines composed of identical CNC
+machines. The studied lines are paced and serial, i.e. a part to be machined passes through a sequence of
+workstations. At least one CNC machine is installed at each workstation. The objective is to assign a given
+set of operations required for the machining of the part to a sequence of workstations while minimizing
+the total number of machines used. This problem is subject to precedence, exclusion and inclusion constraints.
+In addition, accessibility has to be considered. Moreover, the workstation workload depends on
+the sequence in which the operations are assigned because of setup times related to the change and displacement
+of tools, rotation of the part, etc. It is a novel line balancing problem, and we highlight its particularities
+by reviewing the close problems existing in the literature. Then, a mathematical model as a
+mixed-integer program is suggested. A procedure for computing ranges for variables is given. Experimental
+computations with ILOG Cplex are reported.

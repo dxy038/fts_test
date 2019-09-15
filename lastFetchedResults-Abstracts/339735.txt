@@ -1,0 +1,8 @@
+Objective
+Src family kinases (SFK) have been implicated in regulating growth factor and integrin-induced proliferation, migration, and gene expression in multiple cell types. However, little is known about the role of these kinases in the growth, homing, and engraftment potential of hematopoietic stem and progenitor cells.
+Results
+
+Here we show that loss of hematopoietic-specific SFKs Hck, Fgr, and Lyn results in increased number of Sca-1+Lin− cells in the bone marrow, which respond differentially to cytokine-induced growth in vitro and manifest a significant defect in the long-term repopulating potential in vivo. Interestingly, a significant increase in expression of adhesion molecules, known to coincide with the homing potential of wild-type bone marrow cells is also observed on the surface of SFK−/− cells, although, this increase did not affect the homing potential of more primitive Lin−Sca-1+ SFK−/− cells. The stem cell−repopulating defect observed in mice transplanted with SFK−/− bone marrow cells is due to the loss of Lyn Src kinase, because deficiency of Lyn, but not Hck or Fgr, recapitulated the long-term stem cell defect observed in mice transplanted with SFK−/− bone marrow cells.
+Conclusions
+
+Taken together, our results demonstrate an essential role for Lyn kinase in positively regulating the long-term and multilineage engraftment of stem cells, which is distinct from its role in mature B cells and myeloid cells.

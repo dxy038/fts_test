@@ -1,0 +1,16 @@
+For measurements of radiance temperatures in the range from 150◦C
+to 1,000◦C, low uncertainties in the temperature measurements can be achieved by
+using near-infrared InGaAs radiation thermometers. The design and construction of
+the NIST near-infrared radiation thermometer (NIRT) that is optimized for low sizeof-
+source effect (SSE) and noise-equivalent temperatures are described. The NIRT
+utilizes a 50mm diameter achromatic objective lens with low scatter that images a
+4.5mm diameter spot at a distance of 50cm from the objective in an on-axis design. A
+Lyot stop is implemeInted in the design with the aperture stop placed after the field stop
+resulting in a collection f/12. A 3mm diameter InGaAs detector is cooled to −70◦C
+using a four-stage thermoelectric cooler to obtain high-shunt resistance for linear,
+low-noise operation at high transimpedance amplifier gains. For thermal and structural
+stability, the optical components are placed on four, 15mm diameter graphite-epoxy
+rods making the optical throughput stable. Optical ray tracing with a commercial
+program is used to determine the Strehl ratio and other imaging parameters.Apossible
+approach for a detector-based temperature scale in this range which could result in
+10mK (k = 2) thermodynamic temperature uncertainties at the In-point is discussed.

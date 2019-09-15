@@ -1,0 +1,1 @@
+Parallel database systems and MapReduce systems are essential components of today´s infrastructure for Big Data analytics. These systems process multiple concurrent workloads consisting of complex user requests, where each request is associated with an (explicit or implicit) service level objective.

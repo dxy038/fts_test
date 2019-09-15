@@ -1,0 +1,11 @@
+Objective
+The development of megakaryocytes is regulated by thrombopoietin (TPO), which binds to the c-mpl receptor, and by several other cytokines such as interleukin (IL)-6, IL-11, leukemia inhibitory factor (LIF), cilliary neurotropic factor (CNTF), and oncostatin (OSM), which bind to gp130 protein-coupled receptors. We attempted to identify signal transduction pathways activated by these factors in normal human megakaryocytes.
+Materials and Methods
+
+To better understand the role of these factors in normal human megakaryopoiesis we studied their effect on 1) purified human bone marrow–derived CD34+ cells, 2) human αIIbβ3+ cells (shown by immunophenotypical and morphological criteria to be megakaryoblasts), which had been expanded ex vivo from CD34+ cells in chemically defined artificial serum, and 3) gel-filtered human peripheral blood platelets. Further, in an attempt to correlate the influence of these factors on cell proliferation and survival with activation of signal transduction pathways, we evaluated their effect on the phosphorylation of MAPK p42/44 and activation of PI-3K-AKT and JAK-STAT proteins in these various cell types.
+Results
+
+Using serum-free liquid cultures, we found that only TPO and IL-6 protected CD34+ cells and megakaryocytes from undergoing apoptosis (decrease in annexin-V binding, PARP cleavage, and activation of caspase-3). Moreover, only TPO when used alone and IL-6 only when used in combination with TPO, stimulated the growth of human colony-forming unit-megakaryocytes (CFU-Meg) in semisolid serum-free medium. We also observed that while TPO efficiently activated various signaling pathways in CD34+ cells, megakaryocytes, and platelets (MAPK p42/44, PI-3K-AKT, STAT proteins), IL-6 stimulated phosphorylation of STAT-1, -3, and -5 proteins only in CD34+ cells and megakaryoblasts. To our surprise, none of the other gp130 protein-related cytokines tested (IL-11, LIF, CNTF, and OSM) activated these signaling pathways in CD34+ cells, megakaryoblasts, or platelets.
+Conclusions
+
+Our signal transduction studies explain why TPO, by simultaneously activating several signaling pathways, is the most potent megakaryopoietic regulator and why of all five gp130 protein-related cytokines tested, only IL-6, through activation of STAT proteins, plays a role in normal human megakaryopoiesis.

@@ -1,0 +1,11 @@
+Objective
+Fanconi anemia (FA) is a genetically heterogeneous disorder associated with defects in at least eight genes. The biochemical function(s) of the FA proteins are unknown, but together they define the FA pathway, which is involved in cellular responses to DNA damage and in other cellular processes. It is currently unknown whether all FA proteins are involved in controlling a single function or whether some of the FA proteins have additional roles. The aim of this study was 1) to determine whether the FA group A and group C genes have identical or partially distinct functions, and 2) to have a better model for human FA.
+Materials and Methods
+
+We generated mice with a targeted mutation in fanca and crossed them with fancc disrupted animals. Several phenotypes including sensitivity to DNA cross linkers and ionizing radiation, hematopoietic colony growth, and germ cell loss were analyzed in fanca−/−, fancc−/−, fanca/fancc double −/−, and controls.
+Results
+
+Fibroblast cells and hematopoietic precursors from fanca/fancc double-mutant mice were not more sensitive to MMC than those of either single mutant. fanca/fancc double mutants had no evidence for an additive phenotype at the cellular or organismal level.
+Conclusions
+
+These results support a model where both FANCA and FANCC are part of a multi-protein nuclear FA complex with identical function in cellular responses to DNA damage and germ cell survival.

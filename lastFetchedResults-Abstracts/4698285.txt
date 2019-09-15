@@ -1,0 +1,1 @@
+This paper set up a 2SLS framework to estimate and infer GWR-SL model (Geographically Weighted Regression with Spatially Lagged Objective Variable Model). 2SLS estimates can effectively reduce the computational complexity, and solved the unknown error distribution restrictions, expanding the GWR-SL model´s estimation method.

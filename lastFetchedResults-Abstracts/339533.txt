@@ -1,0 +1,11 @@
+Objective
+MicroRNA (miRNA) expression profiling was performed on ex vivo differentiating erythroid cultures derived from human umbilical cord blood (UCB) CD34 cells and K562 cells to identify miRNAs involved in erythropoiesis.
+Materials and Methods
+
+Both cell types were subjected to growth factor cocktails stimulating erythroid differentiation and were harvested for small RNA extraction at regular intervals. miRNAs with at least a 1.5-fold expression increase or decrease compared to unstimulated (day 0) cells were identified by array hybridization. Validity of the expression array was confirmed by quantitative real-time polymerase chain reaction on randomly selected miRNAs.
+Results
+
+Hierarchical clustering analysis and comparison between stimulated UCB-derived CD34 cells and K562 cells revealed miRNAs that are critical for erythroid development and maturation. Correlation analysis on UCB-derived CD34 cells shows that miR-15b, miR-16, miR-22, and miR-185 have strong positive correlation to the appearance of erythroid surface antigens (CD71, CD36, and CD235a) and hemoglobin synthesis, while miR-28 has an inverse relationship to the expression of these markers. Signature miRNAs associated with common myeloid/erythroid progenitor commitment (e.g., miR-181 family, miR-221, miR-154), early erythroid commitment (e.g., miR-32, miR-136, miR-137), and maturation (miR-22, miR-28, miR-185) were also identified by temporal correlation analysis. These miRNAs are predicted to target genes involved in cell development and differentiation.
+Conclusion
+
+Probable signature miRNAs for erythropoiesis are identified. Further experimentations are needed to define the roles of these miRNAs in regulating erythroid commitment.

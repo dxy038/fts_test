@@ -1,0 +1,20 @@
+Background: Accelerated partial breast irradiation via interstitial balloon brachytherapy
+is a fast and effective treatment method for certain early stage breast cancers
+however skin, chest wall and Lung doses are correlated with toxicity in patients treated
+with breast brachytherapy.
+Objective: To investigate the percentage of the dose received by critical organ
+(skin), thermoluminescence detector was used in MammoSite brachytherpy and the
+ability to control skin dose between MammoSite and MultiCatheter brachytherapy was
+compared with each other.
+Method: Dosimetry is carried out using a female-equivalent mathematical chest
+phantom and Ir-192 source for brachytherapy application.
+Results: Our initial results has shown good agreement with surface doses between
+those calculated from the treatment planning results and those measured by the
+thermoluminescence detector. The mean skin dose for the experimental dosimetry in
+MammoSite was 2.3 Gy (56.76% of prescription dose).
+Conclusion: The results show that the MultiCatheter method is associated with
+significantly lower mean skin and chest wall dose than is the MammoSite. The Multi-
+Catheter technique is quite flexible and can be applied to any size of breast or lumpectomy
+cavity, But in MammoSite technique, verification of balloon symmetry, balloon/
+cavity conformance and overlying skin thickness is essential to assure target coverage
+and toxicity avoidance.

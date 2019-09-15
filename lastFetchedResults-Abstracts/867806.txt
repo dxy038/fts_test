@@ -1,0 +1,5 @@
+Liang (2008) [Liang, T. -F. (2008). A note on ‘‘fuzzy multi-objective production/distribution planning decisions
+with multi-product and multi-time period in a supply chain”. Computers & Industrial Engineering, 55,
+676–694] proposed a production/distribution planning model and its solution approach in fuzzy environment.
+However, his mathematical model does not use backordering option. The main purpose of this
+paper is to demonstrate this handicap and propose a valid constraint.

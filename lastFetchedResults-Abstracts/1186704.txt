@@ -1,0 +1,37 @@
+The growing interest in sheet metal stamping processes, particularly in the automotive industry has led to three main issues in this field:
+
+•
+
+    request of very complex shapes;
+•
+
+    growing interest in springback control;
+•
+
+    solution of multi-objective problems.
+
+These issues make a sheet metal stamping processes design very difficult and proper design methodologies to reduce times and costs are highly required.
+
+In this paper, a computer aided approach aiming to satisfy the mentioned issues is proposed. In particular, a progressive design approach based on the integration between numerical simulations, Response Surface Methodology (RSM) and Pareto optimal solutions search techniques was applied in order to design a complex 3D automotive stamping operation. An explicit/forming-implicit/springback approach was utilized to develop the numerical simulations.
+
+The proposed design approach is able to verify the necessity of a spatially differentiated restraining forces approach and to design the best policy for them.
+
+Pareto optimal solutions search techniques were applied in two different phases: the former Pareto frontier was built using an uniform restraining forces policy while the latter, which is the final process design tool, was based on a differentiated restraining forces strategy.
+
+Two different restraining force policies were applied: the former focused on drawbeads utilization, the latter utilized a segmented blankholder.
+
+As the optimization objective functions are concerned, indicators related both to thinning distribution and to springback amount were taken into account.
+
+The obtained Pareto curves can be used in order to discriminate which conditions have to be expected once a desired value of one of the objective functions is fixed.
+
+A new and flexible design methodology is proposed, able to:
+
+•
+
+    deal with complex sheet metal stamping processes;
+•
+
+    investigate many possible technological scenarios;
+•
+
+    carry out a set of reliable solutions able to satisfy different design requirements.

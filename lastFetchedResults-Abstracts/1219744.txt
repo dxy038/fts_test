@@ -1,0 +1,7 @@
+Flow is one of the most important processes that we have to measure and is widely used in industry. Several ultrasonic flow meters have been offered and fulfilled with different degree of success or lack of success. The purposes of this paper are:
+•	To describe the basic principles underlying approaches to fluid flow measurement and use of ultrasonic transducers in flow metering techniques.
+•	To describe the basic principle of operation of the “sing-around” techniques in ultrasonic systems, along with the criticism of disadvantages of ultrasonic methods.
+•	To introduce novel ultrasonic flow metering approach to use two sing-around paths.
+By using two sing-around paths with new arrangement, it is possible to mitigate the draw-backs and limitations inherent in conventional ultrasonic flow metering transducers. Salient features of the proposed systems are that the velocity of single-phase fluid flow is independent of fluid sonic velocity, and is directly proportional to the measured parameters concerned. They are bidirectional in operation, and are readily available as clamp-on flow meters for closed types.
+
+

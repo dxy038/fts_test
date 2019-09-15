@@ -1,0 +1,9 @@
+Objectives. Our objective was to test fractal dimension (D),  measure of clustering of ventricular premature complexes (VPCs), on entry Holter recording as  predictor of future arrhythmic death and other-cause mortality in postinfarction patients in the Cardiac Arrhythmic Suppression Trial (CAST).
+
+Background. Nonlinear dynamic methods of signal processing are being applied in medicine to provide new insights into apparently “chaotic” biologic events, including cardiac arrhythmias. One such application is the derivation of  fractal D to describe the clustering of VPCs in time.
+
+Methods. Baseline Holter recordings were analyzed in blinded manner for 484 patients: 237 died or had  resuscitated cardiac arrest during follow-up, and 247 matched patients had no events. Fractal D, measured in four ways, was assessed as  predictor using Cox regression.
+
+Results. One measure of D (high resolution D) was  significant univariate (relative hazard ratio 0.79 per SD change, p = 0.011) and multivariate (hazard ratio 0.75, p = 0.046) predictor of arrhythmic death but not other death (univariate p = 0.95, relative hazard 0.95, p = 0.66). Fractal D was greater (VPCs less clustered) in those patients free of arrhythmic events. On subgroup analysis, the predictive value of D resided in the randomized patient group (i.e., those who showed VPC suppression during initial antiarrhythmic drug titration and were randomized to blinded therapy with active drug or placebo) (multivariate hazard ratio 0.57, p = 0.001).
+
+Conclusions.  high resolution fractal D was predictive of arrhythmic (but not nonarrhythmic) death in  large postinfarction cohort. Further study of this new signal processing approach to ambulatory electrocardiographic recording will be of interest.

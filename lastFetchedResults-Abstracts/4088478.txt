@@ -1,0 +1,1 @@
+Three types of bidirectional MOS current mirror/amplifier are considered. Limitations on the use of conventional current mirrors are discussed. An improved circuit which circumvents the disadvantages of normal current mirrors is described. A further extension allows the current gain of the bidirectional MOS current mirror/amplifier to be adjusted by either a current or a voltage.

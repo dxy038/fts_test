@@ -1,0 +1,9 @@
+Purpose
+Noninvasive methods that could predict preload responsiveness are lacking. Our objective was to evaluate variations in pulse oximetry plethysmographic (POP) waveform amplitude (ΔPOP) induced by passive leg raising (PLR).
+Methods
+We attached a pulse oximeter to the middle finger of 25 spontaneously breathing volunteers at several time points: baseline (ie, semirecumbent position), during PLR at 60° while each subject's trunk was lowered in a supine position at 1 minute, and after putting the patient back in the semirecumbent position (5-minute rest). Heart rate, noninvasive arterial pressures (mean arterial pressure and pulse pressure), maximal POP (POPmax), minimal POP (POPmin), and ΔPOP defined as [POPmax − POPmin]/[(POPmax + POPmin)/2] were recorded using a monitor.
+Results
+Heart rate, mean arterial pressure, pulse pressure, POPmax, and POPmin values were not different at baseline, during PLR at 1 minute, and after the 5-minute rest (repeated-measures analysis of variance). The median ΔPOP significantly decreased from 16% (95% confidence interval = 11%-23%) to 11% (95% confidence interval = 8%-14%) (P < .05) and then increased to 13% (95% confidence interval = 10%-21%) after the 5-minute rest (P = nonsignificant).
+Conclusion
+Passive leg raising induces a significant decrease in ΔPOP among spontaneously breathing volunteers
+

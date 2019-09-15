@@ -1,0 +1,11 @@
+Objective
+A relationship between brain atrophy and delta rhythmicity (1.5–4 Hz) has been previously explored in Alzheimer's disease (AD) subjects [Fernandez A, Arrazola J, Maestu F, Amo C, Gil-Gregorio P, Wienbruch C, Ortiz T. Correlations of hippocampal atrophy and focal low-frequency magnetic activity in Alzheimer disease: volumetric MR imaging-magnetoencephalographic study. Am J Neuroradiol. 2003 24(3):481–487]. In this study, we tested the hypothesis that such a relationship does exist not only in AD patients but also across the continuum of subjects with mild cognitive impairment (MCI) and AD.
+Methods
+Resting, eyes-closed EEG data were recorded in 34 MCI and 65 AD subjects. EEG rhythms of interest were delta (2–4 Hz), theta (4–8 Hz), alpha 1 (8–10.5 Hz), alpha 2 (10.5–13 Hz), beta 1 (13–20 Hz), and beta 2 (20–30 Hz). EEG cortical sources were estimated by LORETA. Cortical EEG sources were correlated with MR-based measurements of lobar brain volume (white and gray matter).
+Results
+A negative correlation was observed between the frontal white matter and the amplitude of frontal delta sources (2–4 Hz) across MCI and AD subjects.
+Conclusions
+These results confirmed for the first time the hypothesis that the sources of resting delta rhythms (2–4 Hz) are correlated with lobar brain volume across MCI and AD subjects.
+Significance
+The present findings support, at least at group level, the ‘transition hypothesis’ of brain structural and functional continuity between MCI and AD.
+

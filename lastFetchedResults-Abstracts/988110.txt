@@ -1,0 +1,16 @@
+This paper presents a Markovian model for Flexible Manufacturing Systems
+(FMSs). The model considers two features of automated 
+exible manufacturing systems
+equipped with the Automated Guided Vehicle (AGV), namely the reliability of machines
+and the reliability of AGVs in a multiple AGV jobshop manufacturing system. Performance
+measure is a critical factor used to judge the eectiveness of a manufacturing system. The
+studies in the literature did not compare Markovian and neural networks, especially in
+the reliability modeling of an advanced manufacturing system, considering AGVs. The
+current methods for modeling the reliability of a system involve determination of system
+state probabilities and transition states. Since the failure of the machines and AGVs could
+be considered in dierent states, a Markovian model is proposed for reliability assessment.
+Also, a neural network model is developed to point out the dierence in the accuracy of the
+Markovian model in comparison with the neural network. The optimization objectives in
+the proposed model are maximizing the total reliability of machines in shops in the whole
+jobshop system and maximizing the total reliability of the AGVs. The multi-objective
+mathematical model is optimized using an analytic hierarchy process.

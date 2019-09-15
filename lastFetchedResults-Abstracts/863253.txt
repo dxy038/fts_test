@@ -1,0 +1,6 @@
+In this paper, we consider the problem of simultaneous determination of optimal due
+dates and optimal schedule for the single machine problem with multiple common due
+dates. The penalty for a job is assumed to be a linear function of the due date and the
+earliness/tardiness for the job. The objective function is to minimize the total penalty for all
+jobs. We show that with the introduction of learning to job processing times the problem
+remains polynomially solvable for a given number of multiple common due dates.

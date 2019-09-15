@@ -1,0 +1,4 @@
+This paper introduces a Multi-Objective Optimization (MOO) problem in swarm robots formation which its consequences lead to reduce energy consumption. In this MOO problem the magnitude of robots’ displacement
+along the path and the required time of formation are proposed as objective functions. Decreases of energy consumption are directly proportional with the reduction of objective functions. For solving MOO problem, the elitist Nondominated
+Sorting Genetic Algorithm II (NSGA-II) is proposed. A set of control parameters are specified by NSGA-II and we have considered the best of them to optimize the introduced Objective Functions. The results illustrate
+reduction in the amount of objective functions only by optimizing the behavior’s algorithm of swarm robots without any needs to improve hardware of robots. 

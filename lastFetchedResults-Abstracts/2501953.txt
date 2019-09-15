@@ -1,0 +1,9 @@
+Background and Objective: Colorectal cancer is the most common cancer of digestive system in Iran. The incidence of this cancer has increased in recent years.The aim of this study was to evaluate the survival rate and to define the prognostic factors in Iranian colorectal cancer patients using competing risk model.
+
+Materials and Methods: Data were recorded from 1060 patients with colorectal cancer who registered in Institute for Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical Sciences (Tehran, Iran) from 2004 to 2015 in a retrospective study. Analysis was performed using competing risks model and based on the Weibull distribution. Software used for data analysis was R and significance level was regarded as 0.05.
+
+Results: The result indicated that at the end of follow-up, 380 (35.8%) deaths were from colorectal cancer and 49 (4.6%) deaths were due to other diseases and 631 patients (59.5%) survived till the end of the study. The mean survival time for a patient in 1060 was 56.96±1.46 months with median equals of 45.5 months. According to competing-risks method, only age at diagnosis and body mass index has a significant effect on patient’s survival time.
+
+Conclusion: Based on parametric competing risk model, just age at diagnosis and body mass index were significant prognosis of colorectal cancer survival.
+
+

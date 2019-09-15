@@ -1,0 +1,11 @@
+Objective. The objective of the present study was to analyze the mechanical effect of some of the surgical variables encountered during shoulder arthroplasty using the finite element method. The effect of one eccentric load case, cement thickness and conformity has been investigated.
+
+Design. A 3D finite element model of a healthy cadaveric scapula implanted with an anatomically shaped glenoid has been developed from computed tomography (CT) images.
+
+Background. Glenoid component fixation can present the most difficult problem in total shoulder arthroplasty, loosening of this component remains one of the main complications.
+
+Methods. The 3D finite element model was first validated by comparison with experimental measurements and by fitting of the mechanical properties of the cortical bone. Then the articular pressure location, the surface contact geometry and the cement thickness have been analyzed to observe their effect on stresses and displacements at the interfaces and within the scapular bone.
+
+Results. The antero-posterior bending of the scapula was a notable feature and this was accentuated when an eccentric load was applied. The gleno-humeral contact area had a major role on the stress level in the supporting structures though but not on the global displacements. Varying the cement mantle modified stresses according to the load case and it essentially changed the latero-medial displacement of the cement relatively to the bone.
+
+Conclusions. This analysis provided an insight into the mechanical effects of an implanted scapula according to different parameters related to implantation technique.

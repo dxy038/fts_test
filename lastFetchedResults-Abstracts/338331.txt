@@ -1,0 +1,11 @@
+Objective
+In this study, we examined the involvement of the phosphatidylinositol 3-kinase (PI3-K) and p70S6 kinase signal transduction pathway in the interleukin-1(IL-1)–mediated proliferation and cytokine production by normal and leukemic myeloid cells.
+Materials and Methods
+
+Total AML blast populations, early progenitor (CD34+/CD36−) cells, and more differentiated (CD34−/CD36+) cells were treated with the PI3-K inhibitor Ly294002 and p70S6K inhibitor rapamycin. The effects on proliferation, IL-6 protein secretion, and intracellular signaling cascades were determined and compared with normal CD34+ cells and monocytes.
+Results
+
+The function of the PI3-K pathway was dependent on the differentiation state of the AML cell population. In immature blasts, the IL-1–induced proliferation was strongly inhibited by Ly294002 and rapamycin, without a distinct effect on IL-6 protein production. In contrast, in mature monocytic blast cells inhibition of the PI3-K signaling route had a stimulatory effect on IL-6 protein secretion. Interestingly, these findings were not specifically linked to the malignant counterpart but were also observed with normal CD34+ sorted cells vs mature monocytes. Evidence is provided that the Ly294002-induced increase in IL-6 protein secretion is linked to the cAMP dependent signaling pathway and not to changes in the phosphorylation of ERK or p38. However, although the enhanced IL-6 protein secretion is cAMP dependent, it was not found to be mediated by protein kinase A (PKA) or by the GTP-ase Rap1.
+Conclusion
+
+This study indicates that inhibition of the PI3-K signaling pathway has an inhibitory effect on cell proliferation but a stimulatory effect on IL-6 expression mediated by a cAMP-dependent but PKA-independent route.

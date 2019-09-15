@@ -1,0 +1,7 @@
+The objective of this paper is to present the
+modeling and design of SMES system for Azarbaijan
+electrical network for damping of dynamic vacillation by
+using SMES and fuzzy controller. In this case we well can
+to control of P & Q to decrease power loss. The results
+show that we can optimize the electrical factors of
+transmission line and network.

@@ -1,0 +1,8 @@
+Background and Objective: Failure To Thrive (FTT) is one of the important health issues in children; not dealing with this disorder may lead to more serious consequences like increased death rate and appearance of other physical disabilities. The aim of this study was application of longitudinal transition model and longitudinal marginalized transition model in analysis of longitudinal data about failure to thrive in children under two years in Tarom. 
+
+Materials and Methods: In this longitudinal study, 787 children below 2 years old visiting the Health Center of Tarom were selected by two-stage cluster sampling method. The variable of this study was measured 9 times until 24 month. Statistical analysis was done using transition and marginalized transition model and programming with R software.
+
+Results: In this study, 143 children (18.2%) had FTT until age 24-month while had one episodes of FTT. Results showed that in transition model; habitat (p=0.045), twining (p=0.003), weight of mother (p=0.034) and gestational age (p=0.002), and in marginalized transition model; gender of baby (p=0.027), age of mother (p=0.005), habitat (p=0.014), twining (p < 0.001), weight of mother (p < 0.001) and gestational age (p=0.014) effects were significant.
+
+Conclusion: Given the AIC, second order model was better fit to data. Given the significant factor in this study, actions such as more attention on girl, the decision to pregnancy in less than 35 years, upgrade monitoring twin children can be effective in reduce the failure to thrive.
+

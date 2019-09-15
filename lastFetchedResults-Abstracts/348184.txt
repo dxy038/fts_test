@@ -1,0 +1,11 @@
+Objective
+To compare motor evoked potentials (MEPs) elicited by short train, monophasic, repetitive transcranial magnetic stimulations (rTMS) with those by short train, biphasic rTMS.
+Methods
+Subjects were 13 healthy volunteers. Surface electromyographic (EMG) responses were recorded from the right first dorsal interosseous muscle (FDI) in several different stimulation conditions. We gave both monophasic and biphasic rTMS over the motor cortex at a frequency of 0.5, 1, 2 or 3 Hz. To study excitability changes of the spinal cord, we also performed 3 Hz rTMS at the foramen magnum level [Ugawa Y, Uesaka Y, Terao Y, Hanajima R, Kanazawa I. Magnetic stimulation of corticospinal pathways at the foramen magnum level in humans. Ann Neurol 1994;36:618–24]. We measured the size and latency of each of 20 MEPs recorded in the different stimulation conditions.
+Results
+2 or 3 Hz stimulation with either monophasic or biphasic pulses evoked MEPs that gradually increased in amplitude with the later MEPs being significantly larger than the earlier ones. Monophasic rTMS showed much more facilitation than biphasic stimulation, particularly at 3 Hz. Stimulation at the foramen magnum level at 3 Hz elicited fairly constant MEPs.
+Conclusions
+The enhancement of cortical MEPs with no changes of responses to foramen magnum level stimulation suggests that the facilitation occurred at the motor cortex. We hypothesize that monophasic TMS has a stronger short-term effect during repetitive stimulation than biphasic TMS because monophasic pulses preferentially activate one population of neurons oriented in the same direction so that their effects readily summate. Biphasic pulses in contrast may activate several different populations of neurons (both facilitatory and inhibitory) so that summation of the effects is not so clear as with monophasic pulses. When single stimuli are applied, however, biphasic TMS is thought to be more powerful than monophasic TMS because the peak-to-peak amplitude of stimulus pulse is higher and its duration is longer when the same intensity of stimulation (the same amount of current is stored by the stimulator) is used.
+Significance
+This means that when using rTMS as a therapeutic tool or in research fields, the difference in waveforms of magnetic pulses (monophasic or biphasic) may affect the results.
+

@@ -1,0 +1,16 @@
+Introduction
+Parameters such as strength and depth are characteristics of temperature inversion. Inversion strength is defined as the temperature difference between the surface and the top of the inversion and the depth of inversion is defined as the height of the inversion from the surface. The common approach in determination of these parameters is field measurements by Radiosonde. On the other hand the Radiosonde data are too sparse, so the main objective of this study is modeling the temperature inversion using MODIS thermal infrared data. There are more than 200 days per year in which the temperature inversion conditions are present Tehran.
+ 
+Materials and Methods
+Mehrabad airport weather station was selected as the study area. 120 inversion days was selected from 2007 to 2010 where the sky was clear and the Radiosonde data were available. Brightness temperature in bands 27, 28, 31, 32, 33 and 34 of MODIS was calculated for these days. Thenbrightness temperature difference between the paired bands BT6.7BT11, BT7.2BT11, BT13.3BT11, and BT13.6BT11 were calculated and the correlation coefficients between these pairs and the inversion depth and strength calculated from Radiosonde were calculated.
+The results showed poor linear correlation.This could be due to the change of the atmospheric water vapor content. The polynomial mathematical models were used for modeling the temperature inversion. In order to calculate polynomial coefficients brightness temperature differences and the depth and strength of the temperature inversion obtained from of Radiosonde data, were entered in equations. Due to the large search space for finding the optimal model, Genetic algorithms were deployed. A model with the lowest terms and highest possible accuracy was obtained.
+ 
+Results
+The Model was built upon the differences between brightness temperatures in thermal bands. This for inversion strength resulted in as:
+                 
+Where, , ,  and . This for depth of inversion was of the form:
+      
+Comparison with the Radiosonde measured data indicate that the inversion strength can be estimated with RMSE of 0.6o C and R2 of 0.84. Also depth of inversion can be estimated with RMSE of 45.59 m and R2 of 0.82.
+ 
+Conclusion
+In this study, the methods of estimation of strength and depth of atmospheric temperature inversion using MODIS images were investigated. The method applied here consists of relationship between strength and depth of inversion with the differences of brightness temperatures extracted from MODIS thermal bands of 27, 28, 31, 32, 33 and 34. A multi parameter linear regression equation was applied to pairs of temperature differences and the strength and depth of inversions measured by Radiosonde at Mehrabad airport, Tehran. Due to the large searching space, an intelligent algorithm such as Genetic algorithm was deployed. Although the results are not as good as those achieved at polar region, still it is promising.

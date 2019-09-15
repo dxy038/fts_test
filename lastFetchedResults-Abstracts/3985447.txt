@@ -1,0 +1,1 @@
+This paper is on the unit commitment problem, considering not only the economic perspective, but also the environmental perspective. We propose a bi-objective approach to handle the problem with conflicting profit and emission objectives. Numerical results based on the standard IEEE 30-bus test system illustrate the proficiency of the proposed approach.

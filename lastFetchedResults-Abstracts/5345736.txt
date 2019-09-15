@@ -1,0 +1,1 @@
+Objective of this work is to point out the advantages of using a Lab VIEW&#8482; platform for the developing of the vehicle management system (VMS) and testing of the overall control system of a hybrid vehicle without the need of a hardware implementation of the VMS. The effectiveness of the proposed methodology is shown by means of its application to two real-life examples.

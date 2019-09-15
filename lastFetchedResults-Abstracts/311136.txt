@@ -1,0 +1,9 @@
+Objective. To reconstruct real life head injury accidents resulting from falls using multibody modelling software, with the aim of comparing simulation output to injuries sustained.
+
+Background. Much previous research on head injury biomechanics has focussed on animals and cadavers. However, focus is increasingly turning towards the examination of real life head injury. Falls are a major cause of head injury and, in general, are simpler to model than other accident types.
+
+Design and methods. Five cases of simple falling accidents resulting in focal head injury were examined, and reconstructions were performed using a multibody model of the human body. Each case was reconstructed a number of times, varying the initial conditions and using two different sets of properties for head contact.
+
+Results. Results obtained included velocities, accelerations and forces on the head during impact. This output appeared more sensitive to changes in head contact characteristics than to changes in initial conditions. Depending on the contact characteristics used, results were consistent with proposed tolerance limits from the literature for various lesion types.
+
+Conclusions. Provided it is used with caution, this method could prove a useful source of biomechanical data for the investigation of head injury biomechanics.

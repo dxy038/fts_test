@@ -1,0 +1,1 @@
+The aim of the paper is to present the postoptimal analysis of a chosen extreme efficient point in multicriteria linear programming. There are three cases considered: one objective function coefficient change, objective function addition and objective function removal. The proven theorems allow us to create methods based on the analysis of a simplex tableau.

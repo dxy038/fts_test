@@ -1,0 +1,1 @@
+This paper describes a bidirectional optical transceiver module with Small form factor dimensions for ONU specification in GEPON. The discussion is addressed on optical component characterize, burst mode driving technique and burst mode phenomena measurement.

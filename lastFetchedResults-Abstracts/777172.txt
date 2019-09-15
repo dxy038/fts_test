@@ -1,0 +1,12 @@
+This paper deals with a dual-axis sun tracking system for a photovoltaic system. Its trajectories are determined by an optimization
+procedure. The optimization goal is the maximization of the electrical energy production within a photovoltaic system, by considering
+the tracking system consumption. The procedure used for determining the tilt angle and azimuth angle trajectories is described as a nonlinear
+and bounded optimization problem. Since an explicit form of the objective function is unavailable, a stochastic search algorithm
+called Differential Evolution is applied as the optimization tool. In order to evaluate the objective function, models for calculating the
+available solar radiation and tracking system consumption are applied together with the efficiencies of solar cells, a DC/DC converter
+and inverter. A new algorithm is introduced for the time dependent prediction of available solar radiation. It is based on the length of a
+sunbeam’s path through the atmosphere and the statistical data of a pyranometer measured total and diffuse solar radiation at a given
+location on the Earth. The optimization bounds are given in the form of angular speed, lower and upper bounds for both angles and
+angle quantization. The results presented in this paper show, that the optimal trajectories can help to increase the electrical energy production
+within photovoltaic systems by sun tracking.
+  2011 Elsevier Ltd. All rights reserved

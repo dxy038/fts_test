@@ -1,0 +1,6 @@
+This paper concerns prestress optimization of a tensegrity structure for its optimal LQR performance. A linearized
+dynamic model of the structure is derived in which the force-density variables that parameterize the prestress of the
+structure appear linearly. A feasible region for these parameters is defined in terms of the extreme directions of the prestress
+cone. A numerical method for computing this basis for a structure prestress cone is proposed. The problem is
+solved using a gradient method that provides a monotonic decrease of the objective function inside the feasible region.
+A numerical example of a cantilevered planar tensegrity beam is shown.

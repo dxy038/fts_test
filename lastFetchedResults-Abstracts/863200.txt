@@ -1,0 +1,18 @@
+We present a fluid queue model driven by two independent finite state birth–death
+processes with the objective to study the buffer occupancy distribution in any intermediate
+node in a communication network. In a communication network, at any node, the arrival
+and service of the packets are with variable rates. To model this scenario we develop a fluid
+queue with an infinite capacity buffer which receives fluid at variable rate and also releases
+fluid at variable rates. Because of variable inflow and outflow rates of the fluid, the proposed
+fluid queue is driven by the current states of two independent finite state birth–death
+processes evolving in the background which on merging give rise to a continuous time
+Markov chain which is not a birth–death process. Using the fluid queue model, we obtain
+the steady-state distribution of the buffer occupancy at any intermediate node during
+packet transmission in a communication network. As a special case, we consider a wireless
+network based on the IEEE 802.11 standard. We present the buffer occupancy distribution
+at any intermediate node in closed form with a numerical illustration. Along with buffer
+occupancy distribution, we also obtain various performance measures such as expected
+buffer content, average throughput, server utilization and mean delay which are relevant
+to packet transmission in such a communication network. Finally, we present numerical
+results to illustrate the feasibility of the proposed model. The results are in accordance
+with the expected behavior of these performance measures.

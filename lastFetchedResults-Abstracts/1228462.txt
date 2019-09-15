@@ -1,0 +1,60 @@
+1. Introduction 
+United Nations statistics show that floods and storms have a greater number of casualties and cause more damage to communities compared to other natural disasters. Flood occurs due to the specific climate and topography conditions and especially after rainfalls with high intensity and duration. In Iran, investigation on direct flood damage at recent 50 years showed that its rate increased over than 250 percent. Flood predictions are made by processing hydrometric data, and the most commonly used parameters appliedto such processes are those of peak flow and flood volume. However, the necessary statistics are often incomplete due to a lack of meteorological stations so it is important to develop a process for making predictions using indirect techniques for flood discharge estimates
+This can be done with the Creager formula that applies empirical equations for estimating maximum instantaneous flow in catchment areas with no statistics (Equation1):
+ 
+(1)
+Where; Q: the instantaneous peak flow (cubic feet per second), A: area (square miles), and C is the regional coefficient of Creager'sformula which its maximum value is 200, the whole world will cover floods observed (Mahdavi, 166:2007).Mahdavi et al. (2005) and Jamali et al. (2006) were obtained peak discharge data with the return period of 2 - 100 years using 10 peak discharge empirical formula in the main basin of Iran. According to these researches the Morfi model was suitable for low return period and the Kramer formula had better estimation at high return period but the Creager formula had a terrible error at high return periods. Seidali et al. (2010) studied on Creager coefficient range in Yazd province and their results showed that these coefficients were from 0.014 to 20.95 according to different returning periods. In Japan, Ohnishi et al. (2004) estimated peak flood at some basin with maximum one square kilometer but they mentioned that these formula have some error at the basin which are larger than 1178 square kilometers. Central Iran basin, is a part of the areas where has the greatest crisis in touch with hydrometric stations and the missing flood data. This lack is the major challenges in the research and development programs of water resources. In this study, we tried to among of 80 statistical distributions find the best distribution using flood frequency analysis and estimate the peak discharge with different return periods. Also in Hinks and Dedja (2002), research which has done at 5 earth fill dams in Grate Britain, the average Creager coefficient was calculated about 36 and its amount trough the 500 – 10000 years of return period was suggested between 13.5 and 25 for the studied region.
+The main objective of this method is to use estimates to compensate for lack of hydrometric data on return period flood discharges. This study attempts to make analyses of flood frequency by estimating peak discharge with different return periods. And then to evaluate and make calibrations of regional coefficients for the central Iran basin in order to enable consideration of various different return periods.
+2. Study Area 
+The area under evaluation was the central part of Iran, an area of 823946 km2.  The area was classified as an arid and semi-arid climate, which applies to about 50.75% of the country’s land. In this type of climate zone, rainfall conditions make areas susceptible to short-term and instant flooding. Meteorological data is restricted because there are inadequate numbers of gauging stations because they could only supply long-term statistics. On the other hand these hydrometric stations have a heterogeneous distribution so that most of these stations are located in semi-arid regions and only a few stations are located in arid and ultra-arid regions. So, high climate and geographic variety of these areas causes heterogeneous area (Hayatzadeh, 2009).
+3. Methodology and Methods
+Firstly, data were collected from gauging stations and reservoir dams in the area. Reservoir dams  make some jump in the data so we omitted these data. Some of the stations were excluded from the study due to a lack of sufficient data or because of closure. Stations with a high deficit in data relating to short-term records of instantaneous discharges were eliminated and other stations along with more than 25 years’ of statistics, from 1965 to 2011 were used for the next stage of the study. In the following, out-layer’s data test was applied using the Groboz-Back equation and data were examined by Makoos’s equation for accuracy and validity, and determined as adequate; thus 29 gauging stations were selected.
+Continues data with appropriate length is very important in flood studies. However, in most catchments located in arid and semi-arid regions data inadequacy and also gaps in the existing data series is a common problem. Therefore, so far several methods have been presented for reconstruction of missing data series. In this research it has been tried to evaluate the efficiency of some new methods in reconstruction of instantaneous peak flow data in arid and semi-arid regions of Iran. 
+ For these 29 selected stations reconstruct the missing data series of peak discharge by using adaptive neuro-fuzzy inference network method.  
+To flood frequency analysis using statistical distributions for process and estimate the maximum discharge with different return periods, is a common method (Hadiyan et al., 2010). Then statistics for individual stations using the software of Easy fit and Mathematician over 80 different continuous distributions were fitted and using maximum likelihood (MLE) and moment of methods (MOM), the most appropriate statistical distribution was determined. Thus for peak discharge frequency analysis, using the Easy fit and Mathematic software's of fitting over 80 continuous statistical distributions, using maximum likelihood (MLE) and method of moments (MOM) methods was selected suitable Statistical distributions. The final step was to determine the maximum flow rate at each station, the amount of discharge with different return periods was given in the Creager formula and from the area relating to each station, the regional coefficient was determined with the Creager formula 2 , 5, 10, 20, 25 and 50 year’ return period.
+In order to data validation in each station we used to root mean square error (RMSE), coefficient of determination (R2), mean absolute error (MAE), mean absolute percentage error (MAPE) and Efficiency Coefficient Nash- Sutcliffe (ENS)were used. (Yang et al., 2009; Akhavan et al., 2011)
+4. Result and Discussion
+In data reconstruction of missing data neuro-fuzzy had the lowest error and the genetic algorithm (GA) had the most error at all of the stations. But using T test there were no difference between the methods at 5 % significant. The mean adequacy level of all stations was taken from across the whole area; adequacy of data was determined at about 74.08%.  According to the Groboz-Backequations, instantaneous discharge data relating to Sulanand Esfarjan and Delichaystationswere each given a number for out-layer data.
+Analysis of outputs by Easy Fit showed that stations in 17 of the statistical distribution were classified under best fit. According to the distribution of choices in each station, instantaneous discharge with return periods of 2, 5, 10,25 and 50 years, respectively. The area of each station was specified and estimates were made for return periods associated with the regional coefficient determined by the Creager’s formula (Table 1). Also there was no significant relationship between peak discharge and the related upstream drainage area in the studied region. 
+Table1: Creager's coefficient for the peak discharge with different return periods in central parts of Iran
+Sub
+basin	Number of stations	Range of  Creager's  coefficient
+		2	5	10	25	50
+Jazmorian	1	2.87	5.71	8.13	11.81	15.08
+Gavkhoni	3	-0.05
+0.03	-0.92
+0.12	-1.37x
+0.20	-1.84
+0.44	-2.1
+0.83
+Yazd-Kerman	3	-0.59
+0.13	-1.42
+0.36	-2.39
+0.65	-4.48
+1.45	-7.07
+2.1
+Salt Lake	14	-1.36
+0.03	-2.7
+0.08	-3.37
+0.77	-6.11
+0.23	-10.97
+0.34
+Kavir plain	7	-0.72
+0.10	-1.67
+0.25	-2.74
+0.35	-4.95
+0.50	-7.55
+0.6
+Bakhtegan	1	2.28	5.29	7.57	10.59	12.87
+Sum	29	-2.87
+0.03	-5.71
+0.08	-8.13
+0.2	-11.8
+0.23	-15.08
+0.6
+5.Conclusion 
+The results showed that regional coefficient of the Creager formula had low values in the region of central Iran. With a return period of 50 years in the Daman station located on Jazmorian areas in the southeast of the central area, the maximum value of this ratio was determined as15.08. In Sulan station located in the Salt Lake sub-basin in the Northwest of the center, the lowest amount equal to 0.34. (Table 1)
+It is commonly believed that an increase in area, increases the maximum flow rate, but no relationship was determined between peak discharge and upstream areas of each station. According to the Creager's formula structure, it is likely that the situation in terms of the model is presented for the first time, a variety of climatic, tectonic and morphological rule in central Iran, is the fading parameter area.
+The results showed predictions for generalized instantaneous discharge in terms of area parameter in relation to the other stations, the creation of a gross error in the estimation of flood discharge in areas without gauging stations.
+ According to the negative coefficient of Nash - Sutcliffe for Sarabhende, Salehabad, Mondarjan, Daman, Jiroftu, Gharyatolarab and Bonkoo stations accuracy of the Creager model for estimating instantaneous discharge was determined as sufficient. Furthermore, MAPE statistics revealed that the mean absolute error of the Creager method in central Iran was 54.85%.
+

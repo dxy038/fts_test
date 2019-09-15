@@ -1,0 +1,1 @@
+A linearized, input-output model-matching problem for single-input, multioutput nonlinear systems is formulated in the frequency domain, and solved using dynamic output feedback. The objective is to obtain a desired transfer function for the family of closed-loop linearized systems. A disadvantage of this approach is that extension to the multi-input case is difficult

@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to establish a new method to overcome the problems of gene therapy targeting hematopoietic cells, namely low transduction efficiency and induction of differentiation during cytokine treatment.
+Materials and Methods
+
+The K-sam gene encoding the receptor for keratinocyte growth factor (KGF) was transduced to three factor-dependent hematopoietic cell lines (Ba/F3, 32Dcl3, and UT-7/GM) using retroviral vector, and their proliferation, differentiation, and intracellular signaling were studied. This gene also was transduced to murine bone marrow cells, and proliferation of colony-forming cells (CFCs) by KGF stimulation was examined.
+Results
+
+Although KGF is known to target only epithelial cells, all of the three cell lines transduced with K-sam proliferated due to KGF stimulation. Morphologic observation showed that KGF induced proliferation but did not cause significant differentiation of 32D/K-sam cells. KGF treatment increased phosphorylation of ERK1/2 but did not activate STAT molecules. Granulocyte colony-stimulating factor transduced the differentiation signal with the phosphorylation of STAT3 without significant ERK1/2 activation. Proliferation by KGF of murine primary bone marrow cells transduced with K-sam then was examined in liquid culture. KGF treatment significantly increased production of CFCs derived from K-sam–transduced bone marrow cells without causing the exhaustion of immature CFCs.
+Conclusions
+
+KGF could efficiently induce proliferation of hematopoietic cells expressing the K-sam gene without obvious induction of differentiation or exhaustion of immature progenitor cells. The in vitro data are important for further preclinical in vivo study.

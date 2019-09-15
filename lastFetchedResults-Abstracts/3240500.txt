@@ -1,0 +1,1 @@
+The paper describes the new approach to design of robust control algorithms using the state variable aggregation method. The proposed robust control algorithms minimize the quadratic objective functional and were designed with the use of Lyapunov function. The designed control algorithms were verified by computer simulation in the program MATLAB-Simulink.

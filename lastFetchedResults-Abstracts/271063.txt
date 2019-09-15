@@ -1,0 +1,15 @@
+The objective of this work is to examine the large strain localization properties of
+hyperelasto-plastic materials which are based on the multiplicative decomposition of the deformation
+gradient. Thereby, the case of stron 9 discontinuities is investigated. To this end, first an explicit
+expression for the spatial tangent operator is given, taking into account anisotropic as well as
+nonassoeiated material behaviour. Then the structure of a regularized discontinuous velocity gradient
+is elaborated and discussed in detail. Based on these two results, the localization condition is derived
+with special emphasis on the loading conditions inside and outside an anticipated localization band.
+Thereby, the intriguingly simple structure of the tangent operator, which resembles the structure of
+the geometrically linear theory, is extensively exploited. This similarity carries over to the general
+representation for the critical hardening modulus which is exemplified for isotropic materials. As a
+result, analytical solutions are available under the assumption of small elastic strains, which is
+justified for metals. Finally, examples are given for the special case of the associated von Mises flow
+rule. To this end, the critical localization direction and the critical hardening modulus are investigated
+with respect to the amount of finite elastic strain within different modes of homogeneous
+elasto-plastic deformations. © 1997, Elsevier Science Ltd~ All rights reserved.

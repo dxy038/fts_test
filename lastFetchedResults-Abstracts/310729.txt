@@ -1,0 +1,9 @@
+Objective.  To develop a biomechanical model for cartilage which is capable of capturing experimentally observed nonlinear behaviours of cartilage and to investigate effects of collagen fibril reinforcement in cartilage.
+
+Design. A sequence of 10 or 20 steps of ramp compression/relaxation applied to cartilage disks in uniaxial unconfined geometry is simulated for comparison with experimental data.
+
+Background. Mechanical behaviours of cartilage, such as the compression-offset dependent stiffening of the transient response and the strong relaxation component, have been previously difficult to describe using the biphasic model in unconfined compression.
+
+Methods. Cartilage is modelled as a fluid-saturated solid reinforced by an elastic fibrillar network. The latter, mainly representing collagen fibrils, is considered as a distinct constituent embedded in a biphasic component made up mainly of proteoglycan macromolecules and a fluid carrying mobile ions. The Young’s modulus of the fibrillar network is taken to vary linearly with its tensile strain but to be zero for compression. Numerical computations are carried out using a finite element procedure, for which the fibrillar network is discretized into a system of spring elements.
+
+Results. The nonlinear fibril reinforced poroelastic model is capable of describing the strong relaxation behaviour and compression-offset dependent stiffening of cartilage in unconfined compression. Computational results are also presented to demonstrate unique features of the model, e.g. the matrix stress in the radial direction is changed from tensile to compressive due to presence of distinct fibrils in the model.

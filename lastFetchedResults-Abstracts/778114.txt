@@ -1,0 +1,16 @@
+Owing to the incremental demands for
+electrical energy, distributed generation (DG) sources are
+becoming more important in distribution systems.
+Locations and capacities of DG sources have profoundly
+impacted on the system losses in a distribution network.
+In this paper, a novel Strength Pareto Evolutionary
+Algorithm (SPEA) is represented for optimal location and
+sizing of DG on distribution systems. The objective is
+minimizing network power losses, better voltage
+regulation and improves the voltage stability within the
+security constraints in radial distribution systems. Two
+different systems, 33 and 69 bus systems, are used to
+demonstrate the effectiveness of the proposed
+methodology. The results are compared with other
+evolutionary methods like GA and COA through some
+performance indices to indicate its flexibility.

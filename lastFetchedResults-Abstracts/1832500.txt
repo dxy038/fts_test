@@ -1,0 +1,13 @@
+In saturated soils, heating induces thermal expansion of both grains and the pore fluid. Lower thermal expansion 
+coefficient of aggregates results in the increase of pore pressure and reduction of the effective stress besides subsequent 
+volume changes due to the dissipation of pore pressure and heat transfer. Dissipation of thermally induced pore pressure with 
+time is a coupled thermo-hydro-mechanical (THM) phenomenon, involving gradients of pore pressure and temperature, 
+hydraulic and thermal flows within the mass of soil and changes in the mechanical properties with temperature. The objective 
+of this paper is presentation of a numerical method to determine the effect of temperature on consolidation of clays. In this 
+regard, the finite element code, PISA is used for one dimensional THM analysis of porous media. The analysis performed 
+using both linear elastic and elastoplastic Cam clay models. Modified Cam clay model was applied in elastoplastic analysis. 
+Variation of temperature, displacements and pore pressure determined with time and compared with numerical solutions of 
+other researchers. Also it was indicated that implementation of coupled THM analysis yields better results for displacements 
+compared to the hydro mechanical (HM) one. Application of elastoplastic constitutive model instead of linear elastic one 
+indicated that preconsolidation pressure has an important effect on results of analysis. 
+

@@ -1,0 +1,1 @@
+A compact fractal monopole ultra wideband (UWB) antenna is designed. The size of the antenna is 40 mm &#215; 40 mm. The antenna is designed on easily available FR4 substrate. The measured impedance bandwidth obtained is 8.54 GHz (from 2.8 GHz to 11.54 GHz) which is 122% at centre frequency of 7 GHz. The antenna is bidirectional in E plane and Omni-directional in H plane.

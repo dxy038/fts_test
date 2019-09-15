@@ -1,0 +1,13 @@
+Energy, economic and environmental analysis have been employed in order to optimize optimal (nominal)
+capacity of a combined cooling, heating and power system in a water sports complex. Design parameters
+are nominal capacity and number of gas engines and their partial load, heat capacity of boiler and cooling
+capacity of electricity and absorption chillers. These parameters are optimized either in the scenarios of
+possibility of selling electricity (SS) or impossibility of selling scenarios (SNS). Design parameters are
+optimized using genetic algorithm and a multi criteria objective function that is called relative annual
+profit (RAB). Next, how to select optimal capacity of gas engine has been investigated economically,
+saving fuel and controlling the pollutants (CO, NOx, and CO2). Optimization results illustrate that two
+gas engine with capacity of 130 kW and 150 kW have the maximum value of objective function in the
+scenarios of possibility of selling electricity, while in the impossibility of selling scenarios the maximum
+value of goal function is for on 120 kW gas engine. In addition, the results reveal that payback periods
+on investment are increased (decreased) when two similar capacity are chosen in the cases of SS (SNS).
+Moreover, fuel consumption and CO2 emissions are decreased (increased) in the scenarios of SS (SNS).

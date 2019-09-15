@@ -1,0 +1,19 @@
+In digital communication system design, the
+main objective is to receive data as similar as the data sent
+from the transmitter. It is important to analyze the system in
+term of probability of error to view the system's
+performance. Each modulation technique has different
+performance while dealing with signals, which normally are
+affected with noise. General explanation for BER is explained
+and simulated in this paper. It focuses on comparative
+performance analysis of BPSK, QPSK, 8PSK and 16PSK
+i.e. Mary PSK system where the value of M=2, 4, 8 and 16.
+VHSIC Hardware Description Language (HDL) was used for
+committal to writing of the design. The Xilinx ISE 8.1i tool
+was used for synthesis of this project. ModelSim PE Student
+Edition 10.3c is used for functional simulation and logic
+verification of analog waveforms. The BER curves for
+different digital modulation techniques which are obtained
+after simulation are compared with theoretical curves. All
+the BER calculations are done assuming the channel as
+AWGN channel.

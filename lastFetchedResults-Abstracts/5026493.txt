@@ -1,0 +1,1 @@
+Motion compensated interpolation (MCI) is crucial for motion portrayal improvement of modern displays, and film judder elimination. As MCI complexity grows, subjective optimization becomes cumbersome and elaborate. We present an objective metric that matches perception better than earlier measures and apply it to evaluate recent MCI algorithms.

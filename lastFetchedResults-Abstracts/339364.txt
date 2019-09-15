@@ -1,0 +1,11 @@
+Objective
+Cytokine treatment with granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF), and stem cell factor (SCF) is a mainstay of current and future clinical and research protocols for peripheral blood stem cell mobilization, therapeutic care after hematopoietic stem cell transplantation (HSCT), and ex vivo hematopoietic stem and progenitor cell (HSC/HPC) expansion. We have previously shown that the peptidase CD26 (DPPIV/dipeptidylpeptidase IV) negatively regulates HSC/HPC and that inhibition of CD26 improves the chemotactic ability and trafficking of HSC/HPC. We set out to establish whether short-term in vitro G-CSF, GM-CSF, or SCF treatment upregulates CD26 and thereby has a detrimental effect on the chemotactic potential of HSC/HPC that could be reversed by CD26 inhibitor treatment.
+Materials and Methods
+
+CD34+ or CD34+CD38− cells, a population enriched in HSC, were isolated from human umbilical cord blood and subjected to G-CSF, GM-CSF, or SCF treatment. We then evaluated CD26 expression, CD26 activity, and CXCL12 (SDF-1)-induced migration in the presence or absence of a CD26 inhibitor, Diprotin A.
+Results
+
+Treatment with G-CSF and GM-CSF but not SCF upregulates CD26 expression and activity resulting in a CD26 inhibitor-reversible downregulation of CXCL12-induced chemotactic response.
+Conclusions
+
+Short-term in vitro G-CSF and GM-CSF treatment upregulates the peptidase CD26, resulting in downregulation of the functional ability of CD34+CD38− cells to respond to the chemokine CXCL12. This suggests that current and future clinical protocols utilizing G-CSF and GM-CSF may have unforeseen detrimental effects on the trafficking of HSC/HPC during HSCT that can be overcome through the use of CD26 inhibitors.

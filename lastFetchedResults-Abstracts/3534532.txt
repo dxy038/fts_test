@@ -1,0 +1,1 @@
+To solve design problems in which the objective is to best satisfy a given set of design specifications or constraints in the least pth or minimax sense, assuming the availability of first partial derivatives of the functions concerned with respect to the design parameters.

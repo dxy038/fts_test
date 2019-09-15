@@ -1,0 +1,1 @@
+We propose a new bidirectional DWDM-based passive optical network using optical carrier suppression and separation (OCSS) technique to generate both upstream and downstream wavelength channels from a single laser. Symmetric 10 Gb/s &#215; 16 transmission has been demonstrated.

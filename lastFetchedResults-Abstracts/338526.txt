@@ -1,0 +1,11 @@
+Objective
+Transforming growth factor-β1 (TGF-β1) strongly inhibits the proliferation and differentiation of primitive CD34+CD38− hematopoietic cells. In contrast, Flt3 ligand (FL) is a positive effector of CD34+CD38−/low cell proliferation. Because apoptosis plays a critical role in hematopoietic development, TGF-β1 and FL were analyzed as possible modulators of apoptosis. Specifically, this report examined expression of apoptotic promoters Bax and Bad and apoptotic inhibitors Bcl-2 and Bcl-x (all members of the Bcl-2 protein family). Protein levels were determined in fresh and cultured CD34+CD38+ cells and CD34+CD38−/low cells with and without treatment with TGF-β1 and FL.
+Materials and Methods
+
+Cells fractions were purified by sorting CD34+-enriched mononuclear cells from mobilized peripheral blood. Expression of Bcl-2, Bcl-x, Bax, and Bad and the extent of apoptosis were determined by flow cytometric analysis of freshly isolated cells and cells cultured with TGF-β1 and FL effectors.
+Results
+
+TGF-β1 reduced CD34+CD38+ cell expansion and arrested cell division. Inhibition of growth was not accompanied by an increase in apoptosis. In CD34+CD38−/low cells, serum TGF-β1 and added TGF-β1 inhibited cell growth and significantly increased apoptotic cell death. Freshly isolated CD34+CD38+ and CD34+CD38−/low cells expressed Bcl-2 at similar low levels. However, after 3 days, Bcl-2 expression was markedly higher in cultured CD34+CD38+ cells. TGF-β1 significantly increased Bax expression in both fractions after 3 days cultivation (p = 0.0034). Thus, addition of TGFβ-1 further reduced the already low Bcl-2:Bax ratio in CD34+CD38−/low cells.
+Conclusions
+
+Compared to CD34+CD38+ cells, CD34+CD38−/low cells were slow to up-regulate expression of Bcl-2 during ex vivo culture. TGF-β1 up-regulated Bax expression by both CD34+CD38+ and CD34+CD38−/low cells and promoted apoptosis in the latter fraction. This suggests that the preferential induction of apoptosis in primitive cells by TGF-β1 may be due to its further reduction of the Bcl-2:Bax ratio.

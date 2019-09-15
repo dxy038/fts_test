@@ -1,0 +1,9 @@
+Objective
+Based on their differentiation properties and facilely of ex vivo expansion, human bone marrow mesenchymal progenitor cells (MPC), are considered as attractive targets to deliver foreign genes to the bone marrow or other mesenchymal tissues. In this study we investigated the feasibility of transduce MPC with adenoviral vectors (Adv).
+Methods
+MPC were expanded ex vivo and transduced with replication-defective Adv-containing reporter genes (lacZ or GFP) under the control of CMV promoter. Transfection efficiency was assessed by microscopical scoring or by flow cytometry. Expression and involvement of Adv-attachment (CAR) and Adv-internalization (integrins αv) receptors were evaluated by flow cytometric studies.
+Results
+Transgene expression analysis showed that only 19% ± 3% of cells expressed the transgenes at high levels. MPC express the attachment and internalization receptors required for Adv infection. While integrins αvβ3 and αvβ5 are expressed by all MPC, CAR is solely expressed by a fraction of low size cells. Antibodies against CAR and αvβ5, but not against αvβ3, blocked Adv-mediated gene transfer into MPC, showing that CAR and αvβ5 are required for infection. Because αvβ5, as compared with CAR, is overexpressed in MPC, the results suggest that the efficiency of Adv-mediated gene transfer into MPC depends on the level of CAR expression.
+Conclusion
+These findings demonstrate that Adv may be useful to engineer a subpopulation of ex vivo expanded human mesenchymal progenitors, with a high level of transgene expression.
+

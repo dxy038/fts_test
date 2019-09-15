@@ -1,0 +1,11 @@
+Background
+In patients with parkinsonian resting tremor, tremor-correlated activity in the contralateral sensorimotor cortex has been studied by both magnetoencephalography (MEG) and electroencephalography (EEG). In essential tremor, MEG failed to detect cortical involvement. The objective of this study was to investigate whether EEG recording can reveal tremor-correlated cortical activity in patients with essential tremor or enhanced physiological tremor.
+Methods
+
+Seven patients with essential tremor and three patients with enhanced physiological tremor participated in the study. Unilateral postural tremor was activated by wrist extension on the right or on the left side. Electromyography (EMG) signals arising from the wrist extensor and flexor muscles, and a high-resolution EEG were recorded simultaneously. Coherences between the time series of the rectified tremor EMG and the EEG were estimated.
+Findings
+
+In five of nine arms with essential tremor, we found highly significant coherences at the tremor frequency between the tremor EMG and the EEG. Isocoherence maps illustrating the topography of significant coherences over the scalp showed that the maximum coherences were located over the contralateral sensorimotor cortex. In the patients with enhanced physiological tremor, we were unable to detect consistent significant corticomuscular coherences at the tremor frequency.
+Interpretation
+
+Using simultaneous EEG-EMG recordings, we showed that significant corticomuscular coherences at the tremor frequency can be found in essential tremor. This finding contrasts with a recent study based on MEG recordings. The results suggest that the sensorimotor cortex is involved in the generation of essential tremor, in a similar way to that previously shown in parkinsonian resting tremor.

@@ -1,0 +1,1 @@
+Our objective in this paper is to propose an approach capable of detecting authors of web messages based on specific vocabulary and Intertextual distance. Focus in the present work is on comparing the most popular distances using in the field of authorship detection namely Delta Rule, chi-square distance and Kullback-Leibler Divergence.

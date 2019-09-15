@@ -1,0 +1,8 @@
+Objective
+al of this study was to identify a microRNA (miRNA) signature in bladder cancer capable of differentiating superficial from invasive disease.
+s
+sion profiling of 343 miRNAs was performed in a microarray format using noninvasive and invasive bladder carcinoma cell lines with differential expression confirmed using a single molecule detection platform assay. miR-21 and miR-205 expression levels were determined in 53 bladder tumors (28 superficial and 25 invasive). Sensitivity, specificity, and a ROC curve were calculated to determine the discriminatory power of the miRNA ratio to predict invasion. Knockdown and forced expression of miRNAs was performed to evaluate their role in invasion.
+s
+sion profiling of 343 miRNAs, using noninvasive and invasive bladder cell lines, revealed significant differential expression of 9 miRNAs. Cell lines characterized as invasive showed a miR-21:miR-205 ratio at least 10-fold higher than the quantitative ratio obtained from non-invasive cell lines. The same expression ratio was determined in 53 bladder tumors. From these results, we recorded a sensitivity and specificity of 100% and 78%, respectively, using a cutoff of 1.79 to predict an invasive lesion. The area under the receiver operator characteristic curve was 0.89. Using in vitro invasion assays, we have demonstrated a role for miR-21 in establishing the invasive phenotype of bladder carcinoma cells.
+sion
+s study, we identified a miR-21:miR-205 expression ratio that has the ability to distinguish between invasive and noninvasive bladder tumors with high sensitivity and specificity, with the potential to identify superficial lesions at high risk to progress.

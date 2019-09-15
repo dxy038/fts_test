@@ -1,0 +1,1 @@
+This work studies the large time behavior of free boundary and continuous dependence on nonlinearity for the Cauchy problem of a degenerate parabolic partial differential equation with absorption. Our objective is to give an explicit expression of speed of propagation of the solution and to show that the solution depends on the nonlinearity of the equation continuously.

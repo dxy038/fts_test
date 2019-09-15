@@ -1,0 +1,5 @@
+Purpose: The goal of this research is to describe how we can arrange the books in the shelves such that leads to minimization of the movement of the clients in the library and reduction of restrictions on the number and volume of each type of book shelves.
+Methodology: Clearly, the organization of the books is an optimization topic with a vast search space. Therefore, it cannot be solved by mathematical optimization methods that try to study the entire search space. The main objective of this research is to solve the above problem using the meta-heuristic Cuckoo Algorithm.
+Findings: The Cuckoo algorithm was conducted 350 times for solving the problem of this research. The results showed that the performance of the algorithm can be considered acceptable, especially with regard to the execution speed, convergence steadiness and goodness of the results.
+Originality/Value: Organization of the books in the library shelves is a complex matter, which affects significantly the truck of users when looking for books. Cuckoo algorithm leads us to an optimal space allocation that related topics of books shelved in an optimal distance for reduction of traffic.
+

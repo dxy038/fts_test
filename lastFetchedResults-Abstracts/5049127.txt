@@ -1,0 +1,1 @@
+Presented in this article is a visual aid approach in solving unconstrained optimization problems over bounded domains with or without any standard optimization algorithms. No explicit information about the problem is needed except for the values of the objective function. A reasonable estimate of a global solution is usually found quickly.

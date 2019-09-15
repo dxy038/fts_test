@@ -1,0 +1,13 @@
+According to several times the cost of increased fuel consumption in vehicles, companies pay a lot
+of fuel in transportation costs section. Several factors such as vehicle fuel consumption in heavy
+vehicle - the driver - the routing and scheduling systems to move cars - road - the amount of frightspeed
+and acceleration have effect in fuel consumption. This article examines several factors in terms
+of transportation companies that can reduce fuel consumption and to introduce a policy that will
+result in reduced fuel consumption. Also provide a model for determining the minimum fuel
+consumption in different maners. These models have better performance than only models that have
+the vehicle routing problem (VRP 1) aproach. After measuring fuel consumption model, we will be
+provided the model of multi-objective view of the company's transportation system that have three
+parts – car- driver and system. We can arrange for all of the parts are made in reducing fuel
+consumption. Policies and tools that lead to cost reduction in the entire fleet will be introduced.
+Finally, for a transportation company, a set of policies and tools provide with used multi-objective
+function.

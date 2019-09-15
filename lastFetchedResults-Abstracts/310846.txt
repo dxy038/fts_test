@@ -1,0 +1,11 @@
+Objective. To develop a theoretical model to identify mechanisms by which total and partial tears of the anterior cruciate ligament could occur.
+
+Design. A sagittal-plane knee model was used to investigate anterior cruciate ligament injury due to excessive anterior tibial translation. The ligament was modelled as an ordered array of fibres linking femur and tibia.
+
+Background. Despite years of research, the detailed biomechanics of anterior cruciate ligament injury is not well understood.
+
+Methods. A “critical strain criterion” was used to identify the onset and progression of model ligament fibre disruption. The associated forces were also calculated.
+
+Results. At low flexion angles (<20°), the posterior fibre of the model ligament failed first, and the tear progressed anteriorly through the ligament. At higher flexion angles, the anterior fibre failed first, and the tear progressed posteriorly. Near the flexion angle at which the progression of injury changed direction, all fibres failed at approximately the same anterior tibial translation. At all but very high flexion angles, the force supported by the injured ligament was maximum when initial fibre failure occurred; the force then decreased with increasing anterior tibial translation.
+
+Conclusions. Near (20°) flexion, all model anterior cruciate ligament fibres fail at approximately the same anterior tibial translation, implying that a partial ligament tear may be impossible in this flexion region.

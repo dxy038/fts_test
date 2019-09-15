@@ -1,0 +1,11 @@
+Objective
+The purpose of the present study was to investigate the effects of total sleep deprivation (TSD) on brain functions with an identification procedure for strongly interactive brain regions, relying on functional cluster (FC) analysis in multichannel electroencephalogram (EEG) data.
+Methods
+EEGs from 16 electrodes in 18 healthy, right-handed, young male volunteers were recorded before TSD (after normal sleep) and after 24 h of experimentally induced sleep deprivation. We estimated cluster index to characterize joint interactions among many brain regions in order to determine if a particular FC is present or not, and if so, its anatomy.
+Results
+As a result, we confirmed the presence of FC and found different FC patterns in both before and after TSD. The C3 and F7 locations were outside the cluster under the TSD condition, but belonged to the cluster with C4 and F8 before the TSD condition, and the F3/F4, and O1 locations were new entries to the functional cluster during sustained wakefulness.
+Conclusions
+These results indicate that the neuronal activities of the C3 and F7 location are functionally unrelated, whereas the F3/F4 locations are functionally involved with the C4, F8, and O1 locations after 24 h TSD. Our results suggest that FC changes with elapsed awake time and reflects the change of brain function due to TSD.
+Significance
+This paper shows the existence of FC both before and after TSD, and the anatomy of each FC is different. So FC analysis would be a potential tool to investigate the simultaneous neuronal activity of human EEGs.
+

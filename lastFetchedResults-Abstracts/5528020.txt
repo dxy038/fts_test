@@ -1,0 +1,1 @@
+A motor multi-objective inverse optimization system based on genetic algorithm is designed, which can optimize induction motor and permanent magnet motor. Three design examples are used to verify the effectiveness and the convenience of the system.

@@ -1,0 +1,11 @@
+Objective
+The mechanisms of mobilization of hematopoietic stem cells (HSC) from bone marrow to peripheral blood (PB) by cytokines are poorly understood. One hypothesis is that cytokines disrupt cytoadhesive interactions of stem cells with bone marrow stroma. The soluble portion of c-kit (s-kit) binds stem cell factor (SCF) and can specifically block the ability of SCF to bind HSC.
+Materials and methods
+
+To examine stem cell mobilization by s-kit, we prepared PB mononuclear cells from s-kit– or granulocyte colony-stimulating factor (G-CSF)–treated mice and assayed their colony-forming abilities and their long-term reconstituting abilities by transplantation into lethally irradiated Ly-5.2 congenic mice.
+Results
+
+We confirmed the published findings that human recombinant s-kit can block SCF-stimulated hematopoietic colony growing. We then found that s-kit could mobilize colony-forming cells from bone marrow to PB, and we found long-term reconstitution cells in the PB from s-kit–treated mice. The majority of s-kit–mobilized stem cells were in the CD34+ cell population. We also tested the additive effect between G-CSF and s-kit. The mean percentages of donor cells in the mice transplanted with Lin− cells from the G-CSF–treated mice and the G-CSF/s-kit–treated mice were 44.6% and 64.8%, respectively (p = 0.028).
+Conclusions
+
+These findings demonstrate that stem cells with long-term engraftment capabilities can be mobilized by s-kit, and that s-kit combined with G-CSF treatment leads to significant enhancement of engraftment efficiency, suggesting mobilization via disruption between c-kit and SCF as the mechanism.

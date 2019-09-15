@@ -1,0 +1,8 @@
+AbstractObjectives
+cidence of metastatic disease in patients with renal cell carcinoma (RCC) correlates with tumor size. We sought to determine the incidence of metastatic disease by tumor size, and the utilization and impact of nephron-sparing surgery on survival in those with metastatic disease.
+als and methods
+ing the Surveillance, Epidemiology, and End Results (SEER) database, we identified 56,011 patients between 1988 and 2005 diagnosed with RCC. Patients were initially separated into two groups—those with and without metastatic disease—and stratified by tumor size. Cox proportional hazard modeling and Kaplan-Meier analyses were then utilized to evaluate the role of gender, age, grade, histology, tumor size, and type of surgery (radical vs. partial nephrectomy) on overall- and cancer-specific survival in patients with metastatic disease.
+s
+thousand four hundred ninety-eight patients (15%) had metastatic disease. Four percent of patients with tumors less than 2 cm and 5% of patients with tumors between 2 and 3 cm presented with metastatic disease. Two thousand nine hundred fifty patients (35%) with metastatic disease underwent surgery (radical or partial nephrectomy). Seventy patients (2% of those undergoing surgery) had a partial nephrectomy. Those who underwent partial nephrectomy were 0.49 times less likely to die of RCC than those who underwent radical nephrectomy (95% CI 0.35–0.69, P &lt; 0.001).
+sions
+ small, the risk of metastases in patients with small kidney tumors is distinct and should be considered in management discussions. Partial nephrectomy, when able to be done, should be utilized in the setting of metastatic disease.

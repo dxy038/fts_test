@@ -1,0 +1,10 @@
+The notion of strict minimum of order m for real optimization problems is
+extended to vector optimization. Its properties and characterization are studied in
+the case of finite-dimensional spacesŽmultiobjective problems.. Also the notion of
+super-strict efficiency is introduced for multiobjective problems, and it is proved
+that, in the scalar case, all of them coincide. Necessary conditions for strict
+minimality and for super-strict minimality of order m are provided for multiobjective
+problems with an arbitrary feasible set. When the objective function is Fr´echet
+differentiable, necessary and sufficient conditions are established for the case
+m 1, resulting in the situation that the strict efficiency and super-strict efficiency
+notions coincide

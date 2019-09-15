@@ -1,0 +1,1 @@
+We propose a novel approach that, given a linear saturated feedback control policy, asks for the objective function that makes robust optimal such a policy. The approach is specialized to a linear network flow system with unknown but bounded demand and politopic bounds on controlled flows. All results are derived via the Hamilton-Jacobi-Isaacs and viscosity theory.

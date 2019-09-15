@@ -1,0 +1,12 @@
+The present work extends the non-smooth contact class of algorithms introduced by Kane et al. to
+the case of friction. The formulation speci3cally addresses contact geometries, e.g. involving multiple
+collisions between tightly packed non-smooth bodies, for which neither normals nor gap functions can
+be properly de3ned. A key aspect of the approach is that the incremental displacements follow from
+a minimum principle. The objective function comprises terms which account for inertia, strain energy,
+contact, friction and external forcing. The Euler–Lagrange equations corresponding to this extended variational
+principle are shown to be consistent with the equations of motion of solids in frictional contact.
+In addition to its value as a basis for formulating numerical algorithms, the variational framework o@ers
+theoretical advantages as regards the selection of trajectories in cases of non-uniqueness. We present
+numerical and analytical examples which demonstrate the good momentum and energy conservation
+characteristics of the numerical algorithms, as well as the ability of the approach to account for stick
+and slip conditions

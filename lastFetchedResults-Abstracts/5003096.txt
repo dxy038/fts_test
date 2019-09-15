@@ -1,0 +1,1 @@
+With the introduction of combination into the Quick Learning for Bidirectional Associative Memory (QLBAM), a Combined BAM (CBAM) is presented. The new model aims to improve the storage capacity and error-correction capability without destroying the component QLBAM´s simple structure. Computer simulations demonstrate its good performances.

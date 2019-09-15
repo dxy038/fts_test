@@ -1,0 +1,23 @@
+In an attempt to simulate buckling of
+nonuniform coatings, we consider the problem of
+an embedded crack in a functionally graded coating
+bonded to a homogeneous substrate subjected
+to a compressive loading. The coating is graded
+in the thickness direction and the material gradient
+is orthogonal to the crack direction which
+is parallel with the free surface. The loading consists
+of a uniform compressive strain applied away
+from the crack region. The graded coating is modeled
+as a nonhomogeneous medium with an isotropic
+stress-strain law. Using a nonlinear continuum
+theory and a suitable perturbation technique, the
+plane strain problem is reduced to an eigenvalue
+problem describing the onset of buckling. Using
+integral transforms, the resulting plane elasticity
+equations are converted analytically into singular
+integral equations which are solved numerically to
+give the critical buckling strain and the corresponding
+crack opening displacement shapes. The main
+objective of the paper is to study the influence ofmaterial nonhomogeneity on the buckling resistance
+of the graded layer for various crack positions
+and coating thicknesses

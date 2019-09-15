@@ -1,0 +1,1 @@
+Attempts to produce robust, objective, quantitative measures of comparison between data sets using statistical methods have been widely reported in the literature [1, 2]. Recently [3], techniques have been developed that require the antenna pattern functions to be converted into histograms before the comparison, i.e. the measure of adjacency, is made.

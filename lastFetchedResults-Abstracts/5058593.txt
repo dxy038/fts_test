@@ -1,0 +1,1 @@
+The problem of fusion of range and luminance data is addressed. Fusion is accomplished by minimization of an objective function which requires that the observed brightness agree with both the observed range image and a reflectivity model. The performance of this technique is evaluated

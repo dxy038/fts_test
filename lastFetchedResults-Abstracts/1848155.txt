@@ -1,0 +1,8 @@
+Objective
+ortant source of error in arterial spin labeling (ASL) is incomplete static tissue subtraction due to imperfect slice profiles. This effect can be reduced by saturating the spins in the imaging area prior to labeling. In this study, the use of optimized presaturation is compared with the use of optimized RF pulses for minimizing this error.
+als and Methods
+ent methods for optimizing presaturation were simulated by numerical solution of the Bloch equation. Presaturation was optimized by changing the number of presaturation pulses, their position in the pulse sequence and the area of the crusher gradients following each saturation pulse. It was also investigated whether the use of optimized presaturation could reduce the tag gap needed to ensure complete static tissue subtraction. Simulation results were verified using phantom and in vivo studies at 3T.
+s
+ximal inversion with control for off-resonance effects, optimized presaturation could reduce the necessary tag gap to 15% of the imaging slab for experiments using standard RF pulses, while c-FOCI RF pulses could reduce it to 11%. In flow-sensitive alternating inversion recovery, a single presaturation pulse could reduce the inversion width to 122% of the imaging slab and neither multiple presaturation pulses nor optimized RF pulses could reduce it further.
+sion
+zed presaturation can reduce the necessary inversion width to the same level as if using optimized RF pulses and can, therefore, be used to optimize ASL sensitivity. Furthermore, optimized presaturation can reduce the B1-dependent sensitivity in static tissue subtraction.

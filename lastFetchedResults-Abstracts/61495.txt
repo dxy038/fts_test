@@ -1,0 +1,1 @@
+The adaptive field-oriented control of an induction motor drive using fuzzy logic for the identification of the rotor time constant is proposed. The identification is presented as an optimization problem and the objective function is the total square error between the motor and commanded stator currents. Experimental results are presented.

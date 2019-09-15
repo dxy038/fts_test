@@ -1,0 +1,15 @@
+Spherical roller thrust bearings are used as supports in many rotating machineries. By
+applying an axial preload, clearance between the raceways and the rollers can be avoided.
+In order to increase the endurance, the preload shall be kept as low as possible. However, a
+bearing with low preload is sensitive of loosing full contact leading to nonlinear stiffness
+characteristics. The objective of this paper is to suggest a tool, which can be used to determine
+suitable preload and to show that a saddle node bifurcation can occur if the preload is
+too small.
+Studying the model in a rotating frame leads to an autonomous equation of motion from
+which stationary points and their stability can be analysed. Some set of parameters give a
+nonhyperbolic eigenvalue, and by investigating the corresponding central manifold it is
+found that a saddle node bifurcation occurs.
+Since explicit equations for the stationary points are derived, they can be used to choose
+a preload high enough to make sure that full contact always is a possible solution. It is
+however shown that if the preload becomes too small, the system enters an area of multiple
+solutions and a saddle node bifurcation can occur.

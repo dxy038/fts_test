@@ -1,0 +1,11 @@
+Objective
+Constitutive activation of Stat5 has been observed in a variety of malignancies, particularly myeloid leukemias. To directly investigate the in vivo consequences of Stat5 perturbation, we expressed constitutively active forms in zebrafish.
+Methods
+
+We generated mutants of the zebrafish stat5.1 protein (N646H, H298R/N714F, and N714F) based on previously identified constitutively active mutants of murine Stat5a. The in vitro properties of these mutants were determined using phosphorylation-specific antibodies and luciferase reporter assays, and their in vivo effects were analyzed through microinjection of zebrafish embryos.
+Results
+
+Two of these stat5.1 mutants (N646H and H298R/N714F) showed increased tyrosine phosphorylation and transactivation activity compared to the wild-type protein. Expression of either mutant led to a range of hematological perturbations, which were more pronounced for the H298R/N714F mutant. Interestingly, expression of wild-type also produced generally similar phenotypes. Further analysis showed that expression of the H298R/N714F mutant led to increased numbers of early and late myeloid cells, erythrocytes, and B cells. Some nonhematopoietic developmental perturbations were also observed, but these were equally prominent with wild-type or mutant forms.
+Conclusion
+
+These data implicate Stat5 activity as a direct critical regulator of hematological cell proliferation, suggesting a causal role for constitutively-active Stat5 in the etiology of hematological malignancies.

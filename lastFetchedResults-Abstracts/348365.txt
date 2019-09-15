@@ -1,0 +1,11 @@
+Objective
+The purpose of this study was to use computational modeling to better understand factors that impact neural recordings with silicon microelectrodes used in brain–machine interfaces.
+Methods
+A non-linear cable model of a layer V pyramidal cell was coupled with a finite-element electric field model with explicit representation of the microelectrode. The model system enabled analysis of extracellular neural recordings as a function of the electrode contact size, neuron position, edema, and chronic encapsulation.
+Results
+The model predicted spike waveforms and amplitudes that were consistent with experimental recordings. Small (<1000 μm2) and large (10k μm2) electrode contacts had similar volumes of recording sensitivity, but small contacts exhibited higher signal amplitudes ( 50%) when neurons were in close proximity (50 μm) to the electrode. The model results support the notion that acute edema causes a signal decrease ( 24%), and certain encapsulation conditions can result in a signal increase ( 17%), a mechanism that may contribute to signal increases observed experimentally in chronic recordings.
+Conclusions
+Optimal electrode design is application-dependent. Small and large contact sizes have contrasting recording properties that can be exploited in the design process. In addition, the presence of local electrical inhomogeneities (encapsulation, edema, coatings) around the electrode shank can substantially influence neural recordings and requires further theoretical and experimental investigation.
+Significance
+Thought-controlled devices using cortical command signals have exciting therapeutic potential for persons with neurological deficit. The results of this study provide the foundation for refining and optimizing microelectrode design for human brain–machine interfaces
+

@@ -1,0 +1,17 @@
+Objective: Radiochromic EBT3 flm is a later generation of radiochromic flms.
+The aim of this study is to compare EBT and EBT3 radiochromic flms in radiotherapy
+felds of breast cancer.
+Methods: A RANDO phantom was irradiated by a 6 MV Siemens Primus linac with
+medial and lateral felds of radiotherapy of breast cancer. Dosimetry was performed
+in various points in the felds using EBT and EBT3 flms. Films were scanned by a
+Microtek color scanner. Dose values from two flms in corresponding points were
+compared.
+Results: In the investigation of calibration, net optical density (NOD) of EBT radiochromic is more than the EBT3 radiochromic flm. The highest percentage difference between NODs of two flms is related to 0.75 Gy and equals to 14.19%. The
+lowest value is related to 0.2 Gy dose and is equal to 3.31%. The highest percentage difference between two flms on the RANDO phantom in breast cancer felds is
+13.51% and the minimum value is equal to 0.33%.
+Conclusion: From the comparison between the two flms, most of the points show
+differences in dose in the measurements in felds of breast cancer radiotherapy. These
+differences are attributed to the thickness of the active layers, the overall thickness of
+the flms, and the difference in the calibration ftted functions. The advantage of EBT
+flm over EBT3 is a higher sensitivity; on the other hand EBT3 flm allows to use its
+both sides in the scanning process and it is a new version of this flm type.

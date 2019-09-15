@@ -1,0 +1,12 @@
+Interlaminar stress plays an important role in the delamination failure of laminated composites. A recently
+presented theory, the Interlaminar Shear Stress Continuity Theory (ISSCT), can directly and accurately
+predict interlaminar shear stresses in laminated composites by the constitutive equations. The present study
+further generalizes the derivation to a complete form from which many displacement-based laminate
+theories can be derived. Most of all, both the single-layer and multiple-layer approaches are incorporated
+into the analysis in the thickness direction. The laminate is discretized into several sublaminates and, then,
+a layerwise theory is applied in the analysis of this reduced laminate. This reduction in the number of layers
+used in the analysis makes the calculation of interlaminar shear stresses on the interested interface in a thick
+laminate more efficient. In addition, numerical solutions in closed-form and finite element form for laminates
+under cylindrical bending and bidirectional bending are examined. It is found that in the thickness direction
+the cubic order of the interpolation function and the discretization with four to six sublaminates can reduce
+the computational efforts dramatically and retain the accuracy of the predicted stresses within f 8 per cent

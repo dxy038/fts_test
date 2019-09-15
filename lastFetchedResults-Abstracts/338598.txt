@@ -1,0 +1,11 @@
+Objective
+CD22 is believed to be restricted to normal and neoplastic B cells. Human basophils were found to express CD22 molecules. Among the antibodies against CD22, Leu14, which recognized the ligand binding domain, reacted to basophils, and B3 and 4KB128, which recognized the amino terminus side and carboxy terminus side of the ligand binding epitope, respectively, did not. To clarify the difference of CD22 antigenicity in human B cells and basophils, we investigated RNA sequence and structures of CD22 molecules.
+Materials and Methods
+
+Purified B cells and basophils were obtained from normal human volunteers by using a MACS magnetic cell sorting system and anti-CD19 and anti-FcεR1 antibodies, respectively. RT-PCR and sequencing of CD22 mRNA were performed in the exons 3 to 8. Western blotting analysis of CD22 was also performed.
+Results
+
+The sequence of CD22 mRNA extracted from the basophils was the same as that of B cells in exons 3 to 8 (epitopes recognized by Leu14, B3, and 4KB128 were translated from exons 4 and 5). Reduced CD22 peptide extracted from the basophils reacted to Leu14 as well as B3 and 4KB128, and the molecular size of the reduced and nonreduced products was 130 kDa as expected.
+Conclusion
+
+Disulfide bonds and the resulting 3D conformation of the CD22 molecules may have important roles in the difference of antigenicity of CD22β in B cells (CD22β1) and basophils (CD22β2). The difference in molecular structure surrounding the ligand-binding domain of CD22 may imply a specialization of the conformational forms of CD22 according to the ligand isoforms.

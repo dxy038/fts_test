@@ -1,0 +1,11 @@
+Objective
+To investigate the inhibitory effects of dasatinib on proliferation, function, and signaling events on CD8+T cells.
+Materials and Methods
+
+Carboxyfluorescein diacetate succinimidyl ester and 5-bromo-2-deoxyuridine were used to detect proliferation and cell cycle of CD8+T cells treated with dasatinib, respectively. Frequency and function of viral and leukemia-antigen–specific CD8+T cells from healthy donors were measured by tetramer staining and ELISPOT assay. Western blotting analysis was performed to detect T-cell receptor (TCR), nuclear factor kappa B (NF-κB) and Src signaling events in T cells treated with dasatinib or imatinib.
+Results
+
+Dasatinib inhibited proliferation of CD8+T cells in a dose-dependent manner, which was associated with lower secretion of interferon-gamma and granzyme B, as well as with arrest of CD8+T cells in the G0/G1 phase of cell cycle. Inhibition of CD8+T cells was proven for blood samples from a patient under dasatinib medication when compared with their T-cell status without dasatinib. Western blotting confirmed that these effects were mediated through downregulation of the phosphorylation level of molecules from the TCR and the NF-κB signaling transduction cascade. Dasatinib proved to be more potent than imatinib on Src and TCR signaling events in Jurkat T cells.
+Conclusion
+
+Our study demonstrated that dasatinib impaired proliferation and function of CD8+T cells via TCR and NF-κB signaling events without inducing apoptosis. Therefore, dasatinib might alter the graft-vs-leukemia effect and the graft-vs-host disease after allogeneic stem cell transplantation sustained by CD8+T cells. Dasatinib might also be used as a novel immunosuppressant agent.

@@ -1,0 +1,17 @@
+Abstract1
+Accurate prediction of crop phenology is important in crop simulation models.
+The objective of this work was to quantify the occurrence of phenological stages in
+cotton and to construct a simple phenology model. Required parameters of model
+were obtained from a serially sown field experiment (22 April, 5 May, 24 May, 13
+June, 9 July, and 7 August in 2006). The results showed that none of
+developmental stages is sensitive to photoperiod (on based phonological stages
+reaction to GDD), so only temperature was taken into account. Also, there was no
+difference between hourly, 3-hourly and daily temperature data. Therefore, average
+daily temperature can be used in predicting developmental stages. For independent
+test of the model, data from different field experiments that were carried out at
+Hashem-Abad and Karkandeh stations were used. Root mean square errors
+(RMSE) between simulated and experimental data were 1.8 d for emergence, 7.2 d
+for squaring, 5.5 d for flowering, and 7.8 d for open boll. Therefore, this model can
+be used to predict development stages in cotton simulation model in non-stress
+conditions.
+Keywords: Cotton; Simulation model; Phenology; Temperature; Photoperiod.

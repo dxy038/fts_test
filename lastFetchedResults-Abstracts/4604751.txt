@@ -1,0 +1,1 @@
+The objective of this paper is to present: 1. simple broadband matching networks including the biasing circuit, 2. a 2-8 GHz FET amplifier using such networks, 3. an alternative solution for gate biasing in a balanced amplifier.

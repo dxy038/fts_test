@@ -1,0 +1,8 @@
+Objective
+mine the concurrent validity of the Beck Depression Inventory-Short Form (BDI-SF) to detect moderate and severe depressive episodes according to the International Classification of Diseases, 10th edition (ICD-10) criteria in inpatients with heterogeneous medical conditions and to set cut-off scores for its use in medical wards.
+s
+ndred and fifty-five patients [53% female; mean age (±S.D.)=49.5 (±17) years; mean number of years of education (±S.D.)=6 (±4) years] consecutively admitted to the adult medical wards in a General Hospital were interviewed during the first 72 h of hospitalization. The Clinical Interview Schedule [CIS] was used to make ICD-10 psychiatric diagnoses. All patients completed the BDI-SF. A “receiver operating characteristics” (ROC) curve was obtained and the sensitivity, specificity, positive and negative predictive values were calculated for different cut-off points of the BDI-SF.
+s
+ensitivity and negative predictive value (NPV) were obtained with a cut-off score of 9/10 (sensitivity=100%, specificity=83.1%, NPV=100%). High sensitivity and positive predictive value (PPV) were obtained with a cut-off score of 13/14 (sensitivity=93.5%, specificity=96%, PPV=85.3%). The area under the ROC curve was 98.4% (95% Confidence Interval=0.97–1.00).
+sions
+I-SF is a valid instrument for detecting moderate and severe depression in medical inpatients. For screening purposes, a 9/10 cut-off score is indicated, but if a high specificity is desired, a 13/14 cut-off score is warranted.

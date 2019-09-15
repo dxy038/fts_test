@@ -1,0 +1,11 @@
+Objective
+Two main subpopulations of human blood monocytes are distinguished on the basis of CD14 and CD16 expression: the major population with enhanced expression of CD14 (CD14++ monocytes) and the minor one with a weak expression of CD14 coexpressing CD16 (CD14+/CD16+ monocytes). As monocytes and macrophages are involved in antitumor response of the host, we assessed the ability of CD14+/CD16+ monocytes to produce cytokines (intracellular expression, release) and reactive oxygen and nitrogen (ROI, RNI) intermediates following stimulation in vitro with tumor cells.
+Materials and methods
+
+Monocytes were isolated by elutriation and their subpopulations by FACS sorting. Monocytes and their subpopulations were cocultured with tumor cells. Cytokine (TNF-α, IL-12, and IL-10) production was assessed by determination of intracellular protein expression by flow cytometry, and release by ELISA. ROI induction was detected by chemiluminescence and O2− production by flow cytometry, whereas RNI by intracellular expression of inducible NO synthase (iNOS) and nitric oxide (NO) release assessed colorimetrically.
+Results
+
+CD14+/CD16+ monocytes stimulated with tumor cells showed significantly enhanced production of TNF-α, IL-12p40, IL-12p70 (intracellular expression, release), whereas little IL-10 release was observed. CD14+/CD16+ subpopulation did not produce ROI, but showed an increased iNOS expression and NO release. CD14+/CD16+ monocytes also exhibited enhanced cytotoxic and cytostatic activities against tumor cells.
+Conclusions
+
+CD14+/CD16+ cells constitute the main subpopulation of blood monocytes involved in antitumor response as judged by enhanced production of proinflammatory cytokines, RNI, and increased cytotoxic/cytostatic activity.

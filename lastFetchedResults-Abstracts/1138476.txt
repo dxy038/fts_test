@@ -1,0 +1,7 @@
+In the design of a hydro-mechanical transmission the achievement of high efficiency is one of the most important objectives. Furthermore, the available space for the transmission is always limited, constraining the design process.
+
+In this paper, therefore, the design of a hydro-mechanical transmission has been set as a multi-objective optimization problem, where the goal is not only the best efficiency but also the smallest size of the transmission.
+
+A calculation procedure for a “Pareto optimization” of Input Coupled and Output Coupled transmissions has been implemented on MATLAB and AMESim platforms, in which the research of the optimum solution is carried out using the algorithm of the Multi-Objective Particle Swarm Optimizer.
+
+A 75 kW forklift will be used as a test case for the optimization procedure. Results show that neither of the two layouts is better than the other: the IC layout is more efficient for small displacements, while the OC layout is more efficient for high displacements. Furthermore, the optimized solutions will be compared to the ones obtained using classical preliminary design for the presented test case.

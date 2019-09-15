@@ -1,0 +1,11 @@
+This paper presents an improved weighting method for multicriteria structural optimization. By introducing
+arti=cial design variables, here called as multibounds formulation (MBF), we demonstrate mathematically
+that the weighting combination of criteria can be transformed into a simpli=ed problem with a
+linear objective function. This is a uni=ed formulation for one criterion and multicriteria problems. Due
+to the uncoupling of involved criteria after the transformation, the extension and the adaptation of monotonic
+approximation-based convex programming methods such as the convex linearization (CONLIN)
+or the method of moving asymptotes (MMA)are made possible to solve multicriteria problems as
+e?ciently as for one criterion problems. In this work, a multicriteria optimization tool is developed
+by integrating the multibounds formulation with the CONLIN optimizer and the ABAQUS =nite element
+analysis system. Some numerical examples are taken into account to show the e?ciency of this
+approach

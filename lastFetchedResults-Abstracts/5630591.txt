@@ -1,0 +1,1 @@
+In this paper a ZVT-PWM and a ZCT-PWM resonant switches are introduced. These switches can be applied to PWM converters instead of main switch to perform soft switching condition. Applying these switches to buck and boost converters provides a bidirectional converter for ultracapacitors interface. The simulation results justify the converter operation analysis

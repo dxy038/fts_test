@@ -1,0 +1,3 @@
+Cross Impact Analysis(CIA) as a means of technological forecasting has a critical weakness in that it does not reflect the time impact on forecast events.
+The objective of this research is to modify the current Cross Impact Analysis and to develop a new model which estimates the impact of time on the completion of R&D events when the interdependency between the events are considered.
+

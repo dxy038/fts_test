@@ -1,0 +1,7 @@
+Objective
+The aim of this study was to explore whether there is a relationship between the degree of MR-defined inflammation using ultra small super-paramagnetic iron oxide (USPIO) particles, and biomechanical stress using finite element analysis (FEA) techniques, in carotid atheromatous plaques.
+Methods and Results
+18 patients with angiographically proven carotid stenoses underwent multi-sequence MR imaging before and 36 h after USPIO infusion.  weighted images were manually segmented into quadrants and the signal change in each quadrant normalised to adjacent muscle was calculated after USPIO administration. Plaque geometry was obtained from the rest of the multi-sequence dataset and used within a FEA model to predict maximal stress concentration within each slice. Subsequently, a new statistical model was developed to explicitly investigate the form of the relationship between biomechanical stress and signal change. The Spearman's rank correlation coefficient for USPIO enhanced signal change and maximal biomechanical stress was −0.60 (p = 0.009).
+Conclusions
+There is an association between biomechanical stress and USPIO enhanced MR-defined inflammation within carotid atheroma, both known risk factors for plaque vulnerability. This underlines the complex interaction between physiological processes and biomechanical mechanisms in the development of carotid atheroma. However, this is preliminary data that will need validation in a larger cohort of patients.
+

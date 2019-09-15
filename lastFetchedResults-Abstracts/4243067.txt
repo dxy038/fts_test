@@ -1,0 +1,1 @@
+The objective of the paper is to investigate the effects of metallic control lines on a frequency reconfigurable patch antenna. The designed antenna resonates at 3 different frequencies in range of 3-4GHz. Simulation and measurement results of return loss with and without control lines are presented. We have also discussed the challenges of implementing the bias lines.

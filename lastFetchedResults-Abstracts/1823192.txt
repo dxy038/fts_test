@@ -1,0 +1,8 @@
+Objective
+m of this study is to clarify the effects of zinc chloride (ZnCl2) exposure on the induction of heme oxygenase-1 (HO-1) expression and its regulatory mechanisms in MDPC-23 mouse odontoblast-like cells.
+s
+3 cells were incubated with ZnCl2, and the levels of HO-1 protein, phosphorylated forms of mitogen-activated protein kinases (MAPKs), including extracellular signal-regulated protein kinase (ERK), c-Jun NH2-terminal kinase (JNK), and p38, and phosphorylated forms of amino kinase terminal (Akt) and nuclear factor-κB (NF-κB) p65 were determined with western immunoblotting. The level of HO-1 mRNA was determined with RT-PCR analysis. After pretreatment with inhibitors of ERK, JNK, p38, phosphoinositide-3 kinase (PI3K), and NF-κB, HO-1 protein level was determined in MDPC-23 cells exposed to ZnCl2.
+s
+ing exposure to 500 μM ZnCl2, the levels of both HO-1 mRNA and protein were markedly increased. The phosphorylated forms of ERK, JNK, and p38 increased after ZnCl2 exposure. Furthermore, the expression of HO-1 was markedly suppressed by treatment with the p38 inhibitor, SB203580, and mildly suppressed by the MAPK/ERK kinase inhibitor, U0126. However, treatment with the JNK inhibitor, SP600125, did not suppress ZnCl2-induced HO-1 expression. In addition, the phosphorylated forms of Akt, a downstream kinase of PI3K, and NF-κB p65 increased after ZnCl2 exposure. Treatment with the PI3K inhibitor, LY294002, and the NF-κB inhibitor, Bay11-7082, suppressed ZnCl2-induced HO-1 expression.
+sion
+results suggest that ZnCl2 exposure induces HO-1 expression via multiple intracellular signalling pathways, including p38, ERK, PI3K/Akt, and NF-κB, in this odontoblast-like cell line.

@@ -1,0 +1,11 @@
+The importance of the ready times can be found in Wafer fabrication with the presence of unequal ready
+times. It is sometimes advantageous to form a non-full batch, while in other situations it is a better strategy
+to wait for future job arrivals in order to increase the fullness of the batch. On the other hand, there is
+a significant involvement of humans in scheduling environments; the amount of learning activities is
+high. Hence it seems to be reasonable to consider learning in scheduling environments. However,
+research with learning and release times is relatively unexplored. Motivated by this observation, this
+paper deals with a single-machine problem with the learning effect and release times where the objective
+is to minimize the makespan. This paper proposes a branch-and-bound algorithm and three two-stage
+heuristic algorithms for the problem. The computational experiments show that the branch-and-bound
+algorithm can solve instances up to 25 jobs, and the best one with the average error percentage of the
+proposed heuristics is less than 0.05%.

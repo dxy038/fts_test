@@ -1,0 +1,11 @@
+Objective
+To spatially and temporally characterise the cortical contrast response function to pattern onset stimuli in humans.
+Methods
+Magnetoencephalography (MEG) was used to investigate the human cortical contrast response function to pattern onset stimuli with high temporal and spatial resolution. A beamformer source reconstruction approach was used to spatially localise and identify the time courses of activity at various visual cortical loci.
+Results
+Consistent with the findings of previous studies, MEG beamformer analysis revealed two simultaneous generators of the pattern onset evoked response. These generators arose from anatomically discrete locations in striate and extra-striate visual cortex. Furthermore, these loci demonstrated notably distinct contrast response functions, with striate cortex increasing approximately linearly with contrast, whilst extra-striate visual cortex followed a saturating function.
+Conclusions
+The generators that underlie the pattern onset visual evoked response arise from two distinct regions in striate and extra-striate visual cortex.
+Significance
+The spatially, temporally and functionally distinct mechanisms of contrast processing within the visual cortex may account for the disparate results observed across earlier studies and assist in elucidating causal mechanisms of aberrant contrast processing in neurological disorders.
+

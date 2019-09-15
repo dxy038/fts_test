@@ -1,0 +1,3 @@
+Vacuum grippers allow the grasping and movement of objects, often of large dimension, with remarkable simplicity and delicacy.
+
+In this work, a mathematical model is proposed for the grasp of vacuum grippers with multiple suction cups. The model allows us to determine the minimum value of the vacuum force and the friction coefficient able to guarantee the grasping and movement of the object by means of a gripper with multiple suction cups without separating or skidding. A criterion is also proposed to determine the best position of the vacuum gripper with the objective of minimizing the vacuum force. Finally, an example related to the motion of an irregular object is described.

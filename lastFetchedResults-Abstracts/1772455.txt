@@ -1,0 +1,10 @@
+Objectives
+udy objective was to assess the association between angiotensin-converting enzyme inhibitor (ACEI)/angiotensin receptor blocker (ARB) use and mortality in patients with chronic kidney disease (CKD).
+ound
+is insufficient evidence about the association of ACEI or ARBs with mortality in patients with CKD.
+s
+stic regression analysis was used to calculate the propensity of ACEI/ARB initiation in 141,413 U.S. veterans with nondialysis CKD who were previously unexposed to ACEI/ARB treatment. We examined the association of ACEI/ARB administration with all-cause mortality in patients matched by propensity scores using the Kaplan-Meier method and Cox models in “intention-to-treat” analyses and in generalized linear models with binary outcomes and inverse probability of treatment weights in “as-treated” analyses.
+s
+e of the patients at baseline was 75 ± 10 years, 8% of patients were black, and 22% were diabetic. ACEI/ARB administration was associated with a significantly lower risk of mortality both in the intention-to-treat analysis (hazard ratio: 0.81, 95% confidence interval: 0.78 to 0.84; p &lt; 0.001) and the as-treated analysis with inverse probability of treatment weights (odds ratio: 0.37, 95% confidence interval: 0.34 to 0.41; p &lt; 0.001). The association of ACEI/ARB treatment with lower risk of mortality was present in all examined subgroups.
+sions
+s large contemporary cohort of nondialysis-dependent patients with CKD, ACEI/ARB administration was associated with greater survival.

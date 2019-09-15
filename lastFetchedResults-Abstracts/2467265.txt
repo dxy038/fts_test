@@ -1,0 +1,10 @@
+AbstractContext
+e of Business Process Management Systems (BPMS) has emerged in the IT arena for the automation of business processes. In the majority of cases, the issue of security is overlooked by default in these systems, and hence the potential cost and consequences of the materialization of threats could produce catastrophic loss for organizations. Therefore, the early selection of security controls that mitigate risks is a real and important necessity. Nevertheless, there exists an enormous range of IT security controls and their configuration is a human, manual, time-consuming and error-prone task. Furthermore, configurations are carried out separately from the organization perspective and involve many security stakeholders. This separation makes difficult to ensure the effectiveness of the configuration with regard to organizational requirements.
+ive
+s paper, we strive to provide security stakeholders with automated tools for the optimal selection of IT security configurations in accordance with a range of business process scenarios and organizational multi-criteria.
+
+roach based on feature model analysis and constraint programming techniques is presented, which enable the automated analysis and selection of optimal security configurations.
+s
+logue of feature models is determined by analyzing typical IT security controls for BPMSs for the enforcement of the standard goals of security: integrity, confidentiality, availability, authorization, and authentication. These feature models have been implemented through constraint programs, and Constraint Programming techniques based on optimized and non-optimized searches are used to automate the selection and generation of configurations. In order to compare the results of the determination of configuration a comparative analysis is given.
+sion
+s paper, we present innovative tools based on feature models, Constraint Programming and multi-objective techniques that enable the agile, adaptable and automatic selection and generation of security configurations in accordance with the needs of the organization.

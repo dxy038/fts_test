@@ -1,0 +1,6 @@
+Objective: This study investigated the diagnostic utility of EEG power during eyes-closed resting conditions for children with attention-deficit/hyperactivity disorder (AD/HD).
+Methods: Subjects consisted of 253 boys with AD/HD combined type and 67 age-matched controls. EEG was recorded from 21 sites during an eyes-closed resting condition and was Fourier transformed to provide estimates for total power and absolute and relative power in delta, theta, alpha and beta bands. Factor analysis was used to group sites into frontal, central and posterior regions, with these data subjected to cluster analysis. Logistic regression was performed on the entire AD/HD sample versus control, for AD/HD clusters versus control, and then for each AD/HD cluster independently versus control, using total, absolute and relative power measures.
+Results: Logistic regression performed on the clusters independently produced the best classification results, with a sensitivity of 89.0% and a specificity of 79.6%, with an overall classification accuracy of 87.0%
+Conclusions: The obtained classification results are supportive of an independent diagnostic test for AD/HD based on EEG power at rest.
+Significance: This is the first study to investigate sensitivity and specificity of EEG power for AD/HD in a resting condition.
+

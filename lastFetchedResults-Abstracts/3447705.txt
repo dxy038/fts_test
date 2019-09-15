@@ -1,0 +1,1 @@
+A single source full-duplex bidirectional link based on coherence multiplexing has been realised. The use of Z-propagating LiNbO<sub>3 </sub> integrated modulators ensures polarisation independent operation when used to transmit digital signals

@@ -1,0 +1,11 @@
+Objective
+To present a motor unit number estimation (MUNE) technique that resolves alternation by means of high-density surface EMG.
+Methods
+High-density surface EMG, using 120 EMG channels simultaneously, is combined with elements of the increment counting technique (ICT) and the multiple-point stimulation technique. Alternation is a major drawback in the ICT. The spatial and temporal information provided by high-density surface EMG support identification and elimination of the effects of alternation. We determined the MUNE and its reproducibility in 14 healthy subjects, using a grid of 8 × 15 small electrodes on the thenar muscles.
+Results
+Mean MUNE was 271 ± 103 (retest: 290 ± 109), with a coefficient of variation of 22% and an intra-class correlation of 0.88. On average, 22 motor unit potentials (MUPs) were collected per subject. The representativity of this MUP sample was quantitatively assessed using the spatiotemporal information provided by high-density recordings.
+Conclusions
+MUNE values are relatively high, because we were able to detect many small MUPs. Reproducibility was similar to that of other MUNE techniques.
+Significance
+Our technique allows collection of a large MUP sample non-invasively by resolving alternation to a large extent and provides insight into the representativity of this sample. The large sample size is expected to increase MUNE accuracy.
+

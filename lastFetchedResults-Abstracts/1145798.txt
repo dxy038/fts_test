@@ -1,0 +1,7 @@
+Noise source ranking is required to make the noise level of a vehicle the lowest possible. That implies knowing the noise sources with the highest contribution to the total noise levels.
+
+Through the application of coherence techniques, the selective intensity can be defined as the portion of intensity that is coherent with a reference signal. Therefore, it is an effective way to determine the internal root causes of the emitted noise.
+
+In this paper, three experiments based on the selective intensity technique have been defined. The objective is observing the contributions of different noise sources of a vehicle, both outside and inside of it, when it is working at idle, and using as reference signals the two microphones of a HATS.
+
+With these experiments, it can be evaluated, on the one hand, the coherence between the intensity in the driver’s seat and external microphones located on both sides of the frontal axle of the car, in the exhaust and in the engine. On the other hand, it is evaluated the coherence between sound intensity in the same external points of the car and different positions of a HATS outside and inside of it; thus, as novelties the relation between the noise emitted by different parts of the vehicle and the noise perceived by the vehicle’s driver and by people located outside could be studied.

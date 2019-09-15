@@ -1,0 +1,2 @@
+A new adaptive control scheme for discrete-time systems is proposed. The objective is the tracking of the trajectory. Global
+boundedness convergence and boundedness are obtained for a certain subclass of nonlinear systems.

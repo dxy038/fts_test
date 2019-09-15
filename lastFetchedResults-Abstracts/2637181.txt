@@ -1,0 +1,11 @@
+The main objective of this project is efficiency evaluation of nanofilteration membrane in Barium
+removal from dewatering unit and effective parameters investigation of this method. In this research, the
+temperature, pressure and pH are considered as a operational parameters in a pilot nanofilteration
+membrane for removing a real sample.
+Taguchi method and Qualitek-4 software are selected to acquire optimum operational condition and
+experimental designing. On this basis, 16 tests with 2 times repetition, totally 32 tests, are carried out.
+Based on the obtained results, the optimum operational conditions to remove barium are T= 20C0, P=170
+PSI and pH=4.
+The efficiency in Barium removal is 88.4%, which the initial Barium concentration is reduced from
+209 Mg/L to 24.5 Mg/L Furthermore, the water recovery factor is about 47.17 %, which its proper
+efficiency shows that this method is suitable from high volume purification of wastewater.

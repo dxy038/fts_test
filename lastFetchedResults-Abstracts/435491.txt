@@ -1,0 +1,9 @@
+Background
+The objective of this study was to combine systematic review and decision analytic techniques to determine the optimal treatment strategy for patients with locally advanced esophageal cancer.
+Methods
+We performed a systematic review of all randomized trials of patients with locally advanced esophageal cancer that included one of the following strategies compared with surgery alone: chemoradiotherapy followed by surgery, chemotherapy followed by surgery, or surgery with adjuvant chemoradiotherapy. Using the estimates of relative risk for mortality and overall quality of life we constructed a decision model. The outcome of interest was expected quality-adjusted life-years (QALY).
+Results
+The meta-analysis showed for the first year, the relative risk (95% confidence interval) of death for treatments compared with surgery were 0.87 (0.75 to 1.02) for chemoradiotherapy followed by surgery, 0.94 (0.82 to 1.08) for chemotherapy followed by surgery, and 1.33 (0.93 to 1.93) for surgery with adjuvant chemoradiotherapy. The QALYs gained for surgery alone, chemoradiotherapy followed by surgery, chemotherapy followed by surgery, and surgery with adjuvant chemoradiotherapy strategies were 2.07, 2.18, 2.14, and 1.99, respectively. If the reduction in utility for multimodality treatment was increased to 21%, the QALYs gained for surgery alone, chemoradiotherapy followed by surgery, chemotherapy followed by surgery, and surgery with adjuvant chemoradiotherapy were 2.07, 2.03, 1.99, and 1.85, respectively.
+Conclusions
+Chemoradiotherapy followed by surgery appears to be associated with the best survival and the largest expected gain in QALYs. However, the improvement in quality-adjusted life expectancy is modest at 40 days, and surgery alone becomes the preferred strategy if the reduction in utility associated with multimodality treatment is increased to 21%.
+

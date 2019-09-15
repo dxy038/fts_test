@@ -1,0 +1,1 @@
+The objective of this paper is to solve the problem of tracking trajectories of feedforward systems. A family of time-varying state feedbacks that globally, uniformly, asymptotically and locally exponentially stabilize trajectories which are not necessarily periodic functions of time is exhibited. The control design is based on the construction of a strict Lyapunov function.

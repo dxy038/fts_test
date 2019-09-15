@@ -1,0 +1,11 @@
+Objective. The aim was to explore the validity and reliability of EMG for assessing lumbar muscle fatigue.
+
+Design. Patients with long-term low-back trouble (n=57) were compared to a healthy reference group (n=55). Back muscle fatigue and recovery were studied in relation to health-related factors.
+
+Background. EMG spectral variables are important tools in the assessment of patients with low-back trouble. The influence of disability on these variables needs further investigation.
+
+Methods. EMG from the lower back muscles was recorded during a 45 s trunk extension at 80% of maximal voluntary contraction torque and during recovery. Disability was studied using questionnaires.
+
+Results. The reliability was high for maximal voluntary contraction torque and EMG initial median frequency, lower for the median frequency slope, and insufficient for median frequency recovery half-time. The patients had lower maximal voluntary contraction torque, higher initial median frequency at L5 level, flatter slope, and longer recovery half-time than the healthy subjects did. However, for subjects with significantly negative slope, indicating fatigue, there was no significant difference in slope between patients and healthy subjects, while, for subjects without such fatigue, patients showed significantly flatter slopes at L5. The sensitivity/specificity of the test was 86%/78%. The most significant variables selected with logistic regression were maximal voluntary contraction torque and initial median frequency at L5. Patients without significantly negative slopes during contraction and/or not exponential-like EMG recovery scored worse on several items concerning disability and self-efficacy.
+
+Conclusions. EMG spectral variables in combination with torque might be used for classification. For patients with long-term low-back trouble, the ability to fatigue the lumbar muscles sufficiently to obtain a significantly negative slope during an 80% maximal voluntary contraction may be a sign of better functioning.

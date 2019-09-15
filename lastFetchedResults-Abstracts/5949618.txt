@@ -1,0 +1,1 @@
+This paper describes a novel, bi-directional millimetre-wave amplifier, which relies upon the inherent symmetry of devices like FETs or HEMTs. The direction of amplification can be reversed by simply reversing the polarity of the DC bias applied to the active devices. Practical bidirectional amplifier designs have been implemented at 2.5, 42 and 60 GHz

@@ -1,0 +1,1 @@
+We demonstrate a simple architecture for bidirectional optical fibre transmission which uses an MQW device as both modulator and photodetector. We achieved transmission of 50 Mbit/s and 600 Mbit/s in both directions over one 3.34 km-long single-mode fibre at 860 nm wavelength. Coherent Rayleigh interference was found to be a limiting factor in single-source bidirectional systems.

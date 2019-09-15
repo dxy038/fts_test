@@ -1,0 +1,9 @@
+Background
+Estimating the duration of forced exhalation tracheal noises shows promise for recognizing bronchial obstruction.
+Objective
+Experimental simulation of an influence of biomechanical parameters on the duration of normal forced exhalation tracheal noises.
+Method and materials
+Thirty-two healthy non-smoking men aged 16–22 years were examined. The duration of noises, the parameters of computer spirometry, and the maximum static expiratory pressure are recorded. These data were analyzed by means of multiple linear regression simulation for logarithms of the elements of the proportionality relation obtained with the use of a one-component biomechanical model of forced exhalation and a linearized approximation of flow–volume curve.
+Results
+Dependence between duration of the forced expiratory noises recorded on human trachea and the product of forced volume capacity (in power of 1.05±0.27), maximum static expiratory pressure (in power of 0.46±0.23), equivalent expiratory resistance in the stage of functional expiratory stenosis (in power of 0.72±0.15) is established. Determination coefficient is 0.57. The duration of forced expiratory noises recorded on human trachea in healthy is an estimate of the equivalent expiratory resistance of human bronchial tree in the functional expiratory stenosis phase, whereas in patients with bronchial obstruction it is supposed to take into account an excess of noise generation time compared with the time predicted from normal individual value of this resistance.
+

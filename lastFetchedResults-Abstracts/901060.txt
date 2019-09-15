@@ -1,0 +1,1 @@
+Following a manuscript of K.S. Sarkaria we give an extensive account of the topological Tverberg Theorem in the case where the number of desired disjoint faces is a prime power. Since all known proofs of the theorem utilize methods from algebraic topology, the objective of this article is to explain the proof to a wider mathematical audience.

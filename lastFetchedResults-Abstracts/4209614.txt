@@ -1,0 +1,1 @@
+We propose a cost-effective, reconfigurable optical access network by employing passive components in the remote node and dual conventional optical transceivers in ONUs. The architecture is demonstrated with bidirectional transmission at 10 Gb/s.

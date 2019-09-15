@@ -1,0 +1,8 @@
+Objective
+ific findings regarding human pathogens and their host responses are buried in the growing volume of biomedical literature and there is an urgent need to mine information pertaining to pathogenesis-related proteins especially host pathogen protein–protein interactions (HP-PPIs) from literature.
+s
+s paper, we report our exploration of developing an automated system to identify MEDLINE abstracts referring to HP-PPIs. An annotated corpus consisting of 1360 MEDLINE abstracts was generated. With this corpus, we developed and evaluated document classification systems using support vector machines (SVMs). We also investigated the effects of three feature selection methods:information gain (IG), χ2 test, and specific mutual information (SI). The performance was measured using normalized discounted cumulative gain (NDCG) and positive predictive value (PPV) and all measures were obtained through 10-fold cross validation.
+s
+easures for classification systems using all features or a subset of features selected using IG and χ2 test range from 0.83 to 0.89 while classification systems built based on features selected using SI had relatively lower NDCG measures. The classification system achieved a PPV of 50.7% for the top 10% ranked documents comparing to a baseline PPV of 10.0%.
+sions
+sults indicate that document classification systems can be constructed to efficiently retrieve HP-PPI related documents. Feature selection was effective in reducing the dimensionality of features to build a compact system.

@@ -1,0 +1,11 @@
+Objective
+Osteoprotegerin (OPG) is a soluble member of the tumor necrosis factor receptor superfamily critically involved in the regulation of bone resorption. Within the bone microenvironment, OPG is abundantly produced by osteoblast/stromal cells, and its expression is regulated by transforming growth factor-β1 (TGF-β1). However, OPG expression and regulation in primary hematopoietic cells have not been fully investigated.
+Materials and methods
+
+Opg mRNA was studied in murine hematopoietic cells by semiquantitative reverse transcriptase-polymerase chain reaction. The OPG protein was identified by immunofluorescence labeling and secretion was assessed by enzyme-linked immunosorbent assay.
+Results
+
+Opg transcripts were detected in platelets, megakaryocytes (MK), monocytes, and B lymphocytes, but not in erythroblasts, neutrophils, and T lymphocytes. Mature MK and proplatelets exhibited strong immunostaining for OPG outside the storage α-granules, and secretion was detected in the conditioned medium. To analyze whether opg transcription in MK was influenced by TGF-β1, the opg/GpIIb mRNA ratio was compared in cultured MK derived from TGF-β1 null mutants and wild-type littermates without or after the addition of bioactive TGF-β1. No difference was seen, indicating that opg expression in MK was not modulated by TGF-β1. However, mRNA levels were increased when thrombopoietin was present in the culture medium, suggesting that MK maturation was correlated with enhanced opg expression.
+Conclusions
+
+With these results we document for the first time that murine MK and platelets express OPG. This suggests a novel role for MK in bone homeostasis, in addition to its role in vascular homeostasis.

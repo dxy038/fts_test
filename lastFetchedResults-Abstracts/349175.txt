@@ -1,0 +1,11 @@
+Objective
+The CAP cycle is a module of activation (phase A) and inhibition (phase B) which repeats itself in sequences. The study aims at testing the hypothesis that the duration of CAP sequences is determined primarily by the number and not by the length of CAP cycles.
+Methods
+The polysomnographic recordings of 24 normal subjects, 12 males and 12 females, ranging in age from 20 to 35 years (mean 27.8 ± 7.2), were examined.
+Results
+A total of 1053 CAP sequences were counted with an average of 43.9 sequences per night. The mean duration of CAP sequences was 2 min and 33 s. Each CAP sequence was composed of an average of 5.6 CAP cycles. All subjects presented CAP sequences lasting at least 5 min and 30 s. The mean duration of CAP cycles was 26.9 ± 4.1 s. CAP cycles including subtypes A1 presented the highest correlation with the CAP sequence length (r = 0.92; p < 0.0001).
+Conclusions
+The progressive increase of CAP sequences length is linked to the progressive accumulation of CAP cycles.
+Significance
+CAP sequences can be considered as strings of time-constant modules, i.e., CAP cycles, which are involved in the dynamic tailoring of sleep structure.
+

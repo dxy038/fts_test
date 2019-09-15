@@ -1,0 +1,12 @@
+Function approximation is one of the most important "elds of research in design optimization. Accurate
+function approximation reduces the repetitive cost of "nite element analysis. Many local approximations,
+such as one- and two-point local approximations, are already available. These are, however, only valid in
+a small domain and require stringent move-limits on design variables. The objective of this research is to
+achieve an e$cient and accurate multipoint approximation to constraints by integrating the most accurate
+segment of all local approximations previously constructed. The proposed multipoint approximation is
+constructed by combining weighting functions with local function approximations. With function and
+gradient information at a series of points, local approximations are established at those points. Once
+established, all local approximations are blended into a multipoint approximation by use of a weighting
+function. Function and gradient values of this multipoint approximation correspond directly with exact
+counterparts at the points where the local approximations were generated. Finally, the multipoint approximation
+is applied to a plate and wing box thermal-structural optimization

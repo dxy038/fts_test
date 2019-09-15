@@ -1,0 +1,6 @@
+In this paper, an intelligent controller is applied to control omni-directional robots motion. First, the dynamics of the three wheel robots,
+as a nonlinear plant with considerable uncertainties, is identified using an efficient algorithm of training, named LoLiMoT. Then, an
+intelligent controller based on brain emotional learning algorithm is applied to the identified model. This emotional learning is based on a
+computational model of limbic system in the mammalian brain. The Brain Emotional Learning Based Intelligent Controller (BELBIC),
+using the concept of LQR control is adopted for the omni-directional robots. The performance of this multi objective control is illustrated
+with simulation results based on real world data. This approach can be utilized directly to the robots in the future.

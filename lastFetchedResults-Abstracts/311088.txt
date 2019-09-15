@@ -1,0 +1,11 @@
+Background.  The shoulder region is a common site of work-related musculoskeletal disorders. Biomechanical models may reveal the relative importance of force, joint-moments, and angular velocity for predicting muscle activity, thereby contributing to identify risk factors.
+
+Objective. The aim of the present study was to predict muscle activity patterns from joint kinetics during cleaning work and to identify the most important variables requesting muscle activity.
+
+Design. A comparative study of six cleaners performing five different floor cleaning tasks (combinations of tool and working method) in a laboratory setting.
+
+Methods. Net forces and moments at the glenohumeral joint were estimated using a video-based 3D link segment model together with 3D force-transducers at each hand, separately. Angular velocities of the upper arm were calculated, and electromyographic activity was recorded bilaterally from the muscles trapezius, deltoideus, and infraspinatus.
+
+Results. The biomechanical model revealed abduction moment in the glenohumeral joint to be the most important factor for development of muscle activity in m. deltoideus and m. infraspinatus, while for m. trapezius vertical force was most important.
+
+Conclusion. Muscle specific determinants for shoulder muscle activity could be identified from glenohumeral joint kinetics.

@@ -1,0 +1,10 @@
+The objective of this study was to verify the influence of curing methods on contraction stress, stress rate and degree of conversion (DC) of a restorative composite at two C-factor levels.
+Methods
+
+For the stress test, composite was applied between two for 15 min from diameter glass rods mounted in a servohydraulic machine, and stress was monitored for 10 min from the beginning of light curing. Stress rates were calculated as the change in stress versus time at each second. DC was measured by micro-FTIR. Four curing methods were tested at two C-factor levels (1.5 and 3.0): continuous light (CL), soft-start (SS) and two pulse delay methods using different initial irradiances—150 mW/cm2 (PD150) and 80 mW/cm2 (PD80). Results were analyzed by ANOVA and Tukey's test (α = 0.05).
+Results
+
+For the stress test, at CF 1.5, PD80 presented the lowest mean value, statistically different from the others. PD150 also showed a mean value statistically inferior to CL. At CF 3.0, no statistical difference was observed among CL, SS and PD150. PD80 presented statistically lower stress values compared to CL and SS. Stress values at CF 3.0 were statistically higher than those at CF 1.5 for all curing methods. CL presented the highest maximum stress rate, followed by SS, PD150 and PD80, for both C-factors. In the DC test, no difference was observed among the methods and between the C-factor levels.
+Significance
+
+Modulated curing methods were shown to be effective in reducing contraction stress rate, without compromising the DC of the restorative composite. C-factor was shown to influence negatively the stress rate and the amount of stress generated.

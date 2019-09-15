@@ -1,0 +1,1 @@
+Battery lifetime extension is a primary design objective for portable systems. We introduce the concept of battery-driven dynamic power management, which strives to enhance lifetime by automatically adapting discharge rate and current profiles to battery charge state 

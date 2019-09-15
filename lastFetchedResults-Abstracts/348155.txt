@@ -1,0 +1,11 @@
+Objective
+To investigate the effects of mexiletine, an analog of lidocaine, on excitability of human axons in vivo.
+Methods
+Threshold tracking was used to measure multiple excitability indices (strength-duration time constant, rheobase, refractoriness, supernormality, and threshold electrotonus) in median motor axons of 20 patients with neuropathic pain or muscle cramping, before and 3 months after treatment with oral 300 mg mexiletine per day.
+Results
+After treatment, there was a reduction in pain/muscle cramps, associated with decreased strength-duration time constants (P=0.01), increased rheobasic currents (P=0.06), and lower refractoriness (P=0.02), all of which were consistent with reduced nodal Na+ currents. Supernormality and threshold electrotonus did not change significantly. The changes in strength-duration properties suggest a decrease in persistent Na+ conductance. The lowered refractoriness after treatment might result from reduced transient Na+ currents, but the lack of change in supernormality and threshold electrotonus was not consistent with this hypothesis.
+Conclusions
+Oral mexiletine in a dosage of 300 mg daily suppresses persistent Na+ currents in human motor axons.
+Significance
+Measurements of the excitability indices can be used for non-invasive assessment and monitoring of the effects of mexiletine in patients with neuropathic pain or muscle cramps.
+

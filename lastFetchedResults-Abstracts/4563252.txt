@@ -1,0 +1,1 @@
+We demonstrate a flexible optical remote node architecture enabled dynamic wavelength allocation for converged optical access and mobile backhaul applications. Source-free and colorless ONUs have been realized in a bidirectional long-reach 80km hybrid WDM/TDM PON with a 1:32 passive split.

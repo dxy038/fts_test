@@ -1,0 +1,7 @@
+Objective
+Genetic variation in CC-chemokine receptor-2 (CCR2) and -5 (CCR5), and their common haplotypes, acting through inflammatory responses, may affect atherosclerosis and risk of coronary heart disease (CHD).
+Method and results
+We examined seven common variants in the CCR2 and CCR5 loci and risk of CHD among women in the Nurses’ Health Study. During 8 years of follow-up, we documented 248 incident cases of nonfatal myocardial infarction and fatal CHD, and matched controls 2:1 based on age and smoking. The distribution of alleles was similar between cases and controls. The haplotype-specific odds ratios (ORs) were not statistically significant nor was the globally-adjusted p-value (p = 0.61). However, there was a statistically significant association for CCR5-Δ32 and A58755G (rs2856758) between cases and controls comparing age of onset <55 and ≥55 years. For Δ32, the OR for having the variant was 0.12 (0.02–0.76) for age <55, and 1.14 (0.69–1.88) for age ≥55 years (p, interaction = 0.04). The CCR5-Δ32 was in linkage disequilibrium with 58755G, and a similar association was observed for having the 58755G.
+Conclusions
+In this population, CCR2–CCR5 haplotypes were not associated with risk of CHD. However, our data suggest a strong inverse association for certain CCR5 variants and early age of CHD onset.
+

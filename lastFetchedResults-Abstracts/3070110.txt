@@ -1,0 +1,1 @@
+LO for VLBI receiver at the frequency band 18-25 GHz for "radioastron" project has been developed. The main objective of the work was minimization of LO phase fluctuation with respect to reference oscillator signal. LO phase error about 1 degree RMS was simulated and measured.

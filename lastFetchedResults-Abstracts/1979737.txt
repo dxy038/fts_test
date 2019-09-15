@@ -1,0 +1,10 @@
+Multivariate statistical process control is aimed at monitoring two or multiple quality characteristics
+simultaneously. In monitoring such processes, it is a necessity to achieve two major objectives. The first 
+objective involves the prompt identification of out-of-control conditions while the second objective deals with
+the correct identification of the quality variable responsible for out-of-control state. In this research, we have
+investigated approaches to reach the first objective
+ and several methods developed for monitoring multivariate
+variance-covariance matrix in phase II. The main objective in phase II is quickly identification shift in deviation.
+In this research, 2 methods developed for monitoring multivariate variance-covariance matrix in phase II that 
+considered special cases of process displacement. The results of conducting simulation studies reveal that 
+employing the proposed methods can effectively lead to a decrease in ARL. 

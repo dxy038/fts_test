@@ -1,0 +1,11 @@
+Objective
+Human multipotent mesenchymal stromal cells (MSC) have the potential to differentiate into multiple cell types, although little is known about factors that control their fate. Differentiation-specific microRNAs may play a key role in stem cell self-renewal and differentiation. We propose that specific intracellular signaling pathways modulate gene expression during differentiation by regulating microRNA expression.
+Materials and Methods
+
+Illumina mRNA and NCode microRNA expression analyses were performed on MSC and their differentiated progeny. A combination of bioinformatic prediction and pathway inhibition was used to identify microRNAs associated with platelet-derived growth factor (PDGF) signaling.
+Results
+
+The pattern of microRNA expression in MSC is distinct from that in pluripotent stem cells, such as human embryonic stem cells. Specific populations of microRNAs are regulated in MSC during differentiation targeted toward specific cell types. Complementary mRNA expression analysis increases the pool of markers characteristic of MSC or differentiated progeny. To identify microRNA expression patterns affected by signaling pathways, we examined the PDGF pathway found to be regulated during osteogenesis by microarray studies. A set of microRNAs bioinformatically predicted to respond to PDGF signaling was experimentally confirmed by direct PDGF inhibition.
+Conclusion
+
+Our results demonstrate that a subset of microRNAs regulated during osteogenic differentiation of MSCs is responsive to perturbation of the PDGF pathway. This approach not only identifies characteristic classes of differentiation-specific mRNAs and microRNAs, but begins to link regulated molecules with specific cellular pathways.

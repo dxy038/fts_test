@@ -1,0 +1,1 @@
+We demonstrate monolithically integrated 4&#215;10 Gb/s WDM transceivers built in a production 130 nm SOI CMOS process. Only light sources are external to the chip. 40 Gb/s error-free, bidirectional transmission is demonstrated.

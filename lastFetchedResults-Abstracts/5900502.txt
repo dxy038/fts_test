@@ -1,0 +1,1 @@
+These variations on Chandy and Micro´s drinking philosophers algorithm (1984) are presented. The objective is to minimize the number of forks that must be collected before a thirsty process may drink, thus reducing the delay incurred in collecting resources before entering a critical section

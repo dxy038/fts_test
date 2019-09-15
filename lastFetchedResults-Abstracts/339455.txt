@@ -1,0 +1,11 @@
+Objective
+We have previously shown that all-trans retinoic acid (ATRA) enhanced the maintenance of early human hematopoietic progenitor cells (HPCs) in the presence of an irradiated stromal cell line AFT024. In this study, we examined the effects of ATRA on the stromal cell component with particular reference to cellular proliferation and gene expression.
+Methods
+
+Irradiated AFT024 cells were cultured in Dulbecco's Modified Eagle's Medium supplemented with fetal bovine serum and were incubated with ATRA at 1 μmol/L up to 21 days. The cells were examined in terms of immunostaining for proliferative cell nuclear antigen (PCNA) and BrdU incorporation, apoptosis assay, cell cycle analysis, and gene expression using semiquantitative reverse-transcriptase polymerase chain reaction.
+Results
+
+In the control experiments, AFT024 cells lost their confluence in culture after 15-Gy irradiation and were arrested in G2/M phase on days 7 and 21. ATRA restored the cellular confluence with an increase in proliferation on day 21 (BrdU incorporation: 20.6-fold; PCNA staining: 51.7-fold) with reversal of cell cycle arrest (S phase: 2.7-fold increase; G2/M phase: 2.0-fold decrease). There was no effect on apoptosis as shown by terminal deoxynucleotidyl transferase-mediated dUTP nick end labeling staining. ATRA significantly upregulated the expression of cell cycle genes for checkpoint transition, including cyclin A2, B2, and aurora kinase B, as well as genes associated with a putative role in HPC maintenance, including osteopontin, HoxA5, enhancer of zeste homolog 2, and peroxisome proliferator-activated receptor gamma.
+Conclusion
+
+We concluded that ATRA induced cellular proliferation of irradiated AFT024 cells and expression of a number of genes whose relevance to HPC homeostasis would have to be further examined.

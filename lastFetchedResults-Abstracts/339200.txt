@@ -1,0 +1,11 @@
+Objective
+A multi-step statistical strategy was applied to quantify individual and interactive effects of cytokines on megakaryopoiesis and to determine the concentration of the selected cytokines that optimize ex vivo megakaryocyte (MK) expansion, maturation, and platelet production in stromal- and serum-free conditions.
+Materials and Methods
+
+Immature MK were first generated from human CD34+-enriched cord blood cells cultured for 7 days in conditions favoring MK commitment. Then, the effect of different combinations of cytokines at various concentrations on MK differentiation and platelet production was tested on the day-7 MK.
+Results
+
+A large-scale screening of 13 cytokines in the presence of thrombopoietin (TPO) using Placket-Burman designs (PBD) was initially performed to identify stimulators of MK maturation. Afterwards, a statistical analysis of the two-level factorial designs revealed that in the presence of TPO, MK maturation was significantly stimulated by stem cell factor (SCF), interleukin (IL)-6, and IL-9, whereas Flt-3 ligand (FL) had a positive effect only on the expansion of MK progenitors. In contrast, erythropoietin (EPO) and IL-8 were inhibitors of MK maturation. A response surface methodology was then used to optimize the concentrations of the selected cytokines (TPO, SCF, IL-6, and IL-9) and defined a new cytokine cocktail that maximized MK expansion and maturation. Importantly, the increased MK output was accompanied by a very high MK purity (not, vert, similar90%). Another optimum was also found at a higher SCF concentration, which further improved MK expansion and maturation, but reduced MK purity.
+Conclusion
+
+These statistical methods provide an efficient tool to analyze complex systems of cytokines and to develop promising ex vivo MK culture systems for clinical applications.

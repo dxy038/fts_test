@@ -1,0 +1,1 @@
+A modification of the standard Simulated Annealing (SA) algorithm is presented for finding the global minimum of a continuous multidimensional, multimodal function. We report results of computational experiments with a set of test functions and we compare to methods of similar structure. The accompanying software accepts objective functions coded both in Fortran 77 and C++.

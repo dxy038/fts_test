@@ -1,0 +1,9 @@
+Background and Objective: Breast cancer is the fifth common cause of death in the world and is considered as the leading cause of cancer related death among females. HER2 is a surface antigen which is overexpressed in 30% of breast cancer cases. The aim of this study was cloning of HER2 receptor gene in pCDNA3.1\Hygro+ expression vector, expression of this protein in LL2 eukaryotic cell line and production of a breast cancer mouse model. 
+
+Materials and Methods: The construct expressing HER2 gene was synthesized by RNA extraction, HER2 gene amplification and its cloning into pCDNA3.1\Hygro+  vector. The accuracy of cloning was approved by sequencing. In the next step, the construct was transfected into LL2 mouse cancer cells. To establish a stable cell line, transfected LL2 cells were cultured in hygromycine enriched medium for 1 month. The resultant cells had a very low growth rate. Having repeated the process three times, 106 cells were eventually produced. Injection of these cells into mice led to no tumor formation. Moreover, LL2 cells transducted by HER2 containing lenti-viruse were used collaterally to form tumors. Meanwhile, 106 transducted LL2 cells were injected subcutaneously into C57BL/6 mice. A tumor nodule was tangible 10 to 12 days post injection.	
+
+Results: The HER2 gene was successfully amplified and cloned into pcDNA3.1\Hygro+. Injection of transfected and transduced LL2 cells into mice demonstrated that only the LL2 cells transduced by the viral vector pLEX HER2 were able to express human HER2 gene stably.
+
+Conclusion: By cloning and expression of HER2 on the LL2 cells, we could produce breast cancer model in mice expressing human HER2 on cells surface.
+
+

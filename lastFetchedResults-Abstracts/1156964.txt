@@ -1,0 +1,3 @@
+The belief decision tree (BDT) approach is a decision tree in an uncertain environment where the uncertainty is represented through the Transferable Belief Model (TBM), one interpretation of the belief function theory. The uncertainty can appear either in the actual class of training objects or attribute values of objects to classify. From the procedures of building BDT, we mention the averaging and the conjunctive approaches.
+
+In this paper, we develop pruning methods of belief decision trees induced within averaging and conjunctive approaches where the objective is to cope with the problem of overfitting the data in BDT in order to improve its comprehension and to increase its quality of the classification.

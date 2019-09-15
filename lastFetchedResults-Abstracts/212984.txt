@@ -1,0 +1,8 @@
+The elastic properties of composite materials depend on diverse factors like the configuration of the laminates, constituent materials used, production method adopted etc.. Hence, it is generally impossible to find these properties in standard tables or databases. The determination of material parameters of the complex materials, such as fibre reinforced composites, present serious difficulties when applying traditional test methods. To overcome these difficulties, an optimized search procedure, viz., genetic algorithm (GA), has been used to provide an additional technique of evaluating material properties from the measured natural frequencies. In general, GA performs directed random searches through a given set of criteria. These criteria are required to be expressed in terms of objective function, which is usually referred to as a fitness function. This paper describes the capability, reliability and modelling of GA for indirect (non-destructive) prediction of mechanical properties regarding the model development in the finite element method (FEM) and the analytical formulation (Exact Solution). A few examples are presented to identify the material properties of homogeneous isotropic, orthotropic, and anisotropic plates with various stacking sequences, boundary conditions and aspect ratio for showing the ability and performance of this technique. 
+
+
+
+
+
+
+

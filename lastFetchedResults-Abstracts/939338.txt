@@ -1,0 +1,13 @@
+The majority of analytical results in the Greenland AMAP (Arctic Monitoring and Assessment Programme) are
+produced by laboratories that participate regularly in performance studies. This makes it possible to judge the quality
+of the results based on the objective measurements made by independent assessors. AMAP laboratories participated,
+while analysing the AMAP samples, in the QUASIMEME laboratory performance study programme, and in two
+other smaller laboratory performance study programmes. Here is a system presented where the laboratory performance
+studies are used to calculate a constant error and a proportional error for each analyte. The calculations are performed
+by the trial and error method that sets the proportional and the constant error so that the 95%, the 68.2%, and the
+50% confidence limits fit as well as possible with the data. The constant error is roughly the same as the detection
+limit defined as the highest concentration where zero is inside the 95% confidence interval. The relative errors of the
+trace analyses, i.e. the relative deviation of the result obtained by the AMAP laboratory from the assigned value, are
+in most of the cases less than 25% which is regarded as acceptable by the QUASIMEME. Usually the errors,
+especially for trace elements, are less than 12.5%, while errors for trace organics below 1 mg kgy1 may rise to 50%
+or more.

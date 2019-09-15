@@ -1,0 +1,16 @@
+Background: Several multiphase flow analyses have been developed to predict
+the fate of particles used in inhalation drug delivery; however, the collapse of droplets
+during their passage through respiratory tract has not been investigated.
+Objective: To assess the probability of droplet collapse in the upper respiratory
+tract.
+Methods: A 3D model of mouth-to-second generation airway after the trachea
+was developed with application of a computational fluid dynamics modeling. A new
+parameter, the droplet collapsibility index (DCI), was defined to evaluate the probability
+of droplet collapse during the release of droplets through the model.
+Results: The results stated that droplets with diameter between 0.1 and 1 ?m are
+at higher risk of collapse. Also, the most probable region of collapse was found to be
+the glottal bend. The condition becomes progressively worse by increasing the rate
+of breathing air flow. By increasing the inspiration flow rate from 10 to 30 L/min, the
+droplet collapsibility rised from 0.75 to 2.25—exceeding the collapsibility threshold.
+Conclusion: Results of the current study can be used in evaluation of collapsibility
+of particles in design of inhalation drug delivery systems.

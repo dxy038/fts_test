@@ -1,0 +1,1 @@
+This paper proposes a partial implementation of an integrated Quality, Security and Environment management system to deal with the definition of an appropriate global management plan. This implementation is based on the multi-objective influence diagrams which are one of the most commonly used graphical decision models for reasoning under uncertainty with multiple objectives.

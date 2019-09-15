@@ -1,0 +1,11 @@
+Objective
+Motor-unit action potentials (MUAPs) with unstable satellite (late-latency) components are found in EMG signals from the brachioradialis muscles of normal subjects. We analyzed the morphology and blocking behavior of these MUAPs to determine their anatomical origin.
+Methods
+EMG signals were recorded from the brachioradialis muscles of 5 normal subjects during moderate-level isometric contractions. MUAP waveforms, discharge patterns, and blocking were determined using computer-aided EMG decomposition.
+Results
+Twelve MUAPs with unstable satellite potentials were detected, always two together in the same signal. Each MUAP also had a second unstable component associated with its main spike. The blocking behavior of the unstable components depended on how close together the two MUAPs were when they discharged.
+Conclusions
+The latencies and blocking behavior indicate that the unstable components came from branched muscle fibers innervated by two different motoneurons. The satellite potentials were due to action potentials that traveled to the branching point along one branch and back along the other. The blockings were due to action-potential collisions when both motoneurons discharged close together in time.
+Significance
+Animal studies suggest that branched muscle fibers may be a normal characteristic of series-fibered muscles. This study adds to our understanding of these muscles in humans.
+

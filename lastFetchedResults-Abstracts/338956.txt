@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma is a plasma cell malignancy characterized by the development of osteolytic lesions leading to bone pain, pathologic fractures, and hypercalcemia. Osteoprotegerin (OPG) is a potent inhibitor of osteoclast differentiation and activation, but is limited as a therapeutic agent due to its short circulating half-life. In order to overcome these limitations, the therapeutic effects of native OPG gene transfer are examined.
+Materials and methods
+
+We used replication-incompetent lentiviral vectors to transfer the unmodified, native human OPG gene ex vivo into human ARH-77 cells injected into severe combined immunodeficient (SCID) mice, to determine gene transfer efficiency as well as the impact on disease progression in this in vivo model.
+Results
+
+We can efficiently transfer and express either the LacZ marker gene or the native human OPG gene into human ARH-77 cells. Moreover, transfer of the OPG gene into ARH-77 cells reduces the development of osteolytic bony lesions when these cells are injected into SCID mice, compared to mice injected with either unmodified ARH-77 cells or ARH-77 cells transduced with the OPG gene in the antisense orientation. This therapeutic effect was manifested as a reduction in vertebral compression deformities and in the number and size of long-bone osteolytic lesions on skeletal radiographs, as well as a decrease in osteoclast surface on histologic analysis.
+Conclusions
+
+A lentiviral vector can efficiently transfer the native human OPG gene to myeloma cells ex vivo and inhibit myeloma-induced bone destruction, thereby suggesting a therapeutic potential for unmodified, native OPG gene transfer for osteoclast-dependent skeletal disorders.

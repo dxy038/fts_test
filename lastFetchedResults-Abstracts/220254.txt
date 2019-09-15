@@ -1,0 +1,13 @@
+The availability of the saturated DNA marker maps in livestock has made it possible
+to locate quantitative trait loci (QTL) in these domestic animals. The objective of this
+research was to investigate the principles of applying the simple regression for QTL
+analysis in paternal half-sib (PHS) design commonly used in livestock species. The
+theoretical aspects of the simple regression approach for QTL mapping in PHS design
+were studied. Simulation study showed that the power of QTL detection using the
+regression method increased as the sample size and QTL effect increased. Also
+increasing family size led to improved precision and accuracy of QTL parameters
+(estimates of QTL location and effect). The experimental beef cattle weaning data
+recorded on 366 animals from three half-sib families genotyped for 189 microsatellite
+markers were analyzed exploiting the simple regression approach. The results revealed
+two large QTLaffecting weaning weight. The two detected QTL were located on Bovine
+chromosome 14 (BTA14) and (BTA 16)at 29 and 81 cM, respectively.

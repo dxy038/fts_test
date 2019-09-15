@@ -1,0 +1,19 @@
+OBJECTIVES
+
+The objective of this study was to identify preprocedure patient factors associated with percutaneous intervention costs and to examine the impact of these patient factors on economic profiles of interventional cardiologists.
+
+BACKGROUND
+
+There is increasing demand for information about comparative resource use patterns of interventional cardiologists. Economic provider profiles, however, often fail to account for patient characteristics.
+
+METHODS
+
+Data were obtained from Duke Medical Center cost and clinical information systems for 1,949 procedures performed by 13 providers between July 1, 1997, and December 31, 1998. Patient factors that influenced cost were identified using multiple regression analysis. After assessing interprovider variation in unadjusted cost, mixed linear models were used to examine how much cost variability was associated with the provider when patient characteristics were taken into account.
+
+RESULTS
+
+Total hospital costs averaged $15,643 (median, $13,809), $6,515 of which represented catheterization laboratory costs. Disease severity, acuity, comorbid illness and lesion type influenced total costs (R2 = 38%), whereas catheterization costs were affected by lesion type and acuity (R2 = 32%). Patient characteristics varied significantly among providers. Unadjusted total costs were weakly associated with provider, and this association disappeared after accounting for patient factors. The provider influence on catheterization costs persisted after adjusting for patient characteristics. Furthermore, the pattern of variation changed: the adjusted analysis identified three new outliers, and two providers lost their outlier status. Only one provider was consistently identified as an outlier in the unadjusted and adjusted analyses.
+
+CONCLUSIONS
+
+Economic profiles of interventional cardiologists may be misleading if they do not adequately adjust for patient characteristics before procedure.

@@ -1,0 +1,10 @@
+With the growth of computer usage at all levels in the process industries, the volume of available data has also grown enor-
+mously, sometimes to levels that render analysis dicult. Most of this data may be characterized as historical in the sense that it was
+not collected on the basis of experiments designed to test speci®c statistical hypotheses. Consequently, the resulting datasets are
+likely to contain unexpected features (e.g. outliers from various sources, unsuspected correlations between variables, etc.). This
+observation is important for two reasons: ®rst, these data anomalies can completely negate the results obtained by standard analysis
+procedures, particularly those based on squared error criteria (a large class that includes many SPC and chemometrics techniques).
+Secondly and sometimes more importantly, an understanding of these data anomalies may lead to extremely valuable insights. For
+both of these reasons, it is important to approach the analysis of large historical datasets with the initial objective of uncovering and
+understanding their gross structure and character. This paper presents a brief survey of some simple procedures that have been
+found to be particularly useful at this preliminary stage of analysis.

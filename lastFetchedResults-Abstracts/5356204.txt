@@ -1,0 +1,1 @@
+We consider a multiobjective linear programming problem with interval objective functions. One solution for this problem is called a necessarily efficient solution. We improve the extended multiobjective simplex method for generating a set of necessarily efficient solutions of multiobjective linear optimal control problems

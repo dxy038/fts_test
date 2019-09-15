@@ -1,0 +1,11 @@
+Appropriate energy–environment–economic (E3) modelling provides key information for policy makers in the electricity supply
+industry (ESI) faced with navigating a sustainable development path. Key challenges include engaging with stakeholder values and
+preferences, and exploring trade-offs between competing objectives in the face of underlying uncertainty. As a case study we represent the
+South African ESI using a partial equilibrium E3 modelling approach, and extend the approach to include multiple objectives under
+selected future uncertainties. This extension is achieved by assigning cost penalties to non-cost attributes to force the model’s least-cost
+objective function to better satisfy non-cost criteria. This paper incorporates aspects of flexibility to demand growth uncertainty into each
+future expansion alternative by introducing stochastic programming with recourse into the model. Technology lead times are taken into
+account by the inclusion of a decision node along the time horizon where aspects of real options theory are considered within the
+planning process. Hedging in the recourse programming is automatically translated from being purely financial, to include the other
+attributes that the cost penalties represent. From a retrospective analysis of the cost penalties, the correct market signals, can be derived
+to meet policy goal, with due regard to demand uncertainty.

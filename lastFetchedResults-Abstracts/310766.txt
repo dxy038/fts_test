@@ -1,0 +1,9 @@
+Objective.  To validate an ultrasound-based technique which quantifies uni-planar subcutaneous displacement of an osseous object resulting from an externally applied load.
+
+Background. Many spinal conditions are thought to be characterized by aberrant vertebral displacements yet the invasive nature of many investigative techniques has left the clinical significance of this relation incompletely understood.
+
+Method. Six bovine bone/paravertebral tissue preparations were indented by one of two ultrasonic transducers (5 and 7 MHz) fitted to an electromechanical actuator. The resulting osseous displacement along the principal indentation axis was calculated by subtracting the change in transducer/bone distance between ultrasonic images collected at tissue contact and maximal load from the change in actuator displacement. A dial gauge contacting the bone was used as a displacement criterion measure.
+
+Results. Using the 7 MHz transducer, the mean error of the technique was 6.74% (SD=3.98) while the mean error associated with the 5 MHz transducer was 12.73% (SD=7.49).
+
+Conclusions. This non-invasive technique is capable of quantifying subcutaneous uni-planar bone displacement with an accuracy comparable to similar invasive techniques over a comparable displacement range.

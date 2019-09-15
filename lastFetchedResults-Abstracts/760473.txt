@@ -1,0 +1,19 @@
+The electronic structure and bonding at a Fe(110)–Pd(100) interface was theoretically
+analyzed in the framework of semi-empirical quantum chemical calculations. The Fe–Pd
+interface was modeled by a Fe74Pd74 cluster and a Fe–Pd six layer slab.
+The extended Hu¨ ckel tight binding (EHTB) method and its modifications, including
+repulsive interactions, were used to calculate the interfacial adhesion and the H-absorption
+energy.
+The energetic minimum position for H is found at the Fe–Pd interface closer to the Pd
+layer.
+The interfacial Fe–Pd distance result to be 1.73 °A where Fe–Pd develops a strong bonding
+interaction. An important metal–metal adhesion was also found.
+The changes in the Density of States (DOS) and the Crystal Orbital Overlap Population
+(COOP) were compared in different structures: clusters, slab and two types of Fe–Pd alloys.
+The H as an impurity is responsible for a Fe–Fe and Pd–Pd bond weakening. However, the
+H effect is much less detrimental for the Fe–Pd bonds at the interface.
+When H is located at interstitial sites in bulk Fe–Pd alloys, the Pd–Pd overlap population
+shows a notorious decrease in the case of fcc structures while for fct structures the change
+is only 12%. The intermetallic bonding was also weakened as compared with the pure
+alloys. The objective of this work is to bring a plausible explanation to the null permeability
+to hydrogen in Pd-coated Fe films.  C 2005 Springer Science + Business Media, Inc.

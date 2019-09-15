@@ -1,0 +1,7 @@
+This work is devoted to the study of the existence of an unbounded continuum of
+periodic solutions that appear by Hopf bifurcation in non-linear delay differential
+equations. Our main objective is to give a theorem that guarantees the appearance
+of an unbounded continuum of periodic solutions. Furthermore, the verification of
+the hypotheses requires much less effort than the known results in the literature.
+In the last section some applications to examples already studied show the power
+of the theorem.

@@ -1,0 +1,12 @@
+Wireless sensor networks are resource-constrained self-organizing systems that are
+often deployed in inaccessible and inhospitable environments in order to collect data
+about some outside world phenomenon. For most sensor network applications, pointto-
+point reliability is not the main objective; instead, reliable event-of-interest delivery
+to the server needs to be guaranteed (possibly with a certain probability). The nature
+of communication in sensor networks is unpredictable and failure-prone, even more
+so than in regular wireless ad hoc networks. Therefore, it is essential to provide fault
+tolerant techniques for distributed sensor applications. Many recent studies in this
+area take drastically different approaches to addressing the fault tolerance issue in
+routing, transport and/or application layers. In this paper, we summarize and compare
+existing fault tolerant techniques to support sensor applications.We also discuss several
+interesting open research directions.

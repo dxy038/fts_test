@@ -1,0 +1,5 @@
+In a recent paper [Soleimani-damaneh M. Fuzzy upper bounds and their applications. Chaos, Solitons & Fractals
+2008;36:217–25.], I established the existence of a distance-based fuzzy upper bound for the objective function of a fuzzy
+DEA model, using the properties of a discussed signed distance, and provided an effective approach to solve that model.
+In this paper a new dual-based proof for the existence of the above-mentioned upper bound is provided which gives a
+useful insight into the theory of fuzzy DEA.

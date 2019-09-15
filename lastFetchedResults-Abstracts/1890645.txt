@@ -1,0 +1,10 @@
+This paper presents a new approach for assessing agricultural landscapes based on mixture
+methods and the study and definition of aesthetic attributes as lines, forms, texture, spatial composition, scale
+and color as they are the closest to human perceptual aesthetic attributes. A set of variables capable of
+quantifying those attributes in a simple, objective and systematized way will be proposed. They are related
+with physical dimensions such as length, radium, angle, surface or brightness. People preferences for a specific
+type of agricultural landscape have been collected and different regression models between preferences and
+variables capable of quantifying attributes have been tried. The optimal model, explaining 82.3% of the
+variance in population preferences, selects 41 variables, adopts a linear structure and identifies the color as the
+most relevant attribute on population preferences and, inside it, green brightness as the most positive influencing
+variable on preferences being referred to red gamma the most influencing negative one.

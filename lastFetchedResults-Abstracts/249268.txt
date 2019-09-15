@@ -1,0 +1,7 @@
+This paper describes the use of topology optimization as a synthesis tool for the design of large-
+displacement compliant mechanisms. An objective function for the synthesis of large-displacement mech-
+anisms is proposed together with a formulation for synthesis of path-generating compliant mechanisms.
+The responses of the compliant mechanisms are modelled using a total Lagrangian  nite element for-
+mulation, the sensitivity analysis is performed using the adjoint method and the optimization problem
+is solved using the method of moving asymptotes. Procedures to circumvent some numerical problems
+are discussed

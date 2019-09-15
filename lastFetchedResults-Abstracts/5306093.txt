@@ -1,0 +1,1 @@
+Some of the well-known adaptive speckle reduction filters are evaluated and compared based on objective and practical criteria. The performance of the filters is tested by using both the acquired SAR images and computer simulated patterns

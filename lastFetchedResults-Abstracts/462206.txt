@@ -1,0 +1,8 @@
+Context: As mammography rates increase, an important question is how closely groups of women match or do not match the national-level, average screening percentage.
+Objective: This study employed a classification-tree methodology to combine individual risk factors from multiple logistic regression, in order to more comprehensively define groups of women less (or more) likely to be screened.
+Design/ Setting: This report was a secondary data analysis drawing on data from the 1992 National Health Interview Survey, Cancer Control Supplement (NHIS-CCS).
+Participants: Analyses examined mammography status of women aged 50–75 (n = 1,727).
+Main Outcome Measure: The dependent variable was having a screening mammogram in the past 2 years. Multiple logistic regression (SUDAAN) was conducted first to select significant correlates of screening. A classification-tree analysis (CHAID subroutine of SPSS) was then used to combine the significant correlates into exclusive and exhaustive subgroups.
+Results: A total of 13 subgroups were identified, of which only six approximated the overall population screening rate. The lowest screening occurred in small clusters of women, which, when added together, formed a larger percentage of the population who were not screened within the past 2 years.
+Conclusions: Efforts to increase mammography may face the challenge of identifying relatively small pockets of women and addressing their individual barriers. Further work should be done to find efficient ways to combine individual risk factors into groups at risk for not being screened.
+

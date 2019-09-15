@@ -1,0 +1,11 @@
+Objective
+To study the dynamics of spatial synchronization of the slow-wave activity recorded from different scalp electrodes during sleep in healthy normal controls.
+Methods
+We characterized the different levels of EEG synchronization during sleep (in the 0.25–2.5 Hz band) of five healthy subjects by means of the synchronization likelihood (SL) algorithm and analyzed its long-range temporal correlations by means of the detrended fluctuation analysis (DFA).
+Results
+We found higher levels of interregional synchronization during ‘cyclic alternating pattern’ (CAP) sleep than during nonCAP with a small but significant difference between its A and B phases. SL during CAP showed fluctuations probably corresponding to the single EEG slow-wave elements. DFA showed the presence of two linear scaling regions in the double-logarithmic plot of the fluctuations of SL level as a function of time scale. This indicates the presence of a characteristic time scale in the underlying dynamics which was very stable among the different subjects (1.23–1.33 s). We also computed the DFA exponent of the two scaling regions; the first, with values ≈1.5, corresponded to fluctuations with period 0.09–0.75 s and the second, with values ≈1, corresponded to fluctuations with period 1.5–24.0 s. Only the first exponent showed different values during the different sleep stages.
+Conclusions
+All these results indicate a different role for each sleep stage and CAP condition in the EEG synchronization processes of sleep which show a complex time structure correlated with its neurophysiological mechanisms.
+Significance
+Very slow oscillations in spatial EEG synchronization might play a critical role in the long-range temporal EEG correlations during sleep which might be the chain of events responsible for the maintenance and correct complex development of sleep structure during the night.
+

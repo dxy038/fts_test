@@ -1,0 +1,9 @@
+This paper presents an investigation about false
+operation of vector surge relays due to adjacent feeder faults.
+The objective was to explore the scenarios that led to a higher
+risk of false operation. Simulation results have shown that the
+main factors affecting false operation are system and generator
+loading, generator inertia constant, amount of power exported
+by the generator, short-circuit level, feeder X R ratio, fault
+clearance time, and electrical distance between the generator
+and the fault.

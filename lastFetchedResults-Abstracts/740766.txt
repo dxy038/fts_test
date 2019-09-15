@@ -1,0 +1,9 @@
+Objective
+Despite numerous randomized clinical trials and observational epidemiologic studies, evidence on the potential effectiveness of statins for prevention of cancer remains controversial. The objective of this study was to investigate the relation between lipophilic statin use and cancer occurrence.
+Methods
+We conducted a retrospective observational study based on a medical administrative database in the province of Quebec, Canada (1998-2004). Patients aged 45 years or more and discharged from the hospital alive after admission for acute myocardial infarction were included. High- and low-dose statin use were defined as a filled prescription, within 3 days after index discharge, at or above (below) the statin-specific target dose, for any of the 4 lipophilic statin medications: atorvastatin, simvastatin, lovastatin, or fluvastatin. Statin non-use was defined as non-use of any statins while simultaneously using major non-statin cardiac medications. A total of 30,076 patients, including high-dose statin users (n = 6015), low-dose statin users (n = 5323), and non-users (n = 18,738), were followed for up to 7 years. Multivariable Cox regression analyses were performed to estimate associations between statin dose category and the incidence of admission to hospital with a diagnosis of any type of cancer.
+Results
+The crude incidence rates of hospital admission with the diagnosis of any type of cancer were 13.9, 17.2, and 26.0 per 1000 person-years in statin high-dose users, low-dose users, and non-users, respectively. The estimated adjusted hazard ratios were 0.75 (95% confidence interval [CI], 0.60-0.95) for statin use at high dose and 0.89 (95% CI, 0.75-1.07) for statin use at low dose. No significant time-dependence of the effect of statins at either dose was detected.
+Conclusion
+The use of lipophilic statins at sufficiently high dose might be associated with a clinically important reduction in the incidence of cancer.
+

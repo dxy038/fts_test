@@ -1,0 +1,9 @@
+In the present paper a systematic development of higher order accurate time stepping schemes which
+exactly conserve total energy as well as momentum maps of underlying finite-dimensional Hamiltonian
+systems with symmetry is shown. The result of this development is the enhanced Galerkin (eG) finite
+element method in time. The conservation of the eG method is generally related to its collocation
+property. Total energy conservation, in particular, is obtained by a new projection technique. The eG
+method is, moreover, based on objective time discretization of the used strain measure. This paper is
+concerned with particle dynamics and semi-discrete non-linear elastodynamics. The related numerical
+examples show good performance in presence of stiffness as well as for calculating large-strain
+motions

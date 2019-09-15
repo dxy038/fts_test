@@ -1,0 +1,13 @@
+This article explores the coordinated scheduling problem between production and transportation in a
+steelmaking shop. Two models arising from steelmaking and refining operations are considered. The first
+model assumes that there is a converter at the steelmaking operation and a refining furnace at the refining
+operation. A transporter with capacity one is available to carry out jobs from converter to a refining
+furnace. The objective is to minimize the maximum completion time. For this model, we provide an algorithm
+with worst case ratio of two and show the computational results. The second model considers more
+practical situation in which jobs are processed in identical parallel converters first, and then the jobs
+coming from same converter are transported by a dedicated trolley with capacity one to the next operations.
+Two objectives are considered in the second model. One is to minimize the sum of maximum completion
+time, idle time penalties and waiting time penalties satisfying waiting time constraints. The other
+is to minimize the sum of maximum completion time, idle times penalties and hot consumption penalties
+related to waiting times while satisfying waiting time constraints. For the model, we develop a tabu
+search algorithm, provide the computational results and then give the worst case analysis.

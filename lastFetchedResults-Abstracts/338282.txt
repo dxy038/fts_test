@@ -1,0 +1,11 @@
+Objective
+To establish an in vivo animal model in which human T cells develop and function normally, a step toward developing new vaccines or chemical compounds that modulate immune functions and toward understanding T-cell immunity in humans.
+Materials and Methods
+
+Human bone fragments were implanted into non-obese diabetes / severe combined immunodeficiency (NOD/SCID) mice. The presence of human blood cells in the peripheral blood of these mice was monitored periodically by immunostaining and fluorescence-activated cell sorting.
+Results
+
+After implantation of bone fragments, dominant expansion of human T lymphocytes, rather than myeloid and B cells, was observed over a 3-month period. In some cases, the proportion of human T cells rose to 40% of the peripheral blood mononuclear cells. These T cells showed CD4/CD8 ratios similar to those observed in human peripheral blood lymphocytes and had a broad repertoire of rearranged T-cell receptor genes. Graft-versus-host reaction was not noted in any organ analyzed. To assess the suitability of NOD/SCID mice implanted with human bone fragments (hu-bone-NOD/SCID mice) as an in vivo model for HIV infection, the mice were infected with a T-lymphotropic strain of HIV-1 (NL4-3) at 7 weeks posttransplant. Serum p24 gag was detected at 2 weeks after inoculation, after which total CD4-positive cell numbers declined, as seen clinically in patients infected with HIV.
+Conclusion
+
+Although the precise mechanism is yet to be determined by which predominant expansion of human T cells occurs in hu-bone-NOD/SCID mice, such mice appear likely to serve as a useful and versatile model for studies involving human T-cell immunity.

@@ -1,0 +1,11 @@
+Objective
+To evaluate the effects of granulocyte colony-stimulating factor (G-CSF) on the in vitro sensitivity of acute myeloid leukemia (AML) cell lines and primary AML blast cells to gemtuzumab ozogamicin (GO).
+Materials and Methods
+
+AML cell lines and primary blasts from 10 patients with AML were first incubated for 72 hours in the presence of G-CSF (5 or 100 ng/mL) and then exposed to increasing concentrations of GO (1–1000 ng/mL) for an additional 72 hours.
+Results
+
+Pretreatment with G-CSF translated into significant enhancement of GO-induced cytotoxicity in the GO-sensitive HL-60 and NB-4 cells. Conversely, the response of GO-insensitive KG-1a, TF-1, and K562 cells was unaffected by in vitro priming with G-CSF. In vitro exposure to G-CSF augmented GO-induced apoptosis in 7 of 10 primary AML samples and rendered blast cells from three refractory patients sensitive to killing effect of GO. The G-CSF–induced increase of the cytocidal activity of GO was independent of effects on the cell cycle and on the expression levels of CD33 antigen. Of potential interest, G-CSF induced dose-dependent inhibition of P-glycoprotein (P-gp/ABCB1) function in the GO-sensitive HL-60 and NB-4 cells and in blasts from three patients with AML that we tested.
+Conclusion
+
+Collectively, our findings point to G-CSF as a potential sensitizing agent that can be exploited therapeutically to improve the clinical efficacy of GO.

@@ -1,0 +1,6 @@
+Objective: We measured the influences of power and phase modulations of neuroelectric activity on auditory responses to pure-tone patterns with inter-onset intervals typical of music.
+Methods: Tones were presented to 8 subjects at 10 different tempos from 150 to 3125 ms and with random intervals. We quantified time-frequency (TF) power with respect to a pre-tone-onset baseline and the TF phase coherence across trials. Peak-to-peak event-related potential (ERP) amplitude values for the middle and long-latency auditory responses were obtained for comparison.
+Results: ERP amplitude, size of power modulation, and amount of phase coherence were larger at slower tempos for the long-latency response (LLR) but not for the middle-latency response (MLR). Multiple regression analysis indicated that for MLR and LLR, phase modulation was a better predictor of ERP amplitude than power modulation.
+Conclusions: Phase modulation is a better predictor of ERP amplitude than power modulation for middle and long-latency auditory responses.
+Significance: Lack of diminution of the MLR at fast tempos indicates its usefulness for studying early cortical processing of music and speech patterns.
+

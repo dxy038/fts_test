@@ -1,0 +1,11 @@
+Objective
+Slow-wave activity (SWA) is believed to be a fundamental measure of sleep homeostasis and is frequently characterized as an exponentially declining periodic dynamical system. The objective of this study is to carry out the first rigorous statistical test of this hypothesized dynamical behavior.
+Methods
+Delta power (DP) was computed for each epoch and artifacts were visually scored for 18 randomly selected nights from 18 healthy young men. Non-linear least-squares (LS) combined with the simplex algorithm were used to fit a 7-parameter confirmatory model of DP separately for each individual night of data. Individual night testing was employed because the model must apply to individual night data to be of research or clinical utility.
+Results
+Visually, results appeared satisfactory in half of the cases, though the model was never statistically verified. Validation using simulated data suggested that if the exponentially declining sinusoidal model were correct, satisfactory model fit would be expected on 17/18 nights.
+Conclusions
+An exponentially dampened periodic function does not fit a single night of sleep amongst healthy young men. Historically, averaging across nights was the primary method used to develop such hypothesized model in order to reduce variability in the data. Our validation with simulated data established that this model does not fit individual night data because the data in an individual night do not conform to an exponentially dampened periodic function and not because of variability.
+Significance
+Further exploratory work is needed to determine how to optimally model single night SWA data.
+

@@ -1,0 +1,1 @@
+This paper presents some of the results obtained by using a prototype algorithmic level design space exploration tool currently under development. The tool is based upon multi-objective evolutionary algorithms. The paper highlights the tool´s benefits and discusses its current abilities in terms of its experimental applications.

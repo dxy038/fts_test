@@ -1,0 +1,14 @@
+The overall objective of this work is to evaluate the potential of compressed expanded natural graphite (CENG) and phase change
+material (PCM) composites to improve the performance of solar domestic hot water (SDHW) systems. To achieve this target, an original
+approach has been chosen. Comparatively to other studies, in which the storage material is usually placed on top of the water tank, the
+proposed approach was to place the composite directly inside a flat plate solar collector in substitution to the traditional copper-based
+solar absorber.
+In a previous paper (Haillot et al., 2011), elaboration and characterization of various composites led to the selection of three relevant
+composites suitable to their integration into a solar thermal collector.
+The present paper is devoted to the analysis of such a system to evaluate its actual performance. To reach this objective, a numerical
+model is proposed and its reliability validated by mean of corresponding experimental data.
+Despite the fact that under summer meteorological conditions the performed simulation highlights an increase of the system efficiency
+by adding a composite to the solar collector, the cumulative annual performance of such a system is penalized by low efficiency during
+winter time. However, the obtained simulated results allow us to offer a perspective of work that would maximize the benefits of adding
+storage composite to a SDHW system.
+  2011 Elsevier Ltd. All rights reserved.

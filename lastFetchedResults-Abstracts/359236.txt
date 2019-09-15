@@ -1,0 +1,8 @@
+Background
+Patients with advanced heart disease are at risk from sudden death; however, benefit from implantable cardioverter defibrillators (ICDs) may be limited as a result of early mortality from other causes. The objective of this study was to develop a model to predict mortality within the first year after ICD implantation.
+Methods and Results
+
+A retrospective analysis was performed of 469 consecutive patients who underwent ICD implantation at a single tertiary-care center from 1999 to 2002. Vital status was determined from the Social Security Death Index. Patients were randomized into prediction and validation cohorts. A risk score was derived from the prediction cohort by multivariate logistic regression and applied to the validation cohort. One point was assigned for each variable in the risk score (age >80 years, history of atrial fibrillation, creatinine >1.8 mg/dL, New York Heart Association class III or IV). One-year mortality significantly increased with increasing risk score in both the prediction and validation cohorts. Validation cohort mortality was 3.4% for 0 points, 4.3% for 1 point, 17% for 2 points, and 33% for ≥3 points (P for trend <.0001). A risk score ≥2 predicted a 1-year mortality rate of 21%, whereas a risk score <2 predicted a mortality rate of 4% at 1 year (P < .0001).
+Conclusion
+
+A risk score using simple clinical criteria may identify patients at high risk of early mortality after ICD implantation. This may be helpful in consideration of ICD risk/benefit for individual patients. Further studies conducted in a prospective manner using these clinical criteria are warranted.

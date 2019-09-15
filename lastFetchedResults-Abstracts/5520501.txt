@@ -1,0 +1,1 @@
+An objective algorithm for the least-squares adjustment is proposed. Modification is applied to a limited number of given items in a generalized way. Exclusion is applied successively to a single item when the result of modificatioin is anomalous. Final result is a median value of modification.

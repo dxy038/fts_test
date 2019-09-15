@@ -1,0 +1,18 @@
+This study introduces an analytical approach to
+signal reconstruction using Gaussian distributions. A major
+problem encountered in real-world data distributions is in the
+ability to accurately separate those data distributions that experience
+overlap. A first objective then is to develop a method of
+determining accurately the characteristics of a given distribution
+even when it has been affected by another distribution that lies
+close to it. In addition, normally, two-dimensional (2-D) Gaussian
+distributions are described by means of a correlation coefficient,
+but in this case, a normal 2-D distribution will be assumed in a
+direction parallel to a reference axis and then rotated by some
+angle . This outcome, as we will see, will not affect the results
+in terms of the standard use of the correlation coefficient. In
+this study, an attempt is made to provide a highly accurate yet
+computationally inexpensive approach of resolving the problem of
+overlap as we seek the reconstruction of signals through Gaussian
+curve fitting. Implementation results are shown in support of this
+assertion.

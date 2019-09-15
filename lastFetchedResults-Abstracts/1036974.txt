@@ -1,0 +1,9 @@
+This work presents the virtual simulation of the hoses hydroforming; the main objective is to predict when and where cracks can appear during a cyclic loading.
+
+A methodology has been proposed to investigate the effects of plastic strain and residual stress after hydroforming on cyclic life fatigue.
+
+First, an axisymmetric simulation of the hydroforming of flexible metal hoses was accomplished using the finite element method, then a cyclic loading is applied, finally the life cycle is estimated using a model based on Chaboche’s model.
+
+The results are compared with experimental data, a good agreement is found if we take in account the residual stress and the hardening due to hydroforming.
+
+A mechanical behavior model has been developed to study the braid which is the second element of the braided corrugated hoses; they are added to corrugated hoses in order to improve its radial and axial stiffness.

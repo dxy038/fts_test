@@ -1,0 +1,9 @@
+Study objective
+Annually, 38 million people are evaluated for trauma, the leading cause of death in persons younger than 45 years. The primary objective is to assess whether using a protocol inclusive of point-of-care, limited ultrasonography (PLUS), compared to usual care (control), among patients presenting to the emergency department (ED) with suspected torso trauma decreased time to operative care.
+Methods
+The study was a randomized controlled clinical trial conducted during a 6-month period at 2 Level I trauma centers. The intervention was PLUS conducted by verified clinician sonographers. The primary outcome measure was time from ED arrival to transfer to operative care; secondary outcomes included computed tomography (CT) use, length of stay, complications, and charges. Regression models controlled for confounders and analyzed physician-to-physician variability. All analyses were conducted on an intention-to-treat basis. Results are presented as mean, first-quartile, median, and third-quartile, with multiplicative change and 95% confidence intervals (CIs), or percentage with odds ratio and 95% CIs.
+Results
+Four hundred forty-four patients with suspected torso trauma were eligible; 136 patients lacked consent, and attending physicians refused enrollment of 46 patients. Two hundred sixty-two patients were enrolled: 135 PLUS patients and 127 controls. There were no important differences between groups. Time to operative care was 64% (48, 76) less for PLUS compared to control patients. PLUS patients underwent fewer CTs (odds ratio 0.16) (0.07, 0.32), spent 27% (1, 46) fewer days in hospital, and had fewer complications (odds ratio 0.16) (0.07, 0.32), and charges were 35% (19, 48) less compared to control.
+Conclusion
+A PLUS-inclusive protocol significantly decreased time to operative care in patients with suspected torso trauma, with improved resource use and lower charges.
+

@@ -1,0 +1,10 @@
+In order for the solar absorption air conditioners to become a real alternative to the conventional vapour compression systems, their
+performance has to be improved and their total cost has to be reduced. A solar powered absorption cycle is modeled using the Transient
+System Simulation (TRNSYS) program and Typical Meteorological Year 2 data of Abu Dhabi. It uses evacuated tube collectors to drive
+a 10 kWammonia–water absorption chiller. Firstly, the system performance and its total cost are optimized separately using single objective
+optimization algorithms. The design variables considered are: the collector slope, the collector mass flow rate, the collector area and
+the storage tank volume. The single objective optimization results show that MATLAB global optimization methods agree with the
+TRNSYS optimizer. Secondly, MATLAB is used to solve a multi-objective optimization problem to improve the system’s performance
+and cost, simultaneously. The optimum designs are presented using Pareto curve and show the potential improvements of the baseline
+system.
+  2010 Elsevier Ltd. All rights reserved

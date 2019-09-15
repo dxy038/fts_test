@@ -1,0 +1,11 @@
+Objective
+To provide an empirical evaluation of the performance of period analysis in comparison to traditional methods of survival analysis for predicting future 5-year cancer survival using data from the Canadian Cancer Registry.
+Methods
+
+5-year relative survival estimates were derived by period and traditional methods of analysis using data available at the conclusion of 1997. The extent to which these estimates agreed with survival later observed for cancer cases diagnosed in 1997 was quantified by calculating the squared difference of the estimate to the corresponding relative survival ratio actually observed.
+Results
+
+Period analysis was observed to be superior to, or comparable with, cohort analysis in predicting the average 5-year relative survival observed later for virtually all individual cancer sites studied. The improvement in survival estimation was most pronounced for prostate cancer. Where period estimates did not match the eventually observed value, they were predominantly on the lower side. Complete analysis estimates were generally observed to be in between the cohort and period values.
+Conclusions
+
+The period method of survival analysis provides more up-to-date estimates of 5-year survival than do traditional cohort-based methods.

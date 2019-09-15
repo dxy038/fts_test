@@ -1,0 +1,6 @@
+In this paper, the facility location problem with immobile servers is studied. In proposed model,
+tow objective functions have been considered: (1) minimizing the average customer waiting time and
+(2) minimizing the fixed cost of facility installation. The M/M/K queuing system has been used to
+formulate the problem. Also Customers are assumed to visit the closest open facility. Simulated
+Annealing algorithm with LP metric framework has been used to solve the proposed model. Several
+examples are presented to demonstrate the applications of the proposed methodology.

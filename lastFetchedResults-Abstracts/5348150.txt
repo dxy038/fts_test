@@ -1,0 +1,1 @@
+This paper shows the possibility of the two-directional energy transfer between energy sources using the example of ultracapacitors. The showed method allows bidirectional energy transfer between power systems which use different voltage levels. We used PSIM program to simulate the bidirectional energy transfer and study the operation of the applied model.

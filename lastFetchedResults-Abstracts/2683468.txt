@@ -1,0 +1,15 @@
+One of the key elements in production planning hierarchy is master production
+scheduling. The aim of this study is to evaluate and compare thirteen alternative
+MPS development methods, including multi-objective optimization as well as
+twelve heuristics, in different operating conditions for multi-product singlelevel
+capacity-constrained production systems. We extract six critical criteria
+from the previous related researches and employ them in a MCDM framework.
+The Shannon entropy is used to weight the criterion and TOPSIS is proposed
+for ranking the alternative methods. To be able to generalize the results, 324
+cases considering different operating conditions are simulated. The results show
+that the most important criteria are instability and inventory/setup costs,
+respectively. A performance analysis of MPS development methods is reported
+that the heuristics provides better results than multi-objective optimization in
+many conditions. A sensitivity analysis for critical parameters is also provided.
+Finally, the proposed methodology is implemented in a wire & cable company. 
+

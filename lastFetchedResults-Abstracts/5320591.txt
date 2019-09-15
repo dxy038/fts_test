@@ -1,0 +1,1 @@
+The MODCONS Toolbox provides flexible and robust tools for multi-objective control system design within MATLAB, particularly for the mixed-optimisation approach. The package allows users of different levels of sophistication access to such techniques; the code generating capabilities are particularly useful for less sophisticated users

@@ -1,0 +1,1 @@
+It is shown how some classes of symmetric bidirectional heterogeneous vehicle strings can be modelled using a Hamiltonian framework. Hamiltonian systems theory is applied to show stability and string stability of certain vehicle strings. We also indicate how this analysis might be extended to classes of nonlinear controllers.

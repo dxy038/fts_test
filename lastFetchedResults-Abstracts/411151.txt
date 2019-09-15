@@ -1,0 +1,9 @@
+Backgrounds/Aims
+A more accurate and objective quantification of hepatic fibrosis would provide clinically useful information for the monitoring of chronic liver disease progression and therapy recommendation.
+Methods
+Using a cDNA microarray of 14,814 clones, we analyzed the gene-expression profiles of fibrotic livers in a rat model.
+Results
+We identified 750 up- and 345 down-regulated genes by combining a signal-to-noise score and a random permutation test (P<0.01). The functions of these genes provided insight into the underlying molecular mechanisms of both structural remodeling and functional deficits in cirrhosis. To quantify the extent of liver fibrosis, we have generated for the first time a ‘genetic fibrosis index’ based on gene-expression profiling of 95 genes by combining a Pearson correlation coefficient and a ‘leave-one-out’ cross-validation procedure. This technique based on a supervised learning analysis correctly quantified the various degrees of fibrosis in both 20 training samples (R2=0.829, P<0.001) and 6 test samples (R2=0.822, P<0.05).
+Conclusions
+Our method will assist researchers in identifying rational targets for intervention and might help clinicians to objectively monitor the severity of liver fibrosis.
+

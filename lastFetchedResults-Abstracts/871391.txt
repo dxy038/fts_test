@@ -1,0 +1,13 @@
+This paper gives a Bliss-type multiplier rule for general constrained variational
+problems with time delay. Our formulation allows the time delay terms and their
+derivatives to be present in both the objective functional and the equality and
+inequality constraint equations. Our major results include a Lagrange Multiplier
+Rule involving Euler]Lagrange equations for delay differential equations and
+transversality conditions. Of special note is that these results will be used in later
+work by the authors to obtain new analytical techniques to solve general constrained
+problems involving delay differential equations for the Calculus of Variations
+and for Optimal Control Theory. They will also lead to new general, accurate,
+and efficient numerical methods to solve these important problems where no such
+methods exist at this time. Thus, for the first time, we will be able to solve this
+important class of problems obtaining analytic solutions for simpler problems and
+accurate numerical results for more complex problems when such a solution exists.

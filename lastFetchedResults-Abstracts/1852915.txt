@@ -1,0 +1,6 @@
+Objective
+cribe a patient admission scheduling algorithm that supports the operational decisions in a hospital. It involves efficiently assigning patients to beds in the appropriate departments, taking into account the medical needs of the patients as well as their preferences, while keeping the number of patients in the different departments balanced.
+s
+ the combinatorial complexity of the admission scheduling problem, there is a need for an algorithm that intelligently assists the admission scheduler in taking decisions fast. To this end a hybridized tabu search algorithm is developed to tackle the admission scheduling problem. For testing, we use a randomly generated data set. The performance of the algorithm is compared with an integer programming approach.
+s and conclusion
+taheuristic allows flexible modelling and presents feasible solutions even when disrupted by the user at an early stage in the calculation. The integer programming approach is not able to find a solution in 1 h of calculation time.

@@ -1,0 +1,3 @@
+This study analyzes a two-country dynamic general equilibrium model with nominal rigidities, monopolistic competition and producer currency pricing. A quadratic approximation to the utility of the consumers is derived and assumed as the policy objective function of the policymakers.
+It is shown that only under special conditions there are no gains from cooperation and moreover that the paths of the exchange rate and prices in the constrained-efficient solution depend on the kind of disturbance that affects the economy. Despite this result, simple targeting rules that involve only targets for the growth of output and for both domestic GDP and CPI inflation rates can replicate the cooperative allocation.
+

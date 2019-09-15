@@ -1,0 +1,14 @@
+Background
+Uncertainty exists about the performance of the Framingham risk score when applied in different populations.
+Objective
+
+We assessed calibration of the Framingham risk score (ie, relationship between predicted and observed coronary event rates) in US and non-US populations free of cardiovascular disease.
+Methods
+
+We reviewed studies that evaluated the performance of the Framingham risk score to predict first coronary events in a validation cohort, as identified by Medline, EMBASE, BIOSIS, and Cochrane library searches (through August 2005). Two reviewers independently assessed 1496 studies for eligibility, extracted data, and performed quality assessment using predefined forms.
+Results
+
+We included 25 validation cohorts of different population groups (n = 128 000) in our main analysis. Calibration varied over a wide range from under- to overprediction of absolute risk by factors of 0.57 to 2.7. Risk prediction for 7 cohorts (n = 18 658) from the United States, Australia, and New Zealand was well calibrated (corresponding figures: 0.87-1.08; for the 5 biggest cohorts). The estimated population risks for first coronary events were strongly associated (goodness of fit: R2 = 0.84) and in good agreement with observed risks (coefficient for predicted risk: β = 0.84; 95% CI 0.41-1.26). In 18 European cohorts (n = 109 499), the corresponding figures indicated close association (R2 = 0.72) but substantial overprediction (β = 0.58, 95% CI 0.39-0.77). The risk score was well calibrated on the intercept for both population clusters.
+Conclusion
+
+The Framingham score is well calibrated to predict first coronary events in populations from the United States, Australia, and New Zealand. Overestimation of absolute risk in European cohorts requires recalibration procedures.

@@ -1,0 +1,61 @@
+Introduction
+Due to the three dimensional flow structure at river
+channel confluences, especially at the downstream flow
+mixing zone a deep scour hole is formed. At the
+separation zone downstream of the junction comer a
+point bar is also developed. The seour hole and the
+point bar can cause changes in river morphology and
+can be the main reason for bank instability or failure of
+the structures near the confluence area.
+In nver confluences SIX different regions are
+distinguished, as shown in Fig (I). Locations and
+dimensions of regions 1 and 3 and flow characteristics
+in regions 2 and 4 depend on many factors. As region 3
+becomes larger due to sedimentation, the flow velocity
+in region 4 will be increased and the scour dimensions
+become larger. This will cause bank failure and create a
+meander at this location.
+The flow vortex developed in this region can also cause
+many difficulties for navigation.
+According to these phenomena, the study of flow
+pattern and scour hole in river confluences, has
+attracted the attention of many researchers. Most of
+these studies have however been focused on river
+confluence of equal bed level. Although an unequal
+river bed level at the river junctions are common in
+nature, the scour and sedimentation studies at these
+junctions have not received the attention of researchers
+due to the complexity of the experimental setup. It has been assumed that the bed level has no significant
+effect on the scour and the sedimentation patterns.
+However it has been reported by a few investigators
+that the flow patterns and the zone of maximum shear
+stress in junctions of unequal bed level is different from
+that of equal bed level cases, (Best, 1987; Ghobadian
+and Shafai Bejestan, 2007). Objective
+The main objective of this study is to investigate the
+dimensions of the separation zone at river confluences
+of unequal bed levels and to develop relations for
+prediction of these dimensions compared to the case of
+equal bed level Melhodology
+An extensive experimental study was conducted in the
+hydraulic laboratory of the Shahid Chamrao Uoiversity.
+By applying the dimensional analysis theory, a
+dimensionless relation is developed as shown in Eq.(I):
+~=f(&,-.!...-)
+d,o QI B]
+where cD is a symbol for maximum scour depth (H,)
+and height of sediment deposition downstream of scour
+hole (Hb) , d,o is the mediao sediment size, Q, aod Q,
+are respectively the discharges in the main and lateral
+channel, z is the difference of the bed levels at the river
+confluence, and 8] is the river bed level downstream of
+the confluence. Results and Discussion
+Effect of Ihe discharge ratio:
+The variation of (H,/d,o) and (Hi/d,,) was plotted
+against the discharge ratio Q, for the experimental data.
+The results indieated that both these dimensionless
+parameters are directly proportional to the diseharge
+ratio. Effect of Ihe river bed level:
+Variation of (Hjdso) and (Hi/d,o) against the ratio of
+ZIB, showed that the bed level can generally decrease
+both the scour depth and the height ofsediment.

@@ -1,0 +1,11 @@
+Objective
+Potent immunosuppressants, such as rapamycin, FK506, and ascomycin, are known to regulate the phosphorylation of proteins. The purpose of this study was to investigate the effects of these immunosuppressants on differentiation of several human myeloid leukemic cell lines.
+Materials and Methods
+
+Human myeloid leukemic cell lines were cultured with each immunosuppressant, and several differentiation markers were assayed.
+Results
+
+Rapamycin effectively induced granulocytic differentiation of human myeloid leukemic HL-60 and ML-1 cells. In addition to morphologic differentiation, it also induced nitroblue tetrazolium reduction, lysozyme activity, and expression of CD11b in HL-60 cells. The commitment to differentiation was observed after treatment with rapamycin for 1 day, indicating that the effect of rapamycin was irreversible. FK506 and ascomycin induced differentiation of HL-60 cells, but at higher concentrations than rapamycin. A calcium/calmodulin-dependent kinase (CaMK) was copurified with FKBP52 immunophilin, a binding protein of immunosuppressants. We also found that the CaMK inhibitors KN62 and KN93 induced differentiation of HL-60 cells. Rapamycin and CaMK inhibitors induced differentiation of human myeloid leukemia ML-1 and K562, but not of other cell lines such as NB4, U937, or HEL.
+Conclusion
+
+Immunosuppressants and CaMK inhibitors induced differentiation of HL-60, ML-1, and K562 cells.

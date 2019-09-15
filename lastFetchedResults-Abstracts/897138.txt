@@ -1,0 +1,10 @@
+Iranian rail network has special preferences and constraints that have persuaded transportation
+planners to consider these constraints in their schedules. The aim of this study is to develop a
+new mathematical model for train scheduling problem in the single-track railways. The model
+consists of both passenger and freight trains. The main innovation of the model is to develop the
+new constraints for assessing the capacity of the siding tracks in the stations for all trains and other
+new constraints specialized for the passenger trains to be stopped in one station in order to let the
+passengers do their prayers. The objective of the suggested model is to minimize the total delays
+of passenger and freight trains for both directions. In order to assess the application of the model,
+three test problems are solved by Lingo software. Using this model, it is possible to complement
+the time-tabling for single-track railways automatically.

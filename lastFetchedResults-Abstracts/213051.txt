@@ -1,0 +1,12 @@
+Seueral traditiounl stopping criteria in Genetic Alqoritluns (GAs) are
+applied to the optimization process of a typical laminaied composite plate. The
+results show that neither- the cr-iteria of the type of statistical pa'mmeter's, nOT
+those of the kinds of theoreticalniod-I» perjotm satisjactoriu; in dctcrtuiuino the
+intelT1lption point fOT the GA procese. HeTCo consideTLng the ronfig'llmtion of
+the histor-y curve of the marimum objective 0'(' fitness nalue with geneTation
+number. a Loqaritlnnic Performance Criterion (LPC) is introduced as a
+stopping criterion for' optimization of composite plates. The results highlight
+the advantages of LPC in perjormiru; sufficiently smooth (no noise], requirinq
+reasonoble number of yenem,tions, less parameter dependency, less need [or
+cotisernaiine assumption, on-line contTOliability, wide scope (/pplicabihty, and
+reasonably easy appliration in enqineerinq decision-making problems.

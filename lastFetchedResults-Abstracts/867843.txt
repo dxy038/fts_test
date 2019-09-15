@@ -1,0 +1,7 @@
+This paper investigates how to adapt a discrepancy-based search method to solve two-stage hybrid
+flowshop scheduling problems in which each stage consists of several identical machines operating in
+parallel. The objective is to determine a schedule that minimizes the makespan. We present an adaptation
+of the Climbing Depth-bounded Discrepancy Search (CDDS) method based on Johnson’s rule and on
+dedicated lower bounds for the two-stage hybrid flow shop problem. We report the results of extensive
+computational experiments, which show that the proposed adaptation of the CDDS method solves
+instances in restrained CPU time and with high quality of makespan.

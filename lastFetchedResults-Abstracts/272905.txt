@@ -1,0 +1,7 @@
+The objective of the present paper is to demonstrate the effect of large deformations on the piezoelectric materials
+and structures. An energy based electromechanical piezoelectric constitutive law derived by Tiersten is adopted. For
+large deformation analysis of beams a counterpart of Von Karman’s plate equation is considered. The displacement
+fields in finite element method are based on the first order shear deformation theory. To analyze the nonlinear equilibrium
+equations an incremental iterative technique based on the Newton–Raphson method is employed. In the
+present algorithm the equilibrium is examined considering the electromechanical coupling effects. Nonlinear effects due
+to transverse and axial loading on a cantilever and a pinned–pinned PVDF bimorph beam have been investigated

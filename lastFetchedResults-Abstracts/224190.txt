@@ -1,0 +1,5 @@
+The paper presents a new closed loop control methor1
+which uses information locally available at each converter
+station and combines and coordinates control possibilities with
+tlie objective nf improving the dynamic hehnviour dnring fanlt
+recoveries and distiirbances aiwnnd tlie operating points.

@@ -1,0 +1,11 @@
+Objective
+To determine the impact of skin-subcutaneous fat layer thickness on electrical impedance myography (EIM) measurements.
+Methods
+Linear 50 kHz EIM was performed on quadriceps of 62 healthy subjects (mean age 52.2 ± 20.6 years) with a wide variety of skin-subcutaneous fat layer (SFL) thicknesses, as measured by ultrasound. Correlations were sought between the main EIM outcome parameter phase (θ) and SFL thickness. A multiple regression analysis was also performed for θ with SFL thickness and age as independent variables.
+Results
+Mean skin-fat thickness was significantly different (p < 0.01) between men (0.76 ± 0.23 cm) and women (1.43 ± 0.51 cm). Neither linear nor quadratic fits produced significant correlations between θ and SFL thickness. A significant but weak positive correlation (r2 = 0.14, p < 0.05) was seen between age and SFL thickness in women, but not in men. A strong negative correlation between age and θ was observed for both men (r2 = 0.48, p < 0.01) and women (r2 = 0.68, p < 0.01). In multiple regression analysis, age but not SFL thickness was found to have a significant association with θ.
+Conclusions
+SFL thickness does not contribute substantially to the phase measured by linear-EIM.
+Significance
+EIM data can be interpreted confidently in individuals with varying SFL thickness.
+

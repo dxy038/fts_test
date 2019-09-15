@@ -1,0 +1,9 @@
+Objective
+Because of its potent immunosuppressive properties in vitro as well as in vivo, we studied the effect of 1,25-dihydroxyvitamin D3 (calcitriol) on differentiation, maturation, and function of dendritic cells (DC).
+Materials and Methods
+Monocyte-derived DCs were generated with GM-CSF plus IL-4, and maturation was induced by a 2-day exposure to TNFα. DCs were derived from CD34+ progenitors using SCF plus GM-CSF plus TNFα. For differentiation studies, cells were exposed to calcitriol at concentrations of 10−9– 10−7 M at days 0, 6, and 8, respectively. The obtained cell populations were evaluated by morphology, phenotype, and function.
+Results
+When added at day 0, calcitriol blocked DC differentiation from monocytes and inhibited the generation of CD1a+ cells from progenitor cells while increasing CD14+ cells. Exposure of immature DCs to calcitriol at day 6 resulted in a loss of the DC-characteristic surface molecule CD1a, downregulation of the costimulatory molecules CD40 and CD80, and MHC class II expression, whereas the monocyte/macrophage marker CD14 was clearly reinduced. In addition, calcitriol hindered TNFα-induced DC maturation, which is usually accompanied with induction of CD83 expression and upregulation of costimulatory molecules. In contrast, the mature CD83+ DCs remained CD1a+CD14− when exposed to calcitriol. The capacity of cytokine-treated cells to stimulate allogeneic and autologous T cells and to take up soluble antigen was inhibited by calcitriol.
+Conclusion
+The potent suppression of DC differentiation, the reversal of DC phenotype, and function in immature DCs, as well as the inhibition of DC maturation by calcitriol, may explain some of its immunosuppressive properties.
+

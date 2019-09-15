@@ -1,0 +1,21 @@
+The F.E. analysis of woven composite reinforcement
+forming is an alternative to geometrical draping
+computation. It permits to account for mechanical behaviours
+of the fabric and static boundary conditions of the
+process. In this paper, macroscopic forming simulations of
+woven composite reinforcements are performed using finite
+elements composed of woven cells, the mechanical
+behaviour of which are computed by F.E. analyses at
+mesoscale i.e. on the unit cell of the fabric. The objective is
+to only calculate the relevant quantities in the woven finite
+element. The in-plane biaxiale tensile behaviour and the
+in-plane shear behaviour are obtained by 3D analyses of
+the woven cell submitted respectively to tension and shear.
+They need to take the specificities of the mechanical
+behaviour of the yarn (made of thousand of fibres) into
+account. Especially an objective derivative based on the
+fibre rotation is used. These computations on the unit
+woven cell have proved to be consistent with experimental
+tests. An example of deep drawing of a square box using
+the proposed approach is presented. Angles between warp
+and weft directions are computed as well as wrinkles.

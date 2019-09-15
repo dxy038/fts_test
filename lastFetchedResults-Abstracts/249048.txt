@@ -1,0 +1,13 @@
+Laminates made of  brous composites are optimized with the objective of maximizing the remaining sti ness
+at the end of some given load history, during which damage and deterioration of the material have occurred.
+The material behaviour is thus both highly non-linear and history dependent. The design variables are the
+ bre orientations of each of the plies.
+The progressive and anisotropic damage is modelled by a continuum damage model in which a set of
+internal damage variables describes the decrease of the elastic moduli and Poisson ratios and yet another set
+describes the reduction of the strength properties in each of the plies. The evolution of the deterioration is
+based on a principle of maximum energy dissipation.
+The numerical model and the formulation of a consistent tangent operator is thoroughly described. The
+involved design sensitivity analysis is performed by direct di erentiation in a manner fully compatible with
+the numerical model.
+The importance of taking the damage into consideration in the design process is clearly demonstrated
+by some computational examples where also the advantages of the optimization process become evident

@@ -1,0 +1,1 @@
+WDM-PONs for 10-Gb/s bidirectional transmission are realized with REAMs as ONUs and ASE source for channel fault monitoring. The remotely pumped scheme can simultaneously boost up- and down-stream signals and enhance OSNR of monitoring signals.

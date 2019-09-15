@@ -1,0 +1,11 @@
+Objective
+α-Hemoglobin stabilizing protein (AHSP) binds α-hemoglobin (Hb), avoiding its precipitation and its pro-oxidant activity. In the presence of βHb, the αHb-AHSP complex is dismembered and βHb displaces AHSP to generate the quaternary structure of Hb. The relationship between Hb formation and alterations in AHSP expression, which may affect human erythropoiesis, has not yet been described in human cells. Hence, in this study, we examined the effects of AHSP knockdown in hemin-induced K562 and erythropoietin-induced CD34+ cells with particular reference to cellular aspects and gene expression.
+Materials and Methods
+
+Short-hairpin RNA expression vectors aimed at the AHSP mRNA target sequence were cloned and transfected into K562 and CD34+ cells. K562 and CD34+ cells were stimulated to erythroid differentiation. Cells were examined in terms of gene expression using quantitative real-time polymerase chain reaction; reactive oxygen species (ROS) production, apoptosis, and Hb production through flow cytometry assays; and immunofluorescence assays for globin chains.
+Results
+
+RNA interference–mediated knockdown of AHSP expression resulted in considerable αHb precipitation, as well as in a significant decrease in HbF formation. AHSP-knockdown cells demonstrated an increased ROS production and increased rate of apoptosis.
+Conclusion
+
+These findings strengthen the hypothesis that AHSP stabilizes the αHb chain, avoiding its precipitation and its ability to generate ROS, which implicate in cell death. Moreover, data indicate that AHSP may be highly significant for human hemoglobin formation and suggest that AHSP is a key chaperone protein during human erythropoiesis.

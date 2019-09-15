@@ -1,0 +1,15 @@
+In this article, a new model and a biomimetic pattern for heliostat field layout optimization are introduced. The model, described and
+validated herein, includes a detailed calculation of the annual average optical efficiency accounting for cosine losses, shading and blocking,
+aberration and atmospheric attenuation. The model is based on a discretization of the heliostats and can be viewed as ray tracing
+with a carefully selected distribution of rays. The prototype implementation is sufficiently fast to allow for field optimization. Parameters
+are introduced for the radially staggered layout and are optimized with the objective of maximizing the annual insolation weighted heliostat
+field efficiency. In addition, inspired by the spirals of the phyllotaxis disc pattern, a new biomimetic placement heuristic is described
+and evaluated, which generates layouts of both higher insolation-weighted efficiency and higher ground coverage than radially staggered
+designs. Specifically, this new heuristic is shown to improve the existing PS10 field by 0.36% points in efficiency while simultaneously
+reducing the land area by 15.8%. Moreover, the new pattern achieves a better trade-off between land area usage and efficiency, i.e., it
+can reduce the area requirement significantly for any desired efficiency. Finally, the improvement in area becomes more pronounced with
+an increased number of heliostats, when maximal efficiency is the objective. While minimizing the levelized cost of energy (LCOE) is
+typically a more practical objective, results of the case study presented show that it is possible to both reduce the land area (i.e. footprint)
+of the plant and number of heliostats for fixed energy collected. By reducing the capital cost of the plant at no additional costs, the effect
+is a reduction in LCOE.
+  2011 Elsevier Ltd. All rights reserved

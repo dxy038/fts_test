@@ -1,0 +1,1 @@
+An existing fuzzy logic control scheme is modified with the primary objective to enhance its effectiveness. The proposed control scheme is tested through simulation studies by applying it to a nonlinear power system over a wide range of operating conditions and under different faults.

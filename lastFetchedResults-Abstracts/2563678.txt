@@ -1,0 +1,5 @@
+The objective of this model is to investigate the inventory system for perishable items with power demand pattern where two parameter Weibull distribution for deterioration is considered. The Economic order quantity is determined for
+minimizing the average total cost per unit time under the influence of inflation
+and time value of money. Here the deterioration starts after a fixed time interval.
+The influences of inflation and time-value of money on the inventory system are
+investigated with the help of some numerical examples.

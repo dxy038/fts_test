@@ -1,0 +1,15 @@
+Reliable location routing problem considers a location problem with a vehicle
+routing problem in order to select the optimal location of facilities and at the
+same time the optimal routes for vehicles considering the unexpected failure
+for facilities in which, all facilities may fail with a probability. In this paper, a
+bi-objective mathematical model has been developed to minimize the total
+costs and minimize expected value of total impedance value-weighted travel
+distance. To approach the model to real world, two types of uncertainty in
+model have been considered: 1) demand-side uncertainty and 2) supply side
+uncertainty and also, impedance function has been utilized to operationalize
+the concept of accessibility in transport planning research. To solve the model,
+first ?-constraint method has been used for multi objective solution and then
+we implemented a small-sized case study in an urban district in Iran. The
+findings offer managerial insights into how various system parameters affect
+the optimal solution. 
+

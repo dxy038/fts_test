@@ -1,0 +1,19 @@
+The main objective of the present paper is to derive an explicit expression for the stiffness term in the
+dynamics equations of an elastic beam based on the non-linear kinematics of deformation. In particular, we
+develop a closed-form expression for the non-linear stiffness matrix which operates on the total elastic
+deformations to give the vector of internal forces. The derivation begins with the description of the
+deformation field and the exact non-linear strain4isplacement relations for a conventional beam element.
+The strain energy is formulated in accordance with the slender beam theory and various non-linear terms are
+identified. The non-linear stiffness matrix is then obtained in two stages. The first step involves application of
+Castigliano’s theorem to generate the vector of nodal internal forces S from the strain energy of the element.
+In the second step, we expand S in the nodal co-ordinates q using the Taylor formula. Because of the
+particular form of S, this expansion is exact and consists of only three terms: linear, quadratic and cubic. It
+allows us to directly evaluate the respective three terms of the non-linear stiffness matrix by setting:
+The closed-form expressions for the elemental matrices XG and X,, are provided in terms of the nodal
+co-ordinates. These were determined using the Maple symbolic computation program, which was also
+employed to generate the LATEX format of the results and the corresponding Fortran code. The paper is
+concluded with two numerical examples demonstrating the performance of the dynamics models incorporating
+the proposed non-linear stiffness term. The first example illustrates the response of a cantilever beam to
+a prescribed moment at the base. The second example is modelled after an experimental planar manipulator
+driven by two direct-drive actuators. The results illustrate the differences between three dynamics models
+formulated with the linear, second-order and third-order approximations for the stiffness term.

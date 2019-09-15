@@ -1,0 +1,11 @@
+Objective
+Our studies in chronic lymphocytic leukemia (CLL) are directed at understanding which signals maintain viability in vivo and become lost upon removal of leukemic cells from the body, such that they immediately begin to undergo apoptosis ex vivo. In this report, we examine changes in gene expression observed between freshly isolated CLL B cells and after maintenance in vitro with and without Fludara. We compare these effects with an Epstein-Barr virus (EBV)–transformed cell line treated similarly.
+Materials and Methods
+
+Kinetic effects of drug treatment on apoptosis and cell division were examined with DNA laddering, radioisotopic labeling, and flow cytometry using the fluorescent dye carboxyfluorescein diacetate succinimidyl ester. Reverse transcriptase polymerase chain reaction and hybridization blots of microarray cDNA analyses were performed to examine gene expression.
+Results
+
+We demonstrate that many genes, especially cyclin D1, were downregulated after culture of CLL cells. Anti-apoptotic genes BAG-1 and Akt2 were upregulated. The greatest positive effect with Fludara was the upregulation of JNK1. The EBV-transformed cell line was resistant to classic DNA laddering induced with Fludara. Although DNA synthesis was blocked, the EBV-transformed cell line had some ability to recover from treatment following drug washout.
+Conclusions
+
+CLL cells express cell cycle regulatory genes that are specific for activated cells in the G1-S phase of the cell cycle. Growth regulatory signals are lost when the leukemic cells are isolated from the body. Fludara enhances kinetics of apoptosis and induces expression of a gene responsive to stress that regulates expression of a kinase involved in initiation of the apoptotic pathway.

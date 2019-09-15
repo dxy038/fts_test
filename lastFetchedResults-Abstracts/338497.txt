@@ -1,0 +1,11 @@
+Objective
+It has been reported that stem cell factor (SCF) promotes cell survival in primary cultured human erythroid colony-forming cells (ECFC). Given the heterogeneous nature of ECFC, which may affect interpretation of the data, we purified c-kit+ ECFC and investigated the specificity and mechanisms of the anti-apoptotic effects of SCF on these cells.
+Materials and Methods
+
+Glycophorin A+ (GPA+) c-kit+ cells were purified from primary cultured ECFC derived from purified human CD34+ cells. The GPA+c-kit− and nonerythroid cells were generated from the same CD34+ cells. Apoptosis of ECFC was investigated in the absence or presence of SCF and erythropoietin (EPO) in serum-free medium. DNA fragmentation was measured with enzyme linked immunosorbent assay for oligonucleosome-sized DNA, gel electrophoresis, and annexin V labeling. Characterization of expanded cells and enriched cells was performed using multiparameter flow cytometry. For Akt assay, cells were lysed and the cleared lysates subjected to SDS-PAGE followed by Western blotting.
+Results
+
+In GPA+c-kit+ cells, deprivation of cytokine caused rapid DNA fragmentation within 4 hours that reached a maximum at 6 hours. This was partially but clearly prevented by SCF or EPO. In contrast, no significant DNA fragmentation was seen in GPA+c-kit− and nonerythroid cells within 24 hours. PP2, a specific Src family kinase inhibitor, but not its inactive analogue PP3, reversed the anti-apoptotic effects of SCF. PP2 also inhibited SCF-induced phosphorylation of Akt.
+Conclusions
+
+These data indicate that SCF protects purified human GPA+c-kit+ cells from apoptosis and suggest that kit-mediated Src kinase activation is involved in Akt activation and cell survival.

@@ -1,0 +1,1 @@
+Mutual information is considered as an objective function in recurrent image parameters´ estimation procedures. Different approaches to image entropy estimation are analyzed. An optimization of stochastic gradient ascend algorithm using mutual information as the objective function is proposed.

@@ -1,0 +1,14 @@
+Background
+In many hospitals, infection of the surgical wound is the most common nosocomial infection. Its presence implies patient morbidity, a mortality risk, and an increase in procedure costs because of prolonged hospitalization.
+Objectives
+
+Our objective was to ascertain the effect of an infection control program, using performance feedback, on wound infection (WI) rate in abdominal hysterectomy.
+Methods
+
+All patients undergoing abdominal hysterectomy in our center (Hospital A. Marcide, Ferrol, Spain) between 1999 and 2004 were prospectively followed up to determine the WI rate. A complete set of parameters, including age, underlying illnesses, cancer, diabetes mellitus, immunosuppressive therapy, albumin, American Society of Anesthesiologists preoperative assessment score (ASA) risk, days in hospital presurgery, date of surgery, hygiene and perioperative antimicrobial prophylaxis, type of surgical operation, duration of surgery, surgeon, and WI, were collected in each case. After data collection for 1999 concluded, we communicated surgical WI rates to surgeons every year. A logistic regression analysis was performed to compare WI rates with those observed in 1999.
+Results
+
+A total of 980 females was enrolled in the prospective surveillance: mean age, 50.7 ± 10.7 years. Cases included 25.8% cancer, 4.9% diabetes, 0.5% immunosuppressive therapy, 26.6% ASA 1, 58.4% ASA 2, 13.9% ASA 3. In 9 patients, emergency surgery was performed and, in 971 patients, surgery was scheduled: Total abdominal hysterectomy, 878; subtotal abdominal hysterectomy, 65; Wertheim-Meigs, 37. The factors associated with WI were albumin (OR, 0.97; 95% CI: 0.94-0.99) and antimicrobial prophylaxis (OR, 0.08; 95% CI: 0.02-0.32). The mean values for albumin and the number of patients with antimicrobial prophylaxis fluctuated from year to year. The WI rate improved from 10.7% (95% CI: 5.8-15.6) in 1999 to 6% (−43.9%) in 2004.
+Conclusion
+
+Performance feedback of surgical wound infection rates to individual surgeons reduces these rates.

@@ -1,0 +1,4 @@
+The objective of our work is to create an information system able to integrate different view points concerning the design and the control of a Flexible Manufacturing System. Numerous methods based on generic reference frameworks have been proposed for the modeling of all the aspects of production systems. These models have to be instantiated in order to be applied to specific systems. The difficulties are then to integrate pre-existing models of the studied systems with those obtained by the instantiation of the generic reference framework.
+The proposed approach tackles the problem from the information system point of view. A meta-modeling bottom-up approach is presented based on the notion of patterns in order to facilitate the integration step.
+An example concerned with the performance evaluation and scheduling of a production system is presented to show how the product viewpoint can be built in order to be integrated later with other viewpoints.
+

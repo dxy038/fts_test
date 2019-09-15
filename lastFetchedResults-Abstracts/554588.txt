@@ -1,0 +1,9 @@
+In this paper, Shuffled frog leaping (SFL)
+algorithm is used for VAr planning with the Static Var
+Compensators (SVC) in a large-scale power system. To
+enhance voltage stability, planning problem is formulated
+as a multiobjective optimization problem for maximizing
+fuzzy performance indices. The multi-objective VAr
+planning problem is solved by the fuzzy SFL and the
+results are compared with those obtained by the Particle
+Swarm Optimization (PSO) and Genetic Algorithm (GA).

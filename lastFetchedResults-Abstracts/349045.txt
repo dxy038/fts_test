@@ -1,0 +1,11 @@
+Objective
+Intracranial electroencephalogram (EEG) monitoring involves recording multi-contact electrodes. The current systems require separate wires from each recording contact to the data acquisition unit resulting in many connectors and cables. To overcome limitations of such systems such as noise, restrictions in patient mobility and compliance, we developed a miniaturized EEG monitoring system with the amplifiers and multiplexers integrated into the electrode connectors and mounted on the head.
+Methods
+Small, surface-mounted instrumentation amplifiers, coupled with 8:1 analog multiplexers, were assembled into 8-channel modular units to connect to 16:1 analog multiplexer manifold to create a small (55 cm3) head-mounted 128-channel system. A 6-conductor, 30 m long cable was used to transmit the EEG signals from the patient to the remote data acquisition system.
+Results
+Miniaturized EEG amplifiers and analog multiplexers were integrated directly into the electrode connectors. Up to 128-channels of EEG were amplified and analog multiplexed directly on the patient’s head. The amplified EEG data were obtained over one long wire.
+Conclusions
+A miniaturized system of invasive EEG recording has the potential to reduce artefact, simplify trouble-shooting, lower nursing care and increase patient compliance.
+Significance
+Miniaturization technology improves intracranial EEG monitoring and leads to >128-channel capacity.
+

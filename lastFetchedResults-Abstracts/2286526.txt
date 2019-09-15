@@ -1,0 +1,1 @@
+A multi-objective optimization procedure based on tabu search method was developed for constructing E ( s 2 ) -optimal and minimax-optimal k-circulant supersaturated designs. The construction method is based on cyclic generators. Comparisons with other existing designs are made, demonstrating the effectiveness of our method.

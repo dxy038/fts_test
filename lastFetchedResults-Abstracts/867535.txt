@@ -1,0 +1,10 @@
+The objective of this study is to model and maximize performance of an integrated Automated Guided
+Vehicle System (AGVS), which is embedded in a pull type multi-product, multi-stage and multi-line flexible
+manufacturing system (FMS). This study examines the impact of guide-path flexibility on system
+performance through the development of three different guide-path configurations which range from
+dedicated to flexible relationships between automated guided vehicles (AGVs) and machine/assembly
+station resources. The system is modelled using coloured Petri net method (CPN) and the simulation
+results lead to identify the resource redundancy which can be rectified to achieve lower overall cost of
+the system through the development of flexible guide-path configurations. The study is extended to seek
+global near-optimal conditions for each guide-path configuration using response surface method, which
+yields improvements in system throughput and cycle time along with a decrease in the numbers of AGVs.

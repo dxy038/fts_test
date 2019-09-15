@@ -1,0 +1,11 @@
+Objective
+Activation of nociceptive afferents decreases motor unit discharge rates in static contractions. There is also evidence that during experimental muscle pain the motor unit twitch force increases, which has been hypothesized to compensate for the decrease in discharge rate to maintain constant force. This study examined whether there is an association between the magnitude of change in motor unit discharge rate and the amount of increase in the spike-triggered average torque during experimental muscle pain.
+Methods
+Sixteen subjects performed three constant-torque isometric ankle dorsi-flexions at 10% of the maximal force (MVC) alternated with two contractions at constant discharge rate of a target motor unit, before and following injection of 0.5 ml of hypertonic (painful) or isotonic (control) saline into the tibialis anterior muscle.
+Results
+The discharge rate of the target unit at 10% MVC decreased following injection of hypertonic saline (P < 0.05; mean ± SD, before: 9.9 ± 1.3 pulses per second, pps; after injection: 8.9 ± 1.0 pps). The peak of the spike-triggered average torque increased with pain (P < 0.05; before: 0.56 ± 0.55 mNm; during pain: 0.95 ± 1.02 mNm) but the increase was not correlated with the decrease in discharge rate (R = 0.08). Propagation velocity and action potential peak-to-peak amplitude did not change with pain.
+Conclusions
+The pain-induced modifications in the estimated motor unit twitch torque (1) were not caused by changes in muscle fiber action potential, and (2) were not associated with the decrease in discharge rate.
+Significance
+Maintenance of constant force during static painful contractions is not explained by a matching between changes in contractile and control motor unit properties.
+

@@ -1,0 +1,1 @@
+A practical example of power electronic converter synthesis is presented, where a multi-objective genetic algorithm, namely non-dominated sorting genetic algorithm (NSGA-II) is used. The optimization algorithm takes an experimentally-derived thermal model for the converter into account. Experimental results are provided for verification.

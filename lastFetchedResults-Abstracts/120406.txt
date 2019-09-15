@@ -1,0 +1,5 @@
+The objective of this work is to study the influence of complex manifold geometries on the flow distribution between microchannels by an
+analytical model and an equivalent electrical resistance network model. An optimization procedure is proposed to optimize the manifold geometries
+and dimensional variations to obtain comparatively ideal flow distribution between microchannels. A specific case is illustrated by applying the
+proposed optimization procedure to analyze the optimal rules for a given inlet distributing manifold geometry. Result shows that the microchannel
+width dominates the optimization of outlet collecting manifold geometry and dimensional variations.

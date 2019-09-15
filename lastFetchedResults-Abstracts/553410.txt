@@ -1,0 +1,19 @@
+An optimal procedure for designing
+coordinated output feedback damping controllers of
+power system stabilizer (PSS) and STATCOM is
+developed for achieving and enhancing dynamic stability
+in single-machine infinite-bus power system. The
+coordinated design problem of STATCOM and PSS with
+output feedback controllers over a wide range of loading
+conditions is formulated as an optimization problem with
+the time domain-based objective function which is solved
+by a particle swarm optimization (PSO) algorithm that
+has a strong ability to find the most optimistic results.
+Only local and available state variables are adopted as the
+input signals of each output feedback controller for the
+coordinated design. The effectiveness of the proposed
+controllers for damping low frequency oscillations are
+tested and demonstrated through nonlinear time-domain
+simulation and some performance indices studies. The
+coordinated design has been demonstrated to provide
+extremely good damping characteristics

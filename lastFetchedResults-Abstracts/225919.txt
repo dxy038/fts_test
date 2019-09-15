@@ -1,0 +1,9 @@
+This paper describes a novel method for heat-up phase control of an industrial batch polymerization reactor
+where heat transfer characteristics change with batches due to fouling of the polymer products on the
+reactor wall. The main objective of the control is to settle the reactor temperature on a target value within
+_+ 0.1°C in a minimum possible time. To achieve this goal utilizing the repetitive nature of batch operation,
+the control problem was defined as a tracking problem and feedback-assisted iterative learning control
+(FBALC) was employed as the underlying control technique. The proposed control method was
+applied to an industrial batch reactor polymerizing ABS resin. After on-site evaluation for an extended
+period of time, it was found that the proposed method gives a pronounced improvement in heat-up phase
+operation. Consistent heat-up profiles with a minimized settling time are obtained.

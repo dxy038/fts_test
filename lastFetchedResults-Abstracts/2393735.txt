@@ -1,0 +1,9 @@
+The Demeter program is the first application of the Myriade microsatellite program conducted by the Cnes (French Space Agency) since 1997. The Myriade objective was to benefit from the miniaturization of the technologies to develop a product with a reduced size, weight and cost able to implement either scientific missions, demonstrators or operational applications in different areas: earth observation, astronomy, fundamental physics or telecommunications, within limited financial budget.
+
+meter satellite was launched in end of June 2004, from Baikonour, aboard a Dnepr launcher, on a sun synchronous orbit at 710 km altitude. Its main scientific objectives are the detection and characterization of ionosphere electrical and magnetic disturbances in connection with a seismic activity.
+
+ientific payload has been built by French scientific institutes (LPCE, CESR, CETP) involved in external and internal geophysics and by SSD/ESTEC (ESA). It is composed of several electrical and magnetic sensors, an ion spectrometer, an energetic particle analyzer and a Langmuir probe.
+
+meter platform is designed in order to offer a high level of performances in terms of power, attitude and orbit control, data storage and transmission, flexibility. For example the large amount of scientific data is transmitted to the ground station with a high data rate telemetry link in X band.
+
+aper describes the Demeter satellite and ground segment. It focuses on the specific design adaptations of the Myriade product for Demeter and it presents the preliminary in orbit platform performances.

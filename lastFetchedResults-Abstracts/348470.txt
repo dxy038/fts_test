@@ -1,0 +1,11 @@
+Objective
+Clinical impedance measurements for deep brain stimulation (DBS) electrodes in human patients are normally in the range 500–1500 Ω. DBS devices utilize voltage-controlled stimulation; therefore, the current delivered to the tissue is inversely proportional to the impedance. The goals of this study were to evaluate the effects of various electrical properties of the tissue medium and electrode-tissue interface on the impedance and to determine the impact of clinically relevant impedance variability on the volume of tissue activated (VTA) during DBS.
+Methods
+Axisymmetric finite-element models (FEM) of the DBS system were constructed with explicit representation of encapsulation layers around the electrode and implanted pulse generator. Impedance was calculated by dividing the stimulation voltage by the integrated current density along the active electrode contact. The models utilized a Fourier FEM solver that accounted for the capacitive components of the electrode-tissue interface during voltage-controlled stimulation. The resulting time- and space-dependent voltage waveforms generated in the tissue medium were superimposed onto cable model axons to calculate the VTA.
+Results
+The primary determinants of electrode impedance were the thickness and conductivity of the encapsulation layer around the electrode contact and the conductivity of the bulk tissue medium. The difference in the VTA between our low (790 Ω) and high (1244 Ω) impedance models with typical DBS settings (−3 V, 90 μs, 130 Hz pulse train) was 121 mm3, representing a 52% volume reduction.
+Conclusions
+Electrode impedance has a substantial effect on the VTA and accurate representation of electrode impedance should be an explicit component of computational models of voltage-controlled DBS.
+Significance
+Impedance is often used to identify broken leads (for values >2000 Ω) or short circuits in the hardware (for values <50 Ω); however, clinical impedance values also represent an important parameter in defining the spread of stimulation during DBS.
+

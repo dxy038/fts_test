@@ -1,0 +1,11 @@
+Objective
+Cytokines released during inflammatory processes have been proposed to play a central role in mediating mechanism(s) leading to anemia. Here, we used CpG-ODN to investigate the effects of a pro-inflammatory response on the pathophysiological processes leading to anemia.
+Methods
+
+Naïve and erythropoietin (EPO)-treated mice were injected for 2 days with 100 μg CpG-ODN or control ODN and the effects on the course of red blood cell (RBC) and reticulocyte counts, RBC turnover, and EPO-stimulated maturation of erythroid cells were analyzed. To study the effect of CpG-ODN on erythroid cell maturation in vitro, we obtained primary EPO-responsive cells by treating mice with thiamphenicol (15 mg/g body weight).
+Results
+
+CpG-ODN-treated mice developed anemia, which persisted for 5 days and was associated with a 50% reduction in EPO-stimulated differentiation of EPOR+ cells to TER119+ erythroblasts. CpG-ODN-induced suppression required accessory cells, including antigen presenting cells, which activated other cells to produce pro-inflammatory cytokines. In vitro neutralization of IFN-γ, but not IL-12, TNF-α, IFN-α, IL-1α, or IL-1β, abrogated the erythropoietic suppression induced by CpG-ODN. The anemia observed in CpG-ODN-treated mice was also associated with reduced RBC survival in vivo, as demonstrated by a sevenfold to eightfold higher turnover of biotinylated RBC compared to control ODN–treated mice. In vivo IFN-γ neutralization confirmed that IFN-γ contributed to erythropoietic suppression but not reduced RBC survival.
+Conclusions
+
+Together, these results demonstrate that CpG-ODN anemia is associated with suppressed erythropoiesis and decreased RBC survival. Importantly, CpG-ODN-induced IFN-γ was found to be the major factor mediating erythropoietic suppression but not decreased RBC survival.

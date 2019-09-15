@@ -1,0 +1,17 @@
+Direct steam generation (DSG) in parabolic trough concentrators can cause some instabilities in steel absorbers.
+These instabilities are caused mainly along the stratified two-phase flow related to the boiling process of water. These
+instabilities are manifested as a transient state and shown as a bending of the absorber, causing a rupture of the glass
+envelope of the receiver. This bending has been associated with the thermal gradient produced by the boiling of water,
+and the effects are related to the thermal conductivity of the absorber, the flow pattern and heating of the absorber from
+below around solar noon.
+When solar beam irradiance is arriving on one side of the absorber, the bending, which is always upwards, can be up
+to 50 mm. This is the worst condition because the temperature difference is at its maximum at a transient state. This
+paper presents the results of a bimetallic absorber (copper–steel), which should reduce such deflections due to the high
+thermal conductivity of the copper and the mechanical resistance of the steel. In order to compare the results of the
+theoretical model with experimental results, it was necessary to build a bimetallic absorber 3 m long with a 31.7 mm
+internal diameter and a thickness of 2.6 mm. The bending obtained experimentally was between 5 and 10 mm,
+depending on the mass flow and the temperature difference in the wall receiver.
+As a main conclusion, the bending of the receiver is acceptable, eliminating the rupture of the glass envelope, and it
+may be used in DSG of parabolic trough collectors at low flows. The objective of this work is to apply DSG to low
+power generation with parabolic trough plants.
+  2003 Elsevier Ltd. All rights reserved.

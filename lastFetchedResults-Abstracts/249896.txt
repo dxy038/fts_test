@@ -1,0 +1,9 @@
+To enhance the reliability and e ciency of the multicriteria optimization procedure, a compromise
+programming method using multibounds formulation (MBF) is proposed in this paper. This method
+can be used either to obtain the Pareto optimum set or to  nd the ‘best’ Pareto optimum solution in
+the sense of having the minimum distance to the utopia point. By introducing a set of arti cial design
+variables, it is shown that a simpli ed and easy-to-use formulation can be established for practical
+applications. Particularly, this formulation is well adapted to the e cient dual solution approach due
+to the convexity of objective function. Theoretically, based on the Kuhn–Tucker optimality conditions,
+demonstrations show that the new formulation is equivalent to its original form and thus retains the
+basic properties of the latter. Numerical examples will be solved to show the capacity of this method

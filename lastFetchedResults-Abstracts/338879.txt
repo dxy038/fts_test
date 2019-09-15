@@ -1,0 +1,11 @@
+Objective
+Our goal was to determine the role of p38 mitogen-activated protein kinase (MAPK) signaling in fetal hemoglobin (HbF) induction. Two histone deacetylase inhibitors (HDAIs), sodium butyrate (NB), and trichostatin (TSA) and hemin were analyzed. In addition, the effect of direct activation of p38 MAPK on γ-globin gene activity was studied.
+Method
+
+Primary erythroid progenitors derived from peripheral blood mononuclear cell and K562 erythroleukemia cells were analyzed. Cells were grown in NB, TSA, hemin, or anisomycin either alone or in the presence of the p38 MAPK inhibitor SB203580. The effects of the various treatments on γ-globin RNA, HbF, and phosphorylated p38 MAPK levels were measured by RNase protection assay, alkaline denaturation, and Western blot analysis, respectively. A K562 stable line overexpressing constitutively active p38 MAPK was established using MAPK kinase kinase 3 (MKK3) and MKK6, the immediate upstream activators of p38. The direct effect of p38 MAPK overexpression on γ-globin mRNA synthesis was analyzed.
+Results
+
+NB and TSA activated p38 MAPK and increased γ-globin mRNA levels in K562 cells and primary erythroid progenitors. Pretreatment with SB203580 blocked p38 MAPK and γ-globin gene activation. In contrast, no change in p38 activity was observed with hemin inductions. Direct activation of p38 by anisomycin or constitutive overexpression also increased γ-globin mRNA in the absence of HbF inducers in wild-type K562 cells and in the MKK stable lines.
+Conclusion
+
+This study supports a novel role for p38 MAPK in γ-globin regulation in human erythroid progenitors.

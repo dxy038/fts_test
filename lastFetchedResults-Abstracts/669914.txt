@@ -1,0 +1,10 @@
+This paper proposes a risk management model for the facility location problems in fuzzy
+environment. We investigate the capacitated continuous location allocation problem in continuous
+space as a risk model. Two risk types are considered in the proposed model: customer risk and
+financial risk. The risks are caused because of unsatisfied demands and budget constraint, respectively.
+The introduced model is extension of the continuous location allocation model by adding fixed cost
+and customer risk concept. A facility belongs to a zone when is located in a predetermined radius from
+center of the zone. Because of uncertain budget and demand, the model is considered in fuzzy
+environment. Finally, a risk management model is proposed with presentation of degree satisfaction
+concept of each risk as objective function. Also, a numerical example is expressed to illustrate the
+proposed model.

@@ -1,0 +1,5 @@
+The modeling and optimizing processes of a Ground Coupled Heat Pump (GCHP) with closed Horizontal Ground Heat eXchanger (HGHX) are presented in this paper. After thermal modeling of GCHP including HGHX, the optimum design parameters of the system were estimated by minimizing a defined objective function (total of investment and operation costs) subject to a list of constraints. This procedure was performed applying Genetic Algorithm technique.
+
+ven heating/cooling loads and various climatic conditions, the optimum values of saturated temperature/pressure of condenser and evaporator as well as inlet and outlet temperatures of the water source in cooling and heating modes were predicted. Then, for our case study, the design parameters as well as the configuration of HGHX were obtained.
+
+rmore, the sensitivity analysis of change in the total annual cost of the system and optimum design parameters with the climatic conditions, cooling/heating capacity, and soil type were discussed.

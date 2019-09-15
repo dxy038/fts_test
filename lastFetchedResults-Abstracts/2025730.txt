@@ -1,0 +1,17 @@
+Abstract- Economic load dispatch (ELD) is one of the
+important task which provides cost effective generation in
+power system. It is an optimization problem and the main
+objective is to minimize the total generation cost of all
+committed generating units, while satisfying various physical
+and operational constraints. In the development of artificial
+intelligence(AI) technique Eberhart and kennedy suggested
+Particle Swarm Optimization (PSO) used to solve
+NonConvex Economic Dispatch (NCED) problem. PSO has
+performance parameters such as inertia weight, acceleration
+coefficient, random numbers which can enhance the
+performance of PSO. Among these parameter, inertia weight
+is very important, which can approaches in fuzzy or linear
+way. In this paper Exponential Decreasing Inertia Weight
+(EDIW) has been proposed. The effectiveness of proposed
+algorithm tested on case system & shown superior result in
+terms of convergence and solution quality

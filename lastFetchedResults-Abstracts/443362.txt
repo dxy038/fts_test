@@ -1,0 +1,9 @@
+Background
+Documentation of the clinical breast examination (CBE) has consisted of simple hand-drawings and stick figures without a common lexicon. There is a need for a device that can accurately depict the CBE in digital format while being objective, reproducible over time, and useable in the electronic medical record. This new device is called palpation imaging (PI).
+Methods
+We examined 110 patients with a complaint of a breast mass using PI. This laptop-sized device creates a real-time digital display of the palpable area in both video and still formats. The size, hardness, shape, homogeneity, and mass location may be extracted from the image.
+Results
+Of those with a true mass, PI identified the mass in 94% while physical examination identified 86%. The positive predictive value (PPV) for breast cancer using PI was 94% and 78% for physical examination. A survey of primary care physicians revealed the inclusion of the PI record in a consultation note implied competence, experience, and skill by the surgeon.
+Conclusions
+PI documented the CBE in a timely, efficient, and accurate manner. A reproducible record allows objective review by multiple examiners at varied times. Continued work will optimize examination methods.
+

@@ -1,0 +1,1 @@
+The objective of the paper is to extend the applicability of the separation principle to the case of nonsmooth feedbacks, by allowing an extension of the concept of admissible controls. Topics covered in the paper include: the Bellman equation; solution of the separated problem; and a new definition of the problem of optimal stochastic control with partial information

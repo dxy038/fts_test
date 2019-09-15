@@ -1,0 +1,8 @@
+Objective
+NA is a type of small non-coding RNAs, which usually has a stem-loop structure. As an important stage of microRNA, the pre-microRNA is transported from nuclear to cytoplasm by exportin5 and finally cleaved into mature microRNA. Structure–sequence features and minimum of free energy of secondary structure have been used for predicting pre-microRNA. Meanwhile, the double helix structure with free nucleotides and base-pairing features is used to identify pre-miRNA for the first time.
+s
+lied support vector machine for a novel hybrid coding scheme using left-triplet method, the free nucleotides, the minimum of free energy of secondary structure and base-pairings features. Data sets of human pre-microRNA, other 11 species and the latest pre-microRNA sequences were used for testing.
+s
+s study we developed an improved method for pre-microRNA prediction using a combination of various features and a web server called PMirP. The prediction specificity and sensitivity for real and pseudo human pre-microRNAs are as high as 98.4% and 94.9%, respectively. The web server is freely available to the public at http://ccst.jlu.edu.cn/ci/bioinformatics/MiRNA (accessed: 26 February 2010).
+sions
+mental results show that the proposed method improves the prediction efficiency and accuracy over existing methods. In addition, the PMirP has lower computational complexity and higher throughput prediction capacity than Mipred web server.

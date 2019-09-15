@@ -1,0 +1,20 @@
+One of the most important problems for distribution companies is to find the
+best locations for depots and to find proper routes for transportation vehicles to
+optimize their supply network. This study intends to develop a model for the
+problem of location-routing in post offices. So, a new bi-objective locationrouting
+problem for locating town post office and routing parcels is defined.
+This problem is modeled through the mixed-integer mathematical
+programming. The aim of the proposed model is to select potential post offices
+and to find optimal routes for transportation vehicles whiletime constraints are
+taken into account. The proposed model is applied in a real case study including
+eight main post area and 21 regional offices in Tehran, Iran. A goal
+programming approach is proposed to solve this bi-objective optimization
+model. An optimization Software is used to code and solve the associated
+mathematical model. Some required parameters of the model such as demands
+are estimated using Geographical Information System (GIS) and simulation
+methods. The results of proposed model including the objective functions,
+decision variables, and proposed routing of vehicles have been compared with
+the existing practical solutions. Sensitivity analysis on main parameters of the
+proposed models is accomplished and the results are analyzed. This comparison
+illustrates the efficacy and applicability of our proposed approach. 
+

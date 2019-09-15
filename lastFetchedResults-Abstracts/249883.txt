@@ -1,0 +1,11 @@
+Methods for improving the quality of all-hexahedral unstructured meshes by node-movement strategies
+have, until recently, been lacking. Laplacian smoothing, while easily implemented and well-known,
+fails to guarantee improvement of mesh quality and may result in inverted elements where none existed
+before. A method for improving unstructured hexahedral mesh shape-quality that guarantees untangled
+elements is proposed. The method is based on optimization of an objective function built from the
+quality of individual hexahedral elements. The shape-quality measure for hexahedral elements is based
+on the condition number of a set of Jacobian metrics associated with the element. The theory of the
+condition number quality metric and of the objective function are reviewed. A numerical optimization
+procedure to  nd the improved-quality mesh is described. The purpose of this paper is to demonstrate
+the robustness of the method. We do so by giving a realistic example. The method has also been
+successfully applied to dozens of meshes on complex geometries

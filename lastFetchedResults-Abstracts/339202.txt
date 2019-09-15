@@ -1,0 +1,11 @@
+Objective
+Adipocytogenesis in bone marrow stromal cells (BMSCs) from manganese-superoxide dismutase–deficient (Sod2−/−) and wild-type (Sod2+/+) mice and the effect of antioxidant pool size were determined.
+Methods
+
+BMSCs from Sod2−/− or Sod2+/+ mice were cultured with and without adipocytogenic supplements including: 10 μg/mL insulin, 1 μM dexamethasone, and 100 μM indomethacin. Oil Red-O-positive cells and reverse-transcriptase polymerase chain reaction measurement of peroxisome proliferator-activated receptor-γ (PPARγ) and lipoprotein lipase (LPL) were measured. Antioxidant glutathione levels (GSH) and glutathione peroxidase activity (GPX) were determined.
+Results
+
+Sod2−/− cells demonstrated constitutive adipocytogenesis in basal medium and generated 34% more adipocytes in adipocytogenic media. Growth of cells in the free radical scavenger antioxidant, amifostine (WR2721; 4 mM) decreased numbers of adipocytes in Sod2−/− BMSCs in both basal (38.0%, p = 0.037) and adipocytogenic (37.5%, p = 0.021) media and reduced to undetectable the levels of expression of PPARγ and LPL. In contrast, Sod2+/+ cells showed no detectable constitutive adipocytogenesis but formed adipocytes in adipocytogenic medium, with a decrease (43.7%, p = 0.001) by addition of WR2721. In basal conditions, Sod2−/− cells had lower GSH (78.6%; p = 0.0089) and GPX (52.7%; p < 0.001) levels than did Sod2+/+ cells, which were increased in either medium by WR2721 treatment of Sod2−/− or Sod2+/+ cells (all p < 0.001). Differentiation of BMSCs to adipocytes was inversely correlated with the level of GSH (r = −0.9427, p = 0.0167). Sod2−/− long-term bone marrow cultures had decreased hematopoiesis compared to those from Sod2+/− or Sod2+/+ mice.
+Conclusion
+
+The cellular redox pathway has a role in adipocyte differentiation of cells of the hematopoietic microenvironment.

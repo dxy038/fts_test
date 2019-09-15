@@ -1,0 +1,9 @@
+Objective. To determine the relative importance of modelled peak spine loads, hand loads, trunk kinematics and cumulative spine loads as predictors of reported low back pain (LBP).
+
+Background. The authors have recently shown that both biomechemical and psychosocial variables are important in the reporting of LBP. In previous studies, peak spinal load risk factors have been identified and while there is in vitro evidence for adverse effects of excessive cumulative load on tissue, there is little epidemiological evidence.
+
+Methods. Physical exposures to peak and cumulative lumbar spine moment, compression and shear forces, trunk kinematics, and forces on hands were analyzed on 130 randomly selected controls and 104 cases. Univariable and multivariable odds ratios of the risk of reporting were calculated from a backwards logistic regression analysis. Interrelationships among variables were examined by factor analysis.
+
+Results. Cases showed significantly higher loading on all biomechanical variables. Four independent risk factors were identified: integrated lumbar moment (over a shift), ‘usual’ hand force, peak shear force at the level of L4/L5 and peak trunk velocity. Substituting lumbar compression or moment for shear did not appreciably alter odds ratios because of high correlations among these variables.
+
+Conclusions. Cumulative biomechanical variables are important risk factors in the reporting of LBP. Spinal tissue loading estimates from a biomechanical model provide information not included in the trunk kinematics and hand force inputs to the model alone. Workers in the top 25% of loading exposure on all risk factors are at about six times the risk of reporting LBP when compared with those in the bottom 25%.

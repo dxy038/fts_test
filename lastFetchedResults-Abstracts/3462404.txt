@@ -1,0 +1,1 @@
+In this technical note we study the statistics of a maximum-likelihood (ML) objective function-one that is frequently used in system identification-using perturbation analysis. We obtain first-order approximations for both the mean and variance of the objective function.

@@ -1,0 +1,1 @@
+This paper proposes an image-based visual servoing method for human tracking by a mobile robot. Three neural networks that determine control inputs from image features are designed as controllers, where they are learned by using the genetic algorithm. We examine the network structure that is suitable as a controller for the present objective by using simulations.

@@ -1,0 +1,11 @@
+Objective
+CXCR4 is overexpressed in 23 types of cancers of both hematopoietic and nonhematopoietic origin. Based on the known role of CXCR4 and its ligand CXCL12 in homing of hematopoietic cells, CXCR4 is likely to play a role in metastasis. We have initiated a study aimed at dissecting additional functions of CXCR4 in cancer cells, particularly in relation to the immune system.
+Materials and Methods
+
+RNA from CXCR4+ and CXCR4− subpopulations of MDA-MB-231 breast cancer cells was subjected to microarray analysis. Cell surface expression of CXCR4 and MHC class II proteins were determined by flow cytometry. Real-time PCR was used for measuring mRNA levels of MHC class II and CIITA, the master regulator of MHC class II gene expression.
+Results
+
+1988 genes were differentially expressed (p < 0.001) between CXCR4+ and CXCR4− cells. The expression of class II genes HLA-DPα1, HLA-DQβ1, HLA-DRα, HLA-DRβ1, HLA-DRβ3, and CD74 was lower by 2.6-fold to eightfold in CXCR4+ cells compared to CXCR4− cells. Basal and IFN-γ-inducible HLA-DR mRNA and protein levels were lower in CXCR4+ cells than in CXCR4− cells. HLA-DR mRNA expression in both cell types was reduced by CXCL12; the ability of CXCL12 to reduce HLA-DR was lower in cells expressing short interfering RNA against CXCR4. PKA inhibitor H89 and the SRC kinase inhibitor PP2 increased HLA-DR expression in CXCR4+ cells. The basal but not IFN-γ-inducible expression of CIITA was 2.5-fold higher in CXCR4− cells compared to CXCR4+ cells. CD34+/CD38− hematopoietic cells from the human bone marrow contain a distinct CXCR4+/HLA-DR− subpopulation of cells.
+Conclusion
+
+CXCR4 may influence the immune system under physiologic and pathologic conditions through negative regulation of MHC class II expression, possibly through PKA and SRC kinase.

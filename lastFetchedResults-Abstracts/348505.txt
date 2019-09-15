@@ -1,0 +1,11 @@
+Objective
+To compare half sine transcranial magnetic stimuli (TMS) with conventional monophasic and biphasic stimuli, measuring resting and active motor threshold, motor evoked potential (MEP) input/output curve, MEP latency, and silent period duration.
+Methods
+We stimulated the dominant hand representation of the motor cortex in 12 healthy subjects utilising two different MagPro stimulators to generate TMS pulses of distinct monophasic, half sine and biphasic shape with anteriorly or posteriorly directed current flow.
+Results
+The markedly asymmetric monophasic pulse with a posterior current flow in the brain yielded a higher motor threshold, a less steep MEP input/output curve and a longer latency than all other TMS types. Similar but less pronounced results were obtained with a less asymmetric half sine pulses. The biphasic stimuli yielded the lowest motor threshold and a short latency, particularly with the posterior current direction.
+Conclusions
+The more asymmetric the monophasic pulse, the stronger the difference to biphasic pulses. The 3rd and 4th quarter cycle of the biphasic waveform make it longer than any other waveform studied here and likely contribute to lowering motor threshold, shortening MEP latency and reversing the influence of current direction.
+Significance
+This systematic comparison of 3 waveforms and two current directions allows a better understanding of the mechanisms of TMS.
+

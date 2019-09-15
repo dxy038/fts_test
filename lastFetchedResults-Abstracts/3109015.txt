@@ -1,0 +1,1 @@
+Precise definitions of ill-posedness in the sense of Tikhonov is presented for a general class of optimal control problems. Ill-Posedness of Problems in which the objective is to transfer a linear time-invariant system from an arbitrary initial state to specified target set in minimum time will be investigated. Here only non-singular problems will be considered.

@@ -1,0 +1,4 @@
+Introduction & Objective: The aim of the present study is to determine the accuracy of malignancy prediction in adnexal mass if CA125 measurement is added to sonographic findings.
+Materials & Methods: In a cross sectional study, AUC of ROC Curve of malignancy prediction based on sonographic findings in comparison to a new model (OMPS2) based on sonography plus serum CA125 was calculated. Pathologic reports of 430 operated adnexal masses were included in the study. Logistic regression analysis was used. 
+Results: New model (OMPS2) was constructed as follow: OMPS1+1.444(if CA125=36-200) or 3.842 (if CA125 is above 200).AUC of ROC curve of malignancy prediction increased from 78.1% (based on OMPS1) to 84.3% (in OMPS2).
+Conclusion: Serum CA125 measurement in addition to sonography increased the accuracy of malignancy prediction in comparison to only sonography.

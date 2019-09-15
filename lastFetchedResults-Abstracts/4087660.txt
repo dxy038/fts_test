@@ -1,0 +1,1 @@
+A bidirectional WDM self-healing ring network composed of add and drop fibres is reported. In this network, it is possible to relax the device requirement and realise self-healing without the need for protection switches in the transmission paths. In addition, the transmission capacity can be doubled in the operating state

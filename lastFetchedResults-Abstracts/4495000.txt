@@ -1,0 +1,1 @@
+The objective of this article is to present a generic approach of multi-modeling and of simulation of complex systems. In order to take into account fuzzy or badly known parameters, we propose to define an approach allowing the addition of a technique based on the fuzzy sets theory, in an environment of multi-modeling JDEVS based on unifying formalism DEVS

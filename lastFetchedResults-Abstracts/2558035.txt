@@ -1,0 +1,10 @@
+Fridges are used in various industries, and heat exchanger is one of the main
+components of these systems; therefore, efficiency analysis of these systems is very important. In
+many fridges, frost over the heat exchanger tubes or pipes affects the system operation and reduces
+heat transfer between the refrigerant and ambient, so defrosting systems are usually used to
+enhance heat transfer. Designing defrosting systems requires sufficient information about frost
+formation processes. Therefore, the objective of this study is experimental investigation of frost
+formation over a heat exchanger pipe in a pilot fridge. To do this, some steps are considered. For
+distinct cases, experiments are done to collect database for frost parameters under desired
+conditions. Then, based on experimental measurements some correlations are proposed for
+practical applications of frost growth and defrosting process over heat exchanger tubes.

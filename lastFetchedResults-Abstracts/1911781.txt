@@ -1,0 +1,8 @@
+Objectives
+te cancer clinical staging has significant limitations in the ability to accurately risk-stratify patients for prompt treatment or expectant management. The University of California San Francisco Cancer of the Prostate Risk Assessment (UCSF CAPRA) was recently described as a straightforward staging system that uses clinical variables to generate a score ranging from 0 to 10. Our objective was to perform an external validation of the CAPRA score as a predictor of 5-year progression-free survival (PFS) in a single-surgeon radical retropubic prostatectomy (RRP) series.
+als and methods
+mined the performance characteristics of the preoperative CAPRA score (0–10) to predict biochemical progression-free survival (PFS) in 990 men who underwent RRP by a single surgeon from 2003 to 2009.
+s
+scores were significantly associated with the risk of early biochemical progression in our series. For example, 5-year PFS was markedly different for scores at the extremes of 0 to 1 vs. ≥7 (95% vs. 40%, respectively). The concordance index was 0.764 for the prediction of biochemical progression using CAPRA scores in this cohort, which compares favorably with the concordance index of 0.66 in the original CaPSURE dataset.
+sions
+sults validate the UCSF-CAPRA score as a significant predictor of 5-year PFS in a single surgeon series. The CAPRA score is a simple preoperative tool that can be readily applied in clinical practice to help risk-stratify prostate cancer patients.

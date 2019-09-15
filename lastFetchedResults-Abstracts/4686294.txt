@@ -1,0 +1,1 @@
+The authors outline an approach to four-coloring of maps using a genetic algorithm. The objective of this map coloring problem is to shade each region of the map with a color such that no adjacent regions are of the same color. Simulation results show that the 48-region USA map problem can be solved on a PC platform within 400 generations

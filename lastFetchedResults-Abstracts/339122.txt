@@ -1,0 +1,11 @@
+Objective
+Although a novel IFN-ζ/limitin uses IFN-α/β receptor, it lacks some common activities of type I IFNs. We compared effects on megakaryocyte proliferation and differentiation as well as signals for their biological activities.
+Materials and Methods
+
+Recombinant IFN-ζ/limitin and IFN-α titrated with a cytopathic effect dye binding assay, were used in this study. Colony assays and serum-free suspension cultures for megakaryocytes were performed to compare their growth inhibitory effects. To analyze signals, megakaryocytes cultured in serum-free suspension cultures were stimulated and Western blotted with the indicated antibody.
+Results
+
+Both IFN-ζ/limitin and IFN-α suppressed the proliferation of megakaryocyte progenitors without influencing their differentiation. However, much higher concentrations of IFN-ζ/limitin were required for the growth inhibition than IFN-α. The growth inhibition by IFN-ζ/limitin and IFN-α was significantly reduced when either Tyk2 or STAT1 was disrupted. In addition, the antisense oligonucleotides against Crk and Daxx, downstream molecules of Tyk2, greatly rescued the IFN-ζ/limitin- and IFN-α-induced reduction of megakaryocyte colony numbers. In cultured megakaryocytes, IFN-ζ/limitin induced the expression of SOCS-1 as strongly as IFN-α. However, IFN-ζ/limitin induced weaker phosphorylation of Crk and lower induction of Daxx than IFN-α.
+Conclusions
+
+Weaker signals for Crk and Daxx may participate in less megakaryocyte suppressive activity of IFN-ζ/limitin and may distinguish IFN-ζ/limitin from IFN-α in megakaryocytes. Our results extend the understanding about thrombocytopenia in patients with IFN-α treatment as well as the possibility for the clinical application of human homologue of IFN-ζ/limitin or an engineered cytokine with useful features of the IFN-ζ/limitin structure.

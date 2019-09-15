@@ -1,0 +1,11 @@
+Topology optimization has been carried out mainly with structured quadrilateral finite elements. However,
+triangular elements facilitate mesh generation especially for problems having complex geometries
+that often appear in practical industrial problems. The use of triangular elements, especially low-order
+triangular elements, causes a serious numerical trouble that is equivalent to the rectangular checkerboard
+pattern formation. The objective of this investigation is to develop a triangular checkerboard-freeing
+method that directly restricts the design space. To this end, we use the multiscale design space that
+is mapped from the standard single-scale density space. To facilitate the mapping, we employ the
+triangular mesh subdivision and propose a bi-orthogonal wavelet transform suitable for a triangulated
+domain. For checkerboard-free designs, a shrinkage method based on the wavelet frame appropriate for
+triangular mesh is proposed. Typical benchmark problems and a simplified roof-reinforcing problem
+in an automobile body are considered to check the effectiveness of the proposed method

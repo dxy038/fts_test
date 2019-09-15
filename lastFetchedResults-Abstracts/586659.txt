@@ -1,0 +1,16 @@
+In this paper, a new approach based on the
+particle swarm optimization (PSO) algorithm is proposed
+to tune the parameters of the Constant Maximum Boost
+control method for the Z-Source Inverter (ZSI). The
+purpose of utilizing PSO technique is to minimize Total
+Harmonic Duration (THD) output voltage of ZSI. The
+design problem of the Constant Maximum Boost control
+method is converted to an optimization problem with the
+time-domain-based objective function which is solved by
+a PSO technique which has a strong ability to find the
+most optimistic result. The Matlab/Simulink was used to
+verify the effectiveness of proposed control method. The
+simulations results prove that the Constant Maximum
+Boost optimized PSO algorithm has excellent ability in
+minimize THD output voltage toward Constant
+Maximum Boost.

@@ -1,0 +1,1 @@
+The key parameter in a CDMA network is the interference level. As users move around, the interference "flows" with the movement. Our objective is to study the impact of the moving interference on the system performance and design parameters. This includes: (1) the maximum system capacity; (2) the best call admission control schemes; (3) the optimal soft handoff region size.

@@ -1,0 +1,11 @@
+Objective
+To compare EEG power spectra and LORETA-computed intracortical activity between Alzheimer’s disease (AD) patients and healthy controls, and to correlate the results with cognitive performance in the AD group.
+Methods
+Nineteen channel resting EEG was recorded in 21 mild to moderate AD patients and in 23 controls. Power spectra and intracortical LORETA tomography were computed in seven frequency bands and compared between groups. In the AD patients, the EEG results were correlated with cognitive performance (Mini Mental State Examination, MMSE).
+Results
+AD patients showed increased power in EEG delta and theta frequency bands, and decreased power in alpha2, beta1, beta2 and beta3. LORETA specified that increases and decreases of power affected different cortical areas while largely sparing prefrontal cortex. Delta power correlated negatively and alpha1 power positively with the AD patients’ MMSE scores; LORETA tomography localized these correlations in left temporo–parietal cortex.
+Conclusions
+The non-invasive EEG method of LORETA localized pathological cortical activity in our mild to moderate AD patients in agreement with the literature, and yielded striking correlations between EEG delta and alpha1 activity and MMSE scores in left temporo–parietal cortex.
+Significance
+The present data support the hypothesis of an asymmetrical progression of the Alzheimer’s disease.
+

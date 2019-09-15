@@ -1,0 +1,1 @@
+This paper describes the running control of a 2-wheel independently driven vehicle. We intend to develop a practical, useful and simple control method for the mechanism. The experimental results show that the vehicle can negotiate a complex course using a simple control law if the objective course is changed suitably, although the mechanism has a nonholonomic restriction.

@@ -1,0 +1,8 @@
+Damage detection by the wavelet transform of the fundamental vibration mode receives much attention recently.
+Many investigations report successful applications of the wavelet transform in damage detection,but most of them
+appear to lack theoretical justifications. The objective of this contribution is to show the effectiveness of the wavelet
+transform by means of its capability to estimate the Lipschitz exponent. It is also addressed that the magnitude of
+the Lipschitz exponent can be used as a useful indicator of the damage extent. As a specific example,damaged beams
+are investigated both numerically and experimentally. The continuous wavelet transform (CWT) by a Mexican hat
+wavelet having two vanishing moments is utilized for the estimation of the Lipschitz exponent. The analysis by the
+CWT also gives a guideline to choose appropriate discrete wavelet transforms

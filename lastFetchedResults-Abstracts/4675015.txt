@@ -1,0 +1,1 @@
+For the first time we demonstrate a fully self-contained photonic transceiver system on a single die with monolithically integrated Ge photo-detectors. The transceiver allows error-free bidirectional 4times10 Gb/s WDM transmission using a single CMOS die at each end of the link.

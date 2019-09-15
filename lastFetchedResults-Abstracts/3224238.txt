@@ -1,0 +1,1 @@
+This paper presents a supervisor system for urban traffic management, which aims to reduce cars´ queues in large cities. To achieve such objective this system uses fuzzy sets to detect if a traffic-light is in trouble, case-based reasoning to match the current traffic situation with previous ones, and genetic algorithms to generate new programs for traffic-lights.

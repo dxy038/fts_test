@@ -1,0 +1,14 @@
+Focusing on enriched multimedia user created contents (UCC), also
+known as user-generated contents, we provide a novel uplink traffic management
+scheme which consists on the both of network selection and traffic redistribution. A
+recent trend in the use of the multimedia Internet exhibits rapid growth of UCC with
+the potential to create a huge amount of uplink traffic for wireless operators. Our
+objective is finding the optimal heterogeneous network operation framework under
+the precise uplink UCC traffic analysis. We suggest the market-based evaluation of
+the relative value of resources for each network, and develop a whole new uplink
+UCC operation framework in heterogeneous 3G/4G networks. To prove the applicability
+of the proposed operation framework and analysis, we build a large-scale
+uplink test-bed system. The test-bed contains all necessary functions of network
+facilities and protocols for development of emerging multimedia UCC traffic. We
+can easily test the various service scenarios in heterogeneous network environment
+by the developed test-bed system

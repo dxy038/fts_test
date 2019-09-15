@@ -1,0 +1,11 @@
+Objective
+The source of somatosensory evoked high-frequency activity at about 600 Hz is still not completely clear. Hence, we aimed to study the influence of double stimulation on the human somatosensory system by analyzing both the low-frequency activity and the high-frequency oscillations (HFOs) at about 600 Hz.
+Methods
+We used median nerve stimulation at seven interstimuli intervals (ISIs) with a high time resolution between 2.4 and 4.8 ms to investigate the N15, N20 and superimposed HFOs. Simultaneously, the electroencephalogram and the magnetoencephalogram of 12 healthy participants were recorded. Subsequently, the source analysis of precortical and cortical dipoles was performed.
+Results
+The difference computations of precortical dipole activation curves showed in both the low- and high-frequency range a correlation between the ISI and the latency of the second stimulus response. The cortical low-frequency response showed a similar behavior. Contrarily, in the second response of cortical HFOs this latency shift could not be confirmed. We found amplitude fluctuations that were dependent on the ISI in the low-frequency activity and the HFOs. These nonlinear interactions occurred at ISIs, which differ by one full HFO period (1.6 ms).
+Conclusions
+Low-frequency activity and HFOs originate from different generators. Precortical and cortical HFOs are independently generated. The amplitude fluctuations dependent on ISI indicate nonlinear interference between successive stimuli.
+Significance
+Information processing in human somatosensory system includes nonlinearity
+

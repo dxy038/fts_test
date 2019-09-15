@@ -1,0 +1,9 @@
+Objective
+To evaluate the evolution of a metastatic bone tumor model with MRI-pathology correlation.
+Materials and Methods
+VX2 carcinoma was implanted into the tibiae of 20 rabbits. The rabbits were divided into four groups of five (Groups I–IV). MRI was repeated at 1-week interval up to the fourth week, including sagittal T1-weighted image (T1WI), T2-weighted image (T2WI), gadolinium-enhanced fat-suppressed T1WI (GdT1WI), and diffusion-weighted image (DWI). Each group was sacrificed after the imaging, then histological examination for the tibiae with an implanted tumor was performed and MRI-pathologic correlation was done.
+Results
+On MRI-pathology correlation, the corresponding findings were as follows; low SI on T1WI, T2WI-tumor cells, fibrosis (1 week); central low SI on T1WI, T2WI, GdT1WI -tumor cells with fibrosis and necrosis; peripheral high SI on T2WI, DWI, GdT1WI-edema, fibrosis (2 weeks); heterogeneous SI with central low SI on T2WI, DWI-tumor cell nests with extensive necrosis, fibrosis; high SI on T2WI along periosteum–periosteal reaction; high SI around low SI and in bone marrow on T2WI, DWI, GdT1WI-edema, fibrosis; low SI on T1WI in surrounding bone marrow-tumor extension (3–4 weeks).
+Conclusion
+The evolution of VX2 carcinoma model was well depicted on MR imaging. Necrosis and extent of tumor were best depicted on enhanced, fat-suppressed T1-weighted images. Heterogeneity of the tumor, peripheral edema, and fibrosis were represented well on T2-weighted images. Diffusion-weighted imaging could have a role in depicting necrosis in the evaluation of bone tumor.
+

@@ -1,0 +1,27 @@
+A neural network for controlling shunt capacitor
+banks and feeder voltage regulators in electric distribution
+systems is presented. The objective of the neural
+controller is to minimize total 12R losses and maintain
+all bus voltages within standard limits. The performance
+of the neural network for different input selections
+and training data is discussed and compared.
+Two different input selections are tried, one using the
+previous control states of the capacitors and regulator
+along with measured line flows and voltage which
+is equivalent to having feedback and the other with
+measured line flows and voltage without previous control
+settings. The results indicate that the neural net
+controller with feedback can outperform the one without.
+Also, proper selection of a training data set that
+adequately covers the operating space of the distribution
+system is important for achieving satisfactory performance
+with the neural controller. The neural controller
+is tested on a radially configured distribution
+system with 30 buses, 5 switchable capacitor banks
+and a nine t.ap line regulator to demonstrate the performance
+characteristics associated with these principles.
+Monte Carlo simulations show that a carefully
+designed and relatively compact neural network with a
+small but carefully developed training set can perform
+quite well under slight and extreme variation of loading
+conditions.

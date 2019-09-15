@@ -1,0 +1,5 @@
+The objective of this paper is to establish an intrinsic and simple correspondence between a multiple Nevanlinna–Pick matrix interpolation (NP) problem in the Nevanlinna class
+image
+with a denumerable set of nodes and a certain full Hamburger matrix moment problem. With the help of the indicated correspondence, the solution of an infinite NP problem in
+image
+can be reduced to what amounts to the study of the associated full Hamburger matrix moment problem with the so-called block Hankel vector of the former, and vice versa. These investigations can be regarded as a natural extension of our previous work on both the NP problems with a finite set of interpolation data and the truncated power matrix moment problems.

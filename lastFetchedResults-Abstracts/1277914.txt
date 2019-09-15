@@ -1,0 +1,8 @@
+Background and Objective: Despite the great advances, coronary heart disease is a leading cause for death in most countries including Iran. This study develops new combined distribution of probability, validity, and fuzzy to assess the risk factors of coronary heart disease. 
+Material and Method: The study group in this research consisted of 73 patients who referred to the hospitals of South Khorasan Province. After identifying the risk factors through distributing a questionnaire among physicians, they were asked to state their viewpoints about the effect of the risk factors on a scale ranging from the least important to the most important. Then, using this information and based on the proposed fuzzy probability-validity modeling, the risk factors of coronary heart disease were assessed. 
+Results: A strong association was found among blood pressure, gender, and HDL. With decreasing diastolic blood pressure by one unit in males, 4% decrease in the risk was observed; while with increasing HDL and decreasing weight by one unit in females, 5.3% decrease was obtained. With an n increase in the HDL of all 73 cases, the risk of disease was decreased approximately to 22% in females and 13.3% in males. 
+Conclusion: It seems that blood pressure variable in males and blood lipids in females are the most determining factors as compared to other risk factors. Therefore, it seems that a fast and effective way to decrease the risk of such diseases is to control diastolic blood pressure in males and two variables of HDL and obesity in females.
+
+Keywords: Fuzzy probability and validity, Coronary heart disease, High-density lipoprotein cholesterol, Blood pressure 
+
+

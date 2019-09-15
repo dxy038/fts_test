@@ -1,0 +1,11 @@
+Background
+Factors previously identified by multivariate logistic regression that were predictive for gangrenous cholecystitis (GC) were used to develop a predictive equation. Our objective was to evaluate the sensitivity, specificity, and positive (PPV) and negative (NPV) predictive values of this equation for detecting GC in patients with acute cholecystitis (AC).
+Methods
+
+Medical records of patients who presented to a tertiary care hospital with AC were reviewed. Twenty-one patient and clinical variables were recorded. We prospectively tested the results of the following equation against pathologic diagnosis: P = e(0.7116+0.9944·DM+1.7157·WBC−1.0319·ALT·2.0518·ALP+2.7078·PCF)/(1 + e[−0.7116+0.9944·DM+1.7157·WBC−1.0319·ALT−2.0518·ALP+2.7078·PCF]), where P = predicted value; DM = diabetes mellitus; WBC = white blood cell count; ALT = alanine aminotransferase; AST = aspartate aminotransferase; and PCF = pericholecystic fluid.
+Results
+
+Ninety-eight patients presented with AC and 18% had GC (18 of 98). Using a cutoff of P = 0.724, our equation had a specificity of 93%, sensitivity of 83%, PPV of 71%, and NPV of 96%, P <0.001 for the detection of GC.
+Conclusions
+
+Our study demonstrates the equation may be useful in detecting the subset of AC patients who have GC.

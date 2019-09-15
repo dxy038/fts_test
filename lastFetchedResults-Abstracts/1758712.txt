@@ -1,0 +1,8 @@
+Objective
+an appropriate method to handle cases with missing data when performing secondary analyses of survey data is important to reduce bias and to reach valid conclusions for the target population. Many published secondary analyses using child health data sets do not discuss the technique employed to treat missing data or simply delete cases with missing data. Missing data may threaten statistical power by reducing sample size or, in more extreme situations, estimates derived by deleting cases with missing values may be biased, particularly if the cases with missing values are systematically different from those with complete data. The aim of this study was to determine which of 4 techniques for handling missing data most closely estimates the true model coefficient when varying proportions of cases are missing data.
+s
+formed a simulation study to compare model coefficients when all cases had complete data and when 4 techniques for handling missing data were employed with 10%, 20%, 30%, or 40% of the cases missing data.
+s
+gt;10% of the cases had missing data, the reweight and multiple imputation techniques were superior to dropping cases with missing scores or hot deck imputation.
+sions
+findings suggest that child health researchers should use caution when analyzing survey data if a large percentage of cases have missing values. In most situations, the technique of dropping cases with missing data should be discouraged. Investigators should consider reweighting or multiple imputation if a large percentage of cases are missing data.

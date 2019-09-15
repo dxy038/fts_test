@@ -1,0 +1,11 @@
+This paper presents the fatigue results obtained in two types of stainless steels: Duplex S31803 and Austenitic 304L. The main objective was to compare the fatigue behavior in terms of environment (air and 3% NaCl) and weld toe treatment (as welded and toe grinding). The tests were carried out in tension on cruciform specimens with a constant amplitude fatigue cycle of R = 0.1. A few tests were also carried out for R = 0.5. These data values were also compared with results available in the literature.
+
+The fatigue performances of austenitic and duplex stainless steel joints are similar.
+
+It was found that the fatigue strength of the tested austenitic toe ground joints was greater than the fatigue strength of the as welded specimens. The fatigue performance improves in as welded specimens with the increase of stress range.
+
+For a number of cycles near of N = 107 cycles it was obtained increase of 60% in terms of stress range.
+
+Measurements of the radii of curvature and weld toe angle were obtained in the as welded and toe grinding specimens.
+
+The variations in fatigue life are basically due to changes in residual stress and weld toe geometry at the weld toe zone. These results were also assessed by numerical results obtained by 2D FE.

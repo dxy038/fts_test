@@ -1,0 +1,8 @@
+Objective
+estigate the effects of mechano-growth factor E (MGF-E) peptide derived from an IGF-1 isoform on the differentiation and mineralization of osteoblasts.
+s
+peptide corresponding to the carboxy terminal 24 amino acid peptide of human MGF was synthesized. MGF-E (1 nM) peptide was then used to treat the pre-osteoblast line MC3T3-E1. At predetermined times, alkaline phosphatase (ALP) activity was quantified using an enzyme activity assay kit. The expression levels of collagen I (Col I) and osteopontin (OPN), and core binding factor 1 (Cbfα-1) were detected by reverse transcription polymerase chain reaction and Western blot analysis. The effect of MGF-E on mineralization was determined by Alizarin Red staining and calcium concentration analysis. The kinase inhibitor PD98059 was used to investigate Erk pathway involvement in the MGF-E role.
+s
+ MGF-E-treated osteoblasts, ALP activity decreased with increased Erk activation. The transcription and translation of Col I were inhibited, but those of OPN were enhanced. PD98059 abolished the inhibitory effect and increased the expression of Col I, but decreased that of OPN. Treatment with MGF-E alone up-regulated the mRNA and total protein levels of Cbfα-1, but decreased the fraction of activated Cbfα-1 in the nucleus. Mineralization was delayed by MGF-E, as shown by the bone nodule staining and calcium concentration analysis. These delayed actions were weakened after treatment with PD98059.
+sions
+could inhibit osteoblast differentiation and mineralization. The possible mechanisms are increased Erk activity and decreased Cbfα-1 nuclear translocation.

@@ -1,0 +1,1 @@
+We have recently shown that click evoked auditory brainstem responses (ABRs) single sweeps can efficiently be processed by a hybrid novelty detection system. This approach allowed for the objective detection of hearing thresholds in a fraction of time of conventional schemes, making it appropriate for the efficient implementation of newborn hearing screening procedures.

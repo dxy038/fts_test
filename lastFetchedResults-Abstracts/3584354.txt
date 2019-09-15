@@ -1,0 +1,1 @@
+A design for a Level (1) control computer, is presented. The objective is to define a system which meets the requirements of the control environment set forth in an earlier paper. The areas which are discussed are the input system, the output system, the memory system, and the central processing unit.

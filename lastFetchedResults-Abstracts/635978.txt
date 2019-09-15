@@ -1,0 +1,9 @@
+Monthly average sunspot numbers follow irregular cycles with complex nonlinear
+dynamics. Statistical linear models constructed to forecast them are therefore inappropriate,
+while nonlinear models produce solutions sensitive to initial conditions. Two computational
+techniques – neural networks and genetic programming – that have their advantages are applied
+instead to the monthly numbers and their wavelet-transformed and wavelet-denoised series. The
+objective is to determine if modeling wavelet-conversions produces better forecasts than those
+from modeling series’ observed values. Because sunspot numbers are indicators of geomagnetic
+activity their forecast is important. Geomagnetic storms endanger satellites and disrupt
+communications and power systems on Earth.

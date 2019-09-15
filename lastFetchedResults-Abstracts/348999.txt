@@ -1,0 +1,11 @@
+Objective
+In an attempt to analyze whether MEP can serve as a valid measure for evaluating neurological dysfunction in multiple sclerosis (MS), we related MEP to clinical and MRI measures.
+Methods
+Transcranial magnetic stimulation was applied in 52 MS patients to determine the central motor conduction time (CMCT) to the extremities. We calculated Z-scores for each CMCT (Zcmct) corrected for height. All patients underwent two clinical measurements and a MRI scan, of which T1 and T2 brain lesion volumes, brain volume, spinal cord volume and the number of T2 spinal cord lesions were derived.
+Results
+The clinical measurements correlated significantly with various Zcmct (Spearman correlation coefficients ranged from 0.29 to 0.53; p < 0.05). The number of spinal cord lesions, brain T1 and T2 lesion volume and spinal cord volume correlated with various Zcmct (r = 0.31–0.53; p < 0.05). Linear regression analysis revealed that the clinical measurements were explained by Zcmct left leg and T1 lesion volume (adjusted R2 = 0.38). For one clinical measurement the number of spinal cord lesions was also included (adjusted R2 = 0.43).
+Conclusion
+We found a relation between MEP, brain and spinal cord MRI measures, and two clinical measures. Moreover, a model for explaining disability in MS revealed that MEP measures provide information in addition to MRI measures.
+Significance
+This study suggests that MEP is a measure that might adequately reflect pathology and neurological dysfunction in MS.
+

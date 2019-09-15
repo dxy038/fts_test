@@ -1,0 +1,1 @@
+Coherent detection of directly modulated 1550nm VCSELs in 5Gbit/s bidirectional 40km SSMF PON-links is presented. Receiver sensitivity of -37.3dBm after transmission is achieved with 30dB system margin, corresponding to 1:1024 passive power-splitting.

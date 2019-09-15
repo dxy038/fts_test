@@ -1,0 +1,10 @@
+Much of the work in permeability prediction has so far been done with respect to the in-plane
+properties. Guided by Darcy’s law, the in-plane permeabilities (i.e. Kxx and Kyy) have been well
+characterized by researchers both experimentally and, to some extent, analytically and numerically.
+Work on transverse or through thickness permeability, however, has been sparse. Owing to the fact
+that the limited length scale in the through thickness direction of most fibre preforms makes transverse
+permeability a difficult value to measure experimentally, the objective of the present development is
+to study the feasibility of applying the methodology proposed by the authors in a previous work for
+in-plane permeability prediction to the estimation of transverse, as well as the in-plane, permeability
+of a typical 3D woven fibre preform. The additional objective of this work is to present a preliminary
+study on the effects of fibre mat compression on the fibre preform permeability

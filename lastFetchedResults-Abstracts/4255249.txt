@@ -1,0 +1,1 @@
+A new symbolic algorithm for multi-objective optimisation problems is proposed. It finds Pareto optimal solutions as equations of the dual Lagrange multipliers for continuous, differentiable, pseudoconvex, and convex functions. The algorithm is able to find the relationship between the decision variables that form the exact curve of the Pareto front.

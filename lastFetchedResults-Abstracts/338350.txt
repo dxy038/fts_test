@@ -1,0 +1,11 @@
+Objective
+GATA-1 and GATA-2 transcription factors are required for effective hematopoiesis. These regulatory proteins present overlapping yet distinct patterns of expression in hematopoietic cells. Absence of GATA-2 leads to defective hematopoiesis and an embryonic lethal phenotype. Disruption of GATA-1 results in a compensatory increase in GATA-2 in early erythroid cells and incomplete erythropoiesis with embryos dying at 11.5 days. We examine the specific role of GATA-2 later in hematopoiesis, during erythroid differentiation.
+Materials and Methods
+
+Stable K562 cell lines expressing various levels of GATA-2 were generated using a GATA-2 expression plasmid. Overexpression of GATA-2 transcripts was determined by quantitative polymerase chain reaction (PCR). Cytospin smears, growth curve analysis, PCR, and flow cytometry were used to examine the effects of increased levels of GATA-2 in altering cell phenotype and activation of megakaryocytic markers. Human progenitor erythroid cells also were transfected with a GATA-2 expression vector. Growth curve analysis, benzidine staining, and high-performance liquid chromatographic analysis were used to study the effects of GATA-2 on erythroid maturation and proliferation.
+Results
+
+K562/GATA-2 cell lines expressing high levels of GATA-2 mRNA showed a marked decrease in proliferation and a shift in phenotype toward the megakaryocyte lineage. Ploidy analyses showed that these cell lines developed a multinuclear phenotype, including tetraploids and octaploids. PCR analysis showed activation of megakaryocyte-specific genes including thrombopoietin receptor (c-mpl). Surface expression of platelet glycoprotein receptors Ib/IX (CD42b/CD42a) and IIb/IIIa (CD41/CD61) also was demonstrated by flow cytometry. In primary human adult erythroid cultures transfected with a GATA-2 expression vector, production of total hemoglobin and cell proliferation decreased in a dose-dependent manner.
+Conclusions
+
+GATA-2 plays an important role in deciding cell lineage throughout hematopoiesis, and increased expression of GATA-2 determines megakaryocytic differentiation. Downregulation of GATA-2 is required for erythroid differentiation.

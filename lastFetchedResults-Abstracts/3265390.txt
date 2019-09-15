@@ -1,0 +1,1 @@
+In this paper, we tackle a problem that designs multi-car multi-shaft elevator systems. We first formalize the problem as a multi-objective optimization problem. Then to solve the problem, we propose a method utilizing a high-level Petri net tool, CPN Tools. We apply the proposed method to 24 instances of the problem, and then discuss those results.

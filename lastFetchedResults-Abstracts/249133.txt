@@ -1,0 +1,7 @@
+This work is devoted to the description of an algorithm for automatic quadrilateral mesh generation. The
+technique is based on a recursive decomposition of the domain into quadrilateral elements. This automatically
+generates meshes composed entirely by quadrilaterals over complex geometries (there is no need for a previous
+step where triangles are generated). A background mesh with the desired element sizes allows to obtain
+the preferred sizes anywhere in the domain. The  nal mesh can be viewed as the optimal one given the
+objective function is de ned. The recursive algorithm induces an e cient data structure which optimizes the
+computer cost. Several examples are presented to show the e ciency of this algorithm

@@ -1,0 +1,22 @@
+Objective: The label and detection of cells injected into target tissues is an area of focus
+for researchers. Iron oxide nanoparticles can be used to label cells as they have special
+characteristics. The purpose of this study is to examine the effects of iron oxide nanoparticles
+on human-derived amniotic membrane stem cell (hAMCs) survival and to investigate
+the magnetic properties of these nanoparticles with increased contrast in magnetic resonance
+imaging (MRI).
+Materials and Methods: In this experimental study, we initially isolated mesenchymal
+stem cells from amniotic membranes and analyzed them by flow cytometry. In addition,
+we synthesized superparamagnetic iron oxide nanoparticles (SPIONs) and characterized
+them by various methods. The SPIONs were incubated with hAMCs at concentrations of
+25-800 ?g/mL. The cytotoxicity of nanoparticles on hAMCs was measured by the MTT assay.
+Next, we evaluated the effectiveness of the magnetic nanoparticles as MRI contrast
+agents. Solutions of SPION were prepared in water at different iron concentrations for
+relaxivity measurements by a 1.5 Tesla clinical MRI instrument.
+Results: The isolated cells showed an adherent spindle shaped morphology. Polyethylene
+glycol (PEG)-coated SPIONs exhibited a spherical morphology. The average particle
+size was 20 nm and magnetic saturation was 60 emu/g. Data analysis showed no
+significant reduction in the percentage of viable cells (97.86 ± 0.41%) after 72 hours at
+the 125 ?g/ml concentration compared with the control. The relaxometry results of this
+SPION showed a transverse relaxivity of 6.966 (?g/ml.s)-1
+Conclusion: SPIONs coated with PEG used in this study at suitable concentrations
+had excellent labeling efficiency and biocompatibility for hAMCs.

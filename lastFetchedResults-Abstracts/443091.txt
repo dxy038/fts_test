@@ -1,0 +1,11 @@
+Objective
+Arterial base deficit (BD) is a commonly used marker of injury severity and endpoint of resuscitation but requires an arterial puncture and blood gas analysis. Serum bicarbonate (HCO3) is routinely obtained as part of the chemistry panel on most admissions. We hypothesized that serum HCO3 strongly correlates with arterial BD and provides equivalent predictive information.
+Methods
+
+All trauma ICU admissions from 1996 to 2004 with simultaneously obtained serum chemistry panels and arterial blood gases were identified. Correlation between BD and HCO3 was analyzed by using linear regression, and predictive abilities for acidoses and mortality were compared using the area under the respective receiver operating characteristic curve (AUC). Separate analyses were done for the entire dataset and the subset of ICU admission laboratory values.
+Results
+
+We identified 3,102 patients with 50,311 matched pairs of laboratory data. Serum HCO3 showed a significant linear correlation with BD for all laboratory sets (r = 0.85, P < .01) and admission laboratory values only (r = 0.80, P < .01). Serum HCO3 reliably predicted the presence of significant metabolic acidoses (BD >5), with an AUC of 0.96 (P < .01), which clearly outperformed pH (AUC = 0.83), anion gap (AUC = 0.7), and lactate (AUC = 0.73). The mean admission BD among survivors was 2.5 versus 5.2 for nonsurvivors (P < .01), and the mean HCO3 was 17.7 versus 19.8 (P < .01). The admission HCO3 identified nonsurvivors as accurately as BD (AUCs of 0.66 and 0.68) and more accurately than either pH (AUC = 0.53) or anion gap (AUC = 0.6).
+Conclusion
+
+Serum HCO3 measurement shows a strong linear correlation and similar predictive ability compared with the arterial BD. Serum HCO3 may be safely and accurately substituted for arterial BD measurement in critically injured patients.

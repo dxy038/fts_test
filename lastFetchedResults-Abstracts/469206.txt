@@ -1,0 +1,9 @@
+Objective
+Coenzyme Q10 is an antioxidant that may have a therapeutic role in cervical cancer.
+Study design
+We investigated the cellular and molecular effects of 30 μmol/L Coenzyme Q10 in HeLa cells. Cell growth assays, fluorescence-activated cell sorting analyses, and Oil Red O staining were performed. Microarray experiments were performed in duplicate and analyzed on the basis of 2-fold changes in levels of gene expression.
+Results
+Coenzyme Q10 inhibited cell growth and led to apoptosis. Microarray analysis showed that 264 sequences were altered over time, with enrichment in lipid-related genes. Enhanced lipid accumulation was confirmed with Oil Red O staining.
+Conclusion
+A lipid response to Coenzyme Q10 may affect mechanisms of growth inhibition in HeLa cells.
+

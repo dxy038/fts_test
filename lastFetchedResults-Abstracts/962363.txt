@@ -1,0 +1,11 @@
+Selective laser patterning of thin films in a multilayered structure is an emerging technology for process development and fabrication of
+optoelectronics and microelectronics devices. In this work, femtosecond laser patterning of electrochromic Ta0.1W0.9Ox film coated on ITO glass
+has been studied to understand the selective removal mechanism and to determine the optimal parameters for patterning process. A 775 nm
+Ti:sapphire laser with a pulse duration of 150 fs operating at 1 kHz was used to irradiate the thin film stacks with variations in process parameters
+such as laser fluence, feedrate and numerical aperture of objective lens. The surface morphologies of the laser irradiated regions have been
+examined using a scanning electron microscopy and an optical surface profiler. Morphological analysis indicates that the mechanism responsible
+for the removal of Ta0.1W0.9Ox thin films from the ITO glass is a combination of blistering and explosive fracture induced by abrupt thermal
+expansion. Although the pattern quality is divided into partial removal, complete removal, and ITO film damage, the ITO film surface is slightly
+melted even at the complete removal condition. Optimal process window, which results in complete removal of Ta0.1W0.9Ox thin film without
+ablation damage in the ITO layer, have been established. From this study, it is found that focusing lens with longer focal length is preferable for
+damage-free pattern generation and shorter machining time.

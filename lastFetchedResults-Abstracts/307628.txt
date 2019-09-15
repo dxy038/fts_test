@@ -1,0 +1,9 @@
+Objective:
+We examined several critical parameters that must be optimized when converting between the ABI Prism 7700 real-time PCR platform and the Cepheid SmartCycler® II while using the same primer and probe sequences.
+Design and methods:
+A lyophilized master mix, MgCl2 concentration, PCR cycling conditions, and ramp times were evaluated.
+Results:
+Optimization of each parameter, including use of the OmniMix™ HS-lyophilized beads, 6 mM MgCl2 concentration, changes in PCR cycling parameters, and increased ramp time were necessary to convert this real time PCR assay to a new platform.
+Conclusion:
+We conclude that careful consideration of several analytical parameters can result in a smooth transition of assays between real time PCR platforms.
+

@@ -1,0 +1,1 @@
+In this letter, we present a novel objective distortion measure for binary document images. This measure is based on the reciprocal of distance that is straightforward to calculate. Our results show that the proposed distortion measure matches well to subjective evaluation by human visual perception.

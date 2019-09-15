@@ -1,0 +1,9 @@
+Objective
+Fetal alcohol syndrome (FAS) results in stillbirth, fetal growth restriction, and mental retardation with injury attributed to oxidative stress. Our objective was to identify signal transduction pathways expressed in a model of FAS and to quantify expression of c-fos, a gene in the stress signal pathway.
+Study design
+Timed, pregnant C57Bl6/J mice were injected on E8 with saline solution or alcohol. RNA was extracted from decidua and embryo 6 and 24 hours later. Microarray analysis was used to screen gene pathways. Differential gene expression was confirmed using real-time polymerase chain reaction with results presented as the ratio of c-fos concentration to that of glyceraldehyde-3-phosphate dehydrogenase (GAPDH).
+Results
+Differential gene expression between alcohol and control was noted for stress signal pathway genes including c-fos. Real-time polymerase chain reaction demonstrated that c-fos messenger RNA expression was greater in the alcohol than control decidua at 6 hours after injection (P<.01). This effect persisted at 24 hours (P<.01). There was no difference in c-fos expression in embryos whose mothers received alcohol versus control after 6 hours (P = .12) or 24 hours (P = .89).
+Conclusion
+Alcohol administration during pregnancy results in differential gene expression in the stress signal pathway, particularly in c-fos. C-fos expression in the decidua increases from 6 to 24 hours after alcohol injection, but does not change in the embryo, which may contribute to alcohol-induced damage in FAS.
+

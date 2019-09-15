@@ -1,0 +1,22 @@
+Objective
+There is probably a relationship between zinc/cupper concentration in individuals
+with autism. The present review was written to estimate this probability by using
+meta-analysis method.
+Martials & Methods
+In this meta-analysis of Fixed Effect Model, by searching PubMed, Scopus
+and Google scholar databases, 11 articles were selected and verified published
+in 1978 to 2012. I² statistics were calculated to examine heterogeneity. The
+information was analyzed by R and STATA Ver. 11.2.
+Results
+Due to non-uniform measurement methods of Zn/Cu concentrations, the
+concentration of these elements was measured in various subgroups (plasma,
+hair and general) in both study cases and controls. There was a significant
+statistical difference between plasma OR=0.252 (95% CI: -0.001-0.504) and
+hair OR=0.27(95% CI: 0.059-0.481, P=0.01) concentrations of Zn/Cu statuses
+between controls and autistic patients. Using a Fixed Effects Model, the
+overall integration of data from the two groups was significant as risk factor
+OR=0.31(95% CI:0.16-0.46, P=0.001).
+Conclusion
+Significant correlation existed between Zn/Cu levels and the development of
+autistic disorders in general analysis. Therefore, Zn/Cu levels could be mentioned
+as a pathogenesis reason of autism spectrum disorders.

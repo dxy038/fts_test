@@ -1,0 +1,13 @@
+Dome structures are elegant and economical structures used for covering
+large areas. In this paper, an optimum topology design is performed using the Colliding
+Bodies Optimization (CBO) method and its enhanced version (ECBO). The Schwedler
+and ribbed domes are studied determining the optimum number of rings, the optimum
+number of joints in each ring, the optimum height of crown, and tubular sections of these
+domes. The minimum volume of each dome is taken as the objective function. A simple
+procedure is dened to determine the congurations of Schwedler and ribbed domes. This
+procedure includes calculation of the joint coordinates and element constructions. The
+design constraints are implemented according to the provision of LRFD-AISC. First, a
+comparative study for domes using dierent algorithms is carried out, and then the eect
+of choosing dierent number of joints in each ring on the optimal topology is investigated
+for Schwedler domes to verify the suitability of design procedure and to demonstrate
+eectiveness of the ECBO.

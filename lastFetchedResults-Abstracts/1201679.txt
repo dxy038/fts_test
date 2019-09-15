@@ -1,0 +1,11 @@
+Decision making processes during biological or chemical incidents represent a challenging and demanding issue. This task is
+constituted by several complex activities and important decisions. In the case of unintentional accidents in agricultural plants
+or within related industries, these decisions have to be made by personnel often not primarily trained for such situations.
+Therefore any available support tool, which can increase the probability of successful management of these incidents, should
+be employed. The main objective is to minimize the consequences, ensure the quality of products, and protect people and
+animals and other crucial assets. From the technological perspective, various approaches or principles have already been applied
+and intended for computer-based support of biological or chemical incidents management. Nevertheless, the multi-agent
+technologies can be also effectively utilized. As an example, this paper presents a model applicable for the management of
+biological or chemical incidents created in the multi-agent NetLogo environment. The main contribution to the scientific field
+includes the characterization of specifics related to the discussed type of decision-making process. Moreover, within the paper
+the description of the simulation model is provided, parameterization is explained, and areas for further research are outlined.

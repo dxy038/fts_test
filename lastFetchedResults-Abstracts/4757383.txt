@@ -1,0 +1,1 @@
+This paper describes the methodology and the results of the objective and subjective evaluation of four codecs: AVC/H.264, VC-1, MPEG-4 Visual, and MPEG-2. The standard - based evaluation procedure has been applied on three video sequences and produced 576 file versions and interesting benchmarking results.

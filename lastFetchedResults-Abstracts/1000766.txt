@@ -1,0 +1,9 @@
+The use of radiotracers is a common procedure for better understanding of the dynamics of oil reservoirs. Several molecules and radionuclides are implemented for this purpose; one of these is 14C labelled thiocyanate.
+
+Samples taken from fluids in production wells require a pre-treatment step in order to purify and concentrate the activity of the radiotracer before measurement. Pre-treatment is based on ionic exchange and the solution eluted includes a high concentration of salt that can be a serious drawback for the development of a stable emulsion when the liquid sample and the scintillation cocktail are mixed for Liquid Scintillation (LS).
+
+The objective of this study is to evaluate the capability of Plastic Scintillation (PS) to determine the activity of radiotracers in salt matrices.
+
+For this purpose, an initial comparative study of the influence of salt and coloured matrices on the detection efficiency for PS and LS was performed. Results indicate that in both techniques colour quenching produces the same effects: efficiency decrease and spectra shift, whereas salt quenching produces different effects for PS and LS, ionization quenching for PS and chemical quenching for LS. As a result of this divergence, the calibration required for each counting method is different: two steps for PS and a single step for LS.
+
+After system study and procedure optimization, radiotracer activities in real samples taken from oil reservoirs have been determined. The results indicated that PS shows similar capability to the classical LS to determine the activity in these salt matrix samples with the additional advantages that no separation of the phase can appear and no mixed waste is produced after measurement.

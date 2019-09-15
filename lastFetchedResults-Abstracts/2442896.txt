@@ -1,0 +1,7 @@
+Background & objective: Groundwater is one of the exploitation important resources in arid and semi-arid areas. Therefore, the spatial and temporal distribution of groundwater quality is very important. The purpose of this study was to evaluate the accuracy of spatial interpolation methods in order to predict the spatial distribution of some groundwater quality parameters such as TH, Ca, pH, Mg and SO4-2.
+ 
+Materials & Methods: in this study data related to 44 exploitation wells in Gonabad plain was used. Then, methods of IDW, SK, OK, UK, RBF, LPI and GPI were investigated. After normalizing the data, QQ plot was drawn. Then, in order to select, an appropriate model for fitting, mutual evaluation methods and estimation errors were used that consisted of MBE, RMSE, MARE and MAPE. Finally, the most appropriate interpolation method was chosen. Zoning maps of the water parameters were prepared by using geostatistical methods in GIS software.
+ 
+Results: Final zoning model showed, in the center, the west south, and the west of plain concentration of surveyed parameters have been lower than their mean. By moving from the north, the east north, and the east towards the center, the south, and the west south, the parameters concentrations were decreased.
+ 
+Conclusion: The results showed that kriging method is preferred to other geostatistical methods for zoning of the water quality parameters

@@ -1,0 +1,1 @@
+Currently, power savings are strongly requested. We propose a method for power savings that considers the characteristics of appliances by using appliance classes and power margin of individual appliance by using bidirectional communications. In this paper, we show the mechanism, implementation and the results of verification experiments.

@@ -1,0 +1,11 @@
+Objective
+Secreted enzymatically inactive proforms of hematopoietic serine proteases proteinase 3 (PR3), azurocidin, and granzymes A, B, H, K, and M are able to reduce the fraction of granulopoietic progenitors (CFU-GM) in S-phase, whereas human leukocyte elastase (HLE) and cathepsin G lack this ability. The objective of the present study was to map the specific sequence(s) of PR3 and other hematopoietic serine proteases responsible for the downmodulation of S-phase.
+Methods
+
+Synthetic peptides corresponding to N-terminal sequences of PR3, purified recombinant PR3, and HLE, as well as hybrid proteins constructed by interchanging the N-terminal regions of PR3 and HLE, thus creating PR3/HLE and HLE/PR3, respectively, were tested for their ability to reduce the fraction of human marrow CFU-GM killed by cytosine arabinoside. In addition, we measured the effect of synthetic peptides on bromodeoxyuridine (BrdU) incorporation in common myeloid progenitors (CMP) and granulocyte/macrophage progenitors (GMP) isolated by cell sorting.
+Results
+
+The common N-terminal motif of PR3 and other serine proteases (i.e., IVGG or IIGG) downmodulate the S-phase of CFU-GM at 40 to 80 nM concentration. Tetrapeptide IVGG, but not IVGR, significantly reduces BrdU incorporation in GMP within the CD34+ population. When the N-terminal of HLE is presented by the HLE/PR3 hybrid protein it is fully active.
+Conclusion
+
+These findings demonstrate that the downmodulatory effect on CFU-GM in S-phase is an S-phase arrest mediated by the first four N-terminal amino acids of PR3, and also suggest that this activity is dependent on the configuration of the proform providing the correct presentation of this N-terminal motif.

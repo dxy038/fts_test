@@ -1,0 +1,7 @@
+Objective. Planimetric models which are simple, in the sense that small numerical effort is needed, are used to study functional consequences of skeletal muscle architecture. This paper argues with the approach to derive force of a unipennate muscle based on only equilibrium of the aponeurosis (tendon-sheet). In such an approach intramuscular pressure gradients are neglected and no suitable aponeurosis force can be determined.
+
+Method. The approach presented in this paper is based on mechanical equilibrium of whole muscle. A volume-related force is introduced to keep muscle volume constant. Mechanical equilibrium of whole muscle yields a different relation between fiber and muscle force as well as length changes as a consequence of pennation, compared with relations derived when only equilibrium of aponeurosis is considered.
+
+Results. The newly derived relation improved prediction of the rat gastrocnemius medialis muscle force-length characteristics.
+
+Conclusion. The prediction of muscle geometry and the prediction of force-length characteristics are very good with a simple model such as a planimetric model. This conclusion suggests that the influence of properties neglected in such a simple model are either small or are internally compensated for in the net effects.

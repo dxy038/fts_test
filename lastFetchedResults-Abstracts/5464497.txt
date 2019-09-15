@@ -1,0 +1,1 @@
+Free-space optical links can achieve rates above 1Gbit/s, but achieving the coverage required for indoor optical wireless systems is challenging. We show results demonstrating bidirectional Gbit Ethernet transmission over 3-4m, and discuss future directions for this work.

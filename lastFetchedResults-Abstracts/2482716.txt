@@ -1,0 +1,31 @@
+Objective: Three-dimensional (3D) biomimetic nanofiber scaffolds have widespread applications
+in biomedical tissue engineering. They provide a suitable environment for cellular
+adhesion, survival, proliferation and differentiation, guide new tissue formation and
+development, and are one of the outstanding goals of tissue engineering. Electrospinning
+has recently emerged as a leading technique for producing biomimetic scaffolds with micro
+to nanoscale topography and a high porosity similar to the natural extracellular matrix
+(ECM). These scaffolds are comprised of synthetic and natural polymers for tissue engineering
+applications. Several kinds of cells such as human embryonic stem cells (hESCs)
+and mouse ESCs (mESCs) have been cultured and differentiated on nanofiber scaffolds.
+mESCs can be induced to differentiate into a particular cell lineage when cultured as embryoid
+bodies (EBs) on nano-sized scaffolds.
+Materials and Methods: We cultured mESCs (2500 cells/100 ?l) in 96-well plates with
+knockout Dulbecco’s modified eagle medium (DMEM-KO) and Roswell Park Memorial
+Institute-1640 (RPMI-1640), both supplemented with 20% ESC grade fetal bovine serum
+(FBS) and essential factors in the presence of leukemia inhibitory factor (LIF). mESCs
+were seeded at a density of 2500 cells/100 ?l onto electrospun polycaprolactone (PCL)
+nanofibers in 96-well plates. The control group comprised mESCs grown on tissue culture
+plates (TCP) at a density of 2500 cells/100 ?l. Differentiation of mESCs into mouse
+hematopoietic stem cells (mHSCs) was performed by stem cell factor (SCF), interleukin-3
+(IL-3), IL-6 and Fms-related tyrosine kinase ligand (Flt3-L) cytokines for both the PCL and
+TCP groups. We performed an experimental study of mESCs differentiation.
+Results: PCL was compared to conventional TCP for survival and differentiation of
+mESCs to mHSCs. There were significantly more mESCs in the PCL group. Flowcytometric
+analysis revealed differences in hematopoietic differentiation between the PCL and
+TCP culture systems. There were more CD34+ (Sca1+) and CD133+ cells subpopulations
+in the PCL group compared to the conventional TCP culture system.
+Conclusion: The nanofiber scaffold, as an effective surface, improves survival and
+differentiation of mESCs into mHSCs compared to gelatin coated TCP. More studies
+are necessary to understand how the topographical features of electrospun fibers affect
+cell growth and behavior. This can be achieved by designing biomimetic scaffolds
+for tissue engineering.

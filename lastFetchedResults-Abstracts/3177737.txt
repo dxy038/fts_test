@@ -1,0 +1,1 @@
+The objective of this paper is to analyze realistic exposure scenarios for a child model by means of numerical computations. Our aim is to determine and compare peak values of SAR and temperature rise for child human model and compare them to results for the adult human model [1].

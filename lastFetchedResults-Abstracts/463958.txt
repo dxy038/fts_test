@@ -1,0 +1,5 @@
+Objective: Our purpose was to develop an automated ultrasound-based fetal movement detection system to batter define fetal movements.
+Study design: One hundred one patients had fetal movements recorded over a 20-minute period. Results of movement detection by a single-transducer system (Russell 1) and a two-transducer fusion system (Russell 2) were compared with those of Hewitt-Packard (HP-M-1350-A), maternal perception, and expert ultrasonography review.
+Results: A total of 86,592 seconds of videotape was scored for fetal movement, Russell 2 had a second-per-second sensitivity of 57.21% compared with Russell 1 at 40.95%, the HP-M-1350-A at 31.44%, and maternal perception at 30.80%. Russell 2 detected 67.57% of discrete movements compared with 57.52%, 41.98%, and 37.92%, respectively, in other systems.
+Conclusion: Russell 2 represents a significant improvement over existing systems in detection of fetal movement on a second-per-second basis.
+

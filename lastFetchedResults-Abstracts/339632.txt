@@ -1,0 +1,11 @@
+Objective
+With the emergence of the concept of the leukemia stem cell, assays to study them remain pivotal in understanding (leukemic) stem cell biology.
+Methods
+
+We have cultured acute myeloid leukemia CD34+ cells on bone marrow stroma. Long-term expansion was monitored and self-renewal was addressed by replating of Leukemic-cobblestone area–forming cells (L-CAs). Also, lentiviral vectors were generated that could target L-CAs.
+Results
+
+A strong expansion was observed in about 75% of the acute myeloid leukemia cases (n = 30) and long-term cultures could be maintained for up to 24 weeks on MS5 bone marrow stromal cells. Cells that were able to initiate leukemic cobblestone areas resided in the CD34+ population and were absent from the CD34− population. Self-renewal within these L-CAs was determined by sequential passaging of these L-CAs onto new MS5 stromal layers, which resulted in the generation of second, third, and fourth L-CAs, which were able to sustain long-term expansion and generated high numbers of immature undifferentiated suspension cells. CD34+ cells that were able to initiate long-term cultures all coexpressed MEIS1 and HOXA9, and expressed elevated BMI1 levels.
+Conclusion
+
+We present a novel long-term leukemic stem/progenitor assay in which new drugs can be tested and in which genes can be overexpressed or downmodulated using a lentiviral approach in order to obtain more insight into the process of leukemic transformation and self-renewal.

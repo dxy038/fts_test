@@ -1,0 +1,6 @@
+Background: Tropomyosin receptor kinase B (TRK B) is one of the oncogene agents. 
+Objective:  The aim of this study was to design and optimize inhibitory peptides for TRK B in U266 cell line.
+Methods: This study was conducted in Qazvin University of Medical Sciences during 2012. After generating the peptides library using sequence tolerance method and optimizing energy of peptides employing backrub protocol in Rosetta 3.3 software package, the most stable peptides were selected based on the energy scores in R package. Prediction of the three-dimensional structure of the peptides was performed using the molecular dynamic simulation. Peptides-TRK B docking was evaluated by HADDOCK web server. The most stable peptides were designed and their cytotoxicity effects on U266 cells were investigated by the MTT assay.
+Findings: The designed peptides were stable in terms of energy and structure and had high affinity for binding to TRK B. For measuring cell survival during 24 hours treatment of U266 cell line with these peptides, the half maximal inhibitory concentration (IC50%) was obtained 350.2 and 199.5 nM for peptide one and two, respectively.
+Conclusion: With regards to the results, it seems that TRK B inhibition can block cancer growth in this cell line.
+

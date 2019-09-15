@@ -1,0 +1,7 @@
+This study presents an energy-based approach to the performance-based optimization of steel
+moment resisting frames at the so-called operational, immediate occupancy, life safety and collapse
+prevention performance levels. Two objective criteria are identified for a performance-based seismic
+design: minimizing structural cost (interpreted as weight) is one; the other concerns minimizing
+earthquake damage with respect to the maximum hysteretic energy capacity of the structure. That is,
+the overall objective for the design of a building framework is to have minimum weight and maximum
+energy dissipation capacity.

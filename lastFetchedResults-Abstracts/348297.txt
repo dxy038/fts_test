@@ -1,0 +1,11 @@
+Objective
+Accurate neuromuscular control of the patellofemoral joint is important in knee joint mechanics. Strategies to coordinate the vasti muscles, such as motor unit synchronization, may simplify control of patellar tracking. This study investigated motor unit synchronization between vastus medialis (VM) and lateralis (VL).
+Methods
+Electromyographic (EMG) recordings of single motor unit action potentials (MUAPs) were made from VM and single- and multi-unit recordings were made from VL. Synchronization was quantified from peaks in the cross-correlogram generated from single MUAP pairs in VL and VM. The proportion of motor units in VM with synchronized firing in VL was also quantified from peaks in averages of multiunit VL EMG triggered from the VM MUAP.
+Results
+A high degree of synchronization of motor unit firing between VM and VL was identified. Results were similar for cross-correlation ( 45% of cases) and triggered averages ( 41% of cases).
+Conclusions
+The data suggest that synchronization between VM and VL is higher than expected. Agreement between traditional cross-correlation and triggered averaging methods suggest that this new technique may provide a more clinically viable method to quantify synchronization.
+Significance
+High synchronization between VM and VL may provide a solution to simplify control of the mechanically unstable patellofemoral joint.
+

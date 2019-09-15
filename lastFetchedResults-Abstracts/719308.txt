@@ -1,0 +1,12 @@
+Dowel action and aggregate interlocking are the main mechanisms for shear transfer at RC joints
+and cracks. Dowel action is the only transfer agent across precast joints like those in some kinds
+of RC pavements. Behavior of RC pavement is affected by the load transfer capability at the joint.
+Efficiency of such a structure is directly related to the transferred loads. Therefore, analyzing
+joint and crack performance in pavements has an important role and also depends on using proper
+behavioral models to simulate load transfer mechanism. In this paper, shear transfer mechanism
+through dowel bars in RC pavements has been investigated based on the beam on elastic foundation
+theory (BEF) and has been extended to beam on inelastic foundation (BIF) to take account
+of the nonlinear interaction between concrete and reinforcement bars. In fact, the main objective
+is to provide a method which significantly reduces the calculation and analysis time while having
+acceptable accuracy. Model verification has been carried out in two parts (RC interfaces and RC
+pavements) in comparison with experimental results.

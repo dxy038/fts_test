@@ -1,0 +1,4 @@
+The objective of this paper is to introduce a new method for coastlines delineation from high-resolution satellite images automatically. The proposed approach integrates the color histogram analysis for estimating the number of clusters, fuzzy c-partition, and genetic algorithms for optimizing fuzzy c-partition matrix. 
+The imagery is classified into homogenous areas using the proposed fuzzy logic segmentation approach. Morphological filtering is then used to remove noises from the segmented image. The coastlines are finally extracted from the filtered image by a delineation algorithm. The developed approach is evaluated based on a 1 m resolution IKONOS pansharpened imagery of 
+Konarak region in Chabahar, Iran. It is demonstrated that 95% of the extracted lines remain within the three-pixels buffer areas around the coastlines. This presents the effectiveness of the proposed algorithm. 
+

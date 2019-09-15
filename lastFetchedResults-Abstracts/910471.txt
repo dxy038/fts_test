@@ -1,0 +1,17 @@
+Multi-objective evaluation of distributed hydrological models enables an analysis of prediction behaviour
+of individual sub-systems within a catchment. The aim of this paper is to demonstrate an application of
+multi-response, multisite calibration strategy for a distributed hydrological model, so that model limitations
+can be identified and subsequently improved. The study was carried out for calibration of flows
+from two gauging stations in a 152 km2 catchment in Elbe Basin in Germany. The multi-objective optimisation
+tool NSGA-II was used for the calibration of distributed hydrological modelling code WaSiMETH.
+A fuzzy set theory based methodology was formulated for selection of preferred solution from
+numerous Pareto solutions in four-dimensional space. The methodology consistently led to selection of
+the solution which is able to reasonably represent the magnitude and dynamics of streamflow hydrograph.
+For a reasonable simulation of water balance in the downstream gauge, overprediction of water
+balance in the upstream gauge was necessary. The analysis of precipitation–discharge data and geological
+conditions in the river channel support the possibility of flow reduction in the upstream gauge and
+increase in the downstream gauge. Due to this limitation in observation data, additional optimisation
+runs were carried out by explicitly considering the effect. This led to a significant improvement in the
+performance of the model. Therefore, the study provides an effective implementation of the multiobjective
+calibration strategy for a distributed hydrological model, which can be used for the analysis of
+different catchments using a combination of different objective functions.

@@ -1,0 +1,9 @@
+Objective
+Previously, we observed an increased recognition of malignant cells by cytotoxic T lymphocytes (CTL) when the target cells were cultured in vitro for 24 hours. In this study, we analyzed the expression of costimulatory and adhesion molecules on acute myeloid leukemia (AML) cells and determined whether 24-hour culture of the cells was associated with upregulation of these molecules. We analyzed whether this incubation period improved recognition of AML cells by CTL.
+Materials and Methods
+Expression of costimulatory and adhesion molecules on leukemic blasts of 34 patients comprising each AML FAB subclassification were analyzed directly and after 24 hours of culture, and the recognition of these AML cells by an HLA-A2 restricted CTL clone was determined. Blocking studies were performed with antibodies against CD54, CD58, and CD11a.
+Results
+Immunophenotyping showed a low expression of CD80 and CD40 and a variable CD86 expression on most AML cells. CD54 expression was generally low, CD58 expression was high, and CD11a expression was variable, with a higher expression in AML M0, M1, M4, and M5. Twenty-four hours of culture resulted in a significant upregulation of CD40, CD54, and CD58. Impaired recognition of AML cells by the HLA-A2 restricted CTL clone was enhanced 100–200% by 24 hours of preincubation of the leukemic cells. Blocking studies showed the importance of multiple adhesion molecules on the AML cells.
+Conclusion
+Low expression of multiple costimulatory and adhesion molecules on AML could be upregulated by 24 hours of culture, which was associated with increased recognition of the AML blasts by CTL. Blocking multiple adhesion molecules completely abolished CTL recognition, showing the importance of the combination of these molecules for T-cell interaction with AML.
+

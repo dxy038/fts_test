@@ -1,0 +1,8 @@
+Optimal inverter substation planning is solved by minimising the overall cost of power
+consumption and inverter investment for mass rapid transit power systems with immune algorithm
+(IA). The objective function and constraints are expressed as antigens, and all feasible solutions are
+expressed as antibodies in the IA simulation process. The diversity of antibodies is then enhanced
+by considering the proximity of antigens so that the global optimisation during the solution process
+can be obtained. It is found that energy regeneration, which results from the braking operation of
+train sets approaching the next station, can be restored effectively by the optimal planning of
+inverters using the proposed immune algorithm.

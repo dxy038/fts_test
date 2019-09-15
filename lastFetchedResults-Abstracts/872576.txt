@@ -1,0 +1,8 @@
+In this paper we present first and second order sufficient conditions for strict local minima of
+orders 1 and 2 to vector optimization problems with an arbitrary feasible set and a twice directionally
+differentiable objective function. With this aim, the notion of support function to a vector problem is
+introduced, in such a way that the scalar case and the multiobjective case, in particular, are contained.
+The obtained results extend the multiobjective ones to this case. Moreover, specializing to a feasible
+set defined by equality, inequality, and set constraints, first and second order sufficient conditions by
+means of Lagrange multiplier rules are established.
+ 2003 Elsevier Inc. All rights reserved.

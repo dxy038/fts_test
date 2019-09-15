@@ -1,0 +1,5 @@
+Three kinds of energy service system were examined as alternative energy systems in urban areas. A comparison of these energy systems was performed by finding Pareto optimum solutions for a multi-objective model. The model had two objective functions: CO2 emission and cost to consumer. Various energy pricings were provided in the model as variables.
+The assumed alternative systems were those in which: (1) every consumer had a cogeneration system (CGS); (2) there was a centralized energy supply plant (ESP) that had a CGS installed and supplied energy (electricity, gas, cooling and heating) to consumers; and (3) both (1) and (2) were installed.
+Minimization of CO2 emissions and minimization of cost to consumers were assumed as objective functions of the multi-objective model. Energy prices that consumers paid were used in the model as variables.
+We performed an analysis and comparison of the three kinds of system from the viewpoints of CO2 emission, economic impact on consumers and ESP, using system operations as evaluation indexes.
+

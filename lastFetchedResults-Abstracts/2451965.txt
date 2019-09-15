@@ -1,0 +1,9 @@
+SYCOMORE, a fusion reactor system code based on a modular approach is under development at CEA. Within this framework, this paper describes the relevant sub-modules which have been implemented to model the main outputs of the breeding blanket and shield block of the system code: tritium breeding ratio, peak energy deposition in toroidal field coils, reactor layout and power deposition, blanket pressure drops and materials inventory.
+
+t and shield requirements are calculated by several sub-modules: the blanket assembly and layout sub-module, the neutronic sub-module, the blanket design sub-module (thermal hydraulic and thermo-mechanic pre-design tool). A power flow module has also been developed which is directly linked to the blanket thermo-dynamic performances, which is not described in this paper.
+
+e blanket assembly and layout and the blanket module design sub-modules, explicit analytic models have been developed and implemented; for the neutronic sub-module neural networks that replicate the results of appropriate simplified 1D and 2D neutronic simulations have been built. Presently, relevant model for the Helium Cooled Lithium Lead is available.
+
+dules have been built in a way that they can run separately or coupled into the breeding blanket and shield module in order to be integrated in SYCOMORE.
+
+ paper, the objective and main input/output parameters of each sub-module are reported and relevant models discussed. The application to previous studied reactor models (PPCS model AB, DEMO-HCLL 2006–2007 studies) is also presented.

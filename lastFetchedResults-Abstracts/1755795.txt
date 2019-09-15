@@ -1,0 +1,8 @@
+Objective
+us research has suggested that the association between work stress and heart disease is more pronounced in young than in old employees. Similar age specificity may apply to the relation between work stress and heart rate variability (HRV), but data on this issue is sparse. We aimed to assess the age-specificity of the work stress-HRV association in greater detail.
+s
+d cross-sectional data from an occupational cohort (n=591) from Germany. Work stress was assessed using the job content and the effort-reward-imbalance (ERI) questionnaires. HRV was recorded over 24 h and was divided into three periods of the day (work time, leisure time, sleep time). Partial correlation coefficients (PCCs) were calculated for four age groups (17–34, 35–44, 45–54, and 55–65 years). Further, multilevel growth curve models (GCM) were run to examine whether age may modify potential work stress-HRV associations in a non-linear fashion.
+s
+rain and HRV were unrelated in either analytical approach and this association was not modified by age. In contrast, using PCCs ERI was only related to HRV during work (PCC=−0.231, P&lt;.01) and leisure time (PCC=−0.195, P&lt;.05) in employees aged 35–44. Multilevel GCM models confirmed this finding.
+sion
+verse association between work stress as measured by ERI and HRV appears to be most pronounced in workers aged 35–44. These findings may partly be explained by age-dependent HRV declines, age-related differences in career attitudes or increased susceptibility among those aged 35–44 due to facing multiple different stressors at the same time.

@@ -1,0 +1,11 @@
+Objective
+PU.1 is a critical transcription factor for hematopoietic development that is required for the early differentiation of myeloid, erythroid, and B lineage cells. To gain a better insight into PU.1 function, we performed a comprehensive analysis of PU.1 gene activity in the hematopoietic system, using a green fluorescent protein reporter mouse line.
+Methods
+
+We used flow cytometry to analyze green fluorescent protein (GFP) expression, along with various cell surface markers, in heterozygote mice that harbor a GFP reporter knocked into exon1 of the PU.1 gene. Phenotypic and functional properties of GFP+ and GFP− precursors were studied.
+Results
+
+We show that PU.1 is dynamically and heterogeneously expressed in many hematopoietic lineages, from the stem cell stage to terminally differentiated cells, suggesting that PU.1 is not only important in early differentiation events but also may play a role in mature hematopoietic cell function. Further, examination of GFP+ vs GFP− populations shows that differentiation, but not commitment, to the myeloid lineage requires PU.1. In contrast, B cell commitment is associated with low levels of PU.1 expression.
+Conclusion
+
+Our study provides a detailed visualization of PU.1 gene activity in hematopoietic cells, and shows that highly dynamic regulation of PU.1 accompanies cell fate decisions during hematopoiesis.

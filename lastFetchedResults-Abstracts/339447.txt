@@ -1,0 +1,11 @@
+Objective
+In the hematopoietic stem cell transplantation setting, granulocyte colony-stimulating factor (G-CSF) administration can reduce donor cell reactivity in vitro, but the clinical significance of this phenomenon was only sparsely defined.
+Methods
+
+We performed lymphocyte transformation tests in 28 related stem cell donors pre and 5 days post G-CSF treatment, respectively, and correlated proliferative responses of donor peripheral blood mononuclear cells with clinical parameters in the corresponding recipients.
+Results
+
+In vitro reactions towards 4 mitogens and 12 recall antigens at day 5 post G-CSF administration were predictive for the occurrence of chronic graft-vs-host disease (cGVHD). Here, proliferative responses towards the mitogen anti-CD3 monoclonal antibody (OKT3) above median were most informative; this threshold could be determined by discrimination and receiver operating curve (ROC) analyses. In the whole cohort (18 human leukocyte antigen [HLA]-identical and 10 partially mismatched donor-recipient pairs), OKT3 responses predicted cGVHD with an odds ratio of 33.0, a sensitivity of 79%, and a specificity of 90%. A subgroup analysis of HLA-identical pairs even yielded an odds ratio of 85.0. Furthermore, bivariate analysis defined HLA compatibility and responses towards OKT3 as independent risk factors for cGVHD (p = 0.02 and p = 0.0007, respectively).
+Conclusion
+
+The proliferative capacity of G-CSF-mobilized donor cells appears as a graft factor that determines the future incidence of cGVHD in the corresponding recipient.

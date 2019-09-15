@@ -1,0 +1,14 @@
+Objective: To identify Alzheimer’s disease (AD) severity measures for use in cost-effectiveness
+models that effectively capture the impact of AD on costs. Methods: A review of the literature and data
+abstraction from papers that present 1) mean AD costs (direct, indirect, or total) by disease severity, defined
+using measure of cognition, functional status, and behavior; and/or 2) the results of regression analyses that
+estimate the strength of the association between AD costs and disease severity. Results: All papers reviewed
+showed that mean total costs increase with disease severity regardless of severity-measurement method. The
+relative difference in mean total costs between patients with severe disease compared to those with moderate
+disease, or moderate disease compared to mild disease, was fairly consistent across studies, suggesting that any of
+the disease-severity measures may be used to broadly categorize patients by cost. However, when regression
+analysis included multiple disease-severity measures, independent associations with costs were noted for the
+different measures. Cognitive and functional status measures were consistently associated with direct costs,
+whereas functional status and behavioral measures were consistently associated with indirect costs and caregiver
+hours. Conclusions: Either multidimensional disease-severity measures, or a single disease-severity measure, that
+capture the impact of cognition, functional status, and behavior on costs are needed for cost-effectiveness models

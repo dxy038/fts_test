@@ -1,0 +1,10 @@
+The objective of simple assembly line balancing problem type-1 (SALBP-1) is to minimize the number of
+workstations on an assembly line for a given cycle time. Since SALBP-1 is NP-hard, many iterative backtracking
+heuristics based on branch and bound procedure, tabu search, and genetic algorithms were
+developed to solve SALBP-1. In this study, a new heuristic algorithm based on Petri net approach is
+presented to solve the problem. The presented algorithm makes an order of firing sequence of transitions
+from Petri net model of precedence diagram. Task is assigned to a workstation using this order and
+backward procedure. The algorithm is coded in MATLAB, and its efficiency is tested on Talbot’s and
+Hoffmann’s benchmark datasets according to some performance measures and classifications. Computational
+study validates its effectiveness on the benchmark problems. Also comparison results show that
+the algorithm is efficiency to solve SALBP-1.

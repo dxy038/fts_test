@@ -1,0 +1,11 @@
+Objective
+Systemic inflammation may play an important role in the development of atherosclerosis, type 2 diabetes, and some cancers. Few studies have comprehensively assessed the direct relations between dietary fiber and inflammatory cytokines, especially in minority populations. Using baseline data from 1958 postmenopausal women enrolled in the Women's Health Initiative Observational Study, we examined cross-sectional associations between dietary fiber intake and markers of systemic inflammation (including serum high-sensitivity C-reactive protein [hs-CRP], interleukin-6 [IL-6], and tumor necrosis factor-α receptor-2 [TNF-α-R2]) in addition to differences in these associations by ethnicity.
+Methods
+
+Multiple linear regression models were used to assess the relation between fiber intake and makers of systemic inflammation.
+Results
+
+After adjustment for covariates, intakes of dietary fiber were inversely associated with IL-6 (P values for trend were 0.01 for total fiber, 0.004 for soluble fiber, and 0.001 for insoluble fiber) and TNF-α-R2 (P values for trend were 0.002 for total, 0.02 for soluble, and <0.001 for insoluble fibers). Although the samples were small in minority Americans, results were generally consistent with those found among European Americans. We did not observe any significant association between intake of dietary fiber and hs-CRP.
+Conclusion
+
+These findings lend support to the hypothesis that a high-fiber diet is associated with lower plasma levels of IL-6 and TNF-α-R2. Contrary to previous reports, however, there was no association between fiber and hs-CRP among postmenopausal women. Future studies on the influence of diet on inflammation should include IL-6 and TNF-α-R2 and enroll participants from ethnic minorities.

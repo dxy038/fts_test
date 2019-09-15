@@ -1,0 +1,28 @@
+The objective of this work with Argentinean Llamas was to estimate (co)variance components
+and genetic and permanent environmental parameters and to report mean and
+standard deviations of fleece weight and fibre attributes, measured under outside Altiplano
+areas conditions. A total of 2850 records, from 450 founder females and 45 founder
+males allowed the measurement of 816 animals. The animals came from 3 different localities
+and the fleece variables were: fleece weight (under annual shearing) (FW, kg), fleece
+strip weight (as fleece weight predictor) (FSW, g), staple length (SL, cm), mean fiber diameter
+(MFD,  m), fiber diameter coefficient of variation (FDCV, %), total medulation grades
+(MG, %) and lattice medulla fibre (CFP,%); Chest circumference (CC, cm) was used as a
+predictor for animal size. Residual, genetic and permanent environmental (co)variances
+were obtained through a multivariate Animal Model with repeatibilities, using VCE4 software.
+Mixed model fixed effects include: year of production, year of sampling (repeated),
+animal age classed at sampling, flocks, coat color and type of fleeces and CC as linear covariate.
+The estimated heritabilities were: 0.44 ± 0.05 (FW), 0.34 ± 0.06 (FSW), 0.23 ± 0.05 (SL),
+0.32 ± 0.05 (MFD), 0.33 ± 0.06 (FDCV), 0.29 ± 0.04 (MG), and 0.33 ± 0.07 (CFP). Genetic correlations
+were significant (p < 0.05) for all pairs of variables with the exception of FW–FDCV
+and MFD–FDCV. All correlations level were medium to high, but FW–FSW was very high
+(0.89 ± 0.04), showed that both attributes are almost identical. Repeatibilities were high for
+all attributes, and all permanent environment effects were statistically significant (p < 0.05).
+The heritabilities, repeatibilities and correlations obtained in this work were generally
+lower than other values out of the Altiplano areas, but in concordance with similar values
+from Altiplano. It can be concluded that there are large opportunities to improve the fibre
+diameter and fibre diameter variation, and also fibre production attribute if this are chosen
+as selection criteria. The fleece strip weight variable is important as fleece weight predictor
+because of the high genetic and phenotypic correlation between them. The implication of
+this work is grounded on the use of genetic parameters to generate a selection program outside
+Altiplano (highlands) conditions and under production systems in the hands of small
+peasants.

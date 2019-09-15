@@ -1,0 +1,11 @@
+Objective
+Human embryonic stem (ES) cells provide a unique model for studying the development and function of human tissues and have proven utility in a number of areas. However, results from ES cell–based studies have been limited by the paucity of information available about early human hematopoietic development.
+Methods
+
+To better understand early development of the hematopoietic lineage, we use microarray analysis to examine the temporal patterns of gene expression in embryoid bodies derived from human ES cells, focusing around the time of the emergence of definitive hematopoiesis. We use an empirical Bayes hierarchical modeling approach, called EBarrays, to classify genes into each of the possible temporal patterns of gene expression for five different time points, and correlate those patterns with the emergence of hematopoiesis.
+Results
+
+We find a distinct group of genes previously identified as important in adult hematopoietic self-renewal (such as PIK3R1, ABCB1/MDR-1, RGS18, IRS1, SENP6/SUMO-1, and Wnt5A, etc.) temporally correlates with the emergence of the definitive hematopoiesis. Microarray-based results are further supported via flow cytometry and reverse transcription-polymerase chain reaction studies.
+Conclusion
+
+The novel genes demonstrating the same expression pattern as this group could further facilitate the understanding of the molecular mechanisms of embryonic hematopoiesis.

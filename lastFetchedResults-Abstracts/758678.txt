@@ -1,0 +1,11 @@
+Based on recent work on Stochastic Partial Differential Equations (SPDEs), this paper presents a simple
+and well-founded method to implement the stochastic evolution of a curve. First, we explain why great care should
+be taken when considering such an evolution in a Level Set framework. To guarantee the well-posedness of the
+evolution and to make it independent of the implicit representation of the initial curve, a Stratonovich differential
+has to be introduced. To implement this differential, a standard Ito plus drift approximation is proposed to turn an
+implicit scheme into an explicit one. Subsequently, we consider shape optimization techniques, which are a common
+framework to address various applications in Computer Vision, like segmentation, tracking, stereo vision etc. The
+objective of our approach is to improve these methods through the introduction of stochastic motion principles.
+The extension we propose can deal with local minima and with complex cases where the gradient of the objective
+function with respect to the shape is impossible to derive exactly. Finally, as an application, we focus on image
+segmentation methods, leading to what we call Stochastic Active Contours.

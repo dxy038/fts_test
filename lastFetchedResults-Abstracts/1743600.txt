@@ -1,0 +1,11 @@
+The objective of our study was the definition of testing scenarios for knee wear simulation under various highly demanding daily activities of patients after total knee arthroplasty. This was mainly based on a review of published data on knee kinematics and kinetics followed by the evaluation of the accuracy and precision of a new experimental setup.
+
+bined tibio-femoral load and kinematic data reported in the literature to develop deep squatting loading profiles for simulator input. A servo-hydraulic knee wear simulator was customised with a capability of a maximum flexion of 120°, a tibio-femoral load of 5000 N, an anterior–posterior (AP) shear force of ±1000 N and an internal–external (IE) rotational torque of ±50 Nm to simulate highly demanding patient activities.
+
+ the evaluation of the newly configurated simulator the ability of the test machine to apply the required load and torque profiles and the flexion kinematics in a precise manner was examined by nominal–actual profile comparisons monitored periodically during subsequent knee wear simulation.
+
+e flexion kinematics under displacement control a delayed actuator response of approximately 0.05 s was inevitable due to the inertia of masses in movement of the coupled knee wear stations 1–3 during all applied activities. The axial load and IE torque is applied in an effective manner without substantial deviations between nominal and actual load and torque profiles.
+
+ the first third of the motion cycle a marked deviation between nominal and actual AP shear load profiles has to be noticed but without any expected measurable effect on the latter wear simulation due to the fact that the load values are well within the peak magnitude of the nominal load amplitude.
+
+clusion the described testing method will be an important tool to have more realistic knee wear simulations based on load conditions of the knee joint during activities of daily living.

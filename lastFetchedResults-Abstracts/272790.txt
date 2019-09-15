@@ -1,0 +1,21 @@
+This paper deals with the application of the adjoint variable approach to sensitivity analysis of objective functions
+used for defect detection from knowledge of supplementary boundary data, in connection with the use of BIE/BEM
+formulations for the relevant forward problem. The main objective is to establish expressions for crack shape sensitivity,
+based on the adjoint variable approach, that are suitable for BEM implementation.
+In order to do so, it is useful to consider first the case of a cavity defect, for which such boundary-only sensitivity
+expressions are obtained for general initial geometry and shape perturbations. The analysis made in the cavity defect
+case is then seen to break down in the limiting case of a crack. However, a closer analysis reveals that sensitivity
+formulas suitable for BEM implementation can still be established. First, particular sensitivity formulas are obtained
+for special shape transformations (translation, rotation or expansion of the crack) for either two- or three-dimensional
+geometries which, except for the case of crack expansion together with dynamical governing equations, are made only
+of surface integrals (three-dimensional geometries) or line integrals (two-dimensional geometries). Next, arbitrary shape
+transformations are accommodated by using an additive decomposition of the transformation velocity over a tubular
+neighbourhood of the crack front, which leads to sensitivity formulas. This leads to sensitivity formulas involving
+integrals on the crack, the tubular neighbourhood and its boundary. Finally, the limiting case of the latter results when
+the tubular neighbourhood shrinks around the crack front is shown to yield a sensitivity formula involving the stress
+intensity factors of both the forward and the adjoint solutions. Classical path-independent integrals are recovered as
+special cases.
+The main exposition is done in connection with the scalar transient wave equation. The results are then extended to
+the linear time-domain elastodynamics framework. Linear static governing equations are contained as obvious special
+cases. Numerical results for crack shape sensitivity computation are presented for two-dimensional time-domain
+elastodynamics

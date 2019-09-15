@@ -1,0 +1,1 @@
+A fuzzy interactive decision-making approach is proposed to derive a satisfactory solution for decision makers in the decentralized bilevel programming by introducing fuzzy goals for objective functions of all decision makers and consulting the ratios of satisfaction between the decision makers. Finally, an example illustrates the feasibility of our algorithm.

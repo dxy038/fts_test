@@ -1,0 +1,8 @@
+Objective
+s study, a methodology is presented for an automated levodopa-induced dyskinesia (LID) assessment in patients suffering from Parkinson's disease (PD) under real-life conditions.
+s and Material
+thodology is based on the analysis of signals recorded from several accelerometers and gyroscopes, which are placed on the subjects’ body while they were performing a series of standardised motor tasks as well as voluntary movements. Sixteen subjects were enrolled in the study. The recordings were analysed in order to extract several features and, based on these features, a classification technique was used for LID assessment, i.e. detection of LID symptoms and classification of their severity.
+s
+sults were compared with the clinical annotation of the signals, provided by two expert neurologists. The analysis was performed related to the number and topology of sensors used; several different experimental settings were evaluated while a 10-fold stratified cross validation technique was employed in all cases. Moreover, several different classification techniques were examined. The ability of the methodology to be generalised was also evaluated using leave-one-patient-out cross validation. The sensitivity and positive predictive values (average for all LID severities) were 80.35% and 76.84%, respectively.
+sions
+oposed methodology can be applied in real-life conditions since it can perform LID assessment in recordings which include various PD symptoms (such as tremor, dyskinesia and freezing of gait) of several motor tasks and random voluntary movements.

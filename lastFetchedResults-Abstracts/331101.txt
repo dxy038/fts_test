@@ -1,0 +1,11 @@
+Objective
+To characterize the attenuation of the curing light in filled resin restorative materials (FRRMs) to aid understanding of curing depth.
+Materials and methods
+
+One hundred and eighty materials of various shades from several manufacturers were tested in various ways. One set (66 materials) was used to determine the applicability of Lambert's Law using a quartz-tungsten-halogen curing light (Optilux 400, Demetron Research) by measuring the transmitted light with a dental radiometer (Cure Rite, EFOS) for successive thicknesses of ground 10 mm diameter specimens from 3 to 0.5 mm in 0.5 mm steps. A second set (17 materials) were similarly tested with separate specimens from 1 to 5 mm in thickness using a transmission densitometer (DT1405, RY Parry) fitted with a curing-light dichroic filter. For a third (overlapping) set (165 materials), the 1 mm pure (reflectance-free) optical density (D1 value) was determined from two specimens, not, vert, similar1 and not, vert, similar2 mm thick using the densitometer as above. From D1 the critical thickness (xCRIT), identified as depth of cure (DoC) for an excess surface exposure factor of 2, was calculated.
+Results
+
+Lambert's Law was found to hold with no evidence of appreciable differential absorption effects. Attenuation coefficient and D1 were significantly correlated (P < 1 × 10−13). D1 varied between about 0.23 and 0.72, for corresponding xCRIT values of 1.3 and 0.4 mm. There was no correlation between D1 and reflectance (P > 0.09), and no systematic effect due to shade letter, but a highly significant (P < 7.5 × 10−8), but weak (−0.066 mm/unit), correlation between shade number and D1.
+Significance
+
+Depth of cure can be calculated directly from the D1 value determined via simple optical density measurements on two specimens providing that (a) an irradiation time can be determined for the surface of a specimen to be “sufficiently” cured (i.e. for DoC = 0 precisely), and (b) an excess internal surface exposure ratio can be chosen such that the corresponding DoC is attained in a practicable irradiation time.

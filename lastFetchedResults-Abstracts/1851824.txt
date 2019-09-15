@@ -1,0 +1,5 @@
+This paper describes the analysis of a database of diabetic patients’ clinical records and death certificates. The objective of the study was to find rules that describe associations between observations made of patients at their first visit to the hospital and early mortality.
+
+ocessing was carried out and a knowledge discovery in databases (KDD) package, developed by the Lanner Group and the University of East Anglia, was used for rule induction using simulated annealing.
+
+st significant discovered rules describe an association that was not generally known or accepted by the medical community, however, recent independent studies confirm their validity.

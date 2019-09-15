@@ -1,0 +1,13 @@
+A hybrid alternate two phases particle swarm optimization (PSO) algorithm called ATPPSO is proposed to
+solve the flow shop scheduling problem (FSSP) with the objective of minimizing makespan which combines
+the PSO with genetic operators and annealing strategy. In the ATPPSO algorithm, each particle contains
+two states, the attractive state and the repulsive state. In order to refrain from the shortcoming of
+premature convergence, a two point reversal crossover operator is defined and in the repulsive process
+each particle is repelled away from some inferior solution in the current tabu list to fly towards some
+promising areas which can introduce some new information to guide the swarm searching process. To
+preserve the swarm diversity, an annealing criterion is used to update the personal best of each particle.
+Moreover an easy understanding makespan computation method based on matrix is designed. Finally,
+the proposed algorithm is tested on different scale benchmarks and compared with the recently proposed
+efficient algorithms. The results show that both the solution quality and the convergence speed of the
+ATPPSO algorithm precede the other two recently proposed algorithms. It can be used to solve large scale
+flow shop scheduling problem effectively.

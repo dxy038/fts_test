@@ -1,0 +1,11 @@
+Objective
+The (8;21)(q22;q22) chromosomal translocation, which involves AML1 gene on chromosome 21 and the ETO gene on chromosome 8, generates an AML1/ETO fusion. AML1/ETO is associated with 15% of acute myeloid leukemia (AML) cases. The fusion gene is a dominant inhibitor of myeloid–specific genes, notably AML1, CCAAT/enhancer–binding protein–α (C/EBPα), and myeloperoxidase (MPO). In this study, we investigated the role of antiapoptosis gene survivin as a target of AML1/ETO–related leukemia.
+Materials and Methods
+
+Through the combination of reporter assays, electrophoretic mobility shift assay, quantitative real–time polymerase chain reaction analysis, and short hairpin RNA (shRNA)−mediated knockdown of genes, we showed that survivin is a critical target of AML1/ETO. Biological studies were performed in cell lines and primary human CD 34+ cells.
+Results
+
+In this study, we have shown that ectopic expression of AML1/ETO induces survivin gene expression in both a cell line model and in the primary human hematopoietic CD34+ cells. Reporter assays demonstrate that ectopically expressed AML1/ETO activates survivin promoter. Endogenous AML1/ETO derived from the Kasumi–1 cell line nuclear extract binds physically to the AML1 core enhancer−binding sequence, TGTGGT, derived from the survivin promotor. Knockdown of survivin expression by shRNA in ectopically expressed AML1/ETO myeloid leukemia cell lines restores expression of C/EBPα, granulocyte colony–stimulating factor receptor, and MPO genes, which leads to their growth arrest and granulocytic differentiation.
+Conclusions
+
+Our results demonstrate that survivin gene acts as a critical mediator of AML1/ETO–induced late oncogeneic events.

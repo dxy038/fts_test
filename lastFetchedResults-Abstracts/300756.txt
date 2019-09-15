@@ -1,0 +1,9 @@
+Objective
+Previous studies have reported slow (<0.5 Hz) modulation of electroencephalographic (EEG) background amplitude and suggested that this reflects periodic neuronal activity in the brainstem, such as may be recorded from cardiovascular and respiratory centers in animals. We searched for a relationship between EEG amplitude modulation and modulation of simultaneously recorded cardiovascular variables and attempted to determine whether this relationship was altered in subjects with postural tachycardia syndrome (POTS).
+Methods
+We recorded EEG, blood flow velocity in the middle cerebral artery (MCA), heart rate, respirations, and blood pressure from subjects with POTS and controls during head-up tilt. Time-frequency analysis of 0.512-s epochs of EEG was performed to determine peak α amplitude. Spectra were divided into 3 bands: ultraslow, middle, and respiratory.
+Results
+EEG α amplitude modulation in all frequency bands was reduced in POTS subjects while supine. EEG modulation decreased in controls with head-up tilt but not in POTS subjects. Heart rate modulation in the respiratory frequency band decreased with head-up tilt and was significantly less (P<0.02) in ultraslow and respiratory frequency bands in POTS subjects after head-up tilt. Blood pressure and MCA flow velocity modulation in middle and respiratory bands increased with head-up tilt to a greater degree in POTS subjects. Blood pressure and MCA flow velocity modulation frequencies were moderately correlated, but correlations between EEG and cardiovascular variable modulation frequencies were generally low, being highest in the respiratory band but not statistically significant.
+Conclusion
+There are subtle differences in EEG amplitude modulation in subjects with POTS. Altered EEG amplitude modulation in POTS may reflect altered brainstem physiology in this disorder.
+

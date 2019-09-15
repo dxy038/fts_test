@@ -1,0 +1,24 @@
+Background: Muscle fatigue is an important issue in neuromuscular rehabilitation.
+Better control of this phenomenon would result in better prevention of its consequent
+physiological damages.
+Objective: To provide a mathematical representation of muscle fatigue as a function
+of time.
+Methods: We conducted this study by combining the EMG-based estimation methods
+of muscle activation with the available muscle fitness equations describing the
+electrically evoked muscular contractions. Two groups of experiments were devised
+to produce a set of isometric and dynamic contractions in two hand muscles—biceps
+and deltoid—in a healthy man. The relevant surface EMG signals recorded simultaneously
+from the target muscles, provided the data needed for this process. Secondly,
+a number of EMG-based fatigue indices including peak to peak amplitude, root mean
+square values, average rectified values, number of zero crossings and mean frequency,
+were evaluated for the assessment of fatigue in the devised experiments. The
+mentioned indices were then, plotted as a function of the calculated fatigue, so that a
+mathematical representation of their relationship could be achieved.
+Results: The results showed an overall increase in fatigue index for both groups
+of contractions as time passed, and, as was expected, the calculated fatigue in dynamic
+experiments stood at lower levels, having some fluctuations, in comparison to
+the isometric ones.
+Conclusion: The mathematical relationships between the time and frequencydomain
+fatigue indices and the proposed index were compatible with the previous
+experimental observations. These findings could be applied for the assessment and
+control of muscle fatigue in FES-research studies.

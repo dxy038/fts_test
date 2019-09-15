@@ -1,0 +1,12 @@
+Treatment effect in an observational study of relatively large scale can be described as a mixture of effects
+among subgroups. In particular, analysis for estimating the treatment effect at the level of an entire sample
+potentially involves not only differential effects across subgroups of the entire study cohort, but also
+differential propensities – probabilities of receiving treatment given study subjects’ pretreatment history.
+Such complex heterogeneity is of great research interest because the analysis of treatment effects can
+substantially depend on the hidden data structure for effect sizes and propensities. To uncover the unseen
+data structure, we propose a likelihood-based regression tree method which we call marginal tree (MT).
+The MT method is aimed at a simultaneous assessment of differential effects and propensity scores so that
+both become homogeneous within each terminal node of the resultant tree structure.We assess simulation
+performances of the MT method by comparing it with other existing tree methods and illustrate its use
+with a simulated data set, where the objective is to assess the effects of dieting behavior on its subsequent
+emotional distress among adolescent girls.

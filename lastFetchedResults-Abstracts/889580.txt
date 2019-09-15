@@ -1,0 +1,12 @@
+Penetration of distributed generation (DG) units in distribution network has increased rapidly stimulated by reduced
+network power loss, improved bus voltage profile, and better power quality. Appropriate size and allocation of DG
+units play a significant role to get beneficial effects. The objective of this study is to demonstrate a simple and fast
+technique to determine appropriate location and size of DG units. A voltage stability indicator (VSI) is derived which
+can quantify the voltage stability conditions of buses in distribution network. According to VSI, vulnerable buses of
+the network are arranged rank-wise to form a priority list for allocation of DG units. To determine the size of DG
+units, a feed forward artificial neural network is prepared in MATLAB environment (The MathWorks, Inc.,
+Massachusetts, USA). The effectiveness of the proposed methodology has been tested on a 52-bus radial
+distribution network. After appropriate allocation of DG units, voltage profiles of most of the buses are increased
+significantly. The results also indicated that the total loss of the distribution network has reduced by nearly 76.39%,
+and voltage stability conditions of buses are improved considerably. Voltage stability conditions of bus-13, bus-36,
+and bus-44 are raised by 23.16%, 29.23%, and 37.64% respectively.

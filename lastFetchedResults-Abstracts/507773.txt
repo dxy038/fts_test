@@ -1,0 +1,9 @@
+In this paper, we establish an economic production quantity (EPQ) based inventory model by
+considering various types of non-perfect products. We classify products in four groups of
+perfect, imperfect, defective but reworkable and non-reworkable defective items. The demand
+is a power function of price and marketing expenditure and production unit cost is considered to
+be a function of lot size. The objective of this paper is to determine lot size, marketing
+expenditure, selling price, set up cost and inventory holding cost, simultaneously. The problem
+is modeled as a nonlinear posynomial geometric programming and an optimal solution is
+derived. The implementation of the proposed method is demonstrated using a numerical
+example and the sensitivity analysis is also performed to study the behavior of the model.

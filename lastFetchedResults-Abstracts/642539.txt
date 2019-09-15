@@ -1,0 +1,11 @@
+Objective
+We previously demonstrated that a high dose of α-tocopheryl succinate inhibits interleukin-2 (IL-2) mRNA and production in autoimmune-prone MRL/lpr mice. In the present study, we investigated the regulation of α-tocopherol (αTOC) on IL-2 gene expression by examining the mRNA of IL-2, inhibitor κBα (IκBα), and peroxisome proliferator-activated receptor-γ (PPARγ).
+Methods
+
+Messenger RNA expression in active splenocytes of BALB/c mice was investigated with reverse transcriptase polymerase chain reaction.
+Results
+
+Levels of IL-2 mRNA in phorbol 12-myristate 13-acetate/ionomycin activated splenocytes and cytokine in T–helper-1 cells were increased by 50 μM of αTOC but decreased by 1 mM of αTOC. In addition, the IκBα gene expression significantly increased by the high dose (≥500 μM) of αTOC, suggesting an inhibition on nuclear factor-κB pathway for activation of IL-2 expression. PPARγ mRNA level in activated splenocytes was upregulated by 1 mM of αTOC. PPARγ mRNA level in unstimulated splenocytes was upregulated by αTOC in a dose-dependent manner, suggesting that αTOC might enhance the PPARγ signaling pathway. High-dose αTOC induced apoptosis of splenocytes and inhibited phytohemagglutinin-stimulated T-cell proliferation. Conversely, the proliferative response of splenocytes was enhanced by 5 μM of αTOC. Low-dose (50 μM) αTOC increased IL-2 expression, which may have been due to the absence of downregulation of PPARγ and IκBα on the IL-2 gene.
+Conclusion
+
+The results indicated that low and high doses of αTOC exert opposite effects on IL-2, possibly through modulation of PPARγ, IκBα, and apoptosis pathways. The present findings support our previous observation of opposite effects of low- and high-dose vitamin E on survival of MRL/lpr mice.

@@ -1,0 +1,11 @@
+Objective. To determine whether the human Achilles tendon has higher material properties than other tendons and to test for strain rate sensitivity of the tendon.
+
+Design. Mechanical testing of excised tendons.
+
+Background. While the human Achilles tendon appears to experience higher in vivo stresses than other tendons, it is not known how the Achilles tendon's material properties compare with the properties of other tendons.
+
+Methods. Modulus, failure stress, and failure strain were measured for excised human Achilles tendons loaded at strain rates of 1% s−1 and 10% s−1. Paired t-tests were used to examine strain rate effects, and average properties from grouped data were used to compare the Achilles tendon's properties with properties reported in the literature for other tendons.
+
+Results. Failure stress and failure strain were higher at the faster strain rate, but no significant difference in modulus was observed. At the 1% s−1rate, the mean modulus and failure stress were 816 MPa (SD, 218) and 71 MPa (SD, 17), respectively. The failure strain was 12.8% (SD, 1.7) for the bone-tendon complex and 7.5% (SD, 1.1) for the tendon substance. At the 10% s−1 rate, the mean modulus and failure stress were 822 MPa (SD, 211) and 86 MPa (SD, 24), respectively. The mean failure strain was 16.1% (SD, 3.6) for the bone-tendon complex and 9.9% (SD, 1.9) for the tendon substance. These properties fall within the range of properties reported in the literature for other tendons.
+
+Conclusions. The material properties of the human Achilles tendon measured in this study are similar to the properties of other tendons reported in the literature despite higher stresses imposed on the Achilles tendon in vivo.

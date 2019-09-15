@@ -1,0 +1,11 @@
+Objective
+Chronic eosinophilic leukemia (CEL) is a myeloproliferative disorder characterized by molecular and/or cytogenetic evidence of clonality of eosinophils, marked eosinophilia, and organ damage. In many patients, the transforming mutation FIP1L1-PDGFRα and the related CHIC2 deletion are found. The respective oncoprotein, FIP1L1-PDGFRα, is considered to play a major role in malignant cell growth in CEL. The tyrosine kinase (TK) inhibitor imatinib (STI571) has been described to counteract the TK activity of FIP1L1-PDGFRα in most patients. However, not all patients with CEL show a response to imatinib. Therefore, several attempts have been made to identify other TK inhibitors that counteract growth of neoplastic eosinophils.
+Materials and Methods
+
+We provide evidence that dasatinib, a multi-targeted kinase inhibitor, blocks the growth and survival of EOL-1, an eosinophil leukemia cell line carrying FIP1L1-PDGFRα.
+Results
+
+The effects of dasatinib on proliferation of EOL-1 cells were dose-dependent, with an IC50 of 0.5 to 1nM, which was found to be in the same range when compared to IC50 values produced with imatinib. Dasatinib was also found to induce apoptosis in EOL-1 cells in a dose-dependent manner (IC50: 1 – 10 nM). The apoptosis-inducing effects of dasatinib on EOL-1 cells were demonstrable by light microscopy, flow cytometry, and in a TUNEL assay. In Western blot experiments, dasatinib completely blocked the phosphorylation of FIP1L1-PDGFRα in EOL-1 cells.
+Conclusions
+
+Dasatinib inhibits the growth of leukemic eosinophils through targeting of the disease-related oncoprotein FIP1L1-PDGFRα. Based on this observation, dasatinib may be considered as a new interesting treatment option for patients with CEL.

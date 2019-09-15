@@ -1,0 +1,1 @@
+In this paper, a new coefficient is proposed with the objective of quantifying the level of cross-correlation between nonstationary time series. This cross-correlation coefficient is defined in terms of the DFA method and the DCCA method. The implementation of this cross-correlation coefficient will be illustrated with selected time series.

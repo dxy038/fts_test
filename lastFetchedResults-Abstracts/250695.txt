@@ -1,0 +1,13 @@
+Robust design seeks an optimal solution where the design objective is insensitive to the variations
+of input variables while the design feasibility under the variations is maintained. Accurate robustness
+assessment for both design objective and feasibility usually requires an intensive computational effort. In
+this paper, an accurate robustness assessment method with a moderate computational effort is proposed.
+The numerical Gauss–Hermite integration technique is employed to calculate the mean and standard
+deviation of the objective and constraint functions. To effectively use the Gauss–Hermite integration
+technique, a transformation from a general random variable into a normal variable is performed.
+The Gauss–Hermite integration and the transformation result in concise formulas and produce an
+accurate approximation to the mean and standard deviation. This approach is then incorporated into
+the framework of robust design optimization. The design of a two-bar truss and an automobile torque
+arm is used to demonstrate the effectiveness of the proposed method. The results are compared with
+the commonly used Taylor expansion method and Monte Carlo simulation in terms of accuracy and
+efficiency.

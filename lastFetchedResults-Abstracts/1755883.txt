@@ -1,0 +1,8 @@
+Objective
+rpose of this study is to compare the diagnostic accuracy of four depression screening tools commonly used in patients with medical disorders, relative to a reference diagnostic standard—a structured psychiatric interview.
+s
+pression in the Medically Ill-18 (DMI-18) questionnaire was administered to 167 patients with medical disorders; of those, 53 completed the Beck Depression Inventory for Primary Care (BDI-PC), 67 the Hospital Anxiety and Depression Scale (HADS), and 46 the Patient Health Questionnaire-9 (PHQ-9). The entire sample was also interviewed with a structured psychiatric interview conducted by a mental health professional. Sensitivity, specificity, likelihood ratios (LRs), and area under the curve (AUC) were calculated and compared for the different measures.
+s
+ir respective recommended cutoff points, sensitivities [95% confidence interval (CI)] were 86% (70–95), 82% (63–94), 93% (86–97), and 68% (47–85) for the HADS-D, BDI-PC, DMI-18, and PHQ-9, respectively, while specificities ranged from 72% (47–90) for BDI-PC to 89% (72–98) for PHQ-9. The sensitivities of DMI-18 were significantly higher compared to those of HADS-D (P=.045) and PHQ-9 (P=.01). The PHQ-9 questionnaire obtained the most favorable positive LR (6.35; 95% CI, 2.48–18.36). In contrast, the DMI-18 showed the best negative LR (0.09; 95% CI, 0.04–0.18). Areas under the curves (95% CI) ranged from 0.92 (0.83–1.02) to 0.84 (0.74–0.94). Statistically significant differences were found between the AUCs of the DMI-10 and the BDI-PC.
+sion
+sults suggest that all evaluated scales have acceptable abilities and can be used as screening instruments for depression in patients with medical disorders. The DMI stands out for its sensitivity.

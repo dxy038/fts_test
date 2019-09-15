@@ -1,0 +1,9 @@
+The objective of this paper is to propose an efficient model-based bit allocation process optimizing the performances of a
+wavelet coder for semiregular meshes. More precisely, this process should compute the best quantizers for the wavelet coefficient
+subbands that minimize the reconstructed mean square error for one specific target bitrate. In order to design a fast and low complex
+allocation process, we propose an approximation of the reconstructed mean square error relative to the coding of semiregular mesh
+geometry. This error is expressed directly from the quantization errors of each coefficient subband. For that purpose, we have to take
+into account the influence of the wavelet filters on the quantized coefficients. Furthermore, we propose a specific approximation for
+wavelet transforms based on lifting schemes. Experimentally, we show that, in comparison with a “naı¨ve” approximation (depending on
+the subband levels), using the proposed approximation as distortion criterion during the model-based allocation process improves the
+performances of a wavelet-based coder for any model, any bitrate, and any lifting scheme.

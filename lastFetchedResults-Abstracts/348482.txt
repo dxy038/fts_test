@@ -1,0 +1,11 @@
+Objective
+To establish within-subject reliability of motor unit number estimates (MUNEs) and quantitative MU analysis using decomposition-based quantitative electromyography (DQEMG).
+Methods
+Following the acquisition of a maximum M-wave, needle and surface-detected EMG signals were collected during contractions of the first dorsal interrosseous (FDI) and biceps brachii (BB). DQEMG was used to extract motor unit potential (MUP) trains and surface-detected MUPs associated with each train, the mean size of which was divided into the maximum M-wave to obtain a MUNE. Retests were performed following the initial test to evaluate reliability.
+Results
+Subjects test-retest MUNEs were highly correlated (r=0.72 FDI; 0.97 BB) with no significant differences between test and retest MUNE values (P>0.10). Ninety-five percent confidence intervals were calculated to establish the range of expected retest MUNE variability and were ±41 MUs for the FDI and BB. Quantitative information pertaining to MU size, complexity and firing rate were similar for both tests.
+Conclusion
+MUNEs and quantitative MU data can be obtained reliably from the BB and FDI using DQEMG in individual subjects.
+Significance
+Establishing within-subject reliability of MUNEs and quantitative MU analysis allow clinicians to longitudinally follow changes in the MU pool of individuals with disorders of the central or peripheral nervous system in addition to assessing their response to treatments.
+

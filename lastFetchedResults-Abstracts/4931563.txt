@@ -1,0 +1,1 @@
+We prove that mean-square whitened matched filter delayed decision-feedback equalizer (MSWMF-DDFSE) is optimal in terms of maximum signal-to-noise ratio (MSNR). We also present a bidirectional MSWMF-DDFSE and a reduced state maximum a posteriori (MAP) equalizer based on MSWMF-DDFSE.

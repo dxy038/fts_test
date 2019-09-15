@@ -1,0 +1,1 @@
+The objective of this paper is to derive the channel transition probabilities for the reader-to-tag link in RFID, considering the peculiar receiver structure in a RFID tag. The model is a first necessary step to derive Maximum Likelihood receivers and also the Shannon capacity of the link.

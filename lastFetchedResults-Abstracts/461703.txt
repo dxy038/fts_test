@@ -1,0 +1,11 @@
+Background
+Two million Americans acquire an infection in the hospital each year, resulting in an estimated 88,000 patient deaths per year.
+Objective
+
+Our objective was to describe our initial experience using an animated geographic information system (GIS) to investigate factors associated with nosocomial transmission of resistant organisms. We used a descriptive study at a university-affiliated, county, teaching hospital. We studied all patients and nursing staff on 4 adult, general medicine wards from June through August 2004.
+Results
+
+We developed and implemented GIS software. GIS-generated animations demonstrated inappropriate patient placement for 19% of patients with methicillin-resistant Staphyloccocus aureus and insufficient time for hand hygiene in 14% (6248) of health care provider-patient contacts.
+Conclusion
+
+Animated GIS can uncover previously hidden factors that contribute to the spread of nosocomial infections. This technology may become a useful adjunct for the prevention of nosocomial transmission of infectious agents.

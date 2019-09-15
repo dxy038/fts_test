@@ -1,0 +1,1 @@
+In this paper we introduce some natural numerical quantities which measure differentkinds of correspondences between Hilbert space effects. We show that every objective map of the space ɛ(H) of all effects on the Hilbert space H which preserves any of these quantities is implemented by a unitary or antiunitary operator on H.

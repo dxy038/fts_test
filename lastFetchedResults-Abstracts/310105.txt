@@ -1,0 +1,9 @@
+Objective
+The bacteriostatic preservative sodium azide (NaN3) activates soluble guanylate cyclase (sGC) in vascular tissues, thus elevating cellular 3′,5′-cyclic guanosine monophosphate (cGMP). Because the sGC/cGMP pathway is involved in the control of platelet aggregation, we investigated whether in human platelets NaN3 influences the responses to agonists, cGMP levels and cGMP-regulated pathways.
+Design and method
+Concentration- and time-dependent effects of NaN3 (1–100 μmol/L; 5–60 min incubation) on ADP- and collagen-induced aggregation, NO synthase (NOS) activity, cGMP synthesis and vasodilator-stimulated phosphoprotein (VASP) phosphorylation at Ser239 were investigated in platelets from 21 healthy individuals.
+Results
+NaN3 exerted concentration- and time-dependent antiaggregatory effects starting from 1 μmol/L (IC50 with 5-min incubation: 2.77 ± 0.35 μmol/L with ADP and 4.64 ± 0.48 μmol/L with collagen) and significantly increased intraplatelet cGMP levels and phosphorylation of VASP at Ser239 at 1–100 μmol/L; these effects were prevented by sGC inhibition, but not by NOS inhibition.
+Conclusions
+NaN3 exerts antiaggregatory effects in human platelets via activation of the sGC/cGMP/VASP pathway. This biological effect must be considered when azide-containing reagents are used for in vitro studies on platelet function.
+

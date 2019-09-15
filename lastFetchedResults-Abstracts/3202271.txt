@@ -1,0 +1,1 @@
+The reliability of bidirectional dc-dc converters is a critical issue in many applications where the power flows from or to energy storage systems regularly, such as automotive applications and standalone power systems. This paper addresses dual active bridge converters faulty operation and proposes a fault detection method.

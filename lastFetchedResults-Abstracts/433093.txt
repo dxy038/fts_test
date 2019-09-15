@@ -1,0 +1,9 @@
+Background
+Our ability to identify surgical candidates before angiography is limited. Early identification of surgical patients would improve preoperative management and ultimately postoperative outcomes. The objective of this study was to determine whether surgical candidates could be identified before coronary angiography using simple clinical variables.
+Methods
+The study population was comprised of 688 patients admitted to a tertiary hospital because of non-ST segment elevation acute coronary syndromes. Stepwise logistic regression analysis was performed to identify predictors of surgery. A test cohort (50.2%) was used to generate the model and a validation cohort (49.8%) was used for independent validation of the proposed score.
+Results
+Three variables independently predicted the indication for bypass surgery: the absolute thrombolysis in myocardial infarction (TIMI) risk score (odds ratio [OR] = 2.34 for each unit increase in the score, 95% confidence interval [CI] = 1.89–2.89, p< 0.001), the presence of peripheral vascular disease (PVD) (OR = 4.08, CI = 1.48–11.24, p = 0.006), and the presence of congestive heart failure (CHF) on admission (OR = 2.57, CI = 1.08–6.81, p = 0.03). A simplified score that spans from 0–10 was developed based on the logistic regression model. The score adds two points to the TIMI score if PVD is present and one point if CHF is present. The area under the receiver-operating-characteristic (ROC) curve of the proposed score for predicting surgery was 0.80 ± 0.02.
+Conclusions
+The score we have proposed and validated can be used to predict the likelihood of bypass surgery before coronary angiography and may assist the clinician to tailor preoperative medical therapy.
+

@@ -1,0 +1,1 @@
+A 6 ns-latency 12 mW 5 Gb/s bidirectional link for short-haul (&lt;5 m) balanced lines uses an on-chip switched-capacitor hybrid with echo-canceling capability. The clock-recovery circuit, based on a phase interpolator, makes the link tolerant to a 100 ppm difference between the frequencies of the transmit and receive clocks.

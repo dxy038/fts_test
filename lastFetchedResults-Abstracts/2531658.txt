@@ -1,0 +1,8 @@
+Background and Objective: Human health depends on clean and safe drinking water more than anything. In Bilverdi Plain, the main source of drinking water is groundwater that has got a low quality in some places. Therefore, the drinking water of this area needs detailed evaluation of quality. In this research, the drinking water of Bilverdi Plain was evaluated based on fuzzy and deterministic methods.
+
+Materials and Methods: Totally, 15 samples were collected from different places in September 2013. Major water ions including fluoride and nitrate of the samples taken were measured at hydrological lab of University of Tabriz. To check the quality of water, Schoeller diagram in GWW environment and MATLAB software in fuzzy inference system were used and their results were compared with each other.
+
+Results: Based on the results in deterministic method, the quality of drinking water was classified ranging from good to undesirable. However, in fuzzy method in addition to water quality, the potability confidence of samples was offered in which water in six samples with reliability percent from 13.8 to 14.7; in five samples with 50% confidence level and in four samples with confidence percent from 73 to 85 were desirable, acceptable and unacceptable respectively.
+
+Conclusion: The results show the higher accuracy and capability of fuzzy method rather than deterministic method. Because it is proper to deal with uncertainty in the different parameters and all effective parameters on water quality could be considered together in the evaluation and it offers confidence level for potability of water.
+

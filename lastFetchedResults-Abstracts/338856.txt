@@ -1,0 +1,11 @@
+Objective
+Natural killer (NK) cells kill allogeneic cells that lack a class I MHC ligand for clonally distributed killer inhibitory receptors (KIR). Following HLA-mismatched hematopoietic cell transplantation (HCT), donor NK cells might mediate graft-vs-host (GVH) reactions that promote donor chimerism and mediate anti-tumor effects. Additionally, recipient NK cells might mediate donor marrow rejection. We have developed a nonmyeloablative approach to haploidentical HCT involving recipient treatment with a T cell–depleting mAb, Medi-507, that can achieve donor engraftment and mixed hematopoietic chimerism without graft-vs-host disease (GVHD). Donor lymphocyte infusions (DLI) are later administered in an effort to achieve graft-vs-leukemia/lymphoma (GVL) effects without GVHD. It is unknown whether NK cell “tolerance” develops in human mixed chimeras.
+Methods
+
+We have addressed these issues in 12 patients receiving Medi-507-based nonmyeloablative haploidentical HCT.
+Results
+
+NK cells recovered relatively early, despite the presence of circulating anti-CD2 mAb, but the majority of initially recovering cells lacked CD2 expression. These NK cells showed a reduced capacity, compared to those from normal donors, to kill class I–deficient targets. No association was detected between KIR mismatches in the host-vs-graft (HVG) or GVH direction and graft or tumor outcomes in this small series. NK cell chimerism did not correlate with chimerism in other lineages in mixed chimeras. NK cell tolerance to the host was not observed in a patient with full donor chimerism. One patient developed NK cell reactivity against donor-derived lymphoblast targets after loss of chimerism, despite the absence of an HVG KIR mismatch.
+Conclusion
+
+Our results do not show an impact of NK cells on the outcome of nonmyeloablative, even T cell–depleted, HCT across haplotype barriers using an anti-CD2 mAb. Our data also raise questions about the applicability of observations made with NK cell clones to the bulk NK cell repertoire in humans.

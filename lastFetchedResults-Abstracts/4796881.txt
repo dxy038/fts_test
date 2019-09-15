@@ -1,0 +1,1 @@
+A new estimator, optimal in the frequency domain with respect to the masking properties of the human auditory system, is proposed. This new filtering technique prevents the emergence of post-filtering isolated tonals that increase the musical noise perception. Experimental results by means of objective tests show that this technique improves the enhanced speech quality.

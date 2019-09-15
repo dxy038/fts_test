@@ -1,0 +1,1 @@
+The paper describes the characteristics and performance of the MAD-R shift register which uses multiapertures and connecting wire as the only components. In particular, it discusses the hold and prime operations and their effects on the performance of this shift register. A small modification adapts the basic shift register for bidirectional operation.

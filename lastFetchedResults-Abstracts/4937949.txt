@@ -1,0 +1,1 @@
+This paper introduces Accelerator Toolbox (AT) - a collection of tools to model storage rings and beam transport lines in the MATLAB environment. The objective is to illustrate the flexibility and efficiency of the AT-MATLAB framework. The paper discusses three examples of problems that are analyzed frequently in connection with ring-based synchrotron light sources

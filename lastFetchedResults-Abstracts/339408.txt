@@ -1,0 +1,11 @@
+Objective
+To examine DNA methylation in mouse hemopoiesis before and after in vivo exposure to a leukemogenic dose of x-rays, and address whether methylation levels are associated with the relative radiosensitivity of tissues in vivo.
+Methods
+
+The methylation status of control CBA/H and C57BL/6 mouse tissues before and after exposure to 3-Gy x-rays, and myeloid and lymphoid leukemias and lymphomas, was assessed by the direct analysis of the 5-methylcytosine (5-MeC) content of DNA, and by Southern blot analysis of genomic repeat sequences.
+Results
+
+The DNA 5-MeC content of bone marrow is 15% lower than spleen. Together with the analyses of stem (myeloid) and progenitor (lymphoid) leukemias and lymphomas, we found a trend of increasing methylation during hemopoietic differentiation. Exposure to x-rays induced greater cell death in the hypomethylated bone marrow (>80%) than spleen (50%) in vivo, supporting the observed correlation found between methylation status and radiosensitivity of other high-turnover hierarchical tissues. Furthermore, there was an 8% DNA 5-MeC content decrease in bone marrow after in vivo exposure to 3-Gy x-rays, but this was genotype dependent, being observed in AML-susceptible (CBA/H) but not AML-resistant (C57BL/6) inbred mice.
+Conclusion
+
+Together these data suggest that methylation status may be related to the relative radiosensitivity of high-turnover hierarchical tissues such as bone marrow and that radiation-induced DNA hypomethylation has a role in radiation leukemogenesis.

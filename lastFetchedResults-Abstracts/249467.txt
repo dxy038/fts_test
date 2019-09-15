@@ -1,0 +1,9 @@
+We present a new shape measure for tetrahedral elements that is optimal in that it gives the distance
+of a tetrahedron from the set of inverted elements. This measure is constructed from the condition
+number of the linear transformation between a unit equilateral tetrahedron and any tetrahedron with
+positivevolume . Using this shapeme asure, weformulatetwo optimization objectivefunctions that are
+di>erentiated by their goal: the ?rst seeks to improve the average quality of the tetrahedral mesh; the
+second aims to improve the worst-quality element in the mesh. We review the optimization techniques
+used with each objective function and present experimental results that demonstrate the e>ectiveness
+of the mesh improvement methods. We show that a combined optimization approach that uses both
+objective functions obtains the best-quality meshes for several complex geometries

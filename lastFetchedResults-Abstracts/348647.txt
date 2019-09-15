@@ -1,0 +1,11 @@
+Objective
+To use the over-complete discrete wavelet transform (OCDWT) to further examine the dual structure of auditory brainstem response (ABR) in the dog.
+Methods
+ABR waveforms recorded from 20 adult dogs at supra-threshold (90 and 70 dBnHL) and threshold (0–15 dBSL) levels were decomposed using a six level OCDWT and reconstructed at individual scales (frequency ranges) A6 (0–391 Hz), D6 (391–781 Hz), and D5 (781–1563 Hz).
+Results
+At supra-threshold stimulus levels, the A6 scale (0–391 Hz) showed a large amplitude waveform with its prominent wave corresponding in latency with ABR waves II/III; the D6 scale (391–781 Hz) showed a small amplitude waveform with its first four waves corresponding in latency to ABR waves I, II/III, V, and VI; and the D5 scale (781–1563 Hz) showed a large amplitude, multiple peaked waveform with its first six waves corresponding in latency to ABR waves I, II, III, IV, V, and VI. At threshold stimulus levels (0–15 dBSL), the A6 scale (0–391 Hz) continued to show a relatively large amplitude waveform, but both the D6 and D5 scales (391–781 and 781–1563 Hz, respectively) now showed relatively small amplitude waveforms.
+Conclusions
+A dual structure exists within the ABR of the dog, but its relative structure changes with stimulus level.
+Significance
+The ABR in the dog differs from that in the human both in the relative contributions made by its different frequency components, and the way these components change with stimulus level.
+

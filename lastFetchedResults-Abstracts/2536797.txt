@@ -1,0 +1,18 @@
+
+	
+		
+			
+			Background & Aims of the Study: A feed forward artificial neural network (FFANN) was developed to predict the efficiency of total petroleum hydrocarbon (TPH) removal from a contaminated soil, using soil washing process with Tween 80. The main objective of this study was to assess the performance of developed FFANN model for the estimation of&nbsp;&nbsp; TPH removal.
+
+			Materials and Methods: Several independent repressors including pH, shaking speed, surfactant concentration and contact time were used to describe the removal of TPH as a dependent variable in a FFANN model. 85% of data set observations were used for training the model and remaining 15% were used for model testing, approximately. The performance of the model was compared with linear regression and assessed, using Root of Mean Square Error (RMSE) as goodness-of-fit measure
+
+			Results: For the prediction of TPH removal efficiency, a FANN model with a three-hidden-layer structure of 4-3-1 and a learning rate of 0.01 showed the best predictive results. The RMSE and R2 for the training and testing steps of the model were obtained to be 2.596, 0.966, 10.70 and 0.78, respectively.
+
+			Conclusion: For about 80% of the TPH removal efficiency can be described by the assessed regressors the developed model. Thus, focusing on the optimization of soil washing process regarding to shaking speed, contact time, surfactant concentration and pH can improve the TPH removal performance from polluted soils. The results of this study could be the basis for the application of FANN for the assessment of soil washing process and the control of petroleum hydrocarbon emission into the environments.
+			
+		
+	
+
+
+
+

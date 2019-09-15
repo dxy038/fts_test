@@ -1,0 +1,11 @@
+Objective
+Normalization of brain images is a necessity for group comparisons of source analyses based on realistic head models. In this paper we compared the outcome of a linear registration method for brain images of psychiatric and control groups of different ages in order to assess the relative adequacy of normalization in such diverse groups.
+Methods
+Magnetic Resonance images (MRI) of the brains of pediatric and adolescent subjects (mean ages 19 and 10.5 years) with a pervasive developmental disorder (PDD) and their healthy controls were included. A simple voxel-wise test of the group variances in image intensities was performed to evaluate regional differences in registration quality. Dipole analysis of visual P1 was performed to establish whether source locations were comparable across groups.
+Results
+Significant differences between pediatric groups were found in white matter and thalamic regions of the brain. For all other group-wise comparisons, differences were confined to skull and neck regions. Dipole locations were found to be more anteriorly located in the adolescent groups.
+Conclusions
+The normalization procedure used in this paper is based on a brain template of normal adult brains from a restricted age group, and the results show that the use of this method in pediatric groups is less adequate. The method seems suitable for use in psychiatric groups. Also, the generators of visual P1 in PDD patients were found to be comparable to controls.
+Significance
+The results suggest that this existing normalization method can be used in diverse populations, but is less suitable for pediatric images.
+

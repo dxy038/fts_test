@@ -1,0 +1,11 @@
+Objective. To determine if ultrasound measurements in the heel are related to bone quality in addition to quantity.
+
+Design. In situ and in vitro experiments on cadaver heels.
+
+Background. It has been suggested, but not demonstrated, that clinical ultrasound—used to screen for osteoporosis in clinical trials — provides a measure of ‘bone quality’ as distinct from bone quantity.
+
+Methods. Ultrasound transmission velocity (UTV) and the slope of the linear dependence of broadband ultrasound attenuation on frequency (BUA) were measured in situ in 32 heels of 16 cadavers and in vitro in cores of calcaneal trabecular bone.
+
+Results. After adjusting for Young's modulus, in situ UTV explains 33% P = 0.03) and in situ BUA explains none of the remaining variance in density (r2 = 0.02, P = 0.60). After adjusting for density, in situ BUA explains 29% (P = 0.04) and in situ UTV explains none of the remaining variance in Young's modulus (r2 = 0.01, P = 0.79). By comparison, in vitro BUA explains 58% (P = 0.001) of the remaining variance in Young's modulus, after adjusting for density.
+
+Conclusions. In situ BUA reflects ‘bone quality’ independently of bone quantity, whereas in situ UTV reflects bone quantity independently of ‘bone quality’.

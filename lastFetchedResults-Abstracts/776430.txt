@@ -1,0 +1,10 @@
+This paper presents the development and application of a feedback linearization control strategy for a solar collector field supplying
+process heat to a multi-effect seawater distillation plant. Since one objective is to use as much as possible the solar resource, control techniques
+can be used to produce the maximum heat process in the solar field. The main purpose of the controller presented in this paper is
+to manipulate the water flow rate to maintain an outlet–inlet temperature gradient in the collectors, thereby ensuring continuous process
+heating, or in other words, continuous production of fresh water in spite of disturbances. The dynamic behaviour of this solar field was
+approximated by a simplified lumped-parameters nonlinear model based on differential equations, validated with real data and used in
+the feedback linearization control design. Experimental results in the seawater desalination plant at the Plataforma Solar de Almerı´a
+(Spain) show good agreement of the model and real data despite the approximations included. Moreover, by using feedback linearization
+control it is possible to track a constant gradient temperature reference in the solar field with good results.
+  2008 Elsevier Ltd. All rights reserved.

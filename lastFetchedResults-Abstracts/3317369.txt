@@ -1,0 +1,1 @@
+The paper deals with the problem of robust fault diagnosis of industrial systems. The main objective was to develop fault diagnosis scheme based on the parameters identification via Bounded-Error Approach. The effectiveness of the proposed approach was shown on the model of brushless DC motor.

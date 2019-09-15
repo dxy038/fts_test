@@ -1,0 +1,1 @@
+The article describes main conception how to use error protection codes to transmit digital video over wireless channels. The article describes experiments which obtain parameters for these codes, decoder behavior and some results. The objective metrics are described too.

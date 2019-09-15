@@ -1,0 +1,13 @@
+In the paper the fuzzy logic based multicriteria
+protective relay for three-phase power transformer
+is presented. Twelve criteria used to stabilize
+the relay are introduced and integrated by means of
+multi-objective decision-making methods, The introduced
+protection scheme contains several internal
+functions and coefficients which are subject to offline
+pre-installation self-setting. Three unique procedures
+are delivered for self-adljusting the relay,
+and thus, making it self-organized. The included
+results of testing show significantly gained both sensitivity
+and selectivity of the self-organized relay
+comparing with traditional approaches.

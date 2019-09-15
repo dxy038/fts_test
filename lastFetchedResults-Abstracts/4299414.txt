@@ -1,0 +1,1 @@
+This paper describes the use of computer simulation to control an induction motor with a variable speed drive system to emulate an internal combustion engine (ICE). The objective is to make the dynamics of the motor identical to the dynamics of an ICE when used with a generic hydraulic test bed

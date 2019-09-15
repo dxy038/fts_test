@@ -1,0 +1,11 @@
+Objective
+Intravenous (IV) injection is currently the normal method for transplanting hematopoietic cells. However, the problem of seeding efficiency and homing is relevant especially when a limited number of stem cells is available. Intra–bone marrow (IBM) injection of bone marrow cells (BMCs) may overcome this problem.
+Materials and methods
+
+Irradiated (750 cGy) C57BL/6J mice were transplanted with 1 × 105 BMCs harvested from transgenic mice expressing an enhanced version of the green fluorescent protein (EGFP+) via IBM or with 1 × 106 EGFP+ BMCs via IV. Irradiated (320 cGy) NOD/SCID mice were transplanted with 1 × 106 human cord blood (CB) cells via IBM or with 1 × 107 human CB cells via IV.
+Results
+
+In C57BL/6J mice after 90 days, the fraction of EGFP+ cells harvested was 37% and 53% in IV-treated and IBM-treated (contralateral tibia and femur in the IBM) mice, respectively: the expansion folds were 114 and 1760, respectively. In NOD/SCID mice, the percentages of CD45+ cells and CD45+/CD34+ cells were, at 30 days, 3.3% and 0.3% in IV-treated mice, and 4.4% and 1.1% in IBM-treated mice. At 60 days, the percentages of CD45+ cells and CD45+/CD34+ cells were 2.1% and 0.3% in IV-treated mice and 1.4% and 0.4% in IBM-treated mice. At day 90 the percentages of CD45+ cells and CD45+/CD34+ cells were 3% and 0.3% in IV-treated mice and 2.3% and 0.4% in IBM-treated mice.
+Conclusion
+
+Our data demonstrate that IBM transplantation is associated with a seeding efficiency 15 times greater than IV transplantation. IBM transplantation may improve the results of transplant and may be useful in several settings: 1) when a limited number of hematopoietic progenitors are available; and 2) in experiments aiming to place in the bone marrow stem cells of other lineages (CNS, muscle, etc.).

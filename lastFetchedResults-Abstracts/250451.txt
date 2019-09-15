@@ -1,0 +1,11 @@
+This paper describes a hovering rotor blade design through the suitable combination of flow analysis and
+optimization technique. It includes a parametric study concerned with the influence of design variables
+and different design conditions such as objective functions and constraints on the rotor performance.
+Navier–Stokes analysis is employed to compute the hovering rotor performance in subsonic and
+transonic operating conditions. Response surface method based on D-optimal 3-level factorial design
+and genetic algorithm are applied to obtain the optimum solution of a defined objective function
+including the penalty terms of constraints. The designs of the rotor airfoil geometry and the rotor
+tip shape are performed in subsonic and transonic conditions, and it is observed that the new rotor
+blades optimized by various objective functions and constraints have better aerodynamic characteristics
+than the baseline rotor blade. The influence of design variables and their mutual interactions on the
+rotor performance is also examined through the optimization process

@@ -1,0 +1,1 @@
+A multi-objective hybrid approach based on simulated annealing (SA) is employed to the inverse planning optimization in intensity modulated radiation treatment (IMRT). The test case of irregular field under the condition of water phantom is used to verify the convergence and preciseness of the algorithm. The results show that the approach has favorable behave.

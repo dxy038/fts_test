@@ -1,0 +1,1 @@
+In this work, we show the concept of serious game applied to a 3D game for mobile planning. We combine the use of a traditional planning tool with a 3D game engine, representing propagation models as "avatars". The tool allows to execute an initial planning and also to "play" a game according to "missions" like perform a planning with a coverage objective.

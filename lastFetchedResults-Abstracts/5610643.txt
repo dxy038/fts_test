@@ -1,0 +1,1 @@
+We propose a novel WDM PON scheme based on distributed Raman amplification and broadband erbium ASE source generation by recycling residual Raman pump, which features fully bidirectional transmission, relaxed signal power margin, and active optical source free subscriber units. Error-free transmission over a 25 km SMF is readily achieved at 622 Mbit/s.

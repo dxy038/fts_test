@@ -1,0 +1,13 @@
+Consider the problem of image deblurring in the presence of impulsive noise. Standard image deconvolution
+methods rely on the Gaussian noise model and do not perform well with impulsive noise. The main
+challenge is to deblur the image, recover its discontinuities and at the same time remove the impulse noise.
+Median-based approaches are inadequate, because at high noise levels they induce nonlinear distortion that hampers
+the deblurring process. Distinguishing outliers from edge elements is difficult in current gradient-based edgepreserving
+restoration methods. The suggested approach integrates and extends the robust statistics, line process
+(half quadratic) and anisotropic diffusion points of view. We present a unified variational approach to image deblurring
+and impulse noise removal. The objective functional consists of a fidelity term and a regularizer. Data
+fidelity is quantified using the robust modified L1 norm, and elements from the Mumford-Shah functional are
+used for regularization. We show that the Mumford-Shah regularizer can be viewed as an extended line process.
+It reflects spatial organization properties of the image edges, that do not appear in the common line process
+or anisotropic diffusion. This allows to distinguish outliers from edges and leads to superior experimental
+results.

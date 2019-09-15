@@ -1,0 +1,11 @@
+Objectives
+The objective of this study was to evaluate the effect of different surface treatments on the micro-tensile bond strength (μTBS) of an adhesive luting agent to CAD–CAM ceramic. The hypothesis tested was that neither of the surface treatments would produce higher bond strength of the adhesive luting agent to CAD–CAM ceramic.
+Methods
+
+Ceramic specimens of two different sizes (6 mm × 8 mm × 3 mm; 13 mm × 8 mm × 4 mm) were fabricated from ProCAD ceramic blocs (Ivoclar-Vivadent) with a low-speed diamond saw. The ceramic blocks were divided into seven groups and submitted to the following surface treatments: group 1: no treatment; group 2: etching with 37% H3PO4; group 3: etching with 37% H3PO4 + silane; group 4: etching with 37% H3PO4 + silane + adhesive resin; group 5: etching with 4.9% HF acid; group 6: etching with 4.9% HF acid + silane; group 7: etching with HF acid + silane + adhesive resin. After surface treatment, two differently sized porcelain disks were bonded together with a composite luting agent (Variolink II, Ivoclar-Vivadent). The specimens were stored for 24 h in distilled water at 37 °C prior to μTBS testing. One-way analysis of variance was used to test the influence of surface treatment and Scheffe multiple comparisons test determined pair-wise statistical differences (p < 0.05) in μTBS between the experimental groups.
+Results
+
+The mean μTBSs (standard deviation) are: group 1: 12.8 (±4.6) MPa; group 2: 19.1 (±5.0) MPa; group 3: 27.4 (±11.1) MPa; group 4: 34.0 (±8.9) MPa; group 5: 37.6 (±8.4) MPa; group 6: 34.6 (±12.8) MPa; group 7: 34.5 (±5.1) MPa. Statistical significant differences were found between group 1 and groups 3–7, and between group 2 and groups 4–7. All specimens of groups 1–4 exhibited adhesive failures, while a combination of adhesive and mixed (adhesive and cohesive) failures was observed in the specimens of groups 5–7.
+Conclusions
+
+The results show that surface treatment is important to bond to ceramic and suggests that etching is needed preferably with hydrofluoric acid than with phosphoric acid.

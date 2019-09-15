@@ -1,0 +1,11 @@
+Objective
+Inducible and transient expression of transcription factors, growth factors, or mitogenic factors can be used to influence proliferation or differentiation of hematopoietic progenitor/stem cells (HSC). Furthermore, transient expression of proteins with site-specific endonuclease activity, potentially, can support targeted integration of exogenous transgenes into specific sites in the genome, a task that is currently a focus in development of gene therapy vectors.
+Materials and Methods
+
+We constructed a set of helper-dependent adenovirus (Ad) vectors with serotype 35 fiber knob domains (HD-Ad5/35), which can efficiently transduce human CD34+ cells, particularly subsets with potential stem cell capacity. These vectors contain Tet-inducible expression systems that were shielded by insulators and transcription stop signals to minimize unspecific interference by transcriptional elements present in viral and stuffer DNA. We compared two vectors, containing a fusion between the Krüppel-associated box (KRAB) domain and the tetracycline repressor (HD-Ad5/35.Tet-1) or an autoregulated rtTA (HD-Ad5/35.Tet-2) for regulated transgene expression in Mo7e cells, a model for HSC, and primary human CD34+ cells.
+Results
+
+HD-Ad5/35.Tet-1 conferred lower background expression than HD-Ad5/35.Tet-2, although levels of induced gene expression were higher for HD-Ad5/35.Tet-2. In CD34+ cells, while HD-Ad5/35.Tet-1 allowed for activated gene expression in all transduced cells, induced gene expression from HD-Ad5/35.Tet-2 was restricted to a small subset of CD34+ cells. Importantly, clonogeneic assays and repopulation studies in nonobese diabetic/severe combined immunodeficient mice showed that both HD-Ad5/35.Tet-1 and -2 vectors mediated induced gene expression in primitive hematopoietic cells. These studies also confirmed that transduction of CD34+ cells with HD-Ad5/35 vectors is not associated with cytotoxicity, a problem observed with first-generation Ad5/35 vectors.
+Conclusions
+
+Both HD-Ad5/35 vector expression systems confer tightly regulated, transient transgene expression in human HSC.

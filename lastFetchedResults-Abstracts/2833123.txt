@@ -1,0 +1,1 @@
+We demonstrate an FDMA network with up to eight 300 MBd 16QAM subcarriers offering bidirectional 9.6 Gbit/s within a single 12.5 GHz channel. OLT and ONU operate at only 3.2 GSa/s and 400 MSa/s, respectively. Real-time signal processing is realized for downstream transmission.

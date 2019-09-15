@@ -1,0 +1,11 @@
+Objective
+The effects of transcranial magnetic stimulation (TMS) on vagus nerve stimulation (VNS) are unknown. Understanding these effects is important before exposing individuals with an implanted VNS to TMS, as could occur in epilepsy or depression TMS research. To explore this issue, the TMS-induced current in VNS leads and whether TMS has an effect on the VNS pulse generator was assessed.
+Methods
+Ex vivo measurement of current in VNS leads during single-pulse TMS and pulse generator function before, during, and after single-pulse TMS was assessed.
+Results
+At the highest intensity and with the TMS coil held  5 mm from the VNS wires, a 200 nA, 1.0 ms current was induced by TMS. This translates to an induced charge density of 3.3 nC/cm2/phase. The function of the pulse generator was unaffected by single-pulse TMS, even when its case was directly stimulated by the coil.
+Conclusions
+TMS-induced current in VNS electrodes was not only well outside of the range known to be injurious to peripheral nerve, but also below the activation threshold of nerve fibers.
+Significance
+Using single-pulse TMS in individuals with VNS should not result in nerve stimulation or damage. Furthermore, single-pulse TMS does not affect the VNS pulse generator's function
+

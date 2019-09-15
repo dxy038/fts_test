@@ -1,0 +1,11 @@
+Objective
+The purpose of this study was to identify a clinical guideline for the evaluation of nonspecific abdominal pain (NSAP) using history, physical examination, laboratory analysis, acute abdominal series (AAS) radiographs, and nonenhanced helical computed tomography (NHCT) clinical predictor variables (CPVs).
+Setting
+The setting of this study was at an urban emergency department (ED) with 70 000 yearly visits.
+Methods
+This is an institutional review board–approved, prospective, observational study. The primary outcome variable was urgent intervention (UI), defined as a diagnosis requiring surgical or medical treatment to prevent death or major morbidity. Subjects underwent prompted history, physical, laboratory studies, AAS, and NHCT and were followed up to 6 months for ultimate diagnosis and outcome. CPVs were subjected to classification and regression tree analysis.
+Results
+One hundred sixty-five subjects were analyzed. Thirteen percent of subjects required UI within 24 hours of presentation; an additional 34% underwent elective interventions that mitigated morbidity or mortality. Four guideline models were generated. Model 1 consisted of history and physical, with a sensitivity of 25%, a specificity of 92%, a positive likelihood ratio of 3.17, and a negative likelihood ratio of 0.81. Model 2 consisted of model 1 with laboratory, with a sensitivity of 39%, a specificity of 88%, a positive likelihood ratio of 3.25, and a negative likelihood ratio of 0.69. Model 3 consisted of model 2 with AAS, with a sensitivity of 56%, a specificity of 81%, a positive likelihood ratio of 2.94, and a negative likelihood ratio of 0.54. Model 4 comprised all inputs, including NHCT, with a sensitivity of 92%, a specificity of 90%, a positive likelihood ratio of 9.2, and a negative likelihood ratio of 0.089. NHCT was the single most accurate CPV for UI.
+Conclusions
+No clinical guideline was identified exclusive of NHCT that possessed adequate sensitivity for exclusion of UI. NHCT is a rational choice for decision support in the evaluation of NSAP and is likely the single most useful diagnostic adjunct available to augment the clinical evaluation.
+

@@ -1,0 +1,11 @@
+In this research, we propose a fuzzy gain scheduler (FGS) with an intelligent
+learning algorithm for a reactor control. In the proposed algorithm, the gradient
+descent method used in order to generate the rule bases of a fuzzy algorithm by learning.
+These rule bases are obtained by minimizing an objective function, which is called
+a performance cost function. The objective of the FGS with an intelligent learning
+algorithm is to generate adequate gains, which minimize the error of system. The
+proposed algorithm can reduce the time and efforts required for obtaining the fuzzy
+rules through the intelligent learning function. It is applied to reactor control of
+nuclear power plant (NPP), and the results are compared with those of a conventional
+PI controller with fixed gains. As a result, it is shown that the proposed algorithm is
+superior to the conventional PI controIler

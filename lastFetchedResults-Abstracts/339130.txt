@@ -1,0 +1,11 @@
+Objective
+The aim of this study is to investigate the signaling pathways and their roles in the differentiation of immature monocyte-derived dendritic cells (MoDCs).
+Methods
+
+MoDCs were generated from peripheral blood monocytes (PBMCs) using the standard protocols. Various kinase inhibitors, including SB203580, PD98059, and LY294002 and Wortmannin, or p38 activator were added at the beginning of the cultures. After 7 days of culture, immature MoDCs were harvested and analyzed for their surface expression of relevant molecules and the fraction of apoptotic cells by flow cytometry. Western blots were used to analyze mitogen-activated protein kinase (MAPK), NF-κB, Raf, mitogen-induced extracellular kinase (MEK), and AKT expression by cultured cells. NF-κB was also analyzed by electrophoretic mobility shift assay. Allogeneic MLR was used to examine the capacity of MoDCs to activate allogeneic T cells.
+Results
+
+The present study shows that the differentiation of immature MoDCs was accompanied by phosphorylation of AKT, Raf, MEK, extracellular signal-related kinase (ERK), and NF-κB activity. Inhibiting PI3K or MEK retarded the differentiation of immature MoDCs and induced apoptosis in 10 to 30% of the cultured cells, while inhibiting both PI3K and MEK resulted in apoptosis in 70% of the cells. Surprisingly, inhibiting p38 enhanced the phosphorylation of ERK and NF-κB activity and led to an enhanced upregulation, compared with control cells, of expression of dendritic cell (DC)-related adhesion and costimulatory molecules and antigen presentation capacity.
+Conclusions
+
+Our results indicate that the Raf/MEK/ERK and PI3K/AKT signaling pathways play critical roles in the differentiation and survival of immature MoDCs. Moreover, this study also demonstrates that activated p38 is detrimental to the differentiation of immature MoDCs.

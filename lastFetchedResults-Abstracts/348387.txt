@@ -1,0 +1,11 @@
+Objective
+The growing clinical acceptance of neurostimulation technology has highlighted the need to accurately predict neural activation as a function of stimulation parameters and electrode design. In this study we evaluate the effects of the tissue and electrode capacitance on the volume of tissue activated (VTA) during deep brain stimulation (DBS).
+Methods
+We use a Fourier finite element method (Fourier FEM) to calculate the potential distribution in the tissue medium as a function of time and space simultaneously for a range of stimulus waveforms. The extracellular voltages are then applied to detailed multi-compartment cable models of myelinated axons to determine neural activation. Neural activation volumes are calculated as a function of the stimulation parameters and magnitude of the capacitive components of the electrode-tissue interface.
+Results
+Inclusion of either electrode or tissue capacitance reduces the VTA compared to electrostatic simulations in a manner dependent on the capacitance magnitude and the stimulation parameters (amplitude and pulse width). Electrostatic simulations with typical DBS parameter settings (−3 V or −3 mA, 90 μs, 130 Hz) overestimate the VTA by  20% for voltage- or current-controlled stimulation. In addition, strength–duration time constants decrease and more closely match clinical measurements when explicitly accounting for the effects of voltage-controlled stimulation.
+Conclusions
+Attempts to quantify the VTA from clinical neurostimulation devices should account for the effects of electrode and tissue capacitance.
+Significance
+DBS has rapidly emerged as an effective treatment for movement disorders; however, little is known about the VTA during therapeutic stimulation. In addition, the influence of tissue and electrode capacitance has been largely ignored in previous models of neural stimulation. The results and methodology of this study provide the foundation for the quantitative analysis of the VTA during clinical neurostimulation.
+

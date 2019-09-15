@@ -1,0 +1,8 @@
+AbstractObjective
+ry artery stents are made from metallic mesh and, therefore, to ensure patient safety, these implants must be evaluated to determine risks associated with MRI. Recently, bioabsorbable scaffolds, which have metallic markers, have been developed for use in the coronary arteries. Because of the metallic materials, these implants may present issues for patients undergoing MRI. Therefore, the objective of this investigation was to assess MRI issues (i.e., magnetic field interactions, MRI-related heating, and artifacts at 3 T) for a new bioabsorbable, coronary artery scaffold with metallic markers.
+s
+bsorbable, coronary artery scaffold (Mirage Microfiber Scaffold) underwent assessments for magnetic field interactions, MRI-related heating, and artifacts at 3-Tesla using standard techniques. MRI-related heating was evaluated with the scaffold placed in a gelled-saline-filled phantom and MRI was performed at an MR system reported, whole body averaged SAR of 2.9 W/kg for 15 minutes. Artifacts were characterized using T1-weighted spin echo and gradient echo, pulse sequences.
+s
+were no magnetic field interactions. The highest temperature rise was 1.6 °C (highest background temperature rise, 1.6 °C). Artifacts were relatively small in relation to the size and shape of this coronary artery scaffold. Notably, the lumen of the scaffold could be visualized on the GRE pulse sequence.
+sion
+sults demonstrated that the coronary artery scaffold is acceptable (or “MR conditional,” using current MRI labeling terminology) for a patient undergoing an MRI procedure at 3 T or less. To our knowledge, this is the first bioabsorbable, coronary artery scaffold that has been evaluated for MRI issues.

@@ -1,0 +1,11 @@
+The main objective of this study is to develop and test hybrid ventilation systems and control strategies that are suitable for residential
+buildings. Two ventilation systems were modelled: a mechanical extract ventilation system (called the reference system) and a hybrid low
+pressure ventilation system that can support two different types of demand control strategies (occupancy detection and CO2 concentration).
+The newly developed models were assembled with the existing thermal models of the SIMBAD Building and HVAC Toolbox
+developed by the CSTB.
+A single family house located in Athens (Greece), Nice (France), Trappes (France) and finally Stockholm (Sweden) was considered as
+the case study. Yearly simulations were performed to assess the performance of the hybrid ventilation control strategies. The assessment
+criteria used are related to indoor air quality, thermal comfort, energy consumption and stability of control strategies. The results show
+that the low pressure ventilation system can improve the indoor air quality and reduce the fan energy consumption compared to the
+reference system while maintaining the same building energy consumption for heating.
+  2006 Elsevier Ltd. All rights reserved.

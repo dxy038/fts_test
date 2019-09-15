@@ -1,0 +1,12 @@
+Objective.
+This study provides a multivariate analysis of the availability of food store outlets in the US and associations with neighborhood characteristics on race, ethnicity and socioeconomic status (SES).
+Method.
+
+Commercial food store outlet data are linked across 28,050 zip codes to Census 2000 data. Multivariate regression analyses are used to examine associations between the availability of chain supermarkets, non-chain supermarkets, grocery stores and convenience stores and neighborhood characteristics on race, ethnicity and SES including additional controls for population size, urbanization and region.
+Results.
+
+Low-income neighborhoods have fewer chain supermarkets with only 75% (p < 0.01) of that available in middle-income neighborhoods. Even after controlling for income and other covariates, the availability of chain supermarkets in African American neighborhoods is only 52% (p < 0.01) of that in White neighborhoods with even less relative availability in urban areas. Hispanic neighborhoods have only 32% (p < 0.01) as many chain supermarkets compared to non-Hispanic neighborhoods. Non-chain supermarkets and grocery stores are more prevalent in low-income and minority neighborhoods.
+Conclusion.
+
+The study results highlight the importance of various potential public policy measures for improving access to supermarkets that may serve to reduce systematic local area barriers that are shown to exist by race, ethnicity and income.
+

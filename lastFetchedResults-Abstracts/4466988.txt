@@ -1,0 +1,1 @@
+The 2011 CUMCM questions D Natural Casing Bundling Problem is a multi-objective programming problem. The difficulty is time complexity of algorithm within 30 minutes. Double goal programming model is established and put forward an effective algorithm, which can be controlled in time. Prepare the solving program with LINGO and MATLAB, and obtain the optimum solution.

@@ -1,0 +1,8 @@
+Objective
+m of this investigation was to determine reaction enthalpy, ion viscosity and curing light transmission changes of unfilled methacrylate-based systems in order to compare methods that monitor photoactive resin polymerization.
+s
+nitiator (0.2%, w/v, camphoroquinone), accelerator (0.3%, w/v, amine) and inhibitor (ranging from 0 to 1%, w/v, butylated hydroxytoluene, BHT) were incorporated in an experimental BisGMA/TEGDMA co-monomer mixture (50/50, w/v). The concentration of BHT was varied from 0.00, 0.01, 0.05, 0.10, 0.50 to 1.00% (w/v). Light transmission (LT), reaction enthalpy (UV-differential scanning calorimetry, DSC), and ion viscosity (dielectrical analysis, DEA) were determined during irradiation of the resins (40 s; halogen light curing-unit). Statistical analysis was performed using two-way ANOVA followed by post hoc tests (α = 0.05). Curve fitting and regression calculation were done.
+s
+was no significant change in the time to reach the maximum rate of polymerization (reaction time) in the individual systems up to a BHT concentration of 0.05% (P &gt; 0.05). Starting at a concentration of 0.10% BHT an increase in time of reaction could be found from 4.0 s (LT), 4.07 s (DEA) and 4.9 s (DSC) to a maximum of 7.4 s (DSC), 9.43 s (DEA) and 9.67 s (LT). Linear increase (y = 5.588 × x) in time to the maximum speed of reaction could be found with a correlation of R2 = 0.992.
+sions
+eed of polymerization reaction is strongly influenced by BHT concentration. The linear relationship should allow for the prediction of the speed of reaction during blending of a methacrylate-based resin. The three test systems allow for monitoring the complex polymerization kinetics of unfilled methacrylate-based systems.

@@ -1,0 +1,11 @@
+Objectives
+The objective of this study was to determine the fluorescent emission of experimental resin composites after addition of a fluorescent whitening agent in varied concentrations. The effects of thermocycling and composition of resin matrix on the fluorescent emission were also determined.
+Methods
+
+An experimental light curing resin matrix was made by mixing Bis-GMA, UDMA and TEGDMA in the ratio of 1:1:1 by weight, and silane coated glass filler was added in the ratio of 50 wt.% of resin composite. A fluorescent whitening agent [FWA, 1,4-double-(benzoxazole-group-2-group)naphthalene] was added with the concentration of 0.01–0.1%. To determine the difference by the resin matrix, two resin composites (60 wt.% Bis-GMA or UDMA with 40 wt.% TEGDMA) with the same filler content were made, and the FWA was added. Five specimens of 2 mm in thickness were made for each group. Spectral reflectance was measured relative to the illuminant D65 on a reflection spectrophotometer. From the spectral reflectance values, the difference in reflectance (fluorescence spectra) by the inclusion or exclusion of UV component was calculated. After the baseline measurement, thermocycling was performed for 500 and 1000 cycles, and the fluorescent emission was measured again.
+Results
+
+The concentration of FWA influenced the fluorescent peak heights and areas (p < 0.05), but thermocycling up to 1000 cycles did not influence the values. Fluorescence peak wavelength was not changed by the resin matrix, but peak height and area were influenced by the resin matrix (p < 0.05).
+Significance
+
+FWA added with the concentrations of 0.01 and 0.05% emitted fluorescence, which was higher than those from commercial resin composites.

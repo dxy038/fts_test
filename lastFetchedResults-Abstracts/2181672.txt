@@ -1,0 +1,12 @@
+Today, transportation of hazardous materials (i.e., hazmat) is a very important issue for researchers
+due to the risk of this transit, which should be considered for development of industries and transportation.
+Therefore, a model that is useful should consider the risk and damage to humanitarian
+and environmental issues due to transit of hazmat materials. By considering the related cost, the
+reality and applicability of the model are also very important. In this paper, a bi-objective model is
+presented for routing rail-truck intermodal terminals with the cost and risk as objective functions
+by considering three sets of the effective factors that lead to hazardous materials transportation accidents
+in favor of sustainability. Additionally, a fuzziness concept is considered in the presented
+model. The model is first validated by the prevalent software using the authoritative solver to solve
+a numerical example. Furthermore, to help managers, an efficient fuzzy approach proposed in the
+literature is used. Finally, it is concluded that in this work a reality and sustainable model is suitable
+for hazmat transportation.

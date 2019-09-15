@@ -1,0 +1,11 @@
+Objective
+The identification of the pathways involved in seizure propagation remains poorly understood in humans. For instance, the respective role of the orbitofrontal cortex (OFC) and of the commissural pathways in the interhemispheric propagation of mesial temporal lobe seizures (mTLS) is a matter of debate. In order to address this issue, we have directly tested the functional connectivity between the hippocampus and the OFC in 3 epileptic patients undergoing an intra-cranial stereotactic EEG investigation.
+Methods
+Bipolar electrical stimulations, consisting of two series of 25 pulses of 1 ms duration, 0.2 Hz frequency, and 3 mA intensity, were delivered in the hippocampus. Evoked potentials (EPs) were analysed for each series, separately. Grand average of reproducible EPs was then used to calculate latency of the first peak of each individual potential.
+Results
+Hippocampal stimulations evoked reproducible responses in the OFC in all 3 patients, with a mean latency of the first peak of 222 ms (range: 185–258 ms).
+Conclusions
+Our data confirm a functionnal connectivity between the hippocampus and the OFC in human.
+Significance
+This connectivity supports the potential role of the OFC in the propagation of mTLS.
+

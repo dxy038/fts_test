@@ -1,0 +1,17 @@
+This paper derives a non linear optimal inventory policy involving instant
+deterioration of perishable items with allowing price discounts. This
+paper postulates that the inventory policy of perishable items very much
+resembles that of price discounts. Such a parallel policy suggests that
+improvements to production systems may be achievable by applying
+price discounts to increase demand rate of the perishable items. This
+paper shows how discounted approach reduces to perfect results, and
+how the post deteriorated discounted EOQ model is a generalization of
+optimization. The objective of this paper is to determine the optimal price
+discount, the cycle length and the replenishment quantity so that the net
+profit is maximized. The numerical analyses show that an appropriate
+discounted pricing policy can benefit the retailer and that discounted
+pricing policy is important, especially for deteriorating items.
+Furthermore the instant post deteriorated price discount crisp economic
+order quantity (CEOQ) model is shown to be superior in terms of profit
+maximization. The sensitivity   analysis of parameters on the optimal
+solution is carried out.

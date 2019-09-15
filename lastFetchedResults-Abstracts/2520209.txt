@@ -1,0 +1,17 @@
+Background: EBT and EBT3 radioChromic flms have been used in radiotherapy
+dosimetry for years.
+Objective: The aim of the current study is to compare EBT and EBT3 radioChromic flms in dosimetry of radiotherapy felds for treatment of parotid cancer.
+Methods: Calibrations of EBT and EBT3 flms were performed with identical setups using a 6 MV photon beam of a Siemens Primus linac. Skin dose was measured at
+different points in the right anterior oblique (RAO) and right posterior oblique (RPO)
+felds by EBT and EBT3 flms on a RANDO phantom.
+Results: While dosimetry was performed with the same conditions for the two
+flm types for calibration and in phantom in parotid cancer radiotherapy, the measured
+net optical density (NOD) in EBT flm was found to be higher than that from EBT3
+flm. The minimum difference between these two flms under calibration conditions
+was about 2.9% (for 0.2 Gy) with a maximum difference of 35.5% (for 0.5 Gy). In
+the therapeutic felds of parotid cancer radiotherapy at different points, the measured
+dose from EBT flm was higher than the EBT3 flm. In these felds the minimum and
+maximum measured dose differences were 16.0% and 25.5%, respectively.
+Conclusion: EBT flm demonstrates higher NOD than EBT3 flm. This effect may
+be related to the higher sensitivity of EBT flm over EBT3 flm. However, the obtained
+dose differences between these two flms in low dose range can be due to the differences in ftting functions applied following the calibration process.

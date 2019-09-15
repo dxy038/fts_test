@@ -1,0 +1,11 @@
+Objective
+CD4+CD25+ regulatory T lymphocytes (Treg) have been initially shown to prevent organ-specific autoimmunity. It is now accepted that Treg homeostasis depends in part on the peripheral conversion of naïve CD4+CD25– T cells. This conversion implicates acquisition of the Treg-specific markers, forkhead winged helix protein 3 (Foxp3), after CD28 costimulation. Because natural killer cells (NK) are critical for efficient cytotoxic T-cell priming and TH1 polarization, we investigated their role in Foxp3 induction in CD4+ T lymphocytes.
+Materials and Methods
+
+Human CD4+CD25– T lymphocytes were activated in vitro by CD28 costimulation in the presence of interleukin-2–activated NK. Three days after initial activation, Foxp3 protein and RNA expression were determined by flow cytometry and reverse transcription polymerase chain reaction. In vivo influence of activated NK on Foxp3 expression was studied in an adoptive transfer model of CD45.2+ CD4+CD25– lymphocytes into CD45.1+ mice.
+Results
+
+Interleukin-2–activated NK decreased Treg conversion of adoptively transferred murine CD4+CD25– T cells in vivo. Likewise, human-activated NK, but not resting NK, decreased CD28-driven Foxp3 expression in CD4+CD25– T lymphocytes, while at the same time increasing proliferation and interferon-γ (IFN-γ) production. Neutralization of IFN-γ partially restored Treg conversion and prevented TH1 polarization after CD28 costimulation.
+Conclusion
+
+The current study suggests that activated NK interfere with CD28-mediated Foxp3 expression in CD4+CD25– T lymphocytes. Our experiments further underline a molecular interaction between IFN-γ and Foxp3 downstream of CD28 signaling. Together, these results demonstrate that activated NK play a critical role at the initiation step of immune responses by modulating peripheral Treg differentiation.

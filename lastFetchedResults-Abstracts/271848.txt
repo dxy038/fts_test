@@ -1,0 +1,12 @@
+The objective of this paper is an analytical and numerical study of the transient vibrations of a taut inclined cable
+with a riding accelerating mass that is suspended in space. The moving mass is accelerated by a thrust down the
+inclined cable and is able to be aerodynamically brought to a halt. The thrust is a follow force that is tangential to
+the deformed con®guration of the cable.
+The cable is suspended from two points of dierent elevation. The higher point of the cable is anchored to the
+ground, and the lower point of the cable is controlled so that its tension at that point is held at a constant level.
+Hence, the length of the cable is not ®xed and is a parameter to be determined during any run. The restriction in
+which an inextensible cannot vibrate in the limit of vanishing sag then is removed.
+The mechanics of the problem is Newtonian. Methods of analysis will consist of the dynamics of small
+deformations superimposed on the static catenary state. The problem is nonlinear due to the presence of friction
+and the convective acceleration interaction of the moving mass and the cable. Galerkin's procedure for removal of
+spatial dependence and numerical integration are used to obtain convergent solutions.

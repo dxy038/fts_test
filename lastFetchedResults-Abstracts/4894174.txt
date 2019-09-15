@@ -1,0 +1,1 @@
+Summary from only given. We propose a new bidirectional amplification method sharing optical amplifiers and dispersion compensated fibre for the traffic in two directions. Based on our scheme, we demonstrate bidirectional 640 Gb/s transmission over 160 km of single mode fibre and compare with unidirectional transmission in the same node condition.

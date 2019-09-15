@@ -1,0 +1,11 @@
+The paper presents a three-phase AC/DC converter to achieve power-factor correction,
+harmonics elimination, DC-bus-voltage regulation and neutral-point-voltage compensation. The
+proposed converter can achieve bidirectional power-flow capability. Therefore the converter can be
+applied for active power-filter operation. Two legs are adopted in the proposed converter to achieve
+three-level pulse-width modulation (PWM) and control the line currents to be sinusoidal waves in
+phase with supply voltages. Three control loops, DC-link-voltage control, neutral-point-voltage
+compensation and line current control, were used in the control scheme to achieve DC-bus-voltage
+regulation, to balance neutral-point voltage and to draw the sinusoidal line currents. The
+mathematical model of the converter was derived and the control scheme is provided. The
+effectiveness of the proposed control scheme is verified through computer simulation and
+experiments.

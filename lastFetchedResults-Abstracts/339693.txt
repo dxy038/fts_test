@@ -1,0 +1,11 @@
+Objective
+Several requirements need to be fulfilled for clinical use of expanded hematopoietic stem cells (HSCs). Because most cord blood (CB) samples are frozen in single bags and only an aliquot (not, vert, similar25%) of the blood can be expanded, the thawing and refreezing of samples must be validated in the current European and Italian Good Manufacturing Practice (eIGMP) conditions. Here, we describe in vitro and in vivo validation of the phase I/II protocol for CD34+ expansion of thawed CB units according to the current Cell Therapy Products (CTPs) Guidelines.
+Materials and Methods
+
+CB units were thawed and 25% of the total volume was processed for CD34+ selection by CliniMACS. The 75% of the unit was immediately refrozen. CD34+ cells were expanded for 3 weeks with stem cell factor, Flt-3/Flk-2 ligand, thrombopoietin, and interleukin-6.
+Results
+
+In vitro results demonstrated that this culture system induces expansion of thawed CD34+ (median value = 8.3). In vivo data demonstrated that after culture, the final CTPs maintain their repopulating ability in nonobese diabetic severe combined immunodeficient (SCID) mice. Limiting dilution assays performed by injecting decreasing doses of expanded CD34+ cells revealed that the frequency of SCID repopulating cells after ex vivo expansion is 1:8,034. Analyses for sterility, viability, cell senescence, and cytogenetic assessment demonstrated that expansion procedures in eIGMP conditions are safe for clinical protocols.
+Conclusions
+
+This offers promising new options for expansion of allogenic HSCs and also for autologous usage in transplantation and other cell therapy protocols.

@@ -1,0 +1,1 @@
+The authors present some results in computer vision applied to the guidance of an autonomous vehicle. After a brief and general description of the mobile robot´s characteristics, a matching algorithm for stereo digital images in which speed of computation is the main objective is presented. Edge-segment-based matching is also developed

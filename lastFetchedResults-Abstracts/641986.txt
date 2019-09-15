@@ -1,0 +1,9 @@
+Objective:
+Malnutrition is characterized by changes in cellular membrane integrity and alterations in fluid balance, both of which can be detected by bioelectrical impedance analysis (BIA). We investigated whether BIA-measured variables could detect malnutrition, as defined by the Subjective Global Assessment (SGA), in preoperative surgical patients.
+Methods:
+We prospectively evaluated 279 patients hospitalized for elective gastrointestinal surgery during the first 72 h after admission. BIA estimates were used to derive body cell mass, ratio of extracellular mass to body cell mass, and phase angle. Malnutrition diagnosed with these measures was compared with the SGA score. Receiver operating characteristic curves also were formulated to explore alternative cutoff points for one measure, phase angle.
+Results:
+A linear trend for means across SGA categories was found for all indicators used, except percentage of body cell mass. However, there was only fair overall agreement between SGA and BIA estimates. The receiver operating characteristic curves for phase angle suggested that the test was too sensitive or too specific. No alternative cutoff points resulted in suitable tests that could provide an alternative to SGA.
+Conclusions:
+Although not in close agreement with SGA, the results suggested that there are some alterations in tissue electrical properties with malnutrition that can be detected by BIA. New cutoff points may be needed for application of BIA as a complementary method in the nutrition assessment of surgical patients.
+

@@ -1,0 +1,9 @@
+Objective
+Navigation systems enable neurosurgeons to guide operations with imaging data. Sensor-based neuronavigation uses an electromagnetic field and sensors to measure the positions of the patient's brain anatomy and the surgical instruments. The aim of this investigation was to determine the accuracy level of sensor-based tracking in a large patient collection.
+Methods
+This study covers 250 patients operated upon during a continuous 5.5-year period. The patients had a wide range of indications and surgical procedures. The operations were performed with a direct current (DC) pulsed sensor-based electromagnetic navigation system. Four kinds of errors were measured: the fiducial registration error (FRE), the target registration error (TRE), brain shift, and the position error (PE). These errors were calculated for five subgroups of indications: target determination and trajectory guidance, functional navigation, skull base and neurocranium, determination of resection volume, and transnasal and transsphenoidal access.
+Results
+The overall mean FRE was 1.66 mm (±0.61 mm). The overall mean TREs were 1.33 mm (±0.51 mm) centroid and 1.59 mm (±0.57 mm) lesional. The overall mean brain shift for applicable cases was 1.61 mm (±1.14 mm). The overall mean PE was 0.92 mm (±0.54 mm).
+Conclusions
+By and large, modern sensor-based neuronavigation operates within an acceptable and commonplace degree of error. However, the neurosurgeon must remain critical in cases of small lesions, and must exert caution not to introduce further interference from metal objects or electromagnetic devices.
+

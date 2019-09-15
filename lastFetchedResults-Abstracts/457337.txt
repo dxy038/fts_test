@@ -1,0 +1,11 @@
+Background
+Although metabolic syndrome affects vascular function, the impact of individual impairments and their clustering is unclear.
+Objective
+To assess the vascular impact of metabolic impairments before they reach treatment thresholds in different ethnic groups.
+Methods
+Metabolic variables, inflammatory markers, endothelium dependent vasodilatation (EDV) and carotid intima media thickness (CIMT) were measured in population samples of 82 Caucasians and 78 matched Afro-Caribbeans with no vascular disease. Insulin resistance was assessed using homeostasis model assessment (HOMA-IR). EDV was measured as the change in the height of the inflection point of the digital volume pulse following intravenous infusion of 5 mcg/min of albuterol (ΔRIALB). Regression models were used to investigate the independent effects of metabolic impairment clusters and their interaction with ethnicity on EDV and CIMT.
+Results
+HOMA-IR (2.4–3.8, p < 0.0001), IL-6 levels (1.1–2.8 pg/mL, p = 0.02) and CIMT (0.71–0.83 mm, p = 0.009) increased whereas in ΔRIBASELINE (77.6–72.9 percentage points, p < 0.0001) and ΔRIALB (15.5–7.1 percentage points, p < 0.0001) decreased with the number of metabolic impairments present. ΔRIALB decreased by 1.6 (95% CI 0.2–3.7) percentage points and CIMT increased by 0.06 (95% CI 0.02–0.10) mm for each metabolic impairment present after adjusting for age, gender, ethnicity and HOMA-IR. There were significant interactions between Afro-Caribbean ethnicity and metabolic impairments for IL-6 (p = 0.037) and ΔRIALB (p = 0.002).
+Conclusions
+Clustering of metabolic impairments is associated with inflammatory activation, impaired EDV and increased CIMT even before reaching treatment thresholds for individual impairments. This effect was more marked in Afro-Caribbean subjects.
+

@@ -1,0 +1,9 @@
+Study objective
+We determine the rate of serious arrhythmias in a cohort of monitored emergency department (ED) chest pain patients and derive a clinical decision rule that can identify which patients can safely be taken off continuous cardiac monitoring at initial physician assessment.
+Methods
+A secondary analysis of a prospectively collected cohort was completed in a university-affiliated tertiary care center. Consecutive patients with a primary complaint of chest pain who underwent cardiac monitoring in the ED in January to April 2000 were included. Serious arrhythmias were defined as those requiring treatment in the ED. Multivariate recursive partitioning analysis was undertaken to derive a decision rule.
+Results
+Nine hundred ninety-two consecutive chest pain patients were monitored in the ED during the study period, of whom 14% and 12% had myocardial infarction and unstable angina, respectively. There were 17 patients (1.7%) with serious arrhythmias detected in the ED. The following decision rule was derived: patients can be removed from cardiac monitoring if they are pain free at the initial physician assessment and have a normal or nonspecific ECG result. The rule had 100% sensitivity (95% confidence interval 80% to 100%) for serious arrhythmias. Applying this rule would have allowed physicians to immediately remove 29% of patients from cardiac monitoring.
+Conclusion
+Serious arrhythmias are uncommon in monitored ED chest pain patients. A simple clinical decision rule could be used to safely identify low-risk patients who can be removed from continuous monitoring if its performance is prospectively validated in an independent patient population.
+

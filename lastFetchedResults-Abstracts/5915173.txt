@@ -1,0 +1,1 @@
+In this work we formulate a mixed integer linear programming (MILP) problem for designing linear-phase FIR filters with low arithmetic complexity. By incorporating subexpression sharing in the problem formulation, the number of adders will be lower compared with previous approaches, where minimizing the number of non-zero bits of the coefficients has been the objective.

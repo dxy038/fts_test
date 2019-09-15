@@ -1,0 +1,11 @@
+Objective
+Human telomerase reverse transcriptase (hTERT) is the catalytic subunit of telomerase. In B-cell chronic lymphocytic leukemia (B-CLL), telomerase activity is increased in about 75% of patients. The aim of this study was to analyze whether B-CLL patients with telomerase-positive leukemic cells had naturally occurring, telomerase-specific T cells that might be utilized for immune-mediated lysis of autologous tumor cells.
+Methods
+
+Spontaneous T-cell immunity and cytotoxicity against hTERT was explored in B-CLL. Nineteen of 25 B-CLL patients (76%) expressed hTERT (reverse transcriptase polymerase chain reaction) and 10 were selected for specific T-cell analysis against hTERT.
+Results
+
+The stimulation index (SI) of T cells from seven telomerase-positive patients stimulated with a 16aa hTERT peptide (611–626) loaded onto dendritic cells (DC) was 33.9 ± 15.4 (mean SI ± standard error of mean) and 13.2 ± 5.6 against a Ras control peptide (p = 0.05), whereas the corresponding SI values for three telomerase-negative patients were 5.3 ± 5.3 against the hTERT 611-626 peptide and 10.3 ± 6.5 against the Ras peptide, respectively; and for three healthy controls, 5.4 ± 0.9 against the hTERT 611-626 peptide and 4.5 ± 1.0 against the Ras peptide (both not significant). Blocking experiments revealed that the specific responses were major histocompatibility complex (MHC) class I and MHC class II restricted. DC pulsed with the hTERT-peptide generated MHC class I-restricted, hTERT-specific cytotoxic T lymphocytes in six of seven telomerase-positive patients; mean cytotoxicity of hTERT-stimulated T cells was 49.8% ± 9.3% vs 13.1 ± 2.9% for Ras-stimulated T cells (p < 0.05). In three of three telomerase-negative patients, no hTERT-specific cytotoxic T lymphocytes could be expanded.
+Conclusion
+
+Telomerase-positive B-CLL patients have spontaneously occurring cytotoxic hTERT-specific T cells. This antigen might be explored as a therapeutic vaccine in B-CLL.

@@ -1,0 +1,11 @@
+Objective
+Amidox and didox are two polyhydroxy-substituted benzohydroxamic acid derivatives that belong to a new class of ribonucleotide reductase (RR) inhibitors. RR is the rate-limiting enzyme for de novo deoxyribonucleotide synthesis, and its activity is significantly increased in tumor cells in proportion to the proliferation rate. Therefore, RR is a target for antitumor therapy.
+Materials and Methods
+
+HL-60 and K562 leukemia cells were treated with increasing doses of amidox and didox. Thereafter, the mode of cytotoxic drug action was determined by Hoechst 33258/propidium iodide (HO/PI) double staining, annexin binding, DNA fragmentation, and caspase activation. This was correlated to the decrease in dNTP levels. Staining with HO/PI and binding of fluorescein isothiocyanate-conjugated annexin V to externalized phosphatidylserine were used to quantify apoptosis.
+Results
+
+Low doses of amidox or didox resulted in an increase of apoptotic HL-60 cells within 48 hours. Higher doses (50 μM amidox or 250 μM didox) led to rapid induction of apoptosis, which could be detected as early as 4 hours after treatment. After 48 hours with these concentrations, almost 100% of the HL-60 cells died by apoptosis without an increase in necrosis. K562 cells were found to be resistant to amidox but not to didox. In HL-60 cells, upstream caspase 8 is processed in response to didox, whereas caspases 8 and 9 are processed upon amidox treatment. Didox-induced apoptosis, but not amidox-induced apoptosis, can be correlated with the decrease in dNTP levels.
+Conclusions
+
+The results suggests that amidox induces several apoptosis mechanisms in HL-60 cells. In contrast, only caspase 9 is activated by didox in K562 cells, and because amidox hardly induces apoptosis in this cell line, no caspase cleavage is observed. Didox triggers distinct apoptosis pathways in HL-60 and K562 cells.

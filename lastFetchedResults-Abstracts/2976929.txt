@@ -1,0 +1,1 @@
+This paper presents a method for scaling switching system software for a given performance objective. Specifics are provided on scaling the existing switching system to a much larger system by preserving the same software architecture. We include results which have been obtained using the proposed algorithm on an actual switching system

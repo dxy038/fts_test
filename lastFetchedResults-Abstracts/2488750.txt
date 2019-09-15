@@ -1,0 +1,22 @@
+Objective: SMAD proteins are the core players of the transforming growth factor-beta
+(TGFB) signaling pathway, a pathway which is involved in cell proliferation, differentiation
+and migration. On the other hand, hsa-miRNA-590-5p (miR-590-5p) is known to have a
+negative regulatory effect on TGFB signaling pathway receptors. Since, RNAhybrid analysis
+suggested SMAD3 as a bona fide target gene for miR-590, we intended to investigate
+the effect of miR-590-5p on SMAD3 transcription.
+Materials and Methods: In this experimental study, miR-590-5p was overexpressed in
+different cell lines and its increased expression was detected through quantitative reverse
+transcription-polymerase chain reaction (RT-qPCR). Western blot analysis was then used
+to investigate the effect of miR-590-5p overexpression on SMAD3 protein level. Next,
+the direct interaction of miR-590-5p with the 3´-UTR sequence of SMAD3 transcript was
+investigated using the dual luciferase assay. Finally, flow cytometery was used to investigate
+the effect of miR-590-5p overexpression on cell cycle progression in HeLa and
+SW480 cell lines.
+Results: miR-590-5p was overexpressed in the SW480 cell line and its overexpression
+resulted in significant reduction of the SMAD3 protein level. Consistently, direct interaction
+of miR-590-5p with 3´-UTR sequence of SMAD3 was detected. Finally, miR-590-5p overexpression
+did not show a significant effect on cell cycle progression of Hela and SW480
+cell lines.
+Conclusion: Consistent with previous reports about the negative regulatory effect of
+miR-590 on TGFB receptors, our data suggest that miR-590-5p also attenuates the
+TGFB signaling pathway through down-regulation of SMAD3.

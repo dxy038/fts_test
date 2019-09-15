@@ -1,0 +1,1 @@
+This work presents a Multi-objective Genetic Algorithm for optimizing upstream and downstream Nyquist bands in coherent PON with self-heterodyne detection. Both power and frequency offset coefficients are found for symmetric Nyquist shaped 10 Gb/s per user.

@@ -1,0 +1,10 @@
+Context
+gent systems (MAS) allow complex systems to be developed in which autonomous and heterogeneous entities interact. Currently, there are a great number of methods and frameworks for developing MAS. The selection of one or another development environment is a crucial part of the development process. Therefore, the evaluation and comparison of MAS software engineering techniques is necessary in order to make the selection of the development environment easier.
+ive
+in goal of this paper is to define an evaluation framework that will help in facilitating, standardizing, and simplifying the evaluation, analysis, and comparison of MAS development environments. Moreover, the final objective of the proposed tool is to provide a repository of the most commonly used MAS software engineering methods and tools.
+
+oposed framework analyzes methods and tools through a set of criteria that are related to both system engineering dimensions and MAS features. Also, the support for developing organizational and service-oriented MAS is studied. This framework is implemented as an online application to improve its accessibility.
+s
+s paper, we present Masev, which is an evaluation framework for MAS software engineering. It allows MAS methods, techniques and environments to be analyzed and compared. A case study of the analysis of four methodologies is presented.
+sion
+concluded that Masev simplifies the evaluation and comparison task and summarizes the most important issues for developing MAS, organizational MAS, and service-oriented MAS. Therefore, it could help developers to select the most appropriate MAS method and tools for developing a specific system, and it could be used for MAS software engineering developers to detect and deficiencies in their methods and tools. Also, developers of new tools can understand this application as a way to publish their tools and demonstrate what their contributions are to the state of the art.

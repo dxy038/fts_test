@@ -1,0 +1,11 @@
+Objective
+The study was conducted to observe the spectral reflectance curves, and evaluate the color coordinates (CIELAB) of VM7® dentin ceramics (VITA, Germany) across the whole 3D-MASTER® shade system.
+Methods
+
+Three disc samples, 13 mm in diameter and 1.4 mm in thickness, were produced for each shade by firing following the manufacturer's instructions. Each fired disc was ground to a thickness of 1.0 mm and both faces were polished. Spectral reflectance data in the visible spectrum under the standard illuminant D65 were collected at 1 nm intervals by using a computer-controlled spectrophotometer. Color coordinates, L*, a*, b*, C*, h, in the three-dimensional CIELAB color space were obtained.
+Results
+
+(1) Spectral reflectance in the short-wavelength range systematically decreased with increasing chroma number (M1, M2, and M3) when compared within the same value (lightness) group (1M, 2M, 3M, 4M, and 5M). (2) Spectral reflectance decreased systematically across the whole visible spectrum with increasing value group when compared within the same chroma group. (3) A negative relationship was recognized between lightness (L*) and chromaticity index a* (red–green direction). That is, a* coordinate increases from approximately 1 for the 1M1 sample to approximately 13 for the 5M3 sample, the corresponding lightness systematically decreased from 87 to 69. (4) With increasing a* coordinate, hue angle (h) significantly decreased from 85° for the 1M1 sample to 69° for the 5M3 sample. (5) Lightness apparently increased with increasing hue angle (h) throughout the whole range of the 3D-MASTER® shade system. (6) A strong positive relationship between chroma (C*) and chromaticity index b* (yellow–blue direction) was found, demonstrating that the chroma of the present ceramic is mainly controlled by the b* coordinate.
+Significance
+
+Systematic variations in spectral reflectance and color coordinates of VM7® dentin were observed throughout the 3D-MASTER® shade system and were suggested to be caused by the fine structure of the sample which can interfere with shorter wavelengths in the visible spectrum.

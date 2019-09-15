@@ -1,0 +1,11 @@
+Objective
+The hemoglobin-deficit mouse mutant (hbd) is characterized by a hypochromic, microcytic anemia that is inherited in an autosomal, recessive manner. The recently identified gene responsible, Sec15l1, is specific to hematopoietic stem cells and is homologous to a gene encoding a member of the exocyst pathway in yeast. However, the defective cellular mechanism underlying the hemoglobin deficiency in hbd/hbd mice has not been functionally identified. Here we investigated the possibility that erroneous transferrin trafficking is responsible for the hbd phenotype.
+Materials and Methods
+
+Reticulocytes were harvested from hbd/hbd mice and from background- and age-matched controls. Iron and transferrin uptake and iron utilization experiments were performed using 59Fe- or 125I-transferrin to follow the trafficking and utilization of the protein and metal.
+Results
+
+Compared to controls, iron and transferrin uptake as well as iron incorporation into heme was compromised in hbd reticulocytes. Importantly, reduced heme synthesis in these cells was restored to normal values by using an iron source that bypasses the transferrin-receptor pathway. We also found that +/+ and hbd reticulocytes take up free, ferrous iron at identical rates, while the rates of Tf internalization and externalization were significantly decreased in the mutant cells. Finally, utilization of endosomal radioiron was likewise deficient in the hbd reticulocytes.
+Conclusion
+
+Our results indicate that heme biosynthesis, DMT1, and the mitochondrial iron handling machinery are all normal in hemoglobin-deficit mice, while transferrin cycling is deficient. Therefore, the product of Sec15l1 is directly involved in vesicular trafficking, docking, fusing, and/or cargo delivery in erythroid precursors.

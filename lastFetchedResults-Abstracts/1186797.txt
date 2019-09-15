@@ -1,0 +1,9 @@
+The quality of Finite Element Analysis (FEM) results relies on the input data, such as the material constitutive models. In order to achieve the best material parameters for the material constitutive models assumed a priori to represent the material, parameter identification inverse problems are considered. These inverse problems attempt to lead to the most accurate results with respect to physical experiments, i.e. minimizing the difference between experimental and numerical results.
+
+In this work three constitutive models were considered, namely, a non-linear elastic–plastic hardening model, a hyperelastic model -more specifically the Ogden model- and an elasto-viscoplastic model with isotropic and kinematic work-hardening.
+
+For the determination of the best suited material parameter set, two different optimization algorithms were used: (i) the Levenberg–Marquardt algorithm, which is gradient-based and (ii) a real search-space evolutionary algorithm (EA).
+
+The robustness and efficiency of classical single-stage optimization methods can be improved with new optimization strategies. Strategies such as cascade, parallel and hybrid approaches are analysed in detail. In hybrid strategies, cascade and parallel approaches are integrated. These strategies were implemented and analysed for the material parameters determination of the above referred material constitutive models.
+
+It was observed that the developed strategies lead to better values of the objective function when compared with the single-stage optimizers.

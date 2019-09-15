@@ -1,0 +1,14 @@
+The main purpose of this work is to effectively implement the "-constraint method for producing
+Pareto optimal solutions for optimizing three objective functions, simultaneously, incorporating a Rotary
+Hybrid Flow Controller (RHFC) as an energy flow controller. The RHFC is a hybrid compensator composed
+of a Rotary Phase Shifting Transformer (RPST), a multimodule Thyristor-Switched Series Capacitor (TSSC),
+a multimodule Thyristor-Switched Series Reactor (TSSR) and a Mechanically-switched Shunt Capacitor
+(MSC). In this paper, a multi-objective Optimal Power Flow (OPF) is applied to optimally locate RHFC
+to improve the power system operation. Fuzzy decision-making is utilized in terms of optimal location
+processing, according to the best compromise among the Pareto optimal solutions. The optimal location
+and OPF model are implemented in General Algebraic Modelling System (GAMS) software in order
+to optimize total fuel cost, power loss and system loadability, as objective functions, simultaneously.
+Simulations are performed on IEEE 30-bus and 118-bus test systems to determine optimal parameters
+and the location of RHFC. Furthermore, in order to highlight the ability of RHFC, the results are compared
+to a Phase Shifting Transformer (PST) and a Unified Power Flow Controller (UPFC) from economical and
+technical points of view.

@@ -1,0 +1,5 @@
+In a recent article (Bonny et al., 1994), we have established the problem formulation of optimal slop cut recycling in
+multicomponent batch distillation and solved it by a non-linear programming (NLP) procedure. In this paper, this type of
+approach is adapted to optimize the batch distillation campaign for a number of multicomponent mixtures with different
+compositions, with or without slop cut recycling. Results are presented with three objective functions and comparisons are made
+between optimal strategies with and without recycling.

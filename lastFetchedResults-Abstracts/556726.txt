@@ -1,0 +1,10 @@
+Groundwater is one of the major sources of exploitation in arid and semi-arid regions. Thus for protecting
+groundwater quality, spatial and temporal distribution of data are important. The objective of this
+research was to evaluate interpolation methods for predicting spatial distribution of some groundwater
+quality such as TDS, Na+, EC, SAR, Cl- and SO4
+-2. Data related to 65 wells in Rafsanjan plain were used
+and IDW, kriging and cokriging were studied. After normalization of data, variograme was drawn. For
+selecting suitable model for fitness on experimental variograme, less RSS value was used. By using crossvalidation
+and RMSE, the best method for interpolation was then selected. Results showed that for interpolation
+of groundwater quality, kriging and cokriging methods are superior to IDW method. At last, the
+maps of groundwater quality were prepared, using the best interpolation method in GIS environment.

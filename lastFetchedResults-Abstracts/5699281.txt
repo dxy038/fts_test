@@ -1,0 +1,1 @@
+A relaxation procedure for multiobjective optimization is derived by projecting the decision variables onto the space of implicit tradeoffs. A relaxed multiobjective master problem is solved directly in the objective space through simplified implementations of existing multiobjective methods

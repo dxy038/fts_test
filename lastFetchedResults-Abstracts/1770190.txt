@@ -1,0 +1,5 @@
+Cold rolling process is a complicated process which can be optimized by changing in variables and settings. This paper presents a set-up optimization system developed to calculate reductions and 
+inter-stand tensions for each stand of a five stand tandem cold mill. The main objective in this optimization is minimization of power consumption. First, by using the analytical method, the equations of roll force and roll torque have been determined. The Genetic algorithm has been used to find out the optimum reduction setting and inter-stand tension which minimized the power consumption in five roll stands. The results have been compared with experimental data. Finally, the influence of effective parameters such as lubricants and strength of plates is studied. The results have been shown a similar pattern in reduction setting.
+
+
+

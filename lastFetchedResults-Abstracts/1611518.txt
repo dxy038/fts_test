@@ -1,0 +1,10 @@
+AbstractObjectives
+aper aims to present a parametric study to compare with the experimental results obtained previously for a typical activated carbon–methanol, adsorption air-conditioning system powered by exhaust heat. The main objective is to study the effect of wall thickness on the desorption temperature and the cooling performance.
+s
+rrent study is a simulation/parametric investigation employing computational fluid dynamics (CFD) simulation technique.
+s
+found that the CFD result is close to the experimental works. In this CFD investigation, an input exhaust gas of 200 °C would have bed temperature around 120 °C while employing 20 mm thick of wall made by stainless steel. The adsorber took around 10 min to heat up and decrease to room temperature around the same period. This set of data produce a cooling power of 0.65 kW and COP around 0.25 with cycle time of 1200 s.
+sion
+concluded that higher input temperature would have relatively longer cycle time but it is able to produce higher cooling power in return. While in design, it proves that an optimal wall thickness should be 15–20 mm of stainless steel that offer lower heat transfer rate to maintain the system under functional Tdes at all time.
+ce implications
+aper proves that adsorption air-conditioning system is technically applicable; however wall thickness of the adsorber should be considered seriously as one of the important parameters for suitable heat transfer and improved adsorption–desorption rate of the system.

@@ -1,0 +1,7 @@
+Abstract
+Background and objective: Campylobacter is one of the most common causes of diarrheal in human. Hence, specific and rapid detection of Campylobacter jejuni have many importances in disease diagnosis and treatment. In this study, finding of specific locus for specific detection of Campylobacter jejuni was surveyed.
+Materials and methods: In this study, multiple sequence alignment was used to finding a Campylobacter jejuni specific locus, and then primer designing was done by Primer3 software. DNA extraction was done by modified STET method and polymerase chain reaction was carried out as usual. 
+Results: The results of multiple sequence alignment were showed a specific and conserve locus in genome of campylobacter jejuni. By designing a primer using this locus, a specific amplicon was observed in the PCR.
+Conclusion: Whereas virulence and hippurate genes are not specific to campylobacter jejuni, using specific locus of campylobacter jejuni is reliable for absolutely diagnosis of this species. 
+ 
+

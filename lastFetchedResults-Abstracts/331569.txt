@@ -1,0 +1,11 @@
+Objectives
+The objective of this study was to determine the differences in the translucency parameter (TP) of all-ceramic core, veneer and layered specimens relative to the CIE standard illuminant D65, A and F2.
+Methods
+
+The A2-corresponding shade of seven all-ceramic core materials and one sintering ceramic as a reference were prepared in clinically relevant thicknesses (n = 7). The A2- and A3-corresponding shades of each recommended veneer ceramics were fabricated so that the thickness of the layered specimen was 1.5 mm. The color of core, veneer and layered specimens was measured over white and black backgrounds relative to the illuminant D65, A and F2 with a reflection spectrophotometer. TP value was obtained by calculating the color difference between the specimen over the white and that over the black background. Differences of TP values by the illuminant (ΔTP) were analyzed with three-way analysis of variance (ANOVA), with the fixed factors of the type of ceramic, the brand/thickness of ceramic within each type and the combination of illuminants (α = 0.05).
+Results
+
+ΔTP values were influenced by three factors based on three-way ANOVA. Higher translucent materials showed higher difference in TP value by the illuminants. TP(D65) was lower than TP(F2) and TP(A) values. Correlation coefficients between TP values relative to the different illuminants were higher than 0.994 (p < 0.01).
+Significance
+
+Translucency of all-ceramic materials under daylight condition was lower than those under incandescent or fluorescent lamps. Therefore, this difference should be considered when shade matching translucent shades of all-ceramics.

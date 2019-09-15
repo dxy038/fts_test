@@ -1,0 +1,14 @@
+Background
+The diagnosis of angina is challenging because it relies on symptom descriptions. Natural language processing (NLP) of the electronic medical record (EMR) can provide access to such information contained in free text that may not be fully captured by conventional diagnostic coding.
+Objective
+
+To test the hypothesis that NLP of the EMR improves angina pectoris ascertainment over diagnostic codes.
+Methods
+
+Billing records of inpatients and outpatients were searched for International Classification of Diseases, Ninth Revision (ICD-9) codes for angina pectoris, chronic ischemic heart disease, and chest pain. EMR clinical reports were searched electronically for 50 specific nonnegated natural language synonyms to these ICD-9 codes. The 2 methods were compared to a standardized assessment of angina by Rose questionnaire for 3 diagnostic levels: unspecified chest pain, exertional chest pain, and Rose angina.
+Results
+
+Compared with the Rose questionnaire, the true-positive rate of EMR-NLP for unspecified chest pain was 62% (95% CI 55-67) versus 51% (95% CI 44-58) for diagnostic codes (P < .001). For exertional chest pain, the EMR-NLP true-positive rate was 71% (95% CI 61-80) versus 62% (95% CI 52-73) for diagnostic codes (P = .10). Both approaches had 88% (95% CI 65-100) true-positive rate for Rose angina. The EMR-NLP method consistently identified more patients with exertional chest pain over a 28-month follow-up.
+Conclusion
+
+EMR-NLP method improves the detection of unspecified and exertional chest pain cases compared to diagnostic codes. These findings have implications for epidemiological and clinical studies of angina pectoris.

@@ -1,0 +1,1 @@
+Currently are different commercial PCI cards that included instruments like scopes, function generator, pattern generator, and data acquisition card with digital ports. The main objective of this paper is design and built a measurement instrument basically an oscilloscope; our interest is development the hardware, firmware and the software

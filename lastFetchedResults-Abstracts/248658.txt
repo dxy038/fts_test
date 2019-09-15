@@ -1,0 +1,17 @@
+This paper describes the use of Computational Fluid Dynamics (CFD) and mathematical optimization
+techniques to minimize pollution due to industrial sources like stacks. The optimum placement of a new
+pollutant source (e.g. a new power plant with its stacks) depends on many parameters. These include stack
+height, stack distance from surrounding populated areas, barriers, local meteorological conditions, etc. As
+an experimental approach is both time-consuming and costly, use is made of numerical techniques. Using
+CFD without optimization on a trial-and-error basis, however, does not guarantee optimal solutions.
+A better approach, that until recently has been too expensive, is to combine CFD with mathematical
+optimization techniques, thereby incorporating the inßuence of the variables automatically. The current
+study investigates a simpliÞed two-dimensional case of the minimisation of pollutant stack distance to
+a street canyon with or without barrier for a given maximum ground-level concentration of pollutants in
+a street canyon. Two to Þve design variables are considered. The CFD simulation uses the STAR-CD code
+with RNG kÐe turbulence model. Making use of initial Þeld restarts drastically reduces CFD solution time.
+The optimization is carried out by means of SnymanÕs DYNAMIC-Q method, which is speciÞcally
+designed to handle constrained problems where the objective or constraint functions are expensive to
+evaluate. The paper illustrates how the parameters considered inßuence the stack placement and how
+these techniques can be used by the environmental engineer to perform impact studies of new pollutant
+sources. Copyright

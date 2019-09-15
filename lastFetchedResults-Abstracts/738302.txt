@@ -1,0 +1,11 @@
+Objective
+The Well-Integrated Screening and Evaluation for Women Across the Nation (WISEWOMAN) is a program designed for financially disadvantaged women ages 40–64 and funded by the Centers for Disease Control and Prevention (CDC). This study investigates the role that travel distance plays in determining whether these women will attend an intervention program.
+Method
+
+Women in the Iowa WISEWOMAN program were offered an optional health care education program. Distance from the woman's house to the intervention class site was calculated for participants from October 2002 through July 2005 resulting in 787 women. A generalized additive model is used in determining the combined effects of distance, demographic variables, and lifestyle variables on whether women in the study attend the intervention session or not.
+Results
+
+Distance plays an important role in attendance, although its impact depends on the age of the woman and the setting (urban or rural) of the intervention. In particular, older rural women were much more likely to attend if the intervention was close to home.
+Conclusion
+
+The probability of attendance is affected by many factors, but travel distance appears to play an important role, particularly for older rural women.

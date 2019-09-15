@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to assess the effect of maternal age on the rate of stillbirth in a large, nationwide sample of deliveries in the United States.
+Study design
+Data were derived from the Nationwide Inpatient Sample for the years 1995 through 2002. With the use of ICD-9 codes, the rate of stillbirth was determined as a function of maternal age. Multivariate regression analysis was used to assess the effect of maternal age on the odds of stillbirth, with adjustment for multiple known risk factors for stillbirth.
+Results
+There were 5,874,203 deliveries that were identified for analysis. The unadjusted rate of stillbirth was elevated for teenagers and for women aged ≥35 years. In the multivariate analysis, compared with women 20 to 34 years old, women who were ≤19 years old were more likely to have a pregnancy outcome of stillbirth (odds ratio, 1.11; 95% CI, 1.08-1.14), as were women who were 35 to 39 years old (odds ratio, 1.28; 95% CI, 1.24-1.32) and women who were ≥40 years old (odds ratio, 1.72; 95% CI, 1.63-1.81).
+Conclusion
+The extremes of maternal age are associated with an increased risk for stillbirth, even after adjustment for a large number of known predisposing conditions.
+

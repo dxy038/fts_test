@@ -1,0 +1,17 @@
+formations surrounded by two impermeable layers. These aquifers are suitable
+for seasonal thermal energy storage. The objective of this research is a parametric study
+of the pressure distribution in an aquifer to be employed for thermal energy storage for
+air-conditioning of a building complex. In design of an Aquifer Thermal Energy Storage
+(ATES), a realistic model is needed to predict the aquifer's behavior. Here, the eects of
+operating parameters on pressure distribution are investigated through a three-dimensional
+nite dierence model. In an ATES, heat transfer occurs through both convection and
+conduction. The convective heat transfer in ATES occurs because of pressure gradient.
+Therefore, knowledge of the eects of various parameters on pressure distribution is
+necessary. These parameters are: groundwater natural 
+ow, the porosity and permeability
+of the aquifer, injection and withdrawal rates from wells, the number and the arrangements
+(being linear, triangular or rectangular) of injection and withdrawal wells. It has been found
+that variation of the pressure drop inside an aquifer with increasing permeability is very
+considerable in comparison with other parameters. Moreover, a validation is performed by
+using 
+uent software to verify the accuracy of the developed method.

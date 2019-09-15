@@ -1,0 +1,9 @@
+This contribution deals with the use of spectral analysis as a means of analysing the dynamic behaviour of the axially
+symmetric multi-layered systems as a result of a transient force. The objective of this research work is to develop an
+accurate and computationally ecient forward tool suitable for solving inverse problems. The spectral element technique
+is utilized. Details of the mathematical derivation, implementation and veri®cation of newly developed axisymmetric
+and half-space spectral elements are presented. It is shown that the suitability of the spectral element method
+to such a problem encompasses in its ability to model a whole layer without the need for subdivisions. As a consequence,
+the size of the modelled structure becomes as large as the number of the layers involved. This reduces the
+computational requirements substantially and hence enables ecient utilization of the method in iterative algorithms
+for solving inverse problems

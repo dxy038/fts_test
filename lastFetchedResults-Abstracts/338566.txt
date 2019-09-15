@@ -1,0 +1,9 @@
+Objective
+Fanconi anemia (FA) is a human autosomal-recessive cancer susceptibility disorder characterized by multiple congenital abnormalities, progressive bone marrow failure, and cellular sensitivity to mitomycin C (MMC). FA has at least eight complementation groups (A, B, C, D1, D2, E, F, G), and six of the FA genes have been cloned. Several FA proteins, including FANCA, FANCC, FANCF, and FANCG, interact in a nuclear complex, and this complex is required for the activation (monoubiquitination) of the downstream FANCD2 protein. Activation of FANCD2 results in the assembly of FANCD2/BRCA1 foci. The aim of this study was to analyze the FA pathway in several FA patient-derived cell lines.
+Materials and Methods
+We generated an antibody to FANCF and analyzed FANCF expression in human lymphoblasts corresponding to all known FA subtypes. We systematically analyzed the FA pathway (FANCD2 monoubiquitination and assembly of FANCD2 nuclear foci) in patient-derived FA-F and FA-D1 cell lines.
+Results
+FANCF protein expression is normal in cells derived from all FA complementation groups except FA-F and does not vary during cell cycle progression. FANCF, but not FANCD2, is a component of the nuclear FA protein complex and appears to stabilize other subunits of the complex. FANCF is required for the monoubiquitination of the FANCD2 protein following ionizing radiation. FANCD2 is monoubiquitinated in FA-D1 cells, even though these cells are highly sensitive to MMC.
+Conclusions
+The recently cloned FANCF protein is required for FANCD2 activation, and the yet uncloned FANCD1 protein functions further downstream or independently of the FA pathway.
+

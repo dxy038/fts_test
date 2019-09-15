@@ -1,0 +1,1 @@
+In this paper, a comparative study of design schemes of power system stabilizer (PSS) based on fast output feedback sliding mode control and relay-free sliding mode control is presented. The study is carried out on a single machine infinite bus (SMIB) system. The control objective is to enhance the stability and to improve the dynamic response of the SMIB system.

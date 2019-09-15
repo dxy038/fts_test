@@ -1,0 +1,11 @@
+Objective
+To map short-latency vestibular evoked potentials (VsEPs) using air- (AC) and bone-conducted (BC) sound and to perform source analysis to determine their origin.
+Methods
+Ten normal volunteers, chosen to have low-normal thresholds for acoustic vestibular activation, participated. In the first part, the subjects’ individual thresholds for vestibular activation (VT) were established using vestibular evoked myogenic potentials (VEMPs) recorded from the sternocleidomastoid muscles. AC sound was delivered with headphones and BC sound with a commercial B71 bone vibrator. In the second part, VsEPs were recorded using Ag/AgCl scalp electrodes in a 10–20 montage supplemented by infra-ocular, mastoid and cerebellar electrodes. Stimuli were 2 ms pips, consisting of a single cycle of 500 Hz, presented at +18 dB re VT (“vestibular” condition) and −3 dB re VT (control condition).
+Results
+Following the control stimulus, auditory mid-latency responses (MLRs) were observed. In the vestibular condition, two dominant groups of non-MLR potentials of presumed vestibular origin appeared (vestibular evoked potentials, or VsEPs), which consisted of a P10–N17 complex maximal at Pz, and an N15–P21 complex maximal at Fpz. Large potentials were also recorded from the infra-ocular electrodes at similar latencies. Source analysis indicated that the two complexes were largely accounted for by a combination of ocular vestibular evoked myogenic potentials (OVEMPs) and sub-cortical sources (possibly vestibular cerebellum), with a smaller contribution from anterior cortical and other myogenic sources.
+Conclusions
+Both the N15 and P10 potentials appear to receive an ocular myogenic contribution but both appear also to receive a contribution from other central structures.
+Significance
+The P10 and N15 complexes appear to represent the activity of otolith-dependent projections.
+

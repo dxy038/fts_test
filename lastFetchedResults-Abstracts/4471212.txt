@@ -1,0 +1,1 @@
+The objective of this work is to clear up the factors defining CP bandwidth in antennas based on dual-mode resonators. The results of our simulations performed by the FDTD method provide a new understanding of the mode splitting phenomena that gives a key to control circular polarization in dual-mode antennas.

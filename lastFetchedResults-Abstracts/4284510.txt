@@ -1,0 +1,1 @@
+The main objective of this paper is to propose an algorithm capable of inserting new measured information or fuzzy rules into a rule-base which is complexity minimized by higher order singular value decomposition (HOSVD) (Yam et al, 1999; Yam 1997; Yen and Wang, 1999). A numerical example is also discussed.

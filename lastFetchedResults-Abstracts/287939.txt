@@ -1,0 +1,11 @@
+Purpose
+Potential adverse health effects associated with occupational exposure to acrylonitrile have been studied since a report of increased lung cancer incidence among DuPont fiber production workers in 1980. Six investigations have been conducted for the cohort through 2002. At each iteration, standardized mortality ratios (SMR) taking into account age and period characteristics have been reported. The objective of this study is to apply the proportionate mortality ratio (PMR) and the proportionate cancer mortality ratio (PCMR) to compare serial estimates of respiratory and all malignant cancer mortality risks in a closed cohort.
+Methods
+
+The cohort includes 2,548 male employees from two fiber production facilities operating from 1947 through 1991. Sequential mortality risks have been assessed through the years 1976, 1981, 1991, 1997, and 2002. We calculated the PMR and PCMR from estimates of the SMR for respiratory cancer, malignant cancer, and overall mortality based on two referent populations, the U.S. general population and a regional population of workers from the same company.
+Results
+
+Compared to the company reference rates, respiratory cancer, malignant cancer, and overall SMR were increased in early analyses (SMR > 1.1 for each mortality category) but decreased over time (SMR < 1.0 for each). PMR and PCMR estimates for cancer mortality were consistent (PMR = 0.98 to 1.05) indicating a non-varying mortality pattern over time. Bias in the overall SMR due to the healthy worker effect resulted in notable upward bias for PMR calculated from SMR based on the U.S. population.
+Conclusion
+
+We find the PMR to be a useful indicator of temporal variation in mortality patterns for ongoing occupational cohort studies. As the number of deaths increases for an aging cohort, the magnitude and direction of the PMR may be used to compare serial estimates of cause-specific relative mortality risks. SMR estimates can vary within a closed cohort over time and may not be a suitable longitudinal risk indicator. The PMR can be applied to evaluate internal consistency of results as well as the strength of association for sequential investigations of closed cohorts.

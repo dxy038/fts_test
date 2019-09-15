@@ -1,0 +1,1 @@
+In this paper, a preliminary longitudinal control system for the YF-16 CCV aircraft is designed to satisfy its flying qualities. This objective is achieved by applying the multivariable frequency matching technique of control systems designed and developed by the authors. This technique is in the spirit of `model following´ strategy carried out in the frequency domain

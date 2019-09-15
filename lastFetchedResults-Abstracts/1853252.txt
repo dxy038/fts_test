@@ -1,0 +1,8 @@
+Objective
+ing discords in time series is a special novelty detection task that has found many interesting applications. Unlike the traditional novelty detection methods which can make use of a separate set of normal samples to build up the model, discord detection is often provided with mixed data containing both normal and abnormal data. The objective of this work is to present an effective method to detect discords in unsynchronized periodic time series data.
+s
+sk of discord detection is considered as a problem of unsupervised learning with noise data. A new clustering algorithm named weighted spherical 1-mean with phase shift (PS-WS1M) is proposed in this work. It introduces a phase adjustment procedure into the iterative clustering process and produces a set of anomaly scores based upon which an unsupervised approach is employed to locate the discords automatically. A theoretical analysis on the robustness and convergence of PS-WS1M is also given.
+s
+oposed algorithm is evaluated via real-world electrocardiograms datasets extracted from the MIT-BIH database. The experimental results show that the proposed algorithm is effective and competitive for the problem of discord detection in periodic time series. Meanwhile, the robustness of PS-WS1M is also experimentally verified. As compared to some of the other discord detection methods, the proposed algorithm can always achieve ideal FScore values with most of which exceeding 0.98.
+sion
+oposed PS-WS1M algorithm allows the integration of a phase adjustment procedure into the iterative clustering process and it can be successfully applied to detect discords in time series.

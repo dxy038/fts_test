@@ -1,0 +1,1 @@
+A modified extended Kalman filter (EKF) is proposed for visual vehicle tracking by adding a new objective function to reduce the sensitivity of the filter to model uncertainty. Experimental results show that the performance of this approach is much better than the traditional EKF and its recent variant

@@ -1,0 +1,14 @@
+Semiparametric methods are widely employed in applied work where the ability
+to conduct inferences is important. To establish asymptotic normality for making
+inferences, bias control mechanisms are often used in implementing semiparametric
+estimators. The first contribution of this paper is to propose a mechanism that enables
+us to establish asymptotic normality with regular kernels. In so doing, we argue that
+the resulting estimator performs very well in finite samples.
+Semiparametric models are commonly estimated under a single index assumption.
+Because the consistency of the estimator critically depends on this assumption being
+correct, our second objective is to develop a test for it. To ensure that the test statistic
+has good size and power properties in finite samples, we employ a bias control
+mechanism similar to that underlying the estimator. Furthermore, we structure the
+test so that its form adapts to the model under the alternative hypothesis. Monte Carlo
+results confirm that the bias control and the adaptive feature significantly improve
+the performance of the test statistic in finite samples.

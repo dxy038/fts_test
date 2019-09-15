@@ -1,0 +1,9 @@
+The ordering strategy for a single period inventory model is the key to achieve success in the
+competitive business environment. This article considers demand in a form of fuzzy number
+and discusses the SPIM in which the retailer has the opportunity to reorder once during the
+period. The entire period/season is divided into two slots and the reorder is to be made during
+the mid-season after the early-season demand has been observed. The objective is to find the
+expected optimal order quantity together with profit maximization. We illustrate the
+implementation of the proposed model using a numerical example and explain that the explicit
+consideration of this reordering opportunity could lead us to better results in terms of
+profitability.

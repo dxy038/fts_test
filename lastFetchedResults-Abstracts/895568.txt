@@ -1,0 +1,27 @@
+
+
+
+Due to both topography and economical conditions, the construction of skewed bridges is being more popular all around the world and thereby their design become of paramount importance among structural engineers. The most vulnerable bridge type in a transportation network is skew bridge. Because of its geometry, the response of the skew bridge during earthquake is more severe than for a straight bridge with identical mass and dimensions. The skew bridges have coupled response in global co-ordinate system and the seismic response increases with the increase in skew angle. Skewed bridges are often encountered in highway design when the geometry cannot accommodate straight bridges. These bridges are found to be quite susceptible to severe damage during past earthquakes. When   the skew angle gets large it can significantly alter the response of the bridge. Investigative reports on the 1989 Loma Prieta and 1994 Northridge earthquakes in California indicated significant damage experienced by skewed highway bridges. In both earthquakes, less than five percent of the bridges exposed to ground shaking were damaged. Specifically, the damage sustained by the Pico-Lyons Bridge near Newhall, California, was noted to have been triggered by the skewed geometry of the bridge. The study showed that cases in which the angle of skew is approximately 40°, the percentage increase in stress due to the skewness effect at the end girders can be as high as 50–60%. Although the static and dynamic behavior of skew bridges has been investigated by various researchers, some phenomena are yet to be defined. This study focuses on evaluating the seismic behavior of typical single-span skewed concrete precast girder bridges by taking into account the variation of deck geometrical characteristic including length, width and the bridge skew angle. The main objective is to investigate unseating of the bridges subjected to seven sets of ground motions. The three-dimensional nonlinear finite element models of bridges using the CSI’s most renowned software, i.e. SAP2000 were developed and nonlinear time-history analyses were performed. The results indicate that by increasing the skew angle the unseating occurs due to combination of displacements in longitudinal and transverse directions, whereas for non-skewed bridges or the bridges with a small skew angle, the deck doesn’t experience significant rotation or permanent transverse displacement and only longitudinal displacement causes the deck to become unseated. It was found that for 60-degree skew bridges despite the fact that the bridges experience less longitudinal and transverse displacements, the superstructure undergoes significant rotations about the vertical axis and is permanently displaced laterally from the original location. Thus, by increasing skew angle the higher magnitude of deck rotation causes the deck to become unseated rather than the displacements and the deck rotation built up during the initial peak cycles of shaking of all input ground motions.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

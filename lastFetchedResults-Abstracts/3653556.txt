@@ -1,0 +1,1 @@
+This paper presents the results of a study the objective of which was the high-speed solution of the differential equations characterizing induction motors. It was found possible to reduce the time required for the solution by a factor of about ten with no loss of accuracy. Details of two sample problems and the techniques used are presented.

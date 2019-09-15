@@ -1,0 +1,11 @@
+Objective
+Overexpression of members of the adenosine triphosphate binding cassette (ABC) transporter superfamily has been implicated in multidrug resistance in cancer, but results in acute myeloid leukemia (AML) have been inconsistent. We investigated the expression and activity of ABC transporters in patient total blasts and subpopulations along the leukemic stem cell hierarchy.
+Materials and Methods
+
+Using quantitative reverse transcriptase polymerase chain reaction, we measured expression of the ABC transporter superfamily in the blast cells from AML patients prior to chemotherapy. In addition, we measured ex vivo daunorubicin resistance of subpopulations with or without ABC inhibitors.
+Results
+
+In the total blasts, no consistent difference was observed in 18 patients achieving complete remission (CR) and 13 patients who were refractory to induction chemotherapy (NR). However, among the subpopulation of CD34+CD38− AML cells (candidate “leukemic stem cells”), elevated expression of MDR1 and/or BCRP1, two ABC transporters associated with drug resistance, was found in 8 of 10 NR patients as compared to 0 of 7 CR patients. No such association was observed in the more differentiated CD34+CD38+ or CD34− subpopulations. There was no significant difference in MRP1 expression between CR and NR patient samples in any of the subpopulations examined. The increased expression of MDR1 and BCRP1 in leukemic cells correlated with increased cellular daunorubicin resistance, which could be reversed by the ABC transporter inhibitors verapamil and PSC-833.
+Conclusion
+
+Expression of MDR1 and BCRP1 in leukemic stem cells correlates with chemotherapy response both at the cellular level and in AML patients.

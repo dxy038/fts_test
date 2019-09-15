@@ -1,0 +1,10 @@
+One of the first multiple objective versions of the tabu search (TS) algorithm is proposed by the author.
+The idea of applying TS to multiple objective optimization is inspired from its solution structure.
+TS works with more than one solution (neighbourhood solutions) at a time and this situation gives
+the opportunity to evaluate multiple objectives simultaneously in one run. The selection and updating
+stages are modified to enable the original TS algorithm to work with more than one objective. In this
+paper, the multiple objective tabu search (MOTS) algorithm is applied to multiple objective non-linear
+optimization problems with continuous variables using a simple neighbourhood strategy. The algorithm
+is applied to four mechanical components design problems. The results are compared with several
+other solution techniques including multiple objective genetic algorithms. It is observed that MOTS
+is able to find better and much wider spread of solutions than the reported ones

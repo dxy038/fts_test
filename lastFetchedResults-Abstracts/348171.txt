@@ -1,0 +1,11 @@
+Objective
+The present study aims to accurately estimate the in vivo brain-to-skull conductivity ratio by means of cortical imaging technique. Simultaneous extra- and intra-cranial potential recordings induced by subdural current stimulation were analyzed to get the estimation.
+Methods
+The effective brain-to-skull conductivity ratio was estimated in vivo for 5 epilepsy patients. The estimation was performed using multi-channel simultaneously recorded scalp and cortical electrical potentials during subdural electrical stimulation. The cortical imaging technique was used to compute the inverse cortical potential distribution from the scalp recorded potentials using a 3-shell head volume conductor model. The brain-to-skull conductivity ratio, which leads to the most consistent cortical potential estimates with respect to the direct intra-cranial measurements, is considered to be the effective brain-to-skull conductivity ratio.
+Results
+The present estimation provided consistent results in 5 human subjects studied. The in vivo effective brain-to-skull conductivity ratio ranged from 18 to 34 in the 5 epilepsy patients.
+Conclusions
+The effective brain-to-skull conductivity ratio can be estimated from simultaneous intra- and extra-cranial potential recordings and the averaged value/standard deviation is 25±7.
+Significance
+The present results provide important experimental data on the brain-to-skull conductivity ratio, which is of significance for accurate brain source localization using piece-wise homogeneous head models.
+

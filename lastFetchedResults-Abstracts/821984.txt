@@ -1,0 +1,5 @@
+We consider a robotized analytical system in which a chemical treatment has to be performed on a set of n identical samples. The same predetermined ordered set of tasks has to be performed on each sample. A unique robot has to transport the samples between the resources. The time spent by a sample in a resource is bounded by given minimal and maximal values. No-wait constraints and additional requirements such as blocking resources or limited capacities have to be taken into account. The objective is to perform the chemical treatment on the whole set of n samples in the shortest possible time, while satisfying all the constraints.
+
+We describe a fast heuristic scheduling algorithm for solving this problem and apply it to a robotized sample preparation of membrane fatty acid esters for the identification of bacteria.
+
+The proposed algorithm was implemented in practice and has proven to be satisfactory.

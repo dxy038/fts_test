@@ -1,0 +1,10 @@
+AbstractContext
+ss process modeling is an essential part of understanding and redesigning the activities that a typical enterprise uses to achieve its business goals. The quality of a business process model has a significant impact on the development of any enterprise and IT support for that process.
+ive
+the insights on what constitutes modeling quality are constantly evolving, it is unclear whether research on business process modeling quality already covers all major aspects of modeling quality. Therefore, the objective of this research is to determine the state of the art on business process modeling quality: What aspects of process modeling quality have been addressed until now and which gaps remain to be covered?
+
+formed a systematic literature review of peer reviewed articles as published between 2000 and August 2013 on business process modeling quality. To analyze the contributions of the papers we use the Formal Concept Analysis technique.
+s
+nd 72 studies addressing quality aspects of business process models. These studies were classified into different dimensions: addressed model quality type, research goal, research method, and type of research result. Our findings suggest that there is no generally accepted framework of model quality types. Most research focuses on empirical and pragmatic quality aspects, specifically with respect to improving the understandability or readability of models. Among the various research methods, experimentation is the most popular one. The results from published research most often take the form of intangible knowledge.
+sion
+ieve there is a lack of an encompassing and generally accepted definition of business process modeling quality. This evidences the need for the development of a broader quality framework capable of dealing with the different aspects of business process modeling quality. Different dimensions of business process quality and of the process of modeling still require further research.

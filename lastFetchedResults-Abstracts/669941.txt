@@ -1,0 +1,22 @@
+Genotype × environment (G×E) interaction complicates the identification of
+superior genotypes. An understanding its causes is needed for a more effective
+breeding strategy. The objective of this study was to determine the plant traits that
+cause genotype × location (G×L) interaction for pod yield in peanut using a modeling
+approach. The CSM-CROPGRO-Peanut model was used to simulate pod yield for
+17 peanut genotypes for 14 locations representative of all peanut production areas in
+Thailand using 30 years of historical weather data. Sensitivity analysis was used to
+determine the effects of individual and combinations of plant traits on pod yield and
+yield response to environments by varying the value of one or more cultivar
+coefficients and then evaluating their effects. The results showed that the cultivar
+coefficients that showed major effects were the duration from first seed to
+physiological maturity (SDPM), maximum leaf photosynthesis rate (LFMAX), the
+maximum fraction of daily growth that is partitioned to seed and shell (XFRT),
+single seed filling duration (SFDUR) and the duration of pod addition (PODUR).
+Those having minor effects were the duration from emergence to first flower
+(EMFL), maximum leaf size (SIZLF) and maximum seed weight (WTPSD). The
+cultivar coefficients that caused the differences in both mean yield and yield response
+to locations between peanut genotypes in different pairs included LFMAX, XFRT,
+SDPM, SFDUR and PODUR, but the causal characters differed among pairs of
+genotypes. It was concluded that changing the degree of genotypic response to
+environments is possible through selection for a combination of some of these traits,
+and that model simulation could be used to identify those traits.

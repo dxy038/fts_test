@@ -1,0 +1,17 @@
+The main objective of this study is to optimize the long-term performance of an existing active-indirect solar hot water plant (SHWP),
+which supplies hot water at 65  C for use in a flight kitchen, using a micro genetic algorithm in conjunction with a relatively detailed
+model of each component in the plant and solar radiation model based on the measured data. The performance of SHWP at Changi
+International Airport Services (CIASs), Singapore, is studied for better payback period using the monthly average hourly diffuse and
+beam radiations and ambient temperature data. The data input for solar radiation model is obtained from the Singapore Meteorological
+Service (SMS), and these data have been compared with long-term average data of NASA (surface meteorology and solar energy or
+SSE). The comparison shows a good agreement between the predicted and measured hourly-averaged, horizontal global radiation.
+The SHWP at CIAS, which comprises 1200 m2 of evacuated-tube collectors, 50 m3 water storage tanks and a gas-fired auxiliary boiler,
+is first analyzed using a baseline configuration, i.e., (i) the local solar insolation input, (ii) a coolant flow rate through the headers of
+collector based on ASHRAE standards, (iii) a thermal load demand pattern amounting to 100 m3/day, and (iv) the augmentation of
+water temperature by auxiliary when the supply temperature from solar tank drops below the set point. A comparison between the baseline
+configuration and the measured performance of CIAS plant gives reasonably good validation of the simulation code. Optimization is
+further carried out for the following parameters, namely; (i) total collector area of the plant, (ii) storage volume, and (iii) three daily
+thermal demands. These studies are performed for both the CIAS plant and a slightly modified plant where the hot water supply to
+the load is adjusted constant at times when the water temperature from tank may exceed the set temperature. It is found that the latter
+configuration has better thermal and economic performances over the conventional design.
+Crown Copyright   2012 Published by Elsevier Ltd. All rights reserved

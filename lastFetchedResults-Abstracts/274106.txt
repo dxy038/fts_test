@@ -1,0 +1,5 @@
+The objective of this paper is to describe a simple dynamic crack propagation experiment which reproduces two phenomena:
+mixed-mode propagation and crack stop and restart. This experiment is explained and interpreted using X-FEM
+simulations. We show that a simple fracture theory which consists in using a dynamic crack initiation toughness, a crack
+orientation along the maximum principal stress and a simple equation for the calculation of the crack speed is sufficient to
+explain what is observed experimentally

@@ -1,0 +1,10 @@
+Purpose
+in objective of this work is to develop an algorithm to use the Lattice Boltzmann method for solving free surface thermal flow problems with solid/liquid phase changes.
+ch
+i-distribution function model is applied to simulate hydrodynamic flow and the coupled thermal diffusion–convection problem.
+gs
+ee surface problem, i.e. the reconstruction of the missing distribution functions at the interface, can be solved by applying a physical transparent momentum and heat flux based methodology. The developed method is subsequently applied to some test cases in order to assess its computational potentials.
+cal implications
+ndustrial processes involve problems where non-isothermal motion and simultaneous solidification of fluids with free surface is important. Examples are all castings processes and especially foaming processes which are characterized by a huge and strongly changing surface.
+
+nstruction algorithm to treat a thermal hydrodynamic problem with free surfaces is presented which is physically transparent and easy to implement.

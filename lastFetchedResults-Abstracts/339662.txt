@@ -1,0 +1,11 @@
+Objective
+Constitutive activation of nuclear factor (NF)-κB is a common feature of human T-cell leukemia virus type I (HTLV-I)–transformed T cells. Inhibition of NF-κB activity reduces cell growth and induces apoptosis of HTLV-I–transformed T cells, suggesting a central role of NF-κB in their proliferation and survival. In this study, we investigated whether MyD88, an adaptor protein of Toll-like receptor (TLR) signaling, contributes to constitutive NF-κB activation in HTLV-I–transformed T cells.
+Materials and Methods
+
+Activation status of MyD88 and interleukin (IL)-1R–associated kinase 1 (IRAK1) in HTLV-I–transformed human T cells, MT2, MT4, and HUT102 was examined by using Western blot and immunoprecipitation. TLR expression was evaluated with reverse transcription polymerase chain reaction. An expression vector encoding a dominant negative MyD88 with a deletion of its death domain (MyD88dn) was transfected into MT2 cells to evaluate roles of MyD88 in spontaneous activation of cytokine gene promoters and transcription factors, proliferation, and apoptosis in HTLV-I–transformed T cells.
+Results
+
+Constitutive association of MyD88 with IRAK1 was observed in all three of HTLV-I–transformed T cells, but not in HTLV-I–negative T cells, such as Jurkat, HUT78, and MOLT4. MT2 cells showed expression of TLR-1, -6, and -10 mRNAs. Constitutive activation of NF-κB and NF–IL-6 and cytokine gene promoters, such as IL-1α, interferon-γ, and tumor necrosis factor-α in MT2 cells was inhibited by MyD88dn expression. MyD88dn reduced proliferation and induced apoptosis of MT2 cells. HTLV-I Tax enhanced TLR expression and synergistically activated NF-κB with wild-type MyD88.
+Conclusion
+
+Our results show a novel pathway in NF-κB activation in HTLV-I–transformed T cells and further demonstrate a critical role of MyD88 in their dysregulated gene activation, survival, and proliferation.

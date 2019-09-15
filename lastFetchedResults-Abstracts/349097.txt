@@ -1,0 +1,11 @@
+Objective
+Cardiovascular mortality is significantly increased in patients suffering from schizophrenia. The mechanisms currently discussed contain unhealthy lifestyle with obesity and smoking, increased incidence of diabetes, adverse pro-arrhythmic effects of antipsychotic medication and altered autonomic function. It is therefore likely that the adaptation of the heart rate to different requirements is faulty in schizophrenia. One way to detect adaptive capabilities and thus stability of regulation is to measure complexity of heart rate fluctuations, with more complex heart rate fluctuations indicating better adaptability of the underlying system.
+Methods
+We calculated novel non-linear measures for beat-to-beat interval complexity from short-term ECG recordings in 20 unmedicated patients suffering from acute schizophrenia and compared them to those obtained from matched controls.
+Results
+Data from all mathematical models applied, i.e. joint symbolic dynamics, compression entropy, fractal dimension and approximate entropy, revealed significantly reduced complexity of heart rate time series in acute schizophrenia. When using heart rate as a covariate, only fractal dimension remained significantly altered, thus appearing to be a relatively more important heart rate independent parameter.
+Conclusions
+Complexity of heart rate modulation is significantly reduced in acute, untreated schizophrenia, thus indicating an increased risk for cardiovascular events in these patients.
+Significance
+These data might eventually add to the currently discussed monitoring of physical health in patients with schizophrenia, possibly providing a promising tool for cardio-arrhythmic risk stratification.
+

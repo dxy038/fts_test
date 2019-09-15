@@ -1,0 +1,11 @@
+The paper presents a proof-of-concept design of a tactile sensor capable of measuring compliance of a contact tissue/
+sensed object. The main objective of this study is to design and model a piezoelectric sensor capable of measuring the
+total applied force on the sensed object as well as its compliance. The sensor consists of a rigid and compliant cylindrical
+element. Determination of the compliance of sensed objects is based on the ratio of force experienced by the rigid cylinder
+to the total force applied to the sensor. To obtain this force ratio, a circular PVDF film is sandwiched between
+rigid cylinder and plate to measure the force applied on the rigid element and a rectangular PVDF film is sandwiched
+between the two base plates to measure the total force applied on the sensor. The detailed design of the senor was performed
+using finite element analysis. A prototype was fabricated and tested and it has been shown that good agreement
+exists between the finite element results and experimental values. The proposed sensor exhibits high force sensitivity and
+good linearity and offers the potential for future miniaturization in order to be integrated with the commercial endoscope
+graspers used in minimally invasive surgery.

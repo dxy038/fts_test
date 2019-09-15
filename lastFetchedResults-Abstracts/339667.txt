@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem cells (HSCs) consist of heterogenous subpopulations, one of which is CD34− HSCs. Recent development of successful engraftment by intra-bone marrow transplantation revealed severe combined immunodeficiency (scid) mouse-repopulating cell (SRC) activity in human CD34− cord blood (CB) cells. On the other hand, CD34− cells from bone marrow (BM) cells remain relatively undefined. Here, we investigated pre-SRC populations in human BM CD34− cells and the effect of the niche-related factor, angiopoietin-1, on them.
+Methods
+
+Two populations in BM CD34− cells (namely M cells and S cells) were purified by flow cytometry. Then, they were cocultured with six growth factors on the hematopoietic-supportive mouse BM stromal cell line, HESS-5 or AHESS-5 that were engineered to produce human angiopoietin-1, because we detected Tie2 expression on M cells and S cells. Cultured cells were assessed for their in vitro and in vivo hematopietic activities.
+Results
+
+After 7 days in coculture, AHESS-5 was stronger more effective than HESS-5 in converting M and S cells to CD34+ cells (M cells: 67.4% vs 17.5%, n = 6, p < 0.001) (S cells: 42.3% vs 2.3%, n = 6, p < 0.001). Furthermore, both M and S cells were able to engraft in immunodeficient mice after they were cocultured on AHESS-5.
+Conclusions
+
+Results suggest that angiopoietin-1 supports SRC activities in human CD34− BM cells, as murine studies demonstrated. Furthermore, identification of previously undetected subpopulations of BM CD34− HSCs unveils heterogenous components in the stem cell pool.

@@ -1,0 +1,14 @@
+The optimisation of mass rapid transit
+(MRT) systems is often a slow process as it
+requires a large number of simulations of train
+operations. In order to reduce the solution effort,
+tabu search is applied. Tabu search is a modern
+heuristic optimisation method that can achieve an
+optimal or sub-optimal solution within a
+reasonably short time. The paper demonstrates
+how the search is applied over a period of time to
+successfully optimise the traction substation
+location and rectifier firing angle. Integrated with
+a train simulator, the approach is tested with two
+objective criteria: minimum traction energy
+consumption and equal load sharing.

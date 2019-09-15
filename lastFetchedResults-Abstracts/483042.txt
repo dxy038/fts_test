@@ -1,0 +1,4 @@
+The objective of this work was to develop a new design of an intake manifold through a 1D simulation.
+It is quite familiar that a duly designed intake manifold is essential for the optimal performance of an internal combustion engine. Air flow inside the intake manifold is one of the important factors, which governs the engine performance and emissions. Hence the flow phenomenon inside the intake manifold should be fully optimized to produce more engine power with better combustion and further reduces the emission.
+In this paper, during the new engine development the pressure waves for the intake manifold is simulated using 1D GT-POWER software, to study the internal air flow characteristic for the 4-cylinder gasoline engine during transient conditions. Based on the 1D simulation results, the intake manifold design is optimized. As a result of this analysis, intake manifold with 2.5% improvement in volumetric efficiency is achieved.
+

@@ -1,0 +1,10 @@
+Objective
+ent guidelines for bipolar disorder (BD) recommend the tapering of antidepressants (ADs) for patients with a recent acute manic or mixed episode. This study assessed rates of AD use and the association between such use and BD-related re-hospitalizations among patients with BD.
+s
+the IMS LifeLink® Health Plan Claims Database from 1/1/2004 to 6/30/2007, we identified adults 18 + years of age with an acute psychiatric event (“index event”), defined as a hospitalization, emergency room visit, or physician visit, with a prescription for a new BD medication with a primary diagnosis of BD I mania (ICD-9-CM: 296.0x, 296.4x) or BD I mixed (ICD-9-CM: 296.6x). All patients were required to be eligible for the 12 months before index and during the 12-month post-index period, and have a BD-related hospitalization (any diagnosis of any BD subgroup) in the pre-index period. Patients with schizophrenia at any time during the study period were excluded. Study measures included: rates of AD use (minimum of 30 days of available AD therapy within 120 days after the index event) and the association of such use with post-index BD-related hospitalizations.
+s
+atients met study criteria (mean age 44 years; 57% female; 53% BD I mania). 32% of all patients had AD use in the post-index period. Compared to BD I patients without AD use in the post-index period, those with AD use had 1.43 to 1.50 times the odds of being re-hospitalized for BD in the follow-up period. Other significant positive predictors included being female and presence of substance abuse.
+tions
+strative claims data do not provide information on symptoms, which may influence continuation of antidepressants.
+sions
+s administrative claims database, nearly one-third of patients with BD I manic or mixed subgroups had AD use following an acute event. The positive association observed between AD use and re-hospitalization needs to be confirmed in clinical studies.

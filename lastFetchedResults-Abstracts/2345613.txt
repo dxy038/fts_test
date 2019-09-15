@@ -1,0 +1,17 @@
+Compared to conventional chlorination methods which apply chlorine at water treatment plant, booster chlorination has almost
+solved the problems of high dosages of chlorine residuals near water sources and lack of chlorine residuals in the remote points
+of a water distribution system (WDS). However, control of trihalomethane (THM) formation as a potentially carcinogenic
+disinfection by-product (DBP) within a WDS has still remained as a water quality problem. This paper presents a two-phase
+approach of multi-objective booster disinfection in which both chlorine residuals and THM formation are concurrently optimized
+in a WDS. In the first phase, a booster disinfection system is formulated as a multi-objective optimization problem in which the
+location of booster stations is determined. The objectives are defined as to maximize the volumetric discharge with appropriate
+levels of disinfectant residuals throughout all demand nodes and to minimize the total mass of disinfectant applied with a specified
+number of booster stations. The most frequently selected locations for installing booster disinfection stations are selected for the
+second phase, in which another two-objective optimization problem is defined. The objectives in the second problem are to
+minimize the volumetric discharge avoiding THM maximum levels and to maximize the volumetric discharge with standard levels
+of disinfectant residuals. For each point on the resulted trade-off curve between the water quality objectives optimal scheduling of
+chlorination injected at each booster station is obtained. Both optimization problems used NSGA-II algorithm as a multi-objective
+genetic algorithm, coupled with EPANET as a hydraulic simulation model. The optimization problems are tested for different
+numbers of booster chlorination stations in a real case WDS. As a result, this type of multi-objective optimization model can
+explicitly give the decision makers the optimal location and scheduling of booster disinfection systems with respect to the tradeoff
+between maximum safe drinking water with allowable chlorine residual levels and minimum adverse DBP levels.

@@ -1,0 +1,12 @@
+Objective
+To evaluate prediction of coronary heart disease (CHD) by quantitative measures of the metabolic syndrome and inflammation in a cohort of high socio-economic status males.
+Methods
+
+Incident CHD was identified in a cohort of 649 male participants in a company health programme during a mean follow-up of 10.6 years. Using factor analysis, metabolic syndrome and sub-clinical inflammation scores were derived from baseline measurements, which included an oral glucose tolerance test-derived measure of insulin resistance. Factor scores were then included as predictor variables in a Cox regression analysis of incident CHD.
+Results
+
+Forty-two cases of definite CHD were identified on follow-up. The conventional risk factors, cigarette smoking, blood pressure, total cholesterol and low HDL cholesterol were clearly distinguished as significant predictors of incident CHD. Erythrocyte sedimentation rate was also an independent predictor (coefficient 0.0480, z score 2.39, p=0.017). The metabolic syndrome factor included insulin resistance, body mass index, serum triglycerides, glucose tolerance, serum uric acid and fasting plasma glucose. The inflammation factor included serum globulin, blood leukocyte count, low albumin, haemoglobin and cholesterol, but not erythrocyte sedimentation rate. The inflammation factor score was a significant predictor of CHD (coefficient 0.4601, z score 2.43, p=0.015) but the metabolic syndrome factor was not (coefficient 0.2488, z score 1.24, p=0.2).
+Conclusions
+
+Erythrocyte sedimentation rate and a factor analysis-derived measure of sub-clinical inflammation were important in the development of CHD in this relatively low-risk group, but neither metabolic syndrome factor score nor its individual components predicted CHD.
+

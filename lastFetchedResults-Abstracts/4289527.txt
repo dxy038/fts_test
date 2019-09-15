@@ -1,0 +1,1 @@
+Significant work has been conducted in developing techniques for multi-objective problem (MOP) optimizations. This paper investigates the use of a Mendel-like dominance scheme for improving the efficiency of a MOP genetic algorithm. This paper shows, for the selected MOP test suite, that the mendelian GA outperforms a simple GA

@@ -1,0 +1,1 @@
+We have demonstrated an easily upgradable bidirectional passive optical network for the simultaneous transmission of wavelengthdivision-multiplexing channels and digital broadcast video signals. The proposed network could transmit 15 2.5-Gb/s downstream channels, 15 155-Mb/s upstream channels, and one broadcast signal consisting of more than 70 digital video channels.

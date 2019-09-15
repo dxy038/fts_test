@@ -1,0 +1,31 @@
+The author is involved in a wide-ranging
+research programme, the objective being to extend the
+fracture mechanics methodology for sharp cracks to
+blunt flaws, so as to take credit for the blunt flaw
+geometry. The approach is based on the cohesive
+process zone representation of the micro-mechanistic
+processes that are associated with fracture. An earlier
+paper has derived a blunt flaw fracture initiation
+relation which gives the critical elastic flaw-tip peak
+stress rpcr (a ‘‘signifier’’ of a critical condition in the
+process zone) in terms of the process zone material
+parameters, subject to the proviso that the process
+zone size s is small compared with the flaw depth
+(length) and any characteristic dimension other than
+the flaw root radius q. The relation has been derived
+using a ‘‘two-extremes’’ procedure, whereby the separate
+rpcr solutions for small and large s/q are blended
+together to give an all-embracing relation that is valid
+for all s/q. A key feature of the relation is that rpcr
+essentially depends on only one geometrical parameter:
+the flaw root radius q. Though the relation has
+evolved from a consideration of the characteristics of
+one model, i.e. that of an elliptical flaw in an infinite
+solid that is subjected to an applied tensile stress, it is
+anticipated that the relation can be applied equally
+well for a wide range of geometrical configurations
+involving different flaw shapes. It is against this
+background that the present paper demonstrates that
+the relation also applies to the behaviour of an
+intrusion type flaw in the surface of a semi-infinite
+solid subjected to an applied tensile stress

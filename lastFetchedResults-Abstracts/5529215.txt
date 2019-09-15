@@ -1,0 +1,1 @@
+In this note we consider the closed loop control of the elastic beam where the control objective is to track a desired beam shape. A Lyapunov approach is utilized and a stability in measure theorem termed d<sub>2</sub>/d<sub>1</sub> stability is proved. Numerical simulation is provided and an extension to adaptive control where beam parameters are not known is discussed.

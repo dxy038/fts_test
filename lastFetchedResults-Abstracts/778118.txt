@@ -1,0 +1,17 @@
+It is widely accepted that, series compensation
+of transmission lines results in increscent of power
+transfer capability. This kind of compensation may be led
+to adverse oscillations. The main objective of this work is
+to design a supplementary Sub-Synchronous Resonance
+(SSR) damping controller for STACOM using the
+Particle Swarm Optimization (PSO) method. For this
+purpose, the STATCOM is utilized and a supplementary
+controller is granted to its conventional controller.
+Furthermore, a performance index which is defined based
+on the system dynamics is implemented as an objective
+function to examine the potential of STATCOM in
+mitigating the oscillations. The effectiveness of the
+proposed controller is demonstrated through Fast Fourier
+Transform (FFT) analysis and time domain simulations
+conducted on IEEE Second Benchmark Model (SBM)
+combined with STATCOM.

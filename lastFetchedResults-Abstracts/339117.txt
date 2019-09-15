@@ -1,0 +1,11 @@
+Objective
+Resistance to rituximab, a chimeric monoclonal antibody that binds to CD20, is a major limitation for the successful treatment of patients with non-Hodgkin lymphoma and other CD20+ B-cell malignancies. To circumvent rituximab resistance in these patient populations, we have constructed a bispecific antibody (BiAb), anti-CD3 × anti-CD20 (CD20Bi), that combines rituximab targeting with non–major histocompatibility complex (non-MHC)-restricted cytotoxicity mediated by activated T cells (ATC).
+Materials and Methods
+
+Activated T cells were obtained from anti-CD3 activated peripheral blood mononuclear cells (PBMC) of normal donors or the leukapheresis products of patients by culturing in the presence of interleukin-2 for 6–14 days. After ATC expansion, the cells were armed with CD20Bi. Killing activity was evaluated by 51Cr-release assay.
+Results
+
+Arming ATC with as little as 5 ng CD20Bi/106 cells significantly increased cytotoxicity above unarmed ATC. CD20Bi-armed ATC (50 ng/106 cells) efficiently lysed CD20+ cell lines at E:T of 6.25-50, but not the nonhematologic, CD20− SK-BR-3 cell line. High levels of cytotoxicity mediated by CD20Bi-armed ATC (p < 0.05) could not be blocked by an 8000-fold excess of soluble rituximab. CD20Bi-armed ATC in the presence of complement killed ARH-77 cells, a rituximab-complement pathway-resistant multiple myeloma, significantly (p < 0.05) better than rituximab or unarmed ATC, suggesting that CD20Bi-armed ATC may be clinically effective for treatment of rituximab-resistant CD20+ hematologic malignancies.
+Conclusions
+
+Our findings demonstrate that CD20Bi-armed ATC enhance cytotoxicity against CD20+ B-cell lines and circumvent complement-mediated rituximab resistance, providing a strong rationale for this immune-based strategy for the treatment of rituximab-refractory CD20+ B-cell malignancies.

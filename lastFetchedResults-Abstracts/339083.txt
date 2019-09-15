@@ -1,0 +1,11 @@
+Objective
+Anti-tumor effects mediated by adoptively transferred natural killer (NK) cells are dependent on the presence of interleukin-2 (IL-2). IL-2 is considered to be a survival factor for NK cells and an enhancer of their cytotoxic potential. However, systemic administration of IL-2 is frequently impeded by undesirable side effects, such as high toxicity and nonlocalized administration. Genetic modification of NK cells expressing IL-2 in a localized and controlled manner could be a powerful tool for overcoming these obstacles.
+Methods
+
+Consequently, we have cloned the IL-2 gene using PCR and designed constructs that target IL-2 to specific subcellular compartments. The IL-2-dependent NK-92 cell line was used to verify the functionality of the subcellularly targeted IL-2 constructs.
+Results
+
+IL-2 targeted specifically to the endoplasmic reticulum (ER) was sufficient to support growth of NK-92 cells. In such cell lines, IL-2 was verified to be localized to the ER. IL-2 was not detected in the supernatant and growth of non-IL-2-modified NK-92 cells was not supported during coculturing experiments. IL-2-transduced NK-92 cell lines showed comparable functional activity and cytotoxicity to parental NK-92 cells.
+Conclusion
+
+We demonstrate the ability of ER-retained IL-2 to provide autocrine growth stimulation to NK-92 cells, without secretion of the cytokine to the extracellular compartment. Therapy with IL-2 gene-modified autoactivating NK cells may avoid side effects imposed by exogenously administered IL-2.

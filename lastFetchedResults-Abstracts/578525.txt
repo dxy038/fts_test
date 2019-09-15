@@ -1,0 +1,15 @@
+Periodontal ligament is a thin layer of soft tissue that connects root of a tooth to
+the surrounding alveolar bone. These ligaments play an important role in initiating
+tooth movement when loads are applied to teeth with orthodontic appliances. The
+majority of such soft tissues exhibit as viscoelastic bodies or have a time-dependent
+behavior. Due to the viscoelastic behavior of the periodontal ligaments, the mechanical
+properties are strongly affected by the loading history. Poisson’s ratios for the
+viscoelastic materials are time-dependent (in time domain) or complex frequency-dependent
+(in frequency domain) quantities. Moreover, three-dimensional stress fields
+depend on these Poisson’s ratios. The main objective of this work was to develop a
+mathematical approach capable of determining the time-dependent Poisson’s ratios of
+the periodontal ligaments based on experimental data of stress relaxation and creep
+tests. The resulting stress relaxation and creep curves are described by a three-parameter
+viscoelastic models. The time-dependent Poisson’s ratios of the periodontal
+ligaments have been obtained as increasing functions of time, because shear modulus
+of these ligaments relaxes much more than their bulk modulus.

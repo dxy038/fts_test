@@ -1,0 +1,2 @@
+In this paper, a bidirectional associative memory (BAM) neural network, which consists of two neurons in the X-layer and three neurons in the Y-layer, with two time delays will be studied. We conclude that under some assumptions, Hopf bifurcation occurs when the sum of two delays passes through a critical value. A numerical example is presented to support our theoretical results.
+

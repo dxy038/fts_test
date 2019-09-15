@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DC) have several unique features that differ from other antigen-presenting cells and that enable them to initiate primary immune responses. The aim of this study was to identify and characterize genes that are differentially expressed in DC generated from CD14+ peripheral blood monocytes in vitro.
+Materials and Methods
+
+Using a subtractive cDNA library, we identified the full-length cDNA sequence of human Dectin-1b by rapid amplification of cDNA ends. Expression profiles were performed by reverse transcriptase polymerase chain reaction and Western blotting. For functional analysis, HeLa cells were transfected with the Dectin-1b coding region and used as stimulators for purified peripheral blood T-cell populations.
+Results
+
+Our subtractive cloning strategy revealed the human Dectin-1b cDNA, which encodes for a transmembrane protein of the C-type lectin-like receptor family. It is selectively expressed in several purified DC subpopulations but not in monocytes and is up-regulated upon stimulation with lipopolysaccharide. The nucleotide sequence was submitted to GenBank (accession no. AY009090). Furthermore, we demonstrate that the Dectin-1b splice variant transfected in HeLa cells up-regulates the activation markers on human T lymphocytes, induces the production of interferon-γ, and promotes proliferation of both CD4+ and CD8+ T lymphocytes.
+Conclusion
+
+The Dectin-1 gene is expressed during the development of DC from peripheral blood monocytes and the transfection of the splice variant 1b into HeLa cells results in the stimulation of effector functions of human T lymphocytes.

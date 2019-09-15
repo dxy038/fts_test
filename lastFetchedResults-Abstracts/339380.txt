@@ -1,0 +1,11 @@
+Objective
+Ligands for the transcription factor peroxisome proliferator-activated receptor γ (PPARγ) are emerging as a new class of antitumor agents. Herein, we investigated the triterpenoid CDDO, a PPARγ ligand, for its potential as an anticancer agent on human diffuse large B-cell lymphoma (DLBCL) cells.
+Methods
+
+The ability of CDDO to induce apoptosis in human DLBCL cells of both the germinal center and activated B-cell subtypes was determined by MTT (3-(4,5-dimethylthiazole-2-yl)-2,5-diphenyltetrazolium bromide) assay, 3H-thymidine incorporation, and Annexin-V/propidium iodide staining. Small molecule antagonists of PPARγ, transfection assays, DNA binding assays, immunofluorescence, Western blotting, and NF-κB inhibitors were utilized to determine the contribution of PPARγ and NF-κB to the cytotoxic effects of CDDO.
+Results
+
+Human DLBCL cells express PPARγ and PPARγ is activated by CDDO. In both subtypes of DLBCL cells CDDO inhibited proliferation, was cytotoxic, and induced apoptosis. The ability of CDDO to kill DLBCL cells was found to be independent of PPARγ activation. Interestingly, CDDO exposure resulted in activation of the p50 and p65 subunits of NF-κB. Moreover, the combination of CDDO with NF-κB inhibitors resulted in enhanced DLBCL cell death, indicating that NF-κB activation was a prosurvival signal.
+Conclusion
+
+These findings support the potential of CDDO, alone or in combination with NF-κB inhibitors, as a novel therapy for patients with DLBCL.

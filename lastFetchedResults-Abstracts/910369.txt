@@ -1,0 +1,13 @@
+SWAT is a physically based model that can simulate water quality and quantity at the watershed scale. Due to many of the processes involved
+in the manual- or autocalibration of model parameters and the knowledge of realistic input values, calibration can become difficult. An autocalibration-
+sensitivity analysis procedure was embedded in SWAT version 2005 (SWAT2005) to optimize parameter processing. This embedded
+procedure is applied to six small-scale watersheds (subwatersheds) in the central Texas Blackland Prairie. The objective of this study is to evaluate
+the effectiveness of the autocalibration-sensitivity analysis procedures at small-scale watersheds (4.0e8.4 ha). Model simulations are completed
+using two data scenarios: (1) 1 year used for parameter calibration; (2) 5 years used for parameter calibration. The impact of manual
+parameter calibration versus autocalibration with manual adjustment on model simulation results is tested. The combination of autocalibration
+tool parameter values and manually adjusted parameters for the 2000e2004 simulation period resulted in the highest ENS and R2 values for
+discharge; however, the same 5-year period yielded better overall ENS, R2 and P-values for the simulation values that were manually adjusted.
+The disparity is most likely due to the limited number of parameters that are included in this version of the autocalibration tool (i.e. Nperco,
+Pperco, and nitrate). Overall, SWAT2005 simulated the hydrology and the water quality constituents at the subwatershed-scale more adequately
+when all of the available observed data were used for model simulation as evidenced by statistical measure when both the autocalibration and
+manually adjusted parameters were used in the simulation.

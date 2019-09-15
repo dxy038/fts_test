@@ -1,0 +1,8 @@
+Purpose
+pare the diagnostic performances of artificial neural networks (ANNs) and multivariable logistic regression (LR) analyses for differentiating between malignant and benign lung nodules on computed tomography (CT) scans.
+s
+tudy evaluated 135 malignant nodules and 65 benign nodules. For each nodule, morphologic features (size, margins, contour, internal characteristics) on CT images and the patient’s age, sex and history of bloody sputum were recorded. Based on 200 bootstrap samples generated from the initial dataset, 200 pairs of ANN and LR models were built and tested. The area under the receiver operating characteristic (ROC) curve, Hosmer–Lemeshow statistic and overall accuracy rate were used for the performance comparison.
+s
+ad a higher discriminative performance than LR models (area under the ROC curve: 0.955 ± 0.015 (mean ± standard error) and 0.929 ± 0.017, respectively, p &lt; 0.05). The overall accuracy rate for ANNs (90.0 ± 2.0%) was greater than that for LR models (86.9 ± 1.6%, p &lt; 0.05). The Hosmer–Lemeshow statistic for the ANNs was 8.76 ± 6.59 vs. 6.62 ± 4.03 (p &gt; 0.05) for the LR models.
+sions
+sed to differentiate between malignant and benign lung nodules on CT scans based on both objective and subjective features, ANNs outperformed LR models in both discrimination and clinical usefulness, but did not outperform for the calibration.

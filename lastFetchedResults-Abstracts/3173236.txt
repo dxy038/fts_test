@@ -1,0 +1,1 @@
+This paper illustrates the architectures of lightwave centralized access networks integration of RoF. It includes simultaneously provide triple-play service by single modulator, 100Gb/s and above baseband with 60-GHz mm-wave, and bidirectional OFDM-m-QAM RoF/ WDM-OFDM-PON networks.

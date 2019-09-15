@@ -1,0 +1,1 @@
+The objective of this paper is to delineate classes of linear time-invariant systems with structured uncertainty (either real or complex) for which a Riccati based H<sup>&#8734;</sup> style solution to the robust stabilization problem is possible

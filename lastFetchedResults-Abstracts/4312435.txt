@@ -1,0 +1,1 @@
+Objective picture quality measures cannot estimate the effect of blocking artifacts caused by video compression sufficiently. In this paper, we apply cepstrum analysis to quantify the blocking artifacts. We show experimental results for some test sequences using different coding schemes and prove effectiveness of our approach.

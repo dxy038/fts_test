@@ -1,0 +1,11 @@
+Objective
+Changes in cardiovascular measures have been advocated as sensitive markers of phasic events arising from sleep. The current study was aimed to analyse the effects of periodic leg movements (PLMS) on heart rate variability (HRV) during NREM sleep in patients having restless legs syndrome and periodic leg movements during sleep.
+Methods
+The absolute and normalized high- and low-frequency peaks from spectral analysis (FFT) of R–R intervals, the HRV changes using wavelet transform, the geometric and time domain HRV were measured in 14 patients with restless legs syndrome and PLMS. The analysis was done comparing one hundred, 10 min periods with PLMS (PLMS+) and 60 periods without PLMS (PLMS−) in stage 2 of NREM sleep. In 8 patients analysis was also done in slow wave sleep (SWS).
+Results
+Occurrence of PLMS induced changes in geometrical indices of HRV, with a rise of the triangular index and the triangular interpolation of R–R intervals in PLMS+ periods (P<0.0001). Small changes in time domain indices were found during PLMS+ periods, while the SD of the R–R intervals (SDNN), reflecting global HRV, was significantly higher (P=0.001). While the low frequency (LF) power significantly increased in PLMS+ periods (P<0.0001), high frequency (HF) power showed a weak and not significant reduction. The rise in sympathetic activity as detected by frequency domain HRV analysis was related to density and interval of PLMS. Comparison between sleep stages of NREM sleep demonstrated lower values of HRV measures when PLMS+ periods occur in SWS.
+Conclusions
+Overall, PLMS occurrence was associated with a shift to increased sympathetic activity without significant changes in cardiac parasympathetic activity. The frequency domain analysis of HRV appears to be an easy tool to estimate the autonomic changes related to PLMS and PLMS− arousals and to differentiate their occurrence during stage 2 and deep sleep.
+Significance
+Spectral HRV measures may offer a simple approach to estimate the degree of autonomic changes occurring in relation to periodic leg movements in restless legs patients.
+

@@ -1,0 +1,1 @@
+We demonstrate a bidirectional 10 Gb/s WDM-PON with 100 km reach and REAM-based ONUs using heterodyne detection. The proposed network can support 640 customers at the rate of 1.25 Gb/s via TDM hybrid.

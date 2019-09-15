@@ -1,0 +1,9 @@
+Objective
+We investigated the feasibility of electroencephalography (EEG) dipole source localisation of interictal epileptiform discharges from data acquired during routine clinical inpatient video-EEG monitoring (VEM) and compared a 19-channel ‘routine montage’ with a 29-channel ‘surgical montage’ that includes an additional row of 10 inferior temporal electrodes.
+Methods
+Twenty consecutive patients who had VEM for the presurgical evaluation of medically refractory partial epilepsy were screened. Thirteen of the patients had focal interictal spikes recorded, and in 11 (85%) these were technically satisfactory for source localisation. Fourteen spike foci were analysed as 3 patients had bilateral independent spikes. EEG data was acquired with 29 electrodes including an inferior temporal row (surgical montage). For comparison, the 10 additional electrodes were excluded from analysis (routine montage). Using NEUROSCAN™ Source 2.0 software, a computed dipole source localisation of averaged spikes was performed utilising a magnetic resonance imaging-based finite element model. Dipole localisation was compared with that of the Comprehensive Epilepsy Program (CEP) evaluation.
+Results
+Using the surgical montage dipole source localisation was consistent with the CEP spike localisation for 13/14 spikes (93%, P<0.005), compared with only 5/14 spikes (36%) using the routine montage.
+Conclusions
+Data derived from routine clinical inpatient VEM using a routine montage can yield accurate EEG dipole source localisation, but significantly more accurate localisation is obtained using the surgical montage.
+

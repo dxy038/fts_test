@@ -1,0 +1,1 @@
+Rayleigh crosstalk caused by the double Rayleigh reflection of a signal is investigated in long systems consisting of distributed Raman amplifiers. A simple equation for the crosstalk-to-signal ratio is presented and it is shown that bidirectional pumping reduces crosstalk. Power penalties arising from the crosstalk are evaluated using a Gaussian crosstalk model

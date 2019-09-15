@@ -1,0 +1,11 @@
+Objective
+The study addressed the impact of the frequency of tutorial-enriched augmented visual feedback, provided by a virtual simulation system (DentSim™), on the skill acquisition for a cavity preparation task in novice dental students.
+Methods
+
+Thirty-six subjects were assigned to two training groups and a control group. The task consisted of a geometrical cross preparation on the lower left first molar. All subjects performed a pre-test to assess their basic skill level. The training groups received simulation feedback, enriched with tutorial information, across acquisition. One group trained under continuous augmented feedback, while a second group trained under an intermittent (66% of the time) feedback. At both 1-day and 4-month interval, subjects performed a retention test to explore learning specific effects. Two transfer tests were added to assess the extrapolation of the learned skills to an adjacent molar. All tests were performed in the absence of feedback. A control group performed all the tests, without preceding training. All preparations were graded by the simulation system.
+Results
+
+The training groups performed similarly across acquisition and improved with practice (ANOVA, P < 0.001). After 1 day and 4 months of no practice, the training groups outperformed the control group on a retention test (ANOVA, P < 0.001) and transfer test (ANOVA, P < 0.001).
+Conclusions
+
+Performance and learning of a cavity preparation task on a simulation unit was independent of the frequency of tutorial-enriched augmented visual feedback within the range tested. Training sessions on a simulation unit could be alternated with training sessions in the traditional phantom head laboratory.

@@ -1,0 +1,4 @@
+The objective of this study is development of driver&rsquo;s sleepiness using Visually Evoked Potentials (VEP). VEP computed from EEG signals from the visual cortex. We use the Steady State VEPs (SSVEPs) that are one of the most important EEG signals used in human computer
+
+interface systems. SSVEP is a response to visual stimuli presented. We present a classification method to discriminate between closed eyes and opened eyes. Fourier transforms and power spectrum density features extracted from signals and Multilayer perceptron and radial basis function neural networks used for classification. The experimental results show an accuracy of 97% for test data.
+

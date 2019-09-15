@@ -1,0 +1,11 @@
+Objective
+Psychophysiological correlates of selective attention and working memory were investigated in a group of 18 healthy children using a visually presented selective memory search task.
+Methods
+Subjects had to memorize one (load1) or 3 (load3) letters (memory set) and search for these among a recognition set consisting of 4 letters only if the letters appeared in the correct (relevant) color. Event-related potentials (ERPs) as well as alpha and theta event-related synchronization and desynchronization (ERD/ERS) were derived from the EEG that was recorded during the task.
+Results
+In the ERP to the memory set, a prolonged load-related positivity was found. In response to the recognition set, effects of relevance were manifested in an early frontal positivity and a later frontal negativity. Effects of load were found in a search-related negativity within the attended category and a suppression of the P3-amplitude. Theta ERS was most pronounced for the most difficult task condition during the recognition set, whereas alpha ERD showed a load-effect only during memorization.
+Conclusions
+The manipulation of stimulus relevance and memory load affected both ERP components and ERD/ERS.
+Significance
+The present paradigm may supply a useful method for studying processes of selective attention and working memory and can be used to examine group differences between healthy controls and children showing psychopathology.
+

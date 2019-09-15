@@ -1,0 +1,11 @@
+Objective
+Tumor necrosis factor alpha (TNFα) is an old foe in allogeneic bone marrow transplantation (allo-BMT) promoting acute graft-versus-host disease (aGVHD). We investigated to what extent donor T cells contribute to TNFα production.
+Methods
+
+Lethally irradiated B6D2F1 mice were transplanted with bone marrow (BM) and T cells from syngeneic B6D2F1 or allogeneic B6 donors and assessed for cytokine production, aGVHD, and survival.
+Results
+
+Analysis of serum TNFα kinetics in recipients of allogeneic B6 wild-type BM and wild-type T cells revealed that TNFα levels peaked around day 7 after allo-BMT, whereas TNFα was undetectable in syngeneic controls. TNFα was produced by both host and donor cells. Further exploration showed that specifically donor CD4+ but not CD8+ T cells were the primary donor cell source of TNFα at this early time point; numbers of TNFα expressing splenic CD4+ T cells were higher than CD8+ T cells 7 days after allo-BMT, and maximal serum TNFα levels were detected following allo-BMT with only CD4+ T cells compared to levels found in allogeneic recipients of only wild-type CD8+ or to only CD4+ TNFα−/− T cells. Concurrent with increased TNFα levels, early clinical aGVHD and mortality were more severe following allo-BMT with either wild-type CD4+ and CD8+ or CD4+ T cells only.
+Conclusion
+
+Our data demonstrate that in addition to residual host cells donor CD4+ T cells significantly contribute to the proinflammatory cytokine milieu engendered early after allo-BMT through the production of TNFα. These findings support strategies focusing on TNFα neutralization as primary treatment for aGVHD.

@@ -1,0 +1,10 @@
+AbstractObjectives
+lore the association between frequency of consumption of sugar-sweetened beverages (SSB) and caries increment over 4 years in adults. A second objective was to explore whether the association between frequency of SSB consumption and caries increment varied by socio-demographic characteristics and use of fluoride toothpaste.
+s
+rom 939 dentate adults who participated in both the Health 2000 Survey and the Follow-Up Study of Finnish Adults’ Oral Health were analysed. At baseline, participants provided information on demographic characteristics, education and dental behaviours, including two questions on frequency of SSB consumption. The 4-year net DMFT increment was calculated using data from baseline and follow-up clinical oral examinations. The association was tested in negative binomial regression models and the moderating role of sex, age, education and use of fluoride toothpaste was examined by adding their two-way interaction with SSB consumption to the main effects model.
+s
+tive association was found between frequency of SBS consumption and 4-year net DMFT increment, regardless of participants’ socio-demographic and behavioural characteristics. Adults drinking 1–2 and 3+ SSB daily had, respectively, 31% (Incidence Rate Ratio: 1.31; 95%CI: 1.02–1.67) and 33% (IRR: 1.33; 95%CI; 1.03–1.72) greater net DMFT increments than those not drinking any SSB. None of the four two-way interaction terms was significant (all p &gt; 0.05).
+sion
+seems to be a dose–response relationship between frequency of SSB consumption and caries increment in adults. That association was consistent across socio-demographic characteristics, and more importantly, use of fluoride toothpaste.
+al significance
+ng sugar-sweetened beverages on a daily basis is related to greater caries risk in adults.

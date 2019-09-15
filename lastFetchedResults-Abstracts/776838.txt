@@ -1,0 +1,20 @@
+The main objective of present study is to predict daily global solar radiation (GSR) on a horizontal surface, based on meteorological
+variables, using different artificial neural network (ANN) techniques. Daily mean air temperature, relative humidity, sunshine hours,
+evaporation, and wind speed values between 2002 and 2006 for Dezful city in Iran (32 160N, 48 250E), are used in this study. In order
+to consider the effect of each meteorological variable on daily GSR prediction, six following combinations of input variables are
+considered:
+(I) Day of the year, daily mean air temperature and relative humidity as inputs and daily GSR as output.
+(II) Day of the year, daily mean air temperature and sunshine hours as inputs and daily GSR as output.
+(III) Day of the year, daily mean air temperature, relative humidity and sunshine hours as inputs and daily GSR as output.
+(IV) Day of the year, daily mean air temperature, relative humidity, sunshine hours and evaporation as inputs and daily GSR as output.
+(V) Day of the year, daily mean air temperature, relative humidity, sunshine hours and wind speed as inputs and daily GSR as output.
+(VI) Day of the year, daily mean air temperature, relative humidity, sunshine hours, evaporation and wind speed as inputs and daily
+GSR as output.
+Multi-layer perceptron (MLP) and radial basis function (RBF) neural networks are applied for daily GSR modeling based on six
+proposed combinations.
+The measured data between 2002 and 2005 are used to train the neural networks while the data for 214 days from 2006 are used as
+testing data.
+The comparison of obtained results from ANNs and different conventional GSR prediction (CGSRP) models shows very good
+improvements (i.e. the predicted values of best ANN model (MLP-V) has a mean absolute percentage error (MAPE) about 5.21% versus
+10.02% for best CGSRP model (CGSRP 5)).
+  2010 Elsevier Ltd. All rights reserved.

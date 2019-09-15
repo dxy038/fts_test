@@ -1,0 +1,46 @@
+In many circumstances, texture is the only
+information that can be used in natural image analysis
+because it is an important property of the surface that
+characterizes it’s nature. Texture is defined as a spatial
+arrangement of local (gray level) intensity attributes which
+are correlated within areas of visual scene corresponding to
+surface regions. An image region has a constant texture if
+sets of its local properties in that region are constant. Thus
+texture analysis has received considerable attention in the
+field of image analysis and pattern recognition. Texture
+exhibits some sort of periodicity of the basic pattern of
+Spongy Tissue in alphonso mango. This leads to use textural
+property to identify different patterns of Spongy Tissue in
+alphonso for detection of defects in alphonso mango. Visual
+assessment of texture made by human is time consuming and
+inspection made by human does not achieve a high degree of
+accuracy and preciseness. Automated visual inspection of the
+textural pattern improves the accuracy and preciseness
+during detection of defects in alphonso mango. In the
+literature, the researchers worldwide have been working in
+various texture analysis algorithms for different applications
+like detection, recognition, classification, segmentation,
+clustering etc. Many algorithms suffer from low sensitive
+detection, difficult back ground adaption and high memory
+requirement. Problems and limitations associated with the
+available techniques have been reported by many studies.
+Each has some drawback under all lighting conditions and no
+one has used a robust, reliable algorithm for detection of
+spongy tissue in alphonso mango under real life test
+environment. To develop an optimized algorithm using a non
+contact mechanism which will detect the defective alphonso
+mangoes happen to be a challenging task. The objective of
+the proposed research work is to develop a database using
+non-contact imaging technique like digital X-ray and to
+obtain computationally cost effective and noncontact solution
+that achieve better recognition rate under various conditions
+in consultation with the agriculture scientist. In this paper we
+have proposed use of Gabor wavelets for extraction of
+textural features that identifies Spongy Tissue in alphonso
+mango successfully. Performance of the proposed algorithm
+is carried out on the generated database [1] that is easily
+available for the researchers working on the said area.
+Experimental results computed using the proposed algorithm
+and manual validation process with the cut sections of the
+alphonso mangoes show that identification rate of defective
+mangoes for the said database was found to be 93.6%.

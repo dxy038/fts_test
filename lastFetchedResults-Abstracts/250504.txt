@@ -1,0 +1,9 @@
+This work presents the development and implementation of a synthesis and optimization procedure
+based on genetic algorithms (GA). A modified version of the basic GA, consisting in a hybrid fuzzy–
+GA, is considered. The performance of the optimization procedure is improved by employing linguistic
+knowledge and uncertainties inherent of human thinking. This eases the definition of the penalty and
+global objective functions that would be required in a standard GA procedure, which is not a simple
+task since it involves subjective assumptions. The application of the proposed procedure is focused
+on the design of steel catenary risers (SCRs) for floating oil production units at deep and ultra-deep
+waters. The application of this procedure is illustrated first by a small academic example, and then
+by a case study involving the design of lazy-wave configurations of SCRs

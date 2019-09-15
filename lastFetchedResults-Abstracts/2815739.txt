@@ -1,0 +1,1 @@
+This paper provides an objective evaluation of six supervised classification techniques and three state of the art features, with the objective of obtaining a single combination of them that provides both robustness and objective performance improvements. As a conclusion, a simple procedure for obtaining LULC maps with four targeted classes is proposed.

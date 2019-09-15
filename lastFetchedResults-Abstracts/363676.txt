@@ -1,0 +1,9 @@
+Study objective
+We identify patient characteristics associated with uncompleted visits to the emergency department (ED).
+Methods
+We used registration and billing data to conduct a pair-matched case-control study. ED patients who left without being seen (cases) between July 1 and December 31, 2004, were matched to patients who stayed and were treated (N=1,476 pairs) according to registration date and time (±2 hours) and triage level (controls). The association between sociodemographic characteristics, previous ED utilization, and proximity to the ED and the risk of an uncompleted visit was assessed by the odds ratio (OR) using conditional logistic regression.
+Results
+During the 6-month study period, the overall left-without-being-seen rate was 6.4%. Seventeen percent of cases compared with 5% of controls had at least 1 previous uncompleted visit during the previous year. After adjusting for all patient characteristics, younger age, being uninsured (adjusted OR=1.73; 95% confidence interval [CI] 1.35 to 2.21) or covered by Medicaid (adjusted OR=1.67; 95% CI 1.27 to 2.20), and a previous uncompleted visit (adjusted OR=3.60; 95% CI 2.67 to 4.85) were significantly associated with the risk of an uncompleted visit.
+Conclusion
+Previous ED utilization is predictive of future ED utilization. EDs should make every effort to keep their left-without-being-seen rates to a minimum because patients who are the least likely to receive care elsewhere (ie, those uninsured or covered by Medicaid) are more likely to leave without being seen.
+

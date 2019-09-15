@@ -1,0 +1,11 @@
+The objective of this contribution is to model ductile damage phenomena under consideration of large inelastic
+strains, to couple the corresponding constitutive law with a multi-layer shell kinematics and to give  nally
+an adequate  nite element formulation. An elastic{plastic constitutive law is formulated by using a spatial
+hyperelasto-plastic formulation based on the multiplicative decomposition of the deformation gradient. To
+include isotropic ductile damage the continuum damage model of Rousselier is modi ed so as to consider
+large strains and additionally extended by various void nucleation and macro-crack criteria. In order to achieve
+numerical e ciency, elastic strains are supposed to be su ciently small providing a numerical e ective
+integration based on the backward Euler rule. Finite element formulation is enriched by means of the enhanced
+strain concept. Thus the well-known de ciencies due to incompressible deformations and the inclusion of
+transverse strains are avoided. Several examples are given to demonstrate the performance of the algorithms
+developed concerning large inelastic strains of shells and ductile damage phenomena

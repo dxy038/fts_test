@@ -1,0 +1,11 @@
+Objective
+Serrate/Jagged and Delta are cell surface ligands for Notch receptors that may influence hematopoietic cell fate decisions and are known to be expressed in bone marrow stromal cells. In a series of screenings of cDNAs constructed by a cDNA library subtraction technique, we identified Jagged1, one of the Notch ligands, as a gene up-regulated by macrophage colony-stimulating factor (M-CSF) in bone marrow macrophages. Therefore, we compared stromal cells and macrophages for expression of Notch ligands including Jagged1 and analyzed the regulation of their expression by cytokines.
+Materials and Methods
+
+Murine bone marrow macrophages were prepared by culturing femoral bone marrow cells with M-CSF. Primary bone marrow fibroblastic stromal cells were prepared by a culture system that we recently developed. The expression of Notch ligands was analyzed by either Northern blot analysis or reverse transcriptase polymerase chain reaction.
+Results
+
+The bone marrow macrophages expressed Jagged1 but not Jagged2 and Delta1 at a level that was detectable by Northern blot analysis. Expression of the Jagged1 gene was markedly up-regulated by growth factors for the cells, i.e., M-CSF, granulocyte-macrophage colony-stimulating factor, and interleukin-3. Expression of Jagged2 and Delta1 seldom was affected by the stimuli. The primary bone marrow fibroblastic stromal cells, and murine stromal cell lines, such as PA6 and ST2, also expressed Jagged1 transcript, at levels comparable to the steady-state level in macrophages. However, expression of the Jagged1 gene was little affected when these cells were stimulated with fibroblastic growth factor and platelet-derived growth factor.
+Conclusions
+
+We demonstrated that bone marrow macrophages as well as stromal cells constitutively produced Jagged1 and that the expression was markedly up-regulated by hematopoietic growth factors, M-CSF, granulocyte-macrophage colony-stimulating factor, and interleukin-3. The results highlight the involvement of macrophages and these growth factors in hematopoietic cell fate decisions via the production of Jagged1.

@@ -1,0 +1,11 @@
+Objective
+Linear-electrical impedance myography (EIM) is a non-invasive technique for the evaluation of muscle, in which high-frequency alternating current is injected into the body via two surface electrodes, and the resulting voltage pattern over a selected muscle is measured using a second, larger set of electrodes. The precise location and size of the electrodes can be critical to the data obtained, and in this study the effects of variation in these factors were evaluated.
+Methods
+Linear-EIM was performed in 5 subjects while varying the location of the current injecting electrodes and in an additional 8 subjects while varying the position of the voltage electrodes.
+Results
+The major outcome variable, the ‘spatially averaged phase’ (θavg), decreased as the ipsilateral current injecting electrode was moved farther from the voltage electrodes, reaching a plateau 15–20 cm distant. As for the voltage electrode array, distal–proximal shifts resulted in the greatest changes, with variation in θavg being as high as 14% per cm; circumferential shifts around the limb had more modest effects.
+Conclusions
+Linear-EIM results depend systematically on current and voltage electrode positions, but with reasonable care variation can be minimized.
+Significance
+With proper attention to electrode placement, linear-EIM has sufficient reproducibility to become an important clinical tool in neuromuscular disease evaluation.
+

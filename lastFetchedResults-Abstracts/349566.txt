@@ -1,0 +1,11 @@
+Objective
+Patients must remain immobile for magnetoencephalography (MEG) and MRI recordings to allow precise localization of brain function for pre-surgical functional mapping. In young children with epilepsy, this is accomplished with recordings during sleep or with anesthesia. This paper demonstrates that MEG can detect, characterize and localize somatosensory-evoked fields (SEF) in infants younger than 4 years of age with or without total intravenous anesthesia (TIVA).
+Methods
+We investigated the latency, amplitude, residual error (RE) and location of the N20m of the SEF in 26 infants (mean age = 2.6 years). Seventeen patients underwent TIVA and 9 patients were tested while asleep, without TIVA.
+Results
+MEG detected 44 reliable SEFs (77%) in 52 median nerve stimulations. We found 27 reliable SEFs (79%) with TIVA and 13 reliable SEFs (72%) without TIVA. TIVA effects included longer latencies (p < 0.001) and lower RE (p < 0.05) compared to those without TIVA. Older patients and larger head circumferences also showed significantly shorter latencies (p < 0.01).
+Conclusions
+TIVA resulted in reliable SEFs with lower RE and longer latencies.
+Significance
+MEG can detect reliable SEFs in infants younger than 4 years old. When infants require TIVA for MEG and MRI acquisition, SEFs can still be reliably observed.
+

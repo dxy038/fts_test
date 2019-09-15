@@ -1,0 +1,9 @@
+Objective
+Interleukin-6 (IL-6) is a multifunctional cytokine affecting growth and survival of normal B cell lineage and multiple myeloma cells. To test the hypothesis that IL-6, as well as other hematopoietic growth factors, may enhance apoptosis of target cells, we investigated the effect of IL-6 on myeloma cells in the presence of IFN-α, which is prescribed for patients with multiple myeloma.
+Materials and Methods
+Four myeloma cell lines, PCM6, NOP-2, U266, RPMI8226 were tested. We determined the induction of apoptosis by flow cytometry, using an FITC-Annexin V.
+Results
+IFN-α induced apoptosis on myeloma cell lines, and this apoptosis was further enhanced in the presence of IL-6, via activation of caspase 3. During induction of this apoptosis, the expression of c-Myc and Fas increased. The addition of IL-6 further increased the expression of Fas, but not that of c-Myc. Bcl-2, Bcl-x, and p53 were not affected by the addition of IL-6 and/or IFN-α. Addition of a PI-3-K inhibitor interfered with the enhancing effect of IL-6 on the apoptosis induced by IFN-α.
+Conclusion
+We propose that IL-6 has the death signal, as well as growth promoting effects, and that PI-3-K may play a key role in the induction of apoptosis by IL-6.
+

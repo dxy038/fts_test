@@ -1,0 +1,14 @@
+Objective
+This study was done to assess and compare the prognostic significance of multiple methods for measuringST-segment elevation resolution (STR) following primary percutaneous coronary intervention (PCI).
+Background
+
+Resolution of ST-segment elevation (STE) is a powerful predictor of both infarct-related artery patency and mortality in acute myocardial infarction (AMI). Recent thrombolytic studies have suggested that simple measures of STR may be as powerful as more complex algorithms. The optimal method of assessing STR following primary PCI has not been studied.
+Methods
+
+We analyzed 700 patients with technically adequate baseline and post-PCI electrocardiograms from the Controlled Abciximab and Device Investigation to Lower Late Angioplasty Complications (CADILLAC) trial. Five methods were used to assess STR: 1) summed %STR across multiple leads (ΣSTR); 2) %STR in the single lead with maximum baseline STE (MaxSTR); 3) absolute maximum STE before the procedure; 4) absolute maximum STE after intervention (MaxSTPost); and 5) a categorical variable based upon MaxSTPost (High Risk).
+Results
+
+At 30 days, ΣSTR, MaxSTR, and MaxSTPost all correlated strongly with mortality (p = 0.004, p = 0.005, and p < 0.0001, respectively) and the combined end point of mortality or reinfarction (p = 0.001, p = 0.001, and p < 0.0001). At one year, ΣSTR and MaxSTPost correlated with mortality (p = 0.04, p = 0.0001), reinfarction (p = 0.02, p = 0.0015), and the combined end point (p = 0.02, p < 0.0001). By multivariate analysis, only the simpler measures of MaxSTPost and High Risk categorization independently predicted all outcomes at both time points.
+Conclusions
+
+The STR following primary PCI in AMI correlates strongly with mortality and reinfarction, independent of target vessel patency. The simple measure of the maximal residual degree of STE after primary PCI is a strong independent predictor of both survival and freedom from reinfarction at 30 days and 1 year.

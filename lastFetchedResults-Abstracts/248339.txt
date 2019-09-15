@@ -1,0 +1,12 @@
+To generate the Pareto optimal set e¦ciently in multiobjective optimization, a hybrid optimizer is developed
+by coupling the genetic algorithm and the direct search method. This method determines a candidate region
+around the global optimum point by using the genetic algorithm, then searches the global optimum point by
+the direct search method concentrating in this region, thus reducing calculation time and increasing search
+e¦ciency. Although the hybrid optimizer provides cost-e¤ectiveness, the design optimization process
+involves a number of tasks which require human expertise and experience. Therefore, methods of optimization
+and associated programs have been used mostly by experts in the real design world. Hence, this hybrid
+optimizer incorporates a knowledge-based system with heuristic and analytic knowledge, thereby narrowing
+the feasible space of the objective function. Some domain knowledge is retrieved from database and design
+experts. The obtained knowledge is stored in the knowledge base. The results of this paper, through
+application to marine vehicle design with multiobjective optimization, show that the hybrid optimizer
+with aid of design knowledge can be a useful tool for multiobjective optimum design

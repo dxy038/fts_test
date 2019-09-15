@@ -1,0 +1,1 @@
+The objective of this paper is to discuss the regularity of viscosity solutions of time independent Hamilton–Jacobi Equations. We prove analogs of the KAM theorem, show stability of the viscosity solutions and Mather sets under small perturbations of the Hamiltonian.

@@ -1,0 +1,1 @@
+The problem of evaluation of the states of control object are analyzed. The objective of this work is to analyze possibilities of application of the developed methods of parametrical identification of interval models of the static systems for the estimation of vector of parameters of the state of one class of the dynamic systems.

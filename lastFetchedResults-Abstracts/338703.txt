@@ -1,0 +1,11 @@
+Objective
+Stromal cell–derived factor-1α (SDF-1α) has been implicated in homing and engraftment of primitive hematopoietic progenitor cells (HPC) in studies demonstrating reduced NOD/SCID repopulating potential of HPC exposed to supra-physiologic concentrations of SDF-1α or anti-CXCR4. Outcome of CXCR4 signaling in some cells has been shown to be dependent on the concentration of SDF-1α. We aimed to determine whether similar concentration-dependent responses to CXCR4 signaling are present in CD34+cells.
+Materials and Methods
+
+Human peripheral blood (PB), mobilized PB (MPB), or bone marrow (BM) CD34+ cells were incubated for 30 minutes with different concentrations of SDF-1α or anti-CXCR4, washed, then assessed for in vitro hematopoietic potential, migration, and NOD/SCID repopulating potential.
+Results
+
+Exposure of MPB or PB CD34+ cells to 100 ng/mL SDF-1α increased tyrosine phosphorylation without subsequent proliferation or apoptosis. Spontaneous and SDF-1α-directed migration also increased in pretreated cells, despite previous exposure to SDF-1α. Cells exposed to 1 μg anti-CXCR4/106 cells displayed similar increases in activation and migration as cells exposed to SDF-1α, demonstrating the ability of anti-CXCR4 to activate the CXCR4 receptor. Interestingly, chimerism in NOD/SCID mice transplanted with MPB CD34+ cells pretreated with SDF-1α or anti-CXCR4 was increased, while exposure of these cells to 10- to 100-fold higher concentrations of these proteins inhibited in vitro migration and NOD/SCID repopulating potential. Migration and NOD/SCID repopulating potential of BM CD34+ cells remained unchanged after treatment with either protein.
+Conclusions
+
+These results illustrate the ability of SDF-1α and anti-CXCR4 to augment repopulating potential of CD34+ cells, and suggest that HPC function can be favorably modulated through specific CXCR4 signaling

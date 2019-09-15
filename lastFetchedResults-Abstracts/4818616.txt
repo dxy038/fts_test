@@ -1,0 +1,1 @@
+This paper focuses on the theoretical basis and general procedures for the characterization of antenna loss using the cold sky calibration sequences. The main objective is to find an improved procedure to compensate for the long- and short-term drifts observed in SMOS data. Future versions of the SMOS level 1 processor will include the procedures detailed here.

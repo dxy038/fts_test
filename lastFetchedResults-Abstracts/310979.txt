@@ -1,0 +1,11 @@
+Objective. To develop a mathematical model capable of describing the static and dynamic motion response of the lumbar spine to posteroanterior forces.
+
+Design. Static, impulsive and oscillatory forces with varying thrust angles and offsets were applied to the model, and the resulting motion responses were compared to experimental data published for spinal mobilization and manipulation of prone-lying subjects.
+
+Background. Methods are sought to improve understanding of the dynamic force-induced displacement response of the lumbar spine during spinal mobilization and manipulation treatment.
+
+Methods. The thorax, pelvis and five lumbar vertebrae were represented as seven rigid structures and eight flexible joint structures. Flexible joint structures were modeled using spring and damper elements with three displacement degrees-of-freedom (posterior–anterior and axial displacement, and flexion–extension rotation). The resulting 21 degrees-of-freedom lumped parameter model was solved in modal space.
+
+Results. The fundamental natural frequency of vibration was 5.24 Hz. Simulations performed using 100 N static and dynamic posteroanterior forces applied to the L3 vertebrae indicated that peak L3 segmental displacements were up to 2.40 mm (impulsive) and 8.23 mm (oscillatory at 2 Hz). Appreciable axial displacements (0.41 mm) and flexion–extension rotations (1.49°) were also observed for oscillatory forces at L3. The posteroanterior motion response of the lumbar vertebrae was relatively insensitive to both the thrust force angle and thrust force offset, but axial displacements and flexion–extension rotations showed a large change (2-fold or greater) for thrust angles greater than −5° (caudal) in comparison to vertical thrusts. Intersegmental motion responses for static, impulsive and oscillatory loads were more comparable than their segmental counterparts.
+
+Conclusions. The model predicts lumbar segmental and inter-segmental motion responses to manipulative forces that are otherwise difficult to obtain experimentally.

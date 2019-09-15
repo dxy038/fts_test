@@ -1,0 +1,1 @@
+A variable reduction method is used in the mathematical formulation of routing problems where independent variables obey linear constraints. In this respect the first and second derivatives of the reduced objective function are evaluated. The Hessian matrix results are diagonal and therefore Newton´s method can easily be applied.

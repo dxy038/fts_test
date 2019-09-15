@@ -1,0 +1,10 @@
+The objective of the present work is to investigate the effect of the Earth’s oblateness
+parameters, particularly J2, on the formation flight of micro satellites in low circular
+orbits. For this purpose, the Clohessy-Wiltshire equations, which have been accordingly
+modified, will be reviewed to arrive at a convenient formulation as a set of linearized
+differential equations of motion to include the J2 effects in the LVLH frame of
+reference. Comparison will then be made between the orbit of twin-satellite formation
+flying with respect to that predicted by the Hill-Clohessy-Wiltshire equation. Results
+obtained compare well with those in the literature and can be utilized for further
+development, parametric studies and mission design.
+

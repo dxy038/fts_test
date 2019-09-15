@@ -1,0 +1,11 @@
+Objective
+To investigate whether very low EEG frequency activity can be recorded from post asphyctic full term neonates using EEG equipment where the high pass filter level was lowered to 0.05 Hz.
+Methods
+The time constant of the amplifier hardware was set to 3.2 s in order to enable recordings that equal to a high pass filter cut off at 0.05 Hz. Burst episodes were selected from the EEGs of 5 post asphyctic full term neonates. The episodes were analysed visually using different montages and subjected to power spectrum analysis. Powers in two bands were estimated; 0–1 and 1–4 Hz, designated very low- and low-frequency activity, respectively (VLFA, LFA).
+Results
+In all infants, VLFA coinciding with the burst episodes could be detected. The duration of the VLFA was about the same as that of the burst episode i.e. around 4 s. The activity was most prominent over the posterior regions. In this small material, a large amount of VLFA neonatally seemed to possibly be related to a more favourable prognosis.
+Conclusions
+VLFA can be recorded from post asphyctic full term neonates using EEG equipment with lowered cut off frequency for the high pass filter.
+Significance
+VLFA normally disregarded due to filtering, is present in the EEG of sick neonates and may carry important clinical information.
+

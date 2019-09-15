@@ -1,0 +1,27 @@
+Suspended particles are instrumental in controlling the reactivity, transport and biological impacts of substances in
+aquatic environments, and provide a crucial link for chemical constituents between the water column, bed sediment and
+food chain. This article reviews the role of suspended particles in the chemical and biological cycling of trace constituents
+(trace metals, organo-metallic compounds and hydrophobic organic micropollutants; HOMs) in estuaries, with particular
+emphasis on the effects of and changes to particle reactivity and composition.
+The partitioning (or distribution coefficient, KD) and bioavailability of chemical constituents, and assimilation
+efficiency (AE) of such by bivalve suspension feeders, are identified as key parameters requiring definition for accurate
+biogeochemical modelling, and the discussion centres around the determination of and controls on these parameters.
+Particle-water interactions encompass a variety of physical, biological, electrostatic and hydrophobic effects, and are
+largely dependent on the character and concentration of suspended particles and salinity. The salinity-dependence results
+from the competing and complexing effects of seawater ions for trace metals, and the compression of water in the
+presence of dissolved seawater ions and consequent salting out of neutral solute (HOMs, organo-metallic compounds and
+some trace metal complexes). The extent of biological solubilization of chemical constituents from suspended particles is
+dependent on the nature of chemical components of the gastro-intestinal environment and their interactions with ingested
+particles, and the physiological (e.g. gut passage time) and chemical (e.g. redox conditions and pH) constraints imposed
+on these interactions. Generally, chemicals that associate with fine, organic-rich particles (or, for some HOMs, fine
+inorganic particles), and desorb at pH 5–6 and/or complex with digestive enzymes or surfactants are most readily
+solubilized in the gut. The extent of assimilation of solubilized chemical is then determined by its ability to pass the gut
+lining and partition into cytosolic material.
+In practice, KD and AE are determined experimentally by means of radiotracers added to contained suspensions or
+mesocosms, while operational measurement of bioavailability relies on in vitro chemical or biological (enzymatic)
+extraction of particles. What is lacking, however, and is identified as an ultimate goal of future research, is the ability to
+predict these parameters from theoretical principles and thermodynamic constants. Since many of the inherent
+interactions and mechanisms are controlled by particle composition and reactivity, a more immediate objective would be
+better characterization of the biogeochemical properties of suspended particles themselves. This includes chemical
+resolution of the bulk organic matter, definition of the abundance and synergistic effects of component sorbent phases,
+and determination of the effects of particle-seawater ion interactions on the reactivity of the particle surface.

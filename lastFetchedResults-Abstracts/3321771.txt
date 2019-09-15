@@ -1,0 +1,1 @@
+The speed-gradient method of control design for oscillatory nonlinear systems is extended to multi-objective and constrained problems including the problem of suppressing resonances.

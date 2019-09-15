@@ -1,0 +1,12 @@
+A Cellular Automata approach is introduced in this paper for the optimal design of sewer
+network problems. The solution of sewer network optimization problems requires the determination of
+pipe diameters and average pipe cover depths, minimizing the total cost of the sewer network subject to
+operational constraints. One constraint of the problem, namely, the maximum relative depth of flow, is
+first used to define the pipe diameters in terms of the pipe slope and, hence, the nodal elevation of the
+network. As a result, the sewer network optimization problem is redefined, in terms of the network nodal
+elevations, and the resulting problem is solved using a Cellular Automata (CA) approach. The nodes of the
+network are used as the CA cell, with the corresponding elevations as CA cell states. The updating rule
+of the proposed CA is then derived by requiring the stationary total penalized objective function of the
+problem, with respect to the cell state. The proposed method is used to solve two benchmark examples
+and the results are compared to those obtained by other methods. The results indicate that the proposed
+method is highly efficient compared to alternative methods, while producing comparable results.

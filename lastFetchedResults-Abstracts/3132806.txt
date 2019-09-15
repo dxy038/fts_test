@@ -1,0 +1,1 @@
+We experimentally demonstrated an optical 2R regenerator for four 10-Gb/s WDM channels based on self-phase modulation and inter-channel walk-off control in a bidirectional fiber configuration. Both the scalability and the cascadability of our proposed regenerator were also evaluated in numerical simulations.

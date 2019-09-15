@@ -1,0 +1,10 @@
+Abstract
+Background
+The degree of liver fibrosis in patients with Hepatitis C (HCV) provides important prognostic information; however, the only current method available to obtain this information is by performing a liver biopsy. Liver biopsies are invasive, associated with complications, and costly. There has been recent interest in developing a panel of serum markers that can reliably predict the presence of fibrosis and, thus, obviate the need for a liver biopsy. Our objective was to prospectively validate a panel of serum fibrosis markers (FIBROSpectSM II) that has been recently developed.
+Methods
+Serum was obtained from 108 consecutive HCV (15% with HCV/ETOH) patients seen in a hepatology clinic at a single tertiary care center at the time of liver biopsy. The performance of FIBROSpect II (consisting of 3 fibrosis markers: hyaluronic acid, tissue inhibitor of metalloproteinases 1, and alpha-2-macroglobulin) in differentiating mild (F0-F1) from significant (F2-F4) fibrosis was assessed by comparing the panel results with performed liver biopsy.
+Results
+The prevalence of significant fibrosis in the study group was 36.1%. The diagnostic value of the serum marker panel to detect significant fibrosis as assessed by area under the receiver operating characteristic (ROC) curve was 0.826. Performance characteristics are as follows: sensitivity 71.8%, specificity 73.9%, positive predictive value 60.9%, negative predictive value 82.3%, and overall accuracy of 73.1%.
+Conclusion
+This prospective study supports the clinical utility of serum markers in detecting fibrosis and validates the performance of FIBROSpect II in a prospective cohort of patients. The high negative predictive value of the test provides a reliable alternative to rule out severe fibrosis.
+

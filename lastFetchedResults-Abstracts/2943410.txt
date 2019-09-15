@@ -1,0 +1,1 @@
+Summary form only given. The advantages and limitations of various approaches to bidirectional transmission with EDFAs are described. Emphasis is on open cascades of EDFAs in which no isolators or WDM components are present.

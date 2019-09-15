@@ -1,0 +1,11 @@
+Objective
+It has been shown that a new procedure (implicit function as squashing time, IFAST) based on artificial neural networks (ANNs) is able to compress eyes-closed resting electroencephalographic (EEG) data into spatial invariants of the instant voltage distributions for an automatic classification of mild cognitive impairment (MCI) and Alzheimer’s disease (AD) subjects with classification accuracy of individual subjects higher than 92%.
+Methods
+Here we tested the hypothesis that this is the case also for the classification of individual normal elderly (Nold) vs. MCI subjects, an important issue for the screening of large populations at high risk of AD. Eyes-closed resting EEG data (10–20 electrode montage) were recorded in 171 Nold and in 115 amnesic MCI subjects. The data inputs for the classification by IFAST were the weights of the connections within a nonlinear auto-associative ANN trained to generate the instant voltage distributions of 60-s artifact-free EEG data.
+Results
+The most relevant features were selected and coincidently the dataset was split into two halves for the final binary classification (training and testing) performed by a supervised ANN. The classification of the individual Nold and MCI subjects reached 95.87% of sensitivity and 91.06% of specificity (93.46% of accuracy).
+Conclusions
+These results indicate that IFAST can reliably distinguish eyes-closed resting EEG in individual Nold and MCI subjects.
+Significance
+IFAST may be used for large-scale periodic screening of large populations at risk of AD and personalized care.
+

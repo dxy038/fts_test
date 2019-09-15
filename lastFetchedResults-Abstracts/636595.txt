@@ -1,0 +1,13 @@
+Cancer maps are important tools in the descriptive presentation of the cancer burden. The objective is to
+explore the advantages and disadvantages of mapping methods based on point data in comparison with
+maps based on aggregated data. Four types of maps were prepared based on the same underlying data set
+on breast cancer incidence in Slovenian females, 2002–2004. First, the standardized incidence ratios (SIR)
+by municipalities are mapped in a traditional way. Second, two maps applying widely used smoothing
+methods are presented, both based on aggregated municipalities’ data: floating weighted averages and the
+Bayesian hierarchical modelling. Finally, the new alternative method based on exact cancer cases and
+population coordinates is applied – called the local SIR estimates. The decreasing west to east trend is
+visible on all map types. Smoothing produced more stable and less noisy SIR estimates. The map of the
+local SIR estimates emphasizes extremes, but unlike the map, based on the observed SIR, these estimates
+are statistically stable, enabling more accurate evaluation. The main advantages of local SIR estimates over
+the other three methods are the abilities of revealing more localized patterns and ignoring the arbitrary
+administrative borders. The disadvantage is that the geocoded data are not always available.

@@ -1,0 +1,1 @@
+Bidirectional transmission of 30 Gb/s D8PSK (downstream) and 10 Gb/s OOK (upstream) signals over a TDM-PON has been demonstrated experimentally. Results indicate that incoherent multilevel formats are an attractive option for providing the high bit rates required for future TDM-PONs.

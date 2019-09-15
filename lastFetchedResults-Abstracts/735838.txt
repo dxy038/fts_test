@@ -1,0 +1,9 @@
+Objective
+To evaluate the performance of a novel computerized system for reporting clinical microbiology results. The new system provides a summarized overview of a patient's current (or past) microbiological status, with the option to selectively explore in greater depth. It is deployed using World Wide Web technology, which supports virtually any kind of computer and allows physicians to obtain results via the Internet using personal computers in the office or at home.
+Methods
+In an unblinded crossover study at a university-affiliated medical center, participants used both the new system and a conventional display system to retrieve selected microbiology results for two actual patients, according to standardized questionnaires, with balanced allocation of sequence of system use. Participants also subjectively rated the two systems. The participants were 16 physician, pharmacist, and nurse volunteers. Outcome measures included completion time and number of errors (categorized as major and minor) associated with results retrieval, and participants' ratings of the new system.
+Results
+Mean completion time was 45% shorter (13.9 versus 25.5 minutes; P< 0.001), and there were fewer associated major errors (0 versus 13; P = 0.01) and minor errors (10 versus 21; P = 0.003) with the summarized display system. All participants rated the new system as easier to learn and use than the conventional system.
+Conclusions
+A system that appropriately summarizes and groups microbiology results can significantly shorten retrieval times and reduce interpretive errors, while providing users with information needed for cost-effective therapy. Such a system can be deployed by leveraging the rapidly evolving technology of the World Wide Web.
+

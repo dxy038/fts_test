@@ -1,0 +1,1 @@
+The above paper1 proposed an interpolative encoder for per-channel voiceband application. A description is given here of a very simple bidirectional shift register for use as a digital accumulator in such encoders.

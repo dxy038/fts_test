@@ -1,0 +1,15 @@
+The main objective of this study is to examine the three dimensional surface crack problems
+in functionally graded coatings subjected to mode I mechanical or transient thermal loading. The
+surface cracks are assumed to have a semi-elliptical crack front profile of arbitrary aspect ratio. The
+cracks are embedded in the functionally graded material (FGM) coating which is perfectly bonded to
+a homogeneous substrate. A three dimensional finite element method is used to solve the thermal and
+structural problems. Collapsed 20-node isoparametric elements are utilized to simulate the strain singularity
+around the crack front. The stress intensity factors are computed by using the displacement
+correlation technique. Four different coating types are considered in the analyses which have homogeneous,
+ceramic-rich (CR), metal-rich (MR) and linear variation (LN) material composition profiles.
+In the mechanical loading problems, the composite medium is assumed to be subjected to fixed-grip
+tension or three point bending. In the thermal analysis, a transient residual stress problem is considered.
+The stress intensity factors calculated for FGM plates are in good agreement with the previously
+published results on three dimensional surface cracks. The new results provided show that maximum
+stress intensity factors computed during transient thermal loading period for the FGM coatings are
+lower than those of the homogeneous ceramic ones.

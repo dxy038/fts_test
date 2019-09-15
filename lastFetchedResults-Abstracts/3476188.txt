@@ -1,0 +1,1 @@
+By using the method of Liapunov functional, a model for bidirectional associative memory networks with time delays is studied. The asymptotic stability is global in the state space of the neuronal activations and is also independent of the delays. Our results can be applied to a variety of situations that arise both in the field of biological and artificial neural networks.

@@ -1,0 +1,11 @@
+Objective. Three-dimensionality (3D) of manual contact forces at the patient–practitioner interface.
+
+Design. Description of a new hand/palm-held computerized 3D force measuring system.
+
+Background. Up until now instrumented direct manual contact force measurement has been one-dimensional (1D).
+
+Methods. The system is built for interface (direct) measurement of 3D manual contact force with real-time data presentation. Static calibration was performed of the 3D force sensor with variable preloads to study their effect as well of the prototype system adapted for clinical manual examination and treatment.
+
+Results. Calibration validity and reliability of the 3D force sensor under all but the 5 kN preload and of the new system showed systematic respective random errors in the order or smaller than one newton.
+
+Conclusions. The new system enables, for the first time, recording and presenting of 3D manual contact forces at the patient–practitioner interface. 3D direct manual contact force measures have the potential to give a more complete and differentiated characterization of patient and practitioner forces than 1D forces. Clinical validity of the prototype system will have to be investigated, and for studying specific clinical manual handling techniques, obvious limitations require further development.

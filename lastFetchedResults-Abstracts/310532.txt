@@ -1,0 +1,11 @@
+Objective. To compare the magnitude of muscle moments acting on either end of body segments with other motion-dependent and gravitational moments during the task of standing up.
+
+Design. A mathematical model which partitions moment components was developed and applied and descriptive analysis of the resultant data conducted.
+
+Background. It has been hypothesized that segmental interactions may be exploited during the task of standing up from sitting to lessen demands for the production of large muscle forces. There has been no investigation of the relative sizes of these interactions nor of their impact on the task.
+
+Method. Kinematic data obtained from six healthy male subjects were used as inputs to a ‘top-down’ dynamic model. Each total segmental moment was partitioned into a net muscle component as well as gravitational and motion-dependent components.
+
+Results. The model successfully predicted both muscle moments determined by the ‘ground-up’ inverse dynamics approach and also ground reaction forces measured with a force platform. Motion-dependent moments were consistently small compared with muscle and gravitational moments.
+
+Conclusion. Segmental motion during standing up is controlled almost entirely by gravitational moments and the direct action of muscles which span either end of the segment. Motion-dependent moments do not significantly reduce the muscle moments required to stand up.

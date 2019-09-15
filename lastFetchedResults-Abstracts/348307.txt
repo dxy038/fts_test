@@ -1,0 +1,11 @@
+Objective
+We examined whether task-related band power changes (event-related desynchronization/synchronization; ERD/ERS) that have been linked to individual differences in cognitive ability demonstrate satisfying temporal stability and cross-situational consistency.
+Methods
+Multi-channel EEG recordings from 29 adults, assessed at three different occasions over 2 years were examined. Between-session correlations and consistency coefficients (Cronbach's alpha) across the three experiments were evaluated for both, spectral power features of the resting EEG and ERD/ERS estimates while the participants performed some cognitive task (i.e. different elementary cognitive tasks that put comparable demands on the participants).
+Results
+ERD/ERS values, while subjects performed a cognitive task, demonstrated satisfactory stability and consistency (i.e. >0.7), whereby the degree of consistency varied as a function of frequency band and brain region. Highest consistency was found for the 8–10 Hz ERD in parieto-occipital recording sites (i.e. >0.9). In resting EEG, mean alpha (gravity) frequency was the most stable EEG feature.
+Conclusions
+The present data suggest that ERD/ERS phenomena in different narrow frequency bands are rather stable over time and across different situations. The relatively high reproducibility of ERD/ERS promotes the usefulness of this measure in assessing individual differences of physiological activation patterns accompanying cognitive performance.
+Significance
+This study addresses the issue of reproducibility of EEG in general and ERD/ERS experiments in particular, which is a prerequisite for both basic research and clinical studies
+

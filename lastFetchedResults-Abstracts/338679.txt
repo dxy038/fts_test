@@ -1,0 +1,11 @@
+Objective
+At present, no dynamic quantitative models of stem cell organization are available that fulfill all criteria of the prevalent functional definition of hematopoietic stem cells and, at the same time, provide a consistent explanation of cell kinetic and functional stem cell heterogeneity, reversibility of cellular properties, self-organized regeneration after damage, fluctuating activity and competition of stem cell clones, and microenvironment dependency of stem cell quality. To solve this problem, we propose a new, comprehensive model concept.
+Materials and Methods
+
+A single cell-based stochastic model is described. It makes the novel concept of within-tissue plasticity operational. Within a range of potential options, individual cells may reversibly change their actual set of properties depending on the influence of the local growth environment. Stochastic switching between the growth environments introduces fluctuations that eventually generate heterogeneity. Extensive model simulations are compared with experimental data.
+Results
+
+Although stemness is not an explicit cellular model property, the system behavior is consistent with the functional definition of stem cells and explains a large set of experimental observations on stem cell function in vivo and in vitro on the level of cell populations and individual cells. Classic results such as the colony-forming unit spleen assay, as well as recent experimental observations on stem cell kinetics, individual clone tracking, and fluctuating clonal contribution, are discussed.
+Conclusions
+
+This concept introduces a fundamentally new perspective on stem cell organization treating stemness not as an explicit cellular property but as the result of a dynamic process of self-organization. The model needs to be extended to incorporate lineage specification and tissue plasticity.

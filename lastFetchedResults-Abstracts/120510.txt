@@ -1,0 +1,10 @@
+Conventional models for distillation columns are based on equilibrium and non-equilibrium stage concepts, and both consider the fluid dynamics
+in a macroscopic point of view. The main objective of this work is to apply a CFD model under Eulerian-Eulerian framework for gas–liquid flows,
+with capability to predict the momentum and thermal phenomena of the multiphase flows. A three-dimensional and transient model with energy
+and momentum conservation balances has been applied for predictions of volume fractions, velocities, pressure and temperature fields of two-phase
+flows on sieve tray distillation. The mathematical model was applied in the CFD commercial code for numerical studies, with the construction of
+a particular numerical grid and with own sub-routines in FORTRAN language for the closures equations obtained from literature. The model is
+solved using the finite-volume method with variables located in a generalized co-ordinate system for typical operating conditions taken from the
+literature. The results show the volume fractions, velocities and temperature profiles as a function of the time and the position in the distillation sieve
+tray and when are compared with the literature comments confirm that the model is suitable to predict thermal gas–liquid flows on a distillation
+sieve tray.

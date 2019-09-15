@@ -1,0 +1,17 @@
+Dielectric resonator antennas (DRAs) are a relatively new class of antenna that utilizes the radiation
+phenomena of dielectric resonators in open space. Since mainly analytical approaches have been applied
+to investigate DRA designs, the current DRA forms are limited to simple geometric shapes and highperformance
+DRAs with complex shapes have not yet been developed. Topology optimization is capable
+of yielding high-performance structures, and has been extensively applied to a variety of structural
+optimization problems. Applying it to the task of DRA design may be extremely useful for the design
+of high-performance antennas. On the other hand, the finite difference time domain (FDTD) method has
+been used to numerically evaluate general antenna performance, since it is numerically robust during
+time domain analyses and can handle complex models. Thus, the integration of topology optimization
+with the FDTD method has the potential to enable innovative designs of advanced antennas that offer
+exceptional performance. In this research, we propose a new topology optimization method for the design
+of DRAs that aim to operate with enhanced bandwidths, using the FDTD method. First, the concept of
+topology optimization is briefly discussed, and a way to integrate topology optimization with the FDTD
+method is proposed. Next, design requirements are clarified and the corresponding objective functions
+and the optimization problem are formulated. An optimization algorithm is constructed based on these
+formulations. Finally, several DRA design examples are presented to confirm the usefulness of the proposed
+method. Copyright q 2007 John Wiley & Sons, Ltd

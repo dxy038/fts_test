@@ -1,0 +1,8 @@
+A batch-to-batch model-based iterative optimal control strategy for batch processes is proposed. To address the difficulties in
+developing detailed mechanistic models, recurrent neural networks are used to model batch processes from process operational data.
+Due to model-plant mismatches and unmeasured disturbances, the calculated optimal control profile may not be optimal when
+applied to the actual process. To address this issue, model prediction errors from previous batch runs are used to improve neural
+network model predictions for the current batch. Since the main interest in batch process operation is on the end of batch product
+quality, a quadratic objective function is introduced to track the desired qualities at the end-point of a batch. Because model errors
+are gradually reduced from batch-to-batch, the control trajectory gradually approaches the optimal control policy. The proposed
+scheme is illustrated on a simulated methyl methacrylate polymerisation reactor.

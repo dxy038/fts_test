@@ -1,0 +1,14 @@
+Background
+Although ambient air pollution exposure has been linked with poor health in many parts of the world, no previous study has investigated the effect on morbidity in the city of Adelaide, South Australia.
+Objective
+
+To explore the association between particulate matter (PM) and hospitalisations, including respiratory and cardiovascular admissions in Adelaide, South Australia.
+Methods
+
+For the study period September 2001 to October 2007, daily counts of all-cause, cardiovascular and respiratory hospital admissions were collected, as well as daily air quality data including concentrations of particulates, ozone and nitrogen dioxide. Visibility codes for present weather conditions identified days when airborne dust or smoke was observed. The associations between PM and hospitalisations were estimated using time-stratified case-crossover analyses controlling for covariates including temperature, relative humidity, other pollutants, day of the week and public holidays.
+Results
+
+Mean PM10 concentrations were higher in the warm season, whereas PM2.5 concentrations were higher in the cool season. Hospital admissions were associated with PM10 in the cool season and with PM2.5 in both seasons. No significant effect of PM on all-age respiratory admissions was detected, however cardiovascular admissions were associated with both PM2.5 and PM10 in the cool season with the highest effects for PM2.5 (4.48%, 95% CI: 0.74%, 8.36% increase per 10 μg/m3 increase in PM2.5).
+Conclusion
+
+These findings suggest that despite the city's relatively low levels of air pollution, PM concentrations are associated with increases in morbidity in Adelaide. Further studies are needed to investigate the sources of PM which may be contributing to the higher cool season effects.

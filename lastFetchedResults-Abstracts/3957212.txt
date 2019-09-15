@@ -1,0 +1,1 @@
+The objective of this paper is to present an adaptive algorithm to identify third-order frequency-domain Volterra filter coefficients, which correspond to the discrete Fourier transform (DFT) of the time-domain Volterra filter coefficients. The approach rests upon the block least mean square (LMS) algorithm based on the overlap-save method.

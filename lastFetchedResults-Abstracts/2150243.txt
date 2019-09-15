@@ -1,0 +1,39 @@
+This paper briefly reviews Fiber Reinforced Elastomeric Isolators (FREIs) as a relatively new type 
+of
+elastomeric bearings. In comparison with conventional Steel Reinforced Elastomeric Isolators 
+(SREIs) that are reinforced with steel plates, FREIs utilize fiber fabric layers as the 
+reinforcement material. The fiber reinforcement is employed to prevent the lateral bulging of 
+elastomer layers when the bearing is subjected to vertical compression. Fiber reinforced isolators 
+are categorized in two groups depending on the boundary conditions at top and bottom surfaces of 
+the bearing. These are “bonded-“ and “unbonded-“ FREIs. The main objective of this paper is to 
+simulate the lateral load-displacement hysteresis loops of unbonded-FREIs. In an unbonded-FREI, no 
+bonding is provided between the bearing and its top and bottom contact supports. As such, shear 
+forces are transferred via friction at the contact surfaces. When an unbonded-FREI is deformed 
+laterally, portions of its contact surfaces roll off the contact supports, and the bearing exhibits 
+a specific deformation called “rollover deformation”. As a result of rollover deformation, the 
+effective lateral stiffness of the bearing is decreased significantly. This in turn improves the 
+seismic isolation efficiency due to the increased base isolated period of bearing. The ultimate 
+lateral displacement in an unbonded-FREI may achieve when the originally vertical faces of the 
+bearing contact top and bottom supports. Lateral load- displacement response in an unbonded-FREI is 
+characterized with a gradual softening (due to rollover deformation) that is followed by a 
+stiffening behavior at the ultimate stage of lateral bearing displacement. Under a cyclic 
+excitation, the response characteristics of bearing during the first load-cycle are different than 
+the subsequent cycles of the same load amplitude. This phenomenon that is specific to elastomeric 
+materials is known as Mullins’ effect. In this paper an extended Bouc-Wen model is developed to 
+simulate the lateral load-displacement hysteresis loops of unbonded-FREIs. The model captures the 
+gradual softening and ultimate stiffening behavior in the load-displacement curve of the bearing, 
+and addresses the Mullins’ effect in the simulation of hysteresis loops. The proposed model 
+comprises two simultaneous coupled equations which employ six constant coefficients altogether. To 
+determine these coefficients, the model is fitted to experimentally-evaluated load-displacement 
+hysteresis loops of prototype bearings. The experimental loops are obtained from cyclic shear tests 
+that are carried out on the bearing while it is subjected to a constant vertical compression. In 
+order to account for Mullins’ effect, an individual set of coefficients corresponding to unscragged 
+loops (the first cycle of each displacement amplitude) are evaluated. The second set of 
+coefficients is attributed to scragged response (subsequent cycles of each displacement amplitude) 
+of the bearing. To simulate the load-displacement hysteresis loops, the proposed model switches 
+between the first and the second set of coefficients depending on the unscragged or scragged state 
+of the elastomer, respectively. A constraint is imposed on the model to assure its continuity when 
+the model coefficients are alternated. Comparison between analytical and experimental results 
+(shake-table test data) indicates that the proposed model is accurate in dynamic response 
+simulation of the unbonded-FREIs studied in this paper.
+

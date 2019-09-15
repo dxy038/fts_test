@@ -1,0 +1,8 @@
+In this study we investigate numerically the possibility of reconstructing the interior details of a nuclear
+waste vault using photon flux measurements. The passive gamma ray tomography method is employed in
+order to simultaneously retrieve the intensity and the location of strongly radioactive components. After
+reformulating the problem as an optimization problem the objective functional obtained is found to have
+a multi-modal non-smooth structure. Therefore, evolutionary algorithms are used in order to minimize the
+objective functional in order to determine the radioactive components. Circular inclusions are considered
+and detailed numerical results are presented for both exact and noisy data. Copyright q 2007 John Wiley
+& Sons, Ltd.

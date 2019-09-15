@@ -1,0 +1,11 @@
+Objective. To develop a 3-D mathematical model that accurately evaluates anterior cruciate ligament impingement against the intercondylar notch.
+
+Design. The model simulated physical interactions between the anterior cruciate ligament and the intercondylar notch in tibiofemoral movement.
+
+Background. Anterior cruciate ligament impingement has been evaluated through planar radiographic images, which may not characterize the complex 3-D notch shape associated with impingement.
+
+Methods. After examining potential anterior cruciate ligament impingement in five cadaver knee specimens, the model was implemented using data from an individual cadaveric knee with representative impingement. The knee was loaded passively in various patterns to induce impingement, and the impingement force and six degrees-of-freedom tibiofemoral kinematics were measured. The femur, tibia, and anterior cruciate ligament were digitized. Spatial data points representing the notch surfaces were surface-fitted using bicubic splines. The model detected for impingement during the tibiofemoral movement and used a “crawling algorithm” to determine the deformed geometry of the impinging ligament.
+
+Results. The model detected the impingement accurately and the ligament strain determined by the model was highly correlated with the recorded impingement force when impingement occurred during the tibiofemoral movement. Distance between the anterior cruciate ligament and the notch wall was determined when impingement was not detected.
+
+Conclusion. The model quantitatively characterized impingement of the anterior cruciate ligament against the intercondylar notch in 3-D space.

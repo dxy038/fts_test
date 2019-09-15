@@ -1,0 +1,11 @@
+Objective
+To evaluate if functional synergies are comprised of flexible combinations of a small number of ensembles of upper limb muscles to stabilize a particular performance variable during a force production task.
+Methods
+Electromyographic (EMG) signals of wrist, elbow and shoulder muscles were recorded. Linear combinations of indices of the integrated EMG of nine muscles (muscle modes or M-modes) and their relationship to changes in the moment of force produced by the right arm of subjects about the horizontal axis of a handle were first determined. Uncontrolled manifold (UCM) analysis was performed to determine the extent to which variance of the M-modes acted to produce a consistent change in the moment of force.
+Results
+Subjects exhibited three M-modes, two of which were ‘reciprocal’ while the third mode was considered a co-contraction mode. The three M-modes were found to be combined to form synergies that produced a consistent change in the moment of force across repetitive trials. Variance in the M-mode space that led to consistent changes in the moment of force across repetitions was significantly higher than variance that tended to produce inconsistent changes in the moment of force.
+Conclusions
+Flexible combinations of activations of ensembles of muscles are organized to stabilize the value of or produce consistent changes in the value of important performance variables.
+Significance
+The study of flexible muscle synergies in healthy individuals paves the way to understanding abnormal postural and movement patterns in individuals with neurological disorders.
+

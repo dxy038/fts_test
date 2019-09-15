@@ -1,0 +1,11 @@
+Objective
+Activation–inducible lymphocyte immunomediatory molecule (AILIM; also referred to as inducible costimulator [ICOS]) is the third molecule identified in the CD28 family participating in T–cell activation. AILIM/ICOS has been implicated in both effector and pathogenic T–cell functions, as evidenced by the beneficial effects of AILIM/ICOS blockade in several murine disease models. In the present study, the role of human AILIM/ICOS in T–cell function was investigated using a fully human monoclonal antibody specific to human AILIM/ICOS (JTA–009).
+Materials and Methods
+
+The effect of JTA–009 on allogenic T–cell proliferation was examined using human mixed lymphocyte reaction (MLR). To investigate the efficacy of AILIM/ICOS blockade in vivo, a graft–vs–host disease (GVHD) model, in which severe combined immunodeficient (SCID) mice were grafted with human peripheral blood mononuclear cells (PBMCs), was used.
+Results
+
+In MLR, suppressive effect of JTA–009 on allogenic T–cell proliferation was detected with comparable potency to CD28 blockade by cytotoxic T–lymphocyte antigen 4 (CTLA4)–Ig at an intermediate culture phase. JTA–009 acts as a blocking antibody in vivo and inhibited binding of human AILIM/ICOS to mouse AILIM/ICOS ligand (B7 h). Treatment with JTA–009 significantly prolonged survival of mice, with reductions of human interferon–γ levels in blood and number of human cells in spleens.
+Conclusion
+
+These results demonstrate that human AILIM/ICOS plays a role in the GVHD pathogenesis mediated by human T cells, and its blockade is attractive for abrogating undesired T–cell responses as is well–documented in mice.

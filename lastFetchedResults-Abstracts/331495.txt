@@ -1,0 +1,11 @@
+Objective
+To evaluate the cytotoxicity of nickel-based alloy surfaces after nitride film coatings.
+Methods
+
+A total of 120 disc-shaped specimens (1.5 × 12.0 mm) were prepared from nickel (Ni) alloy ingots and metallurgically ground with silicon carbide (SiC) sandpaper to 1200 grit and used as the ground group. Ninety specimens from the ground group were selected and further polished with 1.0 μm aluminum powder slurry and assigned as the polished group. Titanium nitride (TiN) and titanium–aluminum nitride (TiAlN) film coatings were deposited onto 30 polished specimens each by a reactive radio frequency magnetron sputter deposition system and used as coated groups, respectively. The morphological changes and cytoskeleton of tested human gingival fibroblasts were observed using fluorescence microscopy at 3 h and 24 h time periods, respectively. An MTT assay was used to assess cell viability at 24 h. The results were statistically analyzed (n = 5, ANOVA, Scheffe’, p < 0.05).
+Results
+
+After 3 h of incubation, cells began to spread on the test surfaces. Spindle-shaped fibroblasts with well-developed cytoskeleton and distinct actin fibers were observed at the 24 h incubation point on the polished and coated specimens. Results of the MTT assay revealed that the TiN and TiAlN film coated groups were significantly higher in cell proliferation and viability than the polished and control groups (p < 0.05).
+Significance
+
+The biocompatibilty of Ni-based alloy was increased significantly after nitride film coating.

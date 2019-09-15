@@ -1,0 +1,7 @@
+Objective
+Toll-like receptor (TLR)-4 signalling has been shown to accelerate atherosclerosis. As oxidised phospholipids are present in atherosclerotic plaque and have been shown to modulate TLR4 signalling, we investigated the role of oxidised 1-palmitoyl-2-arachidonyl-sn-glycero-3-phosphorylcholine (OxPAPC) in the regulation of TLR 1, 2, 4 and 6 signalling.
+Methods and results
+Unlike established TLR agonists, OxPAPC did not induce NF-κB-dependent gene expression in monocytic THP-1 cells, human aortic endothelial cells or TLR-deficient HEK-293 cells transfected with TLRs 1, 2, 4 or 6. OxPAPC induction of IL-8 was not blocked by the TLR4 specific antagonist Rhodobacter sphaeroides LPS in human aortic endothelial cells, though OxPAPC potently inhibited TLR4 mediated IL-8 induction in these cells. OxPAPC upregulated IL-8 production in TLR4 deficient HEK-293 cells and this was not increased following TLR4 overexpression. Lipids extracted from carotid atherectomy samples did not stimulate TLR 1, 2, 4 or 6 signalling in a HEK-293 transfection assay.
+Conclusions
+TLR4 signalling does not contribute to OxPAPC induced IL-8 expression in human epithelial HEK-293, monocytic THP-1 or aortic endothelial cells. As lipids extracted from diseased human artery also induced no TLR signalling, it is likely that the TLR-activating materials contributing to atherosclerosis are not of endogenous lipid origin.
+

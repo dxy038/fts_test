@@ -1,0 +1,7 @@
+Numerical simulation of strain localization can suffer from mesh orientation dependency when the mesh lines are not aligned with the localization band direction. In this paper the main objective is to present a dedicated numerical test that enables to assess the directional mesh bias of constitutive models in a systematic way. The test makes use of periodic boundary conditions, by which strain localization can be analyzed for different mesh alignments with preservation of mesh uniformity and with exclusion of boundary disturbances. Furthermore, the test can be used for calibration of length scale parameters, such as a crack bandwidth or a width of a nonlocal averaging zone, that aim to guarantee mesh objectivity.
+
+numerical test is systematically applied to the classical and still widely used crack band model. Simultaneously, different finite element characteristics are varied in a clean-cut way. From the results a significant directional mesh bias is identified quantitatively, depending on element shape, interpolation function and numerical integration scheme.
+
+sults have inspired to come up with an enhanced and more general crack bandwidth estimator. Validation of this new formulation on two demanding experimental fracture tests shows an improvement of the crack band model regarding its mesh objectivity.
+
+on the application with the crack band model, the authors consider the proposed numerical test as an attractive tool for assessing more advanced fracture models.

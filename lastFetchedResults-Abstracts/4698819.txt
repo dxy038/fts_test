@@ -1,0 +1,1 @@
+Our research tool, Umple, has the objective of raising the abstraction level of programming languages by including modeling abstractions such as UML associations, attributes and state machines. My research focuses on the syntax and semantics of state machines in Umple and the empirical validation of Umple as a whole.

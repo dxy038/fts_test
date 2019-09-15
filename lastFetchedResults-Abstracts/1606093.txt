@@ -1,0 +1,14 @@
+Due to an anticipated increase in air traffic during the next decade, air traffic control in busy
+airports is one of the main challenges confronting the controllers in the near future. Since the runway
+is often a bottleneck in an airport system, there is a great interest in optimizing the use of the
+runway. The most important factors in aircraft landing modeling are time and cost. For this reason,
+Aircraft Landing Scheduling Problem (ASLP) is a typical hard multi-constraint optimization
+problem and finding its efficient solution would be very difficult. So in real applications finding
+the best solution is not the most important issue and providing a feasible landing schedule in an
+acceptable time would be the preferred requirement. In this study a three objectives formulation of
+the problem proposed as a mathematical programming model on a runway in static mode. Problem
+is solved by multi-objective genetic algorithm (NSGA-II) and multi-objective Particle Swarm
+Optimization Algorithm (MOPSO). Considering a group of 20 aircrafts, this problem is solved and
+landing sequence determined and we are shown the obtained sequence does not follow First Come
+First Serve law for sequencing as well. Finally by comparing results, conclusion and suggestions
+are proposed.

@@ -1,0 +1,5 @@
+The purpose of this paper is to present a control strategy using Multiple Input/Multiple Output (MIMO) Second Order Sliding Modes (SOSM) for a grid-connected variable-speed Wind Energy Conversion System (WECS). The latter is based on a Double Fed Induction Generator (DFIG) in a bidirectional configuration with slip power recovery. Its points of operation can be electronically controlled and, with them, two independent control objectives can be stated. Thus, a control is designed to maximize the energy captured from the wind and to regulate the stator reactive power, contributing to the compensation of the power factor according to grid requirements.
+
+oposed technique can be applied to nonlinear MIMO systems and allows to make a separate design for each component of the controller. For these designs the Super-Twisting algorithm is employed in this work, which possesses excellent properties regarding simplicity of implementation and online operation, and robustness against uncertainties and external disturbances.
+
+y, representative simulation results are presented and analyzed.

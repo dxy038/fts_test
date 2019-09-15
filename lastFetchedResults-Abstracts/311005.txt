@@ -1,0 +1,11 @@
+Objective. This study aimed at estimating the musculotendon parameters of the prime elbow flexors in vivo for both normal and hemiparetic subjects.
+
+Design. A neuromusculoskeletal model of the elbow joint was developed incorporating detailed musculotendon modeling and geometrical modeling.
+
+Background. Neuromusculoskeletal modeling is a valuable tool in orthopedic biomechanics and motor control research. However, its reliability depends on reasonable estimation of the musculotendon parameters. Parameter estimation is one of the most challenging aspects of neuromusculoskeletal modeling.
+
+Methods. Five normal and five hemiparetic subjects performed maximum isometric voluntary flexion at nine elbow positions (0°–120° of flexion with an increment of 15°). Maximum flexion torques were measured at each position. Computational optimization was used to search for the musculotendon parameters of four prime elbow flexors by minimizing the root mean square difference between the predicted and the experimentally measured torque-angle curves.
+
+Results. The normal group seemed to have larger maximum muscle stress values as compared to the hemiparetic group. Although the functional ranges of each selected muscle were different, they were all located at the ascending limb of the force–length relationship. The muscle optimal lengths and tendon slack lengths found in this study were comparable to other cadaver studies reported in the literature.
+
+Conclusion. Subject-specific musculotendon parameters could be properly estimated in vivo.

@@ -1,0 +1,1 @@
+A new bark spectral distortion (BSD) for an objective speech quality measure is being proposed in this paper. This new BSD measure (called MBSD) takes into account the noise masking threshold for the calculation of BSD. Simulation results have shown improvement of the modified BSD over the conventional BSD

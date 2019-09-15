@@ -1,0 +1,8 @@
+Background and Objective: Increasing air pollution and consequently adversely effects on the quality of life for many people has resulted in the use of the air quality indice for determination of the actual amount of pollutants and air quality, as one of the most important and effective measures for air quality control, to be considered further. The air quality health index (AQHI) is a new index related to air pollution developed in collaboration with Environment Canada and Health Canada, in 2001. The purpose of this study was to design and develop a software system for calculating AQHI for the first time in the country that calculates the health effects caused by the presence of several pollutants (NO2, O3,PM10, and PM2.5) at the same time with a new approach.
+
+Materials and Methods: To achieve those aims, the software was designed and coded in Visual Basic. Net. After preparation of the software, it was tested using the real-time database of&nbsp; six air pollution monitoring stations in Tehran including Aghdasyeh, Setad Bohran, Shahrdari 4, Golbarg, Park-e- Roz, and Shahrdari 11.
+
+Results: This program is a software package installed on the computer with the possibility of exporting Excel file. The performance of software testing was verified using real data.
+
+Conclusion: The results of the verification tests show that the index calculated by the software introduced and presented in this study can be used as a useful tool to assess air quality.
+

@@ -1,0 +1,7 @@
+The primary objective of this work is to introduce a gear ratio selection strategy for a CVT equipped vehicle and show
+its effectiveness on the fuel consumption reduction. AFuzzy control algorithm is designed for this purpose. Anonlinear
+model is developed for simulating the longitudinal vehicle dynamics with accelerator pedal applied by the driver as an
+input. In order that pedal input values can be used for evaluation of control strategy, a pedal cycle concept was
+introduced. With the help of these cycles different driving conditions were simulated and the fuel consumption results
+were obtained using Advisor software. Results showed that the control system was successful in reducing the fuel
+consumption, especially in low acceleration driving cycles

@@ -1,0 +1,1 @@
+A method of improving the transmission quality of a FFSK mobile data transmission system is presented. It consists of a change in the FFSK subcarrier waveform that allows halving the BER (bit error rate) received on most of the working conditions. This objective is achieved without any modification on the receiver´s end of the system

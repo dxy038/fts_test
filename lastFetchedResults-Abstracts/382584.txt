@@ -1,0 +1,9 @@
+Background
+The diagnosis of tuberculous meningitis is difficult. Discrimination of cases from those of bacterial meningitis by clinical features alone is often impossible, and current laboratory methods remain inadequate or inaccessible in developing countries. We aimed to create a simple diagnostic aid for tuberculous meningitis in adults on the basis of clinical and basic laboratory features.
+Methods
+We compared the clinical and laboratory features on admission of 251 adults at an infectious disease hospital in Vietnam who satisfied diagnostic criteria for tuberculous (n=143) or bacterial (n=108) meningitis. Features independently predictive of tuberculous meningitis were modelled by multivariate logistic regression to create a diagnostic rule, and by a classification-tree method. The performance of both diagnostic aids was assessed by resubstitution and prospective test data methods.
+Findings
+Five features were predictive of a diagnosis of tuberculous meningitis: age, length of history, white-blood-cell count, total cerebrospinal fluid white-cell count, and cerebrospinal fluid neutrophil proportion. A diagnostic rule developed from these features was 97% sensitive and 91% specific by resubstitution, and 86% sensitive and 79% specific when applied prospectively to a further 42 adults with tuberculous meningitis, and 33 with bacterial meningitis. The corresponding values for the classification tree were 99% and 93% by resubstitution, and 88% and 70% with prospective test data.
+Interpretation
+This study suggests that simple clinical and laboratory data can help in the diagnosis of adults with tuberculous meningitis. Although the usefulness of the diagnostic rule will vary depending on the prevalence of tuberculosis and HIV-1 infection, we suggest it be applied to adults with meningitis and a low cerebrospinal fluid glucose, particularly in settings with limited microbiological resources.
+

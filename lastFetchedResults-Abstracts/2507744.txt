@@ -1,0 +1,21 @@
+Background: One of the main problems especially in operating room and monitoring devices is measurement of Blood Pressure (BP) by sphygmomanometer cuff.
+Objective: In this study we designed a new method to measure BP changes continuously for detecting information between cuff in?ation times by using vital signals
+in monitoring devices. This will be achieved by extraction of the time difference between each cardiac cycle and a relative pulse wave.
+Methods: Finger pulse and ECG signals in lead I were recorded by a monitoring
+device. The output of monitoring device is inserted in a computer by serial network
+communication. A software interface is used to display and process the signals in the
+computer. Time difference between each cardiac cycle and pulse signal was calculated throughout R wave detection in ECG and peak of pulse signal by the software.
+The relation between time difference in two waves and BP was determined then the
+coeffcients of equation were obtained in different physical situations. The results of
+estimating BP were compared with the results of sphygmomanometer method and the
+error rate was calculated.
+Results: In this study, 25 subjects participated among them 15 were male and 10
+were female. The results show that BP is linearly related to time difference. Average
+of coeffcient correlation is 0.9±0.03 for systolic and 0.82±0.04 for diastolic blood
+pressure. The highest error percentage was calculated 8% for male and 11% for female
+group. Signifcant difference was observed between the different physical situation
+and arm movement changes. The relationship between time difference and age was
+estimated in a linear relationship with a correlation coeffcient of 0.76.
+Conclusion: By determining linear relation values with high accuracy, BP can be
+measured with insignifcant error. Therefore it can be suggested as a new method to
+measure the blood pressure continuously.

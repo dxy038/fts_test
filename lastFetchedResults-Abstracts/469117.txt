@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to define gene expression patterns that are associated with the optimal versus suboptimal debulking of advanced-stage serous ovarian cancers.
+Study design
+RNA from 44 advanced serous ovarian cancers (19 optimal, 25 suboptimal) was evaluated with microarrays that contain >22,000 genes. Genes were screened on the basis of their association with debulking status to obtain the top 120 differentially expressed genes. These genes were then used to develop a predictive model for debulking status, which was subjected to out-of-sample cross validation.
+Results
+We found that patterns of expression of 32 genes can distinguish between optimal and suboptimal debulking with 72.7% predictive accuracy. An analysis of the data that were based on clusters of co-ordinately expressed genes resulted in only a marginal improvement in predictive accuracy (75%).
+Conclusion
+These data support the hypothesis that favorable survival that is associated with optimal debulking of advanced ovarian cancers is due to, at least in part, the underlying biologic characteristics of these cancers.
+

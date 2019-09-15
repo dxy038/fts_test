@@ -1,0 +1,22 @@
+The objective of this study was to develop a cost minimizing pattern for cube sugar and sugar
+transportation from production centers to refinement and storage centers and finally to
+distribution and consumption centers in Fars province. Producing centers are Marvdasht
+(27.3%), Eghlid (27.9%), Fasa (11.3%), Kavar (7.3%) and Mamasani (20.2%). Some of the
+province’s cube sugar and sugar is provided by import. The refinement and storage centers
+receiving the production of the mentioned producing centers are Marvdasht, Yasuj, Boosher,
+Eghlid, Abade, Lar, Abarghoo, Fasa, Tehran, Isfahan, Mamasani, Kazeroon, Istahban and
+Sepidan. The consumption centers also include all of Fars province townships. The
+transportation cost of the current transporting network amount to 56.55 billion Rials reducing by
+23% in optimal solution. Of the figure, transportation network between producing and
+refinement and storage centers accounts for 71.1% and 28.9% of the total cost rise from
+transportation network between refinement and storage and distribution and consumption
+centers. The main changes in network between producing and refinement and storage centers
+relate to transporting paths of Marvdasht, Eqlid and Mamasani. In optimal pattern production of
+Marvdasht is allocated to Yasuj, Boosher and Abarghoo in addition to Marvdasht and Shiraz. In
+optimal pattern, Eqlid’s production instead of Shiraz’s refinement and storage centers is
+transported to Tehran and Isfahan ones. A part of Mamasani’s production being transported to
+Tehran and Isfahan in current network is allocated to Yasuj and Boosher. In the transportation
+network between refinement and storage and distribution and consumption centers the main
+difference of current and optimal solutions relates to refinement and storage of Shiraz, Eqlid and
+Abade.
+

@@ -1,0 +1,9 @@
+This paper presents a case study in assessment of erosion hotspots in an Andean watershed. To do this, we made use of an interface called
+Geospatial Modelling of Soil Erosion (GEMSE): a tool that integrates Geographical Information Systems (GIS) with the Water Erosion Prediction
+Project (WEPP) model. Its advantages are: (i) it is independent of any special GIS software used to create maps and to visualize the results;
+(ii) the results can be used to produce response surfaces relating outputs (e.g. soil loss, runoff) with simple inputs (e.g. climate, soils, topography);
+(iii) the scale, resolution and area covered by the different layers can be different among them, which facilitates the use of different sources
+of information. The objective of this paper is to show GEMSE’s performance in a specific case study of soil erosion in La Encan˜ada watershed
+(Peru) where the hillslope version of WEPP has been previously validated. Resulting runoff and soil loss maps show the spatial distribution of
+these processes. Though these maps do not give the total runoff and soil loss at the watershed level, they can be used to identify hotspots that will
+aid decision makers to make recommendations and plan actions for soil and water conservation.

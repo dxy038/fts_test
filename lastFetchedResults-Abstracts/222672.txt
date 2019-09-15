@@ -1,0 +1,10 @@
+This paper addresses the question of theoretical
+versus practical performance of algorithms and data structures.
+It describes an experiment the first author has been using in
+his data structures course to achieve the primary objective of
+comparing theoretical behavior of algorithms with their actual
+performance. It also presents enhancements in performance evaluation
+experiments and a general methodology that can be used
+to develop experiments in senior or first-year graduate courses
+in data structures, algorithm analysis, software engineering, and
+operating systems.

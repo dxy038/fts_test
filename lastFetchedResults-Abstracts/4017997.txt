@@ -1,0 +1,1 @@
+The objective of this paper is to trace the roots of development of various numerical techniques used in electromagnetics. The rates of convergence of each of the techniques is also outlined. Finally, we present the differences among the techniques from a purely numerical standpoint.

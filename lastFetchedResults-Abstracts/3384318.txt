@@ -1,0 +1,1 @@
+This paper presents a novel objective function in order to design electromagnetic devices. The finite element method taking the open boundary condition into account is used for magnetic field computation. Comparison of the results obtained with the novel objective function and the least squares shows that the former is superior to the latter

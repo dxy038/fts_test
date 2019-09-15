@@ -1,0 +1,1 @@
+A validation method was developed to assess the effects of object morphologies and object patterns selected as worst case data inputs for DMT algorithms. When tested against an implementation under development at CASI, the method yielded results predicted for DMT. The findings provide an objective basis to evaluate DM surface construction methods under defined conditions.

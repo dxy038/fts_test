@@ -1,0 +1,11 @@
+Objective
+Epstein-Barr virus (EBV)-based vectors have favorable features for gene transfer, including a high transduction efficiency especially for B cells, large packaging capacity up to 150 kb pairs, and ability to infect postmitotic cells. Recombinant EBV was explored for transduction of primary human B-cell chronic lymphocytic leukemia (CLL) cells.
+Material and Methods
+
+EBV vectors deleted for all oncogenic sequences and encoding terminal repeats (TR) essential for encapsidation, the lytic origin of replication (oriLyt) for DNA amplification, and the enhanced green fluorescent protein (EGFP) were packaged using an optimized, helper-virus–free method. Infectious EBV virions encoding EGFP (EBV/EGFP) with an infectious titer up to 2 × 106 per milliliter were generated. Primary leukemic cells from 14 patients with CLL were successfully transduced with EBV/EGFP at a very low multiplicity of infection (< 1).
+Results
+
+Transgene expression was detected in up to 85% of cells 48 hours after infection. Transduction was specifically mediated by EBV vectors because gene transfer was inhibited by an antibody (72A1) directed against the viral envelope glycoprotein gp350/220. Furthermore, transduction of CLL cells with packaged EBV vectors coding for EGFP but deleted for TR sequences (TR−) did not result in EGFP expression compared to TR+ vector constructs (p = 0.009).
+Conclusion
+
+Helper-virus–free EBV-based gene transfer vectors hold promise for development of genetic therapies for CLL patients.

@@ -1,0 +1,1 @@
+We report a 24 TX + 24 RX transceiver underpinned by a &#8220;holey&#8221; CMOS IC. All channels operate at 20 Gb/s (BER &lt;;10<sup>-12</sup>, 7.3 pJ/bit) achieving record aggregate bidirectional bandwidth for parallel transceivers: 0.48 Tb/s.

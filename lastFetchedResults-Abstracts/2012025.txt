@@ -1,0 +1,7 @@
+Background and Aim: Skin cancer is the most common type of cancer constitutes and 75% of all cancers in the world. Malignant melanoma is the most invasive and lethal form of skin cancer. The objective of this study was to evaluate infrared thermography in differentiation of benign and malignant skin lesions. 
+
+Methods: This study was conducted on 120 patients (60 female, 60 male) with a lesion suspicious for melanoma and identifying the type of lesion (benign or malignant) based on thermal model using Fuzzy C-Means (FCM) clustering. In this imaging method, the difference on temperature responses between the normal and abnormal tissue was compared and data obtained was compared with biopsy results.
+
+Results: In 120 cases studied, 3 cases of skin cancer (2 male, 1 female) were found which all could be detected based on analysis of thermal images.
+
+Conclusion: At present, new methods for the detection of skin cancer, especially non-invasive diagnostic tools, have been discovered in several laboratories. The method presented in this paper could be considered as a non-invasive and cost effective method for the detection of skin cancer.

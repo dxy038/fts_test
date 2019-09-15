@@ -1,0 +1,8 @@
+Objective
+m of the study was the gender specific analysis of cross-sectional and longitudinal associations between body mass index class (BMI-class) and symptoms of depression in a representative sample of elderly German people.
+s
+ baseline of the ESTHER study (2000–2002), 9953 participants completed a comprehensive questionnaire including items regarding weight, height, and depression history. After five years, 7808 participants again completed the questionnaire and the 15-item geriatric depression scale (GDS-15). BMI was classified into five classes: normal weight, 18.5≤BMI&lt;25; overweight, 25≤BMI&lt;30; obesity class I, 30≤BMI&lt;35; obesity class II, 35≤BMI&lt;40; obesity class III, BMI≥40.
+s
+ic regression analysis for the cross-sectional data at five-year follow-up, adjusted for age, education, marital status, smoking, multimorbidity, physical activity, self-perceived cognitive impairment, and use of antidepressants, showed that the odds for depression were significantly elevated for women in obesity class II and significantly decreased for overweight men. The longitudinal analysis showed a similar pattern: Women in obesity classes II and III at baseline had significantly higher odds for being depressive five years later than women with normal weight at baseline (class II: OR=1.67; 95%CI=[1.06; 2.64]; class III: OR=2.93; 95%CI=[1.37; 6.26]; overweight men had lower odds than normal-weight men (OR=0.69; 95%CI=[0.51;0.92]).
+sion
+lationship between obesity and symptoms of depression appears to be heterogeneous across BMI-classes. Women are more affected than men by obesity class II and III; overweight appears to be associated with reduced risk of depression in elderly men.

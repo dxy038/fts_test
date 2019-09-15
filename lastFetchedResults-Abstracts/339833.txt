@@ -1,0 +1,11 @@
+Objective
+We investigated the utility of in vivo bioluminescence imaging (BLI) in assessing the therapeutic effects of total body irradiation (TBI) in a murine hematological malignancy model.
+Materials and Methods
+
+The suspension of Ba/F3 cells transduced with firefly luciferase and p190 BCR-ABL genes was exposed to ionizing radiation, and viable cell numbers and bioluminescent signals were measured serially. Mice intravenously inoculated with the cells underwent TBI at various doses. In vivo BLI was performed repeatedly until spontaneous death, and whole-body bioluminescence signals were determined as an indicator of whole-body tumor burden.
+Results
+
+In the cell culture study, bioluminescence signals generally reflected viable cell numbers, despite some overestimation immediately after irradiation. Sublethal TBI in mice transiently depressed the increase in whole-body signals and prolonged survival. Spontaneous death occurred at similar signal levels regardless of radiation dose. A significant negative correlation was found between survival and whole-body signal early after TBI. Significant dose dependence was demonstrated for both survival and signal increase early after TBI and was more evident for signal increase. Lethally irradiated mice without bone marrow transplantation died while showing weak signals. In mice receiving lethal TBI and syngeneic bone marrow transplantation, signal reduction and prolongation of survival were prominent, and whole-body signals at death were similar to those in nonirradiated or sublethally irradiated mice.
+Conclusion
+
+In vivo BLI allows longitudinal, quantitative evaluation of the response to TBI in mice of a hematological malignancy model. Antitumor effects can be assessed early and reliably using in vivo BLI.

@@ -1,0 +1,1 @@
+This paper presents a geographical sensitivity analysis on a vector road database. It consists in introducing controlled noise to the database and in studying the effects of this noise on the results of a chosen application. The objective is to give users the means to evaluate the accuracy of their application results for given quality parameters

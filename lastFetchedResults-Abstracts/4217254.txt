@@ -1,0 +1,1 @@
+In this paper bidirectional topologies of DC-DC PWM switching converters for battery charge/discharge regulation in satellites are analyzed. The aim of the investigation is to find parameter conditions to obtain a minimum phase behavior of the injected/absorbed current in the bus which guarantees the stability of the current control

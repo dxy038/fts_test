@@ -1,0 +1,1 @@
+A bidirectional associative memory (BAM) with an exponential nonlinearity is presented. This method has the advantage of exponential strategy. It improves the performance of the BAM. An energy function that decreases as the memory state changes can be defined, ensuring the stability of the system.

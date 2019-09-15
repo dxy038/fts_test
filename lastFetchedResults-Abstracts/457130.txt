@@ -1,0 +1,7 @@
+Objective
+To investigate whether serum γ-glutamyltransferase (GGT) is an independent predictor for incident coronary events in initially healthy men from the general population.
+Methods and results
+The study was based on 1878 men (aged 25–64 years) who participated in the first MONICA Augsburg survey 1984/1985, and who were free of coronary heart disease at baseline. Up to 2002 a total of 150 incident acute coronary events occurred. Baseline levels of GGT were higher in men who experienced an event than in event-free men (28.4 ± 2.0 units/l versus 22.4 ± 2.1 units/l, p 0.0002). GGT was highly correlated with other cardiovascular risk factors. In a Cox proportional hazards model after age adjustment hazard ratios (HR) for incident myocardial infarction across GGT quartiles (<13, 13 to <20, 20 to <35, and ≥35 units/l) were 1.0, 1.84, 2.02, and 3.08 (p for trend 0.0001). Further adjustment for hypertension, TC/HDL ratio, diabetes, smoking, physical activity, alcohol intake, education years and BMI attenuated the association; comparing the highest versus lowest quartile of GGT the HR for a first-ever coronary event was then 2.34 (95% CI, 1.23–4.44).
+Conclusions
+Serum GGT is a strong predictor of acute coronary events in apparently healthy men from the general population, independent of other risk factors for cardiovascular disease.
+

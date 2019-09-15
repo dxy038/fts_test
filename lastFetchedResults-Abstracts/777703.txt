@@ -1,0 +1,11 @@
+The objective of this research was to develop encapsulated phase change materials (EPCMs) that can store thermal energy at temperatures
+up to 450  C, suitable for applications in concentrating solar power systems. From initial explorations of candidate media, the two
+salts (PCMs) NaNO3 and eutectic NaCl–MgCl2 were selected for further development as storage media with phase change. A specialized
+calorimeter with requisite size and temperature capability was designed and built to obtain enthalpy values of the PCMs at temperatures
+below and above their melting points. The latent heats of phase change can contribute 57% and 75% to storage capacity of the NaNO3
+and NaCl–MgCl2 media, respectively, for a 100  C temperature swing bracketing the salts’ melting points. After calibration, this calorimeter
+was then used to determine the actual energy storage capacity achieved by capsules of EPCMs of various dimensions. The calorimeter
+tests proved that the salts and the encapsulation methods chosen here can store thermal energy effectively while taking
+advantage of the latent heat of phase change. Repeated thermal-cycles showed sustained performance of the EPCMs, with no discernible
+diminishment in storage capacity.
+  2012 Elsevier Ltd. All rights reserved.

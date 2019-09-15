@@ -1,0 +1,8 @@
+Objective
+te cell death discrimination is a time consuming and expensive process that can only be performed in biological laboratories. Nevertheless, it is very useful and arises in many biological and medical applications.
+s and material
+spectra are collected for 84 samples of A549 cell line (human lung cancer epithelia cells) that has been exposed to toxins to simulate the necrotic and apoptotic death. The proposed data mining approach for the multiclass cell death discrimination problem uses a multiclass regularized generalized eigenvalue algorithm for classification (multiReGEC), together with a dimensionality reduction algorithm based on spectral clustering.
+s
+oposed algorithmic scheme can classify A549 lung cancer cells from three different classes (apoptotic death, necrotic death and control cells) with 97.78% ± 0.047 accuracy versus 92.22 ± 0.095 without the proposed feature selection preprocessing. The spectrum areas depicted by the algorithm corresponds to the 〉C O bond from the lipids and the lipid bilayer. This chemical structure undergoes different change of state based on cell death type. Further evidence of the validity of the technique is obtained through the successful classification of 7 cell spectra that undergo hyperthermic treatment.
+sions
+s study we propose a fast and automated way of processing Raman spectra for cell death discrimination, using a feature selection algorithm that not only enhances the classification accuracy, but also gives more insight in the undergoing cell death process.

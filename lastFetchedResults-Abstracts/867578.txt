@@ -1,0 +1,6 @@
+In this paper, the problem of determining the optimum number and locations of banking automatic teller
+machines (ATMs) is considered. The objective is to minimize the total number of ATMs to cover all customer
+demands within a given geographical area. First, a mathematical model of this optimization problem
+is formulated. A novel heuristic algorithm with unique features is then developed to efficiently solve
+this problem. Finally, simulation results show the effectiveness of this algorithm in solving the ATM
+placement problem.

@@ -1,0 +1,8 @@
+Objective
+ is a biofluid that can be obtained from individuals without supervision by health care providers. To maximize this clinical advantage, it is highly desirable to have a global salivary analyte stabilizer for proteins, RNA and DNA at ambient temperature.
+
+saliva, saliva supernatant and saliva filtrate (5.0 μm) were treated with RPS at room temperature (RT) for up to 6 days and then subjected to SDS-PAGE. Immunoblotting of β-actin and cystatin C were used to evaluate protein stability. For salivary DNA/RNA, whole saliva was incubated with RPS at RT for up to 10 weeks. After extracting total DNA/RNA in samples at week 0, 2, 6 and 10, DNA stability was assayed by chromosome 18 DNA qPCR and RNA stability by β-actin mRNA RT-qPCR.
+s
+n completely degraded in all types of saliva samples after 6-day incubation at RT. However, 24.0%, 91.4% and 89.3% of β-actin remained intact with RPS for whole saliva, saliva supernatant and filtrate, respectively. Similarly, 70.3% of cystatin C in supernatant remained intact in the presence of RPS. For salivary DNA/RNA, the cycle threshold (Ct) values showed no significant change for chromosome 18 DNA and β-actin mRNA in RPS-incubated saliva during the 10-week time course while significant increase in Ct values were observed in controls without RPS for both β-actin mRNA and DNA.
+sions
+ovided effective concurrent stabilization to salivary DNA/RNA in whole saliva for up to 10 weeks and proteins in saliva filtrate for 6 days at RT. We also achieved separation of saliva supernatant from cellular elements by a simple filtration step (bypassing the need for centrifugation).

@@ -1,0 +1,17 @@
+This paper presents a technique which finds a
+mapping of the vertices of a task graph to the tiles of a mesh
+based network on chip (NoC) architecture. The proposed
+algorithm is basically a genetic algorithm. The algorithm
+helps us achieve optimal or near optimal solutions in large
+size applications with reasonable time. In this process
+different types of Genetic algorithms are applied in the basic
+framework for solving the mapping problem on two real core
+graphs Video Objective Plan Decoder and mp3encmp3dec.
+The experimental results show the comparisons of these
+different meta heuristic algorithms with each other. It show
+that the proposed algorithm performs as well as the most
+previously proposed mapping algorithms considering the
+communication cost parameter. It is a common metric in
+evaluation of different mapping algorithms which have direct
+impact on power consumption and performance of mapped
+NoC.

@@ -1,0 +1,12 @@
+Multi-criteria decision making (MCDM) refers to making
+decision in the presence of multiple and conflicting criteria. Multiobjective
+programming method such as multiple objective linear programming
+(MOLP) are techniques used to solve such multiple criteria decision
+making (MCDM) problems. One of the first interactive procedures
+to solve MOLP is step method (STEM).
+In this paper we try to improve STEMmethod by introducing the weight
+vector of objectives which emphasize that more important objectives be
+more closer to ideal one. Therefore the presented method try to increase
+the rate of satisfactoriness of the obtained solution. Finally, a numerical
+example for illustration of the new method is given to clarify the main
+results developed in this paper.

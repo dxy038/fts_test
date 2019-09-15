@@ -1,0 +1,16 @@
+Spatial models of global insolation and photovoltaic electricity generation potential for Canada were developed. The main objective
+was to provide Canadians with an easily accessible, reliable tool for rapidly estimating the monthly and yearly electricity production
+potential of grid-connected photovoltaic systems anywhere in the country, and for assessing the dependence of production on location,
+time of year and array orientation. Monthly mean daily insolation data from 144 meteorological stations across Canada were used, along
+with data from an additional eight stations in Alaska to improve the models in that region. Several photovoltaic array orientations were
+considered, including South-facing arrays with latitude and vertical tilts and a sun-tracking orientation. Partial thin plate smoothing
+splines as implemented in ANUSPLIN were used to generate the spatial insolation models. The models were based on geographic position
+and a transform of monthly mean precipitation, the latter variable being a surrogate for cloudiness which affects surface insolation.
+Photovoltaic electricity generation (in kW h per kilowatt of photovoltaic installed power capacity) was estimated for each month and for
+the entire year from the insolation models by assuming international standard values for the performance ratio of photovoltaic systems.
+The yearly average root mean square predictive error (RTGCV) on the mean daily global insolation ranges between 0.75 (vertical tilt)
+and 1.43 MJ/m2 (sun-tracking orientation) (or about 4.7–9.0 kW h/kW in terms of PV potential), or from 5.6% to 6.9% of the mean.
+Ultimately insolation and photovoltaic potential were mapped over the country at a 300 arc seconds ( 10 km) resolution. The maps
+are available on a Natural Resources Canada Website. This is an important new tool to help Canadians gain an overall perspective
+of Canada’s photovoltaic potential, and allow estimation of potential photovoltaic system electricity production at any chosen location.
+  2008 Published by Elsevier Ltd.

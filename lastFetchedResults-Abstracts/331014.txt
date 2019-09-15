@@ -1,0 +1,11 @@
+Objective
+This study aims to evaluate the influence of surface roughness and acid etching on interfacial failure load and fracture initiation site for simulated resin bonded ceramic restorations.
+Methods
+
+Layered disks were fabricated using soda lime glass to simulate porcelain and fiberglass to represent dentin. These materials were selected due to their approximate elastic modulus to porcelain or dentin. In addition, soda lime glass allowed for visualization of crack initiation. Glass microscope slides (1.2 mm thick) were sectioned into 1-mm2 specimens. The frosted portions of the slides were used as the rough or sandblasted group and the clear areas were used as the smooth or polished group. All surfaces were either cleaned or etched. Prepared surfaces were divided into eight groups and bonded to the substrates using Optibond Solo Plus (SDS Kerr, Orange, CA) and Nexus resin cement (SDS Kerr). Support substrates were made from 5-mm slices of fiberglass rods (1/2 in. diameter). Vertical loads were applied to the layered disks with a 20-mm spherical indenter at a cross-head speed of 0.05 mm/min. Observations were made using 10× magnification with a video monitor. Load magnitudes were recorded at the time of crack initiation. Weibull parametric survival analysis and the effect likelihood ratio test were performed on the failure initiation load data to determine significant differences at the 0.05 level.
+Results
+
+Mean failure initiation loads ranged from 273.6 to 341.9 N for the rough specimens and from 1056.5 to 2980.2 N for the smooth samples. According to the Weibull parametric survival analysis and the effect likelihood ratio test, surface roughness and surface etch significantly influenced failure initiation loads. Smoother surfaces tolerated much greater contact loads before failure initiation.
+Significance
+
+The clinical performance of all-ceramic restorations may be improved with smoother internal surfaces. Etching significantly increases survival for restorations with smooth internal surfaces.

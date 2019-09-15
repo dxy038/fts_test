@@ -1,0 +1,11 @@
+Objective
+Active vaccination in the allogeneically reconstituted tumor-bearing host essentially requires donor T–cell tolerance. To create a basis for vaccination in the allogeneically reconstituted, lymphoma-bearing host, we elaborate a reconstitution protocol that supports thymus repopulation and tolerance induction.
+Methods
+
+Myeloreductively conditioned, lymphoma-bearing mice were vaccinated after reconstitution with hematopoietic progenitor cells. Readout systems included recovery of donor-derived T cells, graft vs host disease (GVHD), anti-host and anti-lymphoma cytotoxicity, as well as tumor growth rate and tumor rejection.
+Results
+
+In tumor-free mice, myeloreductive conditioning, together with natural killer cell depletion of the host and transfer of T cell–depleted bone marrow cells, allows reconstitution without severe GVHD. However, in hematological malignancies, donor-derived T-progenitor cells hardly immigrated into the thymus. As a consequence, the frequency of severe GVHD was significantly increased, which prohibited active vaccination. Thymus repopulation became improved by strengthening myeloreductive conditioning; by supporting thymocyte expansion via interleukin-7; and, most strongly, by a small dose of donor-derived CD4+CD8+ thymocytes, which preferentially homed into the thymus. Active vaccination, in combination with this reconstitution protocol, did not strengthen GVHD, but significantly improved survival time and survival rate of lymphoma-bearing mice.
+Conclusion
+
+The negative impact of hematological malignancies on thymus repopulation and central tolerance induction can, at least in part, be corrected by application of a small number of donor-derived T-progenitor cells.

@@ -1,0 +1,1 @@
+This paper presents a variable power transformer that operates over a wide frequency range. The circuit topology consists in essence of an inverter coupled to a synchronous rectifier. Bidirectional current flow is obtained by using field effect transistors operating in the third quadrant as switching elements. Input/output phase modulation gives variation in transformer ratio

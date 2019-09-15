@@ -1,0 +1,1 @@
+The constructal economic optimization for a given area is carried out in this paper with minimum transport cost objective by using a triangular elemental area. A number of triangular elements are assembled to form a new larger rectangular area and optimized by relaxing the angle constraint. The results obtained herein are discussed and compared with those in recent references.

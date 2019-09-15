@@ -1,0 +1,10 @@
+Euler–Euler simulations of the gas–liquid flow in a square cross-sectioned bubble column with LES (two sub-grid scale models) and the k–ε
+model are presented. The sub-grid scale modeling is based on the Smagorinsky kernel in both its original form and the dynamic procedure of
+Germano. The attempt has been made to assess the performance of these two sub-grid scale models. The Smagorinsky model with model constant
+Cs = 0.12 performs quite well, and gives results almost identical to those given by the dynamic procedure of Germano. The SGS models are modified
+to account for bubble induced turbulence (Sato model) and it is observed that it does not change the results much. Predictions are also compared
+with the available experimental data. All the non-drag forces (turbulent dispersion force (only for RANS), virtual mass force, lift force) and drag
+force were incorporated in the model. An extended k–ε turbulence model has been used with extra source terms introduced to account for the
+interaction between the bubbles and the liquid. Though both LES models showed agreement in predictions, the Germano model still can be used
+to have estimates of Cs value which are not known a priori. Moreover, if objective is to understand the steady and time averaged features, RANS
+can also perform well.

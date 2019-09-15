@@ -1,0 +1,18 @@
+In this paper a new approach for finding optimal path planning in a plane with
+stationary obstacles is discussed. At first, we consider a movable rigid object in a plane with
+stationary obstacles. The goal is to find the shortest path planning which brings rigid object
+from a given initial point to a given final point such that the length of path be minimized and
+distance between object and obstacles be maximized. By considering the length of path and the
+distance between rigid object with obstacles as objective functions, we obtain a multi-objective
+problem. Because of the imprecise nature of decision maker's judgment, these multiple
+objectives are viewed as fuzzy variables. Then we determine intervals for the value of objective
+functions such that these intervals for the distance between rigid object and obstacles are
+given by decision maker, and for the length of path is achieved by solving two optimal nonlinear
+
+problems (ONP). Now, we define a decreasing or increasing membership function for
+any objective functions on achieved intervals. Then the optimal   
+policy is to find an optimal path which maximize all of membership functions, simultaneously.
+After a little calculation, we obtain an ONP. By solving this ONP, a (local) Pareto optimal
+solution for original goal is attained. Numerical example is also given.
+
+  

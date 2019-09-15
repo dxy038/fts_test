@@ -1,0 +1,5 @@
+Mathematical modeling has been extensively applied to the study and development of fuel cells. In this work, the objective is to characterize a mechanistic model for the anode of a direct ethanol fuel cell and perform appropriate simulations.
+
+The software Comsol Multiphysics® (and the Chemical Engineering Module) was used in this work. The software Comsol Multiphysics® is an interactive environment for modeling scientific and engineering applications using partial differential equations (PDEs). Based on the finite element method, it provides speed and accuracy for several applications.
+
+The mechanistic model developed here can supply details of the physical system, such as the concentration profiles of the components within the anode and the coverage of the adsorbed species on the electrode surface. Also, the anode overpotential–current relationship can be obtained. To validate the anode model presented in this paper, experimental data obtained with a single fuel cell operating with an ethanol solution at the anode were used.

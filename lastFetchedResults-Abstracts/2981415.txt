@@ -1,0 +1,1 @@
+Scales are used to reduce the conservatism encountered in most multi-objective approaches. While the most general case (i.e., matrix scales) results in a nonconvex problem, use of scalar scales lead to convex searches in the analysis and state feedback problems. Numerical examples to show the effectiveness of the suggested approach, and output feedback synthesis is also discussed

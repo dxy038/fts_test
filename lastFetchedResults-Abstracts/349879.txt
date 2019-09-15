@@ -1,0 +1,11 @@
+Objective
+The aim of this study is to extract magnetoencephalographic responses relating to the processing of point-light walker (PLW).
+Methods
+To attenuate neural activities in the lower visual areas, we presented a scrambled-PLW as a first stimulus and then either an upright- or inverted-PLW/scrambled-PLW as a second stimulus. Each point of the scrambled-PLW stimulus had the same velocity vector as the points of the PLW stimulus, but points were interchanged randomly.
+Results
+The peak neuromagnetic response to the first stimulus was observed at around 250 ms after stimulus onset, whereas the peak latency in response to second stimulus was around 350 ms after stimulus onset. The peak amplitude induced by the PLW stimulus was significantly larger than that by the scrambled-PLW during the second stimulus. Moreover, the signal source of the responses to the PLW was estimated to lie in the occipitotemporal region, more anterior than the source of the response to the first stimulus.
+Conclusions
+These findings indicate that the response to the first stimulus reflects general motion processing, while responses to the second stimuli are involved in PLW processing.
+Significance
+This is the first evidence to specify a single neuromagnetic response to a PLW stimulus.
+

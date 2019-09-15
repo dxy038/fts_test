@@ -1,0 +1,24 @@
+Objective : Nowadays comp uter s are contr olled by hand with some
+too ls like mouse and keyboard generally, so peop le that can't use
+their hands aren't able La use these tools . This re search was aimed to
+design a system, which help handicapped peop le to type by thei r eye
+movement.
+Materials & Metho ds: In this de sign, boarder between iris and sclera
+which is ca lled limbus is tracked with the Infra Red transmitti ng and
+receiving system. Then software will process measured values , and will
+change them to proper values for moving cursor on charac ters. Si nce
+changing the user , unwanted head movements can affec t on sys tem
+operation , a calibration stage is considered which adjus t the sys tem in
+new cond ition. The sys tem was implemented on 10 subj ects (5 women
+& 5 men) and data were analyzed .
+Results: Distance reso lution of system on 15" monitor's screen is abo ut
+4.1 1±3.38 cen time ters . People with no experience can type a sentence
+with 14 characters in 3:30 minute by 28% error and an experienced person
+ca n type this se ntenc e in 3 minute with 13% error. So the sys tem with
+rela tively high repeatab ility allows the user to communicate with computer
+by his eye movements.
+Conclus ion : Th is system is able to recognize 12 points on mon itor' s
+screen . Eac h point is belo nging to one character. Faci lity of using the
+system and no co ntact betwee n system and eye are from the benefits of
+the sys tem .
+

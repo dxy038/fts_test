@@ -1,0 +1,5 @@
+The present paper presents a new method for sizing and techno-economical optimization of an autonomous wind system. The main objective of the present study is to find the optimum size of system, able to accomplish the energy requirements of a given load distribution, for a specific site, and to analyze the impact of different parameters on the system size.
+
+ng of the autonomous wind system is considered as the first step in the optimal sizing procedure. In this paper, more accurate mathematical models for characterizing the main subsystems (wind generator and unit of storage) are proposed. Based on lack of energy to generate probability (LEGP), percentage of the surplus of energy produced (PSEP) and the cost of the kilowatt-hour produced (CkWh), the second step consists in optimizing the sizing of a system.
+
+lation software code has been developed to carry out the analysis for optimizing the size of the system. Also, a case study using the software code has been presented to determine the optimal system configuration used to satisfy the requirements of a typical residential home (5 kWh/day) located in Sfax, Tunisia.

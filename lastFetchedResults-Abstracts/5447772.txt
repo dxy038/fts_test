@@ -1,0 +1,1 @@
+This paper uses a pattern matching routing algorithm for the hierarchical optical bidirectional de Bruijn graph (BdBG) network. Its performance is analyzed in terms of delay, mean length and locality factor

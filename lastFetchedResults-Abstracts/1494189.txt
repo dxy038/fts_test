@@ -1,0 +1,8 @@
+Objective
+mine the association between frequency of family dinners (FFD) and selected problem behaviors for adolescents after adjusting for family connectedness, parental awareness, other family activities, and other potentially confounding factors.
+s
+re drawn from the National Longitudinal Survey of Youth, 1997. The primary variable of interest is self-reported FFD in a typical week. Problem behaviors studied are substance-use, physical violence, property-destruction, stealing, running away from home, andgang membership. Multivariate logistic models are estimated for each behaviors. Linear regression models are estimated for behavior-frequency for the sub-samples engaging in them. Analysis is done separately by gender.
+s
+ negatively associated with substance-use and running away for females; drinking, physical violence, property-destruction, stealing and running away for males.
+sion
+ meals are negatively associated to certain problem behaviors for adolescents even after controlling rigorously for potentially confounding factors. Thus, programs that promote family meals are beneficial.

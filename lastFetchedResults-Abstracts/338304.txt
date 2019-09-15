@@ -1,0 +1,11 @@
+Objective
+Tumor necrosis factor- α (TNF-α) induces a variety of cellular responses, some of them being at least seemingly contradictory. Thus, we set out to find differences in the modes of proliferative and apoptotic responses to TNF- α.
+Materials and Methods
+
+We screened a panel of acute myeloid leukemia–derived cell lines for TNF- α–responsiveness. In two lines (OCI-AML-1, OCI-AML-11), TNF- α acted as an apoptotic agent; in others (HU-3, M-07e, TF-1), it had the opposite effect, preventing apoptosis and inducing proliferation. Direct and indirect signaling mechanisms, including NF-κB activation and cytokine synthesis, were analyzed.
+Results
+
+All cell lines tested expressed TNF- α receptors I and II and responded to TNF- α by upregulation of intercellular adhesion molecule-1. In contrast to granulocyte-macrophage colony-stimulating factor (GM-CSF), TNF- α did not activate the MAP kinase and p70S6 kinase pathways. Nevertheless, inhibitors of these pathways clearly reduced the TNF-α–induced cell growth, indicating that TNF- α–proliferative cells produced a growth factor that induced proliferation upon stimulation of the above pathways. Anti–GM-CSF antibodies inhibited the TNF-α–induced growth, suggesting the presence of an autocrine loop for cell proliferation mediated by GM-CSF. Supporting this notion, TNF-α–induced upregulation of GM-CSF mRNA levels and protein secretion in the TNF-α–proliferative, but not in the TNF-α–apoptotic cell lines.
+Conclusion
+
+These data identify GM-CSF synthesis as an early and essential step in TNF- α–induced proliferation. We show for the first time that TNF-α–treated cell lines producing no or only minimal amounts of GM-CSF demonstrate an apoptotic phenotype, while cell lines with high GM-CSF expression rates can escape from growth arrest or even apoptosis. In this context, we discuss arguments pointing at NF-κB as regulator of GM-CSF synthesis and thus indirectly as regulator for the escape of TNF-α–induced apoptosis.

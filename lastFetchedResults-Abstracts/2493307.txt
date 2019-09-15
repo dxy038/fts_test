@@ -1,0 +1,16 @@
+The helicopter-borne electromagnetic (HEM) frequency-domain exploration method is an airborne
+electromagnetic (AEM) technique that is widely used for vast and rough areas for resistivity imaging.
+The vast amount of digitized data flowing from the HEM method requires an efficient and accurate
+inversion algorithm. Generally, the inverse modelling of HEM data in the first step requires a precise
+and efficient technique provided by a forward modelling algorithm. The exact calculation of the
+sensitivity matrix or Jacobian is also of the utmost importance. As such, the main objective of this
+study is to design an efficient algorithm for the forward modelling of HEM frequency-domain data for
+the configuration of horizontal coplanar (HCP) coils using fast Hankel transforms (FHTs). An attempt
+is also made to use an analytical approach to derive the required equations for the Jacobian matrix. To
+achieve these goals, an elaborated algorithm for the simultaneous calculation of the forward
+computation and sensitivity matrix is provided. Finally, using two synthetic models, the accuracy of
+the calculations of the proposed algorithm is verified. A comparison indicates that the obtained results
+of forward modelling are highly consistent with those reported in Simon et al. (2009) for a four-layer
+model. Furthermore, the comparison of the results for the sensitivity matrix for a two-layer model with
+those obtained from software is being used by the BGR Centre in Germany, showing that the proposed
+algorithm enjoys a high degree of accuracy in calculating this matrix.

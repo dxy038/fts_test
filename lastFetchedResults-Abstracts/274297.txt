@@ -1,0 +1,8 @@
+In the present study, a new type of sandwich panels with prismatic cores, which are capable of load bearing as well as
+cooling, is optimized to have minimum weight and maximum heat transfer performance. In order to simultaneously minimize
+the total weight and maximize the heat transfer performance, a multi-objective optimization approach has been
+developed using genetic algorithms. A set of compromised solutions, known as the tradeoff surface, is obtained. The tradeoff
+information between the two objectives is exploited in terms of multi-functionality of the sandwich panels, and the relation
+between the two objectives is quantified in the present study. The detailed configurations and dimensions of the
+sandwich panels at the optima are provided. Some basic characteristics of the sandwich panels with prismatic cores have
+been observed in terms of their multi-functionality.

@@ -1,0 +1,1 @@
+Tong has proposed an objective method, based on Akaike´s information criterion (AIC), for the determination of the order of an autoregressive (AR) model with noisy data; some extensions of this proposed method are discussed.

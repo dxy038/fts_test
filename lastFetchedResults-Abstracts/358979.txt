@@ -1,0 +1,11 @@
+Objective
+Our objective is to describe the rationale and methods for the economic analysis of the PAD trial. The objective of this analysis is to assess whether automated external defibrillators (AEDs) use by lay responders is good value for money.
+Methods
+
+Design. This economic evaluation is being conducted concurrently with a randomized trial of (a) control—training to recognize arrest, access 911, and administer cardiopulmonary resuscitation (CPR) while awaiting arrival of emergency medical services providers versus (b) intervention—training to recognize arrest, access 911, administer CPR, and use an AED while awaiting emergency medical services providers. Lay responders in either group were trained to deliver the study intervention. Population. Participating sites identified distinct units with a population of at least 250 people aged ≥50 years. Outcome. The primary economic outcome is the incremental cost-effectiveness ratio of intervention versus control.
+Results
+
+Nine hundred ninety-three units including 1260 public and residential locations were randomized. There were 30 survivors in the intervention group and 15 in the control group (P = .03). Sampling will identify program and health care costs. A societal perspective will be adopted. Incremental cost effectiveness will be estimated by using bootstrapping and decision analytic modeling.
+Conclusion
+
+The study will demonstrate whether defibrillation by lay responders improves outcomes at reasonable cost. If so, then the thousands of lives will be improved annually. If not, then limited resources can be invested in other interventions. Our methods also provide a framework for economic evaluations of other interventions for acute cardiovascular events.

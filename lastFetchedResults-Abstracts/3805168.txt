@@ -1,0 +1,1 @@
+Presents experimental results on a method of camera space control applied to a mobile cart with an on-board robot, operated as a forklift. The objective is to extend earlier results to the task of precise and robust three-dimensional object placement. The method is illustrated with a box stacking task

@@ -1,0 +1,30 @@
+Natural fibers are promising for engineering
+applications due to their low cost. They are
+abundantly available in tropical and subtropical
+regions of the world, and they can be employed as
+construction materials. Among natural fibers, bamboo
+has been widely used for housing construction around
+the world. Bamboo is an optimized composite that
+exploits the concept of Functionally Graded Material
+(FGM). Biological structures such as bamboo have
+complicated microstructural shapes and material
+distribution, and thus the use of numerical methods
+such as the finite element method, and multiscale
+methods such as homogenization, can help to further
+understanding of the mechanical behavior of these
+materials. The objective of this work is to explore
+techniques such as the finite element method and
+homogenization to investigate the structural behavior
+of bamboo. The finite element formulation uses graded
+finite elements to capture the varying material
+distribution through the bamboo wall. To observe
+bamboo behavior under applied loads, simulations are
+conducted under multiple considerations such as
+a spatially varying Young’s modulus, an averaged
+Young’s modulus, and orthotropic constitutive
+properties obtained from homogenization theory. The
+homogenization procedure uses effective, axisymmetric
+properties estimated from the spatially varying
+bamboo composite. Three-dimensional models of
+bamboo cells were built and simulated under tension,
+torsion, and bending load cases.

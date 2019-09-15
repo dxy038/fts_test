@@ -1,0 +1,1 @@
+A method is presented to determine an appropriate portion that could be subtracted from the noise-contaminated autocorrelation functions before carrying out linear prediction analysis in coloured noise. This method guarantees the stability of the resulting linear prediction filter. The authors demonstrate the improvement using an objective measure based on a synthetic vowel

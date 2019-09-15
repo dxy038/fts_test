@@ -1,0 +1,9 @@
+Objective
+To identify tyrosine phosphorylated proteins that interact with CrkL in Bcr-Abl–expressing cells and analyze the function of that association.
+Materials and Methods
+Immunoprecipitation of CrkL was performed on lysates from parental cells (Rat-1, MO7e, or 32D) or Bcr-Abl–expressing cells (Rat-1p185, MO7p210, 32Dp210, K562) followed by immunoblotting for pTyr, Stat5, or CrkL. Interactions were confirmed in vitro using GST-CrkL fusion proteins. Electrophoretic mobility shift assays were performed on K562 nuclear extracts using a β-casein promoter-derived probe. Supershift analysis was performed with CrkL, Stat5, Stat1, Grb2, and peptide-blocked CrkL and Stat5 antibodies. CrkL localization in Rat-1 and Rat-1p185 cells was detected with indirect immunofluorescence. Transcriptional activation was analyzed in COS7 cells transfected with a Stat-responsive luciferase reporter construct and Bcr-Abl, kinase-defective Bcr-Abl, CrkL, or Grb2.
+Results
+We show that, in Bcr-Abl–expressing cells, CrkL interacts with tyrosine phosphorylated Stat5. Additionally, in the presence of Bcr-Abl, CrkL is found in the nucleus, can be detected in a Stat5/DNA complex, and increases transcriptional activation from a Stat-responsive reporter construct.
+Conclusion
+This suggests a novel role for CrkL, functioning as a nuclear adaptor protein that can associate with and activate Stat proteins in Bcr-Abl–expressing cells.
+

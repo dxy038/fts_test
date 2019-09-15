@@ -1,0 +1,9 @@
+Objective
+To determine if body mass index (BMI) is associated with interpretation agreement between matched abdominal pelvic computed tomographic (CT) scan performed with and without oral contrast in emergency department (ED) patients.
+Methods
+A prospective observational trial of a convenience sample of 100 adult patients undergoing an abdominal pelvic CT was done at a tertiary care academic ED from September 4, 2001, to August 30, 2002. Patients with trauma, renal colic, pregnancy, need of intravenous contrast, or who were clinically unstable were excluded. Height, weight, and waist circumference were recorded and BMI was calculated. Patients had a helical abdominal pelvic CT without oral contrast followed by two drinks of oral contrast 90 minutes apart and then a repeat CT. Attending staff radiologists interpreted the CT scans using explicit data sheets and were blinded to the results of the matching CT. Clinically important discordance between the matching scans was determined by a panel of attending staff from radiology and emergency medicine departments.
+Results
+Of the 100 patients who completed the protocol, 21% (95% confidence interval, 13%-30%) had clinically significant disagreement between noncontrast and oral contrast CT interpretations. Logistic regression analyses yielded an odds ratio of 1.0 (95% confidence interval, 0.9-1.1) for BMI.
+Conclusions
+This study did not find an association between BMI, sex, or waist circumference and concordance of radiologists' interpretation of noncontrast and oral contrast abdominal pelvic CT scans in ED patients.
+

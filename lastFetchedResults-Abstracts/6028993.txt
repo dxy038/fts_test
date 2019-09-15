@@ -1,0 +1,1 @@
+A new hierarchical structure for representing an image is presented. Since the hierarchical structure is generated with a data-driven approach, an objective description of an image can be obtained. The potential application of the hierarchical structure to content-based image retrieval is also discussed

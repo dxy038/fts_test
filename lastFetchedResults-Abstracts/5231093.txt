@@ -1,0 +1,1 @@
+In this paper we present a model to study the positioning of jamming systems, using the 2D Ray-Tracing technique associated with a Multi-Objective Particle Swarm Optimizer. The method was applied in a hypothetical scenario, where the Multi-Objective approach showed efficient adjusting the C/I ratio in regions with conflicting interests.

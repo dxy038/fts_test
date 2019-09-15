@@ -1,0 +1,7 @@
+Objective. Three models consisting of springs and dashpots were investigated to describe the viscoelastic behavior of a commercial light-activated restorative composite during curing.
+
+Methods. Stress–strain data on Z100 were recorded by means of a dynamic test method performed on a universal testing machine. The model was tested by matching its response to experimental data and the material parameters, E (Young's modulus) and η (viscosity), associated with the model were calculated.
+
+Results. The universal testing machine generated reliable stress–strain data on the fast curing, light-activated resin composite during curing. The high polymerization rate of Z100 had a negative effect on the viscous flow capability of the material. A predictive model of the viscoelastic behavior of Z100 during curing was carried out, using the Maxwell model for the initial 3 min in the curing process and the Kelvin model for the remainder of the process.
+
+Significance. Dental researchers analyzing shrinkage stress problems by mathematical modeling can obtain a good quantitative estimate of the shrinkage stress development of Z100 before the restoration is actually made.

@@ -1,0 +1,11 @@
+Objective. To use a musculoskeletal model and simulation of running to examine: (1) the influence of two commonly prescribed treatments for patellofemoral pain (vastus medialis oblique strengthening and orthoses) and (2) the functional significance of timing differences between vastus medialis oblique and vastus lateralis on lateral patellofemoral joint loads.
+
+Design. A three-dimensional musculoskeletal model of the lower extremity was used to simulate running at 4 m/s.
+
+Background. Repetitive and excessive joint loading is often associated with overuse injuries that require clinical treatments to reduce pain and restore function. Affecting one in four runners, patellofemoral pain is one of the most common injuries in running. Although conservative treatments have been reported to successfully treat patellofemoral pain, the effectiveness is often based on subjective or empirical data, which have generated disagreement on the most effective treatment.
+
+Methods. Nine subject specific running simulations were generated and experiments were performed by applying the treatments and timing differences to the nominal simulations.
+
+Results. Both treatments significantly reduced the average patellofemoral joint load and the vastus medialis strengthening also significantly reduced the peak patellofemoral joint load. In addition, when the vastus medialis oblique timing was delayed and advanced relative to the vastus lateralis timing, a significant increase and decrease in the joint load was observed, respectively, during the loading response.
+
+Conclusions. Increasing vastus medialis oblique strength yielded more consistent results across subjects than the orthosis in reducing patellofemoral joint loads during running. The effect of orthoses was highly variable and sensitive to the individual subject's running mechanics. Vastus medialis oblique activation timing is an important determinant of lateral patellofemoral joint loading during the impact phase.

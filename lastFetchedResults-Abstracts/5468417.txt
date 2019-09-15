@@ -1,0 +1,1 @@
+We demonstrate a cross-remodulation WDM-PON architecture which provides bidirectional transmission of 1.25-Gbps OOK wire-line signal and OFDM wireless signal over 25 km SMF. The system uses color-free ONUs and can reduce Rayleigh backscattering effects.

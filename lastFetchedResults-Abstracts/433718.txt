@@ -1,0 +1,9 @@
+Background
+Surgeons with advanced training have lower mortality rates with some surgical procedures. The objective of the current study was to investigate the impact of thoracic surgery training on mortality rates of esophageal cancer resection.
+Methods
+We studied esophageal cancer resection in the national Medicare population during 1998 and 1999. Operative mortality rates (in-hospital or 30-day) were compared for thoracic surgeons and other surgeons, adjusting for patient characteristics, hospital volume, and surgeon volume. Surgeons with specialty training in thoracic surgery were those certified by the American Board of Thoracic Surgery.
+Results
+Of the 1,946 patients, 625 (32%) had their operation performed by a thoracic surgeon. After adjustment for patient characteristics, mortality rates were 37% (odds ratio, 1.37; 95% confidence interval, 1.02 to 1.82) higher for surgeons without specialty training compared with thoracic surgeons (adjusted mortality 16.5% versus 12.4%; p = 0.01). However, differences in mortality between high-volume and low-volume hospitals (24.3% versus 11.4%; p< 0.001) and surgeons (20.7% versus 10.7%; p< 0.001) were larger than those between thoracic and general surgeons. Although thoracic surgeons had lower mortality rates after adjusting for hospital volume, the effect of thoracic surgery training was no longer significant after accounting for surgeon volume (odds ratio, 1.23; 95% confidence interval, 0.92 to 1.63).
+Conclusions
+Specialty training in thoracic surgery has an independent association with lower mortality after esophageal resection. But specialty training appears to be less important than hospital and surgeon volume.
+

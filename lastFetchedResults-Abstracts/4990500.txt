@@ -1,0 +1,1 @@
+A new active current injection network for a three phase rectifier is proposed. The proposed network uses three bidirectional switches operating at low frequency and an half bridge inverter operating a high frequency, also an inductor is used to make the current injection. The operation, simulation and experimental results are presented

@@ -1,0 +1,11 @@
+Objective
+To quantify the extent of biologic interactions between helminth species in their effects on anemia in school age children.
+Methods
+
+Three stools were collected and each was read in duplicate by the Kato-Katz method. Current WHO criteria, based on number of eggs per gram (EPG) of stool for each helminth to quantify infection burden for ascaris, hookworm, trichuris and Schistosomiasis japonicum infections. Intensity categories of intensity: uninfected, low, and moderate/high (M+) intensity were defined for each species and interactions were assessed at M+ intensity. Anemia was defined as hemoglobin < 11 mg/dl. Logistic regression models clustered by household units were used to quantify the effect of pairs of coinfection on anemia. Odds ratios (OR) and 95 % confidence intervals were estimated to estimate the impact of joint infections on anemia. The index of synergy (SI) and other measures of interaction were also estimated.
+Results
+
+Joint infections of hookworm and S. japonicum was associated with especially high risk of anemia (OR = 13.2, 95% CI: 3.82–45.5) as was concurrent infections of hookworm and trichuris (OR = 5.34, 95% CI: 1.76–16.2). As much as 60% and 22% of anemia observed in children with joint infectios of hookworm and S. japonicum, hookworm and trichuris respectively was found to be attributable to the synergy between these species. Antagonisitic interactions were noted for joint infections of hookworm and ascaris (SI = 0.084, 95% CI = 0.015–0.53) and for coinfection of S. japonicum and ascaris (SI = 0.056, 95% CI = 0.01–0.23).
+Conclusion
+
+Synergistic and antagonistic interactions between pairs of concurrent helminth species infections are demonstrated in their effects on anemia. Putative mechanisms of effect are discussed and the importance of coherent analytic frame work for analysis of public health relevant interactions are stressed.

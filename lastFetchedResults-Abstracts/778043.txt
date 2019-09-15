@@ -1,0 +1,19 @@
+This paper employs an adaptive Vector
+Evaluated Particle Swarm Optimization (VEPSO)
+algorithm to tune optimal gains of a Proportional Integral
+Derivative (PID) controller with low pass filter for Load
+Frequency Control (LFC) scheme in an interconnected
+power system that shift the system eigenvalues to the left
+of a vertical line in the s-plane. The problem of robustly
+tuning of practical PID based LFC design is formulated
+as an optimization problem according to the time domainbased
+objective function which is solved by the VEPSO
+technique that has a strong ability to find the most
+optimistic results. To demonstrate the effectiveness of the
+proposed method a two-area interconnected power
+system is considered as a test system under different
+operating conditions. The eigenvalue analysis and the
+nonlinear simulation results show the effectiveness of the
+proposed PID to damp out oscillations and work
+effectively over a wide range of loading conditions and
+system configurations.

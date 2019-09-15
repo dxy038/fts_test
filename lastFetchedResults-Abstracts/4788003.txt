@@ -1,0 +1,1 @@
+The work is devoted to solve allocation task problem in the distributed way in multi agents systems with multi-objective genetic algorithms. The paper shows the main advantages of genetic algorithms and the way to apply a new genetic operator using the solution information of the other agents for save time in the search a expand the solution of the optimal space.

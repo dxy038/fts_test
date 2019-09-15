@@ -1,0 +1,11 @@
+Objective
+Definitive hematopoiesis starts in the aorta-gonad-mesonephros (AGM) region during mouse development and remarkably expands in the liver at a later stage of ontogeny. gp130 is a signal transducing receptor component shared by all the IL-6 family cytokines, whose gene ablation in mouse results in the significant reduction in the fetal liver hematopoiesis. The present study aims to evaluate the role of gp130 signaling in the fetal mouse AGM hematopoiesis.
+Materials and Methods
+
+Mouse AGM regions from the wild-type and gp130-deficient mice on embryonic day 11.5 were dissociated and cultured with a mixture of cytokines, including one which activates gp130. Wild-type human gp130 and its mutant constructs were introduced into cultured gp130-deficient AGM cells using retrovirus system. To further analyze gp130 downstream signaling, a dominant-negative mutant of STAT3 was also introduced.
+Results
+
+The gp130 deficiency in the culture of fetal mouse AGM cells resulted in the failure of the expansion of the c-kit+, Sca-1+, and lineage markers− population. Such failure was rescued by introduction of a wild-type gp130 expression construct but not its mutant constructs having no ability to activate STAT3. In the normal AGM cell culture, introduction of a dominant-negative form of STAT3 in which Y705 was changed to phenylalanine suppressed the expansion of hematopoietic cell colonies.
+Conclusion
+
+gp130 plays an indispensable role in the expansion of hematopoietic precursor cells in the fetal mouse AGM. In particular, the activation of STAT3 by gp130 is found to be important in this process.

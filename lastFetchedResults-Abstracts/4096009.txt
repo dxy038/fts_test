@@ -1,0 +1,1 @@
+The buffer unit forming the interface comprises two distinct sets of logic circuits: computer interrupt equipment and peripheral control unit. Information transfers across the interface are over a bidirectional bussed highway up to 25 bits wide. Eight unidirectional lines control computer to peripheral connexions. Transfer times range from 1 to 5 &#194;&#191;s

@@ -1,0 +1,12 @@
+The objective of this work is to investigate the thermal conduction phenomena in transversely isotropic geomaterials or
+rock-like composites with arbitrary oriented ellipsoı¨dal inhomogeneities of low aspect ratio. Based on the evaluation of the
+Green function, we provide here new expressions for the interaction tensor whose knowledge permits to obtain the concentration
+tensor of the polarization field used itself to evaluate the effective thermal conductivity tensor by homogenization.
+Some particular cases of the obtained general solution are equally presented, in order to validate the developed
+formalism. The obtained results are next used to study the effect of matrix anisotropy, pores systems and microstructure-
+related parameters on the overall effective thermal conductivity in transversely isotropic rocks. A two-step homogenization
+scheme is developed for the prediction of the initial anisotropy effects and to test the ability of the proposed model
+in the evaluation of effective thermal conductivity. With the help of an Orientation Distribution Function (ODF) the
+anisotropy due to the pore systems is also accounted. Numerical applications and comparisons with available experimental
+data are finally carried out for a partially saturated Opalinus clay and an argillite which are both composed of an argillaceous
+matrix and multiple solid minerals constituents.

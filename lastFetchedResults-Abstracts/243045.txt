@@ -1,0 +1,9 @@
+Phase equilibrium computations constitute an important problem for designing and optimizing crystallization processes. The Gibbs free
+energy is generally used as an objective function to find phase amount and composition at equilibrium. In such problems, the Gibbs free
+energy may be a quite complex function, with several local minima. This paper presents a contribution to handle this kind of problems by
+implementation of an optimization technique based on the successive use of a genetic algorithm (GA) and of a classical sequential quadratic
+programming (SQP) method: the GA is used to perform a preliminary search in the solution space for locating the neighborhood of the
+solution. Then, the SQP method is employed to refine the best solution provided by the GA. The basic operations involved in the design of
+the GA developed in this study (encoding with binary representation of real values, evaluation function, adaptive plan) are presented. Several
+test problems are first presented to demonstrate the validity of the approach. Then, calcium phosphate precipitation which is of major interest
+for P-recovery from wastewater, has been chosen as an illustration of the implemented algorithm

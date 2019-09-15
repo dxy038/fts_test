@@ -1,0 +1,7 @@
+A novel approach towards fully stressed designs in hyperelasticity is discussed leading to closed-form expressions
+for the sensitivities of the objective and displacements with respect to design variations. The key
+idea is the modi cation of the classical approach coupled with a so-called design element method o ering a
+lot of parallelism to standard  nite element methods. We bypass implicit constraints on dependent quantities
+and derive an explicit linearly constrained optimization problem solved by means of  rst-order procedures.
+The results obtained with the proposed method are adequate from an engineering point of view though being
+computed with a simple method

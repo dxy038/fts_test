@@ -1,0 +1,10 @@
+The J!A1 three!term asymptotic solution for a crack in a power!law hardening material has been suc!
+cessfully used to interpret the constraint e}ects due to _nite specimen geometry and loading con_gurations[
+In the current paper\ we study the mechanics behavior of the J!A1 solution for a plane strain mode!I crack
+in very low hardening materials[ The objective is to investigate the validity of the J!A1 characterization\ in
+an approximate sense\ for the fully plastic crack!tip _elds in non!hardening materials[ In particular\ the
+constraints at the crack tip for several conventional specimen geometries and loading con_gurations in non!
+hardening materials are studied under the framework of the J!A1 description[ The results indicate that within
+the plastic zone ahead of the crack tip the three!term solution can capture the essential features of fully
+plastic _elds in various _nite size specimens in non!hardening materials[ Consequently A1 can be e}ectively
+used as a constraint parameter in characterizing the crack!tip _eld in non!hardening materials[

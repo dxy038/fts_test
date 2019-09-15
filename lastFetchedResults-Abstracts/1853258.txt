@@ -1,0 +1,8 @@
+Objective
+ly, we devised a method to develop prognostic models incorporating patterns of sequential organ failure to predict the eventual hospital mortality at each day of intensive care unit (ICU) stay. In this study, we investigate using a real world setting how these models perform compared to physicians, who are exposed to additional information than the models.
+s
+eloped prognostic models for days 2–7 of ICU stay by data-driven discovery of patterns of sequential qualitative organ failure (SOFA) scores and embedding the patterns as binary variables in three types of logistic regression models. Type A models include the severity of illness score at admission (SAPS-II) and the SOFA patterns. Type B models add to these covariates the mean, max and delta (increments) of SOFA scores. Type C models include, in addition, the mean, max and delta in expert opinion (i.e. the physicians’ prediction of mortality).
+s
+ians had a statistically significantly better discriminative ability compared to the models without subjective information (AUC range over days: 0.78–0.79 vs. 0.71–0.74) and comparable accuracy (Brier score range: 0.15–0.18 vs. 0.16–0.18). However when we combined both sources of predictions, in Type C models, we arrived at a significantly superior discrimination as well as accuracy than the objective and subjective models alone (AUC range: 0.80–0.83; Brier score range: 0.13–0.16).
+sion
+dels and the physicians draw on complementary information that can be best harnessed by combining both prediction sources. Extensive external validation and impact studies are imperative to further investigate the ability of the combined model.

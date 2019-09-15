@@ -1,0 +1,11 @@
+Objective
+The use of the multifocal pattern electroretinogram (mfPERG) for objective visual field testing is critically impaired by the small signal-to-noise ratios (SNRs) obtained. In order to explore ways to enhance mfPERG-SNRs and mfPERG-magnitude, the dependence of mfPERGs and multifocal visual evoked potentials (mfVEPs) on stimulation rate and stimulation mode is examined.
+Methods
+Using VERIS Science 5.1.10X (EDI, CA, USA) mfPERGs and mfVEPs were recorded simultaneously in two different experiments to stimulation at 52 locations comprising a visual field of 44° diameter. Firstly, in eight subjects the response magnitudes were compared for three pattern-reversal (PR) and two pattern-onset (PO) stimulus conditions, which differed in their maximal stimulation rate. Secondly, for equal recording durations the signal-to-noise-ratios (SNRs) of four PR stimuli with different stimulation rates were determined in eight subjects.
+Results
+Both mfPERG and mfVEP response magnitudes were substantially enhanced for the lower stimulation rates. The greatest effects were obtained for the mfPERG-N95 to pattern-reversal stimulation, which was by a factor of 5.2 ± 0.6 greater than that N95 for the standard condition (p < 0.001). mfPERGs for a comparatively low stimulation rate, i.e., reversing its contrast with a probability of 50% only every 53 ms, yielded the greatest SNRs (1.42-fold greater than for the standard condition; p   0.002).
+Conclusions
+The enhancement of both mfPERG and mfVEP response magnitudes for slow stimulation suggests that retinal mechanisms contribute to this response enhancement and that slow pattern-reversal stimulation might facilitate simultaneous high-resolution mfPERG- and mfVEP-based visual field testing.
+Significance
+The study suggests that mfPERG-based assessment of retinal ganglion cell function can be improved with stimulation sequences that are 2–4 times slower than the standard multifocal stimulus.
+

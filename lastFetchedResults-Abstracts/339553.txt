@@ -1,0 +1,11 @@
+Objective
+Nuclear factor of activated T cells (NFAT) transcription factors belong to a family of five proteins that are primarily known for their central role in the regulation of inducible gene expression in activated T cells. Little information exists on the expression or function of NFAT family members in hematopoietic cells, during myeloid differentiation or in myeloid cells.
+Materials and Methods
+
+In the present study, we establish a comprehensive expression profile of all five NFAT family members in human CD34+ hematopoietic progenitor cells and during their ex vivo differentiation into neutrophil, eosinophil, erythroid, and megakaryocytic lineages. Based on the observed expression pattern, the role of NFAT in Fas ligand gene expression in megakaryocytes was investigated.
+Results
+
+When CD34+ cells are induced to differentiate into neutrophil granulocytes, expression of all NFAT family members is rapidly suppressed. In contrast, regulation of NFAT expression during eosinophil, erythroid, and megakaryocytic differentiation follows a family member- and lineage-specific pattern. Most obviously, transcript and protein levels of NFATc4 are specifically upregulated about 10-fold during megakaryocytic differentiation, while they remain almost undetectable in neutrophil, eosinophil, and erythroid cells. As a first evidence for a functional role for NFAT in this cell type, NFAT was found to be strictly required for both the constitutive and inducible expression of the Fas ligand gene in megakaryocytes.
+Conclusion
+
+The expression pattern of NFAT and its family member- and lineage-specific regulation during myeloid differentiation will prompt further studies on the role of NFAT in myeloid cells, particularly in megakaryocytes.

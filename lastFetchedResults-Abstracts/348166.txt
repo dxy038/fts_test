@@ -1,0 +1,11 @@
+Objective
+To investigate rapid temporal processing in the auditory cortex by using auditory 40 Hz steady-state responses (SSRs).
+Methods
+A 40 Hz tone-burst at 500 Hz spectral frequency was presented monaurally to record SSRs in 10 normal subjects. The recording electrodes were placed over C1, C2, C3, C4, C5, C6, T3, T4, Fz, Cz and Pz, referring to an electrode at the 7th cervical spinous process. For comparison, unstimulated SSRs were recorded. A total of 200 responses of 1 s epoch were averaged and subjected to discrete fast Fourier transforms to yield the amplitude and phase of the 40 Hz component. The coherence (Coh) values of the 40 Hz component between homologous electrodes were also calculated.
+Results
+At the temporal electrodes contralateral to the stimulated ear, the amplitude was significantly larger and its phase was significantly smaller than those of the ipsilateral side. The interhemispheric Coh between T3 and T4 in response to right ear stimulation was significantly greater than those of left ear stimulation or the unstimulated condition.
+Conclusions
+Our results suggest that 40 Hz auditory information is predominantly processed in the left auditory cortex, interacting with the right hemisphere. This finding is consistent with the fact that the left auditory cortex plays an important role in rapid temporal processing.
+Significance
+Auditory 40 Hz SSRs with Coh analysis are useful for investigating the left hemisphere specialization for rapid temporal processing.
+

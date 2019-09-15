@@ -1,0 +1,11 @@
+Objective
+Development of a mouse line permitting live imaging of cells expressing CD41/GpIIb as a means to study megakaryopoiesis.
+Materials and Methods
+
+The gene encoding yellow fluorescent protein (eyfp) was inserted by homologous recombination into embryonic stem cells at the start site of the gpIIb locus. A knockin mouse line, designated CD41-yellow fluorescent protein (YFP), was developed and was characterized by fluorescence microscopy and flow cytometry. Activity of YFP+ platelets was determined by induction of P-selectin expression in response to thrombin stimulation.
+Results
+
+CD41-YFP mice contained YFP-labeled megakaryocytes and platelets, the proportions of which varied, depending on the genotype and individual animal, while lymphoid, myelomonocytic, and erythroid lineages were negative. In addition, a fraction of hematopoietic stem cells and intermediate progenitors expressed YFP at low levels. Crossing CD41-YFP mice with lysozyme green fluorescent protein and globin cyan fluorescent protein mice, followed by in vivo imaging of fetal liver, revealed megakaryocytic cells as a subset distinct from myeloid and erythroid cells. This experiment is also the first to show the distribution of three hematopoietic lineages in a minimally perturbed organ. Surprisingly, analysis of CD41-YFP platelets showed that the YFP+ subset is more responsive to thrombin stimulation than the YFP− subset. Experiments aimed at determining the stability of the YFP+ platelets showed that after lethal irradiation of CD41-YFP mice, the proportion of labeled platelets in the blood declines more rapidly than the bulk of the platelets.
+Conclusion
+
+The newly developed mouse line should become useful not only for in vivo imaging experiments of megakaryocytes and platelets, but also for studies on platelet aging and function. Our irradiation experiments suggest that the YFP+ platelets are enriched for newly made cells because YFP has a shorter half-life than platelets. Therefore, the finding that YFP+ platelets are more responsive to thrombin stimulation raises the possibility that platelet activity decreases rapidly during physiological aging.

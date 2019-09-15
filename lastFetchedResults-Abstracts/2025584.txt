@@ -1,0 +1,21 @@
+The Frequency Assignment Problem is
+assignment of frequencies or channels to establish link
+between base station and mobile transmitter in cellular
+system. To avoid interference, minimum separation between
+assigned frequencies is required. This problem is NP-hard.
+Due to limited availability of spectrum and reuse of same
+frequencies at different geographical locations, an excellent
+assignment is to be done, which must satisfy electromagnetic
+constraints with respect to demand in each cell. This paper
+presents new strategies for frequency assignment in cellular
+radio networks. The objective is to assign the frequency
+satisfying electromagnetic constraints for given demand with
+minimum use of frequency bandwidth. The proposed
+strategies are implemented on benchmark test problems. In
+frequency assignment, call ordering is done with help of
+computational intelligent techniques and assignment part is
+done with FEA strategy. To speed up the assignment process
+to find good assignments, we proposed modified strategies.
+The performance of the proposed strategies compared with
+Frequency Exhaustive Assignment (FEA). The results
+obtained are very optimistic and encouraging

@@ -1,0 +1,11 @@
+In this paper, a multi-objective multi-period multi-product supply chain network design problem is introduced. This problem is modeled
+using a multi-objective mixed integer mathematical programming. The objectives are: maximizing the total profit of logistics, maximizing
+service level, and minimizing inconsistency of operations. Several sets of constraints are considered to handle the real situations of threeechelon
+supply chains. As the optimum value of conflicting objective functions of the proposed model cannot be met concurrently, a goal
+programming approach is used for that matter. An illustrative numerical example is provided to show the mechanism of the proposed
+model and the solution procedure. In a numerical example, 1 manufacture, 2 warehouses, 2 distribution centers (DCs), and 2 types of final
+products are considered in a planning horizon consisting of 3 time periods. Products are shipped from the manufacturer to warehouses, and
+then are shipped from the two warehouses to two distribution centers. The distribution centers are the points from which products are
+shipped to final consumers. The Model is coded using GAMS software on a Core i7 CPU, using 8GB of RAM with MS-Windows 8.0. The
+optimum design of supply chain, inventory level for warehouses and distributors, and amount of shipments between echelons are
+determined.

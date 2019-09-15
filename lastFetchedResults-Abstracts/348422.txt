@@ -1,0 +1,11 @@
+Objective
+Definition of appropriate frequency bands and choice of recording reference limit the interpretability of quantitative EEG, which may be further compromised by distorted topographies or inverted hemispheric asymmetries when employing conventional (non-linear) power spectra. In contrast, fPCA factors conform to the spectral structure of empirical data, and a surface Laplacian (2-dimensional CSD) simplifies topographies by minimizing volume-conducted activity. Conciseness and interpretability of EEG and CSD fPCA solutions were compared for three common scaling methods.
+Methods
+Resting EEG and CSD (30 channels, nose reference, eyes open/closed) from 51 healthy and 93 clinically-depressed adults were simplified as power, log power, and amplitude spectra, and summarized using unrestricted, Varimax-rotated, covariance-based fPCA.
+Results
+Multiple alpha factors were separable from artifact and reproducible across subgroups. Power spectra produced numerous, sharply-defined factors emphasizing low frequencies. Log power spectra produced fewer, broader factors emphasizing high frequencies. Solutions for amplitude spectra showed optimal intermediate tuning, particularly when derived from CSD rather than EEG spectra. These solutions were topographically distinct, detecting multiple posterior alpha generators but excluding the dorsal surface of the frontal lobes. Instead a low alpha/theta factor showed a secondary topography along the frontal midline.
+Conclusions
+CSD amplitude spectrum fPCA solutions provide simpler, reference-independent measures that more directly reflect neuronal activity.
+Significance
+A new quantitative EEG approach affording spectral components is developed that closely parallels the concept of an ERP component in the temporal domain.
+

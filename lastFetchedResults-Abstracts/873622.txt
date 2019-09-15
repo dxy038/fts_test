@@ -1,0 +1,5 @@
+We consider a multiobjective fractional programming problem MFP.involving
+vector-valued objective n-set functions in which their numerators are different
+from each other, but their denominators are the same. By using the concept of
+proper efficiency, we establish optimality conditions and duality relations for our
+problem MFP.under convexity assumptions on objective and constrained functions

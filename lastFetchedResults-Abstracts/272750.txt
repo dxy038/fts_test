@@ -1,0 +1,8 @@
+Pores and defects in real materials often have very irregular shapes. Thus, micromechanical modeling based on the
+analytical solutions of elasticity becomes inapplicable. The objective of this paper is to present a computational procedure
+to calculate the contribution of the irregularly shaped defects into the effective moduli of two-dimensional elastic
+solids. In this procedure, the cavity compliance tensor is constructed numerically for an individual defect, and then used
+in the elastic potential-based approach to predict the effective moduli of porous solids. Two computational methods are
+used in this paper to calculate the components of a cavity compliance tensor: finite element analysis and numerical
+conformal mapping. Application of this procedure to the regular hole shapes produces results that are in good correspondence
+with analytical predictions

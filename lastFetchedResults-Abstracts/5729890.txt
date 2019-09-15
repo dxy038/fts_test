@@ -1,0 +1,1 @@
+Dual-wavelength DFB lasers and REAMs are used in a WDM-PON architecture employing a cross-remodulation scheme that can suppress the Rayleigh scattering effect. Bidirectional transmission of 10-Gb/s signals is demonstrated with reduced devices requirements.

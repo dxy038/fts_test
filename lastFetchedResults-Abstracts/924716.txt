@@ -1,0 +1,4 @@
+This paper addresses the well-known classification task of data mining, where the objective is to predict the class which an example belongs to. Discovered knowledge is expressed in the form of high-level, easy-to-interpret classification rules. In order to discover classification rules, we propose a hybrid meta-heuristic/fuzzy system. In this paper we use an Ant Colony Optimization method as meta-heuristic algorithm which extracts optimized fuzzy if-then rules for classification patterns. Fuzzy rules are desirable because of their interpretability by human experts. Ant colony algorithm is employed as evolutionary algorithm to optimize the obtained set of fuzzy rules. Results on breast cancer data set from UCI machine learning repository show that the proposed approach would be capable of classifying cancer patterns with high accuracy rate in addition to adequate interpretability of extracted rules.
+
+ 
+

@@ -1,0 +1,8 @@
+AbstractIntroduction
+logical developments have increased the ease of performing perfusion MRI by arterial spin labeling (ASL) in clinical settings. The objective of this study was to evaluate the effects of radiotherapy on extra-axial brain tumors by using MR perfusion images obtained using the pseudo-continuous arterial spin labeling (pcASL) method.
+als and Methods
+nsecutive patients (nine lesions) with extra-axial brain tumors treated only with radiotherapy were enrolled in this study. MR examinations, including pcASL imaging, were performed before and after radiotherapy. Cerebral blood flow, maximum tumor blood flow (mTBF), tumor volume and the ratio of signal enhancement by contrast material (enhancement ratio) were evaluated in serial examinations during the course of radiotherapy. Both the percentage change in mTBF (mTBF ratio) and the percentage change in volume (volume ratio) were calculated using values obtained before and after radiotherapy. The correlation between the volume ratio and the mTBF ratio was assessed using linear regression analysis and Spearman’s rank correlation coefficient (rs).
+s
+ng correlation was demonstrated between the tumor volume ratio and the mTBF ratio before and after radiotherapy (rs= 0.93, P&lt; .01). However, no significant correlation was identified between changes in enhancement and volume ratio (rs= 0.20) or between changes in enhancement and mTBF ratio (rs= 0.30) before and after radiotherapy.
+sion
+BF measured using pcASL may serve as an additive index for tumor volume when determining tumor response to radiotherapy even in the absence of contrast material.

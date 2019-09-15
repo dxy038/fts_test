@@ -1,0 +1,8 @@
+Objective
+ butyrate (butyric acid; BA) is a major metabolic by-product of the anaerobic periodontopathic bacteria present in subgingival plaque. We examined the effects of BA and/or indomethacin on cell proliferation, the expression of cyclooxygenases (COXs), prostaglandin (PG) receptors (EP1-4), extracellular matrix proteins, such as type I collagen and osteopontin, and PGE2 production, using ROS17/2.8 cells as osteoblasts.
+s
+t clonal cell line ROS 17/2.8 was cultured with 0, 10−5, 10−4, and 10−3 M BA in the presence or absence of 0.5 μM indomethacin, for up to 7 days. The expression of COX-1, COX-2, EP1, EP2, EP3, EP4, type I collagen, and osteopontin was examined at the mRNA and protein levels using real-time PCR and Western blotting, respectively. The amount of PGE2 in the culture medium was measured by ELISA.
+s
+eration of ROS 17/2.8 cells was not affected by the addition of BA. However, PGE2 production and the expression of COX-1 and COX-2 increased with the addition of BA. In contrast, indomethacin, an inhibitor of COX, blocked the stimulatory effect of BA. Furthermore, EP2 expression increased with BA treatment, whereas EP1 expression was not affected and the expression of EP3 and EP4 was not detected. The addition of BA also increased the expression of type I collagen and osteopontin. Indomethacin blocked about 50% of the stimulatory effect of BA on type I collagen, whereas it did not block the effect on osteopontin.
+sions
+results suggest that BA induces PGE2 production by increasing the expression of COX-1 and COX-2 in osteoblasts, and that an autocrine action of the produced PGE2, via EP1 or BA-induced EP2, is related to an increase in type I collagen expression by BA.

@@ -1,0 +1,5 @@
+We consider a multiobjective program with inequality and equality constraints and a set
+constraint. The equality constraints are Fréchet differentiable and the objective function
+and the inequality constraints are locally Lipschitz. Within this context, a Lyusternik type
+theorem is extended, establishing afterwards both Fritz–John and Kuhn–Tucker necessary
+conditions for Pareto optimality.  2002 Elsevier Science (USA). All rights reserved.

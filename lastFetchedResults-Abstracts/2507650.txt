@@ -1,0 +1,20 @@
+Background: Changes in body composition may be used for monitoring progression/
+regression of a disease. Prompt ?-rays in vivo neutron activation analysis
+(IVNAA) has been widely used for the measurement of body composition in recent
+years.
+Objective: In this paper, we tried to improve the safety of IVNAA operator.
+Methods: The most important factor for reducing the operator receiving dose is the
+optimization of shields. An appropriate shield should not only reduce the operator receiving
+dose, but it also must have the least effect on the detected spectrum. Because
+all parts of setup, including the operator shield, can be activated, the emitted ?-rays
+may be counted in detectors and increase the background level. In this research,
+several shields have been considered for an IVNAA setup. 4 different shields—concrete,
+epoxy colemanite resin, paraffin borated with bismuth layer (PE-Bi layer), and
+paraffin borated uniformly mixed with bismuth (PE-Bi)—were simulated by MCNPX
+code.
+Results: We found that the PE-Bi shield decreases the absorbed dose to 77%
+compared with “no shield” and 74% compared to concrete. Also, the reduction rate of
+dose equivalent was 95% compared to “no shield” and 91% compared to colemanite
+resin. The neutron flux decreased almost 400 times in the presence of PE-Bi; it had
+less background in ?-spectrum compared to other suggested shields.
+Conclusion: Among the tested shields, PE-Bi would be the best one.

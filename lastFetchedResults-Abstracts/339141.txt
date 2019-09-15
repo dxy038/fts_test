@@ -1,0 +1,11 @@
+Objective
+To investigate 1) the signal transduction pathways affected by heat shock protein 27 (HSP27) expression; and 2) the expression and regulation of HSP27 in acute myeloid leukemia (AML).
+Materials and Methods
+
+RNA interference studies for HSP27 in leukemic TF-1 cells were used to investigate the effects on downstream signal transduction and apoptosis after VP-16 and CD95/Fas treatment. HSP27 expression and activation was investigated in AML blasts through Western blot analysis.
+Results
+
+RNA interference for HSP27 resulted in a twofold increase in VP-16-induced apoptosis, which was preceded by enhanced p38 and c-Jun phosphorylation and a twofold increased cytochrome c release into the cytoplasm. DAXX co-immunoprecipitated with HSP27, suggesting an inhibitory role of HSP27 in VP-16-mediated activation of the ASK1/p38/JNK pathway. CD95/Fas-induced apoptosis, however, was unaffected by HSP27 siRNA, due to upregulation of HSP27. Although HSP27 was highly expressed and phosphorylated in primitive monocytic AML blasts (M4-M5, 91%, n = 11) and undetectable in myeloid blasts (M1-M2, n = 5), VP-16-mediated apoptosis correlated moderately with HSP27 expression. This is likely due to the co-expression of p21Waf1/Cip1, which is in the majority of the monocytic AML M4-M5 blasts constitutively localized in the cytoplasm. Overexpression of cytoplasmic p21 inhibited the enhanced p38 phosphorylation after HSP27 RNAi, suggesting a predominant anti-apoptotic role of p21 over HSP27.
+Conclusion
+
+1) HSP27 inhibits VP-16-mediated phosphorylation of p38 and c-Jun, cytochrome c release, and subsequent apoptosis; 2) HSP27 is expressed and activated in monocytic AML blasts; 3) cytoplasmic expression of p21 compensates for the lack of HSP27.

@@ -1,0 +1,9 @@
+Context: In Taiwan, the supply of software engineers provided by universities has suffered from both a quantity problem and a quality problem. An effort to change the software engineering education is in need.
+
+ive: The Software Engineering Consortium (SEC) of Taiwan sets its objective to increase the number of college graduates that are better prepared for filling software development and maintenance jobs.
+
+: Four dysfunctions: avoidance of process, inattention to modeling, lack of awareness to software quality, and chasm between application domains and software engineering, of the current situation are identified. The effort to correct the dysfunctions involves design of a module-oriented software engineering curriculum, and organization of people, resource, and activities.
+
+s: In the academic years from 2003 to 2008, both the number of software engineering courses offered and the enrollment size increased significantly by a space of some 250 courses and 5000 enrollments, respectively.
+
+sion: The SEC effort to establishing software engineering modules has been received with enthusiasm by faculty members and students of the participating institutes. Inspired by the important foundational work such as SWEBOK and SE2004, we believe that the adopted strategy of identifying dysfunctions and then designing remedies to address these dysfunctions contributed significantly to the success of the SEC effort.

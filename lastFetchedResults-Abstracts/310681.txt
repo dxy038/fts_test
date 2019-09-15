@@ -1,0 +1,11 @@
+Objective: To validate a system, using electromagnetic movement sensors, for the simultaneous measurement of scapular and humeral positions.
+
+Design: The study was designed to analyse the repeatability and to quantify the inherent measurement errors, using two observers to measure the movements of five normal subjects.
+
+Background: Following an earlier study of a system to measure three dimensional scapula motion, the method has been developed to incorporate simultaneous measurement of humeral and scapular position using a new design of scapula locator and a two-channel measurement system.
+
+Methods: The system was used to measure the scapula movements accompanying abduction of the shoulder. The scapula locator was applied at 10° intervals of abduction. This was measured initially using a fluid filled goniometer, but, in a second part of the study, using an additional motion sensor.
+
+Results: In the single channel study, the 95% confidence intervals were less than 4° and 10 mm. When simultaneous measurement of arm position was performed the confidence intervals were little changed.
+
+Conclusions: A new system for the measurement of scapulohumeral relationships has been shown to have good inter-and intra-observer reliability. This study opens the way for a full investigation of the scapula motion accompanying three dimensional shoulder motion in both normal subjects and in patients having shoulder pathology.

@@ -1,0 +1,7 @@
+We give some necessary and sufficient conditions which completely characterize the strong and total Lagrange duality, respectively,
+for convex optimization problems in separated locally convex spaces. We also prove similar statements for the problems
+obtained by perturbing the objective functions of the primal problems by arbitrary linear functionals. In the particular case when
+we deal with convex optimization problems having infinitely many convex inequalities as constraints the conditions we work with
+turn into the so-called Farkas–Minkowski and locally Farkas–Minkowski conditions for systems of convex inequalities, recently
+used in the literature. Moreover, we show that our new results extend some existing ones in the literature.
+© 2007 Elsevier Inc. All rights reserved.

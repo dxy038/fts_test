@@ -1,0 +1,11 @@
+Objective
+The aim of this study was the preclinical evaluation of imatinib mesylate (Gleevec, formerly STI571) in conjunction with arsenic trioxide (As2O3, Trisenox) for the treatment of chronic myelogenous leukemia (CML).
+Materials and Methods
+
+Tetrazolium-based cell line proliferation assays (MTT assays) were performed to determine the cytotoxicity of As2O3 alone and in combination with imatinib. Cell lines tested in this study were Bcr-Abl–expressing cells (K562, MO7p210, 32Dp210) and parental cells (MO7e, 32D). Isobologram analysis was performed manually and using the median effect method. In vitro cytotoxicity also was determined in colony-forming assays using CML patient cells. Western blot analysis was performed to detect Bcr-Abl protein levels in K562 cells exposed to As2O3 at graded concentrations. Bcr-Abl protein level kinetics were correlated with cell viability (trypan blue count) and activated caspase-3 detected by flow cytometry.
+Results
+
+We show additive to synergistic cytotoxicity in Bcr-Abl+ cell lines depending on inhibitory concentrations and cell type. Results obtained by colony-forming assays confirmed the findings in cell line proliferation assays. Flow cytometric detection of activated caspase-3 revealed synergistic activity in K562 cells. Treatment of K562 cells with As2O3 alone led to down-regulation of Bcr-Abl protein within 24 hours, even at low doses. The decline of Bcr-Abl preceded activation of caspase-3 and the loss of viable cells.
+Conclusions
+
+Favorable cytotoxicity and proapoptotic activity of imatinib in conjunction with As2O3 and specific down-regulation of Bcr-Abl protein levels by As2O3 in K562 cells indicate that As2O3 in combination with imatinib might be useful for circumventing resistance to imatinib monotherapy.

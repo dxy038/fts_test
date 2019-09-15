@@ -1,0 +1,12 @@
+In this research, a single batch processing machine scheduling problem with
+minimization of total earliness and tardiness as the objective function is
+investigated.We first formulate the problem as a mixed integer linear
+programming model. Since the research problem is shown to be NP-hard, an
+improved memetic algorithmis proposed to efficiently solve the problem. To
+further enhance the memetic algorithm and avoid premature convergence, we
+hybridize it with a variable neighborhood search procedureas its local search
+engine. A dynamic programming approach is also proposed to find optimal
+schedule for a given set of batches. Wedesign a Taguchi experiment to
+evaluate the effects of different parameters on the performance of the
+proposed algorithm. The results of an extensive computational study
+demonstrate the efficacy of the proposed algorithm.

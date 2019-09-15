@@ -1,0 +1,11 @@
+Objective
+To determine whether the variability in rate of sale of prescription opioid analgesics is related to the variability in rates of drug poisoning mortality among states in the United States in 2002.
+Methods
+
+Drug poisoning deaths were defined as unintentional deaths or those of undetermined intent whose underlying cause was coded to “narcotics” (X42) or “other and unspecified” drugs (X44) in the National Vital Statistics System. Per capita sales of ten opioid analgesics from the Drug Enforcement Administration and combined sales in morphine equivalents were correlated with drug poisoning mortality rates by state using multivariate linear regression. Regression coefficients between mortality rates and sales rates were adjusted for race (percent white, percent black) and age (percent aged 24 years or younger, and percent aged 65 years and older).
+Results
+
+There was over a ten-fold variability in sales of some opioid analgesics. Combined sales ranged 3.7-fold, from 218 mg per person in South Dakota to 798 mg per person in Maine. Drug poisoning mortality varied 7.9-fold, from 1.6/100,000 in Iowa to 12.4/100,000 in New Mexico. Drug poisoning mortality correlated most strongly with non-OxyContin® oxycodone (r=0.73, p<0.0001), total oxycodone (r=0.68, p<0.0001), and total methadone (r=0.66, p<0.0001) in the multivariate analysis. A scatterplot demonstrated a linear relationship between total opioid analgesic sales and drug poisoning mortality.
+Conclusions
+
+The extent of opioid analgesics use varies widely in the United States. Variation in the availability of opioid analgesics is related to the spatial distribution of drug poisoning mortality by state.

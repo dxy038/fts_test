@@ -1,0 +1,11 @@
+Objective
+To evaluate 3 published automated algorithms for detecting seizures in neonatal EEG.
+Methods
+One-minute, artifact-free EEG segments consisting of either EEG seizure activity or non-seizure EEG activity were extracted from EEG recordings of 13 neonates. Three published neonatal seizure detection algorithms were tested on each EEG recording. In an attempt to obtain improved detection rates, threshold values in each algorithm were manipulated and the actual algorithms were altered.
+Results
+We tested 43 data files containing seizure activity and 34 data files free from seizure activity. The best results for Gotman, Liu and Celka, respectively, were as follows: sensitivities of 62.5, 42.9 and 66.1% along with specificities of 64.0, 90.2 and 56.0%.
+Conclusions
+The levels of performance achieved by the seizure detection algorithms are not high enough for use in a clinical environment. The algorithm performance figures for our data set are considerably worse than those quoted in the original algorithm source papers. The overlap of frequency characteristics of seizure and non-seizure EEG, artifacts and natural variances in the neonatal EEG cause a great problem to the seizure detection algorithms.
+Significance
+This study shows the difficulties involved in detecting seizures in neonates and the lack of a reliable detection scheme for clinical use. It is clear from this study that while each algorithm does produce some meaningful information, the information would only be usable in a reliable neonatal seizure detection process when accompanied by more complex analysis, and more advanced classifiers.
+

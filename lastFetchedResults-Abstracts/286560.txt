@@ -1,0 +1,7 @@
+OBJECTIVE:  Examine the association between county occupational structure, public expenditures, services availability, prevalence of risk factors, and coronary mortality rates, for 1980–1994, in Washington state.
+
+DESIGN: Washington’s 39 counties were classified into three occupational structure categories: counties with the lowest percentages of the labor force in managerial, professional, and technical occupations were classified in category I; counties with the highest percentages were in category III. Directly age-adjusted coronary heart disease (CHD) mortality rates, aged 35–64 years, (from vital statistics and Census data), per capita expenditures (Washington Department of Revenue data), per capita services (U.S. Statistical Abstracts data), and the prevalence of CHD risk factors (BRFSS data) were calculated for each occupational structure category.
+
+RESULTS: CHD mortality rates and the prevalence of risk factors were inversely associated with occupational structure. Per capita expenditures for health, social, and employment services were 2.2 times, and for schools and recreation were 1.4 times higher in category III vs. I counties. Per capita numbers of child care, job training, employment services, exercise facilities, schools, and medical services were 1.5–6.4 times greater in category III vs. I counties.
+
+CONCLUSIONS: Strategies to improve community living conditions and decrease economic disparities between counties may be important to decrease geographic differences in premature CHD mortality.

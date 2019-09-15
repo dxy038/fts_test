@@ -1,0 +1,11 @@
+Objective
+During embryonic development murine erythropoiesis occurs in two waves by producing first primitive erythroid cells (EryPs) and then definitive erythroid cells (EryDs). Erythropoietin (EPO) signaling is compared between EryPs and EryDs.
+Methods
+
+We studied the EPO signaling in EryPs and EryDs using an embryonic stem-derived culture system, which can recapitulate this in vivo development process and has thus been used as a convenient in vitro model system of erythropoiesis.
+Results
+
+We found that EPO induced sustained phosphorylation and nuclear translocation of signal transducer and activator of transcription 5 (STAT5) in EryPs but not EryDs. EryPs expressed dramatically higher amounts of EPO receptor compared with EryDs, indicating there was excessive signaling from the receptor upon EPO stimulation. In addition, reduced expression of tyrosine phosphatase, Src homology region 2 domain-containing phosphatase-1, and decreased total phosphatase activity in EryPs partly explain the persistent activation of STAT5. Nevertheless, Janus kinase 2 (JAK2) phosphorylation, which is essential for transduction of EPO signaling from the EPO receptor to STAT5, was observed in a transient but not a persistent manner. Inhibition of JAK activity resulted in partial suppression of transient phosphorylation of STAT5 and no suppression of sustained phosphorylation of STAT5.
+Conclusion
+
+This study presents a unique feature of EryPs, as this is the first known example of sustained activation of STAT5 in normal cells. Our results also imply the existence of a JAK2-independent pathway of EPO signaling to induce STAT5 activation.

@@ -1,0 +1,1 @@
+A novel colorless wavelength-division-multiplexing passive-optical-network (WDM-PON) using injection-locking and electroabsorption transceiver (EAT) is proposed and demonstrated experimentally. Bidirectional transmission of 1.25Gbps and 622Mbps for downlink and uplink, respectively, were verified through 23-km standard-single-mode-fiber (SSMF).

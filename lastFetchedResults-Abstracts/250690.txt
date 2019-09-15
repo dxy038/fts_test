@@ -1,0 +1,10 @@
+A new scheme of shape optimization is applied to the design of a flow guide in flat-die extrusion
+processes. In general, tremendous time is inevitably required for the optimization of large-scale threedimensional
+extrusion processes. This is because the finite element analysis requires large computation
+time owing to the complexity of the die geometry and flow behaviour. The proposed scheme effectively
+reduces the computation time for the optimization process by approximating the objective function. This
+is achieved by introducing a transformed equation of the state variables. The scheme is then applied to
+the practical extrusion processes to produce ‘l’, ‘H’ and ‘L’ sections. The objective of the optimization
+is to make a balanced flow of the material in the exit region. Control points of a Bezier curve
+describing the outline of the flow guide are regarded as the design variables. Through application
+to large-scale problems, the effectiveness and usefulness of the proposed scheme is demonstrated.

@@ -1,0 +1,8 @@
+Objective
+fication algorithms can be used to predict risks and responses of patients based on genomic and other high-dimensional data. While there is optimism for using these algorithms to improve the treatment of diseases, they have yet to demonstrate sufficient predictive ability for routine clinical practice. They generally classify all patients according to the same criteria, under an implicit assumption of population homogeneity. The objective here is to allow for population heterogeneity, possibly unrecognized, in order to increase classification accuracy and further the goal of tailoring therapies on an individualized basis.
+s and materials
+selective-voting algorithm is developed in the context of a classifier ensemble of two-dimensional convex hulls of positive and negative training samples. Individual classifiers in the ensemble are allowed to vote on test samples only if those samples are located within or behind pruned convex hulls of training samples that define the classifiers.
+s
+tion of the new algorithm's increased accuracy is carried out using two publicly available datasets having cancer as the outcome variable and expression levels of thousands of genes as predictors. Selective voting leads to statistically significant increases in accuracy from 86.0% to 89.8% (p &lt; 0.001) and 63.2% to 67.8% (p &lt; 0.003) compared to the original algorithm.
+sion
+ive voting by members of convex-hull classifier ensembles significantly increases classification accuracy compared to one-size-fits-all approaches.

@@ -1,0 +1,11 @@
+Objective. To characterise with a mechanical model, the force–displacement response of the human lumbar spine to postero–anterior loading.
+
+Design. Single case with repetition.
+
+Background. Previous attempts to characterise the spine's force–displacement response have been simplistic and only considered the loading curve. These approaches ignored valuable information such as viscosity, non-linear elasticity and inertia of the lumbar spine.
+
+Methods. The Spinal Assessment Machine applied a postero–anterior load to the spines of 23 asymptomatic subjects and measured the force–displacement response. The data was analysed by two methods; by a traditional linear regression of part of the loading curve and by a new method where an equation including non-linear stiffness and damping was used to characterise the whole force–displacement relationship.
+
+Results. The equation developed was found to account for virtually all of the variance in the raw data (R2>0.993). Four elements derived by the equation determine the contributions of linear elasticity, non-linear elasticity, linear viscosity and non-linear viscosity to the overall stiffness.
+
+Conclusions. Considering the excellent fit of the new equation to the raw data and its poor correlation with existing measures, it is proposed that the traditional measures provide an incomplete description of the force–displacement response.

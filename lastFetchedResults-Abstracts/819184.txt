@@ -1,0 +1,22 @@
+Abstract — The speech, being a fundamental way of
+communication for the humans, has been embedded in
+various essential applications like speech recognition, voicedistance-
+talk and other forms of personal communications.
+There are so many applications of speech still to be far from
+reality just because of lack of efficient and reliable noise
+removal mechanism and techniques for preserving or
+improving the intelligibility for the speech signals. The broad
+categories of speech enhancement techniques can be listed as
+speech filtering techniques, beam forming techniques and
+active noise cancellation methods. In this paper, our work
+has two-fold objective. First is to improve the speech
+recognition performance in multi-microphone environment.
+Second, we attempted to analyze the performance of speech
+recognition against the filter-bank parameters; filter length
+and number of subbands. The experiments were performed
+for 20 words including numbers and commands, 10 words of
+numbers only and 10 words of commands only for different
+values of filter bank parameters. The results obtained have
+proved the speech enhancing capability of the beamforming
+technique in multi-microphone network where noise and
+echo-interference can degrade the original speech signal.

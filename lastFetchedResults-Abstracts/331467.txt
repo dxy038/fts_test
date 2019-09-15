@@ -1,0 +1,11 @@
+Objective
+Evaluate the effects of core structure and storage conditions on the mechanical properties of acid-resin modified composites and a control material by three point bending and conversion measurements 15 min and 24 h after curing.
+Methods
+
+The monomers pyromellitic dimethacrylate (PMDM), biphenyldicarboxylic-acid dimethacrylate (BPDM), (isopropylidene-diphenoxy)bis(phthalic-acid) dimethacrylate (IPDM), oxydiphthalic-acid dimethacrylate (ODPDM), and Bis-GMA were mixed with triethyleneglycol dimethacrylate (TEGDMA) in a 40/60 molar ratio, and photo-activated. Composite bars (Barium-oxide-glass/resin = 3/1 mass ratio, (2 mm × 2 mm × 25 mm), n = 5) were light-cured for 1 min per side. Flexural strength (FS), elastic modulus (E), and work-of-fracture (WoF) were determined in three-point bending after 15 min (stored dry); and after 24 h under dry and wet storage conditions at 37 °C. Corresponding degrees of conversion (DC) were evaluated by Fourier transform infrared spectroscopy. Data was statistically analyzed (2-way analysis of variance, ANOVA, Holm–Sidak, p < 0.05).
+Results
+
+Post-curing significantly increased FS, E and DC in nearly all cases. WoF did not change, or even decreased with time. For all properties ANOVA found significant differences and interactions of time and material. Wet storage reduced the moduli and the other properties measured with the exception of FS and WoF of ODPDM; DC only decreased in BPDM and IPDM composites.
+Significance
+
+Differences in core structure resulted in significantly different physical properties of the composites studied with two phenyl rings connected by one ether linkage as in ODPDM having superior FS, WoF and DC especially after 24 h under wet conditions. As expected, post-curing significantly contributed to the final mechanical properties of the composites, while wet storage generally reduced the mechanical properties.

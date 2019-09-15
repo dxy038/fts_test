@@ -1,0 +1,18 @@
+The objective of seismic signal deconvolution is to extract from the signal information
+concerning the rockmass or the signal in the source of the shock. In the case of blind deconvolution, we
+have to extract information regarding both quantities. Many methods of deconvolution made use of in
+prospective seismology were found to be of minor utility when applied to shock-induced signals recorded
+in the mines of the Lubin Copper District. The lack of effectiveness should be attributed to the inadequacy
+of the model on which the methods are based, with respect to the propagation conditions for that type of
+signal. Each of the blind deconvolution methods involves a number of assumptions; hence, only if these
+assumptions are fulfilled, we may expect reliable results.
+Consequently, we had to formulate a different model for the signals recorded in the copper mines of the
+Lubin District. The model is based on the following assumptions: (1) The signal emitted by the shock
+source is a short-term signal. (2) The signal transmitting system (rockmass) constitutes a parallel
+connection of elementary systems. (3) The elementary systems are of resonant type. Such a model seems to
+be justified by the geological structure as well as by the positions of the shock foci and seismometers. The
+results of time-frequency transformation also support the dominance of resonant-type propagation.
+Making use of the model, a new method for the blind deconvolution of seismic signals has been
+proposed. The adequacy of the new model, as well as the efficiency of the proposed method, has been
+confirmed by the results of blind deconvolution. The slight approximation errors obtained with a small
+number of approximating elements additionally corroborate the adequacy of the model.

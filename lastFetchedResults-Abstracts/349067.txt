@@ -1,0 +1,11 @@
+Objective
+Time–frequency dynamics of spike–wave discharges (SWDs) were investigated in patients with absence seizures and in WAG/Rij rats, a genetic model of absence epilepsy using a specially developed wavelet transform.
+Methods
+Two types of SWDs were analyzed in both species: the most frequently occurring discharges (of minimal 3.6–4.0 s or more) and shorter ones recorded from various cortical regions.
+Results
+The more prolonged discharges had two phases: during the initial part (from tenth of seconds to 1 s) of the seizure the frequency decreased quickly from 5 to 3.5 Hz in patients and from about 15 to 10 Hz in rats. A slower frequency decrease with periodical fluctuations was observed in both species during the second part of the discharge: the frequency decreased towards the end of the discharge to 3 Hz in patients and to 6–7 Hz in rats. The frequency of the short discharges decreased fast during the whole discharge: from 5 to 2–2.5 Hz and from about 15 to 5 Hz in patients and rats, respectively.
+Conclusions
+Comparison of data obtained in patients with typical absence epilepsy and WAG/Rij rats with genetic absence epilepsy revealed that the time–frequency dynamics of SWDs had similar properties but in a different frequency range.
+Significance
+The study of time–frequency dynamics using this specially developed wavelet transform revealed two different types of SWDs, which most likely represent different dynamics in the cortico-thalamo-cortical loop during shorter and more prolonged discharges.
+

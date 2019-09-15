@@ -1,0 +1,15 @@
+Abstract
+The objective of this study is to investigate the influence of the oil shocks caused by
+crude oil supply and demand on stock returns of Tehran Stock Exchange (TSE). For this
+purpose, a Structural Vector Autoregressive model (SVAR) has been estimated based on
+the monthly data (1991 to 2010) including world crude oil supply, world demand for
+industrial products, real price of the crude oil and real stock returns in TSE variables.
+Fluctuations of the real price of the crude oil are attributed to three structural shocks:
+World crude oil supply shocks, world crude oil demand shocks and world industrial
+products demand shocks. Furthermore, effects of these shocks on the real stock returns of
+TSE have been studied in this study. The results show that the oil supply shock has no
+significant impact on the stock returns, but the global demand shock and the oil specific
+demand shock have a significantly positive impact on the Stock Returns of Tehran Stock
+Exchange (TSE).
+Keywords: Stock returns; oil prices; demand shocks, supply shocks
+1- Assistant

@@ -1,0 +1,1 @@
+Fractal technique is based on the self similarities in the image. The main objective is to reduce the encoding time by using a technique called Block Indexing Technique (BIT), based on histogram characteristics to reduce the redundancy information in an image, which leads to reduction of the number of range blocks.

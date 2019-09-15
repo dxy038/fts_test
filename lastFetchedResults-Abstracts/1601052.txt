@@ -1,0 +1,8 @@
+Design of a robust controller via single objective constrained optimization using differential evolution (DE) is
+presented in this paper. A set robust feedback controller gain is optimized based on plant’s linear model having
+structured parametric uncertainty such that the closed-loop system would have the maximum stability radius. A wedge
+region is assigned as the optimization constraint to specify the desired closed-loop poles location which is directly
+related to the desired time-domain response. The proposed controller design is applied to a two-mass system which is
+known as the benchmark problem for robust controller design. The simulation results show that the robustness
+performance is achieved in the presence of parameter variations of the plant. The proposed controller performs than
+the conventional LQR (linear quadratic regulator) controller.

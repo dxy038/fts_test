@@ -1,0 +1,13 @@
+In this paper, it is proposed to incorporate the analysis of the dynamic performance of the process into the design and engineering
+stage of projects as a means of analysing and resolving this type of problem. The following contributions are made with this objective in
+mind:
+(a) The barriers in the way of dynamic analysis are identified.
+(b) Software tools which make dynamic analysis accessible during the design and engineering phase of the project are proposed.
+To achieve this goal, modelling and mathematical simulation are used, with the following features:
+  strict modelling of mass, momentum and energy conservation equations as well as state equations, and
+  utilisation of the ‘Matlab-Simulink’ package as the base-software tool.
+(c) The procedure and tool proposed for dynamic analysis during the design phase should enable these studies to be carried out at a
+reasonable cost and time for regular industrial projects, and not just for large research projects or nuclear power plants.
+To complete this paper, we apply our method to a natural gas installation in a power plant. The model is applied to study the
+transients of a natural gas supply line to a steam-electric power plant. The results of the model have been validated with the actual data
+on the boiler trip obtained from the distributed control system of a steam-electric power plant.

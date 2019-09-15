@@ -1,0 +1,9 @@
+A full scale physical development and test facility, Divertor Test Platform 2 (DTP2), has been established in Finland for the purpose of demonstrating and developing the remote handling (RH) equipment designs for ITER using prototypes and virtual models. The major objective of the DTP2 environment is to verify and develop ITER divertor RH devices and operations. In practice this means various test trials and measurements of performance characteristics.
+
+aper describes the design process of the Cassette Toroidal Mover (CTM). The main purpose of this design task was the development of the CTM concept. The goal of the design process was to achieve compatibility between CTM and the latest ITER divertor design. The design process was based on using a variety of tools, i.e. Catia V5, Delmia, Ansys, Mathcad and project management tools. Applicable European Standards were applied to the concept design.
+
+ the cassette transporter, which carries divertor cassettes on the toroidal rails inside the ITER Vacuum Vessel (VV) during the divertor maintenance. The operation environment differs from a common industrial environment. Radiation level is 100 Gy/h. The temperature during RH operations can be 50 °C. Clearances are less than 20 mm and the loads carried weigh 9000 kg. These conditions require special solutions during the product development process.
+
+sign process consisted of defining and developing of the CTM operational sequence. This sequence includes the procedure of how the CTM – with it is onboard manipulator – prepares for and handles the divertor cassettes during RH operations. RH operations are essential part when defining CTM functions. High reliability is required in order to carry out RH tasks successfully. The recoverability of CTM is also an important design criteria.
+
+aper describes the design process and the structure of the CTM concept.

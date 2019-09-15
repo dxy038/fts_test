@@ -1,0 +1,1 @@
+We present a low-cost C/S-band WDM-PON employing colorless uncooled bidirectional transceivers and SOA-based broadband light sources. Colorless operations over 32 DWDM channels are demonstrated from -20 to 80&#176;C in 155-Mb/s bidirectional transmissions over 25 km.

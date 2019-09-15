@@ -1,0 +1,1 @@
+In emulating biological feature of attention shift, a high slew rate CMOS Winner-Take-Circuit is designed. Particle Swarm optimization has been used in order to optimized multi-objective circuit parameters. Simulation is carried out in MATLAB and CADENCE software. Simulation results demonstrate circuit possesses high slew rate (around 400V/&#956;s) and facilitate attention shift.

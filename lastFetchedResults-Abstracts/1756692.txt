@@ -1,0 +1,8 @@
+Objective
+alysis of clinical trials in delirium is typically complicated by treatment dropouts and by the fact that even untreated individuals may have a good prognosis. These features of delirium trials warrant special statistical attention; implications for each stage of a trial planning process are described.
+s
+ of outcome, patient sample, and data collection in delirium trials are discussed. Descriptions are given, together with examples, of time-to-event, imputation-based, linear and nonlinear models for the analysis of randomised controlled trials for delirium.
+s
+tion allows evaluation of the plausibility of individual recovery trajectories, but some simple imputations are found to be unsuitable for delirium research. Time-to-event and nonlinear models encourage a global perspective on analysis, which is often preferable to cross-sectional end-of-trial assessments. It is suggested that nonlinear random effects models for longitudinal trajectories are particularly suitable in a delirium context.
+sion
+hoped that the methods described, and nonlinear models in particular, will play a part in convincing analyses of future delirium research.

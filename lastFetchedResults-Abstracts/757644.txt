@@ -1,0 +1,13 @@
+Objective
+To assess the value for improving risk stratification of measures, unadjusted and adjusted for heart rate, of heart rate variability (HRV) and heart rate turbulence (HRT) based on 2- to 24-h ambulatory electrocardiographic recordings; and to relate this to the decision to use an implantable cardiac defibrillator (ICD) and the attendant consequences on effectiveness and cost-effectiveness.
+Background
+
+Risk stratification for high risk or low risk of lethal ventricular arrhythmic events, and hence for a decision about defibrillator implant, most commonly utilizes the left ventricular ejection fraction (LVEF). Electrocardiographic (ECG) approaches include 24-h ambulatory ECG recordings, with counts of ventricular premature contractions (VPCs), measures of heart rate variability (HRV), and heart rate turbulence (HRT). HRT has two components: turbulence onset (TO) and turbulence slope (TS).
+Methods and results
+
+We evaluated the qualifying ambulatory ECG recordings from 744 patients in the active treatment arms of the Cardiac Arrhythmia Suppression Trial (CAST). Beat characteristics, VPC counts, normal-to-normal beat intervals, and time-domain measures of HRV and HRT were calculated. Tachograms were rescaled to a heart rate of 75 and the resulting “normalized” measures evaluated as risk predictors for death, compared to unnormalized measures. Measures based on 2-h ECGs were also evaluated as risk predictors.
+
+The most powerful univariate predictor of survival was the normalized turbulence slope. The best multivariate prediction model had six components: history of angina, hypertension, diabetes, and absence of post-myocardial infarction revascularization, the log of LVEF, normalized TS, HR, and an interaction term of HR and normalized TS. Gains in effectiveness from use of this model cost between $0 and $4000 per year of life saved.
+Conclusions
+
+Turbulence slope substantially exceeded other ECG-based measures in improving prediction of subsequent death in models which included LVEF, and other clinical parameters. Use of this model would improve the effectiveness and cost-effectiveness of the ICD.

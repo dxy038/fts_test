@@ -1,0 +1,13 @@
+Data envelopment analysis (DEA) measures the relative efficiency of a homogenous
+set of decision-making units (DMUs) when multiple  inputs and outputs are present. The DEA-
+based Malmquist productivity index measuring the productivity change of DMUs over time has
+proven itself to be a valid tool to compare group performance. However, in the previous models
+developed for this purpose, it was supposed that all factors were controllable or discretionary. It is
+noteworthy that in most real cases, there are some inputs and outputs that are non-discretionary or
+semi-discretionary. Therefore, the main objective of the present study was to develop the DEA-
+based Malmquist productivity index on such factors to compare group performance at  the same
+period of time. The applicability of the proposed model has been illustrated by the comparison of
+environmental performance – concerning HSE-MS principles – between the two groups of Iranian
+and International oil and gas general contractors. Involving the controllability level of factors in
+comparing group performance, the model offers an scalar that can easily be interpreted to compare
+the performance of the two groups and to determine the superior performance.

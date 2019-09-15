@@ -1,0 +1,13 @@
+In practical project management (PM) decision problems, environmental coefficients and related parameters
+are frequently fuzzy in nature, and a decision maker (DM) must simultaneously consider various
+conflicting objectives in a framework of imprecise aspiration levels. This work focuses on developing a
+two-phase fuzzy mathematical programming (TPFGP) approach for solving the multi-objective PM decision
+problems in a fuzzy environment. The original fuzzy multi-objective programming model designed
+here attempts to simultaneously minimize total project costs, total completion time and total crashing
+costs with reference to direct costs, indirect costs, contractual penalty costs, duration of activities and
+the constraint of available budget. An industrial case is used to demonstrate the feasibility of applying
+the proposed approach to real-world PM decisions. Consequently, the proposed approach yields an efficient
+solution and overall degree of decision maker (DM) satisfaction with the determined goal values.
+Several significant management implications relating to the practical application of the proposed
+approach are also presented. Overall, the main contribution of this work lies in presenting a two-phase
+fuzzy programming methodology for solving real-world PM decision problems with multiple objectives.

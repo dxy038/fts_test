@@ -1,0 +1,2 @@
+Separable Nonlinear Least Squares (SNLS) problem is a special class of Nonlinear Least Squares (NLS) problems, whose objective function is a mixture of linear and nonlinear functions. SNLS has many applications in several areas, especially in the field of Operations Research and Computer Science. Problems related to the class of NLS are hard to resolve having infinite-norm metric. This paper gives a brief explanation about SNLS problem and offers a Lagrangian based algorithm for solving mixed linear-nonlinear minimization problem. 
+

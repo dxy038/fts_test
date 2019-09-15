@@ -1,0 +1,8 @@
+Background
+te of several available anthropometric indexes, the relative merit of these indexes for the prediction of type 2 diabetes remains unknown. Considering that obesity and diabetes commonly coexist as co-morbidities, our objective was to directly compare the performance of measures of central and general obesity to predict the risk of type 2 diabetes.
+s
+ducted a case-control study of type 2 diabetes on 150 cases and 150 age- and gender-matched controls. We directly compared the predictive performance of five anthropometric indexes: four related to central obesity—waist circumference (WC), waist/hip ratio (WHR), abdominal volume index (AVI) and conicity index (CI); and one related to general obesity—body mass index (BMI). We used various statistical approaches like area under (AUC) receiver-operating characteristic (ROC) curves, likelihood ratios, logistic regression and Shannon's entropy to compare the performance of the indexes in the study sample as well as bootstrapped samples.
+s
+ the highest overall predictive accuracy that was gender insensitive (AUC = 0.77 in males and 0.74 in females); a comparable information content as that of AVI (Shannon's entropy = 1.81 for WC and 1.84 for AVI) and was a better predictor of the risk of type 2 diabetes than all the remaining indexes. WC also correlated strongly with the biochemical markers of diabetes like blood sugar and lipid profile.
+sions
+a simple, non-invasive and accurate predictor of the risk of type 2 diabetes that can potentially be used in screening programs in developing countries.

@@ -1,0 +1,26 @@
+In this paper a Multi-objective Honey Bee
+Mating Optimization (MOHBMO) technique is applied to
+damp power system oscillation by tuning the Power
+System Stabilizer (PSS) parameters. Selecting the
+parameters of PSS which simultaneously stabilize system
+oscillations is converted to a simple optimization problem
+which is solved by a HBMO. In the proposed syndicate
+tuning technique, two performances indicates as ITAE
+and FD are computed for the stability and performance at
+each of the given set of operating conditions of the
+system simultaneously, which leads to use multi objective
+technique. This newly proposed controller is more
+efficient because it cope with oscillations and different
+operating points. The effectiveness of proposed controller
+is tested in two case studies. The first one is single
+machine infinite bus system which is compared with
+Strength Pareto Evolutionary Algorithm (SPEA) and
+robust PSS that is tuned by Genetic Algorithm (GA). The
+second case study is the Two Area Four Machine
+(TAFM) system of Kundur in comparison with the
+SPEA, GA and Quantitative Feedback Theory (QFT)
+based tuned PSS under different load conditions. Also in
+this case the placement of PSSs is presented. Simulation
+results show the effectiveness of the proposed PSS to
+damp the oscillation of multi-machine system and work
+effectively under variable loading and fault conditions.

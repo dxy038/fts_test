@@ -1,0 +1,1 @@
+In this paper, we addressed a theoretical analysis for the capacity of parallel intra-connected bidirectional associative memory (MIBAM) and proved the conclusions: two MIBAM with the equal total number of neurons have the equal recalling probability for m pairs of stored pattern pairs if m is not too large. The results of computer simulation support the conclusions well

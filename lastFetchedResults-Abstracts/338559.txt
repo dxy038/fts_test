@@ -1,0 +1,9 @@
+Objective
+The aim of this study was to identify granulocyte-macrophage colony-stimulating factor (GM-CSF) responsive genes.
+Materials and Methods
+Potential GM-CSF responsive genes were identified by comparing the mRNA expression pattern of the murine myeloid cell line PGMD1 grown in either interleukin-3 (IL-3) or GM-CSF by differential display. Human and murine cDNA clones of one of the bands having increased expression in GM-CSF were isolated. mRNA expression of the gene was examined by Northern blot. Immunohistochemistry and studies with a green fluorescent fusion protein were used to determine its intracellular location. Growth factor-stimulated proliferation of PGMD1 cells transfected with constitutively expressed sense and anti-sense cDNA constructs of the gene was measured by 3H-thymidine incorporation.
+Results
+A gene, named Magmas ( itochondria- ssociated  ranulocyte  acrophage CSF  ignaling molecule), was shown to be rapidly induced when cells were switched from IL-3 to GM-CSF. Analysis of the amino acid sequence of Magmas showed it contained a mitochondrial signal peptide, but not any other known functional domains. The human and murine clones encode nearly identical 13-kDa proteins that localized to the mitochondria. Magmas mRNA expression was observed in all tissues examined. PGMD1 cells that overexpressed Magmas proliferated similarly to untransfected cells when cultured in IL-3 or GM-CSF. In contrast, cells with reduced protein levels grew normally in IL-3, but had impaired proliferation in GM-CSF.
+Conclusion
+Magmas is a mitochondrial protein involved in GM-CSF signal transduction.
+

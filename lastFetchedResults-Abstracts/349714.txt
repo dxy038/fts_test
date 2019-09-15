@@ -1,0 +1,11 @@
+Objective
+To analyze the functional connectivity patterns of the different EEG bands during wakefulness and sleep (different sleep stages and cyclic alternating pattern (CAP) conditions), using concepts derived from Graph Theory.
+Methods
+We evaluated spatial patterns of EEG band synchronization between all possible pairs of electrodes (19) placed over the scalp of 10 sleeping healthy young normal subjects using two graph theoretical measures: the clustering coefficient (Cp) and the characteristic path length (Lp). The measures were obtained during wakefulness and the different sleep stages/CAP conditions from the real EEG connectivity networks and randomized control (surrogate) networks (Cp-s and Lp-s).
+Results
+We found values of Cp and Lp compatible with a small-world network organization in all sleep stages and for all EEG bands. All bands below 15 Hz showed an increase of these features during sleep (and during CAP-A phases in particular), compared to wakefulness.
+Conclusions
+The results of this study seem to confirm our initial hypothesis that during sleep there exists a clear trend for the functional connectivity of the EEG to move forward to an organization more similar to that of a small-world network, at least for the frequency bands lower than 15 Hz.
+Significance
+Sleep network “reconfiguration” might be one of the key mechanisms for the understanding of the “global” and “local” neural plasticity taking place during sleep.
+

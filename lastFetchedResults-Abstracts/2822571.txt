@@ -1,0 +1,1 @@
+This paper identifies the characteristics of a Current Source Inverter (CSI) operating in discontinuous conduction mode (DCM) and proposes a new multi-objective Pulse-Width Modulation (PWM) method to mitigate voltage boosting and harmonic distortion effects. The method takes into account load impedance effects. The concept is verified experimentally on a 3kW test bed.

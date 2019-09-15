@@ -1,0 +1,1 @@
+The objective of this report is to provide practical guidance for assessing power system harmonic impedance, taking into account the considered network voltage (LV, MV or HV), the disturbing load importance (small or great contribution to the power network pollution) and the analytical and computational tools available.

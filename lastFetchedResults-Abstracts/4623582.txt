@@ -1,0 +1,1 @@
+The objective of this paper is to present the numerical method that generate numerically the graph of states and the graph of state classes for Time Petri nets, based on the matrix that describes Petri nets and based on computing power of machines. The results can be used to search for a desired or not desired state by giving realizable firing schedules.

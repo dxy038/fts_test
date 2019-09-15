@@ -1,0 +1,8 @@
+Objective
+rticle addresses three reliability issues that are problematic in the construction of scales intended for use in psychosomatic research, illustrates how these problems may lead to errors, and suggests solutions.
+s
+d psychometric results and present five computational studies. The first, third, and fourth studies are based on the generation of artificial data from psychometric models in combination with distributions for scale scores, as is common in psychometric research, whereas the second and fifth studies are analytical.
+s
+wer of Student's t test depends more on sample size than on total-score reliability, but reliability must be high when one estimates correlations involving test scores. Short scales often do not allow total scores to be significantly different from a cutoff score. Coefficient alpha is uninformative about the factorial structure of questionnaires and is one of the weakest estimators of total-score reliability.
+sions
+lationship between questionnaire length/reliability and statistical power is complex. Both in research and individual diagnostics, we recommend the use of highly reliable scales so as to reduce the chance of faulty decisions. The conclusion calls for profound statistical research producing hands-on rules for researchers to act upon. Factor analysis should be used to assess the internal consistency of questionnaires. As a reliability estimator, alpha should be replaced by better and readily available methods.

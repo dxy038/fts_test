@@ -1,0 +1,7 @@
+This study presents a MILP model to retrieve or get close to the early schedule of
+disrupted container vessels. The model is applied on a real case study of Islamic
+Republic of Iran Shipping Lines (IRISL) considering container demands, and CO2
+emissions. Sensitivity analysis on fuel inventory level shows the inevitable influence
+of the fuel price and primary inventory level on cost of the ships. Variations in
+unviability duration of the ships suggest that substantial changes in the objective
+function are caused by omitting the port calls rather than speeding up the ships.

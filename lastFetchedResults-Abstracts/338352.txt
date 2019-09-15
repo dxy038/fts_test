@@ -1,0 +1,11 @@
+Objective
+Retinoic acid (RA) has been used to induce the regression of refractory T-cell lymphoma. In vitro and in vivo studies have shown that RA exerts this effect through the induction of apoptosis. This study was designed to investigate the molecular pathway of RA-induced apoptosis in T-lymphoma cell lines.
+Materials and Methods
+
+RA-induced apoptosis was verified by morphology, flow cytometry, and DNA ladder analysis. Differential display method using a combination of 12 poly(A)-anchored primers and 20 arbitrary primers was adopted for gene cloning. Total RNAs were extracted from H9 cell line at 0, 6, 12, and 24 hours after All-trans RA (ATRA) treatment and the serial expression patterns of the candidate fragments were recognized. The cloned gene fragments were then analyzed and confirmed by Northern blot analysis on H9 and SR786 cell lines.
+Results
+
+ATRA-induced apoptosis of T-cell lymphoma was protein synthesis–dependent. The execution or irreversible phase of apoptosis appeared to occur at 6–12 hours of RA treatment. Among the 60,000 arbitrarily displayed bands, 25 of 250 candidate fragments were selected for further cloning and sequencing. A total of 14 clones could be matched to known genes and were categorized into four groups: A) transcription factors: prothymosin, CA150, p78 serine/threonine kinase, IL-1β–stimulating gene, glucocorticoid receptor, MLN64/CAB1, gastrin-binding protein, and polypeptide from glioblastoma; B) chaperone: 90 kDa heat shock protein; C) ion channel: chloride channel protein 3; and D) cytoskeleton: cytovillin2/ezrin and vimentin. Another two clones of genes were of unrecognized functions. The remaining 11 clones belonged to unmatched or novel genes. The expression of these genes varied, either upregulated or downregulated, in response to ATRA treatment.
+Conclusion
+
+RA-induced apoptosis may involve a cascade of genes that are related to transcription regulation, stress response, housekeeping, and the execution of apoptosis. The clarification of the RA-induced apoptotic pathway will help us to understand the molecular mechanism of cancer differentiation agents.

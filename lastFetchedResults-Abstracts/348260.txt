@@ -1,0 +1,11 @@
+Objective
+Conventional analyses of sleep EEG recordings according to standard criteria indicate severe sleep disturbances in patients with restless legs syndrome (RLS). Spectral analysis of sleep EEG may be a sensitive tool to detect functional alterations of sleep mechanisms beyond the visual scoring of polysomnographic records. We analysed sleep EEG spectral power differences between RLS patients and healthy subjects. Furthermore, we studied the relationship of sleep EEG spectral power to the occurrence of periodic leg movements in sleep (PLMS) and arousal events.
+Methods
+Sleep EEGs from 20 patients with idiopathic RLS and of 20 age and sex matched healthy subjects were investigated. The spectral analysis was carried out on the same 30 s epochs for which sleep stages had been determined. As a first step, whole-night spectral power excluding epochs with an arousal or with a PLMS was compared separately for REM and NREM sleep between RLS and healthy subjects. In a second step, we evaluated the spectral effects of PLMS, PLMS with associated arousals and isolated arousals relative to epochs of sleep without such events in both groups. In this part of the analysis, we only included the epochs of sleep stage 2 (the main and most stable non-REM sleep stage) and of REM sleep.
+Results
+Spectral power of all sleep epochs (excluding arousals and PLMS) did not differ between patients with RLS and healthy subjects. As expected, arousals and PLMS-associated arousals resulted in a significant increase in higher-frequency activity (alpha, beta1, beta2 and gamma bands) in both groups. Spectral power in epochs with PLMS alone did not significantly differ from spectral power in epochs without PLMS and without arousal in any of the groups.
+Conclusions
+We found no evidence for an altered cortical activity in sleep stage 2 and REM sleep epochs in RLS patients compared to that in healthy controls if epochs with arousals were not considered. Furthermore, while PLMS associated with an arousal have a high impact on EEG spectra, the effect of a PLMS without arousal seems to be minor and transient.
+Significance
+Our data suggest that RLS related symptoms may intermittently disrupt sleep but do not appear to involve a persistent disturbance of the basic sleep generating patterns.
+

@@ -1,0 +1,11 @@
+A method to obtain three-dimensional sub-micrometric periodic structures is presented. The experimental set-up consists in a pulsed UV laser
+beam source (l = 355 nm) coming into an interferometer in order to generate four beams converging inside a chamber. According to the directions,
+to the relative intensities and to the polarizations of these four beams, a 3D interference pattern can be obtained inside the overlapping volume of
+these four beams; the characteristics of the four laser beams have been optimized in order to obtain a maximal contrast of intensity. In order to
+visualize the interference pattern, its contrast and its stability at each laser pulse, a video camera coupled to an oil immersion microscope objective
+has been installed above the interferometer. By suppressing the central beam, it is also possible to generate a bidimensional interference pattern
+which defines an hexagonal structure in the (1 1 1) plane with a period of 377 nm.
+This optical set-up has been used to obtain 3D sub-micrometric periodic structures in negative photoresists. Experiments consist in a one- or
+multi-pulse irradiation of the photoresist followed by a development procedure which leads to a sub-micrometric face-centred cubic structure cut in
+a (1 1 1) plane with a cell parameter of 650 nm. The optimization of the experimental conditions is presented for two kinds of photoresists; the role
+of the substrate according to its reflectivity at the laser wavelength and its influence on the interference pattern is also discussed.

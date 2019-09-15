@@ -1,0 +1,11 @@
+Objective
+The aim of this human study was to investigate if voluntary EMG activity and supra-maximal M-wave are affected by injection of hypertonic saline to experimentally induce muscle pain.
+Methods
+Surface EMG signals were recorded with an electrode array from the tibialis anterior muscle of 12 subjects. Two sets of 6 contractions, 3 electrically elicited and 3 voluntary (30% of the maximal force), alternated, were performed with each leg. During the second set of 6 contractions, hypertonic (painful; right leg) or isotonic (non-painful; left leg) saline was injected 3 times (0.2, 0.5, 0.9 ml), separated by 140 s, into the tibialis anterior.
+Results
+In the voluntary contractions, EMG average rectified value (ARV) significantly decreased (mean±SE, 13.2±4.2%) with increasing pain, although the exerted torque was unaltered. Conduction velocity (CV) (4.2±0.2 and 4.4±0.3 m/s, right and left leg, respectively) and mean power spectral frequency (MPF) (119.0±8.4 and 119.5±8.9 Hz) were not affected by the injection of hypertonic saline. In the electrically elicited contractions, M-wave CV (4.6±0.3 and 4.7±0.2 m/s), ARV (748.6±101.8 and 822.3±104.4 μV), and MPF (72.0±5.1 and 76.9±4.8 Hz) did not change with pain.
+Conclusions
+Injection of hypertonic saline did not change muscle fiber conduction velocity or impaire neuromuscular transmission. The decrease in voluntary EMG activity with injection of hypertonic saline was thus due to central factors.
+Significance
+The injection of hypertonic saline provides a model for exciting nociceptive afferents without affecting muscle fiber electrophysiological properties.
+

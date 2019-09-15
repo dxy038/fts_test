@@ -1,0 +1,3 @@
+In this study, the Langmuir adsorption isotherm has been coupled with activity coefficient models for prediction of surface tension of single and mixed electrolyte solutions. Various activity models such as Meissner, Pitzer and extended UNIQUAC have been used and coupled with Langmuir adsorption isotherm. The model parameters were determined through mathematical optimization using experimental surface tension data of single electrolyte solutions. Absolute average deviation was used as objective function in optimization procedure. The results showed that in the case of single electrolyte solutions different activity coefficient models have similar capability while in the case of mixed electrolyte solutions, extended UNIQUAC model gives better results. 
+
+

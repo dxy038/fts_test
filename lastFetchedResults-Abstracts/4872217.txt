@@ -1,0 +1,1 @@
+Fast power control is being considered on the forward link for the third generation CDMA systems. This paper simulates fast power control on the forward link for a 9600 bps data rate. The main objective of this paper is to study the impact of alternative forward link structures and signal to noise ratio estimation methods on the performance of the fast forward link power control

@@ -1,0 +1,11 @@
+Objective
+Acute myeloid leukemia (AML) cells are poorly immunogenic and inhibit T-cell function. AML-derived dendritic cells (AML-DCs) have better antigen-presentation capacity than undifferentiated leukemic blasts, but may not be fully competent to stimulate T cells previously inhibited by leukemic cells.
+Materials and Methods
+
+AML-DCs were generated from AML cells and used to stimulate proliferation and cytokine production by T cells previously inhibited by AML cells. AML-DCs were also transfected with interleukin (IL)-12 gene by the nonviral method, nucleofection.
+Results
+
+Mature AML-DCs stimulated naive and, to a lesser extent, leukemic cell (LC)-cultured T cells more efficiently than their immature counterparts and their activity was mediated by IL-12. AML-DCs generated from CD14− AML samples (which represent 80% of total AML patients) were defective in IL-12 production and T-cell activation. Addition of exogenous IL-12 to LC-cultured T cells stimulated by CD14−-derived AML-DCs restored optimal interferon-γ (IFN-γ) production and Th1 skewing. IL-12 gene-nucleofected AML-DCs derived from CD14− cells produced significant amounts of IL-12, maintained leukemia-specific karyotype, DC-like phenotype, and function. When stimulated by IL-12–gene transduced CD14−-derived AML-DCs, LC-cultured T cells produced higher concentrations of IFN-γ, thus maintaining a Th1 cytokine profile.
+Conclusion
+
+IL-12 produced by AML-DCs plays a critical role in counteracting the inhibitory activity of LCs on T-cell function. IL-12 gene can be successfully expressed into AML-DCs defective in endogenous IL-12 production by using a novel nonviral method that does not modify their phenotypical, cytogenetic, and functional features. Genetically modified AML-DCs restore a near normal T-cell function.

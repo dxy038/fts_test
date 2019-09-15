@@ -1,0 +1,1 @@
+It is critical to provide high-rate, reliable and energy efficient wireless communications in mobile ad hoc networks. The use of path diversity is a promising way to achieve this objective. However it requires careful cross-layer design. In this paper, we present a new cross-layer approach based on AODV and 802.11 MAC to utilize the local path diversity.

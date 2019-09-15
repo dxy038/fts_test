@@ -1,0 +1,6 @@
+Objective: To Produce a predictive model of S. aureus growth, the effects of selected growth factors (storoge temperature, pH and inoculum levels) in 2 kinds of commercial soup (barley and mushroom) have been evaluated.
+Design: Multiple factorial design.
+Procedure: The effects of pH (4, 4.5 and 5), inoculum levels (102 and 104 / ml of soup), storage temperature (5. 15, 25, 35 and 45C) and type of soup (barley and mushroom) on the generation time (g) and growth rate (k) of S. aureus on commercial Iranian soups were evaluated in a factorial design study.
+Statistical analysis: To evaluate the main and inter active effects of pH, storage temperature, inoculum levels and type of soup, analysis of variance was used. Multiple regression model was derived relating generation time to the effects of growth factors used in this study.
+Results: The generation time (g) of the organism was affected significantly by the type of soup and storage temprature and their interactive effects (P<0.053), but not by the inoculum level of the organism (P=0.182). Predictive model was produced with R2 value equal to 0.90.
+Conclusion: From the model produced in this study the predictive values of generation time of S. aureus can be calculated from any combination of the growth factors used within the limits of this study (R2=0.90). 

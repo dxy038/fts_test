@@ -1,0 +1,11 @@
+Objective
+Bone marrow stromal cells provide the microenvironment for self-renewal and differentiation of hematopoietic stem/progenitor cells through complex cell–cell interaction. To elucidate the regulatory mechanisms of hematopoiesis by stromal cells, we established a novel stroma-dependent hematopoietic cell line and explored the phenotypic changes regulated by the two stromal cells.
+Materials and Methods
+
+DFC-28 cells clonally established from long-term bone marrow culture of C57BL/6 mice were sustained by coculture on MSS62 cells (mouse spleen stromal cell line). When DFC-28 cells were transferred to TBR31-1 cells (mouse bone marrow stromal cell line), their phenotypic changes were analyzed by flow cytometry and reverse transcriptase polymerase chain reaction.
+Results
+
+DFC-28 cells on MSS62 cells exhibited surface phenotypes of the immature hematopoietic progenitor cells (Lin−AA4.1+c-kit+Sca-1−). By stroma-replacement from MSS62 cells to TBR31-1 cells, DFC-28 cells were differentiated into very early B-lymphoid stage characterized by c-kit down-regulation and induction of BP-1 and B-lymphoid–associated genes (Pax-5, CD19, TdT, Rag-1, and Rag-2). In addition, the differentiation phenotypes reverted to the immature state characterized by c-kit induction and down-regulation of BP-1 and B–lymphoid-associated genes by replacing stroma back to MSS62 from TBR31-1. Interleukin-7 stimulation and conditioned medium of TBR31-1 cells were ineffective in converting the differentiation phenotypes of DFC-28 cells.
+Conclusion
+
+The results demonstrate that the differentiation phenotypes and growth potential of stroma-dependent hematopoietic progenitor cells we established could be reversibly controlled via direct contact with stromal cells in the microenvironment.

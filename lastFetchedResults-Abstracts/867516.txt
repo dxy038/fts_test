@@ -1,0 +1,10 @@
+Assembly job shop problem (AJSP) is an extension of classical job shop problem (JSP). AJSP first starts
+with a JSP and appends an assembly stage after job completion. Lot Streaming (LS) technique is defined
+as the process of splitting lots into sub-lots such that successive operation can be overlapped. In this
+paper, the previous study of LS to AJSP is extended by allowing part sharing among distinct products.
+In addition to the use of simple dispatching rules (SDRs), an evolutionary approach with genetic algorithm
+(GA) is proposed to solve the research problem. A number of test problems were conducted to
+examine the performance of the proposed algorithm. Computational results suggested that the proposed
+algorithm can outperform the previous one, and can work well with respect to the objective function.
+Also, the inherent conflicting relationship between the primary objective and the system measurements
+can be addressed.

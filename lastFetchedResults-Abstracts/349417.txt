@@ -1,0 +1,11 @@
+Objective
+To describe the topography of the N700 component of the scalp-recorded visual event-related potential (ERP) and to provide fundamental knowledge of the conditions under which it occurs.
+Methods
+We examined the time-course of visual ERP in response to the short (100 ms) and prolonged (7 s) presentation of simple salient visual stimuli separated by long interstimulus intervals employing high-resolution 64-channel DC-EEG. Current source density (CSD) mapping and spatio-temporal dipole source analysis were performed.
+Results
+CSD analysis revealed highly significant bilateral current sinks over occipito-temporal areas from about 450 ms up to 1 s after stimulus offset (visual N700). CSD topography and dipole source analysis suggested late prolonged activation of extrastriate visual areas which did not depend merely upon a stimulus offset response, afterimages or blinking, as confirmed by control conditions.
+Conclusions
+Our findings provide basic knowledge about the time-course of sensory activation. We found that passive watching of rare salient short stimuli automatically evoked sustained activity in the extrastriate visual cortex up to 1 s after stimulus offset.
+Significance
+Visual N700 provides a promising tool for important insights into the cortical mechanisms of stimulus post-processing. Its role in associative learning of temporally non-overlapping stimuli (automatic ultra-short-term sensory memory) should be explored.
+

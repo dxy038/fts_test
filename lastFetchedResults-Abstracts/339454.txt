@@ -1,0 +1,11 @@
+Objective
+To determine whether the difference in γ-globin gene promoter methylation in terminal erythroblasts at the fetal and adult stages of development is a result of fetal stage-specific demethylation or adult stage-specific de novo methylation during erythropoiesis.
+Materials and Methods
+
+Fetal liver- (FL, n = 2) and adult bone marrow- (ABM, n = 3) derived hematopoietic stem/progenitor cells and mature erythroblasts were purified by passage through a Miltenyi Magnetic Column followed by fluorescein-activated cell sorting (FACS) into subpopulations, defined by expression of CD34 and CD36 antigens. CD34+CD36−, CD34+CD36+, and CD34−CD36+ subpopulations were purified by FACS and their degree of differentiation verified using the colony-forming cell assay. The methylation pattern of 5 CpG sites in the γ-globin promoter region of these purified cell populations was determined using bisulfite sequencing.
+Results
+
+The γ-globin promoter was highly methylated in the earliest stage of hematopoietic stem progenitor cells (CD34+CD36−) and methylation progressively decreased as erythroid differentiation progressed in FL and appears so in ABM as well.
+Conclusions
+
+These data support a model in which differences in the methylation pattern of the γ-globin gene in differentiating erythroblasts at different stages of development is the result of fetal stage-specific demethylation associated with transcriptional activation, rather than de novo methylation in the adults. The difference in the extent of γ-globin gene demethylation in FL and ABM is correlated with the difference in γ-globin expression at these developmental stages.

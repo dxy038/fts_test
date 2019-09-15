@@ -1,0 +1,11 @@
+Objective
+To develop a method for simulating background EEG based on the premise that the self-organized activity from synaptic interaction among populations of neurons creates sustained fluctuations that can be modeled with the filtered output of a random number generator.
+Methods
+The logarithm of the amplitude of activity was weighted in accordance with 1/f, the log frequency in both temporal (PSDT) and spatial (PSDX) power spectral densities. The activity was spatially smoothed by volume conduction. Further deviation from full randomness was by sustained spatial coherence averaging 25% of total power. The departure from the background state to an active state, as seen in the awake EEG, was simulated by adding segments that were 90% correlated while attenuating by 50% the uncorrelated background activity in those segments. Spatial amplitude modulation was imposed on the correlated noise to create signals that simulated AM patterns.
+Results
+The statistical properties of the EEG that were replicated ([Freeman, 2004a], [Freeman, 2004b] and [Freeman, 2005]) included the PSDT, PSDX, point spread function (PSF), partitioning of the variance with PCA, and the percentages of correct classification of AM patterns.
+Conclusions
+The origin of background EEG was traced to self-sustaining mutual excitation among pyramidal cells creating stable noise that was filtered by self-organized criticality to give 1/f2 PSD, by inhibitory feedback to give oscillations in the classic clinical bands, and by volume conduction to give smoothing. The essential change that identified a frame in EEG was transient synchrony by phase transition among cortical populations in beta and gamma bands of the PSDT.
+Significance
+This simulation can provide test data with which to optimize techniques for noninvasively extracting information from the EEG for diagnosis and treatment evaluation of neuropsychiatric disorders and for operation by paraplegics of prosthetic devices.
+

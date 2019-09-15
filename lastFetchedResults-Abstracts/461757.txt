@@ -1,0 +1,11 @@
+Background
+Several computer biosurveillance systems are in place to detect events of public health (PH) significance; however, most lack access to timely and detailed patient-level data and investigation of alerts places a strain on PH resources.
+Methods
+
+Hospital-based infection control professionals led a multi-disciplinary team to develop a computer rule–based system that relies on the patient's electronic medical record. The rules operated on HL7 messages transmitted by clinical computing systems and encompassed a variety of types of patient-level data, including laboratory test ordering and results, radiology ordering and reports, emergency room and outpatient clinic visits, and hospital admissions. Laboratory data were mapped to standard vocabularies, and radiology data were processed using natural language–processing algorithms before the rules were applied to filter for events of PH interest. For each rule, statistical process controls were applied to generate alerts when levels exceeded two standard deviations above the mean. The system was deployed at a large hospital in Salt Lake City during the 2002 Winter Olympic Games, and it was accessed 3 times a day to perform surveillance. Daily reports were provided to local PH agencies after preliminary investigation of the alerts.
+Results
+
+Of the 24 rules monitored, 9 generated alerts on 11 different occasions. The only significant event of PH interest that was noted during the surveillance period was an increase in influenza during the Games. The positive predictive value of the rules varied with a high value (89%) noted for identification of pneumonia from chest radiograph reports by natural language–processing algorithms.
+Conclusions
+
+With the assistance of a novel computer-based surveillance system linked to the electronic medical record that uses objective, quantifiable events and access to patient data, infection control practitioners could play a front-line role in biosurveillance and facilitate bidirectional communication with PH agencies.

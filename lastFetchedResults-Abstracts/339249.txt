@@ -1,0 +1,11 @@
+Objective
+We investigated the regulatory mechanism of primitive hematopoiesis in zebrafish (Danio rerio) embryos with particular reference to the role of a death receptor (zDR) gene, based on a morpholino (MO) knockdown approach.
+Methods
+
+MOs targeting the zDR and chordin (Chd) were injected into naturally spawned embryos at one- to four-cell stage. A random sequence (RS) MO was used as a control. Effects on hemoglobin formation (Hb), apoptosis, and lineage-specific gene expression were examined. Embryos injected with zDR, Chd, and RS-MOs were denoted zDRmo, zChdmo, and zRSmo, respectively. Those coinjected with Chd+zDR-MOs and Chd+RS-MOs were abbreviated zChd+DRmo and zChd+RSmo.
+Results
+
+zDR mRNA expression was restricted to the intermediate cell mass of wild-type (WT) and zChdmo embryos. At 48 hours postfertilization, zDRmo embryos showed increased Hb compared with WT or zRSmo embryos (2.36 × 10−2 ± 1.13 × 10−3 vs 1.85 × 10−2 ± 5.60 × 10−4 vs 1.79 × 10−2 ± 1.31 × 10−3 U, p < 0.05). zChd+DRmo embryos also showed increased Hb compared with zChdmo or zChd+RSmo embryos (4.60 × 10−2 ± 2.79 × 10−3 vs 3.17 × 10−2 ± 1.07 × 10−3 vs 3.05 × 10−2 ± 1.25 × 10−3 U, p < 0.05). zDR-MO reduced apoptosis, as shown by reduced terminal transferase-mediated dUTP nick end-labeling staining in zChd+DRmo compared with zChd+RSmo embryos and caspase-3 activity in zDRmo vs zRSmo (0.525 ± 0.094 vs 0.953 ± 0.113 U, p < 0.05), and zChd+DRmo vs zChd+RSmo embryos (0.247 ± 0.121 vs 1.180 ± 0.082, p < 0.05). zChd+DRmo embryos showed upregulation of erythroid-specific embryonic hemoglobin gene expression but not that of a myeloid-specific myeloperoxidase gene.
+Conclusion
+
+Knockdown of zDR in zebrafish embryos decreased apoptosis and increased Hb, suggesting that zDR may regulate primitive hematopoiesis during development.

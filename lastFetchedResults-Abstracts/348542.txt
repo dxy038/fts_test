@@ -1,0 +1,11 @@
+Objective
+The goal of this work is to determine whether improved performance (compared to patient independent algorithms) can be achieved by an algorithm, developed on the fly, that requires no user input beyond the identification of the first one or two seizures in the record.
+Methods
+The previously developed AutoLearn™ algorithm, which employs the probabilistic neural network (PNN), is tested on 209 seizures obtained from the epilepsy monitoring unit (EMU) or ambulatory recordings. A construction algorithm is used to compare a variety of algorithm architectures and factors. The Taguchi design of experiments (DoE) method is employed find the significant factors without resorting to a full factorial design.
+Results
+Architectures that train a single PNN per channel and use segmentation to identify ranges of similar activity are preferred. The two best architectures are insensitive to the levels of any of the other factors tested. The training time for the algorithm is less than 1 s, and approximately 2 min are required to find the seizures in an 8 h record.
+Conclusions
+The final algorithm, which requires no input from the user other than the marking of the first seizure in a record, performs as well or better than the 3 seizure detectors on EMU and ambulatory records. The algorithm performs nearly as well as human experts on the EMU records.
+Significance
+The described method can be used to identify unusual seizures (or other patterns) that will be missed by the current generation of seizure detectors. We expect that the methods developed here will also aid the development of patient independent seizure detectors that can improve their performance over time by incorporating new examples.
+

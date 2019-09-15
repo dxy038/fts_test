@@ -1,0 +1,1 @@
+The objective of this paper is to improve channel estimation accuracy in Orthogonal Frequency Division Multiplexing (OFDM) systems. We show that denoising the received signal before channel estimation improves the quality of that estimator. The architecture of a channel estimator is shown and its performance is highlighted by different simulations.

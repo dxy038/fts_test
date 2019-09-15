@@ -1,0 +1,1 @@
+In this paper, associating with the self-designed distributed database server system and studying the objective description and definition of load index, the active load balancing idea is introduced into the system and the load balancing mode based on mobile agent is presented. Finally, the performance of the system is also analyzed.

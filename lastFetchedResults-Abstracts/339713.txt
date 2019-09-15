@@ -1,0 +1,11 @@
+Objective
+The specification and differentiation of hematopoietic stem cells into red blood cells requires precise coordination by multiple transcription factors. Most genes important for erythroid maturation are regulated by the Gata family of DNA-binding proteins. Previously, we identified three novel genes kelch-repeat containing protein (krcp), kiaa0650, and testhymin/glucocorticoid inducible transcript 1 (glcci1) to be expressed in erythroid cells in a Gata-independent manner, and we sought to further understand how these transcripts are regulated during zebrafish hematopoiesis.
+Materials and Methods
+
+We employed a loss-of-function approach, using combinations of antisense morpholinos to hematopoietic transcription factors and assayed for changes in gene expression in zebrafish embryos.
+Results
+
+Upon examination of embryos deficient for Gata1, Gata2, Biklf, and/or Scl, we found distinct gene combinations were required for expression of the novel genes. While krcp expression was dependent upon Gata1 and Biklf, kiaa0650 expression was greatly reduced and glcci1 was maintained in Gata1/Gata2/Biklf-deficient embryos. As with the gata1 gene, kiaa0650 and krcp required Scl for blood expression. Although reduced, glcci1 was expressed in posterior blood precursors in the absence of Scl and Gata2.
+Conclusions
+
+This work identifies glcci1 as having Scl-independent expression in the posterior hematopoietic mesoderm, suggesting that its posterior expression is activated by factors upstream or parallel to Scl and Gata2. Additionally, these studies establish that blood gene expression programs are regulated by transcription factors acting in combination during erythroid maturation.

@@ -1,0 +1,11 @@
+Objective
+Schizophrenics are usually unable to perform well on cognitive tasks due to disturbances in cortical information processing that are observable as abnormalities in electroencephalogram (EEG) signals. However, whether such cortical disturbances can be assessed by quantitative EEG analysis remains unclear. The purpose of this study was to characterize EEG disturbances, using the Lempel–Ziv complexity (LZC), in the subjects with schizophrenia at rest or while performing mental arithmetic tasks. The results were compared to those from the subjects with depression and with healthy controls.
+Methods
+The subjects included 62 schizophrenia patients, 48 depression patients and 26 age-matched healthy controls. EEG was recorded under two conditions: (i) resting with eyes closed, and (ii) a mentally active condition wherein the subjects were asked to subtract 7 from 100 iteratively with their eyes closed. EEG signals were analyzed by LZC and conventional spectral methods.
+Results
+In all the groups, LZC of EEG decreased during the mental arithmetic compared with those under the resting conditions. Both the schizophrenia and the depression groups had a higher LZC (p < 0.05) than the controls. Also, the schizophrenia group had a lower LZC (p < 0.05) than the depression group during the mental arithmetic task as well as during the resting state. Significant differences in LZC, at some symmetrically located loci (FP1/FP2, F7/F8), between the two hemispheres were found in all the patient groups only during the arithmetic task.
+Conclusions
+Compared with conventional spectral analysis, LZC was more sensitive to both the power spectrum and the temporal amplitude distribution. LZC was associated with the ability to attend to the task and adapt the information processing system to the cognitive challenge. Thus, it would be useful in studying the disturbances in the cortical information processing patients with depression or schizophrenia.
+Significance
+LZC of EEG is associated with mental activity. Thus, LZC analysis can be an important tool in understanding the pathophysiology of schizophrenia and depression in future studies.
+

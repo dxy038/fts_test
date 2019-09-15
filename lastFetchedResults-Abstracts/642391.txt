@@ -1,0 +1,11 @@
+Objective
+We compared four nutritional screening tools, the Nutrition Risk Classification, the Mini-Nutrition Assessment-Short Form, the Malnutrition Screening Tool, and the Nutrition Risk Score in terms of their ability to predict postoperative wound and infectious complications when adjusted for the effects of other risk factors for postoperative infection.
+Methods
+
+The 8-mo study was performed on 430 patients undergoing abdominal surgery. Data on the Nutrition Risk Classification, Mini-Nutrition Assessment-Short Form, Malnutrition Screening Tool, Nutrition Risk Score, and risk factors for postoperative complications were collected for all patients. Patients were followed until 30 d after surgery. Nutritional screening tools were compared for their ability to predict postoperative complications by using the area under the receiver operating characteristic curve. Multivariable adjustment for other risk factors was done with multiple logistic regression analysis.
+Results
+
+The Mini-Nutrition Assessment-Short Form, Nutrition Risk Score, and Nutrition Risk Classification had the larger receiver operating characteristic areas. Only the Nutrition Risk Classification was significantly related to the occurrence of postoperative complications (odds ratio 2.92, 95% confidence interval 1.62 to 5.26) after adjusting for other risk factors of postoperative infection. The other remaining risk factors were serum albumin level and operative time.
+Conclusions
+
+The Nutrition Risk Classification seems to be the best nutritional screening tool for use in predicting postoperative infectious and wound complications.

@@ -1,0 +1,11 @@
+Objective
+To evaluate the role of current direction on the after-effects of Theta Burst Stimulation (TBS) delivered with a biphasic Magstim 2002 stimulator.
+Methods
+Inhibitory (cTBS) and excitatory TBS (iTBS) were delivered over the motor cortex of healthy individuals using reversed and standard current orientations (initial current in the antero-posterior direction) at 80% and 100% of their respective active motor thresholds (AMT). The after-effects on the MEP amplitude were measured for 25 min. The effects of the most effective reversed cTBS paradigm on intracortical inhibition (SICI) and facilitation (ICF) were also tested.
+Results
+Reversing the current direction reduced AMT by 26% ± 2%. Compared to standard cTBS, reversed cTBS induced stronger and longer-lasting inhibition of corticospinal excitability when delivered at 100% AMTrev. SICI was reduced after cTBS100%revAMT while ICF was unchanged. The after-effects of reversed iTBS were quite variable regardless of the intensity.
+Conclusions
+cTBS applied with antero-posterior current is more effective in suppressing subsequent MEPs than conventionally orientated cTBS when the absolute stimulation intensity is similar. On the contrary, posterior current orientation reduces the efficacy of iTBS.
+Significance
+The current direction may affect the power of inhibitory and excitatory TBS in opposite ways; this should be considered in order to optimise the after-effects of biphasic RTMS
+

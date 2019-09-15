@@ -1,0 +1,11 @@
+Objective
+To develop a mouse model for the study of the pathophysiologic mechanism and treatment of human bone marrow (BM) failure.
+Materials and methods
+
+Unmanipulated B6D2F1 or CByB6F1 hybrid mice were infused with 10–40 × 106 lymph node (LN) cells from their C57BL/6 (B6) parent. Pancytopenia was monitored by cell counting, while marrow damage was assessed by histological staining. Destruction of BM hematopoietic progenitor/stem cells was measured by colony formation in vitro and irradiation protection in vivo. Serum interferon-γ (IFN-γ) concentration was measured by enzyme-linked immunosorbent assay. BM T cell Vβ and Fas expressions were analyzed by flow cytometry. Treatment effects of immunosupressive agents cyclosporine, antithymocyte globulin (ATG), anti-IFN-γ, and anti-tumor necrosis factor-α (anti-TNF-α) were tested.
+Results
+
+Infusion of 30–40 × 106B6 LN cells led to rapid development of severe pancytopenia, BM hypoplasia, and death. Affected mice had drastically reduced hematopoietic progenitor and stem cells. BM of affected mice showed lymphocyte infiltration, oligoclonal T cell expansion, and upregulated Fas expression. Serum IFN-γ concentration increased two- to three-fold. Timed administration of cyclosporine or ATG abrogated pancytopenia. Treatment with anti-IFN-γ antibody reliably rescued mice, and treatment with anti-TNF-α antibody extended animal survival significantly.
+Conclusion
+
+This mouse model indicates that activated lymphocytes and type I cytokines play important roles in marrow destruction in lymphocyte infusion-induced BM failure.

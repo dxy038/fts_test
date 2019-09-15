@@ -1,0 +1,9 @@
+Trickle bed reactor performance and safety may suffer from radial and axial liquid maldistribution and thus from non-uniform utilization of
+the catalyst packing. Therefore, experimental analysis and fluid dynamic simulation of liquid–gas flow in trickle bed reactors is an important
+topic in chemical engineering. In the present study for the first time a truly high-resolution gamma ray tomography technique was applied to the
+quantitative analysis of the liquid flow texture in a laboratory cold flow trickle bed reactor of 90mm diameter. The objective of this study was
+to present the comparative analysis of the liquid flow dynamics for two different initial liquid distributions and two different types of reactor
+configurations. Thus, the hydrodynamic behavior of a glass bead packing was compared to a porous Al2O3 catalyst particle packing using inlet
+flow from a commercial spray nozzle (uniform initial liquid distribution) and inlet flow from a central point source (strongly non-uniform initial
+liquid distribution), respectively. The column was operated in downflow mode at a gas flow rate of 180 L h−1 and at liquid flow rates of 15 and
+25Lh^−1.

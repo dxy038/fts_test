@@ -1,0 +1,1 @@
+A parallel simulated annealing algorithm to solve the vehicle routing problem with time windows is presented. The objective is to find the best possible solutions to some well-known instances of the problem by using parallelism. The empirical evidence indicate that parallel simulated annealing can be applied with success to bicriterion optimization problems

@@ -1,0 +1,1 @@
+This paper seeks to provide coding efficiency for emerging High Efficient Video Coding (HEVC) standard. We compared some important techical features and characteristics of HEVC and H.264/AVC standard. The idea is to show improvements in HEVC video coding design in objective and subjective way.

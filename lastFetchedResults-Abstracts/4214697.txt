@@ -1,0 +1,1 @@
+We demonstrate a novel lightwave centralized hybrid bidirectional WDM-OFDM-PON and OFDM-m-QAM RoF network. The 11.29-Gb/s OFDM-16QAM wired DL, 5.65-Gb/s OFDM-QPSK wired UL and WiMAX downstream/upstream are successfully transmitted over 25-km SSMF.

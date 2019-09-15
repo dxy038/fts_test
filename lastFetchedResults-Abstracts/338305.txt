@@ -1,0 +1,11 @@
+Objective
+Evaluating kinetics in hematopoietic cultures is complicated by the distribution of cells over various stages of differentiation and by the presence of cells from different lineages. Thus, an observed response is an integral response from distributed cell populations. Growth factors and other parameters can greatly affect the lineage and maturation stage of the culture outcome. To resolve the kinetics and more clearly define the differential effects of O2 tension (pO2), pH, and interleukin-3 (IL-3) on granulopoiesis, a mathematical model–based approach was undertaken.
+Materials and Methods
+
+Granulocytic differentiation is described within a continuous, deterministic framework in which cells develop from primitive granulocytic progenitors to mature neutrophils. The model predicts two distributed populations—quiescent and cycling cells—by incorporating rates of growth, death, differentiation, and transition between quiescence and active cycling. The response of these four model processes to changes in the culture environment was examined.
+Results
+
+Model simulations of experimental data revealed the following: 1) pO2 effects are exerted only on the growth rate but not maturation times. 2) pH effects between pH 7.25 and 7.4 on growth and differentiation are coupled; however, with increasing pH values, especially at pH 7.6, the death rate for cells in the early stages of differentiation becomes increasingly significant. 3) The absence of IL-3 increases the death rate for primitive cells only minimally but markedly enhances the rate of differentiation through the myeloblast window in the differentiation pathway. The combined effects of these environmental factors can be predicted based on changes in the model parameters derived from the individual effects.
+Conclusions
+
+Experimental data combined with mathematical modeling can elucidate the mechanisms underlying the regulation of granulopoiesis by pO2, pH, and IL-3. The model also can be readily adapted to evaluate the effects of other culture conditions. The increased understanding of experimental results gained with this approach can be used to modify culture conditions to optimize ex vivo production of neutrophil precursors.

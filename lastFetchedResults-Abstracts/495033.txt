@@ -1,0 +1,47 @@
+In the present research, combination of Indexing system Method with Analytical Hierarchy Process has been applied to assess the environmental risks of gas pipe lines. By this process, classification and qualification of the numerous types of environmental risks would be accessible. Sum Index and Leak Impact Index indicate risk probability and effect severity, respectively. In this regard, total environmental risk is calculated based on multiplication of total risk probability in effect severity. Analytical hierarchy process is applied to evaluate the factors because of differences existed in the total effective level of these factors. For this purpose, Tasooj-Salmas gas transfer pipe line, 24 inch in size and 42 km in length was selected to study the environmental risks. By using geographical information system, investigated risks have been classified throughout the pipe line route.
+
+In this study, combination of indexing system beside analytical hierarchy process was used. As an integrated, as well as applicable method, indexing system works based on Subjective Scoring System with particular properties, including flexibility, high speed and cost-saving. Besides, classification of total risk existing at the route of gas pipe line is possible qualitatively, as well as quantitatively using the mentioned method. Due to variable effective level of all the factors in total level, AHP has been used to scoring to these factors. Located at 38°, 20', 15" N latitude and 45°, 20', 58" E longitude at northern Tasooj City, eastern Azerbaijan, Iran, 24 inches gas transfer pipe line of Tasooj-Salmas has been branched from Tabriz-Orumieh. Then, stretching within an approximately 42 km in parallel, the considered pipe line terminates at northeastern Salmas at 38°,11',45" N latitude and 44°,56',25" E longitude. Passing through Shabestar deserts, a terminal part of this line travels from salty lands of western Azerbaijan Province. The objective of construction such a pipe line is to boost the Tabriz-Uremia gas line and especially hinder of pressure drop in cold seasons.
+
+This study aims to investigate the technical properties of the studied project, as well as its effects on the environment at the first step. Then, following suited measures, probable risks of the considered research is predicted for the surrounded environ. According to the applied method and environmental characteristics of the studied site (topographical properties and natural, as well as manmade consequences), environmental risk assessment studies are determined. In order to combine the spatial and descriptive data, analysis of risks has been carried out throughout the pipe line route by using Arc GIS 9.3. In the next step, to weight the effective factors in assessment of AHP, Expert choice software was applied.
+
+Due to equal value of both sum index and Leak Impact Index, importance value of both indices was considered equal to 5 %. Afterward, in order to determine the importance level and effect of every sub-index of the two mentioned indices, all the sub-factors were compared each other. On this basis, prevalence of every factor was determined. For this purpose, privilege indicator has been applied in digital form. Standard privilege indicator applied to AHP process is an interval from 1 to 9 which includes from equality of two components (1) to 100 % privilege of two components in compare to each other (9). To show the average importance among the considered interval, 1-5 numbers are used. In pairwise comparison method, n illustrates the importance of component A to component B and 1/n shows exactly the contrast relation. Hence, if importance of one component in regard to .another is precise, then, the adverse of this relation would be also specified. In addition, weight, as well as inconsistency ratio of factors is computed. Results showed the inconsistency lower than 0.1 which implicate to acceptance of computed weights. If inconsistency rate exceeds up to 0.1, it is necessary to adjust this amount in an acceptable level by frequent changes in pair wise comparison matrix.
+
+Considering this fact that each sub-index has been also composed of numerous information layers (risk factors) with different importance level, ordered weight analysis (OWA) method could be applied to weight the mentioned sub-indices. OWA essentially assists the decision-maker to focus on the most crucial factors which more considerably affect the risk of the project. Using expert's opinion such weights would be extracted. In this section, by application of experts' experiences, as well as opinions, a weight ratio was defined for each assessed factor. It is worth to mention that the map of each sub-factor was provided as a result of combination of information layers considering their weight ratios. Fig.8 illustrates the total weight of indices, sub-indices and information layers.
+
+Results showed that the longest portion of the pipe line of Tasooj-Salmas has been located in the desert region in Shabestar Province and then the final section has traveled from salty lands in west of Azerbaijan. Moreover, the studied pipe line stretched in the northwest of Tasooj City and 17 surrounded villages, as well. Amongst the populated centers around the study site, Tasooj City, Ghare Gheshlagh village with 7332 and 2126 individual inhabitants are the most populated regions, respectively. However, the lower Choupanlu village with 159 individuals and Ghazalie with 231 individuals are the lowest populated regions throughout the studied area. Through the route, the pipe line passes across 19 intersections with Asphalt roads, 1 intersection with gravelled road and 1 intersection with railway (at 552 + 24 km). Also, along the route, there detected 6 intersections with floodways (mostly in Tasooj desert), 1 intersection with seasonal river in Zolachay with 61m river bed length (at 508 km+35). Of all the pipe length, 51.30 % is bare lands, 14.48% poor ranges, 30.28 % irrigated farming, 3.58 % dry farming.
+
+Sliding and collapsing phenomena have been observed at 0+00 to 1+280 km, 30+00 to 8+150 km, 13+280 to 21 km and 34+032 to 41+740due to vicinity to Tasooj fault, as well as loamy soils and weak Marny sediments with mean-high potential. The terminal length of pipe line travels from salty lands with weak Marney sediments where soil settlement is more probable. It is worth to mention that soil displacement map, as well as earth made factors are resulted from combination and overlapping of earthquake, liquefaction, sliding, collapse and settlement of earth. National park of Uromiyeh Lake has been investigated as the sole ecological sensitivity of the studied area located southern of pipe line. The lowest distance of pipe line from northern board of Uromiyeh Lake has been predicted as 1.830 km. upon the selected method, 5 km surrounded the Uromiyeh Lake has been considered as risk radius. Results showed that 15 km of the total pipe line is located in the mentioned radius, and thus in case of any accident in the exploitation phase, it is predicted that there would be affected dependent to sort and extension of the accident. It is to be noted that except Uromiyeh Lake, there was not detected any other ecological sensitivity, including important rivers and special biospheres close to or in line with pipe line route. The most significant affected factors in the study area included population, human activities on the lands and Uromiyeh Lake. Moreover, highest risk level was resulted from third party damage potential risk, as well as natural potential (soil displacement). Following identification of probable risks, scoring and quantification of factors and sub-indices were carried out using existing criteria.
+In the next step, following scoring the assessment indices and estimation of importance level (based on weight ratio), evaluated layers were provided using Arc GIS 9.3. Then, the map of third party damage potential,
+
+corrosion index (soil corrosion potential), as well as design index were prepared by means of weights indices in along with Raster Calculator function extracted from spatial analyst function series combined as weighted linear combination. Eventually, ultimate map of sum risk index was provided (Figure 1). In addition, ultimate map of Leak Impact Index was also prepared form combination of population density, as well as ecological sensitivity maps (Figure 2).
+Legend
+Western Azeiimijmi
+Legend_
+
+Leak Impact Index Score j ■■MW2 |
+
+23-26 j
+
+L] Boundary of PraAioe j | Cp TasujCity j
+
+13 OcumehLake j
+
+I_T___i
+
+Scale 1:150000
+
+QSS
+
+'Eh,
+Sum Index Score mm 255-271 mm 272-286 ! I Boundary of Province # Tasujdty OrumiehUke
+Western Azerbaijan
+m m —
+
+0 2 4 8 12 16
+Fig.l: Scoring the sum index along Fig.2: Scoring the leak impact index along
+
+the Tasooj-Salmas pipe line the Tasooj-Salmas pipe line
+
+Ultimate map of pipe line risk was drawn based on the combination of sum index along with Leak Impact Index maps using overlay functions. Results of this study shown that a significant part of the pipeline route is confronted with mean to high level risk, so that 46 % (5467-6054), 48 % (6055-6641), 4 % (6055-6641) and 2 % (6642-7228) of the total route has shown high, mean, low and very low risk level, respectively . Ultimate map of environmental risks classification of Tasooj-Salmas pipe line is shown as Figure 3.
+Fig. 3: Environmental risks classification of Tasooj-Salmas pipe line
+

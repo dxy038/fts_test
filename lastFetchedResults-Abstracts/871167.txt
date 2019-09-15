@@ -1,0 +1,5 @@
+The nonlinear fractional programming problem is considered. The functions
+involved in the objective function and constraints are assumed to be invex and
+differentiable. It is shown that the ratio of invex functions is invex. Sufficient
+optimality and duality theorems are presented for an invex fractional programming
+problem.

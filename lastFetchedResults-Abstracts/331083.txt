@@ -1,0 +1,11 @@
+Objectives
+Opalescence and fluorescence properties and the correlated translucency and masking effect of resin composites may change after aging. The objective of this study was to determine the changes in opalescence and fluorescence properties of resin composites after accelerated aging for 150 kJ/m2. Changes in translucency and masking effect were also determined.
+Methods
+
+Color and spectral distribution of seven resin composites (A2 shade, 1-mm thick) were measured in the reflectance and transmittance modes under ultraviolet light (UV)-included and excluded conditions. Opalescence parameter (OP) was calculated as the difference in yellow–blue (Δb*) and red-green (Δa*) coordinates between the reflected and transmitted colors under UV-included and excluded conditions. For the fluorescence evaluation, color differences (FL-Ref and FL-Trans) by the inclusion or exclusion of the UV-component of the standard illuminant D65 in the reflectance and transmittance modes were calculated. Under UV-included and excluded conditions, the translucency parameter (TP) was calculated, and the masking effect (ME) was calculated as the color difference between a specimen over a black tile and black tile itself. Repeated-measures 2-way analysis of variance at the significance level of 0.05 was performed for the values before and after aging.
+Results
+
+OP values in UV-included and excluded conditions did not change significantly after aging. FL-Ref and FL-Trans, TP values and ME values in UV-included and excluded conditions changed significantly after aging (p<0.05). The ranges of changes after aging in ΔE*ab units were: OP, −0.50 to 0.74; FL, −1.19 to 0.15; TP, −1.37 to 0.13; and ME, −0.49 to 0.33.
+Significance
+
+Opalescence of resin composites did not change but fluorescence was not detected after accelerated aging for 150 kJ/m2. Translucency and masking effect changed significantly after aging.

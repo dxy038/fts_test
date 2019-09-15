@@ -1,0 +1,8 @@
+We present a new mathematical model for a permutation flowshop scheduling problem
+with sequence-dependent setup times considering minimization of two objectives,
+namely makespan and weighted mean total earliness/tardiness. Only small-sized
+problems with up to 20 jobs can be solved by the proposed integer programming
+approach. Thus, an effective multi-objective immune system (MOIS) is specially
+proposed to solve the given problem. Finally, the computational results are reported
+showing that the proposed MOIS is effective in finding solutions of large-sized
+problems.

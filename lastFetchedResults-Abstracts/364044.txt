@@ -1,0 +1,9 @@
+Study objective
+The objective of this investigation is to determine time-dependent workload patterns for emergency department (ED) physician teams across work shifts. A secondary aim was to demonstrate how ED demand patterns and the timing of shift changes influence the balance of workload among a physician team.
+Methods
+Operational measurements of an adult ED were collected from a clinical information system to characterize physician workload patterns during all current work shifts. Plots of patient load versus time were developed for each physician shift, in which patient load was defined as the number of patients a physician simultaneously managed at a point in time. Patient-load curves for each shift were superimposed during 24 hours to display how patient load was distributed among a team of physicians.
+Results
+Resident shift changes during daily peak occupancy periods caused patient load imbalances so that residents on a particular shift consistently managed a disproportionate number of patients (mean 9.4 patients; 95% confidence interval [CI] 6.7 to 12.1 patients) compared with other residents on duty (mean 3.4 patients; 95% CI 2.1 to 4.7 patients).
+Conclusion
+Physician patient load patterns and ED demand patterns should be taken into consideration when physician shift times are scheduled so that patient load may be balanced among a team. Real-time monitoring of physician patient load may reduce stress and prevent physicians from exceeding their safe capacity for workload.
+

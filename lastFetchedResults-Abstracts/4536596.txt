@@ -1,0 +1,1 @@
+In this article, our objective is the analysis of the resolution of non-linear differential systems by combining Newton and Continuation (N-C) method. The iterative numerical methods converge where the initial condition is chosen close to the exact solution. The question of choosing the initial condition is answered by N-C method

@@ -1,0 +1,8 @@
+Objective:
+To estimate the proportion of Canadian National Breast Screening Study (NBSS) participants who went outside the trial for a mammogram, based on health insurance claims data.
+Method: Prospective cohort study linking trial subjects with population-based administrative data.
+Subjects: All NBSS participants enrolled in the Winnipeg screening center who had health insurance claims to Manitoba Health (n = 9,780).
+Analysis: Claims for bilateral mammograms were compared by screening arm allocation and age group at enrollment. Mammograms likely to be “screening” were defined based on prior claim history.
+Results: For women aged 40 to 49 at enrollment, 5.3% in the intervention group and 21.8% in the control group had a claim for at least one bilateral mammogram. After excluding nonscreening mammograms these proportions fell to 2.2% and 14.1% (P < 0.0001). For women aged 50 to 59, 4.5% in the intervention group and 16.7% of the control group had at least one claim for a bilateral mammogram. These proportions were 2.1% and 10.5% for screening (P < 0.0001).
+Conclusion: Health care utilization data can be used to estimate contamination in a screening trial. The levels of contamination resulting from participants going outside the study for a screening test can have an impact on the power of the study and need to be considered when interpreting results and planning future screening studies.
+

@@ -1,0 +1,10 @@
+This paper considers the bilinear minimax control problem of an important class of parabolic systems
+with Robin boundary conditions. Such systems are linear on state variables when the control and disturbance
+are fixed, and linear on the control or disturbance when the state variables are fixed. The objective is to
+maintain target state variables by taking account the influence of noises in data, while a desired power level
+and adjustment costs are taken into consideration. Firstly we introduce some classes of bilinear systems
+and obtain the existence and the uniqueness of the solution, as well as stability under mild assumptions.
+Afterwards the minimax control problem is formulated. We show the existence of an optimal solution,
+and we also find necessary optimality conditions. Finally, to illustrate the abstract results, we present two
+examples of neutron fission systems.
+© 2006 Elsevier Inc. All rights reserved.

@@ -1,0 +1,1 @@
+This paper presents a new kind of transportation system-tuberail and analyzes its specialties, then we take the delay freight rate as objective and put forward a chance-constrained programming model to solving the train reschedule problem. Finally, the tuberail system is performed to show the application of the method.

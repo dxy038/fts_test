@@ -1,0 +1,9 @@
+In the paper of Pachkova [3] the restricted reallocation of resources, among the independent
+units of a aggregated unit with the objective of optimizing the whole input consumption and
+output production of that unit, have been analyzed and studied. In this paper, some reallocation
+models, similar to models presented in the paper of Pachkova, are proposed. With this
+difference that these models may present the projecting point of each one of the independent
+units related to the aggregated unit studied in each region through preserving the stability of
+efficient frontiers, and indicate the output optimized flow in the reallocation in addition to the
+input optimized flow. Also, an application of the proposed models on Bank data has been
+fulfilled.

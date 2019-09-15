@@ -1,0 +1,9 @@
+In this paper, finite element simulations of spherical indentation of a thin hard film deposited on a soft substrate are
+carried out. The primary objective of this work is to understand the operative mode of deformation of the film corresponding
+to various stages of indentation. The transition from contact dominant behaviour to that governed by flexure
+of the film on the plastically yielding substrate is investigated from analysis of the load versus displacement curve as well
+as the stress distribution in the film. It is found that onset of bending deformation in the film occurs when the contact
+radius is about 0.2–0.3 of the film thickness. Further, distinct membrane stresses arise in the film for indentation depth
+greater than half the film thickness. The implications of these results on indentation fracture of the film are briefly discussed.
+Finally, the effects of substrate yield strength and presence of residual stresses on the indentation response are
+examined.

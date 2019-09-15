@@ -1,0 +1,13 @@
+This  paper  proposes  a  new  hybrid  method  namely  SA-IP  including  simulated  annealing  and  interior  point  algorithms  to 
+find the optimal toll prices based on level of service (LOS) in order to maximize the mobility in urban network. By considering 
+six  fuzzy  LOS  for  flows,  the  tolls  of  congested  links  can  be  derived  by  a  bi-level  fuzzy  programming  problem.  The  objective 
+function of the upper level problem is to minimize the difference between current LOS and desired LOS of links. In this level, to 
+find optimal toll, a simulated annealing algorithm is used. The lower level problem is a fuzzy flow estimator model with fuzzy 
+link costs. Applying  a famous defuzzification  function, a  real-valued multi-commodity flow  problem can be  obtained. Then  a 
+polynomial time interior point algorithm is proposed to find the optimal solution regarding to the estimated flows. In pricing 
+process, by imposing cost on some links with LOS F or E, users incline to use other links with better LOS and less cost. During 
+the iteration of SA algorithm, the LOS of a lot of links gradually closes to their desired values and so the algorithm decreases 
+the number of links with LOS worse than desirable LOS. Sioux Falls network is considered to illustrate the performance of SA-IP method on congestion pricing based on different LOS. In this pilot, after toll pricing, the number of links with LOS D, E and 
+F are reduced and LOS of a great number of links becomes C. Also the value of objective function improves 65.97% after toll 
+pricing process. It is  shown optimal toll for  considerable network is 5  dollar and by imposing  higher toll, objective  function 
+will be worse. 

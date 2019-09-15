@@ -1,0 +1,5 @@
+Objective: To develop a real-time PCR technique for detection of the insertion/deletion (I/D) polymorphism of angiotensin-converting enzyme (ACE) gene.
+Design and methods: Three primers were designed for performing real-time PCR in the presence of SYBR Green I as flurochrome followed by melting curve analysis. Forty human genomic DNA that have been genotyped by two-rounds of conventional PCR were used for evaluation of this technique.
+Results: Melting curve analysis indicated the melting peak at 73.9°C and 76.2°C corresponding to the presence of I and D alleles, respectively. Comparable genotyping results were obtained by both conventional and real-time PCR. Besides, the mistyping of ID allele individuals by the first run of conventional PCR were accurately genotyped by single-tube real time PCR.
+Conclusions: The real-time PCR method presented in this study provides a rapid and sensitive way for genotyping of ACE gene that may be suitable for large-scale clinical and epidemiologic study.
+

@@ -1,0 +1,1 @@
+This paper is a comment on PI and sliding mode control of a Cuk converter paper.The objective of this paper is to correct and rectify the error in section IV-B of "PI and Sliding Mode Control of a Cuk Converter" paper.

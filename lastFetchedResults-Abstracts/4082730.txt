@@ -1,0 +1,1 @@
+The paper presents a new closed loop control method which uses information locally available at each power converter station and combines and coordinates control possibilities with the objective of improving the dynamic behaviour of HVDC transmission networks during fault recoveries and disturbances around their operating points

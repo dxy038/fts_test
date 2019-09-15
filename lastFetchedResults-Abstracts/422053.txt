@@ -1,0 +1,14 @@
+Objectives
+The objective of this study was to investigate whether immunoadsorption (IA) removes cardiodepressant antibodies from the plasma of patients with dilated cardiomyopathy (DCM), as well as to describe their effects on isolated rat cardiomyocytes.
+Background
+
+Immunoadsorption induces early hemodynamic improvement in patients with DCM. The mechanisms for this improvement remain to be elucidated.
+Methods
+
+Patients with DCM (n = 11; left ventricular ejection fraction <30%, cardiac index [CI] <2.5 l/min per m2) were treated with IA on three consecutive days, with one IA session daily, by application of specific antibody columns directed against human immunoglobulin (Ig). Immunoadsorption was also conducted on 500 ml of blood taken from nine healthy donors (control subjects). After passage of plasma, the IA columns were regenerated. Column eluent (CE) was collected and dialyzed (100 kD). Confocal laser scanning microscopy was used to analyze the effects of CE on cell contraction and on Ca2+-dependent fluorescence in isolated, field-stimulated adult rat cardiomyocytes loaded with cell-permeable Fluo-3. Immunoprecipitation with different preparations of myocardial protein fractions was used for characterization of cardiotropic antibodies.
+Results
+
+During IA, the IgG plasma level decreased from 10.7 ± 0.6 to 2.4 ± 0.1 g/l (mean ± SEM), and the CI increased from 2.2 ± 0.1 to 2.7 ± 0.2 l/min per m2 (p < 0.01). The CE obtained from control subjects did not influence Ca2+ transients or cell shortening of cardiomyocytes. In contrast, in patients with DCM, the CE collected during the first regeneration cycle of the first IA session caused an immediate and dose-related decrease of Ca2+ transients (dilution 1:5; −22.7 ± 5.5%; p < 0.01) and cell shortening (dilution 1:5; −29.9 ± 6.0%, p < 0.01). Early hemodynamic improvement among the patients correlated with the cardiodepressant effect of CE on the isolated cardiomyocytes. Purification of CE by protein A adsorption indicated that the cardiodepressant substances are antibodies. Immunoprecipitation revealed that the eliminated antibodies are capable of binding to various myocardial proteins.
+Conclusions
+
+Cardiac autoantibodies play a functional role in DCM, and their removal may induce early hemodynamic improvement.

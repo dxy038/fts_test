@@ -1,0 +1,1 @@
+This paper studies on decentralized temperature control of a three inputs three outputs thermal system with control input constraints by using operator-theoretic approach. The main objective of this paper is to show the effectiveness of the proposed robust control system through experimental results.

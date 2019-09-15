@@ -1,0 +1,11 @@
+Objective. To assess the reliability of force direction dependent EMG parameters in shoulder muscles for future clinical research.
+
+Design. EMG measurements of shoulder muscles including the rotator cuff were performed during isometrical external loading in various directions covering 360° in a plane perpendicular to the humeral axis.
+
+Background. Relating EMG to force direction bypasses problems associated with the unknown position and velocity dependence of the EMG signal. For clinical application, information on the reliability of force direction dependent parameters is required.
+
+Methods. The EMG of shoulder muscles of healthy subjects was related to force direction. The activation patterns obtained where parameterised after least squares function fitting, returning three force direction dependent parameters, i.e. two on- and offset directions of the activity peak and the direction of highest EMG activity also called principal action. Within-trial, inter-trial, inter-day and inter-subject variabilities were estimated.
+
+Results. With a group size of n=10, the 95% confidence interval for inter-day measurements was found to be about ±5° on a scale of 360° for the principal action and just below ±10° for the intercepts.
+
+Conclusion. The method allows for intra-individual measurements on different days with sufficient accuracy so that shoulder muscle co-ordination of patients before and after interventions like surgery or physical therapy can be evaluated.

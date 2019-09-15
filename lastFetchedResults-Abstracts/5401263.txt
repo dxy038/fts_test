@@ -1,0 +1,1 @@
+Under the generalized smoothing of a signal or image, a wider class of operations is understood than the plain suppression of noise. A variational approach to the generalized edge-preserving smoothing is considered on the basis of treating the sought-for result of processing as the minimum point of an objective function

@@ -1,0 +1,9 @@
+Study objective
+We assess the prognostic role of initial glucose levels in patients with a first acute myocardial infarction in the emergency department (ED).
+Methods
+We conducted a 3-year retrospective cohort study. Patients with a first acute myocardial infarction were recruited from the ED of a tertiary hospital from January 1, 2001, to December 31, 2003. Initial glucose levels in the ED were stratified into 3 levels (normal <140 mg/dL; intermediate 140 to 200 mg/dL; and high ≥200 mg/dL). Logistic and Cox regression models were applied to estimate the 1-month short-term and 1-year long-term adverse prognoses, respectively.
+Results
+A total of 198 eligible subjects (159 men and 39 women; mean age 63.1±14.2 years) were recruited. The estimated survival curves among the 3 initial glucose levels were significantly different (P=.0002). After adjustment for sex, age, diabetic status, reperfusion therapy, and infarct subtype, the adjusted odds ratio for short-term prognosis progressed with higher levels when compared with the normal level (intermediate level: odds ratio 3.87; 95% confidence interval [CI] 1.71 to 8.78; high level: odds ratio 5.16; 95% CI 1.97 to 13.51). High initial glucose level was an important risk factor for long-term adverse prognosis (hazard ratio 3.08; 95% CI 1.59 to 5.98).
+Conclusion
+A high initial glucose level in the ED is an important and independent predictor of short- and long-term adverse prognoses in patients with first acute myocardial infarction.
+

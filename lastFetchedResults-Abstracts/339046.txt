@@ -1,0 +1,11 @@
+Objective
+Acute graft-vs-host disease (aGVHD) remains an important cause of morbidity after reduced-intensity conditioning (RIC) allogeneic transplantation (allo-SCT). It has been shown that antithymocyte globulin (ATG) dose infused during RIC is a major determinant for the likelihood of developing aGVHD. The ATG modulation on aGVHD is likely related to in vivo T-cell depletion.
+Patients and methods
+
+We therefore investigated the relationship between the cellular composition of the allograft and clinical outcome in 57 patients who received allogeneic peripheral blood stem cells from HLA-identical siblings following an ATG-based RIC.
+Results
+
+In a multivariate analysis, the CD8+ T cell dose infused was the only parameter associated with the risk of aGVHD (p = 0.031; RR = 1.96; 95% CI, 1.1–3.6). When looking at the extremes, patients experiencing grade III–IV aGVHD received a median of 143 × 106/kg CD8+ T cells, while patients without aGVHD received a median of 96 × 106/kg CD8+ T cells (p = 0.021). None of the different cell subtypes contained in the allograft was associated with a significant probability of developing chronic GVHD. Patients with grade II aGVHD who received an intermediate dose of CD8+ T cells (median, 111 × 106/kg) had a significantly better overall survival in comparison to patients with grade 0–I or grade III–IV aGVHD (p = 0.009).
+Conclusion
+
+In comparison to myeloablative allo-SCT, these results demonstrate that a cautious monitoring of the number of cells infused, at least in the context of ATG-based RIC, may represent an important predictive indicator of early transplant-related events and outcome after RIC allo-SCT.

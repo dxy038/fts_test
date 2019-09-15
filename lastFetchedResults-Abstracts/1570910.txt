@@ -1,0 +1,5 @@
+This paper is focused on the comparison between different approaches in structural optimization. More precisely, the conventional deterministic optimum design, based on the assumption that the only source of uncertainty concerns the forcing input, is compared to robust single-objective and multi-objective optimum design methods.
+
+alysis is developed by considering as case of study a single-degree-of-freedom system with uncertain parameters, subject to random vibrations and equipped with a tuned mass damper device (TMD). The optimization problem concerns the selection of TMD mechanical characteristics able to enlarge the efficiency of the strategy of vibration reduction.
+
+s demonstrate the importance of performing a robust optimum design and show that the multi-objective robust design methodology provides a significant improvement in performance stability, giving a better control of the design solution choice.

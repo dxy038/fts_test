@@ -1,0 +1,11 @@
+Objective
+Demographic and temporal patterns in the social and physical environments of sports and exercise in the American Time Use Survey (years 2003–2006) are described.
+Method
+
+The sample consisted of adult respondents (ages 21+) reporting at least one bout of sports or exercise (N = 8844). During the interview, participants reported where (e.g., outdoors, home, work) and with whom (e.g., alone, family, coworkers) each bout occurred. Sample-weighted multinomial logistic regression analyses estimated the adjusted proportion of bouts occurring in each environment by gender, age, education, race/ethnicity, season, weekend/weekday, and time of day.
+Results
+
+Among members of the oldest age group (ages 60+), more exercise bouts occurred alone and outdoors compared to younger age groups. Among college graduates, more exercise bouts occurred at a gym/health club compared to groups with lower levels of education. Exercise bouts occurring alone were most likely to happen in the winter, on weekdays, and in the morning. Exercise bouts occurring outdoors were most likely to happen in the summer, on weekend days, and in the morning.
+Conclusion
+
+Future research and intervention efforts exploring where, when and with whom exercise bouts occur may prove beneficial to addressing public health concerns about physical inactivity.

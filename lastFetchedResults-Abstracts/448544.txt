@@ -1,0 +1,5 @@
+PURPOE: To report on new oftware that wa pecially deigned to evaluate color.
+METHOD: oftware development and obervational cae report. Each pixel on a computer creen i compoed of three color: red, green, and blue (RGB). Our oftware analyze the intenity of each RGB component in a pecific area choen by the uer. To tet our oftware, we evaluated the color level of the irie of a ubject, which became darker a a ide effect of Xalatan (latanoprot; Pharmacia Corporation, Peapack, New Jerey) eyedrop.
+REULT: We uccefully expreed the level of the color of the iri by number.
+CONCLUION: Thi oftware meaure the color of a leion and thereby provide an objective evaluation of color. The oftware we developed i downloadable, without cot, from http://www.iao.com.
+

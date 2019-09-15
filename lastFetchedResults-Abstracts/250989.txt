@@ -1,0 +1,14 @@
+In this paper we investigate whether the particle swarm optimization (PSO) algorithm is invariant of the
+scale and frame (i.e. translation and rotation) in which an objective function is posed. To do so, we study
+the linear and classical velocity update rules. We will show that the linear velocity update rule is scale
+and frame invariant, but that the classical velocity update rule lacks rotational invariance.
+It is known that the linear velocity update rule lacks diversity, resulting in particle trajectories that
+collapse to line searches. In contrast, the classical velocity update rule maintains diverse (space filling)
+particle trajectories.
+To illustrate that diversity and invariance are not necessarily exclusive, we propose a new velocity
+update rule. This update rule, which is just one example of many possible formulations, is rotationally
+invariant and at the same time directionally diverse. This is achieved through consistent perturbation of
+the search directions.
+We quantify the (in)variance and performance of the three different implementations using a popular
+test set. The test problems are evaluated in both unrotated and arbitrarily rotated reference frames.
+Copyright q 2006 John Wiley & Sons, Ltd.

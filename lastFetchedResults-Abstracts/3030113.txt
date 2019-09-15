@@ -1,0 +1,1 @@
+We describe a new resource for developers of QRS detection algorithms that provides a standardized assessment of algorithm performance that is blinded, objective, independent, and reproducible. This overcomes the problems of using a single data set for both development and assessment that leads to favorably biased estimates of performance.

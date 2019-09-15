@@ -1,0 +1,8 @@
+Necessary conditions for Pareto optimality in multiobjective programming with
+subdifferentiable set functions are established in Theorem 12 of H. C. Lai and L. J.
+Lin J. Math. Anal. Appl. 132, 1988, 558]571.. In this paper, we establish some
+sufficient conditions under which a feasible solution of such a problem will be
+Pareto optimal provided that a weaker convexity requirement is satisfied; for
+instance I, r, u.-convexity is assumed for both objective and constraint set
+functions. Some duality models are also discussed. Wolfe-type and Mond]Weir-type
+duality theorems are proved

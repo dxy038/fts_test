@@ -1,0 +1,11 @@
+Objective
+Kit ligand (KL) is a major survival factor for hematopoietic stem cells. Although anti-apoptotic bcl-2 family members are expressed in these cells, the survival effects by KL appear to involve other mechanisms. Survival signals can also be elicited by the activation of phosphatidylinositol 3-kinase (PI3K) and protein kinase B (PKB), which in turn inactivates forkhead transcription factors, known to be potent regulators of apoptosis. In this study, we investigated the involvement of PKB, FoxO1, FoxO3, and FoxO4 in c-kit-mediated survival.
+Methods
+
+By Western blot analysis, immunofluorescence, and subcellular fractionation, we analyzed the effects of KL on PKB and different forkhead family members in two factor-dependent cell lines, FDCP-mix and FDC-P1, as well as primary mouse bone marrow–derived Lin− progenitors. Forced overexpression of triple mutated form of FoxO3 by retroviral gene transfer has enabled us to directly study its involvement in these cells.
+Results
+
+Upon KL stimulation, PKB and its downstream target FoxO3, and to some extent FoxO1, were rapidly phosphorylated. This led to an exclusion of endogenous FoxO3 from the nucleus, which was shown to be dependent of PI3K activation. Overexpression of triple-mutated FoxO3 in a factor-dependent cell line induced apoptosis in the presence of KL. Also, triple-mutated FoxO3 was able to inhibit the colony formation of Lin− progenitors in KL.
+Conclusion
+
+Our data suggest that FoxO3 plays an important role in KL-mediated survival of hematopoietic progenitors. Because forkhead proteins are involved in controlling apoptosis and cell-cycle progression, this may be one important mechanism by which survival of hematopoietic progenitors is mediated.

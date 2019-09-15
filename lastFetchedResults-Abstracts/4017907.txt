@@ -1,0 +1,1 @@
+New linear approximation of conductivity distribution inside the body using the bell function approximation is presented in the paper. In order to solve the inverse problem the objective function with the bell function parameters has been introduced. Theory was confirmed by results obtained from the real electrical impedance tomography (EIT) measuring system

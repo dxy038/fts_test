@@ -1,0 +1,11 @@
+Objective
+The 5T33 murine model of multiple myeloma was used to investigate the potential of all-trans retinoic acid (ATRA) to purge clonogenic myeloma cells from autologous hemopoietic stem-cell harvests by differentiating immature 5T33 cells into terminal-stage plasma cells with limited repopulation capacity.
+Materials and Methods
+
+5T33 cells were treated with 10 μM ATRA and the effect on cell clonogenicity was determined by measuring the time to paraprotein detection in C57Bl/KaLwRij mice compared to control animals. Cell differentiation and apoptosis following ATRA treatment were investigated using flow cytometry and caspase-3 assay.
+Results
+
+Treatment with ATRA resulted in a 33% reduction in the in vitro cloning efficiency of 5T33 cells. Reduced in vitro clonogenicity of 5T33 cells following ATRA treatment was supported by a 16–49% increase in the time taken for C57Bl/KaLwRij mice to develop paraprotein following injection of 5T33 cells pretreated with ATRA for 8 days. Although ATRA was shown not to alter the in vitro growth characteristics of 5T33 cells, significant inhibition of apoptosis was observed. Treatment with ATRA also resulted in an increase in the proportion of 5T33 cells expressing the CD54 adhesion molecule, which is known to be highly expressed on mature myeloma cells.
+Conclusion
+
+The ability of ATRA to decrease the clonogenicity of 5T33 cells in vitro and increase the time to disease development in vivo suggests that this drug may be useful for purging autologous stem cell harvests in the clinical setting.

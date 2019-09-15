@@ -1,0 +1,11 @@
+This paper presents a multi-objective optimization methodology to solve the Optimal Reactive
+Power Flow (ORPF) problem. The "-constraint approach is implemented for the Multi-objective
+Mathematical Programming (MMP) formulation. The solution procedure uses Mixed Integer Non-Linear
+Programming (MINLP) model due to discrete variables, such as the tap settings of transformers and
+the reactive power output of capacitor banks. The optimum tap settings of transformers are directly
+determined in terms of the admittance matrix of the network since the admittance matrix is constructed
+in the optimization framework as additional equality constraints. The optimization problem is modeled in
+General Algebraic Modeling System (GAMS) software and solved using DICOPT solver. Simulation results
+are implemented on the IEEE 14-, 30-, and 118-bus test systems to simultaneously optimize the total fuel
+cost, power losses and the system loadability as objective functions. The simulation results show that the
+proposed algorithm is suitable and effective for the reactive power planning

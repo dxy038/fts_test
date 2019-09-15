@@ -1,0 +1,11 @@
+Background
+Cardiac magnetic resonance (cMR) perfusion imaging is a promising technique to assess coronary artery disease (CAD). Our objective was to evaluate accuracy of various cMR imaging parameters to detect significant CAD as compared with angiography or fractional flow reserve (FFR).
+Methods
+
+We prospectively enrolled 37 patients who underwent coronary angiography, FFR, and cMR perfusion imaging. Semiquantitative assessments, namely maximum up-slope and peak-intensity indexes, were derived from time-intensity ratios between rest and stress. Myocardial perfusion reserve (MPR), calculated using Fermi deconvolution technique, was the quantitative cMR imaging parameter. Qualitative assessments were visually performed by independent analysts. Accuracy of quantitative, semiquantitative, and qualitative cMR imaging data was compared with quantitative coronary angiography in 108 segments and FFR in 44 segments.
+Results
+
+Sensitivity and specificity for hemodynamically significant CAD (FFR ≤0.75) were 92.9% and 56.7%, respectively, for MPR (cutoff, 2.06). Area under the curve to detect FFR ≤0.75 was 0.78 for MPR (P < .01), 0.63 for up-slope (P = NS), and 0.66 (P = NS) for peak intensity. Sensitivity and specificity for anatomically significant CAD (>50% diameter stenosis [DS]) were 87.2% and 49.2%, respectively, for MPR (cutoff, 2.06). Area under the curve was 0.75 for MPR, 0.69 for up-slope, and 0.65 for peak intensity to detect >50% DS (all P < .05). Visual assessment yielded sensitivity of 78.6% and specificity of 65.5% to predict FFR ≤0.75 and sensitivity of 74.5% and specificity of 67.2% to predict >50% DS.
+Conclusions
+
+Myocardial perfusion reserve appears to be the most accurate index to detect anatomical and hemodynamically significant CAD. Standardization of such quantitative methods, with minimal operator dependency, would be useful for clinical and research applications.

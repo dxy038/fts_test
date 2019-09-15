@@ -1,0 +1,1 @@
+A new post-processing approach which aims at reducing the dispersion effect of the wave travelling inside a waveguide is presented. The main objective is to improve the time domain reflectometry measurements performed over long-distance cables, relative to the wavelength <i>&#955;</i>. A real-case scenario is presented so that the gain of this method can be appreciated.

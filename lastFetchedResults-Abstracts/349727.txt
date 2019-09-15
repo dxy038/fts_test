@@ -1,0 +1,11 @@
+Objective
+The goal of this study was to develop, evaluate, and apply a method to quantify the unknown spatial extent of activation in deep brain stimulation (DBS) of the ventral intermedius nucleus (Vim) of the thalamus.
+Methods
+The amplitude–distance relationship and the threshold amplitudes to elicit clinical responses were combined to estimate the unknown amplitude–distance constant and the distance between the electrode and the border between the Vim and the ventrocaudal nucleus (Vc) of the thalamus. We tested the sensitivity of the method to errors in the input parameters, and subsequently applied the method to estimate the amplitude–distance constant from clinically-measured threshold amplitudes.
+Results
+The method enabled estimation of the amplitude–distance constant with a median squared error of 0.07–0.23 V/mm2 and provided an estimate of the distance between the electrode and the Vc/Vim border with a median squared error of 0.01–0.04 mm. Application of the method to clinically-measured threshold amplitudes to elicit paresthesias estimated the amplitude–distance constant to be 0.22 V/mm2.
+Conclusions
+The method enabled robust quantification of the spatial extent of activation in thalamic DBS and predicted that stimulation amplitudes of 1–3.5 V would produce a mean effective radius of activation of 2.0–3.9 mm.
+Significance
+Knowing the spatial extent of activation may improve methods of electrode placement and stimulation parameter selection in DBS.
+

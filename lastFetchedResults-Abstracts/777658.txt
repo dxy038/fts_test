@@ -1,0 +1,10 @@
+This paper presents the modeling and optimization of a solar assisted heat pump using ice slurry. Solar collectors are used as the
+primary source of thermal energy, with two distinct loops allowing the collectors to operate in series with an ice tank, or a warm water
+tank. Thermal energy stored in the ice tank is transferred to a warm water distribution tank via a heat pump. First, a new mathematical
+model of an ice slurry storage tank is presented. Validation of the model with experimental data confirms its ability to predict the ice
+mass and tank fluid temperatures during the charging and discharging modes of operation. The developed ice tank model is combined
+with the TRNSYS energy simulation program to formulate a complete model of the proposed heat pump system. This computer model
+then serves as a base for a mathematical optimization with the objective to minimize the energy use for heating and DHW over a single
+heating season. Simulated results demonstrate the potential of the optimized system in reducing the heating operating energy use of a
+high performance home in Montreal, QC.
+Crown Copyright   2012 Published by Elsevier Ltd. All rights reserved.

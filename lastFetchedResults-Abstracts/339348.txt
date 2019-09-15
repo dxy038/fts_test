@@ -1,0 +1,11 @@
+Objective
+Monoclonal antibodies (mAbs) against CD34 are widely used for purification of CD34+ hematopoietic as well as nonhematopoietic stem/progenitor cells. We produced mAbs against bovine CD34 (boCD34) to facilitate the study of hematopoiesis in cattle.
+Methods
+
+MAbs were produced by immunizing BALB/c mice with BALB/3T3 cells transfected with boCD34 cDNA. Staining of bone marrow mononuclear cells (BMMNCs) from 10 newborn Holstein calves with the mAbs was examined by flow cytometry. The nucleotide sequence of the coding region for boCD34 in each calf was determined after amplification of the cDNA by reverse-transcription polymerase chain reaction (RT-PCR). BoCD34 fusion proteins, each representing one of the boCD34 alleles found to exist in the calves, were expressed in HeLa cells by DNA transfection, and the staining of these proteins with the mAbs was assessed.
+Results
+
+One mAb, N21, stained relatively high percentages of BMMNCs from 4 calves but failed to stain those from the other calves. RT-PCR analysis revealed single-nucleotide polymorphisms within the coding region, 3 of which led to amino-acid substitutions. A CD34 mutation experiment indicated that mAb N21 bound to a boCD34 allele with tryptophan at amino acid 167 but not to that with arginine.
+Conclusion
+
+By using mAb N21 as an allelic cell marker, it would be feasible to detect and isolate boCD34+ cell species derived from N21+ donors in N21− recipients following allogeneic in utero transplantation; this would make cattle potentially useful as large animal models with a unique experimental advantage.

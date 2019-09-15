@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem cells (HSCs) represent a rare and incompletely characterized fraction of marrow cells that are capable of both self-renewal and differentiation into all of the mature cells in the peripheral blood. We undertook to identify genes expressed preferentially by HSCs as an initial step toward better understanding the molecular mechanisms that underlie HSC behavior.
+Methods
+
+We modified the representational difference analysis technique to isolate gene fragments present in amplified cDNA prepared from highly purified murine hematopoietic stem/progenitor cells (Lin−/Hoechstlow/rhodaminelow) and absent (or much less abundant) in amplified cDNA prepared from lineage-committed marrow cells. We went on to use one potentially important gene fragment that we isolated in this way, to screen a cDNA library prepared from these cells and to characterize the pattern of expression of the gene in hematopoietic and other cells.
+Results
+
+We isolated a fragment of the homeobox transcription factor Pitx2 from amplified cDNA prepared from murine hematopoietic stem/progenitor cells. From a cDNA library prepared from these cells, a full-length cDNA was isolated that corresponds to one of the three known isoforms of Pitx2 (Pitx2c). Pitx2c is expressed in murine embryonic stem (ES) cells and in hematopoietic stem/progenitor cells but not in more differentiated hematopoietic cells or in a large panel of established murine hematopoietic cell lines. Pitx2c expression was not detected after 48 hours of in vitro cytokine stimulation of hematopoietic stem/progenitor cells.
+Conclusions
+
+Pitx2c is expressed in hematopoietic stem/progenitor cells but not in their differentiated progeny. The pattern of expression of Pitx2c in primitive hematopoietic stem/progenitor cells suggests that it may play a role in hematopoietic stem-cell biology.

@@ -1,0 +1,7 @@
+Objective. This study involves investigation of the use of video-imaging for measurement of volumetric shrinkage of composites.
+
+Methods. Six composites were tested for volumetric shrinkage using video-imaging. The volumetric shrinkage was measured using the single- and multi-view volumetric reconstruction modes. All composites were cured using a VIPTM curing light for 40 s at 500 mW/cm2. Dynamic shrinkage was measured using the single-view mode with a red filter placed over the detector opening.
+
+Results. Analysis of the volumetric shrinkage values by a one way ANOVA for each composite showed no difference for the single- and multi-view measurement mode. The shrinkage values determined by video-imaging were compared to those measured for the same composites by mercury dilatometry by one way ANOVA followed by a paired comparison using the Bonferroni method.
+
+Conclusion. The video-imaging technique gives reproducible results for volumetric shrinkage of composites comparable to those measured by dilatometry.

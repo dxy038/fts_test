@@ -1,0 +1,11 @@
+Objective
+The OP9-DL1 culture system is an in vitro model for T-cell development in which activation of the Notch pathway by Delta-like 1 promotes differentiation of mature T cells from progenitors. The roles of specific cytokines in this culture system have not been well defined, and controversy regarding the role of IL-7 has recently emerged. We examined the roles played by IL-7, Flt3 ligand, and stem cell factor (SCF) in differentiation of adult bone marrow cells in the OP9-DL1 culture system.
+Methods
+
+Hematopoietic progenitor cells isolated from mouse bone marrow were cultured with OP9 or OP9-DL1 stromal cells and evaluated for T and B lymphocyte differentiation using immunofluorescent staining.
+Results
+
+IL-7 provided both survival/proliferation and differentiation signals in a dose-dependent manner. T-cell development from the CD4/CD8 double-negative (DN) stage to the CD4/CD8 double-positive (DP) stage required IL-7 provided by the stromal cells, while differentiation from the DP to the CD8 single-positive (SP) stage required addition of exogenous IL-7. SCF favored the proliferation of DN lymphoid progenitors and inhibited differentiation to the DP stage in a dose-dependent manner. Conversely, blocking the function of SCF expressed endogenously by OP9-DL1 cells inhibited proliferation of lymphoid progenitors and accelerated T-lineage differentiation. Flt3 ligand promoted proliferation without affecting differentiation.
+Conclusion
+
+These results validate the OP9-DL1 model for the analysis of T-cell development from bone marrow–derived progenitor cells, and demonstrate specific roles of SCF, IL-7, and Flt3L in promoting efficient T-lineage differentiation.

@@ -1,0 +1,11 @@
+Objective.  To test the validity of high and low frequency band amplitudes of the surface electromyography (EMG) profile as representation of muscle fatigue.
+
+Design. A within subjects (n=10) repeated measures design was used to collect surface EMG signals from the biceps during an isometric contraction under two levels of fatigue status.
+
+Background. The use of the shift in the median frequency of the surface EMG power spectrum is a well known method of assessing muscle fatigue. Fatigue also results in amplitude changes of the specific frequency bands. The use of frequency band analysis may be an alternative option for the assessment of muscle fatigue in specific experimental settings.
+
+Methods. Surface EMG profiles of the biceps were recorded at 1024 Hz during a sustained isometric hold at 60% of the individuals fresh and fatigued maximal voluntary isometric torque. The median frequency of the power spectrum was compared with changes in the low frequency (15–45 Hz) and high frequency (>95 Hz) bands.
+
+Results. There was a close association between median frequency shift and the amplitude of the 15–45 Hz bandwidth and the high–low frequency amplitude ratio. The association was similar for performance under different muscle capacity states.
+
+Conclusions. Frequency band amplitude analysis provides similar information to median frequency shift under isometric conditions and may be suited to specific experimental protocols in workplace fatigue studies.

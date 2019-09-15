@@ -1,0 +1,9 @@
+Objective
+To investigate spectral power, inter- and intra-hemispheric coherence in the interictal scalp electroencephalography (EEG) of 41 patients with idiopathic generalised epilepsy.
+Methods
+Two minutes of eyes-closed waking interictal EEG activity was analysed. Fast Fourier transformation was performed. Raw and age-regressed, Z-transformed values were computed for 19 electrodes and 4 frequency bands: absolute power (AP, ZAP), percent power (RP, ZRP), band mean frequency (MF, ZMF), inter-hemispheric (CO, ZCO) and intra-hemispheric (IC, ZIC) coherence. Compressed values (scalp averages) were computed for each parameter and 4 frequency bands. Compressed data of the patients (GE group) and the healthy controls (C group) were compared.
+Results
+ZAP across the entire 1.5–25.0 Hz range was greater in the GE than in the C group. Delta and theta ZRP was greater, alpha ZRP was less in GE than in C. ZMF and ZIC was about the same in the GE and C groups. The crucial, band-specific finding was significantly greater theta-ZCO in the GE group, in contrast to normal or decreased ZCO in the other bands. In addition, within-group correlation between ZAP of the frequency bands, correlation of ZAP and ZCO, correlation of ZIC and ZCO were different for the two groups.
+Conclusions
+The pattern of enhanced ZAP, ZRP, ZCO, together with normal ZIC and ZMF in the theta range was a peculiar, novel finding in GE. It was incompatible with any of the known patterns of altered power and coherence due to lesional or metabolic aetiology. This pattern presumably indicates the presence of a powerful, diffuse, hypersynchronous, hypercoherent theta oscillation at the thalamo-cortical level of the brain. The role of inter-hemispheric connections in maintaining this oscillation was suggested. The other findings suggest disturbed central regulation of EEG power and coherence in the interictal state.
+

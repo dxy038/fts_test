@@ -1,0 +1,11 @@
+Objective
+The transfer of mammalian artificial chromosomes (MACs) to hematopoietic stem and progenitor cells (HSPCs) presents a promising new strategy for ex vivo gene therapy that alleviates numerous concerns surrounding viral transduction along with a unique platform for the systematic study of stem cell biology and fate. Here we report the transfer of a satellite DNA-based artificial chromosome (an ACE), made in mouse cells, into human cord blood hematopoietic cells.
+Materials and Methods
+
+A GFP-Zeo-ACE encoding the genes for humanized Renilla green fluorescence protein (hrGFP) and zeomycin resistance (zeoR) was transferred into CD34 positively selected cord blood cells using cationic reagents.
+Results
+
+Post ACE transfer, CFU-GM-derived colonies were generated in methylcellulose in the presence or absence of bleomycin. Bleomycin-resistant cells expressed GFP and contained intact autonomous ACEs, as demonstrated by fluorescent in situ hybridization. Moreover, when the cells from these plates were replated in methylcellulose, we observed secondary bleomycin-resistant CFU-GM-derived colonies, demonstrating stable chromosome retention and transgene function in a CFU-GM progenitor.
+Conclusion
+
+To our knowledge this is the first report demonstrating the transfer of a mammalian artificial chromosome and the stable expression of an encoded transgene in human hematopoietic cells.

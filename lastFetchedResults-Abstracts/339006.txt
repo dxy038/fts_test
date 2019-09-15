@@ -1,0 +1,8 @@
+Objective and Methods
+The knowledge of the mechanisms underlying the adhesive processes that lead to homing and/or mobilization of hematopoietic progenitor cells, and the influence of blood rheology, is still limited. We analyzed the impact of flow conditions on the adhesion of CD34+ peripheral blood progenitor cell (PBPC) to the adhesive proteins fibronectin, laminin, and collagen, and to stromal cells.
+Results
+
+Under static conditions, all the adhesive substrata assayed promoted adhesion of CD34+ PBPC, being higher on the stromal cells. Under flow conditions, adhesion of CD34+ PBPC was remarkable on stromal cells while insignificant onto the purified proteins. Exposure of stromal cell monolayers to granulocyte colony-stimulating factor (G-CSF) further enhanced PBPC adhesion. This effect correlated with the activation of p38 MAPK and with an increase in the expression of VCAM-1 on stromal cells exposed to G-CSF. In inhibitory assays, both an antibody to the G-CSFR and a specific inhibitor of the p38 MAPK blocked the effects induced by the cytokine.
+Conclusion
+
+Our results provide direct evidence that in stromal cells G-CSF activates the signaling protein p38 MAPK, inducing expression of the adhesion receptor VCAM-1. This mechanism seems to promote adhesion of CD34+ cells on stromal cells and could play a potential role in homing events.

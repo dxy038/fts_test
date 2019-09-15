@@ -1,0 +1,11 @@
+This paper investigates the complete calculations of the different losses in matrix converters such as switching
+and conduction losses. A small R-C snubber circuit is usually connected across two terminals of a bidirectional
+switch to limit the device voltage at an appropriate level. Also, the complete analysis of the snubber circuit
+losses is given. The results show that this simple snubber arrangement causes the total converter losses to
+increase. In other words. it has been found that the snubber circuit results in a high power loss compared to the
+total semiconductor losses. Another result of this research is that the snubber losses in the matrix converter are
+independent of the input and output frequencies and the power factors. The snubber losses mainly depend on the
+input voltage, the snubber capacitance and the switching frequency. Also, in this paper it is shown that the total
+energy losses is independent of the switching pattern and the load power factor and the majority of the tum-on
+energy losses comes from the snubber capacitor. Very good correlation between the analysis and the measured
+results were obtained.

@@ -1,0 +1,8 @@
+Purpose
+ data indicate that cDNA microarray gene expression profile of blood cells can reflect disease states and thus have diagnostic value. We tested the hypothesis that blood cell gene expression can differentiate between bladder cancer and other genitourinary cancers as well as between bladder cancer and healthy controls.
+mental Design
+d Affymetrix U133 Plus 2.0 GeneChip (Affymetrix, Santa Clara, CA) to profile circulating blood total RNA from 35 patients diagnosed with one of three types of genitourinary cancer [bladder cancer (n = 16), testicular cancer (n = 10), and renal cell carcinoma (n = 9)] and compared their cDNA profiles with those of 10 healthy subjects. We then verified the expression levels of selected genes from the Affymetrix results in a larger number of bladder cancer patients (n = 40) and healthy controls (n = 27).
+s
+gene expression profiles distinguished bladder cancer patients from healthy controls and from testicular and renal cancer patients. Differential expression of a combined set of seven gene transcripts (insulin-like growth factor-binding protein 7, sorting nexin 16, chondroitin sulfate proteoglycan 6, and cathepsin D, chromodomain helicase DNA-binding protein 2, nell-like 2, and tumor necrosis factor receptor superfamily member 7) was able to discriminate bladder cancer from control samples with a sensitivity of 83% (95% confidence interval, 67–93%) and a specificity of 93% (95% confidence interval, 76–99%).
+sion
+e shown that the gene expression profile of circulating blood cells can distinguish bladder cancer from other types of genitourinary cancer and healthy controls and can be used to identify novel blood markers for bladder.

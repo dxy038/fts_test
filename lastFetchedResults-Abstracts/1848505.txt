@@ -1,0 +1,8 @@
+Objective
+jective of this study was to use magnetic resonance imaging (MRI) to detect the time when and the location at which orally delivered mucoadhesive drugs are released.
+als and Methods
+elivery systems comprising tablets or capsules containing a mucoadhesive polymer were designed to deliver the polymer to the intestine in dry powder form. Dry Gd-DTPA [diethylenetriaminepentaacetic acid gadolinium(III) dihydrogen salt hydrate] powder was added to the mucoadhesive polymer, resulting in a susceptibility artifact that allows tracking of the application forms before their disintegration and that gives a strong positive signal on disintegration. Experiments were performed with rats using T1-weighted spin-echo imaging on a standard 1.5-T MRI system.
+s
+sceptibility artifact produced by the dry Gd-DTPA powder in tablets or capsules was clearly visible within the stomach of the rats and could be followed during movement towards the intestine. Upon disintegration, a strong positive signal was unambiguously observed. The time between ingestion and observation of a positive signal was significantly different for different application forms. Quantification of the remaining mucoadhesive polymer in the intestine 3 h after observed release showed significant differences in mucoadhesive effectiveness.
+sion
+lows detection of the exact time of release of the mucoadhesive polymer in vivo, which is a prerequisite for a reliable quantitative comparison between different application forms.

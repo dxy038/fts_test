@@ -1,0 +1,1 @@
+A relaxation defining the class of Dini convex functions leads to a new class of generalized Dini convex functions. Several theorems on sufficiency and duality for nonsmooth multiobjective programming are established under the assumption that the objective functions and constraint functions are of these generalized Dini convexity.

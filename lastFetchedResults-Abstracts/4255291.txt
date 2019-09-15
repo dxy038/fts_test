@@ -1,0 +1,1 @@
+A novel approach for generating optimal flight paths for a swarm of missiles using an on-line, noise-aware, multi-objective evolutionary algorithm is introduced. The trajectory shape is controlled by flying via intermediate points which are adjusted dynamically by the evolutionary algorithm, then towards the point of impact with the target

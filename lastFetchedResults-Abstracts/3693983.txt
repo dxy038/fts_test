@@ -1,0 +1,1 @@
+We elaborated a time-domain bidirectional beam propagation method able to efficiently model ultrashort pulse propagation in quadratic multilayered devices. This novel numerical tool permits us to identify the reasons that determine the reduction of second-harmonic generation efficiency as the pump pulses duration decreases.

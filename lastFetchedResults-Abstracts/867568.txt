@@ -1,0 +1,8 @@
+In this paper we consider a two-machine flow shop scheduling problem with effects of deterioration and
+learning. By the effects of deterioration and learning, we mean that the processing time of a job is a function
+of its execution starting time and its position in a sequence. The objective is to find a sequence that
+minimizes the total completion time. Optimal solutions are obtained for some special cases. For the general
+case, several dominance properties and some lower bounds are derived, which are used to speed up
+the elimination process of a branch-and-bound algorithm. A heuristic algorithm is also proposed, which
+is shown by computational experiments to perform effectively and efficiently in obtaining near-optimal
+solutions.

@@ -1,0 +1,8 @@
+SummaryObjective
+alized medicine is defined by the use of genomic signatures of patients in a target population for assignment of more effective therapies as well as better diagnosis and earlier interventions that might prevent or delay disease. An objective is to find a novel classification algorithm that can be used for prediction of response to therapy in order to help individualize clinical assignment of treatment.
+s and materials
+fication algorithms are required to be highly accurate for optimal treatment on each patient. Typically, there are numerous genomic and clinical variables over a relatively small number of patients, which presents challenges for most traditional classification algorithms to avoid over-fitting the data. We developed a robust classification algorithm for high-dimensional data based on ensembles of classifiers built from the optimal number of random partitions of the feature space. The software is available on request from the authors.
+s
+oposed algorithm is applied to genomic data sets on lymphoma patients and lung cancer patients to distinguish disease subtypes for optimal treatment and to genomic data on breast cancer patients to identify patients most likely to benefit from adjuvant chemotherapy after surgery. The performance of the proposed algorithm is consistently ranked highly compared to the other classification algorithms.
+sion
+atistical classification method for individualized treatment of diseases developed in this study is expected to play a critical role in developing safer and more effective therapies that replace one-size-fits-all drugs with treatments that focus on specific patient needs.

@@ -1,0 +1,9 @@
+Objective:
+Heat-mediated ELISA (HELISA) technique has been reported to shorten ELISA timings and has major clinical implications in diagnostic field [Bora U, Kannan K, Nahar P. Heat mediated enzyme linked immunosorbent assay. J Immunol Methods 2004; 293: 43–50]. Objective of this study is to find out whether anti-MBL autoantibody can be detected rapidly by HELISA technique.
+Design and methods:
+Activated polystyrene microtiter plate was prepared by a photolinker in a photochemical reaction carried out over a period of 10 min. Lectin was covalently immobilized onto the activated plate at 50 °C in 45 min. Antigenicity of the immobilized lectin was checked by HELISA carried out at elevated temperature (50 °C). The result was further compared with that obtained by conventional ELISA method carried out on an untreated plate over an incubation period of 18 h.
+Results:
+Autoantibody detection carried out by HELISA method (intra- and inter-assay CVs were < 9.8%) in 2 h 45 min gives absorbance value comparable to that of conventional ELISA (intra- and inter-assay CVs were < 12%) carried out in 18 h in RA patients and healthy controls (n = 100). HELISA on a photoactivated surface showed 1.5-fold higher absorbance than those obtained on untreated surface (p = 0.00019). The HELISA method is more sensitive (AUC = 0.967, 95% CI = 0.948–0.987) and can be used to detect autoantibody even at higher dilution than by conventional assay. Excellent correlation was observed when autoantibodies were detected by HELISA and conventional ELISA (R = 0.9706).
+Conclusion:
+The present method provides rapid and sensitive detection of autoantibody in rheumatoid arthritis patients. The method is precise and reliable similar to method currently used in diagnostics and could be potentially useful for other immunoassays.
+

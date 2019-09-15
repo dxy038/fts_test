@@ -1,0 +1,1 @@
+A nonparametric multidimensional search method that is based on ranking the functional evaluations is proposed for constrained global optimization. The method yields favorable results on three standard 2D and 3D test functions. A fundamental property of the search method is that it gives equivalent results for any monotonic transformation of the objective function

@@ -1,0 +1,26 @@
+In this paper, a Problem of simultaneous and
+coordinated tuning of the PID type Power System
+Stabilizer (PSS) and Automatic Voltage Regulators
+(AVR) gains in a Single-Machine connected to Infinite-
+Bus (SMIB) power system is invastigated. The problem
+of robustly stabilizer parameters and AVR gain tunning is
+formulated as a nonlinear optimization problem
+according to the time domain-based objective function for
+a wide range of operating conditions and is solved by the
+Gravitational Search Algorithm (GSA) for improvement
+of power system low frequency oscillations. The GSA
+optimization technique is simple, robust and capable to
+solve difficult combinatorial optimization problems. It
+simulates the masses cooperate using a direct form of
+communication through gravitational force and has a
+strong ability to successful control the local search and
+convergence to the global optimum solution. The
+effectiveness of the proposed method is tested on a SMIB
+power system through the nonlinear time domain
+simulation and some performance indices in comparison
+with the some version of PSO based approaches to
+illustrate its robust performance. Results evaluation
+indicate that the proposed GSA based coordinated PID
+type stabilizer and AVR achieves good robust
+performance for wide range of system operation
+conditions and is superior to the other methods.

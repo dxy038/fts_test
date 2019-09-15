@@ -1,0 +1,1 @@
+We demonstrate a bidirectional ROF system using a separate optical-clock distribution to mitigate signal-fading and code time-shifting. Error-free signal remodulation using downlink DPSK and uplink OOK was achieved in a 20-km reach ROF system.

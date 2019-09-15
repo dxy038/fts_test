@@ -1,0 +1,7 @@
+Objective. The aim of the present work is the analysis of mobility of human dentition under the action of physiological short-term loading by using a numerical approach. The mobility of tooth is mainly attributed to the deformation of the periodontal ligament, hence particular attention is focused on the definition of a suitable constitutive model for this soft tissue.
+
+Methods. A numerical model of human upper incisor and periodontum is proposed by means of the finite element method. The mechanical response of the most deformable constituent, i.e. the periodontal ligament, is described by using a hyperelastic constitutive model.
+
+Results. Numerical analyses show an effective correspondence with in vivo experimental tests, in literature, on tooth mobility caused by the application of intrusive loads. The model proves to offer valid results, leading to a general, reliable and efficient numerical approach.
+
+Significance. The hyperelastic approach allows the description of the mechanical response of the periodontum under short lasting loads, according to the characteristic non-linear behavior of the PDL. This approach overcomes the approximation caused by the adoption of simplified models, widely reported in literature, and leads to a valid definition of tooth movement by means of an effective numerical procedure.

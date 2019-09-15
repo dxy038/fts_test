@@ -1,0 +1,11 @@
+Objective
+The AML/RUNX family of transcription factors plays important roles in hematopoiesis, neurogenesis, bone development, and segmentation in vertebrate embryos. The aim of this study was to isolate runt-related genes in a genetically and embryologically exploitable system, the zebrafish, and characterize their function during hematopoietic development.
+Materials and Methods
+
+Two runt-related genes were isolated by degenerate PCR and standard library screening, and a radiation hybrid panel, T51 RH, was used to resolve their chromosomal localization. In situ hybridization demonstrated their expression whereas their transcriptional activity was assessed using an AML1-responsive reporter gene in the MLA 144 T-cell line.
+Results
+
+We isolated the zebrafish runxa and runxb cDNAs, which encode proteins highly homologous to the human and murine Runx1 (AML1) and Runx3 (AML2) proteins. In contrast to a recent report, we detected runxa expression in both hematopoietic and neural tissues of the developing zebrafish. runxa transcripts first appear during segmentation in bilateral mesodermal cells that coexpress one of the earliest blood and endothelial cell markers, scl/tal-1. By 24 hours postfertilization (hpf), runxa transcripts are seen in the ventral wall of the dorsal aorta. Hematopoietic runxa expression is lost in cloche mutants, which are defective in blood and endothelial cell formation. runxb transcripts are seen in nonhematopoietic domains. Both Runxa and Runxb transactivate an AML1-responsive human promoter in hematopoietic cells. Genomic localization studies demonstrate that runxa is located on linkage group 1 (LG1), and the runxb gene is located on LG13.
+Conclusions
+
+Our gene expression analysis strongly suggests that both the functional and spatial aorta-gonad-mesonephros (AGM) region has been conserved throughout evolution. Our runxa spatiotemporal expression data shed light on the role of vertebrate Runx1/AML1 in primitive vs definitive hematopoietic development.

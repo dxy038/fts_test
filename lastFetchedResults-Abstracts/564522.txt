@@ -1,0 +1,9 @@
+Background: Over recent decades, modern protocols of external beam radio therapy and radiation techniques such as intensity-modulated radiotherapy (IMRT) have been developed. These methods are extremely sensitive to errors in treatment delivery, so that it is essential to apply a high resolution 3D dosimetry system that has high sensitivity and is capable of measuring and verifying the complex delivery. The ferrous-agarose-xylenol orange (FAX) gels the material properties of which are changed when irradiated have been suggested for such use. 
+
+Objective: In this study a FAX gel dosimeter was examined for dose linearity for photon and electron beams. 
+
+Methods: FAX gel was prepared using 0.4 mM (FAS), Fe (NH4)2(SO4)2•6H2O of analytical grade, 25 mM H2SO4 98%, 0.2 mM (XO) xylenol orange-sodium salt, 1% by weight of agarose gel powder and the remaining mass of the solution being highly pure deionized water. FAX gels were exposed to doses up to 20 Gy using 9 MV photon and 6 MeV electron beams by Neptun LINAC. Some general characteristics of FAX such as optical absorbance-dose relationship, sensitivity and reproducibility were analyzed. 
+
+Results: Although the measurements showed linearity in optical absorbance-dose relationship up to 18 Gy for photons and electrons, oxidation processes continued post-irradiation and storage conditions such as temperature and light affected the response of this dosimeter. The best composition by high sensitivity and stability of dosimeter was found to be 0.4 mM FAS, 0.2 mM XO and 25 mM H2SO4. 
+
+Conclusion: The above-mentioned FAX gel and UV-visible spectrophotometry as a reader are a sensitive and cheap dosimetry system for radiotherapy.

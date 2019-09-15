@@ -1,0 +1,12 @@
+Objective
+The aim of the study was to determine the frequency and nature of errors in computer electrocardiogram (ECG) reading.
+Methods
+
+The ECGs were collected in the tertiary care VA Hospital from both inpatients and outpatients. They were read by the electrocardiograph built-in computer software, and then reread by two cardiologists. Statistical analysis was performed using sensitivity, specificity, positive and negative predicted value to analyze the data. An error index was formulated as indicator of diagnostic accuracy.
+Results
+
+Out of 2072 ECGs, 776 (37.5%) were normal, and 1296 (62.5%) were abnormal. In 9.9% of all ECGs and in 15.9% of abnormal ECGs there were significant disagreements between the computer and cardiologists. The errors in diagnosis of arrhythmia, conduction disorders and electronic pacemakers accounted for 178 cases, or 86.4% of all errors. The rest was represented by misdetection of chamber enlargement (7 cases, 3.4%), misdiagnosis of ischemia and acute myocardial infarction (16 cases, 7.8%), and lead misplacement (5 cases, 2.4%).
+Conclusions
+
+The most frequent errors in computer ECG interpretation are related to arrhythmias, conduction disorders, and electronic pacemakers. Computer ECG diagnosis of life threatening conditions e.g. acute myocardial infarction or high degree AV blocks are frequently not accurate (40.7% and 75.0% errors, respectively). Improvement in the diagnostic algorithms should focus on these areas. Error index is a convenient and informative tool for evaluation of diagnostic accuracy.
+

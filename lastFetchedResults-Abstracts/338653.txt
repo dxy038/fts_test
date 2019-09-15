@@ -1,0 +1,11 @@
+Objective
+We previously demonstrated the presence of nucleoside diphosphate kinase NDPK/NM23 in normal human plasma. It also was reported that extracellular NM23 could inhibit differentiation of certain hematopoietic cell lines. We further investigated the extracellular effect of NM23 on hematopoiesis by adding recombinant NM23-H1, NM23-H2, and NM23-H3 proteins to in vitro differentiation assays of normal human hematopoietic progenitors.
+Materials and Methods
+
+To study the effect on the earlier stages of hematopoietic maturation, NM23 was added to serum-free pre–colony-forming unit (pre-CFU) assays starting from immature CD34++CD38− bone marrow cells. Serum-free CFU assays starting from CD34+ CD38+ bone marrow cells were used as a model for terminal hematopoietic differentiation.
+Results
+
+In pre-CFU assays, none of the NM23 isoforms used significantly changed the expansion of CD34++CD38− cells, nor did NM23 alter the CD34++ CD38− cell lineage commitment. In contrast, terminal differentiation of CD34+CD38+ progenitor cells in CFU assays was significantly altered by addition of NM23 protein. More erythroid burst-forming units and fewer macrophage colonies were observed in cultures containing any of the NM23 isoforms examined. Similar effects were observed using the enzymatically inactive H118N mutant of NM23-H1, strongly suggesting that the observed effect is independent of the nucleoside diphosphate kinase activity of NM23.
+Conclusion
+
+We demonstrated a modulating effect of extracellular NM23 proteins on the terminal stages of normal hematopoietic differentiation. Therefore, the fairly high concentrations of NM23 constitutively present in plasma could have a physiologic role in supporting erythropoiesis and inhibiting excessive macrophage formation.

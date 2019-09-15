@@ -1,0 +1,11 @@
+Objective
+In this study, we applied a novel procedure to calculate the mean frequency from the Magnetoencephalography (MEG) signals of 22 patients with Alzheimer's Disease (AD), 22 patients with mild cognitive impairment (MCI), and 21 healthy controls. A significant mean frequency decrease was expected in pathological groups. MCI subjects are expected to show intermediate mean frequency values between AD patients and controls.
+Methods
+MEG signal was obtained from a whole-head 148 channels magnetometer in a resting condition. We estimated the power spectral density from the MEG signal by means of the Fourier transform of the autocorrelation function. Then, we computed the mean frequency for each subject.
+Results
+Mean frequency was higher in controls (12.46±2.00 Hz, mean±SD) than in MCI subjects (10.82±2.21 Hz) with significant differences (P<0.05). Moreover, mean frequency values in MCI subjects were higher than in AD patients (9.06±2.48 Hz, P<0.05). We also detected a decrease of 0.17 Hz per year in mean frequency from normal subjects' MEG (P<0.05)
+Conclusions
+Results demonstrated that the approach adopted for the calculation of a mean frequency score seems to be adequate and sensitive to detect differences between normal aging, cognitive deterioration and AD. In addition, data may contribute to the theoretical discussion on the nature of mild cognitive impairment and its similitudes with Alzheimer's disease.
+Significance
+This paper may be considered a first step to obtain a reliable measure which summarizes spectral information, and might be of a potential clinical interest.
+

@@ -1,0 +1,11 @@
+Objective. To evaluate the physical characteristics (durability, calibration, creep and hysteresis) and the accuracy and repeatability of the F-Scan in-shoe sensor.
+
+Design. Observations of the system in clinical use combined with material bench-test experiments.
+
+Background. The F-Scan system is a commercially produced in-shoe force/pressure measurement system. Whilst useful clinical studies have been reported there is little information on the performance characteristics of the system.
+
+Methods. Output mass error following calibration was directly measured from the F-Scan system. A jig-mounted force meter tested groups of individual sensing units (4 @ 1 cm−2) for within and between sensor accuracy in full size and adjusted sensors. An Instron servohydraulic materials testing unit was used to evaluate creep, hysteresis and the repeatability of ouput forces over repeated loading cycles for full size and cut sensors.
+
+Results. The F-Scan system lacks durability and suffers significant calibration error. Creep (19%) and hysteresis (21%) properties were poor. Within and between sensor variability in output was demonstrated and overall repeatability was poor. Adjusting the sensor size adversely affects output.
+
+Conclusions. Our findings suggest the F-Scan system has a limited capability for absolute accuracy but could still be used for quantitative studies provided its limitations are noted.

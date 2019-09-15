@@ -1,0 +1,11 @@
+One of the most important subjects in designing the large scale logistics network in
+crisis time is providing a timely quick reaction for treating injured people and rapid
+distribution of medicines and medical equipment. In this paper, a multi-objective model
+is presented that aims to determine the location of transfer points and hospitals to
+provide timely quick reaction for treating injured people as well as to determine
+unreliable and reliable depots for the distribution of medicines and medical equipment.
+Because the dynamic nature of great crises, the parameters of the model are uncertain
+and dynamic. To solve the model, a hybrid meta-heuristic algorithm is proposed which
+is composed of simulated annealing algorithm and CPLEX. By comparing the results,
+the proposed meta-heuristic hybrid algorithm shows a good and efficient performance. 
+

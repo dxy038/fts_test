@@ -1,0 +1,7 @@
+Background and Objective: In dosimetric calculation, it is desirable to represent the actual electron beam as originating from a virtual point source in vacuum so that the inverse square law can be applied. Therefore in this research with dosimetry of different treatment fields for different energy of electron beams the position of virtual source for electron beams is determined and one can use the inverse square rule for this electrons as the photons. Materials and Methods: In this work, the source position of electron beams (s vir) from a Varian clinac 2100 CD for different field sizes at different energies was determined by use of elastic scattering theory and dosimetry data.
+
+Results: With a parallel plate chamber PPC40 in a 50x50x50cm3, phantom and Omini-pro accept software the depth dose profiles of 6x6, 10x10, 15x15, 20x20 and 25x25 cm2 applicators in different energies (6,9,12 and 15 Mev) for treatment electron beams determined. From the dose profile of maximum depth and multiple scattering rules of electrons from the target the position of virtual source of electron beams for each applicator in different energy were obtained. The obtained results from this method showed a dependence on energy and field size for S vir.
+
+Conclusions: The position of S vir  is a function of dimension of treatment field and energy. In larger treatment fields and higher energies this distance is longer. Sci Med J 2011; 10(3): 281-287
+
+

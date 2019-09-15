@@ -1,0 +1,1 @@
+We establish the convergence of the min-sum message passing algorithm for minimization of a quadratic objective function given a convex decomposition. Our results also apply to the equivalent problem of the convergence of Gaussian belief propagation.

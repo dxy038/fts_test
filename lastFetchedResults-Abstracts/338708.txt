@@ -1,0 +1,11 @@
+Objective
+Recent reports have indicated that monocytes express receptors for the granulocyte colony-stimulating factor (G-CSF). The direct effects of G-CSF on cytokine secretion in monocytes were examined.
+Materials and Methods
+
+A monocytic cell line NOMO-1 that secretes multiple cytokines upon stimulation with lipopolysaccharide (LPS) was used. Normal human monocytes were purified by negative selection using magnetic beads. Cells pretreated with or without G-CSF were stimulated with LPS, and the subsequent concentrations of cytokines and chemokines in supernatants were determined by sandwich enzyme-linked immunosorbent assay.
+Results
+
+NOMO-1 cells were found to express receptors for G-CSF. Although G-CSF stimulation did not induce cytokine secretion, pretreatment with G-CSF significantly attenuated LPS-stimulated secretion of the proinflammatory cytokines tumor necrosis factor-α and interleukin (IL)-12 in NOMO-1 cells. Simultaneously, however, G-CSF pretreatment apparently enhanced LPS-induced secretion of IL-10 and monocyte chemoattractant protein-1, whereas secretions of IL-1β, IL-6, and IL-8 were unaffected. When normal human monocytes from healthy volunteers were similarly examined, marked individual variations in LPS-induced secretion of cytokines were observed. Although some exceptions exist, a similar tendency as to the effects of G-CSF treatment on cytokine secretions as that in NOMO-1 cells was observed in human monocytes.
+Conclusions
+
+Our data suggest that G-CSF directly affects monocytes and modulates their cytokine secretion. NOMO-1 cells can provide an alternate model for in vitro culture of monocytes to investigate the effects of G-CSF on cytokine secretion by these cells.

@@ -1,0 +1,11 @@
+Objective
+Mesenchymal stem cells (MSCs) are multipotent cells that are capable of differentiating into multilineages of the mesenchyme. MSCs were shown to have immune-modulating properties in vitro and were successfully used in vivo for controlling graft-versus-host disease, skin rejection, and modulation of inflammation. Our previous study suggested that human MSCs (hMSCs) block antigen-presenting cell (APC) maturation in a contact-dependent manner as well as induce the expression of the anti-inflammatory cytokine, interleukin-10 (IL-10). However, the molecular mechanisms that block initiation of immune responses by MSCs remains to be investigated.
+Methods
+
+A coculture system of hMSCs and APCs was used to study Signal Transducer and Activators of Transcription-3 (STAT3) activation using nonradioactive STAT3 transcription factor assay, flow cytometric immunostaining, and Western blotting.
+Results
+
+We show that the transcription factor STAT3 is constitutively activated in hMSCs, and upon coculturing with APCs, there is a significant increase in its activity in both cell types. This increase in STAT3 activity is independent of soluble factor(s) and requires cell–cell contact. Importantly, blocking STAT3 signaling in the APCs by specific inhibitors resulted in reduced IL-10 expression and reversal of hMSC-mediated inhibition of proinflammatory cytokines.
+Conclusion
+
+These findings suggest that APC's STAT3 plays a key role in mediating the immunomodulatory effects of hMSCs. Moreover, the induction of STAT3 signaling by hMSCs is mediated by a novel mechanism involving cell–cell interaction rather than the classical mechanism of induction by cytokines.

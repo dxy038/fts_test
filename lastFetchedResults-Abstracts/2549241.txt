@@ -1,0 +1,24 @@
+Objective: Druggability of a target protein depends on the interacting micro-environment
+between the target protein and drugs. Therefore, a precise knowledge of the interacting
+micro-environment between the target protein and drugs is requisite for drug discovery
+process. To understand such micro-environment, we performed in silico interaction analysis
+between a human target protein, Dipeptidyl Peptidase-IV (DPP-4), and three anti-diabetic
+drugs (saxagliptin, linagliptin and vildagliptin).
+Materials and Methods: During the theoretical and bioinformatics analysis of micro-environmental
+properties, we performed drug-likeness study, protein active site predictions,
+docking analysis and residual interactions with the protein-drug interface. Micro-environmental
+landscape properties were evaluated through various parameters such as binding
+energy, intermolecular energy, electrostatic energy, van der Waals’+H-bond+desolvo
+energy (EVHD) and ligand efficiency (LE) using different in silico methods. For this study, we
+have used several servers and software, such as Molsoft prediction server, CASTp server,
+AutoDock software and LIGPLOT server.
+Results: Through micro-environmental study, highest log P value was observed for linagliptin
+(1.07). Lowest binding energy was also observed for linagliptin with DPP-4 in the
+binding plot. We also identified the number of H-bonds and residues involved in the hydrophobic
+interactions between the DPP-4 and the anti-diabetic drugs. During interaction, two
+H-bonds and nine residues, two H-bonds and eleven residues as well as four H-bonds and
+nine residues were found between the saxagliptin, linagliptin as well as vildagliptin cases
+and DPP-4, respectively.
+Conclusion: Our in silico data obtained for drug-target interactions and micro-environmental
+signature demonstrates linagliptin as the most stable interacting drug among the
+tested anti-diabetic medicines.

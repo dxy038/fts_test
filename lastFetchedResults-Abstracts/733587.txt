@@ -1,0 +1,11 @@
+Objective
+To evaluate the joint effect of cigarette smoking and alcohol consumption on mortality.
+Methods
+
+A population-based cohort of 66,743 Chinese men aged 30–89 in Shanghai, China recruited from 1996 to 2000. Lifestyle data were collected using structured questionnaires. As of November 2004, follow-up for the vital status of 64,515 men was completed and death information was further confirmed through record linkage with the Shanghai Vital Statistics Registry. Associations were evaluated by Cox regression analyses.
+Results
+
+2514 deaths (982 from cancers, 776 from cardiovascular diseases (CVD)) were identified during 297,396 person-years of follow-up. Compared to never-smokers, both former and current smokers had significantly elevated mortality from any cause, CVD, and cancer; risk increased with amount of smoking. Intake of 1–7 drinks/week was associated with reduced risk of death, particularly CVD death (hazard ratio (HR): 0.7, 95% confidence interval (CI): 0.5, 1.0), whereas intake of > 42 drinks/week was related to increased mortality, particularly cancer-related death (HR: 1.7, 95% CI: 1.1, 2.5). The HR for total mortality associated with moderate alcohol consumption increased from 0.8 (95% CI: 0.6, 1.0) for non-smokers to 1.0 (0.9, 1.2) for moderate smokers and 1.4 (95% CI: 1.2, 1.7) for heavy smokers. Heavy drinkers and heavy smokers had the highest mortality (HR: 1.9, 95% CI: 1.6, 2.4).
+Conclusions
+
+Light and moderate alcohol consumption reduced mortality from CVD. This beneficial effect, however, was offset by cigarette smoking.

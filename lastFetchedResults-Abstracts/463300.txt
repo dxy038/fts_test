@@ -1,0 +1,11 @@
+Background
+In 1998, the United States Department of Defense initiated the Anthrax Vaccine Immunization Program. Concerns about vaccine-related adverse health effects followed, prompting several studies. Although some studies used self-reported vaccination data, the reliability of such data has not been established. The purpose of this study was to compare self-reported anthrax vaccination to electronic vaccine records among a large military cohort and to evaluate the relationship between vaccine history and health outcome data.
+Methods
+
+Between September 2005 and February 2006 self-reported anthrax vaccination was compared to electronic records for 67,018 participants enrolled in the Millennium Cohort Study between 2001 and 2003 using kappa statistics. Multivariable modeling investigated vaccination concordance as it pertains to subjective health (functional status) and objective health (hospitalization) metrics.
+Results
+
+Greater than substantial agreement (kappa=0.80) was found between self-report and electronic recording of anthrax vaccination. Of all participants with electronic documentation of anthrax vaccination, 98% self-reported being vaccinated; and of all participants with no electronic record of vaccination, 90% self-reported not receiving a vaccination. There were no differences between vaccinated and unvaccinated participants in overall measures of health. Only the subset of participants who self-reported anthrax vaccination, but had no electronic confirmation, differed from others in the cohort, with consistently lower measures of health as indicated by Medical Outcomes Study 36-Item Short Form Health Survey for Veterans (SF-36V) scores.
+Conclusions
+
+These results indicate that military members accurately recall their anthrax vaccinations. Results also suggest that anthrax vaccination among Millennium Cohort participants is not associated with self-reported health problems or broad measures of health problems severe enough to require hospitalization. Service members who self-report vaccination with no electronic documentation of vaccination, however, report lower measures of physical and mental health and deserve further research.

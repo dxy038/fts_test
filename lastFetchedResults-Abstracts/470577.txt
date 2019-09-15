@@ -1,0 +1,9 @@
+Objective
+The transition from myometrial quiescence to activation is poorly understood, and the analysis of array data is limited by the available data mining tools. We applied functional analysis and logical operations along regulatory gene networks to identify molecular processes and pathways underlying quiescence and activation.
+Study design
+We analyzed some 18,400 transcripts and variants in guinea pig myometrium at stages corresponding to quiescence and activation, and compared them to the nonpregnant (control) counterpart using a functional mapping tool, MetaCore (GeneGo, St Joseph, MI) to identify novel gene networks composed of biological pathways during mid (MP) and late (LP) pregnancy.
+Results
+Genes altered during quiescence and or activation were identified following gene specific comparisons with myometrium from nonpregnant animals, and then linked to curated pathways and formulated networks. The MP and LP networks were subtracted from each other to identify unique genomic events during those periods. For example, changes 2-fold or greater in genes mediating protein biosynthesis, programmed cell death, microtubule polymerization, and microtubule based movement were noted during the transition to LP.
+Conclusion
+We describe a novel approach combining microarrays and genetic data to identify networks associated with normal myometrial events. The resulting insights help identify potential biomarkers and permit future targeted investigations of these pathways or networks to confirm or refute their importance.
+

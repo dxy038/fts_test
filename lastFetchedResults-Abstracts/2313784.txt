@@ -1,0 +1,7 @@
+Abstract 
+     The existing literature on product development process is largely derived from studies on physical products. However, software products have some special features that make them interesting to study. The objective of this paper is to identify stages of software product development and to analyze the interactions among these stages using interpretive structural modeling technique. Eight main stages including analyze market opportunities, idea   processing, concept generation, design development, prototype engineering, production verification, mass production and corrective versions development have been identified. These stages have been classified, based on their driving power and dependence power. The proposed process model developed will help to understand interdependence of software development stages and will offer a roadmap that may increase the chance for overall success of the new software development. 
+
+Keywords: New Product Development; Software Development; Process Model; Interpretive Structural Modeling.
+
+
+

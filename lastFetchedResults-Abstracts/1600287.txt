@@ -1,0 +1,10 @@
+In the present paper, an approach is proposed for structural topology optimization based on
+combination of Radial Basis Function (RBF) Level Set Method (LSM) with Isogeometric
+Analysis (IGA). The corresponding combined algorithm is detailed. First, in this approach, the
+discrete problem is formulated in Isogeometric Analysis framework. The objective function
+based on compliance of particular locations of materials in the structure is used and find the
+optimal distribution of material in the domain to minimize the compliance of the system under
+a volume constraint. The refinement is employed for construction of the physical mesh to be
+consistent with the mesh is used for level set function. Then a parameterized level set method
+with radial basis functions (RBFs) is used for structural topology optimization. Finally, several
+numerical examples are provided to confirm the validity of the method.

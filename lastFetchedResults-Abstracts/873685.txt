@@ -1,0 +1,8 @@
+It is known that the entire function  `ns0 yz.nqn ny1.r2rn!, qg 0, 1., has
+infinitely many positive but no other zeros in the complex plane. A number of
+conjectures on these zeros have been made by Morris, Feldstein, and Bowen and
+by Iserles. The main objective of this note is to establish some connection among
+these conjectures and to prove the following estimates:
+tnq1 1 tnq1 1 lim inf G , lim sup F , nª` tn q nª` tn q2
+where t0, t1, . . . are the zeros in monotonic increasing order. Some identities
+involving those zeros are proved by using Hadamard’s factorisation theorem.

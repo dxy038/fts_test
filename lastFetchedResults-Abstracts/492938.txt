@@ -1,0 +1,15 @@
+Results of studies in dairy cattle about the magnitude of the genotype–environment interaction (GEI) are variable, depending on
+the definitions of genotype and environment. Therefore, the objective of this study was to determine the magnitude of the
+interaction of genotype and feeding system (confinement and grazing) in the Mexican genetic evaluation of Jersey cattle for milk
+yield. The number of lactations and animals in the pedigree used were 5122 and 18 432. An animal model and the MTDFREML
+program were used to estimate genetic parameters and predict genetic values of the animals. Bivariate analysis was carried out
+considering the performance of confined and grazing cows as two different traits. Three indicator variables were used to assess
+GEI: (i) magnitude of the genetic correlation coefficients, (ii) correlation between predicted breeding values and (iii) frequency
+of coincidence in the ranking of top sires. The magnitude of GEI depended on the choice of the indicator variable. The estimate
+of genetic correlation coefficient less than unity (0.76; P,0.05) suggested the presence of biologically important GEI. The
+differences in phenotypic averages and variances between confinement and grazing systems seem to be the main causes for
+the genotype by environment interaction detected. However, the correlation coefficient between breeding values from confined
+and grazing animals (0.96) and the frequency of coincidence between breeding values of common sires within the top 100 in
+confinement and grazing (0.86) indicated low-to-moderate re-ranking of animals or top sires. In addition, the high correlations
+between predicted breeding values of Mexican genetic evaluation and the two environments (0.99 and 0.93 for confinement
+and grazing) indicated that for the two feeding systems, breeding values from national analyses could be safely used.

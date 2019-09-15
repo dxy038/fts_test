@@ -1,0 +1,11 @@
+Background
+Firearm-related injuries are a serious public health problem in the United States. Despite the magnitude of this problem, prior national estimates of nonfatal, firearm-related morbidity have been limited to an emergency department–based surveillance system. The objective of this study was to assess and report the information available on firearm-related injuries in an existing national database, derived from hospital discharge data.
+Methods
+
+Cross-sectional analysis of the 1997 Nationwide Inpatient Sample (NIS), a stratified probability sample of 1012 nonfederal community hospitals from 22 states. The database was queried using E codes to identify firearm-related injuries. The SUDAAN software program was used to convert raw counts into weighted counts that represent national estimates and 95% confidence intervals (CIs).
+Results
+
+An estimated 35,810 (95% CI, 32,615–38,947) cases nationwide were identified, of which 86% were male. Assault was the leading cause of firearm-related hospitalization, followed by unintentional injury. The mean length of stay (LOS) for patients with a firearm-related assault was 6 days. Seven percent of all firearm cases died during the hospitalization. The total estimated hospital charges for firearm-related injuries in the United States in 1997 was over $802 million, and 29% of the patients admitted for this condition were uninsured.
+Conclusions
+
+Firearm-related injuries rank highest among all conditions in the number of uninsured hospital stays, and the average LOS is much longer compared to other medical conditions. National estimates derived from the NIS are consistent with previous estimates, and NIS provides additional information not available from other data sources.

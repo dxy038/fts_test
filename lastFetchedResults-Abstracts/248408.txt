@@ -1,0 +1,29 @@
+The main objective of the paper is the investigation of adiabatic shear band localized fracture phenomenon
+in inelastic solids during dynamic loading processes. This kind of fracture can occur as a result of an
+adiabatic shear band localization generally attributed to a plastic instability implied by microdamage and
+thermal softening during dynamic plastic ßow processes.
+By applying ideas of synergetics it can be shown that as a result of instability hierarchies a system is
+self-organized into a new shear band pattern system. This leads to the conclusion that inelastic solid body
+considered during the dynamics process becomes a two-phase material system. Particular attention is
+focussed on attempt to construct a physically and experimentally justiÞed localized fracture theory that
+relates the kinetics of material failure on the microstructural level to continuum mechanics. The description
+of the microstructural damage process is based on dynamic experiments with carefully controlled load
+amplitudes and duration. The microdamage process has been treated as a sequence of nucleation, growth
+and coalescence of microcracks. The microdamage kinetics interacts with thermal and load changes to make
+failure of solids a highly rate, temperature and history-dependent, non-linear process.
+The theory of thermoviscoplasticity is developed within the framework of the rate-type covariance
+material structure with a Þnite set of internal state variables. The theory takes into consideration the e¤ects
+of microdamage mechanism and thermomechanical coupling. The dynamic failure criterion within localized
+shear band region is proposed. The relaxation time is used as a regularization parameter. Rate dependency
+(viscosity) allows the spatial di¤erential operator in the governing equations to retain its ellipticity, and the
+initial-value problem is well-posed. The viscoplastic regularization procedure assures the unconditionally
+stable integration algorithm by using the Þnite element method. Particular attention is focused on the
+well-posedness of the evolution problem (the initialÐboundary value problem) as well as on its numerical
+solutions. Convergence, consistency and stability of the discretized problem are discussed. The Lax
+equivalence theorem is formulated and conditions under which this theorem is valid are examined.
+Utilizing the Þnite element method and ABAQUS system for regularized elastoÐviscoplastic model the
+numerical investigation of the three-dimensional dynamic adiabatic deformation in a particular body at
+nominal strain rates ranging over 103Ð104 s~1 is presented. A thin shear band region of Þnite width which
+undergoes signiÞcant deformation and temperature rise has been determined. Its evolution until occurrence
+of Þnal fracture has been simulated. Numerical results are compared with available experimental observation
+data

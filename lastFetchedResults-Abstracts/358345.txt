@@ -1,0 +1,11 @@
+Objective
+We examined differences in transport times for patients with chest pain who used private transportation compared with patients who used emergency medical services (EMS) to reach definitive medical care.
+Methods
+
+This was a retrospective cohort study with data used from the Rapid Early Action for Coronary Treatment (REACT) trial conducted in 20 US cities. Elapsed time to care was examined through the use of (1) decision to seek care to initial care (emergency department [ED] arrival versus EMS arrival on scene [n=1209]); (2) decision to ED arrival (for both groups [n=2388]); (3) time to thrombolytic therapy once admitted to the ED (for both groups [n=309]); and (4) decision to seek care to thrombolytic therapy (n=276). Elapsed travel times were ranked within Zip Codes and submitted to a nested analysis of variance model to determine if elapsed times were different between modes of transport.
+Results
+
+Private transportation (35 minutes) resulted in faster ED arrival than using EMS (39 minutes, P = .0014). However, if one considers EMS treatment to be initial care, calling 9-1-1 (6 minutes) resulted in much quicker care than patients using private transportation to the ED (32 minutes, P < .001). Transport by EMS resulted in a shorter elapsed time to thrombolytic administration compared with patients using private transportation when considering ED “door-to-needle” time (32 vs 49 minutes, respectively [P < .001]) or time from decision to seek care until administration of thrombolytic therapy (75 vs 92 minutes, respectively, [P = .042]).
+Conclusions
+
+Although private transportation results in a faster trip to the ED, quicker care is obtained with the use of EMS.

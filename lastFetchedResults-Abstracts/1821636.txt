@@ -1,0 +1,8 @@
+Objective
+udy was aimed to provide insights into genes governing the early stages of cell proliferation ability alteration and mechano-response in human periodontal ligament cells (PDLCs) induced by short-term cyclic tensile stress.
+als and methods
+y human PDLCs were subjected to cyclic tensile stress (0.5 Hz, 5000 μstrain) for 2 h through a four-point bending strain system. After that, cell viability and proliferation ability were examined by MTT [3(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide] assay and flow cytometry. Furthermore, the gene expression profile was investigated by microarray analysis, and the reliability of which was verified by quantitative RT-PCR.
+s
+say and flow cytometry demonstrated that mechanical stress inhibited functional expression and slowed down proliferation of cells. Microarray analysis showed that 110 genes related to cyclic tensile stress were identified in total. Amongst them, ninety-seven were up-regulated, whilst 13 were down-regulated. Eleven genes (KLF10, ETS1, CKS2, DUSP6, KIF23, MAPK6, SERTAD1, IRF1, MAPRE1, CCNB1 and BCAR3) regarding cell cycle arrest were identified. Seven up-regulated genes (PTGS2, KLF10, CDC42EP2, BHLHB2, SPRY2, IER3 and CCL2) were verified by quantitative RT-PCR, which supported the microarray results.
+sion
+ycle arrest and the slow-down proliferation can benefit PDLCs to have more time to respond to mechanical stimuli, and the differential gene expression reflects the behaviour of cells. Those genes in response to cyclic tensile stress were identified in human PDLCs, some of which are related with the mechano-induced cell cycle arrest.

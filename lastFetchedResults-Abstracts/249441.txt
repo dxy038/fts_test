@@ -1,0 +1,10 @@
+This paper presents a formulation for shape optimization in thermoelasticity using a meshless method,
+namely the element-free Galerkin method. Two examples are treated in detail and comparisons with
+previously published >nite element analysis results demonstrate the excellent opportunities the EFG
+o?ers for solving these types of problems. Smoother stresses, no remeshing, and better accuracy than
+>nite element solutions, permit answers to shape optimization problems in thermoelasticity that are
+practically unattainable with the classical FEM without remeshing. For the thermal >n example, the
+EFG >nds >nger shapes that are missed by the FEM analysis, and the objective value is greatly
+improved compared to the FEM solution. A study of the in@uence of the number of design parameters
+is performed and it is observed that the EFG can give better results with a smaller number of design
+parameters than is possible with traditional methods

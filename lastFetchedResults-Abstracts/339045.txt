@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to investigate the stimulating effect of low-dose radiation (LDR) on bone marrow hematopoietic progenitor cell (HPC) proliferation and peripheral blood mobilization.
+Methods
+
+Mice were exposed to 25- to 100-mGy x-rays. Bone marrow and peripheral blood HPCs (BFU-E, CFU-GM, and c-kit+ cells) were measured, and GM-CSF, G-CSF, and IL-3 protein and mRNA expression were detected using ELISA, slot blot hybridization, and Northern blot methods. To functionally evaluate LDR-stimulated and -mobilized HPCs, repopulation of peripheral blood cells in lethally irradiated recipients after transplantation of LDR-treated donor HPCs was examined by WBC counts, animal survival, and colony-forming units in the recipient spleens (CFUs-S).
+Results
+
+75-mGy x-rays induced a maximal stimulation for bone marrow HPC proliferation (CFU-GM and BFU-E formation) 48 hours postirradiation, along with a significant increase in HPC mobilization into peripheral blood 48 to 72 hours postradiation, as shown by increases in CFU-GM formation and proportion of c-kit+ cells in the peripheral mononuclear cells. 75-mGy x-rays also maximally induced increases in G-CSF and GM-CSF mRNA expression in splenocytes and levels of serum GM-CSF. To define the critical role of these hematopoietic-stimulating factors in HPC peripheral mobilization, direct administration of G-CSF at a dose of 300 μg/kg/day or 150 μg/kg/day was applied and found to significantly stimulate GM-CFU formation and increase c-kit+ cells in the peripheral mononuclear cells. More importantly, 75-mGy x-rays plus 150 μg/kg/day G-CSF (LDR/150-G-CSF) produced a similar effect to that of 300 μg/kg/day G-CSF alone. Furthermore, the capability of LDR-mobilized donor HPCs to repopulate blood cells was confirmed in lethally irradiated recipient mice by counting peripheral WBC and CFUs-S.
+Conclusion
+
+These results suggest that LDR induces hematopoietic hormesis, as demonstrated by HPC proliferation and peripheral mobilization, providing a potential approach to clinical application for HPC peripheral mobilization.

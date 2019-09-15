@@ -1,0 +1,11 @@
+In this article, the Gravitational Search Algorithm (GSA) has been proposed to find the optimal
+solution for Combined Economic and Emission Dispatch (CEED) problems. It is aimed, in the CEED
+problem, that scheduling of generators should operate with both minimum fuel costs and emission levels,
+simultaneously, while satisfying the load demand and operational constraints. In this paper, the CEED
+problem is formulated as a multi-objective problem by considering the fuel cost and emission objectives
+of generating units. The bi-objective optimization problem is converted into a single objective function
+using a price penalty factor in order to solve it with GSA. The proposed algorithm has been implemented
+on four different test cases, having a valve point effect with transmission loss and having no valve point
+effect without transmission loss. In order to see the effectiveness of the proposed algorithm, it has been
+compared with other algorithms in the literature. Results show that the GSA is more powerful than
+other algorithms.

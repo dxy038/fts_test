@@ -1,0 +1,1 @@
+The main objective of this paper is to discuss training neural networks for control of continuous-time nonlinear systems. Here multilayer neural networks are employed, which are trained by dynamic and static backpropagations. The control with feedback linearization is applied to solving control of a nonlinear dynamical system. A simulation is given to complete the discussion

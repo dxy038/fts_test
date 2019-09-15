@@ -1,0 +1,11 @@
+Objective
+Expression profiling of microRNA (miRNA) was performed in granulocytes isolated from patients with primary myelofibrosis (PMF), with the aim of identifying abnormally expressed miRNAs in comparison with normal subjects or patients with polycythemia vera (PV) or essential thrombocythemia (ET).
+Patients and Methods
+
+Using stem loop–primed reverse transcription and TaqMan quantitative real-time polymerase chain reaction, the expression of 156 mature miRNAs was evaluated using pooled granulocytes from PMF patients, either wild-type or JAK2617V>F mutant with >51% allele burden, and control subjects. Differentially expressed miRNAs were then validated on additional control and PMF samples, and also on PV or ET granulocytes.
+Results
+
+There was a global downregulation of miRNA expression in PMF granulocytes; 60 miRNAs, of 128 called present, displayed differential expression compared to normal samples. Twelve miRNAs, which had been selected based on statistically different expression level, were finally validated. In PMF granulocytes, levels of miR-31, -150, and -95 were significantly lower, while those of miR-190 significantly greater, than control and PV or ET samples; on the other hand, miR-34a, -342, -326, -105, -149, and -147 were similarly reduced in patients with PMF, PV, or ET compared to controls. Increased expression of miR-182 and -183 correlated with JAK2617V>F allele burden. Three in silico–predicted putative target genes (DTR, HMGA2, and MYB), showed deregulated expression in PMF granulocytes that correlated with expression level of regulatory miRNA.
+Conclusions
+
+A defined miRNA profile distinguishes PMF granulocytes from those of normal subjects and, partially, also from PV or ET patients.

@@ -1,0 +1,11 @@
+Objective
+The investigation of nonstationarity in complex, multivariable signals, such as electroencephalographic (EEG) recordings, requires the application of different and novel approaches to analysis. In this study, we have divided the EEG recordings during epileptic seizures into sequential stages using spectral and statistical analysis, and have as well reconstructed discrete-time models (maps) that reflect dynamical (deterministic) properties of the EEG voltage time series.
+Methods
+Intracranial human EEG recordings with epileptic seizures from three different subjects with medically intractable temporal lobe epilepsy were studied. The methods of statistical (power spectra, wavelet spectra, and one-dimensional probability distribution functions) and dynamical (comparison of dynamical models) nonstationarity analysis were applied.
+Results
+Dynamical nonstationarity analysis revealed more detailed inner structure within the seizures than the statistical analysis. Three or four stages with different dynamics are typically present within seizures. The difference between interictal activity and seizure events was also more evident through dynamical analysis.
+Conclusions
+Nonstationarity analysis can reveal temporal structure within an epileptic seizure, which could further understanding of how seizures evolve. The method could also be used for identification of seizure onset.
+Significance
+Our approach reveals new information about the temporal structure of seizures, which is inaccessible using conventional methods.
+

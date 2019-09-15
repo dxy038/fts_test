@@ -1,0 +1,1 @@
+We introduce a dynamical system for direct optimization of objective functions defined on &#119966;<sup>p&#215;q</sup> having unitary extremes. Then we give analytical results on the system´s stationary states and their stability. Finally, we show some existing well-known optimization systems drawn from the literature are special cases of the one presented here

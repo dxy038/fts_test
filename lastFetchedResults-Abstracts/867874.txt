@@ -1,0 +1,5 @@
+We study the problem of unrelated parallel-machine scheduling with deteriorating maintenance activities.
+Each machine has at most one maintenance activity, which can be performed at any time throughout
+the planning horizon. The length of the maintenance activity increases linearly with its starting time. The
+objective is to minimize the total completion time or the total machine load. We show that both versions
+of the problem can be optimally solved in polynomial time.

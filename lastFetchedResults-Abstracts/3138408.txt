@@ -1,0 +1,1 @@
+30 tri-state 350-volt display drivers with 12 volt control logic per driver on a single chip have been implemented in HVMOS technology. Data can be shifted in via a serial-in parallel-out bidirectional shiftregister.

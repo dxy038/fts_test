@@ -1,0 +1,11 @@
+The objective of the study is to develop a totally new theory and structural mechanics model for phonon dispersion
+analysis of carbon nanotubes. The fundamental theory and computational algorithm for phonon dispersion analysis of
+carbon nanotubes are developed based on the symplectic theory and algorithm established in applied mechanics in recent
+years. Carbon nanotubes are simulated by two kinds of structural mechanics models, i.e. the conventional sub-structure
+model and the inter-belt model. The variational principle for wave dissipation analysis of periodic structure is given on
+the basis of the symplectic-mathematical theory. Numerical examples are carried out to demonstrate the validity of the
+theory and algorithm developed. By the comparison of the results obtained by the two kinds of structural mechanics models,
+it can be found that the inter-belt model has more advantages than the conventional sub-structure model in the calculation
+of phonon spectra of nanotubes. As a basic research work, the present study illustrates well the potential of the
+symplectic-mathematical theory as well as the inter-belt model and is valuable for the further research in computational
+nanomechanics.

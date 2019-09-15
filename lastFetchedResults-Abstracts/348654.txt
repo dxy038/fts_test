@@ -1,0 +1,11 @@
+Objective
+Automated adaptive spatial filtering techniques can be applied to magnetoencephalographic (MEG) data collected from people with epilepsy. Source waveforms estimated by these methods have higher signal-to-noise ratio (SNR) than spontaneous MEG data, allowing identification and location of interictal spikes. The software tool SAM(g2) provides an adaptive spatial filtering algorithm for MEG data that yields source images of excess kurtosis and provides source time-courses in voxels exhibiting high excess kurtosis. The sensitivity and specificity of SAM(g2) in epilepsy is unknown.
+Methods
+Interictal MEG data from 36 patients with intractable epilepsy were analyzed using SAM(g2), and results compared with equivalent current dipole (ECD) fit procedures.
+Results
+When SNR of interictal spikes was high (compared to background) with a clear single focus, in most cases there was good agreement between ECD and SAM(g2). With multiple foci, there was typically overlap but imperfect concordance between results of ECD and SAM(g2).
+Conclusions
+SAM(g2) may in some cases be equivalent to manual ECD fit for localizing interictal spikes with single locus and good SNR. Further studies are required to validate SAM(g2) with multiple foci or poor SNR.
+Significance
+In some cases, SAM(g2) might eventually assist or replace manual ECD analysis of MEG data.
+

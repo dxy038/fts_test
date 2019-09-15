@@ -1,0 +1,11 @@
+Objective
+The ω-3 polyunsaturated fatty acids (PUFAs) play a key role as immune response modulators and suppressors of immunologic functions, such as lymphocyte proliferation, cytokine production, and cell surface molecular expression in T lymphocytes, monocytes, and natural killer cells. However, little is known about the effect of ω-3 PUFAs on dendritic cells (DCs). We studied the effect of ω-3 PUFAs on DCs and the related intracellular signal transduction pathway.
+Methods
+
+Dendritic cells were generated from human peripheral blood monocytes in the presence of granulocyte-macrophage colony-stimulating factors and interleukin (IL)-4 and treated with eicosapentaenoic acid (EPA), docosahexanoic acid (DHA), and stearic acid for 24 h. Lipopolysaccharide (LPS) was used for maturation of the DCs. The expressions of CD40, CD80, CD86, and human leukocyte antigen-DR (HLA-DR) were analyzed by flow cytometry; production of IL-12 and tumor necrosis factor-α were detected by reverse transcriptase-polymerase chain reaction and enzyme-linked immunosorbent assay. The proliferative ability of allogeneic T cells stimulated by DCs was evaluated by tritiated thymidine (3H-TdR). Western blot analysis of p38 mitogen-activated protein kinase was conducted.
+Results
+
+The ω-3 PUFAs reduced expression levels of costimulatory molecules CD80 and CD86 and major histocompatibility complex HLA-DR. IL-12 and tumor necrosis factor-α levels decreased significantly in the EPA and DHA groups. EPA and DHA also significantly reduced the proliferative ability of allogeneic T cells stimulated by DCs. The ω-3 PUFAs significantly inhibited LPS-induced p38 phosphorylation.
+Conclusion
+
+The ω-3 PUFAs may inhibit LPS-induced DC maturation and upregulate cytokine production. Impaired p38 mitogen-activated protein kinase activity is a potential critical intracellular signaling transduction mechanism.

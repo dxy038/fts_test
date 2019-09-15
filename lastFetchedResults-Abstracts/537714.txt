@@ -1,0 +1,15 @@
+This paper presents a new approach via
+improved version of genetic algorithm to solve optimal
+unit commitment (UC) problem. Fast Messy Genetic
+Algorithm (FMGA) is applied to the calculation of
+optimal unit commitment problem. The test results
+demonstrate that not only the FMGA procedure consider
+is the constraints very well, but also has some advantages,
+such as good convergence, fast calculating speed and high
+precision. A ten unit power system was used as a
+numerical example to test the new algorithm. The optimal
+scheduling of on line generation units could be reached in
+the testing results while satisfying the constraints of the
+objective function. Numerical results indicate that the
+performance of the FMGA algorithm outperforms the
+other algorithms and achieves minimum generation cost.

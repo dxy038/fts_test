@@ -1,0 +1,11 @@
+Objective
+To clarify the signaling mechanism of human myeloid differentiation by hematopoietic growth factors and cytokines, we investigated the role of extracellular signal-regulated kinase (ERK) during the differentiation of human monoblastic U937 cells stimulated by granulocyte-macrophage colony-stimulating factor (GM-CSF) and tumor necrosis factor (TNF).
+Materials and Methods
+
+Myeloid differentiation was evaluated by morphology, function (respiratory burst activity), and cell surface expression of adhesion molecule (CD11b), and activation of ERK and/or p38 was determined by Western blotting and/or in vitro kinase assay. Inhibition of the ERK pathway was performed using PD98059, a specific inhibitor of this pathway.
+Results
+
+U937 cells were induced to be differentiated by the combination of GM-CSF and TNF, but only minimally by either cytokine alone. Transient phosphorylation and activation of ERK was induced by both GM-CSF alone and combination of the two cytokines, whereas sustained phosphorylation and activation was induced only by the combination. In addition, PD98059, a specific inhibitor of ERK pathway, almost completely abolished this prolonged phosphorylation of ERK and completely blocked differentiation. In contrast, both TNF alone and cytokine combination equivalently phosphorylated p38 in U937 cells, which was dissociated from differentiation, and a specific inhibitor of p38 (SB203580) did not inhibit differentiation.
+Conclusions
+
+The results indicate potential roles of sustained activation of ERK but not of p38 in the signaling pathways for human myeloid differentiation in U937 cells synergistically stimulated by the two physiologic cytokines GM-CSF and TNF.

@@ -1,0 +1,10 @@
+AbstractBackground
+ code size in terms of SLOC (source lines of code) is the input of many parametric software effort estimation models. However, it is unavailable at the early phase of software development.
+ive
+estigate the accuracy of early SLOC estimation approaches for an object-oriented system using the information collected from its UML class diagram available at the early software development phase.
+
+ different modeling techniques to build the prediction models for investigating the accuracy of six types of metrics to estimate SLOC. The used techniques include linear models, non-linear models, rule/tree-based models, and instance-based models. The investigated metrics are class diagram metrics, predictive object points, object-oriented project size metric, fast&amp;&amp;serious class points, objective class points, and object-oriented function points.
+s
+on 100 open-source Java systems, we find that the prediction model built using object-oriented project size metric and ordinary least square regression with a logarithmic transformation achieves the highest accuracy (mean MMRE = 0.19 and mean Pred(25) = 0.74).
+sion
+uld use object-oriented project size metric and ordinary least square regression with a logarithmic transformation to build a simple, accurate, and comprehensible SLOC estimation model.

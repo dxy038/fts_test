@@ -1,0 +1,6 @@
+Objective (s): To identify the predictive model of road traffic injuries by a time series model.
+Methods: This was an analytical study involving patients attending central hospital of Masjed –Soleyman ( a city in Ahvaz Province), Iran during 24 months, from March 2008 to March 2010. Time series carried out to determine monthly occurrence of road traffic injuries in order to build a statistical model on data. The ARMA Box Jenkins linear model was used and an Autoregressive model was selected.
+Results: Out of all 1210 injured patients referring to the hospital, 78.5% (n=950) were men. The mean age of patients was 30.57±17.08 years. The majority of injured (35.1%) were 20-29 years old. Autoregressive model was appropriate to describe our data over time. The result indicated the road traffic injuries had an increased pattern by 7 times as compare with previous month on average. 
+Conclusion: The frequency of road traffic injuries is high in men and young age adolescents. The pattern is increasing and there is need for serious public health considerations.
+
+

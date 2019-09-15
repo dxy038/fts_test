@@ -1,0 +1,20 @@
+Background and objective: The circle of Willis (COW) supports adequate
+blood supply to the brain. The cardiovascular system, in the current study, is modeled
+using an equivalent electronic system focusing on the COW.
+Method: In our previous study we used 42 compartments to model whole cardiovascular
+system. In the current study, nevertheless, we extended our model by
+using 63 compartments to model whole CS. Each cardiovascular artery is modeled
+using electrical elements, including resistor, capacitor, and inductor. The MATLAB
+Simulink software is used to obtain the left and right ventricles pressure as well as
+pressure distribution at efferent arteries of the circle of Willis. Firstly, the normal
+operation of the system is shown and then the stenosis of cerebral arteries is induced
+in the circuit and, consequently, the effects are studied.
+Results: In the normal condition, the difference between pressure distribution of
+right and left efferent arteries (left and right ACA–A2, left and right MCA, left and
+right PCA–P2) is calculated to indicate the effect of anatomical difference between
+left and right sides of supplying arteries of the COW. In stenosis cases, the effect
+of internal carotid artery occlusion on efferent arteries pressure is investigated. The
+modeling results are verified by comparing to the clinical observation reported in the
+literature.
+Conclusion: We believe the presented model is a useful tool for representing the
+normal operation of the cardiovascular system and study of the pathologies.

@@ -1,0 +1,15 @@
+With the cohesive process zone representation of the micro-mechanistic processes that are
+associated with fracture as a basis, the author is involved in a wide-ranging research programme, the
+objective being to extend the fracture mechanics methodology for sharp cracks to blunt flaws, so as
+to take credit for the blunt flaw geometry. In earlier work, a Mode I fracture initiation relation has
+been derived, subject to the restriction that the process zone size s is small compared with the flaw
+depth (length) and any characteristic dimension other than the flaw root radius ρ. The relation gives
+the critical elastic flaw-tip peak stress σpcr, and has been derived using a “two-extremes” procedure,
+whereby the separate, and indeed exact, solutions for small and large s/ρ values are blended together
+to give an all-embracing relation that is valid for all s/ρ values. σpcr is expressed in terms of the
+process zone material parameters and geometrical parameters but, for a wide range of flaw geometry
+parameters, σpcr essentially depends on only one geometrical parameter: ρ. This paper provides
+underpinning for the general thrust of the “two-extremes” procedure by appealing to exact results for
+the complete spectrum of s/ρ values from analyses of appropriate Mode III models. Results obtained
+by applying the “two-extremes” procedure are shown to be in very good agreement with the exact
+results.

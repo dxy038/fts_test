@@ -1,0 +1,9 @@
+The objective of this work is to present a new method for the dynamic and static analysis of thin, elastic,
+isotropic, non-uniform circular and annular plates. The method is a combination of plate theory and Þnite
+element analysis. The plate is divided into one circular and many annular Þnite elements. The displacement
+functions are derived from SandersÕ classical plate theory. These displacement functions satisfy the convergence
+criteria of the Þnite element method. The matrices for mass and sti¤ness are determined by precise
+analytical integration. A computer programme has been developed, the convergence criteria have been
+established, and the natural frequencies and vibration modes have been computed for di¤erent cases. The
+results obtained reveal that the frequencies calculated by this method are in good agreement with those
+obtained by other authors.

@@ -1,0 +1,5 @@
+The REVE project (REactor for Virtual Experiments) was an international effort aimed at developing tools to simulate irradiation effects in materials of Light Water Reactors. In the framework of this project, a European team developed a first tool, called RPV-1, to simulate irradiation effects in light water reactor pressure vessel steels. This article is the fourth of a series dedicated to the presentation of RPV-1. It has a twofold objective:–
+w quantitative comparisons between experimental and RPV-1’s simulation results;
+
+onstrate that RPV-1 can already be used to complement experimental programs.
+s end, RPV-1 has been used to reproduce the French experimental program ESTEREL which was aimed at quantifying the neutron spectrum effect between the surveillance capsules and the vessels of the French reactors, and to determine the best irradiation parameter to assess the behaviour of these vessels from the results of the surveillance program.

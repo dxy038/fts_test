@@ -1,0 +1,1 @@
+This note presents a decentralized variable structure control design for a nonlinear state model of two coupled pendulums. This was motivated by the swing equation model of a two-machine power system whose behavior is similar. The control objective is to drive the pendulum motion from one equilibrium point to another.

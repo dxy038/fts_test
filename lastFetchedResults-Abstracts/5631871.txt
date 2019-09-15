@@ -1,0 +1,1 @@
+An algorithm for finding the set of all Pareto-optimal solutions of a linear multiple-objective optimization problem is presented in this paper. This algorithm is successful in detecting any Pareto-optimal solution and will systematically and efficiently determine the entire set of Pareto-optimal solutions. An example is given to illustrate the algorithm.

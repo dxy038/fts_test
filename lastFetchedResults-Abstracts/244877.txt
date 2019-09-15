@@ -1,0 +1,7 @@
+The implementation of district heating system combined with the cogeneration is paramount in order to meet the complex user thermal demand, and, if planned and managed correctly, to yield significant advantages for the community.
+
+Therefore, an attempt to privilege the environmental sustainability through the realisation of a district heating has been made, obtaining the primary energy saving and emission reduction in the atmosphere.
+
+To this aim, the objective of this work is to size the cogenerative production plant combined to the district heating system. This work proposes the use of a simulation model, developed by the authors, to optimize the thermal power demand of a complex user during the heating season. On the basis of such model, the study was focused on the analysis of the obtained global thermal load and the possible solutions proposed for the thermal plant sizing.
+
+The better plant configuration was established and, consequently, the polluting quantity emitted and the fuel consumption relative to an entire heating season were esteemed with satisfactory precision. The values so determined were compared with those for the traditional generation of the same energies quantity resulting in significant energy saving and environmental benefits.

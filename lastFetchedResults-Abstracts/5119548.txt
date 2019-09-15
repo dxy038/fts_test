@@ -1,0 +1,1 @@
+In this paper, we propose a multi objective stochastic model with linear partial information on probability distribution (MSPLI) for portfolio selection problem. We apply an extended chance constrained compromise programming approach to obtain the deterministic equivalent of the MSPLI model.

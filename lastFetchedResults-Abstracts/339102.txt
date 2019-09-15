@@ -1,0 +1,11 @@
+Objective
+Resveratrol, a naturally occurring stilbene derivative, is a potent free-radical scavenger causing a number of biochemical and antineoplastic effects. It was shown to induce differentiation and apoptosis in leukemia cells. Resveratrol was also identified as an inhibitor of ribonucleotide reductase (RR), a key enzyme of DNA synthesis. We report about the biochemical effects of resveratrol on the concentration of deoxyribonucleoside triphosphates (dNTPs), the products of RR, and on the incorporation of 14C-labeled cytidine into the DNA of HL-60 human promyelocytic leukemia cells.
+Materials and methods
+
+Incorporation of 14C-labeled cytidine into the DNA of resveratrol-treated HL-60 cells was measured. Concentration of dNTPs was determined by a HPLC method. Cytotoxic effects of resveratrol, Ara-C, and tiazofurin were analyzed using growth inhibition and clonogenic assays. Induction of apoptosis was studied using a Hoechst/propidium iodide staining method.
+Results
+
+We found that resveratrol effectively inhibited incorporation of 14C-labeled cytidine into DNA. Furthermore, incubation of HL-60 cells with resveratrol significantly decreased intracellular dCTP, dTTP, dATP, and dGTP concentrations. Based on these results, we investigated the combination effects of resveratrol with Ara-C or tiazofurin, both antimetabolites, which are known to exhibit synergistic effects in combination with other inhibitors of RR. In growth inhibition, apoptosis, and clonogenic assays, resveratrol acted synergistically with both Ara-C and tiazofurin in HL-60 cells.
+Conclusions
+
+We conclude that resveratrol could become a viable candidate as one compound in the combination chemotherapy of leukemia and therefore deserves further testing.

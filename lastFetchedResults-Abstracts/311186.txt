@@ -1,0 +1,11 @@
+Objective. To record chair data such as seat occupancy, back recline angle, lumbar engagement, and armrest location using an independent, unbiased real time data acquisition system.
+
+Design. The system should be inconspicuous. The users should be able to work effectively in their environment oblivious to concurrent data collection.
+
+Background. While human acquisition and measurement instruments provide an acceptable approach for collecting data on changing chair positions, they may bias data. Current data collection methods such as video playback can also be successful in collecting chair data, but are often time-consuming and expensive to set up.
+
+Methods. Four key areas were concentrated upon for monitoring: seat, lumbar, back recline, and armrest position. A position switch was mounted to each locale and linked to a microprocessor to track the changing positions of the chair in real time.
+
+Results. The chair provides time stamped data on the changes that take place to the chair. The data can be downloaded at the convenience of the user and researcher.
+
+Conclusions. The chair is complete and ready for data acquisition. It permits easy data collection on chair positions without hindering the user’s movement.

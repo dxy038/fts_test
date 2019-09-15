@@ -1,0 +1,11 @@
+Objective
+Erythropoietin (EPO) is a lineage-restricted growth factor that is required for erythroid proliferation and differentiation. EPO stimulates the phosphorylation and activation of p70 S6 kinase (p70 S6K), which is required for cell cycle progression. Here, the minimal cytoplasmic domains of the EPO receptor (EPO-R) required for p70 S6K activation were determined.
+Materials and Methods
+
+Ba/F3 cells were stably transfected with wild-type (WT) EPO-R or EPO-R carboxyl-terminal deletion mutants, designated by the number of amino acids deleted from the cytoplasmic tail (−99, −131, −221). Transfected cells were growth factor deprived and then stimulated with EPO. p70 S6K, JAK2, IRS-2, and ERK1/2 phosphorylation/activation were examined. The ability of transfected 3-phosphoinositide–dependent protein kinase 1 (PDK1) to reconstitute p70 S6K phosphorylation in EPO-R mutants also was determined.
+Results
+
+Phosphorylation and activation of p70 S6K, JAK2, IRS-2, and ERK1/2 in Ba/F3 cells transfected with EPO-R−99 or EPO-R−99Y343F were similar to WT EPO-R. In contrast, EPO-dependent p70 S6K phosphorylation/activation, as well as IRS-2 and ERK1/2 phosphorylation, were minimal or absent in cells transfected with EPO-R−131 or EPO-R−221. JAK2 phosphorylation was reduced significantly in cells transfected with EPO-R−131 and abolished with EPO-R−221. To examine the role of PDK1, a kinase known to phosphorylate p70 S6K, Ba/F3 EPO-R−131 cells were transiently transfected with PDK1. WT constitutively active PDK1 restored p70 S6K phosphorylation in Ba/F3 EPO-R−131 cells but not in Ba/F3 EPO-R−221 cells.
+Conclusions
+
+The results demonstrate that a minimal cytoplasmic subdomain of the EPO-R extending between −99 and −131 is required for p70 S6K phosphorylation and activation. The results also demonstrate that PDK1 is a critical component in this signaling pathway, which requires the presence of domains between −131 and −221 for its activation of p70 S6K.

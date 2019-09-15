@@ -1,0 +1,1 @@
+We demonstrate a cost-effective bidirectional wavelength-division multiplexing (WDM) self-healing ring network using a novel, bidirectional add/drop amplifier module. The restoration time was measured to be &lt;2 ms. The results show that this network could accommodate at least 10 nodes when the node spacing is 80 km.

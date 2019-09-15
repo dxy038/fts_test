@@ -1,0 +1,9 @@
+Objective
+Hematopoietic stem cell homing and engraftment is dramatically altered by cytokine exposure. These studies address the molecular mechanisms responsible for the observed changes in transplantation biology.
+Methods
+Primitive murine hematopoietic stem cells were isolated by fluorescence-activated cell sorting of lineage depleted (Lin−) cells exhibiting low staining of Hoechst 33342 and rhodamine 123 dyes or Lin− cells bearing Sca. Adhesion receptor expression was examined by immunofluorescence and reverse transcriptase polymerase chain reaction. In vitro adhesion assays were employed to define binding interactions between stem cells and stroma or extracellular matrix proteins.
+Results
+Adhesion of Lin−Sca+ cells to Dexter stroma could be blocked by about 90% with antibodies to PECAM-1, αa4, or β1, and partially blocked by antibodies to α5, CD44, or L-selectin. By immunofluorescence, about 30% of purified Lin−HoloRholo cells expressed α4, α5, β1, and L-selectin, about 15% expressed αL and α6, half expressed PECAM-1, and none expressed α1 or α2. After 48 hours in expansion cytokines, only 9% of the cells expressed α4 and none expressed β1, whereas αL expression was fully restored, PECAM-1 and L-selectin partially restored, CD44 expression was newly induced, and adhesion to both fibronectin and laminin was reduced. Adhesion to purified collagen, fibronectin, or laminin enhanced expression of β1 integrins.
+Conclusion
+Expansion cytokines that move quiescent primitive hematopoietic stem cells into S phase markedly altered adhesion receptor expression and reduced their functional binding to extracellular matrix, which could reduce engraftment after transplant.
+

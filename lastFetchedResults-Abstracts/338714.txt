@@ -1,0 +1,11 @@
+Objective
+Human organic cation transporters (OCTs) play a critical role in the cellular uptake and efflux of endogenous cationic substrates and hydrophilic exogenous xenobiotics. We sought to identify OCT genes preferentially expressed in hematopoietic cells.
+Materials and Methods
+
+We isolated a novel OCT, named OCT6, by data-mining human expressed sequence tag databases for sequences homologous to known OCT genes. We developed a quantitative reverse transcriptase polymerase chain reaction assay to determine the relative expression of this gene in 50 cancer cell lines and in tissues.
+Results
+
+The two highest expressing cell lines were the leukemia cell lines HL-60 and MOLT4. Quantitative reverse transcriptase polymerase chain reaction analysis using a normal tissue cDNA panel demonstrated that this transport gene is highly expressed in testis and fetal liver, with detectable RNA levels in bone marrow and peripheral blood leukocytes. Unlike other OCT genes, RNA levels were not detectable in placenta, liver, or kidney. To further define the expression of OCT6 in hematopoietic tissues, we measured OCT6 RNA levels in sorted peripheral blood cell populations and found a clear enrichment of OCT6-expressing cells in purified CD34+ cells. To determine if OCT6 was highly expressed in leukemias, we examined circulating leukemia cells from 25 patients and found high levels of OCT6 RNA in all specimens in comparison with liver, kidney, and placenta.
+Conclusion
+
+The results demonstrate the existence of a novel OCT preferentially expressed in human hematopoietic tissues, including CD34+ cells and leukemia cells. Its narrow tissue distribution, potential for substrate specificity, and close homology to other cell membrane transporters make OCT6 an attractive target for the treatment of leukemia.

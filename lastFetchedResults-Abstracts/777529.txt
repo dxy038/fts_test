@@ -1,0 +1,10 @@
+Photovoltaic technology provides the direct method to convert solar energy into electricity. Modeling and simulation plays a very
+important role in the development of PV devices as well as in the design of PV systems. The objective of the current work was to develop
+a novel thermal model to simulate the thermal performance of PV modules with and without cooling. The model was sequentially coupled
+with a radiation model and an electrical model to calculate the electrical performance of the PV panels. Using the developed model,
+various studies were performed to evaluate the electrical and thermal performance of the module under different environmental and operating
+conditions with and without cooling. Results show that the performance of the PV panel with cooling had very little influence of
+increasing absorbed radiation (200–1000 W/m2) at a constant ambient temperature (25  C) and increasing ambient temperature (0–
+50  C) at an absorbed radiation of 800 W/m2. For the same variation in conditions, the performance of the panel without any cooling
+reduced significantly.
+  2012 Elsevier Ltd. All rights reserved.

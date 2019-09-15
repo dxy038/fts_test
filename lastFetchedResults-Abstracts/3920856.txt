@@ -1,0 +1,1 @@
+The authors present a new motion compensation technique for bidirectional predictive video coding, which partitions a frame into variable size blocks according to the local motion contents and yields an optimal rate-distortion performance. Preliminary results show that this method is more efficient than the conventional fixed-size method

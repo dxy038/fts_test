@@ -1,0 +1,7 @@
+Abstract— This paper proposes the combination of histogram based methods in order to achieve an improved contrast
+enhancement technique. In the proposed method, at first the histogram is modified in a way that deals with the
+histogram spikes with less computational complexity. A method is then utilized to preserve the mean brightness of
+image. In addition, black and white stretching is applied to increase the quality of resulting image. A new method is
+also introduced so that the stretching parameters can be selected proportional to the intensity distribution of each
+image. The proposed method is fully automatic, robust against noise, and user-friendly. Experimental results indicate
+the efficiency of the new technique from both of the objective and subjective viewpoints.

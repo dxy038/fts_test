@@ -1,0 +1,11 @@
+Objective
+We examined if cellular elements or adhesive ligands were able to alter asymmetric divisions of CD34+/CD38− cells in contrast to soluble factors at a single cell level.
+Materials and Methods
+
+After single cell deposition onto 96-well plates, cells were cocultured for 10 days with the stem cell supporting cell line AFT024, fibronectin (FN), or bovine serum albumin (BSA). The divisional history was monitored with time-lapse microscopy. Subsequent function for the most primitive cells was assessed using the myeloid-lymphoid-initiating cell (ML-IC) assay. Committed progenitors were measured using colony-forming cells (CFC).
+Results
+
+Only contact with AFT024 recruited significant numbers of CD34+/CD38− cells into cell cycle and increased asymmetric divisions. Although most ML-IC were still identified among cells that have divided fewer than 3 times, a significant number of ML-IC shifted into the fast-dividing fraction after exposure to AFT024. The increase in ML-IC frequency was predominantly due to recruitment of quiescent and slow-dividing cells from the starting population. Increase in CFC activity induced by AFT024 was found only among rapidly dividing cells.
+Conclusions
+
+For the first time, we have demonstrated that asymmetric divisions can be altered upon exposure with a stem cell–supporting microenvironment. For the primitive subset of cells (ML-IC), this was predominantly due to recruitment into cell cycle and increased rounds of cycling without loss of function. Exposure to AFT024 cells also increased proliferation and asymmetric divisions of committed CFC. Hence direct communication between hematopoietic progenitors with stroma cells is required for maintaining self-renewal potential.

@@ -1,0 +1,11 @@
+Objective
+To illustrate the problem of gravitational artifact in accelerometric recordings of tremor.
+Methods
+Gravitational and inertial accelerations were computed for a triaxial accelerometer that was attached to a hand, oscillating vertically about the wrist. Mathematical equations for hand motion were solved with commercial software.
+Results
+Accelerometer output contains proportionately larger gravitational artifact at lower frequencies of oscillation and when the accelerometer is mounted closer to the wrist. A vertical accelerometer axis contains nearly constant gravitational artifact when the amplitude of wrist oscillation is less than ±20°. Proportionately large gravitational artifact can occur in accelerometer axes that are perpendicular to the path of motion. Gravitational and inertial oscillations at twice the frequency of wrist oscillation emerge from the equations of motion.
+Conclusions
+When the hand is horizontal, the vertical accelerometer axis contains nearly constant gravitational artifact during the recording of most tremors, and high-pass filtering effectively removes this artifact. Gravitational artifact is more problematic when the hand is vertical, as during the measurement of Parkinson rest tremor, particularly if the accelerometer is mounted close to the wrist.
+Significance
+Two accelerometers, mounted in parallel, are needed to capture hand rotation in a single plane of motion, free of gravitational artifact.
+

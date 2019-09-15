@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma (MM) is an incurable disease; therefore, there is a need for new modalities of treatment for this disease. We designed a study to test the sensitivity of MM cell lines, freshly isolated myeloma cells, and CD34+ hematopoietic progenitor cells to adenovirus-mediated delivery of wild-type p53 (Ad-p53).
+Materials and Methods
+
+Replication-deficient Ad-p53, previously used in phase I–II clinical trial for treatment of patients with solid tumors, was used in this study. Myeloma cells from seven MM cell lines with mutated or w.t. p53 and varying expression of bcl-2 were used. Fresh myeloma cells (CD38brightCD45−) and fresh CD34+ hematopoietic stem cells and CD34− cells were purified by flow sorting of apheresis collections of MM patients undergoing high-dose chemotherapy and stem cell rescue. The effect of Ad-p53 on colony-forming unit granulocyte-macrophage (CFU-GM) and burst-forming unit erythroid (BFU-E) colony formation in methylcellulose was tested on purified CD34+ and CD34− cells to evaluate bone marrow toxicity.
+Results
+
+Myeloma cells from cell lines, or freshly isolated myeloma cells, were sensitive to Ad-p53 only if they had mutated p53 and had low expression of bcl-2. CD34+ cells were resistant to Ad-p53–mediated apoptosis, and CFU-GM and BFU-E colony formation was not affected by treatment with Ad-p53.
+Conclusions
+
+Ad-p53 is a potent inducer of apoptosis in MM cell lines and in freshly isolated myeloma cells expressing low levels of bcl-2. Ad-p53 is not overtly cytotoxic to normal hematopoietic stem cells or normal lymphocytes; therefore, it could be considered for a phase I clinical trial of MM patients with mutated p53.

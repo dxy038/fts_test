@@ -1,0 +1,12 @@
+In this paper a system consist of two reservoirs was evaluated by using a genetic algorithm
+method.In this way four cases were analyzed:optimized.Case2: demands were fixed and the
+reservoir capacities and operating rules were optimized.Case3: reservoir capacities were
+fixed and the demands and operating rules were optimized.Case4: reservoir capacities,
+demands and operating rules were optimized.The first reservoir is taken to supply irrigation
+water and the second one is used to supply domestic and industrial water demands .The
+range of capacities for reservoirs were determined and according to the method of study
+which is GA ,the objective function for each case was optimized byselection of random
+samples ,coding, evaluation of their fitness, decoding ,crossover , mutation and determining
+penalty function proportional to environmental situation of the problems.Analysis of results
+through graphs show that they are close to expected objective functions 98,2%,,98,5%،99,1%
+and 99,6%.respctively.

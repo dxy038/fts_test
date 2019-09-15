@@ -1,0 +1,1 @@
+In this paper, multi-objective optimization is applied to the hot rolling process. It is modeled mostly using first principle models considering, for instance, the mass balance (or mass flow rate), the tensions in the material, the power requirements, the thermal field, and the microstructure of the material.

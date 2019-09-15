@@ -1,0 +1,11 @@
+Objective. The hypothesis was tested that a poroelastic material model is potentially able to describe the mechanical behavior of cartilaginous tissues in dynamic indentation experiments.
+
+Design. This hypothesis was tested by comparing the results from model predictions with results obtained from cyclic indentation experiments.
+
+Background. The characteristics of cartilaginous tissues in general and of the temporomandibular joint disc in particular are generally identified by static confined or unconfined indentation experiments, while under physiologic circumstances these tissues are mostly loaded dynamically.
+
+Methods. Dynamic indentation experiments were simulated using an axisymmetric finite element model. The results from the simulations were qualitatively compared with the experiments.
+
+Results. The simulations showed several similarities with the experiments when the solid matrix was assumed to be hyperelastic. Both the maximum stress and the amount of energy dissipated decreased in each subsequent cycle. Furthermore, a similar dependency on the indentation frequency and amplitude was found.
+
+Conclusions. This qualitative study showed that a poroelastic material model can describe the dynamic behavior of the temporomandibular joint disc, provided that the solid matrix is modeled as hyperelastic.

@@ -1,0 +1,14 @@
+This paper investigates the ability of different
+strategies of Differential Evolutionary (DE) Algorithm in
+dealing with optimal placement of Static VAR
+Compensator (SVC) in a power system. The primary
+function of an SVC is to improve transmission system
+voltage, thereby enhancing the maximum power transfer
+limit. To enhance voltage stability, the planning problem
+is formulated as a multi-objective optimization problem
+for maximizing fuzzy performance indices. Two different
+scenarios are used when DE is applied. The performances
+of DE with two different scenarios and different
+strategies are compared in terms of their success rate. To
+validate the results, Real Genetic Algorithm (RGA) is
+applied and compared with DE.

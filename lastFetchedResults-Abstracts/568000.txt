@@ -1,0 +1,16 @@
+Majority of the fluid flows in nature and industries are turbulent flows. Due to their complexity, modeling 
+and simulation of turbulent flows are still among the top research topics in the field of fluid mechanics. 
+The objective of this work is to consider the turbulence effects at the interface. The presence of interface 
+affects  the  turbulence  structures  and  they  become  anisotropic  near  the  interface.  In this  work,  the  main 
+objective is to consider the fluctuations of the interface topology and their effects on the volume fraction 
+and  the  surface  tension  force  at  the  interface.  These  effects  are  important  under  some  circumstances 
+especially when the shape of the interface changes rapidly and abruptly. The surface tension forces and the 
+volume fraction-velocity fluctuation correlation have also important impact on the interface topology and 
+its  complicated  features  such  as  coalescence  and  breakup.  Different  new  models  are  presented  and  the 
+impacts  of  those  parameters  on  the  flow  at  the  interface  are  presented  in  this  work.  In  developing  the 
+models for  mean velocity-volume  fraction fluctuations  the  inhomogeneity  of  the  flow  at  the  interface  is 
+taken  into  account.    Both  Reynolds Averaged  Navier-Stokes  Equations  and  the  Large  Eddy  Simulation 
+Techniques were used to simulate turbulent interfacial flows and implement the novel models introduced 
+in this work. The Kelvin-Helmholtz instability, two-dimensional and three dimensional jets, and water/oil 
+phase separation were simulated numerically and the results were compared with corresponding valid data 
+and the accuracy of the models was examined.

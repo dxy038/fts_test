@@ -1,0 +1,8 @@
+SummaryObjective
+jective of this work is to investigate a possibility of creating a computer-aided decision support system for an automated analysis of vocal cord images aiming to categorize diseases of vocal cords.
+ology
+oblem is treated as a pattern recognition task. To obtain a concise and informative representation of a vocal cord image, colour, texture, and geometrical features are used. The representation is further analyzed by a pattern classifier categorizing the image into healthy, diffuse, and nodular classes.
+s
+proach developed was tested on 785 vocal cord images collected at the Department of Otolaryngology, Kaunas University of Medicine, Lithuania. A correct classification rate of over 87% was obtained when categorizing a set of unseen images into the aforementioned three classes.
+sion
+g in mind the high similarity of the decision classes, the results obtained are rather encouraging and the developed tools could be very helpful for assuring objective analysis of the images of laryngeal diseases.

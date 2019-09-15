@@ -1,0 +1,8 @@
+Objective
+lore experimental RBCs derived from a successful commercially available RBC (Grandio) to investigate resin monomer blend and filler parameters (volume fraction, density and diameter) on RBC performance.
+
+perimental RBCs modified from a commercial RBC were tested. The three-point flexure strength (σ3) and modulus (E) data was determined for groups of 20 bar-shaped specimens, prepared in a custom-made knife-edge split aluminum mold and irradiated using a modification of the ISO 4049 protocol. The biaxial flexure strength (BFS) and top and bottom Vickers hardness number (VHN) determination was performed on disc-shaped specimens (n = 20). Normal distribution of the σ3, E, BFS and top and bottom VHN data was verified using the Shapiro–Wilk's test. Paired groups were compared using independent samples t-test for the individual tests investigated (σ3, E, BFS and top and bottom VHN) at a significance level of P &lt; 0.05.
+s
+ificant decrease in the mean σ3 (P &lt; 0.011) and mean E (P &lt; 0.001) were identified on increasing the filler fraction (from 71.4 to 74.5 vol%) or increasing the mean filler diameter (from 1.5 to 2.5 μm). Increasing the filler density resulted in a significant increase in the mean σ3 (P &lt; 0.001), mean E (P &lt; 0.001) and mean top VHN (P ≤ 0.001). Replacing the monomeric blend with an ormocer blend significantly reduced the mean σ3, E, BFS and top and bottom VHNs (all P &lt; 0.001).
+icance
+ch RBC monomeric resin and filler (type, density and diameter) combination employed, a finite filler volume fraction exists. Operating at the finite filler volume fraction increases the difficulty in improving the mechanical properties of the RBCs tailored from a commercial product.

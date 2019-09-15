@@ -1,0 +1,8 @@
+The classical generalized self-consistent model (GSCM) is recognized to be suitable and efficient for estimating the effective
+moduli of an isotropic composite consisting of an isotropic host matrix and an isotropic inclusion phase. The present
+work aims to enlarge the scope of the GSCM so that it becomes applicable to a good number of important situations where
+the phases cannot be differentiated as the host matrix and inclusions. This objective is achieved first by inserting into the
+unknown effective medium a coated composite sphere whose core is made of the unknown effective medium and whose
+coatings are formed of the constituent phases and then by imposing an energy equivalency condition. The equations thus
+obtained to characterize the effective bulk and shear moduli involve a microstructural parameter which turns out to be
+capable of describing in some sense how far a microstructure is from the host matrix/inclusion morphology. The

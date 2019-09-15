@@ -1,0 +1,14 @@
+Optimization of PEM Fguel Cell`s Design Parameters Using Genetic Algorithm. 
+Somayeh Ahmadi 
+Institute for International Energy Studies (IIES), Tehran, Iran, sepide.ahmadi2006@gmail.com
+ Vahid Firozmand
+Enerry Engineering Department, Sharif University of Technology, Tehran, Iran, vahid.frz@gmail.com
+Omid Mahdavi
+Enerry Engineering Department, Sharif University of Technology, Tehran, Iran, omidmhdv@gmail.com
+Received: 2013/10/03        Accepted: 2014/01/29
+
+Abstract
+Fuel cells are electrochemical systems that convert chemical energy into electricity without any combustion. Due to high energy efficiency and multiple applications, fuel cells are one of the most popular energy conversion systems. Thus, optimization of fuel cells systems has received much attention in recent studies. In this study we develop a techno-economic model for analysis of PEM stack fuel cells. First, we introduce the methodology for solving the optimization problem and then, using the equations presented in the modeling exercise we develop a model for estimating the final cost of 50 kw fuel cell stack. The model uses temperature and pressure of the system, air and hydrogen stoichiometric ratio and electric current density. Finally, we optimize costs of constructing a 50 kW fuel cell stack including a fuel cell, air compressor, hydrogen storage tank and other components using a genetic algorithm. We then perform sensitivity analysis on each parameter and discuss how the objective function of the model can be improved by changing each one of these parameters.
+JEL Classification:  C39, C61, Q40, L68
+Keywords: PEM fuel cell, genetic algorithm, optimization, sensitivity analysis, techno-economic model. 
+

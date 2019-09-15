@@ -1,0 +1,9 @@
+Objective
+To investigate whether cognitive function in the spectrum of normal aging to Alzheimer's disease is better reflected in MRI or EEG measures, or a combination of both.
+Methods
+Cognitive functions were tested in 33 elderly subjects: 10 with probable Alzheimer's disease, 11 with mild cognitive impairment and 12 controls. Structural brain parameters were derived from conventional MRI and a quantitative MR technique called magnetization transfer imaging. The EEG provided measures of brain function. We performed multiple linear regression analyses to relate EEG and MRI parameters to global cognition, memory, language and psychomotor speed.
+Results
+The model showed EEG alpha reactivity during eyes open to be the primary factor associated with global cognition, memory and language skills. Brain atrophy was the primary factor associated with psychomotor speed. Furthermore, EEG alpha reactivity during eyes open explained significant additional variability in psychomotor speed.
+Conclusion
+EEG and MRI are each associated with different aspects of cognitive function and complement each other in their relations to psychomotor speed.
+

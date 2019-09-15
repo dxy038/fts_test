@@ -1,0 +1,13 @@
+Some applications of FACTS devices prove them to be proper and eective
+instruments for controlling the technical parameters of the power systems. Applying a
+suitable objective function to optimal placement of FACTS devices plays a very important
+role in economic improvement of a power market. In this paper, an eective method has
+been presented for optimal placement of FACTS devices in order to increase the voltage
+stability and to decrease the losses, considering the investment cost of the FACTS devices
+and the total fuel cost of the power system. Therefore, the Harmony Search Algorithm
+(HSA) is applied in this paper for simultaneous locating as well and for determining the sizes
+of both the series and parallel devices (SSSC, STATCOM) in a multi-objective structure.
+Since the optimization is multi-purpose, a fuzzy system is used in order to nd the best
+solution. The eectiveness of the proposed method is demonstrated using the modied
+30-bus IEEE test system. Comparing the results achieved by the suggested algorithm with
+those of the PSO and GA, the proper eciency of the presented algorithm will be enforced.

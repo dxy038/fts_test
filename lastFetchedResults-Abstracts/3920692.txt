@@ -1,0 +1,1 @@
+A new type of comb filter is presented to enhance speech based on an overlap-and-add approach. The filter taps are altered and smoothed according to the degree of periodicity in speech. Objective measures including the segmental SNR and cepstral distance are carried out for performance evaluation. Improvements in the SNR in the range 0-20 dB are observed

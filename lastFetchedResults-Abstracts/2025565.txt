@@ -1,0 +1,23 @@
+World Health Organization (WHO) cites
+malnutrition as the greatest single threat to the world's
+public health. The objective of the application is to provide a
+way to reduce malnutrition in children by introducing a new
+system which will function under the e-government initiatives
+by using Agent Technology and Data mining technique (such
+as rule based classification). Multi-agent systems have a set of
+properties that make them suitable for use in solving the
+many problems that are encountered in the healthcare
+domain. This paper outlines the architecture & working of
+the system which will consists of agents such as User Identify
+Agent, Advice Agent, Resource Agent, Admin/Government,
+Reporting Agent and Detection Engine. The proposed system
+will be helpful to provide the necessary information about the
+patient’s medical status. Information is organized and
+managed as a utility for patients, but at the same time it is
+also based on requirements of the government & the assigned
+authentication of the user. The system is further enhanced in
+order to provide required information about the specific
+nutrition status about the patient. And also it will provide the
+convenient way for citizens to check nutrition status of their
+child. System is further improved by in cooperating rule
+based classification technique to detect malnutrition

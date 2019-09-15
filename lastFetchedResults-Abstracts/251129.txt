@@ -1,0 +1,12 @@
+Equality constraints have been well studied and widely used in deterministic optimization, but they have
+rarely been addressed in reliability-based design optimization (RBDO). The inclusion of an equality
+constraint in RBDO results in dependency among random variables. Theoretically, one random variable
+can be substituted in terms of remaining random variables given an equality constraint; and the equality
+constraint can then be eliminated. However, in practice, eliminating an equality constraint may be difficult or
+impossible because of complexities such as coupling, recursion, high dimensionality, non-linearity, implicit
+formats, and high computational costs. The objective of this work is to develop a methodology to model
+equality constraints and a numerical procedure to solve a RBDO problem with equality constraints. Equality
+constraints are classified into demand-based type and physics-based type. A sequential optimization and
+reliability analysis strategy is used to solve RBDO with physics-based equality constraints. The first-order
+reliability method is employed for reliability analysis. The proposed method is illustrated by a mathematical
+example and a two-member frame design problem. Copyright q 2007 John Wiley & Sons, Ltd

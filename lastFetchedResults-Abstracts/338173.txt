@@ -1,0 +1,9 @@
+Objective
+By virtue of its high expression in both developing hematopoietic tissues and many myeloid leukemia cells lines, the embryonic tyrosine kinase receptor ETK2 (also known as Tyro3, Sky, and Rse) has been postulated to play a role in early hematopoiesis. To investigate this role, we expressed murine ETK2 in the interleukin 3 (IL-3) dependent myeloid progenitor cell line FDC-P1 and examined its effect on growth factor dependence.
+Materials and Methods
+ETK2 cDNAs encoding full-length or kinase domain-deleted receptor were retrovirally transduced into murine FDC-P1 cells. Survival, cell cycle status, and proliferative responses of ETK2 expressing clones were studied at normal and reduced growth factor concentrations.
+Results
+ETK2 was expressed as a functional tyrosine kinase of 110 and 150 kDa. This proto-oncogene altered the growth of FDC-P1 cells, allowing survival at reduced growth factor concentrations and delaying apoptosis after IL-3 withdrawal. ETK2-expressing clones contained a higher fraction of cells in the S/G2/M phases of the cell cycle, both after cytokine withdrawal and in the presence of IL-3. Furthermore, these cells had a modestly enhanced proliferative response to IL-3 and granulocyte-macrophage colony-stimulating factor, suggesting that ETK2 intracellular signaling may converge with that of hematopoietic growth factors. The effects of ETK2 expression on viability and proliferation were largely dependent on a functional intracellular tyrosine kinase domain.
+Conclusion
+These results support a role for ETK2 in the survival and/or expansion of primitive hematopoietic cells and suggest that this tyrosine kinase may be implicated in myeloid leukemogenesis as well.
+

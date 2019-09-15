@@ -1,0 +1,1 @@
+The objective of this advanced concept, Cockpit Weather Information System (CWIN), is to develop an aeronautical system that delivers real-time graphical weather information with global-coverage to the flight deck of an aircraft via a satellite communications system (SATCOM)/global positioning system (GPS)

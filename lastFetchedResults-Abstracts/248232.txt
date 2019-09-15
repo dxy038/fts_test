@@ -1,0 +1,13 @@
+The objective of electrical impedance tomography is to reconstruct images representing the electrical
+impedance properties within a region from measurements on its surface. The region of interest is usually Þrst
+discretized into Þnite elements and its impedance distribution updated using an iterative process. This
+iterative process comprises two problems: the forward problem and the inverse problem. The inverse
+problem is the term given to the procedure to Þnd the internal impedance distribution from a set of
+boundary measurements, and the forward problem is the determination of the internal voltages given the
+impedance distribution and boundary conditions. In this paper several Þnite element labelling algorithms,
+implemented by the authors in C, are investigated and their impact on the forward problem solver e¦ciency
+analysed. The algorithms investigated are: Nested Dissection (ND), Minimum Degree (MDG), Minimum
+DeÞciency (MDF) and Simulated Annealing for Fill-in (SAFR) Reduction during Cholesky Factorization.
+These renumbering strategies were applied to a collection of representative two-dimensional meshes used in
+electrical impedance tomography and a number of sparse symmetric matrices from the HarwellÐBoeing
+sparse matrix collection for comparison purposes

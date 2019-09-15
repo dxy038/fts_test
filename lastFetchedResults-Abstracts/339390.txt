@@ -1,0 +1,11 @@
+Objective
+Pegfilgrastim has shown to decrease the duration of severe neutropenia after conventional chemotherapy, but its use after high-dose chemotherapy and autologous blood stem cell transplantation has not been established yet. Therefore we studied the efficacy and the pharmacokinetic profile of pegfilgrastim in patients with multiple myeloma undergoing high-dose chemotherapy.
+Method
+
+In total, 21 patients received a single subcutaneous injection of 6 mg pegfilgrastim on day +1 after transplantation and pegfilgrastim plasma levels were measured daily by enzyme-linked immunosorbent assay. Clinical outcome was compared with pegfilgrastim levels of 282 plasma samples and data of a historical control group of patients without granulocyte colony-stimulating factor (G-CSF) support.
+Results
+
+Pegfilgrastim levels showed an inverse correlation (r = −0.68, p < 0.01) with neutrophil counts. Peak levels were reached at day +4 (94 ng/mL; range: 37–205) and were maintained until day +7 (85 ng/mL; range: 35–186). Comparison with the control group without G-CSF support showed that time to neutrophil reconstitution was significantly shorter in the pegfilgrastim group with 10 vs 15 days, respectively (p < 0.001). There was no correlation of pegfilgrastim levels and the duration of neutropenia, although patients with a fivefold increase in neutrophil counts the day after pegfilgrastim administration had a significantly shorter median duration of neutropenia in comparison to patients who were less susceptible to G-CSF stimulation (5 vs 7 days, p < 0.01).
+Conclusion
+
+Neutrophil reconstitution after high-dose chemotherapy could be accelerated by the use of pegfilgrastim in patients with myeloma. Responsiveness of neutrophils to pegfilgrastim before neutropenia was correlated with faster neutrophil reconstitution, whereas G-CSF levels had no impact on neutrophil recovery.

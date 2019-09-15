@@ -1,0 +1,1 @@
+The article studies the problem of hardware Trojans in wireless cryptographic ICs. The objective is to design Trojans to leak secret information through the wireless channel. The authors investigate challenges related to detection for such Trojans and propose using statistical analysis of the side-channel signals to help detect them.

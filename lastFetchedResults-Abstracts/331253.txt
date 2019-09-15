@@ -1,0 +1,11 @@
+Objective
+Characterize the microstructure, composition and some physical properties of a glass-infiltrated alumina/zirconia-reinforced ceramic (IZ) and the effect of surface treatment on topography.
+Methods
+
+IZ ceramic specimens were fabricated according to ISO6872 instructions and polished through 1 μm alumina abrasive. Quantitative and qualitative analyses were performed using scanning electron microscopy (SEM), backscattered imaging (BSI), electron dispersive spectroscopy (EDS) and stereology. The elastic modulus (E) and Poisson's ratio (ν) were determined using ultrasonic waves, and the density (ρ) using a helium pycnometer. The following ceramic surface treatments were used: AP-as-polished; HF-etching with 9.5% hydrofluoric acid for 90 s; SB-sandblasting with 25 μm aluminum oxide particles for 15 s and SC-blasting with 30 μm aluminum oxide particles modified by silica (silica coating) for 15 s. An optical profilometer was used to examine the surface roughness (Ra) and SEM–EDS were used to measure the amount of silica after all treatments.
+Results
+
+The IZ mean property values were as follows: ρ = 4.45 ± 0.01 g/cm3; ν = 0.26 and E = 245 GPa. Mean Ra values were similar for AP- and HF-treated IZ but significantly increased after either SC or SB treatment (p ≤ 0.05). The surface concentration of Si(K) increased 76% after SC treatment.
+Significance
+
+HF is an inadequate surface treatment for bonding resins to IZ ceramic. Treating IZ with either SB or SC produced greater Ra values and the SC showed a significant increase in the surface concentration of silica, which may enhance bonding to resin via silane coupling.

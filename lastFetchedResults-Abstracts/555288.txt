@@ -1,0 +1,6 @@
+Th e main objective of this paper is to survey the effective facrors on equity funds return in Tehran Stock Exchange (TSE) with regard to recent dcvelopmenr of rhese financial institutions.
+
+In this research, weekly data of 20 funds for the period of 1 5 Jul 2009 to Jul 2010 is used. 10 different factors arc considered, including: market return, value of unir issued, value of unit redeemed, funds value's growth rate, capiral activity ratio, ownership structure, risk (absolute deviation), number of industries in fund's portfolio, cash amount held by funds, and funds return of previous period.
+
+Analysis has been done using OLS with panel data structure and fixed effect. Findings show that six facrors including: market return, funds value's growth rate, risk (absolute deviation), value of unit issued, capital activity ratio and value of unirs redeemed, can affect on funds return.
+

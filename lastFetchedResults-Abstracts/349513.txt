@@ -1,0 +1,11 @@
+Objective
+To investigate the relationship between the complexity of sleep EEG time series and neurodevelopment for premature or full-term neonates.
+Methods
+Nonlinear dynamical analysis of neonatal sleep EEG time series is used to compute the correlation dimension D2 which is an index of the complexity of the dynamics of the developing brain. The dimensional complexity is estimated using Theiler’s modification of the Grassberger–Procaccia algorithm for two different values of Theiler’s w parameter. The hypothesis that neonatal EEG data during sleep contains nonlinear features is verified by means of surrogate data testing.
+Results
+The dimensional complexity of the neonatal EEG increases with neurodevelopment and brain maturation. There is furthermore a statistically significant difference between the dimensional complexity of the EEG for neonates born prematurely when compared to full-term neonates at the same postmenstrual age (PMA). The neonatal EEG time series data used in this study proved to contain nonlinear features where the ‘null hypothesis’ of surrogate data testing is rejected with p 0.0001.
+Conclusions
+A relationship between neurodevelopment and brain maturation and the complexity of the dynamics of the brain as measured by the dimensional complexity of the sleep EEG time series has been established. In particular, the dimensional complexity tends to increase with neurodevelopment and maturation as indicated by their PMA and birth status (premature or full-term). In particular, the brain dynamics of neonates born prematurely is less complex than the brain dynamics of neonates born full-term even at the same PMA. We attribute this to differences in the neurodevelopment between these two cohorts. We propose that the dimensional complexity can be used as an index for quantifying neurodevelopment.
+Significance
+The dimensional complexity as measured by the correlation dimension of the sleep EEG time series may potentially be a useful measure for quantifying neurodevelopment in neonates. Future work is directed at the analysis of other EEG channels to understand the relationship between complexity in different regions of the brain and maturation and neurodevelopment, along with the utility of complexity to relate to neurodevelopment at older ages as measured by the Bayley score.
+

@@ -1,0 +1,15 @@
+In this contribution, the extraordinarily high level of thermal insulation produced
+by nanoporous materials, which can achieve thermal conductivities
+down to a few mW·m−1·K−1 when they are evacuated to a primary vacuum,
+is highlighted. The objective here is to quantify the level of radiation heat
+transfer traveling through a nanoporous material in relation with its composition.
+The model used here is based on the “non-gray anisotropically scattering
+Rosseland approximation,” which allows the definition of a “radiation
+thermal conductivity” expressed as a function of the optical properties (complex
+optical index spectra), mean sizes and volume fractions of the different
+populations of particles constituting the material. With the help of this simple
+model, one can draw iInteresting conclusions concerning the impacts of
+different parameters related to the microstructure of the nanoporous material
+on the amplitude of the radiation heat transfer. In the future, this model
+should help to orient the formulation of new nanoporous materials with optimized
+radiative properties

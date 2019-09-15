@@ -1,0 +1,11 @@
+Objective
+Although dendritic cell (DC) precursors have been isolated from many lymphoid sites, the regulation and location of early DC development is still poorly understood. Here we describe a splenic microenvironment that supports DC hematopoiesis in vitro and identify gene expression specific for that niche.
+Methods
+
+The DC supportive function of the STX3 splenic stroma and the lymph node-derived 2RL22 stroma for overlaid bone marrow cells was assessed by coculture over 2 weeks. The DC supportive function of SXT3 was identified in terms of specific gene expression in STX3 and not 2RL22 using Affymetrix microchips.
+Results
+
+STX3 supports DC differentiation from overlaid bone marrow precursors while 2RL22 does not. A dataset of 154 genes specifically expressed in STX3 and not 2RL22 was retrieved from Affymetrix results. Functional annotation has led to selection of 26 genes as candidate regulators of the microenvironment supporting DC hematopoiesis. Specific expression of 14 of these genes in STX3 and not 2RL22 was confirmed by reverse transcription-polymerase chain reaction.
+Conclusion
+
+Some genes specifically expressed in STX3 have been previously associated with hematopoietic stem cell niches. A high proportion of genes encode growth factors distinct from those commonly used for in vitro development of DC from precursors. Potential regulators of a DC microenvironment include genes involved in angiogenesis, hematopoiesis, and development, not previously linked to DC hematopoiesis.

@@ -1,0 +1,10 @@
+Nowadays, the environmental impact of transportation project and, especially air pollution
+impacts, are major concerns in evaluating transportation projects. Based on this concern, beside definition of
+traditional objective functions like total travel time and total investment cost, different type of environmental
+related function is considered as objective function in urban network design. In this paper, the continuous
+network design problem (CNDP) is formulated as a multi-objective bi-level optimization problem. The objective
+function of the upper level problem is a weighted combination of total travel time, total investment cost and
+total vehicular emission in the network. The lower level problem is the traffic assignment problem which
+would predict the vehicular flow on each link in the network. A new solution algorithm is proposed for solving
+the bi-level optimization problem by the partial linearization of the lower level problem. The solution algorithm
+was applied to the city of Sioux Falls, a well known transportation network.

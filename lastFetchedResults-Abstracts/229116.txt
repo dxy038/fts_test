@@ -1,0 +1,9 @@
+Monte-Carlo path tracing algorithms for computer graphics require that given an incident light ray at a surface
+an outgoing direction can be computed with a distribution given by the magnitude of the bidirectional reflectance
+distribution function (BRDF). For analytic reflectance functions this can be done using various techniques including
+inverting the function, or tabulating some representation of the inverse. However, measured BRDF data sets
+are too large for this to be practical.
+We present a method to generate reflection rays distributed according to the magnitude of the BRDF. The method
+relies on a wavelet-based representation of the BRDF. This representation is efficient and compact, allowing large,
+anisotropicmeasured BRDF data sets to be representedwith a few thousand coefficients. In particular, we exploit
+the wavelet representation to quickly compute integrals over ranges of the BRDF.

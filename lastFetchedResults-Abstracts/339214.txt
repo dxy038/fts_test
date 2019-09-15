@@ -1,0 +1,11 @@
+Objective
+The objective of this study was to determine the effects of transforming growth factor (TGF)-β1 on mast cell development.
+Materials and Methods
+
+Mast cells were cultured from mouse bone marrow in interleukin (IL)-3 + stem cell factor, in the presence or absence of TGF-β1. We assessed mast cell development by measuring the expression of kit, T1/ST2, Fcvar epsilonRI, and Fcγ receptors. Cell morphology was determined by histochemical staining. Alterations in Fcvar epsilonRI subunit expression were measured by Western blot analysis. Adoptive transfer of cultured mast cells into mast cell–deficient W/Wv mice was used to determine if the in vivo environment could reverse the inhibitory effects of TGF-β1.
+Results
+
+TGF-β1 decreased Fcvar epsilonRI, c-kit, T1/ST2, and FcγR expression, and inhibited granule formation in developing mast cells. Accessory cells were not required for this inhibition. Smad3 deficiency did not alter the response of bone marrow cells to TGF-β1. TGF-β1 inhibited expression of the Fcvar epsilonRI α subunit protein, without decreasing β or γ proteins. Mast cells derived in the presence of TGF-β1 were functionally impaired, as IgE-mediated cytokine secretion was greatly reduced. The changes in granule formation and surface antigen expression were long-standing, as they were not reversed by transfer to W/Wv mice.
+Conclusions
+
+TGF-β1 may contribute to mast cell homeostasis by inhibiting maturation from bone marrow precursors. The effects of TGF-β1 result in greatly diminished expression of cell surface markers, reduced granulation, and lack of responsiveness to IgE-mediated activation. Thus TGF-β1 can serve as a potent and multifunctional regulator of mast cell maturation.

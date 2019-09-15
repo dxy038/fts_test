@@ -1,0 +1,9 @@
+Nephropathia epidemica (NE) is a human infection caused by Puumala virus (PUUV), which is naturally carried and shed by bank voles (Myodes glareolus).
+
+The objective was to develop a dynamic model of the NE cases and the bank vole population in both Finland and Belgium by defining the periodic components with a dynamic harmonic regression (DHR) model. The defined periodic components can be further used to adapt mechanistic Susceptible and Infective (SI) models regionally.
+
+Despite the difference in bank vole population dynamics and NE cases between the Western European temperate zone and boreal zones the DHR model was able to quantify the dynamics of NE cases in Belgium and Central Finland with a coefficient of determination (R2) of 0.70 and 0.82 respectively and to quantify the dynamics of bank vole population in Belgium and Central Finland with R2 of 0.80 and 0.98 respectively.
+
+DHR identified 18 month cycles in the bank vole population in Belgium. This approach demonstrated two year cycles in Belgian NE outbreaks. DHR identified three year cycles in Finnish bank vole populations which in turn cause three year cycles in the NE outbreaks in Central Finland. Because the bank vole population data in Finland was contemporary with the data of NE cases, the DHR showed a three month delay between the NE cases and the bank vole population in Central Finland.
+
+This approach may help us in our understanding of the spatial and temporal dynamics of NE cases and the bank vole populations in different regions.

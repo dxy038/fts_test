@@ -1,0 +1,11 @@
+Objective
+Low amplitude vibration of forearm or hand muscles predominantly activates proprioceptive inputs that influence corticospinal projections in a focal manner, increasing output to the stimulated muscle while reducing output to neighbouring muscles. Modulation of contralateral forearm muscles by vibration has also been reported on one occasion. The aim of the current investigation was to investigate the effects of proprioceptive input from a hand muscle on corticospinal excitability, intracortical inhibition (SICI) and interhemispheric inhibition (IHI) targeting the homologous contralateral muscle.
+Methods
+Transcranial Magnetic Stimulation (TMS) was delivered to the left cortical hand area of 10 healthy subjects and surface electromyography (EMG) recordings taken from the right First Dorsal Interosseus (FDI) and Abductor Digiti Minimi (ADM). The effect of low amplitude vibration of the left FDI on MEP amplitudes, SICI and IHI targeting the right hand was assessed.
+Results
+Vibration of the left FDI caused a significant reduction in MEP amplitudes in the homologous right FDI but not in the right ADM. SICI and IHI targeting both muscles were also significantly increased.
+Conclusions
+We conclude that proprioceptive input from a hand muscle reduces the corticospinal excitability of the contralateral homologous muscle. The increases in SICI and IHI suggest that at least some of this effect occurs in the cortex ipsilateral to the stimulus and this may be mediated via transcallosal fibres.
+Significance
+These results suggest that sensory input can modulate excitability in both motor cortices simultaneously, as well as the relationship between them. Interventions which modulate this transcallosal relationship may become useful in disorders where abnormal IHI is a potential therapeutic target.
+

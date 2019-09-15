@@ -1,0 +1,9 @@
+Objective
+Thrombopoietin (TPO) is the pivotal regulator of thrombocytopoiesis and megakaryocytopoiesis, and binding to its receptor c-Mpl leads to activation of at least two different signaling pathways: the Jak-Stat pathway and the Ras-MAPK pathway. Our aim was to elucidate which Stat-complexes are formed in TPO signal transduction in human blood platelets.
+Materials and Methods
+We used electrophoretic mobility shift assays (EMSA) in order to analyze the formation of distinct Stat complexes on two distinct oligonucleotide probes. Furthermore, we used immunoprecipitation and Western blotting of protein lysates from TPO-stimulated platelets.
+Results
+We found homodimers of Stat1α, Stat3, Stat5a, and Stat5b, as well as heterodimers of Stat1/Stat3 and Stat5a/Stat5b, but no Stat1/Stat5 or Stat3/Stat5 heterodimers are formed in platelets in response to TPO. Stat5 complexes bound to labeled DNA with a fast kinetic followed by Stat3 and Stat1. The adapter protein CrkL is present in DNA-bound Stat5 complexes and predominantly bound to Stat5b. The kinase ERK2 is also tyrosine phosphorylated after TPO-stimulation of platelets but this activation does not modulate the phosphorylation of the serine residues in the PXSP motif present in Stat1 and Stat3.
+Conclusion
+Our findings thus emphasize the differential regulation of Stat1, Stat3, Stat5a, and Stat5b in platelets and may be an appropriate model of c-Mpl signaling in mega-karyopoiesis.
+

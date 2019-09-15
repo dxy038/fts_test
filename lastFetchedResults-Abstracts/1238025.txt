@@ -1,0 +1,1 @@
+This paper considers a parallel machine scheduling problem with outsourcing allowed. The objective of this problem is the combination of makespan and Outsourcing costs. In order to solve the problem, A mathematical model is proposed. Because of high computational time of mathematical model a Tabu search and PSO methods are proposed to solve the problem.

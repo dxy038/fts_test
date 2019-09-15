@@ -1,0 +1,9 @@
+Objective
+The purpose was to study the impact of maternal endogenous and clinician-applied exogenous delivery forces on brachial plexus stretching during a shoulder dystocia event.
+Study design
+A computer software crash dummy model (MADYMO, version 5.4, TNO Automotive, Delft, The Netherlands) was modified on the basis of established maternal pelvis and fetal anatomic specifications. The brachial plexus was modeled as a spring, with mechanical properties that were based on previously reported experimental data. Increasing amounts of endogenous or exogenous loading forces were applied until delivery of the anterior fetal shoulder occurred. Brachial plexus deformation was assessed as percent stretch in the nerve (Change in length/Original length×100).
+Results
+With lithotomy positioning, both maternal endogenous and clinician-applied exogenous delivery forces were associated with brachial plexus stretching (15.7% vs 14.0%, respectively). McRoberts positioning reduced needed loading forces for delivery and resulted in 53% less brachial plexus stretch (6.6%). Downward lateral displacement of the fetal head was associated with a 30% increase in brachial plexus stretch (18.2%) compared with axial positioning of the head (14.0%).
+Conclusion
+Brachial plexus stretch varied as a result of the load required for delivery, the source of the applied force, pelvic orientation, and fetal head positioning. Maternally derived and clinician-applied delivery forces can both lead to brachial plexus deformation when shoulder dystocia is encountered. The McRoberts maneuver can reduce brachial plexus stretching. Management of fetal head position may also be important in reducing unnecessary brachial plexus stretch.
+

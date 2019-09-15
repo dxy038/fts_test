@@ -1,0 +1,1 @@
+Introduces a system (PAFE) which provides a flexible framework for feature extraction. This system is constructed based on the multi agents model, in which many agents work co-operatively and concurrently. The objective of this system is to achieve flexible control and coarse-grained parallelism of feature extraction by organizing feature extraction as parallel graph search

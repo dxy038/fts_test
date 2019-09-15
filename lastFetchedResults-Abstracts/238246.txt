@@ -1,0 +1,10 @@
+An optimal operating mode for a sequencing batch reactor was determined via a model-based optimization. Synthetic wastewater
+containing mainly organic matter (as glucose) and nitrogen (as ammonium chloride) was treated without any addition of an external
+carbon source to accomplish denitrification step. A simplified model was used to describe process dynamics, comprised of six ordinary
+differential equations and an empirical correlation for oxygen consumption rate. Batch cycle time was the chosen objective function to be
+minimized for a fixed volume of waste to be treated. Furthermore, as SBR operation is divided in two major phases – aerobic and anoxic,
+to achieve total pollutants removal within minimum time, these phases can be repeatedly alternated. To ensure availability of organic
+matter necessary for denitrification, these two phases were combined with feed steps. Different feed strategies were tested using one,
+two or three feed steps. A successive quadratic programming algorithm was used, and maximum values for final COD, nitrate and
+ammonium concentrations, as well as maximum feed pump flow rate were some the process constraints. One step feed strategy was indicated
+by the optimization leading to a batch cycle time of 5 h.

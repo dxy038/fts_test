@@ -1,0 +1,8 @@
+Objective
+igned this study to investigate the changes of regional homogeneity (ReHo) after a 6-week duloxetine therapy in first-episode drug-naïve major depressive disorder with panic disorder (FEMDDPD) patients.
+
+netic resonance imaging (MRI) scanning and ReHo functional MRI analysis were performed on 15 patients (male: 5; female: 10; age: 35.87 ± 9.59 years old) at baseline and remitted status (sixth week) compared with 15 healthy control subjects (male: 4; female: 11; age: 34.30 ± 9.87 years old) which were scanned twice within 6 weeks. The ReHo was analyzed by the REST toolbox (resting-state functional MRI data analysis toolbox). The ReHos of different time-points were compared by using paired t test function of REST.
+s
+ncreased in right superior frontal cortex, right medial frontal cortex and decreased in right superior temporal cortex (uncorrected p &lt; 0.00005, cluster threshold &gt; 20, surface connected theory) after remission of symptoms in these FEMDDPD patients within 6 weeks (improvements of clinician rating and self rating scale scores; post-hoc corrected p &lt; 0.001). No significant changes of ReHo were observed in the controls within 6 weeks (uncorrected p &lt; 0.1, no cluster threshold setting, surface connected theory). The changes of ReHo value were mildly correlated with improvements of clinical rating scales with age, gender, depression and anxiety severity as covariates.
+sion
+udy suggested that differential modulations inside the default mode network probably were associated with remission of FEMDDPD symptoms after duloxetine therapy.

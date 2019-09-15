@@ -1,0 +1,9 @@
+Due to the dynamic nature and complexity of TCP congestion control, the AQMs leave some
+opportunity for improvement. The objective of this paper is to design novel AQM schemes
+which achieve efficiency and robustness by using AI technologies, in particular FL. In this
+paper, we elaborate on the approach of developing AQM using FL. First, we present our AQM
+design and innovations in terms of the traffic load factor and the application of FL for AQM.
+After describing the structure of a generic FL controller (FLC) which directs an FLC design,
+the two proposed FL-based AQM (FLAQM) algorithms are then presented to realize
+proactive queuing in turn. Finally we show the analysis of the efficiency and feasibility of our
+proposed FLAQM algorithms.

@@ -1,0 +1,19 @@
+An understanding of the variation of directional radiative properties of rough
+surfaces with dielectric coatings is important for temperature measurements
+and heat transfer analysis in many industrial processes. An experimental
+study has been conducted to investigate the effect of coating thickness on the
+bidirectional reflectance distribution function (BRDF) of rough silicon surfaces.
+Silicon dioxide films with thicknesses of 107.2, 216.5, and 324.6nm
+were deposited using plasma-enhanced chemical vapor deposition onto the
+rough side of two Si wafers. The wafer surfaces exhibit distinct anisotropic
+characteristics as a result of chemical etching during the manufacturing process.
+A laser scatterometer measures the BRDF at a wavelength of 635 nm,
+after improvement of the signal-to-noise ratio. The slope distribution function
+obtained from the measured BRDF of uncoated Si surfaces was used
+in an analytical model based on geometric optics for rough surface scattering
+and thin-film optics for microfacet reflectance. The predicted BRDFs are
+in reasonable agreement with experimental results for a large range of coating
+thicknesses. The limitations of the geometric optics for modeling the BRDF
+of coated anisotropic rough surfaces in the specular direction are demonstrated.
+The results may benefit future radiative transfer analysis involving
+complicated surface microstructures with thin-film coatings.

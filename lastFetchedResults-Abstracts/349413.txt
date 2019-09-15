@@ -1,0 +1,11 @@
+Objective
+We examined the impact of perceptual load by manipulating interstimulus interval (ISI) in two auditory selective attention studies that varied in the difficulty of the target discrimination.
+Methods
+In the paradigm, channels were separated by frequency and target/deviant tones were softer in intensity. Three ISI conditions were presented: fast (300 ms), medium (600 ms) and slow (900 ms). Behavioral (accuracy and RT) and electrophysiological measures (Nd, P3b) were observed.
+Results
+In both studies, participants evidenced poorer accuracy during the fast ISI condition than the slow suggesting that ISI impacted task difficulty. However, none of the three measures of processing examined, Nd amplitude, P3b amplitude elicited by unattended deviant stimuli, or false alarms to unattended deviants, were impacted by ISI in the manner predicted by perceptual load theory.
+Conclusions
+The prediction based on perceptual load theory, that there would be more processing of irrelevant stimuli under conditions of low as compared to high perceptual load, was not supported in these auditory studies.
+Significance
+Task difficulty/perceptual load impacts the processing of irrelevant stimuli in the auditory modality differently than predicted by perceptual load theory, and perhaps differently than in the visual modality.
+

@@ -1,0 +1,1 @@
+The problem of controlling chaos is raising increasing interest in these days. We propose here the control of a well-known system, the Lorenz system, by the input-state linearization technique. The objective is to control the chaotic system to a stable point. The sensitivity to parameter variations has been also investigated

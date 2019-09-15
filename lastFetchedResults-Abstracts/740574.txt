@@ -1,0 +1,9 @@
+Background
+In light of growing concerns of bacterial resistance to fluoroquinolones, the province of Ontario instituted a fluoroquinolone restriction policy in March of 2001. The objective of this study was to examine the immediate impact of this policy on the rates of antibiotic prescription use and infectious disease-related hospitalizations among elderly individuals who are dispensed antibiotics.
+Methods
+An interrupted time series analysis was conducted from January 1, 1994, to March 31, 2002, using administrative health care databases covering more than 1.4 million residents of Ontario, Canada, aged 65 years and older. Population rates of antibiotic use and infectious disease-related hospitalizations within 4 weeks after an antibiotic prescription were examined using interventional autoregressive integrated moving average models.
+Results
+Immediately after the introduction of the fluoroquinolone policy, fluoroquinolone prescription rates decreased to approximately 70% of expected rates (P < .01). Approximately 30% higher than expected use of sulfonamide (P = .01) and urinary anti-infectives (primarily nitrofurantoin and trimethoprim; P < .01) were observed within 1 year after policy implementation. No significant changes in the use of any other groups of antibiotics were observed. Although no significant changes in the rates of overall infection-related hospital admissions among antibiotic users were observed, the rate of hospital admission for gastrointestinal infections was 32% lower than expected in the 1 year after the policy change (P < .01). The hospital admission rate for urinary tract infections was approximately 8% higher than expected (P < .01).
+Conclusions
+These findings suggest that formulary restrictions to fluoroquinolones can be implemented effectively to decrease use among an elderly population without adverse impact on hospital admission rates.
+

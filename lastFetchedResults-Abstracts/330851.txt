@@ -1,0 +1,7 @@
+Objective: This study was designed to characterize the fracture behavior of ceramics and test the hypothesis that variation in strength is associated with a variation in fracture toughness.
+
+Methods: The following four groups of 20 bar specimens (25×4×1.2 mm) were fabricated (ISO standard 6872): E1, a hot-pressed leucite-based core ceramic (IPS Empress); E2, a hot-pressed lithia-based core ceramic (IPS Empress 2); ES, a hot-pressed lithia-based core ceramic (Experimental); and GV, a glass veneer (IPS Empress2 body). Specimens were subjected to four-point flexure loading in 37 °C distilled water. Fractographic analysis was performed to determine the fracture origin (c) for calculation of fracture toughness (KIC). Weibull analysis of flexure strength (σ) data was also performed.
+
+Results: Differences in mean σ and KIC were statistically significant for E1 and GV (p<0.05). These differences are associated with processing effects and composition.
+
+Significance: The higher mean σ and KIC values of E2 and ES core ceramics suggest potentially improved structural performance compared with E1 although the Weibull moduli of E1 and E2 are the same.

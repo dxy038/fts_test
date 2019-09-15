@@ -1,0 +1,9 @@
+Objective
+Ex vivo maintenance of human stem cells is crucial for many clinical applications. Current culture methods rely on optimized combinations of cytokines. Although these conditions provide some level of stem cell support, they primarily induce proliferation and differentiation, resulting in reduced repopulation capacity.
+Materials and Methods
+The recently identified legume lectin FRIL has been shown to preserve human cord blood progenitors up to a month in suspension culture without medium changes. To test whether FRIL also preserves human SCID repopulating stem cells (SRC), we cultured human CD34+ cord blood cells in medium containing FRIL, with or without subsequent exposure to cytokines, and tested their repopulating potential.
+Results
+We report that FRIL maintains SRC between 6 and 13 days in culture. Incubation of CD34+ cells with FRIL results in significantly lower numbers of cycling cells compared with cytokine-stimulated cells. CD34+ cells first cultured with FRIL for 6 days and subsequently exposed to cytokines for an additional 4 days generated significantly more mononuclear and progenitor cells and higher levels of engraftment in NOD/SCID mice compared with CD34+ cells cultured with FRIL alone. Similar results were obtained with CD34+CD38−/low cells, including expansion of SRC that were cultured in FRIL followed by cytokine stimulation. Moreover, CD34+ cells precultured with FRIL successfully engrafted primary and more importantly secondary recipients with lymphoid and myeloid cells, providing further support that FRIL maintains SRC for prolonged periods.
+Conclusion
+FRIL's ability to preserve quiescent primitive cells in a reversible manner may significantly expand the time and range of ex vivo manipulations of human stem cells for clinical applications.
+

@@ -1,0 +1,14 @@
+The problem of scheduling with multi agent has been studied
+for more than one decade and significant advances have been made
+over the years. However, most work has paid more attention to the condition
+that machines are available during planning horizon. Motivated
+by the observations, this paper studies a two-agent scheduling model
+with multiple availability constraint. Each agent aims at minimizing a
+function which depends only on the completion times of its jobs. The
+problem is to find a schedule that minimizes the objective function of
+one agent, subject to the objective function of the other agent does not
+exceed a given threshold Q. some new dominance properties for this
+problem percent and next, using these properties, we develop a genetic
+algorithm with modified crossover for the problem. Computational results
+are also presented to determine the performance of the proposed
+genetic algorithms.

@@ -1,0 +1,1 @@
+In order to resolve closely spaced targets in a planar surface normal to the beam, the antenna used in the radar assessment of concrete structures should have a narrow beam width which means a higher directivity. This work presents a procedure to optimize the field pattern of a bow-tie antenna using multi-objective genetic algorithms in conjunction with a MoM direct solver

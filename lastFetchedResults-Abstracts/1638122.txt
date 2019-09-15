@@ -1,0 +1,19 @@
+Atmospheric chemistry observations from space have been made for more than 30 years. They have been motivated by the concern about a number of environmental issues. However, most of the space instruments have been designed for scientific research, improving the understanding of processes that govern stratospheric ozone depletion, climate change and the transport of pollutants starting with the BUV instrument on Nimbus-4. Long-term continuous time series of atmospheric trace gas data have been limited to stratospheric ozone and a few related species. According to current planning, meteorological satellites will maintain some of these observations over the next decade. They will also add some measurements of tropospheric climate-relevant gases. As their measurements are motivated by meeting operational meteorology needs, they fall short in meeting requirements for atmospheric chemistry applications.
+
+le long-term space-based monitoring of atmospheric constituents with quality attributes sufficient to serve atmospheric chemistry applications still needs to be established. The general framework for this kind of measurements, in synergy with ground-based and airborne measurements and integration with atmospheric models and data assimilation schemes, has been outlined in the IGOS-IGACO Theme Report (Barrie &amp; Langen, 2004). Several other efforts have been made to identify the needs of long-term atmospheric composition data, such as•
+ES-GATO report (2004),
+
+ of the GMES atmospheric service (GAS) Implementation Group (GACS, 2009),
+
+ Climate Observing System (GCOS) Implementation Plan (GCOS, 2010),
+
+ of the Protocol Monitoring for the GMES Service Element, Atmosphere Service (PROMOTE, 2009),
+
+s commissioned by EUMETSAT to identify requirements for geostationary platforms in the context of Meteosat Third Generation (MTG) (Lelieveld, 2003), and
+
+sition paper of the EUMETSAT post-EPS Application Expert Group on atmospheric chemistry (Kelder et al., 2006).
+
+
+ study on ‘Operational Atmospheric Chemistry Monitoring Missions (CAPACITY)’ (Kelder et al., 2007) had established comprehensive observational requirements by environmental theme, by user group, and by observational system (ground/satellite). The study assessed the contributions of existing missions to the fulfilment of these requirements and identified priorities of future observational capabilities for atmospheric composition. The ESA study on ‘Observation Techniques and Mission Concepts for Atmospheric Chemistry’ (CAMELOT, Levelt et al., 2009) contributed to the definition of the space based monitoring capabilities of GMES for air quality protocol monitoring, air-quality near-real-time applications, and climate protocol monitoring in the time frame 2012–2020: The key objective of the CAMELOT study was to consolidate requirements at radiance level, i.e. Level-1, for the Sentinel-4 and -5 missions.
+
+ed for space based atmospheric composition monitoring will be addressed by a variety of instruments. A significant contribution will be provided by the GMES (Global Monitoring for Environment and Security) Sentinel-4 and -5 systems where Sentinel-4 provides a geosynchronous component with a European focus and Sentinel-5 a low Earth orbiting component with global coverage. Sentinel-5p will bridge the gap between existing missions, i.e. Sciamachy on Envisat and OMI on EOS-Aura, and Sentinel-5.

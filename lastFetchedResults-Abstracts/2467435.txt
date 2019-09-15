@@ -1,0 +1,10 @@
+AbstractContext
+ements engineering is one of the most important and critical phases in the software development life cycle, and should be carefully performed to build high quality and reliable software. However, requirements are typically gathered through various sources and are represented in natural language (NL), making requirements engineering a difficult, fault prone, and a challenging task.
+ive
+ure high-quality software, we need effective requirements verification methods that can clearly handle and address inherently ambiguous nature of NL specifications. The objective of this paper is to propose a method that can address the challenges with NL requirements verification and to evaluate our proposed method through controlled experiments.
+
+pose a model-based requirements verification method, called NLtoSTD, which transforms NL requirements into a State Transition Diagram (STD) that can help to detect and to eliminate ambiguities and incompleteness. The paper describes the NLtoSTD method to detect requirement faults, thereby improving the quality of the requirements. To evaluate the NLtoSTD method, we conducted two controlled experiments at North Dakota State University in which the participants employed the NLtoSTD method and a traditional fault checklist during the inspection of requirement documents to identify the ambiguities and incompleteness of the requirements.
+s
+periment results show that the NLtoSTD method can be more effective in exposing the missing functionality and, in some cases, more ambiguous information than the fault-checklist method. Our experiments also revealed areas of improvement that benefit the method’s applicability in the future.
+sion
+sented a new approach, NLtoSTD, to verify requirements documents and two controlled experiments assessing our approach. The results are promising and have motivated the refinement of the NLtoSTD method and future empirical evaluation.

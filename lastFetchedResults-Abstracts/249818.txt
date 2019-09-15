@@ -1,0 +1,9 @@
+In general, shell structural problems can be identi ed to fall into one of the categories of membranedominated,
+bending-dominated and mixed shell problems. The asymptotic behaviour with a well-de ned
+load-scaling factor shows distinctly into which category a given shell problem falls. The objective of this
+paper is to present a shell problem and its solution for which there is no convergence to a well-de ned
+load-scaling factor as the thickness of the shell decreases. Such shells are unduly sensitive in their
+behaviour because the ratio of membrane to bending energy stored changes signi cantly and indeed
+can  uctuate with changes in shell thickness. We brie y review the di erent asymptotic behaviours that
+shell problems can display, and then present the speci c problem considered and its numerical solution
+using  nite element analysis

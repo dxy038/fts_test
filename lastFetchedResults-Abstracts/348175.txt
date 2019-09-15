@@ -1,0 +1,11 @@
+Objective
+Increases in accumulated energy on intracranial EEG are associated with oncoming seizures in retrospective studies, supporting the idea that seizures are generated over time. Published seizure prediction methods require comparison to ‘baseline’ data, sleep staging, and selecting seizures that are not clustered closely in time. In this study, we attempt to remove these constraints by using a continuously adapting energy threshold, and to identify stereotyped energy variations through the seizure cycle (inter-, pre-, post- and ictal periods).
+Methods
+Accumulated energy was approximated by using moving averages of signal energy, computed for window lengths of 1 and 20 min, and an adaptive decision threshold. Predictions occurred when energy within the shorter running window exceeded the decision threshold.
+Results
+Predictions for time horizons of less than 3 h did not achieve statistical significance in the data sets analyzed that had an average inter-seizure interval ranging from 2.9 to 8.6 h. 51.6% of seizures across all patients exhibited stereotyped pre-ictal energy bursting and quiet periods.
+Conclusions
+Accumulating energy alone is not sufficient for predicting seizures using a 20 min running baseline for comparison. Stereotyped energy patterns through the seizure cycle may provide clues to mechanisms underlying seizure generation.
+Significance
+Energy-based seizure prediction will require fusion of multiple complimentary features and perhaps longer running averages to compensate for post-ictal and sleep-induced energy changes.
+

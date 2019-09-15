@@ -1,0 +1,14 @@
+Background
+Pneumonia surveillance is difficult and time-consuming. The definition is complicated, and there are many opportunities for subjectivity in determining infection status.
+Objective
+
+To compare traditional infection control professional (ICP) surveillance for pneumonia among neonatal intensive care unit (NICU) patients with computerized surveillance of chest x-ray reports using an automated detection system based on a natural language processor.
+Methods
+
+This system evaluated chest x-rays from 2 NICUs over a 2-year period. It flagged x-rays indicative of pneumonia according to rules derived from the National Nosocomial Infection Surveillance System definition as applied to radiology reports. Data from the automated system were compared with pneumonia data collected prospectively by an ICP.
+Results
+
+Sensitivity of the computerized surveillance in NICU 1 was 71%, and specificity was 99.8%. The positive predictive value was 7.9%, and the negative predictive value (NPV) was >99%. Data from NICU 2 were incomplete.
+Conclusions
+
+Computer-assisted surveillance has the potential to decrease ICP workload and make pneumonia surveillance feasible. The high NPV means the system can safely screen out many chest x-rays of noninfected patients. However, all data must be available to the computer system and must be analyzed the same way for results to be comparable.

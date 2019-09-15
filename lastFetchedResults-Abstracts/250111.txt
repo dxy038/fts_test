@@ -1,0 +1,8 @@
+An adjoint-based functional optimization technique in conjunction with the spectral stochastic finite
+element method is proposed for the solution of an inverse heat conduction problem in the presence
+of uncertainties in material data, process conditions and measurement noise. The ill-posed stochastic
+inverse problem is restated as a conditionally well-posed L2 optimization problem. The gradient of the
+objective function is obtained in a distributional sense by defining an appropriate stochastic adjoint
+field. The L2 optimization problem is solved using a conjugate-gradient approach. Accuracy and
+effectiveness of the proposed approach is appraised with the solution of several stochastic inverse heat
+conduction problems

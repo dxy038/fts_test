@@ -1,0 +1,21 @@
+Bin size is one of the fundamental and key parameters in 3D land seismic operation design and has an important role in the determination and calculation of other design parameters. Therefore, optimization of this parameter is vital. In this study a new method for optimization of the bin size has been used. The optimization algorithm is linear and based on a mathematical model. Due to the relationship between bin size and geological model variables, the mathematical objective function for optimization of the bin size was applied on a synthetic geology model. The geological model of five reflector horizons with different characteristics and very varied dip angles (between zero and 60 degrees) is formed. The bin size with conventional method and the objective function was evaluated. Using the mathematical model, optimum bin size of 25 meter is obtained.
+In the conventional design methods, selecting the appropriate bin size is very difficult for the designer and there is risk of confusion. With the application of the mathematical objective function, the designer can easily choose the bin size.
+E-mail: mariahi@ut.ac.ir 
+
+if ajU-i C?9 oJjj lUflj J vi^ij-i
+Introduction: A 3-D seismic survey should be designed for the main zone of interest (primary target). This zone will determine project economics by affecting parameter selection for the 3-D seismic survey. Fold, bin size, and offset range all need to be related to the main target. The direction of major geological features, such as faults or channels, may influence the direction of the receiver and source lines.
+In conventional cases, the designer uses simple trigonometric formulas for estimating the suitable CMP as well as maximum offset of source- receiver for layers slope
+A Linear Programming problem is a special case in Mathematical Programming. From an analytical perspective, a mathematical program tries to identify an extreme (i.e., minimum or maximum) point of a function z =ctxt + • • • +cnx n, which further satisfies a
+set of constraints, e.g., a ,x. + •• -+a x < b .
+1 o ' ml 1 mn n m
+Linear programming is the specialization of mathematical programming for cases where both function f - to be called the objective function and the problem constraints are linear.
+Methodology
+Create the objective function
+A Linear Programming is a combination of mathematical relationships that defines the possible applications.
+Minb =l/3uj +l/3mi + l/31i ^Target Size
+In this paper, the objective function for the bin size is defined as follows.function
+The fitness function f (x) is used to evaluate ^the optimum amount obtained from mathematical models. After each iteration of algorithm process, the amount of fitness function becomes better than the initial parameters. New parameters for the next stage now represent primary input parameters. This optimization process will continue on until the maximum fitness function is finally obtained. In this case, the algorithm could be accepted.
+Results
+Using the model objective function, constraints and variable parameters, the bin size was calculated for maximum dip angles of each layer and the following results were obtained: Optimal bin size of the first layer is 25 m and the fitness function value is 0.955; 
+
+

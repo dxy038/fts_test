@@ -1,0 +1,8 @@
+Objective
+year, toxic exposures kill 1200 Americans. To aid in the timely diagnosis and treatment of such exposures, this research investigates the feasibility of a knowledge-based system capable of generating differential diagnoses for human exposures involving unknown toxins.
+s
+ining techniques automatically extract prior probabilities and likelihood ratios from a database managed by the Florida Poison Information Center. Using observed clinical effects, the trained system produces a ranked list of plausible toxic exposures. The resulting system was evaluated using 30,152 single exposure cases. In addition, the effects of two filters for refining diagnosis based on a minimum number of exposure cases and a minimum number of clinical effects were also explored.
+s
+stem achieved accuracies (calculated as the percentage of exposures correctly identified in top 10% of trained diagnoses) as high as 79.8% when diagnosing by substance and 78.9% when diagnosing by the major and minor categories of toxins.
+sions
+sults of this research are modest, yet promising. At this time, no similar systems are currently in use in the United States and it is hoped that these studies will yield an effective medical decision support system for clinical toxicology.

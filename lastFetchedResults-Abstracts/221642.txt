@@ -1,0 +1,20 @@
+Iterative coordinate ascent algorithms have been
+shown to be useful for image recovery, but are poorly suited to
+parallel computing due to their sequential nature. This paper
+presents a new fast converging parallelizable algorithm for
+image recovery that can be applied to a very broad class of
+objective functions. This method is based on paraboloidal surrogate
+functions and a concavity technique. The paraboloidal
+surrogates simplify the optimization problem. The idea of the
+concavity technique is to partition pixels into subsets that can
+be updated in parallel to reduce the computation time. For fast
+convergence, pixels within each subset are updated sequentially
+using a coordinate ascent algorithm. The proposed algorithm is
+guaranteed to monotonically increase the objective function and
+intrinsically accommodates nonnegativity constraints. A global
+convergence proof is summarized. Simulation results show that
+the proposed algorithm requires less elapsed time for convergence
+than iterative coordinate ascent algorithms. With four parallel
+processors, the proposed algorithm yields a speedup factor of 3.77
+relative to single processor coordinate ascent algorithms for a
+three-dimensional (3-D) confocal image restoration problem.

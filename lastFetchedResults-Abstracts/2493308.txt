@@ -1,0 +1,21 @@
+The uniaxial compressive strength (UCS) of intact rocks is an important geotechnical parameter
+required for designing geotechnical and mining engineering projects. Obtaining accurate estimates of
+the rock mass UCS parameter throughout a 3D geological model of the deposit is vital for determining
+optimum rock slope stability, designing new exploratory and blast boreholes, mine planning,
+optimizing the production schedule and even designing the crusher’s feed size. The main objective of
+this paper is to select the preferred estimator of the UCS parameter based on accuracy performance
+using all the available geological-geotechnical data at the Sarcheshmeh copper deposit, located 160
+km southwest of Kerman City, in south-eastern Iran. In this paper, an attempt is made to estimate the
+spatial distribution of the UCS parameter using commonly-used statistical-structural and geostatistical
+methods. In order to achieve the aim of the current study, the UCS parameter was measured along
+with other qualitative geological properties, including the rock type, weathering, alteration type and
+intensity of core samples taken from 647 boreholes. The 3D distribution of the UCS parameter is
+obtained using different algorithms including statistical-structural (the nearest-neighbour technique),
+linear (ordinary Kriging) and nonlinear (indicator Kriging) geostatistical methods. After estimating the
+UCS parameter at block centres using the above-mentioned methods, the performance of each method
+is compared and validated through 21 set aside borehole data. The assessment of selecting best
+estimator of UCS parameter is based on scatter plots of the observed versus estimated data plus the
+root mean square error (RMSE) statistics of the differences between observed and estimated values for
+21 set aside borehole data. Finally, due to the special characteristics of the UCS spatial variability, it is
+concluded that the nearest-neighbour method is the most appropriate method for estimating the UCS
+parameter in porphyry copper deposits.

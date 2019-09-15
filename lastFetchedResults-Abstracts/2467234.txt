@@ -1,0 +1,10 @@
+Context
+ analysis tools are used to discover security vulnerabilities in source code. They suffer from false negatives and false positives. A false positive is a reported vulnerability in a program that is not really a security problem. A false negative is a vulnerability in the code which is not detected by the tool.
+ive
+in goal of this article is to provide objective assessment results following a well-defined and repeatable methodology that analyzes the performance detecting security vulnerabilities of static analysis tools. The study compares the performance of nine tools (CBMC, K8-Insight, PC-lint, Prevent, Satabs, SCA, Goanna, Cx-enterprise, Codesonar), most of them commercials tools, having a different design.
+
+cuted the static analysis tools against SAMATE Reference Dataset test suites 45 and 46 for C language. One includes test cases with known vulnerabilities and the other one is designed with specific vulnerabilities fixed. Afterwards, the results are analyzed by using a set of well known metrics.
+s
+CA is designed to detect all vulnerabilities considered in SAMATE. None of the tools detect “cross-site scripting” vulnerabilities. The best results for F-measure metric are obtained by Prevent, SCA and K8-Insight. The average precision for analyzed tools is 0.7 and the average recall is 0.527. The differences between all tools are relevant, detecting different kinds of vulnerabilities.
+sions
+sults provide empirical evidences that support popular propositions not objectively demonstrated until now. The methodology is repeatable and allows ranking strictly the analyzed static analysis tools, in terms of vulnerabilities coverage and effectiveness for detecting the highest number of vulnerabilities having few false positives. Its use can help practitioners to select appropriate tools for a security review process of code. We propose some recommendations for improving the reliability and usefulness of static analysis tools and the process of benchmarking.

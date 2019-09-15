@@ -1,0 +1,14 @@
+Effective preventive healthcare services have a significant role in reducing
+fatality and medical expenses in all human societies and the level of accessibility
+of customers to these services can be considered as a measure of their efficiency
+and effectiveness. The main purpose of this paper is to develop a service network
+design model of preventive healthcare facilities with the principal objective of
+maximizing participation in the offered services. While considering utility
+constraints and incorporating demand elasticity of customers due to travel
+distance and congestion delays, optimal number, locations and capacities of
+facilities as well as customer assignment o facilities are determined. First, the
+primary nonlinear integer program is transformed, and then the linearized model
+is solved by developing an exact algorithm. Computational results show that
+large-sized instances can be solved in a reasonable amount of time. An illustrative
+case study of network of hospitals in Shiraz, Iran, is used to demonstrate the
+model and the managerial insights are discussed. 

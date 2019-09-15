@@ -1,0 +1,8 @@
+Objective
+estigate influences on hospital use in a non-metropolitan region ofEngland (Wessex).
+
+squares regression analysis was used to identify area predictors, at localauthority level, of number of consultant episodes and (separately) of bed use. Variables were assigned for deprivation, strength of primary care, private sector provision, and local levels of ill health. Short-stay (less than 30 days) episodes and bed use were examined separately from long stays.
+s
+were substantial differences between the regression models for numberof episodes and bed use, and between those for short stays and long stays. Significant predictors of the number of short-stay episodes were: number of general practitioners, standardised mortality ratio and proportion of residents with limiting long-term illness; these variables did not predict bed use in short-stay episodes. None of the variables was significantly associated with long-stay episodes or bed use.
+sions
+is of geographic variation in hospital use should distinguishbetween short-stay and long-stay use, and should defend the choice of number of admissions versus bed use as the dependent variable. Deprivation was not shown to be a factor influencing bed use in Wessex. This finding argues against the use of a single funding formula across the whole of the country.

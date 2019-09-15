@@ -1,0 +1,13 @@
+This paper is the second part of a two-part article about shape optimization of metal forming processes. This
+part is focused on numerical applications of the optimization method which has been described in the first
+paper. The main feature of this work is the analytical calculations of the derivatives of the objective function
+for a non-linear, non-steady-state problem with large deformations. The calculations are based on the
+differentiation of the discrete objective function and on the differentiation of the discrete equations of the
+forging problem. Our aim here is to show the feasibility and the efficiency of such a method with numerical
+examples. We recall the formulation and the resolution of the direct problem of hot axisymmetrical forging.
+Then, a first type of shape optimization problem is considered: the optimization of the shape of the initial
+part for a one-step forging operation. Two academic problems allow for checking the accuracy of the
+analytical derivatives, and for studying the convergence rate of the optimization procedure. Both constrained
+and unconstrained problems are considered. Afterwards, a second type of inverse problem of design
+is considered: the shape optimization of the preforming tool, for a two-step forging process. A satisfactory
+shape is obtained after few iterations of the optimization procedure.

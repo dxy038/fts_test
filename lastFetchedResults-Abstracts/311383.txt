@@ -1,0 +1,9 @@
+Objective. To experimentally measure the seated vertical direction whole-body absorbed power characteristics of small children less than 18 kg in mass.
+
+Background. Several studies have reported whole-body absorbed power for adult humans, but no data has been published previously for small children.
+
+Methods. Eight children were tested in a laboratory test rig which incorporated safety features which satisfy existing international standards for human testing. Force and acceleration were measured at the point of input to a rigid seat at a sampling rate of 200 Hz, and analysis was performed over the interval from 1.0 to 45.0 Hz. A double normalised (both input acceleration and test subject mass) measure of absorbed power was used.
+
+Results. The vertical whole-body power absorption characteristics of the small children were found to present differences with respect to those of adults. The mean frequency of peak absorption was found to be 7.4 Hz as opposed to approximately 4.0–5.0 for adults. The interval of absorption was found to be from approximately 3 to 16 Hz and the total double normalised absorbed power was found to be 86% that of adults.
+
+Conclusions. The differences in dynamic response between small children and adults raise questions regarding the applicability of whole-body vibration guidelines such as ISO-2631 in the case of small children since these guidelines were developed from mechanical and subjective response data of adults.

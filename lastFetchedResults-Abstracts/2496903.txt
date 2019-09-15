@@ -1,0 +1,13 @@
+Testing Weak form Efficiency Hypothesis in the Oil Market: Case Study of OPEC Basket, Brent and WTI Prices
+Ahmad Jafari Samimi 
+Professor, Faculty of Economics, University of Mazandaran,  Jafarisa@umz.ac.ir
+Roozbeh Balounejad Nouri  
+PhD Student of Economics, Faculty of Economics, University of Mazandaran,      roozbeh_noury@yahoo.com
+Received: 2014/2/20        Accepted: 2015/01/12
+
+Abstract
+The main objective of the present study is to test the weak form efficiency hypothesis in main crude oil markets, namely OPEC, WTI and Brent. For this purpose, we apply the two methods of wavelets and fractional Brown motion to daily oil prices for the period 2003:1 to 2013:9. The results indicate that the OPEC basket and Brent prices have long-range dependence. This means that the hypothesis of the weak form efficiency of Brent crude oil market and the OPEC basket price is rejected, but the evidence does not reject the hypothesis for WTI crude oil. In addition to predictability, another consequence of long range dependence and absence of efficiency is that the impact of shocks on oil prices, due to factors such as war or financial crisis, will be long lasting. Thus, consideration of this quality of oil markets is important for determining public expenditures and investments.
+JEL Classification: C14, Q40
+Keywords: Weak form Efficiency Hypothesis, Oil Market, Wavelets, Fractional Brownian Motion
+ 
+

@@ -1,0 +1,21 @@
+The objective of this work is to reconstruct high
+quality gray-level images from bilevel halftone images.We develop
+optimal inverse halftoning methods for several commonly used
+halftone techniques, which include dispersed-dot ordered dither,
+clustered-dot ordered dither, and error diffusion. At first, the
+least-mean-square (LMS) adaptive filtering algorithm is applied in
+the training of inverse halftone filters. The resultant optimal mask
+shapes are significantly different for various halftone techniques,
+and these mask shapes are also quite different from the square
+shape that was frequently used in the literature. In the next step,
+we further reduce the computational complexity by using lookup
+tables designed by the minimum mean square error (MMSE)
+method. The optimal masks obtained from the LMS method are
+used as the default filter masks. Finally, we propose the hybrid
+LMS-MMSE inverse halftone algorithm. It normally uses the
+MMSE table lookup method for its fast speed. When an empty cell
+is referred, the LMS method is used to reconstruct the gray-level
+value. Consequently, the hybrid method has the advantages
+of both excellent reconstructed quality and fast speed. In the
+experiments, the error diffusion yields the best reconstruction
+quality among all three halftone techniques.

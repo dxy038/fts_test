@@ -1,0 +1,1 @@
+A biotelemetry chip has been built as part of a bidirectional telemetry system for the measurement of glucose content. The design of the telemetry system had led to the realisation of a hybrid circuit with a custom integrated circuit.

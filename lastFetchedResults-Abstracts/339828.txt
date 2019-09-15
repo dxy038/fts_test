@@ -1,0 +1,11 @@
+Objective
+Mice harboring c-Myb hypomorphic mutations display enhanced thrombopoiesis because of increased numbers of megakaryocytes and their progenitors. Thrombopoietin induces these same effects, which lead us to hypothesize that the hormone acts through modulation of c-Myb expression, as c-Myb levels falls during thrombopoietin-induced megakaryocyte (MK) maturation. Micro RNAs (miRs) downregulate gene expression by binding to the 3′ untranslated region (UTR) of specific messenger RNAs (mRNAs); we noted that the 3′UTR of c-Myb contains four miR-150 binding sites.
+Materials and Methods
+
+We used quantitative reverse transcriptase polymerase chain reaction, Western blotting, and reporter gene analyses to assess the response of c-Myb to thrombopoietin stimulation and to gain of and loss of miR-150 expression.
+Results
+
+We found that thrombopoietin reduced c-Myb mRNA and protein levels within 7 hours in megakaryocytes and UT7/thrombopoietin (TPO) cells. Using a reporter gene containing the c-Myb 3′UTR region, including its four miR150 binding sites, we found that expression of miR150 reduced luciferase expression to 50% of baseline at 24 hours and to 25% at 48 hours in UT7/TPO cells. Quantitative polymerase chain reaction and Western blotting also revealed that miR-150 reduced endogenous c-Myb mRNA and protein to 50% in UT7/TPO cells, and to 65% in mature megakaryocytes. Converse experiments utilizing anti-miR150 increased luciferase activity twofold over control anti-miR. Finally, TPO increased miR150 expression 1.8-fold within 24 hours and 3.4-fold within 48 hours.
+Conclusions
+
+These findings establish that miR150 downmodulates c-Myb levels, and because TPO affects miR150 expression, our results indicate that, in addition to affecting MK progenitor cell growth, TPO downmodulates c-Myb expression through induction of miR-150.

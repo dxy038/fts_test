@@ -1,0 +1,9 @@
+Abstract
+
+Background and objective: Hepcidin is a cystein-rich antimicrobial peptide, which is secreted by the liver. It fights against wide spectrum of bacteria, viruses and fungi and it is a major regulator of iron homeostasis. Today, scientists have made many efforts on the production of hepcidin. Baculovirus expression system is one of the best eukaryotic expression systems for production of recombinant hepcidin and production of the recombinant vector is one of the most important steps in this expression system.
+Material & Methods: First,   the total RNA was separated from HepG2 cell line as a source of hepcidin expression. Then, after synthesis of total cDNA, human hepcidin sequence was amplified, using specific primers by PCR method. Next, hepcidin sequence was cloned into pTZ57R/T vector. After digestion of recombinant vector using ECoRI and BamHI restriction enzymes, recombinant pFastBac HT B vector containing human hepcidin cDNA was produced. 
+Results: Coding sequence of human hepcidin is correctly cloned into pTZ57R/T vector and sub cloning into pFastBac HT B vector is performed successfully. The presence of a clear band near 274 bp resulted from PCR amplification and restriction enzyme are the confirmation of the cloning of human hepcidin. 
+Conclusion:  According to our knowledge, the present study is the first work that focuses on recombinant vector containing coding sequence of human prohepcidin. This recombinant vector can be used for human hepcidin production.
+Keywords: Vector; Hepcidin; Iron
+
+

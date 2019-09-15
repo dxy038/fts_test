@@ -1,0 +1,9 @@
+Objective
+We sought to evaluate the contributions of changes in birth registration, labor induction, and cesarean delivery on trends in twin neonatal mortality rates.
+Study design
+We conducted a population-based, retrospective cohort study of twin live births, using linked birth-infant death data in the United States (1989-1999). Relative risks and 95% confidence intervals that quantified changes in neonatal (0-27 days) mortality rates were derived from ecologic logistic regression models that were fit after aggregation of the data by each state in the United States.
+Results
+The frequency of live born twins who weighed <500 g increased 72%, from 0.7% in 1989 to 1.2% in 1999, of live born twins who weighed 500 to 749 g and 750 to 999 g increased by 55% and 28%, respectively, between 1989 and 1999. Preterm birth rates increased by 19%, from 46.2% in 1989 to 57.2% in 1999. The rate of labor induction increased from 5.8% to 13.9%, and the cesarean delivery rate increased from 49.8% to 56.3%. Between 1989 to 1991 and 1997 to 1999, the crude neonatal mortality rates among twins who weighed ≥500 g declined by 37% (95% CI, 35%-40%) from 21.5 to 13.6 per 1000 twin live births. Adjustments for preterm labor induction, preterm cesarean delivery, term labor induction, term cesarean delivery, and sociodemographic factors had little influence on neonatal mortality rate trends.
+Conclusion
+Increases in preterm birth because of obstetric intervention among twins have not led to increases in twin neonatal mortality rates in the United States.
+

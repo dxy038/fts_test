@@ -1,0 +1,1 @@
+We examine the structure of several objective functions in fuzzy clustering, and analyze their common characteristics, by which we recover the interrelation and duality in these objective functions. These results are verified by two corresponding experiments as well.

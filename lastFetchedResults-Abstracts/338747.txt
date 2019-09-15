@@ -1,0 +1,11 @@
+Objective
+The ability to predict accurately the number of hematopoietic stem cells (HSCs) in a graft is important for the success of HSC transplantation. Limiting dilution analysis (LDA) in vitro and in vivo is widely used to enumerate HSCs. However, there have been few attempts to standardize this approach. Particularly, the role of statistical and experimental errors in the performance and evaluation of LDA has received little attention. Since these errors directly affect the interpretation, validity, and significance of the LDA results, we have here performed a systematic analysis of the contribution of different types of errors.
+Methods
+
+Long-term culture-initiating cells (LTC-IC) in the bone marrow of C57BL/6 (B6) mice were measured. Experiments were designed to exclude systematically different types of experimental errors. Computer simulations were performed to estimate the statistical error.
+Results
+
+Analysis of 137 LTC-IC assays showed 2.8 ± 1.06 LTC-IC per 105 cells in the bone marrow of B6 mice. The major components of the uncertainty were derived from variations introduced by performing the experiments at different time points and by the statistical error. Surprisingly, operator errors and mouse-to-mouse error, including age and sex of the animals, contributed little to the overall uncertainty. As expected, the errors were found to decrease when increasing numbers of replica were analyzed. A computer program was developed to assist with the optimal design of the assay.
+Conclusions
+
+The analysis presented here provides rational strategies for standardizing the experimental design and for gauging the accuracy of LDA-based HSC measurements.

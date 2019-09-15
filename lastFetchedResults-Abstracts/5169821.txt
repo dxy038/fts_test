@@ -1,0 +1,1 @@
+In conclusion, we carried out a bidirectional crossconnection experiment using semiconductor optical amplifiers. The experiment show the input dynamic range can be 15 dB from -25 dBm to -10 dBm at a bit rate of 1 Gb/s with a power penalty of less than 1 dB. The feasibility of bidirectional cross-connection using SOA´s is confirmed with this experiment.

@@ -1,0 +1,10 @@
+In this paper, the vendor selection (VS) problem with fuzzy goals is considered. An
+interactive method is developed for solving multi-objective VS problems where fuzzy data
+are represented by using S-curve membership functions. The proposed method attempts
+simultaneously to minimize the total order costs, the number of rejected items and the
+number of late delivered items with reference to several constraints such as meeting
+buyers' demand, vendors' capacity, vendors' quota flexibility, vendors' allocated budget,
+etc. An interactive solution methodology is proposed to solve the multi-objective VS
+problem and to find a preferred compromise solution. Moreover, the performance of
+S-curve membership functions that represent uncertainty goals and constraints in VS
+problems with linear membership functions in an industrial case is compared.

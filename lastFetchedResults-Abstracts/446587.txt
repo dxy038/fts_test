@@ -1,0 +1,11 @@
+Background
+Shortened non-primary care medical school clerkships have increased time pressures for accurate assessment of student knowledge, skills, and attitudes. Paper-based student evaluations suffer from low response rates, inefficient data acquisition and analysis, and difficulty obtaining input from multiple evaluators. This project describes the development of a Web-based model for evaluating third-year medical student performance, improving evaluation response rates, and including multiple evaluators’ input.
+Methods
+
+A secure Web-based system was designed to maintain evaluation data (11-item competency-based evaluations, oral examinations, National Board of Medical Examiners surgery test, and objective structured clinical examination) for the third-year surgery clerkship. Historical response rate, completion time, and administrative effort data were compared with data obtained using the Web-based model.
+Results
+
+Faculty response rates improved from 71.3% to 89.9%, with response times decreased from 28.0 ± 3.0 to 9.0 ± 0.7 days using the Web-based model. Administrative time requirements decreased from 5 days to 2 hours per rotation, and manual data entry, analysis, and reporting were eliminated through e-mail evaluator notification, direct data entry, and real-time analysis. Evaluator satisfaction was subjectively higher using the Web-based model.
+Conclusions
+
+The Web-based 360-degree evaluation model improves third-year medical student assessment by including residents, reducing time and cost, and by providing a faster, more inclusive, and efficient evaluation.

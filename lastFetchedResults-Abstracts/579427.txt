@@ -1,0 +1,5 @@
+Operations assignment to feasible and suitable machine-tool combination affects the
+total production costs and selecting the best combinations is important for these systems, this is
+one of the significant problems in flexible manufacturing systems (FMSs). In this paper, minimizing
+the machining cost, setup cost and material handling cost for the given multi-objective problem is
+considered. Also, this

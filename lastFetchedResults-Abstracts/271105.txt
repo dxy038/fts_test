@@ -1,0 +1,10 @@
+objective is the theoretical and numerical simulation of large-strain phenomena of
+rubber-like shells by means of shear deformation models. The development starts with a genera1
+applicable shell mode1 constructed on the basis of a quadratic displacement approximation which
+involves two thickness stretching parameters. This mode1 is then coupled with incompressible
+material models of MooneyPRivlin and neo-Hookean types. Material incompressibility is described
+by two-dimensional constraints considered at the element level as subsidiary conditions. A special
+care is given to the stress prediction in the presence of large-strains. After transformation of the
+theoretical mode1 into an incremental formulation a four-node isoparametric finite element is
+derived. Examples are finally given to demonstrate the ability of this model to deal with very strong
+deformations and to predict the related stresses. c; 1997 Elsevier Science Ltd

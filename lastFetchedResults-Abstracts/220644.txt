@@ -1,0 +1,7 @@
+The objective of this paper is to introduce a fourth-order cost
+function of the displaced frame difference (DFD) capable of estimating
+motion even for small regions or blocks. Using higher than second-order
+statistics is appropriate in case the image sequence is severely corrupted
+by additive Gaussian noise. Some results are presented and compared to
+those obtained from the mean kurtosis and the mean square error of the
+DFD.

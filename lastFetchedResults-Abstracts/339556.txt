@@ -1,0 +1,11 @@
+Objective
+The interactions between cells and extracellular matrices in the bone marrow microenvironment are critical for normal hematopoiesis, controlling cell survival, proliferation, differentiation, and motility. A number of hematopoietic growth factors and cytokines can mediate these interactions by changing expression and/or activity of specific integrins, or by changing cell shape. Thrombopoietin (TPO) has previously been shown to stimulate adhesion in certain hematopoietic cell types, although the exact mechanisms by which adhesion is promoted remain elusive.
+Materials and Methods
+
+The role of TPO in hematopoietic cell adhesion was determined with fibronectin adhesion and binding assays, flow cytometry, and immunocytochemistry using the hematopoietic cell line UT-7/TPO and bone marrow–derived primary mouse megakaryocytes. The role of Rap1 in TPO-mediated adhesion was determined using a Rap1GAP overexpressing UT-7/TPO cell line, in which Rap1 could not be activated.
+Results
+
+We found that TPO promoted hematopoietic cell adhesion by causing cytoskeletal reorganization and not by increasing integrin expression, localization, or affinity, as previously hypothesized. Through studies using the UT-7/TPO-Rap1GAP cell line, we found that TPO-mediated cell shape change occurred via activation of Rap1.
+Conclusions
+
+These data demonstrate an important role for TPO in mediating interactions in the bone marrow microenvironment and make a significant contribution to our understanding of how TPO may affect hematopoiesis.

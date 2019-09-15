@@ -1,0 +1,14 @@
+Objective
+This study investigates the optimum number of gait trial recordings to maximise intra-rater reliability with the CODA motion analysis system in a normal population. Potential sources of variability in test–retest experimental procedures will be discussed.
+Background
+
+The most recent study by [Maynard V, Bakheit AMO, Oldham J, Freeman J. Intra-rater and inter-rater reliability of gait measurements with CODA mpx30 motion analysis system. Gait Posture 2003;17:59–67] that evaluated the Cartesian Optoelectronic Dynamic Anthropometer (CODA) motion analysis system exhibited poor correlation for intra-rater reliability of kinematic and kinetic parameters. It is unknown what the optimum number of gait trials is required during testing to represent an individuals gait pattern during normal walking.
+Design
+
+Ten healthy subjects (mean 28.5 years) were tested on two occasions by an experienced well trained rater during normal walking to establish intra-rater reliability using 1–2, 1–4, 1–6, 1–8, and 1–10 gait trial recordings to represent the mean. The 3D kinematic, kinetic parameters of hip, knee and ankle joints and spatio-temporal parameters were recorded during normal walking. Intra-class correlation coefficient and Bland and Altman limits of agreement were chosen to analyse the results.
+Results
+
+Spatio-temporal parameters exhibited least test–retest variability, as measurement of only two gait trials to represent the mean produced similar variability in test–retest as when higher numbers of trials were measured. Kinematic parameters were more variable than kinetic while for both variability decreased with increasing numbers of trials measured and would advocate measuring 10 gait trials for future analysis when measuring these parameters.
+Conclusions
+
+Generally intra-rater reliability improves when larger number of gait trial recordings represent a subject's gait.

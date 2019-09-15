@@ -1,0 +1,11 @@
+In this research we approach to select most appropriate suppliers utilizing qualitative and
+quantitative factors and order them lot size of product to supply and distribute them in
+several period of time. to meet the objective of this research, a supplier selection multicriteria
+
+decision making model is developed using QFD, AHP and mathematical
+programming methods. this proposed model consist of two phases: qualitative and
+quantitative. in qualitative phase, the potential suppliers are evaluated by means of
+qualitative criterion and the result is the numerical weight of each supplier. These normalized
+weights are deployed in purchase value function in quantitative phase. The ultimate goal of
+this research is not reducing the cost alone, but to reduce the cost to the level that customer
+satisfaction is provided.

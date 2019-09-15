@@ -1,0 +1,12 @@
+Photosynthetically active radiation (PAR) as a component of solar radiation plays a major role in different
+applications dealing with plant canopies, biomass production and microalgae growth. The amount of PAR energy
+depends upon location, time of the year and atmospheric conditions. Understanding the PAR and its availability is
+very essential for modelling biological growth system. The objective of this study is to estimate PAR for latitudes
+ranging from 9° to 34° and for the entire year based on hourly and monthly average of the daily global radiation
+(Hg). Based on the estimated data, a power regression model showing the relationship between PAR and Hg is
+presented for six Indian latitudes. The ratios of hourly sum of PAR to Hg and monthly average of hourly global
+radiations (Ig) vary smoothly with significant seasonal variations and are influenced by several other local climatic
+conditions. The power regression equation between PAR and Hg obtained are as follows: (a) For 9° latitude,
+PAR = 0.040 (Hg)0.924, R2 = 0.970, (b) 14° latitude, PAR = 0.029 (Hg)0.952, R2 = 0.894, (c) 19° latitude, PAR = 0.256 (Hg)0.748,
+R2 = 0.721, (d) 24° latitude, PAR = 0.159 (Hg)0.775, R2 = 0.896, (e) 29° latitude, PAR = 0.052 (Hg)0.886, R2 = 0.830 and
+(f) 34° latitude, PAR = 0.016 (Hg)1.013, R2 = 0.768.

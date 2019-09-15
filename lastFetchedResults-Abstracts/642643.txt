@@ -1,0 +1,11 @@
+Objective
+Allicin is believed to be the main component responsible for the biological activity of garlic. The regulation of cell death might have therapeutic potential in many diseases, and previous studies have demonstrated that allicin stimulates the functional activity of macrophages. Therefore, this study examined the effects of allicin on the apoptosis of macrophages induced by serum- and amino acid-free culture.
+Methods
+
+The apoptosis of peritoneal macrophages was examined after pretreating them with allicin and incubating them in a depleted nutritional state. The rate of apoptosis was determined using propidium iodide staining analysis using flow cytometry, DNA fragmentation, and a caspase-3 assay. Western blot analysis was used to examine the changes in the pro- or antiapoptotic protein expression levels.
+Results
+
+DNA fragmentation and propidium iodide staining analyses revealed that allicin decreased the malnutrition-induced apoptosis of macrophages. The level of Bax expression, the amount of cytochrome-c released from the mitochondria, and the caspase-3 activity were also lower in the allicin-treated macrophages than in the untreated macrophages in a depleted nutritional state. Moreover, the MEK (mitogen-activated protein kinase/extracellular signal-regulated kinase-kinase) inhibitor suppressed the allicin-induced inhibition of apoptosis in a depleted nutritional state and allicin increased the level of ERK1/2 phosphorylation.
+Conclusion
+
+Allicin inhibits the apoptosis of macrophages in a depleted nutritional state through the MEK/extracellular signal-regulated kinase pathway.

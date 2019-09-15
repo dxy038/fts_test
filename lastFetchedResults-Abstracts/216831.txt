@@ -1,0 +1,7 @@
+This method introd uces the structura I error of regression deviation, which is an effective method
+for the path generation of a vast type of planar and spatial mechanism. The proposed method
+avoids point-by-point comparison and requirement of timing and reflects the difference between
+the two curves very effectively in the objective function. By decreasing the number of the design
+variables, this method would help considerably in decreasing CPU time. The objective function
+that is based on regression error would converge to a global minimum by a genetic algorithm.
+At the end, the effectiveness of the method is shown by two numerical examples.

@@ -1,0 +1,10 @@
+The main objective of this study is to evaluate and predict the performance of slow sand filters used for wastewater treatment.
+The uncertainties in the control parameters and processes require fuzzy sets to be used when modelling system performance. Fuzzy
+logic if–then rules were used to build a model for the removal efficiency (total coliforms) of slow sand filters. The data were
+collected from three pilot-scale slow sand filters at the Alkhobar (Saudi Arabia) wastewater treatment plant. The removal efficiency
+of filters was modelled using three input control parameters—filtration rate, sand bed depth and grain size. Based on available data,
+fuzzy logic if–then rules were established. The fuzzy rule-based model was validated using experimental data of three case studies
+reported in the literature. The results were also compared with a multiple regression model. A possibilistic risk analysis was
+performed using optimal removal efficiency of the slow sand filters. The risk is estimated with respect to non-compliance of
+unrestricted agricultural reuse standards (100 total coliform/100 ml). In addition to slow sand filters, post- or pre-chlorination of
+wastewater is recommended to improve wastewater quality for conforming agricultural reuse standards

@@ -1,0 +1,1 @@
+In this paper we present new image quality database which consists of four degradation types: JPEG, JPEG2000, White noise and Gaussian blur. Results for five commonly used objective quality measures are compared using newly developed image database, as well as LIVE image database.

@@ -1,0 +1,11 @@
+Objective
+p21WAF1/Cip/kip and p27Kip1 are cyclin-dependant kinase inhibitors controlling cell-cycle exit and differentiation of numerous cell types. Among hematopoietic cells, megakaryocytes express high levels of p21, while in erythroid cells, p27Kip1 is predominant. As p21 and p27 could display overlapping functions and as megakaryocytes and erythroid cells derive from a bipotent progenitor, we developed an in vivo model to determine the specific role of p21 in controlling the proliferation/differentiation balance of erythroid and megakaryocytic progenitors.
+Methods
+
+Transgenic mice that overexpressed p21 under the control of the human GPIIb promoter in early progenitors and along megakaryocytic differentiation were generated. Different subsets of hematopoietic progenitors (BFU and CFU) and primitive cells (CAFC, LTC-IC) were analyzed by methylcellulose assay. Phenotypic evolution and clonogenic properties of the lin− population were analyzed along erythroid and megakaryocytic differentiation.
+Results
+
+We observed p21 ectopic expression in early hematopoietic progenitors (lin−Sca+), megakaryocytes, and, to a lesser extent, erythroid cells. This expression induced an important decrease in the number of CFU-MK, BFU-E, CFU-E, primitive progenitors (CAFC day 35), and LTC-IC, but did not affect the maturation process of these cells and the blood cell count.
+Conclusions
+
+We show that variation of p21 expression level changes the fate of hematopoietic cells by favoring either proliferation or differentiation pathways. This effect of p21 is exerted not only at the level of primitive progenitors but also in more mature progenitors. However, in vivo, a systemic compensation mechanism is most likely activated in response to variations of the flow of progenitor production.

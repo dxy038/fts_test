@@ -1,0 +1,1 @@
+In this paper, we analyze several models of overlay multicast routing problem, and bring forward a new model based on multi-objective programming, discussing the solution of the model simultaneously. Then we employ the Prufer sequence as chromosome code and then propose a genetic algorithm to solve the model. Finally, we analyze the complexity of the algorithm.

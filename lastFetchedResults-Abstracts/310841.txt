@@ -1,0 +1,11 @@
+Objective. To investigate the ability of Pedar in-shoe system to measure vertical force accurately, by comparing it with the Kistler force platform.
+
+Design. In vivo experiment in normal subjects.
+
+Background. It has been suggested Pedar is highly reliable, but absolute accuracy of the system with regard to force measurement has not been comprehensively tested.
+
+Methods. Sampling at 99 Hz, using five healthy subjects, simultaneous data were collected barefoot, and in three types of shoes (Trainers, Oxfords, Slip-on Deck Type). Six variables obtained from the force/time curve from each footstep were compared.
+
+Results. The temporal data recorded by Pedar correlated well with that obtained using Kistler, with significant differences only in overall duration of the step in Deck shoes (P<0.001) and Oxford shoes (P<0.01), and peak to peak barefoot (P<0.01). Pedar recorded a lower first peak force and mid-peak force in all cases (P<0.001). However, the magnitude of the 2nd peak force recorded by both systems was significantly different only in Trainers (P<0.05) and Oxford shoes (P<0.001). The impulse data obtained with Oxford shoes was not significantly different, although barefoot, Trainers and Deck shoes were significantly lower (P<0.001) for Pedar.
+
+Conclusions. In most cases, comparison of data recorded by the two systems provided good evidence for the accuracy and reliability of temporal measurements and second peak force measurements taken with the Pedar in-shoe system.

@@ -1,0 +1,18 @@
+Objective
+The purpose of this study was to determine if statistical models for prediction of chest injuries would outperform the clinician's (MD) ability to identify injured patients at risk for a thoracic injury diagnosed by chest radiograph (CXR).
+Design
+A prospective observational study was done during a 12-month period.
+Setting
+The study was conducted in a level I trauma center.
+Patients
+Injured patients meeting trauma team activation criteria were enrolled to the study.
+Interventions
+Physical examination findings by a clinician were interpreted and CXR was performed.
+Outcome measures
+The accuracy of 2 mathematical models is compared against the accuracy of clinician's clinical judgment in predicting an injury by CXR. Two newly constructed multivariate models, binary logistic regression (LR) and classification and regression tree (CaRT) analysis, are compared to previously published data of clinician clinical assessment of probability of thoracic injury identified by CXR.
+Results
+Data for 757 patients were analyzed. Classification and regression tree analysis developed a stepwise decision tree to determine which signs/symptoms were indicative of an abnormal CXR finding.
+The sensitivity (CaRT, 36.6%; LR, 36.3%; MD, 58.7%), specificity (CaRT, 98.3%; LR, 98.2%; MD, 96.4%), and error rates (CaRT, 0.93; LR, 0.94; MD, 0.82) show that the mathematical decision aids are less sensitive and risk more misclassification compared to clinician judgment in predicting an injury by CXR.
+Conclusion
+Clinician judgment was superior to mathematical decision aids for predicting an abnormal CXR finding in injured patients with chest trauma.
+

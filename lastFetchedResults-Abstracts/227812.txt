@@ -1,0 +1,11 @@
+A controller design methodology to regulate the output voltage of a phase-shifted
+resonant converter is presented. The design objective is to overcome the highly nonlinear
+characteristics of the phase-shifted resonant converter observed when the load is unknown. The
+control goal is to maintain the output voltage at desired values in the presence of large load
+perturbations by varying the phase angle of the full-bridge converter. The controller is derived
+using passivity theory which ensures that the closed-loop system is exponentially convergent and
+that only a single output feedback is required. An adaptive version is deduced to estimate the
+output load resistance for the passivity control. This feature allows the use of an extra output
+current sensor to be avoided. The structure of the controller derived using passivity theory is very
+simple. Laboratory experiments performed using a digital signal processor system confirm the
+robustness of the converter with the passivity-based controller.

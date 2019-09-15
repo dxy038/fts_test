@@ -1,0 +1,3 @@
+This paper is the first in a series whose objective is to study notions of large sets in the context of formal theories of constructivity. The two theories considered are Aczel's constructive set theory (CZF) and Martin-Löf's intuitionistic theory of types.
+
+This paper treats Mahlo's π-numbers which give rise classically to the enumerations of inaccessibles of all transfinite orders. We extend the axioms of CZF and show that the resulting theory, when augmented by the tertium non-datur, is equivalent to ZF plus the assertion that there are inaccessibles of all transfinite orders. Finally, the theorems of that extension of CZF are interpreted in an extension of Martin-Löf's intuitionistic theory of types by a universe.

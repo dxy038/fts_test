@@ -1,0 +1,18 @@
+Introduction: One of the most common syndromes in Parkinson's disease (PO) is rigidity. Currently, an
+index is used to evaluate the level of PO by the clinical measurement of rigidity in the upper extremity.
+The index uses a subjective method called Unified Parkinson's Disease Rating System (UPDRS). The
+subjective nature of this method makes the inlluence of physician in the measurement of rigidity
+possible. Hence, the development of a new standard method based on objective indices is needed.
+Materials and Methods: In this research, a new device was fabricated and used to measure the viscous
+and elastic indices and the range of motion during passive movement of elbow joint. The relation
+between each index and the level of illness was analyzed. The parameters were measured on 41 patients
+and 11 controls. The indices were extracted using Matlab-R14 sollware and the statistical analysis was
+performed using Spss-B.
+Results: Although there were significant differences in both the viscous and elastic indices between the
+pair groups and also among the UPDRS groups, but better correlations of the viscous ones and UPDRS
+were found. The range of motion by itself has no good correlation with the level of the disease.
+Discussion and Conclusion: Based on the obtained results, it can be inferred that using viscous indices
+of rigidity may have an advantage overthe elastic ones for the evaluation of Parkinson's disease.
+Upon conducting more trials and also considering the sub indices in different parts of the range of
+motion, the method used here may become a standard objective method for the evaluation of Parkinson's
+disease.

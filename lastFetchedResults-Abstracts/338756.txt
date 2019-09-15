@@ -1,0 +1,11 @@
+Objective
+Cellular prion protein (PrPc) is a glycosylphosphatidylinositol (GPI)-anchored protein (GPI-AP) constitutively expressed by neurons but also in hematopoietic cells. In trasmissible spongiform encephalopathies, the protease-resistant form of prion (PrP s c) converts the host PrPc into the pathologic form. We have investigated PrPc expression in hematopoietic cells from paroxysmal nocturnal hemoglobinuria (PNH). In this disease, due to somatic mutations in PIG-A gene, biosynthesis of the (GPI)-anchor is impaired and affected cells lack membrane expression of all GPI-AP.
+Methods
+
+Normal and PNH hematopoietic progenitors and paired wild-type (WT) and PIG-A mutant cell lines were used for analysis of intracellular and surface PrPc expression using flow cytometry and Western blot.
+Results
+
+By flow cytometry, PrPc was constitutively present on normal CD34+ cells, including more immature CD38dim cells, as well as hematopoietic cell lines. Similar results were obtained in purified CD34+. Phospholipase C treatment confirmed that PrPc was expressed on the membrane via the GPI-anchor. In PNH patients, GPI-AP-deficient CD34+ cells lacked PrPc membrane expression. PIG-A-mutated cell lines (Jurkat, K562, CEBV, AEBV), in contrast to their normal counterparts, did not express surface PrPc. However, we detected intracellular PrPc at approximately equivalent levels in both normal and PIG-A-mutated cells using intracellular flow cytometry and Western blotting.
+Conclusion
+
+Cells and cell lines with PNH phenotype together with their normal counterparts may be a suitable system to explore the function of membrane PrPc in the hematopoietic system. Conversely, PrPc is a good model to elucidate the fate of GPI-AP in PIG-A-deficient cells.

@@ -1,0 +1,10 @@
+Context
+to-model (M2M) transformations play an important role within model-driven development. Modern M2M approaches support incremental updates to the target model according to changes in the source model(s). Bidirectional transformation approaches even allow to incrementally translate target model changes back to the source model.
+ive
+l transformation’s target model may need to be refined later on either manually or automatically. Therefore, modellers may want to specify that target model changes are not overwritten if the original transformation is re-executed. There is currently only weak support for this kind of retainment by transformation engines.
+
+y transformation engines a transformation trace is available which keeps record of a transformation’s actions. In this paper, we exploit this information and define patterns which allow transformation engineers to trim transformations to facilitate the handling of target model changes.
+s
+cribe a formal framework which serves as basis for realizing the patterns as what we call retainment policies. Based on this framework we present an implementation of the retainment policy approach for QVT Relations.
+sions
+tainment policies which allow a transformation developer to develop transformation rules that will retain manual changes to the target model. The implementation of the approach for QVT Relations shows that it is realisable in state-of-the art transformation techniques. However, being defined on a theoretical level, also other transformation approaches will benefit from our work.

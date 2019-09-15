@@ -1,0 +1,11 @@
+Objective
+We report on the development of an EEG recording system, comprised of electrodes and amplifiers that are compatible with TMS (single and rapid-rate) in both human and animal studies.
+Methods
+We assembled a versatile multi-channel EEG recording system consisting of: (1) two types of electrodes that are safe during TMS or rTMS. (2) Low slew-rate EEG amplifiers that recover within a few milliseconds after the application of TMS pulses.
+Results
+The two electrode types: (a) a conductive-plastic surface electrode with a conductive-silver epoxy coat and (b) a subdermal silver wire electrode (SWE) are compatible to TMS pulses. The amplifiers recover within 30 ms, so that the EEG can be viewed online, essentially without interruption and/or blocking or excessive artifact.
+Conclusions
+Our TMS compatible electrode and EEG recording system allows safe and online viewing/recording of the subject's (human or animal) EEG/EP during experiments or studies involving TMS or rTMS applications. The TMS compatible electrode/amplifier system can be used with any EEG recording instrument.
+Significance
+A simple recording technique coupled with new electrodes permit safe and readable EEG records during TMS in humans and animals. Such online monitoring of the EEG would allow control of TMS/rTMS parameters based on EEG activity.
+

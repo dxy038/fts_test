@@ -1,0 +1,11 @@
+Objective
+To develop a prospective method for optimizing seizure prediction, given an array of implanted electrodes and a set of candidate quantitative features computed at each contact location.
+Methods
+The method employs a genetic-based selection process, and then tunes a probabilistic neural network classifier to predict seizures within a 10 min prediction horizon. Initial seizure and interictal data were used for training, and the remaining IEEG data were used for testing. The method continues to train and learn over time.
+Results
+Validation of these results over two workshop patients demonstrated a sensitivity of 100%, and 1.1 false positives per hour for Patient E, using a 2.4 s block predictor, and a failure of the method on Patient B.
+Conclusions
+This study demonstrates a prospective, exploratory implementation of a seizure prediction method designed to adapt to individual patients with a wide variety of pre-ictal patterns, implanted electrodes and seizure types. Its current performance is limited likely by the small number of input channels and quantitative features employed in this study, and segmentation of the data set into training and testing sets rather than using all continuous data available.
+Significance
+This technique theoretically has the potential to address the challenge presented by the heterogeneity of EEG patterns seen in medication-resistant epilepsy. A more comprehensive implementation utilizing all electrode sites, a broader feature library, and automated multi-feature fusion will be required to fully judge the method's potential for predicting seizures.
+

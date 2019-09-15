@@ -1,0 +1,5 @@
+Objective: To measure the response rate of normal human subjects to a low-strength, low-frequency magnetic field (MF), using nonlinear quantitative analysis of the electroencephalogram (EEG).
+Methods: Eight subjects were exposed to a series of trials, each consisting of the application of the MF (1 G, 60 Hz) for 2 s followed by a field-free period of 5 s, and the EEG was analyzed statistically using phase-space methods to assess whether the subject detected the MF.
+Results: Each subject exhibited statistically significant changes in the EEG during presentation of the MF, as evidenced by increases in percent determinism and percent recurrence, two different measures of deterministic structure in the recorded signal, thereby indicating that the MF had been detected.
+Conclusions: The 100% response rate manifested by the study group suggested that the ability to detect low-strength, low-frequency MFs is a common property of the human nervous system.
+

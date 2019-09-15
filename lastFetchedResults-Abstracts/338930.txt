@@ -1,0 +1,11 @@
+Objective
+We hypothesized that thrombopoietin (TPO) exerts its mitogenic effects on erythroid cells, at least in part, via an interaction of TPO with the cells' erythropoietin receptor (EPO-R).
+Methods
+
+We used BaF3 cells stably transfected with EPO-R to demonstrate that TPO alone is sufficient to support the long-term growth and proliferation of BaF3/EPO-R cells and to develop a TPO-dependent variant, BaF3/EPO-R(T), which is highly sensitive to and dependent on TPO for its proliferation. Northern analysis and RT-PCR were used to verify that both BaF3/EPO-R and BaF3/EPO-R(T) cells express EPO-R but lack c-mpl, the TPO receptor. To confirm that TPO responsiveness of BaF3/EPO-R(T) is due to TPO's interaction with EPO-R, EPO-R was downregulated by antisense mRNA.
+Results
+
+Downregulation of EPO-R in BaF3/EPO-R(T) cells abolishes responsiveness to both EPO and TPO. Viability of EPO-treated transfectants decreased from 95% to 36%, while that of TPO-treated transfectants decreased from 95% to 9% by 48 hours. Nontransfected BaF3/EPO-R(T), and BaF3/EPO-R(T) transfected with vector alone, remained viable and grew in either EPO or TPO.
+Conclusion
+
+Our results suggest a functional EPO-R may be necessary and sufficient for TPO to exert its mitogenic effects on erythroid cells.

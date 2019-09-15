@@ -1,0 +1,11 @@
+Objective
+Neutrophil receptors for the Fc portion of IgG (FcγR) trigger immune responses following cross-linking by IgG-coated foreign particles or immune complexes. Membrane-associated CD45, a protein tyrosine phosphatase termed leukocyte common antigen, has been shown to be essential for antigen receptor kinase mediated signaling in lymphocytes, and we hypothesized that CD45 may play a similar role in FcγR-mediated signaling and immune function in human neutrophils.
+Methods
+
+The experimental approach was that of cell surface molecule ligation via cross-linking with specific antibodies. Antibody dependent cellular cytotoxicity (ADCC) was assessed using a single-cell plaque assay and IL-6 production measured using ELISA. Tyrosine phosphorylation levels were assessed with anti-phospho-tyrosine blots and F-actin polymerization by flow cytometry and confocal microscopy.
+Results
+
+Neutrophils pretreated with anti-CD45 had a reduced ability to perform ADCC compared to untreated neutrophils. FcγRIIa cross-linking resulted in significantly increased concentrations of secreted IL-6 compared to untreated neutrophils, and IL-6 production was further enhanced by cocross-linking CD45 with FcγRIIa. Cross-linking CD45 alone also induced IL-6 production. FcγRIIa cross-linking resulted in increased protein tyrosine phosphorylation and F-actin polymerization in neutrophils. Cocross-linking CD45 with FcγRIIa resulted in abrogation of FcγRIIa mediated tyrosine phosphorylation and F-actin polymerization.
+Conclusions
+
+These data provide evidence that CD45 can regulate or enhance the stimulation and function of human neutrophils mediated through FcγR(s). In addition, CD45 ligation may play an essential role in cytokine induction pathways that lead to inflammatory reactions in vivo.

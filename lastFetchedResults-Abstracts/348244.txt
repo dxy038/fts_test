@@ -1,0 +1,9 @@
+Objective
+An important goal for functional brain studies using EEG technology is to estimate the location of brain sources that produce the scalp-recorded signals. The accuracy of source estimates is dependent upon many variables, one of which is the accurate description of the scalp positions of the EEG sensors. The objective of the present research was to develop a photogrammatic method for sensor localization that is fast, accurate, and easy to use.
+Methods
+With the novel photogrammetric method, multiple cameras were arranged in a geodesic array, and images of the sensors on the subject's head were acquired allowing for the reconstruction of the 3D sensor positions.
+Results
+Data from the photogrammetric method were compared with data acquired with the conventional electromagnetic method. The accuracy of the photogrammatic method, quantified as RMS of the measured positions and the actual known positions, was similar (mean error=1.27 mm) to the electromagnetic method (mean error=1.02 mm), and both approximated the localization error of the calibration object (mean error=0.56 mm).
+Conclusions
+Accurate determination of 3D sensor positions can be accomplished with minimal demands on the time of the subject and the experimenter using the photogrammetric method.
+

@@ -1,0 +1,11 @@
+Objective
+Although there is a clear positive association between obesity and the incidence and severity of cardiovascular disease, the association between underweight and cardiovascular disease is unclear. The objective of this study was to examine the relation between body mass index (BMI) and cardiovascular disease in Japan, where the proportion of the population that is underweight is relatively high.
+Method
+
+A total of 43,916 Japanese adults (21,003 men and 22,913 women) aged 40 to 79 years who had no history of cancer, ischemic heart disease (IHD), or stroke participated in the baseline survey in 1994. Hazard ratios (HR) and their 95% confidence intervals (CIs) for death due to total cardiovascular disease, all strokes, ischemic stroke, hemorrhagic stroke, and IHD were calculated according to BMI by using Cox's proportional hazards regression models. The 22.5–24.9 kg/m2 BMI category was used as the reference category in all analyses.
+Results
+
+There were U-shaped associations between BMI and total cardiovascular disease, all stroke, hemorrhagic stroke, and IHD mortality, and a J-shaped association between BMI and ischemic stroke mortality. Participants with a BMI < 18.5 kg/m2 had a significantly increased risk of total cardiovascular disease, all stroke, hemorrhagic stroke, and IHD mortality, and the multivariate HR (95% CI) was 1.62 (1.19–2.19), 1.50 (1.02–2.21), 2.11 (1.07–4.17), 1.83 (1.11–3.01), respectively.
+Conclusion
+
+Underweight was substantially associated with hemorrhagic stroke and IHD mortality in Japan, while obesity was associated with increased risk of total cardiovascular disease mortality and mortality from individual cardiovascular diseases.

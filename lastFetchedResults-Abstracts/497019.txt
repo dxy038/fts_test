@@ -1,0 +1,12 @@
+In this work, a packed bed reactor of methyl acetate hydrolysis process has been studied.
+First, mass transfer limitations from bulk fluid to catalyst surface and then from surface into catalyst body
+were investigated quantitatively. Whereas diffusion had no any limitation on the overall rate of reaction, a
+pseudo homogeneous one dimensional model considering axial dispersion coefficients was developed. A
+LHHW kinetic model for rate of reaction and a Longmuir model for equilibrium adsorption of species on the
+catalyst, developed experimentally, were used in the mathematical model. An experiment of pulse-input
+feed to reactor was performed and concentration of reactor product versus time was determined. The model
+were solved by the numerical method of lines and the absolute difference between calculated concentration
+profile and those measured experimentally was defined as the objective function which was optimized by
+Levenberg-Marquardt optimization algorithm. A comparison of our model with ideal Plug Flow model and
+also with previous model in literature shows that this model is more accurate and more comprehensive than
+the others and can be used in many comparable industrial cases.

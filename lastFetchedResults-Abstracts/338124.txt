@@ -1,0 +1,9 @@
+Objective
+Several agents including hydroxyurea, erythropoietin and butyric acid have been shown to reactivate γ gene expression during adult stage development by unknown molecular mechanisms. In addition to inhibiting the enzyme histone deacetylase, butyrate may modulate transcription factor binding to specific DNA sequences defined as butyrate response elements (BREs). The purpose of this study was to identify promoter sequences involved in γ gene activation by butyrate using truncation mutants in stable cell lines.
+Materials and Methods
+A detailed analysis of Aγ gene activation in the presence of α-aminobutyric acid and sodium butyrate was completed in stable mouse erythroleukemia (MEL) cell pools established with seven Aγ promoter truncation mutants. Functional studies were performed in a transient assay system followed by gel mobility shift assays to define protein binding patterns and to demonstrate transcription factor interactions in the γ promoter BRE.
+Results
+Aγ promoter analysis in stable MEL cell pools revealed BREs between nucleotide-141 and −201, and nucleotide-822 and -893 (γBRE). The γBRE required the minimal Aγ promoter (−201 to +36) to stimulate gene expression. We observed a 6.1-fold (p < 0.05) increase in CAT activity for the minimal Aγ promoter alone compared with an 11.5-fold (p < 0.05) increase when the γ promoter was combined with the −822 to −893 fragment. Protein binding studies demonstrated altered protein-DNA interactions in the γBRE after butyrate induction. The pattern for binding observed suggest both negative- and positive-acting transcription factors may interact in this region.
+Conclusion
+The data supports the −822 to −893 region as a DNA regulatory element that contributes to Aγ gene inducibility by butyrate.
+

@@ -1,0 +1,18 @@
+Intelligent well technology has provided facility for real time production control through use of
+subsurface instrumentation. Early detection of water production allows for a prompt remedial action.
+Effective water control requires the appropriate performance of individual devices in wells on
+maintaining the equilibrium between water and oil production over the entire field life. However,
+there is still an incomplete understanding of using intelligent well concept to control unwanted fluids
+and the way this leads to improving hydrocarbon recovery.
+The present study proposes using intelligent well technology to develop a new integrated
+methodology for selecting/ranking the candidate wells/fields, interval control valve (ICV) size
+determination, and ICV setting optimization. Various technical and economical parameters weighted
+by expert opinions are used for candidate well/field ranking to implement the intelligent technology.
+A workflow is proposed for ICV size determination based on its effect on a predefined objective
+function. Inappropriate ICV size selection leads to suboptimum production scenarios. Furthermore,
+this study proposes an efficient ICV setting optimization in an intelligent well. The objective function
+can maximize cumulative oil, minimize water production, or conduct both. It was shown that for
+selecting the optimized cases, the balance between water and oil production under predefined criteria
+should be practiced. Real case studies were considered to demonstrate the effectiveness and
+robustness of the proposed methodology. A considerable improvement in the objective function was
+achieved using the developed methodology.

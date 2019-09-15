@@ -1,0 +1,7 @@
+Background & Objectives: Study trend of observed rates changes provide valuable information for need assessment, plan, reload programs and develop indicators of each country. The main objective of this paper is to determine the changes in tuberculosis incidence rate trend in Iran by applying segmented regression model.Methods: In this study, segmented Linear Regression employed to analyze the trend of changes in pattern of Tuberculosis incidence rate during past 44 years (1964-2008) in Iran. We used least square method and permutation test and Bayesian Information Criteria to decide which of the two segment regression model and poison regression would be better. Data analyzed by Joinpoint3.4 and SAS9.1 software.
+
+Results: According the permutation test, it was detected that there were two breakpoints over 1977 and 1993 years (p=0.0108). Incidence rate of tuberculosis during the first 11 years of review had declined with annual percentage change = -10.1%, for second segment it rose upward with 4.3% increase in per year and for end segment TB incidence rate again declined with annually 4.5%. The average annual change of Tuberculosis incidence rate in Iran for at least 10 years has been estimated -4.5 percentages.
+
+Conclusion: The findings of this study have shown that the incidence rate of Tuberculosis decreased after 1992 that interestingly this decline seems faster than estimated by international TB control program. This indicates that preventive and treatment of Tuberculosis programs have been successful in Iran.
+
+

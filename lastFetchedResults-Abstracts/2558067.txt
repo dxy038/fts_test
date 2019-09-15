@@ -1,0 +1,9 @@
+In this paper, a quaternion firefly algorithm is utilized to solve a multi-row facility layout design
+problem with the objective of minimizing the total cost of transportation. A quaternion firefly
+algorithm takes the motion of the firefly as a quaternion one. Consequently, the solution space is
+explored more accurately and the answers are of higher quality. That is, the answers are considerably
+better than those obtained by standard firefly algorithms. Given the necessity to cut the costs of
+transferring materials in the facility layout design, a layout is adopted to examine the performance of
+the algorithm and the solutions from the proposed algorithm are compared with those of CRAFT
+software, entropy algorithm, and genetic algorithm with that of a heuristic process. The results show
+better performance of the proposed algorithm comparing other algorithms under examination.

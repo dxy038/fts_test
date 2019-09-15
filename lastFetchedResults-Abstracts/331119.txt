@@ -1,0 +1,14 @@
+Background
+Numerous analyses for the shrinkage stress in the adhesive resin-based composite restorations mostly rely on numerical models. However, various finite element studies have inherent difficulties and inconsistencies associated with the use of different anatomy (tooth and restoration), boundary conditions (root and interfaces) and shrinkage models. As a consequence many numerical results remain inconclusive.
+Objective
+
+The objective of this paper is to develop a simplified analytical model of shrinkage stress and investigate effects of material properties of the restorative material, size of the restoration and volumetric shrinkage on the magnitude of the shrinkage stress in the vicinity of the dental-restoration interface.
+Methods
+
+The model is based on the following assumptions. The geometry is axisymmetric; all materials are linear-elastic; and the polymerization of the restoration material results in uniform volume shrinkage. An application of compatibility conditions leads to the system of five linear algebraic equations to five unknown variables, which can be easily resolved using standard techniques.
+Results
+
+An explicit equation for the tensile stress at the interface was obtained. It was shown that higher Young's modulus, Poisson's ratio and volume shrinkage of the restorative material normally lead to larger tensile stress at the interface, which increases the risk of debonding. The results obtained based in this work, in general, are in a good agreement with published results of finite element studies.
+Significance
+
+The model allows comparison of different adhesive restorative materials with respect to the fracture risk of the interface induced by the development of the shrinkage stress at the restoration–dentine interface during polymerization. The model can be used to validate more sophisticated computational models as well as to conduct various optimization studies and preliminary assessments of fracture risk.

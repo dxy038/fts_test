@@ -1,0 +1,11 @@
+Objective
+In this study, the effects of contralateral noise or speech on middle latency response (MLR) components Pa and Pb (P1 or P50) were studied using high rates clicks in normal hearing awake adult subjects.
+Methods
+One standard (4.88 Hz) and four jittered click sequences (24.4, 39.1, 58.6, 78.1 Hz) at different mean rates were monaurally presented to ten subjects. The contralateral ears were stimulated with continuous pink noise, recorded speech or no stimulus for control. Overlapping MLR responses to jittered click stimuli were deconvolved using the frequency domain continuous loop averaging deconvolution (CLAD).
+Results
+The recordings show that contralateral noise or speech stimulation suppresses Pb component greatly at rates around 40 Hz while earlier components (ABR and Pa) are not significantly affected. The suppression of the Pb component is about 50% with some latency reduction.
+Conclusions
+The results show that the Pb component of the MLR is significantly affected by contralateral stimulus at resonance rates at around 40 Hz. It appears that the contralateral noise obliterates the amplitude enlargement due to resonance effect.
+Significance
+These findings show that the Pb is generated very differently from the Pa component and strongly inhibited by the contralateral ear. These results also explain the previously observed masking of the 40 Hz auditory steady-state responses (ASSR) with contralateral noise.
+

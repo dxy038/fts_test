@@ -1,0 +1,11 @@
+Objective
+The ability of human neutrophils to migrate was studied during culture in vitro.
+Methods
+
+Neutrophils were isolated from human blood and cultured at 37°C. Apoptosis was determined by Annexin-V fluorescein isothiocyanate binding. Receptor expression was measured by fluorescence in situ hybridization analysis with monoclonal antibodies. Migration was assessed with Transwell Fluoroblock inserts and calcein-stained neutrophils. Extracellular signal-regulated kinase 1/2 (ERK-1/2) activation was determined with monoclonal antibody against phosphorylated ERK-1/2.
+Results
+
+Upon culture, untreated neutrophils downregulated the chemotaxin receptors FPR, CXC chemokine receptor 1, and CXC chemokine receptor 2 and lost the ability to migrate to formyl-methionyl-leucyl-phenylalanin, interleukin 8 (IL-8), and C5a. In contrast, expression of CXCR4 was induced; this receptor was able to signal (increase in intracellular free calcium ions [Ca2+]i, ERK-1/2 activation) but was nonfunctional (no chemotaxis to stromal cell-derived factor-1α). The myeloid growth factors granulocyte colony-stimulating factor (G-CSF) and granulocyte-macrophage colony-stimulating factor (GM-CSF) retarded the process of functional decay during cell culture. However, while preserving chemotaxis of neutrophils toward formyl-methionyl-leucyl-phenylalanin or C5a, GM-CSF—in contrast to G-CSF—did not preserve chemotaxis toward IL-8, with a corresponding downregulation of the IL-8 receptors. The decay in neutrophil chemotaxis occurred prior to detectable phosphatidylserine (PS)-exposure. In contrast, the induction of [Ca2+]i rises and ERK-1/2 activation correlated with chemotaxin receptor expression unless the cells were truly apoptotic.
+Conclusion
+
+Neutrophils aging in vitro lose their chemotactic capacity. Functional decay starts prior to PS exposure and can be partially prevented by G-CSF and GM-CSF, in a differential fashion. These growth factors act by increasing the number of viable neutrophils, by altering the levels of chemotaxin receptor expression, and—independently—by affecting signaling cascades.

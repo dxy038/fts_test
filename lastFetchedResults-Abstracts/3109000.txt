@@ -1,0 +1,1 @@
+This paper introduces the concept of a moving base robot and presents the preliminary work on its kinematics and stability. The objective of a moving base is to give robots a semi-infinite work space. The stability criteria is shown to lead to infinite solution boundaries which means optimization can be applied.

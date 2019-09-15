@@ -1,0 +1,16 @@
+Nowadays, DGs are widely used in the power
+systems to improve the overall conditions of the network.
+Less environmental impact, high electric efficiency, low
+variable maintenance cost, quick start up, low installation
+cost and many other benefits, encourage the system
+manager to utilize this type of generation in the network.
+One of the most important issues about DG is allocation
+size and place of DG in the network to achieve optimal
+using of it. Strength Pareto as a multi-objective algorithm
+optimizes DG size and place while DG cost and system
+total power loss are optimization objectives. This
+program gives several results which all of them are
+optimal and designer could select one of them according
+to his interest. This result is known as Pareto front. Pareto
+front is compared with result of GA and its capability is
+shown.

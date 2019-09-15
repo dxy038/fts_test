@@ -1,0 +1,5 @@
+Many finite element programs currently utilised in the three-dimensional simulation of bulk metal forming processes make use exclusively of tetrahedral shaped elements because of the advantages of such elements in meshing and remeshing operations.
+
+This paper addresses the problem of utilising hexahedral elements and discusses the relative performance between structured meshes of hexahedral elements, with initially perfect aspect ratios, and unstructured meshes of hexahedral elements obtained from decomposition of tetrahedral elements. The presentation is oriented to remeshing operations and its application to the numerical simulation of metal forming processes, therefore some supporting techniques related to this issue such as: recovery techniques, mesh quality assessment and data transfer, are also included.
+
+A metal forming example obtained from the three-dimensional numerical simulation of a fullering operation, utilised to reduce the cross-section of a bar and increase its length, is included with the objective of illustrating some of the algorithms and supporting the overall presentation.

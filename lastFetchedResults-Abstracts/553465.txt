@@ -1,0 +1,19 @@
+The problem of optimum reconfiguration with
+FACTS devices planning in distribution systems is a task
+that must be solved in an optimal manner for distribution
+companies. Also, FACTS devices such as Static VAR
+Compensator also have been planned for loss reduction
+and voltage profile improvement in steady state
+conditions. This problem has been modeled as a nonlinear
+and multi objective optimization problem based on
+a multi-stage hieratical optimization problem to improve
+power system voltage stability margin and reduce losses.
+This reconfiguration algorithm starts with a radial
+topology by a theoretical approach based on the Graph
+concept and Matroid theory. The presented approach is
+useful to avoid tedious mesh checks for the topology
+constraint validation. Also, the voltage stability index is
+calculated to evaluate static voltage stability security
+margin. This calculation is done for each configuration
+pattern with defined SVCs planning. A toolbox has been
+developed to recognize loadability limit.

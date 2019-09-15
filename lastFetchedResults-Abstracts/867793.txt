@@ -1,0 +1,12 @@
+Short-run productions are common in industrial environments where flexibility is required in the
+manufacturing of parts and several product variants can be produced. Monitoring process stability during
+the production run is strategic to avoid the occurrence of an excessive number of non conforming units
+which can lead to excessive scrap or rework costs. The selection of the best control strategy can be
+obtained with respect to an economic objective by minimizing the cost associated with the implementation
+strategy. In this paper, several strategies including preventive maintenance, Shewhart, EWMA and
+CUSUM control charts are compared to monitor process dispersion. Constraints related to the line productivity
+and the inspection activities configuration have been included in the problem formulation. A
+proper optimization algorithm has been developed to cope with the investigated problem. A large benchmark
+of process scenarios has been investigated and the obtained results show that the selection of the
+best strategy is not a straightforward task due to the influence of several process operating parameters.
+Finally, a numerical example is detailed to get more insight about the investigated problem.

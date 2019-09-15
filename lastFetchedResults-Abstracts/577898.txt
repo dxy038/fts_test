@@ -1,0 +1,9 @@
+Outliers are considered as a set of data that distinctly stands out from the rest of that
+data. Accepting or rejecting the outliers depends on various factors. The objective of this
+paper is to explain the accepting or rejecting conditions of outliers. Studying the congestion
+of the outlier units is one of the which through which the acceptance or rejection
+conditions can be figure out. In this method, it is first needed to identify the outliers that
+have congestion and then decide about the accepting or rejecting them. Discussions are
+presented following some examples to obtain higher level of underestimating of the proposed
+method. In addition, the return to scale of outliers are determined and discussed
+by using some examples.

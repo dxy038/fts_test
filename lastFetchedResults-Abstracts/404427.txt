@@ -1,0 +1,11 @@
+Background
+The microscopic examination of sputum for acid-fast bacilli, is a simple and rapid test that is used to provide a presumptive diagnosis of infectious tuberculosis. While patients with tuberculosis with sputum smears negative for acid-fast bacilli are less infectious than those with positive smears, both theoretical and empirical evidence suggest that they can still transmit Mycobacterium tuberculosis. We aimed to estimate the risk of transmission from smear-negative individuals.
+Methods
+
+As part of an ongoing study of the molecular epidemiology of tuberculosis in San Francisco, patients with tuberculosis with mycobacterial isolates with the same DNA fingerprint were assigned to clusters that were assumed to have involved recent transmission. Secondary cases with tuberculosis, whose mycobacterial isolates had the same DNA, were linked to their presumed source case to estimate transmission from smear-negative patients. Sensitivity analyses were done to assess potential bias due to misclassification of source cases, unidentified source cases, and HIV-1 co-infection.
+Findings
+
+1574 patients with culture-positive tuberculosis were reported and DNA fingerprints were available for 1359 (86%) of these patients. Of the 71 clusters of patients infected with strains that had matching fingerprints, 28 (39% [95% CI 28–52]) had a smear-negative putative source. There were 183 secondary cases in these 71 clusters, of whom a minimum of 32 were attributed to infection by smear-negative patients (17% [12–24]). The relative transmission rate of smear-negative compared with smear-positive patients was calculated as 0·22 (95% CI 0·16–0·32). Sensitivity analyses and stratification for HIV-1 status had no impact on these estimates.
+Interpretation
+
+In San Francisco, the acid-fast-bacilli smear identifies the most infectious patients, but patients with smear-negative culture-positive tuberculosis appear responsible for about 17% of tuberculosis transmission.

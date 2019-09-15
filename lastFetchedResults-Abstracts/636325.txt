@@ -1,0 +1,8 @@
+The Burr XII distribution offers a more flexible alternative to the lognormal, log-logistic and Weibull
+distributions. Outliers can occur during reliability life testing. Thus, we need an efficient method to estimate
+the parameters of the Burr XII distribution for censored data with outliers. The objective of this paper is to
+present a robust regression (RR) method called M-estimator to estimate the parameters of a two-parameter
+Burr XII distribution based on the probability plotting procedure for both the complete and multiplycensored
+data with outliers. The simulation results show that the RR method outperforms the unweighted
+least squares and maximum likelihood methods in most cases in terms of bias and errors in the root mean
+square.

@@ -1,0 +1,7 @@
+The pig production needs to be modified into a sustainable system. Handling of the manure and reducing emissions have to be taken into account in the design of pig facilities, so the called integrated pig facilities are being developed in which the energy in the exhaust air can be used to evaporate water from liquid manure.
+
+The objective of this research was to link an existing dynamic simulation model for indoor climate calculation to a newly developed simulation model for manure evaporation, allowing annualised calculation of evaporation. The physical processes that occur in the liquid manure evaporator were described in a dynamic simulation model. This model was validated with experiments carried out in a laboratory facility. This model underestimated the evaporation with an average of 15·4%. Some explanations were given.
+
+Model calculation of the evaporation at annual basis shows that per fattening pig place 0·38 to 0·41 m3 liquid manure per year can be evaporated. To increase the evaporation level, thermal energy can be added.
+
+The linking of two simulation models was successful. The liquid manure drying simulation model can be used to gain insight in the possibilities of using a manure drying technique under a variety of circumstances, and to design practical installations and to optimise the drying process.

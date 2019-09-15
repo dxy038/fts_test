@@ -1,0 +1,11 @@
+Objective
+Transduction of primary B-cell chronic lymphocytic leukemia (B-CLL) cells with recombinant adeno-associated virus (rAAV) vectors is dependent on preactivation of leukemic cells by CD40L. CpG-oligodeoxynucleotides (CpG-ODNs) are able to activate cytokine production and proliferation of B-CLL cells. Therefore CpG-ODNs were tested for their potential to enhance transgene expression in CLL cells.
+Materials and methods
+
+Using an optimized adenovirus-free packaging system, rAAV vectors coding for the enhanced green fluorescent protein (AAV/EGFP) were packaged and highly purified resulting in infectious titers up to 5×109/mL. Cells obtained from patients with B-CLL were infected with AAV/EGFP at a multiplicity of infection of 100 while being stimulated with CpG-ODNs and/or CD40L-expressing HeLa/SF cells. Transgene expression was assessed after 48 hours by flow cytometry.
+Results
+
+Stimulation of B-CLL cells by CpG-ODNs resulted in up-regulation of costimulatory molecules and G1/S-phase transition at similar levels compared to activation by HeLa/SF cells, but use of CpG-ODNs alone did not result in any efficient AAV/EGFP transduction. Combined stimulation of B-CLL cells with HeLa/SF cells and CpG-ODNs during AAV/EGFP transduction significantly enhanced transgene expression compared to feeder stimulation alone (p = 0.004). In addition, the copy number per single cell was significantly increased by addition of CpG-ODNs as detected by quantitative real-time PCR (p = 0.04). Use of self-complementary AAV vectors that are not dependent on target cell DNA synthesis did not result in increased transgene expression compared to single-stranded AAV vectors (p = 0.30).
+Conclusion
+
+Stimulation by CD40L is crucial for efficient gene transfer into B-CLL cells by rAAV vectors, whereas transduction efficiency can be significantly enhanced by CpG-ODNs.

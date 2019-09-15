@@ -1,0 +1,21 @@
+Purpose: Microbial assay is used to determine the potency of antibiotics and vitamins. In
+spite of its advantages like simplicity and easiness, and to reveal the slight changes in the
+molecules, the microbial assay suffers from significant limitations; these methods are of
+lower specificity, accuracy and sensitivity. The objective of the present study is to evaluate
+the efficacy of real time-PCR technique in comparison with turbidimetric method for
+microbial assay of amikacin.
+Methods: Microbial determination of amikacin by turbidimetric method was performed
+according to USP. Also amikacin concentrations were determined by microbial assay using
+taq-man quantitative PCR method. Standard curves in different concentration for both
+methods were plotted and method validation parameters of linearity, precision and accuracy
+were calculated using statistical procedures.
+Results: The RT-PCR method was linear in the wider concentration range (5.12 – 38.08 for
+RT-PCR versus 8.00 – 30.47 for turbidimetric method) with a better correlation coefficient
+(0.976 for RT-PCR versus 0.958 for turbidimetric method). RT-PCR method with LOQ of
+5.12 ng/ml was more sensitive than turbidimetric method with LOQ of 8.00 ng/ml and the
+former could detect and quantify low concentrations of amikacin. The results of accuracy
+and precision evaluation showed that the RT-PCR method was accurate and precise in all of
+the tested concentration.
+Conclusion: The RT-PCR method described here provided an accurate and precise
+technique for measurement of amikacin potency and it can be a candidate for microbial
+determination of the antibiotics with the same test organism.

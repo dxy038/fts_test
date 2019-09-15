@@ -1,0 +1,1 @@
+To compensate for the errors in the point spread function, a constrained orthogonal <e1>l</e1><sub>1</sub> and orthogonal <e1>l</e1> <sub>2</sub> formulation for the image restoration problem is developed. The random optimization algorithm is used to minimize these nonconvex objective functions. Simulation results are presented to indicate the effectiveness of this approach

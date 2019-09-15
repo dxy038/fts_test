@@ -1,0 +1,1 @@
+We present an algorithm for aggregating p-center demand points such that the resulting aggregate set imposes a grid structure on the plane consisting of identical “diamonds” of user-specified dimensions. The grid is positioned so that a well-defined upper bound on the objective function error is smallest.

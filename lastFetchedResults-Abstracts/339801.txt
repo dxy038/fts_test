@@ -1,0 +1,11 @@
+Objective
+Dendritic cells (DCs) are powerful mediators of immune responses. We have demonstrated that the content of plasmacytoid (type 2) dendritic cells (DC2) within allogeneic bone marrow grafts impacts survival and graft-vs-host disease following transplantation. In order to better understand the effect of DC subsets on regulation of immunity, we tested the effect of DC subsets on T cells in a model of indirect antigen presentation to mimic presentation of host-type alloantigen by donor-type DC.
+Materials and Methods
+
+Volunteers underwent apheresis without cytokine priming, and DC1, DC2, naïve, and memory T cells were purified by immunomagnetic bead and fluorescein-activated cell sorting. Purified DC1 and DC2 cells were cultured with third-party irradiated blood mononuclear cells and either naïve or memory homologous T cells in mixed lymphocyte reactions.
+Results
+
+Myeloid (type 1) dendritic cells (DC1) induced significant proliferation of homologous T cells and were more effective in priming naïve T-cell responses than memory T cells responding to alloantigen. DC2 cells induced minimal T-cell proliferation regardless of the T-cell subset used as the responding fraction. Secondary mixed lymphocyte reaction studies demonstrated that DC2 primed T cells remained hyporesponsive even when challenged with a third-party alloantigen. The immunostimulatory effect of DC1 required DC-to-T–cell contact, and induced interleukin-12 secretion, while DC2 cells induced interferon-γ secretion. Polymerase chain reaction analysis of DC2-primed T cells demonstrated a significant increase in Foxp3 expression, supporting induction of a regulatory T-cell population.
+Conclusion
+
+DC1 and DC2 cells induced divergent T-cell responses using homologous cells. Better understanding of DC2-mediated T-cell suppression may yield strategies that overcome tumor-specific immune tolerance and regulate graft-vs-host disease.

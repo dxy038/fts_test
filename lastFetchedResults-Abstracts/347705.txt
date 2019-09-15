@@ -1,0 +1,5 @@
+Objective: This study addressed the relationship between daytime sleepiness and spectral composition of the preceding NREM sleep.
+Methods: Nineteen healthy volunteers (mean age: 36.5 years; SD: 10.1) underwent polysomnography during two consecutive nights and the multiple sleep latency test (MSLT) on the following day. Daytime sleepiness was also assessed by the Epworth sleepiness scale (ESS). The sleep recordings were visually scored according to standard criteria. The quantitative sleep EEG analysis was performed using a fast Fourier transform routine. The sleep parameters were compared between subjects with short and long MSLT sleep latencies (cut-off=10 min) and between subjects with low and high ESS scores (cut-off=6 points).
+Results: Subjects with short MSLT sleep latencies showed a reduced theta EEG activity. There was no evidence of reduced synchronization of sleep EEG in subjects with high ESS scores.
+Conclusions: Moderately increased daytime sleepiness as indicated by MSLT sleep latency less than 10 min is accompanied by decreased power of theta activity during NREM sleep indicating a deficit of sleep EEG synchronization.
+

@@ -1,0 +1,11 @@
+Objective
+Here, we investigate whether the event-related desynchronization (ERD) of spectral components of the cortical EEG in the beta (13–30 Hz) frequency range may, in part, index motor selection processes. Specifically, we sought evidence for a contralaterally dominant component of the beta ERD that is limited to trials in which motor selection is possible prior to any imperative cue to move, with attendant behavioural advantage.
+Methods
+We measured reaction time and assessed the lateralization of beta ERD in 12 healthy volunteers as they performed pre-cued choice reaction time tasks, in which warning S1 cues were either fully predictive about the laterality of a subsequent imperative S2 signal or provided no laterality information. We calculated ‘lateralized ERD index’ (LERDI), a parallel measure to the lateralized readiness potential in the time domain.
+Results
+Trials with 100% S1–S2 congruency produced significantly shorter reaction times than trials with 50% S1–S2 congruency, where laterality information was unreliable. Beta LERDI indicated significantly greater lateralisation of the ERD in the warning-go interval and of event-related synchronization (ERS) following movement in the 100% condition than in the 50% condition. The lateralization of the beta ERD with respect to hand persisted, even when subjects were instructed to make movements of opposite laterality to those prompted.
+Conclusions
+Lateralized EEG changes occur in the beta band in the S1–S2 interval prior to movement, but only when informative warning cues allow early motor selection, as suggested by the shortening of reaction time. Furthermore, the enhanced contralateral ERS with 100% S1–S2 congruency suggests that this phenomenon is at least partly independent of afferent feedback, as the same movement was made in the 100 and 50% conditions.
+Significance
+Lateralized suppression of beta power prior to externally generated movements is associated with motor selection.
+

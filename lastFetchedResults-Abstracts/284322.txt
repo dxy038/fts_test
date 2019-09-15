@@ -1,0 +1,14 @@
+Objectives
+The objective of the present study was to determine whether improved contractility after left ventricular assist device (LVAD) support reflects altered myocyte calcium cycling and changes in calcium-handling proteins.
+Background
+
+Previous reports demonstrate that LVAD support induces sustained unloading of the heart with regression of pathologic hypertrophy and improvements in contractile performance.
+Methods
+
+In the human myocardium of subjects with heart failure (HF), with non-failing hearts (NF), and with LVAD-supported failing hearts (HF-LVAD), intracellular calcium ([Ca2+]i) transients were measured in isolated myocytes at 0.5 Hz, and frequency-dependent force generation was measured in multicellular preparations (trabeculae). Abundance of sarcoplasmic reticulum Ca2+ adenosine triphosphatase (SERCA), Na+/Ca2+ exchanger (NCX), and phospholamban was assessed by Western analysis.
+Results
+
+Compared with NF myocytes, HF myocytes exhibited a slowed terminal decay of the Ca2+ transient (DTterminal, 376 ± 18 ms vs. 270 ± 21 ms, HF vs. NF, p < 0.0008), and HF-LVAD myocytes exhibited a DTterminal that was much shorter than that observed in HF myocytes (278 ± 10 ms, HF vs. HF-LVAD, p < 0.0001). Trabeculae from HF showed a negative force-frequency relationship, compared with a positive relationship in NF, whereas a neutral relationship was observed in HF-LVAD. Although decreased SERCA abundance in HF was not altered by LVAD support, improvements in [Ca2+]i transients and frequency-dependent contractile function were associated with a significant decrease in NCX abundance and activity from HF to HF-LVAD.
+Conclusions
+
+Improvement in rate-dependent contractility in LVAD-supported failing human hearts is associated with a faster decay of the myocyte calcium transient. These improvements reflect decreases in NCX abundance and transport capacity without significant changes in SERCA after LVAD support. Our results suggest that reverse remodeling may involve selective, rather than global, normalization of the pathologic patterns associated with the failing heart.

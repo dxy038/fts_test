@@ -1,0 +1,15 @@
+Our objective is the construction of a phenomenological model of ferroelectricity for general electro!
+mechanical loading histories\ which is simple enough to be implemented in an FE!code with realistic e}ort[
+In this paper we motivate and verify the one!dimensional formulation of such a model[ It relies upon
+introducing the remanent polarization and the remanent strain as internal variables besides stress\ strain\
+electric _eld and polarization[ The internal variables are governed by ordinary di}erential equations[ Each
+of these evolution equations is subjected to two loading conditions of di}erent nature[ The _rst one indicates
+the onset of changes of the remanent quantities by domain switching\ while the second one characterizes the
+saturation value of a remanent quantity corresponding to a totally switched domain structure[ Polarization
+induced anisotropy is taken into account as far as it seemed necessary[ For simplicity\ no rate e}ects are
+included[
+The model response to uniaxial electro!mechanical loading histories will be discussed in comparison to
+known experimental results[ By means of a bilinear approximation the following characteristic phenomena
+of macroscopic ferroelectricity are represented ] dielectric hysteresis\ polarization induced piezoelectricity\
+butter~y hysteresis\ ferroelastic hysteresis\ mechanical depolarization[   0887 Elsevier Science Ltd[ All
+rights reserved[

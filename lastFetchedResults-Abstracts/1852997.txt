@@ -1,0 +1,8 @@
+Objective
+cribe and illustrate a four stage methodological approach to capture user knowledge in a biomedical domain area, use that knowledge to design an ontology, and then implement and evaluate the ontology as a health information system (HIS).
+s and materials
+id participatory design-grounded theory (GT-PD) method was used to obtain data and code them for ontology development. Prototyping was used to implement the ontology as a computer-based tool. Usability testing evaluated the computer-based tool.
+s
+irically derived domain ontology and set of three problem-solving approaches were developed as a formalized model of the concepts and categories from the GT coding. The ontology and problem-solving approaches were used to design and implement a HIS that tested favorably in usability testing.
+sions
+ur stage approach illustrated in this paper is useful for designing and implementing an ontology as the basis for a HIS. The approach extends existing ontology development methodologies by providing an empirical basis for theory incorporated into ontology design.

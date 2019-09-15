@@ -1,0 +1,11 @@
+Objective
+We have investigated the localization accuracy of low-resolution electromagnetic tomography (LORETA) for mesial temporal interictal epileptiform discharges (IED) on a statistical basis by using clinical electroencephalographic (EEG) data of simultaneous scalp and intracranial foramen ovale (FO) electrode recordings.
+Methods
+We retrospectively analyzed the IED of 15 patients who underwent presurgical assessment for intractable temporal lobe epilepsy. All patients have subsequently undergone amygdalohippocampectomy. The scalp signals were averaged time-locked to the peak activity in bilateral 10-contact FO electrode recordings. Source modeling was carried out by using statistical non-parametric mapping (SNPM) of LORETA values and by calculating raw LORETA values of averaged IED. The results were compared to intracranial data obtained from FO electrode recordings.
+Results
+Two thousand six hundred and fifteen discharges could be attributed to 19 different patterns of intracranial mesial temporal IED. SNPM of LORETA revealed confined ipsilateral mesial temporal solutions for 14 (73.7%) and no significant solutions for five (26.3%) of these patterns. Raw LORETA current density distributions of the 19 averaged IED patterns revealed ipsilateral basal to lateral temporal solutions for the 14 IED patterns with a sufficient signal to noise ratio (SNR), but spurious results for those five IED with a low SNR.
+Conclusions
+SNPM of LORETA but not LORETA analysis of averaged IED patterns accurately localizes the source generators of mesial temporal IEDs.
+Significance
+SNPM of raw LORETA values might be appropriate for localizing restricted mesial temporal lobe sources.
+

@@ -1,0 +1,9 @@
+In this paper, a novel multi-objective artificial bee colony algorithm is presented to solve the distribution system reconfiguration and
+hybrid (photo voltaic/wind turbine/fuel cell) energy system sizing. The purposes of the multi-objective optimization problem include the
+total power loss, the total electrical energy cost, and the total emission produced by hybrid energy system and the grid minimization, and
+the voltage stability index (VSI) of distribution system maximization. In the proposed algorithm, an external archive of non-dominated
+solutions is kept which is updated in each iteration. In addition, for preserving the diversity in the archive of Pareto solutions, the crowding
+distance operator is used. This algorithm is tested on 33 bus distribution systems and obtained non-dominated solutions are compared
+with the well-known NSGA-II and MOPSO methods. The solutions obtained by the MOABC algorithm have a good quality
+and a better diversity of the Pareto front compared with those of NSGA-II and MOPSO methods.
+  2012 Elsevier Ltd. All rights reserved.

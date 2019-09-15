@@ -1,0 +1,9 @@
+Objective
+To assess the interchangeability of carotid tonometry and synthesized aorta pressure waveforms for estimating central systolic blood pressure (SBP) and augmentation index (AIx).
+Methods
+Tonometry waveforms were acquired with a custom built hardware and software platform in 276 subjects (179 men/97 women; aged 45.5 ± 5.7 years; mean ± standard deviation) at the radial (Pwf,ra), brachial (Pwf,ba), and carotid artery (Pwf,ca). The Pwf,ba was calibrated using systolic (SBPba) and diastolic (DBPba) sphygmomanometer pressure. The DBPba and calculated mean (MAPba) brachial pressure were subsequently used for calibration of Pwf,ra and Pwf,ca. A central pressure waveform (Pwf,sao) was synthesized from Pwf,ra using a generalized pressure transfer function (TFF). The AIx and SBP were measured on Pwf,ra, Pwf,ca, and Pwf,sao.
+Results
+The SBPra, SBPca, and SBPsao were 138.5 ± 16.8, 130.0 ± 16.2, and 131.1 ± 16.6 mm Hg, respectively. The SBPra correlated well with the SBPca (r = 0.93) and the SBPsao (r = 0.94), as did the SBPca and the SBPsao (r = 0.97) with a mean bias of 1.35 ± 3.90 mm Hg. The AIx derived from Pwf,ra, Pwf,ca, and Pwf,sao were −20.8% ± 14.5%, 12.4% ± 13.9%, and 20.0% ± 11.7%, respectively. The correlation between radial and carotid, and radial and central AIx was 0.72 and 0.94, respectively. The correlation between AIx derived from Pwf,ca and Pwf,sao was 0.75 with a bias of 11.0% ± 14% (all correlations P< .001).
+Conclusions
+The use of a generalized TFF in combination with well-calibrated radial pressure curves yields estimates of SBP in good agreement with carotid tonometry. Although AIx derived from a measured radial pressure curve correlates surprisingly closely with AIx measured on a synthesized aortic pressure curve, the correlation with a directly measured AIx on carotid signals is relatively poor.
+

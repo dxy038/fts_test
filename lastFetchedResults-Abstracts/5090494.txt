@@ -1,0 +1,1 @@
+The error performance of the Tunstall code is analysed, and a relevant metric defined. Several parameters in the encoding process are considered, with the objective of minimising the effect of errors without sacrificing compression. The results obtained show that the error performance may be significantly improved without loss of compression.

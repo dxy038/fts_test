@@ -1,0 +1,11 @@
+Objective
+We study burst-like patterns of epileptiform discharges in non-convulsive status epilepticus (SE).
+Methods
+Epileptiform burst-like transients were identified by estimating the amplitude envelope of the EEG signal, and recurrence and similarities were identified by pairwise matching in the time-domain.
+Results
+We identified similarities in the onset of a significant fraction of the epileptiform bursts, and a bimodal distribution of the burst durations.
+Conclusions
+Bursts of epileptiform discharges during a non-convulsive SE are manifestations of multiple patterns of recurring brain states.
+Significance
+Quantitative description of ictal phenomena in epilepsy and status epilepticus adds to the knowledge of abnormal brain behavior and may assist in improved patient care.
+

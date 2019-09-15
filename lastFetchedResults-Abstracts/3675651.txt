@@ -1,0 +1,1 @@
+We present bidirectional transmission experiments with an erbium-doped fiber amplifier (EDFA) without optical isolators. It is shown that the amplifier does not increase the bidirectional crosstalk from Rayleigh backscattering, provided that the gain of the amplifier is smaller than the transmission losses of the fibers connected to it.&lt;<etx>&gt;</etx>

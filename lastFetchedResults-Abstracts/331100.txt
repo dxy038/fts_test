@@ -1,0 +1,11 @@
+Objective
+To verify the influence of radiant exposure (H) on contraction stress (CS), degree of conversion (DC) and mechanical properties of two restorative composites.
+Methods
+
+Filtek Z250 (3M ESPE) and Heliomolar (Ivoclar) were photoactivated with 6, 12, 24, or 36 J/cm2 at continuous irradiance of 600 mW/cm2. CS at 10 min was determined in a low compliance testing system. DC, flexural strength (FS), flexural modulus (FM) and Knoop microhardness (KHN) were measured after 24 h storage at 37 °C. KHN and DC measurements were conducted on the irradiated surface of 1 mm thick disk-shaped specimens. Bar-shaped specimens were submitted to three-point bending to determine FS and FM. Data were analyzed by one-way ANOVA/Tukey's test (α = 0.05) separately for each composite.
+Results
+
+For Filtek Z250, no significant increase in CS was observed above 12 J/cm2. DC and FM were similar at all H values, while FS increased significantly between 6 and 24 J/cm2. KHN was significantly different among all H levels, except between 12 and 24 J/cm2. For Heliomolar, CS and KHN increased significantly with H, except between 24 and 36 J/cm2. DC, FM and FS did not vary, regardless of the radiant exposure.
+Significance
+
+Variables tested behaved differently. CS and KHN were more sensitive to increasing radiant exposures than the other properties evaluated. FS varied only for Filtek Z250, while, for both composites, DC and FM were not affected by different H values.

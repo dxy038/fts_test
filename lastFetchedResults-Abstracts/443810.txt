@@ -1,0 +1,11 @@
+Background
+Prospective assessment of the Acute Physiology and Chronic Health Evaluation–II (APACHE-II) scoring system of stratification of disease severity has been shown to provide objective discrimination between low-risk and high-risk groups of patients with intra-abdominal sepsis. The current study was undertaken to evaluate the performance of APACHE-II score in prediction of mortality risk in patients with peritonitis due to hollow viscus perforation.
+Study Design
+
+Fifty patients admitted to a teaching hospital with peritonitis due to hollow viscus perforation were prospectively studied over a 2-year period. APACHE-II points were assigned to all patients in order to calculate their individual risk of mortality before undergoing emergency surgery. The accuracy in outcome prediction of the APACHE-II system was assessed by means of receiver operating characteristic (ROC) curve and the Pearson correlation coefficient and its significance test.
+Results
+
+Of the 50 patients admitted during the study period, there were 42 (84%) survivors and 8 (16%) nonsurvivors. Mean APACHE-II score of the study population was 11.38 with a range of 1 to 23. The predicted death rate was 23% and the observed death rate was 16%. Mean APACHE-II score in survivors was 9.88, whereas in nonsurvivors it was 19.25. Using ROC analysis, the area under the curve was found to be .984. Correlation of APACHE-II score and predicted death rate showed perfect correlation, with r = .99 and P <.001 [R2 = .9993]. APACHE-II score between 11 and 15 showed a sensitivity and specificity of 100% and 73.8%, respectively, and APACHE-II score of 16 to 20 had a sensitivity and specificity of 87.5% and 100%, respectively.
+Conclusion
+
+APACHE-II score between 11 and 20 was shown to be a better predictor of risk of mortality in patients with peritonitis due to hollow viscus perforation. Predicted mortality did not correlate with observed mortality in patients with APACHE-II scores of 1 to 10 and greater than 20. The APACHE-II scoring system can be used to assess group outcomes in patients with peritonitis due to hollow viscus perforation. However, it does not provide sufficient confidence for outcome prediction in individual patients.

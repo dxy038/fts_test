@@ -1,0 +1,11 @@
+Objective
+To investigate the association between prenatal exposure to organochlorine pesticides (OCPs) and thyroid-stimulating hormone (TSH) levels in male newborns.
+Methods
+
+Exposure to 17 OCPs was analyzed in 220 placentas from a male birth cohort in Southern Spain, and TSH was measured in the umbilical cord blood. OCP concentrations were quantified by gas chromatography and mass spectrometry. Multivariate regression analysis was conducted to examine the association between pesticide exposure and neonatal TSH levels, adjusting for confounders.
+Results
+
+Newborn boys with higher exposure to endrin in placenta had higher odds of TSH cord blood levels ≥ 5 mU/L (80th percentile) (OR = 2.05; 95% CI = 1.01, 4.18; p = 0.05), whereas higher prenatal exposure to endosulfan-sulfate was associated with lower odds of TSH ≥ 5 mU/L (OR = 0.36; 95% CI = 0.17, 0.77; p = 0.008). A marginally significant negative association was found between TSH and hexachlorobenzene levels (β = − 0.15; 95% CI = − 0.31, 0.02; p = 0.09), and exposure to p,p′-DDE showed a marginally-significant higher odds of TSH ≥ 5 mU/L (OR = 1.32; 95% CI = 0.95, 1.83; p = 0.09). No association was found between TSH and the remaining pesticides.
+Conclusions
+
+Early exposure to certain environmental chemicals with endocrine-disruption activity may interfere with neonatal thyroid hormone status; however, the pattern of interference is not yet clearly elucidated.

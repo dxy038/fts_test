@@ -1,0 +1,1 @@
+A small UPS using phase control has been developed. The isolation transformer used in the phase-controlled inverter is extremely minimized by the high frequency switching. This inverter is of simple construction and allows bidirectional power flow. The basic operation of the phase-controlled inverter and its applications to UPS are presented with some experimental results.

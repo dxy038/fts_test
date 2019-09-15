@@ -1,0 +1,7 @@
+Objective: To examine the in-plane and out-of-plane response of human dentine to thermal loads in real time.
+
+Methods: An Electronic Speckle Pattern Interferometry (ESPI) system sensitive to both the in-plane and out-of-plane displacements was configured and used in conjunction with an advanced fringe processing technique. Specimens were prepared from freshly extracted lower central incisor teeth and were separately mounted on a thermal block to apply thermal loads from room temperature (25°C) to 60°C. The real time speckle patterns were acquired using a digital camera. These digital fringe patterns were subjected to further image processing to enhance the quality of fringes. The resultant images were later analyzed to study the out-of-plane and in-plane displacement gradients in the facio-lingual plane of the dentine.
+
+Results: The out-of-plane deformations were observed in the plane perpendicular to the long axis of the tooth, while the in-plane deformations occurred in the plane parallel to the long axis of the tooth.
+
+Conclusion: The ESPI analysis revealed whole-field and distinct thermal response in human dentine in-plane and out-of-plane. The cervical dentine experienced distinct and conspicuous displacement to the temperature changes.

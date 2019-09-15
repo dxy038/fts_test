@@ -1,0 +1,11 @@
+Objective
+Given conflicting recommendations in the literature, this report seeks to present a standard protocol for applying principal components analysis (PCA) to event-related potential (ERP) datasets.
+Methods
+The effects of a covariance versus a correlation matrix, Kaiser normalization vs. covariance loadings, truncated versus unrestricted solutions, and Varimax versus Promax rotations were tested on 100 simulation datasets. Also, whether the effects of these parameters are mediated by component size was examined.
+Results
+Parameters were evaluated according to time course reconstruction, source localization results, and misallocation of ANOVA effects. Correlation matrices resulted in dramatic misallocation of variance. The Promax rotation yielded much more accurate results than Varimax rotation. Covariance loadings were inferior to Kaiser Normalization and unweighted loadings.
+Conclusions
+Based on the current simulation of two components, the evidence supports the use of a covariance matrix, Kaiser normalization, and Promax rotation. When these parameters are used, unrestricted solutions did not materially improve the results. We argue against their use. Results also suggest that optimized PCA procedures can measurably improve source localization results.
+Significance
+Continued development of PCA procedures can improve the results when PCA is applied to ERP datasets
+

@@ -1,0 +1,1 @@
+In this paper we present a practical laboratory experiment intended for undergraduate and graduate Electronic Engineering courses on Digital Communications Systems. The main objective of the experiment is to design and implement the electronics of a baseband system that uses pulse code modulation (PCM) to transmit audio signals digitally.

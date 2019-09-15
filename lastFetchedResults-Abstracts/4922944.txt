@@ -1,0 +1,1 @@
+A centrally-controlled self-protected WDM-PON is proposed. It provides downstream 1:1 and upstream 1+1 protection, respectively. 2.5Gbps bidirectional transmissions under both working and protection modes are demonstrated. The protection switching time is about 2ms.

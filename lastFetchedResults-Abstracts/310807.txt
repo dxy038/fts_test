@@ -1,0 +1,11 @@
+Objective.  To use forward dynamic simulations of forward and backward pedaling in order to determine whether backward pedaling offers theoretical advantages over forward pedaling to rehabilitate common knee disorders.
+
+Design. A comparison of knee joint loads was performed during forward and backward pedaling.
+
+Background. Pedaling has been shown to be an effective rehabilitation exercise for a variety of knee disorders. Recently, backward gait has been shown to produce greater knee extensor moments and reduced patellofemoral joint loads compared to forward gait. But to date, no study has examined the efficacy of backward pedaling as a safe alternative to forward pedaling in rehabilitation programs.
+
+Methods. A musculoskeletal model and optimization framework was used to generate simulations of forward and backward pedaling. Tibiofemoral and patellofemoral joint reaction forces were quantified.
+
+Results. Lower tibiofemoral compressive loads, but higher patellofemoral compressive loads, were observed in backward pedaling. Lower protective anterior–posterior shear force was observed in backward pedaling near peak extension.
+
+Conclusions. Backward pedaling offers reduced tibiofemoral compressive loads for those patients with knee disorders such as menisci damage and osteoarthritis, but higher patellofemoral compressive loads. Therefore, backward pedaling is not recommended for patients experiencing patellofemoral pain. Further, backward pedaling should not be recommended after anterior cruciate ligament injury or reconstruction.

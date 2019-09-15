@@ -1,0 +1,9 @@
+Objective
+The objective of the study was to estimate the validity of obstetric procedures and diagnoses in California patient discharge data.
+Study design
+We randomly sampled 1611 deliveries from 52 of 267 California hospitals that performed more than 678 eligible deliveries in 1992 to 1993. We compared hospital-reported procedures and diagnoses against our recoding of the same records.
+Results
+Cesarean, forceps, and vacuum delivery were accurately reported, with sensitivities and positive predictive values exceeding 90%. Episiotomy was underreported (70% sensitivity). Cesarean indications were reported with at least 60% sensitivity, except uterine inertia, herpes, and long labor. Among comorbidities, sensitivity exceeded 60% for chorioamnionitis, diabetes, premature labor, preeclampsia, and intrauterine death. Sensitivity was poor (less than 60%) for anemia, asthma, thyroid disorders, mental disorders, drug abuse, genitourinary infections, obesity, fibroids, excessive fetal growth, hypertension, premature rupture, polyhydramnios, and postdates.
+Conclusion
+The validity of hospital-reported obstetric procedures and diagnoses varies, with moderate to high accuracy for some codes but poor accuracy for others.
+

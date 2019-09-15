@@ -1,0 +1,26 @@
+In modern tall and slender structures, dynamic
+responses are usually the dominant design requirements,
+instead of strength criteria. Resonance is often a threatening
+phenomenon for such structures. To avoid this problem,
+the fundamental eigenfrequency, an eigenfrequency of
+higher order, should be maximized. An optimization
+problem with this objective is constructed in this paper and
+is applied to a high-rise building. Using variational method,
+the objective function is maximized, contributing to a
+particular profile for the first mode shape. Based on this
+preselected profile, a parametric formulation for flexural
+stiffness is calculated. Due to some near-zero values for
+stiffness, the obtained formulation will be modified by
+adding a lower bound constraint. To handle this constraint
+some new parameters are introduced; thereby allowing for
+construction of a model relating the unknown parameters.
+Based on this mathematical model, a design algorithmic
+procedure is presented. For the sake of convenience, a
+single-input design graph is presented as well. The main
+merit of the proposed method, compared to previous
+researches, is its hand calculation aspect, suitable for
+parametric studies and sensitivity analysis. As the presented
+formulations are dimensionless, they are applicable
+in any dimensional system. Accuracy and practicality of
+the proposed method is illustrated at the end by applying it
+to a real-life structure.

@@ -1,0 +1,11 @@
+Objective.  To investigate the nature of variability present in time series generated from gait parameters of two different age groups via a nonlinear analysis.
+
+Design. Measures of nonlinear dynamics were used to compare kinematic parameters between elderly and young females.
+
+Background. Aging may lead to changes in motor variability during walking, which may explain the large incidence of falls in the elderly.
+
+Methods. Twenty females, 10 younger (20–37 yr) and 10 older (71–79 yr) walked on a treadmill for 30 consecutive gait cycles. Time series from selected kinematic parameters of the right lower extremity were analyzed using nonlinear dynamics. The largest Lyapunov exponent and the correlation dimension of all time series, and the largest Lyapunov exponent of the original time series surrogated were calculated. Standard deviations and coefficient of variations were also calculated for selected discrete points from each gait cycle. Independent t-tests were used for statistical comparisons.
+
+Results. The Lyapunov exponents were found to be significantly different from their surrogate counterparts. This indicates that the fluctuations observed in the time series may reflect deterministic processes by the neuromuscular system. The elderly exhibited significantly larger Lyapunov exponents and correlation dimensions for all parameters evaluated indicating local instability. The linear measures indicated that the elderly demonstrated significantly higher variability.
+
+Conclusions. The nonlinear analysis revealed that fluctuations in the time series of certain gait parameters are not random but display a deterministic behavior. This behavior may degrade with physiologic aging resulting in local instability.

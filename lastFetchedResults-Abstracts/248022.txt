@@ -1,0 +1,14 @@
+A three-dimensional elastoplastic beam element being capable of incorporating large displacement and large
+rotation is developed and examined. Elastoplastic constitutive equations are applied to the beam element
+based upon the assumption of small deformational strain leading to a material formulation which is
+completely objective for the application of stress update procedures. The continuum-type equations of
+plastic model of J, mixed hardening are transformed into the beam equations by satisfying beam hypotheses.
+An effective stress update algorithm is proposed to integrate elastoplastic rate equations by means of the
+so-called multistep method which is a method of successive control of residuals on yield surfaces. It avoids
+severe divergence when the displacement increments become large which is usual for the continuation
+methods. Material tangent stiffness matrix is derived by using consistent elastoplastic modulus resulting
+from the integration algorithm and is combined with geometric tangent stiffness matrix. Different from other
+elements, the present element is shear flexible and can satisfy the plasticity condition in a pointwise fashion.
+A great number of numerical examples are analysed and compared with the literature. The proposed beam
+element is verified to be not only quite accurate but also very effective for the analyses of pre-buckling and
+large deflection collapse of spatial framed structures.

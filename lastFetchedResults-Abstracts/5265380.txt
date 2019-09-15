@@ -1,0 +1,1 @@
+A solid-state microwave bidirectional repeater designed for use in a guided RADAR system is described. The RADAR is meant for detecting obstacles lying along the tracks in guided ground transportation systems. An echo-cancellation scheme is proposed for reducing the effect of reflections from impedance mismatches at repeater ports.

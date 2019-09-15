@@ -1,0 +1,13 @@
+This article describes experimental and modelling results from CFD simulation of an air diffuser for industrial spaces. The main
+objective of this paper is to validate a manufacturer model of the diffuser. In the air diffuser, the low velocity part is placed on top of
+a multi-cone diffuser in order to increase airflow rates and maximize the cooling capacity of a single diffuser unit. This kind of
+configuration should ensure appropriate performance of industrial air diffusers, which is discussed briefly at the end of the article.
+The paper illustrates the importance of a simulation model jointly with the manufacturer’s product model and the grid layout near
+the ventilation device to achieve accurate results. Parameters for diffuser modelling were adapted from literature and manufacturer’s
+product data. Correct specification of diffuser geometry and numerical boundary conditions for CFD simulations are critical for
+prediction. The standard k–e model was chosen to model turbulence because it represents the best-known model utilized and
+validated for air diffuser performance. CFD simulations were compared systematically with data from laboratory measurements; air
+velocity was measured by ultrasonic sensors. Results show that CFD simulation with a standard k–e model accurately predicts nonisothermal
+airflow around the diffuser. Additionally, smoke tests revealed that the flow around the diffuser is not completely
+symmetrical as predicted by CFD. The cause of the observed asymmetry was not identified. This was the main reason why some
+simulation results deviate from the measured values

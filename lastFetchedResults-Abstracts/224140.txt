@@ -1,0 +1,10 @@
+The APLC (Active Power Line Conditioner) is a
+type of active power filter that compensates the voltage
+waveform distortion caused by harmonics in power systems.
+This paper presents a new approach based on an
+optimization theory to investigate the determination of
+locations and sizes of APLCs. The objective is to minimize
+the new APLC injection currents and the voltage distortion
+while satisfying the harmonic standard. The test result for
+an 18-bus distribution system shows the applicability of the
+proposed method.

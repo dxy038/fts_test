@@ -1,0 +1,1 @@
+We experimentally demonstrated bidirectional transmission of 155 MS/s radio-over-fibre signals at 2.5 GHz. By using feed-forward correction in Reflective R-SOA. Uplink and Downlink share asynchronously the same subcarrier.

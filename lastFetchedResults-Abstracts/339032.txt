@@ -1,0 +1,11 @@
+Objective
+Immunotherapy with ex vivo–expanded T cells depends on a large supply of biologically active cells. Understanding the effects of culture parameters is essential for improving cell expansion and efficacy. We used DNA-microarray and flow-cytometric analysis coupled with functional assays to investigate mechanistic aspects of plasma supplementation in ex vivo T-cell expansion.
+Methods
+
+The effect of plasma supplementation on 18 primary T-cell cultures over a 15-day expansion was investigated. Transcriptional analysis of 5 samples was done with time points every 2 to 3 days throughout the 15-day expansion. Quantitative RT-PCR analysis was used to confirm selected microarray data. The expression of granzyme A and vimentin were analyzed using intracellular flow cytometry. T-cell functionality was assessed using a mixed leukocyte reaction (MLR).
+Results
+
+We show that the increased expansion of plasma-supplemented cultures of primary human T cells is mostly due to increased cell survival. T cells from plasma-supplemented cultures show higher expression of immunoglobulin genes, integrins, and genes of cytotoxic granules, suggesting a possible enhanced immune function. This was confirmed using a mixed leukocyte reaction and intracellular granzyme-A measurements. A distinct gene expression pattern was correlated to viability differences between plasma-supplemented and serum-free cultures. Ontological analysis of genes in this pattern suggests that the decreased viability of serum-free cultures correlates with higher expression of actin-cytoskeleton and lipid-metabolism genes. Vimentin was found to be expressed higher in serum-free cultures.
+Conclusions
+
+These results indicate that the observed decreased cytotoxicity of T cells cultured in serum-free media may be due to increased oxidative stress and cytoskeleton degrada tion.

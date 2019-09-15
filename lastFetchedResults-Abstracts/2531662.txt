@@ -1,0 +1,8 @@
+Background and Objective: Increasing population growth and construction of high-rise buildings have doubled the amount of environmental pollution in the cities. Moreover, people use the open urban spaces more than before in order to meet their ecological needs. Accordingly, some parameters such as various vegetation and continuous winds streams can be considerably influential in transmittance of the particle pollution.&nbsp; Therefore, the aim of this research was to study the impacts of different green roofs on the dispersion of pollutants in the standpoint of height and density for urban airflow condition of Shiraz City, Iran.
+
+Materials and Methods: In this study, a literature review in the field computer simulation with the help of computational fluid dynamics (CFD) model in Envi-met software environment was used.
+
+Results: Regarding the importance of using vegetation in the urban spaces, vertical dispersion of the particles in presence of vegetation was explored. By comparing the basic model (without vegetation) results with models including vegetation with short, medium and high crowns, it was revealed that vegetation with medium crowns is the closest model to the basic model with a difference of 7.65 m2/s in terms of vertical dispersion of particles; in fact, it was the most optimized condition for maximizing the dispersion of environmental pollutants.
+
+Conclusion: The results showed that the green roofs in the buildings increase the horizontal dispersion of the particulate pollution and decrease this term in the vertical dispersion. Finally, by an expansion of green roof usage in the buildings the sustainability in architecture and urbanism can be achieved.
+

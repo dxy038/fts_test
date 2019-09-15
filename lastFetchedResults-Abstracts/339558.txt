@@ -1,0 +1,11 @@
+Objective
+Strategies to expand hematopoietic stem cells (HSCs) ex vivo are of key interest. The objective of this study was to resolve if ability of HOXB4, previously documented to induce a significant expansion of HSCs in culture, may extend to other HOX genes and also to further analyze the HOX sequence requirements to achieve this effect.
+Methods
+
+To investigate the ability of Nucleoporin98-Homeobox fusion genes to stimulate HSC self-renewal, we evaluated their presence in 10- to 20-day cultures of transduced mouse bone marrow cells. Stem cell recovery was measured by limiting-dilution assay for long-term competitive repopulating cells (CRU Assay).
+Results
+
+These experiments revealed remarkable expansions of Nucleoporin98-Homeobox–transduced HSCs (1000-fold to 10,000-fold over input) in contrast to the expected decline of HSCs in control cultures. Nevertheless, the Nucleoporin98-Homeobox-expanded HSCs displayed no proliferative senescence and retained normal lympho-myeloid differentiation activity and a controlled pool size in vivo. Analysis of proviral integration patterns showed the cells regenerated in vivo were highly polyclonal, indicating they had derived from a large proportion of the initially targeted HSCs. Importantly, these effects were preserved when all HOX sequences flanking the homeodomain were removed, thus defining the homeodomain as a key and independent element in the fusion.
+Conclusion
+
+These findings create new possibilities for investigating HSCs biochemically and genetically and for achieving clinically significant expansion of human HSCs.

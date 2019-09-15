@@ -1,0 +1,1 @@
+Recent research shows that a combinatorial network optimisation problem can be approximated by adding a Shannon entropy term to its objective function. This Letter generalises it to the case of Tsallis entropy and provides the mathematical proof.

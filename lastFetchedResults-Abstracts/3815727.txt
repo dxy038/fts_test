@@ -1,0 +1,1 @@
+An adaptive linear image interpolation method based on the least-squares technique is proposed. A generic adaptive interpolation framework is introduced to provide a simple closed-form formula for adaptive image interpolation. Experimental results indicate that the proposed interpolation method outperforms existing methods in terms of objective and subjective image quality

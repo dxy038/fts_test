@@ -1,0 +1,10 @@
+Introduction
+This article reports results of a National Institutes of Health/National Library of Medicine Small Business Innovation Research–funded research grant comparing paper-based and automated Palm handheld computer disaster triage documentation.
+Objectives
+The aim of this study was to test the feasibility of automated handheld computer triage and compare it to handwritten triage.
+Methods
+A paired t test was used in an intraindividual, blinded, crossover study to compare the 2 methods of disaster triage by 2 objective measures—time and accuracy. A total of 57 experienced, licensed first responders participated. Results are from analysis of 8 disaster scenarios with a total of 400 patients triaged using the 2 methods of documentation, crossed over, blinded, and paired per participant.
+Results
+The study demonstrated the feasibility of using TriageDoc, a Palm personal digital assistant (PDA ) program, as a viable alternative to current manual disaster triage. Furthermore, the PDA program gave advantage to bioterrorist agent identification.
+Conclusions
+The feasibility of an automated Palm (Palm, Inc., Sunnyvale, CA) PDA triage program was demonstrated in this study. Study limitations, by the number of participants and the fact it is feasibility research, are acknowledged. Nevertheless, the research demonstrated TriageDoc was as accurate or more accurate as the manual method of triage with a tendency to require less time. Also there was no statistically significant difference between research sites with respect to accuracy or time to completion when the TriageDoc system was used. The program provided consistency and had flexibility in adapting to the various differences in triage methods at different locations. Hence, PDA programs such as TriageDoc may have potential advantages over handwritten documentation for disaster 

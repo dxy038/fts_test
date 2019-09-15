@@ -1,0 +1,1 @@
+This paper presents data collected from a radio link between Cedar Rapids, Iowa at Rockwell Collins and Thule, Greenland. The objective is to educate the HF community on various aspects of an automatic link establishment (ALE) communications circuit. Various diagnostics are presented indicative of ALE operations

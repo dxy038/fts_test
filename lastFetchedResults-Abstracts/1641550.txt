@@ -1,0 +1,7 @@
+In construction practice, an accurate model to predict fresh concrete lateral pressure is needed in order to design vertical formwork. In this work, an empirical model to predict lateral pressure for vibrated concrete was developed. A total of 226 experimental data recompiled from the literature were used in the formulation of the model.
+
+del considers seven of the variables that affect fresh concrete lateral pressure: placement rate, slump cone, the height of the concrete piece, concrete temperature, minimum form dimension and cross section size. Due to the formulation of the model, the prediction obtained is always lower than the hydrostatic distribution.
+
+incipal objective of the model is to have an accurate prediction for high placement rates (over 10 m/h), which is a common practice today. Based on this idea, experimental data for self-compacting concrete compiled from the literature were used to verify the model’s accuracy.
+
+sults show that, in general, applying the proposed model produces predictions that are better than those obtained from preexisting models. In particular, for high placement rates the model presents a very good approximation to the experimental data.

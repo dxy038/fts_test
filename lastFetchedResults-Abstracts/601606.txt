@@ -1,0 +1,9 @@
+This paper represents linkage network of queues consisting of biserial and parallel servers
+linked to a common server in series with a flowshop scheduling system consisting of two machines.
+The significant transportation time of the jobs from one machine to another is also considered. Further,
+the completion time of jobs/customers (waiting time + service time) in the queue network is the setup
+time for the first machine. The objective of the paper is of two folds, on one hand it minimizes the
+total waiting time and service time of jobs/customers in the queue network and on other hand it
+minimizes the idle time of the machines for the optimal sequence of jobs/customers in a given queue
+flowshop linkage model. A computer programme followed by a numerical illustration is given to
+justify the proposed algorithm.

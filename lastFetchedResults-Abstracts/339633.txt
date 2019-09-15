@@ -1,0 +1,11 @@
+Objective
+To develop an in vitro culture system for rapid assessment of multiple myeloma (MM) cell growth.
+Methods
+
+MM cells lines (MMCLs) L363, U266, and RPMI-8226, and bone marrow (BM)–derived plasma cells (PCs) from MM patients were evaluated for their in vitro growth using various stroma (BMSC, M210-B4, and osteoclasts [OCs]) and cytokine support combinations (combination A: interleukin [IL]-6, vascular endothelial growth factor, insulin-like growth factor-1 vs combination B: A plus hepatocyte growth factor, IL-13 vs combination C: IL-6, insulin-like growth factor -1, stromal-derived growth factor-1, Galectin-1, IL-1α).
+Results
+
+We found a significant effect of stroma, notably affecting growth of L363 cells. Cytokine combination A had the highest growth impact, whereas B and C were of lesser benefit. The contribution of combined cytokines and stroma for MMCL growth was moderate and the viability of MMCLs was best preserved with OCs. One of the most commonly used PC-marker CD138, expressed on all MMCLs on day 0, showed a gradual downmodulation upon all culture conditions, possibly induced as a stroma-triggered phenotypic change, and leading to the ability of MM cells to dedifferentiate into immature, resilient phenotypes. PC-enriched BM samples from 7 of 10 MM patients could be maintained in culture, again profiting from stroma more than cytokines alone.
+Conclusions
+
+Our data demonstrate a consistent growth advantage provided by BMSCs on MMCLs and primary MM cells, preserved viability with OCs, and phenotypic and morphologic heterogeneity of primary MM cells during culture. Further identification of key components involved in MM cell growth, coupled with our understanding of drug sensitivity offers the potential to better define the disease pathogenesis and to identify novel therapeutic targets.

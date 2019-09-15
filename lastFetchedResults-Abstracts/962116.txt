@@ -1,0 +1,8 @@
+Two-photon polymerisation is an established technique for the fabrication of three-dimensional microstructures. To date structures have mostly
+been developed using single beam serial writing. A novel approach to simultaneous multi-spot two-photon polymerisation, that uses a SiO2 on
+glass Fraunhofer diffractive optical element to generate an array of beamlets, is described. ATi:sapphire laser, with wavelength 790 nm, 80 MHz
+repetition rate, 100 fs pulse duration and an average power of 25 mW, was used to initiate two-photon polymerisation. The DOE, in combination
+with a high power microscope objective, efficiently transforms the laser beam into a linear array of four spots of equal intensity. The fabrication of a
+periodic transmission grating, using parallel processing with these four spots, is shown. The grating was written in a Zr-loaded resin prepared on a
+glass substrate using dip coating deposition of a Zr/PMMA hybrid prepared by the sol–gel method. The operation of the diffractive element and the
+performance of the diffraction grating are also discussed.

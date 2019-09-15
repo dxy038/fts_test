@@ -1,0 +1,11 @@
+Objective
+In this study, the utility of DT388-granulocyte-macrophage colony-stimulating factor (GM-CSF) for the ex vivo purging and direct administration to patients with acute myeloid leukemia (AML) is tested using clonogenic assays, long-term cultures (LTC), and NOD/SCID mice as assays for leukemic progenitors.
+Materials and Methods
+
+We compare the ability of 24-hour exposure to 0.3 μg/mL (4 nM) DT388-GM-CSF to kill AML colony forming cells (CFC) and the more primitive AML progenitors detected after 6 weeks in stromal cocultures (AML LTC-initiating cells or AML LTC-IC) and after 8 weeks in NOD/SCID mice.
+Results
+
+AML samples (n = 10), expressing a mean of 35 to 1466 GM-CSF receptors/blast, showed mean (range) percent kills of AML CFC and LTC-IC of 61 (17–98) and 46 (0–94) respectively with a direct correlation (r = 0.69) between the % kills detected in the in vitro assays. Among 5 evaluable samples the percent reduction in AML cell engraftment in NOD/SCID marrow following ex vivo DT388-GM-CSF treatment varied from 38% to 100%. 40% to 56% of normal bone marrow CFC and 31% to 48% of normal LTC-IC survived the same ex vivo treatment (n = 3). In subsequent experiments, NOD/SCID mice received AML blast cell injections intravenously followed in 24 hours by 1.5 μg DT388-GM-CSF daily intraperitoneally for 5 days. A reduction of marrow blast cells was seen with 7 of 9 samples tested 4 to 12 weeks post one course of toxin. Repeating the 5-day course of toxin 2 or 3 times at 4-week intervals did not improve the response, while delaying administration until 4 to 8 weeks post AML cell injection reduced the toxin's effectiveness (n = 5).
+Conclusion
+
+This fusion toxin may prove useful for in vitro purging of stem cell harvests from selected AML patients and for direct administration to such patients.

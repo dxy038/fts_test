@@ -1,0 +1,9 @@
+Background and Objective: Using proteomic methodologies and advent of high-throughput (HTP) investigation of proteins has created a need for new approaches in bioinformatics analysis of experimental results. Cluster analysis is a suitable statistical procedure that can be useful for analyzing these data sets.
+
+Materials and Methods: In this research study, the identified proteins associated with esophagus, stomach and colon cancers were analyzed with the hierarchical and non-hierarchical clustering procedures. Proteins were clustered for three aspects of gene ontology and results were compared.
+
+Results: Despite non-substantial silhouette widths for the entire dataset, most of the proteins in each cluster have remarkable biological communions. According to the results, it was evident that clustering methods can reveal novel annotation patterns within dataset that would not have been identified otherwise.
+
+Conclusion: Considering hierarchical and non-hierarchical clustering, results show that the clustering methods have similar results. Maybe we can say because of the introducing representative proteins for each cluster, the partitioning method operating with the greatest nicety while AGNES procedure is simpler. Furthermore, it was clear that the proteins were clustered via their cellular component similarities have also biological and functional similarities which this requires more researches.
+
+

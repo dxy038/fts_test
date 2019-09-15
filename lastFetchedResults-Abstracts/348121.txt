@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to investigate the presence and characteristics of apparent non-epileptiform activity arising in the same brain area as epileptiform activity in the EEG of paediatric patients with focal epilepsy.
+Methods
+The EEG from eight patients was analysed by an automated method which detects epochs with a single underlying source having a dipolar potential distribution. The EEG with the highlighted detections was then rated by a clinical neurophysiologist (EEGer) with respect to epileptiform activity.
+Results
+Although EEGer-marked events and computer detections often coincided, in five out of the eight patients, a substantial number of other detections were found to arise from the same area as the marked events. The morphology of a high proportion of these other detections did not resemble typical epileptiform activity and had a frequency content mainly in the delta and theta ranges.
+Conclusions
+This is, to our knowledge, the first study to use an automated technique to demonstrate the presence of non-epileptiform activity arising from the same area as the epileptiform activity in the EEG of paediatric patients with focal epilepsy. This slow wave activity is likely to be related to the underlying epileptogenic process.
+Significance
+This paper suggests a technique for automated detection of focal activity arising from epileptogenic foci. It also provides a new perspective on extracting clinical useful information from slow-wave background EEG activity.
+

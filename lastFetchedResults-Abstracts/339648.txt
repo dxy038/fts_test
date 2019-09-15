@@ -1,0 +1,11 @@
+Objective
+Presence of the JAK2V617F mutation in only 40% to 60% of patients with essential thrombocythemia (ET) underscores the heterogeneity of this myeloproliferative disorder (MPD). Several distinct mutations, either in JAK2 (exon 12) or in c-Mpl (W515L) have been described in subsets of other MPDs, polycythemia vera, and idiopathic myelofibrosis. Analogous to JAK2,V617F these mutations cause constitutive JAK2 and signal transducer and activation of transcription (STAT) activation. It has therefore been proposed that constitutive activation of the JAK/STAT pathway underlies the molecular etiology of all MPDs. We investigated the alternative hypothesis that distinct alterations, separate from the JAK/STAT signal transduction pathway, underlie a subset of JAK2V617F-negative ET.
+Methods
+
+cDNA microarrays and quantitative reverse transcriptase polymerase chain reactions were used to compare gene expression in 40 ET patients with and without the JAK2V617F mutation.
+Results
+
+Unsupervised clustering of gene-expression patterns in ET patients revealed two distinct subclasses of patients. These subclasses differed in presence or absence of the JAK2V617F mutation. Patients lacking the JAK2V617F mutation displayed significantly lower expression of the JAK/STAT target genes Pim-1 and suppressor of cytokine signaling-2. In addition, JAK2V617F-negative patients showed lower levels of STAT3 phosphorylation.
+Conclusions
+
+These data demonstrate that a large proportion of JAK2V617F-negative ET patients do not display constitutive JAK/STAT signaling. Hence, we propose that alterations in different signal transduction pathways can lead to the clinical phenotype of ET. Elucidation of novel ET-inducing changes will facilitate both a molecular classification of ET and development of rationally designed therapies.

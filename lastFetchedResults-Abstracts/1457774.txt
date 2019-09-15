@@ -1,0 +1,7 @@
+Pre-processing of spectroscopic data is commonly applied to remove unwanted systematic variation. Possible loss of information and ambiguity regarding discarded variation are issues that complicate pre-treatment of data. In this paper, OPLS methodology is applied to evaluate different techniques for pre-processing of spectroscopic data gathered from a batch process. The objective is to present a rational scheme for analysis of pre-processing in order to understand the influence and effect of pre-treatment.
+
+uses linear regression to divide the systematic variation in X and Y into three parts; one part with joint X–Y covariation, i.e. related to both X and Y, one part of X with Y-orthogonal variation and one part of Y with X-orthogonal variation.
+
+ the investigated pre-treatment methods removed an additive baseline as expected. In the analysis of raw and differentiated data variation associated with the baseline was found in the Y-orthogonal part of X. Orthogonal information was also found in Y, which suggests that this pre-processing procedure not only removed variation. This would have been more difficult to detect without the O2PLS model since both raw and differentiated data must be analysed simultaneously.
+
+pment of a knowledge based strategy with OPLS methodology is an important step towards eliminating trial and error approaches to pre-processing.

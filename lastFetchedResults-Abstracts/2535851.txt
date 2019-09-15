@@ -1,0 +1,6 @@
+This paper presents a parametric study on multi-objective integer quadratic programming problem under uncertainty. The proposed procedure presents a quadratic multi-objective integer programming problem with a stochastic
+parameters in the right hand sides, and all constraints occurs under certain
+probability. We consider all random variables are normally distributed. We shall
+be essentially concerned with three basic notions: the set of feasible parameters;
+the solvability set and the stability set of the first kind (SSK1). An algorithm to
+clarify the developed theory as well as an illustrative example are presented.

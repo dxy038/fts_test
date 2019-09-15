@@ -1,0 +1,14 @@
+The aim of the present work is to develop an application of the LArge Time INcrement (LATIN) approach
+for the parametric analysis of static problems with multiple contacts. The methodology adopted
+was originally introduced to solve viscoplastic and large-transformation problems. Here, the applications
+concern elastic, quasi-static structural assemblies with local non-linearities such as unilateral contact with
+friction. Our approach is based on a decomposition of the assembly into substructures and interfaces.
+The interfaces play the vital role of enabling the local non-linearities, such as contact and friction, to
+be modelled easily and accurately. The problem on each substructure is solved by the  nite element
+method and an iterative scheme based on the LATIN method is used for the global resolution. More
+speci cally, the objective is to calculate a large number of design con gurations. Each design con guration
+corresponds to a set of values of all the variable parameters (friction coe cients, prestress) which
+are introduced into the mechanical analysis. A full computation is needed for each set of parameters.
+Here we propose, as an alternative to carrying out these full computations, to use the capability of the
+LATIN method to re-use the solution to a given problem (for one set of parameters) in order to solve
+similar problems (for the other sets of parameters).

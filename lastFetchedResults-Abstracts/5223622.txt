@@ -1,0 +1,1 @@
+A permanent magnet linear synchronous motor (PMLSM) is shape optimized in Pareto sense to get a minimum detent force and maximum thrust force per mass. In the optimization, a surrogate objective function is constructed with the help of grid computing technique by using Multi-quadric radial basis function to reduce the computing time related with finite element analysis.

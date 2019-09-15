@@ -1,0 +1,1 @@
+We report bidirectional transmission at 10 Gb/s over a 116 km-reach DWDM amplified PON using remote reflective modulation of an optical carrier. The full network supports up to 1088 customers with mean data rates of 155 Mb/s.

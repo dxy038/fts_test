@@ -1,0 +1,9 @@
+Objective. To present an isometric method for validation of a shoulder model simulation by means of experimentally obtained electromyography and addressing all muscles active around the shoulder joints.
+
+Background. Analysis of muscle force distribution in the shoulder by means of electromyography during motion tasks is hampered by artificial and non-linear amplitude modulation and is often limited to downward directed external forces. This application of EMG is therefore inadequate and insufficient for the validation of shoulder model simulations. We suggest an isometric method including multi-directional forces to overcome these problems.
+
+Methods. A force with constant magnitude is actively rotated stepwise in 20 directions perpendicular around the arm while kept in one position. The isometric muscle activation (EMG) is a function of the clockwise-rotated force angle, characterized by baseline activation, and a section of increased muscle activation characterized by baseline interceptions and direction and magnitude of maximum muscle activation. Comparison of the parameterised muscle activation with predicted muscle forces from model simulation illustrates the applicability for musculo-skeletal model validation.
+
+Results. All recorded shoulder muscles were active over a section of force angles of at least 180°. Some muscles demonstrated two activation sections. The estimated model sensitivity for the baseline interceptions was SD=5°–10°. The Principal Action was the most reliable parameter (SD=4°). A correlation of 0.778 was observed between model simulations and EMG recordings.
+
+Conclusions. The methodology addresses all shoulder muscles over a substantial section of planar force directions. This enables the comparison of experimentally determined direction of activation on- and offset and direction of maximum activation with equivalent muscle forces, predicted from model simulation.

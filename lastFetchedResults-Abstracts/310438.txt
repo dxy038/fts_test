@@ -1,0 +1,11 @@
+Objective. To investigate whether artificial neural networks (ANNs) can categorize healthy subjects, chronic low-back-pain (LBP) patients, and subjects pretending to have low-back pain problems, based upon patterns of stand-sit-stand manoeuvres.
+
+Design. A non-invasive laboratory study of human subjects.
+
+Background. Normal strategies for sit-stand manoeuvres are modified in cases of chronic LBP. Subtle changes and many parameters are unsuitable for conventional statistics.
+
+Methods. Fourteen healthy subjects, 10 chronic LBP patients, and 12 subjects pretending to have LBP participated. Forces and centres of pressure at the feet and knees, plus hip and lumbar movements provided inputs into a three-layer feed-forward ANN with sigmoidal transfer functions. The ANN was trained with data from 35 of the 36 subjects, and its ability to classify the left-out subject was tested. This was repeated with each subject omitted from training in turn.
+
+Results. The ANN correctly classified 31 of 36 subjects. The subjects were also classified by nine physiotherapists from videos of the manoeuvres. Their success rate was significantly lower that that of the ANN, which is not surprising for an unusual procedure without training.
+
+Conclusions. ANNs should be considered as additional tools in assessment and possible diagnosis of pathological movements.

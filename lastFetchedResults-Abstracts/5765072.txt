@@ -1,0 +1,1 @@
+EEG signal analysis has been proposed for early warning of an epileptic seizure. A number of different signal analysis techniques are examined and compared using an example EEG signal. The objective of this comparison is to determine which analysis technique to use in an automatic, real time early warning system for epileptic patients

@@ -1,0 +1,11 @@
+Objective
+To describe a novel non-magnetic hand-held device to stimulate various parts of the skin and to evaluate its performance in magnetoencephalographic (MEG) recordings.
+Methods
+The hand-held part of the device consists of an optic fiber bundle that forms a small brush. Half of the fibers emit modulated red light and the other half detect the reflected light from the skin so that the brush-to-skin contact is detected by means of reflectance.
+Results
+Light tapping of the back of the hand at the innervation area of the radial nerve elicited clear responses in all 10 subjects studied, with the main deflections peaking 40–70 ms after the stimulus. The earliest responses, obtained with a higher number of averaged trials, peaked 27–28 ms after the tap to the left hand dorsum. Source analysis of the MEG signals indicated neuronal sources at the primary somatosensory (SI) cortex, with a clear somatotopical order for face vs. hand.
+Conclusions
+The device seems feasible for both MEG and functional magnetic resonance imaging experiments to address functional anatomy of the human somatosensory system with a real-life like stimulation.
+Significance
+Non-magnetic and artefact-free tactile stimulator with a selective stimulus offers new possibilities for experimental designs to study the human mechanoreceptor system.
+

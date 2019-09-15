@@ -1,0 +1,10 @@
+The paper gives a snapshot of the state of the art in affine covariant region detectors, and compares
+their performance on a set of test images under varying imaging conditions. Six types of detectors are included:
+detectors based on affine normalization around Harris (Mikolajczyk and Schmid, 2002; Schaffalitzky and
+Zisserman, 2002) and Hessian points (Mikolajczyk and Schmid, 2002), a detector of ‘maximally stable extremal
+regions’, proposed by Matas et al. (2002); an edge-based region detector (Tuytelaars and Van Gool, 1999)
+and a detector based on intensity extrema (Tuytelaars and Van Gool, 2000), and a detector of ‘salient regions’,
+proposed by Kadir, Zisserman and Brady (2004). The performance is measured against changes in viewpoint, scale,
+illumination, defocus and image compression.
+The objective of this paper is also to establish a reference test set of images and performance software, so that
+future detectors can be evaluated in the same framework.

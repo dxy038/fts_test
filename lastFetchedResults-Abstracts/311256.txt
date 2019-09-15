@@ -1,0 +1,11 @@
+Objective. To investigate the fundamental characteristics of a tensioned wire in an external fixator.
+
+Design. Many factors that may influence the wire performance including the change in wire geometry, material hardening and yielding, loading and unloading, and levels of pre-tension are considered in order to obtain a whole spectrum of the wire characteristics.
+
+Background. External fixation is widely used in the treatment of unstable fractures, limb lengthening, and congenital and pathological orthopedic deformities. With the use of tensioned wires, external fixation provides attractive features such as minimal invasiveness, maximum tailorability, and versatility. These seemingly simple wires actually fulfill a very complex duty. To be able to maximize the benefit of these wires, it is necessary to know their fundamental characteristics.
+
+Methods. A single wire was isolated from an external Ilizarov ring-frame, and nonlinear elastic and plastic analyses of the wire were performed using the method of finite element analysis.
+
+Results. The nonlinear behavior of the wire originates not only from the material hardening and yielding but also from the change in its geometry. Pre-tension reduces wire deflection, delays the onset of full-plastic deformation, and elevates the limiting plastic moment, but at the same time leads to early material hardening and yielding.
+
+Conclusions. An entire load–deflection curve is necessary when comes to describe the wire performance. To enhance the wire performance, further efforts should be directed to exploiting the benefit of geometric nonlinearity of the wire.

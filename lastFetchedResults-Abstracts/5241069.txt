@@ -1,0 +1,1 @@
+Objective: CMOS based radiation detectors have significant cost, size, and power advantages over other systems, however, they traditionally suffer from noise artifacts when operated at ambient conditions. In this work we examined the properties of a low noise active pixel sensor (APS) for radiation detection.

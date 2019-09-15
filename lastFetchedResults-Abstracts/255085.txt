@@ -1,0 +1,30 @@
+The identification of the model discrepancy and skill is crucial when a forecast is issued. The
+characterization of the model errors for different cumulus parameterization schemes (CPSs) provides more
+confidence on the model outputs and qualifies which CPSs are to be used for better forecasts. Cases of
+good/bad skill scores can be isolated and clustered into weather systems to identify the atmospheric
+structures that cause difficulties to the forecasts. The objective of this work is to study the sensitivity of
+weather forecast, produced using the PSU-NCARMesoscale Model version 5 (MM5) during the launch of
+an Indian satellite on 5th May, 2005, to the way in which convective processes are parameterized in the
+model. The real-time MM5 simulations were made for providing the weather conditions near the launch
+station Sriharikota (SHAR). A total of 10 simulations (each of 48 h) for the period 25th April to 04th May,
+2005 over the Indian region and surrounding oceans were made using different CPSs. The 24 h and 48 h
+model predicted wind, temperature and moisture fields for different CPSs, namely the Kuo, Grell, Kain-
+Fritsch and Betts-Miller, are statistically evaluated by calculating parameters such as mean bias, rootmean-
+squares error (RMSE), and correlation coefficients by comparison with radiosonde observation. The
+performance of the different CPSs, in simulating the area of rainfall is evaluated by calculating bias scores
+(BSs) and equitable threat scores (ETSs). In order to compute BSs and ETSs the model predicted rainfall is
+compared with Tropical Rainfall Measuring Mission (TRMM) observed rainfall. It was observed that
+model simulated wind and temperature fields by all the CPSs are in reasonable agreement with that of
+radiosonde observation. The RMSE of wind speed, temperature and relative humidity do not show
+significant differences among the four CPSs. Temperature and relative humidity were overestimated by all
+the CPSs, while wind speed is underestimated, except in the upper levels. The model predicted moisture
+fields by all CPSs show substantial disagreement when compared with observation. Grell scheme
+outperforms the other CPSs in simulating wind speed, temperature and relative humidity, particularly in
+the upper levels, which implies that representing entrainment/detrainment in the cloud column may not
+necessarily be a beneficial assumption in tropical atmospheres. It is observed that MM5 overestimates the
+area of light precipitation, while the area of heavy precipitation is underestimated. The least predictive skill
+shown by Kuo for light and moderate precipitation asserts that this scheme is more suitable for larger grid
+scale (>30 km). In the predictive skill for the area of light precipitation the Betts-Miller scheme has a clear
+edge over the other CPSs. The evaluation of the MM5 model for different CPSs conducted during this
+study is only for a particular synoptic situation. More detailed studies however, are required to assess the
+forecast skill of the CPSs for different synoptic situations.

@@ -1,0 +1,10 @@
+AbstractContext
+ogrammable Logic Controller (PLC) is being integrated into the automation and control of computer systems in safety–critical domains at an increasing rate. Thoroughly testing such software to ensure safety is crucial. Function Block Diagram (FBD) is a popular data-flow programming language for PLC. Current practice often involves translating an FBD program into an equivalent C program for testing. Little research has been conducted on coverage of direct testing a data-flow program, such as an FBD program, at the model level. There are no commonly accepted structural test coverage criteria for data-flow programs. The objective of this study is to develop effective structural test coverage criterion for testing model-level FBD programs. The proposed testing scheme can be used to detect mutation errors at the logical function level.
+ive
+rpose of this study is to design a new test coverage criterion that can directly test FBD programs and effectively detect logical function mutation errors.
+
+lete test set for each function and function block in an FBD program are defined. Moreover, this method augments the data-flow path concept with a sensitivity check to avoid fault masking and effectively detect logical function mutation errors.
+s
+inary experiments show that this test coverage criterion is comprehensive and effective for error detection.
+sion
+oposed coverage criterion is general and can be applied to real cases to improve the quality of data-flow program design.

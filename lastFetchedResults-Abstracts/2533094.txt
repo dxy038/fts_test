@@ -1,0 +1,7 @@
+Background and Objective: Photodynamic therapy is a new therapeutic modality for the treatment of cancer. Photodynamic therapy uses an inactive drug and a light source to activate the drug to produce reactive oxygen species that destroy the cancer cells. In the present study, the effect of two different laser light sources on the efficiency of photodynamic therapy was evaluated using a breast cancer cell line.
+
+Materials and Methods: MDAMB231cells were grown on 96well plates. After the treatment with different concentrations of 5aminolevulinic acid, cells were irradiated with a light dose of 10 and/ or 20 Jcm2 by two different laser light sources. Cell viability was measured by MTT assay.
+
+Results: Results showed that 5aminolevulinic acid at concentrations of 0.5, 1 and 2 mM had no significant cytotoxic effect on the breast cancer cells in the absence of laser activation. However, the treatment of cells with 5aminolevulinic acid and light dose of 20 Jcm2 using Lasotronic laser and Mustang laser, decreased cell viability of the breast cancer cells to 80% and 65%, respectively.
+
+Conclusion: Light source used in photodynamic therapy plays an important role in the efficiency of this therapeutic modality and light activation of 5aminolevulinic acid at a photosensitizing concentration using a proper laser light source may potentially be lethal for breast cancer cells.

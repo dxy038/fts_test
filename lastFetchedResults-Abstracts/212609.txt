@@ -1,0 +1,5 @@
+Kinetic modeling is an important issue, whose objective is the accurate
+determination of the rates of various reactions taking place in a reacting system. This issue is a pivotal element in the process design and development particularly for novel processes which are
+based on reactions taking place between various types of species. The Fischer Tropsch (FT) reactions have been used as the kinetic modeling bench mark. General kinetic models for FT, Water-Gas-Shift (WGS) and overall rates based on Langmuir-Hinshelwood-Hougen-Watson
+(LHHW) type have been considered and their optimum parameters have been obtained by Genetic Algorithms. The study shows the obtained model outperforms the other alternative models both in
+generality and accuracy. Due to flexibility and generality ofGenetic Algorithms, it seems that GA is a useful technique with lots ofpotentials in determination ofoptimum kinetic model corresponding to a set ofcomplex reactions.

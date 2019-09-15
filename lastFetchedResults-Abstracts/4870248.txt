@@ -1,0 +1,1 @@
+A novel 40 GHz-RoF bidirectional transmission system with pilot technique is presented and proved by experiment. Optical frequency multiplying technology is employed in downlink to generate 40 GHz millimeter-wave signal modulated by 100 Mb/s data and a pilot tone is inserted at center station to provide reference signal for downconversion in uplink of base station.

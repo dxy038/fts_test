@@ -1,0 +1,7 @@
+Background and Objective: Endometriosis is a prevalent disease in women which may lead to infertility or low fertility. Grasping the genetic grounds for the disease may contribute to its treatment because it is presumed that genetic factors predispose to endometriosis risk factors. 
+
+Materials and Methods: 9 genes involved in endometriosis in patients suffering from endometriosis and also in healthy individuals (total 260 sles) were examined. The data were obtained from Ibn Sina (Jahad Daneshgahi) Research Center of new Technologies in Biological Sciences Institute. The study incorporated standard process Crisp for data mining. Weka data mining and software modeling were implemented with the aid of four algorithms.
+
+Results: Comparison of four algorithms implied prominent accuracy of KStar model. Meanwhile, filtering, while reducing the percentage of models, presented a positive impact on the MLP model. The lowest percentage pertained to Naiuml ve Bayes.
+
+Conclusion: KStar model without any filtering proved to have the highest accuracy in the early diagnosis of endometriosis.

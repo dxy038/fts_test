@@ -1,0 +1,1 @@
+In this paper the complete topology of a multifunctional charging system for electric vehicle (EV) is discussed. A resonant inductive energy transfer system is analyzed, simulated and experimentally validated. Finally, a control strategy for the bidirectional LLC resonant converter is proposed in order to increase efficiency in partial load operation.

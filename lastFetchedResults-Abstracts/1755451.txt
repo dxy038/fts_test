@@ -1,0 +1,10 @@
+Objective
+ck Depression Inventory (BDI) is widely used for depression screening in various patient populations. However, there are still insufficient data about its sensitivity and specificity in nonpsychiatric patients. Furthermore, some research suggests that somatic BDI items heighten its sum score artificially in physically ill patients.
+
+m of the present study was to validate the conventional BDI cut-off score by examination of its sensitivity and specificity in a mixed sample of cardiac inpatients and compare it to a modified “cognitive-emotional” BDI (BDIc/e) after exclusion of somatic items.
+s
+l of 126 cardiologic inpatients were assessed. Receiver operating characteristic curves (ROC) were calculated for total BDI (BDIt) and BDIc/e. Screening performance of cut-off scores was evaluated using the Youden Index (Y).
+s
+he application of the conventional BDI cut-off score, ROC analysis revealed a moderate overall screening performance with Y=52.6 and an area under the curve (AUC) of 0.83. In contrast, Y improved to 57.5 at a cut-off score of &gt;9, but screening performance was still not optimal. BDIc/e showed also a moderate screening performance (AUC=.82); Y was maximized at a cut-off score of &gt;8 (Y=0.53.5). Again, no cut-off score provided optimal screening performance.
+sion
+I cannot be recommended as a formal screening instrument in cardiac inpatients since no cut-off score for either BDIt or BDIc/e combined both sufficiently high sensitivity and specificity. However, the shorter BDIc/e could be used as alternative to BDIt which may be confounded in physically ill patients. Generally, researchers should consider using alternative screening instruments (e.g., the Hospital Anxiety and Depression Scale) instead.

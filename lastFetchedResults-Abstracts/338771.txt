@@ -1,0 +1,11 @@
+Objective
+Hematopoietic factors have an important effect on the regulation of hematopoiesis by stimulating the proliferation of hematopoietic progenitor cells. Although the cytokines that stimulate hematopoiesis have also often proved to exert radioprotective effects, no definitive correlation has been found between the expression of these cytokines regulated by radio-inducible genes and their radioprotective effects. In the current experiments, we evaluated the radioprotective effects of the hematopoietic growth factors regulated by a radio-inducible promoter on radiation injury.
+Methods
+
+The human Flt3 (FL) cDNA and enhanced green fluorescent protein (EGFP) cDNA were linked together with the internal ribosome entry site (IRES) and then inserted into the eukaryotic expression vector pCI-neo with the Egr-1 promoter (Egr-GF), and the vector was transduced into bone marrow stromal cell lines HFCL (HFCL/EGF). The level of green fluorescence in HFCL/EGF cells was detected after radiation with flow cytometry. The expression of FL in irradiated HFCL/EGF cells was confirmed with Northern blot and ELISA. The HFCL/EGF and CD34+ cells from human umbilical cord blood were sequentially transplanted intravenously into sublethally irradiated severe combined immunodeficient (SCID) mice. The numbers of peripheral white blood cells transplanted into recipient mice were detected.
+Results
+
+The activity of EGFP in transfected cells was significantly increased after exposure to γ radiation at 2.0, 2.5, and 5.0 Gy as compared with nontransfected cells. The expression of FL in HFCL/EGF was significantly higher than that of the control groups (HFCL, HFCL/pCI-neo, and HFCL/FG). The level of secreted FL in serum-free supernatants of HFCL/EGF on human CD34+ cells was higher than that of control groups. In contrast with three control groups (HFCL, HFCL/pCI-neo, and HFCL/GF), HFCL/EGF resulted in a proportional increase in the number of white blood cells at an early stage after radiation.
+Conclusion
+
+We show that radiation enhances the ability of expression of FL in HFCL/EGF to stimulate the proliferation of hematopoietic progenitor cells. These results suggest in vivo use of gene therapy of FL regulated by the Egr-1 promoter protects hematopoiesis from irradiation-induced damage.

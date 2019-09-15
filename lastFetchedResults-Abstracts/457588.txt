@@ -1,0 +1,9 @@
+Objective
+The prognostic implications of carotid plaque calcification (CPC) relative to subsequent vascular events are unclear. Our aim was to determine the association between CPC and risk of vascular events in a prospective multi-ethnic cohort.
+Methods
+CPC was assessed among 1118 stroke-free subjects (mean age 68 ± 8 years; 59% women; 59% Hispanic, 22% black, 19% white) from the Northern Manhattan Study using high-resolution B-mode ultrasound. CPC was defined by presence of any acoustic shadowing associated with carotid plaque, producing a reduction in echo amplitude due to intervening structures with high attenuation. Using Cox proportional hazards models, hazard ratios (HR) were estimated for the combined vascular outcome, defined as ischemic stroke (IS), myocardial infarction (MI) or vascular death (VD).
+Results
+Carotid plaque was present in 637 (57%) subjects. CPC was present in 225 subjects (20% of total cohort; 35% of those with plaque). During a mean follow-up time of 2.7 years, the combined vascular outcome occurred among 52 subjects (20 IS, 22 MI, and 24 VD). Adjusting for demographics, major vascular risk factors, and carotid intima media thickness, those with CPC (in comparison to those without plaque) had a significantly increased risk of the combined vascular outcome (HR 2.5, 95% CI 1.0–5.8).
+Conclusions
+In this population-based cohort, the presence of calcified carotid plaque, as assessed by high-resolution B-mode ultrasound, was an independent predictor of vascular events. It may serve as a simple and non-invasive marker of increased atherosclerotic risk and further aid in vascular risk stratification.
+

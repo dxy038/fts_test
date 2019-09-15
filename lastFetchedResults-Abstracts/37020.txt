@@ -1,0 +1,1 @@
+We consider a class of nonsmooth minimax programming problems in which functions are locally Lipschitz. Necessary and sufficient optimality conditions and duality theorems for nonsmooth minimax programming problems are obtained under V-p-invexity assumptions on objective and constraint functions.

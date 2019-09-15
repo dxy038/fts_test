@@ -1,0 +1,11 @@
+Objective
+Despite mapping tools for central visual field, delineation of peripheral visual field representations in the human cortex has remained a challenge. Access to large visual field and differentiation of retinotopic areas with robust mapping procedures and automated analysis are beneficial in basic research and could accelerate development of clinical applications.
+Methods
+We constructed a simple optical near view system for wide visual field stimulation, and examined the topology of retinotopic areas. We used multifocal (mf) design, which enables analysis with general linear model and standard fMRI softwares and is easily automated.
+Results
+Our stimulation method enabled individual mapping of visual field up to 50° of eccentricity and showed that retinotopic visual areas extended through posterior cerebrum. In addition, we located a separate peripheral upper visual field representation in parieto-occipital (PO) sulcus.
+Conclusions
+These functional results are in line with earlier histological data, and support recent findings on human V6, a retinotopic area in the medial PO sulcus with an apparent emphasis on peripheral visual field.
+Significance
+Our projection system and mf-design together enable efficient and robust retinotopic mapping of wide visual field, which can at low cost be adapted to any clinical environment with visual back-projection system.
+

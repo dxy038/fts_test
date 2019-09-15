@@ -1,0 +1,3 @@
+This paper presents a novel approach of inverse modelling to integrate fluid dynamic data into static model of reservoirs. The inverse procedure for history matching is achieved with an iterative process of successive co-simulations of reservoir characteristics in order to minimize an objective function of dynamic responses. Two main versions of inverse algorithm with a global and regional field perturbation are proposed. Direct Sequential Simulation and Co-simulation (Co-DSS) are used to obtain convergent stochastic realizations to the dynamic objectives.
+
+ of the algorithms, global and regional perturbation, proposed and evaluated led to satisfactory results with an acceptable iterations number.

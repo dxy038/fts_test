@@ -1,0 +1,12 @@
+Simultaneous optimization of shape and ßow parameters is performed for a combined free and forced
+convection ßow through vertical rectangular channels with moving walls. The laminar ßow is assumed to be
+fully developed in the axial direction. The wall velocity, the axial pressure gradient and the channel height in
+the transverse plane are taken as the optimization parameters. The sensitivity expressions of both the
+objective function and the ßow rate constraint of optimization are obtained in terms of the relevant physical
+variables, as well as adjoint variables which satisfy additional p.d.e.Õs. All equations are discretized using the
+Þnite element method. Numerical results are provided for the present constrained optimization problem for
+various values of the problem parameters which include the moving wall segment size and the Rayleigh
+number. The results indicate that with increased Rayleigh number the optimal values of the wall velocity and
+the axial pressure gradient are increased, while the optimal value of the channel height is decreased. General
+sensitivity expressions are also presented in the appendix which might be utilized for arbitrary boundary
+variations along with arbitrary optimization objectives in other investigations.

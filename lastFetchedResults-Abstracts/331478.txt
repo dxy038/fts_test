@@ -1,0 +1,13 @@
+Little is known about the mechanical behavior of resin–dentin interfaces during loading. The presence of relatively compliant hybrid and adhesive layers between stiffer dentin and resin composite should deform more during compressive loading.
+Objective
+
+The objective of this study was to measure changes in microstrain across bonded dentin interfaces in real time using a recently developed microscope moiré interferometer.
+Method
+
+This system used a miniature moiré interferometer, using two CCD cameras for simultaneous recording of longitudinal and transverse deformation fields, a piezotransducer for fringe shifting and use of a microscope objective with magnification up to 600×. Small beams (1 mm × 2 mm × 6 mm) of moist resin-bonded dentin covered with cross-lined diffraction grating replica were placed in a miniature compression tester to allow controlled loading from 2 to 37 N while imaging the interference fringe patterns.
+Results
+
+Resin-dentin interfaces created by bonding dentin with Single Bond/Z100, under compressive loading, exhibited comparatively large strains across the adhesive–hybrid interface. When the wrapped phase maps were unwrapped to permit conversion of fringe order to displacements, the 2-D profiles of strain fields revealed non-uniform strains across the adhesive interface. In the adhesive/hybrid layer zone, the negative strain was larger (i.e. −6000 μvar epsilon) than that seen in the adjacent resin composite or underlying mineralized dentin. The changes were elastic because they disappeared when the load was removed.
+Significance
+
+Microscopic moiré interferometry can be very useful in revealing real-time strain across bonded interfaces under load.

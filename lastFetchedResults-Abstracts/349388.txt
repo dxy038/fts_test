@@ -1,0 +1,11 @@
+Objective
+Stimulus-induced movements are accompanied by a definite pattern of oscillatory changes, that include a frontal 15 Hz synchronization, a central peri-movement desynchronization, and a contralateral beta rebound after the movement. Our aim was to study the oscillatory changes related to the forced termination of a single complex motor program (signature) and compare them with those observed after the normal termination of the movement.
+Methods
+Fifty-eight reference-free EEG channels were analyzed in 10 healthy subjects. A 2000 Hz tone (S1, go signal) indicated the subject to begin to write his/her complete signature. A second 2000 Hz tone 0.8 s afterwards (50% probability: S2, stop signal) indicated the subject to stop immediately. Movement-related energy changes were evaluated by means of time-frequency (Gabor) transforms.
+Results
+A frontal 15 Hz synchronization was observed after S1, but not after S2. The amplitude of the post-movement beta increase was significantly lower when the movement was abnormally terminated (p = 0.005), while the peri-movement decrease was similar.
+Conclusions
+The forced termination of a motor program reduces significantly the amplitude of the post-movement beta increment, conserving its temporal pattern. Also, the presence of the 15 Hz frontal synchronization only after S1, together with the results of previous studies, suggests that the frontal mechanisms involved in go/no go and stop signals are very different.
+Significance
+Our results indicate that the beta rebound is an active process, independent of the peri-movement beta decrease, which is influenced by how the movement is terminated.
+

@@ -1,0 +1,22 @@
+This paper has three objectives. The first objective is to show how the Einstein–de Broglie equation (EdB) can be extended to model and scale, via fractional scaling, both conservative and dissipative processes ranging in scale from quanta to nuclear reactors. The paper also discusses how and why a single equation and associated fractional scaling method generate for each process of change the corresponding scaling criterion. The versatility and capability of fractional scaling are demonstrated by applying it to:
+
+(a)
+
+    particle dynamics,
+(b)
+
+    conservative (Bernoulli) and dissipative (hydraulic jump) flows,
+(c)
+
+    viscous and turbulent flows through rough and smooth pipes, and
+(d)
+
+    momentum diffusion in a semi-infinite medium.
+
+The capability of fractional scaling to scale a process over a vast range of temporal and spatial scales is demonstrated by applying it to fluctuating processes. The application shows that the modeling of fluctuations in fluid mechanics is analogous to that in relativistic quantum field theory. Thus, Kolmogorov dissipation frequency and length are the analogs of the characteristic time and length of quantum fluctuations.
+
+The paper briefly discusses the applicability of the fractional scaling approach (FSA) to nanotechnology and biology. It also notes the analogy between FSA and the approach used to scale polymers. These applications demonstrate the power of scaling as well as the validity of Pierre-Gilles de Gennes’ ideas concerning scaling, analogies and simplicity. They also demonstrate the usefulness and efficiency of his approach to solving scientific problems.
+
+The second objective is to note and discuss the benefits of applying FSA to NPP technology.
+
+The third objective is to present a state of the art assessment of thermal-hydraulics (T/H) capabilities and needs relevant to NPP.

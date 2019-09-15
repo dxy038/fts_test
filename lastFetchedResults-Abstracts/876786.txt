@@ -1,0 +1,11 @@
+A new method is used for solving nonlinear multiobjective fractional programming problems having
+V -invex objective and constraint functions with respect to the same function η. In this approach, an equivalent
+vector programming problem is constructed by a modification of the objective fractional function in
+the original nonlinear multiobjective fractional problem. Furthermore, a modified Lagrange function is introduced
+for a constructed vector optimization problem. By the help of the modified Lagrange function,
+saddle point results are presented for the original nonlinear fractional programming problem with several
+ratios. Finally, a Mond–Weir type dual is associated, and weak, strong and converse duality results are established
+by using the introduced method with a modified function. To obtain these duality results between
+the original multiobjective fractional programming problem and its original Mond–Weir duals, a modified
+Mond–Weir vector dual problem with a modified objective function is constructed.
+© 2005 Elsevier Inc. All rights reserved.

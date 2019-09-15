@@ -1,0 +1,22 @@
+This paper presents an Improved Artificial Bee
+Colony (IABC) algorithm to optimal tune of the Power
+System Stabilizer (PSS). In the IABC algorithm an
+interactive strategy is introduced by considering the
+universal gravitation to the movement of onlooker bees in
+the original Artificial Bee Colony (ABC) to enhance
+exploration ability of the ABC algorithm. The robustly
+PSS tuning problem is formulated as an optimization
+problem according to the time domain-based objective
+function for a wide range of operating conditions. It is
+solved by the IABC technique to reduce PSS design
+effort and find the best system damping characteristics.
+The proposed Improved ABC based PSS is tested on a in
+a Single-Machine connected to Infinite-Bus (SMIB)
+power system through the nonlinear time domain
+simulation and some performance indices. The results is
+compared with the original ABC based tuned stabilizer
+and conventional PSS to illustrate its robust performance.
+Results evaluation show that the optimized PSS using the
+proposed IABC algorithm achieves good damping of low
+frequency oscillations for wide range of system operation
+conditions and is superior to the other PSSs.

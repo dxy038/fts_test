@@ -1,0 +1,7 @@
+This paper represents the comparative study of Ant Colony Optimization (ACO) and Particle
+Swarm Optimization (PSO) for Grid scheduling. The objective of ACO and PSO is to
+dynamically generate an optimal schedule so as to complete the tasks in minimum period of
+time as well as utilizing the resources in an efficient way. Makespan is the performance
+measure used for the comparison of the scheduling techniques. This paper compares both
+the above said optimization techniques and it is concluded that particle swarm optimization
+has better performance compared to ant colony optimization for grid scheduling. 

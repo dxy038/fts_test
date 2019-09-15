@@ -1,0 +1,5 @@
+A class of arity-monotonic aggregation operators, called impact functions, is proposed. This family of operators forms a theoretical framework for the so-called Producer Assessment Problem, which includes the scientometric task of fair and objective assessment of scientists using the number of citations received by their publications.
+
+The impact function output values are analyzed under right-censored and dynamically changing input data. The qualitative possibilistic approach is used to describe this kind of uncertainty. It leads to intuitive graphical interpretations and may be easily applied for practical purposes.
+
+The discourse is illustrated by a family of aggregation operators generalizing the well-known Ordered Weighted Maximum (OWMax) and the Hirsch h-index.

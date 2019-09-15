@@ -1,0 +1,1 @@
+We propose a bidirectional, polarization-independent, recirculating IQ-modulator scheme based on the silicon-organic hybrid (SOH) platform. We demonstrate the viability of the concept by using an SOH Mach-Zehnder modulator, operated at 10 GBd BPSK and 2ASK-2PSK.

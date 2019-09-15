@@ -1,0 +1,6 @@
+In this paper it is shown that a relaxation defining the class of generalized d-V-type-I functions
+leads to a new class of multi-objective problems which preserves the sufficient optimality and duality
+results in the scalar non-differentiable case, and avoids the major difficulty of verifying that the
+inequality holds for the same kernel function. The results obtained in this paper generalize and extend
+the previously known results in this area.
+ 2005 Elsevier Inc. All rights reserved

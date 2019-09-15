@@ -1,0 +1,9 @@
+Objective
+Efficient gene transfer into murine hematopoietic stem cells (HSCs) provides a powerful tool for exploring hematopoietic stem cell biology. In this study, we evaluated the efficiency of lentiviral vector–mediated gene transfer into murine CD34−/lowc-Kit+Sca-1+Lin− (CD34− KSL) cells that are highly enriched for HSCs.
+Materials and Methods
+FACS-sorted CD34− KSL cells were transduced with the vesicular stomatitis virus G glycoprotein-pseudotyped HIV-1–based lentiviral vector containing the green fluorescent protein (GFP) gene under the control of the cytomegalovirus promoter, and then 50 transduced cells were transplanted into lethally irradiated mice. Transduction efficiency was assessed by FACS analysis for GFP expression in peripheral blood (PB) cells. FACS-sorted GFP+ KSL bone marrow (BM) cells from primary recipients were used for secondary transplantation, and GFP expression in PB cells of reconstituted mice was analyzed by FACS.
+Results
+GFP expression was detected in PB cells of all primary recipients (n = 10) at an average of 40% (range 26–58%) when the lentiviral vector containing the woodchuck hepatitis virus posttranscriptional regulatory element was used. GFP+ cells were found in multilineage cells in PB, BM, spleen, and thymus for at least 8 months posttransplantation. In secondary recipients, donor-derived GFP+ KSL BM cells could reconstitute and GFP expression was detected in both myeloid and lymphoid cells in PB.
+Conclusions
+Our results indicate that lentiviral vectors can efficiently transduce highly enriched murine HSCs and sustain long-term expression of the transgene in the multilineage differentiated progeny in reconstituted mice.
+

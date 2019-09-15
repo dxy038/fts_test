@@ -1,0 +1,17 @@
+An indirect two-phase water heating solar system was tested using acetone and methanol as working fluids. The working fluid circulates
+in a closed circuit that extends from the solar collector to a coil heat exchanger in the thermo tank. The working fluid evaporates in
+the solar collector and condensates in the thermo tank coil. This Phase Change System (PCS) prevents freezing, scaling, corrosion, and
+fouling; these advantages increase the lifetime of the system. The objective of this work is to characterise the performance of the PCS
+using different filled fractions of acetone and methanol, with two kind of initial pressures (atmospheric pressure, and partial vacuum),
+in order to find the appropriate conditions for a good performance of the system. For this purpose, the useful heat was determined, as
+well as the increment of temperature in the water of the thermo tank, and the experimental efficiency. Results are compared to a witness
+conventional Domestic Solar Water Heating System. The witness has the same characteristics (materials and dimensions) than the PCS,
+except for the coil heat exchanger presented in the PCS. The instrumentation set throughout the system includes temperature sensors,
+pressure transducers, a pyranometer and an anemometer, that permit to characterise and understand the performance of the system
+under different working conditions. By knowing the phenomenology of the working fluid in the closed circuit, the stratification profile
+of the water in the thermo tank, and the thermal performance of the solar collector, projections to improve the PCS can be formulated.
+The performance of the system is the result of several variables working together in combination: the working fluid, filled fraction, partial
+vacuum, coil length, as well as the working and ambient conditions. The appropriate combination of these variables is investigated to
+improve the performance of the PCS. Experimental results showed that the partial vacuum conditions at the beginning of the test led, as
+expected, to an improved performance of the PCS. Tests were carried out under the actual field conditions of Temixco, Me´xico.
+  2011 Elsevier Ltd. All rights reserved.

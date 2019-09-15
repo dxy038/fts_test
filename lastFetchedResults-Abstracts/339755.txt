@@ -1,0 +1,11 @@
+Objective
+The function of neutrophils as primary mediators of innate immunity depends on the activity of granule proteins and critical components of the nicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex. Expression of their cognate genes is regulated during neutrophil differentiation by a complex network of intracellular signaling pathways. In this study, we have investigated the role of two members of the calcium/calmodulin-dependent protein kinase (CaMK) signaling cascade, CaMK I-like kinase (CKLiK) and CaMKKα, in regulating neutrophil differentiation and functional activation.
+Materials and Methods
+
+Mouse myeloid cell lines were used to examine the expression of a CaMK cascade in developing neutrophils and to examine the effects of constitutive activation vs inhibition of CaMKs on neutrophil maturation.
+Results
+
+Expression of CaMKKα was shown to increase during neutrophil differentiation in multiple cell lines, whereas expression of CKLiK increased as multipotent progenitors committed to promyelocytes, but then decreased as cells differentiated into mature neutrophils. Expression of constitutively active CKLiKs did not affect morphologic maturation, but caused dramatic decreases in both respiratory burst responses and chemotaxis. This loss of neutrophil function was accompanied by reduced secondary granule and gp91phox gene expression. The CaMK inhibitor KN-93 attenuated cytokine-stimulated proliferative responses in promyelocytic cell lines, and inhibited the respiratory burst. Similar data were observed with the CaMKKα inhibitor, STO-609.
+Conclusions
+
+Overactivation of a cascade of CaMKs inhibits neutrophil maturation, suggesting that these kinases play an antagonistic role during neutrophil differentiation, but at least one CaMK is required for myeloid cell expansion and functional activation.

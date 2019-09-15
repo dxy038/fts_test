@@ -1,0 +1,7 @@
+The objective of this work is to evaluate nine closed-form analytical expressions that describe the sorption isotherm across the complete range of water contents for cementitious materials.
+
+t this objective, the models were compared in terms of their accuracy root mean square error (RMSE), linearity (coefficient of determination, R2, and adjusted coefficient of determination, R adj 2 ), and prediction potential. Experimental data from controlled drying experiments performed on four cementitious materials were used for the model comparisons. All tested models were found to propose relatively realistic fits, and to have similar performances when tested on different types of materials except for cement paste with lower water to cement ratio.
+
+ involving a large number of parameters do not significantly perform better than more simple ones, especially when one account for extra cost in terms of robustness implied by additional parameters.
+
+l, the Kosugi model based on a lognormal pore size distribution appears to be the best compromise between goodness of fit and number of parameters to estimate.

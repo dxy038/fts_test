@@ -1,0 +1,11 @@
+Objective
+The present study investigated whether lateralized ERP components triggered during covert manual response preparation (ADAN, LDAP) reflect effector selection, the selection of movement direction, or both.
+Methods
+Event-related brain potentials were recorded during a response precueing paradigm where visual cues provided either partial (Experiment 1) or full (Experiment 2) information about the response hand and the direction for a subsequent reaching movement.
+Results
+ADAN and LDAP components were elicited even when only partial response information was available, demonstrating that they do not require the presence of a fully specified motor program. The ADAN was elicited in a similar fashion regardless of whether effector or movement direction information was provided, suggesting that the underlying mechanisms are equally sensitive to both types of response-related information. In contrast, the LDAP was larger in response to cues providing effector information, but was also reliably present when movement direction was available.
+Conclusions
+ADAN and LDAP components reflect preparatory activity within anterior and posterior parts of the parieto-premotor sensorimotor network where different parameters for manual reaching movements are programmed independently.
+Significance
+These results support the claim of the premotor theory of attention that shared sensorimotor control mechanisms are involved in attention and motor programming.
+

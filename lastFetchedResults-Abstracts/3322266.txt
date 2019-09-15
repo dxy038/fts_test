@@ -1,0 +1,1 @@
+The equalization of constant amplitude signals is considered in the scope of this paper. A criterion based on the probability density function (pdf) of the signal of interest is proposed. The objective is to derive a suitable soft-decision scheme, more robust than the classical CMA algorithm that ensures recover ability of the signal.

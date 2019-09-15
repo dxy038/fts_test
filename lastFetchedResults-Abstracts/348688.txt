@@ -1,0 +1,11 @@
+Objective
+We have investigated intracerebral propagation of interictal epileptiform discharges (IED) in patients with mesial temporal lobe epilepsy (MTLE) by using spatiotemporal source maps based on statistical nonparametric mapping (SNPM) of low resolution electromagnetic tomography (LORETA) values.
+Methods
+We analyzed 30 patterns of IED recorded simultaneously with scalp and intracranial foramen ovale (FO) electrodes in 15 consecutive patients with intractable MTLE. The scalp EEG signals were averaged time-locked to the peak activity in bilateral 10-contact FO electrode recordings. SNPM was applied to LORETA values and spatiotemporal source maps were created by allocating the t-values over time to their corresponding Brodmann areas. Propagation was defined as secondary statistically significant involvement of distinct cortical areas separated by >15 ms. The results were correlated with intracranial data obtained from FO electrode recordings and with scalp EEG recordings. All patients underwent subsequent amygdalo-hippocampectomy and outcome was assessed one year after surgery.
+Results
+We found mesial to lateral propagation in 6/30 IED patterns (20%, four patients), lateral to mesial propagation in 4/30 IED patterns (13.3%, four patients) and simultaneous (within 15 ms) activation of mesial and lateral temporal areas in 6/30 IED patterns (20%, five patients). Propagation generally occurred within 30 ms and was always limited to ipsilateral cortical regions. Nine/30 IED patterns (30%) showed restricted activation of mesial temporal structures and no significant solutions were found in 5/30 IED patterns (16.7%). There was no clear association between the number or characteristics of IED patterns and the postsurgical outcome.
+Conclusions
+Spatiotemporal mapping of SNPM LORETA accurately describes mesial to lateral temporal propagation of IED, and vice versa, which commonly occur in patients with MTLE.
+Significance
+Intracerebral propagation must be considered when using non-invasive source algorithms in patients with MTLE. Spatiotemporal mapping might be useful for visualizing this propagation.
+

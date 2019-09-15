@@ -1,0 +1,8 @@
+Objective
+dy the effects of minocycline hydrochloride (MINO) on the formation of tartrate-resistant acid phosphatase (TRAP) staining-positive multinucleated osteoclast-like cells in mouse bone marrow cells (BMCs) treated with 1α,25(OH)2D3 or soluble receptor activator of nuclear factor-κB ligand (s-RANKL).
+als and methods
+BMCs were cultured in alpha-modified minimum essential medium containing foetal calf serum (10%) and tetracyclines (2.5, 5 and 10 μM), such as MINO, tetracycline hydrochloride (TC), oxytetracycline hydrochloride (OXT) or doxycycline (DOXY) in the presence of 1α,25(OH)2D3 (10 nM) or s-RANKL (20 ng/ml) for 7 days, and the number of TRAP staining-positive osteoclast-like cells was counted. In RNA isolated from BMCs treated with 1α,25(OH)2D3 or s-RANKL in the presence or absence of MINO, the expressions of osteoclast differentiation relating to mRNA were analysed by reverse transcription-polymerase chain reaction. Cell viability was examined in mouse BMCs and rabbit osteoclasts treated with MINO (0.25–20 μM and 2–50 μM, respectively) for 24 h.
+s
+TC, OXT or DOXY inhibited 1α,25(OH)2D3-induced osteoclast-like cell formation in mouse BMCs dose dependently. MINO suppressed 1α,25(OH)2D3-induced up-regulation of mRNA expressions of TRAP, cathepsin K, carbonic anhydrase II, and calcitonin receptor, but not RANKL. MINO inhibited s-RANKL-induced osteoclast-like cell formation and up-regulation of mRNA expressions for nuclear factor of activated T-cells c1 (NFATc1), a key regulator of osteoclast differentiation; however, MINO had no effects on the viability of mouse BMCs and rabbit osteoclasts.
+sion
+nhibits RANKL-induced osteoclastogenesis via down-regulation of NFATc1 mRNA expression in osteoclast precursor cells.

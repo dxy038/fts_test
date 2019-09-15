@@ -1,0 +1,13 @@
+Variational methods are among the most accurate techniques for estimating the optic flow. They yield
+dense flow fields and can be designed such that they preserve discontinuities, estimate large displacements correctly
+and perform well under noise and varying illumination. However, such adaptations render the minimisation of the
+underlying energy functional very expensive in terms of computational costs: Typically one or more large linear
+or nonlinear equation systems have to be solved in order to obtain the desired solution. Consequently, variational
+methods are considered to be too slow for real-time performance. In our paper we address this problem in two ways:
+(i) We present a numerical framework based on bidirectional multigrid methods for accelerating a broad class of
+variational optic flow methods with different constancy and smoothness assumptions. Thereby, our work focuses
+particularly on regularisation strategies that preserve discontinuities. (ii)We show by the examples of five classical
+and two recent variational techniques that real-time performance is possible in all cases—even for very complex
+optic flow models that offer high accuracy. Experiments show that frame rates up to 63 dense flow fields per second
+for image sequences of size 160 × 120 can be achieved on a standard PC. Compared to classical iterative methods
+this constitutes a speedup of two to four orders of magnitude.

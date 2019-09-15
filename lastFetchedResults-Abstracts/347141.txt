@@ -1,0 +1,4 @@
+Objective: A mathematical model for simulation of the EMG from a muscle with its motor units is used. The study aims at correlating EMG findings (single-fiber EMG and concentric-needle EMG) with various induced morphological changes.
+Methods: Reinnervation has been simulated by removing motor units randomly followed by a complete reinnervation from adjacent surviving motor units. Fibre type grouping and grouped atrophy can be seen. Myopathy is simulated by increased fibre diameter variation, loss of fibres and muscle fibre splitting.
+Results and conclusion: The simulation gives quantitative aspects of the importance of each of these factors. It indicates the relative sensitivity of various EMG parameters. The model can be used both for education and for research
+

@@ -1,0 +1,14 @@
+In modeling a cold standby redundancy allocation problem (RAP) with imperfect switching
+mechanism, deriving a closed form version of a system reliability is too difficult. A
+convenient lower-bound on system reliability is proposed and this approximation is widely
+used as a part of objective function for a system reliability maximization problem in the
+literature. Considering this lower-bound does not necessarily lead to an optimal solution. In
+this study by assuming that working time of switching mechanism is exponentially
+distributed, exact value of system reliability is derived analytically through applying Markov
+process and solving a relevant set of differential-difference equations. The Runge-Kutta
+numerical scheme is also employed to verify the accuracy of the results. It is assumed that
+component time-to-failure follows an Erlang distribution which is appropriate for most
+engineering design problems by giving the possibility of modeling different increasing
+hazard functions. A new mathematical model is presented and its performance is evaluated
+through solving a well-known example in the literature. Results demonstrate that a higher
+level of system reliability is achievable through implementing the proposed model. 

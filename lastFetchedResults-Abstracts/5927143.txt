@@ -1,0 +1,1 @@
+In this paper, we propose an approach based on one time passwords to secure the DSR protocol. The main concern of this work is to provide an efficient level of security for DSR keeping in mind as a main objective the minimization of the calculation cost. Some experimental results are presented to show the effectiveness of the proposed solution.

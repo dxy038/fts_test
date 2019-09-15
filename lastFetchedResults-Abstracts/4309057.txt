@@ -1,0 +1,1 @@
+We evaluate the effects of the downstream modulation formats (NRZ, IRZ, and Manchester) on the performance of the RSOA-based bidirectional WDM-PON. The results show that, by using Manchester format, the performances of upstream signals become insensitive to the operating conditions of RSOA.

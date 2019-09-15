@@ -1,0 +1,8 @@
+Background and Objective: Colorectal cancer is one of the most widespread and fatal cancers. It is important that we could predict what status people have in the future. The purpose of this study was comparison of the Cox model and Kaplan-Meier curve with IBS and also identifying the factors about predicted survival time of patients with colon cancer. 
+
+Materials & Methods: This paper is related to colorectal cancer patients in Tehran Taleghani hospital that at least were followed up for five years. These patients referred to Taleghani hospital from 1380 to 1385 and their information was recorded in the cancer section of Digestion Research Center and at least was followed up for five years. The Cox Proportional Hazards model and Kaplan- Meier curve were used for prediction of survival status in different times and these were compared with estimation of prediction error by IBS method.
+
+Results: Among 724 patients, there was 422 men (58.3%) and 302 women (41.7%). A total of 177 patients died, among them 65% were men. Survival median of patients was 104±23.3. Cox model showed significant relation between size of tumor and sex with survival time. Sometimes, prediction error with IBS method for Cox model was less than Kaplan-Meier curve and Cox model is more perfect for these data.
+
+Conclusion: Presence of covariates and the use of models in predicting survival of patients is effective. In this study, the presence of covariates and Cox model reduces the prediction error.  
+

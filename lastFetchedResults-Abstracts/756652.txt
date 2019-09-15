@@ -1,0 +1,12 @@
+Objective
+To explore whether “typical” coronary heart disease (CHD) such as fatal myocardial infarction and sudden death relate to major cardiovascular risk factors in the same way as the “atypical” CHD, such as fatal heart failure and chronic arrhythmias.
+Design and setting
+
+Ten cohorts (6633 cardiovascular disease-free men, aged 40–59) in five European countries were examined, age and three major risk factors were measured (systolic blood pressure, serum cholesterol, and smoking habits) and 35-year mortality data were collected. Proportional hazard models were solved with typical and atypical CHD deaths treated separately.
+Results
+
+Death rates from typical and atypical CHD were inversely related among the five countries. Mean age at death was significantly higher for atypical than typical (75.8 versus 71.6 years; p < 0.001). In the multivariate analysis conducted on pools of 5 countries (adjusted for countries), the relationship of risk factors with typical CHD was direct and significant for age (hazard ratio—HR—for 5 years of age 1.44 (95% CI 1.36–1.52)), systolic blood pressure (HR for 20 mm Hg, 1.39 (95% CI 1.32–1.47)), serum cholesterol (HR for 1 mmol/l of 1.22 (95% CI 1.16–1.27)) and smoking habits (HR smokers versus non-smokers of 1.39 (95% CI 1.24–1.57)). For atypical CHD, age had a larger HR of 2.27 (95% CI 2.05–2.52), systolic blood pressure had a smaller HR of 1.28 (95% CI 1.16–1.41), serum cholesterol had an inverse non-significant HR of 0.90 (0.58–1.58) and smoking habits had a larger HR of 1.54 (95% CI 1.26–1.89).
+Conclusions
+
+Age and serum cholesterol were differently related with typical and atypical CHD deaths, suggesting different etiologies for these coronary diseases.
+

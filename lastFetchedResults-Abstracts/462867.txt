@@ -1,0 +1,14 @@
+Background
+Nearly 30 million people in sub-Saharan Africa are infected with HIV. While recent commitment of resources from international donors is heartening, rational use of these resources for AIDS prevention and care will require a major scaling up of HIV diagnostic services in affected countries.
+Objective
+
+This paper considers the various settings and populations in which HIV testing might be implemented, and the goals to be achieved by that testing. It also defines the practical information that public health decision makers in sub-Saharan Africa should have in order to choose an appropriate test or combination of tests for use in a particular clinical setting.
+Methods
+
+Using a conditional probability model and published performance characteristics of rapid HIV serologic tests, the clinical effectiveness and costs of three major testing strategies are evaluated: (1) a single, highly sensitive test; (2) a serial algorithm, where positive results on a first test are confirmed with a more specific second test; and (3) a parallel algorithm, where each specimen is tested with two separate rapid tests, and discordant results are resolved with a third, different rapid test. This analysis was performed in 2003.
+Results
+
+We suggest that in any setting, both a serial and a parallel algorithm yield fewer incorrect results than does a single screening assay, but are more costly. A parallel testing algorithm yields fewer incorrect results than does a serial algorithm, but is more costly.
+Conclusions
+
+We suggest that while a parallel testing algorithm has the advantage of avoiding indeterminate results, that strategy may be prohibitively costly for many developing world settings. Furthermore, we suggest that different testing algorithms are appropriate for different clinical settings.

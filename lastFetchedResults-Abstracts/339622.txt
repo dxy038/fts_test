@@ -1,0 +1,11 @@
+Objective
+Granulocyte colony-stimulating factor (G-CSF) is used to boost granulocyte counts in immunocompromised patients, but its effects on the immune system may be counterproductive. We tested the hypothesis that G-CSF–mobilized peripheral blood stem cell (PBSC) products are immunologically downregulated based on gene microarray analysis.
+Methods
+
+Ten peripheral blood samples from normal donors for allogeneic PBSC transplantation were obtained before and after administration of G-CSF and tested on Affymetrix Human U133 Plus 2.0 GeneChip microarrays and by flow cytometry. Significant changes in gene expression after G-CSF were reported by controlling the false discovery rate at 5%. The quantitative real-time polymerase chain reaction method was used to validate expression of representative genes.
+Results
+
+All immune cells measured, including neutrophils, monocytes, lymphocytes, and dendritic cells, were significantly increased after G-CSF. In terms of gene expression, inflammatory and neutrophil activation pathways were upregulated after G-CSF. However, adaptive immune-related gene expression, such as antigen presentation, co-stimulation, T-cell activation and cytolytic effector responses, were downregulated.
+Conclusion
+
+Despite significant increases in lymphocytes and antigen-presenting cells, G-CSF–mobilized PBSC allografts exhibit a suppressive adaptive immune-related gene-expression profile. However, innate and inflammatory responses are elevated. Our data provides an explanation for the potentially immunosuppressive effects observed after G-CSF administration.

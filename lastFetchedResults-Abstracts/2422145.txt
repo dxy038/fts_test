@@ -1,0 +1,8 @@
+In this paper, we study the finitely many constraints of the fuzzy
+relation inequality problem and optimize the linear objective
+function on the region defined by the fuzzy max-product operator.
+Simplification operations have been given to accelerate the
+resolution of the problem by removing the components having no
+effect on the solution process. Also, an algorithm and some
+numerical and applied examples are presented to abbreviate and
+illustrate the steps of the problem resolution.

@@ -1,0 +1,1 @@
+Optical ring networks provide only limited and inefficient resilience and are poorly suited to sustain unpredictable changes and shifts in future traffic loads. In this paper, we examine the impact of link upgrades, link reconfigurations, and link additions on the resilience and ability to sustain unpredictable traffic of optical bidirectional rings.

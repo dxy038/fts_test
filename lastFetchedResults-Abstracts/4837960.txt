@@ -1,0 +1,1 @@
+This paper proposes a superconducting inductor discharge circuit which is based on the Z-source DC-DC converter. It can provide bidirectional power flow function and suits to current source. The operation principle and control method are analyzed in detail. Simulation results verify the rationality and feasibility of the proposed circuit.

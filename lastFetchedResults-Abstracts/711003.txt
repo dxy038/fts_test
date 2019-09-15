@@ -1,0 +1,13 @@
+Study Objective
+Bacterial vaginosis (BV) is a common infection and has been associated with adverse health outcomes, including preterm birth, pelvic inflammatory disease (PID), and acquisition of HIV. There are limited data on recurrent BV in adolescents. A relationship between the frequency of BV recurrence and specific risk factors might shed light on the pathophysiology of BV and lead to targeted interventions.
+Methods
+Design: Record-based historical clinic study. Setting: Adolescent visits to two sexually transmitted disease (STD) clinics between 1990 and 2002. Participants: 254 girls who had ≥ 2 episodes of BV and at least 3 clinical visits, matched on clinic attendance frequency to 254 girls with only 1 documented BV episode and 254 girls with no history of BV.
+Main Outcome Measure
+Risk factor differences between groups.
+Analysis
+Multinomial logistic regression with robust estimator of the standard errors, accounting for repeated measures.
+Results
+5,977 adolescent girls visited the clinics. 1509 (25%) had at least one episode of BV; of those, 303 (19.9%) had 2 or more BV episodes. Girls with a history of 1 BV episode and girls with a history of 2 or more BV episodes were more likely to be infected with Trichomonas vaginalis [OR 1.77, 95% CI: 1.17–2.67, OR 1.56, 95% CI: 1.05–2.34] and be diagnosed with PID [OR 1.50, 95% CI: 1.02–2.22, OR 2.05, 95% CI: 1.41–2.98] compared to girls with no BV history, respectively. Girls with a history of BV were also more likely to report active oral sex and lack of contraceptive use.
+Conclusion
+Adolescent girls who attend STD clinics have a high prevalence of BV. Although the association between BV and PID is not clearly causal, when one condition is diagnosed, evaluation and counseling for the other may reduce recurrence and sequelae.
+

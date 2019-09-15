@@ -1,0 +1,11 @@
+Objective
+To investigate the relationship between perception of comfort and electrolyte concentration and applied voltage during transcranial direct current stimulation (tDCS).
+Methods
+NaCl solutions (15, 140 and 220 mM NaCl) or deionised water were used as electrolytes to dampen tDCS sponge electrodes. Subjects (14, 7M, 20–60 years of age) rated comfort on an 11-point scale during 2 min of tDCS (1 mA).
+Results
+Overall participants rated tDCS as comfortable. Perception of comfort was negatively correlated with NaCl concentration (Spearman’s ρ = −0.88; p < 0.05), and a logarithmic relationship was found between applied voltage and ionic strength of electrolytes (Pearson’s r = −0.635; p < 0.01). There was no relationship between applied voltage and perception of comfort.
+Conclusions
+The application of NaCl solutions between 15 and 140 mM to sponge electrodes is more likely to be perceived as comfortable during tDCS.
+Significance
+The reporting of solution concentration and ratings of perception would be useful adjuncts to tDCS studies.
+

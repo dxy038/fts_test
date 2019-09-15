@@ -1,0 +1,24 @@
+A model is presented herein for predicting the
+evolution of numerous cracks on multiple length scales, the
+objective of such a model being to develop the capability to
+predict failure of structural components to perform their
+intended tasks. Such a capability would then be useful as a
+predictive tool for designing structural components so as
+not to fail, but rather to succeed in performing their
+intended tasks. The model developed herein is somewhat
+involved, being based in continuum mechanics and thermodynamics,
+but is nevertheless expected to be cost
+effective (wherever sufficient accuracy permits) when
+compared to more costly experimental means of determining
+component life. An essential ingredient within the
+context of the model is that cracks must develop on widely
+differing length scales. Where this is observed to occur in
+nature, which is surprisingly often, there are potential
+simplifications over more generally described but practically
+untenable approaches, that can lead to (at least partly)
+computational multiscale algorithms capable of assimilating
+failure due to multiple cracking with a high degree of
+accuracy. The model presented herein will be briefly described
+within a mathematical framework, and an example
+problem will be presented that is representative of certain
+currently relevant technologies.

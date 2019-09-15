@@ -1,0 +1,11 @@
+Objective
+Somatic stem cells, which are poorly defined in postnatal mammalian tissues, are attractive candidates for examination of stem cell plasticity. Our goal was to determine the identity of neonatal muscle-derived cells that contain hematopoietic potential and to explore the status of CD45 expression on these cells.
+Materials and Methods
+
+Skeletal muscle from thighs of 4- to 7-day-old mice was harvested, enzymatically digested, and flow cytometrically sorted to yield CD45−Sca-1+c-kit− cells. These cells were examined in hematopoietic colony-forming assays and competitive repopulation assays, and were expanded ex vivo. Additionally, CD45, c-kit, PU.1, and β globin major expression was tracked over time in cultured cells to assess the possibility of manipulating stem cell differentiation in vitro.
+Results
+
+Freshly isolated CD45−Sca-1+c-kit− cells were devoid of hematopoietic lineage markers and contained no colony-forming activity but displayed superior long-term competitive repopulating ability when compared to freshly isolated muscle-derived CD45+Sca-1+c-kit+ cells. CD45−Sca-1+c-kit− cells expanded ex vivo in 5 ng/mL murine stem cell factor, mFlt-3L, and megakaryocyte growth and development factor (MGDF) for 9 days increased their in vivo hematopoietic repopulating potential 5.3-fold relative to fresh cells. Although fresh cells did not transcribe mRNA of several hematopoietic genes, a small fraction of cells cultured for 9 days acquired cell surface c-kit, and only these cells expressed c-kit and PU.1 mRNA and maintained competitive repopulating ability, suggesting at least myeloid and perhaps lymphoid developmental potential.
+Conclusion
+
+Neonatal murine muscle-derived cells expressing the phenotype CD45−Sca-1+ c-kit− are putative adult somatic stem cells with in vitro and in vivo hematopoietic differentiation potential.

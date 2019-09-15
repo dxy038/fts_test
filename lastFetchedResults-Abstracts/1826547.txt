@@ -1,0 +1,14 @@
+In this paper, design optimization of Permanent Magnet-Brushless DC (PM-BLDC) motor is
+presented by using Elitist Genetic Algorithm (GA). For this purpose, three objective functions are
+considered i.e. total loss and power density of the motor and combinations of both. Aim of this paper
+is to optimize the motor with these three objective functions separately. The first two objective
+functions are single-objective but for the third case, multi-objective optimization is performed in
+which total loss and power density that are technically opposite are formulated into one single
+objective. Seven design variables including stator inner diameter (D), axial length of motor (L), pole
+pitch (?p), specific magnetic loading (Bav), specific electric loading (ac), stator back-iron length (hbis)
+and stator slot height (hs) are chosen as optimization variables. Optimization is carried out by Elitist
+GA which has a better performance in comparison with conventional GA. Optimization results show
+that multi-objective functions performs much better comparing to single-objective functions because
+more reliable and realistic design optimization would be carried out by multi-objective functions. At
+last, Finite Element Method (FEM) is used that its results have well validated the analytical design
+optimization.

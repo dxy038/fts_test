@@ -1,0 +1,1 @@
+A method is described which, for any n, generates a rearrangeably nonblocking network for a bidirectional telephone system containing 2n subscribers. The number of switches is always n2+2n&#194;&#191;1, which is the minimum possible for two-stage networks of this type. This generalises earlier work of Newbury and Raby.

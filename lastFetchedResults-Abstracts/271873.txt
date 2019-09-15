@@ -1,0 +1,12 @@
+The objective of this paper is to develop simple but comprehensive constitutive equations that model a number of
+physical phenomena exhibited by dry porous geological materials and metals. For geological materials the equations
+model: porous compaction; porous dilation due to distortional deformation and tensile failure; shear enhanced
+compaction; pressure hardening of the yield strength; damage of the yield strength due to distortional deformation
+and porosity changes; and dependence of the yield strength on the Lode angle. For metals the equations model:
+hardening of the yield strength due to plastic deformation; pressure and temperature dependence of the yield
+strength, and damage due to nucleation of porosity during tensile failure. The equations are valid for large
+deformations and the elastic response is hyperelastic in the sense that the stress is related to a derivative of the
+Helmholtz free energy. Also, the equations are viscoplastic with rate dependence occurring in both the evolution
+equations of porosity and elastic distortional deformations. Moreover, formulas are presented for robust numerical
+integration of the evolution equations at the element level that can be easily implemented into standard computer
+programs for dynamic response of materials. #

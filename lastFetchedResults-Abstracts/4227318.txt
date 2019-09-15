@@ -1,0 +1,1 @@
+In this paper a HF model, based on lumped parameters, of the DSPM motor is developed and a simulation of the conducted EMI in electrical drive with PWM inverter fed and bidirectional current control DSPM motor is performed.

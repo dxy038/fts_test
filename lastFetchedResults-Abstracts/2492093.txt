@@ -1,0 +1,8 @@
+A polynomial 1 2 ( , , , ) n f X X X
+is called multilinear if it is homogeneous and linear in every one of its
+variables. In the present paper our objective is to prove the following result: Let R be a prime K-algebra over a
+commutative ring K with unity and let 1 2 ( , , , ) n f X X X be a multilinear polynomial over K. Suppose
+that d is a nonzero derivation on R such that 1 2 1 2 ( , , , ) ( , , , ) s t
+df x x xn ? f x x xn for all
+1 2 , , , n x x x ?R, where s,t are fixed positive integers. Then 1 2 ( , , , ) n f X X X is central-valued on
+R. We also examine the case R which is a semiprime K-algebra.

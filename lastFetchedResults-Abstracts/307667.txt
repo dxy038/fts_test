@@ -1,0 +1,9 @@
+Objective:
+To analyze the pattern of changes in GSTs in cancerous and adjacent non-cancerous tissues obtained from breast cancer patients undergoing surgery.
+Design and methods:
+Cytosolic GST purification, assay of GST, protein expression levels, and GST–synaptotagmin association were analyzed using standard biochemical techniques like GSH-affinity purification, spectrophotometry, SDS–PAGE, Western blots, and matrix-assisted laser desorption and ionization–time of flight (MALDI–TOF).
+Results:
+GST activity in cancerous tissues (0.26 U/mg protein) was significantly higher (P< 0.05) as compared to those from adjacent non-cancerous tissues (0.14 U/mg protein) of breast cancer patients. Further analysis of GST subunits on SDS–PAGE and Western blots using class-specific GST antibodies revealed significant elevation in GST-pi levels in cancer tissues with no appreciable changes in GST-alpha and GST-mu. Along with the elevation of GST-pi levels, high molecular weight proteins ( 70 kDa) cross reacting with GST antibodies were detected only in surgically resected tumor biopsies but not in the non-cancerous tissues adjacent to the tumor. Based on MALDI–TOF analysis, the high molecular weight band was identified as synaptotagmin V bound to GST-M1 with 47% sequence coverage after processing on an MS-FIT search engine.
+Conclusions:
+Our results suggest a novel putative functional role for the GST–synaptotagmin complex in human breast cancers. As this association of GST M1–synaptotagmin was not seen in adjacent non-cancerous tissues, this can be used as a marker for breast cancers.
+

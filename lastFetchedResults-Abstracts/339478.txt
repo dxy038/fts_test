@@ -1,0 +1,11 @@
+Objective
+T cells that undergo lymphopenia-induced proliferation (LIP) are characterized by greater effector and anti-tumor function than naïve T cells. But the ability of these T cells in causing graft-versus-host disease (GVHD) is not known.
+Methods
+
+We tested the hypothesis that donor T cells that had undergone LIP would cause more severe GVHD than naïve T cells by utilizing well-characterized murine experimental models of allogeneic bone marrow transplantation (BMT).
+Results
+
+Contrary to our hypothesis, LIP of donor T cells under either noninflammatory or irradiated conditions caused significantly reduced GVHD as determined by survival, clinical, pathologic, and biochemical parameters than naïve T cells. Compared to naïve donor T cells, LIP T cells demonstrated reduced expansion in vivo and in vitro after allogeneic BMT. The reduction in GVHD mortality and severity was observed across multiple strains after allogeneic BMT. In vivo mechanistic studies by cell depletion demonstrated an increase in the CD44hi “memory” phenotype T cells and not the CD4+CD25+ T cell subset to be critical for the reduction in GVHD.
+Conclusions
+
+These data demonstrate that LIP of T cells regulates acute GVHD severity in contrast to their ability to cause increased allograft rejection, autoimmunity, or anti-tumor immunity.

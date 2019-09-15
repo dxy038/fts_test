@@ -1,0 +1,11 @@
+Objective
+Tetrahydroxyquinone is a molecule best known as a primitive anticataract drug but is also a highly redox active molecule that can take part in a redox cycle with semiquinone radicals, leading to the formation of reactive oxygen species (ROS). Its potential as an anticancer drug has not been investigated.
+Methods
+
+The effects of tetrahydroxyquinone on HL60 leukemia cells are investigated using fluorescein-activated cell sorting–dependent detection of phosphatidylserine exposure combined with 7-amino-actinomycin D exclusion, via Western blotting using phosphospecific antibodies, and by transfection of constitutively active protein kinase B.
+Results
+
+We observe that in HL60 leukemia cells tetrahydroxyquinone causes ROS production followed by apoptosis through the mitochondrial pathway, whereas cellular physiology of normal human blood leukocytes was not affected by tetrahydroxyquinone. The antileukemic effect of tetrahydroxyquinone is accompanied by reduced activity of various antiapoptotic survival molecules including the protein kinase B pathway. Importantly, transfection of protein kinase B into HL60 cells and thus artificially increasing protein kinase B activity inhibits tetrahydroxyquinone-dependent cytotoxicity.
+Conclusion
+
+Tetrahydroxyquinone provokes cytotoxic effects on leukemia cells by reduced protein kinase B–dependent survival signaling followed by apoptosis through the mitochondrial pathway. Thus, tetrahydroxyquinone may be representative of a novel class of chemotherapeutic drugs, inducing apoptosis in cancer cells through diminished survival signaling possibly as a consequence of ROS generation.

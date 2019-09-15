@@ -1,0 +1,11 @@
+Objective
+To investigate the impact of brain tissue damage in Multiple Sclerosis (MS) on the efficiency of programming of voluntary movement, assessed using event-related desynchronization of the EEG.
+Methods
+The onset latency of mu ERD (percent desyncronization of the mu rhythm preceding movement onset) to hand movement was studied in 34 MS patients. ERD onset was compared with normative data and correlated with T1 and T2 total lesion volume (TLV) at magnetic resonance imaging (MRI).
+Results
+ERD onset latency was significantly correlated with T1-TLV (r=0.53, P=0.001) and T2 lesion load (r=0.5, P=0.003), even after correcting for disability. Patients with higher T1-TLV had significantly delayed ERD onset compared with normal subjects and with patients with lower T1-TLV; patients with higher T2-TLV had significantly delayed ERD compared with normal subjects only. ERD onset latency was not correlated to clinical disability.
+Conclusions
+Our finding of delayed ERD onset in patients with more severe measures of brain damage, independently from clinical disability, suggests that functional cortico-cortical and cortico-subcortical connections underlying the expression of ERD during programming of voluntary movement are disrupted by the MS related pathological process. Further, studies are needed to evaluate the role of specific anatomical cortico-subcortical circuits in determining this abnormality.
+Significance
+The extent of brain lesion load in multiple sclerosis affects cortical changes related to motor preparation, detected by analysis of onset latency of event-related desynchronization (ERD) of the mu rhythm to self-paced movement.
+

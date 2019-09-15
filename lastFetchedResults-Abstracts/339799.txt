@@ -1,0 +1,11 @@
+Objective
+Mutations in PTPN11, which encodes the protein tyrosine phosphatase Shp2, are commonly found in juvenile myelomonocytic leukemia (JMML). We hypothesized that PTPN11 mutations promote cell-cycle progression and confer enhanced survival to hematopoietic progenitors.
+Materials and Methods
+
+Murine bone marrow low-density mononuclear cells were transduced with pMIEG3, pMIEG3-WT Shp2, pMIEG3-Shp2D61Y, or pMIEG3-Shp2E76K followed by cell-cycle and survival functional analysis as well as biochemical analysis for key cell-cycle and programmed cell-death regulatory proteins.
+Results
+
+A higher proportion of hematopoietic progenitors bearing the gain-of-function Shp2 mutants were residing in the S or G2 phase of the cell cycle in response to low doses of granulocyte-macrophage colony-stimulating factor compared to cells transduced with empty vector (MIEG3) or with WT Shp2. Likewise, Shp2D61Y- or Shp2E76K-expressing hematopoietic cells demonstrated reduced apoptosis based on Annexin-V staining and produced increased progenitor colonies after 48 hours in minimal media compared to cells transduced with empty vector or WT Shp2. To differentiate enhanced survival vs hyperproliferation, cells were stained with PKH26 to distinguish undivided cells from divided progeny. Shp2D61Y- or Shp2E76K-expressing PKH26+ cells similarly demonstrated reduced apoptosis. Upon biochemical analysis, expression of Akt- and Erk-responsive cell-cycle and programmed cell-death regulatory proteins were altered, including increased levels of cyclin D1, Bcl2, and BclXL and reduced levels of p27, p21, and Bim.
+Conclusion
+
+Collectively, these data demonstrate that gain-of-function Shp2 mutants promote hematopoietic progenitor cell-cycle progression and survival and imply that agents targeting the cell cycle or promoting apoptosis may have therapeutic potential in JMML.

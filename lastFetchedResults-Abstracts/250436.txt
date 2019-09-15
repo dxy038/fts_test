@@ -1,0 +1,18 @@
+The objective of this work is to present an adaptive remeshing procedure for lower bound limit analysis
+with application to soil mechanics. Unlike conventional finite element meshes, a lower bound grid
+incorporates statically admissible stress discontinuities between adjacent elements. These discontinuities
+permit large stress jumps over an infinitesimal distance and reduce the number of elements needed
+to predict the collapse load accurately. In general, the role of the discontinuities is crucial as their
+arrangement and distribution has a dramatic influence on the accuracy of the lower bound solution
+(Limit Analysis and Soil Plasticity, 1975). To ensure that the discontinuities are positioned in an
+optimal manner requires an error estimator and mesh adaptation strategy which accounts for the
+presence of stress singularities in the computed stress field.
+Recently, Borges et al. (Int. J. Solids Struct. 2001; 38:1707–1720) presented an anisotropic mesh
+adaptation strategy for a mixed limit analysis formulation which used a directional error estimator.
+In the present work, this strategy has been tailored to suit a discontinuous lower bound formulation
+which employs the stresses and body forces as primary unknowns. The adapted mesh has a maximum
+density of discontinuities in the direction of the maximum rate of change in the stress field. For
+problems involving strong stress singularities in the boundary conditions (e.g. a strip footing), the
+automatic generation of discontinuity fans, centred on the singular points, has been implemented.
+The efficiency of the proposed technique is demonstrated by analysis of two classical soil mechanics
+problems; namely the bearing capacity of a rigid strip footing and the collapse of a vertical cut

@@ -1,0 +1,13 @@
+The aim of this study is to determine the relationships of yield-capacity-risk
+in a multiple reservoir system. In this study, yield, capacity and risk have been dened
+as the average energy production, storage volume of reservoir and obtaining the same
+yield with lower capacity, respectively. Then, an optimization model, using Dynamic
+Programming with Successive Approximations (DPSA) for a multi-reservoir system for
+energy production, has been developed. The objective function used in the model has the
+objective of maximization of the total energy. A multi-reservoir system in the Munzur
+River Basin of Turkey has been selected for the application. The results of the proposed
+approach have been evaluated with regard to the relationships of yield-capacity-risk. As a
+result, the capacity was increased when the yield was raised, and the same yield has been
+obtained in a dierent capacity by reducing the capacity under a certain yield risk. The
+yield risk has been raised in the direction of the yield coordinate of the yield-capacity-yield
+risk curve.

@@ -1,0 +1,11 @@
+Objective
+Recent clinical trials of adoptive immunotherapy showed diminished reactivity of human T cells upon ex vivo manipulation. For a safe and effective clinical application of human T cells, it is necessary to improve ex vivo manipulation procedures and evaluate their impact on in vivo functionality. However, there is no preclinical model for quantitative assessment of in vivo functionality of human T cells. In this study, we investigated the feasibility of using the huPBMC- RAG2−/−γc−/− xenogeneic mouse model. As a first example, we compared 3 different ex vivo culture conditions for human T cells.
+Methods
+
+RAG2−/−γc−/− mice received cultured human T cells that were stimulated via CD3 alone or costimulated via CD28 (CD3/28) and/or human 4-1BB (CD3/28/4-1BB). Engraftment levels and survival of the cells were measured. The dynamics of the human T cell phenotypes were analyzed during culture and in vivo, as well as the mechanism of the xenoresponse.
+Results
+
+Engraftment potential was improved twofold for costimulation compared to CD3 alone (p < 0.001). Phenotypic analysis showed a strikingly similar pattern of development towards CD4+ and CD8+ effector and effector-memory cells, suggesting antigen-driven survival and expansion. All parameters used to analyze different effects on in vivo T-cell functionality, like culture condition, engraftment levels, survival of the cells over time, or xenogeneic graft-vs-host disease were absolutely independent of the distribution of the T cell population in vivo following contact with xeno-antigen.
+Conclusion
+
+The huPBMC-RAG2−/−γc−/− xenogeneic transplant model is the most sensitive to date for in vivo functional evaluation of human T cells.

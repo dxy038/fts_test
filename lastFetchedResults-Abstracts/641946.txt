@@ -1,0 +1,9 @@
+Objective:
+Inappropriate energy intake can negatively affect patient outcome during critical illness. Measuring energy expenditure via indirect calorimetry (IC) is the most accurate method of determining needs. Often predictive equations are used because IC is not available at all institutions or for all populations.
+Methods:
+This study compared 24-h IC measures with five previously published formulaic equations and nomograms using kilocalorie per kilogram of body weight to determine their accuracy in predicting energy needs in critically ill adults receiving nutrition support. Two different weight categories were analyzed: body mass indexes below 25 kg/m2 and below 30 kg/m2.
+Results:
+The Harris-Benedict equation using adjusted body weight multiplied by a stress factor of 1.6 and the Swinamer equation predicted measured energy expenditure (MEE) within 20% of IC values 80% of the time for the entire population studied. For those individuals at the lower weight range, the Harris-Benedict equation using actual weight reference weight via the Hamwi equation and via adjusted weight times a stress factor of 1.6 and the Swinamer equation predicted MEE within 20% of IC values 89% of the time. The Frankenfield equation overestimated MEE; whereas the Penn State and Ireton-Jones equations underestimated energy needs in the population studied.
+Conclusions:
+Predictive equations such as the Harris-Benedict equation multiplied by a stress factor of 1.6 and the Swinamer equation may be accurate enough for short-term nutrition support of critically ill patients when IC is unavailable.
+

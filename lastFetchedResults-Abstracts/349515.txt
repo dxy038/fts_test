@@ -1,0 +1,11 @@
+Objective
+Photosensitive epilepsy (PSE) is the most common form of reflex epilepsy. Usually, to find out whether a patient is sensitive, he/she is stimulated visually with, e.g. a stroboscopic light stimulus at variable frequency and intensity until a photo paroxysmal response (PPR) occurs. The research described in this work aims to find whether photosensitivity can be detected without provoking a PPR.
+Methods
+Twenty-two subjects, 15 with known photosensitivity, were stimulated with visual stimuli that did not provoke a PPR. Using an “evoked response representation”, 18 features were analytically derived from EEG signals. Single- and multi-feature classification paradigms were applied to extract those features that separate best subjects with PSE from controls.
+Results
+Two variables in the “evoked response representation”, a frequency term and a goodness of fit term to a particular template, appeared to be best suited to make a prediction about the photosensitivity of a subject.
+Conclusions
+Evoked responses appear to carry information about potential PSE.
+Significance
+This result can be useful for screening patients for photosensitivity and it may also help to assess in a quantitative way the effectiveness of medical therapy.
+

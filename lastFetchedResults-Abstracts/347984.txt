@@ -1,0 +1,9 @@
+Objective
+The P300 event-related potential shows anterior P300 increases on NoGo tasks (target STIMULUS=withhold response) relative to Go tasks (target STIMULUS=commit response). This ‘NoGo anteriorization’ has been hypothesized to reflect response inhibition. However, silent-count tasks show similar P300 anteriorization. The P300 anteriorization on silent-count tasks relative to Go tasks cannot reflect inhibition-related processes, and questions the degree to which anteriorization observed on NoGo trials can be ascribed to response inhibition. Comparison of anteriorization between the silent-count and NoGo tasks is thus essential. P300 topography on NoGo and silent-count tasks has not been previously compared.
+Methods
+P300 on Go, NoGo, and silent-count auditory oddball tasks were compared. If the NoGo P300 anteriorization reflects response inhibitory processes, the NoGo P300 should be larger anteriorly than the Go P300 (overt responses) and the silent-count P300s (covert responses). If anteriorization primarily reflects negative voltage Go task motor activity that reduces the normal frontal P300 amplitude, then the Go task P300 should be smaller than both the NoGo and silent-count P300s, which should not differ from one another.
+Results
+The Go task elicited a bilaterally reduced frontal P300 and asymmetrical frontal P300 relative to both the NoGo and silent-count tasks. The NoGo task P300 and silent-count task P300 showed similar amplitude and topography. P300 and slow wave on the NoGo task were not asymmetrical.
+Conclusions
+The increased frontal P300 in NoGo tasks cannot be attributed solely to a positive-going inhibitory process, but likely reflects negative voltage response execution processes on Go trials. However, the alternative explanation that memory-related processes increase the silent-count P300 anteriorly to the same degree as NoGo inhibitory processes cannot be ruled out.
+

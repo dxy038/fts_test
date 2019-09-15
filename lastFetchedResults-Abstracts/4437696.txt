@@ -1,0 +1,1 @@
+The objective of this paper is two fold: (i) to motivate early adopters of AC, who are using procedural policies, and to consider automated planning and goal-type policies by highlighting their potential for self-management, and (ii) to foreground some of the challenges and research problems raised in adapting automated planning techniques to AC applications

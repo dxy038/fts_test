@@ -1,0 +1,11 @@
+Objective
+Ample behavioral evidence suggests that distributional properties of the language environment influence the processing of speech. Yet, how these characteristics are reflected in neural processes remains largely unknown. The present ERP study investigates neurophysiological correlates of phonotactic probability: the distributional frequency of phoneme combinations.
+Methods
+We employed an ERP measure indicative of experience-dependent auditory memory traces, the mismatch negativity (MMN). We presented pairs of non-words that differed by the degree of phonotactic probability in a modified passive oddball design that minimizes the contribution of acoustic processes.
+Results
+In Experiment 1 the non-word with high phonotactic probability (notsel) elicited a significantly enhanced MMN as compared to the non-word with low phonotactic probability (notkel). In Experiment 2 this finding was replicated with a non-word pair with a smaller acoustic difference (notsel–notfel). An MMN enhancement was not observed in a third acoustic control experiment with stimuli having comparable phonotactic probability (so–fo).
+Conclusions
+Our data suggest that auditory cortical responses to phoneme clusters are modulated by statistical regularities of phoneme combinations.
+Significance
+This study indicates that the language environment is relevant in shaping the neural processing of speech. Furthermore, it provides a potentially useful design for investigating implicit phonological processing in children with anomalous language functions like dyslexia.
+

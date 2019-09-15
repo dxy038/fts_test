@@ -1,0 +1,11 @@
+Background and Objective: Cylindrical ionization chamber is used for measurements of patient dose in radiation therapy. By determination the effective point of measurement we can determine the dose distribution and the parameters of treatment. Therefore in this research we introduce an analytical approach for determination this point in CC13 cylindrical ionization chamber that used for dosimetry of linear accelerator.
+Subjects and Methods: In this study a CC13 ionization chamber was used for dose measurement of 6 and 18 photon beams of Variant accelerator in different field sizes, 5*5 cm2 up to 35*35cm2. Measurements were performed in blue phantom, up to 5cm depth and data fit software was used for evaluation of experimental data.
+Results: with our formalism the Pdis quantity in 6MV for 5x5 thought 35x35cm2 were
+measured 3.088 to 2.88 mm and in 18 MV are measured 4.62 to 4.20 mm.
+Conclusion: The first critical point of each curve is caused by changing environment from air
+to water during measuring of ionization. In fact it can be considered critical point as effective
+point of measurement of ionization chamber. Investigation shows that any increasing in field
+size, decrease and increasing of energy increase the depth of this critical point.
+Sci Med J 201 1; 9(6):587-592
+Keywords: Effective point of measurement, Cylindrical ionization chamber, Percent-depth- dose curves.
+

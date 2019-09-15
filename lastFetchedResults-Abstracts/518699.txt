@@ -1,0 +1,4 @@
+This paper develops an inventory model for deteriorating items with a linearly increasing demand and shortages in the inventory. A three parameter Weibull distribution is used to represent the distribution of the time to deterioration. It is also seen that the demand of a consumer product usually varies with time and, hence, the demand rate should be taken as time dependent. Also, there may be occasional shortages in the inventory, due to many reasons. Taking all these factors into consideration a non-linear programming model is developed. On the other hand, we use interval values to estimate
+
+inventory costs, because of some ambiguities in them. Therefore, a non-linear programming model with an interval objective function is constructed. To solve the model, a genetic algorithm is applied. Finally, concluding remarks are given.
+

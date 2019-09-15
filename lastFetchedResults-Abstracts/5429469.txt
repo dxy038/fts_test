@@ -1,0 +1,1 @@
+We consider the problem of routing and scheduling in a multi-hop wireless network where the wireless links may interfere with each other. The objective of the network operator is to maximize the total amount of traffic carried. We present algorithms for computing traffic flow and the schedule in the wireless network to meet demand and maximize the total traffic carried.

@@ -1,0 +1,1 @@
+A bidirectional WDM passive optical network based on the spectrum-slicing technique for both broadband switched services and digital broadcast video services is demonstrated. This network is capable of providing a 155 Mbit´s baseband signal and 30 digital video signals to each subscriber. The upstream channels also operate at 155 Mbit/s

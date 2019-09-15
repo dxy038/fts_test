@@ -1,0 +1,9 @@
+This paper breaks new ground by modelling lot sizing and scheduling in a flexible flow line
+(FFL) simultaneously instead of separately. This problem, called the ‘General Lot sizing and
+Scheduling Problem in a Flexible Flow Line’ (GLSP-FFL), optimizes the lot sizing and
+scheduling of multiple products at multiple stages, each stage having multiple machines in
+parallel. The objective is to satisfy varying demand over a finite planning horizon with minimal
+inventory, backorder and production setup costs. The problem is complex as any product can be
+processed on any machine but with different process rates and sequence-dependent setup times
+& costs. The efficiency of two alternative models is assessed and evaluated using numerical
+tests.

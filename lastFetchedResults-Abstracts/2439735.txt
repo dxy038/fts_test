@@ -1,0 +1,10 @@
+Objective
+pose a methodology to automatically induce state-decision-action diagrams from health-care databases and electronic health records in order to show health-care professionals an explicit representation of the past health-care procedures carried out in a health-care organization and to use these representations to study the deviations with respect to official and predefined protocols and clinical algorithms.
+als and methods
+thodology is based on two data and knowledge structures: episode of care database and set of rules. These two structures contain, respectively, patient data from health-care centres and the translation rules which are used to adapt the data of the episode of care database to the terminology we want the resulting state-decision-action diagram to have. The data expressed in the new terminology is used to generate the final state-decision-action diagram by means of a machine learning method.
+
+e performed several tests on the treatment of hypertension with data from the SAGESSA Health-care Group in Spain. The state-decision-action diagrams obtained have been analyzed at the level of their ability to predict correct treatments and at the level of their adherence to the clinical algorithms published by four official health-care organizations.
+s
+ate-decision-action diagrams obtained represent an average 94.6% of the treatments in the database, only excluding some atypical cases. Moreover, these diagrams show a high level of adherence to the treatment proposed by the National Heart Foundation of Australia and the Spanish Society for Hypertension with about 90.4% of coincident treatment.
+sions
+methodology has been developed and validated which automatically induces state-decision-action diagrams which can be used as a graphical representation of the health-care procedures carried out in health-care organizations. The methodology is also a tool to study the adherence of these health-care procedures to the official standards.

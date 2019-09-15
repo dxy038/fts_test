@@ -1,0 +1,8 @@
+Objective
+w the effect of different results for total prostate specific antigen (tPSA) and percentage free/total PSA (%fPSA) obtained with different assays for differentiating between benign and malignant prostate diseases.
+ts and Methods
+ere used for tPSA and fPSA levels from 596 patients with prostate cancer (314) or no evidence of cancer (282) within the PSA range 0.5–10 ng/ml, analyzed with assays from Abbott (AxSYM), Beckman Coulter (Access), DPC (Immulite 2000), and Roche (Elecsys 2010), and with tPSA and complexed PSA (cPSA) assays from Bayer (ADVIA Centaur), as already reported. Receiver operating characteristics (ROC), specificities at assay-dependent and fixed thresholds, and the percentages of correct classification rates of patients were calculated.
+s
+s the areas under the ROC curves were no different among all tPSA assays, the assay-specific thresholds at 90% sensitivity were 2.5 to 3.1 ng/ml. When using fixed 2.5 or 4 ng/ml tPSA thresholds there was a wide sensitivity range, with significant differences among almost all assays, resulting in significantly different classification rates of patients. These differences were even larger when using fixed %fPSA thresholds.
+sions
+rrent situation of differences among PSA values measured with different assays do not allow the recommendation of uniform PSA limits as biopsy criteria. For that purpose, better harmonization of PSA values between the different PSA test systems must be realized.

@@ -1,0 +1,22 @@
+Importance of permanent range assessment is advice, because of continuous change, ecological
+aspects and economy of rangelands. The wide area of rangelands and facilities limitation for regular
+monitoring cause the requirement of the remote sensing application. The objective of present study
+was investigation on reliability of ETM+ data for vegetation estimation. The study was carried out
+in Markazi province for five years. Satellite data of same time of grand truth data was obtained for
+each year. Vegetation indices were calculated after radiometric and geometric correction of images.
+Canopy cover of annual species, herbaceous species, grasses, shrub and total cover in five sites
+during five years were measured. Measurements were carried out in 60 plots two square meters
+rectangular quadrates along four 400 meter parallel transects. Before processing of the information,
+15 random selected quadrates were kept for test of equation. In other case all data of four years was
+applied to calculate equation between vegetation indices and ground data and data of fifth years was
+used for test of model. Considering small area of quadrates against 30'30 meter pixel and
+probability of error involved with coordinate measurement by GPS correlation between mean data
+of each transect and indices also was studied. The results obtained from equation were compared
+with actual cover data using student t-test. Most indices have significant correlation with cover data,
+however sometimes equation did not gave correct estimation of cover compared with actual data.
+This was happened for life form that did not make considerable percent of vegetation composition.
+Generally application of transect data and calculation of equation based on four years data to
+estimate of fifth years canopy cover was more suitable way of using satellites data. Certainly using
+satellite system with more bands and better resolution and doing soil background correlation in arid
+regions would give better results.
+

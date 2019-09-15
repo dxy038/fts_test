@@ -1,0 +1,8 @@
+Abstract
+Background. Involuntary extensor thrust experienced by wheelchair users with neurological disorders may cause injuries via impact with the wheelchair, lead to the occupant sliding out of the seat, and also damage the wheelchair. The concept of a dynamic seat, which allows movement of a seat with respect to the wheelchair frame, has been suggested as a potential solution to provide greater freedom and safety. Knowledge of the human-generated motion and forces during unconstrained extensor thrust events is of great importance in developing more comfortable and effective dynamic seats. The objective of this study was to develop a method to identify human-generated motions and forces during extensor thrust events. This information can be used to design the triggering system for a dynamic seat.
+
+Methods. An experimental system was developed to automatically track the motions of the wheelchair user using a video camera and also measure the forces at the footrest. An inverse dynamic approach was employed along with a three-link human body model and the experimental data to predict the human-generated forces.
+
+Findings. Two kinds of experiments were performed: the first experiment validated the proposed model and the second experiment showed the effects of the extensor thrust speed, the footrest angle, and the seatback angle. The proposed method was tested using a sensitivity analysis, from which a performance index was deduced to help indicate the robust region of the force identification.
+
+Interpretation. A system to determine human-generated motions and forces during unconstrained extensor thrusts was developed. Through experiments and simulations, the effectiveness and reliability of the developed system was established.

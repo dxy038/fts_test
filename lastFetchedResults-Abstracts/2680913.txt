@@ -1,0 +1,12 @@
+The aim of a multi-mode resource-constrained project scheduling problem (MRCPSP) is to assign resource(s) with the restricted capacity
+to an execution mode of activities by considering relationship constraints to achieve pre-determined objective(s). These goals vary with
+managers or decision makers of any organization who should determine suitable objective(s) considering organization strategies. Also, we
+introduce the preemptive extension of the problem which allows for activity splitting. In this paper, the preemptive multi-mode resourceconstrained
+project scheduling problem (P-MMRCPSP) with Minimum makespan and the maximization of net present value (NPV) has
+been considered. Since the considered model is NP-Hard, the performance of our proposed model is evaluated by comparison with two
+well-known algorithms: non-dominated sorting genetic algorithm (NSGA II) and multi-objective imperialist competitive algorithm
+(MOICA). These metaheuristics have been compared on the basis of a computational experiment performed on a set of instances obtained
+from standard test problems constructed by the ProGen project generator, where, additionally, cash flows were generated randomly with
+the uniform distribution. Since the effectiveness of most meta-heuristic algorithms significantly depends on choosing the proper
+parameters. A Taguchi experimental design method (DOE) was applied to set and estimate the proper values of GAs parameters for
+improving their performances. The computational results show that the proposed MOICA outperforms the NSGA-II.

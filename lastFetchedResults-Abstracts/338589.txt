@@ -1,0 +1,9 @@
+Objective
+The aim of this study was to determine whether expression of the CD86 costimulatory molecule in acute myeloid leukemia (AML) can identify blast cells committed to the monocytic/dendritic lineage.
+Material and Methods
+One hundred ten consecutive AML patients observed at diagnosis were studied by flow cytometry. In selected experiments, in vitro cultures with CD34+CD86+ or CD34−CD86+ blasts were performed in the presence of granulocyte-macrophage colony-stimulating actor (GM-CSF) with or without tumor necrosis factor-α (TNF-α) or GM-CSF + interleukin-4 (IL-4), respectively, to induce a dendritic differentiation, documented by morphologic and immunophenotypic assays. T-cell alloreactivity to CD86+ AML cells and leukemic dendritic cells (AML-DC) was tested in mixed leukocyte cultures and anti-leukemic cytotoxic assays.
+Results
+CD86 was expressed in 54% AML, whereas CD80 and CD1a were only occasionally positive. CD86+ AML samples included M5 and M4, but also 47% M0-M1 FAB types, and were more frequently CD14+ (p < 0.00001) and CD34− (p = 0.00005) than CD86−AML. Six different patterns of CD86+ AML were identified, according to CD34 or CD14 total or partial coexpression. Four samples enriched in CD34+CD86+ AML cells differentiated into AML-DC CD86+, CD80+, CD40+, CD11c+, HLA-DR+1, CD14+/− that also were CD1a+ or CD83+, after 6 days of in vitro culture with GM-CSF ± TNF-α. CD34−CD86+ AML cells differentiated into AML-DC after 3 to 5 days (n = 5 experiments), and trisomy 8 was found in two AML and AML-DC samples by fluorescence in situ hybridization analysis. Finally, AML-DC induced more potent allo–T-cell proliferation, cytokine release, and anti-leukemic cytotoxicity than CD86+ blasts.
+Conclusions
+In AML, CD86 is a marker of monocytic/dendritic lineage. Because CD86+ blasts may differentiate into DC rapidly, CD86+AML patients could be optimal candidates for immunotherapy studies, both in autologous and allogeneic settings.
+

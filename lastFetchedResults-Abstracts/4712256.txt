@@ -1,0 +1,1 @@
+In digital holographic microscopy, the phase distribution of the object is covered with the aberration induced by the microscope objective. To recover the phase of the cell, Zernike polynomials is used to eliminate the aberration.

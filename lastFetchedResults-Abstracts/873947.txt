@@ -1,0 +1,9 @@
+We consider a Markov decision process with an uncountable state space and
+multiple rewards. For each policy, its performance is evaluated by a vector of total
+expected rewards. Under the standard continuity assumptions and the additional
+assumption that all initial and transition probabilities are nonatomic, we prove that
+the set of performance vectors for all policies is equal to the set of performance
+vectors for nonrandomized.Markov policies. This result implies the existence of
+optimal nonrandomized.Markov policies for nonatomic constrained Markov decision
+processes with total rewards. We provide two examples of applications of our
+results to constrained multiple objective problems in inventory control and finance.

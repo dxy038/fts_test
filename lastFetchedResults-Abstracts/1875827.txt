@@ -1,0 +1,15 @@
+OBJECTIVE: To derive and evaluate prediction models for patients who had undergone coronary artery bypass grafting (CABG) and had a difficult postoperative course.
+
+: Observational.
+
+G: Midwestern hospital specializing in high-risk CABG procedures.
+
+TS: One hundred eighty-three patients who stayed at least 10 consecutive days in the intensive care unit after a CABG procedure.
+
+E MEASURE: Death within 60 days of surgery.
+
+ENTION: None.
+
+S: The final logistic regression prediction models included the following findings: pulmonary capillary wedge pressure, cardiac index, heart rate, urine output, positive end-expiratory pressure, blood urea nitrogen levels, and the arterial pressure of carbon dioxide. The model was able to stratify patients into four risk groups with observed 60-day mortality rates of 0.0% (n = 107), 21% (n = 39), 55% (n = 20), and 88% (n = 17). Preoperative patient information was not associated with prognosis for these patients.
+
+SIONS: The findings suggest that a risk model that is specific for patients who have undergone CABG and is based on postoperative findings may provide useful prognostic information for patients who are having a difficult postoperative course.

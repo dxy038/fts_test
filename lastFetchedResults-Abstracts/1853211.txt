@@ -1,0 +1,8 @@
+Objective
+ive and automatic screening for depression is a challenge facing the public health system. This paper describes a system for addressing the above challenge.
+als and method
+stem implementing the methodology – Pedesis – harvests the Web for metaphorical relations in which depression is embedded and extracts the relevant conceptual domains describing it. This information is used by human experts for the construction of a “depression lexicon”. The lexicon is used to automatically evaluate the level of depression in texts or whether the text is dealing with depression as a topic.
+s
+ on three corpora of questions addressed to a mental health site the system provides 9% improvement in prediction whether the question is dealing with depression. Tested on a corpus of Blogs, the system provides 84.2% correct classification rate (p &lt; .001) whether a post includes signs of depression. By comparing the system's prediction to the judgment of human experts we achieved an average 78% precision and 76% recall.
+sion
+sion can be automatically screened in texts and the mental health system may benefit from this screening ability.

@@ -1,0 +1,5 @@
+Optimisation is a design method to search the best value of the defined system's goal that can be expressed by an objective function to be minimised or maximised. A set of unknowns subject to constraints controls the values that the objective function can assume. A multi-variable approach enables one to address the optimisation of a thermodynamic system: the best working conditions of the system are different from those corresponding to component optimisation. Then we have to model the complete system to find an optimumty.
+
+ent objective functions are presented as optimisation criteria of the design data of a steam ejector cycle, keeping the same boundary conditions and convergence limits and using a numerical optimisation of the cycle published by the authors. The comparison between the results obtained with different objective functions is presented to show the influence of the function chosen on the system design.
+
+mparison also shows that the choice of the objective function decisively influences the robustness of the numerical code results and the convergence performances of the code.

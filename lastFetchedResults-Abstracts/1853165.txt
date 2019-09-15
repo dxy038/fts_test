@@ -1,0 +1,8 @@
+Objective
+ computer-based eye tracking technology to record and evaluate examination characteristics of the diagnosis of pigmented skin lesions.
+ology
+dy participants with varying levels of diagnostic expertise (little, intermediate, superior) were recorded while diagnosing a series of 28 digital images of pigmented skin lesions, obtained by non-invasive digital dermatoscopy, on a computer screen. Eye tracking hardware recorded the gaze track and fixations of the physicians while they examined the lesion images. Analysis of variance was used to test for differences in examination characteristics between physicians grouped according to expertise.
+s
+were no significant differences between physicians with little and intermediate levels of expertise in terms of average time until diagnosis (6.61 vs. 6.19 s), gaze track length (6.65 vs. 6.15 kilopixels), number of fixations (23.1 vs. 19.1), and time in fixations (4.91 vs. 4.17 s). The experts were significantly different with 3.17 s time until diagnosis, 4.53 kilopixels gaze track length, 9.9 fixations, and 1.74 s in fixations, respectively. Differentiation between benign and malignant lesions had no effect on examination measurements.
+sion
+sults show that experience level has a significant impact on the way in which lesion images are examined. This finding can be used to construct decision support systems that employ important diagnostic features identified by experts, and to optimize teaching for less experienced physicians.

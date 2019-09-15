@@ -1,0 +1,11 @@
+Objective
+Osteoclasts are of hematopoietic origin. The mechanism by which hematopoietic stem cells are specified to the osteoclast lineage is unclear. To understand the process of generation and differentiation of this lineage of cells, we performed in vitro studies on the differentiation of embryonic stem cells.
+Materials and Methods
+
+We examined the potential of mutant embryonic stem cell lines harboring targeted deletions of the GATA-1, FOG, SCL/tal-1, or GATA-2 genes to differentiate into osteoclasts and determined when these molecules function in osteoclast development.
+Results
+
+The lack of GATA-1 or FOG did not affect osteoclastogenesis. In contrast, SCL/tal-1-null embryonic stem cells generated no osteoclasts. In the case of the loss of GATA-2, a small number of osteoclasts were generated. GATA-2-null osteoclasts were morphologically normal and the terminal maturation was not disturbed, but a defect was observed in the generation of osteoclast progenitors. Experiments using specific inhibitors that block the signaling through macrophage colony-stimulating factor and osteoclast differentiation factor/osteoprotegerin ligand suggested that GATA-2 seems to act earlier in osteoclastogenesis than these cytokines. Interestingly, macrophage colony-forming units were not severely reduced by the loss of GATA-2 compared to osteoclast progenitors .
+Conclusion
+
+These results indicate that osteocalsts need SCL/tal-1 at an early point in development, and that GATA-2 is required for generation of osteoclast progenitors but not for the later stages when macrophage colony-stimulating factor and osteoclast differentiation factor/osteoprotegerin ligand are needed. We also demonstrated that osteoclast progenitors behave as a different population than macrophage colony-forming units.

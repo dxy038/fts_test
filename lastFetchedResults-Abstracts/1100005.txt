@@ -1,0 +1,7 @@
+The primary objective of the Laser Interferometer Space Antenna (LISA) is to detect and observe gravitational waves from massive black holes, galactive binary stars, and violent events in the Universe in a frequency range from 10−4 to 10−1 Hz which is totally inaccessible to ground based experiments. It uses highly stabilised laser light (Nd: YAG, λ = 1.064 μm) in a Michelson-type interferometer arrangement.
+
+A cluster of six spacecraft with two at each vertex of an equilateral triangle is placed in an Earth-like orbit at a distance of 1 AU from the Sun, and 20° behind the Earth. Three subsets of four adjacent spacecraft each form an interferometer comprising a central station, consisting of two relatively adjacent spacecraft (200 km apart), and two spacecraft placed at a distance of 5 × 106 km from the centre to form arms which make an angle of 60° with each other. Each spacecraft is equipped with a laser.
+
+A descoped LISA with only four spacecraft has undergone an ESA assessment study in the M3 cycle, and the full 6-spacecraft LISA mission has now been selected as a cornerstone mission in the ESA Horizons 2000 programme.
+
+The LISA Assessment Report is available as ESA document SCI(94)6, May 1994. Detailed information on the LISA cornerstone mission is contained in the LISA Pre-Phase A Report, available as MPQ Report MPQ 208 (1996) from the Max-Planck-Institut für Quantenoptik.

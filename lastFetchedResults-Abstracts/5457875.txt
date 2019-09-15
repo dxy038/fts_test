@@ -1,0 +1,1 @@
+This paper proposes an adaptive PID controller which is driven by current control performance. The objective of the proposed scheme is to carry out the retuning of PID parameters and system identification only when controller performance deteriorates below a user-specified limit. Numerical evaluations demonstrates the practically and utility of this idea.

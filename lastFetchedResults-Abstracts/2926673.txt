@@ -1,0 +1,1 @@
+Episodic associative memory (EAM) is introduced and simulated. It uses quick learning for bidirectional associative memory (QLBAM) and pseudo-noise (PN) sequences. The features of the proposed EAM are: it can memorize and recall episodic associations; it can store plural episodes; it has high memory capacity

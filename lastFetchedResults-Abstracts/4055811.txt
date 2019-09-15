@@ -1,0 +1,1 @@
+For an airline data-processing system, the key objective of load-factor improvement should be met through a flexible design that will allow for future expansion. Systems analysis and synthesis must include all cost factors, so that an optimum balance between customer needs and system efficiency may be achieved

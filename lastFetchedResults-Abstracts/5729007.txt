@@ -1,0 +1,1 @@
+The paper proposes an implementation of a two steps commutated matrix converter. Switching patterns are presented which guarantee safe control of bidirectional switches during a change of the sign of a line to line input voltage. A simple control of the output current is possible without adding any additional snubber circuit

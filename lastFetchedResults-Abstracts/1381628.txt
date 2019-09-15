@@ -1,0 +1,5 @@
+The objective of this work is to define a simple linear model of joints used in aeronautics and to update this model efficiently.
+
+rial designers usually resort to semi-empirical linear joint models to represent the behavior of the joints of a large aeronautical structure. Here, we propose to develop a one-dimensional linear joint model which is capable of representing the behavior of every joint of a large structure globally while enabling local nonlinear reanalysis of the most highly loaded joints. Work on nonlinear reanalysis is not considered in this paper.
+
+er to solve the numerical difficulties encountered in some of modeling situations, an updating strategy based on the constitutive relation error is proposed. Since the updating efficiency is significantly affected by the ratios of the stiffnesses of the different parts of the model, the strategy consists in rigidifying some parts of the model in order to control the updating accuracy and the rate of convergence. The numerical results of a standard model and a rigidified model illustrate the updating improvements allowed by the strategy.

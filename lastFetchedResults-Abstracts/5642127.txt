@@ -1,0 +1,1 @@
+An iterative bidirectional Viterbi algorithm for decoding tail biting codes is presented. It achieves virtually optimal decoding performance and converges very fast to the correct codeword

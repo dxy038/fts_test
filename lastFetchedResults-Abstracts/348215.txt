@@ -1,0 +1,11 @@
+Objective
+To verify findings of an independently regulated anterior limbic alpha band source.
+Methods
+In a randomised cross-over study, the spontaneous EEG was recorded in nine healthy subjects after i.v. lorazepam or placebo. Intracerebral current densities within classical frequency bands were estimated with low resolution electromagnetic tomography [LORETA] and compared between groups with t-statistical parametric mapping [SPM{t}]. A region-of-interest [ROI] based method was used to compare frontal and occipital alpha band activity changes.
+Results
+Irrespective of treatment group, local maxima of alpha band power were localised both in the occipital lobe, Brodman area [BA] 18, and in the anterior cingulate cortex [ACC], BA 32. Statistical parametric mapping showed reduced parieto-occipital, but unaltered frontal alpha band power after lorazepam. This result was confirmed by ROI-based comparison of BA 18 and BA 32.
+Conclusions
+There was an anterior limbic maximum of alpha band activity which, unlike occipital alpha, was not suppressed by lorazepam.
+Significance
+The well-known anterior alpha band components may originate from a narrowly circumscribed source, located in the ACC. Frontal and occipital alpha band activities appear to be independently regulated.
+

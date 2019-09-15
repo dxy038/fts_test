@@ -1,0 +1,11 @@
+Objective
+In this study, the effects of high stimulus rate on middle latency response (MLR) components Pa and Pb (P1 or P50) were studied using high rate clicks in normal hearing awake subjects were investigated.
+Methods
+Five jittered click sequences at different mean rates (24.4, 39.1, 58.6, 78.1, 97.7 Hz) were presented to 10 subjects. Overlapping MLRs were deconvolved using the frequency domain continuous loop averaging deconvolution (CLAD) [Özdamar Ö., Bohórquez, J., Signal to noise ratio and frequency analysis of continuous loop averaging deconvolution (CLAD) of overlapping evoked potentials. J. Acoust. Soc. Am., 119:429–438, 2006]. In addition conventional auditory transient MLRs at 4.88 Hz were obtained using conventional averaging.
+Results
+Pa amplitude, latency and waveshape remained fairly constant up to 78.1 Hz. Pb component, however, showed a variable waveshape with latencies covering a wide range (50–70 ms) and Nb–Pb amplitudes increasing at 39.1 and 58.6 Hz and decreasing at other rates.
+Conclusions
+Recordings show that both Pa and Pb MLR components can be consistently recorded at all rates up to 100 Hz. Pb amplitude shows an increase at around 40 Hz showing a resonance at that frequency.
+Significance
+The dramatic increase of the Pb component at around 40 Hz may account for the high amplitude of the 40 Hz ASSR.
+

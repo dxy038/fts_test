@@ -1,0 +1,7 @@
+This paper presents details of an open access web site that can be used by hydrologists and other scientists to evaluate time series models.
+There is at present a general lack of consistency in the way in which hydrological models are assessed that handicaps the comparison of reported
+studies and hinders the development of superior models. The HydroTest web site provides a wide range of objective metrics and consistent tests
+of model performance to assess forecasting skill. This resource is designed to promote future transparency and consistency between reported
+models and includes an open forum that is intended to encourage further discussion and debate on the topic of hydrological performance evaluation
+metrics. It is envisaged that the provision of such facilities will lead to the creation of superior forecasting metrics and the development of
+international benchmark time series datasets.

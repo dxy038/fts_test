@@ -1,0 +1,9 @@
+In this paper, a bi-objective mathematical model for emergency services location-allocation
+problem on a tree network considering maximum distance constraint is presented. The first
+objective function called centdian is a weighted mean of a minisum and a minimax criterion
+and the second one is a maximal covering criterion. For the solution of the bi-objective
+optimization problem, the problem is split in two sub problems: the selection of the best set of
+locations, and a demand assignment problem to evaluate each selection of locations. We
+propose a heuristic algorithm to characterize the efficient location point set on the network.
+Finally, some numerical examples are presented to illustrate the effectiveness of the proposed
+algorithm.

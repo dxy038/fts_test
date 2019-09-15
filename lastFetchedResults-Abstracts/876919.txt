@@ -1,0 +1,13 @@
+The objective of this paper is to study systematically the dynamical properties of a ratio-dependent
+predator–prey model with nonzero constant rate predator harvesting. It is shown that the model has at
+most two equilibria in the first quadrant and can exhibit numerous kinds of bifurcation phenomena, including
+the bifurcation of cusp type of codimension 2 (i.e., Bogdanov–Takens bifurcation), the subcritical and
+supercritical Hopf bifurcations. These results reveal far richer dynamics compared to the model with no
+harvesting and different dynamics compared to the model with nonzero constant rate prey harvesting in
+[D. Xiao, L. Jennings, Bifurcations of a ratio-dependent predator–prey system with constant rate harvesting,
+SIAM Appl. Math. 65 (2005) 737–753]. Biologically, it is shown that nonzero constant rate predator
+harvesting can prevent mutual extinction as a possible outcome of the predator prey interaction, and remove
+the singularity of the origin, which was regarded as “pathological behavior” for a ratio-dependent predator
+prey model in [P. Yodzis, Predator–prey theory and management of multispecies fisheries, Ecological
+Applications 4 (2004) 51–58].
+© 2005 Elsevier Inc. All rights reserved.

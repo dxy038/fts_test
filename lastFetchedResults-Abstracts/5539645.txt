@@ -1,0 +1,1 @@
+In this paper we will study one multi objective optimization problem, which is related to small-scale foundry. Rotary furnace is used in small-scale foundry to melt the metal. To increase the production of a foundry we have to increase melting rate of the rotary furnace. We will use NSGA-111 to maximize the melting rate of rotary furnace by minimizing the amount of fuel used.

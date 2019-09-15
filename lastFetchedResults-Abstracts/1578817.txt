@@ -1,0 +1,5 @@
+This study presents a method to assimilate leaf area index retrieved from ENVISAT ASAR and MERIS data into CERES-Wheat crop growth model with the objective to improve the accuracy of the wheat yield predictions at catchment scale. The assimilation method consists in re-initialising the model with optimal input parameters allowing a better temporal agreement between the LAI simulated by the model and the LAI estimated by remote sensing data. A variational assimilation algorithm has been applied to minimise the difference between simulated and remotely-sensed LAI and to determine the optimal set of input parameters. After the re-initialisation, the wheat yield maps have been obtained and their accuracy evaluated.
+
+thod has been applied over Matera site located in Southern Italy and validated by using the dataset of an experimental campaign carried out during the 2004 wheat growing season.
+
+s indicate that, LAI maps retrieved from MERIS and ASAR data can be effectively assimilated into CERES-Wheat model thus leading to accuracies of the yield maps ranging from 360 kg/ha to 420 kg/ha.

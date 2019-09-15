@@ -1,0 +1,1 @@
+Goal programming (GP) is one of powerful techniques for solving multi-objective optimization and has been applied to various real-life problems. This paper presents an evolution program for solving nonlinear goal programming problems.

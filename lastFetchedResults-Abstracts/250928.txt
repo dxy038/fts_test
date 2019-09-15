@@ -1,0 +1,8 @@
+A novel probabilistic method for the optimization of robust design problems is presented. The approach is
+based on an efficient variation of the Monte Carlo simulation method. By shifting most of the computational
+burden to outside of the optimization loop, optimum designs can be achieved efficiently and accurately.
+Furthermore by reweighting an initial set of samples the objective function and constraints become smooth
+functions of changes in the probability distribution of the parameters, rather than the stochastic functions
+obtained using a standard Monte Carlo method. The approach is demonstrated on a beam truss example,
+and the optimum designs are verified with regular Monte Carlo simulation. Copyright q 2006 John Wiley
+& Sons, Ltd.

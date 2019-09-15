@@ -1,0 +1,8 @@
+Objectives
+tudy extends a previous mathematical model of cancer cytotoxic chemotherapy, which considered cycling tumor cells and interactions with the immune system, by incorporating a different type of drug: a cytostatic agent. The effect of a cytostatic drug is to arrest cells in a phase of their cycle. In consequence, once tumor cells are arrested and synchronized they can be targeted with a cytotoxic agent, thus maximizing cell kill fraction and minimizing normal cell killing. The goal is to incorporate the new drug into the chemotherapy protocol and devise optimal delivery schedules.
+s
+oblem of designing efficient combined chemotherapies is formulated as an optimal control problem and tackled using a state-of-the-art evolutionary algorithm for real-valued encoding, namely the covariance matrix adaptation evolution strategy. Alternative solution representations and three formulations of the underlying objective function are proposed and compared.
+s
+timization problem was successfully solved by the proposed approach. The encoding that enforced non-overlapping (simultaneous) application of the two types of drugs produced competitive protocols with significant less amount of toxic drug, thus achieving better immune system health. When compared to treatment protocols that only consider a cytotoxic agent, the incorporation of a cytostatic drug dramatically improved the outcome and performance of the overall treatment, confirming in silico that the combination of a cytostatic with a cytotoxic agent improves the efficacy and efficiency of the chemotherapy.
+sion
+clude that the proposed approach can serve as a valuable decision support tool for the medical practitioner facing the complex problem of designing efficient combined chemotherapies.

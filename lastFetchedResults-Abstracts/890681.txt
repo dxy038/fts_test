@@ -1,0 +1,6 @@
+This study develops an imperfect, multi-product production system with rework. Our objective
+is to minimize the joint total cost of the system, subject to service level and budget constraints. Since
+the objective function in the problem is convex, the existence of global optimality is assured. A solution
+procedure is proposed and numerical examples are provided to demonstrate the applicability of the model
+in real-world manufacturing problems. Finally, sensitivity analyses are provided to provide managerial
+insights, as well as to investigate the interdependency of the parameters.

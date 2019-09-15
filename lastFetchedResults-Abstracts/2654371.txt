@@ -1,0 +1,27 @@
+ Background The sharing of syringes by people who inject drugs
+                            (PWID) is an important factor for the transmission of HIV. Needle and
+                            syringe programs (NSP) are widely used to reduce any harm associated
+                            with drug injection, however since the impact of these programs have not
+                            been systematically studied our objective is to model the impact of NSPs
+                            on HIV incidences for PWID in Kermanshah, Iran. Objectives The aim of
+                            this study was to determine the effectiveness of NSP coverage in
+                            prevention of HIV incidence among PWIDs. Patients and Methods We used
+                            Wilson et al.’s mathematical model to predict the occurrence of HIV
+                            amongst PWID with sufficient and insufficient client-level coverage of
+                            NSPs. We parameterized and calibrated the model using behavioral and
+                            epidemiological data collected in an empirical study of 470 active PWID
+                            and recruited them through two Drop-In Centers (DIC) in Kermanshah, Iran
+                            from April to September, 2014. Other parameters such as risk of HIV
+                            transmission through injection with a shared injection, and
+                            effectiveness of syringe cleaning were obtained from the literature. We
+                            applied Monte Carlo simulation (10,000 runs) to capture the uncertainty
+                            (simulation interval – SI) in the model’s output. Results Given the
+                            output of the model, we found that among the PWID with sufficient
+                            coverage of NSPs the HIV rate is 1.02%, while those with insufficient
+                            coverage is increased to 4.04% (risk different = 3%, SI 95% 2.7 - 3.4%).
+                            By reducing the percentage of sharing from 18% (in patients with
+                            insufficient NSPs coverage) to 10%, the HIV incidence will be Dropped to
+                            0.9% (SI 95%, 0.4 - 1.3%). Conclusions We found a large impact due to
+                            NSPs for reducing the occurance of HIV among active drug injectors who
+                            have been provided sufficient needles and syringes. The coverage of NSPs
+                            needs to be increased to observe such significant impact. 

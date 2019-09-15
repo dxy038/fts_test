@@ -1,0 +1,7 @@
+Usually some unforeseen events make airlines to reconstruct their schedules. A mathematical model for airlines schedule recovery which recovers aircrafts and disrupted passengers simultaneously is presented in this study. Aircraft recovery decisions affect on passengers but disrupted passengers and recovering them were not explicitly considered in the most previous aircraft recovery models so recovery of these two resources – aircrafts and passengers – concurrently is one of our contributions.
+
+deling is based on defining the recovery scope as well as employing aircraft rotations and passengers’ itineraries instead of flights. These are two of our other contributions.
+
+del examines possible flight re-timing, aircraft swapping, ferrying, utilization of reserve aircrafts, cancellation, and passenger reassignment to generate an efficient schedule recovery plan.
+
+parameters are user-specific therefore it helps airlines to apply their policies in the model. Defining the recovery scope reduces the problem size and ensures that the schedule returns to normal within a certain time. The objective is in the form of cost minimization which involves three kinds of cost—operational aircraft recovery, flight cancellation, and delay as well as disrupted passengers. A data set with two disruption scenarios is used to test the proposed model. The computational results show that it is capable of handling the simultaneous aircraft and passenger recovery problem successfully.

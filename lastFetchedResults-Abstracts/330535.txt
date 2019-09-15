@@ -1,0 +1,7 @@
+Objective:  This study investigates the effect of cure rate on the mechanical properties of a common dimethacrylate dental resin formulation (75/25 wt% bis-GMA/TEGDMA).
+
+Methods: The polymerization rate and final conversion of the exact specimens subsequently used for mechanical testing were monitored by near-infrared (near-IR) spectroscopy. The glass transition temperature (Tg) and modulus, as a function of temperature, were determined by dynamic mechanical analysis (DMA). Iniferter initiating systems were used to create partially cured networks that did not contain any trapped radicals. By the elimination of trapped radicals from the system, the formed networks can be characterized as a function of both temperature and double bond conversion without inducing additional thermal cure during testing.
+
+Results: Copolymer specimens were cured with UV and visible light initiating systems, UV light intensities that varied by over four orders of magnitude, and cure temperatures that differed by 60°C. Even though the polymerization rates for these resins were vastly different, similar Tg and modulus were measured for specimens cured to the same final double bond conversion.
+
+Significance: This study shows that highly cross-linked dimethacrylate systems, such as bis-GMA/TEGDMA, exhibit similar network structure and properties as a function of double bond conversion, regardless of the method or rate of cure.

@@ -1,0 +1,1 @@
+In this paper, a combined method of the simulated annealing technique with a direct search method, the complex strategy, is presented for the shape optimization in the non-linear magnetic problems. The reasonable range of operating parameters is given to ensure the convergence and make the minimum of the objective function independent from the initial trial points

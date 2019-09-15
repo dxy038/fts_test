@@ -1,0 +1,11 @@
+Objective
+To determine the involvement of Rac signaling in self-renewal and expansion on bone marrow stroma of normal CD34+ cells vs leukemic CD34+ cells from acute myeloid leukemia (AML) patients.
+Materials and Methods
+
+Rac signaling was modulated by retroviral introduction of Rac1-N17, Rac1-V12, or by using the Rac inhibitor NSC23766. In long-term MS5 cocultures (leukemic) expansion, migration, adhesion, and presence of stem/progenitor cells were monitored in both normal as well as leukemic CD34+ cells.
+Results
+
+Inhibition of Rac signaling impaired migration and adhesion of cord blood (CB) CD34+ cells on MS5 stroma. Long-term inhibition of Rac during a 5-week coculture period on stroma prevented association of hematopoietic progenitors with the bone marrow stromal cells and resulted in a dramatic decrease in the primitive stem cell frequency (long-term culture-initiating cell) in a dose-dependent manner. Many of these phenotypes were reversed in the presence of activated Rac1-V12, including improved migration toward, and association with, MS5 cells. CD34+ AML cells were characterized by elevated levels of Rac activity (five of seven patients) and enhanced migration and adhesion to MS5 bone marrow stroma as compared to CB CD34+ cells. A dramatic decrease was observed in the formation of leukemic cobblestone area–forming cells as well as strongly diminished clonal expansion in the presence of the Rac inhibitor NSC23766.
+Conclusion
+
+Our data indicate that Rac signal transduction is required for the maintenance and expansion of both normal as well as leukemic stem/progenitor cells by mediating their interaction with stromal cells.

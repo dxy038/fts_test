@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to assess whether racial differences in the risk of cesarean delivery result from differing practices of their caregivers or the hospitals at which they deliver.
+Study design
+A retrospective cohort study was performed using the Perinatal Database of the Memorial Health Care System. Logistic regression was used to estimate the risk of primary cesarean delivery among patients eligible for labor. The contribution of hospital and physician level cluster correlation was evaluated using fixed and random effects regression models.
+Results
+Compared with white patients, black and Hispanic patients were 75% and 22% more likely to undergo primary cesarean delivery. Further adjustment for hospital and physician level cluster correlation resulted in persistently increased risks of primary cesarean delivery in black (54%) and Hispanic patients (12%).
+Conclusion
+Hospital site of delivery and individual physician practices do not fully explain racial differences in the risk of primary cesarean delivery.
+

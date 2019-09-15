@@ -1,0 +1,1 @@
+In industry, the following problem is often faced: manager must depend on various factors such as production conditions, market price and profit to select the optimal production plan in many available production plan. This is actually a multiple objective decision-making problem. In this paper, we use fuzzy decision-making method to deal with this problem.

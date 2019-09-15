@@ -1,0 +1,11 @@
+Objective:
+To evaluate the diagnostic and prognostic role of the Immulite cTnI assay for the detection of acute coronary syndromes (ACS).
+Population:
+150 males and 63 females with a median age of 63 years, range 28 to 88, and an interquartile range of 18 years were admitted within 24 h of chest pain and non-ST segment elevation ACS were studied. The median onset of symptoms was 3 h (range 0–23).
+Methods:
+Venous samples were taken on admission (t = 0) and at 24 h (t = 24). The serum samples were assayed for CK, CK-MB and cTnT on an Elecsys 1010 (Roche Diagnostics, Lewes, UK). The cTnT assay CV was 5.5% at 0.32 μg/l and 5.4% at 6.0 μg/l, and the detection limit was 0.01 μg/l with an upper limit of 25 μg/l. For cTnI using the Immulite (DPC, Gwynedd, Wales), the detection limit was 0.1 μg/l, and the upper limit was 180 μg/l. Final diagnostic categorization was performed by both WHO and European Society of Cardiology criteria using cTnT as the diagnostic cardiac biomarker. Patients were followed for the major adverse cardiac events (MACE), endpoints cardiac death, AMI or need for urgent revascularization. ROC curves were constructed using final diagnosis. Outcome prediction was assessed by ROC curves and Kaplan–Meier survival curves.
+Results:
+Both methods had equivalent diagnostic efficiency using WHO criteria for AMI. When ESC criteria were used the AUC for admission and 24 h cTnT and cTnI values were 0.945 vs. 0.910, P = 0.20 and 0.998 vs. 0.937, P = 0.005, respectively. Both methods predicted outcome as either death or MI or MACE and were not significantly different.
+Conclusion:
+The Immulite cTnI assay can be used for diagnosis and risk stratification in patients admitted with non-ST segment elevation acute coronary syndromes.
+

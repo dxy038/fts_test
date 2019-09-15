@@ -1,0 +1,9 @@
+Background
+The heterogeneity of clinical findings in studies evaluating the efficacy of naltrexone in the treatment of alcohol dependence has led to growing efforts to explore novel approaches to data analysis. The objective of this study was to identify distinct trajectories of daily drinking over time in two negative clinical trials and to determine whether naltrexone affected the probability to follow a particular trajectory.
+Methods
+The Veterans Affairs (VA) Cooperative Study #425 and the Women’s Naltrexone Study failed to demonstrate efficacy on primary outcome variables. Separately for each study, we analyzed daily indicators of any drinking and heavy drinking using a semiparametric group-based approach.
+Results
+We estimated three distinct trajectories of daily drinking (both any and heavy drinking) which we described as “abstainer,” “sporadic drinker,” and “consistent drinker.” Naltrexone doubled the odds of following the abstainer trajectory instead of the consistent drinker trajectory but did not significantly change the odds of following the abstainer trajectory as contrasted with the sporadic drinker trajectory.
+Conclusions
+Naltrexone may have a clinically meaningful effect for alcohol-dependent patients with a high chance of consistent drinking, even in studies where it failed to show efficacy in planned analyses.
+

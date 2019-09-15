@@ -1,0 +1,14 @@
+Objectives
+The study objective was to develop and validate a simple risk score to predict postoperative permanent pacing (PPM) after valve surgery.
+Background
+
+Our ability to identify patients preoperatively that will require PPM is poor. A simple preoperative risk score to predict PPM after valve surgery could assist both clinical practice and research.
+Methods
+
+All valve surgery patients at our institution from 1992 to 2002 were included (n = 4,694). Two-thirds of the patients were randomly selected to form a risk score prediction group (PG), and the score was then applied to the remaining patients (validation group [VG]).
+Results
+
+Preoperative right bundle branch block (odds ratio [OR], 3.6; 95% confidence interval [CI], 2.3 to 5.7) and multivalve surgery that included the tricuspid valve (OR, 3.7; 95% CI, 2.3 to 6.1) were the strongest independent predictors of PPM, while multivalve surgery that did not include the tricuspid valve (OR, 2.1; 95% CI, 1.3 to 3.3), preoperative left bundle branch block (OR, 2.0; 95% CI, 1.3 to 2.9), preoperative PR interval >200 ms (OR, 1.9; 95% CI, 1.3 to 3.0), prior valve surgery (OR, 1.8, 95% CI, 1.2 to 2.7), and age >70 years (OR, 1.4; 95% CI, 1.04 to 2.0) also predicted PPM. A risk score from 0 to 6 identified patients in the VG with incidences of PPM of 1.9%, 5.2%, 8.7%, 11.5%, 21%, 36%, and 50%, respectively.
+Conclusions
+
+A simple risk score incorporating preoperative conduction, age, prior valve surgery, and surgery type predicts PPM after valve surgery. This score may be useful in the perioperative management of valve surgery patients.

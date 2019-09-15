@@ -1,0 +1,11 @@
+Objective. To compare the effects of axial loading, and anatomically based multi-plane loading of the extensor mechanism on the patellofemoral joint.
+
+Design. Repeated measures design using an in-vitro cadaver model.
+
+Background. Since the extensor mechanism is the primary contributor to the patellofemoral joint reaction force and can affect patellar kinematics, it is essential that the forces produced by this musculature be accurately represented in a simulation model.
+
+Methods. Patellar kinematics (magnetic tracking device), contact pressures and areas (pressure sensitive film) were measured from 6 cadaver knees under two different loading conditions: 1) axial (rectus femoris loaded in the frontal plane), and 2) multiplane (individual components of the quadriceps loaded along their respective fiber directions in both the frontal and sagittal planes). Specimens were mounted in a custom knee jig, with muscle forces being simulated using a pulley system and weights. Data were collected at 0 °, 15 °, 30 °, 45 °, 60 °, 75 ° and 90 ° of knee flexion.
+
+Results. Compared to the axial loading condition, multi-plane loading of the vasti resulted in significantly greater contact pressure at 0 ° and significantly less contact pressure at 90 ° of knee flexion. Furthermore, the multi-plane loading condition resulted in greater lateral patellar rotation from 0–75 ° of knee flexion, and greater lateral glide at 30 ° of knee flexion. Greater patellar flexion was observed with the axial loading condition.
+
+Conclusions. These findings indicate that axial loading of the extensor mechanism underestimates contact pressure at 0 ° and overestimates contact pressure at 90 ° of knee flexion when compared to multi-plane loading. Additionally, loading of the individual vasti appears to have an effect on patellar kinematics.

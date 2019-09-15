@@ -1,0 +1,9 @@
+Purpose
+A simple method is needed to risk stratify normotensive patients with pulmonary embolism. We studied whether bedside clinical data can predict in-hospital complications from pulmonary embolism.
+Methods
+We performed a multicenter derivation phase, followed by validation in a single center. All patients were normotensive; the diagnosis of pulmonary embolism was established by objective imaging. Classification and regression analysis was performed to derive a decision tree from 27 parameters recorded from 207 patients. The validation study was conducted on a separate group of 96 patients to determine the derived criterion's diagnostic accuracy for in-hospital complications (cardiogenic shock, respiratory failure, or death).
+Results
+Mortality in the derivation phase was 4% (n = 8) at 24 hours and 10% (n = 21) at 30 days. A room-air pulse oximetry reading <95% was the most important predictor of death; mortality was 2% (95% confidence interval [CI]: 0% to 6%) in patients with pulse oximetry ≥95% versus 20% (95% CI: 12% to 29%) with pulse oximetry <95%. In the validation phase, the room-air pulse oximetry was <95% at the time of diagnosis in 9 of 10 patients who developed an in-hospital complication (sensitivity, 90%) and ≥95% in 55 of 86 patients without complications (specificity, 64%).
+Conclusion
+Mortality from pulmonary embolism in normotensive patients is high. A room-air pulse oximetry reading ≥95% at diagnosis is associated with a significantly lower probability of in-hospital complications from pulmonary embolism.
+

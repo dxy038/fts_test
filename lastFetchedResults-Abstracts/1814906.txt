@@ -1,0 +1,10 @@
+ A methodology is presented in this paper to find optimal location and dosage of chlorine
+injection in water distribution networks. The objective is to minimize the chlorine consumption while keeping
+the residual chlorine at each node within the standard range. Unfortunately because of wrong water quality
+management in water distribution networks in many parts of the world, many problems such as bacterial
+growth or formation of by-products occur in these systems. In this paper with integrating two models,
+hydraulic model of EPANET2 with ability of quality simulation and optimization model of Genetic Algorithm
+(GA), the best locations for chlorine injection and its optimum dosage in the water networks are obtained. To
+evaluate the presented method, two test examples are studied. The results of this study show the reduction in
+total consumed chlorine in the system obtained by chlorine injection in optimal locations with optimum
+dosage, in comparison with other researches.

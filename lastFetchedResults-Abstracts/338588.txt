@@ -1,0 +1,9 @@
+Objective
+Somatostatin (SST) is a regulatory peptide with a wide variety of activities in different tissues. SST activates Gαi-protein-coupled receptors of a family comprising five members (SSTR1–5). Despite the broad use of SST and its analogs in clinical practice, the spectrum of activities of SST is incompletely defined. Here, we examined the role of SST and its receptors in hematopoiesis.
+Materials and Methods
+SSTR expression on human and mouse hematopoietic cells was analyzed by flow cytometry and reverse transcriptase polymerase chain reaction. The effects of SST on cell migration were measured in transwell assays. Using selective inhibitors, signaling mechanisms involved in SSTR2-mediated migration were studied in 32D cell transfectants expressing SSTR2.
+Results
+Human hematopoietic cells exclusively expressed SSTR2, whereas mouse bone marrow cells expressed SSTR2 and SSTR4. SSTR levels were high on primitive (CD34+, Lin−) but low or absent on more mature (CD34−, Lin+) cell types. Both SST and its analog octreotide acted as chemoattractants for primitive hematopoietic cells. Despite the presence of SSTR4, bone marrow cells from SSTR2-deficient mice failed to migrate toward SST gradients, suggesting that SSTR2 and SSTR4 are functionally different in this respect. SST activated phosphatidylinositol 3-kinase and the MAP kinases Erk1/2 and p38 in 32D[SSTR2] cells. While chemical inhibitors of these kinases had some effect, SST-induced migration was most strongly affected by blocking Gαi activity or by elevating intracellular cAMP levels.
+Conclusion
+Somatostatin acts as a selective chemoattractant for immature hematopoietic cells via activation of multiple intracellular pathways.
+

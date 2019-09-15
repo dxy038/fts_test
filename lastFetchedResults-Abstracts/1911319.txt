@@ -1,0 +1,8 @@
+Objective
+RNA (miRNA) is a class of small noncoding RNA that plays a major role in the regulation of gene expression, which has been related to cancer behavior. The possibility of analyzing miRNA from the archives of pathology laboratories is exciting, as it allows for large retrospective studies. Formalin is the most common fixative used in the surgical pathology routine, and its promotion of nucleic acid degradation is well known. Our aim is to compare miRNA profiles from formalin-fixed paraffin embedded (FFPE) tissues with fresh-frozen prostate cancer tissues.
+s
+pression of 14 miRNAs was determined by quantitative real time polymerase chain reaction (qRT-PCR) in 5 paired fresh-frozen and FFPE tissues, which were representative of prostate carcinoma.
+s
+was a very good correlation of the miRNA expression of miR-let7c and miR-32 between the fresh-frozen and FFPE tissues, with Pearson's correlation coefficients of 0.927 (P = 0.023) and 0.960 (P = 0.010), respectively. For the remaining miRNAs, the correlation was good with Spearman correlation coefficient of 0.638 (P &lt; 0.001).
+sion
+is of miRNAs from routinely processed and stored FFPE prostate tissue is feasible for some miRNAs using qRT-PCR. Further studies should be conducted to confirm the reliability of using stock tissues for miRNA expression determination.

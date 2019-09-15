@@ -1,0 +1,11 @@
+Objective.  Examine the role of surgical orientation of the acetabular cup on posterior dislocation propensity for small-head-size total hip arthroplasty.
+
+Design. A finite element model of a widely used total hip arthroplasty system was examined for peak resisting moment and range-of-motion prior to impingement, as well as prior to onset of posterior dislocation. Acetabular component surgical orientation was varied.
+
+Background. Dislocation is a leading cause of total hip replacement failure, with an incidence between 2% and 11%. Clinical registries imply acetabular component orientation to be a leading predictor of dislocation. The finite element method permits this complex kinetic behavior to be addressed systematically.
+
+Methods. Twenty-five combinations of cup abduction (five angles) and anteversion (five angles) were studied, with the resultant resisting moment about the cup center being tracked in each case. Key events were benchmarked, and a novel dislocation resistance index was developed for multi-factor comparison.
+
+Results. Increasing tilt and/or anteversion resulted in a monotonically increasing range-of-motion prior to impingement, as well as increased peak resisting moment. Range of motion was more sensitive to tilt, while peak resisting moment was more sensitive to anteversion. Peak resisting moment for 22-mm head size was nearly 25% less than that for a 26-mm head.
+
+Conclusions. Increased cup tilt and anteversion discourage posterior dislocations of small-head-size components.

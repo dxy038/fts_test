@@ -1,0 +1,1 @@
+Quantized-Feedback Equalization at the digital decision of the OLT-RX allows recovering the low frequency components after filtering out the associated corrupting Rayleigh back-scattering noise added in the bidirectional WDM-PON transmission, obtaining a substantial tolerance increase.

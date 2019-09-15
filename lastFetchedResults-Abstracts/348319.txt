@@ -1,0 +1,11 @@
+Objective
+Describe and evaluate a neural network method for automatic and incremental learning applied to patient-dependent seizure detection. Compare the classification ability of various time–frequency methods including FFT spectrogram, spectral edge frequency and bicoherence.
+Methods
+57 seizures from 10 epilepsy patients are used. A probabilistic neural network (PNN) is trained and incrementally updated in a novel fashion. The speed and accuracy of the method is evaluated with different training parameters and time–frequency methods.
+Results
+Training the PNN on a single seizure from each record offers better performance (sensitivity=0.89 and false-positive-rate=0.56/h) than 3 patient-independent seizure detection algorithms. The method is virtually unaffected by the settings of various training parameters. Training is very fast (0.9 s), and the accuracy improves as more examples are added incrementally (without retraining). The overall best time–frequency method was the FFT spectrogram. The bicoherence plus the FFT spectrogram was the best method on 4 records, improving the correlation from 0.111 to 0.940 on one and from 0.288 to 0.612 on another.
+Conclusions
+The proposed method offers accurate, robust and virtually instantaneous training and incremental learning when applied to patient-dependent seizure detection.
+Significance
+Accurate seizure detection can improve patient care in both the epilepsy monitoring unit and the intensive care unit. Future applications include patient-independent algorithms that continue to learn as new examples are encountered.
+

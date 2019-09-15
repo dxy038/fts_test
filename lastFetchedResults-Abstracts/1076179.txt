@@ -1,0 +1,13 @@
+In recent years, Wavelet Packet Modulation OFDM (WPM-OFDM) signals have been
+introduced for radar applications. Using these signals results in significant properties
+such as desired inherent high range resolution and high resistance from radar system
+against jamming reception (Electronic Warfare) in radar systems. This paper investigates
+into the problem of designing these signals based on the following criteria; constrained
+maximization of the detection performance in the presence of colored Gaussian noise and
+clutter with the known covariance matrix and constrained minimization of the least
+squared error between desired and designed ambiguity functions. In other words, this
+issue can be formulated in terms of a non-convex multi-objective optimizing problem. In
+order to solve it, at first, the weighted sum method is used to change the original biobjective
+problem into a single objective or scalar one. Then, to find the optimal solution,
+the particle swarm optimization algorithm, which is simple and computationally efficient,
+will be employed.

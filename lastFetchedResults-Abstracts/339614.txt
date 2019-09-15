@@ -1,0 +1,11 @@
+Objective
+There is growing interest in the use of cytokine-induced killer (CIK) cells in cancer therapy. In this study, we sought to maximize the antileukemic activity of anti-CD19 receptor–modified CIK cells against B-lineage acute lymphoblastic leukemia (ALL).
+Materials and Methods
+
+CIK cells were transduced with retroviral vectors carrying different types of anti-CD19 chimeric receptors: anti-CD19-ζ, anti-CD19-DAP10, anti-CD19-4-1BB-ζ, and anti-CD19-CD28-ζ. A truncated form of the receptor was used as a control. Transduced CIK cells were then analyzed for their cytotoxic activity against ALL cells and for their capability to proliferate and to release cytokines after ALL encounter.
+Results
+
+CIK cells were efficiently transduced with all the anti-CD19 retroviral vectors. Anti-CD19 receptor expression conferred powerful killing activity against ALL cells. However, there were clear advantages when receptors containing the co-stimulatory molecules 4-1BB or CD28 were transduced. Such cells had significantly more potent cytotoxicity than cells expressing the anti-CD19-ζ or anti-CD19-DAP10. Moreover, the presence of 4-1BB or CD28 in the receptor increased the production of interleukin (IL)-2, tumor necrosis factor (TNF)-α, TNF-β, IL-5, IL-6, and IL-8 elicited by coculture with ALL cells. Notably, anti-CD19-4-1BB-ζ CIK cells secreted particularly low levels of interleukin-10 and proliferated strongly after contact with ALL cells.
+Conclusions
+
+Anti-CD19 chimeric receptors delivering primary and costimulatory signals render CIK cells powerfully cytotoxic against ALL cells and induce secretion of immunostimulatory cytokines and proliferation. These results support the testing of genetically modified CIK cells in clinical trials.

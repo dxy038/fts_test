@@ -1,0 +1,11 @@
+Background: During radiotherapy treatment, critical organs are shielded using lead and cerrobend blocks. The objective of this study is to compare the effects of lead and cerrobend shielding blocks on incident photon beam.
+
+Methods: Collimator scatter factors were measured for open square fields
+(3 x 3 cm to 40 x 40 cm) defined by collimator jaws and for fields blocked down to smaller asymmetric fields by using five different Lead and Cerrobend blocks for 6 and 15 MV photon beams from a Varian Clinac 2100C accelerator. The measurements in air were performed using Farmer type ionization chamber fitted with acrylic build up caps.
+
+Results: The Block Tray Factor (BTF) increased with field size for both 6 and 15 MV photon beams. In case of Lead blocks, the extreme variations in BTF for 6 MV photon beam are 0.70 %, 0.84 %, 0.56%, 0.80 % and 1.15 %. Similarly, for 15 MV the maximum variations for Lead blocks are 0.46 %, 0.60 %, 0.83 %, 0.88 % and 1.10 % respectively. No significant difference has been observed in the BTF of Cerrobend blocks for 6 and 15 MV photon beams.
+
+Discussion: The dose received by a point in air apparently shielded by lead blocks has three main contributions: 1. Due to primary photon beam transmitted through the block, 2. Due to scattered photons, 3. Due to contamination electrons. These three factors collectively cause the increase in BTF with increasing field size, energy, and decreasing block size.
+
+Conclusions: The effect of shielding on the beam output increases with field size, beam energy and shield size. This increase follows almost the same pattern for both lead and cerrobend shielding blocks. Therefore shield factors for all field sizes, beam energies and shield sizes should be determined separately for precise patient dose delivery
+

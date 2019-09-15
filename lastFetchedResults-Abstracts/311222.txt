@@ -1,0 +1,11 @@
+Objective.  To describe the wrist kinematics during movement through free range of motion and activities of daily living using a cyclical task.
+
+Design. The wrist angles were initially calculated in a calibration trial and then in two selected activities of daily living (jar opening and carton pouring).
+
+Background. Existing studies which describe the wrist movement do not address the specific application of daily activities. Moreover, the data presented from subject to subject may differ simply because of the non-cyclical nature of the upper limbs movements.
+
+Methods. The coordinates of external markers attached to bone references on the forearm and dorsal side of the hand were obtained using an optical motion capture system. The wrist angles were derived from free motion trials and successively calculated in four healthy subjects for two specific cyclical daily activities (opening a jar and pouring from a carton).
+
+Results. The free motions trial highlighted the interaction between the wrist angles. Both the jar opening and the carton pouring activity showed a repetitive pattern for the three angles within the cycle length. In the jar-opening task, the standard deviation for the whole population was 10.8° for flexion–extension, 5.3° for radial-ulnar deviation and 10.4° for pronation–supination. In the carton-pouring task, the standard deviation for the whole population was 16.0° for flexion–extension, 3.4° for radial-ulnar deviation and 10.7° for pronation–supination.
+
+Conclusion. Wrist kinematics in healthy subjects can be successfully described by the rotations about the axes of marker-defined coordinates systems during free range of motion and daily activities using cyclical tasks.

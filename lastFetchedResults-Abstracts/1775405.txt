@@ -1,0 +1,3 @@
+The objective of this paper is path planning of a 3 DOF planer robot with hydraulic actuator using genetic algorithm. First the geometric and kinematic parameters of robot were established. The equations of motion are derived by Lagrange method. We proposed the model for proportional valve and hydraulic actuators. Then using the genetic algorithm we minimized the hydraulic energy consumption as a fitness function during the mechanism motion between two specified points. 
+
+

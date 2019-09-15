@@ -1,0 +1,11 @@
+Till now different signal processing models have been modified based on formant tracking in human auditory.
+Most of them have focused on how the auditory nerve discharge rate pattern changes near formant frequencies of vowel sounds. The great limitation of these models reveals in high sound pressure levels and in the presence of noise. Newer hypothesis explained how discharge rate of auditory nerve is amplitude modulated with the frequency in about voice fundamental frequency (pitch), this modulation occurs near formant frequencies, and how the midbrain neurons are sensitive to these modulations. The midbrain neuron has best modulation frequency near pitch will have minimum activity if its best
+frequency is near the formants. So in the midbrain the amplitude modulation of auditory nerve discharge rate is
+demodulated and the minima occur in their response can determine formant frequencies. This model is more robust in
+presence of noise and high sound pressure levels. The model has been implemented before and its results were evaluated for
+database of vowels. The early model because of its poor pitch finding algorithm in the first stage and poor smoothing
+processing to find correct minima in the last stage had underestimation errors for second formant of about 8 harmonics
+and overestimation error for first formant of about 3 harmonics. In this study a MATLAB implementation of the system with
+some modifications was developed and objective evaluation experiments were carried out on English vowels to test the
+system. These modifications on pitch tracking, modulation filtering and estimation calculation substages led to more
+accurate formant tracking system with error less than two harmonics for first and second formants.

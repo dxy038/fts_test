@@ -1,0 +1,9 @@
+Study objective: To describe the development of an injury-surveillance system based on the emergency department log.
+
+Setting: An ED with 40,000 visits annually, tertiary care center.
+
+Participants: All patients to our ED during a 6-month period. ED logs are used to collect basic information such as demographics,chief complaint, mode of arrival, and disposition. Our log was modified for collection of injury-related information such as whether the ED visit was because of an injury and, if so, the mechanism of injury. A list of 16 mechanism-of-injury codes was developed on the basis of review of existing literature and on a 1-month review of injuries in our population. The ED log data were entered into a database, and descriptive analysis was performed.
+
+Results: A list of mechanisms of injury was developed that, when implemented, was successful in coding 93% of injured patients in our ED population. The expansion of the ED log for collection of injury data required minimal training and cost. An example of the data obtained is presented to demonstrate the type of information available. Of the 18,742 patients, the ED log identified 5,067 patients (27%) as having been injured. Most were male (2,972 of 5,067 [59%]), and most were between 15 and 40 years of age (2,857 of 5,067 [61%]). Common mechanisms of injury included falls (907 of 5,067 [19%]), transportation (706 of 5,067 [15%]), cuts or punctures (332 of 5,067 [7%]), sports (323 of 5,067 [7%]), and assaults (245 of 5,067 [5%]).
+
+Conclusion: With minimal training and cost, the ED log can be adapted for collection of injury data on all patients seen in the ED.

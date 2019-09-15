@@ -1,0 +1,8 @@
+SummaryObjective
+in objective of this paper is to present a novel learning algorithm for the classification of mass abnormalities in digitized mammograms.
+s and material
+oposed approach consists of new network architecture and a new learning algorithm. The original idea is based on the introduction of an additional neuron in the hidden layer for each output class. The additional neurons for benign and malignant classes help in improving memorization ability without destroying the generalization ability of the network. The training is conducted by combining minimal distance-based similarity/random weights and direct calculation of output weights.
+s
+oposed approach can memorize training patterns with 100% retrieval accuracy as well as achieve high generalization accuracy for patterns which it has never seen before. The grey-level and breast imaging reporting and data system-based features from digitized mammograms are extracted and used to train the network with the proposed architecture and learning algorithm. The best results achieved by using the proposed approach are 100% on training set and 94% on test set.
+sion
+oposed approach produced very promising results. It has outperformed existing classification approaches in terms of classification accuracy, generalization and memorization abilities, number of iterations, and guaranteed training on a benchmark database.

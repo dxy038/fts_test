@@ -1,0 +1,14 @@
+Two tuberculosis (TB) models with incomplete treatment are investigated. It is assumed
+that the treated individuals may enter either the latent compartment due to the remainder
+of Mycobacterium tuberculosis or the infectious compartment due to the treatment failure.
+The first model is a simple one with treatment failure reflecting the current TB treatment
+fact in most countries with high tuberculosis incidence. The second model refines the simple
+one by dividing the latent compartment into slow and fast two kinds of progresses. This
+improvement can be used to describe the case that the latent TB individuals have been
+infected with some other chronic diseases (such as HIV and diabetes) which may weaken
+the immunity of infected individuals and shorten the latent period of TB. Both of the two
+models assume mass action incidence and exponential distributions of transfers between
+different compartments. The basic reproduction numbers of the two models are derived
+and their intuitive epidemiological interpretations are given. The global dynamics of two
+models are all proved by using Liapunov functions. At last, some strategies to control the
+spread of tuberculosis are discussed.

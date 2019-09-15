@@ -1,0 +1,11 @@
+This paper presents an analytical model based on mean value analysis (MVA) technique for a
+probabilistic re-entrant line. The objective is to develop a solution method to determine the total
+cycle time of a Reflow Screening (RS) operation in a semiconductor assembly plant. The
+uniqueness of this operation is that it has to be borrowed from another department in order to
+perform the production screening task. Since the operation is being shared, there is a time limit
+to utilize it in a day. Screening of lots that cannot be completed within the given time has to be
+continued in the following days. The contributions of this paper is the development of a lot
+clustering method and factoring the limited time sharing condition and thus develop an
+analytical model. Comparison results were made using available real historical data. The
+proposed model provided operation managers with the total cycle time computation method and
+determining the appropriate cluster size to be loaded into the operation.

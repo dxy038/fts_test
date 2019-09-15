@@ -1,0 +1,9 @@
+Context: Assault injuries and deaths are a major public health problem in New York City but they are poorly understood because there is a dearth of information concerning them.
+Objective: Develop and implement a low-cost, efficient, permanent weapon-related injury surveillance system (WRISS) for the city.
+Design: WRISS was established, using a hierarchical exclusionary model, to capture all weapon-related (gunshot, stab, blunt instrument trauma) mortality and morbidity.
+Setting: The five boroughs of New York City: The Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
+Participants: NYC Vital Statistics Office, New York State hospital discharge database, Statewide Planning and Research Cooperative Systems (SPARCS), hospital emergency departments, and the police department.
+Main Outcome Measures: Surveillance system simplicity, acceptability, flexibility, cost.
+Results: NYC WRISS is a simple surveillance system depending on both existing data sources and active data collection, and is therefore acceptable to providers. It is flexible and has allowed assault injuries without weapons to be added to better reflect domestic assaults. The cost is low, less than $60,000 per year.
+Conclusions: NYC WRISS is an efficient, cost-effective surveillance system, particularly suited to big cities with many assault injuries. Its low cost and obvious importance as a public health tool have allowed for its institutionalization, reflected by a permanent health department position, and annual reports alongside the more traditional public health surveillance systems. Analyses of data from 1990 to 1996 have lent new understanding to the decrease in homicides and assaults in New York City during that period.
+

@@ -1,0 +1,4 @@
+Background and objective: Classification and evaluation of human skin color is necessary in both clinical and diagnostic applications, especially in determination of human skin type.
+Methods: In this paper, we present a new method for determination of quantitative characteristics of human skin pigmentations, Melanin and Hemoglobin, using spectrophotometric spectra. In the next stage, we classified these features based on their related skin color using three common classifiers: K- nearest neighborhood, Neural Network, and SVM.
+Conclusion: Classification results show that this method is able to classify skin color accurately and also can be used for classification of skin lesions based on their colors.
+

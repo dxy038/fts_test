@@ -1,0 +1,11 @@
+Objective. To develop an accurate method for quantifying the frequency content of the ground reaction force transient.
+
+Design. Repeated measures design comparing the impact severity during walking with different insole materials.
+
+Background. The body experiences a brief but sizeable impact upon heel strike during walking. This impact transient is believed to result in musculoskeletal injuries. It is important to accurately quantify this impact as a step towards decreasing the risk of injury.
+
+Methods. Seven subjects walked barefoot at their normal cadence across a force platform, while insole materials (Spenco, Microcel-puff, and Plastazote) were placed on the surface of the force platform. A filterbank program was developed to determine the percent root mean square in 10 Hz frequency bands from zero to 400 Hz. Analysis focused on the impact transient contained in a 20 ms window after heel contact.
+
+Results. The high frequency (>60 Hz) power was significantly larger in the barefoot condition compared to the insole conditions. The barefoot condition also resulted in significantly higher initial peak forces and force loading rates.
+
+Conclusions. The frequency content of the ground reaction force can be effectively quantified using a filterbank approach. Shoe insole materials can reduce the initial peak force, force loading rate, and frequency content of the impact transient in walking. The frequency content of the initial ground reaction force extends up to 400 Hz in some footwear conditions.

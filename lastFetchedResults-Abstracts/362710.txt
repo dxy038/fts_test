@@ -1,0 +1,9 @@
+Study objective
+Data used by syndromic surveillance systems must be grouped into syndromes or prodromes. Previous studies have examined the accuracy of different methods of syndromic grouping. We seek to study the effects of different syndrome grouping methods on model accuracy, a key factor in the outbreak-detection performance of syndromic surveillance systems.
+Methods
+Daily emergency department visit rates were analyzed from 2 urban academic tertiary care hospitals for 1,680 consecutive days. During this period, each hospital census totaled approximately 230,000 patient visits. Three methods were used to group the visits into a respiratory-related syndrome category: 1 relying on chief complaint, 1 on diagnostic codes, and 1 on a combination of the two. The different groupings of the syndromic data resulting from these methods were used to build different historical models that were then tested for forecasting accuracy and for sensitivity to detecting simulated outbreaks.
+Results
+For both hospitals, the data grouped according to chief complaints alone yielded the lowest model accuracy and the lowest detection sensitivity. Using diagnostic codes to group the data yielded better results in accuracy and sensitivity. Combining the 2 grouping methods yielded the best results in accuracy and sensitivity. Temporal smoothing of the data was shown to improve sensitivity in all cases, although to various degrees in the different models.
+Conclusion
+The methods used to group input data into syndromic categories can have substantial effects on the overall performance of syndromic surveillance systems. The results suggest that incorporating diagnostic data into these systems can improve the modeling accuracy and its detection sensitivity. Furthermore, the best results may be achieved by using a combination of methods to group visits into syndromic categories.
+

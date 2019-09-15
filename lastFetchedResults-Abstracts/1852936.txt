@@ -1,0 +1,8 @@
+Objective
+sful use of classifiers that learn to make decisions from a set of patient examples require robust methods for performance estimation. Recently many promising approaches for determination of an upper bound for the error rate of a single classifier have been reported but the Bayesian credibility interval (CI) obtained from a conventional holdout test still delivers one of the tightest bounds. The conventional Bayesian CI becomes unacceptably large in real world applications where the test set sizes are less than a few hundred. The source of this problem is that fact that the CI is determined exclusively by the result on the test examples. In other words, there is no information at all provided by the uniform prior density distribution employed which reflects complete lack of prior knowledge about the unknown error rate. Therefore, the aim of the study reported here was to study a maximum entropy (ME) based approach to improved prior knowledge and Bayesian CIs, demonstrating its relevance for biomedical research and clinical practice.
+ and material
+demonstrated how a refined non-uniform prior density distribution can be obtained by means of the ME principle using empirical results from a few designs and tests using non-overlapping sets of examples.
+s
+mental results show that ME based priors improve the CIs when employed to four quite different simulated and two real world data sets.
+sions
+irically derived ME prior seems promising for improving the Bayesian CI for the unknown error rate of a designed classifier.

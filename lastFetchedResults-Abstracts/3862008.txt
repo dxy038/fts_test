@@ -1,0 +1,1 @@
+We show a bidirectional optical access network with dynamic channel allocation capability of decimeter-wave band optical radio-over-fiber (RoF) and baseband signals. The network can be configured enabling peer-to-peer connectivity, and is based on a simple access point (AP) unit. The proposed RoF architecture is highly scalable, both in terms of channels and APs.

@@ -1,0 +1,11 @@
+Objective
+It is unknown whether waist circumference can predict a lipid profile beyond that predicted by body fatness alone, after adjustment for important confounding variables such as smoking, alcohol intake, and physical activity. The purpose of this non-clinical, healthy-subject study was to test this hypothesis.
+Methods
+
+Data refer to 416 men, ages 20 to 58 y with a body mass index between 18.5 and 29.9 kg/m2, who were blood donors living in a Brazilian city. Alcohol consumption, smoking, and physical activity were evaluated by interview; body fat was measured by electrical bioimpedance, and weight, height, and waist and hip circumferences were measured by trained anthropometrists. Multiple linear regression analysis was performed to quantify the association between measurements of fat distribution (waist circumference and waist-to-hip ratio) and the ratio of total cholesterol to high-density lipoprotein cholesterol and triacylglycerols independently of measurements of fatness and potentially confounding factors.
+Results
+
+Waist circumference was strongly correlated with percentage of body fat (r = 0.90), whereas waist-to-hip ratio was less correlated (r = 0.55). After adjustment for age, percentage of body fat, smoking, alcohol intake, and physical activity, waist circumference was not significantly related to the ratio of total cholesterol high-density lipoprotein cholesterol, whereas the waist-to-hip ratio was strongly associated among the youngest subjects (β = 3.51, P = 0.005).
+Conclusion
+
+Although several studies have analyzed the association between serum lipids with anthropometric markers, few, including the present one, support waist circumference as a good predictor of lipid profile.

@@ -1,0 +1,11 @@
+Objective
+A robust and fast algorithm for the offline detection of epileptic seizures in scalp EEG is described. It is aimed for seizure detection with high sensitivity and low number of false detections in long-term EEG data without a priori information.
+Methods
+To capture the characteristic electrographic changes of seizures, we developed an efficient method based on power spectral analysis techniques. The integrated power is calculated in two frequency bands for three multi-channel seizure detection montages (referenced against the average of Fz–Cz–Pz, common average, bipolar) using the same parameters for all montages and all patients taking into account an appropriate artifact rejection.
+Results
+A total of 3248 h of scalp recordings containing 148 seizures from 19 patients were examined. The averaged sensitivity was 90.9% and selectivity (false-positive errors/h, FPH) was 0.29/h of the Fz–Cz–Pz montage; the other montages yielded lower sensitivities but even better selectivity values.
+Conclusions
+Taking into account that the method has been performed in a standardized way with fixed parameters for all patients and montages the obtained values for sensitivity are quite high while the selectivity is acceptably low. The parameters can additionally be tuned to patient specific seizures. It is assumed that this may further improve the seizure detection performance.
+Significance
+The proposed method may enhance the clinical use for the detection of seizures in scalp EEG long-term monitoring during presurgical evaluation
+

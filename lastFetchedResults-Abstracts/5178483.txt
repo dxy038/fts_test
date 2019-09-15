@@ -1,0 +1,1 @@
+For hybrid wireless sensor networks with mobile nodes, to optimize the coverage performance, a control strategy based on SA-MODE (Self Adaptive-Multi Objective Differential Evolutionary Algorithm) for mobile nodes is proposed. Simulation results have shown the validity of the algorithm.

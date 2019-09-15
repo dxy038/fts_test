@@ -1,0 +1,11 @@
+Objective
+It was our primary objective to provide evidence supporting the existence of neural detectors for postural instability that could trigger the compensatory adjustments to avoid falls.
+Methods
+Twelve young healthy subjects performed self-initiated oscillatory and discrete postural movements in the anterior–posterior (AP) directions with maximal range of motion predominantly at ankle joint. Movements were recorded by the system and included force plate and EMG, and EEG measures from 25 electrode sites. The center of pressure dynamics and stability index were calculated, and EEG potentials both in voltage and frequency domains were extracted by averaging and Morlet wavelet techniques, respectively.
+Results
+The initiation of self-paced postural movement was preceded by slow negative DC shift, similar to movement-related cortical potentials (MRCP) accompanying voluntary limb movement. A burst of gamma activity preceded the initiation of compensatory backward postural movement when balance was in danger. This was evident for both oscillatory and discrete AP postural movements. The spatial distribution of EEG patterns in postural actions approximated that previously observed during the postural perceptual tasks.
+Conclusions
+The results suggest an important role of the higher cortical structures in regulation of posture equilibrium in dynamic stances. Postural reactions to prevent falls may be triggered by central command mechanisms identified by a burst of EEG gamma activity.
+Significance
+The results from this study contribute to our understanding of neurophysiological mechanisms underlying the cortical control of human upright posture in normal subjects.
+

@@ -1,0 +1,15 @@
+This paper considers a two-echelon supply chain inventory problem consisting of a single-vendor and a
+single-buyer. In the system under study, a vendor produces a product in a batch production environment
+and supplies it to a buyer facing a stochastic demand, which is assumed to be normally distributed. Also,
+buyer’s lead time is controllable which can be shortened at an added cost and all shortages are backordered.
+A model has been formulated for an integrated vendor–buyer problem to jointly determine the
+optimal order quantity, lead time and the number of shipments from the vendor to the buyer during a
+production cycle while minimizing the total expected cost of the vendor–buyer integrated system. It is
+often difficult to estimate the shortage cost in inventory systems. Therefore, instead of having a shortage
+cost term in the objective function, a service level constraint (SLC) is included in the model that requires a
+certain proportion of demands to be met in each cycle. An efficient procedure has been suggested to find
+the bounds on number of shipments and then, an algorithm is developed to obtain the optimal solution of
+the proposed model. A numerical example is included to illustrate the algorithmic procedure and the
+effects of key parameters are studied to analyze the behavior of the model. Finally, the savings of buyer
+and vendor are investigated from implementation of joint optimization model over the model in which
+they minimize their own cost independently.

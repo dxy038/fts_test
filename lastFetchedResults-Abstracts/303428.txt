@@ -1,0 +1,11 @@
+Objective.
+The goal of this study was to establish guidelines for the prognostic use of the time domain signal-averaged electrocardiogram (ECG) after myocardial infarction.
+Background.
+Previous studies of the prognostic use of the signal-averaged ECG in postinfarction patients had one or more of the following limitations:  small study group, empiric definition of an abnormal recording and possible bias in the selection of high risk groups or classification of arrhythmic events, or both. To correct for these limitations,  substudy was conducted in conjunction with the Cardiac Arrhythmi Suppression Trial (CAST).
+Methods.
+Ten centers recruited 1,211 patients with acute myocardial infarction without application of the ejection fraction or Holter criteri restrictions of the main CAST protocol. Several clinical variables, ventricular arrhythmias on the Holter recording, ejection fraction and six signal-averaged ECG variables were analyzed. Patients with bundle branch block were exluded from the analysis, and the remaining 1,158 were followed for up to 1 year after infarction. The classification of arrhythmic events was reviewed independently by the CAST Events Committee.
+Results.
+During an average (±SD) follow-up of 10.3 ± 3.2 months, 45 patients had  serious arrhythmic event (nonfatal ventricular tachycardi or sudden cardiac arrhythmic death).  Cox regression analysis with only the six signal-averaged ECG variables indicated that the filtered QRS duration at 40 Hz ≥120 ms (QRSD-40 Hz) at  cutpoint ≥120 ms was the most predictive criterion of arrhythmic events. In  regression analysis that included all clinical, Holter and ejection fraction variables,  QRSD-40 Hz ≥120 ms was the most significant predictor (p < 0.0001). The positive, negative and total predictive accuracy and odds ratio for QRSD-40 Hz ≥120 ms were 17%, 98%, 88% and 8.4, respectively, and improved to 32%, 97% 94% and 16.7, respectively, after combination with ejection fraction ≤40% and complex ventricular arrhythmias on the Holter recording.
+Conclusions.
+The signal-averaged ECG predicts serious arrhythmic events in the first year after infarction better than do clinical, ejection fraction and ventricular arrhythmi variables, and QRSD-40 Hz ≥120 ms provides the best predictive criterion in this clinical setting.
+

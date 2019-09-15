@@ -1,0 +1,7 @@
+ABSTRACT
+BACKGROUND AND OBJECTIVE: Hypoxia in solid tumors is the major cause of cancer treatment resistance. Thus, identifying the appropriate indicators of hypoxia in tumors is of great importance for appropriate tumor prognosis and choosing the best treatment methods. This study aims to investigate the modulation of miR-107 expression, as a biomarker of hypoxia and its association with gastric cancer cells.
+METHODS: MKN45 and AGS gastric cancer cells were purchased from Tehran Pasteur Institute and then, were cultured under normal oxygen conditions (CO2 5% and O2 95%) and hypoxia (CO2 5% and N2 95%). Finally, miR-107 and HIF-1-? expressions were evaluated every 24 to 48 hours.
+FINDINGS: The results of the study showed that through hypoxia induction, HIF-1-? expression in MKN-45 cell lines increased by extending treatment duration (24 and 48 hours) 2.3 and 3.8 times, respectively, (p=0.04 and p=0.002), and in AGS cell lines HIF-1-? expression increased 2.2 and 3.8 times (p=0.03 and p=0.005). In addition, miR-107 expression in MKN-45 increased during this time by 2.2 and 3.1 times (p=0.01 and p=0.0001), while in AGS cell lines it was by 2.4 and 4 times (p=0.002 and p=0.0001).
+CONCLUSION: It was demonstrated that hypoxia induction in gastric cancer cells could modulate the expression of miR-107. 
+KEY WORDS: Gastric cancer, HIF-1-alpha, Hypoxia, miR-107.
+

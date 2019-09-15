@@ -1,0 +1,1 @@
+We study the problem of scheduling n preemptable jobs in a two-machine flow shop where the first machine is not available for processing during a given time interval. The objective is to minimize the makespan. We propose a polynomial-time approximation scheme for this problem. The approach is extended to solve the problem in which the second machine is not continuously available.

@@ -1,0 +1,27 @@
+The main objective of this paper is to study the boundedness character, the periodicity character, the convergence
+and the global stability of the positive solutions of the nonlinear rational difference equation
+/ , n 0,1,2,....
+0 0
+1 ƒ­ „E
+„E
+„E
+„?„»
+„¹
+ƒy „E
+„E
+„E
+„?„»
+„¹
+ƒ­ „¸ „¸
+ƒ­
+ƒ{
+ƒ­
+ƒy ƒ{
+k
+i
+i n i
+k
+i
+n i n i x ƒ? x B ƒ? x
+where the coefficients i i B ,ƒ? , ƒ? together with the initial conditions ,.... , , 1 0 x x x ƒ{k ƒ{ are arbitrary
+positive real numbers, while k is a positive integer number.

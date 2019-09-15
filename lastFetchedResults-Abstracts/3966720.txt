@@ -1,0 +1,1 @@
+This paper formulates the problem of optimization of maintained systems with constraints on both availability and mean cycle-time. The objective function is the sum of recurring and non-recurring costs. An example is solved using Fletcher´s ideal-penalty-function algorithm which is also briefly described.

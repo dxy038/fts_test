@@ -1,0 +1,9 @@
+The objective of this paper is to report on the development of an integrated database to act as an information resource base for 4D/VR construction process simulation.
+
+rehensive database was designed, implemented and populated with the School of Health Construction Project (a £8 million, three-story development at the University of Teesside campus). The database is composed of a core database of building components which is in turn, integrated with a CAD package (AUTOCAD 2000), a Project Management Package (MS Project) and Graphical User Interfaces.
+
+re database was designed using Standard Classification Methods (Uniclass). One of the benefits of using the Uniclass method, a part from providing standards for structuring building information, is that it provides a media for integrating Product Breakdown Structure (PBS) with Work Breakdown Structure (WBS). This is an important aspect for delivering a meaningful 4D model.
+
+ated interfaces between MS Access Database, AutoCAD Drawings and MS Project Schedules were developed and implemented. Furthermore, the British Standards of layering convention (BS 1192-5) was adapted and implemented and justification for this is given in the part 2 of this document.
+
+tabase was populated with detailed 2D drawings (whole building and M&amp;E), schedules of work and resources of the School of Health Project. This paper is also addressing object definition, structuring the data, and establishing the relationships and dependencies within the data set, the WBS and building objects as well as modelling the building in 3D in order to capture the essential space- and time-critical attributes of tasks. Practical application of database throughout the construction process has been highlighted and discussed.

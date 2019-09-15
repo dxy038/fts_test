@@ -1,0 +1,13 @@
+The topological optimization of components to maximize crash energy absorption for a given volume
+is considered. The crash analysis is performed using a DYNA3D finite element analysis. The original
+solid elements are replaced by ones with holes, the hole size being characterized by a so-called density
+(measure of the reduced volume). A homogenization method is used to find elastic moduli as a function
+of this density. Simpler approximations were developed to find plastic moduli and yield stress as functions
+of density.
+Optimality criteria were derived from an optimization statement using densities as the design variables.
+A resizing algorithm was constructed so that the optimality criteria are approximately satisfied. A novel
+feature is the introduction of an objective function based on strain energies weighted at specified times. Each
+different choice of weighting factors leads to a different structure, allowing a range of design possibilities to
+be explored.
+The method was applied to an automotive body rear rail. The original design and a new design of equal
+volume with holes were compared for energy absorption

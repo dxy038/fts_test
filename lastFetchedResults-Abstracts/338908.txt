@@ -1,0 +1,11 @@
+Objective
+Limitin, an interferon-like cytokine, suppresses B lymphopoiesis through ligation of the interferon-α/β (IFN-α/β) receptor. The aim of this study was to examine the intracellular signal transduction pathways activated by limitin.
+Materials and methods
+
+The effects of limitin on cell growth, the activation of Jak kinase and Stat proteins, and the induction of interferon regulatory factor-1 (IRF-1) and Daxx were examined using the mouse pre–B-cell line 18.81, wild-type, and Tyk2-deficient mouse bone marrow cells. In addition, the change of localization of the Daxx protein after limitin treatment in wild-type and Tyk2-deficient mice was examined.
+Results
+
+Limitin phosphorylates Tyk2, Jak1, Stat1, and Stat2 and rapidly induces IRF-1 mRNA production. Phosphorylation of Stat1 by limitin is partially dependent on Tyk2. Suppression of B-cell growth by limitin, however, is severely impaired in the absence of Tyk2, whereas it is unaffected by the absence of Stat1. Limitin also induces the expression and nuclear translocation of Daxx, which is essential for IFN-α–induced inhibition of B-lymphocyte development. The absence of Tyk2 abrogates this induction of Daxx expression and nuclear translocation.
+Conclusions
+
+Limitin suppresses B-cell growth through activation of Tyk2, resulting in the up-regulation and nuclear translocation of Daxx. This limitin-mediated signaling pathway does not require Stat1.

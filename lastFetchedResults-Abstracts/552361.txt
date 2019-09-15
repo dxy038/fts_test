@@ -1,0 +1,7 @@
+Introduction: More than 99% of electrical energy in diagnostic X-Ray tubes converts to heat. This process causes limitation in medical applicability especially in higher intensity for diagnostic and treatment purposes. Objective: To decrease the applicability limitation in x-ray generation via higher cooling rate
+
+Materials and Methods: In this study, a novel anode was proposed with special geometric design and use of new materials in order to obtain higher cooling rate. In doing so, a conventional anode with 9 Cm diameter and 127 Cm2 area, was compared with the proposed anode made of an alloy of chromium, copper and silver with 27 Cm diameter and 1145 Cm2 equipped with a tungsten ring in the same condition. Both anodes were placed inside a container without air flow and heated up to 1200 °C using a plasma flame. Then, the anode temperatures were measured and recorded during cooling using a contact thermometer for three times and finally means and standard deviation and also the respective cooling rates were calculated.
+
+Results: In both anodes, the cooling modes were exponential but the cooling rates were respectively different, (approximately 180 °C/min for the proposed anode) and (approximately 76 °C/min for the conventional one) at 1200°C. Conclusions: In comparison with the conventional anode, the proposed anode has higher strength and higher cooling rate. Therefore, it can lead to lower limitation in selecting exposure factors such as mAs and kVp in medical practices.
+
+

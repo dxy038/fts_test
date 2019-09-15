@@ -1,0 +1,10 @@
+A new prototype parabolic-trough collector system was erected at the Plataforma Solar de Almer ıa (PSA) (1996–
+1998) to investigate direct steam generation (DSG) in a solar thermal power plant under real solar conditions. The
+system has been under evaluation for efficiency, cost, control and other parameters since 1999. The main objective of
+the control system is to obtain steam at constant temperature and pressure at the solar field outlet, so that changes in
+inlet water conditions and/or in solar radiation affect the amount of steam, but not its quality or the nominal plant
+efficiency. This paper presents control schemes designed and tested for two operating modes, ‘‘Recirculation’’, for which
+a proportional-integral-derivative (PI/PID) control functions scheme has been implemented, and ‘‘Once-through’’,
+requiring more complex control strategies, for which the scheme is based on proportional-integral (PI), feedforward and
+cascade control. Experimental results of both operation modes are discussed.
+  2004 Elsevier Ltd. All rights reserved.

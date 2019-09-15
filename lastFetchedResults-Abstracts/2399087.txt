@@ -1,0 +1,8 @@
+Objective
+tudy aims to validate a cavity shape optimization approach for improving the debonding resistance of dental restorations by carrying out fracture tests on restored model teeth with standard and optimized cavity designs.
+
+o-mimetic stress-induced material transformation (SMT) optimization method was incorporated into the finite element (FE) program ABAQUS as a user material (UMAT) subroutine. The method uses stress minimization to optimize the cavity shape of a MOD restoration in an artificial premolar with special reference to the tooth–restoration interface under occlusal loads. The mechanical performance of the optimized design was first verified through FE analysis and then compared with that of the conventional design using fracture tests on model teeth.
+s
+T optimization process indicated a T-shape cavity as a more favorable design for the MOD restoration in the artificial premolar. Compared with the conventional parallel wall, or undercut design, the T-shape cavity was shown numerically to reduce the interfacial stresses by up to 69%, and experimentally to increase the mean debonding resistance of the model teeth by 23% (p &lt; 0.05).
+icance
+ shape optimization can help increase the debonding resistance of restored teeth by reducing the interfacial stresses between tooth and restoration under occlusal loads.

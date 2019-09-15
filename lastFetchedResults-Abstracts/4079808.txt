@@ -1,0 +1,1 @@
+A 24 dB gain bidirectional erbium-doped fibre amplifier (EDFA) using a new non-reciprocal optical filter is demonstrated. Using the amplifier 2.5 Gbit/s&#215;8 channel WDM signals were transmitted over 160 km long singlemode fibre. The measured penalty caused by multiple optical reflection was negligible

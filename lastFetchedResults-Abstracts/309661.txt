@@ -1,0 +1,9 @@
+Objective:
+Renal cell carcinoma (RCC) appears in both a sporadic form and a hereditary form. Eighty-five percent of sporadic RCCs are of the clear-cell histologic type. The cytogenetic analysis of RCCs has revealed several recurring sites of chromosomal aberrations (non-disjunction, deletion or mitotic recombination) including segments of loss of heterozygosity (LOH) identifiable by polymorphic markers. In this pilot study, we performed a comprehensive genome-wide scan to identify LOH sites of RCCs in three Chinese patients using high-density single-nucleotide polymorphism microarrays (HuSNP arrays).
+Design and methods:
+Three sporadic clear-cell RCCs specimens were diagnosed histologically. Tumor genomic DNA was extracted from paraffin-embedded sections after microdissection to avoid gross contamination by non-tumor cells. Germline DNA was obtained from paired normal adjacent tissues. Affymetrix HuSNP mapping assay was performed according to the manufacturer's instructions.
+Results:
+Using high-density single-nucleotide polymorphism microarrays, we were able to identify the previously described and new LOH sites in RCCs of the three Chinese patients.
+Conclusion:
+The high-density single-nucleotide polymorphism microarrays and assays offer significant operating cost benefits in sample preparation, processing, and data analysis for identification of LOH sites in cancer samples. In contrast to the typical microsatellite genotyping strategy, the entire genome scan is completed in one experiment taking less than 2 days.
+

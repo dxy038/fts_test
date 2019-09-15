@@ -1,0 +1,15 @@
+Weather charts depicting the spatial distribution of various meteorological parameters
+constitute an indispensable pictorial tool for meteorologists, in diagnosing and forecasting synoptic
+conditions and the associated weather. The purpose of the present research is to investigate whether
+training artificial neural networks can be employed in the objective identification of synoptic patterns on
+weather charts. In order to achieve this, the daily analyses at 0000UTC for 1996 were employed. The
+respective data consist of the grid-point values of the geopotential height of the 500 hPa isobaric level in
+the atmosphere. A uniform grid-point spacing of 2.5  · 2.5  is used and the geographical area covered by
+the investigation lies between 25 N and 65 N and between 20 W and 50 E, covering Europe, the Middle
+East and the Northern African Coast. An unsupervised learning self-organizing feature map algorithm,
+namely the Kohonen’s algorithm, was employed. The input consists of the grid-point data described above
+and the output is the synoptic class which each day belongs to. The results referred to in this study employ
+the generation of 15 and 20 synoptic classes (more classes have been investigated but the results are not
+reported here). The results indicate that the present technique produced a satisfactory classification of the
+synoptic patterns over the geographical region mentioned above. Also, it is revealed that the classification
+performed in this study exhibits a strong seasonal relationship.

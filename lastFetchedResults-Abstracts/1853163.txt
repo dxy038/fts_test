@@ -1,0 +1,8 @@
+Purpose
+ting response after cardiac resynchronization therapy (CRT) has been a challenge of cardiologists. About 30% of selected patients based on the standard selection criteria for CRT do not show response after receiving the treatment. This study is aimed to build an intelligent classifier to assist in identifying potential CRT responders by speckle-tracking radial strain based on echocardiograms.
+s and materials
+hocardiograms analyzed were acquired before CRT from 26 patients who have received CRT. Sequential forward selection was performed on the parameters obtained by peak-strain timing and phase space reconstruction on speckle-tracking radial strain to find an optimal set of features for creating intelligent classifiers. Support vector machine (SVM) with a linear, quadratic, and polynominal kernel were tested to build classifiers to identify potential responders and non-responders for CRT by selected features.
+s
+on random sub-sampling validation, the best classification performance is correct rate about 95% with 96–97% sensitivity and 93–94% specificity achieved by applying SVM with a quadratic kernel on a set of 3 parameters. The selected 3 parameters contain both indexes extracted by peak-strain timing and phase space reconstruction.
+sions
+elligent classifier with an averaged correct rate, sensitivity and specificity above 90% for assisting in identifying CRT responders is built by speckle-tracking radial strain. The classifier can be applied to provide objective suggestion for patient selection of CRT.

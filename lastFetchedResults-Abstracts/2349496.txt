@@ -1,0 +1,3 @@
+The application of fuzzy logic to supervise a distributed basic control in a flotation column is discussed. The control strategies were studied and tested in a dynamic simulator of the process.
+
+ntrol strategies were developed and tested to manage three basic distributed controllers: an expert supervisor, mainly based on rules following a binary logic, and a fuzzy supervisor. The objective function to be optimized was to keep the concentrate grade in a high band, subject to maintaining the process recovery over a minimum value. The supervisor takes into account the present state of the gas flowrate, the froth depth and the wash water fiowrate, to make a decision. Simulated results are discussed.

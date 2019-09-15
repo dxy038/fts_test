@@ -1,0 +1,11 @@
+Objective
+To test function of hematopoietic stem cells (HSCs) in vivo in C57BL/6 (B6) and Trp53-deficient (Trp53 null) mice by using two HSC enrichment schemes.
+Materials and Methods
+
+Bone marrow (BM) Lin−CD41−CD48−CD150+ (signaling lymphocyte activation molecules [SLAM]), Lin−CD41−CD48−CD150− (SLAM−) and Lin−Sca1+CD117+ (LSK) cells were defined by fluorescence-activated cell staining (FACS). Cellular reactive oxygen species (ROS) level was also analyzed by FACS. Sorted SLAM, SLAM−, and LSK cells were tested in vivo in the competitive repopulation (CR) and serial transplantation assays.
+Results
+
+SLAM cell fraction was 0.0078% ± 0.0010% and 0.0135% ± 0.0010% of total BM cells in B6 and Trp53 null mice, and was highly correlated (R2 = 0.7116) with LSK cells. CD150+ BM cells also contained more ROSlow cells than did CD150− cells. B6 SLAM cells repopulated recipients much better than B6 SLAM− cells, showing high HSC enrichment. B6 SLAM cells also engrafted recipients better than Trp53 null SLAM cells in the CR and the follow-up serial transplantation assays. Similarly, LSK cells from B6 donors also had higher repopulating ability than those from Trp53 null donors. However, whole BM cells from the same B6 and Trp53 null donors showed the opposite functional trend in recipient engraftment.
+Conclusion
+
+Both SLAM and LSK marker sets can enrich HSCs from B6 and Trp53 mice. Deficiency of Trp53 upregulates HSC self-renewal but causes no gain of HSC function.

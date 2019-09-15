@@ -1,0 +1,11 @@
+Objective
+The main goal of this study was to develop a real-time detection algorithm of movement-related EEG changes for the naïve subjects with a very small amount of training data. Such an algorithm is vital for the realization of brain–computer interface.
+Methods
+The target algorithm developed in this study was based on the wavelet decomposition neural network (WDNN). Surface Laplacian EEG was recorded at central cortical areas and processed with wavelet decomposition (WD) for feature extraction and neural network for pattern recognition. The new algorithm was compared with nother three methods, namely, threshold-based WD and short-time Fourier transform (STFT), and Fourier transform neural network (FTNN), for performance. The trainings of all algorithms were based, respectively, on the changes of μ and β rhythms before and after voluntary movements. In order to investigate whether WDNN could adapt to the nonstationarity of EEG or not, we also compared two training modes, namely, fixed and updated weight. The significances of the success rates were tested by ANOVA (analysis of variance) and verified by ROC (receiver operating characteristic) analysis.
+Results
+The experimental data showed that (1) success rates of movement detection were acceptable even when the training set was reduced to a single trial data, (2) WDNN performed better than WD or STFT without optimized thresholds and (3) when weights were updated and thresholds were optimized, WDNN still performed better than WD, while FTNN had a marginal advantage over STFT.
+Conclusions
+We developed a detection algorithm based on WDNN with the training set being reduced to a single trial data. The overall performance of this algorithm was better than the conventional methods as such.
+Significance
+μ wave suppression could be detected more precisely by the wavelet decomposition with neural network than the conventional algorithms such as STFT and WD. The size of training data could be reduced to a single trial and the success rates were up to 75–80%.
+

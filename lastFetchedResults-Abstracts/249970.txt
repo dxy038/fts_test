@@ -1,0 +1,15 @@
+In this paper the problem of determining a manipulator design so that its workspace corresponds to a
+prescribed workspace is considered. Two di erent strategies, resulting in two di erent types of optimization
+problem are considered. The  rst strategy attempts to obtain a good overall approximation to the
+prescribed workspace and results in an unconstrained optimization problem. The second strategy entails
+designing a manipulator so that its workspace fully encloses the prescribed workspace and results in a
+constrained optimization problem. Two speci c formulations of the constrained problem are proposed.
+The  rst constrained problem simply aims to  t the manipulator workspace as exactly as possible to the
+prescribed workspace, while still ensuring that the prescribed workspace is fully enclosed. The second
+constrained optimization formulation is used to design a manipulator, the workspace of which fully
+encloses the prescribed workspace, but which is also well-conditioned throughout the workspace with
+respect to some performance measure. The particular manipulator used to illustrate and evaluate these
+formulations is a simple 2-dof planar parallel manipulator, and the  nal formulation is also applied to
+a 3-dof planar parallel manipulator. Although the manipulators studied here are simple, the objective of
+this study is to obtain a robust numerical methodology which can be extended to more practical and
+complex manipulators

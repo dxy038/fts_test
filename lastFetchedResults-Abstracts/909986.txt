@@ -1,0 +1,9 @@
+The fact that airports contribute to the downgrading of the air quality of the nearby cities arouses the interest of examining the
+planes’ emissions and dispersion in detail. Hence this study focuses on a single take-off and investigates the pollutant dispersion of
+two different airplane types, for various wind directions each. Calculations are performed with ADREA-HF, a 3D unsteady
+Reynolds Averaged Navier-Stokes (RANS) computational fluid dynamics code using a one-equation turbulence closure model.
+Moving plane source is considered as a series of jets emitting the one after the other. Concentration levels are presented through time
+and space and different cases’ results are compared and discussed. The main objective of this work was to identify the high
+concentration areas throughout the take-off, in order to help in determining the best positioning for remote optical pollutant
+measurement instruments. Modelling reveals interesting plume propagation as the airplane moves, with a characteristic blister near
+the brake release point. The latter is proven to be the best place to have measurements, regardless of wind speed and direction.

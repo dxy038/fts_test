@@ -1,0 +1,9 @@
+This paper discusses the application of an ac side
+active filter in HVDC schemes involving capacitor commutated
+converters. A suitable topology and control algorithm is selected
+to achieve the necessary objective of filtering the lower order
+characteristic harmonics. The dependence of the filter’s rating
+on parameters such as the extent of de-tuning of its passive
+elements is investigated. The performance of this filter in a
+capacitor commutated converter application is evaluated using an
+electromagnetic transient simulation program.

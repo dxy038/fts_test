@@ -1,0 +1,21 @@
+Background: Fetal electrocardiography is a developing field that provides valuable
+information on the fetal health during pregnancy. By early diagnosis and treatment of
+fetal heart problems, more survival chance is given to the infant.
+Objective: Here, we extract fetal ECG from maternal abdominal recordings and
+detect R-peaks in order to recognize fetal heart rate. On the next step, we find a better
+and more qualified extracted fetal ECG by using a novel approach.
+Materials and Methods: In this paper, a PCA/ICA-based algorithm is proposed
+for extracting fetal ECG, and fetal R-peaks are detected as well. The method
+validates the quality of extracted ECGs and selects the best candidate fetal ECG to
+provide the required morphological ECG features such as fetal heart rate and RR interval
+for more clinical examinations. The method was evaluated using the dataset which
+was provided by PhysioNet/Computing in Cardiology Challenge 2013. The dataset
+consists of 75 recordings of 4-channel ECGs each containing 1-minute length for training
+and 100 similar recordings for testing.
+Results: When the proposed algorithm was applied to the test set, the scores of
+85.853 bpm2
+ for fetal heart rate and an error of 9.725 ms RMS for fetal RR-interval
+estimation were obtained.
+Conclusion: The results obtained with the mentioned algorithm shows the robustness
+of the research, and it is suggested to be used in practical fetal ECG monitoring
+systems.

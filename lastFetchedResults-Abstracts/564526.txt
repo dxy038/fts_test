@@ -1,0 +1,9 @@
+Background: Neutron contamination in our environment can cause harmful biological effects on human body. Therefore, many efforts have been made to construct a neutron dosimeter to estimate the received dose. 
+
+Objective: To design a simple neutron dosimeter. 
+
+Methods: The primary dosimeter had 3He as a spherical thermal neutron detector encircled by paraffin 10 cm in radius. Then, the paraffin sphere was replaced with ICRU that contains soft tissue and dose equivalent determined as a desired output. Finally, an appropriate relation between counts and dose equivalent was found. 
+
+Results: Results on the energies below 1 MeV demonstrated the similarity of changing process of these two quantities, so they could relate to each other with an adequate factor. To find the best fit, different factors considered and the smallest ?2 (goodness of fit) was 1.17×105 At the next step, two covers of cadmium and gadolinium, separately, put around the detector to improve ?2, which was 2.51×104 for cadmium cover and 6.33×103 for gadolinium cover. As we see, gadolinium cover fits the curves of counts and equivalent dose in a better way. 
+
+Conclusion: Applying this simple dosimeter lead us to estimate whole body dose equivalent.

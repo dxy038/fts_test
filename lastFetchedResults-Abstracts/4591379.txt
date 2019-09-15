@@ -1,0 +1,1 @@
+A bidirectional beam propagation method (BPM) is introduced to describe the relationship between the related parameters and the insertion loss of fiber Fabry-Perot filter. The numerical simulation results indicate that the method can provide a simple and useful way for the device design.

@@ -1,0 +1,11 @@
+Objective
+Analysis of T-cell population diversity is important to hematopoietic stem cell transplantation (HSCT). The millions of specificities in T-cell receptor (TCR) hypervariable complementarity−determining region 3 (CDR3) precludes detection of all T-cell populations by antibody-based flow cytometry. An alternative method, the TCR CDR3 spectratyping assay, involves multiple polymerase chain reaction (PCR) analyses and is interpreted only qualitatively. In this study, we designed the first TCRβ-based oligonucleotide microarray and investigated its specificity, clonality discrimination, sensitivity of detection, and feasibility for monitoring T-cell population diversity in HSCT.
+Materials and Methods
+
+The array contains 27 TCR Vβ probes and 13 Jβ probes. TCRβ repertoire diversity was detected with single PCR, microarray hybridization system, and Spotfire analysis software.
+Results
+
+TCRβ-based microarray provides specific sequence-based information and can distinguish T-cell monoclonal expansion within a polyclonal population. We successfully used this microarray to quantitatively and qualitatively analyze T-cell population diversity in recipients of hematopoietic stem cell transplants.
+Conclusion
+
+This success suggests broad potential applications of the microarray for use in many other areas, including anti-tumor immunity, vaccination, autoimmunity, infectious diseases, and leukemia. By providing a single PCR-based assay to quantify multiple T-cell populations in parallel, this device will allow clinicians and researchers to rapidly perform high-throughput surveys.

@@ -1,0 +1,11 @@
+Objective.
+To determine associations of the neighborhood and home television environments with young children's physical activity.
+Method.
+
+32 boys and 27 girls age 4 to 7 years wore accelerometers for 3 weekdays and 1 weekend day. The number of televisions in the home and television watching of the child were monitored using TV Allowance™ units for 3 weeks. A geographic information system was used to measure neighborhood environment variables.
+Results.
+
+Hierarchical regression analysis was used to predict physical activity, initially controlling for sex, age, socioeconomic status, adiposity, and child television watching in step 1. In step 2, the number of televisions did not significantly increase the amount of variability accounted for in the prediction of physical activity. In step 3, housing density and the interaction of housing density by sex accounted for an incremental 12% (p < 0.05) of the variability and in step 4 percentage park plus recreation area accounted for a further 10% (p < 0.05) of the variability. Greater housing density predicted increased physical activity of boys, but not girls.
+Conclusion.
+
+Neighborhoods with increased proximity between homes and a greater proportion of park area are associated with greater physical activity in young children.

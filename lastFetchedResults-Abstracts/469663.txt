@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to examine if neonatal mortality rates (NMR) based on birth weight discordance (BWD) differ based on mode of delivery.
+Study design
+The population-based US “matched multiple birth” database (1995 to 1998) was used to examine the effect of vaginal/vaginal (VV) and cesarean/cesarean (CC) modes of delivery (MOD) on neonatal mortality (<28 days after birth). Births at <32 weeks, congenital malformations, chromosomal anomalies, and discordant MOD (vaginal/cesarean) were excluded. The association between MOD (with CC as the reference) and neonatal mortality was expressed as relative risks (RR) with 95% CI, derived from logistic regression models.
+Results
+The NMR increased with increasing degrees of BWD regardless of mode of delivery. CC was associated with decreased NMR when BWD was between 20% and 40%, but this reached significance at BWD ≥40%; VV pairs had a 1.6-fold (95% CI 1.1-2.2) increased NMR compared with CC.
+Conclusion
+In twins with BWD <40%, MOD has no effect on NMR. Beyond or equal to 40% discordance, there was lower NMR with cesarean-cesarean delivery.
+

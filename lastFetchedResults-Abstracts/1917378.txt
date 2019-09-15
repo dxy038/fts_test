@@ -1,0 +1,14 @@
+In this paper, to make flexible job shop scheduling problem (FJSP)
+more realistic, an operational factor is considered in its model. This
+factor, which is called optimizing total consumed electric power per
+month, is known as the most important factor in calculation of the
+electric cost of the industries. Considering this factor, specifically
+after subsides elimination of the country, has became more important.
+In addition to this objective, two other common objectives, called
+complementation time and critical work load of machines, are
+considered. To solve the multi-objective model, two algorithms,
+called multi-objective biogeography-based optimization algorithm
+(MOBBO) and multi-objective harmony search algorithm (MOHS),
+are developed and introduced to scheduling area for the first time.
+Finally, by developing some famous libraries of the problem,
+performance of the algorithms is compared statistically.

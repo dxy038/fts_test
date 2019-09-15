@@ -1,0 +1,11 @@
+Objective
+To investigate the reliability of several well-known quantitative EEG (qEEG) features in the elderly in the resting, eyes closed condition and study the effects of epoch length and channel derivations on reliability.
+Methods
+Fifteen healthy adults, over 50 years of age, underwent 10 EEG recordings over a 2-month period. Various qEEG features derived from power spectral, coherence, entropy and complexity analysis of the EEG were computed. Reliability was quantified using an intraclass correlation coefficient.
+Results
+The highest reliability was obtained with the average montage, reliability increased with epoch length up to 40 s, longer epochs gave only marginal improvement. The reliability of the qEEG features was highest for power spectral parameters, followed by regularity measures based on entropy and complexity, coherence being least reliable.
+Conclusions
+Montage and epoch length had considerable effects on reliability. Several apparently unrelated regularity measures had similar stability. Reliability of coherence measures was strongly dependent on channel location and frequency bands.
+Significance
+The reliability of regularity measures has until now received limited attention. Low reliability of coherence measures in general may limit their usefulness in the clinical setting.
+

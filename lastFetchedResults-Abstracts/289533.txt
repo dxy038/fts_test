@@ -1,0 +1,11 @@
+Objective
+The aim of this study is to assess the significance of an apparent diffusion coefficient (ADC) modality for the diagnosis and follow-up evaluation of ventriculitis.
+Patients and methods
+Twelve patients with ventriculitis were enrolled in this study. Diffusion-weighted (DW) magnetic resonance images (MRI) and ADC maps of the periventricular white matter, intraventricular collections detected in the third or lateral ventricles and normal cerebrospinal fluid (CSF) were obtained. The images and ADC data from each lesion were correlated and then compared amongst the different lesions. CSF studies were performed via external ventricular drain (EVD) catheters or lumbar punctures performed on the same day as ADC mapping. Linear regression was used to analyze relationships among pleocytosis, glucose, chloride, protein content of pus, and ADC counting.
+Results
+A total of 24 ADC values for intraventricular pus and CSF findings were obtained from 12 patients and analyzed.
+The DW MRI showed marked hyperintensity in purulent lesions, and the corresponding ADC maps revealed prominent hypointensity and decreased ADC values in dependent CSF compared with non-dependent CSF and normal white matter. Dependent CSF is defined as the CSF which is mixed with purulent discharge which is located at the lower portion of the ventricle by gravity.
+The correlations between ADC counting and pleocytosis, and also protein content were strong: r2 = −0.84, r2 = −0.62, respectively (p < 0.001).
+Conclusion
+A decreased ADC value and increased signal intensity of dependent intraventricular fluid by DW MRI suggests the presence of material with restricted water diffusion in the ventricular space. This is seen in pyogenic ventriculitis when water diffusion is restricted in suppurative fluid. ADC counting is negatively correlated with pleocytosis and the protein content of CSF. Therefore, the ADC value might be a useful non-invasive method for the follow-up evaluation of ventriculitis as well as the diagnosis of it.
+

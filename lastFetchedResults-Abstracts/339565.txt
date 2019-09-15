@@ -1,0 +1,11 @@
+Objective
+To study the effects of different G-CSF temporal treatment schemes using a comprehensive mathematical model of the mammalian hematopoietic system that couples the pharmacokinetics of granulocyte colony-stimulating factor (G-CSF) to the hematopoietic stem cell, neutrophil, platelet, and erythrocyte dynamics.
+Materials and Methods
+
+Data from cyclical neutropenic (CN) grey collies are used to build an extended model that reproduces the dynamics of circulating blood cells found in laboratory data from the dogs with and without daily G-CSF therapy. The effects of varying the treatment initiation time, and whether injections are given daily, every other day, or every three days, are examined.
+Results
+
+The mathematical model is able to reproduce the large variation in data that occurs from one dog to another. Different drug delivery times, with no other changes in the model parameters, can have significant long-term effects on neutrophil numbers. The frequency of drug delivery also has long-term effects on the oscillations.
+Conclusion
+
+Using a realistic representation of the effects of G-CSF on the tissue-level hematopoietic system, the model matches a wide range of laboratory data. This implies that it would be possible to generate individualized predictions for specific dogs if data were available in real time. The proposed interventions are practical and may reduce the amount of G-CSF required while potentially maintaining or even improving the treatment effects.

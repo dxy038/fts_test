@@ -1,0 +1,1 @@
+This study proposes a matched time-frequency representation construction methodology based on physical model of propagation on underwater environment. The main objective is to filter propagation modes in the time-frequency plane. Optimal representations are then built and test on real dataset for two classical waveguide model

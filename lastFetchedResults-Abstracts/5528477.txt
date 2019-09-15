@@ -1,0 +1,1 @@
+The similarity of two maps can be most easily compared visually. In this case, the degree of similarity is very subjective. It is therefore necessary to find an objective method for measuring similarity. This paper presents a method based on Singular Value Decomposition (SVD).

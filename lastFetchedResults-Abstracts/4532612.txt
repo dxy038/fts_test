@@ -1,0 +1,1 @@
+This paper describes the design and implementation of a digital video broadcasting - handheld (DVB-H) physical-layer testbed simulator. The objective is to simulate the broadcasting of service advertisements´ over the newly defined wireless billboard channels (WBCs). Initial performance evaluation results obtained from the testbed are provided and discussed.

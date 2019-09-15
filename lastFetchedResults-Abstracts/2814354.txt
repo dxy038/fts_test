@@ -1,0 +1,1 @@
+This paper present a superresolution algorithm for forward-looking imaging of scanning radar based on weighted least squares method. This algorithm utilized the weighted vectors to structure the objective function, and introduced the diagonal loading technique to obtain more robust superresolution result. Simulation results verified the performance of our algorithm.

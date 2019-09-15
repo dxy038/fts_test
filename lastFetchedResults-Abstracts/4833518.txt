@@ -1,0 +1,1 @@
+This paper discloses a new measurement-based model of on-chip spiral inductor with BCB dielectric layer. The parameters of refined equivalent circuit are extracted through an optimisation with respect to specially formulated objective function. Accurate modelling of fabricated high-Q inductors validates the proposed approach over a wide band from 100 MHz to 20 GHz.

@@ -1,0 +1,33 @@
+Abstract
+Introduction: In the new age, human health is at risk more than any other time. Hospitals play an
+important role in restoring health to the people. The emergency department provides the patients who
+are damaged in an accident or their illness has worsened suddenly with emergency medical care and
+diagnostic services. In the emergency department every single second counts. The proper management
+of the patients waiting time requires identifying the parameters which affect increasing the waiting
+interval and “lean management” is one of the tools for identifying these parameters and optimizing the
+process of serving patients. This study aimed to investigate the parameters which affect the patients
+waiting time in emergency department of orthopedic services in Ayatollah Kashani hospital with the
+lean management approach.
+Methods: This study was a descriptive and mining survey. Population survey consisted of patients in the
+emergency department of Ayatollah Kashani hospital for orthopedic services in the summer. In order to
+create a simulation model, the required data have collected from 60 patients entered for orthopedic
+services in the last week of June and the first week of July (The sample size was determined according
+to a formula). The data collected by some forms and was processed using “EASY FIT” software. Data
+collection forms were collected by the researchers was designed and its validity was confirmed by
+professors and experts concerned. Containing these forms include patient arrival time, start time and the
+end of the orthopedic service. Then the value stream map was drawn on the basis of lean management
+principles. On the next step the existing waste was identified and some approaches for eliminating the
+waste were suggested. Finally the model simulated by “SIMUL8” software and the influence of the
+applied approaches on the average time of the patient presence was investigated.
+Results: Regarding to different kinds of waste in orthopedic services, the total waste identified was 30
+and 16 approaches were suggested to eliminate them. The output result of applying the approaches
+4(Embed a closed operating rooms (stock)), 5 (implementation of (5s)) and 14 (using single minute
+exchange of die technique (SMED)) in order to receive services, orthopedics average patient stay of 139
+minutes to 118, 121 and 131 declined .simultaneous implementation of the three strategies to implement
+the results showed that the average time a patient in the emergency 139 minutes to 95 minutes reduced.
+Conclusion: The results show we can eliminate a lot of waste in the process of providing orthopedic
+services with low costs. In order to do that, we should use scientific methods such as lean management
+techniques to improve the processes. To achieve the objective mentioned above the decision makers and
+health managers should be familiar with these techniques and provide practical methods in the field of
+health and medical care.
+Keywords: Emergency Service, Hospital; Orthopedics; Computer Simulation.

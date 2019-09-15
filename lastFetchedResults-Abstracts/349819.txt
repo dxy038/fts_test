@@ -1,0 +1,11 @@
+Objective
+Short-interval intracortical inhibition (SICI) is a widely used paired-pulse transcranial magnetic stimulation (TMS) measure to assess inhibition in human motor cortex. However, facilitatory processes may contaminate SICI under certain conditions. Here, we specifically address the contribution of short-interval intracortical facilitation (SICF).
+Methods
+A SICF interstimulus interval (ISI) curve was obtained in nine healthy subjects according to an established paired-pulse TMS protocol [Ziemann U, Tergau F, Wassermann EM, Wischer S, Hildebrandt J, Paulus W. Demonstration of facilitatory I-wave interaction in the human motor cortex by paired transcranial magnetic stimulation. J Physiol (Lond) 1998a;511:181–190]. The individual ISI leading to SICF peak1, trough1, peak2, trough2 and peak3 was selected for the subsequent measurement of SICI intensity curves (SICIpeak1, SICItrough1, SICIpeak2, SICItrough2, SICIpeak3) using intensity variation of the first stimulus (S1) from 50% to 120% of active motor threshold (AMT) in the first dorsal interosseous muscle.
+Results
+SICIpeak1 (mean ISI, 1.54 ms) and SICItrough1 (mean ISI, 1.97 ms) showed a sigmoid SICI increase with S1 intensity. SICItrough1 reached the strongest SICI and was therefore chosen for comparison with the other SICI curves. SICIpeak2 (mean ISI, 2.61 ms) was U-shaped with a similar increase at low S1 intensities, but a decrease when S1 intensity exceeded 90% AMT. Correlation analyses suggested that this decrease was caused by SICF. SICItrough2 (mean ISI, 3.50 ms) and SICIpeak3 (mean ISI, 4.26 ms) showed considerably less inhibition than SICItrough1 over the whole range of S1 intensities.
+Conclusions
+Findings show that commonly accepted protocols of testing SICI (ISI of 2–3 ms, S1 intensity  95% AMT) bear the risk of measuring net inhibition contaminated by SICF.
+Significance
+SICF may contribute to apparently reduced SICI in patients with neurological or psychiatric disorders.
+

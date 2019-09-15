@@ -1,0 +1,22 @@
+System dynamics approach by simulating a bargaining process can be used for resolving conflict of
+interests in water quality management. This approach can be a powerful alternative for traditional
+approaches for conflict resolution, which often rely on classical game theory. Waste load allocation models
+for river water quality management determine the optimal monthly waste load allocation to each point
+load. Most of these approaches are based on the multi-objective optimization models and do not consider
+the existing conflicts. In this study, a system dynamics-based conflict resolution model is presented for
+monthly waste load allocation in river systems. In this model, the stakeholders and decision-makers
+negotiate with each other considering their relative authorities, aspirations and dissatisfactions. System
+dynamics approach is actually used for simulating the bargaining process among the players. The model
+incorporates the objectives and preferences of stakeholders and decision-makers of the system in the form
+of utility functions and could provide a final agreement among the players. To evaluate the spatial and
+temporal variation of the concentration of the water quality indicator in the system, a water quality
+simulation model is also linked to the conflict resolution model. In the proposed model, a pre-assigned
+utility is allocated to different water users and the results are evaluated using a simulation model. The
+allocated utilities are tested and adjusted in order to provide an agreement between the assumed utilities
+and the utilities assigned by the model. The proposed model is applied to the Karkheh River system
+located in the southwest of Iran. The results show that the model can effectively incorporate the
+preferences of the players in providing a final agreement and the runtime of the proposed model is much
+less than the classical conflict resolution models. It is also shown that the waste load allocation can
+significantly reduce number and duration of the periods in which the river water quality violates the
+standards.
+

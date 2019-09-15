@@ -1,0 +1,11 @@
+Objective. A spring network can be used to represent the load transfer from a prosthetic stem into its surrounding bone. The study seeks to test the hypothesis that clinical patterns of bone remodelling can be simulated using a feedback that modifies the properties of the network depending on the load transfer.
+
+Design. A mathematical model is used to simulate the initial properties of the linear system and its subsequent remodelling behaviour.
+
+Background. A stable and pain-free transfer of physiological forces is essential for a clinically successful arthroplasty. Following surgery, bone remodelling and osteolysis can modify this load transfer.
+
+Methods. The combined effect of all factors that influence prosthesis–bone load transfer are summarised in the properties of ‘inter-link' springs that connect springs representing the prosthesis and bone in the linear network. It is on these inter-links that a remodelling feedback operates, and their properties can be varied with time in response to deformation or force values.
+
+Results. Reducing inter-link stiffness leads to a broad distribution of load transfer, whilst an iso-elastic stem concentrates this transfer through the proximal and distal portions of a prosthesis. Physiological patterns of bone resorption and osteolysis become apparent in a time-series analysis of the feedback in the linear system. Specifically, osseo-integration requires a fixation of sufficient stiffness otherwise loosening will occur. Simulated osteolysis following osseo-integration loosens the implant from a distal to a proximal direction.
+
+Conclusions. Complex physiological bone remodelling patterns can emerge from a simple feedback within a linear system.

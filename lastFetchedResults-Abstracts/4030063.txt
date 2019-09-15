@@ -1,0 +1,1 @@
+A linear programming method for obtaining separating hyperplanes is discussed. Depending upon the objective function, the algorithm will accept any separating hyperplane or one which satisfies a minimum distance criterion. Application to inconsistent, i.e., linearly nonseparable, systems is considered.

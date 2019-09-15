@@ -1,0 +1,1 @@
+A systematic and objective method is presented to test software statistically, using the expected operational economic loss due to failure resulting from faults encountered in different parts of the software. A testing probability distribution is derived that will maximise the selection of test input stimuli that have the highest potential failure consequence

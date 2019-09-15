@@ -1,0 +1,1 @@
+A full-duplex 30.6 Tb/s transmission capacity over C-band with a record spectral efficiency of 6.6 b/s/Hz over transoceanic distance of 6817 km is demonstrated using interleaved bidirectional WDM at 200Gb/s per channel and EDFAs only.

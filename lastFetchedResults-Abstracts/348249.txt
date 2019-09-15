@@ -1,0 +1,11 @@
+Objective
+To examine response decrement of the recently reported inspiratory skin conductance response (SCR) [Lim CL, Seto-Poon M, Clouston PD, Morris JG. Sudomotor nerve conduction velocity and central processing time of the skin conductance response. Clin Neurophysiol 2003;114:2172–80].
+Methods
+Twelve healthy adult volunteers performed 3 tasks (A) a control task of maintaining tidal breathing and then two randomized tasks, (B) a deep inspiration to a target oral pressure and (C) tapping with a finger. Each task was performed 30 times on cue every 20 s in 3 runs with 5 min of rest between runs. The SCR, oral pressure, airflow, inspired volume and cue signal were recorded continuously and analysed offline. SCR amplitude was logarithmically transformed and then statistically analysed, using a linear mixed effects model, as a function of run number, trial number and absolute error between target and actual oral pressures.
+Results
+Inspiratory efforts elicited exponentially decreasing SCR amplitude with increasing trial number during each run (P<0.0001). After adjusting for trial number, the mean SCR amplitude of the second and the third run were, respectively, 24.2 (95% CI (0.175, 0.336), P<0.001) and 14.4% (95% CI (0.104, 0.200), P<0.001) of the first run amplitude.
+Conclusions
+Volitional deep inspiration reliably activates an SCR that exhibits response decrement with repetition, which may be habituation.
+Significance
+The volitional inspiratory SCR may assist in the assessment of sympathetic autonomic status in patients with peripheral afferent neuropathy.
+

@@ -1,0 +1,1 @@
+The main objective of the SLACE system (automatic reading of electricity meters) is to obtain automatic readings from customer´s watthour meters, but it also offers other additional uses. The system comprises a series of different units which are all interconnected in different ways. Its characteristics and functions are described in this paper.

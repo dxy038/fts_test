@@ -1,0 +1,7 @@
+Objective: The aim of this study was to evaluate the light output from LED-curing units measured according to the current ISO standards. The effect of aperture size on irradiance was also evaluated.
+
+Method: The irradiance of light-curing units and the depths of cure of composites exposed to these units were determined using the methods outlined in ISO standards, ISO/TS10650 and ISO 4049, respectively. The irradiance measured through two different sized apertures was also measured.
+
+Results: The irradiance measured with an aperture was greater than that without an aperture. For each light-curing unit and material, there was a linear relationship between the depth of cure and the logarithm of the amount of exposure, which is defined as the product of the irradiance and irradiation time. The correlation coefficients of these linear relationships, using data obtained from the different units was only moderate when the irradiance was measured without an aperture. The correlations improved with decreasing aperture size.
+
+Significance: Since the irradiance is affected by the angular aperture of the light guide and the size of the mold for measuring depth of cure of resin in ISO 4049 is 4-mm diameter, the irradiance through a 4-mm aperture should be used in the determination of the relationship between depth of cure and light exposure.

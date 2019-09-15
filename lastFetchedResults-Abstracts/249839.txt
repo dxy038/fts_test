@@ -1,0 +1,12 @@
+In this work we propose a method which combines the element-free Galerkin (EFG) with an extended
+partition of unity  nite element method (PUFEM), that is able to enforce, in some limiting sense, the
+essential boundary conditions as done in the  nite element method (FEM). The proposed extended
+PUFEM is based on the moving least square approximation (MLSA) and is capable of overcoming
+singularity problems, in the global shape functions, resulting from the consideration of linear and higher
+order base functions. With the objective of avoiding the presence of singular points, the extended
+PUFEM considers an extension of the support of the classical PUFE weight function. Since the extended
+PUFEM is closely related to the EFG method there is no need for special approximation functions with
+complex implementation procedures, and no use of the penalty and=or multiplier method is required in
+order to approximately impose the essential boundary condition. Thus, a relatively simple procedure is
+needed to combine both methods. In order to attest the performance of the method we consider the
+solution of an analytical elastic problem and also some coupled elastoplastic-damge problems

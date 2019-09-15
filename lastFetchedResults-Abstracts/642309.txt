@@ -1,0 +1,11 @@
+Objective
+We investigated whether a dietary intake of arginine is associated with risk for cardiovascular disease as determined by levels of C-reactive protein (CRP).
+Methods
+
+We analyzed the Third National Health Nutrition and Examination Survey, a national public-use dataset collected between 1988 and 1994. Arginine intake was calculated from the 24-h dietary recall using the nutrient composition database of the University of Minnesota Nutrition Coordinating Center. A logistic regression model was used to evaluate the relation between arginine intake and serum levels of CRP while controlling for age, sex, race, exercise, total caloric intake, body mass index, smoking status, diabetes, hypertension, and fiber intake.
+Results
+
+In the unadjusted model, the likelihoods of having a high level of CRP (>3.0 mg/L), from the lowest to the highest level of arginine intake, were 34.8%, 31.0%, 27.7%, and 18.4% respectively. Arginine intake below the median range was associated with higher levels of CRP (P < 0.05), and arginine intake above the median range was associated with lower levels of CRP (P < 0.05). In the adjusted regression, subjects in the highest level (90th percentile) of arginine intake were 30% less likely to have a CRP above 3.0 mg/L than were subjects with a median arginine intake (odds ratio= 0.70, 95% confidence interval = 0.56 to 0.88).
+Conclusions
+
+The results of this study show a relation between arginine intake and CRP level that persisted after controlling for factors associated with CRP. Individuals may be able to lower their risk for cardiovascular disease by consuming more arginine-rich foods such as nuts and fish.

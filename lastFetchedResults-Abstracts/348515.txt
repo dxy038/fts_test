@@ -1,0 +1,11 @@
+Objective
+To devise an automated system to remove artifacts from ictal scalp EEG, using independent component analysis (ICA).
+Methods
+A Bayesian classifier was used to determine the probability that 2 s epochs of seizure segments decomposed by ICA represented EEG activity, as opposed to artifact. The classifier was trained using numerous statistical, spectral, and spatial features. The system's performance was then assessed using separate validation data.
+Results
+The classifier identified epochs representing EEG activity in the validation dataset with a sensitivity of 82.4% and a specificity of 83.3%. An ICA component was considered to represent EEG activity if the sum of the probabilities that its epochs represented EEG exceeded a threshold predetermined using the training data. Otherwise, the component represented artifact. Using this threshold on the validation set, the identification of EEG components was performed with a sensitivity of 87.6% and a specificity of 70.2%. Most misclassified components were a mixture of EEG and artifactual activity.
+Conclusions
+The automated system successfully rejected a good proportion of artifactual components extracted by ICA, while preserving almost all EEG components. The misclassification rate was comparable to the variability observed in human classification.
+Significance
+Current ICA methods of artifact removal require a tedious visual classification of the components. The proposed system automates this process and removes simultaneously multiple types of artifacts.
+

@@ -1,0 +1,11 @@
+Objective
+Cytotoxic T lymphocytes (CTL) initially recognize target cells using the T-cell receptor (TCR), then strongly adhere to these cells by accessory molecules, and finally induce apoptosis by Fas ligand (FasL)/Fas or lyse by the granzyme/perforin system. We describe the development of gelatin beads carrying anti-tumor monoclonal antibody (mAb) and anti-Fas mAb mimicking the TCR and FasL, respectively. We hypothesized that these antibody-coated beads can be therapeutically utilized for the elimination of tumor cells.
+Materials and Methods
+
+We evaluated the cytotoxic activity of gelatin beads bearing CH11 (anti-Fas mAb) after incubation with several human leukemia cell lines. Cytotoxic activities were measured using colorimetric DNA fragmentation assay and lactate dehydrogenase (LDH) release assay.
+Results
+
+We demonstrated that the cytotoxic effects of anti-Fas mAb were markedly enhanced by fixation on gelatin beads. Microscopic examination showed that the beads attached to the target cells and induced their apoptosis. These effects were enhanced further by adding tumor-specific mAb. These in vitro properties of the beads were well reconstituted in the peritoneal cavity of mice.
+Conclusion
+
+Although antibody-coated gelatin beads lack several important properties of natural CTL, such as differentiation, proliferation, and the functions of adhesion molecules, they mimic well the targeting and cytotoxic functions of natural CTL. Our findings suggest that antibody-carrying gelatin beads may be the first step toward the development of artificial CTL and can be applied, for example, to artificial dendritic and stroma cells for the development of novel biotherapeutic approaches.

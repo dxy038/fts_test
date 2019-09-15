@@ -1,0 +1,26 @@
+In this paper, a novel technique is presented for inverse kinematics and motion
+planning of a redundant manipulator robot in an environment with unknown obstacles
+using a fuzzy controlling is presented. Kinematic redundancy occurs when a
+manipulator possesses more degrees of freedom than the minimum number required
+for executing a given task. Redundancy enhances the manipulator dexterity and
+flexibility which allows the redundant robot to move faster and safer in the
+environment without colliding with obstacles. In order to avoid colliding with
+obstacles, a high degree of freedom robot was used. Due to high degree of
+freedom, inverse kinematics of redundant robots is very difficult, thus a general
+approach to motion planning of a redundant manipulator robot is very practical
+and valuable. It was inspired that a human arm is capable of avoiding colliding
+obstacles. Therefore, in this paper, direct control of end effector position of
+manipulator using a multi- behavior fuzzy controller, inspired by behavior of human
+arm, makes a practical method to the navigation of redundant manipulator robots. In
+this method, the control of every link is independent from the degree of freedom of
+robot; the number of input and output signals are constant. Fuzzy controller
+system used in this research is a combination of three fuzzy controllers, 
+which deals with a separate behavior of redundant robot. The main
+objective is still to avoid the obstacles and flexion and extension of arm. The final
+behavior of redundant robot is a combination of these behaviors. For illustration, some simulation results of redundant planar manipulator moving in an unknown
+environment is presented. Results were prepared by a Simulink model containing
+fuzzy control subsystems, sensor, actuators, and obstacles. The simulation and
+experimental results of three and six link planar manipulators in environment with
+one obstacle and without obstacle show a good and promising performance of the
+robot.
+

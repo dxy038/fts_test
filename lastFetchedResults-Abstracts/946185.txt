@@ -1,0 +1,11 @@
+Purpose
+To compare simple and complex modeling techniques to estimate categories of low, medium, and high ventilation (VE) from ActiGraph™ activity counts.
+Methods
+
+Vertical axis ActiGraph™ GT1M activity counts, oxygen consumption and VE were measured during treadmill walking and running, sports, household chores and labor-intensive employment activities. Categories of low (< 19.3 l/min), medium (19.3 to 35.4 l/min) and high (> 35.4 l/min) VEs were derived from activity intensity classifications (light < 2.9 METs, moderate 3.0 to 5.9 METs and vigorous > 6.0 METs). We examined the accuracy of two simple techniques (multiple regression and activity count cut-point analyses) and one complex (random forest technique) modeling technique in predicting VE from activity counts.
+Results
+
+Prediction accuracy of the complex random forest technique was marginally better than the simple multiple regression method. Both techniques accurately predicted VE categories almost 80% of the time. The multiple regression and random forest techniques were more accurate (85 to 88%) in predicting medium VE. Both techniques predicted the high VE (70 to 73%) with greater accuracy than low VE (57 to 60%). Actigraph™ cut-points for light, medium and high VEs were < 1381, 1381 to 3660 and > 3660 cpm.
+Conclusions
+
+There were minor differences in prediction accuracy between the multiple regression and the random forest technique. This study provides methods to objectively estimate VE categories using activity monitors that can easily be deployed in the field. Objective estimates of VE should provide a better understanding of the dose–response relationship between internal exposure to pollutants and disease.

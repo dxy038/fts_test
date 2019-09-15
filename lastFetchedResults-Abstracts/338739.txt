@@ -1,0 +1,11 @@
+Objective
+This study investigated the effect of interleukin-9 (IL-9) on the proliferation and differentiation of human colony-forming unit megakaryocytic progenitor cells (CFU-Meg).
+Materials and Methods
+
+Peripheral blood-derived CD34+IL-6R− cells were sorted and cultured in the presence of IL-9, erythropoietin (Epo), stem cell factor (SCF), and thrombopoietin (TPO) alone or in combination. The number of pure and mixed megakaryocyte colonies, the size of pure megakaryocyte colonies, the ploidy distribution of megakaryocytes, and proplatelet formation were investigated.
+Results
+
+Apart from TPO, no single factor could support CFU-Meg–derived colony formation, but each two-factor combination among IL-9, Epo, and SCF supported a few CFU-Meg colonies. Interestingly, the combination of Epo+SCF+IL-9 induced four to six times as many CFU-Meg colonies as any of the two-factor combinations. Neutralizing monoclonal antibodies (mAbs) for IL-9 receptor and c-kit completely abolished this synergistic effect. In contrast, addition of neutralizing anti–c-Mpl or anti-CXCR4 Abs did not influence colony formation, indicating that this synergistic effect was independent of TPO or SDF-1. Moreover, the endogenous production of TPO by cultured CD34+IL-6R− cells in the presence of Epo+SCF+IL-9 was ruled out by reverse transcriptase polymerase chain reaction for TPO mRNA. Interestingly, the combination of TPO, Epo, SCF, and IL-9 supported the largest number of pure and mixed megakaryocyte colonies, suggesting that this combination of cytokines might recruit primitive megakaryocytic as well as multipotential progenitors. This combination also potently enhanced proplatelet formation compared with TPO alone or a combination of Epo, SCF, and IL-9.
+Conclusion
+
+This study demonstrated for the first time that human IL-9 can potentiate human megakaryocytopoiesis in the presence of Epo and/or SCF.

@@ -1,0 +1,10 @@
+Parametric design optimization is presented for the crashworthiness improvement of an automotive body. The
+thickness of principle internal parts of the automotive frontal crumple zone was employed as design variables for
+optimization. The objective was to improve automotive crashworthiness conditions according to the defined criterion
+during a full frontal impact. Using the Taguchi method, this study analyzed the optimum conditions for design
+objectives. The impact factors and their optimal levels were obtained by analyzing the experimental results. A full
+frontal impact was implemented for simulating crashworthiness in the nonlinear dynamic code, LS-DYNA.The
+controllable factors used in this study consisted of six internal parts of the vehicle’s frontal structure in a condition that
+their thickness was the “design parameter". Interestingly, the optimum conditions for automotive crashworthiness
+occurred with 14% improvement in the performance criterion in comparison with the baseline design while several
+parts experienced mass reduction.

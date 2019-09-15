@@ -1,0 +1,1 @@
+This paper puts forward a methodology for recognizing Assamese Characters. The main objective of the work is to use the Radon Transform and Principal Component Analysis to obtain a set of invariant features. Then training and testing is done using ANN. Various experiments were conducted using this methodology and the results showed the effectiveness of the system.

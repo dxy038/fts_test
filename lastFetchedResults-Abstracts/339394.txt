@@ -1,0 +1,11 @@
+Objective
+Methods of gene transfer to hematopoietic stem cells that result in stable integration may provide treatments for many inherited and acquired blood diseases. It has been demonstrated previously that a gene delivery system based on the Sleeping Beauty (SB) transposon can be derived where a plasmid transiently expressing the SB transposase can mediate the stable chromosomal integration of a codelivered second plasmid containing a gene expression unit flanked by the inverted repeats derived from the transposon.
+Methods
+
+Plasmid DNA containing the elements required for SB transposition was delivered to hematopoietic cells via electroporation. Integrated transgene (enhanced green fluorescent protein [eGFP]) expression was assessed in vitro and in vivo.
+Results
+
+In the K562 human hematopoietic cell line, we observed stable expression of eGFP in >60% of cells for over 2 months after electroporation of the two plasmids; in contrast, in control cells either not treated with transposase or exposed to a defective mutant transposase, the level of gene expression had fallen to near background (<0.1%) by 2 weeks. In purified human cord blood CD34+ progenitor cells, the transposase led to stable gene transfer at levels up to 6% for over 4 weeks, but gene transfer to more primitive nonobese diabetic/severe combined immunodeficient repopulating cells or CD34+/CD38− in long-term culture was low and electroporation of the cells with plasmid DNA caused significant cell death.
+Conclusion
+
+The long-term stable expression highlights the potential of this transposase-based gene delivery method for ameliorating diseases affecting the hematopoietic system, although further improvements in gene transfer efficacy are needed.

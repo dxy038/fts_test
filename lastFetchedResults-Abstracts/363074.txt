@@ -1,0 +1,9 @@
+Study objective
+We assessed the independent relationship between age and the quality of medical care provided to patients presenting to the emergency department (ED) with acute myocardial infarction.
+Methods
+We conducted a 2-year retrospective cohort study of 2,216 acute myocardial infarction patients presenting urgently to 5 EDs in Colorado and California from July 1, 2000, through June 30, 2002. Data on patient characteristics, clinical presentation, and ED processes of care were obtained from the ED record and ECG review. Patients were divided into 6 groups based on their age at the time of their ED visit: younger than 50 years, 50 to 59 years, 60 to 69 years, 70 to 79 years, 80 to 89 years, and 90 years or older. Hierarchic multivariable regression was used to assess the independent association between age and the provision of aspirin, β-blockers, and reperfusion therapy (fibrinolytic agent or percutaneous coronary intervention) in the ED to eligible acute myocardial infarction patients.
+Results
+Of ideal candidates for treatment in the ED, 1,639 (80.5%) of 2,036 received aspirin, 552 (60.3%) of 916 received β-blockers, and 358 (77.8%) of 460 received acute reperfusion therapy. After adjustment for demographic, medical history, and clinical factors, older patients were less likely to receive aspirin (odds ratio [OR] 0.85, 95% confidence interval [CI] 0.77 to 0.93), β-blockers (OR 0.79, 95% CI 0.71 to 0.88), and reperfusion therapy (OR 0.30, 95% CI 0.18 to 0.52).
+Conclusion
+Older patients presenting to the ED with acute myocardial infarction receive lower-quality medical care than younger patients. Further investigation to identify the reasons for this disparity and to intervene to reduce gaps in care quality will likely lead to improved outcomes for older acute myocardial infarction patients.
+

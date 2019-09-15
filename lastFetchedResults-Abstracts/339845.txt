@@ -1,0 +1,11 @@
+Objective
+Compared with allogeneic hematopoietic stem cell transplantation using other sources, cord blood (CB) transplantation (CBT) has clinical advantages in terms of incidence and severity of acute graft-vs-host disease (GVHD), despite using allogeneic stem cells with more human leukocyte antigen mismatches. However, detailed pathophysiology of acute GVHD developed after CBT has not yet been elucidated. In this study, we aimed to clarify the molecular mechanism of acute GVHD after CBT.
+Materials and Methods
+
+We performed microarray expression profiling of immunoregulatory genes on each of four subpopulations (CD4+, CD8+, CD14+, and CD56+) of peripheral blood mononuclear cells (PBMCs), which were taken from eight patients with hematologic malignancies who suffered from acute GVHD after unrelated CBT.
+Results
+
+We identified 55 genes, which were differentially expressed during acute GVHD compared to recovery phase. Among them, 22 showed differential expression concurrently in multiple PBMC subpopulations. In particular, five genes (TNFSF10/TRAIL, IL1RN, IFI27, GZMB, and CCR5) were upregulated and three genes (CLK1, TNFAIP3 and BTG1) were downregulated in at least three out of four subpopulations during acute GVHD. In addition, downregulation of antiinflammatory factors, such as TNFAIP3, KLF2, ZFP36, and BTG1, seems to be involved in acceleration of immune response, thus exacerbation of acute GVHD. Meanwhile, differential expression of several genes, such as CCL5, TNFAIP3, KLRB1/CD161, BY55/CD160, and PTGS2/COX2, was assumedly affected by the developmental immaturity of CB-derived cells.
+Conclusions
+
+These results will contribute to the understanding of molecular mechanism underlying the behavior of inflammatory cells during acute GVHD following CBT.

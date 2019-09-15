@@ -1,0 +1,14 @@
+Objectives
+The main objective of the present study was to establish whether 17β-estradiol (E2) regulates expression of cardiac adenosine triphosphate-sensitive potassium (KATP) channel.
+Background
+
+Based on our previous studies that demonstrate gender-specific differences in sarcolemmal KATP channels, we have hypothesized that the main estrogen, E2, may regulate expression of cardiac KATP channels.
+Methods
+
+Reverse transcription-polymerase chain reaction (RT-PCR) using primers specific for Kir6.2 and sulfonylurea receptor 2A (SUR2A) subunits was performed on total ribonucleic acid (RNA) from rat embryonic heart-derived H9c2 cells. Immunoprecipitation and Western blotting using anti-Kir6.2 and anti-SUR2A antibodies was done on membrane fraction of H9c2 cells. Whole cell electrophysiology and digital epifluorescent Ca2+ imaging were performed on living H9c2 cells. All experiments were done in cells incubated 24 h with or without 100 nM E2.
+Results
+
+The RT-PCR revealed higher levels of SUR2A, but not Kir6.2, messenger RNA (mRNA) in E2-treated, relative to untreated, cells. Increase of the level of only the SUR2A subunit could change the number of sarcolemmal KATP channels only if the Kir6.2 is in excess over SUR2A. Indeed, RT-PCR analysis demonstrated considerably lower levels of SUR2A mRNA compared with Kir6.2 mRNA. Significantly higher levels of both Kir6.2 and SUR2A protein subunits were found in the membrane fraction of E2-treated cells compared with untreated ones, and the density of current evoked by pinacidil (100 μM), a KATP channel opener, was significantly higher in E2-treated compared with untreated cells. To test the effect of E2 on cellular response to hypoxia-reoxygenation, we have measured on-line, intracellular concentration of Ca2+ in H9c2 cells exposed to hypoxia-reoxygenation. Intracellular Ca2+ loading induced by hypoxia-reoxygenation was significantly decreased by treatment with E2. This E2-mediated protection was inhibited by HMR 1098 (30 μM), but not by 5-hydroxydecanoate (50 μM).
+Conclusions
+
+In conclusion, this study has demonstrated that E2 increases levels of SUR2A subunit, stimulates KATP channel formation and protects cardiac cells from hypoxiareoxygenation

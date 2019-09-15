@@ -1,0 +1,1 @@
+We study a distributed computation model for optimizing the sum of convex (nonsmooth) objective functions of multiple agents. We provide convergence results and estimates for convergence rate. Our analysis explicitly characterizes the tradeoff between the accuracy of the approximate optimal solutions generated and the number of iterations needed to achieve the given accuracy.

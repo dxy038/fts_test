@@ -1,0 +1,7 @@
+Background. Computer-aided design and manufacturing has been successfully used in prosthetic applications since 1980s. It simplifies the socket rectification process and improves reproducibility but does not introduce any new principle into socket design. Integrating finite element analysis to CAD will provide a more objective assessment of socket fit and improve the chance of a successful first fitting.
+
+Methods. Current study aims to establish a finite element model generation technique directly from geometrical information of commercial prosthetic CAD workstation. A program developed in-house automatically performs meshing of the stump geometry and assigns suitable material properties, load and boundary conditions to the model. The model was validated by comparing predicted pressure with experimentally measured values for one amputee subject.
+
+Findings. The predicted pressure distribution has an root-mean-square error of 8.8 kPa compared to experimental values at 10%, 25% and 50% of the gait cycle.
+
+Interpretation. Current method was able to develop a finite element model to predict interface pressure reasonably well and can be integrated with prosthetic CAD system to provide quantitative feedback to the prosthetist in an automated process.

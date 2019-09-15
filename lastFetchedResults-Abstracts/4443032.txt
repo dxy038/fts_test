@@ -1,0 +1,1 @@
+A non-blocking four-port bidirectional multi-wavelength message router for use in 2D mesh or torus photonic networks-on-chip is fully characterized with bit-error-rate measurements and eye diagrams using three parallel 10-Gb/s wavelength channels.

@@ -1,0 +1,15 @@
+This paper presents a multi-objective continuous covering location problem in fuzzy
+environment. Because the covering radius is assumed to be uncertain, this paper uses the
+possibility concept. Since uncertainty may cause risk of uncovering customers, the problem
+is formulated as a risk management model. The presented model is an extension of the
+discrete covering location model to continuous space. Two variables, namely selecting
+zone variable and covering variable are introduced for extending the discrete model to the
+continuous one. In the model, a facility is located in a zone with a predetermined radius
+from its center and is determined by the selecting zone variable. Allocating a customer to a
+facility is shown by a covering variable. Also, the paper introduces the possibility of
+covering, based on distance between the customers and the facilities. Two objectives are
+considered in the model; the first is the possibility of covering by each facility and the
+second is the risk cost of the uncovered customers. Fuzzy programming is applied for
+converting the model to a single objective one. Finally, a numerical example with
+sensitivity analysis is expressed to illustrate the presented model. 
+

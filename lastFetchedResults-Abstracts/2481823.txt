@@ -1,0 +1,10 @@
+This paper aims to apply a multi-objective optimization method for optimizing
+a truss design problem. This method is named the Multi-Objective Bee Algorithm
+(MOBA). In the rst problem, objective functions minimize stress in two members and
+minimize the volume of the truss. In each of the other three problems, the objectives to
+be optimized are the value of the total weight of the structure and the total displacement
+of nodes, considering limits on the cross section of the elements. The bee algorithm is
+developed based on the principle of multi-objective problems. A clustering algorithm is
+applied for the multi-objective bee algorithm in order to manage the size of the Paretooptimal
+set. The results provide good evidence of the robustness and eectiveness of the
+multi-objective bee algorithm in solving the multi-objective optimal truss design.

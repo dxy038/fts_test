@@ -1,0 +1,11 @@
+Background
+Our objective was to predict malignancy for intraductal papillary mucinous neoplasms of the pancreas (IPMN) before operation.
+Methods
+
+Sixty-four resected patients with IPMN were examined and 17 parameters were investigated for their relation to malignancy by univariate and multivariate analysis.
+Results
+
+Multivariate logistic regression analysis showed that IPMN type, the size of main pancreatic duct, and serum carbohydrate antigen 19-9 were significant for malignancy. Size of the main pancreatic duct ≥6.5 mm and serum carbohydrate antigen 19-9 ≥35 U/mL scored 3 points, main duct type scored 2 points, and patulous papilla, jaundice, diabetes mellitus, and tumor size ≥42 mm scored 1 point. When IPMNs with 3 and more than 3 points using the new score were diagnosed as malignant, accuracy was 90.6%.
+Conclusion
+
+This scoring system for IPMN is feasible to detect malignancy and useful for selecting an appropriate treatment.

@@ -1,0 +1,8 @@
+The objective of our study was to investigate the association between daily pediatric asthma hospital visits and daily
+concentrations of aeroallergens and their specific species. Records of daily asthma visits in Cincinnati area were retrieved from
+Cincinnati Children's Hospital Medical Center and aeroallergen sampling was performed by the Button Inhalable Sampler. The
+Poisson generalized linear model was carried out in which the log of the number of asthma hospital visits was related to
+aeroallergen level, treated as a continuous variable with adjustment for seasonal time trend, day of the week, ozone and PM2.5
+concentrations, temperature and humidity. The aeroallergens having a significant impact on asthma hospital visits were ragweed,
+oak/maple and Pinaceae pollen. Their relative risks on asthma hospital visits with respect to a 100 counts/m3 increase in
+concentration were in the range of 1.23 to 1.54. The effects in causing the asthma exacerbation were delayed by 3 or 5 days.

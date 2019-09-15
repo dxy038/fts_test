@@ -1,0 +1,7 @@
+The objective of this study is to investigate the performance of newly developed grades of nanolayer coated carbide tools for single point turning operation of difficult-to-cut alloys as Inconel 718.
+
+ base alloys are difficult-to-machine materials because of their very good mechanical resistance at high temperature. Cemented carbide cutting tools, widely used for turning these alloys, are coated in order to promote their cutting lifetime.
+
+s study, three compositions of multilayer coatings are deposited on cutting tools: CrN–TiN, TiN–AlTiN and CrN–AlTiN. These coatings, deposited in an industrial-size cathodic arc evaporation device, have approximately the same total thickness. Mechanical properties were first correlated to the period of these coatings. In a second time, the influence of this period, thickness of two successive nanolayers, was studied concerning turning performances.
+
+ical and tribological properties are strongly dependant on coating structure (description in Part 1 [C. Ducros, C. Cayron, F. Sanchette, To be published in Surface and Coatings Technology]). The best mechanical properties were obtained with TiN/AlTiN nanolayers with 7 nm periods and superlattice structure. These coatings induced low main cutting force and low flank wear during Inconel 718 turning. Time life of superlattice TiN–AlTiN coated cutting tool is increased comparatively to CVD coated and AlTiN coated cutting tools currently used in production.

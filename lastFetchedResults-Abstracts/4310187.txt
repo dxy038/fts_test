@@ -1,0 +1,1 @@
+First time, an unprecedented 42 dB loss budget was realized by using hybrid DWDM-CDM (code division multiplexing)-PON without optical amplifier. We experimentally demonstrated 100 km 16lambda-DWDM-CDM-PON bidirectional transmission with 62.5 Mbps times 32 users/lambda symmetry guaranteed bandwidth. Long reach PON is expected to reduce CapEx and OpEx cost.

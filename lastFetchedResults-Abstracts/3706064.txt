@@ -1,0 +1,1 @@
+We show that by folding data from an n&#215;n mesh onto an n&#215;(n/k) submesh, sorting on the submesh, and finally unfolding back onto the entire n&#215;n mesh it is possible to sort on bidirectional and strict unidirectional meshes using a number of routing steps that is very close to the distance lower bound for these architectures

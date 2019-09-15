@@ -1,0 +1,1 @@
+The primary objective of this paper is to develop a simulation model in OPNET to implement direct sequence spread spectrum (DS-SS) code division multiple access (CDMA) system for formation flying of satellites. The focus of this paper is to model and implement seven-satellite formation, PN code generation, spreading and despreading. Simulation results are presented.

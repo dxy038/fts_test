@@ -1,0 +1,5 @@
+Objective: First, to determine the distribution of the estimated sources of sleep spindles, and alpha and mu rhythms based on whole-head magnetoencephalogram (MEG) recordings; second, to scrutinize the physiological relevance of the dipole fit algorithm in localizing on-going normal rhythmic activities.
+Methods: One hundred and fifty-one channels were used to record spontaneous MEG activity during wakefulness and superficial sleep in 4 normal subjects. The equivalent dipolar sources were estimated by a new ‘dipole fit algorithm’ and projected on the corresponding magnetic resonance images.
+Results: Equivalent dipoles of MEG spindles were distributed over the centro-parietal region. Those of alpha rhythms were concentrated around the occipito-parietal sulcus and those of mu rhythms were confined to the area around the central sulcus.
+Conclusions: MEG sleep spindles, and alpha and mu rhythms have distinct spatial distributions of their equivalent dipolar sources. This demonstrates that various cortical regions that oscillate within the same frequency band have different spatial organizations and different functional aspects.
+

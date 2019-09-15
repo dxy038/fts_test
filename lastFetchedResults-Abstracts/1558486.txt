@@ -1,0 +1,7 @@
+LetH=(T, U)be a connected graph. AT-partitionof a setV⊇Tis a partition ofVinto subsets, each containing exactly one element ofT.
+
+rt with the following problem (*): given a multigraphG=(V, E)withV⊇T,find aT-partition Π ofVthat minimizes the sum of productsd(s, t)n(s, t)over alls,t∈T.Hered(s, t)is the distance fromstotinHandn(s, t)is the number of edges ofGbetween the sets in Π that containsandt.When the graphHis complete, (*) turns into the minimum multiway cut problem, which is known to be NP-hard even if|T|=3.On the other hand, whenHis the complete bipartite graphK2,rwith parts of 2 andr=|T|−2nodes, (*) is specialized to be the minimum (2,r)-metric problem, which can be solved in polynomial time.
+
+ve that the multicommodity flow problem dual of the minimum (2,r)-metric problem has an integer optimal solution wheneverGisinner Eulerian(i.e. the degree of each node inV−Tis even), and such a solution can be found in polynomial time.
+
+r nice property ofK2,ris that, independently ofG,the optimum objective value in (*) is the same as that in its factional relaxation. We call a graphHwith a similar propertyminimizableand give a description of the minimizable graphs in polyhedral terms. Finally, we show that every tree is minimizazble.

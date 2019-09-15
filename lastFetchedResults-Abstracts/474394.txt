@@ -1,0 +1,9 @@
+Background
+Sleep-disordered breathing (SDB) is recognized as a risk factor for cerebrovascular disease. The objective of this study was to investigate the relationship between nocturnal hypoxia and silent cerebral infarct (SCI) in the general population.
+Methods
+In the 2001 annual health check in Nishiarita, Japan, 170 individuals at high risk were screened who met more than three of the following criteria: high blood pressure, hypercholesterolemia, left ventricular hypertrophy by electrocardiography, hemoglobinA1c >6.5%, proteinuria, central obesity, heavy smoking habit, heavy drinking, and family history of stroke. Overnight pulse oximetry, brain magnetic resonance imaging, and carotid/cardiac ultrasonography were performed in 146 (mean age 67.4 ± 9.0 years) of the 170 individuals in whom pulse oximetry was successfully performed.
+Results
+Subjects were classified into a nocturnal hypoxia group (n = 36) and a nonhypoxia group (n = 110) based on a 3% oxygen desaturation index (ODI) 5.6 times per hour during sleep (highest quartile) by pulse oximetry. The presence of silent cerebral infarct (SCI) (57% v 35%, P = .03) was significantly higher in the hypoxia group than in the nonhypoxia group. The number of SCI was positively correlated with age (r = 0.23, P< .01), systolic blood pressure (r = 0.196, P< .05), and 3% ODI (r = 0.318, P< .001). Even after adjustment for confounding factors using logistic regression analysis, nocturnal hypoxia (odds ratio = 2.2, 95% confidence interval = 1.10 to 5.30, P = .026) as well as systolic blood pressure and age (10-year increase: odds ratio = 1.22, 95% confidence interval 1.00 to 1.48, P = .048) were independently associated with SCI in the study subjects.
+Conclusions
+Based on the study results, SDB assessed by overnight pulse oximetry was associated with silent cerebral disease in a high-risk, community-dwelling Japanese population.
+

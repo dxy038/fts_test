@@ -1,0 +1,12 @@
+The objective of this paper is to better characterize the influence of process parameters (impeller revolution speeds) on the performance of a planetary flour-beater mixer (mixer bowl P600 from Brabender) used in dough production.
+
+Firstly, we have theoretically described the path followed by the impeller tip into the vessel and the variation of the absolute velocity during its trajectory. This gives us indications during the transient mixing action of the material induced by this mixer.
+
+Secondly, we have theoretically and experimentally shown that for Newtonian fluids:
+
+(i)
+
+    The power dissipated by this mixer is strongly dependent on the impeller speed ratios.
+(ii)
+
+    It is possible to obtain for this planetary mixer a unique master power curve, gathering on the same characteristic the influence of the dual impeller speeds on power consumption. This requires the introduction of a characteristic velocity, known as the maximal impeller tip velocity, into power and Reynolds numbers. The constant Kp of the mixer bowl P600, determined as the product of the modified Reynolds and power numbers, was found to be equal to 48.6.

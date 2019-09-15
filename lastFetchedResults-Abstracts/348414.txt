@@ -1,0 +1,11 @@
+Objective
+To determine whether, and under which conditions, transcranial electrical stimulation (TES) and transcranial magnetic stimulation (TMS) can activate similar neuronal structures of the human motor cortex, as indicated by electromyographic recordings.
+Methods
+Focal TMS was performed on three subjects inducing a postero-anterior directed current (p-a), TES with postero-anteriorly (p-a) and latero-medially (l-m) oriented electrodes. We analyzed the onset latencies and amplitudes (single-pulse) and intracortical inhibition and excitation (paired-pulse).
+Results
+TMS p-a and TES p-a produced muscle responses with the same onset latency, while TES l-m led to 1.4–1.9 ms shorter latencies. Paired-pulse TMS p-a and TES p-a induced inhibition at short inter-stimulus intervals (ISI) (maximum: 2–3 ms) and facilitation at longer ISIs (maximum: 10 ms). No inhibition but a strong facilitation was obtained from paired-pulse TES l-m (ISIs 1–5 ms).
+Conclusions
+Our findings support the hypothesis, that current direction is the most relevant factor in determining the mode of activation for both TMS and TES: TMS p-a and TES p-a are likely to activate the corticospinal neurons indirectly. In contrast, TES l-m may preferentially activate the corticospinal fibres directly, distant of the neuronal body.
+Significance
+TES is a suitable tool to induce intracortical inhibition and excitation.
+

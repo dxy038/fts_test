@@ -1,0 +1,11 @@
+Objective
+To determine in MECP2-mutated Rett syndrome (RTT [MIM 312750]): (1) the prevalence of drug-resistant epilepsy (DRE); (2) whether the presence of DRE is related to the abnormal EEG patterns or to the particular MECP2 mutant genotype.
+Methods
+Retrospective survey of a large population of patients (n = 154) evaluated between 1978 to 2007 (May) at the Child Psychiatry and Neurology Unit of Siena (Italy) with both clinical and genetic (i.e. MECP2 mutated) diagnoses of RTT. Some subjects were followed for up to 20 years. Among those, cases with epilepsy were first selected for study; within that group, cases with DRE were identified and studied. The association between clinical severity of their epilepsy and quantitative or qualitative scores of EEG severity was tested using rank coefficients (Spearman’s rho values). The relationship between DRE and RTT genotype category (i.e. gene deletion, gene duplication, early truncating mutation, late truncating mutation, and missense mutation) or a specific MECP2 genotype was tested using the chi-square test. A p-value <0.05 (two sided) was considered to indicate statistical significance.
+Results
+Prevalence of DRE was 16% (i.e. 16 DRE out of 100 MECP2-mutated RTT epileptic patients). No significant relationship was found between clinical severity of DRE and quantitative (p = 0.9190) or qualitative EEG scores (p = 0.1511). In addition, no significant relationship was found between the DRE and the RTT genotype category (chi-square = 1.147, DF = 4, p = 0.8867), or a specific MECP2 genotype (chi-square = 30.958, DF = 39, p = 0.8173).
+Conclusions
+Although RTT MECP2-mutated patients suffer from a serious and progressive encephalopathy, it is “epileptogenic” but not “DREgenic” as they have a decreased risk (16%) for DRE compared to the general epileptic population (DRE: 20-40%). The presence of DRE is not related to abnormal EEG findings or a particular MECP2 mutant genotype.
+Significance
+These observations could be of help in the practical management and family counseling.
+

@@ -1,0 +1,5 @@
+Predicting the occurrence of hailstorms is one of the most complicated tasks in weather forecasting because of the small area of land that is usually affected, and because of the short time hail events last. Today there are a number of parameters available that may be used to characterize preconvective conditions and predict the beginning of convection. However, forecast models based on stability indices should be developed separately for each geographic area.
+
+tabases available were used in this study with two aims in mind: determining which meteorological variables or indices obtained from a radiosonde in the study zone are more relevant in characterizing preconvective conditions; and, secondly, setting up an objective short-term forecast model for storms on the basis of one or more meteorological parameters.
+
+gistic regression was used to establish the dichotomy risk/no risk of storms. A function was developed combining seven meteorological variables. The results show that the forecast model has a Probability of Detection of 0.87 and a False Alarm Ratio of 0.18.

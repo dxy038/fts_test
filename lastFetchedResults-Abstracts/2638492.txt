@@ -1,0 +1,4 @@
+the existence of a reliable routing is one of key and significant challenges in mobile ad hoc networks. In this paper, a
+hierarchical routing protocol (HRP) is presented which is made of hybrid architecture combining reactive and proactive
+protocols. The objective of the proposed protocol is to reduce the end to end delay and routing overhead. The presented protocol provides a hierarchical routing protocol using clustering mechanism and considering the CBRP protocol. Because of
+reduction of the delay in responding to requests, gateways like cluster heads have a routing table. In evaluation of performance simulation results, it is shown that the proposed protocol has better efficiency than DSR and AODV routing protocols. 

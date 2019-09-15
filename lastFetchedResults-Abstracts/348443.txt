@@ -1,0 +1,11 @@
+Objective
+We studied the relation between thalamic stimulation parameters and the morphology, topographic distribution and cortical sources of the cerebral responses in patients with intractable epilepsy undergoing deep brain stimulation (DBS) of the thalamus.
+Methods
+Bipolar and monopolar stimuli were delivered at a rate of 2 Hz to the anterior (AN, four patients), the dorsomedian (DM, four patients), and the centromedian nucleus (CM, one patient) using the programmable stimulation device (Medtronic ITREL II). Source modeling was carried out by using statistical non-parametric mapping of low-resolution electromagnetic tomography (LORETA) values.
+Results
+All patients demonstrated reproducible time-locked cortical responses (CRs) consisting of a sequence of components with latencies between 20 and 320 ms. The morphology of these CRs, however, was very heterogeneous, depending primarily on the site of stimulation. Following AN stimulation, cortical activation was most prominent in ipsilateral cingulate gyrus, insular cortex and lateral neocortical temporal structures. Stimulation of the DM mainly showed activation of the ipsilateral orbitofrontal and mesial and lateral frontal areas, but also involvement of mesial temporal structures. Stimulation of the CM showed a rather diffuse (though still mainly ipsilateral) increase of cortical activity. The magnitude of cortical activation was positively related to the strength of the stimulus and inversely related to the impedance of the electrode.
+Conclusions
+The pattern of cortical activation corresponded with the hodology of the involved structures and may underscore the importance of optimal localization of DBS electrodes in patients with epilepsy.
+Significance
+The method of analyzing sources of CRs could potentially be a useful tool for titration of DBS parameters in patients with electrode contacts in clinically silent areas. Furthermore, the inverse relation of the cortical activation and the impedance of the electrode contacts might suggest that these impedance measurements should be taken into consideration when adjusting DBS parameters in patients with epilepsy.
+

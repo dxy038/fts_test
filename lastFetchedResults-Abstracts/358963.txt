@@ -1,0 +1,11 @@
+Background
+Psychological depression has been linked to heart failure, both an antecedent to and as a risk factor for poor outcomes among patients with existing heart failure. Elevated levels of proinflammatory cytokines have been proposed as a possible physiological link between the 2 conditions. The objective of this study was to examine the proinflammatory cytokines interleukin (IL)-6, IL-1β, and tumor necrosis factor-alpha (TNFα) in heart failure patients with and without elevated symptoms of depression.
+Methods
+
+Thirty-two heart failure patients were recruited from an outpatient heart failure clinic. Depressive symptoms were measured with the Beck Depression Inventory (BDI), and a patient was classified as having elevated symptoms of depression if he/she scored ≥10. The cognitive-affective subscale score of the BDI, which measures depressed mood independent of physical symptoms, was also examined.
+Results
+
+In the multiple linear regression models controlling for age, sex, smoking, and antidepressant medication use, there was no relation between BDI score and IL-6 (P = .7612) or IL-1β (P = .8261). However, there was a statistically significant positive relation between BDI score and TNFα (P = .0374). There was also a significant relation between an elevated cognitive-affective score and TNFα (P = .0322) but no association with IL-6 (P = .8593) or IL-1β (P = .3737).
+Conclusions
+
+The association between TNFα and the cognitive-affective subscale, which eliminates the physical signs and symptoms that are shared by depression and heart failure, demonstrates a depression-specific activation of proinflammatory cytokines that may promote disease progression and mortality in patients with heart failure.

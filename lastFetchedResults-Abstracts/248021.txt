@@ -1,0 +1,17 @@
+Genetic algorithms, a search technique which combines Darwinian ‘survival-of-the-fittest’ with randomized
+well structured information, is applied to the problems of real-world truss optimization. In this work
+a population of binary strings or ‘chromosomes’, which represent the coded truss design variables, a ‘fitness’
+as a ranking measure of the adaptability to the environment, selection criteria and mechanical natural
+operators such as crossover and mutation are used to improve the population, so that over the generations
+the genetic algorithm gets better and better and at the end of the convergence, a ‘rebirth’ of the population is
+used to improve the usual process.
+An overview of the genetic algorithm will be described, continuing the rebirth effect; then, the chromosome
+representation of trusses is exposed. Afterwards, the objective scalar function is defined taking into
+account that it seems reasonable in real world to optimize trusses in minimum weight trying, at the same
+time, to use the minimum number of cross-section types obtained from the market. It also seems reasonable
+to have the possibility to change the shape of the conceptual design, moving some joints. To simulate nearly
+real conditions, several load cases, constraints in the elastic joint displacements, ultimate tensile and elastic
+and plastic buckling in the bars have been taken into account. A hyperstatic 10 bars truss is subjected to
+a deep analysis in different situations in order to evaluate with other authors when possible as truss
+optimization with two criteria and buckling effect has not been found in specialized literature. A 160-bar
+transmission tower is also optimized.

@@ -1,0 +1,11 @@
+Objective
+Several studies have demonstrated that dendritic cells (DCs) pulsed with tumor lysate or apoptotic tumor cells can elicit effective T-cell responses. This technique does not require the identification of the tumor antigen or HLA haplotype of the patient. We applied this approach to induce HLA class I– and class II–restricted T-cell responses directed against autologous acute lymphocytic leukemia (B-ALL) cell line NH-1.
+Methods
+
+Autologous T cells were stimulated by apoptotic tumor cell–loaded DCs generated from a patient with ALL. The stimulated and expanded T cells were isolated into CD8+ T-cell line and CD4+ T-cell line, and each of them was examined as to their functions.
+Results
+
+Both CD8+ and CD4+ T-cell lines demonstrated cytotoxicity against NH-1 in an major histocompatibility complex–dependent manner. Finally, we established two independent CD4+ T-cell clones restricted to HLA-DR. The CD4+ T-cell line responded strongly to autologous Epstein-Barr virus–transformed lymphoblastoid cell lines (EBV-LCL) but not to autologous normal cells. Furthermore, the T–cell clones also responded to allogeneic EBV-LCLs and B-ALL cell lines in the context of the HLA-DRB1*04051 molecule. Interestingly, 293T and COS-7 cells, which had been transfected with the HLA-DRB1*04051, were also recognized by T-cell clones.
+Conclusion
+
+These findings indicate that B-ALL has shared and strong immunogenic epitopes expressed on HLA class II molecules, the expression of which is limited to immortalized cells. These data suggest that vaccinations using DCs loaded with apoptotic tumor cells might be a potent strategy in the treatment of B-ALL.

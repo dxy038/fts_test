@@ -1,0 +1,11 @@
+Objective
+A diverse diet is recommended in many dietary guidelines. However, because there are no unified standards for measurement methods, objective comparisons across different populations or time points is difficult. This report proposes a new dietary diversity index based on quantitative distribution of consumed foods to allow objective measurement of dietary diversity.
+Methods
+
+A Quantitative Index for Dietary Diversity (QUANTIDD) is proposed: QUANTIDD = (1 − ∑jn prop[j]2)/(1 − 1/n), where prop(j) is the proportion of food group(s) j that contributes to total energy or nutrient intake, n is the number of food groups, and j = 1,2,…,n. The numerator is the probability that the two foods taken out of an aggregation of consumed foods belong to different food groups. The denominator is its maximum value. The index ranges from 0 to 1. By using the officially released average data from the National Nutrition Survey in Japan from 1957 to 2000, we investigated annual changes in the QUANTIDD. We also investigated the distribution of the index by using individual data from the National Nutrition Survey in Japan in 1996.
+Results
+
+The QUANTIDD increased from the 1960s to the 1970s. This was the era of rapid economic growth in Japan, during which the dietary habits of the Japanese underwent rapid changes. The distribution of the QUANTIDD was skewed to the left, but logit-transformation decreased this asymmetry and made it similar to a normal distribution.
+Conclusion
+
+Because this index can measure dietary diversity objectively and is suitable for statistical handling, it is useful as a method to compare dietary patterns across different populations or time points.

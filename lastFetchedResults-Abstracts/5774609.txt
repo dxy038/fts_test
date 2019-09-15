@@ -1,0 +1,1 @@
+The folding of programmable logic array (PLA) is considered. We develop a heuristic algorithm for optimal block folding. The algorithm is based on the column intersection graph associated with the PLA. Then the techniques of graph partitioning and two-objective linear programming are applied. Test results will be demonstrated to show the effectiveness of the algorithm.

@@ -1,0 +1,1 @@
+We develop new scheduling algorithms for the IEEE 802.16d OFDMA/TDD based broadband wireless access system, in which radio resources of both time and frequency slots are dynamically shared by all users. Our objective is to provide a fair and efficient allocation to all the users to satisfy their quality of service

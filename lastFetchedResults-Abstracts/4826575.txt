@@ -1,0 +1,1 @@
+We propose load balanced routing strategies that attempt to route EVs in a geographic area to balance potential demand on charging points. Our objective in doing so is to reduce the potential for queuing at charging stations and to balance the energy demand in the electrical grid.

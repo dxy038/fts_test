@@ -1,0 +1,6 @@
+We consider a single-machine scheduling problem in which the processing time of each job is a simple
+linear deteriorating function of its waiting time. The machine is subject to an availability constraint. Jobs
+interrupted by machine unavailability can resume their processing. The objective is to minimize the
+makespan. We first show that the problem can be solved optimally by 0–1 integer programming. We then
+prove that the problem is NP-hard in the ordinary sense and there exists a fully polynomial time approximation
+scheme for it.

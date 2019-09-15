@@ -1,0 +1,6 @@
+In this paper we present a fast lattice Boltzmann fluid solver that has been performance
+optimized and tailored for the Cell Broadband Engine Architecture. Many design decisions
+were motivated by the long range objective to simulate blood flow in human blood vessels,
+especially in aneurysms, but have proven to be much more generally applicable. After
+explaining implementation details and how they were influenced by the target platform,
+the performance and memory requirements of this prototype solver are evaluated.

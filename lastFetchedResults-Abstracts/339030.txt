@@ -1,0 +1,11 @@
+Objective
+Bone marrow (BM) stroma provides the microenvironment required for long-term hematopoiesis, and this is supported by direct interaction between stromal cells and hematopoietic cells, mediated by adhesion molecules, and through cytokine releases from the BM stroma. In a previous study, we demonstrated that hepatocyte growth factor (HGF) is one of the cytokines constitutively produced from BM stromal cells, promoting hematopoiesis mainly in an indirect way. We also showed that stromal cells themselves express HGF receptor c-MET. It was therefore postulated that HGF exerts its effect on hematopoiesis and maintenance of the hematopoietic microenvironment in a paracrine and autocrine manner.
+Methods
+
+The effect of HGF on stromal cells was analyzed by neutralizing intrinsic HGF.
+Results
+
+Addition of neutralizing anti-HGF antibody inhibited the ability of BM stromal cells to support colony formation from CD34+ cells and reduced production of significant cytokines from stromal cells, interleukin-11 (IL-11), stromal cell–derived factor-1α (SDF-1α), and to a lesser extent, stem cell factor (SCF). Furthermore, this neutralizing antibody reduced proliferation of stromal cells and inhibited adhesion of stromal cells to collagen type IV and fibronectin. Inhibition of adhesion to fibronectin was mediated by inhibition of α5β1-integrin.
+Conclusion
+
+These findings indicate that HGF constitutively produced from BM stromal cells is an autocrine regulator, which is able to maintain the hematopoietic microenvironment through stimulating proliferation and adhesion to the extracellular matrix and promoting hematopoiesis through inducing constitutive production of IL-11, SDF-1α, and SCF by stromal cells themselves.

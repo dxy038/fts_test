@@ -1,0 +1,26 @@
+Objective: Every cell type is characterized by a specific transcriptional profile together
+with a unique epigenetic landscape. Reprogramming factors such as Oct4, Klf4, Sox2
+and c-Myc enable somatic cells to change their transcriptional profile and convert them to
+pluripotent cells. Small molecules such as BIX-01294, Bay K8644, RG-108 and valproic
+acid (VPA) are reported as effective molecules for enhancing induction of pluripotency
+in vitro, however, their effects during in vivo reprogramming are addressed in this experimental
+study.
+Materials and Methods: In this experimental study, Oct4 expressing lentiviral particles
+and small molecules BIX-01294, Bay K8644 and RG-108 were injected into the right ventricle
+of mice brain and VPA was systematically administered as oral gavages. Animals
+treated with different combinations of small molecules for 7 or 14 days in concomitant with
+Oct4 exogenous expression were compared for expression of pluripotency markers. Total
+RNA was isolated from the rims of the injected ventricle and quantitative polymerase chain
+reaction (PCR) was performed to evaluate the expression of endogenous Oct4, Nanog,
+c-Myc, klf4 and Sox2 as pluripotency markers, and Pax6 and Sox1 as neural stem cell
+(NSC) markers.
+Results: Results showed that Oct4 exogenous expression for 7 days induced pluripotency
+slightly as it was detected by significant enhancement in expression of Nanog (p < 0.05).
+Combinatorial administration of Oct4 expressing vector and BIX-01294, Bay K8644 and
+RG-108 did not affect the expression of pluripotency and NSC markers, but VPA treatment
+along with Oct4 exogenous expression induced Nanog, Klf4 and c-Myc (p < 0.001). VPA
+treatment before the induction of exogenous Oct4 was more effective and significantly
+increased the expression of endogenous Oct4, Nanog, Klf4, c-Myc (p < 0.01), Pax6 and
+Sox1 (p < 0.001).
+Conclusion: These results suggest VPA as the best enhancer of pluripotency among the
+chemicals tested, especially when applied prior to pluripotency induction by Oct4.

@@ -1,0 +1,8 @@
+In this paper, we study the existence, uniqueness and global stability of periodic solution
+(i.e. stationary oscillation) for general bidirectional associative memory neural networks
+with impulses. Some sufficient conditions are obtained for stationary oscillation of the
+nonautonomous bidirectional associative memory neural networks with impulses. It is
+derived by using a new method which is different from those of previous literatures, and
+a assumption in previous results does not required. The model considered is more general
+and some previous results are extended and improved. An illustrative example is given to
+demonstrate the effectiveness and less conservativeness of the obtained results.

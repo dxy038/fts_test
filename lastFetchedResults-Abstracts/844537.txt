@@ -1,0 +1,7 @@
+In this paper, the Takagi–Sugeno (TS) fuzzy model representation is extended to the stability
+analysis for uncertain Bidirectional Associative Memory (BAM) neural networks with
+time-varying delays using linear matrix inequality (LMI) theory. A novel LMI-based stability
+criterion is obtained by LMI optimization algorithms to guarantee the exponential stability of
+uncertain BAM neural networks with time-varying delays which are represented by TS fuzzy
+models. Finally, the proposed stability conditions are demonstrated with numerical
+examples.

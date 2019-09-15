@@ -1,0 +1,1 @@
+A new interface circuit for contactless transmission of power and information between a fixed terminal and mobile data carrier is presented. The interface derives the dc-supply voltage from the received RF signal and performs a bidirectional data transmission between the nonvolatile memory and the terminal.

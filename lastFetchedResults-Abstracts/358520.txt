@@ -1,0 +1,11 @@
+Background
+The cardiovascular risk reduction observed in many trials of lipid-lowering agents is greater than expected on the basis of observed low-density lipoprotein cholesterol (LDL-C) level reductions. Our objective was to explore the degree to which high-density lipoprotein cholesterol (HDL-C) level changes explain cardiovascular risk reduction.
+Methods
+
+A systematic review identified trials of lipid-lowering agents reporting changes in HDL-C and LDL-C levels and the incidence of coronary heart disease (CHD). The observed relative risk reduction (RRR) in CHD morbidity and mortality rates was calculated. The expected RRR, given the treatment effect on total cholesterol level, was calculated for each trial with logistic regression coefficients from observational studies. The difference between observed and expected RRR was plotted against the change in HDL-C level, and a least-squares regression line was calculated.
+Results
+
+Fifty-one trials were identified. Nineteen statin trials addressed the association of HDL-C with CHD. Limited numbers of trials of other therapies precluded additional analyses. Among statin trials, therapy reduced total cholesterol levels as much as 32% and LDL-C levels as much as 45%. HDL-C level increases were <10%. Treatment effect on HDL-C levels was not a significant linear predictor of the difference in observed and expected CHD mortality rates, although we observed a trend in this direction (P = .08). Similarly, HDL-C effect was not a significant linear predictor of the difference between observed and expected RRRs for CHD morbidity (P = .20).
+Conclusions
+
+Although a linear trend toward greater risk reduction was observed with greater effects on HDL-C, differences were not statistically significant. The narrow range of HDL-C level increases in the statin trials likely reduced our ability to detect a beneficial HDL-C effect, if present.

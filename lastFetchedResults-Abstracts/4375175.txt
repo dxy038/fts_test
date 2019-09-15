@@ -1,0 +1,1 @@
+The soccer robot assembly system belongs to the intelligence robot assembly system, this article take the YSU soccer robot assembly system as a platform, proposed unifies the auto-adapted threshold value method based on HIS and RGB, improved in the original system in the multi-objective search process image to gather slow and the robust bad situation.

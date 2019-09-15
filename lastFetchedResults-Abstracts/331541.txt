@@ -1,0 +1,11 @@
+Objective
+The fundamental optical characteristics of dental polymers as a function of curing time are exiguously reported in the literature. In this work the refractive index [1] and the extinction coefficient [2] of bisphenol-A-glycidyldimethacrylate–triethyleneglycoldimethacrylate (BisGMA/TEGDMA)-based polymers of different volume fractions have been studied as a function of the curing time. A comparison between the measured index of refraction and theoretical calculation based on molar refraction is made. Also the temporal behavior of both the refractive index and extinction coefficient is compared.
+Methods
+
+Index of refraction: BisGMA/TEGDMA monomer samples were cured with a commercial light-curing unit by using camphorquinone and DMAEMA as the photoinitiator system. Curing times of 0, 40, 60, 300, 900 and 1800 s were used. The refractive indices were determined with a refractometer at 470 nm wavelength, where the peak absorption of the camphorquinone photoinitiator is located. Extinction coefficient: BisGMA/TEGDMA samples having different lengths were cured and the relative attenuation of light at 470 nm was measured as a function of the curing time (0, 40, 60, 300, 900, 1800 s).
+Results
+
+The results show that in general the index of refraction increases during the photopolymerization process in a time frame from 0 to 40 s and then approaches a steady-state value, which depends on the original composition of the admixture. The detailed refractive index change depends on the volume fractions of the constituent substances. The extinction coefficient decreases in a time frame from 60 to 900 s and reaches a steady-state value thereafter.
+Significance
+
+Knowledge of the fundamental optical characteristics of commonly used dental polymers is essential in the development of advanced light-initiated curing methods.

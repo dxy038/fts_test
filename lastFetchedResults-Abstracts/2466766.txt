@@ -1,0 +1,10 @@
+Context
+atic literature review (SLR) has become an important research methodology in software engineering since the introduction of evidence-based software engineering (EBSE) in 2004. One critical step in applying this methodology is to design and execute appropriate and effective search strategy. This is a time-consuming and error-prone step, which needs to be carefully planned and implemented. There is an apparent need for a systematic approach to designing, executing, and evaluating a suitable search strategy for optimally retrieving the target literature from digital libraries.
+ive
+in objective of the research reported in this paper is to improve the search step of undertaking SLRs in software engineering (SE) by devising and evaluating systematic and practical approaches to identifying relevant studies in SE.
+
+e systematically selected and analytically studied a large number of papers (SLRs) to understand the state-of-the-practice of search strategies in EBSE. Having identified the limitations of the current ad-hoc nature of search strategies used by SE researchers for SLRs, we have devised a systematic and evidence-based approach to developing and executing optimal search strategies in SLRs. The proposed approach incorporates the concept of ‘quasi-gold standard’ (QGS), which consists of collection of known studies, and corresponding ‘quasi-sensitivity’ into the search process for evaluating search performance.
+s
+ducted two participant–observer case studies to demonstrate and evaluate the adoption of the proposed QGS-based systematic search approach in support of SLRs in SE research.
+sion
+ort their findings based on the case studies that the approach is able to improve the rigor of search process in an SLR, as well as it can serve as a supplement to the guidelines for SLRs in EBSE. We plan to further evaluate the proposed approach using a series of case studies on varying research topics in SE.

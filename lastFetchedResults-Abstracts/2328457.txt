@@ -1,0 +1,12 @@
+AbstractObjective
+ting river's underwater bed elevations is a necessary but challenging task. The objective of this study is to develop a revised approach to generate accurate and detailed Digital Terrain Models (DTMs) of a river reach by merging LiDAR data for the dry area, with water depth indirectly derived from aerial imagery for wet areas.
+s
+pproach was applied along three sub-reaches of the Brenta River (Italy) before and after two major flood events. A regression model relating water depth and intensity of the three colour bands derived from aerial photos, was implemented. More than 2400 in-channel depth calibration points were taken using a differential Global Positioning System (dGPS) along a wide range of underwater bed forms.
+s
+sulting DTMs closely matched the field-surveyed bed surface, and allowed to assess that a 10-year recurrence interval flood generated a predominance of erosion processes. Erosion dominated in the upper part of the study segment (− 104,082 m3), whereas a near-equilibrium is featured on the lower reach (− 45,232 m3). The DTMs allowed the detection of processes such as riffle–pool downstream migration, and the progressive scour of a pool located near a rip-rap.
+sion
+esented approach provides an adequate topographical description of the river bed to explore channel adjustments due to flood events.
+ce
+ing colour bathymetry and dGPS surveys proved to represent a useful tool for many fluvial engineering, ecology, and management purposes.
+ations
+oposed approach represents a valuable tool for river topography description, river management, ecology and restoration purposes, when bathymetric data are not available.

@@ -1,0 +1,11 @@
+Objective. To develop a new method of representing 3-D joint angles that is both physically meaningful and mathematically stable.
+
+Design. The two halves of a joint are modeled as overlapping cylinders. This simple physical model is easily understood and yields mathematically stable angle equations.
+
+Background. Two currently-used methods are the Euler/Cardan (joint coordinate System) method and the projection angle method. Both of these methods approach a singularity at 90 ° that limits their use. The helical angle (attitude vector) method is mathematically stable but has limited physical meaning and is difficult to communicate.
+
+Methods. Calculation of the tilt/twist angles is described. Tilt/twist angles are compared to Euler/Cardan, projection, and helical angles in terms of behavior and stability.
+
+Results. Through a small range of angulation, tilt/twist angles match the specific projection and Euler/Cardan angles previously found to be appropriate for describing spinal motion. Through larger ranges, tilt/twist angles do not match the other angles studied. Although not as stable as helical angles, tilt/twist angles are twice as stable as Euler/Cardan and projection angles, reaching a singularity only at 180 °.
+
+Conclusions. Because of their mathematical stability and simple physical interpretation, tilt/twist angles are recommended as a standard in describing angular joint motion.

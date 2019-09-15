@@ -1,0 +1,6 @@
+In this paper, we use parametric form of fuzzy number, then feed-forward neural network
+is presented for obtaining approximate solution for fuzzy Fredholm integro-differential
+equation of the second kind. This paper presents a method based on neural networks and
+Newton-Cotes methods with positive coefficient. The ability of neural networks in function
+approximation is our main objective. The proposed method is illustrated by solving
+some numerical examples.

@@ -1,0 +1,5 @@
+The organization and control of stem cells is a key issue in epithelial cell biology. The small intestinal murine crypt is a useful tissue to study such problems since stem cells are known to be located at specific positions at the bottom of the crypt where they are self maintaining.
+
+ data suggest, that (1) the number of active stem cells in a crypt can fluctuate, (2) the immediate progeny of a single stem cell can replace other stem cells eventually leading to monoclonality and (3) the life cycle of crypts may be linked to stem cell dynamics.
+
+the objective of this paper to suggest a stochastic state-dependent model of stem cell and crypt growth which can explain and link these phenomena into one comprehensive framework. Monte Carlo simulations are performed to show consistency with available data. The model explains the size distribution of small intestinal crypts in steady state, the observations of stem cell fluctuations and monoclonality conversion, recovery of the crypt population after moderate damage and the rate of crypt fission and extinction. The key assumption of this model is an autoregulatory control of stem cell growth.

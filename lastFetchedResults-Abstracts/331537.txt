@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to test the hypothesis that microtensile bond strength values are inversely proportional to dentin-to-composite adhesive layer thickness through laboratory mechanical testing and finite element analysis.
+Method
+
+Eighteen noncarious third molars were obtained, and occlusal enamel removed perpendicular to the tooth long axis. Two different adhesive systems were utilized as follows (n = 3): (1) application of a single layer of Single Bond (3M ESPE Co.) and Clearfil SE Bond (Kuraray Co.) following the manufacturer's directions; (2) application of one layer of both adhesive systems followed by one additional layer; (3) application of one layer of both adhesive systems followed by two additional layers. A 4 mm build up was fabricated in increments on each tooth sample (Z 100 composite, 3M ESPE). Section measurements were performed and specimens were separated into three adhesive thickness groups per material (40, 40–80 and 80–120 μm) for microtensile testing. The bond strength data (MPa) were analyzed by one-way ANOVA and Tukey test. Maximum principal stresses (MPS) were determined through FEA for three different adhesive layer thicknesses (20, 50 and 100 μm).
+Results
+
+The bond strength data obtained for Single Bond at 0–40 μm presented significantly higher values compared to higher adhesive layer thickness groups. There were no statistical differences among bond strength values for all Clearfil SE Bond adhesive layer thicknesses. FEA modeling indicated that MPS increased as adhesive layer increased. The hypothesis was accepted for the Single Bond only.
+Significance
+
+Correspondence (not tested statistically) between microtensile laboratory testing and FEA model was only observed for Single Bond as increased adhesive layer thickness did not reduce Clearfil SE Bond strength.

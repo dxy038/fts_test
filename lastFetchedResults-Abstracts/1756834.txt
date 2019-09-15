@@ -1,0 +1,8 @@
+Objective
+tematically evaluate the latent structure of the Hospital Anxiety and Depression Scale (HADS) through reanalysis of previous studies and meta confirmatory factor analysis (CFA).
+
+rom 28 samples were obtained from published studies concerning the latent structure of the HADS. Ten models were considered, including eight previously identified models and two bifactor models. The fit of each model was assessed separately in each sample and by meta CFA. Meta CFA was conducted using all samples and using subgroups consisting of community samples, cardiovascular disease samples and samples from studies administering the English language version of the HADS.
+s
+ctor model including all items loading onto a general distress factor and two orthogonal anxiety and depression group factors provided the best fit for the majority of samples. Meta CFA provided further support for the bifactor model with two group factors. This was the case using all samples, as well as all subgroup analyses. The general distress factor explained 73% of the covariance between items, with the (autonomic) anxiety and (anhedonic) depression factors explaining 11% and 16%, respectively.
+sion
+ctor structure provides the most acceptable empirical explanation for the HADS correlation structure. Due to the presence of a strong general factor, the HADS does not provide good separation between symptoms of anxiety and depression. We recommend it is best used as a measure of general distress.

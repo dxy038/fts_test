@@ -1,0 +1,11 @@
+In this paper we consider a single machine system that produces items part of which are
+defective. The defective items produced in a time period, consisting of several equal cycles, are
+accumulated and are all reworked in the last cycle of this period called the rework cycle. At the
+end of the rework cycle the whole process will start all over again.
+The first significant objective of this study is that, for the ease of production and resource
+planning, the rework cycle has to have the same length as the other cycles. The other objective
+is that the number of rework cycles be as small as possible, because of changeover costs needed
+for going from normal production to rework as well as special attention required for rework to
+satisfy the zero defect criterion. For this system, assuming no shortages are permitted we drive
+the total system cost per unit time and obtain the economic batch quantity which minimizes this
+total cost.

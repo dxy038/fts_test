@@ -1,0 +1,7 @@
+The paper deals with geometrically nonlinear finite element analysis of folded-plate and shell structures. A Koiter asymptotic approach is proposed, based on the reuse of a linear element in the nonlinear context through a corotational formulation.
+
+rotational approach represents a simple and effective way to satisfy the basic requirement of Koiter analysis, i.e. full objectivity in the finite element modeling. In fact, starting simply from a suitable linear finite element and implementing the corotational algebra proposed in Garcea et al. (2009), Zagari (2009) lead to objective explicit expressions for the first four variations of the strain energy which are needed by asymptotic analysis.
+
+ell element used here is the flat shell quadrangular element with 4 nodes and 6 dofs per node proposed in Madeo et al. (2012) and called MISS-4: a mixed element, based on the Reissner–Mindlin plate theory, with an Allman-like quadratic interpolation for displacements and an equilibrated isostatic interpolation for the stress resultants. The element is free from locking and spurious zero-energy modes, so it appears a suitable candidate for nonlinear corotational analysis.
+
+sults of the numerical validation show the effectiveness and accuracy of the proposed approach, and its excellent overall robustness for both mono- and multi-modal buckling problems, also in the presence of strong nonlinear pre-critical behavior.

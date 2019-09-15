@@ -1,0 +1,1 @@
+The article mainly discusses the design objective of an object oriented database management system called OMNIX. It explains the function and structure, as well as the implementation of the whole system

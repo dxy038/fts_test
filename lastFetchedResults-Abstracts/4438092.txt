@@ -1,0 +1,1 @@
+An automatic method based on a genetic algorithm to assess and minimize the impact of nonlinear crosstalk in WDM ring channels is presented and validated. The objective is achieved by optimizing channel frequencies and powers.

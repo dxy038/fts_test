@@ -1,0 +1,1 @@
+We have studied a new design of WDM bidirectional optical power limiting amplifier. It involves one erbium doped fiber amplifier (EDFA), 4-port circulators and fiber grating reflectors. A 25 dB optical gain is measured for a bidirectional operation. A power limiting behavior is observed, a 20 dB variation of input power leads to less than 2 dB of output power variation.

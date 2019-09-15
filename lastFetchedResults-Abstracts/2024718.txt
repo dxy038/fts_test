@@ -1,0 +1,23 @@
+Abstract— FIR filter is a type of digital signal processing
+filter whose impulse response is of finite duration because it
+settles to zero in finite time. FIR filters are used in a range of
+digital signal processing application and communication area.
+The main objective of this paper is to modeling and simulation
+of FIR filter in frequency domain for the UMTS standard and
+to obtain its advantage over time domain implementation. In
+this paper firstly we present two FIR filters one in time domain
+and other in frequency domain. Then we abstract the filter
+coefficient for time domain implementation and frequency
+domain implementation of FIR filter by sampling both
+representation of root raised cosine (RRC) filter. All modeling
+and simulation performed using MATLAB software. A
+comparison between a classical time domain FIR
+implementation, and frequency domain implementation, in
+terms of computational complexity, Inter symbol interference
+rejection on the basis of average gain in immunity against ISI,
+Error Vector Magnitude (EVM) and peak distortion is
+presented. It is found that frequency domain implementation of
+FIR filter is better than time domain implementation of FIR
+filter in all respects. This advantage of FIR filter
+implementation in frequency domain makes it suitable for its
+use in 3G communication system.

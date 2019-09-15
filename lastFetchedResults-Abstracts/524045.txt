@@ -1,0 +1,18 @@
+Objective: In this study, we investigated the combined effect of 2-Methoxyestradiol (2ME2)
+and 60Co on the cytogenetic damage of iododeoxyuridine (IUdR) in the spheroid model of
+U87MG glioblastoma cancer cell lines by alkaline comet assay.
+Materials and Methods: U87MG cells were cultured as spheroids with diameters of 350 ?m. As control, the spheroids of one plate were not treated. Other cultures were pretreated with 2ME2 (250 ?M) for one volume doubling time (1 VDT). After this time, the subsequent treatments were performed according to the following groups:
+1. Vehicle (this sample was not treated in the 2nd VDT)
+2. Treated with 2ME2 (250 ?M) for 1 VDT
+3. Treated simultaneously with 2ME2 (250 ?M) and IUdR (1 ?M) for 1 VDT
+4. Treated with 2ME2 (250 ?M) for 1 VDT then irradiated with 60Co (2 Gy)
+5. Treated simultaneously with 2ME2 (250 ?M) and IUdR (1 ?M) for 1 VDT then irradiated with 60Co (2 Gy)
+Then the DNA damage was evaluated using the alkaline comet assay method.
+Results: The results showed that 2ME2 in combination with gamma irradiation of 60Co significantly (p < 0.001) increased the DNA damage by IUdR as compared to the control group. Thus the combination of these two agents increased the cytogenetic effects of IUdR in the spheroid culture model of U87MG glioblastoma cell lines.
+ 
+Conclusion: By inhibiting the HIF-1? protein and preventing the G
+ 
+phase arrest, 2ME2
+ 
+causes an increased progression into S phase and increases the IUdR absorption. Then the DNA damage in the spheroid cells increases as the uptake of IUdR is increased. These results suggest that the combined use of 2ME2 and 60Co can increase the radio- sensitization effect of IUdR.
+

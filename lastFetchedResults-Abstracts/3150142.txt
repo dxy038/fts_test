@@ -1,0 +1,1 @@
+In automotive systems, piezoelectric injectors allow fine electronic control over the fuel injection time and quantity. They are typically driven by current controlled bidirectional converter. This power board is managed by an ASIC device which is part of the car ECU. This paper describes a new FPGA-based ASIC fast prototyping methodology for piezo injectors control units.

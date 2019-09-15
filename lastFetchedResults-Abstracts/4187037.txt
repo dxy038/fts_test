@@ -1,0 +1,1 @@
+The author proposes a method, called spatial filtering, to resolve some of the problems associated with spatial smoothing. The method, which is similar to spatial smoothing, can be applied to wideband as well as narrowband problems. The objective of the method is to decorrelate completely the set of fully correlated sources. The theoretical findings are supported by simulations

@@ -1,0 +1,13 @@
+A general instance of a Degree-Constrained Subgraph problem may be found in an edgeweighted
+or vertex-weighted graph G whereas the objective is to find an optimal weighted
+subgraph, subject to certain degree constraints on the vertices of the subgraph. This class
+of combinatorial problems has been extensively studied due to its numerous applications
+in network design. If the input graph is bipartite, these problems are equivalent to
+classical transportation and assignment problems in operational research. This paper is an
+illustration of a research of the NP-hard Maximum Degree-Bounded Connected Subgraph
+problem (MDBCS). It is a classical NP-complete problem. Moreover this paper offers a
+first integer linear programming formulation of the (MDBCS), and a formal proof that it
+is correct. A genetic algorithm for obtaining the optimal solution of (MDBCS) has also
+been provided. The proposed solution comprises a genetic algorithm (GA) that uses binary
+representation, fine-grained tournament selection, one-point crossover, simple mutation
+with frozen genes and caching technique.

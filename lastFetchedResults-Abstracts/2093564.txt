@@ -1,0 +1,6 @@
+The objective of the current work is to show the effectiveness of using wavelet transform for detection and
+localization of small damages. The spatial data used here are the rotational mode shapes of the damaged and
+undamaged plate-like structures. The continuous wavelet transform using complex Gaussian wavelet is used to get
+the spatially distributed wavelet coefficients so as to identify the damage position on a square plate. The rotational
+mode shape data of the square plate with damage of different sizes are obtained using ANSYS 9.0. Damage
+identification for different boundary conditions is studied.

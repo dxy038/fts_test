@@ -1,0 +1,3 @@
+Let M be a lattice module over the multiplicative lattice ??. An ?? ??module M is called a multiplication lattice
+module if for every element N ?? ?? there exists an element ?? ?? ?? such that ?? ?? ??1??. Our objective is to
+investigate properties of prime elements of multiplication lattice modules.

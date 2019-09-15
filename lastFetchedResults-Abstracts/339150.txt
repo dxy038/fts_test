@@ -1,0 +1,11 @@
+Objective
+To examine whether oncogenic Ras affects transforming growth factor (TGF)-β–mediated cell-cycle arrest in hematopoietic cells and the downstream signal transduction pathway involved in the interference with TGF-β–induced cell-cycle arrest.
+Materials and Methods
+
+Two leukemic cell lines bearing N-RasL61 mutations; HL-60 and TF-1, and the M1 cell line with wt Ras were investigated for their response to TGF-β. Signal transduction inhibitors, overexpression and RNA interference studies were performed to investigate the involvement of the various proteins.
+Results
+
+Although TGF-β signal transduction was not affected, G0-G1 arrest was absent in HL-60 and TF-1 cells due to the absence of p27. Overexpression of p27 restored TGF-β–induced cell-cycle arrest, as well as interfering in Ras-mediated signaling. The farnesyl transferase inhibitor L744832 and the MEK inhibitor U0126 both restored p27 levels and cell-cycle arrest in response to TGF-β. The absence of p27 protein is due to elevated levels of the ubiquitin ligase SKP2, which complexes with and targets p27 for degradation. RNA interference for SKP2 and treatment of these cells with the proteasome inhibitor MG132 restored p27 levels, corresponding with decreasing SKP2 levels after interfering in N-Ras signal transduction. P27, phosphorylated at threonine 187, is nuclear localized in N-Ras–containing cells. Mutation of this residue to alanine rendered p27 insensitive to degradation.
+Conclusion
+
+N-RasL61 transformed cells lack a G0-G1 arrest upon TGF-β treatment due to absence of p27. p27 is degraded through a MapK-, and SKP2-dependent pathway. Overexpression of p27 results in restoration of cell-cycle arrest upon TGF-β treatment.

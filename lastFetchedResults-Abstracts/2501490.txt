@@ -1,0 +1,22 @@
+Objective: MicroRNAs (miRNAs) are small endogenous non-coding regulatory RNAs that
+control mRNAs post-transcriptionally. Several mouse stem cells miRNAs are cloned differentially
+regulated in different hematopoietic lineages, suggesting their possible role in
+hematopoietic lineage differentiation. Recent studies have shown that specific miRNAs
+such as Mir-451 have key roles in erythropoiesis.
+Materials and Methods: In this experimental study, murine embryonic stem cells (mESCs)
+were infected with lentiviruses containing pCDH-Mir-451. Erythroid differentiation was assessed
+based on the expression level of transcriptional factors (Gata-1, Klf-1, Epor) and
+hemoglobin chains (?, B, ? , ? and ?) genes using quantitative reverse transcriptase-polymerase
+chain reaction (qRT-PCR) and presence of erythroid surface antigens (TER-119
+and CD235a) using flow cytometery. Colony-forming unit (CFU) assay was also on days
+14th and 21th after transduction.
+Results: Mature Mir-451 expression level increased by 3.434-fold relative to the untreated
+mESCs on day 4 after transduction (P < 0.001). Mir-451 up-regulation correlated with the induction
+of transcriptional factor (Gata-1, Klf-1, Epor) and hemoglobin chain (?, B, ?, ? and ?) genes
+in mESCs (P < 0.001) and also showed a strong correlation with presence of CD235a and Ter-
+119 markers in these cells (13.084- and 13.327-fold increse, respectively) (P < 0.05). Moreover,
+mESCs treated with pCDH-Mir-451 showed a significant raise in CFU-erythroid (CFU-E) colonies
+(5.2-fold) compared with untreated control group (P < 0.05).
+Conclusion: Our results showed that Mir-451 up-regulation strongly induces erythroid differentiation
+and maturation of mESCs. Overexpression of Mir-451 may have the potential to produce
+artificial red blood cells (RBCs) without the presence of any stimulatory cytokines.

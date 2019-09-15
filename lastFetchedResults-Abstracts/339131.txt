@@ -1,0 +1,11 @@
+Objective
+Cytokine production and hematopoiesis-supporting stromal activity of cord blood (CB)-derived unrestricted somatic stem cells (USSC) in comparison to bone marrow mesenchymal stem cells (BMMSC) and hematopoietic progenitor expansion solely driven by recombinant cytokines were assessed.
+Methods
+
+USSC generation was initiated from fresh and cryopreserved CB. Cytokine production by USSC and BMMSC was determined qualitatively by cytokine mRNA expression array analyses or quantitatively by Multiplex or ELISA analyses. To evaluate hematopoiesis-supporting activity, CB CD34+ cells were expanded in cocultures with USSC and BMMSC or in the presence of Flt3-L, SCF, and TPO. Expansion of CD34+ cells, total cells, colony-forming cells (CFC), and LTC-IC were determined after 1, 2, 3, and 4 weeks of culture.
+Results
+
+USSC constitutively produced SCF, LIF, TGF-1β, M-CSF, GM-CSF, VEGF, IL-1β, IL-6, IL-8, IL-11, IL-12, IL-15, SDF-1α, and HGF. When USSC were stimulated with IL-1β, G-CSF was released. Production of SCF and LIF were significantly higher in USSC compared to BMMSC. At 1, 2, 3, and 4 weeks, cocultivation of CD34+ cells on the USSC layer resulted in a 14.6-fold ± 1.1-fold, 110.1-fold ± 17.9-fold, 151.8-fold ± 39.7-fold, and 183.6-fold ± 40.4-fold amplification of total cells and in a 30.6-fold ± 4.4-fold, 101.4-fold ± 27.5-fold, 64.7-fold ± 15.8-fold, and 29.4-fold ± 3.1-fold amplification of CFC, respectively. LTC-IC expansion at 1 and 2 weeks was, with 2.0-fold ± 0.1-fold and 2.5-fold ± 0.3-fold, significantly higher for USSC than BMMSC (1.1-fold ± 0.03-fold and 1.1-fold ± 0.1-fold), but declined after day 21. Transwell cocultures of USSC did not significantly alter total cell or CFC expansion.
+Conclusions
+
+USSC produce functionally significant amounts of hematopoiesis-supporting cytokines and are superior to BMMSC in expansion of CD34+ cells from CB. USSC is therefore a suitable candidate for stroma-driven ex vivo expansion of hematopoietic CB cells for short-term reconstitution.

@@ -1,0 +1,4 @@
+Objective: Correlation of journal self-citation with journal impact factors as reported by Islamic Science Citation Database for technology and engineering academic journals published in Farsi during 2001-2007 periods.
+Methodology: Citation analysis was deployed over a sample consisting of 73 journals with indexed impact factor in ISC.
+Finding: Findings indicate that there is a significant link between self-citation and journal factor. There is also a negative significance between impact factors and total number of articles published. However no significant link was discerned between number of articles and number of self-citations. Journal self-citation ratio during this period had been constant for these journals. Upon eliminating journal self-citations, 21 journals experienced a dip in rank, while 43 journals experienced an increase. 9 journals experienced no change in ranking
+

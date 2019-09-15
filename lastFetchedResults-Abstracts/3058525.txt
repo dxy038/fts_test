@@ -1,0 +1,1 @@
+A high frequency link, transformer-isolated inverter is proposed. It is based on the bidirectional "DC-DC type" using center-tapped active rectifier at the secondary of the transformer. The topology requires a total of ten switches, with four of them operated at supply utility frequency. A 1 kW prototype is built to verify the performance of the inverter.

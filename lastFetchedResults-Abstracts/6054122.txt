@@ -1,0 +1,1 @@
+In this paper, we propose a fair scheduling solution for wireless mesh networks using multi-objective optimization technique. The main aim is to achieve fairness in wireless bandwidth utilization while also maximizing the overall system throughput in the wireless mesh network. We compare the proposed approach with existing solutions in a simulation environment.

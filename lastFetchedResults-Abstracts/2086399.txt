@@ -1,0 +1,15 @@
+Flat-slab building structures exhibit significant higher flexibility compared with traditional frame structures, and
+shear walls (SWs) are vital to limit deformation demands under earthquake excitations. The objective of this study is
+to identify an appropriate finite element (FE) model of SW dominant flat-plate reinforced concrete (R/C) buildings,
+which can be used to study its dynamic behavior. Three-dimensional models are generated and analyzed to check
+the adequacy of different empirical formulas to estimate structural period of vibration via analyzing the dynamic
+response of low- and medium-height R/C buildings with different cross-sectional plans and different SW positions
+and thicknesses. The numerical results clarify that modeling of R/C buildings using block (solid) elements for
+columns, SWs, and slab provides the most appropriate representation of R/C buildings since it gives accurate results
+of fundamental periods and consequently reliable seismic forces. Also, modeling of R/C buildings by FE programs
+using shell elements for both columns and SWs provides acceptable results of fundamental periods (the error does
+not exceed 10%). However, modeling of R/C buildings using frame elements for columns and/or SWs overestimates
+the fundamental periods of R/C buildings. Empirical formulas often overestimate or underestimate fundamental
+periods of R/C buildings. Some equations provide misleading values of fundamental period for both intact and
+cracked R/C buildings. However, others can be used to estimate approximately the fundamental periods of
+flat-plate R/C buildings. The effect of different SW positions is also discussed.

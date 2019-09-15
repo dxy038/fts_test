@@ -1,0 +1,9 @@
+Objective
+Extracellular matrix metalloproteinase inducer (EMMPRIN) is a surface glycoprotein that can stimulate the production of several matrix metalloproteinases (MMPs), which are thought to play an important role in atherosclerotic plaque destabilization and rupture. In order to demonstrate the involvement of EMMPRIN in the process of atherosclerosis, we characterized its expression profile in macrophages and foam cells, as well as its potential modulation by peroxisome proliferator-activated receptors (PPARs) agonists.
+Methods and results
+
+Through TaqMan real-time RT-PCR and Western blotting, we found the expression of both EMMPRIN mRNA and protein was significantly increased during phorbol 12-myristate 13-acetate (PMA)-induced monocyte differentiation into macrophages. However, the same results were not observed when macrophages were further induced to become foam cells by oxidized low-density lipoproteins (oxLDL). Both known PPARα agonist clofibrate and γ agonist pioglitazone potently and specifically inhibited EMMPRIN expression in macrophages and foam cells. Moreover, this inhibition was associated with a decrease of MMP-9 secretion and activity as determined by ELISA and zymography. In addition, PPARγ antagonist GW9662 reversed the inhibitory effect of PPARγ on EMMPRIN protein expression.
+Conclusion
+
+Our findings revealed an upregulation of EMMPRIN during monocyte differentiation into macrophages and foam cells. Both PPARα and γ agonists inhibited EMMPRIN expression, which may contribute to their inhibition of MMP.
+

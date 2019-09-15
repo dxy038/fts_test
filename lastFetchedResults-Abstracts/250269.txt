@@ -1,0 +1,15 @@
+A new implementation of the conjugate gradient method is presented that economically overcomes
+the problem of severe numerical noise superimposed on an otherwise smooth underlying objective
+function of a constrained optimization problem. This is done by the use of a novel gradient-only line
+search technique, which requires only two gradient vector evaluations per search direction and no
+explicit function evaluations. The use of this line search technique is not restricted to the conjugate
+gradient method but may be applied to any line search descent method. This method, in which the
+gradients may be computed by central finite differences with relatively large perturbations, allows
+for the effective smoothing out of any numerical noise present in the objective function. This new
+implementation of the conjugate gradient method, referred to as the ETOPC algorithm, is tested
+using a large number of well-known test problems. For initial tests with no noise introduced in
+the objective functions, and with high accuracy requirements set, it is found that the proposed new
+conjugate gradient implementation is as robust and reliable as traditional first-order penalty function
+methods. With the introduction of severe relative random noise in the objective function, the results
+are surprisingly good, with accuracies obtained that are more than sufficient compared to that required
+for engineering design optimization problems with similar noise.

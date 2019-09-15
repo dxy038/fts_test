@@ -1,0 +1,1 @@
+A landmark recognition system is proposed for autonomous vehicle navigation applications. This system uses artificial neural nets to classify patterns in multiple feature spaces characterized by different sensors. The core classifier, a bidirectional associative memory, has been partially simulated by a computer program and initial results show satisfactory performance

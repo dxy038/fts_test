@@ -1,0 +1,1 @@
+Supervisory control of the Main Southern Channel is considered based on the technique of model predictive control. The main objective is to minimize the water losses through the channel, while regulating the water-levels in the channel to be within the operation bounds, and satisfying water-demands at the downstream irrigation area as well.

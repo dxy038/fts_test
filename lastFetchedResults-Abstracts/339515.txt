@@ -1,0 +1,11 @@
+Objective
+Normal tissues, including the central nervous system, tolerate single exposures to narrow planes of synchrotron-generated x-rays (microplanar beams; microbeams) up to several hundred Gy. The repairs apparently involve the microvasculature and the glial system. We evaluate a hypothesis on the involvement of bystander effects in these repairs.
+Methods
+
+Confluent cultures of bovine aortic endothelial cells were irradiated with three parallel 27-μm microbeams at 24 Gy. Rats' spinal cords were transaxially irradiated with a single microplanar beam, 270 μm thick, at 750 Gy; the dose distribution in tissue was calculated.
+Results
+
+Within 6 hours following irradiation of the cell culture the hit cells died, apparently by apoptosis, were lost, and the confluency was maintained. The spinal cord study revealed a loss of oligodendrocytes, astrocytes, and myelin in 2 weeks, but by 3 months repopulation and remyelination was nearly complete. Monte Carlo simulations showed that the microbeam dose fell from the peak's 80% to 20% in 9 μm.
+Conclusions
+
+In both studies the repair processes could have involved “beneficial” bystander effects leading to tissue restoration, most likely through the release of growth factors, such as cytokines, and the initiation of cell-signaling cascades. In cell culture these events could have promoted fast disappearance of the hit cells and fast structural response of the surviving neighboring cells, while in the spinal cord study similar events could have been promoting angiogenesis to replace damaged capillary blood vessels, and proliferation, migration, and differentiation of the progenitor glial cells to produce new, mature, and functional glial cells.

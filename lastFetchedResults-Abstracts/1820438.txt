@@ -1,0 +1,8 @@
+Objective
+esent study evaluated differences in gene expression associated with age and gender in the human parotid gland.
+
+d gland tissue was analysed using the Affymetrix® GeneChip® HGU133plus2.0 array.
+s
+ential gene expression, defined as a statistically significant difference with a 1.5-fold or greater change, was detected in 787 gene probe sets; 467 (∼59%) showed higher expression in females. Several genes associated with saliva secretion were differentially expressed in male and female parotid glands including vesicle-associated membrane protein 3 VAMP3, synaptosomal-associated protein SNAP23, RAS oncogene family member RAB1A and the syntaxin binding protein STXBP1. Evaluation of gene expression in the youngest and the oldest female subjects revealed that the expression of 228 probe sets were altered during aging; 155 genes were up-regulated in the aged female parotid gland. However, of the genes that were altered during aging, 22 of the 30 probes (73%) classified as being associated with immune responses were down-regulated in the aged parotid gland. A panel of differentially expressed, age- and gender-related genes was selected for validation by quantitative, real-time RT-PCR. Comparable differences in gene expression were detected by both Affymetrix® array and quantitative, real-time RT-PCR methods.
+sions
+ta suggest that salivary gland function may be adversely affected in the aged population due, at least in part, to the altered regulation of several categories of genes. Moreover, the gender specific differences in gene expression identified in the present study correlate with the previously observed sexual dimorphism in salivary gland function.

@@ -1,0 +1,5 @@
+In this paper, two conjugate dual problems based on weak efficiency to a constrained vector optimization problem are introduced.
+Some inclusion relations between the dual objective mappings and the properties of the Lagrangian maps and their saddle points
+for primal problem are discussed. Gap functions for a vector equilibrium problem are established by using the weak and strong
+duality.
+© 2008 Elsevier Inc. All rights reserved.

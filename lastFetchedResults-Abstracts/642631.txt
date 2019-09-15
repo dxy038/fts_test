@@ -1,0 +1,11 @@
+Objective
+We compared the Deltatrac II, the M-COVX, and the Evita 4 metabolic monitoring devices under clinical conditions.
+Methods
+
+A prospective simultaneous clinical comparison was performed in a general intensive care department of a tertiary university hospital in 43 ventilated, critically ill patients. The monitors were compared simultaneously. After 30 min of steady state, oxygen consumption per unit time, carbon dioxide consumption per unit time, resting energy expenditure, and respiratory quotient were recorded for the Deltatrac II; the same parameters in addition to end-tidal carbon dioxide and fraction of inspired oxygen were recorded for the M-COVX; and carbon dioxide consumption per unit time, end-tidal carbon dioxide, and fraction of inspired oxygen were recorded for the Evita 4. Pulmonary gas-exchange measurements from the Deltatrac II and resting energy expenditure and respiratory quotient from the M-COVX were obtained after 30 min. The other parameters were calculated from the last five measurements obtained at the end of the study period.
+Results
+
+A good correlation was found between oxygen consumption per unit time and resting energy expenditure as obtained from the Deltatrac II and the M-COVX (r = 0.76 and 0.75, respectively; P < 0.001), but the correlation was lower between carbon dioxide consumption per unit time as obtained from the Deltatrac II and the M-COVX or Evita 4 (r = 0.67 and 0.48, respectively). Agreement between the different methods did not reach clinical acceptability, exceeding a 20% difference using the Bland-Altman statistical methods.
+Conclusion
+
+Poor agreement was found between the Deltatrac II and M-COVX or Evita 4 metabolic monitors, despite a good correlation between measurements, leading to the conclusion that the M-COVX and Evita 4 provide less accurate measurements of metabolic gas exchange in stable ventilated patients. These devices can be used for daily nutritional assessment and continuous monitoring, but the Deltatrac II remains the method of choice for metabolic measurement.

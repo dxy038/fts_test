@@ -1,0 +1,14 @@
+In this paper an optimal placement of
+photovoltaic systems (PV) as a source of active and
+reactive power in radial distribution networks is
+considered. The objective function of this problem is
+minimizing system losses and improving voltage profile.
+Genetic Algorithm (GA) implemented for this purpose.
+Photovoltaic solar systems can be used as STATCOM for
+voltage regulation and power factor correction during
+both nighttime and daytime. This novel PV solar system
+application, beside other useful applications, makes it
+very useful, so it can operate more effective by
+considering its reactive and active power generation in 24
+hours. In this study backward-forward power flow
+method is applied on standard IEEE 33-bus system.

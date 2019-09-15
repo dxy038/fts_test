@@ -1,0 +1,1 @@
+The objective of this paper is to briefly discuss the goal seeking with obstacle avoidance behavior (GSOA) for mobile robots. Hardware and software implementation using the Pioneer DX robot is also discussed. The detailed implementation of the MATLAB code with Visual C++ is also provided which is the underlying methodology for the software developed

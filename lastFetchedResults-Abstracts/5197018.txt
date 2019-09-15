@@ -1,0 +1,1 @@
+By using the method of variation of constants and the contraction mapping principle in Banach spaces, a model for bidirectional associative memory with impulsive and delay is studied. Global exponential stability of periodic solution for this model is obtained.

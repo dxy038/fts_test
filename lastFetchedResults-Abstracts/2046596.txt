@@ -1,0 +1,17 @@
+
+Objective: This article presents an application of cluster analysis for social sciences researches
+especially those studies that have an interview as part of their data collection. This application
+is more suitable for sequential mixed method researchers who use quantitative data to frame
+subsequent qualitative subsamples for conducting interviews. Method: In more detail, the algorithm (i.e., single linkage) employed for cluster analysis in
+this article is suitable for identifying the potential candidates for conducting interviews when
+the researcher is interested in outliers. Outliers provide interesting contrasts and distinction
+with other observations in a data set and are an interest for qualitative data analysis strategies. Results: The authors believe that cluster analysis is a better option than the traditional
+procedures for finding outliers (e.g., using explore or boxplot in SPSS) because cluster
+analysis finds outliers while considering different variables whereas the traditional methods
+has limitations and find outliers in respect to one variable. To present this application, first,
+cluster analysis and the single linkage which can be used for finding outlier data is presented.
+Then, a data set related to the psychology of learning mathematics was used to illustrate how
+outliers can be identified with cluster analysis via IBM SPSS 22. Conclusion: Finally, the results obtained from cluster analysis was interpreted. This is
+happened in order to explore whether the chosen algorithm for cluster analysis is accurate for
+finding suitable candidates for interviews.
+

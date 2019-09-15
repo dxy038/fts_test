@@ -1,0 +1,11 @@
+Objective
+To compare various techniques of stimulation and methods of analysis to estimate absolute (ARP) and relative (RRP) refractory periods in motor nerve trunks of humans.
+Methods
+Double collision (DC) technique and two types of paired pulse (PP) technique, with test stimulation of supramaximal (PPsupra) or submaximal (PPsub) intensity, were applied to 32 healthy subjects. The ulnar nerve was stimulated either at a single site (wrist) for the PP techniques or at two sites (wrist and elbow) for the DC technique, with various distal interstimuli intervals (ISIs). The elicited compound muscle action potentials (CMAPs) were recorded from the abductor digitorum minimi muscle. The DC technique provided estimates of minimal and maximal ARPs, whereas maximal RRP values were obtained with the PP techniques. Data were analyzed using three methods: a visual reading of the raw ISI–CMAP curves and two computer-aided analyses of the regression curve fitting the ISI–CMAP plots. Pain induced by each technique was assessed on a 0–10 visual analogue scale. A test-retest study was performed with the PP techniques in 12 subjects.
+Results
+RP estimates varied with both the stimulation technique and the analysis method. The DC technique was more painful than the PP techniques, but provided shorter and more accurate ARP values, whereas the PPsub technique provided longer, but valid RRP values. Computer-aided methods of data analysis gave the lowest coefficients of test-retest variation.
+Conclusions
+Compared to the PP techniques, the DC technique allowed the evaluation of the whole distribution of ARP estimates, not distorted by muscle fiber RPs. For RRP estimation, the PPsub technique can be preferred to the PPsupra technique. Finally, computer-aided methods are preferable to analyze ISI–CMAP curves.
+Significance
+The distribution of RP estimates can be easily and reliably assessed in whole motor nerve trunks of humans, providing valuable information to assess peripheral nerve excitability.
+

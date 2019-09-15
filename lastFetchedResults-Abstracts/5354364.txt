@@ -1,0 +1,1 @@
+The paper compares various multisine test signal designs for ADC testing. The analysis and results show that optimisation objective function different from those used in system identification is needed when the multisine test signal is applied on ADC testing. A novel optimisation based on phase space analysis is introduced.

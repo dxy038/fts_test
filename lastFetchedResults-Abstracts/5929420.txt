@@ -1,0 +1,1 @@
+Our goal is to minimize X-ray dose and maximize image quality by optimizing the acquisition and processing of X-ray fluoroscopy images. We use quantitative image quality techniques incorporating objective target detection experiments and models of human perception. Several recent results have practical implications for X-ray fluoroscopy system design

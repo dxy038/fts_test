@@ -1,0 +1,22 @@
+Background: Brain tissue segmentation for delineation of 3D anatomical structures
+from magnetic resonance (MR) images can be used for neuro-degenerative disorders,
+characterizing morphological differences between subjects based on volumetric analysis
+of gray matter (GM), white matter (WM) and cerebrospinal fluid (CSF), but only if
+the obtained segmentation results are correct. Due to image artifacts such as noise, low
+contrast and intensity non-uniformity, there are some classification errors in the results
+of image segmentation.
+Objective: An automated algorithm based on multi-layer perceptron neural networks
+(MLPNN) is presented for segmenting MR images. The system is to identify
+two tissues of WM and GM in human brain 2D structural MR images. A given 2D
+image is processed to enhance image intensity and to remove extra cerebral tissue.
+Thereafter, each pixel of the image under study is represented using 13 features (8
+statistical and 5 non- statistical features) and is classified using a MLPNN into one of
+the three classes WM and GM or unknown.
+Results: The developed MR image segmentation algorithm was evaluated using
+20 real images. Training using only one image, the system showed robust performance
+when tested using the remaining 19 images. The average Jaccard similarity index and
+Dice similarity metric for the GM and WM tissues were estimated to be 75.7 %, 86.0%
+for GM, and 67.8% and 80.7%for WM, respectively.
+Conclusion: The obtained performances are encouraging and show that the presented
+method may assist with segmentation of 2D MR images especially where categorizing
+WM and GM is of interest.

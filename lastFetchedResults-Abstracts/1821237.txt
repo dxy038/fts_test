@@ -1,0 +1,8 @@
+Objectives
+in objective of this study was modelling experienced caries of deciduous teeth in 3–5 years old children treated in Children's Department of Tehran University of Medical Sciences, Iran, using the spatial autologistic regression. The other objective was identifying a risk pattern of decayed dents of these children.
+als and methods
+udy group consisted of 400 children (3–5 years old). Two groups of postgraduate and under graduate dentistry students under consideration and approval of the professors of dentistry from the Tehran University of Medical Sciences diagnosed and categorised the caries statuses of deciduous dents of the children. The caries statuses were considered as spatially correlated binary data. The appropriate model was autologistic regression.
+s
+tted autologistic model showed that caries in the three nearest neighbours of a tooth, which includes the two adjacent and the one vertically opponent teeth, had significant effect on its caries. The computed risks based on the fitted model revealed a definite-spatial pattern of caries events.
+sions
+decayed deciduous tooth in the mouth of a preschool child threatens the three nearest teeth. The risk pattern of caries in each quarter of the teeth lattice of children from incisors to molars has an ascending rate. The dents in maxilla and posterior locations have higher risks of caries than in mandible and anterior locations. These findings are valuable in preventive health care and therapeutic approaches in dentistry of children.

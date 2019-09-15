@@ -1,0 +1,12 @@
+The Bahı´a Blanca Estuary (38   500 S, and 62  300 W) presents salt marshes where interactions between the local flora (Sarcocornia perennis)
+and fauna (Chasmagnathus granulatus) generate some kind of salt pans that alter the normal water circulation and condition its flow and course
+towards tidal creeks. The crabevegetation dynamics in the salt marsh presents variations that cannot be quantified in a reasonable period of time.
+The interaction between S. perennis plant and C. granulatus crab is based on simple laws, but its result is a complex biological mechanism that
+causes an erosive process on the salt marsh and favors the formation of tidal creeks. To study it, a Cellular Automata model is proposed, based on
+the laws deduced from the observation of these phenomena in the field, and then verified with measurable data within macroscale time units.
+Therefore, the objective of this article is to model how the interaction between C. granulatus and S. perennis modifies the landscape of the salt
+marsh and influences the path of tidal creeks. The model copies the basic laws that rule the problem based on purely biological factors.
+The Cellular Automata model proved capable of reproducing the effects of the interaction between plants and crabs in the salt marsh. A study
+of the water drainage of the basins showed that this interaction does indeed modify the development of tidal creeks. Model dynamics would
+likewise follow different laws, which would provide a different formula for the probability of patch dilation. The patch shape can be obtained
+changing the pattern that dilates.

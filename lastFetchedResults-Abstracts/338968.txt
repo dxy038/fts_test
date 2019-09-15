@@ -1,0 +1,11 @@
+Objective
+Tumor necrosis factor-α (TNF-α) inhibits erythropoiesis and enhances nonerythroid colony formation. The present study examines the nature of these nonerythroid cells and investigates their physiologic role in relation to erythroid progenitor cells.
+Materials and Methods
+
+Highly purified human CD34+ cells underwent erythroid differentiation in the presence of multiple cytokines, including stem cell factor (SCF), interleukin-3 (IL-3), and erythropoietin (EPO), with and without TNF-α. We enumerate colony-forming unit-erythroid (CFU-E) and glycophorin A (GPA; a specific marker for erythroid lineage) positive cells in semisolid phase as well as in liquid suspension culture. The character and roles of codeveloping nonerythroid cells in the presence of TNF-α were analyzed using fluorescent activating cell sorter, enzyme immunohistochemistry, and confocal microscopy.
+Results
+
+TNF-α inhibited the generation of GPA+ cells and conversely enhanced the generation of GPA− cells. The GPA− cells were comprised of cells with excentric cell shape and were positive for HLA class I, HLA class II, CD1a, CD4, CD11c, CD14, CD40, CD80, CD83, and CD86, but not for CD3, CD8, CD19, CD20, and CD56, indicating the codevelopment of dendritic cells (DC) along with erythroid differentiation. Developing DC/DC precursors were detected within 3 days of culture. Only in the presence of TNF-α did CD34+ cells proliferate by forming aggregates where both GPA+ and CD11c+ DC/DC precursors were present. During culture period, immature CD11c+ DC were capable of endocytosing damaged GPA+ cells.
+Conclusions
+
+GPA− cells cogenerated from human CD34+ cells during erythroid differentiation in the presence of IL-3/SCF/EPO and TNF-α express DC phenotypes. The CD11c+ DC subset physically and selectively associates with developing immature erythroid cells and damaged self-GPA+ cells and then obtains and captures self-substances.

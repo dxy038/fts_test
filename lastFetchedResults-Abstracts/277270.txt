@@ -1,0 +1,8 @@
+Objective: This paper documents research that quantifies and describes the biomechanics of normal gait on inclined surfaces.
+Design: Experimental, investigative.
+Background: It is necessary to walk on inclined surfaces to negotiate the natural and built environments. Little research has been conducted on the biomechanics of normal gait on inclined surfaces.
+Methods: The gait of 11 healthy male volunteers was measured using a Vicon system 370 on an inclinable walkway. Gait was measured at 0°, 5°, 8° and 10° of incline. Passive optical markers were placed on each subject and they walked at a self-selected speed up and down the walkway. Ground reaction forces and EMG were measured. Gait data were analysed in Vicon Clinical Manager.
+Results: Changes in the dynamics of the lower limbs with respect to incline angles are described. Between subject and between condition differences in biomechanical parameters were significant. Hip flexion increased at heel strike with inclines from −10° to +10°. Knee flexion and ankle dorsiflexion at heel strike increased with increasing angle walking up, but not down. Changes in joint moments and powers due to change in the angle of incline or direction of walking were observed.
+Conclusions: The mechanisms by which the body enables walking up and downhill, specifically raising and lowering the centre of mass, and preventing slipping, can be seen in the alteration in the dynamics of the lower limbs. Increases in range of motion and muscle strength requirements need to be considered in the design of lower limb prostheses and in orthopaedic and neurological rehabilitation.
+Relevance: Gait, prosthetics, rehabilitation, balance and falls.
+

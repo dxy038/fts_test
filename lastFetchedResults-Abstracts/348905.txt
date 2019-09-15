@@ -1,0 +1,11 @@
+Objective
+The present work aimed to evaluate the performance of an automatic slow eye movement (SEM) detector in overnight and 24-h electro-oculograms (EOG) including all sleep stages (1, 2, 3, 4, REM) and wakefulness.
+Methods
+Ten overnight and five 24-h EOG recordings acquired in healthy subjects were inspected by three experts to score SEMs. Computerized EOG analysis to detect SEMs was performed on 30-s epochs using an algorithm based on EOG wavelet transform, recently developed by our group and initially validated by considering only pre-sleep wakefulness, stages 1 and 2.
+Results
+The validation procedure showed the algorithm could identify epochs containing SEM activity (concordance index k = 0.62, 80.7% sensitivity, 63% selectivity). In particular, the experts and the algorithm identified SEM epochs mainly in pre-sleep wakefulness, stage 1, stage 2 and REM sleep. In addition, the algorithm yielded consistent indications as to the duration and position of SEM events within the epoch.
+Conclusions
+The study confirmed SEM activity at physiological sleep onset (pre-sleep wakefulness, stage 1 and stage 2), and also identified SEMs in REM sleep. The algorithm proved reliable even in the stages not used for its training.
+Significance
+The study may enhance our understanding of SEM meaning and function. The algorithm is a reliable tool for automatic SEM detection, overcoming the inconsistency of manual scoring and reducing the time taken by experts.
+

@@ -1,0 +1,13 @@
+BACKGROUND: Culturing and working with wild type HIV virions may produce contamination and infection. The main
+objective of this study was to design a non-infective HIV-I strain that can be used safely in research laboratories for
+various research topics on HIV life cycle and pathogenesis.
+METHODS: Non-infective HIV-I strain (mzNL4-3) was designed by deleting a 2 Kb sequence ofHIV-1 (NL4-3 strain)
+genome that codes reverse transcriptase (RT) and integrase (IN) enzymes.
+RESULTS: The deletion removed 95% of RT and 34% of IN peptide sequences and abolished the functions of these enzymes
+totally. This deletion didn't produce any other alteration in HIV genome, not only in mRNA level but also in
+transcription or translation levels. We named this strain, mutated z NL4-3 (mzNL4-3).
+CONCLUSIONS: Our mutated HIV-l virions can be produced by transforming any mammalian cell line with mzNL4-3
+vector (pmzNL4-3) but these virions can not replicate in any competent target cell. Hence, it can be used for many of
+the HIV-I researches in a level 2 lab. mzNL4-3 has also the major antigen markers of HIV-I, NY5 and LAV strains,
+which are the most common strains of HIV-1. Therefore, mzNL4-3 can also be considered as a choice for HIV-1 vaccine
+investigation. Probably mzNL4-3 could be used for lab research and vaccine investigation.

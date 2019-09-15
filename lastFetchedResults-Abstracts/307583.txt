@@ -1,0 +1,9 @@
+Objective:
+To develop and evaluate the performance of an application protocol for the EMIT 2000 tacrolimus (Tac) assay on the Beckman Synchron LX20 PRO Analyzer.
+Design and Methods:
+Precision, accuracy, linearity, and lower limit of quantitation were investigated. Specimens from 212 kidney, liver, heart/heart–lung, and islet cell transplant patients were analyzed and results were compared to those from the Abbott MEIA II assay. A separate population of 232 specimens was coanalyzed by the enzyme-multiplied immunoassay technique (EMIT) assay and liquid chromatography tandem mass spectrometry (LC-MS/MS).
+Results:
+Total imprecision was 13.7% and 6.0% at concentrations of 3.4 and 19.1 μg/L, respectively. Recoveries from assayed reference materials ranged from 103% to 109%. A quantitation range of 3.2–30.0 μg/L was validated. The EMIT assay on the LX20 PRO analyzer showed an average negative bias of 1% compared to the MEIA assay and an average positive bias of 17% compared to LC-MS/MS.
+Conclusion:
+This application for the EMIT 2000 Tac assay on the Beckman Synchron LX20 PRO analyzer enhances the versatility of the immunoassay for routine therapeutic drug monitoring (TDM) of this immunosuppressant in the clinical setting.
+

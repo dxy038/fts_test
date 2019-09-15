@@ -1,0 +1,11 @@
+Objective
+Retrospective evaluation and comparison of performances of a multivariate method for seizure detection and prediction on simultaneous long-term EEG recordings from scalp and intracranial electrodes.
+Methods
+Two multivariate techniques based on simulated leaky integrate-and-fire neurons were investigated in order to detect and predict seizures. Both methods were applied and assessed on 423 h of EEG and 26 seizures in total, recorded simultaneously from the scalp and intracranially continuously over several days from six patients with pharmacorefractory epilepsy.
+Results
+Features generated from simultaneous scalp and intracranial EEG data showed a similar dynamical behavior. Significant performances with sensitivities of up to 73%/62% for scalp/invasive EEG recordings given an upper limit of 0.15 false detections per hour were obtained. Up to 59%/50% of all seizures could be predicted from scalp/invasive EEG, given a maximum number of 0.15 false predictions per hour. A tendency to better performances for scalp EEG was obtained for the detection algorithm.
+Conclusions
+The investigated methods originally developed for non-invasive EEG were successfully applied to intracranial EEG. Especially, concerning seizure detection the method shows a promising performance which is appropriate for practical applications in EEG monitoring. Concerning seizure prediction a significant prediction performance is indicated and a modification of the method is suggested.
+Significance
+This study evaluates simultaneously recorded non-invasive and intracranial continuous long-term EEG data with respect to seizure detection and seizure prediction for the first time.
+

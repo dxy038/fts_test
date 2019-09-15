@@ -1,0 +1,11 @@
+Objective. A clinically oriented technique is proposed for evaluating the reliability of methods for estimating joint center locations from surface markers, as is an optimization method for estimating joint center locations during planar movements.
+
+Design. Segment length variability is used as a measure of reliability, and three simple methods for locating joint centers are compared via repeated measures analysis. Rigorous evaluation is achieved by applying adjustment parameters to a data set, other than the one from which parameters were derived.
+
+Background. Although more sophisticated techniques are available, many clinical and experimental studies use visual observation and palpation to locate joint centers. This study offers a simple means to evaluate the reliability of that method, and it offers two simple post-hoc methods to improve reliability.
+
+Methods. Single-joint movements are used to generate adjustment parameters from threedimensional (3D) measurements of surface markers; these are applied to multi-joint movement trials. Segment length variability is compared before and after adjustment with each of two post-hoc methods.
+
+Results. As shown by lowered segment length standard deviations, the proposed optimization technique improved reliability compared to the observational and the two-dimensional (2D) post-hoc methods.
+
+Conclusions. The segment length technique offers a simple means to evaluate the reliability with which joint centers are located, and the new optimization method improves reliability for planar multi-joint movements.

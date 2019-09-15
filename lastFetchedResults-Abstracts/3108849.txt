@@ -1,0 +1,1 @@
+The objective of this paper is to present an algorithm that can be used in conjunction with measured atmospheric variables at discrete monitoring locations to estimate spatially varying air pollution levels and apply the algorithm to nitrogen dioxide (NO<inf>2</inf>) measurements carried out near a heavily travelled highway in Tokushima, Japan.

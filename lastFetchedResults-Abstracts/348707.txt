@@ -1,0 +1,11 @@
+Objective
+A fully automated method for reducing EOG artifacts is presented and validated.
+Methods
+The correction method is based on regression analysis and was applied to 18 recordings with 22 channels and approx. 6 min each. Two independent experts scored the original and corrected EEG in a blinded evaluation.
+Results
+The expert scorers identified in 5.9% of the raw data some EOG artifacts; 4.7% were corrected. After applying the EOG correction, the expert scorers identified in another 1.9% of the data some EOG artifacts, which were not recognized in the uncorrected data.
+Conclusions
+The advantage of a fully automated reduction of EOG artifacts justifies the small additional effort of the proposed method and is a viable option for reducing EOG artifacts. The method has been implemented for offline and online analysis and is available through BioSig, an open source software library for biomedical signal processing.
+Significance
+Visual identification and rejection of EOG-contaminated EEG segments can miss many EOG artifacts, and is therefore not sufficient for removing EOG artifacts. The proposed method was able to reduce EOG artifacts by 80%.
+

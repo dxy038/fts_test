@@ -1,0 +1,11 @@
+Objective
+In order to identify factors involved in the aberrantly regulated apoptosis of megakaryocytes in primary myelofibrosis (PMF), the mRNA expression of human megakaryocytes in situ was quantified by real-time polymerase chain reaction low-density arrays.
+Materials and Methods
+
+The mRNA from 200 to 300 laser-microdissected megakaryocytes per case from PMF (n = 22) and control (n = 10) bone marrow was reverse-transcribed into cDNA by random priming and subsequently amplified by primer-specific cDNA amplification. The mRNA of corresponding total bone marrow cells was reverse-transcribed into cDNA without the following amplification. For relative mRNA quantification, custom-made TaqMan low-density arrays with a setup of 48 different genes were applied. In addition, methylation analysis and immunohistochemistry of a selected candidate gene were accomplished.
+Results
+
+A trend toward an overall downregulation of apoptosis-associated genes could be observed in megakaryocytes, whereas the total bone marrow cellularity exhibited an overall upregulation of these factors. Among several candidates with statistically significant deregulation BCL2/adenovirus E1B 19 kDa interacting protein 3 (BNIP3) and protein kinase C β1 were shown to be the most aberrantly expressed genes.
+Conclusion
+
+Apoptosis-related gene expression profiling of human megakaryocytes reveals a set of candidates, most notably BNIP3, indicating that the increase of megakaryocytes in myeloproliferative neoplasia might not only be the result of increased proliferation but also of disturbed apoptosis.

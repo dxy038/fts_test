@@ -1,0 +1,4 @@
+Our objective is to develop, and undertake a preliminary evaluation of a simple solar radiation forecast model using sky cover predictions
+from the National Digital Forecast Database as an input. This report describes the model and presents a limited evaluation of its
+performance against ground-measured and satellite-derived irradiances in Albany, New York.
+  2006 Elsevier Ltd. All rights reserved

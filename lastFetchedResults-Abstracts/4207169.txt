@@ -1,0 +1,1 @@
+Employing 8PSK and 16PSK modulation formats, non-degenerate four-wave mixing (FWM) in a single highly nonlinear fiber (HNLF), and coherent detection, we experimentally demonstrate 40-Gbaud/s (120-Gbit/s) octal and 10-Gbaud/s (40-Gbit/s) hexadecimal simultaneous addition (A+B) and bidirectional subtraction (A-B, B-A).

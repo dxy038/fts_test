@@ -1,0 +1,1 @@
+This paper analyzes experimentally the use of distributed feedback lasers (DFB) in order to increase modulation bandwidth in multimode fibres, enabling 3 km bidirectional radio-over-multimode fibre UMTS transmission in a frequency-division duplexing (FDD) configuration.

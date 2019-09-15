@@ -1,0 +1,11 @@
+Objective
+To identify an immunodominant HLA-A33-restricted epitope within the CMV matrix phosphoprotein 65 (pp65) that could be used to elicit CMV-specific CTLs.
+Methods
+
+A computer algorithm was used to identify pp65 peptides that were expected to bind to HLA-A33. The peptides were screened for their ability to reactivate memory T lymphocytes from CMV-seropositive HLA-A33 donors by using quantitative real-time RT-PCR. The most promising peptides were then tested for their ability to expand a CD8+ population of HLA-A33 CTLs that produced interferon-γ (IFN-γ) and were cytotoxic to either peptide-loaded or CMV-infected target cells.
+Results
+
+Sixteen out of 250 peptides were selected using a computer algorithm and peptide stimulation by 8 out of the 16 induced a significant quantity of IFN-γ mRNA transcript from CMV-seropositive HLA-A33 peripheral blood mononuclear cells. All the eight peptides induced consistent T-cell reactivation. One specifically, the peptide pp6591-100 (SVNVHNPTGR), proved to be more active. T cells in vitro sensitized for 2 or 3 weeks with pp6591-100 were cytotoxic to both HLA-A33 peptide-loaded and CMV-infected target cells.
+Conclusions
+
+CMV pp6591-100 is a new HLA-A33-restricted peptide that broadens the list of antigenic determinants that can be used for CMV adoptive immunotherapy.

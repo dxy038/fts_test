@@ -1,0 +1,1 @@
+We experimentally d emonstrate a novel survivable WDM-PON architecture with colorless ONUs. It uses N times N arrayed waveguide grating to provide bidirectional protection capability against not only feeder fiber cut but also distribution fiber cuts.

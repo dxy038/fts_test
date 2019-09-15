@@ -1,0 +1,11 @@
+In this paper, the design of an impedance-adapting
+bidirectional transformer coupling circuit for low-voltage powerline
+communications is described. It is shown that transmission
+through the transformer is governed by series resonance of the
+leakage inductance and coupling capacitance. At low frequencies
+though, the magnetizing inductance plays an important role in filtering
+the power waveform. The coupling transformer, if properly
+designed, can equalize terminating impedances on either side
+for maximum power transfer. Furthermore, these equalized terminating
+impedances facilitate symmetrical bidirectional band-pass
+transmission.

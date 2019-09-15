@@ -1,0 +1,1 @@
+Although parallelization of algebraic fractal computations has been done in the past, the issue of efficient parallel computation has not been fully addressed in the literature. The objective of this paper is to examine the computational characteristics of algebraic fractal computations and determine an efficient scheme for parallel computation.

@@ -1,0 +1,11 @@
+Objective
+The Ets family transcription factor PU.1 is essential for both myeloid and lymphoid development. PU.1 was discovered because of its involvement in murine erythroleukemia. We previously described that infection with a retroviral vector encoding PU.1 immortalizes fetal liver progenitor cells in response to granulocyte-macrophage colony-stimulating factor (GM-CSF) signaling. In this study, we sought to characterize PU.1-immortalized progenitor (PIP) cells.
+Methods
+
+PIP cells were characterized using microscopy, reverse-transcriptase polymerase chain reaction analysis, and flow cytometric analysis. In addition, progenitors were immortalized with a retrovirus containing a PU.1 cDNA flanked by loxP sites. The differentiation potential of immortalized progenitors was tested by Cre-mediated excision of the proviral PU.1 cDNA.
+Results
+
+PIP cells are blastlike in morphology and express cell surface markers indicative of myeloid development. Immortalization of progenitor cells requires both an acidic activation domain and an intact DNA-binding domain of PU.1. Gene expression analysis of PIP cells demonstrated the expression of genes of both myeloid and erythroid lineages. Proliferation of PIP cells was GM-CSF dependent and restricted. Upon Cre-mediated excision of proviral PU.1 cDNA, increased expression of myeloid and erythroid-specific genes was observed; as well as the appearance of both macrophages and erythrocytes in culture.
+Conclusion
+
+We demonstrate that ectopic expression of PU.1 is sufficient to immortalize a hematopoietic progenitor with myeloid and erythroid differentiation potential in response to GM-CSF. These data highlight the importance of the level of PU.1 expression at critical stages of hematopoiesis.

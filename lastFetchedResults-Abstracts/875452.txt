@@ -1,0 +1,5 @@
+In this paper, a class of multiobjective control problems is considered, where the
+objective and constraint functions involved are f  t  x t   ˙ x t   y t   z t   with x t  ∈
+Rn, y t  ∈ Rn, and z t  ∈ Rm, where x t  and z t  are the control variables and y t  is the state variable.Under the assumption of invexity and its generalization, duality
+theorems are proved through a parametric approach to related properly efficient
+solutions of the primal and dual problems

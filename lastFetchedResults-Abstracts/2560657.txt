@@ -1,0 +1,11 @@
+Although a machine-tool selection and operation allocation problem of a
+Flexible Manufacturing System (FMS) is known for its complexity, scheduling of these systems is 
+more operative and more complex. This paper considers scheduling of an FMS with dynamic 
+machine-tool selection and operation allocation. In addition, due to the NP-hard nature of this 
+problem, a modified Evolutionary Algorithm (EA) considering an island model is proposed to solve 
+the given problem. Its performance is tested on a number of randomly generated problems. 
+Furthermore, the related results are compared with the results obtained by a Branch-and-Bound (B&B) 
+method. It has been found that the modified EA with the island model gives good results in terms of 
+the objective function
+values and CPU times.
+

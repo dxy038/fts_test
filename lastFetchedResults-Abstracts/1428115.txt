@@ -1,0 +1,10 @@
+Background
+eople with bipolar disorder (BD) in the community are misdiagnosed with major depressive disorder (MDD). A probabilistic model has been proposed to assist in the identification of BD among patients with depressive symptoms, however there are limited population-based data on the key distinguishers of BD from MDD. The objective of this study was to identify distinguishers of BD from MDD in a population-based sample.
+s
+tion-based data were extracted from the Canadian Community Health Survey: Mental Health and Well-Being. Sociodemographic variables, clinical variables, and depressive symptomatology were compared between subjects with BD (N = 467) and MDD (N = 4145). Logistic regression analysis was used to identify significant correlates of BD, and areas under the receiver operating characteristic curves (AUCs) were determined for each model.
+s
+ MDD subjects differed across a number of characteristics. Clinical variables significantly associated with BD included greater number of lifetime depressive episodes, earlier age of first depressive episode, lifetime anxiety disorder, problematic substance use, and lifetime suicide attempt. Symptoms significantly more common during a major depressive episode among BD subjects included agitation, suicidal ideation, anxious symptoms, and irritability. AUCs for these models ranged from 0.72 to 0.81.
+tions
+ere not available for all potential distinguishers; subgroups of BD could not be determined; cross-sectional data.
+sions
+population-based results reinforce the effort to establish a generalizable probabilistic model that incorporates clinical and symptom variables in order to assist clinicians in the diagnostic assessment of BD.

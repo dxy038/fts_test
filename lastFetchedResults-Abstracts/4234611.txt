@@ -1,0 +1,1 @@
+A prototype feature extraction system based on frame representation of part data and features is presented. A feature description language (FDL), based on semantic nets, is described. The objective of this approach is to provide an intelligent and flexible link between design and manufacturing. Finally, the system implementation and sample results are discussed

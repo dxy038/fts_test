@@ -1,0 +1,1 @@
+This paper introduces an improved data envelope analysis (DEA) approach to evaluate the customer loyalty of C2C E-business. Information entropy theory is used to constrain the weight assignment in DEA model, which helps improve the traditional DEA model and acquire a more objective and reasonable evaluation result. An empirical case is given to illustrate the improved model.

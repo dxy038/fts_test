@@ -1,0 +1,1 @@
+We describe a DRAM interface operating at 2Gb/s/pin. It utilizes simultaneous bidirectional signaling in a daisy-chained, point-to-point configuration to enable scalable memory subsystems, and also provides direct attach capability for logic devices. We present results from a system using both logic and DRAM test-chips.

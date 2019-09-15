@@ -1,0 +1,11 @@
+Objective
+To test the hypothesis that attention to painful cutaneous laser stimuli enhances event-related desynchronization (ERD) in cortical regions receiving nociceptive input.
+Methods
+We used wavelet time–frequency analysis and bandpass filtering to measure ERD quantitatively in subdural electrocorticographic recordings while subjects either attended to, or were distracted from, a painful cutaneous laser stimulus.
+Results
+ERD were observed over primary somatosensory and parasylvian (PS) cortices in all 4 subjects, and over medial frontal cortex in 1 subject. Laser-evoked potentials were also observed in all 3 regions. In all subjects, ERD was more widespread and intense, particularly over PS, during attention to laser stimuli (counting stimuli) than during distraction from the stimuli (reading for comprehension).
+Conclusions
+These findings suggest that pain-associated ERD is modulated by attention, particularly over PS.
+Significance
+This study suggests that thalamocortical circuits are involved in attentional modulation of pain because of the proposed role of these circuits in the mechanisms of ERD.
+

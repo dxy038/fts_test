@@ -1,0 +1,1 @@
+This paper addresses the problem of estimating node voltages in bipolar circuits. The node estimation algorithm uses linear programming constraint equations derived from the circuit structure and a heuristic objective function

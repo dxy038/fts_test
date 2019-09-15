@@ -1,0 +1,11 @@
+Objective
+Stimulus-driven salience is determined involuntarily, and by the physical properties of a stimulus. It has recently been theorized that neural coding of this variable involves oscillatory activity within cortical neuron populations at beta frequencies. This was tested here through experimental manipulation of inter-stimulus interval (ISI).
+Methods
+Non-invasive neurophysiological measures of event-related gamma (30–50 Hz) and beta (12–20 Hz) activity were estimated from scalp-recorded evoked potentials. Stimuli were presented in a standard “paired-stimulus” sensory gating paradigm, where the S1 (conditioning) stimulus was conceptualized as long-ISI, or “high salience”, and the S2 (test) stimulus as short-ISI, or “low salience”. Three separate studies were conducted: auditory stimuli only (N = 20 participants), somatosensory stimuli only (N = 20), and a cross-modal study for which auditory and somatosensory stimuli were mixed (N = 40).
+Results
+Early (20–150 ms) stimulus-evoked beta activity was more sensitive to ISI than temporally-overlapping gamma-band activity, and this effect was seen in both auditory and somatosensory studies. In the cross-modal study, beta activity was significantly modulated by the similarity (or dissimilarity) of stimuli separated by a short ISI (0.5 s); a significant cross-modal gating effect was nevertheless detected.
+Conclusions
+With regard to the early sensory-evoked response recorded from the scalp, the interval between identical stimuli especially modulates beta oscillatory activity.
+Significance
+This is consistent with developing theories regarding the different roles of temporally-overlapping oscillatory activity within cortical neuron populations at gamma and beta frequencies, particularly the claim that the latter is related to stimulus-driven salience.
+

@@ -1,0 +1,8 @@
+In this paper, reconfiguration problem of distribution network has been investigated to
+improve reliability and reduce power loss by placement of renewable energy sources; i.e. solar
+cell and wind turbine. For this, four reliability indices are considered in objective function;
+which are as follows: System Average Interruption Frequency Index (SAIFI), System Average
+Interruption Duration Index (SAIDI), Cost of Energy Not Supplied (CENS), and Momentary
+Average Interruption Frequency Index (MAIFI). By using a novel technique, the target function
+was normalized. Simulation has been performed on IEEE 69-bus test system. A genetic algorithm
+could solve this nonlinear problem.

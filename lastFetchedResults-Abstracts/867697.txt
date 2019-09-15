@@ -1,0 +1,10 @@
+In the literature on transit planning, network timetabling and vehicle scheduling are usually treated as
+separate problems. In this paper, we focus on combining important features of these two steps and propose
+a simultaneous solution approach to redefine timetables with the objective of bringing improvements
+to both quality of service and vehicle costs incurred. This includes the objectives of quantity
+and quality of the transfers proposed, evenness of the line headways, fleet size and length of the deadheads.
+The model proposed for this simultaneous approach is adapted to the problem faced by regulating
+authorities, encouraging intermodality and taking into account a variety of practical features. We introduce
+an optimization procedure based on Iterated Local Search and present computational experiments
+carried out on data from a large existing transit network, showing substantial improvements in both
+quality of service and level of resources compared to the current practice.

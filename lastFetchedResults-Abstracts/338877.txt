@@ -1,0 +1,11 @@
+Objective
+Resistance to imatinib mesylate monotherapy is clearly a barrier to successful treatment of chronic myeloid leukemia (CML) patients. In some patients, resistance arises due to powerful selective pressure on rare cells that carry amplified copies of the BCR-ABL fusion oncogene or point mutations in the Bcr-Abl tyrosine kinase domain that affect binding of the drug to the oncoprotein. However, in a proportion of patients neither mechanism operates, and resistance appears to be a priori, existing prior to exposure to the drug. These mechanisms of imatinib resistance are poorly understood and may be heterogeneous.
+Materials and methods
+
+We have previously described such innate resistance to imatinib in subclones of a myeloid leukemia cell line, KCL22, in which imatinib exposure inhibits the activity of Bcr-Abl and yet fails to induce apoptosis. We describe here whole-genome expression analysis of imatinib-sensitive and -resistant cells derived from the original KCL22 line, using Affymetrix microarray analysis.
+Results
+
+We detected differential expression of 39 genes that correlate with the imatinib-resistant phenotype. The resistant cells overexpress several genes associated with the suppression of apoptosis or with conferral of a transformed phenotype.
+Conclusion
+
+Amongst the differentially-expressed genes correlating with imatinib resistance, several suggest the activation of alternative pathway(s) that maintain viability and growth independently of Bcr-Abl kinase activity. Given the high rate of primary imatinib resistance in blast crisis, the potential of activating such alternative pathways appears to correlate with disease progression.

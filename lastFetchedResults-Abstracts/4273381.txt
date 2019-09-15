@@ -1,0 +1,1 @@
+The cooperative system consists of set of agents (physical or abstract) able to act and communicate each others. The objective of our application is to carry out the cooperative system of Mycin. Mycin is an expert system designed to help the diagnostic of infectious diseases. For the system, the elaboration of a diagnosis is based on the communication.

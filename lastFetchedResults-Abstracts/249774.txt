@@ -1,0 +1,11 @@
+It has been established that a crack has an important e ect on the dynamic behaviour of a structure.
+This e ect depends mainly on the location and depth of the crack. To identify the location and depth
+of a crack in a planar frame structure, a method is presented in this paper which uses a synthetic
+arti cial intelligence technique, i.e. adaptive-network-based fuzzy inference system (ANFIS) solved
+via a hybrid learning algorithm (the backpropagation gradient descent and the least-squares method)
+and continuous evolutionary algorithms (CEAs) solving single objective optimization problems with a
+continuous function and continuous search space e ciently are uni ed. With ANFIS and CEAs it is
+possible to formulate the inverse problem. ANFIS is used to obtain the input (the location and depth
+of a crack)–output (the structural eigenfrequencies) relation of the structural system. CEAs are used
+to identify the crack location and depth by minimizing the di erence from the measured frequencies.
+We have tried this idea on 2D beam structures and the results are promising

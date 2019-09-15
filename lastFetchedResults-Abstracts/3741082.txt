@@ -1,0 +1,1 @@
+We present an analytical model to investigate the mean hop distance of shortest path routing bidirectional optical WDM ring networks not only for multicast traffic with arbitrary fanout but also for unicast and broadcast traffic.

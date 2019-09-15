@@ -1,0 +1,1 @@
+A custom 8b microcomputer with a bidirectional PPM communications channel with error checking, a memory patching function to allow external patching of ROM programs, and parity checking of each instruction fetched from memory, will be reported. Typical standby current drain is 3.5&#956;A.

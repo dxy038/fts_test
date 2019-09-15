@@ -1,0 +1,5 @@
+Three strategies for the construction of calibration sets have been tried, with the objective to develop and to validate a NIR quantitation method.
+
+rst two approaches consist of the use of two types of samples, named: samples of laboratory obtained by mixing the ingredients that compose the drug, and doped samples obtained by under- and over-dosed production samples. In order to improve the prediction results, production samples have been added to each calibration model. The ensuing models were validated with a view to determine their fitness for purpose. However, spectral differences between the laboratory samples and doped samples resulted in spurious predictions in quantifying samples of one type using the model developed from samples of the other.
+
+ifferences were studied in depth and a third procedure has been proposed, based on a calibration model constructed with an unique type of sample (laboratory sample) for later to correct it with a few doped samples. This corrected model has a good predictive ability on production samples.

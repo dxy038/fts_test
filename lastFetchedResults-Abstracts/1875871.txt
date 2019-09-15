@@ -1,0 +1,15 @@
+OBJECTIVE: To test or validate a previously reported model for predicting postoperative pulmonary complications (PPCs) after elective abdominal surgical procedures.
+
+: Prospective, descriptive.
+
+G: Four midwestern hospitals serving a diverse population of patients.
+
+TS: Two hundred seventy-six adult patients who had undergone abdominal surgery (51% men, 49% women; mean age 54.1 ± 5.3 years).
+
+E MEASURES: PPC developed in 26.4%.
+
+OLLECTION: Data were collected preoperatively during a brief interview and a pulmonary physical examination and on the first 6 postoperative days.
+
+S: A six risk-factor model was tested in this sample of subjects. The model validated relatively well in the sample of 276 subjects with use of the basic criteria of correct classification, sensitivity, and specificity. However, when a new model was developed from this sample, differing risk factors emerged as significant independent predictors.
+
+SIONS: Further research is needed to assess the stability of the risk factors and test the models in differing settings and populations of patients.

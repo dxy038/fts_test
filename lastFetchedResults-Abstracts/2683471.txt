@@ -1,0 +1,28 @@
+Scheduling for a two-stage production system is one of the most common
+problems in production management. In this production system, a number of
+products is produced and each product is assembledfrom a set of parts. The parts
+are produced in the first stage that is a fabrication stage and thenthey are
+assembled in the second stage that usually is an assembly stage. In this article the
+first stage assumed as a hybrid flow shopwith identical parallel machines and the
+second stage will be an assemble work station. Twoobjective functionsare
+considered that are minimizing the makespan, and minimizing the sum of
+earliness andtardiness of products.At first the problem is defined and its
+mathematical model is presented. Since the considered problem is NPhard,themulti-objective
+genetic algorithm (MOGA) is used to solve this problem
+in two phases. In the first phase the sequence of the products assembly is
+determined and in the second phase the parts of each products is scheduled to be
+fabricated. In each iteration of the proposed algorithm, the new population is
+selected based on non-dominance rule and fitness value. To validate the
+performance of the proposed algorithm, in terms of solution quality and diversity
+level, various test problems are designed and the reliability of the proposed
+algorithm is compared with two prominent multi-objective genetic algorithms,
+i.e. WBGA, and NSGA-II. The computational results show that the performance
+of the proposed algorithms is good in both efficiency and effectiveness criteria. In
+small-sized problems, the number of non-dominance solution come out from the
+two algorithms N-WBGA (the proposed algorithm) and NSGA-II are
+approximately equal. Also more than 90% solution of algorithms N-WBGA and
+NSGA-II are identical to the Pareto-optimal result. Also in medium problems,
+two algorithms N-WBGA and NSGA-II have approximately an equal
+performance and both of them are better than WBGA. But in large-sized
+problems, N-WBGA presents the best results in all indicators. 
+

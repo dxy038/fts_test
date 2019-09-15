@@ -1,0 +1,11 @@
+Objective
+We have characterized a hematopoietic cell population isolated from murine bone marrow that can facilitate purified hematopoietic stem cell engraftment across fully allogeneic major histocompatibility complex barriers. These facilitating cells (FCs) are classically identified as CD8α+TCR− by flow cytometry. Prior work has demonstrated that FCs are comprised of a heterogeneous cell population with both lymphoid and myeloid phenotypes. The present investigation was designed to more precisely characterize these subsets in terms of both phenotype and developmental potential.
+Methods
+
+Using fluorescence-activated cell sorting analysis, freshly isolated FCs were characterized for phenotypic expression of various lymphocyte progenitor markers. The lymphopoietic potential of FCs was evaluated by culturing freshly isolated FCs on bone marrow stroma cells overexpressing notch ligand 1 (OP9-DL1). Transcripts specific to pTα and TCRα were quantitated by employing real-time reverse transcription polymerase chain reaction. Maturation of the T-cell receptor (TCR) on FCs was biochemically analyzed by immunoprecipitation.
+Result
+
+Freshly isolated FCs had significant expression of CD44+CD25− and CD44+CD25+ phenotypes. A discrete subset of CD8+CD4+ cells are also identified in the FC population, similar to the double-positive phase of thymocyte development. Of particular interest, FCs express pre-TCRα (pTα) mRNA and protein as demonstrated by reverse transcription polymerase chain reaction, intracellular staining and immunoprecipitation. FCs grown on OP9-DL1 with interleukin-7 and FMS-like tyrosine kinase 3 ligand can mature into CD44−CD25+, CD8+CD4+ and CD8+ T cells. During this developmental process, expression of the 33-kDa pTα chain was replaced by a mature 40-kDa TCRα chain.
+Conclusion
+
+Taken together, these data demonstrate for the first time that the marrow-derived FC contains a T-cell progenitor population that closely resembles developing thymocytes.

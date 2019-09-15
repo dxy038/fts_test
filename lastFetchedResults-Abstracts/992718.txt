@@ -1,0 +1,3 @@
+This paper presents a new approach to solve generation expansion planning (GEP) problem by improved Genetic Algorithm (IGA). GEP is a large-scale stochastic highly constraint nonlinear discrete dynamic optimization problem. Generation system planers tend to use many different methods to address the expansion problem and to determine optimum plans by minimizing the mathematical objective function subject to some constraints.
+This algorithm uses Capacity Outage Table method for probabilistic simulation and Analytical Hierarchy Process (AHP), Successive Forward and Backward method and some new approach to improve the GA. The operator suggestions have important role in this algorithm.
+

@@ -1,0 +1,26 @@
+In this study, two-dimensional flow simulation in
+food extruder die for intermeshing co-rotating twin-screw
+extruder were performed by solving Navier-Stokes equation
+and continuity equation for non-Newtonian fluid using finite
+element computer package, ANSYS/FLOTRAN. The
+objective of the study is to determine the nature of flow, heat
+and pressure distribution in the die and to determine the
+effect of screw speed on process parameters such as
+temperature, pressure and flow rate in the die. Four different
+die geometries were used. The levels of temperature
+considered were 120, 140, 160 and 180 0 C . The screw speeds
+(taken as inlet velocity for the die) were 120, 160, 200 and 240
+rpm. The results are presented for the flow profile, pressure
+distribution, temperature distribution and flow rate. For all
+the velocities considered, temperature has no significant
+effect on the velocity vector. The flow rate increases with
+increase in inlet velocity. Extruder throughput has a
+significant effect on the flow rate as reflected in higher flow
+rate recorded for increased throughput. Dough temperature
+has no effect on flow rate within the temperature range of
+120 0C to 180 0C. The temperature of the dough decreases as
+it flows through the die. The values of temperature obtained
+for die exit temperature by simulation and experiment
+compare favorably. This shows that the simulation procedure
+employed is reliable enough to accurately predict the
+temperature of the dough at any point in the die.

@@ -1,0 +1,11 @@
+A methodology for optimal sizing of stand-alone PV/WG systems is presented. The purpose of the proposed methodology
+is to suggest, among a list of commercially available system devices, the optimal number and type of units ensuring
+that the 20-year round total system cost is minimized subject to the constraint that the load energy requirements are completely
+covered, resulting in zero load rejection. The 20-year round total system cost is equal to the sum of the respective
+components capital and maintenance costs. The cost (objective) function minimization is implemented using genetic algorithms,
+which, compared to conventional optimization methods such as dynamic programming and gradient techniques,
+have the ability to attain the global optimum with relative computational simplicity. The proposed method has been
+applied for the design of a power generation system which supplies a residential household. The simulation results verify
+that hybrid PV/WG systems feature lower system cost compared to the cases where either exclusively WG or exclusively
+PV sources are used.
+  2005 Elsevier Ltd. All rights reserved.

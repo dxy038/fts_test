@@ -1,0 +1,14 @@
+Water resources limitation, unsuitable distribution, special different uses increasing,
+caused water use management is important. One of the main problems, is determining
+of optimum crop pattern regard to crops water requirement. In this research, Linear
+Programming., Nearly Optimal Linear Programming and Fuzzy Logic Linear
+Programming for determining crop optimum pattern in Jahrom is used. Net income
+calculated for wheat, barley, corn, sugar beet, tomato and cotton. Water efficiency
+assumed 40%. Crop optimum pattern is studied in two causes: 1) water use averaging by
+Farmers 2) crops water requirement. Results showed, that this causes (2), increased
+return program. For Nearly Optimal Linear Programming and Fuzzy Logic Linear
+Programming is flixible for determining crop pattern. In Fuzzy Logic Linear
+Programming assumes is inserted in objective function and resource limites. Fuzzy
+Logic Linear Programming is more flexible than Linear Programming and Nearly
+Optimal Linear Programming.
+

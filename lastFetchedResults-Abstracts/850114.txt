@@ -1,0 +1,5 @@
+Objective (s): To analyze outpatient flow in a radiology department to estimate outpatients waiting time for radiology services.
+Methods: This was a cross sectional study with the target population of all patients attending the radiology department of Shahid Hashemi Nejad Hospital in Tehran. 
+Result: In all data for 303 patients were analyzed. The average waiting time for entering plain X-ray room was 10.87 minutes (SD=10.86) and the average waiting time for entering special X-ray room was 62.00 minutes (SD=53.49). The most important factors for waiting time in radiology department were the type of service, and muliple entering. Analyzing the correlation of outpatient waiting time and their entrance showed a positive correlation with waiting time for plain X-ray services and a negative correlation with waiting time for special X-ray services (P=0.001).
+Conclusion: The findings suggest that assessing wating time might help to schedule outpatient and appointment system more effectively.
+

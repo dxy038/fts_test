@@ -1,0 +1,19 @@
+SSM (Solar Sail Materials) is an on-going project for the European Space Agency (ESA) relying on past and recent European solar sail design projects. It aims at developing and testing future technologies suitable for large, operational solar sailcrafts.
+
+SSM investigates three main areas:
+
+1.
+
+    Sail film and coating materials, including film thickness reduction and large scale assembly processes.
+2.
+
+    Sail-to-Structure Interfaces (SSIF) including sail container and attachments.
+3.
+
+    Correlation of ground sail tensioning strategies with 3D imaging and Finite Elements Model (FEM) simulations.
+
+Concerning sail films and coatings, a survey of promising materials has been completed, pre-trials of Kapton® 50HN plasma etching have been performed with an “easy” thickness reduction of about 2.5 μm and, a method for large scale sail manufacturing has been proposed.
+
+Concerning SSIFs, a survey on boom technologies has been updated, sail corner attachment concepts have been defined and investigated and a concept for a lightweight sail container with an opening mechanism has been proposed.
+
+Concerning correlated FEM simulations, on-ground (1 g) optimal tensioning strategies have been investigated on a 2 m hypotenuse sail mock-up and first FEM simulations have been carried out which show promising results. The main objective of these integrated tasks is ultimately to allow future scalability of prediction of optimal tensioning strategies in-orbit.

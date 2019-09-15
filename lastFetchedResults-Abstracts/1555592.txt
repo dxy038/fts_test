@@ -1,0 +1,1 @@
+This paper investigates a two-objective k -cardinality assignment problem. As a result, a chance-constrained goal programming model is constructed for the problem. Also, tabu search algorithm based on fuzzy simulation is designed to solve the problem. Finally, a numerical example is presented to show the application of the algorithm.

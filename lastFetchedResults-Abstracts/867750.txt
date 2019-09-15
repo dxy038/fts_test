@@ -1,0 +1,9 @@
+This paper proposes a methodology that can be used to design plans for evacuating transit-dependent citizens
+during no-notice disasters. A mixed-integer linear program is proposed to model the problem of
+finding optimal evacuation routes. The objective of the problem is to minimize the total evacuation time
+and the number of casualties, simultaneously. A traffic simulation package is used to explicitly incorporate
+the traffic flow dynamics into our model in order to generate solutions which are consistent with the
+dynamics of traffic network. Due to the long running time of CPLEX, a Tabu search algorithm is designed
+that finds evacuation routes for transit vehicles. Computational experiments demonstrate that the solutions
+found are of high-quality. Numerical experiments are conducted using the transportation network
+of the city of Forth Worth, TX to illustrate the modeling procedure and solution approach.

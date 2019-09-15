@@ -1,0 +1,11 @@
+Objective
+Cerebral functions are based on the functional interactions between multiple distinct specialized regions of the brain. Functional interactions require anatomical connections as well as the synchronization of brain oscillations. The present work aims at evaluating the impact of brain tumours on spatial patterns of functional connectivity of the brain measured at rest by MEG.
+Methods
+We analyzed the statistical dependency (by computing the synchronization likelihood (SL, a measure of generalized synchronization)) between MEG signals at rest, in 17 patients with a brain tumour and in 15 healthy controls. Following an approach that derives from graph theory, we also analyzed the architectural properties of the networks by computing two parameters from the SL matrix, the cluster coefficient C and the characteristic path length L.
+Results
+Alterations in synchronization levels were found in the patients and were not focal but involved intra-hemispheric connectivity. Effects were different considering the frequencies sub-bands, predominating in a decrease in high frequencies bands for long-distance connections and an increase in slower bands for local connectivity. In addition, graph analysis reveals changes in the normal “small-world” network architecture in addition to changes in synchronization levels with some differences according to the studied frequency sub-bands.
+Conclusions
+Brain tumours alter the functional connectivity and the “network” architecture of the brain. These alterations are not focal and effects are different considering the frequencies sub-bands.
+Significance
+These neurophysiological changes may contribute to the cognitive alterations observed in patients with brain tumours.
+

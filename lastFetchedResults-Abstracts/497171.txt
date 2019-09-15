@@ -1,0 +1,17 @@
+Visible (Vis) and near infrared (NIR) reflectance spectroscopy is a rapid and non-destructive technique that has found many
+applications in assessing the quality of agricultural commodities, including wool. In this study, Vis and NIR spectroscopy
+combined with multivariate data analysis was investigated regarding its feasibility in predicting a range of fibre characteristics
+in raw alpaca wool samples. Mid-side samples (n5149) were taken from alpacas from a range of colours and ages at
+shearing time over 4 years (2000 to 2004) and subsequently analysed for fibre characteristics such as mean fibre diameter
+(MFD) and standard deviation (and coefficient of variation), spin fineness, curvature degree (and standard deviation), comfort
+factor, medullation percentage (by weight and number in white samples only) using traditional reference laboratory testing
+methods. Samples were scanned in a large cuvette using a FOSS NIRSystems 6500 monochromator instrument in reflectance
+mode in the Vis and NIR regions (400 to 2500 nm). Partial least squares (PLS) regression was used to develop a number of
+calibration models between the spectral and reference data. Mathematical pre-treatment of the spectra (second derivative) as
+well as various combinations of wavelength range were used in model development. The best calibration model was found
+when using the NIR region (1100 to 2500 nm) for the prediction of MFD, which had a coefficient of determination in crossvalidation
+(R2) of 0.88 with a root mean square standard error of cross validation (RMSECV) of 2.62 mm. The results show the
+NIR technique to have promise as a semi-quantitative method for screening purposes. The lack of grease in alpaca wool
+samples suggests that the technique might find ready application as a rapid measurement technique for preliminary classing of
+shorn fleeces or, if used directly on the animal, the technology might offer an objective tool to assist in the selection of animals
+in breeding programmes or shows

@@ -1,0 +1,17 @@
+Evolutionary Algorithms (EAs) are stochastic and robust meta-heuristics of evolutionary
+computation field useful to solve optimization problems in image processing applications.
+Recently, as special mechanism to avoid being trapped in local minimum, the ergodicity
+property of chaotic sequences has been used in various designs of EAs. Three differential
+evolution approaches based on chaotic sequences using logistic equation for image
+enhancement process are proposed in this paper. Differential evolution is a simple yet
+powerful evolutionary optimization algorithm that has been successfully used in solving
+continuous problems. The proposed chaotic differential evolution schemes have fast convergence
+rate but also maintain the diversity of the population so as to escape from local
+optima. In this paper, the image contrast enhancement is approached as a constrained nonlinear
+optimization problem. The objective of the proposed chaotic differential evolution
+schemes is to maximize the fitness criterion in order to enhance the contrast and detail
+in the image by adapting the parameters using a contrast enhancement technique. The proposed
+chaotic differential evolution schemes are compared with classical differential evolution
+to two testing images. Simulation results on three images show that the application
+of chaotic sequences instead of random sequences is a possible strategy to improve the
+performance of classical differential evolution optimization algorithm.

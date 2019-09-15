@@ -1,0 +1,15 @@
+A new meshfree method for the analysis of elasto-plastic deformation is presented. The method is
+based on the proposed first-order least-squares formulation for elasto-plasticity and the moving leastsquares
+approximation. The least-squares formulation for classical elasto-plasticity and its extension
+to an incrementally objective formulation for finite deformation are proposed. In the formulation,
+equilibrium equation and flow rule are enforced in least-squares sense, i.e. their squared residuals
+are minimized, and hardening law and loading/unloading condition are enforced pointwise at each
+integration point. The closest point projection method for the integration of rate-form constitutive
+equation is inherently involved in the formulation, and thus the radial-return mapping algorithm is
+not performed explicitly. The proposed formulation is a mixed-type method since the residuals are
+represented in a form of first-order differential system using displacement and stress components as
+nodal unknowns. Also the penalty schemes for the enforcement of boundary and frictional contact
+conditions are devised and the reshaping of nodal supports is introduced to avoid the difficulties due
+to the severe local deformation near contact interface. The proposed method does not employ structure
+of extrinsic cells for any purpose. Through some numerical examples of metal forming processes, the
+validity and effectiveness of the method are discussed

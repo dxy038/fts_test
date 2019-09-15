@@ -1,0 +1,26 @@
+Continuum models for coupled behaviour of elastoplasticity and isotropic damage at ®nite deformation are usually
+formulated by ®rst postulating the additive decomposition of the stretching tensor D into the elastic and the plastic part
+and then relating each part to an objective rate of the eective stress, etc. It is pointed out that, according to the existing
+models with several widely used objective stress rates, none of the rate equations intended for characterizing the
+damaged elastic response is exactly integrable to really deliver a damaged elastic relation between the eective stress and
+an elastic strain measure. The existing models are thus self-inconsistent in the sense of formulating the damaged elastic
+response. By consistently combining additive and multiplicative decomposition of the stretching D and the deformation
+gradient F and adopting the logarithmic stress rate, in this article, we propose a general Eulerian rate type model for
+®nite deformation elastoplasticity coupled with isotropic damage. The new model is shown to be self-consistent in the
+sense that the incorporated rate equation for the damaged elastic response is exactly integrable to yield a damaged
+elastic relation between the eective Kirchho stress and the elastic logarithmic strain. The rate form of the new model
+in a rotating frame in which the foregoing logarithmic rate is de®ned, is derived and from it an integral form is obtained.
+The former is found to have the same structure as the counterpart of the small deformation theory and may be appropriate
+for numerical integration. The latter indicates, in a clear and direct manner, the eect of ®nite rotation and
+deformation history on the current stress and the hardening and damage behaviours. Further, it is pointed out that in
+the foregoing self-consistency sense of formulating the damaged elastic response, the suggested model is unique among
+all objective Eulerian rate type models of its kind with in®nitely many objective stress rates to be chosen. In particular, it
+is indicated that, within the context of the proposed theory, a natural combination of the two widely used decompositions
+concerning D and F can consistently and uniquely determine the elastic and the plastic parts in the two decompositions
+as well as all their related kinematical quantities, without recourse to any ad hoc assumption concerning a
+special form of the elastic part Fe in the decomposition F  FeFp or a related relaxed intermediate con®guration. As an
+application, the proposed general model is applied to derive a self-consistent Eulerian rate type model for void growth
+and nucleation in metals experiencing ®nite elastic±plastic deformation by incorporating a modi®ed Gurson's yield
+function and an associated ¯ow rule, etc. Two issues involved in previous relevant literature are detected and raised for
+consideration. As a test problem, the ®nite simple shear response of the just-mentioned model is studied by means of
+numerical integration.

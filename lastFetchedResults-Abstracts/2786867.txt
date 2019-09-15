@@ -1,0 +1,1 @@
+The main objective of this paper is to describe a class of polynomial vector fields f, whose associated dynamic system has one or more affine varieties as f-invariant and attractive sets. This result can be used for robot motion planning, thus computing robot paths, avoiding collisions with obstacles and reaching a target point.

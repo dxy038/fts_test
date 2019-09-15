@@ -1,0 +1,14 @@
+The objective of the project is an all-year secure supply of alternating current based on a solar energy island grid consisting of serial
+components and seasonal energy storage. Photovoltaic modules, inverters, electrolysers, batteries, hydrogen stores and fuel cells form the
+basis of the independent power supply system. For this, selected load profiles were analysed and evaluated in theory and practice.
+The analysis is based on the results of the test runs of the system and the simulations, in which the combined hydrogen-battery-system
+is compared to the battery system.
+It was revealed that it is sensible to complement an island grid operating on lead batteries for shortterm energy supply with hydrogen
+as a long-term store. This ensures a year-round supply security based on solar energy and the extension of the life span of the batteries
+required for hydrogen-based power stores. The systems based purely on batteries can not provide perfect supply security during long
+periods of low solar radiation since they do not possess energy stores which allow long-term energy storage.
+Hence a seasonal energy store, such as hydrogen, is required to guarantee reliable power supply for every day of the year.
+Autonomous power supply systems with long-term energy stores operate independently from the public grid system and can be implemented
+without elaborate intelligent energy management. For this, however, the costs of the serial components must be reduced and the
+efficiency of the system must be improved.
+  2011 Elsevier Ltd. All rights reserved.

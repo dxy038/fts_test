@@ -1,0 +1,14 @@
+Objective
+The aim of the study was to derive and externally validate a mortality prediction rule for patients undergoing exercise testing.
+Background
+
+The prognostic value of exercise testing is increasingly appreciated. However, global prognosis estimates ideally should account for numerous routinely obtained variables, including demographics, risk factors, resting electrocardiogram, and multiple exercise test measures.
+Methods
+
+A prediction rule was derived by parametric hazards modeling on a derivation set of 46 047 Cleveland Clinic patients (age 55 ± 11 years, 67% male) who had no history of heart failure, valve disease, or atrial fibrillation. Twenty-two variables covering demographics, risk factors, exercise hemodynamics, and electrocardiogram findings at rest and during exercise were considered. The resulting model included 16 variables and was tested on 4981 patients (age 50 ± 12 years, 55% male) who underwent exercise testing at West Virginia University.
+Results
+
+In the derivation cohort there were 3173 deaths during a mean of 7 years of follow-up, whereas in the validation cohort there were 180 deaths during a mean of 5 years of follow-up. Comparisons of predicted and observed death rates showed very good agreement among all patients across all spectrums of risk, as well as among prespecified high-risk subgroups. Model discrimination was also good, with c statistic of c = 0.79 in the derivation group and c = 0.81 in the validation cohort.
+Conclusions
+
+We have externally validated a mortality prediction rule for patients undergoing exercise testing and confirmed its accuracy among a wide spectrum of patients.

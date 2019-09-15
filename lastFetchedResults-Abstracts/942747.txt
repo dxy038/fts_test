@@ -1,0 +1,11 @@
+Background and objective
+In 1981, a petrol-lead phase-out program (PLPOP) was launched in Taiwan for the abatement of environmental lead emissions. The present study was set out to examine whether the reduction of environmental lead emissions would result in the decrease in mortality rates of various diseases based on national data between 1981 and 2007.
+Method
+
+The national mortality data were obtained from the Office of Statistics of the Taiwan Department of Health (Taiwan DOH). Standardized mortality ratios (SMRs) were calculated based on 2000 WHO world standard population. Gasoline consumptions were obtained from the Bureau of Energy.
+Results
+
+The mean blood lead levels (BLLs) had decreased dramatically from approximately 20.14 μg/dl in the leaded petrol phase to 3 μg/dl or lower in the unleaded petrol phase. From 1981 to 2007, the mortality (per 100,000 people) was decreased from 146.2 to 43.8 for cerebrovascular disease, from 85.3 to 44.4 for heart disease, from 35.4 to 6.6 for hypertensive disease, from 21.3 to 17.3 for nephrosis, and from 810.2 to 491.6 for all causes. By taking the confounders (including economic growth rate, per capita income, tobacco consumption, and medical resources) into account, the decreases in SMRs for all causes, cerebrovascular disease, and nephrosis were found to be highly correlated with the decrease in petrol lead emissions (p-values = 0.001, < 0.001, 0.020, respectively).
+Conclusion
+
+Our results clearly show that the implementation of the PLPOP was associated with a decline in mortality rates in several diseases that have been associated with lead exposure, even after adjustment for a number of relevant confounders.

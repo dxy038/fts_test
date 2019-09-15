@@ -1,0 +1,8 @@
+Objective
+luate the mouth-motion step-stress fatigue behavior of two porcelain–zirconia all-ceramic crown systems.
+s
+erage dimensions of a mandibular first molar crown were imported into CAD software; a tooth preparation was modeled by reducing proximal walls by 1.5 mm and occlusal surface by 2.0 mm. The CAD-based tooth preparation was made by rapid prototyping and used as a master die to fabricate all-ceramic crowns with 1.0 mm porcelain veneered on 0.5 mm Y-TZP cores (LAVA veneer + LAVA frame, 3M/ESPE, and Vita veneer + CERCON frame, Dentsply). Crowns were cemented on aged (60 days in water) composite (Z100, 3M/ESPE) reproductions of the die. Three crowns from the LAVA group were subjected to single cycle load to failure for stress profile design; remainder subjected to step-stress mouth-motion fatigue (three step-stress profiles). All mechanical testing was performed by sliding a WC indenter of 6.25 mm diameter 0.7 mm lingually down the mesio-distal cusp. Master Weibull curves and reliability for missions of 50,000 cycles at 200 N load were calculated (Alta Pro 7, Reliasoft).
+s
+ load to failure showed fractures through the zirconia core. Reliability for a 200 N × 50K cycle mission was not significantly different between systems. In fatigue, failure occurred by formation of large chips within the veneer originating from the contact area without core exposure.
+sions
+nd CERCON ceramic systems present similar fatigue behavior; fatigue loading of both systems reproduces clinically observed failure modes.

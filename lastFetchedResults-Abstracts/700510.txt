@@ -1,0 +1,12 @@
+One of the main challenges in Irans auto industry is goal setting in various functional domains.
+Managing costs of supply chains requires recognition of cost drivers and mathematical modeling for
+target setting. Realization of the main elements of supply chains and setting logical relations among
+variables and parameters in the form of a mathematical model are of the main purposes of this research
+paper. The main question is how it is possible to bring con
+ict goals of a supply chain together in
+a mathematical model with the help of goal programming. The relations among 10 au (1)1to part
+suppliers, 1 warehouse, 3 auto manufacturing plants and 3 agencies are investigated in this study.
+After collecting data of model parameters, model is solved through application of LINGO software
+and the following results are revealed. The positive goal deviation of the rst objective is equal to
+2500 million Rials. The negative goal deviation of the second objective is equal to 1750 million Rials.
+The positive goal deviation of the third objective is 1250 million Rials.

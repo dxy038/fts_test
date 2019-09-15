@@ -1,0 +1,11 @@
+Objective
+The Mismatch Negativity (MMN) is commonly recorded while the subject is reading, and instructed to ignore the auditory stimuli. It is generally assumed that the demands of the diversion task will have no effect on the MMN. Several studies, however, have reported that a diversion task presumably requiring strong attentional focus is associated with a smaller MMN than that elicited during a less demanding task. This study examines the effect of variations in the classical reading paradigm on the MMN.
+Methods
+In Experiment 1, event-related potentials (ERP) were recorded while subjects were presented with standard (80 dB SPL 1000 Hz) and frequency deviant (1050 Hz) stimuli. Subjects were instructed to ignore the tone pips and, in separate conditions, engage in different tasks. They were asked to read a text or to sit passively. Subjects were informed that they would subsequently be queried or not about the content of the reading. In Experiment 2, the auditory sequence included the same standard (80 dB SPL 1000 Hz) but the deviant was changed to an intensity decrement (70 dB SPL). A different sample of subjects was again asked to ignore the auditory stimuli and engage in different reading tasks that would or not be followed by query.
+Results
+In all task conditions, MMN was elicited by the frequency and intensity change. The intensity MMN did not significantly vary with task. A significant effect of task was, however, found for the frequency MMN. Its amplitude was largest when subjects were later queried about their reading.
+Conclusions
+This finding is counter-intuitive in light of previous research on the attentional modulation of the MMN. The pattern of frequency MMN results may relate to the differences in cortical excitability across tasks.
+Significance
+The present results indicate that the nature of the diversion task may affect the MMN. The choice of diversion task during MMN recording should thus be carefully considered.
+

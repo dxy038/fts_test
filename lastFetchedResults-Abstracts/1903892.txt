@@ -1,0 +1,13 @@
+Optimal natural resources management depends on reliable as well as up-to-date data. For this
+objective, land use map is among the important sources of information on the natural resources
+management. The aim of present study is to compare two methods of pixel-Base and object-oriented
+classification in land use mapping with using ETM+ image in Malekshahi town, Ilam province. After
+supplying related image and geometric and radiometric corrections implement on image, the authors
+used tow method classification to land use mapping. To assess the accuracy of classification method
+they used index of overall accuracy, kappa coefficient, producer accuracy and user accuracy. The
+results showed that the object-oriented classification method has more resolution in comparison to the
+pixel-based classification method. The results of determine accuracy showed that method of objectoriented
+in tow index of overall accuracy and kappa coefficient with (respectively) 96 percent and 93
+percent was more accuracy related to pixel-based classification method. Based on the results the forest
+and grassland covers about 98 percent of this town. The result of this study suggested that used from
+object-oriented classification method to production of land use map.

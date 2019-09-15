@@ -1,0 +1,11 @@
+Objective
+We previously demonstrated that CD8+/TCR− bone marrow cells facilitate engraftment of HSC in allogeneic recipients without causing graft-vs-host disease. Whether facilitating cells (FC) develop from T cells or represent a distinct lineage has not been determined.
+Methods
+
+In the present studies, we characterized the lineage derivation of FC, defined the role for the CD3 complex in allogeneic facilitation, and demonstrated syngeneic facilitation by FC but not T cells.
+Results
+
+We demonstrate for the first time that FC development and function is independent of T cells and cannot be replaced by them. Purified GFP+ HSC transplanted in syngeneic recipients produce GFP+ FC, which facilitate in secondary transplants, confirming that FC are derived from HSC. In addition, FC, but not T cells, potently facilitate the engraftment of suboptimal numbers of HSC in syngeneic recipients. Notably, FC contain the transcripts for CD3ε and CD3δ, but not TCRα or TCRβ, excluding the possibility of T-cell contamination. Genetic mutations that generate a functional deficiency in CD3 signaling significantly impair FC function in allogeneic facilitation (p = 0.006).
+Conclusion
+
+Taken together, these data clearly distinguish FC from T cells. Moreover, they indicate that FC require the CD3ε gene to facilitate allogeneic HSC engraftment. The unique function(s) of FC make them an attractive focus for new cell-based therapeutic approaches to enhance HSC engraftment while reducing toxicity, especially when limiting numbers of HSC are available.

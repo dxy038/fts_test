@@ -1,0 +1,11 @@
+Objective
+Several transducing molecules, including JAK2, STAT5, MAP kinases, phosphatidylinositol 3-kinase (PI3K), phospholipase C-γ1, and PKC are activated by interaction between erythropoietin (EPO) and the EPO receptor. The aim of this was to examine the relative involvement of PI3K in the development of glycophorin A (GPA)+ erythroid cells from normal hematopoietic progenitor cells.
+Materials and Methods
+
+CD34+ hematopoietic progenitor cells or subpopulations obtained by FACS sorting were cultured in serum-free medium containing EPO with or without inhibitors for PI3K, p38, MEK, or PKC for various time periods before phenotypic analysis or detection of apoptosis by flow cytometry, cell cycle analysis, high-resolution tracking of cell division, Western blot analysis, or Akt kinase assay were performed.
+Results
+
+The PI3K inhibitor LY294002 completely counteracted the EPO-induced proliferation of CD34+ progenitor cells and CD34+CD71+CD45RA− erythroid progenitors. LY294002 also highly suppressed the expanded erythropoiesis induced by the combined action of EPO and stem cell factor. The profound inhibitory effect of LY294002 on proliferation was caused by its induction of cell cycle arrest in the G0/G1 phase of the cell cycle. Some cells acquired GPA expression before they went through cell division. This was completely blocked by LY294002, implying an inhibitory effect on maturation. In addition, LY294002 completely blocked the viability-enhancing effect of EPO in CD34+CD71+CD45RA− erythroid progenitors. LY294002 and various inhibitors of PKC completely suppressed the EPO-induced increase in the activity of Akt kinase, a direct downstream target of PI3K.
+Conclusions
+
+Our results point to an important role for PI3K in mediating EPO-induced survival, proliferation, and possibly maturation of early erythroid progenitors.

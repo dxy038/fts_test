@@ -1,0 +1,62 @@
+
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4  Background
+and Objectives: Antibiotics are
+potential pollutants that represent an important environmental problem because
+of their toxic effects on the food chain and aqueous streams. The objective of
+this research was to study the adsorption of penicillin G on to chestnut shell
+as an inexpensive adsorbent.  Materials and Methods: This study was performed at laboratory scale 
+and batch system. We studied the influence of process variables such as
+adsorbent dose, initial PEN G concentration, pH of solution, contact time, and
+breakthrough curves. In order to find out the possibility of reuse, desorption
+study was also carried out. The surface characteristics of adsorbent were
+investigated using Fourier Transform Infra-Red and Scanning electron
+microscope. Equilibrium study data were modeled using Langmuir, Freundlich, and
+D-R models.  Moreover, kinetic studies
+were done by three models of pseudo first order, pseudo second order, and
+intra-particle diffusion.Resuls: The maximum
+PEN G removal achieved was 92%, at pH 3, adsorbent dose 0.1 g/l and contact
+time 120 min. The Langmuir equation (R2=0.99) provided the best fit
+for the experimental data. It was also found that adsorption of PEN G by
+chestnut shell followed pseudo- second order model (R2= 0.992). Conclusion: According to the results obtained, chestnut
+shell appears to be a suitable, low cost and efficient adsorbent for removing
+PEN G from waste streams.  
+ 
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+
+

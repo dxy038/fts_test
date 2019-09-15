@@ -1,0 +1,11 @@
+Objective
+Oxysterols are hydroxylated derivatives of cholesterol detected in blood, cells, and tissues. They exhibit a number of biologic activities, including inhibition of cellular proliferation and cytotoxicity associated with induction of apoptosis. Given the important regulatory role of apoptosis in hematopoiesis, we investigated the effects of oxysterols on human hematopoietic progenitor cells (HPCs).
+Materials and Methods
+
+Colony-forming unit granulocyte-macrophage (CFU-GM) from human bone marrow and umbilical cord blood (UCB) were grown in the presence of varying concentrations of three different oxysterols—7–keto-cholesterol, 7–β-hydroxycholesterol, and 25-hydroxycholesterol (25-OHC). Similarly, the effect of oxysterols on HL60 and CD34+ cells was investigated using annexin V staining and flow cytometry to measure apoptosis. Reduction of nitroblue tetrazolium was used to assess differentiative status of HL60 cells.
+Results
+
+CFU-GM derived from human bone marrow were inhibited by all three oxysterols tested, with 25-OHC being the most potent. In comparison, CFU-GM derived from UCB were less sensitive to the effects of all the oxysterols tested, with statistically significant inhibition observed only in the presence of 25-OHC. Oxysterol treatment of HL60 cells inhibited cell growth and increased the number of annexin V+ and nitroblue tetrazolium+ cells. The percentage of viable, CD34+ annexin V+ cells also was increased with oxysterol treatment of purified HPCs in liquid culture.
+Conclusions
+
+These experiments indicate that oxysterol inhibition of CFU-GM and HL60 cell growth can be attributed to induction of apoptosis and/or differentiation. These investigations revealed that oxysterols are a new class of inhibitors of HPC proliferation of potential relevance in vivo and in vitro.

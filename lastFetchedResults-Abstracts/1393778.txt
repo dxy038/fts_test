@@ -1,0 +1,5 @@
+Dissipation of mechanical vibration energy at contact interfaces in a structure, commonly referred to as interface damping, is an important source of vibration damping in built-up structures and its modeling is the focus of the present study. The approach taken uses interface forces which are linearly dependent on the relative vibration displacements at the contact interfaces.
+
+in objective is to demonstrate a straightforward technique for simulation of interface damping in built-up structures using FE modeling and simple, distributed, damping forces localized to interfaces where the damping occurs.
+
+illustration of the resulting damping the dissipated power is used for evaluation purposes. This is calculated from surface integrals over the contact interfaces and allows for explicit assessment of the effect of simulated interface forces for different cases and frequencies. The resulting loss factor at resonance is explicitly evaluated and, using linear simulations, it is demonstrated that high damping levels may arise even though the displacement differences between contacting surfaces at damped interfaces may be very small.

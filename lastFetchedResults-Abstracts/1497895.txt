@@ -1,0 +1,9 @@
+Australia is a country with a vast amount of natural resources including sun and wind. Australia lies between latitude of 10–45°S and longitude of 112–152°E, with a daily solar exposure of between less than 3 MJ/(m2 day) in winter and more than 30 MJ/(m2 day) in summer.
+
+ solar radiation in Australia varies between minimum of 3285 MJ/(m2 year) in Hobart to 8760 MJ/(m2 year) in Northern Territory. As a result of this wide range of radiation level there will be a big difference between costs of solar PV electricity in different locations.
+
+y we have recently conducted on the solar PV electricity price in all states of Australia. For this purpose we have developed an economical model and a computer simulation to determine the accurate unit price of grid-connected roof-top solar photovoltaic (PV) electricity in A$/kWh for all state of Australia. The benefit of this computer simulation is that we can accurately determine the most appropriate feed-in tariff of grid-connected solar PV energy system. The main objective of this paper is to present the results of this study.
+
+her objective of this paper is to present the details of the unit price of solar PV electricity in the state of Victoria in each month and then to compare with electricity price from conventional power systems, which is currently applied to this state. The state Victoria is located south of Australia and in terms of sun radiation is second lowest compared with the other Australian states.
+
+mputer simulation developed for this study makes it possible to determine the cost of grid-connected solar PV electricity at any location in any country based on availability of average daily solar exposure of each month as well as economical factors of the country.

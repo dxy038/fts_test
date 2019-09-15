@@ -1,0 +1,1 @@
+This paper presents the application of a rule-based expert system to the service restoration of distribution networks. The principal objective of the developed restoration plan is to minimize the number of switching operations without violating loading constraints in all elements of the network while retaining its open loop structure. The obtained results are encouraging.

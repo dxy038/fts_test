@@ -1,0 +1,8 @@
+Introduction
+ng evidence suggest that microRNAs could serve as non-invasive biomarker for cancer patients. Our study was designed to analyze circulating serum microRNAs in patients with renal cell carcinoma (RCC).
+als and methods
+RNA was isolated from patients with clear cell RCC (ccRCC) and non-malignant disease; an artificial microRNA (cel-miR-39) was spiked-in prior the isolation procedure to control isolation efficiency. The levels of miR-26a-2*, miR-191, miR-337-3p and miR-378 in serum were determined using quantitative real-time PCR; the microRNA levels were normalized to cel-miR-39.
+s
+ miR-26a-2*, miR-191, miR-337-3p and miR-378 were quantified in serum of each 25 patients with ccRCC and non-malignant disease. The level of miR-378 was significantly increased in ccRCC patients, and thus chosen for validation. The analysis of miR-378 in the validation cohort with 117 RCC patients and 123 control subjects did not confirm a different level of miR-378. Also, miR-378 was not correlated to pT-stage, lymph node/distant metastasis, vascular invasion and Fuhrman grade.
+sions
+alysis of circulating serum levels of miR-26a-2*, miR-191, miR-337-3p and miR-378 is unlikely to provide helpful diagnostic/prognostic information in RCC patients.

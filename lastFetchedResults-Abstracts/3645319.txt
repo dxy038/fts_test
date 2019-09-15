@@ -1,0 +1,1 @@
+It is shown that if subjective estimates of probabilities of events are to be converted to objective estimates by means of one or two empirical anchors, a currently recommended equation can produce meaningless values of probability which exceed unity. This new method guarantees rescaling to keep probability in the range [0, 1]. An example is given to demonstrate the approach

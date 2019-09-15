@@ -1,0 +1,9 @@
+A new enhanced strain element, based on the deÞnition of extra compatibles modes of deformation added to
+the standard four-node Þnite element, is initially presented. The element is built with the objective of
+addressing incompressible problems and avoiding locking e¤ects. By analysing at the element level the
+deformation modes which form a basis for the incompressible subspace the extra modes of deformation are
+proposed in order to provide the maximum possible dimension to that subspace. Subsequently another new
+element with more degrees of freedom is formulated using a mixed method. This is done by including an
+extra Þeld of variables related to the derivatives of the displacement Þeld of the extra compatible modes
+deÞned previously. The performance of the elements proposed is assessed in linear and non-linear situations.
+Copyright

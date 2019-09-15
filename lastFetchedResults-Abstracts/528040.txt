@@ -1,0 +1,6 @@
+Aiming at Delaunay triangulation with islets constrains in terrain simulation. A general Delaunay triangulation
+algorithm for constrained data set with islets is proposed. The algorithm firstly constructs Constrained
+Delaunay Triangulation with constraint polygons which are inner boundary of islets, then according to topological
+relations within edge, surface, arc segment, applies bidirectional search to find the triangle in islet,
+lastly it carries on certain corresponding processing to complete the Delaunay triangulation algorithm with
+islets. The analyses show the algorithm simple, fast speed. The algorithm can be used in 3-D terrain vision.

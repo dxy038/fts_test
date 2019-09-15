@@ -1,0 +1,20 @@
+Background:
+Hepatitis C virus (HCV) is a positive strand RNA virus belonging to the Flaviridae family of viruses
+with an approximately 9.4 kb genome size, which was discovered in 1989. HCV is classified into types,
+corresponding to the main branches in the phylogenetic tree; and subtypes, corresponding to the more
+related sequences within the major groups. Our objective was to accurately predict various HCV types
+and subtypes from a complex set of restriction site patterns by the use of artificial intelligence system.
+Three methods for classifying of genes based on artificial neural network (ANN), Principal component
+analysis (PCA) and support vector machine (SVM) were proposed.
+Material and methods:
+These methods classify genes into groups which are made distinct from each other by evolutionary
+changes in their restriction sites. Classification models were constructed based on changes at restriction
+site in the untranslated region (UTR) of the virus. Models were trained, validated, and tested with 330
+UTR sequences. A procedure of determining the optimal network parameters was proposed to speed up
+the training process.
+Result and Discussion:
+The results suggested that the restriction site map was a more accurate predictor of HCV genotype.
+To show the ability of the model in genotyping, the internal representations developed by the networks
+were analyzed by principal component analysis. This analysis showed that the networks are able to
+discover relevant features just on the basis of the association between the restriction map and the virus
+genotype.

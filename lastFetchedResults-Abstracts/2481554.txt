@@ -1,0 +1,14 @@
+Gas turbine aerodynamic shape optimization has been the subject of several
+numerical studies in the past decades. In this research, numerical optimization of a one
+stage axial turbine is considered. A practical and eective optimization method to improve
+eciency and/or pressure ratio of the axial turbine is presented. Particular modications
+are accomplished with a limited number of optimization parameters, by stator and rotor
+blades re-staggering. A three-dimensional numerical model has been prepared and veried
+through experimental data, which are obtained from the reference gas turbine engine test
+rig. Coupling the veried numerical simulation solver and genetic algorithm, the eects of
+stator and rotor stagger angle distributions on the turbine performance are investigated.
+The optimization is carried out at the turbine design operating condition. To accelerate
+the GA convergence rate, the numerical mesh sizes are rened in each generation. As a
+result, the overall computational time decreases by 20%. Dening two objective functions,
+this optimization approach resulted in the turbine stage isentropic eciency improvement
+of 0.85% and 0.86%, in the rst and second objective functions, respectively.

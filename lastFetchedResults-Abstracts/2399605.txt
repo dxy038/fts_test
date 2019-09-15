@@ -1,0 +1,8 @@
+Objective
+estigate the effect of the substrate: coating elastic modulus ratio on the failure behaviour of glass ionomer cement (GIC) under Hertzian indentation.
+s
+malgomer CR, Advanced Healthcare, Tonbridge, Kent, UK) discs, 2 mm thick and 10 mm diameter, were randomly divided into 11 groups, 10–22 specimens for each group, and stored at 37 °C in artificial saliva for 7 days. Discs were tested resting freely on 11 substrate materials at 23 °C in air by loading centrally through a 20 mm diameter hard steel ball at a crosshead speed of 0.2 mm/min. The elastic moduli of the substrates (Es) and the coating GIC (Ec) were first measured with a method similar to that of the Hertzian indentation, except for the three harder materials: amalgam, Al6061 and stainless steel 304. The failure load at the first crack was recorded with the aid of acoustic emission detection. Fracture surfaces were observed by SEM.
+s
+ues ranged from 0.09 to 210 GPa; Ec was 7.7 GPa. Failure load generally increased with Es at first and then became relatively stable; the turning point occurred for Es/Ec = 1. Bottom surface-initiated radial cracking was the principal failure mode on softer substrates (Es/Ec &lt; 1), while top surface conical cracking usually occurred on harder substrates (Es/Ec ≥ 1).
+sion
+astic modulus ratio, substrate: coating, is a controlling factor for both the failure mode and load for the coating material under Hertzian indentation.

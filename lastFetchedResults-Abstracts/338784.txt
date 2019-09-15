@@ -1,0 +1,11 @@
+Objective
+The nuclear peroxisome proliferator–activated receptor γ (PPARγ) ligands may enhance the etoposide-induced apoptosis by modulating the topoisomerase (Topo) IIα expression through binding to direct repeat 1 (DR1)-like element.
+Methods
+
+To investigate the effect of etoposide-induced apoptosis by PPARγ ligands, leukemia cell lines were treated with troglitazone and 15-deoxy-Δ12,14-prostaglandin J2 (15d-PGJ2) in the presence of etoposide and studied about various biological responses.
+Results
+
+We found the enhancement of etoposide-induced apoptosis by PPARγ ligands in several leukemia cell lines, which was dependent on the expression of PPARγ and specific for TopoIIα inhibitor. We also observed the increased expression of TopoIIα protein by 15d-PGJ2 in Jurkat and HUVEC cells, which might lead to the increased sensitivity to etoposide. Furthermore, we demonstrated that 15d-PGJ2 enhanced the promoter activity of human TopoIIα promoter construct with a DR1-like site by sevenfold when expressed with PPARγ and RXRα. The mutation of DR1-like site decreased the promoter activity, although the direct binding between DR1-like site and PPARγ/RXRα heterodimer was not demonstrated.
+Conclusions
+
+We conclude that the induction of TopoIIα expression by PPARγ ligands via DR1-like site is an important mechanism for the enhancement of etoposide-induced apoptosis and a DR1-like site in TopoIIα promoter is involved in transcriptional regulation dependent on PPARγ ligands and PPARγ/RXRα heterodimer.

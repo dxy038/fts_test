@@ -1,0 +1,1 @@
+An optimal design procedure, based on Hooke-Jeeves method, applied to a permanent magnet transverse flux motor (PMTFM) is presented in the paper. Different objective functions, as minimum cost, minimum cogging torques and maximum efficiency were considered. The results obtained for a low power sample PMTFM are given and commented.

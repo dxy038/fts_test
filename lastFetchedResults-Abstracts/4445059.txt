@@ -1,0 +1,1 @@
+A novel WDM-PON system delivering bidirectional 1.25-Gbps data and broadcast data is proposed. A subcarrier signal modulates optical carriers of a FP-LD based broadband light source to broadcast to all users. RSOAs are used as modulators for the baseband data in both the OLT and the ONU for a channel. BER and EVM were measured to demonstrate the proposed scheme.

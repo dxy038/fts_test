@@ -1,0 +1,1 @@
+We present a grammar based framework for deep evaluation of spoken language understanding (SLU) systems. The key point of our method is the use of a linguistic typology in order to generate an evaluation corpus that covers a significant number of the linguistic phenomena we want to evaluate our system on. This allows a more objective and deep evaluation of SLU systems.

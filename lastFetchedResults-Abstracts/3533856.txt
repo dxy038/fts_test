@@ -1,0 +1,1 @@
+A mathematical model to compute the duration of interference into a TV receiver from a land mobile transmitter in the busy hour is proposed. The objective is to determine how various parameters such as mobile density, traffic density, and distance will affect the probability that a transmitting mobile will degrade the picture quality of a TV receiver.

@@ -1,0 +1,7 @@
+Objective.  To develop a systematic methodology towards a realistic model, of the body/chair interaction as a tool to analyze sitting posture and the cushioning system influence on the pelvis/lower back stress development.
+
+Background. The model concept comprises an integrative structure including both the pelvis girdle and the lower spine, as well as the surrounding soft tissues with their specific characteristic behavior during sitting.
+
+Methods. In vivo measurements were performed, in order to obtain a set of contact moduli defining the behavior of the soft tissues under tension during the sitting down process. Additionally in vivo indentation of a metal ball into the same soft tissues during sitting were performed in order to obtain the characteristic moduli. A finite element model was also developed for the specific analyses.
+
+Results. Validation of the model was achieved by comparing its results with in vivo measurements of contact stresses developed between the body and a stiff target seat area. Loading the model using two alternative cushioning materials lead to different sets of stresses within the model; as the stiffness of the seat decreased, the peak contact stresses, as well as the internal body stresses substantially decreased.

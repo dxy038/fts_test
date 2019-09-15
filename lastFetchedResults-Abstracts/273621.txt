@@ -1,0 +1,7 @@
+The rate-type constitutive relations of rate-independent metals with isotropic or kinematic hardening at finite elastic–
+plastic deformations were presented through a phenomenological approach. This approach includes the decomposition
+of finite deformation into elastic and plastic parts, which is different from both the elastic–plastic additive
+decomposition of deformation rate and Lee s elastic–plastic multiplicative decomposition of deformation gradient.
+The objectivity of the constitutive relations was dealt with in integrating the constitutive equations. A new objective
+derivative of back stress was proposed for kinematic hardening. In addition, the loading criteria were discussed. Finally,
+the stress for simple shear elastic–plastic deformation was worked out.

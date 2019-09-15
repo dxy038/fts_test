@@ -1,0 +1,10 @@
+Context
+uirements engineering, there will be many different stake holders. Often the requirements engineer has to find a set of requirements that reflect the needs of several different stake holders, while remaining within budget.
+ive
+aper introduces an optimisation-based approach to the automated analysis of requirements assignments when multiple stake holders are to be satisfied by a single choice of requirements.
+
+per reports on experiments using two different multi-objective evolutionary optimisation algorithms with real world data sets as well as synthetic data sets. This empirical validation includes a statistical analysis of the performance of the two algorithms.
+s
+sults reveal that the Two-Archive algorithm outperformed the others in convergence as the scale of problems increase. The paper also shows how both traditional and animated Kiviat diagrams can be used to visualise the tensions between the stake holders’ competing requirements in the presence of increasing budgetary pressure.
+sion
+aper presented the concept of internal tensioning among multi-stakeholder in requirements analysis and optimisation for the first time. This analysis may be useful in internal negotiations over budgetary allowance for the project.

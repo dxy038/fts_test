@@ -1,0 +1,11 @@
+Objective.The purpose of this work was use a computer simulation of the action of extensor carpi radialis brevis during a typical backhand tennis stroke of novice and advance players to examine a potential mechanism of injury.
+
+Design.This study uses established kinematic data in conjunction with a computer model to give a time varying description of muscle force and length changes.
+
+Background. Lateral epicondylitis or tennis elbow has been attributed to over-exertion of extensor carpi radialis brevis with novice tennis players being particularly susceptible.
+
+Methods. We used a simple Hill-type muscle model to predict muscle force and internal kinematics based on activation and joint angle changes as inputs. Magnetic resonance images were used to determine the morphometric dimensions of extensor carpi radialis brevis which were used to scale the mechanical properties determined from in vivo contractions of flexor pollicis longus.
+
+Results. The simulation indicated that the novice group generated considerably less force and the muscle was subjected to a substantial eccentric contraction as a result of racquet-ball impact. This eccentric contraction occurred with the muscle at a very long length with diminishing tension capabilities.
+
+Conclusion. The observed pattern of activation and joint kinematics of novice tennis players results in substantial eccentric contractions which are likely the cause of repetitive microtrauma leading to tennis elbow injuries. Adopting the technique seen in advanced players would limit the eccentric contractions and reduce the likelihood of injury.

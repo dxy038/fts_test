@@ -1,0 +1,1 @@
+This paper describes a new evolutionary programming optimisation algorithm and a method of its application to multi-objective optimization problems. Computational results are presented demonstrating the algorithm´s ability to find Pareto-optimal solutions for a real-world problem in radio frequency component design.

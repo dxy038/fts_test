@@ -1,0 +1,9 @@
+This paper deals with topology sti ness optimization of a ground structure consisting of rectangular
+2D-beam elements with path-dependent response. The objective of the optimization is to minimize the
+compliance of the structure when the mass is prescribed. The path-dependent response of the structure is
+due to the plastic hinges at the ends of the beam elements. The plastic hinges are modelled through yield
+surfaces giving the interaction between the stress resultants when the cross-section is fully plasti ed. In
+combination with the yield surface a simple hardening rule is applied. The geometrically non-linearities
+are also included, so the beam elements can perform large rigid body rotations. The  nite element
+solution is obtained with an implicit backward Euler algorithm. From the  nite element solution the
+analytical sensitivities are computed using the direct method

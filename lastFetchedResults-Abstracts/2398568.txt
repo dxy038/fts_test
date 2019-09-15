@@ -1,0 +1,8 @@
+Objective
+rpose of this work is to develop a quantum mechanically based quantitative structure–activity relationship (QMQSAR or QSAR hereafter) adequate to predict and explain Ames TA100-derived mutagenicities for a number of organic molecules.
+s
+of 35 structurally similar molecules with epoxide (oxirane) functionalities and systematic, reliable experimental data were selected to construct a QSAR model. The SAM1 quantum mechanical method was used to perform conformational analysis and properties calculations. This QM information was used to compute a variety of descriptors. From this a two-descriptor regression model was constructed.
+s
+o descriptors are ESP-HACA-1/TMSA and HOMO-LUMO energy gap. Statistical results for the model: R2 = 0.857, R adj 2 = 0.818 ,     R cv 2 = 0.848 , s2 = 0.0618. The variance inflation factor and significance for both descriptors were 1.082 and &lt;0.001, respectively. The descriptors are related to transport across a membrane and to reactivity.
+icance
+del we have presented here facilitates design of non-mutagenic monomers that may be useful for dental restorative composites. The model also serves as a screening tool for rating the mutagenicity of new candidate materials.

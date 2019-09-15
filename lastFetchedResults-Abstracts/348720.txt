@@ -1,0 +1,11 @@
+Objective
+To examine how auditory brain responses change with increased spectral complexity of sounds in musicians and non-musicians.
+Methods
+Event-related potentials (ERPs) and fields (ERFs) to binaural piano tones were measured in musicians and non-musicians. The stimuli were C4 piano tones and a pure sine tone of the C4 fundamental frequency (f0). The first piano tone contained f0 and the first eight harmonics, the second piano tone consisted of f0 and the first two harmonics and the third piano tone consisted of f0.
+Results
+Subtraction of ERPs of the piano tone with only the fundamental from ERPs of the harmonically rich piano tones yielded positive difference waves peaking at 130 ms (DP130) and 300 ms (DP300). The DP130 was larger in musicians than non-musicians and both waves were maximally recorded over the right anterior scalp. ERP source analysis indicated anterior temporal sources with greater strength in the right hemisphere for both waves. Arbitrarily using these anterior sources to analyze the MEG signals showed a DP130m in musicians but not in non-musicians.
+Conclusions
+Auditory responses in the anterior temporal cortex to complex musical tones are larger in musicians than non-musicians.
+Significance
+Neural networks in the anterior temporal cortex are activated during the processing of complex sounds. Their greater activation in musicians may index either underlying cortical differences related to musical aptitude or cortical modification by acoustical training
+

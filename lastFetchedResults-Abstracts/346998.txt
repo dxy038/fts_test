@@ -1,0 +1,5 @@
+Objective: To clarify how the primary sensorimotor and supplementary motor areas are involved in the generation of the rhythmicity of electromyogram (EMG) activity during continuous muscle contraction.
+Method: We analyzed the coherence between subdurally recorded cortical electroencephalograms (EEG) and EMGs of the contralateral wrist extensor muscle during continuous isometric contraction in 8 patients with medically intractable epilepsy.
+Results: In all subjects, a significant coherence between the primary motor area (M1) and EMG was observed at the peak frequency of 15±3 Hz (means±SD). In the primary somatosensory area (S1) of 7 subjects and the supplementary motor area proper (SMA proper) of 4 subjects, significant coherence with EMG was observed at 12±5 and 15±4 Hz, respectively. The time lags revealed by cross-correlogram were 10±3, 7±1 and 22±8 ms in the M1, S1 and SMA proper, respectively, with the EMG lagging in all areas.
+Conclusion: These findings suggest that the rhythmic activity in the SMA proper, as well as in the S1 and M1, is related to the generation of the rhythmicity of EMG activity.
+

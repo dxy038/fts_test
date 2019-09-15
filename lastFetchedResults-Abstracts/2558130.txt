@@ -1,0 +1,7 @@
+The portfolio is a perfect combination of stock or assets, which an investor buys them. The
+objective of the portfolio is to divide the investment risk among several shares. Using non-parametric
+DEA and DEA-R methods can be of great significance in estimating portfolio. In the present paper,
+the efficient portfolio is estimated by using non-radial DEA and DEA-R models. By proposing nonradial
+models in DEA-R when there is ratio data the efficient portfolio is determined. At the end of the
+study, an applicatory example based on article [2] with non-radial DEA and DEA-R models has been
+conducted and results are presented.

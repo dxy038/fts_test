@@ -1,0 +1,1 @@
+A bidirectional phasing scheme for a real time B-mode ultrasonic imager is described. The system uses a PDP-11 digital computer and analog delay lines to focus an ultrasonic transducer array. Preliminary transmit field patterns, obtained using the system suggest the resolution will be Rayleigh limited.

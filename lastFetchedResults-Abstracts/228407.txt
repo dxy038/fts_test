@@ -1,0 +1,24 @@
+Relative to designs assuming no channel knowledge
+at the transmitter, considerably improved communications
+become possible when adapting the transmitter to the intended
+propagation channel. As perfect knowledge is rarely available,
+transmitter designs based on partial (statistical) channel state
+information (CSI) are of paramount importance not only because
+they are more practical but also because they encompass the
+perfect- and no-knowledge paradigms. In this paper, we first
+provide a partial CSI model for orthogonal frequency division
+multiplexed (OFDM) transmissions over multi-input multi-output
+(MIMO) frequency-selective fading channels. We then develop
+an adaptive MIMO-OFDM transmitter by applying an adaptive
+two-dimensional (2-D) coder-beamformer we derived recently
+on each OFDM subcarrier, along with an adaptive power and
+bit loading scheme across OFDM subcarriers. Relying on the
+available partial CSI at the transmitter, our objective is to
+maximize the transmission rate, while guaranteeing a prescribed
+error performance, under the constraint of fixed transmit-power.
+Numerical results confirm that the adaptive 2-D space-time
+coder-beamformer (with two basis beams as the two “strongest”
+eigenvectors of the channel’s correlation matrix perceived at
+the transmitter) combined with adaptive OFDM (power and bit
+loaded with -ary quadrature amplitude modulated (QAM)
+constellations) improves the transmission rate considerably.

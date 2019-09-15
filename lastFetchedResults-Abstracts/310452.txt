@@ -1,0 +1,9 @@
+Objective. To examine how accurately calibration stains from pressure-sensitive film samples compressed between perfectly flat surfaces represent contact pressures measured with the film inserted between curved joint surfaces.
+
+Design. Experimental study.
+
+Background. Contact pressure distributions and areas in joints are often quantified using pressure-sensitive film inserted between the articular surfaces. Absolute pressure values are recovered from the film through a calibration procedure. Since the calibration is typically performed in a different environment from the experimental measurements, a systematic error in the pressure magnitudes may be introduced.
+
+Methods. Calibration stains were produced with an Instron machine using a flat and a slightly curved indenter. Calibration curves were fitted to the raw data of both indenters using a model representing the functional characteristics of the pressure-sensitive film. Results. No systematic differences between the calibration curves from the flat and the curved indenter were observed.
+
+Conclusions. It appears that calibration with the film in a flat configuration is adequate for contact pressure measurements between moderately curved articular surfaces.

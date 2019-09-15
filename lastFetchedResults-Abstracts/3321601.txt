@@ -1,0 +1,1 @@
+The objective of this paper is to solve the coefficient assignment problem for linear multivariable systems with delays. The aim is to extend the results of [16] on coefficient assignment problem for single input - single output weakly controllable systems with delays to multi input - multi output ones, using the feedback cyclizability of such a system.

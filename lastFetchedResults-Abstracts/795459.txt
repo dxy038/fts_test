@@ -1,0 +1,1 @@
+In this study the necessary and sufficient optimality conditions for nonsmooth fractional multiple objective optimization problems are provided. Our idea is based on using the properties of limiting subdifferential vectors in nonsmooth analysis and a separation theorem in convex analysis.

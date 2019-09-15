@@ -1,0 +1,7 @@
+This paper presents a methodology to numerically investigate the influence of design and operating parameters on the performance of
+dye-sensitized solar cell (DSSC). A one-dimensional steady-state model of the DSSC coupled with a model to predict global irradiance on
+a terrestrial surface is utilized to analyze the performance of a DSSC installation. Hourly, daily, monthly and annual performance of a
+DSSC installation is systematically analyzed over a wide range of design and operating parameters and the optimum configuration is
+identified with the objective of maximizing the power density. Overall, this paper illustrates a methodology to ascertain the optimal
+design and operating configurations of a DSSC which can be extended to any terrain.
+  2011 Elsevier Ltd. All rights reserved

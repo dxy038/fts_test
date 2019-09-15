@@ -1,0 +1,15 @@
+OBJECTIVE: To study the relationship between length of stay (LOS) and the rate of death among patients hospitalized with congestive heart failure (CHF).
+
+: A retrospective, observational study.
+
+G: Fifteen acute care community hospitals in upstate New York.
+
+TS: Three thousand nine hundred fourteen patients whose principal billing diagnosis was diagnosis-related group number 127 (CHF and shock).
+
+E MEASURES: Mean total LOS and hospital death rate.
+
+LES: Mean number of nonacute care hospital days per patient, mean number of acute care days (acute LOS) per patient, cases per hospital, hospital bed capacity, and the presence of a cardiac catheterization laboratory, cardiac surgical services, or a medical residency training program. An index of severity of illness and a severity-weighted expected LOS were calculated for each patient as well.
+
+S: Significant variability in mean total LOS (7.6 to 12.7 days), mean acute LOS (7.1 to 10.3 days), and death rates (4.3 to 12.0%) was noted among the centers. Minimal variation in mean expected LOS (5.2 to 6.1 days) and mean severity score (2.8 to 3.3) was observed. Mean total LOS (r = 0.14, p = 0.61) and acute LOS (r = 0.11, p = 0.69) were not related significantly to death rate for the 15 centers. When the hospitals were separated into tertiles based on rank order of total LOS and acute LOS, no differences among the subgroups were noted in the number of cases per hospital, deaths per hospital, death rates, expected LOS, and severity scores. Interhospital variation in total LOS was partially explained by the care of patients who did not require acute hospitalization.
+
+SIONS: Significant interhospital variation exists in LOS and death rates for patients admitted with CHF; these two measures are not related to each another. This variability in outcome cannot be explained by severity of illness case-mix alone; significant variation in the processes and effectiveness of patient care may exist.

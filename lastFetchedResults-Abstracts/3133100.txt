@@ -1,0 +1,1 @@
+Bidirectional Forwarding Detection (BFD) is introduced into node failure or link failure detection for OBS networks. And a BFD-triggered failure detection mechanism combines with Fast Reroute (FRR) is proposed and simulated. Simulation results verify the feasibility and effectiveness of the proposed mechanism.

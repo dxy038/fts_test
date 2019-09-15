@@ -1,0 +1,11 @@
+Objective.  This study was performed to investigate the time-dependent responses of the intervertebral joint to static and vibrational loads.
+
+Design. A poroelastic finite element model was established to analyse the fluid flow, stress distribution and deformation of the intervertebral disc.
+
+Background. Long-term exposure to whole body vibration is highly associated with disc degeneration and low back pain. It is hypothesized that moderate vibrational loading may increase the efficiency of fluid and nutritional transport of the intervertebral disc while prolonged static and excessive vibrational loading may have deleterious effect.
+
+Methods. A three-dimensional finite element model was established using the actual geometry of the L4–L5 lumber motion segment. Nonlinear poroelastic properties were assigned to the intervertebral disc and cancellous bone. Static and vibrational loads were applied and the responses of fluid flow and stress distributions were analysed.
+
+Results. The finite element model showed that the loads carried by the annulus and the facets increased with time under static loading. The fluid flow and deformation of the intervertebral disc were dependent on the loading frequency.
+
+Conclusion. Vibration loading may be able to enhance disc fluid exchange via the fluid pumping mechanism.

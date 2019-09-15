@@ -1,0 +1,123 @@
+Introduction
+Abundant flood events occur in Iran mainly due to
+variations in spatial and temporal patterns of rainfall
+along with the mis-management of watersheds.
+Because of the large economical and environmental
+effects of floods, it is necessary to control and reduce
+their damages. There are several methods for flood
+control. Rockfill dams arc one of the best methods to
+store flood volume and deplete the flood peak. Flood
+control by these structures requires a hydraulic design
+which is dependent on the behavior of the flow in
+coarse porous media. Many studies have considered the
+flow through coarse porous media, but the effects of the
+over-flow on the flow through porous media has rarely
+been mentioned. In this paper simultaneous through
+and over-flow in rockfill dams 1S investigated
+experimentally.
+Objectives
+Understanding the flood flow mechanisms in rockfill
+dams and investigating the effects of over-flow on
+through-flow was the main objective of this study. The
+stage-discharge relation in overtopping rockfill dams
+was obtained and an experimental model for flood
+discharge in rockfill dams were developed. In this
+study an experimental setup was developed to
+investigate simultaneous through and over-flow in
+rockfill darns. Using dimensional analysis, the
+governing functional equation of simultaneous flow
+was obtained and finally the constant and coefficients
+were derived.
+Methodology
+Because of fully turbulent flow in rockfill dams and
+severe interaction between over and through-flow in
+rockfill dams. the flow pattern and mechanism are fully
+complicated. There are three major types of flow in
+rockfill dams; A) Through-flow in rockfill dams. where
+flood flows only in the porous body of the dam and
+there is non-darcian free flow in rocks (Samani et aI.,
+2003; Samani and Shaiannejad, 2004; and Michiuka et
+al., 2005). B) Submerged flow in rockfill dams, where
+rockfill dam or rock mass IS submerged and
+downstream level of water is higher than the dam
+height which consists of two types of flow, one
+pressurized non-Darcy flow in rockfill and the other
+open channel flow over the rockfill dam (Li and Graga,
+1998). C) Unsubmerged Simultaneous through and
+over-flow, where rockfill dam overtops and flood flows
+freely through and over the rockfill dam which consists
+of two types of flow; one free non-Darcy flow in the
+body of the rockfill dam and the other spatially varied
+flow over the rockfill dam. There is no special research
+on Unsubmerged Simultaneous through and over-flow
+in rockfill dams. so in this paper this type of flow in
+rockfill dams is investigated experimentally.
+Dimensional analysis and experiments
+Based on the physical characteristics of simultaneous
+over and through-flow in rockfill dams, the previous
+studies, and the results ofthc initial experimental tests,
+the non-dimensional functional relation of
+simultaneous flow discharge using dimensional
+analysis technique is derived inventionally: q - d g J6 p' p' , p' H - d d g
+d
+where Cd is the discharge coefficient, H, is the head of
+water upstream of the dam, g is the acceleration due to
+the gravity, f is the function symbol, P is the dam
+height, L is the thickness of the dam, S is the slope of
+the up-downstream slopes, DH is the difference
+between the upstream and the downstream depth of
+water, and q is the discharge per unit width of the dam.
+The main objective of this paper is to derive the
+relation between Cd and the five dimensionless
+parameters of HiP, UP, S, diP, and DH/P. Results and Discussion
+The effects of dimensionless parameters of equation (I)
+on Cd were investigated through 240 runs. The
+functional relation of C, was odtained. Based on the
+experimental results an increase in the upstream depth
+of water caused an increase in the flow discharge. In
+low flow rates, the dominant flow is the through-flow
+and the variation in upstream depth of water was highly
+affected by the discharge variations. In large flow rates,
+the variation in upstream depth is less affected by
+discharge variations. This was mainly because of the
+domination of the through-flow in low flows. In this
+condition the dam behaves as an underflow structure
+while in large flows it behaves as an overflow
+hydraulic structure. The variation of the discharge
+coefficient with HiP, UP, S, dIP, and DHiP is
+presented in fig. I. Finally the mathematical relation of
+Cd in rockfill dams was derived by a nonlinear
+regression analysis;
+P DII
+{ J
+II. 11361 /1-) [ J-0 Oil, II) c; =0.29 ~ .1 DH ,I n, H d
+-UO\i7(!::..) -U83r!!.-) [~] r [~] P [sin(PJ]-683,,,nIPIl
+with R'~0.936 and RMSE~O.OO I. This equauon can be
+used to estimate the simultaneous over and thorough
+flow rates in rockfill dams and the design of detention
+rockfill dams to reduce the output flood peak.
+- HU 0.5, [Hd ~ S ~ DHJ- C H" 0.5 ( I ) q - d g J6 p' p' , p' H - d d g
+d
+where Cd is the discharge coefficient, H, is the head of
+water upstream of the dam, g is the acceleration due to
+the gravity, f is the function symbol, P is the dam
+height, L is the thickness of the dam, S is the slope of
+the up-downstream slopes, DH is the difference
+between the upstream and the downstream depth of
+water, and q is the discharge per unit width of the dam.
+The main objective of this paper is to derive the
+relation between Cd and the five dimensionless
+parameters of HiP, UP, S, diP, and DH/P.
+Conclusion
+In this paper unsubmerged simultaneous through and
+over-flow in flood detention rockfill dams has been
+investigated experimentally. Based on the experimental
+results, a non-linear regressive equation for discharge
+estimation with a correlation coefficient of 0.936 and
+root-mean-square-errors of 0.001 has been proposed.
+Results also showed that the flow rate has been directly
+affected by the ratio of the dam height to the upstream
+head, the ratio of material size to the dam height, and
+the submerged ratio. The flow rate has been inversely
+affected by the ratio of the dam length to the dam
+height, and the upstream and downstream side slopes.

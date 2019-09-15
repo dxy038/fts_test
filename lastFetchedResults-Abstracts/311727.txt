@@ -1,0 +1,11 @@
+Background
+We recently developed an algorithm to perform closed fracture reduction using unilateral external fixator. Although its validity has been verified experimentally, the whole reduction process was not evaluated owing to the lack of a device that could facilitate its implementation in clinical practice. The objective of this study is to develop a prototype of such a system, and quantify its reduction accuracy.
+Methods
+
+The system consists of a custom-made unilateral external device and a self-contained software package. The device features 7 one degree of freedom joints, each allows for continuous adjustments and is equipped with measurement components to facilitate accurate positioning. A CT-based method was developed, which facilitates virtual reduction and calculates the adjustment requirements that reduce a fracture deformity. The device was adjusted off-the-site and reattached back in place to guide the reduction of the fracture fragments. Reduction accuracy was evaluated using eight phantoms of different types, sides and fracture patterns by calculating the rotation about a screw axis and the displacement between the origins of the distal and proximal local coordinate systems after the reduction.
+Findings
+
+The mean (SD) of the translational and rotational reduction errors were 1.73 (0.97) mm and 2.57° (1.36°), respectively, which demonstrated the accuracy and reliability of the system.
+Interpretation
+
+The system allows surgeons to perform fracture reduction in an objective, efficient, and accurate manner yet minimize the radiation exposure and lessens the extent of tissue disruption around the fracture site during the reduction process.

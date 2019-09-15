@@ -1,0 +1,7 @@
+Objective:  The main goal of this study was the hardness evaluation of a composite resin cured by five LED (Light Emitting Diodes) based devices and a comparison with a conventional curing unit. The hardness test was used to compare the efficacy of both types of light source.
+
+Methods: The LED-based devices were made employing an array of LEDs (Nichia Chem. Ind., Japan) emitting light peaked at 470 nm. Composite resin (Z100, shade A3) was cured for 20, 40, 60, 120 and 180 s with each LED-based device and for 40 s with the halogen lamp. The composite samples were prepared with 0.35, 1.25 and 1.8 mm of thickness. Five samples of each set of parameters were done. The hardness evaluation was performed at the non-illuminate surface with three indentations for each sample.
+
+Results: All the samples cured by the LED-based devices showed inferior hardness values when compared with the halogen lamp at the typical curing time (40 s). The L6 (device composed of six LEDs) was the most efficient one of the LED-based devices. Its obtained irradiance was 79 mW/cm2, whereas the halogen lamp irradiance was of 475 mW/cm2. For the L6 device here presented, longer exposure times or a thinner resin layer are required to achieve reasonable hardness values.
+
+Significance: Besides the difference of irradiance when compared with halogen lamps, LED-based devices show to be a promising alternative curing instrument. Further development in instrumentation may result in devices even more efficient than conventional lamps.

@@ -1,0 +1,7 @@
+The primary objective of the present paper is to analyze the influence of interface stress on the elastic field within a
+nano-scale inclusion. Special attention is focused on the case of non-hydrostatic eigenstrain. From the viewpoint of practicality,
+it is assumed that the inclusion is spherically shaped and embedded into an infinite solid, within which an axisymmetric
+eigenstrain is prescribed. Following Goodier s work, the elastic fields inside and outside the inclusion are obtained
+analytically. It is found that the presence of interface stress leads to conclusion that the elastic field in the inclusion is not
+only dependent on inclusion size but also on non-uniformity. The result is in strong contrast to Eshelby s solution based on
+classical elasticity, and it is helpful in the understanding of relevant physical phenomena in nano-structured solids.

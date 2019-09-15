@@ -1,0 +1,5 @@
+In this paper we consider the problem of creating batches of parts, to be processed in a flexible manufacturing
+cell, and scheduling their operations. We consider the case in which the system consists of one machine and at
+most k parts may be present in the system at the same time. Given that each part requires a sequence of operations,
+and each operation requires a given tool, the objective is to minimize the total number of setups. We develop a
+heuristic algorithm for its solution and we present an extensive computational experience.

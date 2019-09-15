@@ -1,0 +1,1 @@
+In this correspondence, it is shown that there are some problems when an inductive load is considered in Figs. 2&#8211;5 of the original paper <xref rid="ref1" ref-type="bibr">[1]</xref>. The objective of this correspondence is to point out these problems using analysis and detailed computer simulation.

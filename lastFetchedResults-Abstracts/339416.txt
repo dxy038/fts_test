@@ -1,0 +1,11 @@
+Objective
+Mast cells (MCs) play central roles for the onset and development of immediate-type and inflammatory allergic reactions. Since the inverse relationship between atopic disorders and diabetes mellitus has been observed in animals and humans, we investigated the effects of insulin (Ins) on MC signaling and biological function.
+Methods
+
+In bone marrow–derived MCs (BMMCs) from wild-type as well as SHIP-deficient mice Ins as well as insulin-like growth factor-1 (IGF-I)-triggered intracellular signaling events and MC effector functions were studied.
+Results
+
+We found that the addition of either Ins or IGF-1 to BMMCs triggers the phosphorylation of protein kinase B (PKB) and p38 kinase but not extracellular signal–regulated kinase (Erk). We also found that Ins/IGF-1 stimulates the tyrosine phosphorylation of SHIP1 and, in keeping with this, Ins/IGF-1-induced PKB phosphorylation is higher in SHIP1−/− BMMCs and is inhibited in SHIP+/+ as well as SHIP1−/− BMMCs with inhibitors of phosphatidylinositol-3-kinase (PI3K). Ins/IGF-1, like antigen (Ag), also stimulates the Rac-dependent activation of PAK as well as the production of hydrogen peroxide (H2O2). To elucidate the role of Ins and IGF-1 in MC biology, we studied their effects on Ag-mediated degranulation and MC survival. Although both only slightly enhanced Ag-mediated degranulation, they significantly promoted MC survival in the absence of IL-3 in a PI3K-dependent manner.
+Conclusion
+
+The promotion of BMMC survival by induction of Ins/IGF-1 signaling may, in part, be responsible for the inverse correlation observed between atopic disorders and diabetes mellitus.

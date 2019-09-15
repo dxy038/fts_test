@@ -1,0 +1,11 @@
+Objective
+To characterize a novel splice variant of the α subunit of the granulocyte-macrophage colony-stimulating factor (GM-CSF) receptor (GMRα), which we discovered in human neutrophils.
+Methods
+
+We used reverse transcriptase polymerase chain reaction to identify, characterize, and examine the expression of a novel splice variant of the GMRα transcript. At the protein level, surface plasmon resonance was used to measure the affinity of a recombinant soluble form of the novel GMRα protein for GM-CSF ligand. The full-length novel GMRα protein was expressed in a recombinant cell culture system, and its expression and localization were examined using Western blotting, I125 GM-CSF binding assays, flow cytometry, and a soluble GMRα enzyme-linked immunosorbent assay.
+Results
+
+The novel GMRα transcript identified herein contains a previously undescribed exon of the GMRα gene; this exon derives from an Alu DNA repeat element, and is alternatively spliced in the novel GMRα transcript. Inclusion of this 102 nucleotide exon results in translation of a protein product, which we have named Alu-GMRα. Alu-GMRα is identical to cell surface GMRα, but additionally contains a 34 amino-acid insert in the juxtamembrane region of the extracellular domain of GMRα. Functionally, the Alu-GMRα–specific epitope does not modify the ability of the protein to bind GM-CSF, but rather appears to be preferentially targeted by ectodomain proteases to mediate the release of a third soluble GM-CSF receptor into the extracellular space.
+Conclusions
+
+This study provides the first example of a cytokine receptor system in which soluble receptors are produced by three distinct mechanisms. Our results highlight the importance of soluble GMRα proteins in regulation of GM-CSF signaling.

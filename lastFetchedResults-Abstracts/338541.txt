@@ -1,0 +1,9 @@
+Objective
+The Wilms' tumor gene product (WT1) was identified as a tumor suppressor in pediatric kidney tumors. Conversely, acute leukemias express WT1 at a high frequency, and leukemias with high levels of WT1 expressed by leukemic blast cells have a significantly worse prognosis, suggesting an oncogenic function of WT1 in leukemic cells. To address this issue, we developed five hammerhead ribozymes (RZ1–RZ5) designed to cleave various wt1-mRNA GUC-recognition sites and thus suppress wt1 expression.
+Methods
+Using in vitro transcribed ribozymes and truncated wt1 target RNAs as substrates, we performed in vitro cleavage assays. The sequence of two ribozymes was then cloned into the pCDNA3 expression vector containing a self-processing ribozyme cassette. Downregulation of wt1 due to ribozyme expression was analyzed in the human 293 embryonic kidney and the K562 chronic myeloid leukemia cell line by Western blotting and RT-PCR. Growth of stable transfected K562 cells was determined by proliferation analysis and 3H-thymidine incorporation.
+Results
+In vitro, the anti-wt1 ribozymes were able to recognize and cleave the target RNA in a highly sequence-specific and time-dependent manner. The ribozymes showed different catalytic activity. Coexpression of wt1 and the self-processing ribozymes pRZ3 and pRZ5, respectively, resulted in a significantly downregulated WT1 protein level when transiently transfected in 293 cells. Furthermore, stable transfection of pRZ3 and pRZ5 resulted in considerably reduced expression of endogenous wt1 in K562 cells, correlating with the inhibition of cell proliferation and the induction of cell death.
+Conclusion
+Our data suggest that anti-wt1 ribozymes are a potent inhibitor of wt1 expression with possible implications for the inhibition of cell proliferation in leukemic cells.
+

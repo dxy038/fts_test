@@ -1,0 +1,11 @@
+Objective
+Approximately 60% of all anaplastic large-cell lymphomas (ALCL) contain a specific t(2;5)(p23;q35) chromosomal translocation leading to overexpression of NPM-ALK. As the chimeric tyrosine kinase is involved in tumorigenesis and pathogenesis of ALCL, we were interested to inhibit NPM-ALK expression using an exogenous and an endogenous ribozyme approach.
+Methods
+
+We designed five anti-ALK hammerhead ribozymes that were targeted to cleave the ALK proportion of NPM-ALK. The ribozyme with the highest cleavage activity was used as a modified RNA/DNA chimera (RZ1*) for transient transfection and as a self-splicing ribozyme vector (pRZ1) for endogenous expression. Ribozyme performance was tested in 293 cells (cotransfected with NPM-ALK) and in the ALCL cell line Karpas 299 by transient and stable transfection and Western blotting. The half-life time of NPM-ALK was determined by pulse-chase experiments.
+Results
+
+In vitro cleavage assays demonstrated different catalytic efficiencies depending on the targeted site of the substrate. Constant transfection of Karpas 299 cells with RZ1* for 96 hours did not lead to a significant reduction of NPM-ALK protein, presumably due to the long half-life of NPM-ALK (48 hours). In contrast, NPM-ALK protein expression was almost completely suppressed in transiently transfected 293 cells. Stable transfection of Karpas 299 cells with pRZ1 also resulted in significant reduction of NPM-ALK expression.
+Conclusion
+
+These results suggest that ribozymes targeted against NPM-ALK are able to inhibit expression of this oncogenic kinase efficiently and will be a useful tool to analyze its role in the pathophysiology of ALCL.

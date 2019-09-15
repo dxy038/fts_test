@@ -1,0 +1,9 @@
+The objective of this work is to perform an analysis of pressure distributions in grain silos subjected to thermal effects, taking into account its plastic and elastoplastic behaviour patterns when affected by thermal variations of the structure, by using the commercial ANSYS program, which is based on the finite-element method (FEM).
+
+Changes in the temperature along the silo wall produce dilatations and contractions, which cause variations both in the wall stresses and in the grain pressures. These dilatations and contractions increase the modulus of elasticity of the grain, causing the stresses on the silo wall during the contractions to rise with each new cycle.
+
+Some previous studies exist which quantify the importance of these effects using the FEM but they have not achieved wide acceptance because the high number of parameters necessary to develop models.
+
+Parameters analysed in this study are wall thickness, modulus of elasticity of the grain, Poisson's ratio of the grain and grain–wall friction coefficient.
+
+Results obtained show that drops of temperature greater than 20 K can provoke increases of pressures higher than the calculation values of Eurocode in the upper zone of the silo, these increases are not proportional to drops of temperature and the increment is more pronounced as variations of temperature increase.

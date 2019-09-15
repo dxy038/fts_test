@@ -1,0 +1,1 @@
+In this paper we report on a transceiver chip that is even suited for bidirectional Gbit/s transmission over a PCS fiber. The monolithic integration of a VCSEL and a metal-semiconductor-metal photodiode (MSM PD) as well as a design avoiding the use of external optics are expected to simultaneously save space, weight and module cost.

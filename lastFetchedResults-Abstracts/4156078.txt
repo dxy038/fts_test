@@ -1,0 +1,1 @@
+This paper presents a new method to accelerate the optimization process of stochastic methods. This method is an adaptive procedure of the Diffuse Element Approximation, used to approximate the objective function. The robustness of this new approach is verified on a two parameters function optimization and the Problem 25 of TEAM Workshop

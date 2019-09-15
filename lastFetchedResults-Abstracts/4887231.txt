@@ -1,0 +1,1 @@
+This paper extends the part of the theory on linear network coding (S.-Y.R. Li et al., 2003) over an acyclic network. The extension also applies to "static linear network code" that is introduced by R. Koetter and M. Medard, (2003). Another objective is the rigorous clarification of fundamental concepts in linear network coding

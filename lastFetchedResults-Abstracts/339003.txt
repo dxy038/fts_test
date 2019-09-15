@@ -1,0 +1,11 @@
+Objective
+Interaction of B7 with CD28 and CTLA4 plays an important function in T-cell activation and homeostasis. Disruption of CD28, CTLA4, or both has shown impact on T-cell biology. This paper examined the consequences of overexpressing a tailless mutant form of CTLA4 on T-cell activation and in vivo expansion.
+Materials and methods
+
+Retroviral gene transfer was used to infect bone marrow progenitor cells with either a control vector or a cytoplasmic domain-deleted mutant of CTLA-4 (ΔCTLA4). The cells were subsequently adoptively transferred to RAG−/− mice and allowed to repopulate. The T cells derived from the reconstituted RAG−/− mice were analyzed functionally in vitro and in vivo.
+Results
+
+The T cells were defective in their ability for IL-2 secretion, survival, and proliferation in response to Ag/APC stimulation in vitro. Addition of exogenous IL-2 or normal T cells was able to rescue the survival defect and allow cell-cycle progression. In adoptive transfer studies, the naïve T cells expressing ΔCTLA4 exhibited compromised capability to expand in RAG−/− mice. Memory ΔCTLA4T cells, however, were capable of proliferating in lymphopenic hosts to a similar extent as control memory T cells, but showed reduced survival.
+Conclusion
+
+Surface ΔCTLA4 has similar tolerogenic/regulatory activity as CTLA4-Ig. In contrast to CTLA4-Ig, the effect of ΔCTLA-4 is autonomous. The inhibition of in vivo expansion by ΔCTLA4 indicates developmental and/or activation stage dependency of costimulation in T cells.

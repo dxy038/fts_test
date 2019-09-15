@@ -1,0 +1,9 @@
+This work is devoted first to the derivation of the temperature field in an infinite medium constituted of an n-layered
+isotropic spherical inclusion, embedded in a matrix subjected to a uniform temperature gradient at infinity, under
+assumptions of no coupling between mechanical and thermal effects and of steady state conditions. These results lead to
+an estimate of the effective thermal conductivity coefficient of an n-layered inclusion-reinforced material. The second
+objective of this work is the derivation of the thermoelastic stress and strain fields in the same basic configuration but
+now, a coupling between stress and thermal properties is considered and the infinite matrix is stress free and subjected to
+a uniform change of temperature. These results and the solution of the same problem with a hydrostatic loading are
+used to estimate the effective thermal expansion coefficient and the specific heats for heterogeneous inclusion-reinforced
+materials

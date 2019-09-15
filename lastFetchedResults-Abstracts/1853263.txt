@@ -1,0 +1,8 @@
+Objective
+ation about medications is critical in supporting decision-making during the prescription process and thus in improving the safety and quality of care. In this work, we propose a methodology for the automatic recognition of drug-related entities (active ingredient, interaction effects, etc.) in textual drug descriptions, and their further location in a previously developed domain ontology.
+s and material
+mmary of product characteristics (SPC) represents the basis of information for health professionals on how to use medicines. However, this information is locked in free-text and, as such, cannot be actively accessed and elaborated by computerized applications. Our approach exploits a combination of machine learning and rule-based methods. It consists of two stages. Initially it learns to classify this information in a structured prediction framework, relying on conditional random fields. The classifier is trained and evaluated using a corpus of about a hundred SPCs. They have been hand-annotated with different semantic labels that have been derived from the domain ontology. At a second stage the extracted entities are added in the domain ontology corresponding concepts as new instances, using a set of rules manually-constructed from the corpus.
+s
+aluations show that the extraction module exhibits high overall performance, with an average F1-measure of 88% for contraindications and 90% for interactions.
+sion
+an be exploited to provide structured information for computer-based decision support systems.

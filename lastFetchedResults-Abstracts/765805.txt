@@ -1,0 +1,26 @@
+We have prepared porous silicon by etching
+p-type crystalline silicon in different conditions such
+as: varying electrolyte concentration, current density,
+and etching time. The primary objective of this
+research is to develop a scientifically based technique
+for the measurement of photosensitivity. One such
+technique involves measuring the photoconductivity
+of the porous silicon under halogen lamp irradiation.
+Our photoconductivity measurements agree with photoluminescence
+measurements in previous work, and
+demonstrate the direct transition of porous silicon.
+Varied etching conditions change the peak of photoconductivity
+from 600 to 520 nm (from 2.13 eV to
+2.4 eV) as the porosity of the layer gradually
+increases, and the photoconductivity band also becomes
+slightly more intense. The photoconductivity
+peak shift toward shorter wavelength was interpreted
+to be the result of band gap widening. We observe two
+distinct regimes in the time decay of photoconductivity,
+fast decay and steady state, that arise from the
+recombination process and electron–hole asymmetry
+near the Fermi surface. Experimental measurements
+of photoconductivity give useful information about the
+band gap, band structure, and variation of transport
+properties due to the micro-structural porosity created
+during the etching process.

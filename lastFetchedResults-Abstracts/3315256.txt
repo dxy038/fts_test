@@ -1,0 +1,1 @@
+This article models a multi-stage assembly system with finite capacity as an open queueing network using continuous-time Markov process. We also propose a multi-objective model with three conflicting objectives to optimally control the service rates, and apply the goal attainment method to solve a discrete-time approximation of the original multi-objective problem.

@@ -1,0 +1,14 @@
+Urban sprawl is an essential environmental issue to be monitored and forecasted in order to think about alternatives that could
+lead to a more sustainable future development. Thus, the objective of the project presented here is to simulate the past and future
+transformation of suburban land use patterns in the Vienna Region. (The paper describes some results of the project, “STAU-Wien”
+(City–Suburb relations and development in the Vienna Region), was carried out during 2000–2002).
+The paper discusses driving forces of suburban growth, and presents a model that simulates polycentric development of suburban
+systems. The model introduces different settlement growth velocities within the suburban region considering housing area
+densification and land use change from open space to built up area. In particular, the model takes into account suburban population
+migration and commercial start ups controlled by regional and local factors (attractiveness/constraints) in the suburban Vienna
+Region: large and small scale accessibility (traveling time to the core city, access to motorways), land prices, landscape attractiveness,
+social and commercial services supply, traffic exposure obstacles as well as (land use) zoning constraints. The approach concentrates
+on a Spatial Agent Model to stimulate regional migration and allocation decisions of households and commercial enterprises aiming
+in the selection of target municipalities. Land use change will finally be performed by a cellular automaton to decide on densification
+and land use change. The model has been developed and applied to simulate prior and future landscape transition processes for
+the suburban region in the surroundings of Vienna, Austria.

@@ -1,0 +1,4 @@
+Positive performance of purchase department directly affects the lowering costs, increasing profitability and stability of a supply chain. Evaluating and selection of suppliers is considered on of the main responsibilities of purchase department in a supply chain. In this paper, in order to solve the problem of supplier selection, a fuzzy none linear multi objective model is presented. This model enables the decider to allocate different weights to different objective regarding its specific strategies. In addition, the possibility of using the model in conditions which loading costs are imposed to the buyers should be considered after calculating total purchase costs (materials procurement, load and maintenance).
+
+In the proposed model, the ambiguity in ranking different objective is considered by using the FAHP. In this article, for the first time the membership function of fuzzy numbers observed as trapezoidal
+

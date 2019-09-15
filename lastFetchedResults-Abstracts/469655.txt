@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to design a predictive model for assessing the risk of developing respiratory distress syndrome (RDS) by using gestational age (GA) and results from a quantitative fluorescence polarization-based fetal lung maturity assay (TDx FLM II).
+Study design
+The study populations from the 3 largest published studies analyzing the association between TDx-FLM II and the development of RDS were combined for this analysis. A total of 509 patients were included in this study; 57 gave birth to infants who had RDS develop, and 452 gave birth to infants who were unaffected. Logistic regression analysis was used to model the odds of RDS as a function of GA, TDx FLM II ratio, and study site.
+Results
+The absolute and relative risks of an infant having RDS develop as a function of GA and TDx FLM II were calculated. The odds of RDS decrease 31% for each increasing week of GA and decrease 67% for each 10 mg/g increase in the TDx FLM II ratio. GA-specific TDx FLM II cutoffs are provided for sensitivities between 84% and 100%. The bias-adjusted area under the receiver-operating characteristic curve for the classification of RDS, based on GA and TDx FLM II ratio, was 0.957 with the use of the logistic model.
+Conclusion
+The incorporation of GA into the evaluation of fetal lung monitoring allows for individualized, GA-specific risk assessment and provides GA-specific cutoffs with increased specificity.
+

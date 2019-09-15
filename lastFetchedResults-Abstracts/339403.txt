@@ -1,0 +1,11 @@
+Objective
+Although cAMP is involved in a number of physiologic functions, its role in hematopoietic cell fate decision remains poorly understood. We have recently demonstrated that in CD34+-derived megakaryocytes, cAMP-related agents prevent apoptosis. In this study we addressed the question of whether cAMP also regulates survival of their precursors, CD34+ cells.
+Methods
+
+Apoptosis was evaluated by fluorescence microscopy, and detection of hypodiploid or annexin V+ cells by flow cytometry. Mitochondrial membrane potential and bcl-xL or caspase-3 expression were assessed by flow cytometry. Colony-forming units were studied by clonogenic assays in methylcellulose.
+Results
+
+We found that two different cAMP analogs such as Dibutiril-cAMP and sp-5,6-DCl-BIMPS (BIMPS) promoted survival of human umbilical cord–derived CD34+ cells by suppressing apoptosis induced by either nitric oxide (NO) or serum deprivation. Involvement of PKA and PI3K pathway was demonstrated by the ability of their specific inhibitors Rp-cAMP and Wortmannin or LY294002 respectively to reverse the antiapoptotic effect of BIMPS. Treatment of CD34+ cell with BIMPS not only restrained the bcl-xL downregulation but also suppressed the loss of mitochondrial membrane potential and caspase-3 activation induced by serum starvation. While thrombopoietin (TPO), granulocyte colony-stimulating factor (G-CSF) or stem cell factor (SCF) were not able to increase cAMP levels, the antiapoptotic activity exerted by these growth factors was blocked by inhibition of the adenylate cyclase and synergized by BIMPS. Cyclic AMP analogs suppressed the decreased colony formation in cells exposed to NO or serum deprivation.
+Conclusion
+
+Altogether, our results strongly suggest that cAMP appears to be not only a key pathway controlling CD34+ survival, but also a mediator of the TPO-, G-CSF- and SCF-mediated cytoprotection.

@@ -1,0 +1,11 @@
+Objective
+Platelets are known to play an important role in hemostasis, thrombosis, wound healing, and inflammation. Platelet-induced modulation of inflammation and adaptive immune responses are mediated in part through tumor necrosis factor (TNF) family member ligands, including CD154, Fas ligand, and TNFα, that are expressed upon platelet activation. The present study investigated whether platelets and megakaryocytes also express TNF-related apoptosis-inducing ligand (TRAIL), another pro-apoptotic member of the TNF superfamily.
+Materials and methods
+
+Immunoprecipitation, enzyme-linked immunosorbent assay, and flow cytometry were used to assess TRAIL protein expression on isolated platelets, in vitro-derived megakaryocytes and premegakaryocyte cell lines. Reverse-transcription polymerase chain reaction and transient transfection of TRAIL promoter/reporter constructs were used to elucidate mechanisms of TRAIL regulation during megakaryocyte differentiation. TRAIL-dependent cytotoxicity assays were performed to determine if platelet-derived TRAIL induces apoptosis of TRAIL sensitive target cells.
+Results
+
+Activated platelets expressed both membrane-bound and soluble TRAIL. TRAIL was also expressed by megakaryocytes, and in vitro studies showed that TRAIL expression was induced upon megakaryocyte differentiation. TRAIL expression was mediated by increased transcriptional activity of the TRAIL promoter, suggesting lineage-specific regulation of TRAIL during megakaryocyte differentiation. Abundant detergent-extractable, full-length TRAIL protein was observed in the lysates of platelets and megakaryocytes, but only low concentrations of TRAIL were released by nondetergent extraction methods.
+Conclusion
+
+The data reported herein show that platelets express TRAIL that is synthesized by megakaryocytes and was expressed by activated platelets. While these data expand the spectrum of TNF family proteins expressed in platelets, the function of platelet-derived TRAIL is not known.

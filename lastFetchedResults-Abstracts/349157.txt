@@ -1,0 +1,12 @@
+Objective
+To perform a detailed, contemporary temporal–spatial characterization of neonatal seizures (NS) and to compare conventional EEG (CEEG) to single-channel EEG for NS detection.
+Methods
+Digitally recorded CEEGs were reviewed for NS characteristics (quantity, duration, location of onset, peak-to-peak amplitude). The presence and characteristics of each NS were simultaneously noted in a single, derived EEG channel (C3 → C4).
+Results
+Eight hundred fifty-one seizures from 125 CEEGs recorded were analyzed. Mean seizure rate was 7.0 NS/h (range: 0.5–21). Mean seizure burden (percent time CEEG showed NS at any location) was 24.8% (range: 0.7–86.9). Seizure rate was only moderately correlated with seizure burden (Spearman coefficient = 0.58). Eighty-one percent of NS originated from central–temporal or midline vertex electrodes. Seventy-eight percent of NS appeared in the C3 → C4 channel.
+Conclusions
+Accurate measurement of NS burden requires detailed temporal–spatial characterization. The theoretical ceiling of sensitivity for NS detection in the single EEG channel C3 → C4 is high. However, further processing the raw EEG in limited electrode arrays may reduce the sensitivity of NS detection.
+Significance
+CEEG is the gold standard for NS detection. However, reduced montage EEG techniques are increasingly available. This detailed contemporary temporal–spatial characterization of NS evaluates the potential limitations of reduced montage technique
+s.
+

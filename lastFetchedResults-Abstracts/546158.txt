@@ -1,0 +1,8 @@
+In this article, rubber bumpers of Double - Wishbone suspension system have been modeled and analyzed. The
+objective of the present work is to predict the performance of these products during deformation, represent an optimum
+method to design, obtain stiffness characteristic curves and utilize the results in the automotive suspension dynamic
+analysis. These parts are nonlinear and exhibit large deformation under loading. They have an important role to limit
+the motion of wheels and absorb energy. In this study, nonlinear FE model using ABAQUS software was used to obtain
+the bumper load - displacement curve. Then a laboratory test was done on the bumper to get this curve. The comparison
+between numerical and experimental results shows a good adaptation. A less than 2 percent difference has been
+observed between them. Thus, we can use this numerical method to simulate bumpers easily and accurately

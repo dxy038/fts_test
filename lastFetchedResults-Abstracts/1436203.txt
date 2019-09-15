@@ -1,0 +1,9 @@
+The main objective of this study consists of comparing the electrocatalytic activity of different types of gold nanoparticles (AuNPs) obtained from two different synthetic routes (thermal and ultrasonic methods) deposited on the surface of a Sonogel-Carbon (SNGC) matrix and the application of the sensing devices built with them to the determination of ascorbic acid (AA).
+
+ voltammetry (CV) and differential pulse voltammetry (DPV) were used to investigate electrocatalytic behaviour of AuNPs-modified SNGC electrodes. The best detection and quantification limits, obtained for gold sononanoparticles (AuSNPs)-modified SNGC electrode, were 3.71 × 10−6 and 1.24 × 10−6 M respectively, with a reproducibility value of 1.68% for a linear concentration range from 1.5 μM to 4.0 mM.
+
+ectrochemical devices were tested for the determination of AA in commercial apple juice for babies. These results were compared with those obtained by applying high performance liquid chromatography (HPLC) as a reference method. Recovery errors below 5% were obtained in all cases, with standard deviations lower than 5% for the AuSNPs-modified SNGC electrodes.
+
+fied and AuNPs-modified SNGC electrodes were structurally characterized with scanning electron microscopy (SEM) and energy dispersive X-ray spectroscopy (EDS). AuNPs were characterized by UV–vis spectroscopy and X-ray diffraction (XRD), and information about their size distribution and shape was obtained by applying transmission electron microscopy (TEM) technique.
+
+vantages of employing AuSNPs in SNGC supporting material are also described. This research suggests that the modified electrode can be a very promising voltammetric sensor for the determination of AA.

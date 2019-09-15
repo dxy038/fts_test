@@ -1,0 +1,13 @@
+Gradient-based motion estimation methods (GMs)
+are considered to be in the heart of state-of-the-art registration
+algorithms, being able to account for both pixel and subpixel
+registration and to handle various motion models (translation,
+rotation, affine, and projective). These methods estimate the motion
+between two images based on the local changes in the image
+intensities while assuming image smoothness. This paper offers
+two main contributions. The first is enhancement of the GM technique
+by introducing two new bidirectional formulations of the
+GM. These improve the convergence properties for large motions.
+The second is that we present an analytical convergence analysis
+of the GM and its properties. Experimental results demonstrate
+the applicability of these algorithms to real images.

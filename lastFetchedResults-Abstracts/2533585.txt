@@ -1,0 +1,13 @@
+<div style="display:none">fiogf49gjkf0d</div>Circulation regions always exist in settling tanks. These regions would result in short-circuiting enlargement of the dead 
+zone and high flow mixing problems and avoid optimal particle sedimentation. Therefore, the main objective of the tank 
+design process is to avoid formation of the circulation zone, which is known as dead zone. Experiments show that the tank 
+performance can be improved by altering the geometry of the tank which leads to a different velocity distributions and flow 
+patterns. In this paper, the presence of a baffle and its effect on the hydrodynamics of the flow field has been investigated in 
+a primary settling tank. Hydrodynamics of the flow field in these basins is sophisticated. Therefore a numerical simulation 
+has  been  provided  to  discover  such  flow  field.  Then,  the  flow  structure  was  simulated  by  an  unsteady  two-phase  finite 
+volume  method,  with  VOF  (Volume  of  Fluid)  model.  Besides,  the  RNG  turbulence  model  was  used  in  the  numerical 
+calculations. Successively, in order to validate the mentioned method and for a better understanding of the phenomenon, 
+experimental tests have been carried out using ADV (Acoustic Doppler Velocimeter) and a 0.2 m breadth rectangular model 
+tank. Results  depict the  ability  of this  model  in predicting  the  velocity profiles  and  circulation districts.  Eventually,  the 
+optimum position of the baffle for enhancing the performance of the primary settling tank was determined by applying the 
+above mentioned numerical scheme. 

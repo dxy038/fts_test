@@ -1,0 +1,12 @@
+The application of Flexible AC Transmission System (FACTS) devices shows that they can control the power
+system technical parameters effectively. However, optimal placement and sizing of them are difficult problems
+and analytical methods cannot be used to solve these problems. To solve such problems, some evolutionary
+algorithms are employed. The efficiency of these algorithms is related to their objective function. In this paper,
+two multi objective optimization algorithms, namely: Non-dominated Sorting Genetic Algorithm (NSGA-II)
+and Multi Objective Particle Swarm Optimization (MOPSO) are used to solve the congestion problem in power
+system. To verify our proposed method, simulations are performed to modify IEEE 14-bus and modified IEEE
+30-bus test systems. Firstly, load of the system is increased uniformly until congestion occurs. Then,
+optimization algorithms are used to find out the optimal location and size of FACTS devices, as well as the
+optimal amount of changes in active power generation. Two types of FACTS devices namely: Static VAr
+Compensator (SVC) and Thyristor Controlled Series Capacitor (TCSC) are used for congestion elimination. The
+obtained results show the effectiveness of the proposed objective functions.

@@ -1,0 +1,1 @@
+We demonstrate a band separated, bidirectional amplifier based on a bismuth-based erbium-doped fiber for use in long-reach hybrid WDM-TDM PONs. It is experimentally shown that the amplifier based on a single gain medium can cover both L-band downstream and C-band upstream channels at the same time.

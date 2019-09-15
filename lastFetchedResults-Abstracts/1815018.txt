@@ -1,0 +1,12 @@
+This paper describes optimization of the combustion chamber geometry and
+injection timing of a new generation of EF7 engine, where CNG is directly injected to the
+combustion chamber, with the aim of providing the best mixture at low and high speeds.
+The Multi-Objective Genetic Algorithm (MOGA) is coupled with the KIVA Computational
+Fluid Dynamics (CFD) code, with grid generation, in order to maximize the 
+ammable
+mass of the mixture. This would result in better combustion and improved fuel economy.
+The optimization variables related to the combustion chamber are seven geometry variables
+and injection timing. Through the present optimization, a great improvement in mixture
+distribution is achieved. The optimization results show that early injection with a shallow
+bowl shape can be advantageous at high speeds, while late injection would result in better
+results at low speeds

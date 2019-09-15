@@ -1,0 +1,17 @@
+Software Performance Engineering (SPE) evaluates the key performance
+factors such as response time and utilization in the entire life cycle of software development.
+One of the important issues of software performance is bottlenecks that have not been
+investigated much till now in the process of SPE. Meanwhile, Bottleneck detection and
+mitigation in software modeling stage is quality-centered and cost eective. Layered
+bottleneck is a type of bottleneck that occurs in systems with layered services and aects its
+utilization more than 
+at bottlenecks. The presented approach in this paper has selected
+Layered Queening Network (LQN) as an appropriate performance model to present and
+analyze the layered bottlenecks. The process of SPE from software model to performance
+model has been automatically implemented. Also, an optimization stage is added to nd
+the best specication of software model in a way that the strength of the bottleneck, the
+response time and the cost will be minimized. To assess the proposed solution, two recently
+proposed multi-objective gravitational search algorithms are employed. To evaluate the
+eectiveness of the applied algorithms, two well-known multi-objective algorithms: NSGAII
+and MOPSO are also applied to a case study, and a comprehensive comparison is
+presented.

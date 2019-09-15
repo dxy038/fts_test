@@ -1,0 +1,1 @@
+An optimal control scheme for voltage source converters (VSC) is presented. The proposed control is based on multi-variable and anti-windup control ideas with the objective of improving the ride-through capability of the VSC. The proposed scheme is evaluated by simulations and compared with classical controls.

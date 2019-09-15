@@ -1,0 +1,5 @@
+The main objective of this paper is to propose an adaptive mesh re®nement procedure for ®nite element models in
+limit analysis. We use an `a posteriori' indicator based on the local directional interpolation error and a recovering
+scheme to compute second derivatives of the ®nite element solution. The proposed mesh adaptation process gives
+improved results in localizing regions of rapid or abrupt variations of the variables, whose location is not known a
+priori. Limit analysis of bodies in plane strain and plane stress is considered in the applications

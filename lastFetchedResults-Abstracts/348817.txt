@@ -1,0 +1,11 @@
+Objective
+Neuronal networks with a so-called ‘small-world’ topography (characterized by strong clustering in combination with short path lengths) are known to facilitate synchronization, and possibly seizure generation. We tested the hypothesis that real functional brain networks during seizures display small-world features, using intracerebral recordings of mesial temporal lobe seizures.
+Methods
+We used synchronization likelihood (SL) to characterize synchronization patterns in intracerebral EEG recordings of 7 patients for 5 periods of interest: interictal, before-, during- and after rapid discharges (in which the last two periods are ictal) and postictal. For each period, graphs (abstract network representations) were reconstructed from the synchronization matrix and characterized by a clustering coefficient C (measure of local connectedness) and a shortest path length L (measure of overall network integration). Results were also compared with those obtained from random networks.
+Results
+The neuronal network changed during seizure activity, with an increase of C and L most prominent in the alpha, theta and delta frequency bands during and after the seizure.
+Conclusions
+During seizures, the neuronal network moves in the direction of a more ordered configuration (higher C combined with a slightly, but significantly, higher L) compared to the more randomly organized interictal network, even after correcting for changes in synchronization strength.
+Significance
+Analysis of neuronal networks during seizures may provide insight into seizure genesis and development.
+

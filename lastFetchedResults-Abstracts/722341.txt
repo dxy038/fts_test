@@ -1,0 +1,17 @@
+Line planning problem is a strategic and long-term decision in passenger railway planning. A line
+is a direct railway connection between two stations and is characterized by its origin and destination
+station, its frequency/day, the route between these two stations and the intermediate stops at
+passing railway stations. The line plan is the collection of all lines and, finding it, is a very complex
+problem. Researchers have used linear and non-linear mathematical programming for this
+problem. In this paper a new multi objective mixed integer linear mathematical model (MOMILP)
+for line planning problem is presented, in which two conflict objective functions, minimizing total
+operation costs and maximizing total number of direct passengers, are considered. Total operation
+costs consist of fixed cost, variable cost and direct passengers are the passengers that can travel
+from their origin station to their destination station without having to change trains. This model is
+solved by using goal-programming method. The companies of passenger trains use several kinds
+of rolling stocks that are different in speed and capacity, and the number of each kind of them is
+limited. Therefore, in the proposed model, the total number of existing rolling stock is limited by
+adding a new constraint, and more than one kind of rolling stock can be used for each line. Finally,
+a numerical example is presented to evaluate the performance of proposed model. The results
+show that by using goal programming, according to planning conditions and organizational priorities,
+both objective functions may be optimized simultaneously.

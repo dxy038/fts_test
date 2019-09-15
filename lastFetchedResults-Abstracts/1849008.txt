@@ -1,0 +1,8 @@
+Objective
+jective was to analyze the correlation of dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) with vascular endothelial growth factor (VEGF) protein expression and to assess the potential application of DCE-MRI to the rabbit cerebrospinal fluid (CSF) metastasis model.
+s
+ New Zealand rabbits were divided into experimental and control groups. In the experimental group, VX2 tumor cells were injected into the subarachnoid space at the plane of cisterna magna in 24 rabbits. In the control group, physiological saline was injected into the subarachnoid space at the plane of cisterna magna in six rabbits. DCE-MRI was performed at multiple time points, and several pharmacokinetic parameters, including Ktrans, Kep and Ve, were calculated. Also, VEGF levels in plasma and CSF were evaluated by enzyme-linked immunosorbent assay prior to DCE-MRI examination. After DCE-MRI examination, the rabbits were sacrificed, and the corresponding tumor specimens were harvested. Hematoxylin–eosin staining and VEGF immunohistochemical staining were carried out, and VEGF expression in the specimens was evaluated by the immunohistochemical scoring system.
+s
+ar endothelial growth factor positive staining was localized in the cytoplasm and cell membranes of tumor cells, as well as in a subset of epithelial cells. Both VEGF immunohistochemical scores and VEGF expression in CSF and plasma exhibited positive correlations with Ktrans and Kep values as demonstrated by rank correlation statistical analysis.
+sions
+ar endothelial growth factor expression in plasma and CSF in the CSF metastasis model was higher than in normal tissues. Therefore, DCE-MRI reliably indicated VEGF expression in the rabbit CSF metastasis model.

@@ -1,0 +1,10 @@
+Due to the algorithmic simplicity, cellular automata (CA) models are useful and simple methods in structural optimization. In
+this paper, a cellular-automaton-based algorithm is presented for simultaneous shape and topology optimization of continuum
+structures, using five-step optimization procedure. Two objective functions are considered and the optimization process is
+converted to the single objective optimization problem (SOOP) using weighted sum method (WSM). A novel triangle
+neighborhood is proposed and the design domain is divided into small triangle elements, considering each cell as the finite
+element. The finite element formulation for constant strain triangles using three-node triangular elements is developed in this
+article. Topological parameters and shape of the design space are taken as the design variables, which for the purpose of this
+paper are continuous variables. The paper reports the results of several design experiments, comparing them with the currently
+available results obtained by CA and genetic algorithm in the literature. The outcomes of the developed scheme show the
+accuracy and efficiency of the method as well as its timesaving behavior in achieving better results

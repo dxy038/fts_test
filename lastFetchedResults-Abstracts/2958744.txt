@@ -1,0 +1,1 @@
+Genetic algorithms are applied to the optimization of planar and waveguide microwave circuits. Nonlinear constraints and multi-objective design goals are implemented in the optimization process. The computation expenses of this optimization method is compared with a traditional gradient-search

@@ -1,0 +1,1 @@
+A method is presented for designing a constant-gain feedback controller for assigning the closed-loop poles of a linear system to specified locations while minimising an objective functional which is a linear combination of a quadratic performance index and an eigenvalue sensitivity functional.

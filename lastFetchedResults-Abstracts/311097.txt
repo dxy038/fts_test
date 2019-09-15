@@ -1,0 +1,11 @@
+Objective. To show that force plates can be used to quickly acquire subject-specific segment mass data.
+
+Design. In vivo measurements were performed on subjects belonging to three populations: female varsity swimmers, female varsity volleyball players, and male college students. Segmental masses were measured using a force plate technique, and were compared with published data.
+
+Background. Patients from populations for which data from the literature are not applicable (e.g. pathological, aging females, obese, children, etc.) would benefit from a direct measure of inertial parameters for accurate joint moment calculations.
+
+Methods. Eight female varsity volleyball players, 17 female varsity swimmers, and 10 male college students were measured anthropometrically. They then lay on a board placed on a force plate and the center of pressure was recorded while the subjects adopted various prescribed limb positions. Their limb masses were subsequently calculated from the center of pressure data given estimated center of mass locations.
+
+Results. The method was highly reproducible with an average reliability coefficient of 0.83 and yielded results similar to those of published methods. Significantly different mass distributions were found between the two female populations tested (P<0.025).
+
+Conclusions. The method can quickly provide subject-specific limb segment mass information.

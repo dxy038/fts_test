@@ -1,0 +1,1 @@
+A claim made in the above paper about single-objective optimization problem formulations is discussed. It is argued that a single-objective optimization problem formulation is not inherently restrictive, and can be treated as a solution method for a multiobjective formulation.

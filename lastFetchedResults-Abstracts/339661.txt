@@ -1,0 +1,11 @@
+Objective
+The anti-CD20 monoclonal antibody rituximab has shown promising results in the clinical treatment of patients with B-cell non-Hodgkin's lymphoma (B-NHL). However, its therapeutic effect could still be improved.
+Methods
+
+This study examined the anti-tumor activity of rituximab combined with histone deacetylase inhibitor suberoylanilide hydroxamic acid (SAHA) in CD20-positive B-NHL cell lines, as well as in primary B-NHL cells and a murine B-NHL model.
+Results
+
+The combination treatment sensitized B-NHL cells to apoptosis in a synergistic manner, concomitant with mitochondrial instability and Bcl-2/Bcl-XL downregulation. Particularly in Daudi cells relatively resistant to rituximab, these events were associated with nuclear factor-κB (NF-κB) inactivation and c-Myc degradation. SAHA presented functional complementation with rituximab, through decreasing IKKα/β and IκBα phosphorylation, thus preventing NF-κB nuclear translocation. In addition, SAHA induced IκBα cleavage to a stable inhibitory form and caused NF-κB degradation in response to caspase-3 activation. More importantly, rituximab-SAHA combination significantly promoted primary B-NHL cells apoptosis and improved survival time of a severe combined immunodeficient mouse lymphoma model established with intravenous injection of Daudi cells.
+Conclusion
+
+These findings emphasized the value of targeting apoptosis signaling pathway in lymphoma therapy. Rituximab in conjunction with histone deacetylase inhibitor may represent a novel strategy in treating patients with B-NHL.

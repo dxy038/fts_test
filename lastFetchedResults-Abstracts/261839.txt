@@ -1,0 +1,12 @@
+Atmospheric CO2 inversion studies infer surface sources and sinks from observations and models. These studies usually
+require determination of the fossil fuel component of the observation, which can be estimated using anthropogenic
+tracers such as CO. The objective of this study is to demonstrate a new CO tracer method that accounts for overlapping
+forest fire and photochemical CO influences, and to quantify several aspects of the uncertainty in the CO tracer technique.
+Photochemistry model results and observations from the International Consortium for Atmospheric Research on
+Transport and Transformation experiment are used to quantify changes in the fossil fuel CO2 prediction from the CO
+tracer method with and without the inclusion of CO from biomass burning and photochemistry. Although the chemical
+sources and sinks tend to offset each other, there are regions where the chemical reactions change fossil fuel CO2
+predictions by up to ±4 ppm. Including biomass burning lowers fossil fuel CO2 by an average of 12 ppm in plumes
+heavily influenced by long-range transport of forest fire CO. An alternate fossil fuel CO2 calculation is done in a power
+plant plume using SO2 as a tracer, giving a change in 20 ppm from the CO method, indicative of uncertainty in the
+assumed CO:CO2 ratio.

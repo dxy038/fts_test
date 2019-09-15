@@ -1,0 +1,11 @@
+Objective
+We investigated iron regulatory protein (IRP)-dependent expression of transferrin receptor (TfR), divalent metal transpoter-1 (DMT1) and ferritin during erythroid differentiation system using an in vitro three-phase liquid culture.
+Method
+
+Peripheral blood hematopoietic progenitor cells were cultured with interleukin-3 and stem cell factor (SCF) for 7 days (first phase), subsequently with SCF, erythropoietin (EPO) and insulin-like growth factor-I (IGF-I) for 5 days (second phase), and finally with EPO and IGF-I for 3 days (third phase). Cells were subjected to colony assay, flow-cytometric analysis, mRNA assessment, electrophoretic mobility shift assay (EMSA), immunoblotting, and immunoprecipitation.
+Results
+
+In the second/third phases, erythroid cells serially differentiated. Expression of TfR and DMT1 mRNA, which have iron-responsive elements (IREs) at 3′-UTR, reached a maximum on second phase, and thereafter decreased, while expression of ferritin mRNA, which has an IRE at the 5′-UTR, decreased reciprocally on second phase. IRP in the cytosol after precipitation of polysome decreased on second phase, suggesting that IRP bound to IREs of these mRNAs in the polysome. When cells were incubated with 59FeCl3, 59Fe-bound IRP-1 immunoprecipitated with anti-IRP-1 antibodies was detected on first phase and third phase, but was not detected on second phase.
+Conclusion
+
+These results suggest that IRP-1/IRE interactions, which are supposedly induced after sensing a decrease of the intracellular non-Heme iron levels, play a crucial role on the posttranscriptional regulation of TfR, DMT1, and ferritin mRNAs during differentiation of normal human erythropoietic cells.

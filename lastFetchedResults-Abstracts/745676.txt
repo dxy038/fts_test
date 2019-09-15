@@ -1,0 +1,15 @@
+Background
+The evaluation of the economic impact of ischemic disease has gained increasing interest. Such field of investigation is suffering however of the heterogeneity of methods used in evaluating costs, limiting the comparison of study results.
+Objective
+
+The aim of the study is to show how estimates of 1-year costs of treatment of patients with uncomplicated acute myocardial infarction can vary significantly in relation to the statistical method adopted in the analysis.
+Research design and methods
+
+The study analyses post-IMA costs as a function of demographic and clinical covariates, by applying the following statistical survival models: the parametric survival model assuming Weibull distribution, the Cox proportional hazard (PH) model and the Aalen additive regression for modelling costs. The Aalen approach is robust both for the non-proportionality in hazard and for departures from normality. In addition it is able to easily model the effect of covariates on the extreme costs. This cost analysis is based on data collected in the two COSTAMI trials (N = 487).
+Results
+
+There is agreement in all models with the effects of the considered covariates (age, sex, duration of disease and presence of other pathologies). There is a clear tendency of both the Aalen and the Cox model to provide a lower mean cost estimate than the other model, but with the additional feature for the Aalen model to be able to cope with all the other models in furnishing unbiased estimates with the advantage of a greater flexibility in representing the covariates’ effect on the cost process.
+Conclusions
+
+An appropriate choice of the model is crucial in avoiding mis-interpretation of cost determinants of IMA patients. For our data set the Aalen model proved itself to be a realistic and informative way to characterize the effect of covariates on costs.
+

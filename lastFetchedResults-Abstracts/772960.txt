@@ -1,0 +1,6 @@
+The main objective of this paper is to prove the essential self-adjointness of Dirichlet operators in L2(μ)
+where μ is a Gibbs measure on an infinite volume path space C(R,Rd ). This operator can be regarded as a
+perturbation of the Ornstein–Uhlenbeck operator by a nonlinearity and corresponds to a parabolic stochastic
+partial differential equation (= SPDE, in abbreviation) on R. In view of quantum field theory, the solution
+of this SPDE is called a P(φ)1-time evolution.
+© 2006 Elsevier Inc. All rights reserved.

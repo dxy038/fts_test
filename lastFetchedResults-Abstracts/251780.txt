@@ -1,0 +1,8 @@
+The objective of this work was to find a suitable correlation that best fits the
+thermal conductivity of metals as a function of temperature. It was found that a
+multiple linear regression model of the form k=aTbecTed/T gives the smallest
+deviations from experimental data among various models. The coefficient of
+determination, R2, lies between 0.97 and unity, except for thorium (R2=0.86).
+The average of the absolute relative error, AARE, in the predicted data is less
+than 4.75%, except for iron (about 11.7%), and the overall AARE for all data
+points is about 1.4%.

@@ -1,0 +1,1 @@
+Presents a summary and consolidation of stability and robustness results based on input-output theory for discrete adaptive control systems. The objective of this paper is to clarify the techniques involved in applying this suitability approach to the adaptive control problem.

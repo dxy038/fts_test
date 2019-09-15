@@ -1,0 +1,13 @@
+The objective of this work is to use Artificial Neural Networks (ANN) for the prediction of the performance parameters
+of flat-plate solar collectors. ANNs have been used in diverse applications and they have been shown to be particularly
+useful in system modeling and system identification. Six ANN models have been developed for the prediction
+of the standard performance collector equation coefficients, both at wind and no-wind conditions, the incidence angle
+modifier coefficients at longitudinal and transverse directions, the collector time constant, the collector stagnation temperature
+and the collector heat capacity. Different networks were used due to the different nature of the input and output
+required in each case. The data used for the training, testing and validation of the networks were obtained from the
+LTS database. The results obtained when unknown data were presented to the networks are very satisfactory and indicate
+that the proposed method can successfully be used for the prediction of the performance parameters of flat-plate
+solar collectors. The advantages of this approach compared to the conventional testing methods are speed, simplicity,
+and the capacity of the network to learn from examples. This is done by embedding experiential knowledge in the
+network.
+  2005 Elsevier Ltd. All rights reserved.

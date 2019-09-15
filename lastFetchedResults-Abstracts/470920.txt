@@ -1,0 +1,9 @@
+Objective
+The objective of this study was to determine the effect of omega-3 fatty acids (eicosapentaenoic acid [EPA]; docosahexaenoic acid [DHA]) on prostaglandin production and prostanoid enzyme expression in cultured decidual cells exposed to interleukin- 1β (IL-1β), a cytokine that plays a major role in inflammation.
+Study design
+Decidua was obtained from human placentas of nonlaboring patients at term cesarean delivery (N = 6) and cultured by using standard cell culture techniques. Cells were preincubated in defined media with various concentrations of vehicle, DHA, or EPA for 1 hour. IL-1β (10 ng/mL) was then added to the media, and experiments were terminated 12 hours after exposure to IL-1β. Prostaglandin E2 (PGE2) and PGF2α concentrations in conditioned media were measured by enzyme-linked immunosorbent assay; cyclooxygenase-1 (COX-1), COX-2, microsomal prostaglandin E synthase (mPGES)-1, mPGES-2, and 15-hydroxy prostaglandin dehydrogenase (PGDH) expression were quantified by real-time polymerase chain reaction and immunoblotting. Groups were compared with the use of Student t test, with significance defined as P< .05.
+Results
+Preincubation with DHA decreased prostaglandin production by up to 80% when compared with controls. DHA decreased both mPGES-1 and -2 messenger RNA expression by approximately 50% (P = .02). Preincubation in DHA or EPA had no effect on COX-1, COX-2, and PGDH messenger RNA or protein expression.
+Conclusion
+Under conditions simulating inflammation, supplementation with omega-3 fatty acids decreases PGE2 and PGF2α production in cultured decidual cells. The reduction in prostaglandin production was associated with a decreased expression of mPGES-1 and -2. These findings suggest a mechanism by which omega-3 fatty acid supplementation decreases the incidence of preterm birth in high-risk patients.
+

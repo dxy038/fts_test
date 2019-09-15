@@ -1,0 +1,1 @@
+Software Quality plays a critical role in software development. This paper emphasize on involvement of Kansei Engineering in the field of test case generation. Multi-objective genetic algorithm under multi-objective optimization methodology is used to generate test cases covering Boolean specific conditions.

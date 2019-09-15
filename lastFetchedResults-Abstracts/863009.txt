@@ -1,0 +1,3 @@
+Optimal control is a very important field of study not only in theory but in applications.
+Based on the concept of fuzzy process, a fuzzy optimal control model is investigated with
+a quadratic objective functional for a linear fuzzy control system.

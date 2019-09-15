@@ -1,0 +1,4 @@
+The principal objective of this paper is to provide a short overview of recent research in the numerical simulation of forging, with an emphasis on applications rather than the mathematical formulations which are well documented elsewhere. The paper addresses a number of specific topics, including Process Modelling, Tool and Die Design, Interface Phenomena, Material Phenomena and Computational Aspects. The paper also looks at recent developments in re-meshing and its importance in realistic forging modelling.
+
+While many features of the forging process have been covered there are still a number, such as inter-stage heat treatment and post-process thermal behaviour, that have received little attention. A holistic approach to forging modelling is still awaited in which all features of the process together with the influence of aspects such as press behaviour are considered.
+Arti

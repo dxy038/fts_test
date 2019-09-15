@@ -1,0 +1,13 @@
+This paper presents a complete review of published researches about hierarchical
+facility location and hub network problems. In hierarchical network facilities with
+different service levels, we are with a top-down or down-top manner interaction. In
+Hierarchical systems, service levels are composed of different facilities. In this paper,
+published papers from 1970 to 2015 are studied and a comprehensively classification is
+presented. Mathematical models are classified based on different properties such as:
+input, output, objective functions, constraints, applications, some of the real world case
+studies and solution methods. Finally, according to proposed classification, conclusion
+and future research to tackle real world hierarchical facility location problems and
+hierarchical hub network problems is presented. This study can be used as a
+comprehensive reference in the hierarchical facility location problems, particularly
+those based on hub networks. 
+

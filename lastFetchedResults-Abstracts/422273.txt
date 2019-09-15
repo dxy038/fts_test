@@ -1,0 +1,14 @@
+Objectives
+The goal of our study was to examine how age and gender affect the use of coronary angiography and the intensity of cardiac follow-up care within the first year after acute myocardial infarction (AMI). Another objective was to evaluate the association of age, gender and treatment intensity with five-year survival after AMI.
+Background
+
+Utilization rates of specialized cardiac services inversely correlate with age. Gender-specific practice patterns may also vary with age in a manner similar to known age–gender survival differences after AMI.
+Methods
+
+Using linked population-based administrative data, we examined the association of age and gender with treatment intensity and long-term survival among 25,697 patients hospitalized with AMI in Ontario between April 1, 1992, and December 31, 1993. A Cox proportional hazards model was used to adjust for socioeconomic status, illness severity, attending physician specialty and admitting hospital characteristics.
+Results
+
+After adjusting for baseline differences, the relative rates of angiography and follow-up specialist care for women relative to men, respectively, fell 17.5% (95% confidence interval [CI], 13.6 to 21.3, p < 0.001) and 10.2% (95% CI, 7.1 to 13.2, p < 0.001) for every 10-year increase in age. Conversely, long-term AMI survival rates in women relative to men improved with increasing age, such that the relative survival in women rose 14.2% (95% CI, 10.1 to 17.5, p < 0.001) for every 10-year age increase.
+Conclusions
+
+Gender differences in the intensity of invasive testing and follow-up care are strongly age-specific. While care becomes progressively less aggressive among older women relative to men, survival advantages track in the opposite direction, with older women clearly favored. These findings suggest that biology is likely to remain the main determinant of long-term survival after AMI for women.

@@ -1,0 +1,11 @@
+Objective. To develop a 3D in vivo technique for determining the moment arm and insertion angle of muscles in different joint positions and under muscular activity.
+
+Design. An open magnetic resonance imaging system and 3D processing techniques were used for determining the moment arm and insertion angle of the supraspinatus in healthy volunteers.
+
+Background. Muscular moment arms are important parameters for the computation of joint forces, however, so far in vivo measurements have not considered the influence of muscle activity and were restricted to two dimensions.
+
+Methods. 10 healthy shoulders were investigated in 30–150° abduction with and without abducting muscular activity, using an open magnetic resonance imaging. The minimal distance between the midpoint of the humeral head and the line of action of the supraspinatus was determined in 3D. The insertion angle was derived by calculating the angle between the humerus and the supraspinatus.
+
+Results. During elevation a significant (P<0.001) increase of the supraspinatus moment arm was observed (19.9 mm (SD, 2.3 mm) at 30°; 23.3 mm (SD, 2.5 mm) at 150°), being significantly larger at 90° and 120° under muscle activity. The insertion angle also increased significantly during elevation (P<0.001), the values becoming larger under muscle activity at 60° (P<0.01) and at 90° (P<0.05).
+
+Conclusions. This 3D technique permits to determine the moment arm and insertion angle of muscles in vivo not only in various joint positions but also under in vivo muscle activity. For the supraspinatus, we observed a constant increase of both parameters during arm abduction.

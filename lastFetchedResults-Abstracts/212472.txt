@@ -1,0 +1,4 @@
+In this paper, the stacking sequence optimization of a laminated cylindrical shell has been studied for obtaining maximum natural frequency and buckling stress, simultaneously. An anisotropic
+cylindrical shell has a finite length with simply supported conditions at both ends: Threedimensional elasticity approaches are used for free vibration analysis and the buckling stress function is based on the theory of classic shells. A genetic algorithm is used for optimization
+and, regarding the two-objective problem, a Pareto-optimally curve is used to help determine the .best way to simultaneously satisfy all objectives. Finally, numerical results are presented for the
+optimization of a six-layer cylindrical shell.

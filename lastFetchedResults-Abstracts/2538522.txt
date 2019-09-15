@@ -1,0 +1,7 @@
+Background and Objective: Uricase (EC 1.7.3.3) is an enzyme which catalyses uric acid to H2O2 and alantoin and is utilized in the treatment of hyperuricemia or gout. The aim of this study was cloning of Aspergillus flavus uricase synthetic gene into pET28(a) and its recombinant expression in E. coli
+
+Materials and Methods: The coding sequence of uricase retrieved from gene bank and once optimized, the gene synthesis was ordered.nbsp; Then, the synthetic gene subcloned between NcoI and XhoI within the vector. The proper subcloning was confirmed by enzymatic digestion check, PCR and finally DNA sequencing.nbsp; The construct, then chemically transformed into E. coli BL21 and induced by IPTG which followed by overexpression optimization.nbsp; For enzyme expression evaluation, protein gel electrophoresis was utilized.
+
+Results: Restriction check, PCR and sequencing indicated that the coding sequence of enzyme was cloned in the desired point of vector. The optimized condition obtained for enzyme expression was IPTG 1mM for 6 h at 22 deg;C. Enzyme molecular weight was determined 34.5 kDa by electrophoresis. Evaluation of uricase specific activity showed that the expressed enzyme is 7.69 U/mg and it is catalytically active.
+
+Conclusion: The results of the current research showed that the uricase gene could be simply cloned and expressed in pET system. Enzyme specific activity determination exhibited that the enzyme was produced as a soluble protein and catalytically active in E. coli cytosole.nbsp;

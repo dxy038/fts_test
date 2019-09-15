@@ -1,0 +1,5 @@
+Objective: To develop methods based on enzyme activation for the analysis of sweat sodium and chloride using β-galactosidase and α-amylase, respectively.
+Methods: Both were monitored kinetically on the Cobas Fara centrifugal analyzer. The sweat, collected with the MacroductTM system, was diluted no more than five-fold for the volumes obtained of 16 to 80 μL, median 32.5 μL. The sodium assay utilized a sodium-binding cryptand to maximize linearity.
+Results: Between-run coefficients of variation (%) at 10, 20, and 50 mmol/L were 3.6, 4.5, and 1.3 for sodium and 7.1, 6.1, and 6.0 for chloride, respectively. The sodium method showed excellent agreement with flame photometry (y = 0.997x + 0.742; r = 0.998), and chloride with a mercuric thiocyanate method (y = 0.995x + 0.485; r = 0.996), giving equivalent discrimination between patients with and without cystic fibrosis.
+Conclusions: The methods enable the rapid analysis on the same analyzer of both sodium and chloride in a single dilution of sweat collections of low volume.
+

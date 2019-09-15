@@ -1,0 +1,8 @@
+The objective of this paper is to evaluate a number of shell elements. At the same time, a new element is presented that is
+inspired by the quadrilateral heterosis element, Q8H, and is designated herein as the triangular heterosis element, T6H.
+Both elements employ the selectively reduced integration method. The elements investigated in this study include
+ABAQUS’s three general-purpose shell elements, ANSYS’s six-noded triangular element, T6, and the high-performance
+MITC9 element available in ADINA. The assessment is carried out by subjecting the various elements to several benchmark
+problems. It is found that for regular meshes, Q8H out-performs other elements and is comparable to MITC9.
+The performance of T6H is shown to be comparable to that of T6 in most test cases, but superior when very thin shells
+are considered.

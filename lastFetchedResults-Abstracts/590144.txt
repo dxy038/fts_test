@@ -1,0 +1,11 @@
+In order to reduce both the weight of vehicles and the damage of occupants in a crash event simultaneously,
+it is necessary to perform a multi-objective optimization of the automotive energy absorbing components. In
+this paper, axial impact crushing behavior of the aluminum foam-filled thin-walled tubes are studied by the
+finite element method using commercial software ABAQUS. Comparison of the present simulation results
+with the results of the experiments reported in the previous works indicated the validity of the numerical
+analyses. A meta-model based on the feed-forward artificial neural networks are then obtained for modeling
+of both the absorbed energy (E) and the peak crushing force (Fmax) with respect to design variables using
+those data obtained from the finite element modeling. Using such obtained neural network models, a
+modified multi-objective GA is used for the Pareto-based optimization of the aluminum foam-filled thinwalled
+tubes considering three conflicting objectives such as energy absorption, weight of structure, and
+peak crushing force.

@@ -1,0 +1,11 @@
+Objective. To determine if five days of practice on a novel dynamic, multi-joint pulling task resulted in lower magnitudes of lumbar loading or a more consistent relationship between pulling force and lumbar loading.
+
+Design. A repeated measures design compared how practice influenced the magnitude of lumbar torque and the correlations between lumbar torque and pulling force.
+
+Background. Previous studies suggest that practice can decrease the magnitude of lumbar loading on simple manual material handling tasks, but it is unknown whether practice reduces lumbar loading for more complex tasks. Neither is it known whether the consistency of lumbar loading increases with practice.
+
+Methods. Ten healthy adults practiced impulse-like horizontal pulls to targets equaling 20%, 40% and 80% of their estimated maximal dynamic pulling force over 5 days. Movements were unrestrained, other than keeping the feet flat on the ground. We used a four-segment, sagittal plane inverse dynamics model to compute lumbar, hip, knee, and ankle torques on days 1 and 5 from ground reaction forces and moments, pulling forces, and kinematics.
+
+Results. An analysis of variance showed significant practice-related changes in lumbar torque at the time of peak pulling force (lumbar torquepeakPF). The lumbar torquepeakPF decreased for the 20% pulls, did not change for the 40% pulls, and increased for the 80% pulls. Two subjects showed a significant decrease in lumbar torquepeakPF for all three force levels. Coefficients of determination between pulling force and lumbar torque (r2PF,LT: a measure of the consistency of the relationship between these two variables) were significantly higher on day 5 than day 1.
+
+Conclusions. Practice on a novel pulling task changed the magnitude of lumbar torques and increased their correlation with pulling force, suggesting that subjects learned strategies that improve motor control of lumbar torques.

@@ -1,0 +1,9 @@
+Study objective
+We seek to evaluate the diagnostic performance of the procalcitonin test for the diagnosis of bacteremia in the emergency department (ED) population.
+Methods
+We conducted a search of MEDLINE, bibliographies of previous systemic reviews, and pertinent national meeting research abstracts. We included studies that assessed the diagnostic accuracy of procalcitonin for bacteremia, with blood culture as the reference standard. We included prospective investigations of adults and children with suspected infection studied in the ED or at admission. Two authors independently extracted data and assessed study quality; consensus was reached by conference. The analysis was based on the I2 statistic for heterogeneity, unweighted summary receiver-operating characteristic curve, and random-effects pooled sensitivity and specificity across studies using the same test threshold.
+Results
+The search yielded 348 publications and 1 unpublished study. Seventeen studies met the inclusion criteria and provided a sample of 2,008 subjects. There was a substantial degree of inconsistency (I2=64%). The unweighted summary receiver-operating characteristic curve provided the best overall estimate of test performance, with an area under the curve of 0.84 (95% confidence interval [CI] 0.75 to 0.90). Sensitivity analysis based on study quality did not significantly change the results. Subgroup analysis including only studies that used a test threshold of 0.5 or 0.4 ng/mL yielded pooled estimates for sensitivity and specificity of 76% (95% CI 0.66 to 0.84) and 70% (95% CI 0.60 to 0.79), respectively.
+Conclusion
+We found the diagnostic performance of the procalcitonin test for identifying bacteremia in ED patients to be moderate. Future research designed to determine the utility of the procalcitonin test as a diagnostic tool used in isolation for detecting bacteremia in ambulatory patients is needed before widespread clinical use.
+

@@ -1,0 +1,11 @@
+Objective
+The retroviral oncogene v-Cbl causes pre-B cell lymphomas and myeloid leukemias in mice, and its Drosophila homologue is oncogenic, causing enhanced receptor tyrosine kinase signaling. The human Cbl gene resides at 11q23. The aim of this study is to determine the effect of oncogenic Cbl on growth-regulating responses.
+Materials and Methods
+
+The oncogenic mutant of Cbl (CblΔ1-357) was transfected into factor-dependent 32Dcl3 myeloid cells. Consequently, cell survival and differentiation were measured. Lyn, Syk, MAP kinase, and phosphatidylinositol 3′(PI3′)-kinase activities, protein phosphorylation, Bcl-2 promoter activity, ubiquitination, and levels of Bcl-2, Bax, Bad, and Bcl-xL were determined. In addition, the effect of v-Cbl on TF-1 cell survival upon granulocyte-macrophage colony-stimulating factor withdrawal was studied.
+Results
+
+32Dcl3 and TF-1 cells expressing v-Cbl showed resistance to apoptosis upon growth factor withdrawal, and 32Dcl3 cells completely failed to respond to granulocyte colony-stimulating factor's induction of differentiation. Basal activities of Lyn, Syk, and PI3′-kinase were elevated in the v-Cbl line. There was neither enhanced tyrosine phosphorylation of cellular protein content, Cbl, or Jak2, nor serine phosphorylation of MAP kinase or Akt. After factor withdrawal, the level of Bcl-2 was greater in v-Cbl cells than in control cells.
+Conclusions
+
+Neither increased Bcl-2 promoter activity nor decreased ubiquitination of Bcl-2 could account for increased Bcl-2 levels. v-Cbl–expressing 32Dcl3 cells were resistant to differentiation. v-Cbl suppresses apoptosis and differentiation, possibly through enhancement of Lyn, Syk, and PI3′-kinase activities and Bcl-2.

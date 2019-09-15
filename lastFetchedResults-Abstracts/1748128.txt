@@ -1,0 +1,5 @@
+The aim of this paper is to introduce a novel prototype generation technique for handwriting digit recognition. Prototype generation is approached as a two-stage process. The first stage uses an Adaptive Resonance Theory 1 (ART1) based algorithm to select an effective initial solution, while the second one executes a fine tuning designed to generate the best prototypes.
+
+s end, the second stage deals with an optimization problem, in which the objective function to be minimized is the cost function associated to the classification. A naive evolution strategy is used to generate the prototype set able to reduce classification time, without greatly affecting the accuracy. Moreover, as the ART1 based algorithm has incremental learning capability, the first stage is also useful for selecting the prototype set according to variations in handwriting style. The classification task is performed by the k-nearest neighbor classifier.
+
+mental tests on the MNIST dataset demonstrated that our technique represents a good trade-off among accuracy, classification speed and robustness to handwriting style changes.

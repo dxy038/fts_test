@@ -1,0 +1,11 @@
+Objective
+We assessed admission screening information that best identifies patients who are at risk for malnutrition-related complications (MRCs).
+Methods
+
+We evaluated 13 patient characteristics associated with MRC for adults screened over a 3-mo period (n = 448) to determine which factors correlated best with the risk level assigned. The existing screen stratified patients into four levels defined as no risk, mild risk, moderate, and high risk for MRC. The analyzed variables were weight for height, wound, surgery/cancer therapy, fever, vomiting/diarrhea, poor oral intake, no oral intake, unplanned weight loss, malnutrition-related admission diagnosis, serum albumin, white blood cell count, hemoglobin, and total lymphocyte count. We modeled the relation between assigned MRC and the predictors by using state-of-the-art methods.
+Results
+
+The characteristics that correlated best with MRC risk level assignment were occurrence of a wound, poor oral intake, malnutrition-related admission diagnosis, serum albumin value, hemoglobin value, and total lymphocyte count. A model using four variables (malnutrition-related admission diagnosis, serum albumin value, hemoglobin value, and total lymphocyte count) was almost as good as that using six predictors.
+Conclusions
+
+The ability of admission information to accurately reflect MRC risk is crucial to early initiation of restorative medical nutritional therapy. There is currently no uniform or proved standard for identifying MRC risk within 24 h of acute care admission. The ideal nutritional screen correlates well with the occurrence of MRC and also uses data routinely obtained at admission. The models described can be uniformly used by hospitals to screen patients for MRC risk.

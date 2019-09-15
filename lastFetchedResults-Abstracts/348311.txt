@@ -1,0 +1,11 @@
+Objective
+In patients with nystagmus conventional pattern-reversal visual evoked potentials are severely degraded, while sizeable pattern-onset VEPs can often still be obtained. We tested whether this differential effect of retinal image motion on pattern-reversal and pattern-onset responses also applies to multifocal VEPs (mfVEPs).
+Methods
+In eight subjects with normal oculomotor behaviour and vision we recorded pattern-reversal and pattern-onset mfVEPs from an occipital electrode pair to 60 locations of a scaled dartboard-pattern, and to 64 locations of a uniform checkerboard-pattern. Subjects viewed the stimulus monocularly via a mirror, which was placed close to the eye and driven by a scanner with a 4 Hz sawtooth waveform at an amplitude of 2° to simulate horizontal jerk nystagmus and of 0° for the reference condition.
+Results
+For the scaled dartboard-stimulus we observed an eccentricity-dependent effect of induced retinal image motion on mfVEP responses: in the central visual field (0–0.5°), pattern-reversal and pattern-onset responses were reduced by 73 and 42%, respectively. In the periphery (10–16°), only pattern-reversal responses were reduced (by 27%), while pattern-onset responses were enhanced by 39%. Pattern-onset responses to the uniform checkerboard stimulus were enhanced by 17%, while pattern-reversal responses were reduced by 27%.
+Conclusions
+Pattern-onset mfVEPs are more efficient than pattern-reversal mfVEPs, if retinal image motion is superimposed onto the stimulus. This is in close correspondence to previous reports on conventional VEPs.
+Significance
+This study demonstrates a differential effect of retinal image motion on pattern-reversal and pattern-onset mfVEPs and thus suggests stimulus conditions to enhance the efficiency of mfVEP recordings in patients with moderate nystagmus.
+

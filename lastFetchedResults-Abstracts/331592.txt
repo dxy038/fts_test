@@ -1,0 +1,11 @@
+Objective
+This brief review essay was triggered by the discovery of two errors that have been perpetuated in the dental literature for the last quarter century and is intended to alert the research community.
+Methods
+
+An extensive search of the published literature, using PubMed and Web of Science search engines, electronic journal resources, and several trips to the library for manual retrievals of articles were used to retrieve hundreds of articles reporting on finite element modeling – finite element analysis (FEM/FEA) involving periodontal ligament (PDL) and gutta percha (GP).
+Results
+
+The literature search revealed that erroneous values for the modulus of elasticity of PDL and GP were introduced in 1980 and in 1983, respectively. The identified errors range between two to three orders of magnitude and have been used in hundreds of FEM/FEA papers.
+Significance
+
+The finding casts serious doubts regarding the validity of the results published in hundreds of papers and highlights the importance of checking the references cited and citing, or at least confirming, primary sources rather than citing citations.

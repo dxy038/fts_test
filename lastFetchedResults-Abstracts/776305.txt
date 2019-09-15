@@ -1,0 +1,10 @@
+In this paper, a methodology is proposed to determine the design space for synthesis, analysis, and optimization of solar water heating
+systems. The proposed methodology incorporates different design constraints to identify all possible designs or a design space on a collector
+area vs. storage volume diagram. The design space is represented by tracing constant solar fraction lines on a collector area vs.
+storage volume diagram. It has been observed that there exists a minimum as well as a maximum storage volume for a given solar fraction
+and collector area. Similarly existence of a minimum and a maximum collector area is also observed for a fixed solar fraction and
+storage volume. For multi-objective optimization, a Pareto optimal region is also identified. Based on the identified design space, the
+solar water heating system is optimized by minimizing annual life cycle cost. Due to uncertainty in solar insolation, system parameters
+and cost data, global optimization may not be utilized to represent a meaningful design. To overcome this, a region of possible design
+configurations is also identified in this paper.
+  2006 Elsevier Ltd. All rights reserved.

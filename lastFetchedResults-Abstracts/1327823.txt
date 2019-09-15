@@ -1,0 +1,9 @@
+In the paper the optimization of geometrical and operating parameters for evaporative fluid coolers has been presented. The algorithm of optimizational calculations contains:•
+thematical model of heat and mass transfer in evaporative fluid coolers;
+
+of operating costs based, among others, on the Zalewski–Gryglaszewski relations developed by the authors for evaluation of air pressure drops in the heat exchanger;
+
+of evaporative heat exchangers production costs.
+
+
+zation problem formulated for non-linear objective functions with inequality and equality constraints has been solved using Schittkowski's method based on quadratic programming. Two optimization problems have been considered. A solution to the first problem consists in the design of a heat exchanger with such geometrical parameters which ensure its maximum heat capacity at minimal total costs. A result to the second optimization problem are such thermal and flow parameters which will ensure minimum operating costs.The results of optimization calculations presented in the paper are accompanied by their experimental verification.

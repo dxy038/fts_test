@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to examine temporal changes in stillbirth, neonatal and infant mortality rates among triplet births in the US, and to assess the contributions of triplet delivery at <34 weeks to these changes.
+Study design
+Data on triplet live births, and fetal and infant deaths (1990-2002) delivered at ≥22 weeks and fetuses weighing ≥500 g (n = 66,986) were derived from the US linked birth/infant death data files. Relative risk (RR), quantifying changes in triplet stillbirth, neonatal (death within the first 28 days) and infant mortality (death within the first year) rates between 1990 and 1991 and 2001 and 2002, were derived. Temporal changes in triplet births at <34 weeks, and changes in stillbirth, and neonatal and infant mortality rates were examined through logistic regression models before and after adjusting for confounders.
+Results
+Triplet births at <34 weeks increased by 25% between 1990 and 1991 (48.7%) and 2001 and 2002 (60.9%). Stillbirth, neonatal and infant mortality rates declined by 52% (RR 0.48, 95% confidence interval [CI] 0.36-0.63), 32% (RR 0.68, 95% CI 0.58-0.80), and 38% (RR 0.62, 95% CI 0.53-0.71), respectively, between 1990 and 1991 and 2001 and 2002. The increase in triplet births at <34 weeks was not associated with the stillbirth decline, but was associated with an excess 14% and 12% increase in neonatal and infant deaths, respectively.
+Conclusion
+Our findings suggest that the increase in triplet births at <34 weeks' gestation is not associated with changes in triplet stillbirths, but is associated with increases in triplet neonatal and infant mortality.
+

@@ -1,0 +1,36 @@
+To improve the behavior of building structures subjected to lateral loads, such as wind and
+earthquake excitations, tuned mass damper (TMD) has been used extensively theoretically
+and experimentally in previous researches. To increase the effectiveness of TMD mechanism,
+different methods have been proposed to determine the optimal values of TMD parameters
+including its mass, stiffness and damping. In using single TMD on the structures subjected to
+external vibrations, the mistuning of TMD, variation of TMD damping and changes in
+structural dynamic characteristics cause significant reduction in the effectiveness of TMD.
+Multiple tuned mass dampers (MTMDs) have been proposed to overcome the shortcomings
+of single TMD where each TMD has different dynamic characteristics. Based on the results of
+different researches, it has been concluded that the performance of MTMDs is less sensitive
+to uncertainty of structural dynamic parameters than that of a single TMD.
+In the previous researches, for designing MTMDs on the linear structures subjected to various
+external excitations, several methods have been proposed based on different kinds of design
+criteria. In most of the proposed methods, to simplify the design procedure of MTMDs, some
+limitations such as identical masses and damping ratios for TMDs or uniform distribution for
+the frequency or damping of TMDs have been considered. Also these methods require
+extensive numerical analysis. To generalize the design problem of MTMDs, in this paper, an
+effective method has been proposed for optimal design of MTMDs on the multi-degree-offreedom
+linear structures subjected to any desired excitation. In this method, an optimization
+problem is defined for designing the optimal MTMDs. The minimization of the maximum
+displacement of structure is considered as objective function and the parameters of TMDs are
+considered as variables. Since the design problem includes a large number of variables, hence,
+in this paper, it has been decided to use Genetic Algorithm (GA) for solving the optimization
+problem.
+To illustrate the procedure of the proposed method and also to assess the effectiveness of
+MTMDs in improving the seismic behavior of structures, a ten–storey linear shear building
+frame was subjected to white noise excitation and for different values of TMDs mass ratio
+and TMDs number, optimal MTMDs were designed for minimizing the maximum
+displacement of structure. To focus on the main objective of this paper and avoid the
+complexity of the problem, TMDs were located on the top floor in parallel configuration. The
+results of numerical simulations showed the capability of GA in solving complex MTMDsdesign problem with a large number of variables as well as the simplicity of the method under
+any desired external excitation. Also it was concluded that increasing of the mass ratio of
+TMDs could improve the effectiveness of MTMDs. To assess the performance of optimal
+MTMDs under other earthquakes, which are different in characteristics with design record,
+optimal structure-MTMDs was tested under near-fault and far-fault earthquakes and the
+results have been reported.

@@ -1,0 +1,7 @@
+A vertical ground coupled steam ejector heat pump is a Ground Coupled Heat Pump (GCHP) with closed Vertical Ground Heat eXchanger (VGHX) which utilizes the steam ejector type of refrigeration cycle instead of the vapor-compression type.
+
+aper presents the modeling and optimizing a Ground-Coupled Steam Ejector Heat Pump (GC-SEHP) with closed VGHX. The system included two main sections of VGHX and steam ejector heat pump (SEHP), and was optimized by minimizing its total annual cost (TAC) as the objective function. Two optimization techniques (Nelder–Mead and Genetic Algorithm) were applied to guarantee the validity of optimization results.
+
+e given heating/cooling loads as well as for various climatic conditions, the optimum design parameters of GC-SEHP with closed VGHX were predicted.
+
+rmore, the changes in TAC and optimum design parameters with the climatic conditions, cooling/heating capacity, soil type, and number of boreholes were discussed.

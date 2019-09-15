@@ -1,0 +1,1 @@
+We present a physical layer design for radio-over-fibre links comprising bidirectional RF transmission, increased cell capacity allocation, multi-standard support, remote LO delivery and in-band control channel for dynamic radio link adaptation and remote antenna controlling.

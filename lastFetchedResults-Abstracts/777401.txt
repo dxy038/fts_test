@@ -1,0 +1,12 @@
+Recently several algorithms have been developed to calculate the solar photovoltaic (PV) potential on the basis of 2.5D raster data
+that can capture urban morphology. This study provides a new algorithm that (i) incorporates both terrain and near surface shadowing
+effects on the beam component; (ii) scales down the diffuse components of global irradiation; and (iii) utilizes free and open source
+GRASS and the module r.sun in modeling irradiation. This algorithm is semi-automatic and easy to upgrade or correct (no hand drawn
+areas), open source, detailed and provides rules of thumb for PV system design at the municipal level. The workflow is pilot tested on
+LiDAR data for 100 buildings in downtown Kingston, Ontario. Shading behavior was considered and suitable roof sections for solar PV
+installations selected using a multi-criteria objective. At sub-meter resolution and small time steps the effect of occlusion from near object
+was determined. Annual daily horizontal irradiation values were refined at 0.55 m resolution and were shown to be lower than those
+obtained at 90 m by 30%. The robustness of r.sun as capable of working with different levels of surface complexity has been confirmed.
+Finally, the trade off of each computation option (spatial resolution, time step and shading effect) has been quantified at the meso scale,
+to assist planners in developing the appropriate computation protocols for their regions.
+  2012 Elsevier Ltd. All rights reserved

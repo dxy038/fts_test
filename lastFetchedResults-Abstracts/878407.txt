@@ -1,0 +1,8 @@
+Infinite-dimensional parameter-dependent optimization problems of the form ‘minJ(u;p) subject to
+g(u)   0’ are studied, where u is sought in an L∞ function space, J is a quadratic objective functional,
+and g represents pointwise linear constraints. This setting covers in particular control constrained optimal
+control problems. Sensitivities with respect to the parameter p of both, optimal solutions of the original
+problem, and of its approximation by the classical primal-dual interior point approach are considered. The
+convergence of the latter to the former is shown as the homotopy parameter μ goes to zero, and error bounds
+in various Lq norms are derived. Several numerical examples illustrate the results.
+© 2007 Elsevier Inc. All rights reserved

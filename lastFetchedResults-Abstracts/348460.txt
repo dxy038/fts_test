@@ -1,0 +1,11 @@
+Objective
+To evaluate the comparability of high- and low-density surface Laplacian estimates for determining ERP generator patterns of group data derived from a typical ERP sample size and paradigm.
+Methods
+High-density ERP data (129 sites) recorded from 17 adults during tonal and phonetic oddball tasks were converted to a 10–20-system EEG montage (31 sites) using spherical spline interpolations. Current source density (CSD) waveforms were computed from the high- and low-density, but otherwise identical, ERPs, and correlated at corresponding locations. CSD data were submitted to separate covariance-based, unrestricted temporal PCAs (Varimax of covariance loadings) to identify and effectively summarize temporally and spatially overlapping CSD components. Solutions were compared by correlating factor loadings and scores, and by plotting ANOVA F statistics derived from corresponding high- and low-resolution factor scores using representative sites.
+Results
+High- and low-density CSD waveforms, PCA solutions, and F statistics were remarkably similar, yielding correlations of .9≤r≤.999 between waveforms, loadings, and scores for almost all comparisons at low-density locations except for low-signal CSD waveforms at occipital sites. Each of the first 10 high-density factors corresponded precisely to one factor of the first 10 low-density factors, with each 10-factor set accounting for the meaningful CSD variance (>91.6%).
+Conclusions
+Low-density surface Laplacian estimates were shown to be accurate approximations of high-density CSDs at these locations, which adequately and quite sufficiently summarized group data. Moreover, reasonable approximations of many high-density scalp locations were obtained for group data from interpolations of low-density data. If group findings are the primary objective, as typical for cognitive ERP research, low-resolution CSD topographies may be as efficient, given the effective spatial smoothing when averaging across subjects and/or conditions.
+Significance
+Conservative recommendations for restricting surface Laplacians to high-density recordings may not be appropriate for all ERP research applications, and should be re-evaluated considering objective, costs and benefits.
+

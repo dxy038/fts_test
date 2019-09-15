@@ -1,0 +1,11 @@
+Objective
+The aim of this investigation was to compare the clinical survival rate of all-ceramic FPDs with failures during in vitro simulation.
+Methods
+
+40 anterior FPDs were manufactured from lithiumdisilicate ceramic and alumina-oxide ceramic. The FPDs were adhesively bonded to human teeth and artificially aged to investigate the survival rate during thermal cycling and mechanical loading (TCML1; 3.6 Mio*50N ML). Survival rates were compared to available clinical data, and the TCML parameter ‘mastication force’ was adapted accordingly for a second TCML run (TCML2; 3.6Mio*25N/35N ML). The fracture resistance of the FPDs that survived TCML was determined. Data were statistically analysed by means of Mann–Whitney U-test, and survival rates were determined by curve fitting/regression analysis.
+Results
+
+TCML decreased survival rates by 30–50%, depending on the type of material used. Failures during TCML included cracking, chipping or fracture. Increased masticatory loading during TCML caused a higher decrease in the fracture resistance of FPDs. Fracture results were 403N (278/453) and 426N (317/538) for Empress 2 and 325N (164/584) and 405N (344/558N) for Inceram.
+Conclusions
+
+Despite the limitations of this study, the results indicate that TCML with 1,200,000*25/35N provide a sufficient prognosis of probable clinical failures. Longer TCML-time with higher mastication forces may help to exclude catastrophic clinical failures.

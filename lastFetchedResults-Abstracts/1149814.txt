@@ -1,0 +1,3 @@
+The objective of the present work is to assess the effect of the tool material and the cutting parameters on surface roughness of supermet 718 nickel-base superalloy, under dry cutting conditions and a constant nose radius (0.5 mm). The tool materials used were ceramic (Sandvik CC680)and CBN (Sandvik CB5O) inserts. These variables were investigated using a 2k factorial design.
+
+The present work demonstrates a favorable effect for ceramic inserts on surface roughness, when compared with CBN inserts. The work also showed that the feed-rate has the dominant effect on surface roughness amongst the parameters studied, irrespective of the tool material used.

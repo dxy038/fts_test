@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma (MM) is an incurable B cell malignancy and novel therapeutics are urgently needed. Live attenuated measles virus (MV) has potent oncolytic activity against MM tumor xenografts. The virus is tumor selective and preferentially targets cells that express high levels of CD46 receptors. However, CD46 levels on MM have not previously been evaluated. In this study, we investigated the potential of CD46 as a target for MM therapy and correlated surface levels of CD46 on MM cells with their susceptibility to MV-induced cytopathic effects.
+Materials and Methods
+
+CD46 expression on neoplastic plasma cells (PCs) and nonplasma cells (NPCs) from 38 MM patients was analyzed by flow cytometry and receptor numbers were quantitated using BD QuantiBRITE PE beads.
+Results
+
+Results showed that malignant PCs expressed significantly higher levels of CD46 receptors compared to NPCs (p < 0.0001). The mean CD46 receptor numbers on PCs and NPCs were 49,130/cell and 7340/cell, respectively. Potent cytopathic effects of extensive intercellular fusion were observed in measles-infected PCs but not in NPCs. The extent of MV-induced cytopathic effects of cell fusion correlated with CD46 expression levels on the MM cells. Normal plasma cells do not overexpress CD46 and colony-forming assays demonstrated that MV was not cytotoxic to normal bone marrow progenitor cells.
+Conclusion
+
+The present study establishes CD46 as a surface antigen that is expressed more abundantly on primary MM cells compared to normal hematopoietic cells of various lineages in the bone marrow, making CD46 a promising surface marker for targeted cytoreductive therapy of MM.

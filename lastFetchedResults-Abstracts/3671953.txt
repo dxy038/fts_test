@@ -1,0 +1,1 @@
+The setting of control gains to fixed values has the drawback that if they are set to a low value then poor damping after a large disturbance will result. On the other hand setting them at a high level results in unnecessary chasing of small random disturbances with negligible improvement as far as the practical control objective is concerned.

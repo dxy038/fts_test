@@ -1,0 +1,16 @@
+The main objective of this work is to show the versatility of an innovative mesh-free numerical
+scheme, which allows the solution of the coupled transport equations governing the evolution of
+a system of multi-ion electrolytes, by mean of the use of radial basis functions interpolation and
+a nesting approach. The nesting approach is used in order to capture the detail behaviour of the
+solution near a solid wall i.e. at the diffusion–reaction layer. As a numerical example the problem
+of silver deposition on a rotating disk is analysed. The versatility of the proposed numerical scheme
+is proved by solving the proposed electrochemical phenomena imposing three different kinds of
+boundary conditions at the solid wall (Dirichlet, Neumann and Robin). The obtained numerical results
+are compared with simplified analytical approximation of the corresponding problems. The effect of
+the ligand concentration on the others species is considered and a comparison between the obtained
+concentration profiles for the complex AgS2O−
+3 and Ag(S2O3)
+−3
+2 when the concentration of the ligand
+S2O−2
+3 takes different values is shown

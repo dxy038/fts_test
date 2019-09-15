@@ -1,0 +1,1 @@
+An objective function incorporating the factors that affect the system throughput is proposed, and an enhanced joint time-domain equalization algorithm is developed for full-duplex discrete multitone (DMT) transceivers. This algorithm is able to shorten the channel and echo impulse responses using a single filter while keeping the system throughput high.

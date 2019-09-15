@@ -1,0 +1,6 @@
+The objective of this paper is to apply the concepts and theories of global impact based on a modern formulation in
+which the impact is considered with sliding, adherence or transition between sliding and adherence. The energy dissipated
+in the contact may be quantified by different definitions of the coefficient of restitution in Newton s law and
+Poisson s law. The method is applied to the impact between the damper (parabolic elements) and the platform of the
+blades in an airborne gas turbine. A numerical solution is calculated using a computer program constructed on the
+Matlab Platform.

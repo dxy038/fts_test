@@ -1,0 +1,11 @@
+Objective
+Adiponectin, a fat cell–derived protein, has been attracting considerable attention because of its antidiabetic and antiatherogenic activities. The aim of the present study is to identify molecules physiologically associating with adiponectin and to understand how the protein displays diverse biological activities.
+Materials and Methods
+
+We used an expression cloning method combined with enzyme-linked immunosorbent assay to clone adiponectin-binding proteins from the MS-5 complementary DNA library.
+Results
+
+We successfully isolated two chemokines, stromal cell–derived factor-1 (SDF-1) and CCF18, and verified that adiponectin bound to them via its globular head. Adiponectin bound with various chemokines in vitro, such as macrophage-inflammatory protein-1α (MIP-1α), RANTES, and monocyte chemoattractant protein-1 (MCP-1), suggesting that the protein had a feature commonly to bind to the chemokine family. The middle part of chemokines, dispensable for interacting with their receptors, was found to be important for the adiponectin binding. Although the interaction of adiponectin to SDF-1 affected neither the SDF-1–CXCR4 binding nor the SDF-1 signaling in Jurkat cells, adiponectin and heparin mutually interfered in their association to SDF-1 and MCP-1 in vitro, implying that their association might influence the distribution of adiponectin and SDF-1 in inflammatory sites. Indeed, both adiponectin and SDF-1 was positively immunostained in vascular walls in guts from acute graft-vs-host disease patients. In addition, peripheral blood of adiponectin-deficient mice contained more hematopoietic progenitors than that of wild-type mice.
+Conclusion
+
+Adiponectin may be involved in regulation of inflammation via binding to specific chemokines. Additionally, the interaction possibly enables adiponectin to gather and play its role in inflammatory sites.

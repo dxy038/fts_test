@@ -1,0 +1,11 @@
+Objective
+Stromal cell-derived factor-1α (SDF-1α) is a potent chemoattractant for hematopoietic progenitor cells (HPC), suggesting that it could play an important role during their migration within or to the bone marrow (BM). The integrin VLA-4 mediates HPC adhesion to BM stroma by interacting with CS-1/fibronectin and VCAM-1. It is required during hematopoiesis and homing of HPC to the BM. As HPC migration in response to SDF-1α might require dynamic regulation of integrin function, we investigated if SDF-1α could modulate VLA-4 function on BM CD34hi cells.
+Materials and Methods
+
+CD34hi BM cells and hematopoietic cell lines were tested for the effect of SDF-1α on VLA-4–dependent adhesion to CS-1/fibronectin and VCAM-1, as well as to BM stroma. CD34hi BM cells that adhered to VLA-4 ligands after SDF-1α treatment were characterized in colony-forming and long-term culture-initiating cell (LTC-IC) assays.
+Results
+
+SDF-1α rapidly (1 minute) and transiently upregulated the adhesion of CD34hi BM cells and hematopoietic cell lines to both CS-1/fibronectin and VCAM-1, and to BM stromal cells. The upregulation of VLA-4–dependent cell adhesion by SDF-1α targeted primitive LTC-IC as well as committed CD34hi cells. SDF-1α–triggered enhancement in VLA-4 function was inhibited by pertussis toxin (PTx) and cytochalasin D, indicating the involvement of Gi protein downstream signaling and an intact cytoskeleton. Instead, activation of p44/42 MAP kinases by SDF-1α did not functionally correlate with enhancement of VLA-4–dependent cell adhesion.
+Conclusions
+
+Modulation of VLA-4–mediated CD34hi BM cell adhesion by SDF-1α could play a key role in their migration within and to the BM and therefore influence their proliferation and differentiation.

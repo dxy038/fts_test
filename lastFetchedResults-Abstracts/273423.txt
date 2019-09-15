@@ -1,0 +1,11 @@
+This paper has two objectives: (a) to formulate a mechanical theory of porous continua within the framework of
+strong discontinuity concept commonly employed for the analysis of strain localization in inelastic solids; and (b) to
+introduce an effective stress tensor for three-phase (solid–water–air) partially saturated porous continua emerging from
+principles of thermodynamics. To achieve the first objective, strong forms of the boundary-value problems are compared
+between two formulations, the first in which the velocity jump at the solid–fluid interface is treated as a strong
+discontinuity problem, and the second in which the strong discontinuity is smeared in the representative volume element.
+As for the second objective, an effective Cauchy stress tensor of the form r ¼ r þ ð1   K=KsÞ p 1 emerges from
+the formulation, where r is the total stress tensor, K and Ks are the bulk moduli of the solid matrix and solid phase,
+respectively, and  p is the mean pore water and pore air pressures weighted according to the degree of saturation.
+We show from the first and second laws of thermodynamics that this effective stress tensor is power-conjugate to
+the solid rate of deformation tensor, and that it includes the mechanical power required to compress the solid phase.

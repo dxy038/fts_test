@@ -1,0 +1,11 @@
+In this paper, the life cycle of an innovative product is divided into three stages, where a nonhomogeneous
+Poisson process (NHPP) with a power law intensity function is employed to illustrate the entry process
+of rival firms in a competitive market. The effects of the competitors’ entry on the profits of the
+incumbent firm are taken into consideration, with an objective of deriving the optimal product life to
+maximize the incumbent’s profit. Furthermore, a case study of a new type of LCD (liquid–crystal display)
+TV is empirically investigated to examine the effectiveness of the proposed approach. The results of the
+posterior analysis suggest that the influence of the competitors’ entry on the optimal product life is overestimated
+in the prior analysis. The results of sensitivity analyses indicate that the effect of competition of
+the introduction and growth stages on the optimal product life is greater than that of the maturation
+stage on the optimal product life, which is subsequently greater than that of the decline stage on the optimal
+product life.

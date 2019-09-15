@@ -1,0 +1,5 @@
+This work presents a modified version of the evolutionary structural optimization (ESO) procedure for its application in topology optimization of compliant mechanisms. The proposed procedure is based in the ESO method, which has been successfully applied to several optimum material distribution problems, such us stiffness, frequency or buckling problems, but not for compliant mechanism optimization. It will be shown that an additive version of this method must be adopted in order to achieve the optimum design, since the traditional ESO method's element removal technique is not efficient in this case.
+
+oposed method will apply the objective functions and restrictions suggested in previous works, as well as original formulations and alternative approaches derived in this investigation which improve the solutions obtained by other authors.
+
+ocedure has been implemented into a general optimization software and tested in several numerical applications and benchmark examples to illustrate and validate the approach.

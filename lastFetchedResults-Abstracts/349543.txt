@@ -1,0 +1,11 @@
+Objective
+We have previously reported that the measurement of spinal cord evoked magnetic fields (SCEFs) could be a helpful method for evaluating spinal cord function or detecting conduction blocks in the spinal cord. However, there have been no reports about segmental-SCEFs as a complex of axonal and synaptic activities in the spinal cord. The purpose of this study is to record and evaluate segmental-SCEFs.
+Methods
+The segmental-SCEFs were measured over the lumbar dural tubes of adult rabbits using our SQUID system following sciatic nerve stimulation; spinal cord evoked potentials (SCEPs) were also measured to compare the results.
+Results
+SCEPs showed conductive sharp waves following gentle waves, suggesting action potentials and synaptic potentials, respectively. The isomagnetic field maps of SCEFs showed a quadrupolar pattern propagating from the caudal to the cranial region within a short latency time, and after the conductive magnetic fields passed, stationary dipolar fields appeared and were sustained at some vertebral levels.
+Conclusions
+The quadrupolar magnetic fields were estimated to be generated from conducting action potentials, and the dipolar fields were thought to be caused by synaptic activities.
+Significance
+Through the measurement of segmental-SCEFs, the conductive neural and synaptic activities in the spinal cord can be visualized and distinguished. This is the first report to record and visualize the sequence of events ranging from the axonal activities of peripheral nerves and the spinal tract to the synaptic activities in the spinal cord.
+

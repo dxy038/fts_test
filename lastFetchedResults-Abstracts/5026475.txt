@@ -1,0 +1,1 @@
+This paper studies file-sharing P2P application among set-top boxes in bidirectional CATV networks. We try to find convergence between data broadcasting and P2P download. We use data carousel completes search work in P2P system. Finally, the experiments demonstrate advantages of the proposed strategy in hybrid P2P system.

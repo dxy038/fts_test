@@ -1,0 +1,41 @@
+Introduction
+Land use and land cover change (LUCC) is a complex issue resulted from biophysical, socio-economic, cultural, organizational and technological factors in different spatial and temporal scales. LUCCs have both direct and indirect effects on the environment not only globally but also locally. LUCC considered as an important threat to biodiversity as causing the fragmentation, natural vegetation destruction and natural areas isolation The regions which managed by environmental protection organizations all over the world established based on a common goal of maintaining biodiversity. Current insufficient preservative and management actions in protected areas (especially in Iran) is unable to guarantee the areas protection. So analyzing previous and current land use and land cover (LULC) status and predicting the future pattern within and surrounding the protected areas are likely to provide more efficient information for proper natural resources management. RS data is cost effective means to detect changes on the Earth's surface and provide up to date information. Over the last decades, several methods and models developed for extracting LULC maps, detecting LUCCs and modelling the future pattern using remotely sensed data. The objective of this study is to analyze spatiotemporal patterns of LUCC from the past to the future within Dizmar protected area in Iran. Firstly, LULC maps of 1989, 2000 and 2013 were extracted and then future LULC was predicted using CA- Markov models from 2013 to 2037.
+
+Study area
+Dizmar protected area is a mountainous- forested region located in the north of Eastern Azerbaijan province, Iran. It lies within between the 41?38' to 57?38' N and 18?40' to 46?40' E with total area about 68576 ha. Its connections to Kiamaky nature reserve in the west, Arasbaran protected area in the east, the national park of Zagatay (in the Republic of Azerbaijan and Armenia) in the north, makes it to be considered as an important wildlife corridor locally, nationally and internationally. It is home to 849 plant species (76 of them is endemic) and about 320 species of wildlife (such as Tetrao mlokosiewiczi placed in the IUCN list of globally threatened species). This protected area was faced with extra pressure on natural sources causes LUCC.
+ 
+Materials and Methods
+This study used Landsat satellite images (1989, 2000 and 2013) to extract LULC maps. After preprocessing step (such as image enhancement using Histogram Equalization) unsupervised classification was done. Then the supervised classification was performed using the Maximum Likelihood Classifier (MLC) based on signatures file (generated from ground reference data that gathered in the field survey) for each of the images separately. Three LULC categories were extracted from TM, ETM+, and OLI images. Stratified random method in ERDAS Imagine 2013 used to assess the accuracy of each obtained maps. CA‏-Markov model was applied to project LULC in the study area for 2037. Validating the LULC prediction model carried out using KIA (Kappa Agreement Index). LUCCs during studied timespans was calculated using the cross tabulation technique in Idirisi Selva environment.
+
+Results and discussion
+The distribution, coverage and percentage of major LULC types (classified as agricultural land, barren/range land and forestland) for 1989, 2000 and 2013 shown in Figure 1and Table 1. 
+ 
+Figure 1: LULC maps actual (1989, 2000 and 2013) and simulated (2013 and 2037)
+The overall classification accuracy of each map for 1989, 2000 and 2013 estimated to be 89%, 90% and 91% respectively. The Kappa values also yield 0.81, 0.84 and 0.88 respectively. The main types of LULC was forestland (with 62.20% and 54.30% of the total area) from 1989 to 2000 but it changed to barren/range land in 2013 (52.53% of the total area) (see Error! Reference source not found.).
+Results show the reduction in forestland between 1989 and 2013. Subsequently, agricultural land increased from 0.72% in 1989 to 2.14% in 2013 due to the fact that the traditional livelihood remains farming. 
+Table 1: Distribution of LULC type in Dizamr protected area (in ha)
+				Year	LULC type
+Simulated	Actual	
+2037	2013	2013	2000	1989	
+2213.654	1317.42	1471.464	933.7649	498.9053	Agricultural land
+42541.57	34705.46	35343.74	30400.17	25142.94	Barren/range land
+23821.14	32602.59	31761.16	37242.43	42934.52	Forestland
+The projected land use map by the CA-Markov model (Error! Reference source not found.) indicates that if the current management continues, barren/range land and agricultural land reach to 62.03% and 3.22% of the total area at the expense of decreasing forestland area to 34.73% by 2030 (Figure 2). In order to validate the CA-Markov model outputs the VALIDATE module existing in the IDRISI Selva was used. This done by comparing simulated land use maps of 2013 with the actual ones based on Kappa statistics. Resulting Kappa values (Kno= 0.9295, Kstandard= 0.918, KlocationStrata= 0.9273 and Klocation= 0.9273) were all well above 0.9 showing a satisfactory level of accuracy.
+ 
+Figure 2: Area of LULC types (as percentage of the total area) over the studied period 
+
+The area of 701.46 ha have been deforested and became changed to agricultural land during 1989 to 2013. The amount of deforestation will be 521.19 ha by 2013. On the contrary, only 5.22 ha will be forested by transformation of barren/range land during 2013-2037 (Error! Reference source not found.).
+
+Table 2: LULC conversions types during studied time spans (areas in ha)
+Times pan	LULC conversions 
+2013-2037	1989-2013	2000-2013	1989-2000	
+521.19	701.46	462.87	285.75	F to A
+7424.19	0	5802.93	6377.4	F to BR
+0	91.08	223.74	69.21	A to BR
+5.22	6.59	800.46	932.76	BR to F
+230.49	363.69	299.34	233.82	BR to A
+8181.09	1162.82	7589.34	7898.94	Total
+*A: Agricultural land, BR= Barren/range land, F= Forestland
+
+Conclusions
+LUCC within and surrounding protected areas probably continue to be expanded and intensified. Monitoring and projecting these changes can play key roles to prevent negative consequences of the changes by providing up to date information to planners and managers. This study shows the important role of LUCCs analyzing and modeling to provide proper information for the protected area management. We applied dynamic approach to analyze LUCCs by analyzing previous and current LULC maps and predicting the future trends. The results indicate the high capability of CA-Markov model to predict future LUCC in the study area. So it can be useful in the protected area's land use policy and action design. Indeed, between 1989 and 2013, there has been a notable reduction in forestland and it was predicted continual reduction over the next 24 years. Agricultural land has been steady in increment during 1989-2013 and this trend continues by 2037. Expansion of agricultural land and barren/range land in the study area has led to rapid changes in landscape dynamics. So it is recommended to create and strengthen non-farm/off-farm income. Adoption of agricultural policy based on the agroecological condition of the Dizmar protected area is important. Considering and analyzing other factors such as land capability, stakeholders and LUCC drivers along with the obtained results can be useful in proper LULC planning and management. Strategies of land resources (especially forest resources) development, use and protection need to be revised to overcome the current deterioration and avoid further extinction of remnant forest within the study area. 

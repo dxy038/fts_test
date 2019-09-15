@@ -1,0 +1,7 @@
+Summarization as one of the main devices for analysis and organization of documents is done manually or automatically. With the advancement of technology, production of automatic text summarization has been developed. In the present article the approaches of automatic text summarization are divided into single document summarization and multi-document summarization. Single document summarization includes traditional approaches, statistical processing (based on the collection), approaches based on the structure of forum and knowledge-based approaches. Multi-document summarization evaluates the advances in this field. Effective factors onhe system of automatic text summarization have been evaluated in three parts: (1) 
+
+input aspects (including text structure, field, level of proficiency, language limit, scale, medium, type, unit and language); (2) objective aspects (including position,
+
+
+
+audience, application); and (3) output aspects (including content, format, method,he process of production, replacement and length).

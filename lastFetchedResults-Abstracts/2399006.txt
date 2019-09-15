@@ -1,0 +1,8 @@
+Objective
+rpose of this study is to determine a regression model which performs accurately for predicting Kubelka–Munk (K–M) absorption (K) and scattering (S) coefficients of pigment mixtures in maxillofacial elastomer (MFE).
+s
+ens at varying thicknesses of 19 shades of skin-colored MFE were made incorporating tan, red, yellow and black pigments. Using a non-contact 45°/0° spectral reflectance system, reflectance values were obtained and fit by non-linear regression to corrected K–M theory to determine observed K and S values. Predicted values were calculated using: first order linear regression model (M1), second order square-factor model (M2S), second order interaction-factor model (M2I) and complete second order model (M2C). Errors between observed and predicted values for each model at each wavelength studied are evaluated. Differences in color and the Translucency Parameter (TP) at a thickness of 1.5 mm based on CIE2000 color difference formula between observed and predicted values were also analyzed using repeated-measures ANOVA (α = 0.05).
+s
+ows less absolute differences in color and TP (1.5 mm) than those for the M1 and M2S models (P &lt; 0.05).
+icance
+ limitations of this study, the complete second order regression model performs accurately in concentration additivity of pigmented maxillofacial elastomer mixture. This regression model is recommended as a viable alternative in the application of colorant formulation based on corrected K–M model for improving appearance match of pigmented maxillofacial prosthesis to human skin.

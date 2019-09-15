@@ -1,0 +1,1 @@
+This paper demonstrates a medical application of Bayesian neural networks, whose parameters and hyper-parameters are sampled from the posterior distribution by means of Monte Carlo Markov chain. The main objective is the determination of the relevance of various input variables. The paper focuses on typical difficulties one has to face when dealing with sparse data sets

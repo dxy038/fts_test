@@ -1,0 +1,11 @@
+Objective
+BCR-ABL is a unique oncoprotein of which sole expression can cause cancer. A number of signaling molecules were shown to be activated by BCR-ABL. One of the important molecules that contributes to BCR-ABL–mediated cell proliferation is signal transducer and activator of transcription (STAT) 5. To elucidate the mechanism of BCR-ABL–mediated leukemogenesis, a role of pim-1, one of the important target genes of STAT5, was investigated.
+Materials and Methods
+
+A temperature-sensitive mutant of p210BCR-ABL was introduced in interleukin-3–dependent murine hematopoietic cell line Ba/F3 cells, and downstream signaling after activation of BCR-ABL was investigated. Effects of the expression of a dominant-negative (dn) Pim-1 and a dn STAT5A in BCR-ABL–driven cell proliferation also were studied in Ba/F3 cells.
+Results
+
+We found that pim-1 was markedly up-regulated following activation of BCR-ABL tyrosine kinase with activation of STAT5. Overexpression of pim-1 alone induced cytokine-independent cell growth of Ba/F3 cells in a dose-dependent manner. However, expression of the dn Pim-1 did not affect growth of Ba/F3 cells transformed by BCR-ABL, whereas that of the dn STAT5A did suppress it.
+Conclusion
+
+Pim-1 is one of the redundant molecules that contributes to induction of autonomous cell growth and is dispensable for leukemogenesis by BCR-ABL.

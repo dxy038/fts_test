@@ -1,0 +1,1 @@
+A low bandwidth RSOA-based WDM-PON system is evaluated at 10 Gb/s with an off-line processing. Results show that almost 20 Km bidirectional and 125 km unidirectional fiber are feasible by means of 8 states conventional MLSE.

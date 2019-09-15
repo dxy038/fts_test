@@ -1,0 +1,8 @@
+Objective
+ermine the effectiveness of policy-driven therapy (ie, Part C early intervention [EI]) in the context of varying maternal supports among preterm infants in Wisconsin.
+s
+itudinal study of mother−infant dyads recruited from 3 newborn intensive care units in southeastern Wisconsin. Participation in EI-based therapy was collected at 36 months via parent-report. Cognitive function was measured at 16 months by use of the Bayley Scales of Infant Development (Mental Developmental Index), 2nd edition and at 24 and 36 months postterm via use of the Stanford-Binet Intelligence scale, 5th edition. Maternal support was measured at 4 months with the Maternal Support Scale. Propensity score matching was used to reduce selection bias. Latent growth models of matched pairs estimated the effect of EI therapy on cognitive function trajectories. Ordinary least squares regression estimated the differential effect of EI therapy on cognitive function at 16, 24, and 36 months postterm for mothers reporting more maternal supports.
+s
+ 128 infants, 41 received EI therapy and, of those, 32 (78%) were successfully matched with controls. The results of the matched analysis (n = 64) reveal that 1) receipt of therapy is inversely associated with cognitive function baseline (P = .04) and positively associated with trajectories (P = .03), 2) the number of maternal supports is positively associated with cognitive function for families receiving Part C early intervention, at 16 months (P = .05), 24 months (P &lt; .01), and 36 months (P = .05) postterm.
+sions
+ipation in EI therapy may be associated with more optimal cognitive function trajectories. Among preterm children whose mothers have more supports, receiving therapy appears particularly beneficial.

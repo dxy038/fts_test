@@ -1,0 +1,12 @@
+Background: The angular dependency of response for TLD cards may cause deviation from its true value on the results of environmental dosimetry, since TLDs may
+be exposed to radiation at different angles of incidence from the surrounding area.
+Objective: A 3D setting of TLD cards has been calibrated isotropically in a standard radiation feld to evaluate the improvement of the accuracy of measurement for
+environmental dosimetry.
+Method: Three personal TLD cards were rectangularly placed in a cylindrical
+holder, and calibrated using 1D and 3D calibration methods. Then, the dosimeter has
+been used simultaneously with a reference instrument in a real radiation feld measuring the accumulated dose within a time interval.
+Result: The results show that the accuracy of measurement has been improved by
+6.5% using 3D calibration factor in comparison with that of normal 1D calibration
+method.
+Conclusion: This system can be utilized in large scale environmental monitoring
+with a higher accuracy

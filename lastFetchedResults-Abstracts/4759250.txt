@@ -1,0 +1,1 @@
+The survivability related to hardware failures for the SDH network is analysed. We give the features of hardware failure for 2-fiber and 4-fiber bidirectional self-healing ring (BSHR/2 and BSHR/4). With an assumption of the traffic pattern, models for survivability of single-ring and multiple-rings are established, the analysis of survivability is carried out with these models

@@ -1,0 +1,11 @@
+Objective
+Nickel–titanium orthodontic wires have various temperature-dependent phases. The purpose of this study was to investigate temperature-dependent corrosion characteristics of shape memory, superelastic, and nonsuperelastic orthodontic wires.
+Methods
+
+Four orthodontic wires were investigated: 27 and 40 °C copper Ni–Ti (superelastic and shape memory, respectively), superelastic Ni–Ti, and nonsuperelastic Nitinol Classic. Differential scanning calorimetry (DSC) was used to confirm phase/temperature behavior of the wires. Sectioned halves of as-received archwires were assessed electrochemically in artificial saliva at 5, 24, 37, and 45 °C. Open circuit potential (OCP) was monitored for 2 h followed by polarization resistance and cyclic polarization tests.
+Results
+
+DSC results showed Nitinol was primarily martensitic-stable whereas NiTi, 27 °C CuNiTi, and 40 °C CuNiTi possessed austenite-finish temperatures of approximately 19, 21, and 38 °C. The OCP of the CuNiTi wires was significantly greater than NiTi and Nitinol but no apparent trend in values was apparent with regard to temperature or phases present. Corrosion current density (icorr) increased with temperature for all wires, but not all were equally influenced. The two lowest austenite-finish temperature wires (27 °C CuNiTi and NiTi) approximately tripled in icorr from 37 to 45 °C. Greater incidence of pitting was observed in the CuNiTi wires.
+Significance
+
+This study showed the corrosion rate of various nickel–titanium wires increase with temperature and different phases present may influence corrosion rate trends.

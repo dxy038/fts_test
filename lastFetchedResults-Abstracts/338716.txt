@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to isolate and expand donor-derived human cytomegalovirus (HCMV)-specific cytotoxic T lymphocytes (CTLs) for adoptive transfer of 107 cells per m2 of body surface area to restore protective immunity after stem cell transplantation.
+Materials and Methods
+
+A new strategy to generate HCMV-specific CTLs using the interferon-γ (IFN-γ) secretion assay, followed by expansion to numbers sufficient for clinical application with interleukin-2 and feeder cell stimulation, is described.
+Results
+
+From 1 to 5 × 104 HCMV peptide-specific T lymphocytes (greater than 90% CD3+CD8+) were isolated from 1 to 2 × 108 peripheral blood mononuclear cells comparable to 50 to 100 mL of blood from HLA-A*0201 HCMV seropositive blood donors (n = 14) and expanded ex vivo after a median of 16 days (range 8–28 days; n = 13) to greater than 107/m2 HCMV peptide-specific CTLs using autologous (n = 2) or allogeneic (n = 11) feeder cell stimulation. In three experiments, expansion to 6 weeks was performed, achieving a median of 1.6 × 109 cells (range 6.1 × 108–3.3 × 109). Characterization of these HCMV-specific CTL lines revealed an average purity of 89.2% (range 66.2–99.3%) using HCMV pp65 peptide HLA-A*0201 tetramer staining (n = 14) and 89.4% (range 64.4–99.5%) by peptide-specific IFN-γ secretion (n = 7). A median of 82.6% (range 76.0–88.0%) showed perforin secretion (n = 3) and 57.5% (range 22.2–80.7%) specific lysis of peptide-pulsed T2 cells (n = 5). A median of 52.2% (range 35.2–7.3%) revealed specific killing of HCMV-infected autologous, but not allogeneic, fibroblasts (n = 6).
+Conclusion
+
+IFN-γ secretion assay allows development of a simple and rapid protocol with short expansion times for generation of greater than 107/m2 HCMV-specific CTLs for adoptive immunotherapy.

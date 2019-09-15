@@ -1,0 +1,1 @@
+In this paper, the recent advances in extending the traditional time-domain techniques have been discussed. The main objective of this work is to model the electromagnetic wave propagation in general bi-isotopic media using advanced time-domain numerical modeling such as Finite Differences in Time Domain (FDTD) and Transmission Line Matrix (TLM).

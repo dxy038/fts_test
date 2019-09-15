@@ -1,0 +1,5 @@
+Objective: The present study addressed what kind of mental processes would be presented by the event-related desynchronization (ERD) relevant to the stimuli of an auditory oddball count task.
+Methods: Electroencephalogram (EEG) was recorded from nine healthy subjects while target tones (2000 Hz, P=0.2) and non-target tones (1000 Hz, P=0.8) were presented randomly with constant stimulus onset asynchrony (SOA) of 3.3 s. To improve time resolution of ERD analysis, obtained EEG epochs were digitally convoluted by Gabor wavelet and averaged respectively.
+Results: For target stimulus, prominent ERD was observed in left parieto-occipital areas (peak latency: 400–600 ms), but there were no significant ERD for non-target stimulus.
+Conclusion: Our result suggests that magnitude of ERD would reflect amount of mental effort which was associated with intentional and voluntary processes rather than automatically sensory process
+

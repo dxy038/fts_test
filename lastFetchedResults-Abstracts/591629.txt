@@ -1,0 +1,14 @@
+Manufacturers, who re-supply a large number of customers, continually struggle with the
+question of how to formulate a replenishment strategy. The purpose of this paper is to determine the
+optimal set of routes for a group of vehicles in the transportation network under defined constraints –
+which is known as the Vehicle Routing Problem (VRP) – delivering new items, and resolving the
+inventory control decision problem simultaneously since the regular VRP does not. Both the vehicle
+routing decision for delivery and the inventory control decision affect each other and must be
+considered together. Hence, a mathematical model of vehicle routing problem with inventory is
+proposed whose demands are assumed to be hybrid variables (HVRPI) in which fuzziness and
+randomness are considered together. Then, the problem is transformed into its equivalent deterministic
+form and presented as a multi-objective mixed integer nonlinear programming. Since finding the
+optimal solution(s) for HVRPI is a NP-hard, a solution algorithm is presented composed of the
+constrained Nelder–Mead method and a Tabu search algorithm for the vehicle routing to solve the
+complex problem. The usefulness of the model is validated by experimental results. The findings
+indicate that the proposed model can provide a practical tool to significantly reduce the logistic cost.

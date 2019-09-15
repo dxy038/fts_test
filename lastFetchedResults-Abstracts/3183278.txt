@@ -1,0 +1,1 @@
+A novel OFDM-remodulation scheme for 10-Gb/s/channel WDM-PON is proposed and numerically investigated. Negative remodulation penalty is achieved without using any ultra-narrow filter or coherent detection. 40-km single-fiber bidirectional transmission is confirmed with 7-dB power margin.

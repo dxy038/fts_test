@@ -1,0 +1,8 @@
+Objective
+luate the spatio-temporal relationships between articulators in the anterior oral cavity, during the production of Japanese fricative and plosive articulation using our proposed method for tooth visualization in MR image sequences.
+
+althy adults without malocclusion participated in the study. Customized maxillary and mandibular plates with space around the central incisors that was to be filled with MR-compatible contrast medium were made. During image-acquisition by a cine magnetic resonance imaging (MRI) technique, the subjects repeated vowel–consonant–vowel syllables (/asa/ and /ata/) without wearing the plates. The subjects then wore the plates for tooth imaging. All data were acquired in the midsagittal plane. Tooth boundaries were superimposed using landmarks. Several parameters and spatio-temporal changes in the centre of gravity (CoG) of the tongue were measured.
+s
+ /t/, the duration and amount of tongue-to-palate/incisor contact were significantly greater and the radius of the inscribed circle between the tongue–maxillary incisor–mandibular incisor was significantly shorter than those during /s/. /t/ also had a more anteriorly located CoG of the tongue than /s/ during maximum constriction. The spatio-temporal changes in the CoG of the tongue were significantly different between /asa/ and /ata/.
+sions
+clude that increased tongue-to-palate/incisor contact and greater anterior closure are necessary for the production of Japanese /t/ compared to /s/. With the use of this new method for tooth visualization in MR image sequences, it should be possible to evaluate the interaction of teeth and other articulators during speech.

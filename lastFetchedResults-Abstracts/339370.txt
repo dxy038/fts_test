@@ -1,0 +1,11 @@
+Objective
+Chemokine-like receptor 1 (CMKLR1) is expressed by human antigen presenting cells and binds to chemerin, a proteolytically activatable chemoattractant. Here we assessed the expression of mCMKLR1 on mouse leukocytes, focusing on ex vivo dendritic cells (DC) and macrophages. mCMKLR1-expressing cells were evaluated for functional responses to chemerin. We examined the regulation of mCMKLR1 expression by exposure to toll-like receptor (TLR) ligands and cytokines. Finally, we evaluated ex vivo human ascites macrophages for huCMKLR1 expression and chemerin responsiveness.
+Methods
+
+A novel anti-mCMKLR1 monoclonal antibody was generated to assess mCMKLR1 expression by mouse leukocytes using flow cytometry. Mouse bone marrow–derived DC precursors, mouse peritoneal macrophages, and human ascites leukocytes were examined in functional assays (in vitro chemotaxis and intracellular calcium mobilization).
+Results
+
+During DC differentiation from bone marrow, mCMKLR1 is upregulated early and then diminishes with time in culture. Most DC in vivo do not detectably express the receptor. In contrast, freshly isolated F4/80+CD11b+ mouse serosal macrophages express mCMKLR1, bind a fluorescently labeled chemerin peptide, and display calcium signaling and migration to the active ligand. Interestingly, macrophage mCMKLR1 is suppressed by proinflammatory cytokines and TLR ligands, whereas treatment with TGF-β upregulates the receptor. A small population of blood-borne F4/80+CD11b+ macrophages also expresses mCMKLR1. Freshly isolated macrophages from human ascites fluid express CMKLR1 and are chemerin responsive, as well.
+Conclusion
+
+The conserved expression of CMKLR1 by macrophages in mouse and man, coupled with the stimuli-specific regulation of CMKLR1, may reflect a critical role for CMKLR1:chemerin in shaping the nature (either proinflammatory or suppressive) in macrophage-mediated immune responses.

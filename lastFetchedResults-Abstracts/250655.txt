@@ -1,0 +1,13 @@
+This paper presents a new procedure to improve the quality of triangular meshes defined on surfaces.
+The improvement is obtained by an iterative process in which each node of the mesh is moved to
+a new position that minimizes a certain objective function. This objective function is derived from
+algebraic quality measures of the local mesh (the set of triangles connected to the adjustable or free
+node). If we allow the free node to move on the surface without imposing any restriction, only guided
+by the improvement of the quality, the optimization procedure can construct a high-quality local mesh,
+but with this node in an unacceptable position. To avoid this problem the optimization is done in
+the parametric mesh, where the presence of barriers in the objective function maintains the free node
+inside the feasible region. In this way, the original problem on the surface is transformed into a
+two-dimensional one on the parametric space. In our case, the parametric space is a plane, chosen in
+terms of the local mesh, in such a way that this mesh can be optimally projected performing a valid
+mesh, that is, without inverted elements. Several examples and applications presented in this work
+show how this technique is capable of improving the quality of triangular surface m

@@ -1,0 +1,7 @@
+Background and Aim: The objective of this study was to design electronic card of health for schizophrenic patients to better manage their clinical information.
+Materials and Methods: The study was conducted year 2014. The population of the study included 40 psychiatrists. The information, based on minimal clinical and demographic data, was gathered through field study and survey using a questionnaire. Referential and inferential statistics techniques were used to analyze the data. &nbsp;To schizophrenic patients' electronic health cards, various software were studied to design database, card and card reader.
+Results: According to the results and observed frequencies, it was confirmed that the components of demographic and clinical information be inserted in the electronic card of health. The project includes hardware of card reader machine, card and visual studio software. Microsoft SQL Server, 2008, was applied to design database.&nbsp;
+Conclusion: The electronic card of health for schizophrenic patients helps the treatment team to provide effective health care as well as medical records and hospital admission's staff in better management of patient information. It also reduces the problems of relatives and family members of the patients in the medical centers and facilitates, and the process of treatment of schizophrenic patients significantly. Using schizophrenia patient&rsquo;s electronic health card, hospital in better management of patient information puts in good condition.&nbsp;
+
+
+

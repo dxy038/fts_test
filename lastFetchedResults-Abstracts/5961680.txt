@@ -1,0 +1,1 @@
+Metadata and ontology share the same objective about a common and integrated repository of data structure and semantic to provide a better information discovery in general or specific domains. This article focus on metadata in BI domain to propose the usage of ontologies and natural language processing to create and explore metadata in data lineage and data discovery.

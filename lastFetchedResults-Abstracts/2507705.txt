@@ -1,0 +1,23 @@
+Objective: Chlorpyrifos (CPF) is a neurotoxic organophosphorus (OP) insecticide. Its
+mechanism of action includes oxidative stress, excitotoxicity, and inhibition of the acetylcholinesterase
+enzyme (AChE). The aim of the present study is to investigate CPF toxicity
+in mature and immature cerebellar granule neurons (CGNs), as well as its effect on glutamate
+induced excitotoxicity.
+Materials and Methods: This study was an in vitro experimental study performed on mice
+cultured CGNs. Immature and mature neurons were exposed to different concentrations
+of CPF (1-1000 ?M) and glutamate (10-600 ?M) for 48 hours after which we used the
+MTT assay to measure cytotoxicity. Immature neurons had exposure to CPF for 5 days
+in order to evaluate the cytotoxic effect on developing neurons. Mature neurons received
+sub-lethal concentrations of CPF (10, 100 ?M) combined with different concentrations of
+glutamate. AChE activity and reactive oxygen species (ROS) generation were assessed
+after treatments.
+Results: Immature CGNs had increased sensitivity to CPF toxicity compared to mature
+neurons. We observed significantly greater ROS production in immature compared to
+mature neurons, however AChE activity was more inhibited in mature neurons. Although
+CPF toxicity was not well correlated with AChE inhibition, it correlated well with ROS production.
+Glutamate toxicity was potentiated by sub-lethal concentration of CPF, however
+glutamate induced ROS production was not affected. The results suggested that CPF
+potentiated glutamate toxicity by mechanisms other than oxidative stress.
+Conclusion: CPF toxicity differed in mature and immature neurons. Potentiated glutamate
+toxicity by CPF implied that CPF exposure might be a risk factor for neurodegenerative
+disease.

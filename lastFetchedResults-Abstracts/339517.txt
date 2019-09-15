@@ -1,0 +1,11 @@
+Objective
+Infection of immunocompromised patients with cytomegalovirus (CMV), such as that occurring in patients undergoing hematopoietic stem cell transplantation, is a serious clinical problem. CMV infection has been reported to suppress hematopoiesis. In immunocompetent hosts CMV is controlled initially by the innate immune system, with CD1d molecules and natural killer T (NKT) cells playing a role in the antiviral immune response in several model systems. We hypothesized that CD1d and NKT cells are involved in protection of the hematopoietic modulating effects of CMV, and that adoptive transfer of NKT cells would protect against these infection-induced effects.
+Methods
+
+To address our hypothesis, we used a murine CMV (MCMV) infection model in CD1d−/−, Jα18−/−, and wild-type (WT) control mice of two different genetic strains each.
+Results
+
+Infection with MCMV was associated with significant suppression of absolute numbers and cell cycling status of myeloid progenitor cells (CFU-GM, BFU-E, CFU-GEMM) in the marrow and spleen, especially in CD1d−/− (lack both CD1d and NKT cells), and Jα18−/− (express CD1d but lack NKT cells) mice. Adoptive transfer of NKT cells into WT and Jα18−/− mice shortly before infection with MCMV counteracted myelosuppression.
+Conclusions
+
+The results implicate NKT cells, and also likely CD1d, in protection of progenitor cells from MCMV-induced suppression and suggest that NKT cells may be of value in an adoptive transfer setting to treat CMV-induced perturbations of hematopoiesis in immunocompromised individuals. However, further studies are required to better understand the full consequences of adoptive transfer in these settings.

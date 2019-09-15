@@ -1,0 +1,7 @@
+The Mahalanobis-Taguchi System is a diagnosis and forecasting method for multivariate data.
+Mahalanobis distance is a measure based on correlations between the variables and different
+patterns that can be identified and analyzed with respect to a base or reference group. This
+paper presents a comparison of the Mahalanobis-Taguchi System and a standard statistical
+technique for defect detection by identifying abnormalities. The objective of this research is to
+provide a method for defect detection with acceptable alpha (probability of type I) and beta
+(probability of type II) errors.

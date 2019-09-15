@@ -1,0 +1,1 @@
+We propose and demonstrate a novel RSOA-based WDM-PON architecture for converging Gb/s-NZR and 16QAM-OFDM ROF signals by employing wavelength reuse techniques. The bidirectional wired and wireless services can successfully be delivered over 25 km fiber by using one single lightwave.

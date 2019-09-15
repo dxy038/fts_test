@@ -1,0 +1,1 @@
+Summary form only given. The bidirectional link self healing network (BLSN) automatic protection switching (APS) algorithm can protect arbitrary redundant networks from link and node failures by using loopback. This means that the more bandwidth efficient loopback APS method can be used to protect lowest cost redundant networks regardless of their topology.

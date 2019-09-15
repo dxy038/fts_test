@@ -1,0 +1,11 @@
+Objective
+The transgenic mouse line MEnTCD2.5 expresses a dominant interfering Myb protein in a T-cell–specific fashion. When MEnTCD2.5 animals are crossed to a second line ubiquitously expressing Myc, they develop a rapid onset, fatal disease characterized by enlarged lymph nodes full of nonlymphoid cells. This study aimed to elucidate the reason for this anomalous non-T–cell phenotype.
+Materials and Methods
+
+We studied the cells by morphological analysis, surface marker staining, mRNA expression studies and in vitro colony-forming assays.
+Results
+
+Aberrant cells in MEnTCD2.5 lymph nodes are erythroblasts, and cooperation between MEnTCD2.5 and Myc causes severe erythroblastosis, but not erythroleukemia. MEnTCD2.5:Myc and MEnTCD2.5 animals have pronounced extramedullary erythropoiesis in their lymph nodes, and some increase in bone marrow–derived erythroid progenitors; no other MEnTCD2 transgenic line cooperates in this fashion with Myc, suggesting that the MEnTCD2.5 integration site, in intron 2 of the Lrfn2 gene, is of importance. To confirm this, in in vitro colony-forming assays, expression of wild-type Lrfn2 phenocopies the MEnTCD2.5 defect. Finally, Lrfn2 expression also causes the outgrowth of a bizarre cell type in colony-forming assays that stains positively for both early hematopoietic and fibroblast/fibrocyte surface markers.
+Conclusions
+
+The Lrfn2 protein, a transmembrane adhesion-type molecule, is able to subvert hematopoietic differentiation to increase erythropoiesis. In cooperation with Myc, this leads to erythroblastosis. Lrfn2 may also be involved in colony forming units-fibroblast regulation. As Lrfn2 expression is detectable in wild-type bone marrow, it likely plays a novel role during normal hematopoiesis.

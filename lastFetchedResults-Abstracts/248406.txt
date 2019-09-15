@@ -1,0 +1,8 @@
+The objective of this paper is to describe the object-oriented implementation and computational e¦ciency of
+a multibody dynamics algorithm for planar mechanical systems. The underlying formulation uses a unique
+combination of orthogonal projection techniques and graph-theoretic methods to automatically generate
+the equations of motion in terms of ÔbranchÕ co-ordinates that are selected by a user. The direct analogy
+between the physical components in a multibody system and the ÔobjectsÕ in Object-Oriented Programming
+(OOP) methods is exploited in a C##implementation of the dynamic formulation. Issues associated with
+this OOP implementation are discussed, and the results of computer simulations are presented and
+examined for di¤erent sets of user-selected co-ordinates

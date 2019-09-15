@@ -1,0 +1,11 @@
+Objective
+Blood platelets represent a link between hemostasis, inflammation, and tissue repair. Their role in immune responses and inflammation mainly involves many molecules, among which Toll-like receptor, major histocompatibility complex class I, CD40 and CD154/CD40 ligand (CD40L). As platelets are the major purveyor of soluble CD40L (sCD40L), we sought to determine their involvement in CD40/CD40L-dependent immune responses and to understand the interactions between platelets and peripheral B lymphocytes.
+Materials and Methods
+
+We examined the capacity of platelets to bind nonstimulated B cells, and phenotypic changes by flow cytometry and confocal scanning laser microscopy. Modulation of cytokines/chemokines and total levels of immunoglobulin (Ig) A, IgG, IgM, and IgG subclasses in supernatants of coculture, platelets, and B lymphocytes was performed by sandwich enzyme-linked immunosorbent assay and differential production of cytokine mRNA as determined by reverse transcriptase polymerase chain reaction.
+Results
+
+In coculture, platelets and B lymphocytes were mutually activated, as demonstrated by the increased expression of platelet CD62p and B-cell CD86. Platelet/B-cell interactions were accompanied by changes in membrane expression of CD40 and CD40L by both platelets and B lymphocytes. IL12p70 and IL8 gene transcription were significantly reduced, which was attributable to B cells. Conversely, there was a significant, platelet-dependent reduction of sCD40L and RANTES mRNA expression. After a 3-day incubation with platelets, differentiated B cells increased their in vitro production of IgG1, IgG2, and IgG3, but not IgG4, IgA, or IgM.
+Conclusion
+
+These data emphasize the potentially important role of platelets in the adaptive immune response. Platelets have an immunoregulatory role that might be applied clinically in multitransfused patients (e.g., hematopoietic stem cell transplantation).

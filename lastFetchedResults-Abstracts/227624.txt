@@ -1,0 +1,11 @@
+Three-phase four-wire active power filters (APFs) are presented that can be paralleled to
+enlarge the system capacity and reliability. The APF employs the PWM four-leg voltage-source
+inverter. A decoupliiig control approacli for the leg connected to the neutral line is proposed
+such that the switching of all legs has no interaction. Functions of the proposed APF include
+coinpensation of reactive power, harmonic current, unbalanced power and zero-sequence current
+of the load. The objective is to achieve unity power factor, balanced line current and zero neutralline
+current. Compensation of all components is capacity-limited, co-operating with tlie cascaded
+load current sensing schenic. Multiple APFs can be paralleled to share tlie load power without
+requiring any control interconnection. In addition to providing the theoretic bases and detailed
+design of tlie APFs, two 6 KVA APFs are implemented. The effectiveness of the proposed method
+is validated with expcrimcntal results.

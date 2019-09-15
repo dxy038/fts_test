@@ -1,0 +1,11 @@
+Objective
+To quantify repetitive discharges of spinal motor neurons (repMNDs) in response to single transcranial magnetic stimuli (TMS). To assess their contribution to the size of motor evoked potentials (MEPs).
+Methods
+We combined the triple stimulation technique (TST) with an additional nerve stimulus in the periphery (=quadruple stimulation; QuadS). The QuadS eliminates the first action potential descending on each axon after TMS, and eliminates effects on response size induced by desynchronization of these discharges, thereby allowing a quantification of motor neurons (MNs) discharging twice. In some instances, a quintuple stimulation (QuintS) was used, to quantify the number of MNs discharging three times. Recordings were from the abductor digiti minimi of 14 healthy subjects, using two different stimulation intensities and three different levels of facilitatory muscle precontractions.
+Results
+The threshold to obtain repMNDs was high. Their maximal size differed markedly between subjects, ranging from 8 to 52% of all MNs. Stimulation intensity and facilitatory muscle contraction, but not resting motor threshold, correlated with the amount of repMNDs. QuintS never yielded discernible responses, hence all observed repMNDs were double discharges. RepMNDs contributed to the MEP areas, but did not influence MEP amplitudes.
+Conclusions
+QuadS and QuintS allow precise quantification of repMNDs. The threshold of repMNDs is high and varies considerably between subjects.
+Significance
+repMNDs have to be considered when MEP areas are measured. Their analysis may be of interest in neurological disorders, but standardized stimulation parameters appear essential
+

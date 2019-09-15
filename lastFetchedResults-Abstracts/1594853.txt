@@ -1,0 +1,6 @@
+Research in graph theory has focused on studying the structure of graphs with the assumption that they are static. However, in many applications, the graphs that arise change with time, i.e., they are dynamic in nature. This is especially true of applications involving graph models in computer science. We present an expository study of dynamic graphs with the main driving force being practical applications. We first develop a formal classification of dynamic graphs. This taxonomy in the form of generalizations and extensions will in turn suggest new areas of application. Next, we discuss areas where dynamic graphs arise in computer science such as compilers, databases, fault-tolerance, artificial intelligence, and computer networks. Finally, we propose approaches that can be used for studying dynamic graphs. The main objective in any study of dynamic graphs should be to 1.
+tend results developed for static graph theory to dynamic graphs,
+
+tudy the properties that describe how a dynamic graph changes,
+
+investigate problems and issues in dynamic graph theory that are raised by practical applications of dynamic graphs in computer science.

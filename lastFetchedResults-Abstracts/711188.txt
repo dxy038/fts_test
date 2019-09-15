@@ -1,0 +1,3 @@
+The main objective of this study is to determine lithology of one of the hydrocarbon reservoir in southern Iran.  In this study facies has been computed at each one of wells and facies of the most similar to lithofacies reservoir layers are used for Modeling .For this purpose at the first one acoustic impedance was modeled and a facies model in each of the wells with seismic inversion methods on the model (Model Based) using non-regulatory methods, neural network has been calculated.
+Comparison among these models showed that using cut off for determining Electro Facies and modeling them with Geostatistical gives better results than using of unsupervised neural network method for determining Electro Facies.
+

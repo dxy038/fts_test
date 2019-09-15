@@ -1,0 +1,1 @@
+The objective of this communication is to introduce an adaptive method for designing filters to compensate for nonlinear phase shift introduced into a data stream by fixed (i.e., nonadaptive) recursive digital filters, e.g., those obtained via the bilinear transform.

@@ -1,0 +1,12 @@
+This paper presents a new approach to determine the optimal location of an Optimal Unified
+Power Flow Controller (OUPFC) as an energy flow controller, under a single line contingency (N ?? 1
+contingency), to satisfy operational decisions. A contingency analysis is performed to detect and rank the
+faulted contingencies on the basis of their severity in electrical energy transmission systems. Minimization
+of the average loadability on all energy transmission lines is considered as the optimization objective
+function, while the network settings are set to minimize active power losses under pre-contingency
+conditions. The optimization problem is modeled using a Non-Linear Programming (NLP) framework and
+solved using the CONOPT solver. The proposed algorithm is implemented in MATLAB and GAMS software
+on the IEEE 14- and 30-bus test systems. The simulation results demonstrate the effectiveness of the
+proposed algorithm in enhancing energy system security under a single line contingency. Furthermore, the
+OUPFC is outperformed by a Unified Power Flow Controller (UPFC) in normal and contingency operations
+of electrical energy transmission systems, from technical and economical points of view.

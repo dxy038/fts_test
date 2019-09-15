@@ -1,0 +1,9 @@
+Objective
+To determine whether the compound STI571 (formerly known as CGP571418B), a selective inhibitor of the protein tyrosine kinase (PTK) activity of ABL and BCR-ABL proteins, preferentially reduces the capacity for amplification of granulocyte-macrophage progenitors (CFU-GM) from patients with chronic myeloid leukemia while sparing normal CFU-GM and to compare responses of CML and normal cells with STI571 and IFN-α.
+Materials and Methods
+Chronic phase CML and normal CFU-GM were grown with and without STI571, IFN-α, or the two agents in combination. Colonies were plucked and replated in 96-well microtiter plates. Secondary colonies were scored, and the results were expressed as the area-under-the-curve (AUC) of the distribution of secondary colony numbers per primary CFU-GM. This value gives an overall measure of the replating ability or amplification of the original CFU-GM population.
+Results
+STI571 selectively inhibits the formation of granulocyte-macrophage colony-forming cells (CFU-GM) from CML patients. It also significantly inhibits the amplification of CML CFU-GM (p = 0.002) as measured by secondary colony formation after replating primary CFU-GM colonies. In contrast, amplification of normal CFU-GM was enhanced (p = 0.001) at low concentrations (0.1 μM) of STI571 with a return to baseline at 10 μM STI571. Addition of interferon (IFN)-α to STI571 abolished the increase in normal CFU-GM amplification seen with either agent alone. There was a highly significant correlation between the in vitro response to STI571 and the in vitro response to IFN-α (r = 0.74 for CML cells, and 0.77 for normal cells).
+Conclusion
+We conclude that STI571, like IFN-α, preferentially suppresses amplification of CML CFU-GM while sparing normal CFU-GM.
+

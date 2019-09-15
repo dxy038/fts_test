@@ -1,0 +1,1 @@
+The method of sample-based minimax optimization is developed for the minimization problem with an uncertain quadratic objective function subject to linear constraints. Several examples based on confidence statistical estimation are considered to define the uncertainty set. Analytical and numerical techniques are proposed for finding the optimal robust strategy.

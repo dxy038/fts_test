@@ -1,0 +1,11 @@
+Objective. To evaluate significant differences in heel pad stiffness within a cohort of runners with diagnosed plantar heel pain and to explore the clinical importance of maximum heel pad stiffness values.
+
+Design. A cross-sectional design was used to quantify the heel pad stiffness of 166 runners with 33 diagnosed with plantar heel pain.
+
+Background. Palpation is still widely used to evaluate heel pad stiffness subjectively in everyday clinical practice. However, there is limited quantifiable data pertaining to heel pad stiffness measurements in runners and those with heel pain.
+
+Methods. A portable hand-held device measured force applied by a metal probe, and its displacement into the plantar surface of the heel pad. Non-linear modelling allowed curve coefficients b0 and b1 to be evaluated and was described by an exponential function using a non-linear regression equation. Exploratory analysis was used to describe a single-point approximation for clinical use.
+
+Results. An independent t-test demonstrated a statistically significant difference between the curve coefficient b1 (p<0.05). No significant difference was found for coefficient b0 between the plantar heel pain group and the non-plantar heel pain group (p>0.05). Exploratory analysis demonstrated maximum mean stiffness of 3.22 N/mm for the non-plantar heel pain group and 2.87 N/mm for the plantar heel pain-group, an 11% mean difference.
+
+Conclusion. The results suggested that heel pad stiffness may be associated with plantar heel pain subjects.

@@ -1,0 +1,10 @@
+Through the proposed model in this study, the production control with the consideration of
+workforce scheduling for advanced manufacturing systems becomes realistically and concretely solvable. This
+study not only meditates the concept of balancing machine productivity and human ability into the objective,
+but also implements Calculus of Variations to optimize the profit for a deterministic production quantity. In
+addition, the optimum solutions of dynamic productivity control and workforce scheduling are comprehensively
+provided. Moreover, the decision criteria for selecting the optimum solution and the sensitivity analysis of the
+critical variables are fully discussed. This study definitely contributes the applicable strategy to control the
+productivity and workforce in manufacturing and provides the valuable tool to conclusively optimize the profit
+of a machining project for operations research in today's manufacturing industry with profound insight.
+

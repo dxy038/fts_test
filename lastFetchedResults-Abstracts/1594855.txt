@@ -1,0 +1,5 @@
+We consider a scheduling problem in which n jobs are grouped into F groups and are to be processed on a single machine. A machine setup time is required when the machine switches from one group of jobs to the other. All jobs have a common due date that needs to be determined. The objective is to find an optimal common due date and an optimal sequence of jobs to minimize the sum of the cost of tardy jobs and the cost related to the common due date. We consider two cases: 1.
+e jobs have to be processed in groups; and
+
+he jobs do not have to be processed in groups.
+tical results are presented and computational algorithms are developed.

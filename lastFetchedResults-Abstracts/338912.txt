@@ -1,0 +1,11 @@
+Objective
+Ionizing radiation (IR) and busulfan (BU) are commonly used as preconditioning regimens for bone marrow transplantation (BMT). We examined whether induction of apoptosis in murine bone marrow (BM) hematopoietic cells contributes to IR- and BU-induced suppression of their hematopoietic function.
+Methods
+
+The hematopoietic functions of hematopoietic stem cells (HSCs) and progenitors were analyzed by the cobblestone area-forming cell (CAFC) assay. Apoptosis was determined by measuring 3,3′-dihexyloxacarbocyanine iodide (DiCO6) uptake, annexin V staining, and/or sub-G0/1 cells. Four cell types were studied: murine BM mononuclear cells (BM-MNCs), linage-negative hematopoietic cells (Lin− cells), Lin− Scal+ c-kit+ cells, and Lin− Scal− c-kit+ cells by flow cytometry.
+Results
+
+Exposure of BM-MNCs to IR (4 Gy) or incubation of the cells with BU (30 μM) resulted in a significant reduction in CAFC frequency (p<0.001). The survival fractions of various day-types of CAFC for the irradiated cells were less than 10%, while that for BU-treated cells was 71.3% on day 7 and progressively declined to 5.3% on day 35. Interestingly, IR significantly induced apoptosis in BM-MNCs, Lin− cells, HSCs, and progenitors, whereas BU failed to increase apoptosis in these cells. In addition, preincubation of BM-MNCs with z-Val-Ala-Asp (OCH3)-fluoromethylketone, methyl ester (z-VAD) attenuated IR-induced reduction in CAFC but not that induced by BU.
+Conclusion
+
+IR and BU differentially suppress the hematopoietic function of HSCs and progenitors by fundamentally different mechanisms. IR inhibits the function primarily by the induction of HSC and progenitor apoptosis. In contrast, BU suppresses HSC and progenitor function via an apoptosis-independent mechanism.

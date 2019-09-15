@@ -1,0 +1,1 @@
+The author investigate the synthesis of light fields in 3D domains by means of a singular value decomposition of the objective signal. The number of effective 3D degrees of freedom determines the feasible fields.

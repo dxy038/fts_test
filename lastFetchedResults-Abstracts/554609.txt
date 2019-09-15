@@ -1,0 +1,21 @@
+An Artificial Bee Colony (ABC) algorithm to
+optimal tune of the Power System Stabilizer (PSS) in a
+Single-Machine Infinite-Bus (SMIB) power system is
+proposed in this paper. In the ABC method the food
+foraging behavior, memorizing and information sharing
+characteristics of honey bee swarm is simulated to find
+the best possible solution within a reasonable
+computation time. The problem of robustly PSS design is
+formulated as an optimization problem according to the
+time domain-based objective function for a wide range of
+operating conditions and is solved by the ABC technique
+which is simple, robust and capable to solve difficult
+combinatorial optimization problems. The proposed ABC
+based PSS is tested on a SMIB power system through the
+nonlinear time domain simulation and some performance
+indices in comparison with the particle swarm
+optimization based tuned stabilizer and conventional PSS
+to illustrate its robust performance. Results evaluation
+show that the proposed stabilizer achieves good robust
+performance for wide range of system operation
+conditions and is superior to the other PSSs.

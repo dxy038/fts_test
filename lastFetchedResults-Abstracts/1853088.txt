@@ -1,0 +1,8 @@
+Objective
+ty is of key importance for autonomous living. Persons with severe disabilities may be assisted by robotic wheelchairs when manual control is not possible. However, these persons should contribute to control as much as they can to avoid loss of residual skills and frustration. Traditionally, wheelchair shared control approaches either give control to person or robot depending on the situation.
+s and materials
+pose a new shared control technique where robot and person contribute simultaneously to control. Their commands are weighted according to their respective local efficiencies and then combined via a reactive navigation strategy. Thus, assistance adapts to the user’s needs. We refer to this approach as collaborative control.
+s
+orative control was tested in a home environment in Fondazione Santa Lucia (Rome) by 18 volunteers presenting different degrees of physical and cognitive disability. All of them successfully finished a complex test path with assistance. Both users and caregivers’ opinion on the system was very positive. Acceptance was very good according to the psychosocial impact of assistive devices scale.
+sions
+orative control adapts to the person’s needs and assists him/her when necessary, locally compensating any problem related to specific disabilities. An ANOVA returned a p-value of 0.016, meaning that there is significant improvement in task performance when collaborative control is used.

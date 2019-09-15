@@ -1,0 +1,9 @@
+Background
+The optimal closure technique of median sternotomy remains controversial. The objective of this study was to analyze the structural response of the separated sternum using computer-based numerical discretization techniques, such as finite element methods.
+Methods
+Thoracic computer tomographic scans (2.5-mm slices) were segmented, analyzed by image processing techniques, and transferred into a three-dimensional finite element model. In a first approach a linear elastic material model was used; neglecting nonlinear and damage effects of the bones. The influence of muscles and tendons was disregarded. Nonlinear contact conditions were applied between the two sternal parts and between fixation wires and sternum. The structural response of this model was investigated under normal breathing and asymmetric leaning on one side of the chest. Displacement and stress response of the segmented sternum were compared regarding two different closure techniques (single loop, figure-of-eight).
+Results
+The obtained results revealed that for the normal breathing load case the single loop technique is capable of clamping the sternum sufficiently, assuming that the wires are prestressed. For asymmetric loading conditions, such as leaning on one side of the chest, the figure-of-eight loop can substantially reduce the relative longitudinal displacement between the two parts compared with the single loop.
+Conclusions
+The application of numerical simulation techniques using complex computer models enabled the determination of structural behavior of the chest regarding the influence of different closure techniques. They allowed easy and fast modifications and therefore, in contrast to a real physical model, in-depth parameter studies.
+

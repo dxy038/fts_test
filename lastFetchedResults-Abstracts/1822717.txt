@@ -1,0 +1,8 @@
+Objective
+development is regulated by the complex interplay of various regulatory molecules. To identify new regulatory genes released from the dental epithelium, gene expression profiling of dental epithelium was analysed.
+
+use dental epithelia were isolated from the initiation (E10.5) and bell (E16.5) stages, and microarray analysis was performed using Affymetrix GeneChip®. Microarray data were validated using reverse transcriptase polymerase chain reaction (RT-PCR), and gene ontology and signalling network were analysed.
+s
+ion signals more than 300 and changes more than two folds were considered as positive signals and were further analysed. Expressions of 193 genes in the E10.5 epithelium and 582 genes in the E16.5 epithelium were significantly increased. Validation of the selected genes using RT-PCR showed a well correlation with microarray data. Subsequent signalling network analysis revealed that at E10.5 and 16.5, nine genes such as histones, signalling molecules and transcription factors were closely related with neighbouring molecules. Moreover, gene ontology analysis showed that seven growth factors/receptors or secreted proteins were highly expressed at E10.5, including the platelet-derived growth factor, C polypeptide (Pdgfc), insulin-like growth factor binding protein 2 (Igfbp2) and Igfbp5. At E16.5, nine growth factors/receptors or secreted proteins, including Igfbp3, Igfbp10/Cyr61 and heparin-binding EGF-like growth factor (Hbegf) were highly expressed.
+sions
+data suggest that the regulatory genes newly identified in this study may play significant roles in tooth development.

@@ -1,0 +1,9 @@
+Objective. We compared long-term health outcomes associated with beta-adrenergic blocking agents and diltiazem treatment for unstable angina.
+
+Background. No long-term dat have been published comparing these two antianginal treatments in this setting.
+
+Methods. Eligible veterans were discharged from the Veterans Affairs Puget Sound Health Care System (VAPSHCS), Seattle Division, between October 1989 and September 1995 with an unstable angin diagnosis and were prescribed monotherapy beta-blocker or diltiazem treatment at discharge. Medication dat were collected from medical records and computerized VAPSHCS outpatient pharmacy files. Follow-up death and coronary artery disease rehospitalization dat were collected through 1996. Proportional hazards regression compared survival among diltiazem and beta-blocker users, controlling for patient characteristics with propensity scores.
+
+Results. Two hundred forty-seven veterans (24% on beta-blockers, 76% on diltiazem) were included in this study. There were 54 (22%) deaths during an average follow-up of 51 months. After propensity score adjustment, there was no difference in risk of death comparing diltiazem to beta-blocker treatment (hazards ratios [HR] 1.1; 95% confidence interval [CI] 0.49 to 2.4). Among Washington residents (n = 207), there were 146 (71%) coronary artery disease rehospitalizations or deaths during follow-up. After adjustment, there was  nonsignificant increase in risk of rehospitalization or death associated with diltiazem use (HR 1.4; 95% CI 0.80 to 2.4). For both analyses, similar risks were found among veterans without relative contraindications to beta-blockers.
+
+Conclusions. We found no survival benefit of diltiazem over beta-blocker treatment for unstable angin in this cohort of veterans.

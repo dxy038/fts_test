@@ -1,0 +1,1 @@
+For its high-end server VT800, Hitachi used SBTL (simultaneous bidirectional transceiver logic). This technology simplifies the implementation and reduces the cost of the crossbar switch in this symmetric-multiprocessing server. The paper discusses the system configuration of the VT800 and the use of SBTL

@@ -1,0 +1,1 @@
+Matching is a common problem in many areas of applications. In fuzzy systems, partial matching is allowed. Many similarity measures have been proposed for different fuzzy systems. The objective of this paper is to review some of these similarity measures. A comparison of some selected measures is also given

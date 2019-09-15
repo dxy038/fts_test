@@ -1,0 +1,23 @@
+The Frequency Assignment Problem is
+assignment of frequencies or channels to establish link
+between base station and mobile transmitter in cellular
+system. To avoid interference, minimum separation between
+assigned frequencies is required. This problem is NP-hard.
+Due to limited availability of spectrum and reuse of same
+frequencies at different geographical locations, an excellent
+assignment is to be done, which must satisfy electromagnetic
+constraints with respect to demand in each cell. This paper
+presents a novel DGWCHD algorithm for frequency
+assignment problem in cellular radio networks. The objective
+is to assign the frequency satisfying electromagnetic
+constraints for given demand with minimum use of frequency
+bandwidth. The proposed algorithm is based on real wild
+animal such as dog’s intelligent strategies during chasing and
+hunting their prey. The proposed algorithm is implemented
+on benchmark Kunz’s test problems, which are practical
+FAP problems based on area around 25 regions in Helsinki,
+Finland. The DGWCHD algorithm has been used for call
+ordering and FEA strategy for assignment. The performance
+of the proposed novel DGWCHD algorithm has been
+compared with other nature inspired techniques. The results
+obtained are very optimistic and encouraging

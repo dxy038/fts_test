@@ -1,0 +1,1 @@
+This paper presents the work that has been developed in parallel to the VISIR project. The objective of this new control model is to obtain a set of algorithms and systems that will be able to be deployed in remote labs focus on analog electronic regardless of the experiments and instruments included in the lab but with the performance provided by the VISIR platform.

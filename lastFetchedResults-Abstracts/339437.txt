@@ -1,0 +1,11 @@
+Objective
+Antiapoptotic Bcl-2 is overexpressed in most cases of chronic lymphocytic leukemia (CLL). The inhibition of the antiapoptotic Bcl-2 proteins is an attractive strategy for either restoring normal apoptotic process in cancer cells or making these cells more susceptible to conventional chemotherapy. We studied the effect of Bcl-2 inhibitors on the viability of cells from CLL and other mature B-cell neoplasms.
+Materials and Methods
+
+We studied the cytotoxic effects of four nonpeptidic cell-permeable Bcl-2 inhibitors (HA14-1, antimycin A, GX15-003, and GX15-070) on B cells from patients with CLL, mantle cell lymphoma (MCL), and splenic marginal zone lymphoma (SMZL). Moreover, we analyzed the effect of these inhibitors in combination with fludarabine or chlorambucil.
+Results
+
+HA14-1 induced apoptosis with an EC50 lower than 50 μM in 26 of the 36 CLL samples analyzed. The mean EC50 for these sensitive patients was 23 ± 2 μM. Antimycin A induced apoptosis in 13 of the 18 CLL samples analyzed. Both HA14-1 and antimycin A induced cytochrome c release from mitochondria and caspase-3 activation. Moreover, HA14-1 induced apoptosis in peripheral cells from MCL and SMZL. HA14-1 also induced apoptosis in CLL samples with alterations in p53 or ATM. Finally, GX compounds induced apoptosis in B cells from 9 of the 11 CLL samples tested. The combination of either HA14-1, antimycin A, or GX compounds with fludarabine or chlorambucil had additive cytotoxic effects on CLL cells.
+Conclusion
+
+Bcl-2 inhibitors induce apoptosis in CLL cells ex vivo and could be used in CLL as monotherapy or given in combination with current chemotherapy.

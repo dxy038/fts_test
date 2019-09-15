@@ -1,0 +1,8 @@
+We consider the NP-hard problem of assembly line balancing with station paralleling. We assume an
+arbitrary number of parallel workstations can be assigned to each stage. Every task requires a specified
+tooling/equipment, and this tooling/equipment should be available in all parallel workstations of the
+stage to which the task is assigned. Our objective is to find an assignment of tasks to stages so as to minimize
+sum of station opening and tooling/equipment costs. We propose two branch and bound algorithms:
+one for optimal solutions and one for near optimal solutions. We find that optimal solutions
+can be found quickly for medium sized problem instances; for larger sized problems we find high quality
+solutions in reasonable solution times.

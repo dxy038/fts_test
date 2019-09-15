@@ -1,0 +1,11 @@
+Objective
+Peptide and other small molecule agonists have been described for several cytokines and growth factors. Hydrazone compounds described here as thrombopoietin receptor agonists were identified as activating STAT proteins in a Tpo responsive cell line.
+Methods
+
+STAT activation and analysis of signal transduction pathways in cell lines and normal human platelets was elucidated by Western blot and electrophoretic mobility shift assays. Proliferation assays in cell types responsive to other cytokines determined specificity for Tpo receptor. Flow cytometry quantified differentiation of CD34+ cells into CD41+ megakaryocytes and platelet production in vitro.
+Results
+
+Activation of STAT5, mitogen-activated protein kinase, p38, and early response genes by SB 394725 was similar to that induced by Tpo. SB 394725 induced a reporter gene response under a STAT activation promoter as well as the megakaryocyte-specific gpIIb promoter. The compound induced proliferation of Tpo responsive lines but demonstrated no activity in cell lines responding to other cytokines, i.e., erythropoietin, granulocyte-colony stimulating factor, interleukin-3, interferon-γ. The response of normal human Tpo receptors was elucidated by measuring growth and differentiation of human bone marrow in vitro. Activation of endogenous Tpo receptors by SB 394725 was demonstrated in human and chimp platelets, but not in platelets of other species including mouse, dog, rabbit, or cynomolgus monkey.
+Conclusions
+
+SB 394725, a small molecule with a molecular weight of 452 Da, is capable of activating Tpo-specific signal transduction, proliferation, and differentiation responses similar to the responses and functions of the protein growth factor, Tpo.

@@ -1,0 +1,8 @@
+This paper presents some new sufficient conditions for the global robust asymptotic stability
+of the equilibrium point for bidirectional associative memory (BAM) neural networks
+with multiple time delays. The results we obtain impose constraint conditions on the network
+parameters of neural system independently of the delay parameter, and they are
+applicable to all bounded continuous non-monotonic neuron activation functions. We also
+give some numerical examples to demonstrate the applicability and effectiveness of our
+results, and compare the results with the previous robust stability results derived in the
+literature.

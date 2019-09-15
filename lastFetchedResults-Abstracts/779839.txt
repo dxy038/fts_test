@@ -1,0 +1,11 @@
+The International Institute for Educational Planning (IIEP) is a
+specialized institute of the United Nations Educational, Scientific
+and Cultural Organization (UNESCO). The objective is to make
+IIEP’s databases interoperable (in-house databases which include
+activity records, grey literature documents, institutional archives
+and the external bibliographic database) to allow the user to optimally
+retrieve resources. Initially, methodology used was based
+on an FRBRER model. To account for the processes of time and
+the complexity of the levels of work, FRBROO and CIDOC (Comit´e
+international pour la documentation) Conceptual Resource Model
+(CRM) were envisaged. Finally, an FRBROO model was developed.

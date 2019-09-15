@@ -1,0 +1,1 @@
+A novel optical bidirectional self-healing ring architecture is presented. It uses WDM to protect an SDH ring, allowing to fully exploit the bandwidth available in the STM-N signals and resulting in doubling the ring capacity.

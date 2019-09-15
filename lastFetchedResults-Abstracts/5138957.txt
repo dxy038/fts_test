@@ -1,0 +1,1 @@
+This paper deals with the dynamic behaviors of a tuberculosis (TB) model with disease-related death rate. The stability of the system is discussed by stability theory. The conditions of existence for transcritical bifurcation and Saddle-Node bifurcation are derived by using bifurcation theory. Finally, the numerical verifications of analytic results are done.

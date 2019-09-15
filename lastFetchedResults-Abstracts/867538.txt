@@ -1,0 +1,8 @@
+In general, optimization techniques involve numerous repeated objective function evaluations. As a consequence,
+optimization times can become very large depending on the complexity of the model to be
+optimized. This manuscript describes the development of an adaptive response surface method for optimization
+of computation-intensive models, capable of reducing optimization times. The response model
+to be optimized is not built from a pre-defined number of design experiments but is adapted and refined
+during the optimization routine. Different approximation models are applicable in combination with the
+developed optimization technique. The proposed optimization technique is evaluated on a standard test
+problem as well as a finite element model design optimization with multiple parameters.

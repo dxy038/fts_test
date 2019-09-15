@@ -1,0 +1,17 @@
+Background: Inclusion of inhomogeneity corrections in intensity modulated small
+felds always makes conformal irradiation of lung tumor very complicated in accurate
+dose delivery.
+Objective: In the present study, the performance of fve algorithms via Monte
+Carlo, Pencil Beam, Convolution, Fast Superposition and Superposition were evaluated in lung cancer Intensity Modulated Radiotherapy planning.
+Materials and Methods: Treatment plans for ten lung cancer patients previously planned on Monte Carlo algorithm were re-planned using same treatment planning indices (gantry angel, rank, power etc.) in other four algorithms.
+Results: The values of radiotherapy planning parameters such as Mean dose, volume of 95% isodose line, Conformity Index, Homogeneity Index for target, Maximum
+dose, Mean dose; %Volume receiving 20Gy or more by contralateral lung; % volume
+receiving 30 Gy or more; % volume receiving 25 Gy or more, Mean dose received by
+heart; %volume receiving 35Gy or more; %volume receiving 50Gy or more, Mean
+dose to Easophagous; % Volume receiving 45Gy or more, Maximum dose received by
+Spinal cord and Total monitor unit, Volume of 50 % isodose lines were recorded for
+all ten patients. Performance of different algorithms was also evaluated statistically.
+Conclusion: MC and PB algorithms found better as for tumor coverage, dose distribution homogeneity in Planning Target Volume and minimal dose to organ at risks
+are concerned. Superposition algorithms found to be better than convolution and fast
+superposition. In the case of tumors located centrally, it is recommended to use Monte
+Carlo algorithms for the optimal use of radiotherapy.

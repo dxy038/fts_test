@@ -1,0 +1,21 @@
+The objective of this paper is to illustrate the benefits
+of an autonomous fire-fighting robot design competition as an
+effective tool for undergraduate education. It presents experiences
+at the United States Air Force Academy, USAF Academy, CO;
+Pennsylvania State University–Abington; and Trinity College,
+Hartford, CT, together with the results of the contest surveys
+conducted in collaboration with The Technion—Israel Institute
+of Technology, Haifa. The primary goal of the design project is
+to create an autonomous mobile robot that navigates through
+a maze searching for a fire (simulated by a burning candle),
+detects the candle’s flame, extinguishes the flame, and returns
+to a designated starting location in the maze. The fire-fighting
+design contest promotes interdisciplinary design and teamwork.
+To accomplish the stated goal, students must integrate knowledge
+gained from such classes as engineering design, circuits, controls,
+signals and systems, computer programming, mathematics, and
+engineering mechanics. Within the three institutions, the contest
+has been successfully utilized as a foundation for a wide range
+of educational goals. These activities include freshman design,
+robotics courses, K–12 outreach, senior design projects, and
+undergraduate research.

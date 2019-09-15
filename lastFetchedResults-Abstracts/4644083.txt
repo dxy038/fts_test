@@ -1,0 +1,1 @@
+The paper presents a method to locate and extract Brazilian bank check logos automatically by employing mathematical morphology. The objective is to minimize the number of heuristic parameters to obtain the most precise possible segmentation in every situation, thereby allowing this approach to be reused in other applications. Trials and results are presented

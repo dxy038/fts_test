@@ -1,0 +1,1 @@
+Our objective here is to determine possible bifurcations in a one-machine-infinite bus (OMIB) power system model incorporating a TCSC. We develop from first principles the essential dynamic equations of the system. This approach identifies the bifurcations in the system

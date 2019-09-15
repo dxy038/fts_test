@@ -1,0 +1,11 @@
+Objective
+Green fluorescent protein (GFP) has been used to monitor and select cells transduced with vectors encoding other transgenes of interest. We investigated the immunogenic nature of GFP in humans and further explored whether this xenoprotein could be used as a functional adjuvant to enhance T-cell immunity to the melanoma tumor antigen MART1.
+Methods
+
+Peripheral blood lymphocytes from healthy donors were stimulated by autologous dendritic cells expressing GFP, then cloned by limiting dilution and tested for antigen specificity following coculture with GFP-expressing or GFP-negative targets. In a parallel experiment, lymphocytes from HLA A 0201+ healthy donors were stimulated with four different Melan-A/MART127-35 peptide-pulsed stimulators: 1) MART1 peptide-pulsed DCs, 2) MART1 peptide-pulsed DCs loaded with GFP protein, 3) MART1 peptide-pulsed GFP adenovirus–transduced DCs, and 4) MART1 peptide-pulsed null adenovirus–transduced DCs. The percentage of CD3+/CD8+ MART1 peptide-specific T cells was determined by intracellular cytokine staining for γ-IFN.
+Results
+
+Multiple CD4+ and CD8+ T cell clones were expanded which secreted γ-IFN and demonstrated high levels of cytotoxicity to GFP-expressing targets as assessed by ELISA and Cr51 release respectively. We next investigated the impact of GFP expression on DCs used to stimulate cytotoxic T cells specific for a tumor-associated peptide. The percentage of MART1-specific CD8+ T cells that were generated was higher when MART1-pulsed GFP adenovirus–transduced DCs were used as stimulators (28%) compared to MART1-pulsed DCs alone (11%, p = 0.01), MART1-pulsed null adenovirus–transduced DCs (11.7%, p = 0.02), or MART1-pulsed DCs loaded with GFP protein (12.2%).
+Conclusions
+
+These findings further support GFP's immunogenicity and suggest this xenoprotein might further be used to enhance the expansion of tumor-specific T cells.

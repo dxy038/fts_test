@@ -1,0 +1,1 @@
+In this paper two parameter-dependent control problems for linear, parametrically varying (LPV) systems are presented. Sufficient conditions for exponential stability and an induced L<inf>2</inf>-norm performance objective are given. The resulting synthesis problems are reformulated into convex optimization problems which can be solved with efficient new algorithms.

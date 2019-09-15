@@ -1,0 +1,1 @@
+We use the head-related transfer functions (HRTF) made available to the public by Gardner and Martin of MIT Media Laboratory. Our objective is to refine the HRTF so as to exaggerate the perceptual differences for the sounds coming from different directions, and emphasize the pinnae effects. With the refined HRTF, we demonstrate reduced front-back reversal rates

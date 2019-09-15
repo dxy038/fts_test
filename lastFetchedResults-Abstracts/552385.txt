@@ -1,0 +1,3 @@
+This paper proposes a novel technique for solving generation scheduling and ramp rate constrained unit commitment. A modified objective function associated with a new start-up cost term is introduced in this paper. The proposed method is used to solve generating scheduling problem satisfying SRR, minimum up and down time as well as ramp rate constraints. Two case studies are conducted to implement and show the effectiveness of the proposed method. One is a conventional 10-unit system and its multiples while the other is a 26-unit system with 24-h scheduling horizon. A comparison between the results of the proposed technique with those of some methods demonstrates a significant improvement.
+
+

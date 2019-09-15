@@ -1,0 +1,5 @@
+This paper presents a detailed experimental and numerical investigation on the structural behavior of stiffened composite panels subjected to in-plane shear loads. The experimental work includes the development of a test device for post-buckling analyses of laminated panels subjected to shear loads. The panels out-of-plane displacement field in the post-buckling regime was experimentally characterized using a non-contact 3-D optical device. A test procedure was proposed to obtain reliable and reproducible results. The following parameters were established: geometry and instrumentation of the specimens, test mechanisms, data acquisition procedures and analysis procedures for test data.
+
+The numerical objective of this work is to implement a modeling methodology for analysis of composite stiffened panels using finite elements. The proposed methodology takes into account large displacements and material nonlinearity effects by using a damage mechanics based progressive failure model.
+
+Preliminary results for tested specimens with the proposed configuration indicate that the stiffened composite shear webs have significant post-buckling strength.

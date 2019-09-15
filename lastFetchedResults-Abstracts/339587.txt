@@ -1,0 +1,11 @@
+Objective
+Endothelial progenitor cells (EPCs) are used for angiogenic therapies or as biomarkers to assess cardiovascular disease risk. However, there is no uniform definition of an EPC, which confounds EPC studies. EPCs are widely described as cells that coexpress the cell-surface antigens CD34, AC133, and vascular endothelial growth factor receptor-2 (VEGFR-2). These antigens are also expressed on primitive hematopoietic progenitor cells (HPCs). Remarkably, despite their original identification, CD34+AC133+VEGFR-2+ cells have never been isolated and simultaneously plated in hematopoietic and endothelial cell (EC) clonogenic assays to assess the identity of their clonal progeny, which are presumably the cellular participants in vascular regeneration.
+Methods
+
+CD34+AC133+VEGFR-2+ cells were isolated from human umbilical cord blood (CB) or granulocyte colony–stimulating factor–mobilized peripheral blood and assayed for either EPCs or HPCs.
+Results
+
+CD34+AC133+VEGFR-2+ cells did not form EPCs and were devoid of vessel forming activity. However, CD34+AC133+VEGFR-2+ cells formed HPCs and expressed the hematopoietic lineage-specific antigen, CD45. We next tested whether EPCs could be separated from HPCs by immunoselection for CD34 and CD45. CD34+CD45+ cells formed HPCs but not EPCs, while CD34+CD45− cells formed EPCs but not HPCs.
+Conclusions
+
+Therefore, CD34+AC133+VEGFR-2+ cells are HPCs that do not yield EC progeny, and the biological mechanism for their correlation with cardiovascular disease needs to be reexamined.

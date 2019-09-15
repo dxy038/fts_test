@@ -1,0 +1,9 @@
+background
+Studies of the surgeon's skill and the ergonomics of task performance in endoscopic surgery can be based on knot-tying tasks. The aim of this study was to establish an objective method for assessing the quality of surgical knots for use in such studies.
+methods
+In all, 2,700 surgeon's endoscopic knots were studied. Each knot was distracted using a tensiometer, and a computerized system analyzed force-extension curves. The breaking force was taken as an index of knot strength while the force integrated over the slope of the curve reflected knot tightening. A knot quality score (KQS) was obtained from the product of the knot-breaking force and the integrated force expressed as a percentage of the product for the untied ligature.
+results
+The mean breaking force (24 Newton ± 2.5) and integrated force (7.4 Newton ± 2.8) for broken knots were 71% and 35%, respectively, of those for united ligature. The integrated force yielded a narrower range of variability for untied ligature (SD 3.5% of mean) than for knots (SD 37% of mean). The KQS was higher for broken (25.3% ± 10.3%) than slipped knots (7.1% ± 5.1%).
+conclusion
+The KQS provides a reliable assessment of knot security and reflects the strength and degree of tightening of the knot.
+

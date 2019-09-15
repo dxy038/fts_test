@@ -1,0 +1,1 @@
+In this paper we design a Chaos Bidirectional Associative Memory (CBAM) network model based on Aihara chaos neuron for its sensitivity to noise. It includes an inside associative memory construct on its every layer. The simulation shows that the model improves the anti-noise ability of the BAM effectively.

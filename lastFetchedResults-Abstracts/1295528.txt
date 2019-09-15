@@ -1,0 +1,1 @@
+In a previous paper “A new bidirectional algorithm for shortest paths” we presented a bidirectional algorithm for finding the shortest path in a network. After the publication we designed an equivalent but shorter description for that algorithm. Due to this new description a considerably simpler proof is enabled. In this Note we discuss the new version with the related proof.

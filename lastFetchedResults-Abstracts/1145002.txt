@@ -1,0 +1,7 @@
+Acoustical porous materials like polymer foams or mineral wools are widely used in noise and vibration control. The acoustic efficiencies of these materials may be influenced by their elastic and damping properties. It is thus important to determine parameters such as Young’s or shear moduli, Poisson’s ratios and loss factors.
+
+The first objective of this paper is to present a comprehensive list of current available techniques and difficulties faced in the estimations of the elastic and damping parameters for acoustical porous materials. The second objective is to apply the maximum number of these methods to the characterization of a porous material and to discuss the results.
+
+In a first part, a brief recall of the mechanical behaviors of acoustical porous materials is given. This part includes a discussion on the influence of viscoelasticity and anisotropy often observed in porous materials. A description of experimental methods used for the elastic and damping characterizations of acoustical porous materials is also given. In total, three groups of quasistatic methods and six groups of dynamic methods are presented. Their main advantages and drawbacks are reported and discussed.
+
+In a second part, five of the presented methods are applied to a melamine foam to investigate the frequency and temperature dependences of its elastic and damping parameters. Characterization results are compared and discussed.

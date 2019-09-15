@@ -1,0 +1,8 @@
+Objective
+erized liver tumor segmentation on computed tomography (CT) images is a challenging problem. Level set methods have been proposed for CT liver and tumor segmentation. However, the common models using image gradient or region competition have inherent drawbacks, and are not very robust for liver tumor segmentation.
+s
+pose a new unified level set model to integrate image gradient, region competition and prior information for CT liver tumor segmentation. The probabilistic distribution of liver tumors is estimated by unsupervised fuzzy clustering, and is utilized to enhance the object indication function, define the directional balloon force and regulate region competition. This unified model has been evaluated on 25 two-dimensional (2D) CT scans and 4 three-dimensional (3D) CT scans with 10 tumors.
+s
+e 2D dataset, the area overlapping error (AOE) is 12.75 ± 5.76%, the relative area difference (RAD) is −4.28 ± 9.58%, the average contour distance (ACD) is 1.66 ± 1.09 mm, and the maximum contour distance (MCD) is 4.29 ± 2.75 mm. For the 3D dataset, the volume overlapping error (VOE) is 26.31 ± 5.79%, the relative volume difference (RVD) is −10.64 ± 7.55%, the average surface distance (ASD) is 1.06 ± 0.38 mm, and the maximum surface distance (MSD) is 8.66 ± 3.17 mm. All results are competitive with that of the state-of-the-art methods.
+sion
+w unified level set model is an effective solution for liver tumor segmentation on contrast-enhanced CT images.

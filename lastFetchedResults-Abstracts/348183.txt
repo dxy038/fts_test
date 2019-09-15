@@ -1,0 +1,11 @@
+Objective
+Conventional electrical stimulation (rectangular pulses) recruits large before small diameter motor neurons and motor neurons close to the electrode before more distant motor neurons. The present study investigated the possibility for changing the recruitment order of electrical stimuli with sub-threshold ramp prepulses.
+Methods
+The median nerve was stimulated using surface electrodes at the wrist and elbow. Compound motor action potentials were recorded from abductor pollicis brevis and flexor carpi radialis. Stimulus–response curves, nerve conduction velocity and excitation thresholds of abductor pollicis brevis and flexor carpi radials, with and without ramp prepulses, were recorded in order to study the effect of ramp prepulses on axonal excitability.
+Results
+The conduction velocity of the initial response (10% of the maximal response) was decreased by 4.3±0.83 m/s with ramp prepulses (500 ms, 80% of the excitation threshold). The ramp prepulses also had a differential effect on the excitation thresholds of abductor pollicis brevis and flexor carpi radialis. In addition, ramp prepulses increased the threshold of 10% of the maximal response more than the threshold of 90% of the maximal response.
+Conclusions
+These results demonstrate that large diameter and motor neurons close to the electrode accommodate more to ramp prepulses than small diameter and distant motor neurons, which suggests that ramp prepulses may be used to change the recruitment order of rectangular pulses.
+Significance
+This technique of ramp prepulses allows stimulation of alternate subsets of motor nerves.
+

@@ -1,0 +1,11 @@
+The cumulative count of a conforming (CCC) control chart is used for high quality
+processes.The CCC ? r chart is an improvement of the CCC chart that is based on the
+cumulative number of items inspected until observing r non-conforming ones. This
+paper aims to propose a new approach for manufacturer’s decision making according
+to the criteria among the available options. The objective function of the proposed
+model is to minimize three criteria simultaneously, including expected cost per
+hour(C), modified producer risk (PR) and modified consumer risk (CR). The solution
+method for the proposed model is designed by using AHP technique. A case study is
+showed in numerical illustration section. In addition, sensitivity analysis is performed
+to illustrate the impact of input parameters on the optimal solutions of the proposed
+model.

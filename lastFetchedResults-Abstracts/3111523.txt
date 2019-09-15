@@ -1,0 +1,1 @@
+This paper presents a stochastic neural approach to the problem of determining the global extremum of multivariable, non-linear objective functions subject to constraints. The approximate value of the global extremum is found by using a special transformation followed by neural least squares estimation.

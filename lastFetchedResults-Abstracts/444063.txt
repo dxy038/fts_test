@@ -1,0 +1,11 @@
+Background
+The ideal objective assessment method for laparoscopic technical skills is difficult to achieve in the operating room. Recent “VR2OR” studies have used a blinded, 2-reviewer error-based video tape analysis for intraoperative performance assessment. This study examines the validity of this methodology applied to laparoscopic intracorporeal suturing and knot tying.
+Methods
+
+Four groups of subjects—experts (EX), surgery residents trained to expert criterion levels using simulation (TR), surgery residents receiving no supplemental training (NR), and medical students receiving simulation-based training (MS)—performed the fundal suturing portion of a laparoscopic Nissen fundoplication and were video-recorded for analysis. Two separate groups of surgeon reviewers (K.V.S. + M.B.; I.-P.H. + A.G.) were trained to evaluate laparoscopic suturing and knot tying performance using specific metrics. Subjects' operative performance was assessed by reviewers blinded to their training status and scored using an error-based, step specific scoring system to an inter-rater agreement of 80% or greater. Three primary performance measures were assessed: time, errors, and needle manipulations and comparisons between groups were made using a 1-way analysis of variance (ANOVA) with post-test.
+Results
+
+A total of 40 fundal sutures (10 in each group) were scored by 2 separate rater groups with inter-rater agreement consistently greater than 80%. Inter-rater agreement was highest with the EX group (91%, range 76%–100%) and lowest with the NR group (85%, range 81%–98%). On average, the EX group significantly outperformed the other groups with regards to time (P <.0001), errors (P <.002), and needle manipulations (P <.01). Performance of the TR group was comparable to the EX group with regards to errors and manipulations (P = not significant [NS]), and outperformed the NR and MS groups with regards to time (P <.05 and P <.001). Performance between the NR and MS groups were similar for all 3 measures.
+Conclusions
+
+This assessment method demonstrates discriminative validity. Time appears to be the most sensitive indicator of skill level, as significant differences between EX, TR, and NR/MS groups were seen. The methodology is transferable across different reviewers and is acceptable for high-stakes assessment.

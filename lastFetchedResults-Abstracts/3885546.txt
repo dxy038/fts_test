@@ -1,0 +1,1 @@
+The minimal number of times for using a pair for training to guarantee recall of that pair among a set of training pairs is derived for a bidirectional associative memory

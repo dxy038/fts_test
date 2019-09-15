@@ -1,0 +1,11 @@
+Objective
+Human blood platelets are easily available physiologic target cells for thrombopoietin (TPO). TPO up-regulates platelet aggregation and α-granule secretion induced by various agonists. We investigated the role of phosphatidylinositol 3-kinase (PI3K) and its association with Gab1 in TPO-mediated up-regulation of platelet function.
+Materials and Methods
+
+PI3K inhibitors (wortmannin and LY294002) and a MAP/ERK-kinase (MEK) inhibitor (PD98059) were used to investigate the role of these kinases in TPO-mediated up-regulation of platelet function. To elucidate the molecules associated with PI3K, we performed immunoprecipitation and pull-down experiments followed by immunoblotting. In vitro kinase assay also was performed to detect extracellular signal-regulated kinase (ERK) kinase activity.
+Results
+
+TPO up-regulated platelet α-granule secretion and aggregation induced by thrombin, which was dose-dependently inhibited by preincubation with wortmannin or LY294002. Immunoprecipitation and pull-down experiments revealed that regulatory subunit of PI3K, p85, was rapidly associated with tyrosine-phosphorylated Gab1 via its n- and c-terminal SH2 domains. Pretreatment of platelets with TPO dramatically augmented the thrombin-induced ERK activation, which was almost completely inhibited by LY294002. Furthermore, a MEK inhibitor, PD98059, not completely but significantly inhibited TPO-mediated up-regulation of thrombin-induced α-granule secretion.
+Conclusion
+
+TPO induces the association of tyrosine-phosphorylated Gab1 with p85-PI3K. In downstream signaling, ERK is PI3K-dependently activated, which plays a critical role for TPO-mediated up-regulation of platelet function.

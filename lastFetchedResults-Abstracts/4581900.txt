@@ -1,0 +1,1 @@
+This paper proposes the variables screening technique based on the stepwise multiple regression in multi-objective design optimization. This approach enables us to efficiently select the design variables that have a sufficient effect on machine performance. Some numerical results that demonstrate the validity of the proposed method are also presented

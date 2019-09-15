@@ -1,0 +1,14 @@
+Developing future weapons systems has become increasingly complicated and costly. The armed forces
+of major nations use modeling and simulation techniques for new weapons systems from the conceptual
+stage to design, production, deployment and training stages to shorten the development cycle and
+guarantee their effectiveness. Failure in the development cycle carries too much loss in time and
+money. Therefore, computer-based modeling and simulation techniques are applied from the conceptual
+stage to gauge the efficacy of new weapons systems. The objective of this study is to develop a
+modeling and simulation methodology for small scale engagement using the DEVS formalism. The entities
+required for modeling and simulation are divided into three categories: combat, logical, and environmental
+entities. Combat entities represent the military hardware or combatants; logical entities
+represent the judgment and decision entities for the interaction between various entities; and environmental
+entities emulate the constituents of real combat environment. The combat entities are further
+modeled into Shell and Core Parts to maximize their reusability under various combat scenarios. The
+proposed framework is verified using a one-on-one combat engagement simulation (written in C++)
+between two submarines.

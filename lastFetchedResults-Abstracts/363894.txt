@@ -1,0 +1,9 @@
+Study objective
+We examine the performance of 4 clinical prediction rules prognostic of short-term fatal and hospital-based nonfatal outcomes in heart failure patients.
+Methods
+We used a retrospective cohort of 33,533 adult patients admitted to Pennsylvania hospitals in 1999 with a diagnosis of heart failure. We stratified patients into risk categories defined by each clinical prediction rule. We assessed prognostic accuracy according to sensitivity and specificity and compared discriminatory power according to area under the receiver operating characteristic (ROC) curves. The outcomes were inpatient death, 30-day mortality, and death or serious medical complications before hospital discharge.
+Results
+The 4 rules each created risk groups of various proportions and frequencies of outcomes. The proportion of patients assigned to the lowest risk group ranged from 13.3% to 73.0%. The rates of inpatient death or complications in the lowest risk group ranged from 6.7% to 9.2%, and 30-day death rates varied from 1.7% to 6.0%. Patients categorized at the highest risk of death or complication demonstrated similar variability. The area under the ROC curve for inpatient death and complications differed only slightly among rules (0.58 to 0.62). The area under the ROC curve for fatal outcomes tended to be higher and differed among rules (0.59 to 0.74)
+Conclusion
+Current acute heart failure prediction rules offer varying ability to predict short-term death or serious outcomes. Although each creates a risk gradient, differences in risk-group proportions and outcome frequencies should drive rule selection or use in clinical practice.
+

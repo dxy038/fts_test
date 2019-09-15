@@ -1,0 +1,1 @@
+A novel decoder for a space-time trellis code (STTC) used in a TDMA downlink is developed which performs adaptive decoding with bidirectional per-survivor processing and soft-decision. Simulation results are given, which demonstrate the system performance improvement which can be realised using this proposed decoder

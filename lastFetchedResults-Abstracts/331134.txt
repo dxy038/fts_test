@@ -1,0 +1,11 @@
+Objective
+Different approaches are utilized to quantify the wear generated on flat specimens with a wear simulator. However, there are no systematic studies comparing different wear quantification methods with a series of materials that exhibit different wear rates.
+Methods
+
+Sixteen restorative materials, including 14 composites (BelleGlass, Chromasit, Estenia, Esthet-X, Four Seasons, Heliomolar RO, Heliomolar HB, Herculite XRV, InTen-S, Point 4, SureFil, Targis cured at 95 and 130 °C, Tetric Ceram) as well as an amalgam (Amalcap) and a ceramic (Empress) material, were subjected to attrition wear against standardized Empress antagonists in the Willytec wear simulator (120,000 cycles, 5 kg, 1.6 Hz). The volume and maximal vertical loss were quantified directly on the specimens with a profilometry device (Perthometer) and the FRT MicroProf optical sensor. After the fabrication of plaster replicas, the loss was also determined with a 3D laser scanning device. For the statistical analysis, the data were subjected to a logarithmic transformation. Intraclass correlation was calculated to measure the agreement among all three methods, while limits of agreement were used to compare one method against another.
+Results
+
+There was a very good agreement between all three quantification methods for both volume and vertical loss. The mechanical sensor measured consistently higher values compared to the optical sensors for the volume loss (correction factor 0.95), whereas for the vertical loss, consistently lower values were obtained (correction factor 1.17). However, the ranking of the materials was only marginally influenced by the quantification method.
+Significance
+
+All three sensors are suitable for the quantification of wear facets. Due to speed and simplicity, the laser sensor has greater advantages over the two other sensors.

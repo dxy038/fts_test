@@ -1,0 +1,1 @@
+Time-interleaved phase remodulation is proposed to realize broadcast transmission for WDM-PONs. Simultaneous transmission of 5-Gb/s bidirectional unicast data and broadcast data is demonstrated at the same carrier wavelength over a 20-km SMF.

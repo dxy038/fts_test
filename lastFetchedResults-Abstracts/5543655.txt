@@ -1,0 +1,1 @@
+A multi-objective genetic algorithm is presented for designing microstructured fibres. A new binary encoded variable length representation is used, with a growth process ensuring the generation of these complex designs which automatically satisfy manufacturing constraints.

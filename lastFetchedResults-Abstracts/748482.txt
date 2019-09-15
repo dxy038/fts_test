@@ -1,0 +1,9 @@
+The main objective of this paper is to prove in full generality the following two facts:
+
+A. For an operad image in Ab, let A be a simplicial image-algebra such that Am is generated as an image-ideal by image, for m>1, and let image be the Moore complex of A. Thenimagewhere the sum runs over those partitions of [m−1], I=(I1,…,Ip), p≥1, and γ is the action of image on A.
+
+B. Let G be a simplicial group with Moore complex image in which Gn is generated as a normal subgroup by the degenerate elements in dimension n>1, then image, for I,Jsubset of or equal to[n−1] with Iunion or logical sumJ=[n−1].
+
+In both cases, di is the i-th face of the corresponding simplicial object.
+
+The former result completes and generalizes results from Akça and Arvasi [I. Akça, Z. Arvasi, Simplicial and crossed Lie algebras, Homology Homotopy Appl. 4 (1) (2002) 43–57], and Arvasi and Porter [Z. Arvasi, T. Porter, Higher dimensional Peiffer elements in simplicial commutative algebras, Theory Appl. Categ. 3 (1) (1997) 1–23]; the latter completes a result from Mutlu and Porter [A. Mutlu, T. Porter, Applications of Peiffer pairings in the Moore complex of a simplicial group, Theory Appl. Categ. 4 (7) (1998) 148–173]. Our approach to the problem is different from that of the cited works. We have first succeeded with a proof for the case of algebras over an operad by introducing a different description of the inverse of the normalization functor image. For the case of simplicial groups, we have then adapted the construction for the inverse equivalence used for algebras to get a simplicial group image from the Moore complex image of a simplicial group G. This construction could be of interest in itself.

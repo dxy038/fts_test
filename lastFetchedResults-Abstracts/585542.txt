@@ -1,0 +1,9 @@
+The bi-objective warehouse problem in a crisp environment is often
+not eective in dealing with the imprecision or vagueness in the values of
+the problem parameters. To deal with such situations, several researchers have
+proposed that the parameters be represented as fuzzy numbers. We describe
+a new algorithm for fuzzy bi-objective warehouse problem using a ranking
+function followed by an application of tabu search. The method is illustrated
+on a numerical example, demonstrating the eectiveness of the tabu search
+method. Numerical results are compared for both fuzzy and crisp versions of
+the problem.

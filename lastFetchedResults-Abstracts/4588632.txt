@@ -1,0 +1,1 @@
+An automatic mesh generator of triangular finite elements, based on an artificial neural network (ANN), is optimized by means of genetic algorithms. The optimization concerns the various parameters which are defined in the generator, whereas the objective function is related to the mesh quality. By means of this optimization the generator obtains very high-quality meshes

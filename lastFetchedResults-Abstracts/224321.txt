@@ -1,0 +1,15 @@
+The Static Var Compensator (SVC),
+Contyollable Series Compensator (CSC) and Phase Shifter
+(PS) are three of the options of power electronic devices,
+referred to as FACTS (Flexible AC Transmission Systems)
+devices. They are becoming of increasing importance in
+suppressing power system oscillations and improving
+system damping. In this paper, a unified model of a power
+system installed with these three FACTS devices is
+established. Their effectiveness in suppressing power
+system oscillations is investigated by analysing their
+damping torque contributions to the power system. The
+work in this paper relies on the theoretical analysis of a
+general single-machine infinite-bus power system where
+the objective is to present an insight into the operation of
+the damping control of the FACTS devices.

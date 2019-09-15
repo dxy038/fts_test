@@ -1,0 +1,1 @@
+In this paper we overview the so-called Linear-Quadratic-Gaussian method with Loop-Tranfer-Recovery (LQG/LTR). Our objective is to provide a pragmatic exposition, with special emphasis on the step-by-step characteristics for designing multivariable feedback control systems.

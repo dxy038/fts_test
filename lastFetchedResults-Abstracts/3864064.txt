@@ -1,0 +1,1 @@
+New Web technologies will improve Internet-based SCADA systems. Using Java and XML, we propose a software design for a Web-integrated SCADA system using the standard UML designs approach. The objective of this paper was to design and develop a Java-based control system that will enable the control of some laboratory equipment from remote locations.

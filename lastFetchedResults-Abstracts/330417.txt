@@ -1,0 +1,7 @@
+Objective:  The purpose of this study was to analyse the composition of representative dentin primers and bonding agents, and to investigate the relationship between chromatographic retention times and partition coefficient (log P) values.
+
+Methods: Dentin bonding systems (DBS) were analysed with reversed phase high-performance liquid chromatography (HPLC). The log P values were obtained computationally with the advanced chemistry development software.
+
+Results: The DBS were analysed and the monomers were identified. The log P values were calculated and the relationship between log P and retention times for the monomers was described by the equation: log P=2.436R(t)−3.636, with a correlation value (r) of r=0.9095.
+
+Significance: The components of the DBS were successfully resolved and identified, thus illustrating the analytical power of HPLC regarding those systems. Also the log P values correlated with the retention times of monomers. Thus, they can be used as a prediction tool in future analysis. These findings are important for a mechanistic understanding of Primer and Adhesive actions in the bonding to the dentin.

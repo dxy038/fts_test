@@ -1,0 +1,1 @@
+This paper presents an alternative methodology to identify the electrical and mechanical parameters of an induction machine, based on frequency response and multi-objective optimization techniques. The proposed methodology is validated by simulation results using MatLab/Simulink environment.

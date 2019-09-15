@@ -1,0 +1,11 @@
+Objective
+To characterize how interleukin-3 and erythropoietin regulate cell fate by modulating the expression of lineage-specific transcription factors.
+Methods
+
+This study analyzed mRNA and protein levels, gene transcription rates, and mRNA and protein stabilities of erythroid-specific transcription factors in lineage-restricted cells derived from the 32D cell line cultured either in interleukin-3 or erythropoietin.
+Results
+
+Erythroid 32D subclones expressed levels of Id1, Gata-2, and Scl comparable and levels of Eklf and Gata-1 higher than those expressed by myeloid subclones. While maintained in interleukin-3, erythroid cells remained immature despite their high expression of Gata-1, Gata-2, Scl, Eklf, and Id1. Switching the erythroid cells to erythropoietin induced cell maturation (within 48 hours) and reduced expression of Gata-2 and Id1 (in 24 hours) but did not alter the expression of Gata-1. The effects of interleukin-3 were mostly mediated by increases in transcription rates (Scl and Gata-2), and that of erythropoietin was apparently due to increased mRNA and protein (Gata-1, Scl, and Eklf) stability. In particular, erythropoietin increased the stability of the processed and transcriptionally more active form of GATA-1 protein.
+Conclusions
+
+These results suggest that interleukin-3 and erythropoietin cooperate to establish the lineage-specific transcription factor milieu of erythroid cells: interleukin-3 regulates mainly gene transcription and erythropoietin consistently increases mRNA and protein stability.

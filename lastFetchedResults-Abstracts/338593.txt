@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to address the involvement of CDK activating kinase (CAK), p53, and MDM2 proteins in the mitotic arrest associated with the acquisition of a polyploid DNA content during megakaryocyte differentiation of human erythroleukemia (HEL) cells.
+Methods
+To evaluate this mechanism we investigated HEL cells as a model system in which there is a marked increase in DNA content during megakaryocyte differentiation induced by phorbol-diesters. Specific cell-cycle phases were separated by centrifugal elutriation and SDS PAGE and Western analysis were performed to determine the relative abundance of these proteins. Kinase assays were carried out following immunoprecipitation of cellular lysates with the antibodies to the proteins.
+Results
+Polyploid HEL cells show an increase in the abundance of the CAK complex proteins, CDK7 and cyclin H, and a sixfold increase in CAK-specific activity. Increased CAK activity in polyploid HEL cells follows both the downregulation of p53 protein and its decreased association with CAK complex. Consistent with the reduction of p53, polyploid HEL cells undergo a dramatic increase in MDM2 protein abundance that in turn facilitates increased interaction of this protein with p53.
+Conclusion
+These observations demonstrate that deregulated expression of MDM2 and p53 during megakaryocyte differentiation allow a relaxation of the control over genomic stability, allowing further replicative rounds of DNA synthesis.
+

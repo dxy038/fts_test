@@ -1,0 +1,11 @@
+Objective
+A substantial body of evidence implicates the cytoplasmic protein tyrosine kinase Fps/Fes in regulation of myeloid differentiation and survival. In this study we wished to determine if Fps/Fes also plays a role in the regulation of erythropoiesis.
+Methods
+
+Mice tissue-specifically expressing a “gain-of-function” mutant fps/fes transgene (fpsMF) encoding an activated variant of Fps/Fes (MFps), were used to explore the in vivo biological role of Fps/Fes. Erythropoiesis in these mice was assessed by hematological analysis, lineage marker analysis, bone-marrow colony assays, and biochemical approaches.
+Results
+
+fpsMF mice displayed reductions in peripheral red cell counts. However, there was an accumulation of immature erythroid precursors, which displayed increased survival. Fps/Fes and the related Fer kinase were both detected in early erythroid progenitors/blasts and in mature red cells. Fps/Fes was also activated in response to erythropoietin (EPO) and stem cell factor (SCF), two critical factors in erythroid development. In addition, increased Stat5A/B activation and reduced Erk1/2 phosphorylation was observed in fpsMF primary erythroid cells in response to EPO or SCF, respectively.
+Conclusions
+
+These data support a role for Fps/Fes in regulating the survival and differentiation of erythroid cells through modulation of Stat5A/B and Erk kinase pathways induced by EPO and SCF. The increased numbers and survival of erythroid progenitors from fpsMF mice, and their differential responsiveness to SCF and EPO, implicates Fps/Fes in the commitment of multilineage progenitors to the erythroid lineage. The anemic phenotype in fpsMF mice suggests that downregulation of Fps/Fes activity might be required for terminal erythroid differentiation.

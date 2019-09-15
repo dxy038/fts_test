@@ -1,0 +1,1 @@
+We present a 2.3-Tbit/s network switching element by exploiting double-pass LCoS technology and bidirectional nonlinear effects inside a single HNLF. We demonstrate 2.3-Tbit/s grooming switch with simultaneous functions of add/drop, data exchange, and power equalization, for 23-channel 100-Gbit/s RZ-DQPSK signals.

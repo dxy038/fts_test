@@ -1,0 +1,10 @@
+Background
+gia assessment involves diagnosis of individual swallows in terms of the depth of airway invasion and degree of bolus clearance. The videofluoroscopic swallowing study is the current gold standard for dysphagia assessment but is time-consuming and costly. An ideal alternative would be an automated abnormal swallow detection methodology based on non-invasive signals.
+ive
+ng upon promising results from single-axis cervical accelerometry, the objective of this study was to investigate the combination of dual-axis accelerometry and nasal airflow for classification of healthy and abnormal swallows in a patient population with dysphagia.
+s
+s were acquired from 24 adult patients with dysphagia (17.8 ± 8.8 swallows per patient). The abnormality of each swallow was quantified using 4-point videofluoroscopic rating scales for its depth of airway invasion, bolus clearance from the valleculae, and bolus clearance from the pyriform sinuses. For each scale, we endeavored to automatically discriminate between the 2 extreme ratings, yielding 3 separate binary classification problems. Various time, frequency, and time-frequency domain features were extracted. A genetic algorithm was deployed for feature selection. Smoothed bootstrapping was utilized to balance the two classes and provide sufficient training data for a multidimensional feature space.
+s
+idean linear discriminant classifier resulted in a mean adjusted accuracy of 74.7% for the depth of airway invasion rating, whereas Mahalanobis linear discriminant classifiers yielded mean adjusted accuracies of 83.7% and 84.2% for bolus clearance from the valleculae and pyriform sinuses, respectively. The bolus clearance from the valleculae problem required the lowest feature space dimensionality. Wavelet features were found to be most discriminatory.
+sions
+xploratory study confirms that dual-axis accelerometry and nasal airflow signals can be used to discriminate healthy and abnormal swallows from patients with dysphagia. The fact that features from all signal channels contributed discriminatory information suggests that multi-sensor fusion is promising in abnormal swallow detection.

@@ -1,0 +1,10 @@
+In practical engineering design problems, there are some design and manufacturing considerations that are difficult
+or infeasible to express in terms of an objective function or a constraint. Among them, we pay attention to the topological
+complexity of optimized designs which are difficult to quantify. In this situation, a set of optimal candidate
+designs having different topological complexities, not just a single optimal design, is preferred. In this work, the mean
+spatial frequency is proposed as a means to measure the topological complexity of an optimized design. To maximize
+the system performance and to control the mean spatial frequency, the topology design optimization in the M-band
+wavelet transformed multiscale design space is proposed. In the proposed scheme, the mean frequency is controlled
+effectively by choosing different design space resolution in the multiscale design space, and the performance maximization
+is treated as the objective function of the topology optimization. The procedure to transform the original design
+space into the multiscale design space by the M-band Daubechies wavelet is also explained in some details.

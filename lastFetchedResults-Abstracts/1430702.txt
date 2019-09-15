@@ -1,0 +1,1 @@
+In this paper a systematic process has been proposed to solve a fully fuzzy multi objective linear programming problem (FFMOLPP). Using the utility vector the MOLPP is transferred to a single objective programming and this single fuzzy object problem is simply solved by one of the fuzzy approaches.A numerical example is then given to show applicability of the proposed approach.

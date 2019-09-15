@@ -1,0 +1,9 @@
+Study objective
+Our aim is to develop a risk-stratification model for use by emergency department (ED) clinical staff in the assessment of patients attending with self-harm.
+Methods
+Participants were patients who attended 5 EDs in Manchester and Salford, England, after self-harm between September 1, 1997, and February 28, 2001. Social, demographic, and clinical information was collected for each patient at each attendance. With data from the Manchester and Salford Self-Harm Project, a clinical decision rule was derived by using recursive partitioning to discriminate between patients at higher and lower risk of repetition or subsequent suicide occurring within 6 months. Data from 3 EDs were used for the derivation set. The model was validated with data from the remaining 2 EDs.
+Results
+Data for 9,086 patients who presented with self-harm were collected during this study period, including 17% that reattended within 6 months and 22 patients who died by suicide within 6 months. A 4-question rule, with a sensitivity of 94% (92.1-95.0% [95% confidence interval]) and specificity of 25% (24.2-26.5% [95% confidence interval]), was derived to identify patients at higher risk of repetition or suicide.
+Conclusion
+Application of this simple, highly sensitive rule may facilitate assessment in the ED and help to focus psychiatric resources on patients at higher risk.
+

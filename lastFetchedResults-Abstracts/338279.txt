@@ -1,0 +1,11 @@
+Objective
+The goal of this study was to transfer by retroviral vector the cDNA for ankyrin to progenitors from normal bone marrow and from the nb/nb spherocytosis mutant deficient in expression of full-length ankyrin to achieve erythroid expression of functional ankyrin protein.
+Materials and Methods
+
+A minigene composed of the human ankyrin promoter, murine ankyrin cDNA, and the 3′ human domain corresponding to the ankyrin 2.2 isoform was assembled in the retroviral vector, pG1. Murine erythroleukemia (MEL) cells, normal murine bone marrow cells, 3T3 fibroblasts, and nb/nb mutant bone marrow and spleen cells were transduced with the retroviral supernatant. Transduced mutant cells were induced to differentiate in liquid culture. Gene transfer was assessed by colony polymerase chain reaction (PCR) and reverse transcriptase (RT)-PCR, immunofluorescence, and Southern, Northern, and Western blot analysis.
+Results
+
+MEL cells, normal bone marrow progenitors, and nb/nb cells were all successfully transduced and expressed ankyrin by RT-PCR and Western blot. Transduced murine 3T3 fibroblasts and MEL cells exhibited cell membrane staining by immunofluorescence. Colony RT-PCR demonstrated dependence of expression on erythropoietin. In vitro, the transduced nb/nb cells matured to polychromatophils, whereas nontransduced nb/nb cells matured to microspherocytes.
+Conclusion
+
+Retroviral transfer of ankyrin corrected the defect leading to formation of microspherocytes in erythroid differentiation cultures from the nb/nb mutant. The human ankyrin promoter conferred erythropoietin-dependent expression in normal and mutant erythroid progenitors, which could have implications for the gene therapy of human hemolytic anemias.

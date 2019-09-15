@@ -1,0 +1,7 @@
+Currently, there are no established objective biomarkers for the diagnosis or monitoring of schizophrenia. It has been previously reported that there are notable qualitative differences in the speech of schizophrenics. The objective of this study was to determine whether a quantitative acoustic and temporal analysis of speech may be a potential biomarker for schizophrenia.
+
+s study, 39 schizophrenic patients and 18 controls were digitally recorded reading aloud an emotionally neutral text passage from a children's story. Temporal, energy and vocal pitch features were automatically extracted from the recordings. A classifier based on linear discriminant analysis was employed to differentiate between controls and schizophrenic subjects.
+
+sing the recordings with the algorithm developed demonstrated that it is possible to differentiate schizophrenic patients and controls with a classification accuracy of 79.4% (specificity = 83.6%, sensitivity = 75.2%) based on speech pause related parameters extracted from recordings carried out in standard office (non-studio) environments.
+
+ic and temporal analysis of speech may represent a potential tool for the objective analysis in schizophrenia.

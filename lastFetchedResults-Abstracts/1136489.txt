@@ -1,0 +1,17 @@
+Introduction & Objective: Air pollution is one indication of the urbanization, population
+incensement, excessive use of fossil fuel resources, lack of utilizing environmentally friendly
+technologies and most importantly lack of proper environmental management are some the factors
+which play big roles in this matter. Establishment more than ten million people and excessive
+concentration of industries and factories, alongside with the geographical situation, topography and
+specific climatic region, have made Tehran one of the seven polluted cities in the world. In the
+assessment of air quality, concentration of carbon monoxide gas (CO), among the various pollutants,
+has a main role and importance.
+Materials & Methods: In this study, the probability of persistence of two to seven days unauthorized
+amounts of pollutants CO in city of Tehran was investigated. For this purpose, the 5-year data (2002-
+2006) related to five stations measuring air quality of pollution control companies of Tehran were
+collected and then using first-order, two-state Markov chain were modeled.
+Results & Discussion: Results showed that the highest probability of persistence of pollutant CO exist
+in Fatemi station, Bazar and Aqdasiyeh stations are sat at next orders. Many months of the year,
+Fatemi station has the highest probability of CO and two stations, Bazar and Aqdasiyeh, are located in
+next ranks. Meanwhile, the persistence of pollutant CO in Shahr-e-Rey station compared to other
+stations is the least.

@@ -1,0 +1,8 @@
+Objective
+tudy explored the joint effect of two epidemics, sleep problems and metabolic syndrome (MetS), on the risk of coronary heart disease (CHD).
+s
+udy group is part of the Finnish middle-aged men who participated in the first screening for the Helsinki Heart Study (HHS) in 1981–1982. At that time, three components of MetS were measured: body mass index, HDL cholesterol, and blood pressure. Later, in 1986–1988, they were given a psychosocial questionnaire including items on sleep problems. Of the respondents, 2753 formed our study group and were followed up using population-based registers until 1995. The relative risks (RR) of CHD were estimated using Cox's regression models.
+s
+everal sleep problems were present simultaneously, some increased CHD risk was observed. However, when considered jointly with MetS, insomnia or daytime fatigue approximately doubled the CHD risk and the presence of insufficient sleep more than tripled the risk. Among those who had MetS only, the RR was 2.55, and among those with both insufficient sleep and MetS the RR was 9.36 (95% confidence interval: 4.60–19.04; P for interaction 0.09) when compared to those with no insufficient sleep and no components of MetS.
+sion
+teraction occurred when all three measured MetS components were present, suggesting that co-occurrence of these two epidemics may predict growing public health problems.

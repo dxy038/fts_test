@@ -1,0 +1,11 @@
+Objective
+Granulocyte macrophage colony-stimulating factor (GM-CSF) has been shown to specifically stimulate proliferation of CD34+ hematopoietic progenitor cells. Although signal transducers and activators of transcription 3 (STAT3) is believed essential for transduction of GM-CSF–induced cell proliferation, the signaling mediated by STAT3 is not completely understood. Because survivin regulates cell proliferation and survival via its antiapoptotic function, we studied the link between STAT3 signaling and survivin expression in CD34+ cells.
+Methods
+
+GM-CSF–induced STAT3 and survivin expression in CD34+ cells was examined by Western blot assay. GM-CSF–activated survivin promoter activity was analyzed by gene transfection and reporter assays. The binding of STAT3 to the survivin promoter was evaluated by chromatin immunoprecipitation and electrophoretic mobility shift assay. Western blotting and flow cytometry were utilized to test the effect of Janus family of tyrosine kinases (JAK) inhibitor and STAT3 small interfering RNA (siRNA) on cell apoptosis.
+Results
+
+We found that GM-CSF stimulates survivin promoter activity in CD34+ KG-1 cells, and STAT3 binds to the core survivin promoter containing a STAT response element TT(N)5AA at sites −264 to −256. Mutation or deletion of this STAT response element completely abolished the effects of GM-CSF on survivin promoter activity. Furthermore, addition of either JAK inhibitor or STAT3 siRNA was able to inhibit GM-CSF–induced survivin promoter activity and survivin expression. Inhibition of survivin by STAT3 siRNA or by withdrawal of GM-CSF in a GM-CSF–dependent, CD34+ line TF-1 decreased cell growth and increased apoptosis.
+Conclusion
+
+Altogether, our results suggest that survivin is a transcriptional target of STAT3, and that GM-CSF–stimulated CD34+ cell proliferation is regulated by the JAK/STAT3/survivin signaling pathway.

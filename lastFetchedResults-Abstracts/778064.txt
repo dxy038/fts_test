@@ -1,0 +1,22 @@
+In recent years, the doubly fed induction
+generators (DFIGs) are used in modern wind power
+plants. These generators have a large impact on the
+stability of power system. In this paper, we examine the
+stability of DFIG wind turbines with static synchronous
+compensator (STATCOM). Optimal tuning of
+STATCOM control Parameters is very important in order
+to proper Performance of STATCOM as a stabilizer. To
+select the best value for STATCOM parameter, ITAE
+criterion as objective function is introduced then
+optimization process is done by genetic algorithm with
+the purpose of minimizing the DFIG rotor speed
+oscillations and with the presence of a three phase short
+circuit fault. After this process, the stability of DFIG is
+tested with analyzing the DFIG rotor speed, DFIG active
+power, and DFIG voltage. Ultimately, static VAR
+compensator (SVC) as another common compensator is
+introduced to compare with STATCOM in order to
+minimize oscillations. Then by doing all the steps of
+optimization on SVC control system the better
+performance of STATCOM will be shown. All
+simulation steps are executed by Matlab software.

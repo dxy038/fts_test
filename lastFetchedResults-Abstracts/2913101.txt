@@ -1,0 +1,1 @@
+BroAdCard, a B-ISDN interface card which can connect two VMEbus/VSB systems with a useable bandwidth is described. This offers suitable workstations a bidirectional 140 Mbit/s communications channel. BroAdCard applications developed within the BERKOM project (an experimental optical fibre B-ISDN network) are also described

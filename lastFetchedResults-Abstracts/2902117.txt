@@ -1,0 +1,1 @@
+The development of a verb conjugator Arab, its realization is part of the project a learning environment of the Arabic language computer-assisted &#8220;TELA&#8221;. The main objective is to allow the conjugation of all verbs Arab and whatever their categories. For this, we will have to adopt a classification of verbs that will be grouped into more general models.

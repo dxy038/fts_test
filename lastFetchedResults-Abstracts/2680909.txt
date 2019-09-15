@@ -1,0 +1,7 @@
+In flow shop scheduling, the objective is to obtain a sequence of jobs which will optimize some well-defined criteria when processed in a
+fixed order of machines. In situations that robots are used to transport materials (material handler), breakdown of the machines and robots
+have a significant role in the production concern. This paper deals with a new heuristic algorithm for n-jobs, 3 machines, and 2 robots flow
+shop scheduling problem considering the breakdown interval of machines and robots simultaneously. This algorithm is based on Johnson
+algorithm. A heuristic algorithm is used to minimize total elapsed time, whenever mean weighted production flow time is taken into
+consideration. The proposed method is very easy to understand. Also, it provides an important tool for decision-makers. Furthermore, a
+numerical illustration is given to clarify the algorithm.

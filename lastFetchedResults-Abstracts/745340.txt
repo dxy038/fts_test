@@ -1,0 +1,11 @@
+Objective
+We investigated the electrophysiological effect of vagal stimulation (VS) on atrial myocardium in vivo and differential densities of M2 receptor and acetylcholine-induced inward rectifier K+ current (IK,ACh) to discuss the mechanisms of atrial fibrillation (AF).
+Methods
+
+With the monophasic action potential (MAP) recording technique, data from twenty-four sites, i.e. right atrial appendage (RAA), left atrial appendage (LAA), right atrium (RA) and left atrium (LA) were recorded by electrode probes, which were applied to the epicardial atrial surface of each dog. After cervical vagosympathetic cut, VS1 (20 Hz, 0.2 ms pulse duration and at a voltage 10 V), VS2 (20 Hz, 0.2 ms pulse duration and at a voltage 30 V)and sinus node (SN) damage were administrated respectively. MAP, dispersion of action potential duration (dAPD) and AF was recorded. Then, RAA, LAA, RA and LA were dissected. Finally, distribution of M2 receptors and IK,ACh in atrial myocardium were measured by western blot and patch clamp respectively.
+Results
+
+During VS1 and VS2, AF could be induced at first in right atrial appendage (RAA) and right atrium (RA) without left atrial appendage (LAA) and left atrium (LA). Compared to the parameters in control group and VS2 group, dAPD was increased significantly by VS1 and SN damage, but there was no significant difference between control group and VS2 group. However, AF was not evoked after SN damage. Densities of M2 receptor and IK,ACh were higher in RAA, LAA than those in LA and RA (M2 receptor: 1 and 1.01 over 0.83 and 0.51, P < 0.05; IK,ACh: 20 ± 0.89, 19 ± 0.82, 14 ± 0.64, 9 ± 0.45 pA/pF, P < 0.05). Furthermore, densities of M2 receptor and IK,ACh were higher in LA than those in RA (P < 0.05).
+Conclusions
+
+Decreased APD is the base in initiation of cholinergic AF by VS and increased dAPD alone can not induce AF. A greater abundance of M2 receptor and IKACh in RAA and LAA imply atrial appendage plays an important role in initiation of cholinergic AF.

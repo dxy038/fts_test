@@ -1,0 +1,1 @@
+This paper presents a generalized Braat-Hopkins model for read-only and re-writable optical channels. The objective is to expose the effect of code rate and recording density on the various parameters of the channel model, so that this model can be used to assess the receiver performance for various code rates and recording densities.

@@ -1,0 +1,15 @@
+The objective of this work is to identify a control algorithm that is capable of handling nonlinear behaviour (operating point
+dependent) witnessed in most industrial processes. To this end, the proposed solution is that of a supervisory multiple model control
+scheme, SMMC. This work demonstrates that the multiple model methodology can be recast into a Supervisory approach,
+whereby the supervisor is employed as a selector. This selector (supervisor) identifies the appropriate local-controller from a fixed
+family set. Unlike other supervisory techniques a multiple model observer (MMO) is proposed for the selection mechanism.
+Switching between local-controllers is accomplished bumplessly through a multiple model bumpless transfer scheme. Consequently,
+producing a continuous control signal as the process transverses between different operating regimes. The key issue in this application
+is the unique interaction between the local-controllers and the supervisor. This interaction is necessary to ensure global stability
+is maintained at all times, especially during switching. In short, the SMMC scheme enables the implementation of linear
+control theory, which is well accepted in industry, to standard nonlinear processes. The SMMC approach warrants the control
+design to extend beyond normal operating conditions that breakdown when standard linear control techniques are applied. The
+above notion is applied to a pilot-scale binary distillation column. In this example the column’s distinct operating points describe
+the nonlinear behaviour. The results illustrate that as the distillation column shifted between different operating points the SMMC
+self-regulates accordingly. This self-regulation ensures that global stability and performance are maintained at an optimum. The
+entire SMMC design was implemented within a PC Windows-NT environment that was interfaced to an industrial DCS system.

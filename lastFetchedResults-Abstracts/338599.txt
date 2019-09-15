@@ -1,0 +1,8 @@
+Objective
+Since the central hallmarks of human multiple myeloma (MM) are abnormalities in immunoglobulin (Ig) gene rearrangement, IgH class switching, and DNA damage repair, and since Ku86 and Ku70 proteins are central to these processes, aberrant Ku function may play a role in MM pathogenesis. Our prior studies demonstrated a 69-kDa Ku86 variant in freshly isolated patient MM cells that confers sensitivity to DNA damage. We also showed that Ku86 on the cell surface of CD40-activated MM cells mediates homotypic tumor cell adhesion, as well as heterotypic adhesion to bone marrow stromal cells. We here define the mechanism and functional significance of CD40-induced Ku translocation from the cytoplasm to the cell membrane in MM cells vs normal B cells.
+
+Materials and Methods. We examined Ku86 and Ku70 translocation following CD40 activation in human MM cells vs normal tonsillar B lymphocytes. We then identified the functional sequelae of membrane Ku86 and Ku70 expression on CD40-activated human MM cells.
+
+Results. CD40 activation induces translocation of both Ku86 and Ku70 to the cell surface of MM cells, but not normal tonsillar B cells. Moreover, CD40 activation triggers Ku association with CD40 only in CD40-activated MM cells. Finally, CD40-activated MM cells adhere to fibronectin and are protected against apoptosis triggered by irradiation or doxorubicin; conversely, antibodies to Ku both inhibit tumor cell binding and restore sensitivity to these agents.
+
+Conclusion. These results demonstrate functional significance of Ku translocation to the cell membrane of CD40-activated human MM cells. Therefore, targeting Ku86 and Ku70, with blocking peptides for example, might serve as a novel treatment strategy in human MM.

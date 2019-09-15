@@ -1,0 +1,12 @@
+In this research, we investigate a three-stage supply chain with one supplier, several 
+manufacturers and multiple retailers where the supplier provides a common raw material to 
+each manufacturer, who in turn uses a single stage production facility to convert it into final 
+products that are delivered at fixed lot sizes to retailers. An integrated economic procurement, 
+production, and delivery model is developed whose objective is to find the common production 
+cycle length, production sequences of final products at manufacturers and delivery frequencies 
+of final products to retailers minimizing the total costs of considered supply chain. We propose 
+an analytical solution procedure and an efficient heuristic solution method. The proposed 
+heuristic solution algorithm is able to find the optimal solutions for the small and medium 
+problem instances and consequently it is very promising for solving the large-sized instances in 
+a reasonable time. 
+

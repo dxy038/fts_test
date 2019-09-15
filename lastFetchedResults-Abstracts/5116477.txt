@@ -1,0 +1,1 @@
+Proposes a formal approach for translating OODB queries to equivalent relational queries. The translation is accomplished through the use of relational predicate graphs and OODB predicate graphs. One advantage of using such a graph-based approach is that we can achieve bidirectional translation between relational queries and OODB queries

@@ -1,0 +1,18 @@
+Background: The motions of body and tumor in some regions such as chest
+during radiotherapy treatments are one of the major concerns protecting normal
+tissues against high doses. By using real-time radiotherapy technique, it is possible
+to increase the accuracy of delivered dose to the tumor region by means of tracing
+markers on the body of patients.
+Objective: This study evaluates the accuracy of some artificial intelligence
+methods including neural network and those of combination with genetic algorithm
+as well as particle swarm optimization (PSO) estimating tumor positions in real-time
+radiotherapy.
+Method: One hundred recorded signals of three external markers were used as input
+data. The signals from 3 markers thorough 10 breathing cycles of a patient treated
+via a cyber-knife for a lung tumor were used as data input. Then, neural network
+method and its combination with genetic or PSO algorithms were applied determining
+the tumor locations using MATLAB© software program.
+Results: The accuracies were obtained 0.8%, 12% and 14% in neural network,
+genetic and particle swarm optimization algorithms, respectively.
+Conclusion: The internal target volume (ITV) should be determined based on the
+applied neural network algorithm on training steps.

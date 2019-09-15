@@ -1,0 +1,8 @@
+Objective
+luate the role of pelvic phased array MRI in staging prostate cancer (CaP).
+als and methods
+spectively collected data over 12 months on CaP patients who underwent preoperative MR imaging with a pelvic phased array before radical prostatectomy. MR images were analyzed prospectively by 2 radiologists. MR imaging findings were then correlated with pathologic findings.
+s
+l, 101 patients were included with a mean PSA level of 8 (range 1.8–30). Reader 1 (AUC 0.895, 95% CI 0.791–0.999) had a higher performance than reader 2 (AUC 0.687, 95% CI, 0.555–0.819) and than DRE (AUC 0.728, 95% CI, 0.599–0.857) in discriminating T2 from T3 CaP (P = 0.01). The κ-index of inter-observer agreement was 0.56. A model that combines MRI findings, DRE, PSA, and Gleason score was the most competitive for staging (AUC 0.895, 95% CI, 0.791–0.999). For the multivariate analysis, 3 criteria were significantly associated with extracapsular extension: asymmetry of the neuro-vascular bundles (P = 0.001), asymmetric enhancement of neurovascular bundles (P = 0.02), and bulging of the capsule (P = 0.0003).
+sion
+ phased array MRI presented satisfying results in its ability to adequately stage CaP and notably in detecting the extracapsular extension of tumors. It is likely to provide reliable information but rather in the hands of an experienced radiologist.

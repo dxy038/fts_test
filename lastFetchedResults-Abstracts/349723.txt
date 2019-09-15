@@ -1,0 +1,11 @@
+Objective
+To see whether stochastic resonance can be triggered in the auditory steady-state responses (ASSRs) in a magnetoencephalogram (MEG).
+Methods
+We measured ASSRs to 1 kHz sinusoidal tone modulated at 40 Hz with various intensities of white noise and obtained its power and degree of phase synchrony.
+Results
+Group statistics showed a significant enhancement in phase synchrony of ASSR by the presence of white noise of appropriate intensity. Tests on individual subjects showed that the data of four out of nine subjects exhibited enhancements in power or phase synchrony.
+Conclusions
+The ASSRs exhibit stochastic resonance of the so-called I-type (I for information) shown in phase synchrony when responding to modulated sinusoidal sound superimposed with weak white noise.
+Significance
+The gamma-band component and other oscillatory components in the brain activity have been recently ascribed by some researchers to the result of stochastic resonance caused by internal noise in the brain. Therefore the presence of stochastic resonance in ASSRs may be evidence to the hypothesis that ASSRs are related to the ongoing gamma-band component.
+

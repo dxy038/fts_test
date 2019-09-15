@@ -1,0 +1,11 @@
+Objectives
+In a restored tooth, the stresses that occur at the tooth–restoration interface during loading could become large enough to fracture the tooth and/or restoration and it has been estimated that 92% of fractured teeth have been previously restored. The tooth preparation process for a dental restoration is a classical optimization problem: tooth reduction must be minimized to preserve tooth tissue whilst stress levels must be kept low to avoid fracture of the restored unit. The objective of the present study was to derive alternative optimized designs for a second upper premolar cavity preparation by means of structural shape optimization based on the finite element method and biological adaptive growth.
+Methods
+
+Three models of cavity preparations were investigated: an inlay design for preparation of a premolar tooth, an undercut cavity design and an onlay preparation. Three restorative materials and several tooth/restoration contact conditions were utilized to replicate the in vitro situation as closely as possible. The optimization process was run for each cavity geometry.
+Results
+
+Mathematical shape optimization based on biological adaptive growth process was successfully applied to tooth preparations for dental restorations. Significant reduction in stress levels at the tooth–restoration interface where bonding is imperfect was achieved using optimized cavity or restoration shapes. In the best case, the maximum stress value was reduced by more than 50%.
+Significance
+
+Shape optimization techniques can provide an efficient and effective means of reducing the stresses in restored teeth and hence has the potential of prolonging their service lives. The technique can easily be adopted for optimizing other dental restorations.

@@ -1,0 +1,15 @@
+The objective of this work is the geometrically nonlinear plane stress analysis of orthotropic
+Hill type elastoplastic solids under short term dynamic loading conditions. Thereby, the
+underlying motivation is the necessity to model the anisotropic behaviour of metal specimens which
+is due to the manufacturing procedure in terms of an orthotropic yield condition. To this end, the
+classical von Mises condition in the framework of multiplicative elastoplasticity is substituted by a
+yield criterion which invokes a second order anisotropy tensor acting on the deviatoric stresses in
+the plastic intermediate configuration. A reparametrization of this model reveals its relation to the
+classical criterion originally proposed by Hill in the geometrically linear setting. Moreover an
+element technology is outlined recovering the plane stress response of arbitrary 3D constitutive
+models without any plane stress specific modifications in the large strain regime. The intriguing
+influence of certain types of orthotropy on the failure patterns of thin metal sheets under plane
+stress uniaxial extension is investigated numerically. Thereby, an explicit time stepping procedure
+designed to incorporate the developed plane stress element is employed to trace the short term
+response predictions of the investigated specimens.
+1.

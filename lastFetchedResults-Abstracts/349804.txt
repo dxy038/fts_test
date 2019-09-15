@@ -1,0 +1,11 @@
+Objective
+To investigate seizure onset baseline shifts and their relationship to background infraslow activity (ISA: 0.01–0.1 Hz).
+Methods
+Archived intracranial EEG recordings of 61 seizures from 12 patients were evaluated. All had extensive coverage of several lobes with implanted grid, strip and/or depth electrodes prior to potential epilepsy surgery. The data had been obtained on a Nihon-Kohden system (acquisition range 0.01–1000 Hz). Data analysis was carried out with the BESA® software.
+Results
+When the high pass filter was set at 0.01 Hz ictal baseline shifts, comparable to those reported in the literature when DC equipment was used, were consistently observed. Their amplitude and distribution among the sampled electrodes differed to some extent in different seizures from the same patient. They were not necessarily limited to the “epileptogenic zone” as expected from conventional frequencies (CF) and formed part of a marked amplitude increase in background ISA. This could precede and/or outlast the seizure as seen on CF.
+Conclusions
+Ictal baseline shifts are part of a marked increase in ISA which is regional and/or multiregional even in patients where a purely focal process is suspected.
+Significance
+ISA provides an additional parameter for the delineation of the epileptogenic zone.
+

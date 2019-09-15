@@ -1,0 +1,62 @@
+
+  
+    
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4  Background and Objectives: Along with the rapid development of human life,
+controlling   harmful effects of
+microorganisms would be unavoidable. The objective of this study was to
+evaluate antibacterial efficacy of zinc oxide nanoparticles on different
+microbial strains.Material and Methods:
+This experimental study was done using gram negative and gram positive bacteria
+in nutrient media. Nanoparticle characterization was determined using X-ray
+diffraction (XRD), scanning and transmission electron microscopy (SEM and TEM).
+Bacterial sensitivity to nanoparticles was tested using a disk diffusion test
+and minimum inhibitory concentration (MIC). Time-kill studies and other tests
+were carried out using 108 CFU/mL of bacteria at baseline. A point of zero
+charge, pHzpc, of nanoparticle was investigated using the batch equilibration
+method. Obtained data were managed by SPSS Ver.16 and were analyzed through the
+Pearson, analysis of variance (ANOVA) and Student's independent t-tests. 0.05
+was selected as significant level for all tests. Results:
+Characterization results from XRD, SEM, and TEM showed that particles are in
+nano range and they do not contain any discernible crystalline impurity. The
+average ZnO nanoparticles diameter was 20 nm. The pHZPC for ZnO was found to be
+7.51. The P. aeruginosa strain exhibited larger diameter inhibition zone (DIZ)
+to ZnO nanoparticle compared with other strains. Population of P.aeroginosa for
+2 x MIC concentration was reduced to zero in the presence of nano ZnO within
+150 min. The bacterial CFU had significant difference with contact time,
+nanoparticles loading, and bacterial strain (P<0.001).Conclusion: This study
+demonstrated that antibacterial activity of ZnO can be a candidates for the
+elimination of gram negative and gram positive bacteria, particularly in
+nasocomial infection agent control.
+ 
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+
+

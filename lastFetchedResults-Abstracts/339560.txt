@@ -1,0 +1,11 @@
+Objective
+Limited clinical trials have validated the hypothesis of controlling graft-versus-host disease (GVHD) arising from stem cell transplant utilizing suicidal T-lymphocytes that have been transduced to express the HSV-TK gene. However, clinical utility has been limited by diminished T-cell function arising from the production process. To evaluate strategies for harnessing the graft-versus-leukemia (GVL) effect while improving the safety and function of suicidal lymphocytes, we have developed techniques to produce fully functional, retrovirally transduced, HSV-TK–positive murine T cells (TK+TC).
+Methods
+
+Utilizing a murine major histocompatibility complex–matched transplant model, we evaluated the ability of TK+TC to generate a GVL effect and the ability to control GVHD in experiments where we varied the dose of TK+TC, ganciclovir (GCV) dose, the start of GCV administration (day 4, 7, 10, 13, 15, or 19) posttransplantation, and the GCV administration route (osmotic pump versus intraperitoneal).
+Results
+
+At TK+TC doses in excess of the standard lethal dose (SLD) of unmanipulated T-cells, GCV administration completely (2 × SLD) and partially (4 × SLD) controlled GVHD. Additionally, GVHD remained reversible despite delaying administration of GCV for a week after GVHD developed. Importantly, GVHD was controlled with a 1-log but not 2-log reduction in GCV dose, and this “partial suicide” preserved more circulating TK+TC compared with standard-dose GCV. Survival of leukemia-positive mice receiving TK+TC and GCV was significantly increased compared with control cohorts not receiving GCV or transplanted with unmanipulated T cells, thereby demonstrating a GVL effect.
+Conclusion
+
+Retrovirally transduced suicidal lymphocytes generate a potent GVL effect while simultaneously enabling control of GVHD, which results in improved leukemia and GVHD-free survival.

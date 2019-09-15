@@ -1,0 +1,11 @@
+Objective
+OX40, a member of the TNF receptor superfamily, and its ligand (OX40L) play crucial roles in induction and maintenance of integrated T cell immune response. Engagement of OX40L delivers a costimulatory signal to T cells. In this study, we investigated whether inoculation of OX40L-transfected EL4, a murine T cell lymphoma cell line, could induce anti-lymphoma immunity in mice.
+Materials and methods
+
+Female C57BL/6 mice were inoculated with 1 × 105 cells of parental EL4, OX40L-transfected EL4 (EL4-OX40L), or mock control vector-transfected EL4 (EL4-mock), and then the tumor size, overall survival, CTL activity of spleen cells, and the immunohistochemistry were compared.
+Results
+
+While both parental EL4 and EL4-mock grew rapidly, EL4-OX40L was rejected or grew slower than parental EL4 or EL4-mock. Pretreatment of mice with either anti-CD4 or anti-CD8 mAb accelerated the growth of EL4-OX40L, suggesting that both CD4+ and CD8+ T cells were involved in anti-lymphoma immunity. The immunohistochemical study revealed the infiltration of CD8+ T cells into the tumor of EL4-OX40L. In vitro CTL assay demonstrated that spleen cells of mice that had rejected EL4-OX40L had significant cytotoxic activity against parental EL4.
+Conclusion
+
+The gene transfer of OX40L into lymphoma cells is an eligible and efficient modality to induce anti-lymphoma immunity.

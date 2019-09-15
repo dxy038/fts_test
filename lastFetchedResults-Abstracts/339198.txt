@@ -1,0 +1,11 @@
+Objective
+To compare the cytotoxicity of KHYG-1 with other natural killer (NK)/NK T-cell lines and identify molecules that may be associated with enhanced cytotoxicity, thereby eventually leading to improved NK cell-mediated cancer immunotherapy.
+Materials and Methods
+
+NK/NK T-cell lines KHYG-1, NK-92, YT, and SNT-8 were compared with a novel flow cytometric cytotoxicity assay under different culture conditions. Transcription, expression, and phosphorylation studies were performed using polymerase chain reaction sequence-specific primers, reverse transcription polymerase chain reaction, immunoblotting, and flow cytometry.
+Results
+
+KHYG-1 is a highly cytotoxic cell line, exceeding the cytolytic capacity of the other cell lines against K562. KHYG-1 is also highly cytotoxic against the leukemia cell lines EM2, EM3, and HL60. The novel activation receptor NKp44 and its adaptor, DAP12, NKG2D, and constitutively phosphorylated ERK2 may be associated with the enhanced cytotoxicity of KHYG-1. This cell line most likely mediates cytolysis by granzyme M (but not granzymes A and B) together with perforin, which is constitutively fully cleaved to the 60-kD form, in contrast to the other cell lines.
+Conclusion
+
+KHYG-1 is a valuable model for the study of enhanced cytotoxicity by NK cells. In addition to the activation of NKp44, KHYG-1 may induce apoptosis of tumor cells by the newly described granzyme M/perforin pathway. Targeted modifications of effector molecules demonstrated in this model could generate NK cells with even greater killing ability that may be particularly attractive for clinical application. Moreover, our demonstration of greater cytotoxicity of KHYG-1 versus NK-92 cells, already in clinical trials, suggests a direct therapeutic role for KHYG-1.

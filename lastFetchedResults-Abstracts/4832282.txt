@@ -1,0 +1,1 @@
+Artefacts due to MPEG layer III (MP3) coding are analyzed: non uniform quantization noise, hybrid filter bank aliasing, MDCT pre- and post-echoes. Both objective and subjective evaluation of several MP3 decoded audio files are presented. Finally, it is shown how to predict the subjective perceived quality based on objective measures.

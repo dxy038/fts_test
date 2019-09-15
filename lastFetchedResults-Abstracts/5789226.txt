@@ -1,0 +1,1 @@
+This paper presents a microstrip beamforming network based on the ladder network or Blass matrix concept. The objective of this experimental work is to investigate the possibilities of developing a low cost beamformer that can generate a number of beams. It is envisaged that such beamformers will be quite useful for small arrays producing multiple simultaneous beams.

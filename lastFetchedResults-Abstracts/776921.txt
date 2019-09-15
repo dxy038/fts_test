@@ -1,0 +1,12 @@
+Empirical models of minimum (Tmin), average (Tavg) and maximum (Tmax) air temperature for Singapore estate have been developed
+and validated based on a long-tem field measurement. There are three major urban elements, which influence the urban temperature at
+the local scale. Essentially, they are buildings, greenery and pavement. Other related parameters identified for the study, such as green
+plot ratio (GnPR), sky view factor (SVF), surrounding building density, the wall surface area, pavement area, albedo are also evaluated
+to give a better understanding on the likely impact of the modified urban morphology on energy consumption.
+The objective of this research is to assess and to compare how the air temperature variation of urban condition can affect the building
+energy consumption in tropical climate of Singapore. In order to achieve this goal, a series of numerical calculation and building simulation
+are utilized. Atotal of 32 cases, considering different urban morphologies, are identified and evaluated to give better a understanding on the
+implication of urban forms, with the reference to the effect of varying density, height and greenery density. The results show that GnPR,
+which related to the present of greenery, have the most significant impact on the energy consumption by reducing the temperature by up
+to 2  C. The results also strongly indicate an energy saving of 4.5% if the urban elements are addressed effectively.
+  2010 Elsevier Ltd. All rights reserved.

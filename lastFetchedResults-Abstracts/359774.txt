@@ -1,0 +1,11 @@
+Background
+Prior studies involving microvolt T-wave alternans (MTWA) have combined positive and indeterminate studies into a high-risk “nonnegative” category. However, studies examining the prognostic utility of specific reasons for an indeterminate study are limited. The objective of this study was to assess if patients have differences in survival prognosis based on the reasons for an indeterminate MTWA result.
+Methods
+
+We enrolled 768 consecutive patients with ischemic cardiomyopathy (left ventricular ejection fraction ≤35%) and no prior history of sustained ventricular arrhythmia. Microvolt T-wave alternans studies were classified as positive, negative, or indeterminate. Prespecified multivariable Cox regression analyses, stratified by implantable cardioverter/defibrillator status, were used to determine whether there was heterogeneity in survival prognosis among the individual reasons for an indeterminate study.
+Results
+
+We identified 159 (21%) patients with an indeterminate MTWA test. Reasons for indeterminate studies included frequent ectopy (46%), inability to reach adequate heart rate (IHR) (32%), unsustained alternans (9%), and excessive noise (13%). After multivariable adjustment, indeterminate studies due to ectopy/IHR were associated with a significantly higher risk for all-cause (stratified hazard ratio [HR] 4.63, 95% CI 1.32-16.18, P = .02) and arrhythmic mortality (stratified HR 17.57, 95% CI 1.62-190.50, P = .02) but not for nonarrhythmic mortality (stratified HR 1.30, 95% CI 0.27-6.29, P = .75). The prognostic utility of MTWA testing was improved when indeterminate studies were reclassified as abnormal (positive + ectopy/IHR) or normal (negative + unsustained alternans), with only 3% of all studies thereafter remaining inconclusive (noise).
+Conclusion
+
+Patients with indeterminate MTWA studies exhibit heterogeneity in survival prognosis. Reclassifying indeterminate studies as abnormal or normal improves the predictive power of MTWA.

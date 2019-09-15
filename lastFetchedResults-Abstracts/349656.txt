@@ -1,0 +1,11 @@
+Objective
+The mismatch negativity (MMN) component of event-related potentials (ERPs) reflects a change-detection process in the brain. The present study investigated whether stimulus parameters (sound type and duration) exert a differential influence on the MMN for a duration decrement and increment of an equal magnitude. Some asymmetries were reported in the previous studies; yet no systematical study has been conducted.
+Methods
+ERPs were recorded from 16 healthy adults presented with repetitive standard sounds interspersed with duration changes (deviant sounds). In separate sequences, stimuli were vowels, music chord, sinusoid, or band-pass filtered white noise. The stimulus durations (standard/deviant) were either 200/120 ms or 400/240 ms for decrements, and vice versa for increments.
+Results
+The MMN for the increments was abolished in the 400/240 ms condition, whereas the MMN for decrements was significant irrespective of the sound duration. The amplitude of the increment MMN paralleled with the spectral complexity of the stimulus sound, whereas that of the decrement MMN was larger for natural sounds than artificial sounds.
+Conclusions
+The observed interactions demonstrated asymmetries in the MMN for duration increment and decrement.
+Significance
+The present findings suggest that the effects of stimulus parameters should be taken into account when comparing different studies, especially where clinical populations are involved, with one another
+

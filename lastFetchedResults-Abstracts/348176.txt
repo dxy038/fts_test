@@ -1,0 +1,11 @@
+Objective
+To examine the seizure prediction and detection abilities of the accumulated energy on multi-center data submitted to the First International Collaborative Workshop on Seizure Prediction.
+Methods
+The accumulated energy (AE), windowed average power, and FHS seizure detection algorithm were applied to a single channel of ECoG data taken from the data sets contributed to the workshop. The FHS seizure detection algorithm was used to perform automated scoring of the data in order to locate subclinical events not picked up by the centers where the data was collected. The results were analyzed retrospectively, comparing the behavior of the accumulated energy and windowed average power on segments containing seizures to interictal segments.
+Results
+Accumulated energy curves showed no divergence from interictal curves prior to seizure. Distinctive or clear increases in the AE slope occurred sometime at or after electrographic seizure onset for some seizures. Similarly, the windowed average power showed no consistent increases in broadband energy prior to seizures. However, both methods may have detection ability for some seizures.
+Conclusions
+The accumulated energy did not appear to have predictive abilities for these data sets. Some detection ability was apparent.
+Significance
+In data unsorted by sleep/wake state, no seizure prediction was evident. The lack of prediction calls into question the existence of a preictal state as previously claimed in the literature using this method.
+

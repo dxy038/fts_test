@@ -1,0 +1,8 @@
+Background: medical centers location is one of the most important problems, which should be considered in different dimensions to improve the services. In this paper, we consider the hierarchical maximum covering problem for bi-level healthcare systems including Clinics and hospitals, by taking the service rates into account. In this problem, the initial objective is minimizing the uncovered demand nodes, and secondary objective is the minimizing the lost demand rate as a measure of potentially patients&rsquo; retention in coverage radius.
+
+Methods: In this paper, the serving system in the Tehran heart center hospital is considered for queue analyses. The proposed method is a mathematical optimization model called probabilistic two-stage programming model. To evaluate this model, a number of numerical problems are solved through GAMS software.
+
+Results: according to the results, we have found that the best condition for locating the medical centers is that the clinic are located adjacent to a hospital. Decision making about the location problem by considering the service rate in each healthcare centers, increases the reliability to the result of the optimization model.
+
+Conclusion: The proposed model is able to help the decision makers to attain an optimized decision for locating the medical centers in deprived areas, inspired by the medical centers in areas with similar population. Therefore, if the clinics and hospitals are located by considering the hierarchical mode and their service rates, the patients&rsquo; welfare will be enhanced.
+

@@ -1,0 +1,1 @@
+The main objective of this project is the implementation of a biodigester used in the production of methane gas based on temperature, pressure and the pH level of substrate. During the investigation we analyzed the biogas production process swine manure generated at various temperatures within the mesophilic range.

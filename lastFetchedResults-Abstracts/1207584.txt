@@ -1,0 +1,7 @@
+The TPC benchmarks have helped users evaluate database system performance at different scales. Although each benchmark is domain-specific, it is not equally relevant to different applications in the same domain. The present proliferation of applications also leaves many of them uncovered by the very limited number of current TPC benchmarks.
+
+There is therefore a need to develop tools for application-specific database benchmarking. This paper presents UpSizeR, a software that addresses the Dataset Scaling Problem: Given an empirical set of relational tables image and a scale factor s, generate a database state image that is similar to image but s times its size. Such a tool can be useful for scaling up image for scalability testing image, scaling down for application testing image, or anonymization (s=1).
+
+Experiments with Flickr show that query results and response times on UpSizeR output match those on crawled data. They also accurately predict throughput degradation for a scale out test.
+
+The UpSizeR version in this paper focuses on extracting and replicating the correlation induced by the primary and foreign keys. There are many other forms of correlation involving non-key values. It is a large task to develop UpSizeR into a tool that can extract and replicate all important correlation, so community effort is required. The current UpSizeR code has therefore been released for open-source development. The ultimate objective is to replace TPC with UpSizeR, so database owners can generate benchmarks that are relevant to their applications.

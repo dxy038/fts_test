@@ -1,0 +1,1 @@
+Results are reported of a 1.3 &#194;&#191;m/1.5 &#194;&#191;m bidirectional WDM transmission system experiment operating at 144 Mbit/s over 58 km of cabled single-mode fibre. Regenerators used Bell Laboratories-developed 1.3 and 1.5 &#194;&#191;m InGaAsP semiconductor lasers, InGaAs PIN diodes, microwave monolithic amplifiers and optical bidirectional couplers.

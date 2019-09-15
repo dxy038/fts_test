@@ -1,0 +1,16 @@
+Multi-criteria optimization of processes parameters could be used to
+simultaneously achieve several con
+icting goals such as increasing product quality and
+reducing production time. In this paper, Grey Relational Analysis (GRA) and Taguchi
+method have been employed to optimize Electrical Discharge Machining (EDM) process
+parameters for AISI 2312 (40CrMnMoS86) hot worked steel alloy. The experimental data
+are gathered based on Taguchi L36 design matrix. The tests are conducted under varying
+peak current (I), voltage (V ), pulse on time (Ton), pulse o time (To) and duty factor
+(). The process output characteristics include Surface Roughness (SR), Tool Wear Rate
+(TWR) and Material Removal Rate (MRR). The objective is to nd a combination of
+process parameters to minimize TWR and SR and maximize MRR. The three performance
+characteristics are combined into a single objective using grey relational analysis. The GRA
+was followed by the signal to noise ratio to specify the optimal levels of process parameters.
+The signicance of the process parameters on the overall quality characteristics of the EDM
+process was also evaluated quantitatively using the Analysis of Variance (ANOVA) method.
+Optimal results were veried through additional experiments

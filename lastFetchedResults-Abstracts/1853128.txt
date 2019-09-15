@@ -1,0 +1,8 @@
+Objective
+elop proof strategies to formally study the expressiveness of workflow-based languages, and to investigate their applicability to clinical computer-interpretable guideline (CIG) modeling languages.
+
+pose two strategies for studying the expressiveness of workflow-based languages based on a standard set of workflow patterns expressed as Petri nets (PNs) and notions of congruence and bisimilarity from process calculus. Proof that a PN-based pattern P can be expressed in a language L can be carried out semi-automatically. Proof that a language L cannot provide the behavior specified by a PNP requires proof by exhaustion based on analysis of cases and cannot be performed automatically. The proof strategies are generic but we exemplify their use with a particular CIG modeling language, PROforma. To illustrate the method we evaluate the expressiveness of PROforma against three standard workflow patterns and compare our results with a previous similar but informal comparison.
+s
+w that the two proof strategies are effective in evaluating a CIG modeling language against standard workflow patterns. We find that using the proposed formal techniques we obtain different results to a comparable previously published but less formal study. We discuss the utility of these analyses as the basis for principled extensions to CIG modeling languages. Additionally we explain how the same proof strategies can be reused to prove the satisfaction of patterns expressed in the declarative language CIGDec.
+sion
+oof strategies we propose are useful tools for analysing the expressiveness of CIG modeling languages. This study provides good evidence of the benefits of applying formal methods of proof over semi-formal ones.

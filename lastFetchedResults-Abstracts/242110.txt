@@ -1,0 +1,11 @@
+A cost-effective optimum design criterion for Organic Rankine power cycles utilizing low-temperature geothermal heat sources is
+presented. The ratio of the total heat exchanger area to net power output is used as the objective function and was optimized using the
+steepest descent method. Evaporation and condensation temperatures, geothermal and cooling water velocities are varied in the
+optimization method. The optimum cycle performance is evaluated and compared for working fluids that include ammonia, HCFC123,
+n-Pentane and PF5050. The optimization method converges to a unique solution for specific values of evaporation and condensation
+temperatures and geothermal and cooling water velocities. The choice of working fluid can be greatly affect the objective function which
+is a measure of power plant cost and in some instances the difference could be more than twice. Ammonia has minimum objective
+function and maximum geothermal water utilization, but not necessarily maximum cycle efficiency. Exergy analysis shows that efficiency
+of the ammonia cycle has been largely compromised in the optimization process than that of other working fluids. The fluids, HCFC 123
+and n-Pentane, have better performance than PF 5050, although the latter has most preferable physical and chemical characteristics
+compared to other fluids considered.

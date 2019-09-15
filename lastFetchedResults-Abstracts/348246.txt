@@ -1,0 +1,11 @@
+Objective
+The aim of this study is to investigate the potentials (intracellular, extracellular, electrotonic) and excitability properties (strength–duration and charge–duration curves, strength–duration time constants, rheobases, recovery cycles) in three cases of uniform myelin wrap reduction (20, 50 and 70%) along the fibre length.
+Methods
+The internodally systematically demyelinated cases (termed as ISD1, ISD2 and ISD3) are simulated using our previous double cable model of human motor fibres.
+Results
+In the more severely demyelinated cases, the intracellular potentials are with significantly reduced amplitude, prolonged duration and slowed conduction velocity, whereas the electrotonic potentials show greater increase in the early part of the hyperpolarizing responses. The radial decline of the extracellular potential amplitudes depends on the radial distance of the field point and increases with the increase of the distance and demyelination. The time constants and rheobasic currents increase with the increase of the degree of demyelination. In the recovery cycles, the more severely demyelinated cases have greater refractoriness (the increase in threshold current during the relative refractory period), supernormality and less late subnormality than the normal case.
+Conclusions
+The myelin thickness has significant effects on the potentials and axonal excitability properties of the simulated demyelinated human motor fibres. The obtained abnormalities in the potentials and excitability properties can be observed in Charcot–Marie–Tooth disease type 1A (CMT1A).
+Significance
+The study provides new information about the pathophysiology of human demyelinating neuropathies
+

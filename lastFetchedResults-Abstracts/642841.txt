@@ -1,0 +1,11 @@
+Objective
+Cancer cachexia is associated with weight loss, poor nutritional status, and systemic inflammation. Accurate nutritional support for patients is calculated on resting energy expenditure (REE) measurement or prediction. The present study evaluated the agreement between measured and predicted REE (mREE and pREE, respectively) and the influence of acute phase response (APR) on REE.
+Methods
+
+Thirty-six patients with cancer were divided into weight-stable (WS; weight loss <2%) and weight-losing (WL; weight loss >5%) patients. Measured REE was measured by indirect calorimetry and adjusted for fat-free mass (FFM). The Bland-Altman approach was used to assess the agreement between mREE and pREE from the Harris-Benedict equations (HBE). Blood levels of C-reactive protein were assessed.
+Results
+
+There was no difference in mREE between groups (WS 1677 ± 273, WL 1521 ± 305) even when mREE was adjusted for FFM (WS 1609 ± 53, WL 1589 ± 53). In WL patients, FFM-adjusted REE correlated with blood C-reactive protein levels (r = 0.471, P = 0.048). HBEs tend to underestimate REE in both groups.
+Conclusion
+
+WL and WS patients with cancer had similar REEs but were different in terms of APR. APR could contribute to weight loss through enhancing REE. In a clinical context, HBE was in poor agreement with mREE in both groups.

@@ -1,0 +1,11 @@
+Background
+Hospital report cards for outcomes following acute myocardial infarction (AMI) are being produced with increasing frequency. Implicit in the statistical methods used is the fact that hospitals are being compared with an average hospital. Prior research has demonstrated that institutional characteristics such as a high annual volume of AMI patients and academic status are associated with improved outcomes. This raises the important issue of what is an appropriate benchmark against which hospitals should be compared. The objective of the current study was to determine whether the number of hospitals identified as mortality outliers depended upon the benchmark against which hospitals are compared.
+Methods
+
+We examined all patients discharged with a diagnosis of AMI from 163 Ontario hospitals between April 1, 2000, and March 30, 2001. Logistic regression models that incorporated random provider effects were used to identify hospitals with a mortality rate significantly higher than average. The initial model included only patient characteristics, whereas additional models incorporated both patient and hospital characteristics.
+Results
+
+After adjusting for patient characteristics only, 3 hospitals had significantly higher mortality compared to an average-mortality hospital, while 4 hospitals had significantly lower mortality than an average-mortality hospital. However, after further adjusting for peer group, only 1 hospital was identified as having significantly lower mortality than an average-mortality institution in its peer group.
+Conclusions
+
+The use of peer-group-defined rather than overall benchmarks has a substantial impact on the identification of mortality outliers. The choice of the appropriate benchmark is related to the underlying purpose of the comparison.

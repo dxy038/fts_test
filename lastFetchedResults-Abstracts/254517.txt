@@ -1,0 +1,13 @@
+Urban terrain poses a challenge for modeling air pollutant diffusion. In tropics, because of
+the dominant low wind speed environment, the importance of understanding the turbulence diffusion is
+even more critical, and uncertain. The objective of this study is to estimate the vertical eddy diffusivity of
+an urban, tropical atmosphere in low–wind speeds. Turbulence measurements at 1 Hz were made at 4-m
+level over an urban terrain with a roughness length of 0.78 m during winter months. Eddy diffusivity is
+estimated from spectral quantities of the turbulence data involving turbulent kinetic energy (E) and its
+dissipation rate (e). The spectral information of the vertical velocity fluctuations is used to estimate the
+vertical length scale which provides information on the eddy diffusivity. In addition, the product of friction
+velocity and the vertical length scale has been used to non-dimensionalize the eddy diffusivity, which is
+shown to increase with increasing instability. Using the eddy diffusivity (K) estimates from the E – e
+approach, a relation is suggested for the mixing length based eddy diffusivity models of the form: K =
+cw.[2.5 ) 0.5(z/L)], where z is the measurement height, L is the Obukhov length, and cw has an average
+value close to 1 for unstable and near 0.5 for stable conditions for the urban terrains.

@@ -1,0 +1,12 @@
+We relax some assumptions of the traditional scheduling problem and suggest an adapted
+meta-heuristic algorithm to optimize efficient utilization of resources and quick response to
+demands simultaneously. We intend to bridge the existing gap between theory and real
+industrial scheduling assumptions (e.g., hot metal rolling industry, chemical and
+pharmaceutical industries). We adapt and evaluate a well-known algorithm based on
+electromagnetic science. The motivation behind our proposed meta-heuristic approach has
+arisen from the attraction-repulsion mechanism of electromagnetic theories in physics. In this
+basic idea, we desire to bring our search closer to a region with a superior objective function
+while going away from the region with the inferior objective function in order to move the
+solution gradually towards optimality. The algorithm is carefully evaluated for its performance
+against two existing algorithms using multi-objective performance measures and statistical
+tools. The results show that our proposed solution method outperforms the others.

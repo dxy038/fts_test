@@ -1,0 +1,5 @@
+Objective: To align the repeated single trials of the event-related potential (ERP) in order to get an improved estimate of the ERP.
+Methods: A new implementation of the dynamic time warping is applied to compute a warp-average of the single trials. The trilinear modeling method is applied to filter the single trials prior to alignment. Alignment is based on normalized signals and their estimated derivatives. These features reduce the misalignment due to aligning the random alpha waves, explaining amplitude differences in latency differences, or the seemingly small amplitudes of some components.
+Results: Simulations and applications to visually evoked potentials show significant improvement over some commonly used methods.
+Conclusions: The new implementation of the dynamic time warping can be used to align the major components (P1, N1, P2, N2, P3) of the repeated single trials. The average of the aligned single trials is an improved estimate of the ERP. This could lead to more accurate results in subsequent analysis.
+

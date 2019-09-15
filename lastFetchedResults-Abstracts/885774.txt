@@ -1,0 +1,5 @@
+Our objective is to analyse a commonly used edge based finite volume approximation of the Laplacian and construct an accurate and stable way to implement boundary conditions for time dependent problems. Of particular interest are unstructured grids where the strength of the finite volume method is fully utilised.
+
+As a model problem we consider the heat equation. We analyse the Cauchy problem in one and several space dimensions and prove stability on unstructured grids. Next, the initial-boundary value problem is considered and a scheme is constructed in a summation-by-parts framework. The boundary conditions are imposed in a stable and accurate manner, using a penalty formulation.
+
+Numerical computations of the wave equation in two-dimensions are performed, verifying stability and order of accuracy for structured grids. However, the results are not satisfying for unstructured grids. Further investigation reveals that the approximation is not consistent for general unstructured grids. However, grids consisting of equilateral polygons recover the convergence.

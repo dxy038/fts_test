@@ -1,0 +1,13 @@
+This paper describes the test and the results of a first prototype solar powered gas turbine system, installed during
+2002 in the CESA-1 tower facility at Plataforma Solar de Almerı´a (PSA) in Spain. The main goals of the project were to
+develop a solar receiver cluster able to provide pressurized air of 1000  C and solve the problems arising from the coupling
+of the receivers with a conventional gas turbine to demonstrate the operability of the system. The test set-up consists
+of the heliostat field of the CESA-1 facility providing the concentrated solar power, a pressurized solar receiver
+cluster of three modules of 400 kWth each which convert the solar power into heat, and a modified helicopter engine
+(OST3) with a generator coupled to the grid. The first test phase at PSA started in December 2002 with the goal to reach
+a temperature level of 800  C at the combustor air inlet by the integration of solar energy. This objective was achieved
+by the end of this test phase in March 2003, and the system could be operated at 230 kWe power to grid without major
+problems. In the second test phase from June 2003 to August 2003 the temperature level was increased to almost
+1000  C. The paper describes the system configuration, the component efficiencies and the operation experiences of
+the first 100 h of solar operation of this very successful first test of a solar operated Brayton gas turbine system.
+  2005 Elsevier Ltd. All rights reserved.

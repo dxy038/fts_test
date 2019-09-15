@@ -1,0 +1,1 @@
+A probabilistic model for conflict-based diagnostic problem solving is presented. This model provides an objective measure for ranking hypotheses. Based on the probabilistic model, an algorithm which generates plausible diagnostic hypotheses in decreasing order of their probabilities is presented. Some possible uses of the algorithm are discussed

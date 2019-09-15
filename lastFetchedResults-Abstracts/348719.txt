@@ -1,0 +1,11 @@
+Objective
+The present study presents a novel approach to averaging of event-related potentials (ERPs). Acknowledging latency variability of late ERP components as related to performance fluctuations across trials should improve the assessment of late portions of the ERP.
+Methods
+Prior to the averaging procedure stimulus-to-response epochs in the electroencephalogram (EEG) were expanded/compressed in time to match mean RT in a certain condition and participant. By means of several mathematical functions RT variability was differentially distributed over late vs. early portions of the ERP. Data from 20 participants from two conditions of an identity-based priming task were analyzed using traditional stimulus- and response-locked averaging, as well as four different RT-corrected averaging procedures.
+Results
+Area under the curve as an index of precision of LPC assessment was reliably enhanced for certain RT-corrected procedures relative to traditional ERP averaging. Moreover, a priming effect on amplitude of a distinct LPC subcomponent which could not be confirmed with traditional stimulus-locked averaging was reliably born out using a cubic RT-correction procedure.
+Conclusions
+RT-corrected ERP averaging can outperform traditional ERP averaging in the assessment of late portions of the ERP, and experimental effects upon.
+Significance
+Cognitive ERP researchers may take advantage of the improved capability of RT-corrected averaging to establish experimental effects on amplitudes in the late ERP range.
+

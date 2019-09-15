@@ -1,0 +1,7 @@
+In this paper, both the Wolfe type and Mond Weir type dual problems for a
+class of nondifferentiable multiobjective programs in which every component of the
+objective function contains a term involving the support function of a compact
+convex set are formulated. Weak duality theorems are established under suitable
+conditions. A special case which appears repeatedly in the literature is that the
+support function is the square root of a positive semidefinite quadratic form. This
+and other special cases can be readily generated from our results.

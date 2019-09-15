@@ -1,0 +1,5 @@
+The objective of this paper is to determine the evolution of descriptive parameters during time when machining a hard material (alloyed steel 52 HRC-1900 MPa) with a cubic boron nitride (CBN) tool. The resulting experimental data enable the analysis of cutting characteristics such as tool life, cutting forces, surface roughness and tool wear to be carried out.
+
+A large part of this paper aims at studying the turning of hard materials with CBN inserts, the correlation between wear evolution and the direction of cutting forces during high-speed machining. Due to cost considerations, these trial campaigns were carried out to obtain a maximum of results with a minimum number of attempts.
+
+Based on the experimental results, this paper shows that the geometry of the cut evolves considerably relative to the lifetime of a CBN tool. Cutting forces increase gradually with the increase of the cutting distance and the tool flank wear. Metallurgy state of the surfaces obtained is good and results essentially from the piece–tool interaction in hard turning. Wear of CBN tools does not directly or appreciably affect the manufactured surface.

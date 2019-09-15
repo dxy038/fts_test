@@ -1,0 +1,17 @@
+With the increase of railway transportation demand in the most railway networks, railway operators
+encountered lack of capacity. For improvement of capacity, the basic planning is required.
+The railway capacity is dependent on infrastructure, traffic, and operating parameters. The aim
+of this study is to present a methodology to investigate the appropriate solutions for increasing
+the capacity of railway bottlenecks. In this study, a new optimization model is presented based
+on multi commodity network flow model on a space-time network. The objective of the proposed
+model is to maximize the number of trains in the reference time. The inputs of the model are the
+characteristics of each train type, infrastructure attribute and network configuration. The most important
+constraints used in this model are related to the different kinds of the trains and number of
+the siding tracks at the nodes. By defining the proper criteria based on the capacity and the cost,
+operation of different proposed scenario for increasing the capacity is studied for that railway. We
+used the model to evaluate the solutions for increasing the capacity of Badrood-Ardakan railway
+as one of the Iranian rail bottlenecks. The results show that based on percentage of capacity index,
+the construction of two new nodes and two siding track between the two existing stations is the
+best option. Based on the cost of adding a train, the construction of two new nodes with a siding
+track between the two existing stations is the best choice. Finally, based on the cost –capacity index,
+building a new node (with a siding track) between the two existing stations is the best option.

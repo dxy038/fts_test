@@ -1,0 +1,11 @@
+Objective
+CD14+ monocyte cell lines can differentiate into an osteoclast (OC)-like lineage. However, the identification of human cell lines with stem cell characteristics, capable of differentiating into OCs, would provide a tool for the study of the molecular mechanisms regulating their commitment, differentiation, and function. Since the human acute myeloid leukemia cell line MUTZ-3 contains both CD34+ stem cell and CD14+ cell populations, we investigated the capacity of the stem/progenitor CD34+ population to differentiate into functional OCs.
+Materials and Methods
+
+Sorted MUTZ-3-CD34+ and MUTZ-3-CD14+ cells were cultured in presence of M-CSF, RANK-L, and TNF-α to generate OCs. Differentiation was evaluated by TRAP staining and RT-PCR, which assessed the expression of c-fms, RANK, MMP-9, CATK, TRAP, and CTR in -CD34+OC and -CD14+OC cells. Resorption pit formation was also evaluated. CD34, CD14, M-CSF-R, RANK, and CTR expression was assessed by FACS analysis.
+Results
+
+MUTZ-3-CD34+ differentiated into OCs, displaying the full range of differentiation markers; MMP-9, CATK, TRAP, and RANK mRNA were detected from day 3 of culture, whereas CTR from day 12. Stimulated MUTZ-3-CD34+ generated functional osteoclasts that formed extensive resorption lacunae on both mineralized surface and bone slices. Surprisingly, in both sorted populations we identified a population M-CSF-R+/RANK+ that at the same time co-expressed CD14 and CD34.
+Conclusions
+
+These findings demonstrate that MUTZ-3 cells constitute an invaluable model to study the expression pattern in different developmental stages of commitment and differentiation. Importantly, the data indicate that the CD14+CD34+M-CSF-R+RANK+ population represents an intermediate stage of differentiation from CD34 precursors and monocytes to osteoclast.

@@ -1,0 +1,1 @@
+The tracking control of linear differential inclusions with stochastic disturbance is considered. The feedback law is constructed by the convex hull Lyapunov function. The design objective is to make the error system uniformly ultimately bounded in mean square. Finally, a numerical simulation is given to illustrate the effectiveness of the proposed method.

@@ -1,0 +1,8 @@
+Air quality modelling is an essential tool for most air pollution studies and the introduction of SO2 standards creates a need for
+modelling the dispersion of SO2. This work deals specifically with the use of the Industrial Source Complex Short Term (ISCST)
+model at a refinery. The study is performed over a period of 21 days. The first objective of this study was to measure the atmospheric
+levels of SO2 and then to compare their values with the international standard limits. The second objective was to evaluate the
+ISCST model by comparing the calculated and measured concentrations. The third objective was to demonstrate the effect of wind
+regimes on the dispersion of SO2 and to determine the spatial distribution of SO2 over the modelled area. The results showed that
+the levels of SO2 were well below the ambient air quality standard. Based on isopleths for SO2 distribution in the study area (as
+output from the ISCST model), it can be stated that no health risk is present in areas adjacent to the refinery.

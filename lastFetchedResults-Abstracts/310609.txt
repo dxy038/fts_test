@@ -1,0 +1,11 @@
+Objective. The validity of assessing balance in gait by measuring balance in standing is questionable. Better methods for measuring balance during walking are therefore needed.
+
+Design. It is suggested that the individual will demonstrate adequate postural control by moving a reference point near the body centre of mass (CoM) smoothly towards an intentional goal, even though movements of the extremities show variability consistent with a changing environment.
+
+Background. In spite of an increased interest in variability as a prerequisite for motor control, gait analysis methods focus, to a large extent, on symmetry and repeatability of movements in stereotyped settings.
+
+Methods. Acceleration of a reference point over the lumbar spine is registered during walking by a portable, triaxial accelerometry system.
+
+Results. A quadratic relation between acceleration root mean square (RMS) and walking speed is demonstrated, and a second degree polynomial can therefore be computed as a curve estimate, if acceleration RMS representing at least three walking speeds are available.
+
+Conclusions. The relation between acceleration over a reference point on the trunk and walking speed can be compared between trials and also when walking speeds are self-selected. Calibration procedures and testing of the instrument for precision and accuracy in a mechanical testing jig are described in a companion article.

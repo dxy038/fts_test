@@ -1,0 +1,9 @@
+Objective
+To evaluate the diagnostic efficacy of a bedside immunochromatographic test (CardioDetect) that identifies human heart-type fatty acid–binding protein in whole blood.
+Methods
+Sixty-four patients with chest pain had CardioDetect test performed together with serial determination of serum troponin I (TnI) and creatine kinase (CK). CardioDetect results were interpreted twice, 24 hours apart, by 3 independent observers who were blinded to patients' clinical and laboratory data. Acute myocardial infarction was diagnosed by a physician blinded to the results of the CardioDetect test. Sensitivity, specificity, positive and negative predictive values, diagnostic accuracy, and receiver operating characteristic curves were determined for all tests at 4 predefined times. Intraobserver and interobserver reliabilities were determined.
+Results
+At less than 4 hours after chest pain, CardioDetect had a sensitivity and specificity of 62.5% and 100% compared with 50% and 80% for TnI and 37.5% and 80% for CK, respectively. At more than 4 hours but 12 hours or less in duration, the sensitivity of CardioDetect and TnI was 100%, whereas that of CK was 85.7%. Intraobserver agreement and interobserver reliability were high for CardioDetect (κ >0.80 [P < .0001] and intraclass correlation coefficient, >0.90, respectively).
+Conclusion
+CardioDetect was a reliable point-of-care test for the early diagnosis (<12 hours) of acute myocardial infarction in the ED.
+

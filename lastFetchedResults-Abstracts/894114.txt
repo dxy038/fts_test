@@ -1,0 +1,17 @@
+Task graph scheduling is a multi-objective optimization and NP-hard problem.
+In this paper a new algorithm on homogeneous multiprocessors systems is proposed.
+Basically, scheduling algorithms are targeted to balance the two parameters of time
+and energy consumption. These two parameters are up to a certain limit in contrast
+with each other and improvement of one causes reduction in the other one. The
+problem is to achieve the trade-off between these two parameters. Pre-scheduling
+algorithms are mainly aimed at modifying the structure of task graph to gain
+optimal scheduling.
+In the proposed algorithm the suitable number of processors for scheduling the
+task graph is computed. The idea of Nash equilibrium is mainly applied to compute
+the appropriate number of processors in such a way that the idle time of the
+processors is reduced while their processing power is increased. Also, considering
+the communication costs and interdependencies, the tasks are merged as their
+earliest start time is reduced. In this way, the length of the critical path is reduced
+while the degree of parallelism is increased and ultimately the completion time is
+reduced. Our experimental result on a number of known benchmark graphs
+demonstrates the effect of our proposed algorithm.

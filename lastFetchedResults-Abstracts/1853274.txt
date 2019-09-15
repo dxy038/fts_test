@@ -1,0 +1,8 @@
+Objective
+m is to use multi-dimensional Bayesian network classifiers in order to predict the human immunodeficiency virus type 1 (HIV-1) reverse transcriptase and protease inhibitors given an input set of respective resistance mutations that an HIV patient carries.
+als and methods
+dimensional Bayesian network classifiers (MBCs) are probabilistic graphical models especially designed to solve multi-dimensional classification problems, where each input instance in the data set has to be assigned simultaneously to multiple output class variables that are not necessarily binary. In this paper, we introduce a new method, named MB-MBC, for learning MBCs from data by determining the Markov blanket around each class variable using the HITON algorithm. Our method is applied to both reverse transcriptase and protease data sets obtained from the Stanford HIV-1 database.
+s
+ing the prediction of antiretroviral combination therapies, the experimental study shows promising results in terms of classification accuracy compared with state-of-the-art MBC learning algorithms. For reverse transcriptase inhibitors, we get 71% and 11% in mean and global accuracy, respectively; while for protease inhibitors, we get more than 84% and 31% in mean and global accuracy, respectively. In addition, the analysis of MBC graphical structures lets us gain insight into both known and novel interactions between reverse transcriptase and protease inhibitors and their respective resistance mutations.
+sion
+ algorithm is a valuable tool to analyze the HIV-1 reverse transcriptase and protease inhibitors prediction problem and to discover interactions within and between these two classes of inhibitors.

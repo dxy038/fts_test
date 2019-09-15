@@ -1,0 +1,13 @@
+In this paper, the hybridization of PS (Pattern Search) method and SA (Simulated Annealing)
+are incorporated in the optimization process. This is in order to look for the global
+optimal solution for the fitness function and decision variables as well as minimum
+computational CPU time. The real strength of SA approach has been tested in a case study
+problem of industrial production planning. This is due to the great advantage of SA for
+being easily escaping from trapped in local minima by accepting up-hill move through a
+probabilistic procedure in the final stages of optimization process. In the Ph.D. Thesis by
+Vasant (2008) [4], 16 different techniques were provided of heuristic and meta-heuristic
+approaches in solving industrial production problems with nonlinear cubic objective
+functions, eight decision variables and 29 constraints. In this paper, fuzzy technological
+problems have been solved using hybrid techniques of pattern search and simulated
+annealing (HSAPS). The simulated and computational results are compared to other various
+evolutionary techniques.

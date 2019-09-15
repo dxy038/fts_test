@@ -1,0 +1,5 @@
+We investigate optimal control of a first order partial differential equation (PDE) system representing
+a competitive population model with age structure. The controls are the proportions of the
+populations to be harvested, and the objective functional represents the profit from harvesting. The
+existence and unique characterization of the optimal control pair are established.
+ 2003 Elsevier Inc. All rights reserved.

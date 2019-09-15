@@ -1,0 +1,7 @@
+objective of this work is the development of a ®nite element interface formulation tailored to capture
+localization within geometrically nonlinear solid mechanics. In this context, strong discontinuities are considered as
+the ®nal failure mechanism within localization problems. The failure kinematics are governed by a jump in the
+nonlinear deformation map across a discontinuity surface. In the ®nite element discretization the interface element is
+endowed with these kinematics. As a consequence, the interface stiness is dominated by the weighted spatial
+localization tensor. Based on these developments a localization capturing procedure is advocated and is
+computationally highlighted

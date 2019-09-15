@@ -1,0 +1,20 @@
+Abstract- In this paper, a control technique based on
+simultaneous regulation of all control coefficients for
+Unified Power Flow Controller (UPFC) and Power
+System Stabilizer (PSS) is proposed. Non-Dominated
+Sorting Particle Swarm Optimization (NSPSO) has been
+used for parameter optimization. Studies in time and
+frequency domains for single machine infinite bus power
+system (SMIB) in different operational conditions are
+performed. In the control system, local state variables are
+choose as inputs to control blocks and simultaneous
+regulation of control parameters established out through
+NSPSO algorithm led to appealing results and some
+advantages over the control systems used formerly in
+similar settings. Different scenarios are simulated in this
+learn and compared to the proposed control system using
+the characteristics of the objective function in time
+domain and the position of system poles in frequency
+domain. The efficiency of the proposed system is
+established under different conditions for disturbance and
+variations of loads in the simulation.

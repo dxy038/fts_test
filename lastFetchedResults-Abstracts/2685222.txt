@@ -1,0 +1,1 @@
+To improve the performance of word-of-mouth sentiment classification, this article reevaluates objective sentiment words in the SentiWordNet sentiment lexicon.

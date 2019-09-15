@@ -1,0 +1,8 @@
+Objective
+ntify the accuracy of the Hospital Anxiety and Depression Scale (HADS) as a case-finding instrument for anxiety and depressive disorders.
+
+E, PSYCHINFO, EMBASE, CINAHL, BNI, and AMED were searched from January 1983 to June 2006. Studies were included that administered the HADS, used a standardized psychiatric interview to establish a diagnosis of anxiety or depression, and provided sufficient data on sensitivity and specificity (N=41). Summary sensitivity, specificity, likelihood ratios, and diagnostic odds ratios were calculated for each study. Random effects meta-analytic pooling across studies at the recommended clinical (7/8) and research (10/11) cutoff points was undertaken and summary receiver operating characteristic curves constructed.
+s
+jor depressive disorders, a cut point of ≥8 gave a sensitivity of 0.82 (95% CI, 0.73–0.89) and a specificity of 0.74 (95% CI, 0.60–0.84) and a cut point ≥11 gave a sensitivity of 0.56 (95% CI, 0.40–0.71) and a specificity of 0.92 (95% CI, 0.79–0.97).
+sions
+tudies have shown that the HADS is a useful screening tool to identify emotional distress in nonpsychiatric patients. However, it does not appear to be superior to other screening instruments in terms of identifying specific mental disorders in physical health settings.

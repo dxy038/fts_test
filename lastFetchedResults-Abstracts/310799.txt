@@ -1,0 +1,9 @@
+Objective.  The aim of the study is to investigate the labrum’s ability to seal a pressurised layer of synovial fluid within the joint, and to study the influence of this sealing mechanism on cartilage deformation, interstitial fluid pressure and collagen solid matrix stresses.
+
+Background. Cartilage degeneration has been observed in conjunction with labrum pathology. However, little is known about the function of the labrum. Experimental observations have been reported which are consistent with a sealing function of the labrum.
+
+Methods. The model was an axisymmetric geometric approximation of the acetabular and femoral cartilage layers and the surrounding labrum. A poroelastic formulation was used to account for the solid and fluid components of these hydrated tissues. A sensitivity analysis of the labrum material properties was carried out.
+
+Results. With a compressive load of 1200 N applied across the joint model, the labrum could seal a layer of pressurised fluid between the femur and acetabulum, thus preventing contact of the articulating surfaces. With this sealing effect, loads were transferred across the joint predominantly by uniform pressurisation of the interstitial fluid of the cartilage layers. In the absence of this sealing, strains within the solid matrix of the cartilage layers were higher (e.g. 20% vs. 3%).
+
+Conclusions. The labrum can seal against fluid expression from the joint space. This sealing function protects the cartilage layers of the hip.

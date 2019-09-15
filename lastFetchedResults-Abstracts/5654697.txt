@@ -1,0 +1,1 @@
+A bidirectional WDM-PON exploiting reflective semiconductor amplifiers at the optical network unit (ONU) and a multiwavelength RZ pulsed signal comb at the Central Office (CO) is presented. The reflective SOA acts simultaneously as downstream modulation eraser, upstream amplifier and modulator, thus making the ONU wavelength-independent.

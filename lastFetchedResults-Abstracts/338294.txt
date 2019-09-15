@@ -1,0 +1,11 @@
+Objective
+Many cytotoxic cancer therapeutic drugs activate stress response signaling pathways that transcriptionally activate a variety of genes. We decided to determine if cytotoxic therapies induce inflammatory cytokines with inhibitory effects on hematopoiesis and if lisofylline (LSF), a novel antiinflammatory compound, suppresses this induction.
+Materials and Methods
+
+Mice were treated with cytosine β-d-arabinofuranoside (AraC), cis-platinum(II)diammine-dichloride (CisP), etoposide (VP-16), or melphalan at clinically relevant doses, with or without LSF.
+Results
+
+Spleen cell conditioned media (CM) derived from mice treated with cytotoxic agents, but not from control or LSF treated mice, reduced colony formation by murine bone marrow progenitors belonging to the myeloid, erythroid, megakaryocytic, and B-lymphoid lineages. LSF (100 mg/kg), administered either simultaneously with or up to 48 hours before the cytotoxic agents, suppressed the release of this inhibitory activity. Treatment of inhibitory CM with neutralizing antibodies against known growth inhibitory cytokines, including tumor necrosis factor α, transforming growth factor β, and macrophage inflammatory protein-1α, resulted in enhanced colony growth.
+Conclusion
+
+We conclude that treatment of mice with chemotherapeutic drugs induces the ex vivo production of multilineage hematopoietic inhibitors and that induction of these inhibitors could be abrogated by treatment with LSF. These findings suggest a mechanism whereby LSF can accelerate recovery of hematopoiesis following cytotoxic therapies.

@@ -1,0 +1,12 @@
+We consider a Hilbert space, an orthogonal projection onto a closed subspace and a sequence of downwardly
+directed affine spaces.We give sufficient conditions for the projection of the intersection of the affine
+spaces into the closed subspace to be equal to the intersection of their projections. Under a closure assumption,
+one such (necessary and) sufficient condition is that summation and intersection commute between the
+orthogonal complement of the closed subspace, and the subspaces corresponding to the affine spaces. Another
+sufficient condition is that the cosines of the angles between the orthogonal complement of the closed
+subspace, and the subspaces corresponding to the affine spaces, be bounded away from one. Our results are
+then applied to a general infinite horizon, positive semi-definite, linear quadratic mathematical programming
+problem. Specifically, under suitable conditions, we show that optimal solutions exist and, modulo
+those feasible solutions with zero objective value, they are limits of optimal solutions to finite-dimensional
+truncations of the original problem.
+© 2006 Elsevier Inc. All rights reserved

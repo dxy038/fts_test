@@ -1,0 +1,14 @@
+Open-loop optimal control theory is formulated and applied to damp out the vibrations of a beam where the
+control action is implemented using piezoceramic actuators. The optimal control law is derived by using a maximum
+principle developed for one-dimensional structures where the control function appears in the boundary conditions in
+the form of a moment. The objective function is speci®ed as a weighted quadratic functional of the displacement
+and velocity which is to be minimized at a speci®ed terminal time using continuous piezoelectric actuators. The
+expenditure of control force is included in the objective functional as a penalty term. The explicit solution of the
+problem is developed for cantilever beams using eigenfunction expansions of the state and adjoint variables. The
+eectiveness of the proposed control mechanism is assessed by plotting the displacement and velocity against time.
+It is shown that both quantities are damped out substantially as compared to an uncontrolled beam and this
+reduction depends on the magnitude of the control moment. The capabilities of piezo actuation are also investigated
+by means of control moment versus piezo and beam thickness graphs which indicate the required minimum level of
+voltage to be applied on piezo materials in relation to geometric dimensions of the combined active/passive
+structure. The graphs show the magnitude of the control moment which can be achieved using piezoceramics in
+terms of problem inputs such as voltage, piezo and beam thicknesses

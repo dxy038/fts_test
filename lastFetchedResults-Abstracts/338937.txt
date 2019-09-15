@@ -1,0 +1,11 @@
+Objective
+We examined the anti-tumor effect of pyrrolidinedithiocarbamate (PDTC) on HTLV-1-infected T clones and the mechanism of HTLV-1 Tax protein inhibition of PDTC-induced apoptosis.
+Materials and Methods
+
+Tax-nonproducing clones S1T and Su9T01, Tax-producing clones K3T and F6T, and Tax cDNA stably transfected S1TcTax clones S1TcTax04 and S1TcTax05 were examined for PDTC inhibition of thymidine incorporation and apoptosis induction by ISEL method. In addition, S1TcTax clones were analyzed by DNA histography and DNA fragmentation and also examined for p53, p21, or Bax protein expression by Western blot.
+Results
+
+PDTC inhibited thymidine incorporation of all four HTLV-1–infected T cells in a similar dose-dependent manner, but K3T and F6T were more resistant than S1T and Su9T01 in apoptosis induction. S1TcTax clones also showed resistance to PDTC-induced apoptosis as compared to Tax-nonproducing S1T and S1Tneo. DNA histography demonstrated that PDTC induces G1 arrest and apoptosis in S1T and S1Tneo, and that S1TcTax clones are also sensitive to PDTC in G1 arrest but resistant in apoptosis induction. DNA fragmentation also demonstrated ladder formation only in S1Tneo but not in S1TcTax04. Western blots demonstrated higher expression of p53 and p21 proteins in S1Tneo than in S1TcTax04 during whole phase after PDTC stimulation with moderate enhancement in S1Tneo but small in S1TcTax04. Bax protein expression was detected only at early phase in S1Tneo but was not detected in S1TcTax04.
+Conclusion
+
+These findings suggest that PDTC-induced apoptosis is related with Bax, and that G1 arrest is possibly related with p21. Tax might inhibit apoptosis induction mainly via inhibition of Bax expression preceded at least in part by p53 inhibition.

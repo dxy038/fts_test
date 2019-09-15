@@ -1,0 +1,11 @@
+Objective
+Homeostasis of the hematopoietic compartment is challenged and maintained during conditions of stress by mechanisms that are poorly defined. To understand how the bone marrow (BM) microenvironment influences hematopoiesis, we explored the role of Notch signaling and BM endothelial cells in providing microenvironmental cues to hematopoietic cells in the presence of inflammatory stimuli.
+Materials and Methods
+
+The human BM endothelial cell line (BMEC) and primary human BM endothelial cells were analyzed for expression of Notch ligands and the ability to expand hematopoietic progenitors in an in vitro coculture system. In vivo experiments were carried out to identify modulation of Notch signaling in BM endothelial and hematopoietic cells in mice challenged with tumor necrosis factor-α (TNF-α) or lipopolysaccharide (LPS), or in Tie2-tmTNF-α transgenic mice characterized by constitutive TNF-α activation.
+Results
+
+BM endothelial cells were found to express Jagged ligands and to greatly support progenitor's colony-forming ability. This effect was markedly decreased by Notch antagonists and augmented by increasing levels of Jagged2. Physiologic upregulation of Jagged2 expression on BMEC was observed upon TNF-α activation. Injection of TNF-α or LPS upregulated three- to fourfold Jagged2 expression on murine BM endothelial cells in vivo and resulted in increased Notch activation on murine hematopoietic stem/progenitor cells. Similarly, constitutive activation of endothelial cells in Tie2-tmTNF-α mice was characterized by increased expression of Jagged2 and by augmented Notch activation on hematopoietic stem/progenitor cells.
+Conclusions
+
+Our results provide the first evidence that BM endothelial cells promote expansion of hematopoietic progenitor cells by a Notch-dependent mechanism and that TNF-α and LPS can modulate the levels of Notch ligand expression and Notch activation in the BM microenvironment in vivo.

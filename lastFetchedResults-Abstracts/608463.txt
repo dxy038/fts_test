@@ -1,0 +1,5 @@
+This paper investigates the casual relationship between human capital, social capital and economic growth of Iran for the period 1971-2008. We examine unit root properties of the time series. Along with the traditional unit root test, we use the procedure developed by Zivot and Andrews (1992) to test the null of unit root against the break stationary alternative. We use a modified version of the Granger causality test due to Toda and Yamamoto (1995). Then we use eight variables as indicator of the social capital. Although the results were sensitive to them but most of the indicators of the social capital show that: 
+1.	Human capital causes Social capital.
+2.	There is bidirectional causality between economic growth (with oil) and social capital.
+3.	Social capital causes economic growth (without considering oil).
+

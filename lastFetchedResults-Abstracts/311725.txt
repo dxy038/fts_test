@@ -1,0 +1,11 @@
+Background
+The ability to reproduce head position can be affected in patients after a neck injury. The repositioning error is commonly used as a measure of proprioception, but variations in the movement might provide additional information.
+Methods
+
+The axis of motion and target performance were analyzed during a head repositioning task (flexion, extension and side rotations) for 24 control subjects, 22 subjects with whiplash-associated disorders and 21 with non-specific neck pain. Questionnaires regarding pain intensity and fear avoidance were collected. Head position and axis of motion parameters were calculated using a helical axis model with a moving window of 4°.
+Findings
+
+During flexion the whiplash group had a larger constant repositioning error than the control group (−1.8(2.9)° vs. 0.1(2.4)°, P = 0.04). The axis was more inferior in both neck pain groups (12.0(1.6) cm vs. 14.5(2.0) cm, P < 0.05) indicating movement at a lower level in the spine. Including pain intensity from shoulder and neck region as covariates showed an effect on the axis position (P = 0.03 and 0.04). During axial rotation to the left there was more variation in axis direction for neckpain groups as compared with controls (4.0(1.7)° and 3.7(2.4)° vs. 2.3(1.9)°, P = 0.01 and 0.05). No significant difference in fear avoidance was found between the two neck pain groups.
+Interpretation
+
+Measuring variation in the axis of motion together with target performance gives objective measures on proprioceptive ability that are difficult to quantify by visual inspection. Repositioning errors were in general small, suggesting it is not sufficient as a single measurement variable in a clinical situation, but should be measured in combination with other tests, such as range of motion.

@@ -1,0 +1,1 @@
+This paper deals with the problem of image transmission over error-prone channels. A comparison between ISO/IEC image coding standards JPEG, JPEG 2000 and JPEG XR is presented. The main objective is to evaluate the performances of the recently standardized JPEG XR in transmissions over channel affected by errors.

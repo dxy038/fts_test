@@ -1,0 +1,21 @@
+Background: Regarding the importance of right diagnosis in medical applications,
+various methods have been exploited for processing medical images solar. The method
+of segmentation is used to analyze anal to miscall structures in medical imaging.
+Objective: This study describes a new method for brain Magnetic Resonance Im
+age (MRI) segmentation via a novel algorithm based on genetic and regional growth.
+Methods: Among medical imaging methods, brains MRI segmentation is important
+due to high contrast of non-intrusive soft tissue and high spatial resolution. Size varia
+tions of brain tissues are often accompanied by various diseases such as Alzheimer’s
+disease. As our knowledge about the relation between various brain diseases and de
+viation of brain anatomy increases, MRI segmentation is exploited as the frst step
+in early diagnosis. In this paper, regional growth method and auto-mate selection of
+initial points by genetic algorithm is used to introduce a new method for MRI segmen
+tation. Primary pixels and similarity criterion are automatically by genetic algorithms
+to maximize the accuracy and validity in image segmentation.
+Results: By using genetic algorithms and defning the fxed function of image seg
+mentation, the initial points for the algorithm were found. The proposed algorithms are
+applied to the images and results are manually selected by regional growth in which
+the initial points were compared. The results showed that the proposed algorithm could
+reduce segmentation error effectively.
+Conclusion: The study concluded that the proposed algorithm could reduce seg
+mentation error effectively and help us to diagnose brain diseases.

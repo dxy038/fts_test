@@ -1,0 +1,12 @@
+The observer-based robust fault detection (RFD) design problems are studied for nonlinear
+Markov jump systems (MJSs). Initially, multi-layer neural networks (MNN) are constructed
+as an alternative to approximate the nonlinear terms. Subsequently, the linear difference
+inclusion (LDI) representation is established for this class of approximating MNN. Then,
+attention is focused on constructing the residual generator based on observer. What is
+more, in order to take into account the robustness against disturbances and sensitivity
+to faults simultaneously, the H1 filtering problem is formulated to minimize the influences
+of the unknown input and another new performance index is introduced to enhance the
+sensitivity to faults. Based on this, the RFD observer design problem is finally formulated
+as a two-objective optimization and the linear matrix inequality (LMI) approach is developed.
+An illustrative example demonstrates that the proposed RFD observer can detect the
+faults shortly after the occurrences without any false alarm.

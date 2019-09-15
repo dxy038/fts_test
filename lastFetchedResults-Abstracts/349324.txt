@@ -1,0 +1,11 @@
+Objective
+To study the role of gamma oscillations (>30 Hz) in selective attention using subdural electrocorticography (ECoG) in humans.
+Methods
+We recorded ECoG in human subjects implanted with subdural electrodes for epilepsy surgery. Sequences of auditory tones and tactile vibrations of 800 ms duration were presented asynchronously, and subjects were asked to selectively attend to one of the two stimulus modalities in order to detect an amplitude increase at 400 ms in some of the stimuli.
+Results
+Event-related ECoG gamma activity was greater over auditory cortex when subjects attended auditory stimuli and was greater over somatosensory cortex when subjects attended vibrotactile stimuli. Furthermore, gamma activity was also observed over prefrontal cortex when stimuli appeared in either modality, but only when they were attended. Attentional modulation of gamma power began  400 ms after stimulus onset, consistent with the temporal demands on attention. The increase in gamma activity was greatest at frequencies between 80 and 150 Hz, in the so-called high-gamma frequency range.
+Conclusions
+There appears to be a strong link between activity in the high-gamma range (80–150 Hz) and selective attention.
+Significance
+Selective attention is correlated with increased activity in a frequency range that is significantly higher than what has been reported previously using EEG recordings.
+

@@ -1,0 +1,1 @@
+Suppose p traveling salesmen must visit together all points/nodes of a tree, and the objective is to minimize the maximum of lengths of their tours. For location-allocation problems (where both optimal home locations of the salesmen and their tours must be found), which are NP-complete, fast polynomial heuristics with worst-case relative error (p − 1)(p + 1) are presented.

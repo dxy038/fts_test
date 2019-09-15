@@ -1,0 +1,9 @@
+The paper deals with the energy analysis and optimization of a complete biomass-to-electricity energy pathway, starting from raw biomass towards the production of renewable electricity.
+
+rst step (biomass-to-biogas) is based on a real pilot plant located in Environment Park S.p.A. (Torino, Italy) with three main steps ((1) impregnation; (2) steam explosion; (3) enzymatic hydrolysis), completed by a two-step anaerobic fermentation.
+
+ second step (biogas-to-electricity), the paper considers two technologies: internal combustion engines and a stack of solid oxide fuel cells.
+
+ the complete pathway has been modeled and validated through experimental data. After, the model has been used for an analysis and optimization of the complete thermo-chemical and biological process, with the objective function of maximization of the energy balance at minimum consumption.
+
+mparison between ICE and SOFC shows the better performance of the integrated plants based on SOFC.

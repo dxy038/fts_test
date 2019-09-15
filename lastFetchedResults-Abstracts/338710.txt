@@ -1,0 +1,11 @@
+Objective
+Several investigators have reported that transforming growth factor (TGF)-β1 and granulocyte-macrophage colony-stimulating factor (GM-CSF) synergistically support cell proliferation. However, the mechanisms involved have not been elucidated. To clarify the mechanisms of the synergistic action of TGF-β1 and GM-CSF, we compared the activation states of STAT5 and mitogen-activated protein kinase in CD34+ cells and in GM-CSF–dependent hematopoietic cell lines.
+Materials and Methods
+
+Human CD34+ cells and GM-CSF–dependent cell lines (FKH-1, YNH-1, and M-07e) were stimulated with 1.25 ng/mL GM-CSF and/or 0.25 ng/mL TGF-β1, and 1.25 ng/mL GM-CSF and/or 0.25 ng/mL, 0.025 ng/mL TGF-β1, respectively, and cell proliferation was analyzed by [3H]thymidine uptake. Expression of signal transduction proteins and their phosphorylation states were determined by Western blotting.
+Results
+
+TGF-β1 synergistically enhanced the GM-CSF–augmented growth of CD34+ cells and FKH-1 cells, but inhibited the growth of YNH-1 and M-07e cells. Tyrosine phosphorylation of STAT5 induced by GM-CSF was enhanced by stimulation with the combination of TGF-β1 and GM-CSF (TGF-β1/GM-CSF) compared with that induced by GM-CSF alone in CD34+ cells and FKH-1 cells. However, combinations of TGF-β1/GM-CSF caused inhibition of GM-CSF–induced tyrosine phosphorylation in M-07e cells. No significant difference was observed in mitogen-activated protein kinase activation between CD34+ cells and FKH-1 cells stimulated with GM-CSF/TGF-β1 or GM-CSF alone.
+Conclusions
+
+Results suggest that TGF-β1 may augment GM-CSF–induced proliferation of CD34+ cells in association with enhanced tyrosine phosphorylation of STAT5. Our data suggest a novel mechanism for the synergistic enhancement of cellular growth induced by the combination of TGF-β1 and GM-CSF.

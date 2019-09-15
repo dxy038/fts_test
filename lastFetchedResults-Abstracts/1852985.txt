@@ -1,0 +1,8 @@
+Objective
+effort to address the problem of laboratory errors, we develop and evaluate a method to detect mismatched specimens from nationally collected blood laboratory data in two experiments.
+s
+eriments 1 and 2 using blood labs from National Health and Nutrition Examination Survey (NHANES) and values derived from the Diabetes Prevention Program (DPP) respectively, a proportion of glucose and HbA1c specimens were randomly mismatched. A Bayesian network that encoded probabilistic relationships among analytes was used to predict mismatches. In Experiment 1 the performance of the network was compared against existing error detection software. In Experiment 2 the network was compared against 11 human experts recruited from the American Academy of Clinical Chemists. Results were compared via area under the receiver-operator characteristic curves (AUCs) and with agreement statistics.
+s
+eriment 1 the network was most predictive of mismatches that produced clinically significant discrepancies between true and mismatched scores ((AUC of 0.87 (±0.04) for HbA1c and 0.83 (±0.02) for glucose), performed well in identifying errors among those self-reporting diabetes (N = 329) (AUC = 0.79 (±0.02)) and performed significantly better than the established approach it was tested against (in all cases p &lt; .0.05). In Experiment 2 it performed better (and in no case worse) than 7 of the 11 human experts. Average percent agreement was 0.79 and Kappa (κ) was 0.59, between experts and the Bayesian network.
+sions
+an network can accurately identify mismatched specimens. The algorithm is best at identifying mismatches that result in a clinically significant magnitude of error.

@@ -1,0 +1,5 @@
+This work investigates a novel approach for cloud motion wind (CMW) estimation of Meteosat infrared images. It is motivated
+by the fact that variational techniques, such as those employed for computing the optical flow, are successfully applied to many
+computer vision applications but fail in this particular applicative context, mainly because optical flow techniques are adapted to
+rigid objects on visible data. The objective of this work is not to propose a full operational process for CMW estimation, but rather
+to improve optical flow techniques by applying constraints adapted to the specificity of meteorological infrared imagery.

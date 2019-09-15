@@ -1,0 +1,5 @@
+In this study, an algorithm combining a GA-based optimization model and a water quality simulation model is developed for determining reservoir operating policies, considering water quality issues.
+
+To reduce the run time of the GA-based optimization model, a trained Adaptive Neuro-Fuzzy Inference System (ANFIS) is used for water quality simulation in a reservoir. The main problem is also decomposed to a long-term and an annual optimization model and it is shown that the proposed model does not reduce the accuracy of the reservoir operating policies. The reliability of the water supply is considered to be the objective function in the long-term stochastic optimization model. The operating rules obtained using this long-term model provide the time series of the optimum reservoir water
+
+storages at the beginning and end of each water year. In the next step, these optimal reservoir storage values are considered as constraints for annual reservoir operation optimization models (annual models), whose objectives are related to the allocated water quantity and quality. The proposed model is applied to the 15-Khordad Reservoir in the central part of Iran.

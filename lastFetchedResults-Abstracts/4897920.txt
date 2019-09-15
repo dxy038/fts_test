@@ -1,0 +1,1 @@
+The aim of this paper is to present a model for solving multi-objective optimization problems with high dimensionality using distributed computing. It demonstrates feasibility of the model by applying Bees Algorithm to solve Economic Dispatch problem using ACEnet Grid resources.

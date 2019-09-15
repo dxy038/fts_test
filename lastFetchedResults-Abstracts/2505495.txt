@@ -1,0 +1,18 @@
+The objective of this paper is to develop an artificial neural network (ANN) model which can be
+used to predict temperature rise due to climate change in regional scale. In the present work data recorded over
+years 1985-2008 have been used at training and testing steps for ANN model. The multilayer perceptron
+(MLP) network architecture is used for this purpose. Three applied optimization methods are backpropagation
+(BP) (in both input selection and weight optimization), genetic algorithm (GA) (in both input selection and
+weight optimization) and combined GA-particle swarm optimization (PSO) (input selection by GA and
+weight optimization by PSO). In this framework, natural and anthropogenic parameters which affect the
+incoming solar radiation are considered in order to predict the climate change induced temperature rise in
+regional scale. Inputs of ANN model are mean temperature, dew point temperature, relative humidity, wind
+speed, solar radiation, cloudiness, rainfall, station-level pressure (QFE) and greenhouse gases. For predicting
+monthly mean temperature, input data include one month, six months, 12 months and 24 months before
+recorded data. In this work, nine stations namely Tehran, Mashhad, Ramsar, Orumiyeh, Sanandaj, Yazd,
+Ahwaz, Bandar Abbas and Chabahar in nine different climatic region of Iran are chosen to determine the
+temperature rise over Iran. Results show that the averaged minimum square errors (MSE) are 0.0196, 0.0224
+and 0.0228 for ANN-BP, ANN-GA and ANN-GA-PSO methods, respectively. The ANN model associated
+with BP optimization method predict annual mean temperature rise as 0.44, 0.49, 0.20, 0.12, 0.17, 0.46, 0.41,
+0.06 and 0.01 °C after 10 years for mentioned stations, respectively. These values show the average
+temperature rise of 0.26 °C  after 10 years (the base year is 2008) for Iran.

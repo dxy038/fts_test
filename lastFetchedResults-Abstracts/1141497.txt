@@ -1,0 +1,7 @@
+Multi-physics phenomena during radio frequency (RF) heating of a foodstuff, shaped as cube, cylinder or sphere, have been theoretically studied.
+
+The objective of this paper was to analyze the effects of sample shape and orientation on heating rate and temperature distribution, once distance between electrodes, electrode to product air gap, sample:oven volume ratio and sample surface directly exposed to the electrode are defined.
+
+For this purpose, considering meat batters as sample food regularly shaped as cube, cylinder and sphere, with dielectric and physical properties functions of temperature, a 3D multi-physic mathematical model has been developed, for which the specific absorbed power, appearing as source term in the heat-conduction equation, was obtained by solving Gauss law, stated for electro-quasi-static conduction in inhomogeneous materials with non uniform permittivity.
+
+Results showed a great influence of the sample shape on heating rate and on temperature distribution within the sample. For the cylindrical shapes the orientation is a key parameter: the vertically oriented cylinder showed a greater tendency to heating and to temperature evenness than the horizontally oriented one.

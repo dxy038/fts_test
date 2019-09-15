@@ -1,0 +1,9 @@
+Objective
+We previously reported that ganglioside GD1a greatly enhanced spontaneous immunoglobulin (Ig) production by human peripheral blood mononuclear cells (PBMC) in vitro. We herein examined the mechanism for the stimulatory effect of GD1a.
+Materials and Methods
+PBMC from healthy volunteers were cultured with GD1a. The amounts of IgG, IgM, and IgA and cytokine activity in the culture supernatants were measured by enzyme-linked immunosorbent assays. Proliferation was determined by [3H] thymidine uptake.
+Results
+GD1a at 10−6 M increased IgG, IgM, and IgA production by PBMC 2.10-fold, 2.10-fold, and 2.23-fold above the control values, respectively. GD1a did not affect the proliferation and viability of PBMC. GD1a did not alter Ig production of B cells alone. Anti-interleukin-6 (IL-6) or anti-IL-10 antibody each partially blocked the GD1a-induced enhancement of Ig production by PBMC, and the addition of both antibodies completely blocked the enhancement. GD1a increased IL-6 and IL-10 production of monocytes without altering those of T cells or B cells. The supernatant from GD1a-treated monocytes enhanced B cell Ig production to a greater extent than that from medium-treated monocytes. The supernatant-mediated effect of GD1a was partially blocked by anti-IL-6 or anti-IL-10 antibody, and the addition of both antibodies completely blocked the GD1a effect. GD1a-induced increases of IL-6 and IL-10 production in monocytes were both blocked by Ca2+/calmodulin (CaM)-dependent phosphodiesterase (PDE) inhibitors, 8-methoxymethyl-3-isobutyl-1-methylxanthine and vinpocetin, but not by other signal-transducing enzyme inhibitors. The culture with GD1a enhanced Ca2+/CaM-dependent PDE activity in monocytes.
+Conclusion
+These results suggest that GD1a may indirectly enhance B cell Ig production in whole PBMC by increasing IL-6 and IL-10 production of monocytes via promoting Ca2+/CaM-dependent PDE activity.
+

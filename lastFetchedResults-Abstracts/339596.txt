@@ -1,0 +1,11 @@
+Objective
+Sickle cell anemia is a genetic blood disease resulting from production of mutant β-globin (βS) and has severe clinical consequences. It is known that a higher cellular γ-globin level, e.g., higher ratio of cellular γ-globin to βS-globin (γ/βS ratio), inhibits sickle hemoglobin (HbS) polymerization tendency. Hence, therapeutic treatment of sickle cell anemia has been focused on introducing γ-globin gene into red blood cells to increase the cellular γ/βS ratio. Here, we have introduced ribozymes and small interfering RNAs (siRNAs) against βS-globin mRNA into blood cells as a means to increase the γ/βS ratio.
+Materials and Methods
+
+Single and multiribozymes against βS-globin mRNA have been tested in vitro and in human erythroleukemia K562βS cells that stably express exogenous βS-globin gene. Primary human hematopoietic progenitor cells were also transfected with multiribozyme and the γ/(γ + β) ratio determined and compared with cells transfected with long hairpin β-globin cDNA and synthetic siRNA genes.
+Results
+
+We have found that the multiribozyme zb21A containing two ribozyme units effectively reduces βS-globin mRNA both in vitro and in K562βS cells. The γ-globin mRNA to βS-globin mRNA ratio in the multiribozyme transfected cells is about a factor of 2 more than that in the control cells. We have also found that the γ/(γ + β) ratio in the transfected hematopoietic progenitor cells is increased by more than twofold in cells treated with multiribozyme zb21A or siRNA ib5.
+Conclusion
+
+Our results suggest that introducing multiribozymes or siRNAs into red blood cells is comparable in their effectiveness to increase the ratio of cellular γ-globin mRNA to β- or βS-globin mRNA, providing possible strategies to increase the effectiveness of γ-globin gene transfer as gene therapy for treatment of patients with sickle cell anemia.

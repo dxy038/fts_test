@@ -1,0 +1,22 @@
+This paper discusses an integrated teaching laboratory
+approach to multivariable control as part of final year
+undergraduate and graduate control courses successfully taught
+by the authors in recent years. The perceived jump in mathematical
+sophistication required of students and the uneasy fit
+with previously learned classical control material are eliminated.
+One such laboratory teaching situation is described in detail.
+This concerns the multivariable control of a two-input twooutput
+coupled-drives apparatus where the control objective is
+the simultaneous control of belt speed and tension using the
+input voltages to the two servo drive motors as control inputs. As
+with classical single-input single-output (SISO) control, student
+tasks involve plant modeling, analysis, specification, design, and
+implementation in that order. The multivariable control approach
+adopted is known as Individual Channel Analysis and Design
+(ICAD). Of particular value to students and instructors alike
+is the fact that this approach to multivariable control is very
+classical-like in its motivations and feel while fully cognizant
+of multivariable structure. As a result, multivariable control
+that directly extends classical control principles is well within
+the reach of final year undergraduate students in an integrated
+teaching laboratory environment.

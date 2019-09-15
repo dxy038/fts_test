@@ -1,0 +1,1 @@
+In using the Galerkin-type loop-star method of moment to solve electromagnetic problems, it is necessary to compute double integrals. The objective in this report is to determine the appropriate numerical integration rule.

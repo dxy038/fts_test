@@ -1,0 +1,1 @@
+In this paper we present a methodology to obtain converging lower and upper bounds to multiple objective problems which incorporate the H <sub>2</sub> performance measure and time domain criteria. This methodology avoids many of the problems which are present in methods which employ zero interpolation techniques to characterize achievable closed loop maps

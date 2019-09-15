@@ -1,0 +1,1 @@
+A novel encoding scheme of a bidirectional associative memory (BAM) incorporating high-order nonlinearity is proposed. This method significantly improves the storage capacity and error-correcting capability of the BAM.

@@ -1,0 +1,1 @@
+We present a wavelength duplexer in silicon-on-insulator photonic wires. We made a polarization-diversity circuit using fiber grating couplers with polarization splitter and a bidirectional AWG, resulting in a polarization dependent loss of only 0.66dB.

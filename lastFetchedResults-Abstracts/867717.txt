@@ -1,0 +1,9 @@
+This paper investigates the one-machine sequencing problem in a workshop where the machine has to
+satisfy the no-idle constraint, that is, the machine must process jobs without interruption. The objective
+is to minimize the makespan. Each job has a release date for which it is available for processing on the
+machine and a delivery time during which it must remain in the system after being processed by the
+machine. This problem has been studied without adding the no-idle constraint. It is solved in polynomial
+time, when the preemption of jobs is allowed, applying Jackson’s rule. But, when the preemption of jobs is
+not allowed, it becomes strongly NP-hard. Although, it can be solved in a very short time using Carlier’s
+branch and bound algorithm. Below, we propose to adapt Carlier’s branch and bound method in order to
+calculate an optimal nonpreemptive schedule for the problem when adding the no-idle constraint.

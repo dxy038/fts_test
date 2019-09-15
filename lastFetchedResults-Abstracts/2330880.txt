@@ -1,0 +1,13 @@
+There are several methods for solving fuzzy linear programming (FLP)
+problems. When the constraints and/or the objective function are fuzzy, the methods
+proposed by Zimmermann, Verdegay, Chanas and Werners are used more often than
+the others. In the Zimmerman method (ZM) the main objective function cx is added
+to the constraints as a fuzzy goal and the corresponding linear programming (LP)
+problem with a new objective (? ) is solved. When this new LP has alternative optimal
+solutions (AOS), ZM may not always present the "best" solution. Two cases may occur:
+cx may have different bounded values for the AOS or be unbounded. Since all of the
+AOS have the same ? , they have the same values for the new LP. Therefore, unless
+we check the value of cx for all AOS, it may be that we do not present the best
+solution to the decision maker (DM); it is possible that cx is unbounded but ZM
+presents a bounded solution as the optimal solution. In this note, we propose an
+algorithm for eliminating these difficulties.

@@ -1,0 +1,11 @@
+Objective
+To address the issue as to how best to perform statistical MUNE, we applied two different approaches and compared results in healthy subjects and ALS patients.
+Methods
+Twelve normal subjects (women 8, mean age 52 years) and 11 ALS patients (women 4, mean age 54 years) underwent two consecutive MUNE studies, which differed in terms of setting and modifying the recording window. These are referred to as the ‘expansion’ and ‘narrowing’ methods, respectively. Size-weighted average (Av) SMUP and MUNE values were obtained using the two methods, and compared in control and patient groups.
+Results
+Expansion method-derived Av SMUP sizes and MUNE values differed only slightly from those obtained using the narrowing method in healthy subjects, whereas the narrowing method resulted in significantly larger Av SMUP sizes and smaller MUNE values than the expansion method in ALS patients (Wilcoxon signed ranks test, p = 0.003). The sizes of tested areas (mean ± SD) were significantly larger for the narrowing method than the expansion method in both subject groups with much greater difference in ALS patients; 9.6 ± 3.1% vs. 7.9 ± 1.7% in healthy subjects and 16.1 ± 5.1% vs. 11.2 ± 3.0% in ALS patients (Student t-test, p < 0.01).
+Conclusions
+The present study shows, unlike that found in normal subjects, that the results of statistical MUNE in ALS patients are heavily dependent on the approach used to set and modify recording windows.
+Significance
+The expansion method using a 10%-sized window is likely to suffer from systemic errors due to the ceiling effect and the sampling of artifactually small motor units in ALS patients. The authors recommend that the narrowing method be considered as an alternative that avoids these problems.
+

@@ -1,0 +1,10 @@
+Mathematical models are used in many areas of supply chain management. Here, we present a mixed-integer non-linear
+programming (MINLP) model to solve a multi-period, closed-loop supply chain (CLSC) with two echelons of producers and customers. To
+satisfy the customers’ demands, the manufacturer must produce the product,; so, they have to order materials at the beginning of each
+period for the current or later periods. A fleet of heterogeneous vehicles is routed to deliver the products from the producers to the
+customers and to pick up defective products from the customers to transport to the collection-repair center. The objective function
+maximizes the profit, which is equal to total cost minus income. The income is divided into two parts (selling products and wastes), and the
+total cost consists of the cost of defective product, ordering, holding in producers and collection-repair center, transportation, and assigning
+place for the collection-repair center. Two numerical examples with their computational results are discussed, and then a solution approach
+is presented which is analyzed by applying the examples to show the efficiency of the proposed method. The results demonstrate that the
+approach performances are faster than the MINLP model with negligible gap.

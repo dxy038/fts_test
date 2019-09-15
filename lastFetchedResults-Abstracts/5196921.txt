@@ -1,0 +1,1 @@
+By using the method of Lyapunov function and analysis technique, a model for bidirectional associative memory with impulsive and delay is studied. Sufficient conditions are obtained for the existence of &#969;-periodic solution and all other solutions are globally exponentially convergent to it.

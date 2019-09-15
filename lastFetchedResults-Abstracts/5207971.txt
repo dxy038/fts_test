@@ -1,0 +1,1 @@
+The objective of this paper is to develop a multisensor fusion approach based on particle filter for autonomous mobile robot localization. Sensors used here are ultrasonic sensor and received signal strength (RSS) which is a byproduct of ZigBee communication device. Both two sensors are inexpensive compared with other range sensors.

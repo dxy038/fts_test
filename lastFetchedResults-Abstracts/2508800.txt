@@ -1,0 +1,17 @@
+Background: Dose assessment using proper dosimeters is especially important
+in radiation protection optimization and imaging justifcation in diagnostic radiology.
+Objective: The aim of this study is to obtain the Entrance Skin Dose (ESD) of
+patients undergoing lumbar spine imaging using two thermoluminescence dosimeters
+TLD-100 (LiF: Mg, Ti) and GR-200 (LiF: Mg, Cu, P) and also to obtain the absorbed
+dose to different organs in lumbar spine imaging with several views.
+Methods: To measure the ESD values of the patients undergoing lumbar spine imaging, the two TLD types were put on their skin surface. The ESD values for different
+views of lumbar spine imaging were also measured by putting the TLDs at the surface of the Rando phantom. Several TLD chips were inserted inside different organs
+of Rando phantom to measure the absorbed dose to different organs in lumbar spine
+imaging.
+Results: The results indicate that there is a close agreement between the results of
+the two dosimeters. Based on the results of this experiment, the ESD dose of the 16 patients included in this study varied between 2.71 mGy and 26.29 mGy with the average
+of 11.89 mGy for TLD-100, and between 2.55 mGy and 27.41 mGy with the average
+of 12.32 mGy for GR-200 measurements. The ESDs obtained by putting the two types
+of TLDs at the surface of Rando phantom are in close agreement.
+Conclusion: According to the results, the GR200 has greater sensitivity than the
+TLD-100.

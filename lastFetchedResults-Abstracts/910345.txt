@@ -1,0 +1,13 @@
+Modeling techniques for estimating pollutant loadings to water bodies range from simple export coefficient and regression models to more
+complex mechanistic models. All export coefficient models and many complex mechanistic models rely on pollutant export coefficients to
+estimate pollution sources and transport in large watersheds. Typically, pollutant export coefficients are determined by monitoring small catchments
+or field plots to isolate individual landuse contributions. However, pollutant export coefficients derived from small catchment and field
+plot scale studies cannot be confidently used in catchment-scale water quality modeling. The objective of this paper is to present a framework to
+estimate the export coefficients of pollutants from commonly available in-stream water quality monitoring data. A combination of readily and
+freely available statistical, spatial and hydrological tools and a multiple regression methodology is proposed to estimate pollutant export coefficients.
+A case study from the Fuji River catchment, Japan is presented where export coefficients of organic matters and nutrients are estimated.
+Most of the estimated pollutant export coefficients are significant at a equal to 0.05 and the landuse categories used in the multiple regression
+models explained more than 85% variability in loadings. These results are encouraging especially given the pressing need to identify appropriate
+management practices to improve the water quality within the catchment. It is recommended to investigate further the required number of water
+quality monitoring stations, sampling frequencies and sampling duration of water quality constituents to enhance the robustness and usefulness
+of the proposed methodology.

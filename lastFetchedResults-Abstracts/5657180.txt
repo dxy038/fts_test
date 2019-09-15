@@ -1,0 +1,1 @@
+A general architecture is presented to solve the multisensor, multitarget recognition and tracking problem. Candidate maximum a posteriori objective functionals are presented for kinematic and attribute report correlation. The treatment of multispectral noncommensurate attributes via their target classification capability is derived.

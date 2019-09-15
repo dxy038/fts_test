@@ -1,0 +1,11 @@
+Background
+The Clinical Outcomes Assessment Program (COAP) from the state of Washington recently published a risk model for hospital mortality after percutaneous coronary intervention (PCI), which was validated by a consortium of hospitals in 4 northeastern states. The Providence Health System (PHS) Cardiovascular Study Group data was used to further validate this COAP model using data from PHS hospitals in 3 western states.
+Methods
+
+All 13 124 consecutive PCI procedures performed in 6 PHS hospitals from July 2001 through June 2004 were included. The c index was used to test model discrimination. The Hosmer-Lemeshow test, the le Cessie-van Houwelingen-Copas test, and the cumulative sum method were used to test model calibration.
+Results
+
+The patient profiles of the COAP data and the PHS data were similar. The overall mortality was 1.6% for COAP and 1.4% for PHS. The subgroup mortalities were also similar. When applying the COAP model to the PHS data, the c index (95% CI) was 0.893 (0.859-0.928), indicating excellent discrimination, and the le Cessie-van Houwelingen-Copas test and the cumulative sum method showed good global goodness of fit.
+Conclusion
+
+The COAP model for hospital mortality was successfully validated using PHS data. With the advance of technology and changing patient profile, PCI models must be periodically checked for possible updating to reflect contemporary practice. Predictors in a PCI risk model should be objective, have standard definitions, and be easy to obtain to facilitate the transportability of the model.

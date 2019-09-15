@@ -1,0 +1,21 @@
+The 40% of wall thickness criterion which
+has been used as a plugging rule is applicable only to
+a single cracked steam generator tubes. In the previous
+studies performed by authors, several failure predictionmodels
+were introduced to estimate the plastic collapse
+pressures of steam generator tubes containing two
+adjacent collinear or parallel axial through-wall cracks.
+The objective of this study is to examine the failure
+prediction models and propose optimum ones for two
+non-aligned axial through-wall cracks in steam generator
+tubes. In order to determine the optimum ones, a
+series of plastic collapse tests and finite element analyses
+were carried out for steam generator tubes with
+two machined non-aligned axial through-wall cracks.
+Thereby, either the plastic zone contact model or COD
+based model was selected as the optimum one according
+to axial distance between two cracks. Finally, the
+optimum failure prediction model was used to demonstrate
+the conservatism of flaw characterization rules
+for multiple cracks having equal lengths according to
+ASME code.

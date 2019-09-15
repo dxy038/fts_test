@@ -1,0 +1,11 @@
+Objective
+Examine the neural mechanisms of global/local processing of multiple hierarchical stimuli.
+Methods
+Event-related brain potentials (ERPs) were recorded from adults who selectively attended to the global or local level of two compound letters that were simultaneously presented in the left and right visual fields, respectively. The compound stimuli were either broadband in spatial frequency (SF) spectrum or contrast balanced to remove low SFs. Subjects were asked to detect the presence of a global or local target that might appear in either the left or the right visual field in separate blocks of trials.
+Results
+Attention to the local level of broadband stimuli elicited a positivity over lateral occipital sites at 80–120 ms (P1) with larger amplitude than those in the global attention condition. However, global attention produced an enhanced positivity at 240–320 ms (P2) over lateral occipital sites relative to local attention. Both the P1 and P2 waves in the global condition were of larger amplitudes over the left than right hemispheres. Contrast balancing eliminated the P1 and P2 effects and modulated the hemispheric asymmetry of the long-latency occipital positivity.
+Conclusions
+The results provide ERP evidence for modulations of neural activities in the visual cortex by global/local attention to concurrently presented multiple compound letters. Moreover, the modulation of brain activities by global/local attention depends upon the presence of low SFs in the compound stimuli.
+Significance
+The ERP results of this study contribute to the understanding of neural mechanisms of the processing of simultaneously-presented multiple compound stimuli.
+

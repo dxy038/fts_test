@@ -1,0 +1,8 @@
+Objective
+aper explores the importance of the latent symmetry of the brain in computer-aided systems for diagnosing Alzheimer's disease (AD). Symmetry and asymmetry are studied from two points of view: (i) the development of an effective classifier within the scope of machine learning techniques, and (ii) the assessment of its relevance to the AD diagnosis in the early stages of the disease.
+s
+oposed methodology is based on eigenimage decomposition of single-photon emission-computed tomography images, using an eigenspace extension to accommodate odd and even eigenvectors separately. This feature extraction technique allows for support-vector-machine classification and image analysis.
+s
+fication of AD patterns is improved when the latent symmetry of the brain is considered, with an estimated 92.78% accuracy (92.86% sensitivity, 92.68% specificity) using a linear kernel and a leave-one-out cross validation strategy. Also, asymmetries may be used to define a test for AD that is very specific (90.24% specificity) but not especially sensitive.
+sions
+in conclusions are derived from the analysis of the eigenimage spectrum. Firstly, the recognition of AD patterns is improved when considering only the symmetric part of the spectrum. Secondly, asymmetries in the hypo-metabolic patterns, when present, are more pronounced in subjects with AD.

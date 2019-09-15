@@ -1,0 +1,1 @@
+This paper focuses on ways to analysis the hygro-thermal induced failure mechanism with finite element simulations. The objective is how to evaluate the vapor pressure through the moisture concentration. To predict the position where the failure would happen, a modified Gurson´s model is induced and is expanded to represent the contribution of the vapor pressure.

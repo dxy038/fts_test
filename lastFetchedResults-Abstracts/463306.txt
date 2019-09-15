@@ -1,0 +1,11 @@
+Background
+Obesogenic environments may be an important contextual explanation for the growing obesity epidemic, including its unequal social distribution. The objective of this study was to determine whether geographic access to fast-food outlets varied by neighborhood deprivation and school socioeconomic ranking, and whether any such associations differed to those for access to healthier food outlets.
+Methods
+
+Data were collected on the location of fast-food outlets, supermarkets, and convenience stores across New Zealand. The data were geocoded and geographic information systems used to calculate travel distances from each census meshblock (i.e., neighborhood), and each school, to the closest fast-food outlet. Median travel distances are reported by a census-based index of socioeconomic deprivation for each neighborhood, and by a Ministry of Education measure of socioeconomic circumstances for each school. Analyses were repeated for outlets selling healthy food to allow comparisons.
+Results
+
+At the national level, statistically significant negative associations were found between neighborhood access to the nearest fast-food outlet and neighborhood deprivation (p<0.001) for both multinational fast-food outlets and locally operated outlets. The travel distances to both types of fast food outlet were at least twice as far in the least socially deprived neighborhoods compared to the most deprived neighborhoods. A similar pattern was found for outlets selling healthy food such as supermarkets and smaller food outlets (p<0.001). These relationships were broadly linear with travel distances tending to be shorter in more-deprived neighborhoods.
+Conclusions
+
+There is a strong association between neighborhood deprivation and geographic access to fast food outlets in New Zealand, which may contribute to the understanding of environmental causes of obesity. However, outlets potentially selling healthy food (e.g., supermarkets) are patterned by deprivation in a similar way. These findings highlight the importance of considering all aspects of the food environment (healthy and unhealthy) when developing environmental strategies to address the obesity epidemic.

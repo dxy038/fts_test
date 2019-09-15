@@ -1,0 +1,11 @@
+Objective
+We describe the application of a new spatial filtering technique – event-related beamforming (ERB) – for presurgical functional mapping of primary sensory areas using MEG. This method provides an alternative to equivalent current dipole (ECD) modeling that potentially eliminates problems of intracranial magnetic artifacts due to movement of ferromagnetic materials (e.g., orthodontic braces) or eye movements.
+Methods
+We compared localization results for ERB and ECD localization of primary somatosensory (M20) and auditory (M100) evoked responses in 12 healthy control subjects and four subjects with metallic dental implants. Data were recorded with a 151-channel CTF MEG system using standard presurgical mapping protocols.
+Results
+We found a high level of agreement between the two methods in control subjects (overall localization difference was 5.9 ± 2.2 mm for M20 and 10.4 ± 5.6 mm for M100). Subjects with dental implants showed severely distorted evoked responses that could not be analyzed using ECD, whereas the ERB method localized sources to expected anatomical locations.
+Conclusions
+MEG functional mapping may be carried out without removal of orthodontic or other metallic implants using event-related beamformer analysis.
+Significance
+Spatial filtering methods can overcome some of the limitations associated with MEG expanding its applicability, particularly in pediatric clinical environments.
+

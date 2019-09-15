@@ -1,0 +1,1 @@
+The online control of automated manufacturing systems is considered in this paper. A model of a wide class of manufacturing systems is defined and represented through the formalism of timed event graphs, a particular class of Petri nets. An online regulation problem is considered whose objective is the tracking of a nominal system behaviour a priori determined

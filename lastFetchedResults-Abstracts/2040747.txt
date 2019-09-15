@@ -1,0 +1,8 @@
+Purpose
+ring a drug close to the targeted cells improves its benefit versus risk ratio. A possible method for local drug delivery is to encapsulate the drug into solid microscopic carriers and to release it by ultrasound. The objective of this work was to use shock waves for delivering a molecule loaded in polymeric microcapsules.
+al and methods
+benzoate (EBZ) was encapsulated in spherical gelatin shells by complex coacervation. A piezocomposite shock wave generator (120 mm in diameter, focused at 97 mm, pulse length 1.4 μs) was used for sonicating the capsules and delivering the molecule. Shock parameters (acoustic pressure, number of shocks and shock repetition frequency) were varied in order to measure their influence on EBZ release. A cavitation-inhibitor liquid (Ablasonic®) was then used to evaluate the role of cavitation in the capsule disruption.
+s
+asurements showed that the mean quantity of released EBZ was proportional to the acoustic pressure of the shock wave (r2 &gt; 0.99), and increased with the number of applied shocks. Up to 88% of encapsulated EBZ could be released within 4 min only (240 shocks, 1 Hz). However, the quantity of released EBZ dropped at high shock rates (above 2 Hz). Ultrasound imaging sequences showed that cavitation clouds might form, at high shock rates, along the acoustic axis making the exposure inefficient. Measurements done in Ablasonic® showed that cavitation plays a major role in microcapsules disruption.
+sions
+s study, we designed polymeric capsules that can be disrupted by shock waves. This type of microcapsule is theoretically a suitable vehicle for carrying hydrophobic drugs. Following these positive results, encapsulation of drugs is considered for further medical applications.

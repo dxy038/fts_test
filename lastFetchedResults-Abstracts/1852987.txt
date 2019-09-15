@@ -1,0 +1,8 @@
+Objective
+aper presents an automatic method for the quantification of the development of cutaneous hemangiomas in digital images. Two measurements on digital images acquired during follow-up examinations are performed: (1) the skin area affected by the lesion is measured and (2) the change of the hemangioma during follow-up examinations called regression is determined. Current manual measurements exhibit inter- and intra-reader variation, which impedes precision and comparisons across clinical studies. The proposed automatic method aims at a more accurate and objective evaluation of the course of disease than the current clinical practice of manual measurement.
+s and material
+oposed method classifies individual pixels and calculates the area based on a ruler attached to the skin. For the regression detection follow-up images are registered automatically based on local gradient histograms. The method was evaluated on 90 individual images and a set of 4 follow-up series consisting of 3-4 examinations.
+s
+solute average error of the individual area measurements lies at 0.0775 cm2 corresponding to a variation coefficient of 8.82%. The measurement of the regression area provides an absolute average error of 0.1134 cm2 and a variation coefficient of 7.40 %.
+sions
+sults indicate that the proposed method provides an accurate and objective evaluation of the course of cutaneous hemangiomas. This is relevant for the monitoring of individual therapy and for clinical trials.

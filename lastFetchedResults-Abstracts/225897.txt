@@ -1,0 +1,11 @@
+A method is presented for the simultaneous optimization of a batch distillation column design and its
+operation, for single and multiple separation duties, each involving different multicomponent mixtures
+and complex operations with intermediate cuts. For operation structures selected a priori, the formulation
+presented permits the use of general distillation design and cost models. The objective function and constraints
+include capital and operating cost. In particular, the number of internal plates is optimized along
+with the most significant operating variables (recoveries in various cuts and reflux ratio profiles
+and times). The multiple duty formulation presented accounts for the different importance of each duty
+and setup time between batches. Application of the method to single duty multicomponent separation
+from the literature shows that significant profit improvements can be achieved within acceptable computing
+times. For multiple separation duties (two binary mixtures), the method clearly shows the importance
+of including allocation time to each duty and setup time for each batch in the objective function.

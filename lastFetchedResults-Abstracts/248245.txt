@@ -1,0 +1,16 @@
+A large-deformation model for thin shells composed of elasto-plastic material is presented in this work.
+Formulation of the shell model, equivalent to the two-dimensional Cosserat continuum, is developed from
+the three-dimensional continuum by employing standard assumptions on the distribution of the displacement
+Þeld in the shell body. A model for thin shells is obtained by an approximation of terms describing the
+shell geometry. Finite rotations of the director Þeld are described by a rotation vector formulation. An
+elasto-plastic constitutive model is developed based on the von Mises yield criterion and isotropic
+hardening. In this work, attention is restricted to problems where strains remain small allowing for all
+aspects of material identiÞcation and associated computational treatment, developed for small-strain elastoplastic
+models, to be transferred easily to the present elasto-plastic thin-shell model. A Þnite element
+formulation is based on the four-noded isoparametric element. A particular attention is devoted to the
+consistent linearization of the shell kinematics and elasto-plastic material model, in order to achieve
+quadratic rate of asymptotic convergence typical for the NewtonÐRaphson-based solution procedures. To
+illustrate the main objective of the present approach Ð namely the simulation of failures of thin elastoplastic
+shells typically associated with buckling-type instabilities and/or bending-dominated shell problems
+resulting in formation of plastic hinges Ð several numerical examples are presented. Numerical results are
+compared with the available experimental results and representative numerical simulations.

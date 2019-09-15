@@ -1,0 +1,9 @@
+Purpose
+To assess the utility of interferon γ levels, including identification of the best cutoff for the diagnosis of tuberculosis.
+Methods
+We prospectively studied consecutive patients in a tertiary care, university-affiliated hospital who had pleural effusions. Interferon γ levels were measured blindly by radioimmunoassay. The diagnosis of tuberculosis was established using prespecified standard criteria.
+Results
+Of the 595 patients with pleural effusions, 82 patients (14%) had tuberculosis. The area under the receiver operating characteristic (ROC) curve for elevated interferon γ levels in the diagnosis of tuberculosis was 0.99 (95% confidence interval [CI]: 0.97 to 1.00). A cutoff of 3.7 IU/mL yielded a sensitivity of 0.98 (95% CI: 0.91 to 1.00) and a specificity of 0.98 (95% CI: 0.96 to 0.99). The areas under the ROC curves, and the test's sensitivity and specificity, were similar among patients of different ages and by percentage of lymphocytes in the pleural fluid. In 5 of the 28 patients with hematologic malignancies, interferon γ levels were slightly above the cutoff; no patient with vasculitis or granulomatous diseases had levels higher than 3.7 IU/mL. The 14 immunocompromised patients and the 3 transplantation patients with tuberculosis had interferon γ levels greater than the cutoff.
+Conclusion
+Elevated pleural interferon γ levels (>3.7 IU/mL) are very valuable in diagnosing pleural tuberculosis. Patients with pleural effusion due to hematologic neoplasms occasionally have levels slightly above the cutoff.
+

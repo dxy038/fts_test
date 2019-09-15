@@ -1,0 +1,11 @@
+Objective
+Migration, proliferation, and differentiation of bone marrow (BM) hematopoietic stem cells (HSC) are important factors in maintaining hematopoietic homeostasis. Homeostatic control of erythrocytes and lymphocytes is perturbed in humans exposed to microgravity (μ-g), resulting in space flight–induced anemia and immunosuppression. We sought to determine whether any of these anomalies can be explained by μ-g-induced changes in migration, proliferation, and differentiation of human BM CD34+ cells, and whether such changes can begin to explain any of the shifts in hematopoietic homeostasis observed in astronauts.
+Materials and methods
+
+BM CD34+ cells were cultured in modeled μ-g (mμ-g) using NASA's rotating wall vessels (RWV), or in control cultures at earth gravity for 2 to 18 days. Cells were harvested at different times and CD34+ cells assessed for migration potential, cell-cycle kinetics and regulatory proteins, and maturation status.
+Results
+
+Culture of BM CD34+ cells in RWV for 2 to 3 days resulted in a significant reduction of stromal cell–derived factor 1 (SDF-1α)-directed migration, which correlated with decreased expression of F-actin. Modeled μ-g induced alterations in cell-cycle kinetics that were characterized by prolonged S phase and reduced cyclin A expression. Differentiation of primitive CD34+ cells cultured for 14 to 18 days in RWV favored myeloid cell development at the expense of erythroid development, which was significantly reduced compared to controls.
+Conclusions
+
+These results illustrate that mμ-g significantly inhibits the migration potential, cell-cycle progression, and differentiation patterns of primitive BM CD34+ cells, which may contribute to some of the hematologic abnormalities observed in humans during space flight.

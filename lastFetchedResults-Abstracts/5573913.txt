@@ -1,0 +1,1 @@
+This paper presents an application of artificial neural networks (ANN) to power systems. ANN are tested to construct dynamic equivalents, which is considered a hard task in the context of power systems. The main objective is to reproduce the complex voltage at frontier nodes. The simulation results prove the applicability and robustness of this innovative approach.

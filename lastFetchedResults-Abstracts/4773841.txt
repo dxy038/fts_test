@@ -1,0 +1,1 @@
+Designing power amplifier for modern comunication systems is a challenging topic. A new design methodology for multicarrier power amplifiers (MCPA) is described which is based on an objective optimality criterion as to linearity and power consumption of amplifier building blocs. Amplifier design results are presented which shows the effectiveness of the methodology.

@@ -1,0 +1,1 @@
+We have proposed a novel structure of one dimensional spatial light phase modulator (SLPM) that consists of a micromirror array on an SOI wafer and ITO (Indium Tin Oxide) electrodes on a glass plate. Each micromirror can exhibit bidirectional single-axis rotation, as well as up- and down- translation motion. We have fabricated the device, and confirmed its motion experimentally.

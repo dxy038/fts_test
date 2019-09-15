@@ -1,0 +1,11 @@
+Objective. To assess the accuracy and reproducibility of a digital image analyser and the human eye, in measuring radiographic dimensions.
+
+Design. We experimentally compared radiographic measurement using either an image analyser system or the human eye with digital caliper.
+
+Background. The assessment of total hip arthroplasty wear from radiographs relies on both the accuracy of radiographic images and the accuracy of radiographic measurement.
+
+Methods. Radiographs were taken of a slip gauge (30 ± 0.00036 mm) and slip gauge with a femoral stem. The projected dimensions of the radiographic images were calculated by trigonometry. The radiographic dimensions were then measured by blinded observers using both techniques.
+
+Results. For a single radiograph, the human eye was accurate to 0.26 mm and reproducible to ±0.1 mm. In comparison the digital image analyser system was accurate to 0.01 mm with a reproducibility of ±0.08 mm. In an arthroplasty model, where the dimensions of an object were corrected for magnification by the known dimensions of a femoral head, the human eye was accurate to 0.19 mm, whereas the image analyser system was accurate to 0.04 mm.
+
+Conclusions. The digital image analysis system is up to 20 times more accurate than the human eye, and in an arthroplasty model the accuracy of measurement increases four-fold. We believe such image analysis may allow more accurate and reproducible measurement of wear from standard follow-up radiographs.

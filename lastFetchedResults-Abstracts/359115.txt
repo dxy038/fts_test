@@ -1,0 +1,11 @@
+Background
+Atrial fibrillation (AF) in the setting of heart failure (HF) is linked to embolic stroke and exacerbation of HF. The rate of new-onset AF in patients with left ventricular dysfunction and mild to moderate HF enrolled in the SoLVD trials was significantly lower with enalapril than with placebo (5.4% vs 24% over 2.9 years, P < .0001). The objective of this study was to predict economic benefits over 5 and 10 years of reduced AF incidence in patients receiving enalapril for the treatment of HF from a Canadian third-party payer perspective.
+Methods
+
+Consequences of reduced incidence of AF in enalapril-treated patients were modeled using a Markov model. Patients were assigned to 1 health state: no AF, AF, poststroke, or death, and moved from one state to the other according to published incidence rates. It was assumed that most patients with AF would receive warfarin for stroke prevention. Resource use and costs were mostly retrieved from published Canadian studies.
+Results
+
+Reduced incidence of AF resulted in savings of $382 and $525 per patient treated with enalapril over 5 and 10 years, respectively, which stemmed mainly from reduced AF hospitalization and less need for warfarin and amiodarone. Sensitivity analyses demonstrated that enalapril becomes more cost saving as the baseline risk for embolic stroke in patients with AF increases and the use of warfarin prophylaxis decreases.
+Conclusions
+
+Reduced incidence of AF with enalapril leads to significant clinical and economic advantages on top of the already well-established benefits of enalapril for patients with HF.

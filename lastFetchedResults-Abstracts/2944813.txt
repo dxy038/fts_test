@@ -1,0 +1,1 @@
+Consider the following model: M(&#183;)&#951;&#168;+D(&#183;)&#951;&#729;+K(&#183;)&#951;=u. The system may represent a strongly coupled nonlinear system. The objective here is to design a linear, decentralized and partial state feedback controller for the system

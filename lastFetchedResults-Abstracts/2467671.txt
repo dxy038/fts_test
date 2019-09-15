@@ -1,0 +1,10 @@
+AbstractContext
+ State Machine (FSM) inference from execution traces has received a lot of attention over the past few years. Various approaches have been explored, each holding different properties for the resulting models, but the lack of standard benchmarks limits the ability of comparing the proposed techniques. Evaluation is usually performed on a few case studies, which is useful for assessing the feasibility of the algorithm on particular cases, but fails to demonstrate effectiveness in a broad context. Consequently, understanding the strengths and weaknesses of inference techniques remains a challenging task.
+ive
+aper proposes CARE, a general, approach-independent, platform for the intensive evaluation of FSM inference techniques.
+
+ed in a program specification scheme that provides a good control on the expected program structures, it allows the production of large benchmarks with well identified properties.
+s
+RE platform demonstrates the following features: (1) providing a benchmarking mechanism for FSM inference techniques, (2) allowing analysis of existing techniques w.r.t. a class of programs and/or behaviors, and (3) helping users in choosing the best suited approach for their objective. Moreover, our extensive experiments on different FSM inference techniques highlight that they do not behave in the same manner on every class of program. Characterizing different classes of programs thus helps understanding the strengths and weaknesses of the studied techniques.
+sion
+ments reported in this paper show examples of use cases that demonstrate the ability of the platform to generate large and diverse sets of programs, which allows to carry out meaningful inference techniques analysis. The analysis strategies the CARE platform offers open new opportunities for program behavior learning, particularly in conjunction with model checking techniques. The CARE platform is available at http://care.lip6.fr.

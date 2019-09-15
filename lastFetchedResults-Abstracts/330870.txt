@@ -1,0 +1,7 @@
+Objective: On the basis of recent experimental data, a new mathematical model that predicts creep in human root dentin has been developed.
+
+Method: The chosen constitutive model comprises fractional derivatives of stress and strain and the restrictions on the coefficients that follow from the Clausius–Duhem inequality.
+
+Results: The four constants describing mechanical properties of the human dentin at constant temperature are calculated from a highly non-linear system involving Mittag–Leffler-type functions. Special attention is paid to thermodynamical restrictions that should be observed in determining parameters of the model from experimental results.
+
+Significance: The proposed model allows us to predict behavior of a human dentin in different load situations. Also it could be used for describing mechanical properties of dentin that are important in the development of ‘dentin-like’ restorative materials.

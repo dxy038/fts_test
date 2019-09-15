@@ -1,0 +1,14 @@
+One of the major drawbacks of the block-based DCT
+compression methods is that they may result in visible artifacts
+at block boundaries due to coarse quantization of the coefficients.
+In this paper, we propose an adaptive approach which performs
+blockiness reduction in both the DCT and spatial domains to reduce
+the block-to-block discontinuities. For smooth regions, our
+method takes advantage of the fact that the original pixel levels in
+the same block provide continuity and we use this property and the
+correlation between the neighboring blocks to reduce the discontinuity
+of the pixels across the boundaries. For texture and edge
+regions we apply an edge-preserving smoothing filter. Simulation
+results show that the proposed algorithm significantly reduces the
+blocking artifacts of still and video images as judged by both objective
+and subjective measures.

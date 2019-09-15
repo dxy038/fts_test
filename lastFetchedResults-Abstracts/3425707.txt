@@ -1,0 +1,1 @@
+The paper deals with the bidirectional speed control of a split-field dc series motor by commutating the two fields alternately to the supply using SCR switches. The whole system is simulated on an analog computer to investigate the effect of system parameters on its static and dynamic performances. Optimum values for the components of the control circuit are also suggested.

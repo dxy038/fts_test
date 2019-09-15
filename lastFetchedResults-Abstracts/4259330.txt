@@ -1,0 +1,1 @@
+The systolic array architectures of a number of well-known artificial neural networks are presented. The artificial neural networks considered include the Hopfield neural network, bidirectional associative memories, and the multilayer feedforward neural network. The architectures presented are regular and are designed to operate in pipelined fashion

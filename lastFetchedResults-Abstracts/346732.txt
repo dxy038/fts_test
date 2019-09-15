@@ -1,0 +1,5 @@
+Objective: The cortical relay time (CRT) for V2 of long-latency reflexes (LLRs) in the contracted thenar and short toe flexor muscles was studied.
+Methods: LLRs and somatosensory evoked potentials (SEPs) were studied by electrical stimulation of the median or posterior tibial nerve. The CRT for V2 was calculated by subtracting the onset latency of cortical potentials in SEPs and that of motor evoked potentials (MEPs) by transcranial magnetic stimulation (TMS) from the onset latency of V2 in eight healthy subjects.
+Results: The CRT for the thenar muscles was 11.4±0.9 ms (mean±SD), as the onset latency was 48.8±1.4 ms for V2, 16.0±1.2 ms for N20 and 21.3±1.1 ms for MEP, respectively. The CRT for the short toe flexor muscles was 3.0±1.3 ms, as the onset latency was 80.5±4.5 ms for V2, 35.3±1.8 ms for P38 and 42.2±2.0 ms for MEP, respectively.
+Conclusion: Significantly longer CRT for V2 for the thenar muscles (P<0.001, paired Student's t test) may indicate more synaptic relays as compared to that for the short toe flexor muscles.
+

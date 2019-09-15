@@ -1,0 +1,14 @@
+Transient natural convection in an enclosure with vertical solutal gradients has been studied in this paper. Transfers in a rectangular
+cavity configuration translating hydrodynamic and thermal phenomena are numerically predicted by means of computational fluid
+dynamics (CFD) in transient regime.
+The objective of this numerical study is to give a fine knowledge of the hydrodynamic and thermal characteristics during energy storage
+in an enclosure filled with water stratified by downward salinity gradient. The enclosure is divided into three zones with different
+salinity level such as salt gradient pond (SGP). Water is heated by a heating device at the bottom of the cavity.
+The Navier–Stokes, energy and mass equations are discretized using finite-volume method, and a two-dimensional analysis of the
+hydrodynamic and thermal behaviors generated in transient regime in the cavity are performed. The mathematical modelling has allowed
+the prediction of the storage performances by developing parametrical study in view to search the convective heat transfer coefficient at
+the bottom of the enclosure. Velocity vector fields show the presence of recirculation zones caused only in the lower region and permit to
+explain the increase of the temperature in the lower convective zone (LCZ).
+This study shows also the importance of the salinity in the preservation of the high temperature in the bottom of the cavity, and the
+important reduction of the phenomenon of thermal transfer across the non-convective zone (NCZ).
+  2006 Elsevier Ltd. All rights reserved.

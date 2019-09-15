@@ -1,0 +1,13 @@
+This study employs mathematical modeling along with a recursive searching algorithm to
+determine the optimal run time for an imperfect finite production rate model with scrap,
+rework, and stochastic machine breakdown. In real-life manufacturing systems, generation
+of defective items and machine breakdown are inevitable. The objective of this paper is
+to address these issues and to be able to derive the optimal production run time. It is
+assumed that the proposed manufacturing system produces defective items randomly, a
+portion of them is considered to be scrap, and the other portion can be repaired through
+rework. Further, the proposed system is subject to random breakdown and when it occurs,
+the abort/resume (AR) policy is adopted. Under such an inventory control policy, the
+production of the interrupted lot will be resumed immediately when machine is fixed and
+restored. Mathematical modeling along with a recursive searching algorithm is used for
+deriving the replenishment policy for such a realistic production system.
+' 2009 Elsevier Ltd. All

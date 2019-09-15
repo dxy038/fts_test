@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to investigate the association among plurality (number of fetuses per pregnancy), abruptio placenta, and perinatal mortality.
+Study design
+A retrospective cohort study on 15,051,872 singletons, 413,619 twins, and 22,585 triplets delivered in the United States between 1995 and 1998 was conducted. We compared the occurrence of perinatal death between pregnancies complicated by abruptio placenta and those without with the use of adjusted odds ratios. The generalized estimating equations framework was applied to adjust for intracluster correlations among multiples.
+Results
+Placental abruption occurred among 93,968 singletons (6.2 per 1000), 5051 twin (12.2 per 1000), and 353 triplet (15.6 per 1000) gestations (P for trend <.0001). Placental abruption was associated with significant risk of mortality irrespective of the plurality subtype. Perinatal mortality was greatest among singletons (adjusted odds ratio [95% CI] = 14.3[13.2-15.4]), followed by twins (4.4[3.9-4.9]) and least among triplets (3.0[2.0-4.6]) (P for trend <.0001).
+Conclusion
+As plurality increases from 1 to 3, the risk of placental abruption rises, whereas the risk of abruptio-associated perinatal mortality declines.
+

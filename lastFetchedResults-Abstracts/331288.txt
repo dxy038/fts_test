@@ -1,0 +1,11 @@
+Objective
+The purpose of this study was to investigate the metallurgical phases in beta–titanium soldered joints prepared by infrared soldering, using the Micro X-ray diffraction technique (Micro-XRD), and to characterize the Vickers hardness in the soldered beta–titanium wires.
+Methods
+
+Beta–titanium wires with cross-section dimensions of 0.032 in. × 0.032 in. (TMA, Ormco), and both titanium-based solder (Ti-30Ni-20Cu, Selec) and silver-based solder (Ag-22Cu-17Zn-5Sn, Tomy) were selected. Soldering was performed using infrared radiation (RS-1, Morita) under argon atmosphere. Micro-XRD analyses were performed at room temperature. Micro-XRD spectra were obtained for the boundary region of the soldered beta–titanium wires using 50 μm and 10 μm diameter analysis regions. Hardness was measured at 30 μm intervals from boundary of the diffusion layer and beta–titanium wire. The Kruskal–Wallis test with the Bonferroni and Wilcoxson Mann–Whitney tests for nonparametric means were employed as statistical methods (P < 0.05).
+Results
+
+For both types of soldered beta–titanium samples, the Micro-XRD spectra contained four major peaks for body-centered cubic (bcc) beta–titanium. Additional peaks at about 41 and 45 degrees are attributed to Cu–Ti intermetallic phase(s), which may be metastable under soldering conditions. The diffusion layer had greater hardness than bulk beta–titanium for both types of soldered specimens (P < 0.05).
+Significance
+
+Soldering of beta–titanium orthodontic wire by infrared radiation may be acceptable for clinical use, since Micro-XRD spectra revealed that both types of soldered specimens largely retained the bcc beta–titanium structure. Further research is needed to investigate the mechanical properties and corrosion behavior of infrared-soldered beta–titanium wire.

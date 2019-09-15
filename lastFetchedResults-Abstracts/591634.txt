@@ -1,0 +1,16 @@
+Supplier selection is a multi-criteria problem which includes both tangible and intangible
+factors in these problems if suppliers have capacity or other different constraints two problems will
+exist: which suppliers are the best and how much should be purchased from each selected supplier?
+The objective of this paper is to present an integrated model and a supporting approach for effective
+supplier selection decisions and determined optimum order allocation. Therefore, an integrated
+approach of ANP- TOPSIS (Analytic Network Process and Technique for Order Preference by
+Similarity to Ideal Solution) is proposed in choosing the best suppliers and defined the optimum
+quantities order among selected suppliers by using a mathematical model (Multi-Objective Linear
+Programming). Hence, after library studies and interview with experts, managers and specialists in
+supply chain management filed, decision criterion was identified through brain storming contains of
+seven main criteria for suppliers selection process. Then in the second section for order allocation to
+every selected suppliers in first section; we used a (MOLP) Multi-Objective Linear Programming
+model. Therefore objectives and subjective of suppliers and Automotive Company were identified in
+this section. Results show that applying a two phase ANP-TOPSIS methodology causes to some
+important advantages such as: Long-term relationship, consist quality, lower cost, special attention and
+etc.

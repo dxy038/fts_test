@@ -1,0 +1,15 @@
+The transportation of hazardous materials such as gasoline has unique features due the
+nature of these types of materials and the important role of these materials in human
+life. Therefore, determining the routing of these materials is more challengeable than
+non-hazardous one, due to more dangerous and risky conditions besides the
+transportation costs. Since the distribution of gasoline take places in boarding (24
+hours), logistics system should be able to meet these requirements in all of days. In this
+paper, a new model is developed for planning the route of vehicles as 7×24 (boarding)
+in order to minimize the risk of hazardous materials. The proposed vehicle routing
+model in this paper has been attempted to consider minimization of transportation costs,
+reduce emissions due to gasoline distribution, consumption, diminishing the route’s risk
+and suggesting suitable time for servicing customers. The proposed model turns in to a
+single objective model using compromise programming and then solved by
+mathematical software using real data from our case study. Results are reported and
+analyzed. 
+

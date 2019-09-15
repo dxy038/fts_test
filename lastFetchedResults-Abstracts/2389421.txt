@@ -1,0 +1,7 @@
+We use Titan's geometric albedo to constrain the vertical distribution of the haze. Microphysical models incorporating fractal aggregates do not readily fit the methane features at 0.62 μm band and the dark 0.88 μm of the albedo spectrum simultaneously. We take advantage of this apparent discrepancy to constrain the haze vertical profile.
+
+d the geometric albedo and several results and constraints from other works to better constrain the vertical haze extinction profile, especially in the low stratosphere. The objective of this model is to give a solution that simultaneously fits the main constraints known to apply to the haze.
+
+d that the haze extinction increases with decreasing altitude with a scale height about equal to the atmospheric scale height down to 100 km. Below this altitude, extinction must decrease down to 30 km. This is necessary in order to have enough haze to sustain a relatively high albedo (0.076) in the dark 0.88 μm methane band and to show the 0.62 μm band in the haze continuum. We set the haze production rate around 7×10−14 kg m−2 s−1, and the aerosols production altitude around 400 km (or at pressure 1.5 Pa).
+
+ysical processes which generate such a profile are not clear. However, purely one-dimensional effects such as condensation, sedimentation, and rainout can be ruled out, and we believe that this relative clearing in Titan's troposphere and lower stratosphere is due to particle horizontal transport by the mean circulation.

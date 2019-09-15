@@ -1,0 +1,6 @@
+This paper is concerned with the unknown parameters and time-delays of nonlinear chaotic
+systems with random initial noises. A scheme based on particle swarm optimization(
+PSO) is newly introduced to solve the problem via a nonnegative multi-modal
+nonlinear optimization, which finds a best combination of parameters and time-delays
+such that an objective function is minimized. The illustrative examples, in chaos systems
+with time-delays or free, are given to demonstrate the effectiveness of the present method.

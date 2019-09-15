@@ -1,0 +1,10 @@
+The paper presents a systematised and generalised methodology of second-order output
+filter for inverters that synthetise sinusoidal voltage waveforms through space-vector pulse-width
+modulation (PWM). The objective of this methodology is to determine the largest natural
+frequency of the filter that ensures specification of the maximum total harmonic distortion (THD)
+admissible in the output voltages of the PWM inverter. The proposed methodology is discussed in
+detail, including the description of the steps needed to derive the design procedure for different
+topologies of voltage inverters, and the procedure for obtaining the design curves. To illustrate the
+use of the proposed methodology, detailed design procedures are given for single-phase, threephase
+three-wire and three-phase four-wire filter topologies. Finally, examples are presented which
+include experimental results demonstrating the validity of the proposed design methodology.

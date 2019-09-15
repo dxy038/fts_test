@@ -1,0 +1,19 @@
+The Phebus Fission Product (FP) Program studies key phenomena of severe accidents in water-cooled nuclear reactors. In the framework of the Phebus program, five in-pile experiments have been performed that cover fuel rod degradation and behaviour of fission products released via the coolant circuit into the containment vessel.
+
+cus of this paper is on iodine behaviour during the Phebus FPT2 test. FPT2 used a 33 GWd/t uranium dioxide fuel enriched to 4.5%, re-irradiated in situ for 7 days to a burn-up of 130 MWd/t. This test was performed to study the impact of steam-poor conditions and boric acid on the fission product chemistry. For the containment vessel, more specifically, the objective was to study iodine chemistry in an alkaline sump under evaporating conditions.
+
+dine results of the Phebus FPT2 test confirmed many of the essential features of iodine behaviour in the containment vessel provided by the first two Phebus tests, FPT0 and FPT1. These are the existence of an early gaseous iodine fraction, the persistence of low gaseous iodine concentrations and the importance of the sump in suppressing the iodine partitioning from sump to atmosphere. The main new insights provided by the Phebus FPT2 test were the iodine desorption from stainless steel walls deposits and the role of the evaporating sump in further iodine depletion in the containment atmosphere.
+
+rrent paper presents an interpretation of the iodine behaviour in the FPT2 containment vessel based on dedicated small-scale analytical experiments and computer codes calculations. Other investigations dealing with primary circuit and sump chemistry are also reported. These could help to scale the results of Phebus-FP tests to reactor accidents.
+
+ing studies were generally successful when a gaseous iodine injection from the primary circuit was assumed. Indeed, though each of the iodine codes has specific iodine chemistry features that should be further developed and each approach to the modelling is distinct, the overall iodine behaviour in the FPT2 containment is generally well reproduced by the models that predict:•
+final gaseous iodine concentration in the containment atmosphere,
+
+ominant iodine concentration in the sump and to a lesser extent a significant iodine deposition on containment surfaces.
+
+
+in code-to-code differences, in the results obtained in gaseous iodine speciation, come from the various treatments of gaseous radiolytic reactions. Calculations that include the radiolytic conversion of volatile iodine into iodine oxide particulate show there is a persistence of both gaseous iodine and iodine oxide particles in the atmosphere. There are also some variations between the predicted organic iodine concentrations that depend mainly on the initial assumptions. A key aspect of the Phebus FPT2 test interpretation is that the long term iodine behaviour in the containment can be explained by exchanges between organic iodide released from painted surfaces and inorganic iodine released from deposited aerosol on the containment walls.
+
+r studies of regulatory significance on sump chemistry showed that the gaseous iodine control that was evident in the Phebus tests through silver release and/or alkaline buffered sump solutions may not be assured.
+
+t of the past iodine aqueous chemistry studies were done with rather pure systems and because of the uncompleted understanding of the gaseous iodine speciation, the results may not be extrapolated easily to conditions of reactor accidents thus necessitating deeper investigations.

@@ -1,0 +1,29 @@
+Power electronic control of
+electromechanical systems has become common.
+These systems employ electronic components
+which switch at high frequency and have very
+complex interactions. The load which they supply
+is often intricate in itself and difficult (or often
+impossible) to create in an experimental
+environment. It would be advantageous to replace
+the electromechanics with a solid-state equivalent
+which can be flexibly programmed to emulate the
+real system. The paper is concerned with
+describing this idea, illustrating the concept by
+emulating an electric motor and its associated
+mechanical load. The phrase ‘virtual machine’ has
+been coined to describe the system. It givesitakes
+power from the electronic converter to match as
+closely as possible the real electrical machine and
+load. The virtual machine is effectively a
+dynamically controllable sourceisink which is
+capable of providing a bidirectional power level
+interface to a power electronic converter. Using
+the virtual machine, a power electronic converter
+can be tested in diverse applications and under a
+wide variety of loading conditions without the
+need for any electromechanics. Test results show
+that close agreement between the virtual and real
+systems is possible. The limits imposed by
+practical implementation of the concept are also
+examined.

@@ -1,0 +1,20 @@
+This paper characterizes the exergy
+(availability) analysis in bi-fuel (CNG and gasoline)
+spark ignition engines. The engine is modeled based on a
+thermodynamic quasi-dimensional (QD) two-zone model.
+It solves the differential equations related to compression,
+combustion and expansion. By an approximation method,
+intake and exhaust processes are modeled. Using a
+turbulent combustion model, the engine model has
+capable to simulate burn rate, and compared to
+computational fluid dynamic (CFD) models is faster. To
+meet this objective, this model is developed based upon
+the second law, and exergy analysis terms. These terms
+are including thermo-mechanical availability, chemical
+availability, heat transfer availability, work availability,
+and the irreversible processes that are the source of
+availability destroyed. Finally, in this paper the effect of
+equivalence ratio, ignition time and engine of speed upon
+the terms of availability, the first law of thermodynamics
+(FLT) and the second law of thermodynamics (SLT)
+efficiency are presented and are discussed.

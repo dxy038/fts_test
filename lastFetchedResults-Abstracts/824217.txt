@@ -1,0 +1,1 @@
+We present a randomized polynomial-time approximation algorithm for the fixed linear crossing number problem (FLCNP). In this problem, the vertices of a graph are placed in a fixed order along a horizontal “node line” in the plane, each edge is drawn as an arc in one of the two half-planes (pages), and the objective is to minimize the number of ed

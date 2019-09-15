@@ -1,0 +1,1 @@
+A series resonant DC link converter with PWM capability and current peak limiting is proposed. It requires only an additional bidirectional switch to synchronise with external PWM signals and a saturable core to achieve current peak limiting. The clamping level is automatically adjusted by the current load

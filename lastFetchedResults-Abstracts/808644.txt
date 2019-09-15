@@ -1,0 +1,1 @@
+In this article, our primary objective is to develop an estimator of the power-law exponent based on the observable individual wealth in the mean-field Bouchaud–Mézard model. As a result, a simple and strongly consistent estimator of the power-law exponent in the mean-field Bouchaud–Mézard model has been established and performs well on simulated data.

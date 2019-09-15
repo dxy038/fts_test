@@ -1,0 +1,24 @@
+Objective This study characterizes the positive relationship
+between daily temperature and bipolar disorder in a
+cohort of Taiwanese psychiatric inpatients.
+Methods Meteorological data, provided by the Central
+Weather Bureau (CWB) of Taiwan, were interpolated to
+create representative estimates of mean diurnal temperatures
+for 352 townships. Psychiatric inpatient admissions
+enrolled in the national health-care insurance system were
+retrieved from the 1996–2007 Psychiatric Inpatient Medical
+Claim (PIMC) dataset. The generalized linear mixed
+models with Poisson distribution were used to evaluate the
+relative risks of mean diurnal temperature with respect to
+increased admissions for bipolar disorder, while adjusting
+for internal correlations and demographic covariates.
+Results Increased relative risks of bipolar disorder
+admissions were associated with the increasing trends of
+temperature over 24.0  C (50th %), especially for adults
+and females. The highest daily diurnal temperatures above
+30.7  C (99th %) had the greatest risks of bipolar
+hospitalizations.
+Conclusion Understanding the increase of bipolar disorder
+admissions occurring in extreme heat is important in
+the preparation and prevention of massive recurrences of
+bipolar episodes.

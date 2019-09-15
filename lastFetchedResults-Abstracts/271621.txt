@@ -1,0 +1,13 @@
+This paper presents the sensitivities of a repeated singular value of a matrix with respect to perturbations
+in that matrix[ The di.culty in computing the sensitivities of a repeated singular value is linked to the fact
+that the multiplicity of the singular value may change during the perturbation[ The derivative is developed
+based on an approach used for repeated eigenvalues of self adjoint systems\ by constraining the singular
+values to remain bundled during the perturbation[ The need for the sensitivities of singular values arose
+when optimizing the geometry of precision structures under a family of disturbances characterized by a
+disturbance in~uence matrix[ The aim was to modify the geometry of the structure in a way which enhances
+its performance[ Since the structure is subjected to a multitude of loading cases the objective is to minimize
+the worst possible distortion[ It is shown that this is equivalent to minimizing the _rst singular value of the
+disturbance in~uence matrix[ Consequently\ in the mathematical programming formulation the objective
+function is the _rst singular value under the constraints inherent to the method for computing the sensitivities[
+This is then solved by a Lagrangian method[ It is shown that the technique is very reliable as visualized in
+two typical truss examples

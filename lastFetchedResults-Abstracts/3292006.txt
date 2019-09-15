@@ -1,0 +1,1 @@
+We describe a novel 1: n 10G-PON overlay of GPON system using 1: n splitter and a bidirectional 10G-PON optical amplifier. We experimentally demonstrate an n=8 10G-PON overlay of GPON link with the 20-km feeder fiber and 1:32-way splitter using a bidirectional discrete Raman amplifier.

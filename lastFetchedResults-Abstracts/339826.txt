@@ -1,0 +1,11 @@
+Objective
+Stem cell transplantation has a place in the management of many patients with hematological disorders, but is no longer the final and definitive treatment for most of these individuals. The relapsing patient may be offered further therapy, and evaluating the contribution of the treatments available has become statistically challenging. This study was designed to evaluate further the benefit and timing of double autologous transplantation in the management of patients with myeloma.
+Materials and Methods
+
+We investigated the potential benefit of a second autologous transplantation for myeloma before relapse or progression (“elective” transplantation) and the importance of the timing of the procedure using a multistate approach. We used data from 7452 patients with myeloma who received autologous transplantation and who were reported to the registry of the European Group for Blood and Marrow Transplantation.
+Results
+
+With use of statistical and visual models, the multistate approach shows the benefit of being able to undergo a second transplantation within 12 months of the first transplantation.
+Conclusion
+
+Our study focuses on the importance of appropriate statistical analysis and illustrates how use of the Cox model within a multistate framework may be applied to the assessment of the role of an intermediate event in the disease process. The study illustrates both mathematically and visually the improved survival resulting from undertaking an elective second transplantation in patients with myeloma as soon as medically prudent—usually within 3 to 6 months of the first transplantation.

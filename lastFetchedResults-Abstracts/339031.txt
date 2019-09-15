@@ -1,0 +1,11 @@
+Objective
+Suicide gene therapy for leukemia aims to benefit from T cells in the BM graft, by reducing the probability of leukemia relapse (GVL), while severe complications of graft-vs-host disease (GVHD) may be avoided. In an allogeneic rat BMT model we defined the conditions to induce a lethal GVHD with HSV-Tk gene–transduced T cells. We studied the feasibility to rescue the animals by conditional elimination of the T cells with ganciclovir (GCV) treatment.
+Methods
+
+Allogeneic T cells transduced with a retroviral vector encoding the HSV-Tk suicide gene were added in varying numbers to a BM graft. Expression of HSV-Tk strongly increases the cytolytic effect of GCV, thereby allowing elimination of overreactive T cells at will. Various experimental conditions were tested in the rat model.
+Results
+
+A relation between the number of HSV-Tk+ T cells added to the BM graft and GVHD development was found. GCV treatment resulted in selective HSV-Tk+ T-cell elimination in blood and tissues but not in abrogation of GVHD due to persistence of HSV-Tk− T cells. T cells in unmanipulated rat BM normally have a low risk to induce GVH but when they are administered in combination with high numbers of HSV-Tk+ T cells there is an apparent increase in their GVH-inducing potential. When HSV-Tk+ T cells are added to T cell–depleted BM a consequently developing GVH can be controlled by GCV treatment with 60–70% of the animals surviving.
+Conclusions
+
+We show that T cell–mediated suicide gene therapy within the context of allo-BMT can be applied with success. The apparent limitation in the number of transduced as well as nontransduced T cells that can be safely added to the BM graft should be taken into consideration when designing human suicide gene therapy protocols.

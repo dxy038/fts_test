@@ -1,0 +1,1 @@
+In order to improve medical image visual quality, this paper adopts an adaptive unsharp mask algorithm for contrast enhancement of medical image. Our objective to employ an adaptive filter is to controls the contribution of the sharpening path in such way that contrast enhancement occurs in high detail areas and little or no image sharpening occurs in smooth areas.

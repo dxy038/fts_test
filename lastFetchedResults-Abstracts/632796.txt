@@ -1,0 +1,2 @@
+There are different schemes for streamed audio video (AV) IPTV content  across mobile WiMAX to reduce packet loss and latency. The objective of this paper is to verify the effectiveness of forward error correction (FEC) techniques and to suggest the techniques for robustness problems and to analyze the issues either due to AV coding encoding or due to access network. The paper concentrates on handoff and handover delay, mobile WiMAX downlink burst mapping and the reliability of IPTV over LTE system.
+

@@ -1,0 +1,4 @@
+This article presents a synthetic vision of geographical information systems (GIS) applications that are state of the art in the renewable energy field. The objective is to analyze the main qualities and problems of these applications, focusing on specific samples, and to carry out a methodological proposal in this genre.
+From this point of view, the study synthesizes the analyzed applications in three big groups: Decisions Support Systems (DSS) based on GIS; renewable energy and distributed generation of electricity; and decentralized generation for the rural electrification. In addition, a synthetic table and bibliographical references is provided for each group.
+Finally, several conclusions and a methodological outline are contributed for GIS application in the rural electrification with renewable energy.
+

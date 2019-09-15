@@ -1,0 +1,8 @@
+Objective
+ic resonance imaging (MRI) offers great potential as a sensitive and noninvasive technique for describing the alterations in mechanical properties, as shown in vitro on intervertebral disc (IVD) or cartilage tissues. However, in vivo, the IVD is submitted to complex loading stimuli. Thus, the present question focuses on the influence of the mechanical loading during an MRI acquisition on the relaxation times, magnetization transfer and diffusion parameters within the IVD.
+s
+aratus allowing the compression of isolated IVDs was designed and manufactured in acrylonitrile butadiene styrene. IVDs were dissected from fresh young bovine tail, measured for their thickness and submitted to compression just before the MRI acquisition. Six discs received 0% (platen positioned at the initial disc thickness), 5% (platen positioned at 95% of the initial disc thickness), 10%, 20% and 40% deformation. The MRI parameters were compared between the loading states using mean and standard deviation for T1 and T2, and matrix subtraction for Magnetization Transfer, fractional anisotropy and apparent diffusion coefficient.
+s
+mpression of the IVD did not lead to any significant change of the MRI parameters, except for the diffusion that decreased in the direction of the compressive stress.
+sion
+xperimental in vitro study shows that multi-parametric MRI on isolated discs in vitro is not sensitive to compression or to the partial confined relaxation that followed the compression.

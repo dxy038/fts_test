@@ -1,0 +1,11 @@
+Objective
+Mel-18 is a member of the mammalian Polycomb group (PcG) genes. This family of genes regulates global gene expression in many biologic processes, including hematopoiesis and anterior-posterior axis formation by manipulating specific target genes, including members of the Hox family. Here, we demonstrate that mel-18 negatively regulates the self-renewal activity of hematopoietic stem cells (HSCs).
+Materials and methods
+
+Long-term reconstitution activity was evaluated by competitive repopulating unit (CRU) and mean activity of the stem cells (MAS) assays in vivo in bone marrow cells (BMCs) derived from mel-18−/− and mel-18 tg mice. The expression levels of mel-18 and Hoxb4 were measured by quantitative real-time reverse transcription polymerase chain reaction.
+Results
+
+The Hoxb4 gene was highly expressed in HSCs derived from mel-18−/− mice. The observed CRUs were 3.21, 4.77, 3.32, and 1.64 CRU per 105 BMCs in mel-18+/+, mel-18−/−, C57BL/6, and mel-18 tg, respectively. MAS was 0.58, 0.18, 0.41, and 5.89 in mel-18+/+, mel-18−/−, C57BL/6, and mel-18 tg, respectively. The percentage in G0 phase HSCs (lin−flk2−c-Kit+Sca1+ cells) was increased in mel-18−/− mice and decreased in mel-18 tg mice.
+Conclusion
+
+Loss or knockdown of mel-18 leads to the expression of Hoxb4, an increase in the proportion of HSCs in G0 phase, and the subsequent promotion of HSC self-renewal. These findings will enable us to develop new approaches for controlling HSC activity for hematopoietic transplantations based on ex vivo expansion of HSCs.

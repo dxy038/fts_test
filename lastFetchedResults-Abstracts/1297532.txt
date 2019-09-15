@@ -1,0 +1,1 @@
+In this paper, we present a new objective function for scheduling on parallel machines: minimizing the number of machines for schedules of minimum length. We study its complexity and we prove the NP-completeness of this problem, even if there is no precedences or for unitary execution times. We propose several polynomial algorithms for various particular cases.

@@ -1,0 +1,1 @@
+We prioritize bidirectional connection requests by combining dynamic connection provisioning with off-line optimization. Results show that the proposed approach decreases wavelength-converter usage, thereby allowing operators to reduce blocking-probably under bulk connection assignment or network reconfiguration.

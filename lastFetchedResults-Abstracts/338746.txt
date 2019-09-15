@@ -1,0 +1,11 @@
+Objective
+Bone marrow from wild-type mice and mice with mutated Fas (lpr) or mutated Fas ligand (gld) was used to investigate the role of the Fas/FasL system in the regulation of myeloid progenitor cell kinetics.
+Methods
+
+Granulocyte-macrophage colony-forming cells (CFU-GM) were measured by a standard colony assay and the proliferative activity of CFU-GM was measured by replating primary colonies and observing secondary colony formation. Fas expression was restored to lpr mouse bone marrow cells by retrovirus-mediated gene transfer and gld mouse marrow cells were treated with soluble FasL. Wild-type marrow cells were treated with YVAD (a caspase inhibitor) or anti-Fas monoclonal antibodies.
+Results
+
+There were greater frequencies of myeloid progenitor cells (CFU-GM) in lpr and gld mouse marrow compared to wild-type (WT) marrow (p = 0.0008). The proliferative capacity of CFU-GM was also significantly greater for lpr and gld CFU-GM compared to WT CFU-GM (p = 0.0003 and 0.0001, respectively). Retrovirus-mediated restoration of Fas into lpr marrow, and provision of soluble FasL (sFasL) to gld CFU-GM reduced CFU-GM proliferation to WT levels. Treatment of WT CFU-GM with YVAD or anti-FasL monoclonal antibody increased CFU-GM proliferation to the levels found in lpr and gld CFU-GM. YVAD significantly increased and anti-Fas significantly reduced the proliferative capacity of human CFU-GM (p = 0.015 and 0.04, respectively).
+Conclusion
+
+Fas, FasL, and caspase activation may play an important role in regulating myeloid progenitor cell kinetics.

@@ -1,0 +1,1 @@
+Safe production is very important to the grid. Regarding to safety production evaluation, the evaluation indexes are numerous. In this paper, the method of fuzzy clustering is used to classify the indexes and rough set is used to determine weigh for each index. Finally a practical example shows that this method is more objective and more suited to the uncertain condition.

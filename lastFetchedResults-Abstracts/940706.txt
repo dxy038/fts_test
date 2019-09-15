@@ -1,0 +1,14 @@
+Background
+Because epidemiological studies have yielded different results, the association between exposure to fine particulate matter less than 2.5 μm in aerodynamic diameter (PM2.5) and acute events of cardiovascular diseases (CVD) is unknown. Additionally, no research has been conducted to explore the association between PM2.5 and hospital emergency room (ER) visits of cardiovascular diseases in Beijing, China.
+Objective
+
+To explore the association between PM2.5 and the hospital ER visits in Beijing, China for CVD {(International Classification of Diseases, 10th vision (ICD-10): I00~I99)}.
+Methods
+
+We collected data for daily hospital ER visits for CVD from the Peking University Third Hospital, daily ambient PM2.5 data from a fixed monitor site at Peking University, and data on the daily level of gaseous air pollutants {sulfur dioxide (SO2) and nitrogen dioxide (NO2)} from the Beijing Municipal Environmental Monitoring Center between June 1, 2004 and December 31, 2006. A time-stratified case–crossover design was used to evaluate associations between CVD health outcomes and ambient air pollutants.
+Results
+
+8377 hospital ER visits of CVD were collected in our study. After adjusting the temperature and the relative humidity, the associations for 10 μg/m3 increases in levels of PM2.5, SO2, or NO2 and hospital ER visits for cardiovascular diseases were statistically significant with odds ratios (ORs) of 1.005{95% confidence interval (CI): 1.001–1.009}, 1.014(95% CI: 1.004–1.024), and 1.016(95% CI: 1.003–1.029), respectively.
+Conclusion
+
+These findings suggest that elevated levels of ambient air pollutants are associated with the increase in hospital ER visits for CVD in Beijing, China.

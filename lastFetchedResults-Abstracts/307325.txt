@@ -1,0 +1,7 @@
+Objective
+To evaluate the biomarkers of pancreatitis Colorimetric Lipase, Total Amylase and Pancreatic Amylase (immunoinhibition) assays on the Roche COBAS INTEGRA 700.
+Results
+Pancreatic and Total Amylase assays and Colorimetric Lipase showed excellent imprecision of 1.6 to 2.3% and linearity (slope = 0.94–0.99, y-intercepts–1 to +3 U/L, R = 0.999) over the range of 17 to 900, 35 to 880, and 21 to 150 U/L, respectively. There was an excellent correlation between Pancreatic and Total Amylase: Pancreatic Amylase = 0.99 (± 0.02) × Total Amylase–36(± 8) (n = 106, R = 0.97, p< 1 × 10−5, y intercept p< 1 × 10−5). Colorimetric Lipase showed some correlation to Total and Pancreatic Amylase results: Colorimetric Lipase = 1.54 (± 0.16) × Total Amylase–81(± 37) (n = 100, R = 0.70, p< 1 × 10−6, y intercept p = 0.03), and Colorimetric Lipase = 1.78 (± 0.15) × Pancreatic Amylase–50(± 29) (n = 99, R = 0.78, p< 1 × 10−6, y intercept p = 0.09).
+Conclusion
+We recommend running the more specific Pancreatic Amylase as biomarker of pancreatitis on the Roche COBAS INTEGRA.
+

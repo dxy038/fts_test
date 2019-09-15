@@ -1,0 +1,11 @@
+Robust optimization problems are newly formulated and an e,cient computational scheme is proposed.
+Both design variables and design parameters are considered as random variables about their nominal
+values. To ensure the robustness of objective performance, we introduce a new performance index
+bounding the performance together with a constraint limiting the performance variation. The constraint
+variations are regulated by considering the probability of feasibility. Each probability constraint is
+transformed into a sub-optimization problem by the advanced <rst-order second moment (AFOSM)
+method for computational e,ciency. The proposed robust optimization method has the advantages that
+the mean value and the variation of the performance function are controlled simultaneously and rationally
+and the second-order sensitivity information is not required even in case of gradient-based optimization
+process. The suggested method is examined by solving three examples and the results are compared
+with those for the deterministic case and those available in the literature

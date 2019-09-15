@@ -1,0 +1,1 @@
+This study uses a random transposition for a dynamic mutation operator similar to those used in evolutionary algorithms to optimize the problem of the total weighted tardiness for single machine. Results show that the PSO with mutation strategy has good performances in convergence and hit ratio for finding the best objective value.

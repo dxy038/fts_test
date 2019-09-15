@@ -1,0 +1,14 @@
+This paper proposes a dispatching rule that guarantees a predetermined minimum quality level for nonidentical
+parallel machines with multiple product types. Manufacturers are focusing on improving the
+overall quality of their products, as the demand for top quality products is increasing. Such changes
+increase the possibility of neglecting another crucial factor in manufacturing schedules, namely due date.
+Traditionally, jobs are dispatched with the focus on meeting due dates. That is, jobs are assigned to
+machines without consideration of product quality. This approach opens the possibility of manufacturing
+poor quality products. Realizing the shortcomings of the existing dispatching rules, manufacturers are
+tempted to dispatch jobs with the objective of maximizing product quality. With such an attempt, jobs
+are likely to be assigned to high performance machines only. In turn, waiting times will increase and
+job delays are inevitable. This research proposes a dispatching rule that satisfies both criteria, reducing
+due date delays, while ensuring a predefined product quality level. A quality index is introduced to standardize
+various product qualities. The index is used to ensure a predetermined quality level, whilst minimizing
+product delays. Simulations compare various dispatch methods, evaluating them based on mean
+tardiness and product quality.

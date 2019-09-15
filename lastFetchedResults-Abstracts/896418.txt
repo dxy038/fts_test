@@ -1,0 +1,8 @@
+Background and Objective: Melanoma is the most deadly type of skin cancer that has a high potency and rapid metastasis to other organs. It appears that cancer stem cells (CSCs) are responsible for invasion and metastasis. The aim of this study was to investigate the expression of cancer stem cells candidate markers and their association with stemness features in melanoma cell lines.
+
+Materials and Methods: The expression levels of CD133, CD44 and ABCG2 were measured in melanoma cell lines (WM115, NA8, SK-MEL, Me67, A375 and D10) by flow cytometry. Then, selected cell line was sorted up on the expression of selected stem cell marker into positive and negative populations. Afterward, The potential of cologenic, spheroid formation and expression of stem genes including NANOG, SOX2, OCT4 and KLF4 was estimated in positive, negative and unsorted cells.
+
+Results: Our results demonstrated that 28.65 ± 1.85% of D10 cell line expressed CD133. However, CD44 and ABCG2 were or (not) expressed in all cell lines. The CD133+ sorted cells showed an increase in colony formation about 1.64 fold (p < 0.05) and melanospheres about 2.2 fold (p=000) as compared to CD133-. The evaluation of stemness genes expression determined the significance of up-regulation of NANOG and OCT4 in CD133+ and SOX2 in CD133- respectively. There was no difference in KLF4 expression between the two groups.
+
+Conclusion: Findings of this research showed that CD133 can be considered as stem-like cells marker in D10 cell line and other melanoma cells which expressed CD133.
+

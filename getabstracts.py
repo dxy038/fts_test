@@ -21,7 +21,7 @@ def extractAbstracts(ref):
         while True:
             line = file1.readline()
             line_no += 1
-            print("\r REF = %s | PROCESSING LINE %d" % (ref, line_no), end="")
+            print("\r REF = %s | PROCESSING LINE %d             " % (ref, line_no), end="")
             if line == "":
                 break
             id = int(line.rstrip())
@@ -41,7 +41,7 @@ refs = ["and-elastic5results.txt","and-mongoresults.txt","and-mssqlresults.txt",
 created = 0
 already_exists = 0
 for r in refs:
-    re = extractAbstracts(r)
+    re = extractAbstracts("./lastFetchedResults-IDs/"+r)
     created += re[0]
     already_exists += re[1]
 

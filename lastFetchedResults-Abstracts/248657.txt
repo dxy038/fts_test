@@ -1,0 +1,13 @@
+A general optimization methodology for the optimal design of robotic manipulators is presented and
+illustrated by its application to a realistic and practical three-link revolute-joint planar manipulator. The
+end-e¤ector carries out a prescribed vertical motion for which, respectively, the average torque requirement
+from electrical driving motors, and the electric input energy to the driving motors are minimized with respect
+to positional and dimensional design variables. In addition to simple physical bounds placed on the
+variables, the maximum deliverable torques of the driving motors and the allowable joint angles between
+successive links represent further constraints on the system. The optimization is carried out via a penalty
+function formulation of the constrained problem to which a proven robust unconstrained optimization
+method is applied. The problem of singularities (also known as degeneracy or lock-up), which may occur for
+certain choices of design variables, is successfully dealt with by means of a specially proposed procedure in
+which a high artiÞcial objective function value is computed for such Ôlock-up trajectoriesÕ. Designs are
+obtained that are feasible and practical with reductions in the objective functions in comparison to that of
+arbitrarily chosen infeasible initial designs. Copyright

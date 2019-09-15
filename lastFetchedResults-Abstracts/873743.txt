@@ -1,0 +1,4 @@
+In this paper, we study the duality theory of hyperbolic systems with damping
+terms. The main objective is to prove a duality theorem under general conditions
+within an infinite-dimensional framework. An example of its application is also
+given.

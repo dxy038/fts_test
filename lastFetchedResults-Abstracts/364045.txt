@@ -1,0 +1,9 @@
+Study objective
+This usability study evaluates the user interface of 2 common monitor-defibrillators, the Lifepak10 and Lifepak12, to identify use-related hazards.
+Methods
+Fourteen paramedics familiar with both devices completed 4 EMS simulator scenarios using each device. The scenarios involved “quick look” and monitoring, defibrillation, synchronized cardioversion, and replacing paper. Qualitative and quantitative data were collected, including both participant self-evaluation (scored 1 to 9) and expert observer evaluation (scored 0 to 4).
+Results
+Participant ratings demonstrated that for performing a quick look, the Lifepak10 was easier to use (mean 8.0 versus 7.1), and for synchronized cardioversion the Lifepak12 was easier (mean 6.7 versus 5.3). Participants performed better on the Lifepak12 than the Lifepak10 for synchronized cardioversion (mean 3.1 versus 1.6) and replacing paper (mean 3.0 versus 2.1). One participant did not complete the final questionnaire. Of the remaining 13, 11 (85%) participants preferred the Lifepak12 for use on a regular basis. Eight (62%) paramedics thought that the Lifepak12 would be more effective in an emergency; 9 (69%) believed that the Lifepak10 is quicker to learn. Paramedics reported difficulty using the devices with gloves and confusion in “sync” mode. Of note, 50% of participants inadvertently delivered an unsynchronized countershock for supraventricular tachycardia.
+Conclusion
+Although the Lifepak10 is easier to learn, the Lifepak12 is perceived as easier to use and more effective in emergencies. The high failure rate in synchronized cardioversion indicates a need to reevaluate the user interface design for this function. Limitations of this study include the use of simulation.
+

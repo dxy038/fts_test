@@ -1,0 +1,6 @@
+Geometric programming is a methodology for solving algebraic nonlinear optimization
+problems. It provides a powerful tool for solving nonlinear problems where nonlinear relations can be
+well presented by an exponential or power function. This feature is especially advantageous in situations
+where the optimal value of the objective function may be all that is of interest. In such cases, calculation
+of the optimum design vectors can be omitted. The goal of this paper is to state the problem of Pressure
+vessel design and after that ?nding a better optimized solution using geometric programme.

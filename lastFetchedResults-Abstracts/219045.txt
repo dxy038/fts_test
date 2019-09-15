@@ -1,0 +1,11 @@
+Soil adsorbing properties reduce sorption ability of the metal, which in turn may influence decision for
+remediation at contaminated sites. The objective of this study is presentation of a model based on soil
+properties to estimate the sorption of Cr(III) in chromium contaminated soils. Twenty uncontaminated
+soil samples, with properties similar to the contaminated soils were selected from around of city of Tabriz
+and treated with Cr as CrCl3. A multiple regression analysis with statgraph software was used to drive an
+expression that related Cr sorption to common soil properties. The results showed that four soil properties
+were important in determining the amount of Cr adsorbed by the soils including pH, cation exchange
+capacity, total inorganic carbon and clay content with nearly 80% variability in Cr sorption and a
+reasonable level of confidence by this model. The obtained model suggested that Cr(III) sorption was
+enhanced by higher soil pH, more total inorganic carbon, more clay, and higher cation exchange capacity.
+

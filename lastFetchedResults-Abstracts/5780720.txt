@@ -1,0 +1,1 @@
+This paper presents a new method of identification experiment design for control. Our objective is to design the open-loop identification experiment with minimal excitation such that the controller designed with the identified model stabilizes and achieves a prescribed level of H<sub>&#8734;</sub> performance with the unknown true system G<sub>0</sub>.

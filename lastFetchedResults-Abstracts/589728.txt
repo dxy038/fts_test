@@ -1,0 +1,9 @@
+In this paper, the optimum design of some floor systems, including composite slab, one way
+waffle slab, and the formwork of a concrete slab, is performed via recently developed meta-heuristic
+algorithms, namely, the Charged System Search (CSS) and the Enhanced Charged System Search (E-CSS).
+The CSS is a multi-agent approach based on some principles of physics and mechanics. Each agent, called a
+Charged Particle (CP), is a sphere with uniform charge density that can attract other CPs by considering the
+fitness of the CP. Here, optimum designs are based on LRFD-AISC and ACI 318-05. The objective function for
+each structure is the cost function. This function includes materials used and the construction cost of the
+structure. The considered structures are also optimized by the Improved Harmony Search (IHS) algorithm
+and the results are compared to those of the CSS.

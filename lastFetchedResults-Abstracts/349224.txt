@@ -1,0 +1,11 @@
+Objective
+Theta and alpha range EEG oscillations are commonly induced in cognitive tasks, but their possible relationship to the BOLD signal of fMRI is not well understood, and individual variability is high. We explored individual differences in EEG reactivity to determine whether it is positively or negatively correlated with BOLD across subjects.
+Methods
+A Sternberg working memory task with 2, 4, or 6 digits was administered to 18 subjects in separate fMRI and EEG sessions. Memory load-dependent theta and alpha reactivity was quantified and used as a regressor to reveal brain areas exhibiting EEG–fMRI correlation across subjects.
+Results
+Theta increases localized to medial prefrontal cortex, and correlated negatively with BOLD in that region and in other “default mode” areas. Alpha modulation localized to parietal–occipital midline cortex and also correlated negatively with BOLD.
+Conclusions
+Individual tendencies to exhibit memory load-dependent oscillations are associated with negative BOLD responses in certain brain regions.
+Significance
+Positive BOLD responses and increased EEG oscillations do not necessarily arise in the same regions. Negative BOLD responses may also relate to cognitive activity, as traditionally indexed by increased EEG power in the theta band.
+

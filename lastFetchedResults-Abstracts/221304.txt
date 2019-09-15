@@ -1,0 +1,8 @@
+We introduce a fast and high-performance image subsampling
+method using feedforward artificial neural networks (FANN’s). Our
+method employs a pattern matching technique to extract local edge information
+within the image, in order to select the FANN desired output values
+during the supervised training stage. Subjective and objective evaluations
+of experimental results using still images and video frames show that our
+method, while less computationally intensive, outperforms the standard
+lowpass filtering and subsampling method.

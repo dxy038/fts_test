@@ -1,0 +1,19 @@
+OBJECTIVES
+
+The main objective of this study was to establish whether gender regulates expression and/or properties of cardiac ATP-sensitive K+ (KATP) channels.
+
+BACKGROUND
+
+Recently, evidence has been provided that differing cardiac responses in males and females to metabolic stress may result from gender-specific difference(s) in the efficiency of endogenous cardioprotective mechanism(s) such as KATP channels.
+
+METHODS
+
+A reverse transcription polymerase chain reaction (RT-PCR) using primers specific for Kir6.2, Kir6.1 and SUR2A subunits was performed on total RNA from guinea pig ventricular tissue. Western blotting using anti-Kir6.2 and anti-SUR2A antibodies was performed on cardiac membrane fraction. Whole-cell, single-channel electrophysiology and digital epifluorescent Ca2+ imaging were performed on isolated guinea pig ventricular cardiomyocytes.
+
+RESULTS
+
+The RT-PCR revealed higher levels of SUR2A, but not Kir6.1 and Kir6.2, messenger RNA in female tissue relative to male tissue, while much higher levels of both Kir6.2 and SUR2A proteins in cardiac membrane fraction in female tissue compared with male tissue were found. In both male and female tissue, pinacidil (100 μM), a KATP channel opener, induced outward whole-cell currents. The current density of the pinacidil-sensitive component was significantly higher in female tissue than it was in male tissue, while no differences in single KATP channel properties between genders were observed. Ischemia-reperfusion challenge induced significant intracellular Ca2+ loading in male, but not female, cardiomyocytes. To test the hypothesis that SUR2A expression is the limiting factor in KATP channel formation, we took different volumes of Kir6.2 and SUR2A complementary DNA (cDNA) from the same cDNA pool and subjected them to PCR. In order to obtain a band having 50% of the maximal intensity, a volume of SUR2a cDNA approximately 20 times the volume of Kir6.2 cDNA was required.
+
+CONCLUSIONS
+
+This study has demonstrated that female tissue expresses higher levels of functional cardiac KATP channels than male tissue due to the higher expression of the SUR2A subunit, which has an impact on cardiac response to ischemia-reperfusion challenge.

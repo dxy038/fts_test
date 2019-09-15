@@ -1,0 +1,11 @@
+Objective
+We examined the interhemispheric functional synchronization of the visual cortex using coherence (Coh) analysis.
+Methods
+Achromatic or isoluminant chromatic sinusoidal grating stimuli were presented to each hemifield at a rate of 8 reversals/s to record steady-state visual-evoked potentials (S-VEPs) in 10 healthy subjects. Four recording electrodes were placed at O1, O2, P3 and P4, referred to an electrode at Cz. A total of 50 responses of 1 s epoch were averaged, and were subjected to discrete fast Fourier transforms to yield the amplitude and phase of the 8 Hz component. Ordinary and partial Coh values were also calculated.
+Results
+For both achromatic and chromatic stimuli, the 8 Hz amplitudes of O1 and O2 were significantly larger than those of P3 and P4 without any significant difference between O1 and O2. The phase lag between O1 and O2 was approximately 30° (latency shift 10.4 ms). Partial Coh between O1 and O2 at 8 Hz was significantly greater than that of the unstimulated condition, and this was only observed at 8 Hz.
+Conclusions
+These results suggest that interhemispheric synchronization in the occipital area occurs despite the nature of the visual stimuli. Therefore, the activation of interhemispheric connection is important for the early stage of the visual information processing.
+Significance
+Our results indicate that the first step of the visual information processing requires interhemispheric functional synchronization.
+

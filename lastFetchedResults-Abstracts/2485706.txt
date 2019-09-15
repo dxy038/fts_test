@@ -1,0 +1,8 @@
+Background and Objective: The concentration of nitrate, factors affecting the balance sheet, and the changes in an aquifer is of utmost importance. Because modeling is an efficient method to predict the concentration of ions in water resources, in this study using lumped-parameter model and Monte Carlo simulation model, the nitrate concentrations in groundwater resources of Qazvin Plain were estimated and analyzed.
+
+Materials and Methods: A total of 19 wells in different climates of saline watershed in Qazvin Plain were selected and entry and exit routes of nitrate to these sources were analyzed using lumped-parameter model. &nbsp;Finally, Monte Carlo simulation was used to determine the probability of the estimated nitrate concentration in aquifer.
+
+Results: Application of lumped-parameter model for a part of a part of groundwater resources in Qazvin Plain watershed predicted the nitrate concentration in the range of 8.12 to 15.94 mg/l. &nbsp;&nbsp;The maximum concentration was estimated in cold-dry climate with 12.8&plusmn;0.04 mg/L. Moreover, it was found that the difference between the estimated nitrate concentration and factors affecting its concentration in different climates was significant (p<0.05).
+
+Conclusion: Despite the predicted concentrations of nitrate in the study area were in accordance with the Iran national standard for drinking purposes, the cumulative probability of Monte Carlo simulation showed that the possible violation of nitrate from the safe limit of 10 mg/l in the study area is 90% (p = 0.005).
+

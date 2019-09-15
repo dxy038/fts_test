@@ -1,0 +1,10 @@
+Context
+information systems development (ISD) has received much attention from both the practitioner and researcher community over the last 10–15 years. However, it is still unclear what precisely constitutes agile ISD.
+ive
+on four empirical studies conducted over a 10-year time period from 1999 to 2008 the objective of this paper is to show how the meaning and practice of agile ISD has evolved over time and on this basis to speculate about what comes next.
+
+hases of research has been conducted, using a grounded theory approach. For each research phase qualitative interviews were held in American and/or Danish companies and a grounded theory was inductively discovered by careful data analysis. Subsequently, the four unique theories have been analyzed for common themes, and a global theory was identified across the empirical data.
+s
+9 companies were developing software at high-speed in a desperate rush to be first-to-market. In 2001 a new high-speed/quick results development process had become established practice. In 2003 changes in the market created the need for a more balanced view on speed and quality, and in 2008 companies were successfully combining agile and plan-driven approaches to achieve the benefits of both. The studies reveal a two-stage pattern in which dramatic changes in the market causes disruption of established practices and process adaptations followed by consolidation of lessons learnt into a once again stable software development process.
+sion
+clical history of punctuated process evolution makes it possible to distinguish pre-agility from current practices (agility), and on this basis, to speculate about post-agility: a possible next cycle of software process evolution concerned with proactively pursuing the dual goal of agility and alignment through a diversity of means.

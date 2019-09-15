@@ -1,0 +1,17 @@
+The main objective of a research program, whose output is presented here, has been
+to estimate “Ventilation Coefficients”, a critical parameter in determining air pollution concentration
+near the surface ground which signifies the ability for natural ventilation of an air shed in an urban
+or rural area. Relevant measured data from the city of Tehran has been used to calibrate and further
+demonstrate the validity of the mathematical model developed. Since most polluted mega cities
+require significant air pollution modeling activities, capable of providing relatively reliable outputs,
+calculating such highly important parameter is by far the most important outcome of this research.
+The Ventilation Coefficients have been estimated assuming normal adiabatic lapse rates and utilizing
+ten-year daily atmospheric radio-sound data. Mean Maximum Mixing Depth, Wind Speed at Mean
+Maximum Mixing Depth, and the Ventilation Coefficients have been computed and as a result it has
+been noted that despite the fact that Mean Maximum Mixing Depth peacks in June and Wind Speed
+at Mean Maximum Mixing Depth reaches its maximum in April, this has caused the Ventilation
+Coefficient to remain at its peack almost constant over April-June time span. It may also be observed
+for an urban area such as Tehran, the Ventilation Coefficient stands maximum in spring at 22329.17
+m2
+/s and minimum in fall at 22329.17 m2
+/s

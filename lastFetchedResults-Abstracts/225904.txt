@@ -1,0 +1,12 @@
+An experimental and theoretical study has been carried out for on-line estimation and control of a batch
+reactor for solution polymerization of methyl methacrylate. The main control objective is to bring the
+reactor temperature to its target temperature as rapidly as possible with minimal temperature overshoot.
+The extended Kalman filter algorithm is used to estimate the effective reactor wall heat transfer coefficient,
+which is used to calculate a jacket set point automatically for a cascade control. Control performance
+for the proposed method is compared to that of a conventional PID controller. It has been
+observed that temperature overshoot can be minimized by the proposed method with the use of both reactor
+and jacket energy balances for reactor temperature control. When direct measurements of monomer
+conversion are not available, the extended Kalman filter is also used to estimate the rate of heat generated
+by poly- merization which is integrated to obtain an estimate of monomer conversion. It is observed
+that the model and measurement error covariance values, which are essentially the filter tuning parameters,
+strongly influence the accuracy of resulting monomer conversion estimates.

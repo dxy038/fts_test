@@ -1,0 +1,1 @@
+Summary form only given. The optimization objective is to find a combination of magnet parameters (radial length, magnetic strength) which minimizes the cogging effect in a spindle motor (Figure 1). Reduced order finite element technique provides an accurate means to predict the cogging effect while keeping computational overhead low.

@@ -1,0 +1,10 @@
+Objective
+pose a method for preprocessing event-related functional magnetic resonance imaging (fMRI) data that can lead to enhancement of template-free activation detection. The method is based on using a figure of merit to guide the wavelet shrinkage of a given fMRI data set.
+ound
+l previous studies have demonstrated that in the root-mean-square error setting, wavelet shrinkage can improve the signal-to-noise ratio of fMRI time courses. However, preprocessing fMRI data in the root-mean-square error setting does not necessarily lead to enhancement of template-free activation detection. Motivated by this observation, in this paper, we move to the detection setting and investigate the possibility of using wavelet shrinkage to enhance template-free activation detection of fMRI data.
+ology
+in ingredients of our method are (i) forward wavelet transform of the voxel time courses, (ii) shrinking the resulting wavelet coefficients as directed by an appropriate figure of merit, (iii) inverse wavelet transform of the shrunk data, and (iv) submitting these preprocessed time courses to a given activation detection algorithm. Two figures of merit are developed in the paper, and two other figures of merit adapted from the literature are described.
+s
+er-operating characteristic analyses with simulated fMRI data showed quantitative evidence that data preprocessing as guided by the figures of merit developed in the paper can yield improved detectability of the template-free measures. We also demonstrate the application of our methodology on an experimental fMRI data set.
+sions
+oposed method is useful for enhancing template-free activation detection in event-related fMRI data. It is of significant interest to extend the present framework to produce comprehensive, adaptive and fully automated preprocessing of fMRI data optimally suited for subsequent data analysis steps.

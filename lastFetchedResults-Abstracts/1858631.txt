@@ -1,0 +1,16 @@
+RésuméObjectif de l’étude
+chaque tomothérapie hélicoïdale, une imagerie de haute énergie (MVCT) est effectuée afin de vérifier et d’ajuster par recalage des images la position du patient par rapport au plan d’imagerie de basse énergie (kVCT). Cette étape est cependant coûteuse en temps. Ainsi, notre approche vise à trouver une méthode afin de réduire le nombre de fractions avec imagerie de haute énergie dans le cas des patients atteints de cancer de la prostate.
+ts et méthodes
+calages interfractions de 20 patients (soit environ 700 jeux d’images de haute énergie) traités pour cancer de la prostate dans notre institution ont été relevés et analysés. Une nouvelle position de référence a été calculée en utilisant les décalages effectués pour un certain nombre de fractions avec imagerie de haute énergie.
+ats
+yse de différentes positions de références obtenues pour les 20 patients étudiés a montré que l’utilisation de l’imagerie de haute énergie pendant seulement les quatre premières fractions de traitement est suffisante pour la plupart des patients.
+sion
+agerie durant les quatre premières fractions de traitement peut être utilisée pour déterminer une position de référence satisfaisante pour réduire l’erreur systématique interfraction. Une étude avec le logiciel Planned Adaptive® (TomoTherapy Inc., Madison, WI, États-Unis) pour déterminer cliniquement les effets d’un traitement avec un nombre d’images réduit est en cours dans notre institution.
+se
+ltage CT (MVCT) study on helical tomotherapy permits to verify and correct the patient setup by coregistration with the planning kVCT. This process is time-consuming and our objective is to investigate a possibility of using a smaller number of imaging studies in the case of patients with prostate cancer.
+ts and methods
+terfraction shifts of 20 patients (about 700 MVCT studies) treated in our institution have been recorded and analyzed. A new reference position has been calculated as an average of shifts observed during different initial number of fractions imaged.
+s
+alysis of the reference position obtained for the set of 20 patients as a function of the number of imaging sessions has shown that MVCT studies during first four fractions are sufficient for the majority of patients.
+sion
+g during the first four fractions can be used to determine a reference position for patients with prostate cancer treated on helical tomotherapy. A study on Planned Adaptive® (TomoTherapy Inc., Madison, WI, USA) software to evaluate the clinical significance of this scenario is currently in process in our institution.

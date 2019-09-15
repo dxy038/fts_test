@@ -1,0 +1,8 @@
+The objective of this paper is to show how one may design combinatorial libraries a priori by integrating data mining
+techniques with physically robust multivariate data. It is shown that large datasets can be developed from relatively small
+amounts of experimental and theoretically based information. This involves a process of strategically selecting appropriate
+physical based parameters that can be analyzed in a multivariate manner. In this paper we identify for the first time the bandgap
+and lattice parameters of nearly 200 stoichiometries of new and yet to be synthesized compound chalcopyrite semiconductors.
+The robustness of this ‘‘virtual’’ combinatorial experimentation approach is demonstrated by comparison to band gap
+predictions from theoretical studies on a range of compositions for a selected quaternary compound semiconductor.
+# 2003 Elsevier B.V. All rights reserved.

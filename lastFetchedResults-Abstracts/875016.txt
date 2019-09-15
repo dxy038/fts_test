@@ -1,0 +1,19 @@
+This paper is concerned with an asymptotic analysis of hierarchical production
+planning in a stochastic manufacturing system consisting of machines that are
+subject to breakdown and repair. The system produces a single product whose rate
+of demand over time is constant. The problem is formulated as a continuous-time
+dynamic programming problem in which the objective is to minimize the cost of
+production, inventories, and backlogs. The size of the buffer between the two
+adjacent machines is assumed to have lower and upper bound constraints. As the
+rates of change of the machine states approach infinity, the analysis results in a
+limiting problem in which the stochastic machine availability is replaced by its
+equilibrium mean availability. The value function for the original problem converges
+to the value function of the limiting problem. A method of ‘‘shrinking,’’
+‘‘total lifting,’’ and ‘‘modification’’ is introduced in order to construct near-optimal
+controls for the original problem by using near-optimal controls of the limiting
+problem. The convergence rate of the value function for the original problem to
+1This research was supported in part by NSERC Grant A4619, ONR Grant N00014-96-1-
+0263, and faculty research grants from the University of Texas at Dallas and the University of
+Georgia.that of the limiting problem is established. This helps in providing an error
+estimate for the constructed open-loop asymptotic optimal control. Q 2000 Academic
+Press

@@ -1,0 +1,7 @@
+Objective: To evaluate a simple static test (i.e. a slow strain rate test) designed to measure Young’s modulus and the bulk modulus of polymeric materials (The NOL Test). Though it is a ‘mature’ test as yet it has never been applied to dental materials.
+
+Methods: A small cylindrical specimen is contained in a close-fitting steel constraining ring and compressive force applied to the ends by steel pistons. The initial (unconstrained) deformation is controlled by Young’s modulus. Lateral spreading leads to constraint from the ring and subsequent deformation is controlled by the bulk modulus. A range of dental materials and reference polymers were selected and both moduli measured. From these data Poisson’s ratios were calculated.
+
+Results: The test proved be a simple reliable method for obtaining values for these properties. For composites the value of Young’s modulus was lower, bulk modulus relatively similar and Poisson’s ratio higher than that obtained from high strain rate techniques (as expected for a strain rate sensitive material).
+
+Significance: This test does fulfil a requirement for a simple test to define fully the elastic properties of dental polymeric materials. Measurements are made at the strain rates used in conventional static tests and values reflect this test condition. The higher values obtained for Poisson’s ratio at this slow strain rate has implications for FEA, in that analysis is concerned with static or slow rate loading situations.

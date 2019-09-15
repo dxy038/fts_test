@@ -1,0 +1,1 @@
+We propose a 1-fiber bidirectional WDM self-healing ring that has bidirectional optical add/drop multiplexers. A simple fault detection method is proposed, and no signal degradation due to in-band crosstalk is demonstrated in the failure state. The power penalty of the ring transmission was less than 1 dB at a BER 10<sup>-12</sup> in the normal and failure state.

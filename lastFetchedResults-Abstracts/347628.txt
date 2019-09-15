@@ -1,0 +1,6 @@
+Objective: To quantify the extent of disagreement among expert artefactors, to compare their results with a ‘minimalist’ approach where only gross artefacts were removed, and to relate the result to frequency and to cranial location.
+Methods: Raw QEEG records for 12 subjects were artefacted by 6-expert, and one ‘minimalist’, artefactor. Standard errors (SEs) of measurement were computed for each of 20 1.2 Hz frequency bins in each of 20 electrode positions.
+Results: SEs declined with frequency. SEs associated with the ‘minimalist’ were comparable to those of the experts. The high SEs in delta were confined to the frontal and frontotemporal regions. SEs were small and uniform over the cranium for frequencies greater than 5.2 Hz.
+Conclusions: Artefactor unreliability is a serious problem in the delta band because of disagreement on eye movement artefacts. The success of the ‘minimalist’ suggests that automated methodologies may be a feasible alternative to the use of expert technicians.
+Significance: A novel statistical procedure proves helpful in elucidating the sources of artefactor error and points to possible remedies.
+

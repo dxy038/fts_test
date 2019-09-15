@@ -1,0 +1,1 @@
+This article compares the performance of multiagent and monoagent solutions in the framework of applications needing access to left-over data in the network. The following objective is to present some multiagent and monoagent solutions to accomplish the task of planning multipart electronic events chosen as an example of left-over applications.

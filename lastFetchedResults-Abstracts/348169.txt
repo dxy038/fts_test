@@ -1,0 +1,11 @@
+Objective
+A new method for automatic seizure detection and onset warning is proposed. The system is based on determining the seizure probability of a section of EEG. Operation features a user-tuneable threshold to exploit the trade-off between sensitivity and detection delay and an acceptable false detection rate.
+Methods
+The system was designed using 652 h of scalp EEG, including 126 seizures in 28 patients. Wavelet decomposition, feature extraction and data segmentation were employed to compute the a priori probabilities required for the Bayesian formulation used in training, testing and operation.
+Results
+Results based on the analysis of separate testing data (360 h of scalp EEG, including 69 seizures in 16 patients) initially show a sensitivity of 77.9%, a false detection rate of 0.86/h and a median detection delay of 9.8 s. Results after use of the tuning mechanism show a sensitivity of 76.0%, a false detection rate of 0.34/h and a median detection delay of 10 s. Missed seizures are characterized mainly by subtle or focal activity, mixed frequencies, short duration or some combination of these traits. False detections are mainly caused by short bursts of rhythmic activity, rapid eye blinking and EMG artifact caused by chewing. Evaluation of the traditional seizure detection method of [Gotman J. Electroencephalogr Clin Neurophysiol 1990;76:317–24] using both data sets shows a sensitivity of 50.1%, a false detection rate of 0.5/h and a median detection delay of 14.3 s.
+Conclusions
+The system performed well enough to be considered for use within a clinical setting. In patients having an unacceptable level of false detection, the tuning mechanism provided an important reduction in false detections with minimal loss of detection sensitivity and detection delay.
+Significance
+During prolonged EEG monitoring of epileptic patients, the continuous recording may be marked where seizures are likely to have taken place. Several methods of automatic seizure detection exist, but few can operate as an on-line seizure alert system. We propose a seizure detection system that can alert medical staff to the onset of a seizure and hence improve clinical diagnosis.
+

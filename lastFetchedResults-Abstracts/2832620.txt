@@ -1,0 +1,1 @@
+We demonstrate the bidirectional real-time operation of an FDMA-PON using commercially available low-cost RF transceivers. Performance in terms of Packet Error Rate (PER) versus optical loss budget is assessed showing less than 1% PER up to 30dB of loss.

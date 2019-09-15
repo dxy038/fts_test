@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stress responses involve increases in leukocyte and platelet counts, implying the existence of stress responsive factors that modulate hematopoiesis. Acetylcholinesterase (AChE) is expressed in mammalian neurons and hematopoietic cells. In brain, it responds to stress by mRNA overexpression and alternative splicing, yielding the rare stress-associated “readthrough” AChE-R variant protein. This led us to explore the hematopoietic involvement of AChE-R and its cleavable C-terminal peptide ARP.
+Materials and Methods
+
+AChE mRNA variants were labeled in CD34+ hematopoietic progenitor cells by in situ hybridization. ARP expression was detected by multicolor flow cytometry. Bromo-deoxyuracil incorporation and viable cell counts served to evaluate the proliferative effects of ARP and suppressive effects of the AChE antisense oligonucleotide AS1 on CD34+ cells.
+Results
+
+The distal enhancer, proximal promoter, and first intron of the human AChE gene include consensus binding sites for hematopoietically active and stress-induced transcription factors. CD34+ cells from human cord blood were found to express all three variant AChE mRNAs, having different intracellular distributions. ARP was found in 5 to 15% of adult peripheral blood, bone marrow, and fetal CD34+ cells (both committed CD38+ and uncommitted CD38−) and in acute myeloid leukemia blasts. Externally supplied ARP by itself facilitated the proliferation of CD34+ cells in an antisense suppressible manner. When combined with early-acting cytokines, ARP enhanced survival and expansion of CD34+ cells up to 28 days in culture.
+Conclusion
+
+Our findings support ARP, the C-terminal peptide of AChE-R, as a new hematopoietic growth factor that may promote the myelopoietic expansion and thrombopoiesis characteristic of stress and may be used to enhance the efficiency of ex vivo expansion for bone marrow transplantation.

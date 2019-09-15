@@ -1,0 +1,11 @@
+Objective
+Embryonic stem (ES) cells are pluripotent and can differentiate into any cell type, including the hematopoietic lineage. We examined whether hematopoietic progenitor cells derived from ES cells reconstitute hematopoiesis in irradiated SCID mice.
+Materials and Methods
+
+ES cells (E14.1, H2Kb) were cultured for 4 days in semisolid medium containing methylcellulose. Irradiated SCID mice were used as recipients of hematopoietic progenitor cells. Cell surface antigen expression was analyzed by flow cytometry. The spleens of the recipient mice were studied by hematoxylin and eosin staining and immunohistochemical staining.
+Results
+
+After cell culture of ES cells in methylcellulose for 4 days, the cells expressing Flk1 (VEGF receptor 2), a tentative marker of hemangioblasts, were increased, whereas cells expressing CD31 (PECAM-1) and E-cadherin (nonmesodermal adhesion molecule) were dramatically reduced. Flk1+ cells expressed c-kit predominantly. Circulating leukocytes and thrombocytes were increased in irradiated SCID (H2Kd) mice transplanted with ES cell-derived Flk1+ cells compared with vehicle-injected control mice. H2Kb+ and VE-cadherin+ vascular endothelial cells were prominent in spleens of the recipient mice. Flow cytometric analysis demonstrated that H2Kb+ cells were increased in the bone marrow of recipient mice. In addition, Flk1+ cells accompanying enhanced c-kit expression preferentially repopulated in the bone marrow, and leukopoiesis and thrombopoiesis of the recipient mice were evident.
+Conclusion
+
+The Flk1+ hematopoietic cells derived from ES cells reconstitute hematopoiesis in vivo and may become an alternative donor source for bone marrow transplantation.

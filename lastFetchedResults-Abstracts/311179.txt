@@ -1,0 +1,11 @@
+Objective.  The present study describes the geometry of the three-dimensional articular surfaces of the human femoral condyles based on measurements of surface coordinates.
+
+Design. The purpose was not to obtain a complex representation of one single condyle, but to describe the femoral condyles using simple geometric parameters based on measurements using a number of specimens.
+
+Background. In joint modeling, a representative knee joint geometry is often desired which requires an approximation of the irregular joint geometry while taking into account interspecimen variations.
+
+Methods. An optical device was used to measure the condylar articular surfaces of 12 human femurs in the femorotibial contact region. The sagittal profiles were reconstructed by means of two circular arcs and the radial profiles by means of one circular arc.
+
+Results. The results provide the geometric parameters necessary for the three-dimensional reconstruction of the articular surfaces of the femoral condyles. The results indicate that the medial and lateral condyles of the distal femur are significantly asymmetric in a number of morphological features.
+
+Conclusion. The primary application of the results is expected to be in the formulation of finite element models of the knee joint for static contact problems.

@@ -1,0 +1,9 @@
+Objective
+Concerning prevalence of carpal tunnel syndrome (CTS) and the difficulties with electromyography (EMG) and nerve conduction studies (NCS), this study was designed to evaluate the power of somatosensory evoked potential (SSEP) in CTS diagnosis among Iranian patients.
+Patients and methods
+SSEP was performed on 100 asymptomatic hands of 50 healthy participants (40 female, age range 38–59 years) and on 61 hands of 46 patients (39 female, age range 34–58 years). Mean difference between N20 latency of the middle finger and the wrist (median nerve innervation) as well as N20 latency of the third finger and the fifth finger (ulnar nerve innervation) were measured. Using receiver operating characteristic (ROC) curve analysis, the upper limits of these variables were defined as 6.0 and 1.5 ms, respectively. Higher amounts in either of these variables were considered as positive SSEP for diagnosis of CTS. Measures of accuracy for SSEP were measured getting clinical diagnosis by two separate neurologists as the reference standard. In the patients’ group who underwent both techniques of SSEP and EMG–NCS, kappa statistic as the agreement coefficient between two procedures was calculated.
+Results
+Sensitivity, specificity, and likelihood ratios for positive and negative results of SSEP in diagnosis of CTS were 70.4%, 91.0%, 7.83 and 0.32, respectively. Sensitivity of EMG–NCS in diagnosis of CTS was measured as 81.9%. Measure of agreement between two procedures (kappa) was calculated as 0.42.
+Conclusion
+This study showed that positive results of SSEP might have a role in diagnosis of CTS. However, larger studies to demonstrate diagnostic power of SSEP in comparison with EMG–NCS seem necessary.
+

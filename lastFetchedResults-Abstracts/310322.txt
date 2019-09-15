@@ -1,0 +1,9 @@
+Objective
+To validate a point of care lactate device to replace fetal pH measurement.
+Study design and methods
+Cord blood samples drawn immediately following delivery were tested on the Nova Lactate Plus and ARKRAY Lactate Pro, the Corometrics 220 pH System, and the Vitros chemistry analyzer (used as lactate reference).
+Results
+Nova demonstrated a constant positive bias relative to the lactate reference method; while the Lactate Pro correlated well with the reference method up to 6 mmol/L. Receiver operating characteristic (ROC) curve analysis showed optimal sensitivity and specificity for predicting pH < 7.20 at lactate values of 6.8 mmol/L for the Nova and 4.8 mmol/L for the Lactate Pro.
+Conclusion
+Using Lactate Pro the best cut-off for predicting pH ≤ 7.20 was 4.8 mM; which coincides with current clinical cut-offs. Thus any lactate device that correlates well with the laboratory reference method can be used with a clinical cut-off of 4.8 mmol/L.
+

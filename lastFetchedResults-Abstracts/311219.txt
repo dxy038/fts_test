@@ -1,0 +1,9 @@
+Objective. To assess and model the influence of collagen fibre imbalance within the annulus fibrosus on the initiation and progression of adolescent idiopathic scoliosis deformity.
+
+Background. A number of aetiological factors have been proposed for idiopathic scoliosis, including a contribution from the intervertebral disc. The specific influence of the annulus fibrosus has yet to be effectively modelled.
+
+Methods. A mathematical model was used to determine the contribution of collagen fibre orientation and directional imbalance within the annulus fibrosus to vertebral rotation and overall deformity of thoracic spine. Rotations, due to collagen fibre imbalance, and translations, due to rapid growth, were applied to a simplified model of the thoracic spine, using a three-dimensional transformation matrix approach.
+
+Results. The ratio of clockwise to anti-clockwise fibres in the intervertebral disc (from unity to 0.80) influenced the induced rotation. The three-dimensional model illustrates the initiation and progression of the scoliotic deformity during adolescent growth, being most obvious at larger growth rates.
+
+Conclusions. Imbalance in the ratio of clockwise and anti-clockwise collagen fibres within the annulus fibrosus has been demonstrated to have the potential to contribute to the progression of scoliosis. For a given fibre ratio, the rate of growth does not influence the induced rotation, but directly influences the severity of the resulting deformity.

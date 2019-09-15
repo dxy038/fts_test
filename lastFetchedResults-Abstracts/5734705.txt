@@ -1,0 +1,1 @@
+A simple technique is proposed for measuring nonlinear index n<sub>2</sub> distribution by using bidirectional OTDR. The n<sub>2</sub> is estimated easily from the relative-index difference, core diameter and MFD, which can be measured by OTDR.

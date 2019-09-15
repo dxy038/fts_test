@@ -1,0 +1,9 @@
+In this study, we report and compare two methods for fabricating patterns of streptavidin protein using soft litography microprinting technique
+(mCP) and laser-based method termed ‘matrix assisted pulsed laser evaporation direct write’ (MAPLE DW). The mCP approach is a parallel
+deposition technique capable of X depositions per stamper. The technique is limited in more sophisticated multicomponent deposition by the size
+of patterns that can be produced and the features obtained during the transfer process. The computer-aided design/computer-aided manufacturing
+(CAD/CAM) ability of MAPLE DWovercomes the limitations of the mCP approach. (i)We establish the science and engineering principles behind
+the effective transfer of microarrays and (ii) we explore issues regarding the direct immobilization, morphology and function of the deposited
+protein at the interface with an aqueous environment and in the precision of controlled ligand-receptor reactions. In summary, our objective was to
+develop simple, robust microfabrication techniques for the construction of model 2D and 3D bioscaffolds to be used in fundamental bioengineering
+studies.

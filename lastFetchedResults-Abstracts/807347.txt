@@ -1,0 +1,1 @@
+A quantum-mechanical version of Einstein's 1905 theory of Brownian motion is presented. Starting from the Hamiltonian dynamics of an isolated composite of objective and environmental systems, subdynamics for the objective system is derived in the spirit of Einstein. The resulting master equation is found to have the Lindblad structure

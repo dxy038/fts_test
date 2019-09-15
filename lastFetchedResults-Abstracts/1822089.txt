@@ -1,0 +1,8 @@
+Objective
+iruses are used for gene transfer to salivary glands cells in vivo. We constructed an adenovirus vector that expressed a fusion protein of human Stim1 and the fluorescent protein mKO1 (Ad-Stim1-mKO1), and used it to investigate the molecular dynamics and functions of exogenously expressed proteins in living salivary acinar cells.
+
+m1-mKO1 was transferred to rat submandibular glands by retrograde ductal injection. Expression and distribution of Stim1-mKO1 were examined by confocal microscopy. In addition, the effects of Stim1-mKO1 on store-operated Ca2+ entries were examined in fura-2-loaded cells.
+s
+pression of Stim1-mKO1 was detected in approximately 40% of rat submandibular acini, whereas the expression in HSY-EA1 cells was ∼80%. Confocal microscopy revealed Stim1-mKO1 fluorescence along the endoplasmic reticulum-like network in the cytoplasm of both HSY-EA1 and dispersed acinar cells. The depletion of intracellular Ca2+ stores with thapsigargin (ThG), a sarcoplasmic/endoplasmic reticulum Ca2+ ATPase (SERCA) inhibitor, led to the translocation of Stim1-mKO1 to the peripheral region in these cells. In addition, expression of Stim1-mKO1 enhanced store-operated Ca2+ entry in these cells.
+sions
+ceeded in expressing Stim1-mKO1 fluorescent protein in the salivary glands of live animals by retrograde ductal injection of an adenoviral vector. This method allowed us to investigate the functions and molecular dynamics of these expressed molecules in living salivary acinar cells.

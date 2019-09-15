@@ -1,0 +1,11 @@
+Objective
+To discriminate between initial and final fracture failure loads of four metal-free crown systems by the conjoint detection of acoustic emission signals during compressive loading.
+Methods
+
+Teeth were prepared and used for crown construction with four crown systems; Vita Mark II (VM II) (Vita Zahnfabrik), IPS e.max Ceram/CAD (CAD) (Ivoclar-Vivadent), IPS e.max Ceram/ZirCAD (ZirCAD) (Ivoclar-Vivadent) and BelleGlass/EverStick (BGES) (Kerr/Stick Tech Ltd.). All samples were loaded in compression via a Co/Cr maxillary first molar tooth at 0.2 mm/min and released acoustic signals were collected and analyzed. A minimum number of 15 crowns per group were loaded to final failure and values of loading at initial and final fracture were compared. Additional four samples per group were loaded till fracture initiation and were fractographically examined under the optical microscope.
+Results
+
+A lower threshold of 50 dB was selected to exclude spurious background signals. Initial fracture forces were significantly lower than those of final fracture (p < 0.05) in all groups and initial failure AE amplitudes were lower than those of final fracture. Mean initial fracture force of ZirCAD samples (1029.1 N) was higher than those of VMII (744.4 N), CAD (808.8 N) and BGES (979.7 N). Final fracture of ZirCAD also occurred at significantly higher force values (2091.7 N) than the rest of the groups; VMII (1120.9 N), CAD (1468.9 N) and BGES (1576.6 N). Significantly higher values of initial failure AE amplitude were found in VMII than CAD and BGES while those of final fracture were similar. All crowns observed under the microscope at initial fracture had signs of failure.
+Significance
+
+Whereas the metal-free crowns examined showed significant variations in final failure loads, acoustic emission data showed that they all manifested initial failures at significantly lower load values.

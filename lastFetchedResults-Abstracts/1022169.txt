@@ -1,0 +1,8 @@
+Background and Objective: Generalized estimating equations are very common and popular in application correlated data and especially in longitudinal studies. However, despite the misspecification correlation structure between repeated measures of response variable, the estimation of the regression coefficients compatible will be asymptotic normal and consistent, however, for various reasons, such as increasing efficiency and reducing bias estimates, the selection of the appropriate correlation structure is very important for researchers.
+
+Materials and Methods: In this study, we introduced the working correlation structure and we try to showing the performance of each of them in a practical example on MRIT2* in patients with thalassemia. Choosing the true correlation structure needs measurement criteria that be coordinated in order to the quasi-likelihood. In recent years, several criteria have been proposed for the selection of appropriate structure. In this study, we also introduce the efficacy of these criteria in the selection of the true correlation structure.
+
+Results: In this study, the appropriate correlation between cardiac and liver iron overload in two time points according to the QIC, CIC, RJ1 and RJ2 are respectively the exchangeable, unstructured and 2-dependent. 
+
+Conclusion: In the GEE models, the evaluation criteria should be selected according to the nature of the studies and observations.
+

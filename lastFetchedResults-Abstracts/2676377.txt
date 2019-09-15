@@ -1,0 +1,20 @@
+The need to improve the seismic performance of
+buildings has brought about innovative systems such as
+rocking wall-moment frame (RWMF) combinations. The
+behavior of RWMFs can best be visualized by the momentframe
+(MF) restraining the wall in place, and the rigid
+rocking wall (RRW) providing additional damping and
+imposing uniform drift along the height of the frame. A
+novel method of analysis followed by the development of a
+new lateral resisting system is introduced. The proposed
+concepts lead to an efficient structural configuration with
+provisions for self-centering, reparability, performance
+control, damage tolerance and collapse prevention. Exact,
+unique, closed form formulae have been provided to assess
+the collapse prevention and self-centering capabilities of
+the system. The objective is to provide an informative
+account of RWMF behavior for preliminary design as well
+as educational purposes. All formulae have been verified
+by independent computer analysis. Parametric examples
+have been provided to verify the validity of the proposed
+solutions.

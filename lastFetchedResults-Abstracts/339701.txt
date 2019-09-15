@@ -1,0 +1,11 @@
+Objective
+Oncogenic activation loop mutations of KIT are observed in acute myeloid leukemia (AML) and in myeloproliferative disorders (MPD); however, the signaling pathways that contribute to transformation via these mutations in vivo are not known. Previous studies have demonstrated hyperactivation of p85α regulatory subunit of class IA phosphatidylinositol-3-kinase (PI3K) in cell lines expressing the activation loop mutant of KIT (KITD816V [human] and KITD814V [murine]). Although p85α is hyperphosphorylated and constitutively bound to KITD814V in cell-line models; the physiologic significance of this biochemical phenomenon in KITD814V-induced transformation is not known.
+Materials and Methods
+
+Here, we describe the generation of a new mouse model to study KITD814V-induced transformation in myeloid cells as opposed to previously described models that primarily result in the generation of disease resembling acute lymphocytic leukemia.
+Results
+
+Our results show that transplantation of KITD814V expressing bone marrow cells from C57/BL6 strain of mice into syngeneic recipients results in a fatal MPD. Importantly, in this model, transplantation of KITD814V expressing p85α-deficient bone marrow cells rescues the MPD phenotype.
+Conclusions
+
+Our results describe the generation of a new murine transplant model to study KITD814V-induced transformation and identify p85α as potential therapeutic target for the treatment of KITD814V-bearing diseases.

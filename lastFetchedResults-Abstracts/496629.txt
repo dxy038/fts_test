@@ -1,0 +1,12 @@
+Restricted breeding seasons used in beef cattle produce censored data for reproduction traits measured in regard to these
+seasons. To analyze these data, adequate methods must be used. The objective of this paper was to compare three approaches
+aiming to evaluate sexual precocity in Nellore cattle. The final data set contained 6699 records of age at first conception (AFC14)
+(in days) and of heifer pregnancy (HP14) (binary) obtained from females exposed to the bulls for the first time at about 14
+months of age. Records of females that did not calve in the following year after being exposed to a sire were considered
+censored (77.5% of total). The models used to obtain genetic parameters and expected progeny differences (EPDs) were a Weibull
+mixed and a censored linear model for AFC14 and threshold model for HP14. The mean heritabilities obtained were 0.76 and
+0.44, respectively, for survival and censored linear models (for AFC14), and 0.58 for HP14. Ranking and Pearson correlations
+varied (in absolute values) from 0.54 to 0.99 (considering different percentages of sires selected), indicating moderate changes in
+the classification. Considering survival analysis as the best selection criterion (that would result in the best response to selection),
+it was observed that selection for HP14 would lead to a more significant decrease in selection response if compared with
+selection for AFC14 analysed by censored linear model, from which results were very similar to the survival analysis

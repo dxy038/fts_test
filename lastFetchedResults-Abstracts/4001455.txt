@@ -1,0 +1,1 @@
+A complementary CMOS gain cell is proposed that provides wideband linear amplification of bidirectional currents. The gain of the circuit is electronically variable and the cell has attractive cascading properties. An experimental circuit achieves a gain range of 1.1 to 11 with less than 1% THD and a gain-bandwidth product of 40 MHz.

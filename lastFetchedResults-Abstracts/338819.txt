@@ -1,0 +1,7 @@
+Objective. The high incidence of acquired drug resistance to STI571 during treatment of chronic myelogenous leukemia (CML) patients in blast crisis has become a problem. We studied the effects of interferon-α (IFN-α) on a novel STI571-resistant CML cell line and its molecular mechanisms in vitro.
+
+Materials and Methods. KT-1 is a unique CML cell line that remains sensitive to the therapeutic IFN-α concentration. We developed novel STI571-resistant KT-1 cells (designated KTR cells) by gradually increasing the concentration of STI571.
+
+Results. All seven KTR clones became more sensitive to IFN-α than KT-1 cells. IFN-α induced more prolonged phosphorylation of Stat1 for 24 hours in all seven KTR clones than in KT-1cells. Tyrosine phosphorylation of Jak1 in KTR cells was not prolonged compared to KT-1cells. T-cell protein tyrosine phosphatase (TC-PTP) was down-regulated in all KTR clones, and SH-PTP1 phosphatase also was down-regulated in some KTR clones. The transient transduction of TC-PTP cDNA into the KTR subline prevented the IFN-α–induced prolonged phosphorylation of Stat1 and recovered the sensitivity against IFN-α. These results indicated that the loss of TC-PTP is involved in the IFN-α–induced prolonged phosphorylation of Stat1 and in the higher sensitivity to IFN-α in KTR cells.
+
+Conclusion. We demonstrated that STI571-resistance does not confer cross-resistance to IFN-αin KT-1 cells. The loss of TC-PTP contributed to the IFN-α–induced prolonged phosphorylation of Stat1 and the higher sensitivity to IFN-α in KTR cells.

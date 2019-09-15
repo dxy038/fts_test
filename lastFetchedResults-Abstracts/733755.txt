@@ -1,0 +1,11 @@
+Objective
+Cigarette smoking behavior may be influenced by catechol-O-methlyltransferase (COMT), dopamine beta-hydroxylase (DBH), and monamine oxidase-A (MAO-A), genes that play roles in dopamine metabolism. The association between common polymorphisms of these genes and smoking behavior was assessed among 10,059 Caucasian volunteers in Washington County, MD in 1989.
+Methods
+
+Age-adjusted logistic regression was used to measure the association between variants of these single nucleotide polymorphisms and smoking initiation and persistent smoking.
+Results
+
+Overall, no association was seen between each genotype and smoking behavior. However, among younger (< 54 years) women, the COMT GG genotype was positively associated with smoking initiation (OR = 1.3; 95% CI: 1.0 1.5), and the MAO-A TT genotype was inversely associated with persistent smoking (OR = 0.7; 95% CI: 0.4, 1.0). Men who smoked fewer than 10 cigarettes per day were more likely to be persistent smokers if they had the COMT GG (OR = 1.7; 95% CI: 1.0, 2.9) or the DBH GG (OR = 1.6; 95% CI: 1.0, 2.5) genotypes.
+Conclusion
+
+Overall the results of this large community-based study do not provide evidence to support the presence of important associations between variants of COMT, DBH, or MAO-A and smoking initiation or persistent smoking.

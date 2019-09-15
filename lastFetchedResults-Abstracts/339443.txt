@@ -1,0 +1,11 @@
+Objective
+The Notch pathway plays a key role in cell fate choices and in T-cell development. The goal of our study was to evaluate whether a short in vitro stimulation of the Notch pathway may alter human progenitor cell behavior.
+Methods
+
+CD34+ cord blood progenitors were exposed for 4 days to either immobilized Notch ligand Delta-4 or in control conditions. Phenotypic and molecular changes induced by the short stimulation were assessed at day 4. Next, long-term alteration of the fate of these progenitors was assessed in culture conditions suitable for B (coculture with MS5 stromal cells) and T (FTOC and OP9 stromal cells expressing Delta-4 systems) cell differentiation.
+Results
+
+Notch activation was sufficient to trigger immunophenotypic and molecular changes consistent with early T-cell lineage differentiation. Delta-4 induced, in 4 days, CD7+cytCD3var epsilon+ cells. This paralleled at the gene-transcription level with de novo expression of several T cell–related transcription factors and TCRγ rearrangement, while B cell transcripts were simultaneous silenced. As compared to non-Delta-4 primed cells, these early changes translated to long-term alteration of the potential of cells. Delta-4 priming led to an acceleration of T-cell development, including a completion of the TCR rearrangement, when cells were cultured in systems suitable for T-cell development while B-cell development was inhibited.
+Conclusion
+
+A transient Notch activation is sufficient to promote T-cell differentiation from cord blood CD34+ cells. This system may be a useful tool for the amplification and the quantification of the T potential of CD34+ cells in various disease conditions.

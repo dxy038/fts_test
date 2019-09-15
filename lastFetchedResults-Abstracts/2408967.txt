@@ -1,0 +1,12 @@
+Background: Polycystic ovary syndrome (PCOS) is the most common endocrine disorder in women of reproductive age and is the most common cause of infertility due to anovulation. There is no single criterion for the diagnosis of this syndrome.
+Objective: The purpose of this study was to investigate the prevalence of PCOS and its associated complications in Iranian women using meta-analysis method.
+Materials and Methods: Prevalence of PCOS was investigated from the SID, Goggle scholar, PubMed, Magiran, Irandoc, and Iranmedex, and weighting of each study was calculated according to sample size and prevalence of the binomial distribution. Data were analyzed using a random-effects model meta-analysis (Random effects model) and the software R and Stata Version 11.2.
+Results: 30 studies conducted between the years 2006 to 2011 were entered into
+meta-analysis. The total sample size was 19, 226 women aged between 10-45 years.
+The prevalence of PCOS based on National institute of child health and human
+disease of the U.S was, 6.8% (95 % CI: 4.11–8.5), based on Rotterdam was 19.5%
+(95 % CI: 2.24-8.14), and based on ultrasound was 4.41% (95% CI: 5.68-4.14).
+Also, the prevalence of hirsutism was estimated to be 13%, acne 26%, androgenic
+alopecia 9%, menstrual disorders 28%, overweight 21%, obesity 19%, and infertility
+8%.
+Conclusion: The prevalence of PCOS in Iran is not high. However, given the risk of complications such as heart disease - cardiovascular and infertility, prevention of PCOS is important; we suggest that health officials must submit plans for the community in this respect.

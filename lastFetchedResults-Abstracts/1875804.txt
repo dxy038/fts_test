@@ -1,0 +1,13 @@
+OBJECTIVE: To identify the relationship of age, sex, and type of procedure to extubation outcome (≤ 8 hours or &gt; 8 hours), and to identify barriers to extubation after heart surgery.
+
+: Quasi-experimental, prospective study.
+
+G: Ten-bed cardiothoracic intensive care unit.
+
+: Sixty-two consecutive patients undergoing heart surgery.
+
+E MEASURES: Early (≤ 8 hours) versus delayed (&gt; 8 hours) extubation.
+
+S: Patients in the delayed extubation group were older (69.1 ± 11.3 years) than the patients in the early extubation group (59.6 ± 8.0 years, p = 0.01). Univariate logistic regression comparing age (&lt;70 or ≥ 70 years), sex, and procedure (coronary artery bypass graft or other procedure) identified only age 70 years or older as a predictor of delayed extubation. The unadjusted odds ratio of delayed extubation in patients 70 years or older was 11.25.
+
+SIONS: Age is a powerful predictor of delayed extubation after heart surgery. Only postoperative somnolence distinguished barriers to extubation in younger and older patients.

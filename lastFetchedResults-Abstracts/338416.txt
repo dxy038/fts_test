@@ -1,0 +1,11 @@
+Objective
+In the homing process of hematopoietic progenitor cells (HPCs) to bone marrow, several adhesion molecules play important roles. However, HPCs are subjected to dramatic alteration of freeze-thawing that could affect these molecules. In this study, we investigated the effect of cryopreservation on the expression of adhesion molecules on HPCs.
+Methods
+
+The expression of different adhesion molecules on CD34+ cells was examined by flow cytometry using an immunofluorescence technique. Changes in expression before and after cryopreservation, and that of L-selectin on addition of dimethylsulfoxide (DMSO) or with serum incubation, were investigated. The relationship between expression and function was also determined using a transmigration assay system.
+Results
+
+L-selectin expression on CD34+ cells derived from mobilized peripheral blood (MPB), bone marrow (BM), and umbilical cord blood (CB) was significantly decreased from 37% to 23%, 48% to 11%, and 67% to 19%, respectively, by the freeze-thawing process, while the expression of other adhesion molecules was not appreciably changed. Within 30 minutes of incubation with DMSO, L-selectin expression on CD34+ cells significantly decreased from 65% to 22%. Furthermore, this was completely prevented by the matrix metalloproteinase (MMP) inhibitor, KB-R8301, indicating that the loss of L-selectin was due to shedding mediated by an MMP. To determine if L-selectin expression can be upregulated after cryopreservation, thawed samples were cultured overnight with serum. Values were observed to return to or rise higher than those of the fresh samples, this being particularly rapid and pronounced when the CD34+ cells were cocultured with the human BM stromal cell line, HS-27A. Therefore, this adhesion molecule could possibly be restored in vivo after transplantation in a way similar to the in vitro case.
+Conclusion
+
+Despite considerable damage to HPCs during cryopreservation, changes in these cells are reversible, in line with successful restoration of hematopoiesis after transplantation.

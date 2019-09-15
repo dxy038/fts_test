@@ -1,0 +1,1 @@
+Nonparametric density estimates may be used as a basis for construction of global random search algorithms. The distribution density reflects the main peculiarities of objective function behavior. Consequently, the density mode may be used as approximate argument value, providing objective function maximum.

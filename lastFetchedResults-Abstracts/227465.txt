@@ -1,0 +1,7 @@
+The design and experimental characterisation of a short-stroke, bidirectional linear actuator
+capable of operating in ambient temperatures up to 800°C is presented. The merits of various
+candidate actuator topologies and soft magnetic materials are discussed. The design and analysis of a
+bidirectional actuator with a nominal force rating of 300N and a stroke of 20.5" is described,
+embracing electromagnetic, thermal and mechanical aspects. Extensive experimental measurements on
+a prototype actuator are presented and compared with finite-element predicted performance over the
+full operating temperature range of the actuator.

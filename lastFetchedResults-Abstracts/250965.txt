@@ -1,0 +1,14 @@
+The probabilistic and the possibilistic methods of safety evaluation of structure under uncertain parameters
+have been developed independently.When the structural system is defined with some of the input parameters
+as possibilistic and others are sufficient enough to model as probabilistic, available literatures normally
+start with either probabilistic or possibilistic description of all the variables. This may pose restriction
+on necessary flexibility to the designer at early stage of modelling of the structural system. The primary
+objective of the present work is to critically examine various emerging methods of transformation of the
+possibilistic variables to equivalent probabilistic variables so that probabilistic safety evaluation approach
+becomes compatible with the nature and quality of the input data. Relying on the fundamental concept
+of equivalent transformations, i.e. the entropy based transformation and the scaling of fuzzy membership
+function, the reliability analysis is proposed in the framework of second moment format. In doing so,
+the bounds on the reliability indices based on the evidence theory are also obtained encompassing the
+first-order reliability analysis for consistent comparison among alternative transformations. Finally, the
+reliability computation under hybrid uncertainty is elucidated numerically with examples for comparative
+study on the suitability of the transformation alternatives. Copyright q 2006 John Wiley & Sons, Ltd

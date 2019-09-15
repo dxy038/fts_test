@@ -1,0 +1,1 @@
+The underlying mathematical formulation and issues associated with integrated control, structure, and optical design are discussed. Topics addressed include the development of cost functionals, optimization in the vector objective setting, and computational aspects of the optimization problem. Results on simple design problems are presented.

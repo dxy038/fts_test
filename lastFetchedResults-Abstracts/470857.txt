@@ -1,0 +1,9 @@
+Objective
+An association between cesarean delivery and an increased risk of stillbirth in a subsequent pregnancy has been reported in the United Kingdom. This study investigated the association between prior cesarean delivery and unexplained intrauterine fetal demise at term in the United States.
+Study design
+We conducted a cross-sectional study using the U.S. perinatal mortality data (1995 to 1997). Women aged 15 to 44 years with singleton term (37 weeks or longer) pregnancies were included in the analysis. Study groups were defined as pregnant women with a prior cesarean delivery (prior cesarean delivery) and women with no prior cesarean delivery (no cesarean delivery). Adjustments were made for maternal age, race, underlying medical conditions, and fetal congenital abnormalities. The Cochran-Mantel-Haenszel method was used for relative risk estimation at the 95% confidence interval calculation.
+Results
+A total of 11,061,599 deliveries of singleton pregnancies were recorded in the United States from January 1, 1995, to December 31, 1997. The cesarean delivery rate was 19.6%. The crude term intrauterine fetal demise rate was 1.5 per 1000 births for no cesarean delivery and 1.3 per 1000 births for prior cesarean delivery. After correction for parity greater than 1, congenital anomalies, and underlying maternal medical conditions, term intrauterine fetal demise rates were 0.6 and 0.4 per 1000 births for no cesarean delivery and prior cesarean delivery, respectively. Restriction of the analysis to women with only 1 prior delivery resulted in term intrauterine fetal demise rates of 0.8 and 0.7 per 1000 births for no cesarean delivery and prior cesarean delivery, respectively (relative risk 0.90; 95% confidence interval 0.76-1.06).
+Conclusion
+A prior cesarean delivery is not associated with an increased risk of stillbirth in a subsequent pregnancy.
+

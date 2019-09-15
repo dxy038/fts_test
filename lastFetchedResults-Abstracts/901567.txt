@@ -1,0 +1,13 @@
+Hazmat (i.e., hazardous material) transportation makes concerns about harm to human and environmental
+safety, therefore risk is considered as a main issue in all stage of hazmat shipment. In
+this paper, a bi-criteria algorithm is developed to consider risk and cost for the hazmat shipment.
+The main objective is to find the best path for carrying hazardous material form origin nodes of
+suppliers to destination nodes of fuel stations. Risk is identified by three groups of road accidents,
+population and environment. Due to a lack of exact data on three components of defined risk,
+linguistic variables are identified to achieve road safety experts’ view of points by questionnaires.
+In this case, triangular fuzzy numbers are used to convert linguistic variables to crisp values. The
+road network of Mazandaran province is nominated as a case study consisting of 62 nodes and
+81 edges. The validation process is carried out regarding to different amounts of risk and cost
+priorities and the associated results are discussed. It is concluded that the decision makers are able
+to consider their concerns on the fuel routing problem using different priorities of risk and cost
+simultaneously.

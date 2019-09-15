@@ -1,0 +1,19 @@
+In this paper, we consider the fuzzy open shop scheduling problem
+with parallel machines in each working stage where processing times
+are vague and are represented by fuzzy numbers. An open shop
+scheduling problem with parallel machines in each working stage
+under this condition is close to the real production scheduling
+conditions. A mixed-integer fuzzy programming (MIFP) model is
+presented to formulate this problem with the objective of minimizing
+makespan. To solve small-sized instances, an interactive fuzzy
+satisfying solution procedure is applied. Since this problem is known
+as a class of NP-hard, a novel discrete electromagnetism-like (DEM)
+is proposed to solve medium to large size examples. The DEM
+algorithm employs a completely difference approach. It makes use the
+crossover operators to calculate force and move particle is used. We
+employ Taguchi method to evaluate the effects of different operators
+and parameters on the performance of DEM algorithm. Finally to
+assess the performance of the algorithm, the results are compared with
+an existing EM algorithm from the literature and benchmark
+problems. The result exhibited the ability of the proposed DEM
+algorithm to converge to the efficient solutions.

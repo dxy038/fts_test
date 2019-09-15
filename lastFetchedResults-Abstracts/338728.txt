@@ -1,0 +1,11 @@
+Objective
+Conflicting experimental and clinical results have been reported regarding the role of CD40 in acute myeloid leukemia (AML). In the present study, we analyzed the capability of CD40L/CD154 to modulate several functional aspects of CD40-expressing AML blasts.
+Methods
+
+After defining the constitutive expression levels of CD40 in a wide panel (n = 67) of AMLs and evaluating the capability of cytokines to modulate its expression, we investigated the effects of CD40 engagement by soluble (s) CD40L on proliferation, self-renewal capacity, apoptosis, homotypic adhesion, and cytokine production of leukemia cells.
+Results
+
+CD40 was detected in blast cells from about 37% of AMLs, the highest frequency being documented in monocytic subtypes, and its expression was upregulated or de novo induced by treatment with interleukin (IL)-1α, IL-3, IL-4, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ, and tumor necrosis factor-α. Exposure of CD40+ AML blasts to sCD40L resulted in a dose-dependent proliferative response, enhancement of clonogenic growth and self-renewal capacity, and a striking increase in colony size. CD40 engagement was able to rescue AML blasts from apoptosis induced by serum deprivation, as demonstrated by reduced expression of APO2.7 and annexin-V binding, as well as upregulation of the anti-apoptotic protein bcl-xL. CD40 triggering upregulated cell surface expression of the adhesion molecules CD54, CD58, and CD15 and resulted in homotypic aggregation of leukemia cells at least in part CD54-dependent. An increased production of IL-6 and GM-CSF by CD40+ AML blasts was also documented upon sCD40L exposure.
+Conclusions
+
+This study indicates a possible involvement of CD40 in the interactions of AML blasts with other growth-sustaining microenvironmental accessory cells and immune effectors, in turn expressing CD40L. Caution in the use of CD40 triggering in immunotherapy of AMLs is also suggested.

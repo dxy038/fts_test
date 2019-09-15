@@ -1,0 +1,9 @@
+Objective
+TGF-β1 is a powerful inhibitor of erythropoiesis. However its mecanisms of action are not fully elucidated yet at the cellular level. In this work we have studied the effects of TGF-β on UT-7 cell survival, proliferation and differentiation.
+Materials and Methods
+UT-7 cell line is strictly dependent on growth factors for cell survival, growth, and differentiation. Epo (2 U/mL) induces erythroid differentiation as assessed by up regulation of glycophorin A and the presence of 5%–10% benzidine positive cells (BPC). In contrast, even in the presence of Epo (2 U/mL), GM-CSF (1 ng/mL) inhibits erythroid differentiation.
+Results
+When UT-7 cells were switched from GM-CSF to Epo, TGF-β1 (2 ng/mL) induced a rapid (3 days [Epo+TGF-β1] vs 8 days [Epo]) and marked erythroid differentiation (80% [Epo+TGF-β1] vs 10% [Epo] BPC) including Hemoglobin A synthesis (HbA/HbF ratio of 1 [Epo] vs 4 [Epo+TGF-β1]). In the presence of GM-CSF, although to a lesser extent, TGF-β1 induced erythroid differentiation (40% BPC). This effect was not a consequence of TGF-β1-induced apoptosis because, in the presence of Epo or GM-CSF, apoptosis occured only at day 8 or 10, respectively. Moreover, although SCF inhibited apoptotic effect of TGF-β1, SCF+TGF-β1+Epo was the best combination to give rise to the highest number of hemoglobinized cells. We further demonstrated that induction of erythroid differentiation by TGF-β1 was not due to an autocrine loop involving Epo/Epo-R or to a prolongation of the G1 phase of the cell cycle.
+Conclusion
+Taken together, these data suggest that TGF-β1 is an inducer of erythroid differentiation, even stronger than Epo at the cellular level.
+

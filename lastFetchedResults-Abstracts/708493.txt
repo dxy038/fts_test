@@ -1,0 +1,9 @@
+Objective
+We aimed to develop a clinical prediction rule to distinguish pelvic inflammatory disease (PID) from acute appendicitis in women of childbearing age.
+Methods
+We reviewed medical records over a 4-year period of female patients of childbearing age who had presented with abdominal pain at an urban emergency department and had either appendicitis (n = 109) or PID (n = 72). A prediction rule was developed by use of recursive partitioning based on significant factors for the discrimination.
+Results
+The significant factors to favor PID over appendicitis were (1) no migration of pain (odds ratio [OR], 4.2; 95% confidence interval [CI], 1.5-11.5), (2) bilateral abdominal tenderness (OR, 16.7; 95% CI, 5.3-50.0), and (3) absence of nausea and vomiting (OR, 8.4; 95% CI, 2.8-24.8). The prediction rule could rule out appendicitis from PID with sensitivity of 99% (95% CI, 94-100%) when classified as a low-risk group by the following factors: (1) no migration of pain, (2) bilateral abdominal tenderness, and (3) no nausea and vomiting.
+Conclusion
+We developed a prediction rule for childbearing-aged women presenting with acute abdominal pain to distinguish acute appendicitis from PID based on 3 simple, clinical features: migration of pain, bilateral abdominal tenderness, and nausea and vomiting. Prospective validation is needed in other settings.
+

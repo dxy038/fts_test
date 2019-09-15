@@ -1,0 +1,16 @@
+The objective of the experiment is to study the relationship between the nitrogenous fractions of the Cornell Net Carbohydrate
+and Protein System (CNCPS) and the duodenal utilizable true protein (uTP) in sheep, and the possibility of predicting duodenal uTP
+flow based on the CNCPS nitrogenous fractions intake. Twelve typical mixed rations for sheep were formulated as experimental
+rations and the chemical composition of the rations, i.e. CP (crude protein), SCP (soluble crude protein), NDICP (neutral detergent
+insoluble crude protein) and ADICP (acid detergent insoluble crude protein) was analyzed. The CNCPS nitrogenous fractions, i.e.
+PA (non-protein nitrogen), PB1 (rapidly rumen degradable crude protein), PB2 (intermediately rumen degradable crude protein),
+PB3 (slowly rumen degradable crude protein) and PC (bound crude protein) were calculated using the CNCPS based on the chemical
+composition of the rations. The duodenal uTP of sheep was determined in an earlier study using three sheep in four 3×3 Latin
+square designs by Li and Zhao [Li, Y.X., Zhao, G.Y., 2007. The prediction of the uTP of mixed rations for sheep using in vitro
+incubation technique. Arch. Anim. Nutr. 61(2), 103–113]. Statistical analysis indicated that the duodenal uTP flow (g/day) was
+closely correlated with the nitrogenous fractions intake of the sheep (g/day) in a multiple way:
+uTP = 9.27PA − 35.76PB1 + 10.12PB2 − 2.20PB3 − 37.38PC − 16.82, r2 = 0.94, P= 0.001, n= 12
+where the unit for all indices is g/day.
+It was concluded that the duodenal uTP flow of sheep fed mixed rations could be reliably estimated based on the CNCPS
+nitrogenous fractions intake using the model above.
+© 2008 Elsevier B.V. All rights reserved.

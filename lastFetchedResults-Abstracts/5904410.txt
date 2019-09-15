@@ -1,0 +1,1 @@
+We consider independent and identical sensors connected via a fusion center. The objective is detection of a possible change from an initial data generating process to one of a finite set of alternative processes. We state and analyze the problem and state conditions for asymptotic optimality. We clarify some previously published misconceptions in the process.

@@ -1,0 +1,11 @@
+Objective.  To determine the reliability of identifying the location of each metatarsal head from spiral X-ray computed tomography on a matrix type pressure sensor recording.
+
+Design. Experimental; test–retest and within subject two-condition comparison.
+
+Background. Plantar pressure data quantify the amount of pressure and the general location of pressure. Specific anatomical structures associated with the site of pressure can only be determined by registering radiological data to the pressure sensor.
+
+Methods. Eighteen subjects, nine individuals without diabetes mellitus and nine individuals with diabetes mellitus, peripheral neuropathy, and a history of plantar foot ulcers, participated in plantar pressure testing and spiral X-ray computed tomography scanning of their foot. A registration technique was developed to align spiral X-ray computed tomography data with pressure sensor data.
+
+Results. When mapping the metatarsal head locations to the pressure sensor 48 of 90 metatarsal head locations were identical between repeated test occasions (53.3%), 40 of 90 metatarsal head locations were one pixel (5.08 mm) different between repeated test occasions (44.4%), and 2 of 90 were two pixels different (2.2%). Ninety-eight percent of repeated measures replicated exactly or varied by one pixel.
+
+Conclusion. Anatomical data from spiral X-ray computed tomography scanning can be reliably co-registered with pressure data.

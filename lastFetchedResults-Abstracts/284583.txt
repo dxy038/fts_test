@@ -1,0 +1,14 @@
+Objectives
+To identify an accurate and reproducible method to define myocardial infarct (MI) size, we conducted a study in a closed-chest canine model of acute myocardial infarction, in which MI size was measured using different thresholding techniques and by imaging at different delay times after contrast administration.
+Background
+
+The MI size by contrast-enhanced magnetic resonance imaging (CE-MRI) is directly related to long-term prognosis. However, previous measurements were done using nonuniform methods and tended to overestimate nonviable areas.
+Methods
+
+Thirteen animals underwent 90 min of coronary artery occlusion, followed by reperfusion. The CE-MRI data were acquired within 24 h after reperfusion and compared with triphenyltetrazolium chloride pathology. In the first nine animals, images were obtained not, vert, similar15 min after gadolinium diethylene triamine penta-acetic acid (Gd-DTPA) using an inversion-recovery gradient-echo pulse sequence. To identify the most accurate method, MI size by CE-MRI was measured visually and by semi-automatic thresholding techniques, using different criteria. In four additional animals, images were acquired every 6 min until 30 min after Gd-DTPA.
+Results
+
+Postmortem MI size was 13.5 ± 2.6% of left ventricular volume. Semi-automatic techniques, using full-width at half-maximum (FWHM) criterion, correlated best with postmortem data (r2 = 0.94, p < 0.001; results confirmed by Bland-Altman plots). Using FWHM, there was no difference in MI size between different delay times after contrast (15.2 ± 2.9% to 14.5 ± 4.2% at 6 and 30 min, respectively; p = NS).
+Conclusions
+
+When an objective technique is used to define MI size by CE-MRI, accurate infarct size measurements can be obtained from images obtained up to 30 min after contrast administration.

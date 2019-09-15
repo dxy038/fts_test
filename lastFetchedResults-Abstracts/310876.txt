@@ -1,0 +1,11 @@
+Objective. To calculate and compare combined axial and flexural stresses in lordosis versus buckled configurations of the sagittal cervical curve.
+
+Design. Digitized measurements from lateral cervical radiographs of four different shapes were used to calculate axial loads and bending moments on the vertebral bodies of C2–C7.
+
+Background. Osteoarthritis and spinal degeneration are factors in neck and back pain. Calculations of stress in clinically occurring configurations of the sagittal cervical spine are rare.
+
+Methods. Center of gravity of the head (inferior–posterior sella turcica) and vertebral body margins were digitized on four different lateral cervical radiographs: lordosis, kyphosis, and two “S”-shapes. Polynomials (seventh degree) and stress concentrations on the concave and convex margins were derived for the shape of the sagittal cervical curvatures from C1 to T1. Moments of inertia were determined from digitizing and the use of an elliptical shell model of cross-section. Moment arms from a vertical line through the center of gravity of the head to the atlas and scaled neck extensor moment arms from the literature were used to compute the vertical component of extensor muscle effort. Segmental lever arms were calculated from a vertical line through C1 to each vertebra.
+
+Results. In lordosis, anterior and posterior stresses in the vertebral body are nearly uniform and minimal. In kyphotic areas, combined stresses changed from tension to compression at the anterior vertebral margins and were very large (6–10 times as large in magnitude) compared to lordosis. In kyphotic areas at the posterior vertebral body, the combined stresses changed from compression (in lordosis) to tension.
+
+Conclusions. The stresses in kyphotic areas are very large and opposite in direction compared to a normal lordosis. This analysis provides the basis for the formation of osteophytes (Wolff's Law) on the anterior margins of vertebrae in kyphotic regions of the sagittal cervical curve. This indicates that any kyphosis is an undesirable configuration in the cervical spine.

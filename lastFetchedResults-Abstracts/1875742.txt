@@ -1,0 +1,13 @@
+OBJECTIVE: To assess handwritten medication orders for legibility and completeness, legibility of physician signatures, and presence of date and time the orders were written.
+
+: Descriptive.
+
+G: Three patient care units in one hospital in Texas.
+
+: One hundred seventy-six medication orders and 55 signatures by 36 different physicians for 39 patients.
+
+S: Six experienced nurses evaluated medication orders and signatures for legibility using a rating scale developed for the study. Completeness of medication orders and presence of date and time were determined.
+
+S: Twenty of the medication orders and 78% of the signatures were illegible or legible with effort. Twenty-four percent of the medication orders were incomplete. Date was omitted on 18% of the medication orders, and time was missing on 58%.
+
+SION: Difficult-to-read and incomplete medication orders continue to be an important system problem that can increase risk for medication errors and patient harm. Good penmanship and complete orders are unrealistic goals without system support.

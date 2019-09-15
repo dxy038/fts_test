@@ -1,0 +1,1 @@
+We demonstrate bidirectional fiber and wireless transmission of impulse radio ultra-wideband at 3.125 Gbps downstream and 2 Gbps upstream. After transmission over 50 km fiber and 1.85 m wireless link both signals are recovered without errors.

@@ -1,0 +1,1 @@
+In this paper, some classes of generalization of convexity are considered in the case of multi-objective optimization problem. Here the functions involved are non-differentiable. on the assumptions of generalized (alpha, rho)-(eta, thetas)-invexity, we have established the Karush-Kuhn-Tucker sufficient and necessary optimality conditions.

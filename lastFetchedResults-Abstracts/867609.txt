@@ -1,0 +1,5 @@
+This paper considers some scheduling problems with deteriorating jobs and learning effects. The following
+objective functions are considered: the makespan, the total completion times, and the total absolute
+differences in completion times. Several polynomial time algorithms are proposed to optimally solve the
+single-machine scheduling problems. Finally, we show that several special cases of the flowshop scheduling
+problems remain polynomially solvable under the proposed model.

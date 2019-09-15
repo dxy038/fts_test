@@ -1,0 +1,13 @@
+This paper deals with water flow in a backward-facing step with blowing of different nanofluids. The
+objective is to evaluate the effect of nanofluid blowing on the heat transfer rate. For this purpose, the
+Eulerian-Eulerian two-phase model is employed. The accuracy of the current simulations is demonstrated
+by comparing the obtained results with those of open literature. The results show that increasing the
+nanofluid blowing as well as nanoparticles fraction therein improves heat exchange from different
+surfaces of the channel. Comparing the results of different nanofluids leads one to conclude that the
+bottom wall heat transfer attains its maximum value when the blowed nanofluid contains nanoparticles
+with the highest thermal conductivity. However, it is found that maximum heat transfer in the top wall is
+achieved during blowing of a nanofluid with the highest nanoparticle penetration into the channel flow.
+Moreover, it is observed that discrepancies appearing between the results of different nanofluids become
+more remarkable as one increases the nanofluid blowing or nanoparticles fraction therein. Finally, the
+Eulerian-Eulerian model demonstrates that among the interphase forces, the effects of the virtual mass
+force and the particle-particle interaction force are negligible in such a way that they can be ignored.

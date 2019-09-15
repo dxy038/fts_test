@@ -1,0 +1,11 @@
+Objective
+To study behavioral and brain responses to variations in signal-to-noise ratio (SNR) of cognitive visual stimuli.
+Methods
+We presented meaningful words visually, embedded in varying amounts of dynamic noise, and utilized magnetoencephalography (MEG) to measure responses to the words. A multidipole model of the evoked fields was constructed to quantify the strengths and latencies of the neuronal sources at each noise level. The recognition rates of the words were measured in separate behavioral sessions.
+Results
+MEG revealed sequential activation of occipital and occipito-temporal areas (latencies 130–250  and 170–350 ms, respectively) followed by activity in superior temporal cortex (230–640 ms). The strengths and latencies of all identified sources followed functions similar to the SNR of the stimulus. The peak amplitudes and shortest latencies of all sources coincided with the maximum SNR of the stimulus. The occipito-temporal and temporal sources as well as the word recognition rate accurately followed the SNR of the stimulus whereas the early occipital source exhibited a more peaked dependence on the SNR.
+Conclusions
+Evoked responses expectedly peaked at the maximum SNR of the stimulus. Interestingly, early visual responses showed sharper peaks than longer-latency sources as a function of the noise level. This can be understood as the higher-level processes analyzing the stimuli more holistically and thus being less sensitive to the salience of simple visual features. The similar noise-dependence of the longer-latency sources and the recognition rate provides new evidence for the relevance of these activations in the recognition of written words.
+Significance
+This study contributes to the understanding of brain activity evoked by degraded stimuli with cognitive content.
+

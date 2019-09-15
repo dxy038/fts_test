@@ -1,0 +1,10 @@
+As can be seen from the definition of extended operations on fuzzy numbers, subtraction
+and division of fuzzy numbers are not the inverse operations to addition and multiplication . Hence,
+to solve the fuzzy equations or a fuzzy system of linear equations analytically, we must use methods
+without using inverse operators. In this paper, a novel method to find the solutions in which 0 is not
+the inner point of supports, of fully fuzzy linear systems (shown as FFLS ) is proposed, if they exist
+by an analytic approach. The system's parameters were splitted into two groups of nonpositive and
+nonnegative by solving a multi objective linear programming problem, MOLP , and employing an
+embedding method to transform n× n FFLS to 2n× 2n parametric form linear system and hence,
+transforming operations on fuzzy numbers to operations on functions. And finally, numerical
+examples are used to illustrate this approach.

@@ -1,0 +1,11 @@
+In scalar optimization it is well known that a solution of a Minty variational inequality of differential type is a solution of the
+related optimization problem. This relation is known as “Minty variational principle.” In the vector case, the links between Minty
+variational inequalities and vector optimization problems were investigated in [F. Giannessi, On Minty variational principle, in:
+New Trends in Mathematical Programming, Kluwer Academic, Dordrecht, 1997, pp. 93–99] and subsequently in [X.M. Yang,
+X.Q. Yang, K.L. Teo, Some remarks on the Minty vector variational inequality, J. Optim. Theory Appl. 121 (2004) 193–201]. In
+these papers, in the particular case of a differentiable objective function f taking values in Rm and a Pareto ordering cone, it has
+been shown that the vector Minty variational principle holds for pseudoconvex functions. In this paper we extend such results to
+the case of an arbitrary ordering cone and a nondifferentiable objective function, distinguishing two different kinds of solutions of
+a vector optimization problem, namely ideal (or absolute) efficient points and weakly efficient points. Further, we point out that in
+the vector case, the Minty variational principle cannot be extended to quasiconvex functions.
+© 2008 Elsevier Inc. All rights reserved.

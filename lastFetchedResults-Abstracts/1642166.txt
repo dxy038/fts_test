@@ -1,0 +1,5 @@
+As everybody knows, non-destructive tests carried out with the Heavy (or Falling) Weight Deflectometer equipment permit to identify the mechanical properties of the layers constituting a road or an airport pavement.
+
+dinary activity generally causes at least two issues: (a) impossibility to anticipate the stiffness of the pavement analyzed during the trial; (b) probable mistakes induced by punctual degradations. In the latter case it would be more appropriate to discard the reading of one or more geophones for a correct determination of the modules.
+
+er to overcome the above limitations, we propose a procedure based on a fuzzy clustering technique that enables the classification of the deflections in real time, reducing the number of drops (generally equal to 3), with no need for traditional back-analysis. Any uncertainty of the result achieved is quantified by the fuzzy membership degree for which the analyst has an objective measure of the representativeness of the data detected.

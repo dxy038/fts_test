@@ -1,0 +1,1 @@
+OpenFlow is presented as a unified control plane and architecture for packet and circuit switched networks. We demonstrate a simple proof-of-concept testbed, where a bidirectional wavelength circuit is dynamically created to transport a TCP flow.

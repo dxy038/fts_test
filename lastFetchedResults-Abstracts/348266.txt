@@ -1,0 +1,11 @@
+Objective
+Time–frequency transforms (TFTs) offer rich representations of event-related potential (ERP) activity, and thus add complexity. Data reduction techniques for TFTs have been slow to develop beyond time analysis of detail functions from wavelet transforms. Cohen's class of TFTs based on the reduced interference distribution (RID) offer some benefits over wavelet TFTs, but do not offer the simplicity of detail functions from wavelet decomposition. The objective of the current approach is a data reduction method to extract succinct and meaningful events from both RID and wavelet TFTs.
+Methods
+A general energy-based principal components analysis (PCA) approach to reducing TFTs is detailed. TFT surfaces are first restructured into vectors, recasting the data as a two-dimensional matrix amenable to PCA. PCA decomposition is performed on the two-dimensional matrix, and surfaces are then reconstructed. The PCA decomposition method is conducted with RID and Morlet wavelet TFTs, as well as with PCA for time and frequency domains separately.
+Results
+Three simulated datasets were decomposed. These included Gabor logons and chirped signals. All simulated events were appropriately extracted from the TFTs using both wavelet and RID TFTs. Varying levels of noise were then added to the simulated data, as well as a simulated condition difference. The PCA-TFT method, particularly when used with RID TFTs, appropriately extracted the components and detected condition differences for signals where time or frequency domain analysis alone failed. Response-locked ERP data from a reaction time experiment was also decomposed. Meaningful components representing distinct neurophysiological activity were extracted from the ERP TFT data, including the error-related negativity (ERN).
+Conclusions
+Effective TFT data reduction was achieved. Activity that overlapped in time, frequency, and topography were effectively separated and extracted. Methodological issues involved in the application of PCA to TFTs are detailed, and directions for further development are discussed.
+Significance
+The reported decomposition method represents a natural but significant extension of PCA into the TFT domain from the time and frequency domains alone. Evaluation of many aspects of this extension could now be conducted, using the PCA-TFT decomposition as a basis.
+

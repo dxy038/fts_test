@@ -1,0 +1,18 @@
+
+Introduction: The main objective of the present study was to investigate the effect of preceding
+pictorial stimulus on the emotional autonomic responses of the subsequent one. Methods: To this effect, physiological signals, including Electrocardiogram (ECG), Pulse
+Rate (PR), and Galvanic Skin Response (GSR) were collected. As these signals have random
+and chaotic nature, nonlinear dynamics of these physiological signals were evaluated with the
+methods of nonlinear system theory. Considering the hypothesis that emotional responses are
+usually associated with previous experiences of a subject, the subjective ratings of 4 emotional
+states were also evaluated. Four nonlinear characteristics (including Detrended Fluctuation
+Analysis (DFA), based parameters, Lyapunov exponent, and approximate entropy) were
+implemented. Nine standard features (including mean, standard deviation, minimum, maximum,
+median, mode, the second, third, and fourth moment) were also extracted. Results: To evaluate the ability of features in discriminating different types of emotions, some
+classification approaches were appraised, of them, Probabilistic Neural Network (PNN) led to
+the best classification rate of 100%. The results show that considering the emotional sequences,
+GSR is the best candidate for the representation of the physiological changes. Discussion: Lower discrimination was attained when the sequence occurred in the diagonal line
+of valence-arousal coordinates (for instance, positive valence and positive arousal versus negative
+valence and negative arousal). By employing self-assessment ranks, no obvious improvement
+was achieved.
+

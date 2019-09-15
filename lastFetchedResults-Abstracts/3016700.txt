@@ -1,0 +1,1 @@
+In this paper, a unique method is proposed to solve optimal problems where it takes a long time to calculate the objective function. Recently, various methods for optimal problems have been developed using advanced technologies. LeSurf (Learning with Surface Fitting), presented in this paper, aims to obtain the global optimum in less searching steps than conventional methods.

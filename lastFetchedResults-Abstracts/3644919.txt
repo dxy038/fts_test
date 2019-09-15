@@ -1,0 +1,1 @@
+The identification/approximation of a linear system by poles and residues from a measured finite length input-output record of the system is discussed. The objective of this paper is to illustrate that several different formulations for characterizing the impulse response of a system yield the same set of poles.

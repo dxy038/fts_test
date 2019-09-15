@@ -1,0 +1,11 @@
+Objective. To evaluate the relationship between net moments for the glenohumeral joint as calculated with a model that is easy to apply (Static Strength Prediction Program (SSPP)) and the internal forces, calculated with a simulation model of the human shoulder (Delft Shoulder Model, DSM).
+
+Design. Static recordings of bony landmarks of the shoulder girdle during prescribed arm motions using a three-dimensional (3D) digitizer.
+
+Background. The SSPP is a biomechanical model for the evaluation of workload. Concerning the shoulder the output of the model consists of net moments in the glenohumeral joint. For the glenohumeral joint the relationship between net joint moments and internal load predictions is unknown, therefore it is useful to investigate whether the SSPP can be used to predict mechanical load in the glenohumeral joint.
+
+Methods. 3D co-ordinates of bony landmarks of the shoulder girdle are recorded, in variable arm positions, in four different planes.
+
+Results. A strong linear relationship between compression forces and net moments is found, which makes it reasonable to assume a direct relationship between net moments and joint compression forces.
+
+Conclusions. (a) Net joint moments appeared to be a good indicator for mechanical load in the glenohumeral joint in static situations. (b) The SSPP can be used to predict these joint moments for static situations.

@@ -1,0 +1,11 @@
+Objective
+The current study evaluates the efficacy of a P300-based brain–computer interface (BCI) communication device for individuals with advanced ALS.
+Methods
+Participants attended to one cell of a N × N matrix while the N rows and N columns flashed randomly. Each cell of the matrix contained one character. Every flash of an attended character served as a rare event in an oddball sequence and elicited a P300 response. Classification coefficients derived using a stepwise linear discriminant function were applied to the data after each set of flashes. The character receiving the highest discriminant score was presented as feedback.
+Results
+In Phase I, six participants used a 6 × 6 matrix on 12 separate days with a mean rate of 1.2 selections/min and mean online and offline accuracies of 62% and 82%, respectively. In Phase II, four participants used either a 6 × 6 or a 7 × 7 matrix to produce novel and spontaneous statements with a mean online rate of 2.1 selections/min and online accuracy of 79%. The amplitude and latency of the P300 remained stable over 40 weeks.
+Conclusions
+Participants could communicate with the P300-based BCI and performance was stable over many months.
+Significance
+BCIs could provide an alternative communication and control technology in the daily lives of people severely disabled by ALS.
+

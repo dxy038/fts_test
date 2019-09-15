@@ -1,0 +1,16 @@
+Using a Coons patch mapping to generate a structured grid in the parametric region of a trimmed
+surface can avoid the singularity of elliptic PDE methods when only C1 continuous boundary is
+given; the error of converting generic parametric C1 boundary curves into a specified representation
+form is also avoided. However, overlap may happen on some portions of the algebraically generated
+grid when a linear or naïve cubic blending function is used in the mapping; this severely limits its
+usage in most of engineering and scientific applications where a grid system of non-self-overlapping
+is strictly required. To solve the problem, non-trivial blending functions in a Coons patch mapping
+should be determined adaptively by the given boundary so that self-overlapping can be averted.
+We address the adaptive determination problem by a functional optimization method. The governing
+equation of the optimization is derived by adding a virtual dimension in the parametric space of
+the given trimmed surface. Both one- and two-parameter blending functions are studied. To resolve
+the difficulty of guessing good initial blending functions for the conjugate gradient method used, a
+progressive optimization algorithm is then proposed which has been shown to be very effective in
+a variety of practical examples. Also, an extension is added to the objective function to control the
+element shape. Finally, experiment results are shown to illustrate the usefulness and effectiveness of
+the presented method.

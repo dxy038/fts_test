@@ -1,0 +1,16 @@
+The main objective of this study is to provide a model to measure the performance of
+organizational processes using Auto Regressive Integrated Moving Average (ARIMA) time
+series approach, therefore, in order to achieve the main goal of the present study, a set of
+secondary objectives including: identify the organizational process, data collection and analyze
+data related to the organizational processes and performance measures using time-series ARIMA
+has been investigated. ARIMA time series method is one of the most widely used methods for
+linear prediction. In this technique, the number phrases and sentences moving average regression
+functions using partial autocorrelation and autocorrelation and usually the Box - Jenkins is
+calculated. That is an appropriate model which can predict the future performance of
+organizational processes and the results obtained from the above predictions can be used in
+planning then it is the great help for decisions that will be taken for the future and as predicted
+that in the next twelve days, it is to increase the profits of service and this process will have a
+good performance in the future. In addition, we have conducted a case study on the process of
+service delivery. The data for this process have been collected and then have been analyzed. In
+the next step, an appropriate ARIMA model has been presented so that the future behavior of the
+process has to be estimated or measured the results show that the performance is predicable.

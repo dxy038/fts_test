@@ -1,0 +1,1 @@
+A bifurcation analysis and controller for a basic power system are presented. The controller, whose objective is to eliminate the saddle-node bifurcation presented in the system, is based on the internal-model control structure for nonlinear systems

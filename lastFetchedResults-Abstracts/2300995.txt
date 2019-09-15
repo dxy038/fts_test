@@ -1,0 +1,11 @@
+Cs migration in the environment is mainly controlled by sorption onto mineral surfaces, in particular on clay minerals. With the objective of designing a geochemical reactive barrier to treat 137Cs accidental pollution in an industrial waste repository, different natural clayrocks were studied to analyse their capacity to retain Cs.
+
+mple semi-empiric Kd-approach for experimental data analysis, is unsatisfactory to describe the variability of sorption upon chemical changes. Indeed, due to the high salinity of the site, the effects of competitive ions must be evaluated and quantified. Thus, the development of sorption models, capable of reproducing experimental data obtained under conditions representative of the contaminated site, and applicable to reactive transport studies, is needed.
+
+s study, a model for Cs sorption, which takes into account the main mineralogy of the sorbent, the composition of the natural water (and ion competition) was successfully applied to interpret the non-linear Cs sorption under natural conditions.
+
+lectivity coefficients of Cs with respect to the most important cations present in the site water (Na, K, NH4, Ca) were derived by means of experiments in single clay minerals and synthetic mono-component solutions. Then, these parameters were tested in systems of increasing complexity.
+
+ering the mineralogical composition of raw materials, it was shown that the principal contribution to Cs sorption is given by the mineral illite, while smectite starts to be relevant only at very high Cs loadings. Kaolinite, even in concentrations around 10 wt% of the clayey fraction, played only a minor role.
+
+espect to the solution composition, the model was able to predict Cs sorption in electrolyte concentrations up to twice than that of seawater and up to 500 mg/L NH4+. The effect of highly competing ions, especially NH4+ and K+, on Cs retention is more important at low ionic strengths and low Cs loadings, where adsorption is dominated by illite selective frayed edge sites, FES. Divalent cations are not especially relevant as competing cations for Cs.

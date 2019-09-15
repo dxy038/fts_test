@@ -1,0 +1,13 @@
+The experiment IVIDIL (Influence of Vibrations on Diffusion in Liquids) is scheduled to be performed in forthcoming fall 2009 onboard the ISS, inside the SODI instrument mounted in the Glovebox on the ESA Columbus module. It is planned to carry out 39 experimental runs with each of them lasting 18 h. The objective of the experiment is threefold.
+
+(1)
+
+    After each space experiment there is a discussion about the role of onboard g-jitters. One objective is to identify the limit level of vibrations below which g-jitter does not play a role for onboard experiments. This objective will be fulfilled by observing diffusive process under different imposed controlled vibrations.
+(2)
+
+    Second, to perform precise measurements of diffusion and thermodiffusion coefficients for two binary mixtures in the absence of buoyant convection. The measured values can be used as standards for ground experiments. Two aqueous solutions will be used as test fluids: two different concentrations of water–isopropanol (IPA) with positive and negative Soret effect. This objective also includes studying the influence of vibrations on the measured values of diffusion and thermodiffusion coefficients.
+(3)
+
+    Finally, to investigate vibration-induced convection and, particularly, heat and mass transfer under vibrations.
+
+Three International Teams are involved in the preparation of the experiment (). ULB (MRC) is responsible for all aspects related to IVIDIL experimental definition, theoretical and numerical modeling and coordination of the entire project. Team from Ryerson University (led by Z. Saghir), Ontario, Canada and Russian team from Perm, ICMM UB RAS (led by T. Lyubimova) provide theoretical and numerical support. As being the coordinator, the author will present a general description of the experiment and outline some results obtained by MRC, ULB researchers only, i.e. by A. Mialdun, D. Melnikov, I. Ryzhkov, Yu. Gaponenko.

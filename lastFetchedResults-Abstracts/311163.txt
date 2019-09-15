@@ -1,0 +1,9 @@
+Objective. This paper describes the prediction of spinal forces in car occupants during vertical vibrations using a numerical multi-body occupant model.
+
+Background. An increasing part of the population is exposed to whole body vibrations in vehicles. In literature, vertical vibrations and low back pain are often related to each other. The cause of these low back pains is not well understood. A numerical human model, predicting intervertebral forces, can help to understand the mechanics of the human spine during vertical vibrations.
+
+Methods. Numerical human and seat models have been used. Human model responses have been validated for vertical vibrations (rigid and standard car seat condition): simulated and experimental seat-to-human frequency response functions have been compared. The spinal shear and compressive forces have been investigated with the model.
+
+Results. The human model seat-to-pelvis and seat-to-T1 frequency response functions in the rigid seat condition and all seat-to-human frequency response functions in the standard car seat condition approach the experimental results reasonably. The lumbar and the lower thoracic spine are subjected to the largest shear and compressive forces.
+
+Conclusions. The human model responses correlate reasonable with the volunteer responses. The predicted spinal forces could be used as a basis for derivation of hypothetical mechanisms and better understanding of low back pain disorders.

@@ -1,0 +1,8 @@
+Objective
+onic medical record (EMR) systems are costly for hospitals to implement and maintain, and the effects of EMR on the cost of care for inpatient pediatrics remain unknown. Our objective was to determine whether delivering care with advanced-stage EMR was associated with a decreased cost per case in a national sample of hospitalized children.
+s
+althcare Cost and Utilization Project Kids Inpatient Dataset 2009 identified pediatric discharges. The Healthcare Information and Management Systems Society 2009 database identified hospitals' EMR use. EMR was classified into 3 stages, with advanced-stage 3 EMR including automation of ancillary services, automation of nursing workflow, computerized provider order entry, and clinical decision support. Multivariable linear regression was used to determine the independent effect of advanced-stage EMR on cost per case. Propensity score adjustment was included to control for nonrandom assignment of EMR use.
+s
+nalysis included 4,605,454 weighted discharges. EMR use by hospitals that care for children was common: 24% for stage 1, 23% stage 2, and 32% advanced stage 3. The multivariable model demonstrated that advanced stage EMR was associated with an average 7% greater cost per case ($146 per discharge).
+sions
+re of children across the United States with EMRs may create a safer health care system but is not associated with inpatient cost savings. In fact our primary analysis shows a 7% additional cost per case. This finding is contrary to predicted savings and may represent an added barrier in the adoption of EMR for inpatient pediatrics.

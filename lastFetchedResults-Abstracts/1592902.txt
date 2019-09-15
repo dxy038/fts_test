@@ -1,0 +1,7 @@
+Objective: To describe a stochastic model of the variability and heterogeneity of blood flow through the microcirculation, and to show the ability of vasomotion to vary oxygen consumption at a steady blood flow.
+
+s: The description of vasomotion is based on whether each microvessel is open for blood flow or closed. Over a unit time period, let α be the probability that a given vessel is open and will remain open, β be the probability that an open vessel will close, ν be the probability that a closed vessel will remain closed, and μ be the probability that a closed vessel will become open. Two main parameters that characterize such a scheme are: the fraction of open microvessels [no = μ/(β + μ)], and the rate of vasomotion defined as the rate of switching between open and closed microvessels (R = β + μ). A model of O2 transport to tissues is based on the following assumptions: (a) the flux of O2 is due to passive diffusion, (b) the amount of O2 dissolved in tissue is negligible as compared with that contained in arterial blood, and (c) aerobic metabolism is proportional to the delivery of O2.
+
+s: The stochastic model substantiates the possibility that vasomotion can control O2 consumption. The rate of vasomotion activity can change O2 consumption by 2–8-fold, depending on the fraction of open microvessels.
+
+sion: A stochastic description of blood flow through the microcirculation system demonstrates that vasomotion rate could be a factor influencing O2 consumption.

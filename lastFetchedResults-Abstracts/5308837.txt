@@ -1,0 +1,1 @@
+A BiCMOS PAL-type device is described. It has a propagation delay of 7.5 ns and consumes 350 mW of power. The circuit has eight inputs, four bidirectional input/outputs and four registered outputs (known as 16R4 in databooks). The technology is a twin-well, merged bipolar and CMOS (BiCMOS) process. The minimum feature size is 1.2 &amp;mu;m

@@ -1,0 +1,11 @@
+Objective
+To establish an in vitro model for measurement of the excitability properties of cutaneous sensory axons.
+Methods
+We used a saphenous skin–nerve preparation from adult rat in combination with computerized threshold tracking. We measured strength–duration time constant, the recovery of excitability after a supramaximal stimulus and the accommodation to conditioning subthreshold polarizing stimuli (threshold electrotonus, current–threshold relationship) and compared these with previously published recordings from sensory axons in human median nerve.
+Results
+Threshold electrotonus and the amplitude of superexcitability were indistinguishable between human median nerve in vivo and rat saphenous nerve in vitro, but several excitability parameters were significantly different in the rat: strength–duration time constant was significantly shorter (0.19 ± 0.01 vs. 0.53 ± 0.02 ms); the refractory period was shorter (1.9 ± 1.1 ms vs. 3.5 ± 1.0 ms) and late subexcitability was smaller (6.3 ± 0.3% vs. 11.3 ± 0.5%); thirdly, during recording of current–threshold relationship, rat nerves displayed more inward rectification to strong hyperpolarizing currents. Parameters were stable over more than 3 h.
+Conclusions
+Excitability changes of sensory Aβ-fibres can be reliably studied in the rat in vitro and are qualitatively similar to humans.
+Significance
+This rat model will facilitate pharmacological studies of nerve excitability and work on models of neuropathy.
+

@@ -1,0 +1,10 @@
+The current study is an attempt to develop a multi-objective mathematical model for power
+generation expansion planning in Iran. The study is applied and descriptive and seeks to
+develop a linear mathematical model for power generation expansion planning through
+mathematical programming techniques. The main functions are minimizing the total
+production costs (both investment and operational costs) and ecological pollutants (e.g.,
+CO2, SO2, and NOx). The constraints of the model are demand constraints, constraints of
+the production concentration in special technologies, reserve margin constraints and nonnegative constraints. The present study attempts to prepare the generation expansion
+planning in Iran power industry for the time period from 2015 to 2034. The proposed model
+was encoded in GAMS and was solved through both the Goal Programing and the
+Comprehensive Criteria methods.

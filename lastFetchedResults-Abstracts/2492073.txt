@@ -1,0 +1,13 @@
+In this paper, a hybrid method is developed for optimum design of
+castellated beams by combining two meta-heuristic algorithms, namely the Colliding Bodies
+Optimization (CBO) and Particle Swarm Optimization (PSO). In this hybrid algorithm
+(CBO-PSO), positive features of PSO are added to the CBO. Two common types of
+laterally supported castellated beams are considered to be the design problems: beams
+with hexagonal openings and beams with circular openings. These beams have found
+widespread usage in buildings because of great savings in materials and construction costs.
+Here, the minimum cost is taken as the design objective function and the new hybrid
+method is utilized for obtaining the solution of some benchmark problems. Comparison
+of the results of the CBO-PSO with those of some other meta-heuristics demonstrates the
+capability of the presented optimization algorithm. For most of the examples, the results
+obtained by CBO-PSO have less cost than those of the other considered methods. It is also
+concluded that the beams with hexagonal openings

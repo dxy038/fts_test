@@ -1,0 +1,23 @@
+Objective: To perform a critical review of analytical methods for urinary catecholamines based on method performance parameters, such as analytical range, limit of detection (LOD), robustness, and the applicability for assessment of stress effects in urine from healthy subjects.
+
+Method: Five criteria were chosen for rating the analytical methods. The score value should give an indication of the usefulness of the method for measurement of catecholamines in urine from healthy subjects. The maximum score for a paper is ‘5’, and one point is given for each of the following.
+
+1.
+
+    Analytical range must start at 7 nmol/l or below.
+2.
+
+    LOD (or limit of quantification (LOQ)) <7 nmol/l for both adrenaline (A) and noradrenaline (NA).
+3.
+
+    Some precision parameters have been described (i.e. repeatability and/or reproducibility).
+4.
+
+    Urine samples were analysed.
+5.
+
+    The method is fully automated method (i.e. clean-up procedure included in system).
+
+Results: A total of 7, out of 28 papers rated score the maximum of ‘5’, and 5 papers score ‘4’; these are all high performance liquid chromatographic (HPLC) methods. The scores of the remaining 16 papers are distributed as follows: 10 papers score ‘3’, 4 papers score ‘2’ and 2 papers score ‘1’.
+
+Conclusion: The literature review has shown that automated HPLC systems still are the most applicable and well-documented methods for the analysis of A and NA in urine. Some quality parameters were summarised, and it was shown that many of the papers lack valuable information. It is recommended that future papers validate the method described and report the necessary quality parameters such as LOD, analytical range, precision, etc.

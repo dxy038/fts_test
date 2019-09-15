@@ -1,0 +1,6 @@
+In a recent work, cited in the Introduction, a concept of generalized pseudoconvexity
+was used to obtain optimality results in nonlinear programming. In the
+present work we give sufficient optimality conditions, in the context of the
+multiobjective programming problem under the assumptions of generalized pseudoconvexity
+on objective and constraint functions. An application of such a result is
+given for fractional programming also.

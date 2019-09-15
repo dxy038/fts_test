@@ -1,0 +1,11 @@
+Objective
+The assessment of the level of anesthesia is a very hard task, since no gold standard has stood out in the past three decades. Middle Latency Auditory Evoked Potential (MLAEP) is one of the most popular neurophysiological tools for anesthesia monitoring. Recently, Spectral Entropy (SpEn) has been introduced: it provides two different parameters, State Entropy (SE) and Response Entropy (RE). The aim of this prospective study is to check SpEn end-point, comparing it to MLAEPs in neurosurgical anesthesia.
+Methods
+Twenty patients submitted to elective supratentorial neurosurgery for removal of a temporal–parietal meningioma were included in the study. SpEn and MLAEPs were simultaneously monitored using the M-entropy module S/5™ (GE Health Care, Helsinki, Finland) and Alaris Medical System AEP-ARX index monitor™ (AAI) (Kidemosevej, Denmark), respectively.
+Results
+Four thousand and sixty four data points of SE, RE and AAI were recorded and ROC curves comparing AAI to RE and SE showed a highly significant (p < 0.0001) area under the curve. The RE and SE cut-off values (showing maximal sensitivity with maximal specificity) to discriminate anesthesia from awake or consciousness sedation were 61 and 58, respectively. However, in a group of data points, low AAI was associated to high SpEn (577 data points for RE and 770 for SE) and vice versa (31 data points for RE and 43 for SE). The prediction probability for SE was 0.977 and for RE was 0.968.
+Conclusions
+Our results suggest that SpEn is as effective as AAI.
+Significance
+Our results show that SpEn is able to discriminate between the levels of wakefulness and surgical anesthesia. However, the meaning of data showing a discrepancy between AAI and SpEn is not yet clear and calls for further study.
+

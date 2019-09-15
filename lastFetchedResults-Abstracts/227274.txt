@@ -1,0 +1,16 @@
+The paper describes a novel, low-cost
+design for a powerful linear actuator. The
+actuator harnesses the highly unstable, normalforce
+of magnetic attraction to produce linear
+motion by means of a simple mechanical
+integration. A simple ratchet mechanism allows
+bidirectional operation of the drive shaft when
+activated but prevents motion completely, in
+either direction, when not activated. A high
+specific forceholume ratio is obtained by use of
+the normal force of attraction. The operational
+principles are described in detail and practical
+static and dynamic results are presented.
+Simulated results include static modelling using a
+three-dimensional (3-D), finite-element (FE)
+software package.

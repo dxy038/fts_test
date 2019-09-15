@@ -1,0 +1,11 @@
+Objective
+The capture of blood cells from the circulation is mediated by highly specialized adhesion molecules. These molecules contribute to the specificity of recruitment for various subsets. Here, we used a simple substrate of hyaluronic acid to investigate the specificity of CD44-mediated recruitment from human whole blood under shear conditions.
+Materials and Methods
+
+Human whole blood was perfused through a parallel-plate flow chamber, which mimics intravascular conditions. Microscopy was used to directly observe blood-cell interactions with adhesion molecule substrates.
+Results
+
+Erythrocytes, but not leukocytes, efficiently tethered to and rolled on the hyaluronic acid substrate. These interactions were demonstrated to be mediated by CD44 and regulated by the sialic acid content of the cells. Inflammatory stimuli did not result in enhanced erythrocyte rolling. Rather, interactions were restricted to aged erythrocytes approaching senescence. This mechanism of erythrocyte capture from the blood flow was found to be restricted to primates and not conserved across mammalian species.
+Conclusion
+
+This is the first report of erythrocyte tethering and rolling under shear conditions, a behavior, until now, thought to be exclusive to leukocytes. It may represent an important mechanism to identify, capture, and clear old erythrocytes during normal homeostasis or clot formation.

@@ -1,0 +1,14 @@
+We stated in S anchez et al. (Proc. 15th IMACS World Congress, Vol. 5, 1997, p. 513), the objective rate law
+governing the general evolution, nucleation, growth and convection, of a diluted 3D population of arbitrarily oriented,
+penny-shaped, non-interacting stable microcracks that is dragged along the flow of a regular motion of a simple
+continuous body of brittle material.
+This requires the prior analysis of the convection process in the hypothesis of ignoring crack nucleation. It follows
+that the evolution of the microcrack population is here due only to the rotation of the crack planes as a consequence of
+the deformation processes of the microcracked brittle solid.
+The determinant role of this case in the general evolution problem, is also so in its numerical treatment.
+In this paper, use is made of the Bubnov–Galerkin spectral method with respect to the angular variable defining the
+orientation of a crack to numerically solve the mathematical model of the pure convection of microcracks in the nonucleation
+hypothesis.
+The paper is completed with three applications. The corresponding microcracks evolutions have been graphically
+displayed showing a behaviour that agrees with the expected.
+Indications about the computer codes implementing the numerical algorithm are included in an appendix

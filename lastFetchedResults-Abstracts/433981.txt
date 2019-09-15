@@ -1,0 +1,9 @@
+Background
+The relationship between degree of hemodilution during cardiopulmonary bypass (CPB) and perioperative stroke has not been fully elucidated. The objective of this observational study was to evaluate the relationship between nadir hematocrit during CPB and perioperative stroke while adjusting for variables known to have an association with stroke and anemia.
+Methods
+Perioperative data were prospectively collected on 10,949 consecutive patients who underwent cardiac surgery with CPB from 1999 to 2004 at a quaternary care hospital. Stroke was defined as a persistent neurologic deficit, consistent with a central nervous system lesion, occurring within 30 days of operation. Stroke was classified as perioperative if patients awoke from anesthesia with neurologic symptoms and postoperative if patients awoke without symptoms. Multivariable logistic regression analysis was used to control for confounding variables to obtain the independent relationship between nadir hematocrit during CPB and perioperative stroke.
+Results
+The prevalence of perioperative stroke was 1.0% (n = 110). An additional 50 patients had postoperative stroke. Nadir hematocrit during CPB was an independent predictor of perioperative stroke. After controlling for confounding variables, each percent decrease in hematocrit was associated with a 10% increase in the odds of suffering perioperative stroke (95% confidence interval, 4% to 18%; p = 0.002). The model was accurate (c-index = 0.85) and reliable (Hosmer-Lemeshow test p = 0.4).
+Conclusions
+There is an independent, direct association between degree of hemodilution during CPB and risk of perioperative stroke. Prospective randomized clinical trials comparing different degrees of hemodilution during CPB are required to determine whether this is a cause–effect relationship or a simple association.
+

@@ -1,0 +1,11 @@
+Objective
+The immune system is dependent on purines and pyrimidines as building blocks for DNA and RNA synthesis to enable rapid cell proliferation and protein synthesis. Emerging evidence suggests that dietary nucleotides optimize immune function. We investigated whether growth and function of human immune cells were affected by an exogenous source of nucleotides during specific antigen challenge.
+Methods
+
+Peripheral blood mononuclear cells from healthy individuals (n = 10) were stimulated with influenza virus antigen and either DNA sodium from fish soft roe (DNA), RNA from bakers yeast (Saccharomyces cerevisiae) (RNA), 2′ deoxyadenosine 5′-monophosphate sodium (dAMP), 2′ deoxycytidine 5′-monophosphate sodium (dCMP), 2′deoxyguanosine 5′-monophosphate sodium (dGMP), 2′ deoxyuridine 5′-monophosphate sodium (dUMP) or thymidine sodium (TMP). Growth effects were ascertained by measuring the amount of tritium-labeled thymidine, incorporated into cell DNA. Cell function was measured by detection of IFN-gamma, TNF-alpha and IL-10 production.
+Results
+
+Specific nucleotide derivatives alone did not affect the growth of healthy peripheral blood mononuclear cells. However, the nucleotide derivatives influenced immune cell growth and cytokine secretion when cocultured with specific antigen. DNA, RNA, dAMP, dCMP and dUMP increased influenza virus antigen induced immune cell proliferation. In contrast dGMP and TMP inhibited the antigen-induced growth response. RNA and dAMP cocultured with virus antigen significantly increased peripheral blood mononuclear cell secretion of IFN-gamma, IL-10 and TNF-alpha. DNA increased virus antigen-induced immune cell secretion of IFN-gamma only, whereas dUMP significantly increased secretion of IL-10 only. dGMP completely inhibited virus-triggered IFN-gamma secretion, whereas TMP did not change the virus induced secretion pattern of measured cytokines.
+Conclusion
+
+Nucleotide derivatives affect growth and function of specific virus antigen-stimulated human immune cells in vitro.

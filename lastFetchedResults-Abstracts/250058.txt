@@ -1,0 +1,9 @@
+The objective in this paper is to present some developments for the analysis of Navier–Stokes incompressible
+and compressible fluid flows with structural interactions. The incompressible fluid is
+discretized with a new solution approach, a flow-condition-based interpolation finite element scheme.
+The high-speed compressible fluids are solved using standard finite volume methods. The fluids are
+fully coupled to general structures that can undergo highly non-linear response due to large deformations,
+inelasticity, contact and temperature. Particular focus is given on the scheme used to couple the
+fluid media with the structures. The fluids can also be modelled as low-speed compressible or slightly
+compressible media, which are important models in engineering practice. Some solutions obtained
+using ADINA are presented to indicate the analyses that can be performed

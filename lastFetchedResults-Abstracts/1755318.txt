@@ -1,0 +1,8 @@
+Objective
+obal Mood Scale (GMS), assessing negative affect (NA) and positive affect (PA), is sensitive to tapping treatment-related changes in patients with cardiac conditions. We examined the psychometric properties of the Danish GMS and the influence of NA and PA on distress and health-related quality of life (HRQL).
+
+d group of patients with cardiac conditions (n=502) completed the GMS, the Hospital Anxiety and Depression Scale, the Type D Scale, and the 36-item Short-Form Health Survey.
+s
+o-factor model of the Danish GMS was confirmed, and the scale was shown to be valid, internally consistent (Cronbach's α NA/PA=.93/.85), and stable over 3 weeks (Pearson's r NA/PA=.82/.80). Unadjusted multiple linear regression analyses showed NA (β=0.67, P&lt;.001), PA (β=−0.17, P=.001), and the interaction effect NA×PA (β=−0.17, P=.015) to be associated with anxiety and depressive symptoms (NA:β=0.99, P&lt;.001; PA:β=−0.12, P=.004; NA×PA:β=−0.43, P&lt;.001), as well as with physical HRQL (NA:β=−0.37, P&lt;.001; PA:β=0.17, P=.001; NA×PA: β=−0.27, P&lt;.001) and mental HRQL (NA:β=−0.72, P&lt;.001; PA:β=0.27, P=.004; NA×PA:β=0.23, P&lt;.001). When adjusting for demographic and clinical characteristics, only NA (β=0.26, P=.003) was associated with anxiety, whereas NA (β=0.75, P&lt;.001) and NA×PA (β=−0.34, P=.002) were associated with depressive symptoms. For physical HRQL, PA (β=0.21, P=.03) and NA×PA (β=−0.36, P=.005) remained significant, whereas NA (β=−0.38, P&lt;.001) and PA (β=0.21, P=.002) remained significant for mental HRQL.
+sion
+nish GMS is a psychometrically sound measure of affect in patients with cardiac conditions. Future studies should examine changes in both PA and NA and their impact on health outcomes.

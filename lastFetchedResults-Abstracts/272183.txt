@@ -1,0 +1,10 @@
+Design of a boundary in a material and in a structure is in principle an identical problem. However, for structures, we
+mostly assume the external loads to be given, while in the design for material moduli, the loads are evaluated from
+forced displacements and the loads are therefore design dependent. In the present study, we shall focus on the in¯uence
+of these dierent load assumptions. Also, the in¯uence of PoissonÕs ratio and of material non-linearity will be shown.
+Based on sensitivity analysis, we also obtain general information.
+The objective may be the stiest design, the strongest design or just a design of uniform energy density along the
+shape. In an energy formulation, it was proven earlier that these three objectives have the same solution, at least within
+the limits of geometrical constraints, including the parametrization. Without involving stress/strain ®elds, this proof
+holds good for 3D problems, for power-law non-linear elasticity and for anisotropic elasticity. With this background,
+the results of a number of in¯uence studies are presented

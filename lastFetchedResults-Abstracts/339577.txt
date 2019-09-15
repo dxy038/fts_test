@@ -1,0 +1,11 @@
+Objective
+MicroRNAs (miRNAs) are an abundant class of small noncoding RNAs that regulate diverse cellular functions by sequence-specific inhibition of gene expression. We determined miRNA expression profile during erythroid differentiation and putative roles in erythroid differentiation.
+Methods
+
+The expression profile of 295 miRNAs before and after their erythroid differentiation induction was analyzed using microarray. Fluorescein-activated cell sorting analysis was used to isolate mouse spleen erythroblasts at different differentiation stages. Human cord blood CD34+ progenitors were differentiated in vitro. Real-time reverse transcriptase polymerase chain reaction was used to confirm the results of miRNA microarray. Synthetic oligonucleotides for miR-451 overexpression or knockdown were transfected into MEL cells.
+Results
+
+More than 100 miRNAs were found to be expressed in erythroid cells. The majority of them showed changes in their expression levels with progression of erythroid differentiation. Further analysis revealed that overall miRNA expression levels are increased upon erythroid differentiation. Of the miRNAs analyzed, miR-451 was most significantly upregulated during erythroid maturation. Functional studies using gain of function and loss of function approaches showed that miR-451 is associated with erythroid maturation.
+Conclusions
+
+Dynamic changes in miRNA expression occurred during erythroid differentiation, with an overall increase in the levels of miRNAs upon terminal differentiation of erythroid cells. MiR-451 may play a role in promoting erythroid differentiation.

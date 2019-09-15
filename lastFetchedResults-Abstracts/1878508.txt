@@ -1,0 +1,7 @@
+Background: The High intensity focused ultrasound (HIFU) is a noninvasive and effective technique for tumor ablation. Frequency and acoustic power are effective parameters for temperature distribution and the extent of tissue damage. 
+Objective: The aim of this study was to optimize the frequency and acoustic power and to achieve appropriate temperature and thermal fields.
+Methods: This analytical study was conducted in Kermanshah, 2014. Computer simulation was performed using MATLAB software (HIFU simulator toolbox). The KZK nonlinear wave equation was used to model sound propagation. The Bio heat equation was used to calculate the transient temperature in the liver tissue. Extracorporeal transducer was assessed over a frequency range of 2, 3 and 4 MHz and a power range of 50, 100 and 150 W.
+Findings: In 2 MHz frequency, the temperature in the focal point reached to 44.5°C, 55°C and 75°C for 50, 100 and 150-W power, respectively. In 3 MHz frequency and the mentioned powers, the temperature reached to 47.5°C, 67°C and 94°C, respectively. The temperature reached to 45.5°C, 55 °C and 67 °C in 4 MHz frequency, respectively. 2, 3 and 4 MHz frequencies with 150-W power and 3 MHz frequency with 100-W power induced considerable extent of thermal dose.
+Conclusion: 2-MHz frequency and 150W power can lead to more thermal dose in the same exposure time. These parameters can reduce treatment period and complications in larger tumors ablation.
+
+

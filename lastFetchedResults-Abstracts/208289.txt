@@ -1,0 +1,13 @@
+In this research the optimization of calibration parameters in vehicle engine is investigated by goals of
+minimizing fuel consumption and emissions, and maximization of engine torque. Urgent demand for decrease
+of fuel consumption and emissions has led to complexity of engines and power train control systems. Traditional
+calibration procedures are very time-consuming and expensive and calibration of modem engines with lots
+of increasing ECU parameters by tradttional procedures, arc against the demand of decreasing power train
+development duration. In this research we will introduce an applicable methodology and related experimental case
+study for engine calibration and determination of controllable parameters which determine the benefits of using
+design of experiment and statistical modeling in development of applicable models by als of decreasing the cost
+and duration of experiments execution. Also we will present the design of experiments and modeling with neural
+network in the same case study and compare it with the statistical modeling approach. An optimization algorithm
+has been presented for solving the multi objective problems of research based on dynamic weight factors. Two
+statistical and neural network models have been solved with this algorithm and the results have been compared
+with each other.

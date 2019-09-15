@@ -1,0 +1,1 @@
+A class of signal and image processing problems is considered from the standpoint of treating them as those of coordinating the local data-dependent information and model-based smoothness constraints. Such a generalized problem is set as the formal problem of minimization of a separable objective function defined on an appropriate neighborhood graph of data array elements

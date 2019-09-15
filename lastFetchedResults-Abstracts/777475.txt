@@ -1,0 +1,13 @@
+Concentrating solar thermal systems offer a promising method for large scale solar energy collection. Although concentrating collectors
+are generally thought of as large-scale stand-alone systems, there is a huge opportunity to use novel concentrating solar thermal
+systems for rooftop applications such as domestic hot water, industrial process heat and solar air conditioning for commercial, industrial
+and institutional buildings. This paper describes the thermal performance of a new low-cost solar thermal micro-concentrating collector
+(MCT), which uses linear Fresnel reflectors, and is designed to operate at temperatures up to 220  C. The modules of this collector system
+are approximately 3 m long by 1 m wide and 0.3 m high. The objective of the study is to optimise the design to maximise the overall
+thermal efficiency. The absorber is contained in a sealed enclosure to minimise convective losses. The main heat losses are due to natural
+convection inside the enclosure and radiation heat transfer from the absorber tube. In this paper we present the results of a computational
+and experimental investigation of radiation and convection heat transfer in order to understand the heat loss mechanisms. A computational
+model for the prototype collector has been developed using ANSYS–CFX, a commercial computational fluid dynamics
+software package. The numerical results are compared to experimental measurements of the heat loss from the absorber, and flow visualisation
+within the cavity. This paper also presents new correlations for the Nusselt number as a function of Rayleigh number.
+  2012 Elsevier Ltd. All rights reserved

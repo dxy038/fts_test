@@ -1,0 +1,11 @@
+Objectives
+Our objective was to evaluate the efficacy of triphasic waveforms for transthoracic defibrillation in a swine model.
+Background
+Triphasic shocks have been found to cause less post-shock dysfunction than biphasic shocks in chick embryo studies.
+Methods
+After 30 s of electrically induced ventricular fibrillation (VF), each pig in part I (n = 32) received truncated exponential biphasic (7.2/7.2 ms) and triphasic (4.8/4.8/4.8 ms) transthoracic shocks. Each pig in part II (n = 14) received biphasic (5/5 ms) and triphasic shocks (5/5/5 ms). Three selected energy levels (50, 100, and 150 J) were tested for parts I and II. Pigs in part III (n = 13) received biphasic (5/5 ms) and triphasic (5/5/5 ms) shocks at a higher energy (200 and 300 J). Although the individual pulse durations of these shocks were equal, the energy of each pulse varied. Nine pigs in part I also received shocks where each individual pulse contained equal energy but was of a different duration (biphasic 3.3/11.1 ms; triphasic 2.0/3.2/9.2 ms).
+Results
+Triphasic shocks of equal duration pulses achieved higher success than biphasic shocks at delivered low energies: <40 J: 38 ± 5% triphasic vs. 19 ± 4% biphasic (p < 0.01); 40 to <50 J: 66 ± 7% vs. 42 ± 7% (p < 0.01); and 50 to <65 J: 78 ± 4% vs. 54 ± 5% (p < 0.05). Shocks of equal energy but different duration pulses achieved relatively poor success for both triphasic and biphasic waveforms. Shock-induced ventricular tachycardia (VT) and asystole occurred less often after triphasic shocks.
+Conclusions
+Triphasic transthoracic shocks composed of equal duration pulses were superior to biphasic shocks for VF termination at low energies and caused less VT and asystole.
+

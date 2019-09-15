@@ -1,0 +1,8 @@
+Objective
+ted the hypothesis that among 3- to 5-year-old children attending Head Start, body mass index z score will decline during the academic year and increase during the summer.
+s
+d retrospective longitudinal growth data collected over 5 academic years from 1914 children (51% boys, 62% white) enrolled in a Michigan Head Start program. Changes in body mass index (BMI) z score, calculated as annual rate of change, during 2 academic years and the intervening summer were assessed by piecewise linear regression analysis. Potential covariates were gender, single-parent status, program year, race/ethnicity, age at initial enrollment, and family income (divided by household size).
+s
+MI z score at the start of Head Start enrollment was 0.52 (95% confidence interval [95% CI] 0.39 to 0.65). Mean annual rates of BMI z score change were: −0.07 (95% CI −0.28 to 0.14) during the first year of enrollment, 0.62 (95% CI −0.0005 to 1.23) over the summer, and −0.82 (95% CI −1.50 to −0.13) during the second year of enrollment. The effect was most robust among girls of minority race/ethnicity.
+sions
+tart is associated with a shifting of BMI z scores toward the norm among low-income preschool-aged children, particularly among girls of minority race/ethnicity.

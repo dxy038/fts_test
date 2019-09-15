@@ -1,0 +1,11 @@
+Objective
+Genetic modification of effector lymphocytes, such as T cells and natural killer (NK) cells, is essential for many approaches to gene-based immunotherapy of cancer. However, transduction of lymphocytes has proven difficult by currently available gene transfer methods. Previous studies have shown that chimeric fiber-modified Ad5/F35 adenoviral vectors are able to efficiently transduce hematopoietic cells including immature progenitors. In this study, we examined the gene transfer into T lymphocytes and NK cells using Ad5/F35 compared with conventional Ad5 adenovectors.
+Methods
+
+Primary T and NK cells were isolated from healthy donors' peripheral blood leukocytes by immunomagnetic selection. Cell lines and primary lymphocytes were transduced with replication-defective Ad5/F35 and Ad5, both containing a GFP reporter gene under the control of a CMV promoter. Transduction efficiencies were monitored by flow cytometry. The function of transduced lymphocytes was assessed by analysis of proliferative responses to mitogenic agents and in mixed leukocyte reactions.
+Results
+
+Transgene expression was detected in up to 45% of primary CD3+ T lymphocytes and in up to 60% of primary NK cells using Ad5/F35. In contrast, conventional Ad5 transduced less than 8% and 5% of primary T cells and NK cells, respectively. Transduction efficiencies were similar in CD4+ and CD8+ T lymphocytes, and transgene expression could be detected for up to seven days. Activation of T cells significantly enhanced the efficiency of Ad5/F35-mediated gene transfer. Adenoviral transduction of lymphocytes did not result in any impairment of proliferative functions.
+Conclusion
+
+The results of this study demonstrate that both T lymphocytes and NK cells can be transduced by chimeric Ad5/F35 adenoviral vectors.

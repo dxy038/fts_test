@@ -1,0 +1,11 @@
+Objective. To investigate the effects of malalignment on stresses in tibial polyethylene component of total knee prostheses.
+
+Design. A three-dimensional finite element analysis was used to calculate the contact stress and von Mises stress in the tibial polyethylene component subjected to a compressive load, and the malalignment situations were simulated.
+
+Background. Many biomechanical studies to investigate the stresses in tibial polyethylene component were assumed at the ideal contact alignment. The effect of malalignment on stresses in tibial polyethylene component was not investigated extensively.
+
+Methods. Three-dimensional finite element models of the tibiofemoral joint of knee prostheses for three different designs were constructed. Three malalignment conditions including the medial translation (0.25, 0.5 and 1.0 mm), internal rotation (1°, 3° and 5°), and varus tilt (1°, 3° and 5°) of the femoral component relative to the tibial component were simulated. A compression load of 3000 N was applied to the tibiofemoral joint at 0° of flexion. The maximum contact stress and von Mises stress in the tibial component were compared to investigate the effects of malalignment.
+
+Results. In comparing with the neutral position, the greatest increase of maximum contact stress were 67.6%, 14.3% and 145.9% and the greatest increase of maximum von Mises stress were 92.5%, 22.7% and 120.6% in maltranslation, internal rotation and varus tilt simulations, respectively.
+
+Conclusion. The greatest increase of contact stress and von Mises stress was occurred in the high conformity flat-on-flat design of knee prosthesis under the severest malalignment condition. The high conformity curve-on-curve design of knee prosthesis has the minimal risk of polyethylene wear under the malalignment conditions.

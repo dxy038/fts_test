@@ -1,0 +1,11 @@
+Objective
+We investigated the effect of interleukin-15 (IL-15) with Flt3 ligand (Flt3L) on the expansion and activation of NK cells derived from umbilical cord blood mononuclear cells (UCB-MNCs).
+Materials and Methods
+
+UCB-MNCs were cultured at 1 to 100 ng/mL of IL-15 + Flt3L (10 ng/mL) compared with 1 to 500 ng/mL of IL-2 + Flt3L (10 ng/mL). Cultured cells were assessed for surface marker and we calculated absolute number of NK cells and T cells. The cytotoxic activity was analyzed with purified NK cells.
+Results
+
+After 2 weeks culture with 5 ng/mL of IL-15 + Flt3L, the fold inductions of absolute number of NK cells significantly increased to 20.9-fold±9.3-fold of the number of NK cells on day 0 (p<0.05), with 24.4-fold±16.1-fold of T cells. But with 50 ng/mL of IL-15 + Flt3L, fold induction of NK cells decreased to 5.1-fold±3.9-fold, while T cells showed 34.8-fold±18.7-fold (n = 8). The proportion of NK vs T cells showed to be significantly higher (1.61±0.91) with 5 ng/mL of IL-15 than with 50 ng/mL of IL-15 (0.12±0.03). Such proportional change of NK/T cells could not be observed with IL-2. Immunophenotypes of CD56, CD16, LFA1, CD94, CD8, and perforin of cultured NK cells with 10 ng/mL of IL-15 + Flt3L showed the same pattern of those with 50 ng/mL of IL-2 + Flt3L. Cytotoxic activity against K562 of cultured NK cells resulted in the same level as adult peripheral blood (PB)-derived NK cells.
+Conclusions
+
+Higher induction of NK cells derived from UCB-MNCs was achieved by low dose (5 to 10 ng/mL) rather than high dose (>50 ng/mL) of IL-15.

@@ -1,0 +1,1 @@
+In this paper, we present a robust error concealment method by utilizing the information of motion vectors and reference frames from the top/bottom blocks of the erroneous macroblock. Simulation results show that the subjective and objective performances of the proposed technique are superior to conventional temporal concealment techniques for H.264 video decoder.

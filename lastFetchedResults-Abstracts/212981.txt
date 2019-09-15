@@ -1,0 +1,10 @@
+The objective of this paper is to evaluate the validity of commonly used
+multiaxial fatigue criteria for different multiaxial loading conditions. The best
+criterion is identified through comparative analysis. The assessment is based
+on the experimental research findings of the SAE notched shaft, which is used
+as a benchmark. The relative performance of the three existing multiaxial
+fatigue theories based on the strain criteria and the critical plane approaches
+are investigated. There is no fixed strain life criterion that can predict the
+fatigue life best for different loading cases. Among all the critical plane models
+considered, Fatemi and Socie model gives best fatigue life prediction for both
+multiaxial in phase and 90° out of phase loading cases.

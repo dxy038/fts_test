@@ -1,0 +1,1 @@
+This article considers a bidirectional converter topology based on active dual-bridge topology. It proposes a modulation strategy required for power factor correction and presents results obtained in an implementation.

@@ -1,0 +1,7 @@
+A new multiscale enrichment method based on the partition of unity (MEPU) method is presented. It
+is a synthesis of mathematical homogenization theory and the partition of unity method. Its primary
+objective is to extend the range of applicability of mathematical homogenization theory to problems
+where scale separation may not be possible. MEPU is perfectly suited for enriching the coarse scale
+continuum descriptions (PDEs) with fine scale features and the quasi-continuum formulations with
+relevant atomistic data. Numerical results show that it provides a considerable improvement over
+classical mathematical homogenization theory and quasi-continuum formulations

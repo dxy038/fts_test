@@ -1,0 +1,1 @@
+We propose an objective-neuron-based active memory, ONBAM, and design it by HDL. The ONBAM is an active topological memory, which is a memory with equivalently a topological space of data and a flexibly content-addressable function, which plays an important role of the memory-based AI machine

@@ -1,0 +1,11 @@
+Objective. The stress throughout the fifth metatarsal was determined under various loading conditions, in order to better understand the causes of fractures to this bone.
+
+Design. A mathematical approach was taken, in which the stresses were analysed using the methods of beam theory.
+
+Background. Finite element analysis has frequently been used to determine the stress in bones. Beam theory provides an easier method for determining the force and moment resultant in any cross-section. The distribution of stress throughout the cross-section can then be found by solving certain partial differential equations defined on the cros-sections.
+
+Methods. Cross-sections of the bone were obtained by slicing a mould, into which the bone was placed, at numerous intervals along its length. Analytic expressions describing each cross-section were obtained by fitting a Fourier series to a sequence of points along the boundary.
+
+Results. The maximum stress found in the fifth metatarsal resulted from an oblique load, and had a magnitude less than would occur in a subject during normal walking.
+
+Conclusions. Since the magnitude of the stress is submaximal, this study lends theoretical support to the clinical observation that the diaphyseal fracture is indeed a stress fracture.

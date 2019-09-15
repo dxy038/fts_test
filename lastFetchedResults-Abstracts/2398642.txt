@@ -1,0 +1,8 @@
+Objective
+lyze differences in the way dental materials digitize on a non-contacting laser profilometer (NCLP).
+s
+Type IV dental stones and 15 impression materials were mixed according to the manufacturer's instructions and expressed against a glass block to record its surface characteristics. From each material an area of 6 × 40 mm was scanned on the NCLP and the Ra, Rq and Rt roughness values measured from 20 randomly selected transverse profiles. The surface of the impression materials was subsequently poured in Moonstone™ (Bracon Ltd., Etchingham, England) dental stone and the same roughness values obtained from these casts. Differences in roughness values from the dental materials were compared using ANOVA and differences in roughness between impression materials and the Moonstone™ casts compared using paired t-tests.
+s
+were significant differences in roughness values between individual materials within each type (impression material or dental stone) (p &lt; 0.05). The roughness of the dental stones varied between Ra = 0.87 and 0.99 μm, Rq = 1.09 and 1.23 μm, and Rt = 5.70 and 6.51 μm. The roughness values of the impression materials varied between Ra = 0.75 and 4.56 μm; Rq = 0.95 and 6.27 μm and Rt = 4.70 and 39.31 μm. Darker materials showed higher roughness values compared to lighter materials (p &lt; 0.05). The roughness of the Moonstone™ casts varied between Ra = 0.80 and 0.98 μm; Rq = 1.01 and 1.22 μm, and Rt = 5.04 and 6.38 μm. Roughness values of some impression materials were statistically significantly lower when the surface was reproduced in Moonstone™ (p &lt; 0.01).
+icance
+zation of dental materials on optical profilometers was affected by color and transparency.

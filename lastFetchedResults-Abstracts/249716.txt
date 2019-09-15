@@ -1,0 +1,10 @@
+A computational scheme for the analysis and optimization of quasi-static thermo-mechanical processes
+is presented in this paper. In order to obtain desirable mechanical transformations in a workpiece using
+a thermal treatment process, the optimal control parameters need to be determined. The problem is addressed
+by posing the process as a decoupled thermo-mechanical  nite element problem and performing
+an optimization using gradient methods. The forward problem is solved using the Eulerian formulation
+since it is computationally more e cient compared to an equivalent Lagrangian formulation. The design
+sensitivities required for the optimization are developed analytically using direct di erentiation. This systematic
+design approach is applied to optimize a laser forming process. The objective is to maximize
+the angular distortion of a specimen subject to the constraint that the phase transition temperature is
+not exceeded at any point in the model

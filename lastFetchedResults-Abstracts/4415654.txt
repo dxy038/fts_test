@@ -1,0 +1,1 @@
+We demonstrate the first dynamic load-balancing operation on a symmetric 40-Gbit/s &#955;-tunable WDM/TDM-PON. Smooth traffic migration without data-frame loss is performed by implementing a DWBA algorithm and a bidirectional hitless &#955;-tuning sequence within 3 msec.

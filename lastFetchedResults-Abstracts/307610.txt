@@ -1,0 +1,9 @@
+Objective:
+This study aimed to reduce the analytical error associated with measuring oxygen and carbon dioxide partial pressures as well as the pH in arterial blood samples an hour after sample collection. The standard blood sample preparation procedure involving sample cooling down to 0°C is known to have several drawbacks. Therefore, another approach using NaF at room temperature as an inhibitor of metabolic reactions was introduced.
+Design and methods:
+Arterial heparin blood samples from six volunteers were distributed over 104 single capillaries prepared with different concentrations of NaF. The capillaries were filled simultaneously and under the same conditions with blood samples, and the blood gas parameters of each sample were measured. Changes in pO2, pCO2, and pH during storage were evaluated with the aid of t test statistics.
+Results:
+During the storage period under investigation, fluctuations of the carbon dioxide partial pressure and the pH were low, whereas there was a significant (P< 0.01) decrease of the oxygen partial pressure. This was observed at all NaF concentrations. Depending on the addition of NaF, a significant baseline shift for the time-resolved pH and pCO2 values could be observed. Whereas the partial pressure of carbon dioxide and the pH could be kept stable by adding a defined amount of NaF, the partial pressure of oxygen decreased significantly over 70 min.
+Conclusions:
+The proposed new method can be practically applied to a comparative blood gas study, significantly reducing the blood sample volume required. The application of analytical grade NaF is an improvement compared to previous work because a pH decrease could not be observed.
+

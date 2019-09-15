@@ -1,0 +1,9 @@
+Study objective
+I describe how annual hospital surge capacity is affected by within-year variation in patient volume and bed supply.
+Methods
+Surge capacity was measured as the percentage and total number of hospital beds that are not occupied by patients. Administrative data were used to calculate these bed statistics for 78 hospitals in New Jersey—statewide and by emergency planning regions—in 2003. Annual bed statistics were compared to more refined calculations for each day of the year. Calculated numbers of empty beds were compared to federal disaster planning benchmarks.
+Results
+Annual bed statistics showed no major limitations on surge capacity. Statewide occupancy rates were well below 80% (ie, more than 20% of beds were empty), and the number of empty beds that were set up and staffed (ie, maintained) was well above federal disaster planning benchmarks. In contrast, daily bed statistics reveal long periods in 2003 when regional and statewide surge capacity was severely strained. Strained capacity was most likely to occur on Tuesdays through Fridays and least likely to occur on weekends. On 212 days, statewide occupancy of maintained beds met or exceeded 85%. This occupancy rate met or exceeded 90% and 95% on 88 and 4 days, respectively. On 288 days, the statewide number of empty maintained beds fell below the federal planning benchmark.
+Conclusion
+Annual bed statistics give a misleading picture of hospital surge capacity. Analysis of surge capacity should account for daily variation in patient volume and within-year variation in bed supply.
+

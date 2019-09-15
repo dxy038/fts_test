@@ -1,0 +1,9 @@
+Purpose
+Cognitive impairment is an exceedingly prevalent condition among patients with heart failure, independently associated with disability and mortality. However, the determinants of cognitive dysfunction associated with heart failure are still unclear. We assessed the correlates of cognitive impairment among patients with heart failure enrolled in a multicenter pharmacoepidemiology survey.
+Methods
+The association with cognition of demographic characteristics, objective tests and measures, medications, and comorbid conditions was assessed in 1511 patients with heart failure who had been admitted to 81 hospitals throughout Italy. Cognitive impairment was defined by a Hodkinson Abbreviated Mental Test score < 7.
+Results
+According to multivariate logistic regression modeling, age (per each decade: OR = 2.01; 95% confidence interval [CI] 1.72–2.35), the comorbidity score (OR 1.11; 95% CI 1.03–1.20), education (OR 0.88; 95% CI 0.84–0.2), low serum albumin (OR 1.78; 95% CI 1.35–2.34), sodium (OR 1.56; 95% CI 1.06–2.29), and potassium levels (OR 1.58; 95% CI 1.09–2.29), hyperglycemia (OR 1.33; 95% CI 1.02–1.73), anemia (OR 1.38; 95% CI 1.09–1.75), and systolic blood pressure levels ≥ 130 mm Hg (OR 0.60; 95% CI 0.37–0.97) were independently associated with cognitive impairment, after adjusting for potential confounders. Among participants with abnormal laboratory findings on admission, restoration of normal glucose, potassium, and hemoglobin levels during hospital stay was associated with improved cognitive performance at discharge.
+Conclusions
+Cognitive impairment among patients with heart failure is associated with several comorbid conditions, some of which are potentially treatable. This highlights the key role of comprehensive approach to the assessment and treatment of patients with heart failure.
+

@@ -1,0 +1,11 @@
+Objective. The purpose of this study was to design and implement a transducer to measure accurately the isometric elbow moments produced by individuals with tetraplegia.
+
+Design. The device needed to be insensitive to off-axis moments and proximal joint motions and be capable of being used over a wide range of elbow and shoulder positions in an outpatient clinic setting.
+
+Background. Measurement of the smaller isometric moments produced by individuals with tetraplegia is especially sensitive to the errors that can be introduced by inaccurate lever arm determination, off-axis loads, and proximal joint motions. Devices traditionally utilized for quantifying isometric strength are difficult to implement for the spinal cord injured population.
+
+Methods. The elbow moment transducer consists of two four-bar parallelogram linkages joined by a lockable pivot. Strain gauges mounted on one beam of the parallelogram produce an output proportional to the elbow moment.
+
+Results. Calibration of the device indicates that it accurately quantifies isometric elbow moments over a range that is appropriate for evaluating elbow extension strength in individuals with tetraplegia.
+
+Conclusions. A device was developed and implemented that accurately quantifies isometric elbow moments over a range that is appropriate for evaluating elbow extension strength in individuals with tetraplegia.

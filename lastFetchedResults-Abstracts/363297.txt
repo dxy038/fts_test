@@ -1,0 +1,9 @@
+Study objective
+We determine how emergency department (ED) registered nurses (RNs) allocate their time between various tasks and describe how RN task distribution changes as a function of various measures of ED patient volume and patient acuity.
+Methods
+This is a 3-year direct observational study using a convenience sample of 63 8-hour nurse shifts. Four RN task categories were defined: (1) direct patient care, (2) indirect patient care, (3) non-RN care, and (4) personal time. Two measures of nurse workload were used, the patient-to-nurse ratio and the ED acuity index (ED acuity index=(Σ reverse order triage scores/half hour)÷total number of nurses staffing). Trained observers classified RN activity at 1-minute intervals during 8-hour shifts daily for 7 nonconsecutive 24-hour periods. RN staffing data, ED patient census, and patient triage scores were collected every half hour. Summary statistics, correlation tables, and regression analysis were used to establish relationships between RN task allocation, patients per nurse, and the ED acuity index.
+Results
+For the 63 nursing shifts studied, on average RNs spent 25.6% of their time performing direct patient care, 48.4% on indirect patient care, 6.8% on non-RN care, and 19.1% on personal time. Regardless of the number of patients per RN, approximately twice as much time is spent on indirect patient care as direct patient care. The correlation between the ED acuity index and the patient-to-nurse ratio was 0.98.
+Conclusion
+Regardless of workload, RNs spend the majority of their time performing indirect patient care. RNs spend little time performing tasks that could be performed by ancillary staff. The patient-to-nurse ratio performs just as well as a more complicated acuity index to measure the workload of RNs within an ED.
+

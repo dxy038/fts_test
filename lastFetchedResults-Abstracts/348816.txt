@@ -1,0 +1,11 @@
+Objective
+To investigate the quantitative EEG effects of lamotrigine (LTG) monotherapy. Hypothesis: LTG was predicted to decrease thalamo-cortical neuronal synchronization in idiopathic generalized epilepsy (IGE).
+Methods
+Waking EEG background activity of 19 IGE patients was investigated before treatment and in the course of LTG monotherapy. Raw absolute power (RAP), raw percent power (RRP), and raw mean frequency (RMF) were computed for 19 electrodes and four frequency bands (delta = 1.5–3.5 Hz, theta = 3.5–7.5 Hz, alpha = 7.5–12.5 Hz, and beta = 12.5–25.0 Hz). Inter- and intrahemispheric coherence was computed for eight electrode pairs and the four frequency bands. In addition, scalp-averages were calculated for each variable. Group differences were computed by means of nonparametric statistics including correction for multiple comparisons.
+Results
+Main results were decreased delta and theta RAP (p < 0.05 for scalp-averages). LTG compressed the delta, theta, and alpha RAP datasets, reducing the upper limit of the scatter in particular. Spearman r-values indicated marked correlation between the starting values (RAPuntreated) and the LTG-related decrease (RAPtreated − RAPuntreated) in three bands: delta (r = −0.72; p = 0.0005), theta (r = −0.59; p = 0.007), and alpha (r = −0.61; p = 0.006). Thus, the greater the baseline neuronal synchronization, the marked the dampening effect of LTG on it. The remaining findings were decreased theta RRP, theta RMF, and increased alpha RMF (p < 0.05 for scalp-averages). The electrode-related changes were small but topographically consistent across the 19 electrode sites. LTG did not affect coherence.
+Conclusions
+1. LTG partially normalized the spectral composition of EEG background activity. LTG decreased pathological thalamo-cortical synchronization in use-dependent manner. 2. LTG did not cause quantitative EEG alterations suggesting worsening of the physiological brain functions. Instead, its profile suggested a mild psychostimulant effect.
+Significance
+The results contribute to the understanding of the effect of LTG at the network level.
+

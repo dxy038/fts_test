@@ -1,0 +1,8 @@
+Objective
+imate an upper limit on the heritability of self-reported symptoms of anxiety and depression in a large and population representative nuclear family sample.
+
+n-item symptom checklist (SCL-10) was administered as part of a health survey in a Norwegian county. The SCL-10 is a shortened version of the SCL-25, assessing symptoms of anxiety and depression. In all, 46,064 people responded, and with data from Statistics Norway, responses of first-degree relatives could be linked. Polychoric correlations between family members score on SCL-10 were calculated, and a structural equation model was fitted to these correlations using the software package R.
+s
+rrelations between nuclear family members were in the range of 0.12 to 0.16, indicating small but significant familial influences on SCL-10. In the best fitting model, heritability was estimated at 0.25 (95% CI = 0.22–0.27), and sibling specific environmental effects could be discarded.
+sions
+timated upper level heritability for SCL-10 in our sample was lower than what has been reported in twin studies of similar measures.

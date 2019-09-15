@@ -1,0 +1,14 @@
+p,redictor--corrector approach based on the zxg-zag model is proposed for the bending
+of thick laminated composite plates The main purpose of the approach as to reduce the differences
+between the assumed variation of the transverse shear stresses provided by the constttutwe equations
+and the computed variation of the same stresses from the equihbnum equations of elasticity. In the
+predictor phase, a linear or cubic ztg-zag model IS adopted and the layerwlse polynomml approximation
+of the Lransverse shear stresses through the thackness IS determined from the equilibrium
+equations of elasticity This approximation is then used in a general higher-order zIg-zag model in
+the corrector phase m order to improve the predictions for the &splacements and stresses. The
+present predactor-corrector zxg-zag model satisfies the continmty of the in-plane &splacements and
+the transverse ,,;hear stresses at the interfaces whale maintaining the same number of variables as in
+Mlndhn's theory The numerical results for the bidirectional bending of both symmetric and
+antlsymmetnc thick laminates are m excellent agreement wtth the exact elasticity results of Pagano.
+They also show a marked tmprovement over the results from the hnear zig-zag model of DI Sctuva
+and the cubic zig-zag model of Lee et al, especmlly at the interfaces

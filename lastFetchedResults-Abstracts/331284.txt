@@ -1,0 +1,11 @@
+Objective
+To evaluate properties of silorane-based resins and composites containing a stress reducing monomer.
+Methods
+
+Resin mixtures and composites were formulated containing (a) a developmental stress reducing monomer [TOSU; Midwest Research Institute]; (b) Sil-Mix (3M-ESPE); (c) photo cationic initiator system. Standard BISGMA/TEGDMA resin (B/T) and composite (Filtek Z250) were used as controls. Polymerization volume change was measured using a NIST mercury dilatometer and polymerization stress using an Enduratec mechanical testing machine. Three point bend tests determined flexural elastic modulus, work of fracture, and ultimate strength (ADA 27; ISO 4049). Fracture toughness was measured using ASTM E399-90. Four groups of resins and composites were tested: Sil-Mix, methacrylate standard, and Sil-Mix with two addition levels of TOSU. An ANOVA was used and significant differences ranked using Student–Newman–Keuls test (α = 0.05).
+Results
+
+Polymerization stress values for resins containing TOSU were significantly less than the other materials. Polymerization shrinkage values for Sil-Mix formulations were significantly less than for B/T, but were not different from each other. TOSU-containing formulations generally had somewhat lower mechanical properties values than Sil-Mix or B/T. Polymerization stress values for Sil-Mix-based composites were significantly less as compared to Z250. The 1 wt.% TOSU composite had the lowest stress. No difference between composite groups was noted for fracture toughness or work of fracture. For ultimate strength, the 5 wt.% TOSU formulation differed significantly from Z250. All Sil-Mix formulations had elastic modulus values significantly different from Z250.
+Significance
+
+The ability of TOSU to reduce polymerization stress without a proportional reduction in mechanical properties provides a basis for improvement of silorane-based composites.

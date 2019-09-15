@@ -1,0 +1,17 @@
+Solar water disinfection using the solar water disinfection (SODIS) method is not a well-known technique in Brazil. The objective of
+the study was to investigate the effectiveness of a solar energy concentrator made of cardboard and covered with aluminium foil in heating
+water in transparent and black-backed PET reactors and to compare the efficiency of these reactors with those that are used on asbestos
+roofing. The efficiency of the method was evaluated for a year with monthly in loco readings and through analysis of the local weather
+where the study was performed. The black-backed PET reactors in the solar concentrator were better at heating water than any of the
+other treatments, both on strong and moderate weather days. On weak weather days, however, these reactors did not heat the water
+enough for solar disinfection to take place. Disinfection of polluted river water samples was evaluated in black-backed solar reactors.
+The most probable number (MPN) of thermotolerant coliform bacteria and Escherichia coli in water collected from the river were measured
+using the multiple tube fermentation technique before and after solar treatment. River water samples exposed to 3 h of solar radiation
+on moderate weather days had 99.9% inactivation of faecal coliforms (E. coli) when the water reached more than 50  C (average 6 h
+peaks of radiation – 685.6 W/m2). However, inactivation of faecal coliforms was not observed in reactors exposed to solar radiation in
+the same weather conditions on asbestos roofing. A computer simulation of water heating was carried out using a dynamic fluid model
+based on the diffusion equation. The computational model produced temperature values similar to the experimental curves (r2 = 0.99).
+The results suggest that using a specific radiation data set, the behaviour of water temperature in the PET reactors can be accurately
+predicted. Therefore, it may be possible to make predictions about water purification by the SODIS method in southeastern Brazil, where
+there are similar weather conditions.
+  2012 Elsevier Ltd. All rights reserved.

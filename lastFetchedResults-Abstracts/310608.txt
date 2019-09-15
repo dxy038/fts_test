@@ -1,0 +1,11 @@
+Objective. To devise an instrument to measure linear acceleration of the trunk during gait under real-life environmental conditions.
+
+Design. A mathematical algorithm is suggested to transform data to a horizontal-vertical coordinate system. Calibration procedures are described.
+
+Background. A portable, low mass device to measure linear acceleration of the trunk in a horizontal-vertical coordinate system during prolonged walking is of clinical interest and has not been described previously.
+
+Method. Linear acceleration is registered by a triaxial, piezoresitant accelerometer, sampled at 512 Hz and collected by exchangeable 20 Mb memory cards of a body-mounted data-logger. Data are transformed to a horizontal-vertical coordinate system, utilising the accelerometer's capacity as an inclinometer. Calibration testing was done in a servohydraulic jig by measuring acceleration of 5 Hz, 16 mm vertical displacements, first along each of the sensing axis, then by a tilted accelerometer.
+
+Results. Precision testing of each axis and transformed data from all axes showed low variability for acceleration root mean square of sequences of 1000 samples (CV < 0.001). Accuracy testing by double integration of transformed data from the tilted accelerometer demonstrated a mean absolute difference of 0.04 mm (SD = 0.03 mm) from the programmed input.
+
+Conclusions. Data from the arbitrarily tilted accelerometer transformed to a horizontal-vertical coordinate system gave precise and accurate measurements of linear accelerations when tested in a servohydraulic jig. Procedures for applying the device in gait analysis are described in a companion article.

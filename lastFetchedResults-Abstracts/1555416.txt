@@ -1,0 +1,1 @@
+The average behavior of the SOR method and the MSOR method is studied for matrices whose Jacobian matrix is skew-symmetric matrix. The objective is to find the values of optimal parameters to minimize the ℓ 2 -norm of the SOR and MSOR operators based on the eigenvalue functional given by Yin and Yuan [Appl. Math. Comput. 127 (2002) 327–333].

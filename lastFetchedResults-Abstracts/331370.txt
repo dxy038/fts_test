@@ -1,0 +1,11 @@
+Objectives
+Simulating the optical properties of natural tooth would be the final goal for esthetic restorative materials. Filler distribution in resin composites determines the scattering in composite materials, which in turn would influence the color parameters such as lightness, chroma and hue. The objective of this study was to determine the influence of filler size and amount on the color parameters of experimental resin composites.
+Method
+
+Color of 11 experimental resin composites with two different sized fillers (LG: 0.77 μm and SG: 0.50 μm) in 10–70 wt% was measured by a spectrophotometer. Color coordinates (CIE L*, a* and b*), chroma and hue angle were determined. Optical constants including scattering coefficient (S), absorption coefficient (K) and light reflectivity (RI) were calculated. To determine the influence of the amount of filler on the optical parameters, Pearson correlations between the amount of filler (%) and color parameters and optical constants were calculated. Correlations between the optical constants (S, K and RI) and color parameters were calculated (p < 0.05).
+Results
+
+S value increased as the amount of filler increased. RI value generally increased as the amount of filler increased for LG filler group, and increased up to 40% filler for SG filler group. CIE L* value increased as the amount of filler increased in both of LG and SG filler groups. CIE L* value was highly correlated with S and RI values for both filler groups (r = 0.961–0.974).
+Conclusion
+
+Lightness was highly correlated with the amount of filler, S and RI values (r = 0.932–0.974). But the correlation coefficients between the amount of filler and chroma/hue were moderate (r = 0.406–0.827); therefore, pigmentation would be tried to simulate the color of resin composites to those of natural tooth. Optical properties of resin composites could be partly simulated to those of teeth by controlling the filler distribution.

@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to test the hypothesis that transferrin (Tf) has anti-apoptotic properties and thereby exerts a cytoprotective effect against tissue damage induced by irradiation and other cytotoxic modalities.
+Materials and Methods
+
+This hypothesis was tested in several models, including in vitro human short-term marrow cultures, subpopulations of marrow cells, particularly, CD56+ natural killer cells (and natural killer cell lines), and in vivo radioprotection of murine marrow cells. Reverse transcriptase polymerase chain reaction analysis was used for determination of cytokine mRNA.
+Results
+
+Preincubation of human marrow with Tf protected cells (except for a CD56+ subpopulation) against cell death induced by γ-irradiation, tumor necrosis factor-α (TNF-α), and agonistic anti-Fas monoclonal antibody. Deglycosylation of Tf abrogated this action of Tf; conversely, Tf-derived glycans (Tf-Gly) (but not glycans isolated from other proteins) mimicked the effects of the intact Tf molecule on apoptosis. Antibodies specific for the Tf receptor (CD71) did not block the effects of Tf or Tf-Gly on apoptosis. Determination of cytokine mRNA in the course of Fas-mediated apoptosis in the presence of Tf or Tf-Gly showed upregulation of mRNA for Fas ligand and TNF-α in CD56+ and downregulation of these transcripts along with upregulation of mRNA for interleukin-10 in CD3+ marrow cells. Under these conditions, a distinct increase in Fas-associated phosphatase-1 message was observed in CD3+ cells that were protected by Tf or Tf-Gly against apoptosis. The in vitro data were confirmed in a murine in vivo model in which pretreatment of mice with Tf protected marrow cells against γ-irradiation–induced cell death.
+Conclusion
+
+These data suggest a role for Tf and particularly Tf-Gly in the regulation of programmed cell death, apparently via alterations in cytokine expression, and provide a basis for additional studies on the use of Tf in cytoprotective protocols.

@@ -1,0 +1,11 @@
+Objective. To assess the nonlinear contact stress of a new rotating hinge of our knee prosthesis at various rotation angles.
+
+Design. The contact surface between the metal tibial bearing and the ultra-high-molecular weight polyethylene plate of a conventional rotating hinge is of cylindrical design. We have designed a new type of rotating hinge with a congruous spherical contact surface.
+
+Background. The endoprosthesis for reconstruction of limb after wide resection of malignant tumor around knee usually incorporates a rotating hinge. Our new rotating hinge with a spherical contact surface incorporates the benefits of an increased contact surface and potentially increased rotational stability during axial loading.
+
+Methods. We utilized the ABAQUS finite element program to assess the nonlinear contact stress of this new rotating hinge at rotation angles of 0°, 4° and 8°, based on a contact force of about 2800 N.
+
+Results. The results show that von Mises stress for the finite element model of the polyethylene component of this rotating hinge ranges from 4.90×10−6 to 8.22 MPa at the aforementioned rotational angles. The von Mises stress is about 1.31–1.82 MPa on the major parts of the ultra-high-molecular weight polyethylene plate, including both flanks. There is a mild stress concentration on the outer edge of polyethylene component, especially at 4° and 8° of rotation. The maximum values of von Mises stress at the contact surface at 0°, 4° and 8° of rotation are 5.92, 7.49 and 8.22 MPa, respectively. These contact stresses are within the safety range of the ultra-high-molecular weight polyethylene (compressive yield strength, 14 MPa).
+
+Conclusions. This new rotating hinge has an evenly distributed contact stress during axial load because of congruous contact design.

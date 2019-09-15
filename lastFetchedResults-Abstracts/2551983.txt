@@ -1,0 +1,8 @@
+Background and Objective: The main purpose of drug development is finding a dose or a range of medicine dose which is both effective and safe. One of the most important goals of drug researches is estimating the target dose. In this study, median and maximum effective concentration of adrenaline on thoracic aortic contraction in diabetic rats exposed to psyllium seed was estimated.
+
+Materials and Methods: This experimental study was performed with five different drug concentrations of adrenaline on 40 male Albino Wistar rats in a weight range of 302±8.9 g and ages of 12-14 months. Four models (Linear,  Emax, Quadratic, and Sigmoid Emax ) were fitted to the data and the data was analyzed using R package.
+
+Results: Using Akaike's Information criteria (AIC), emax model was chosen as the best one. The median of the effective dose (ED50) was estimated using 6.6×10-8 molar dose model. The maximum effect was estimated 1.38 gr/unit of area using this model.
+
+Conclusion: Half of the maximum effect of thoracic aorta contraction in diabetic rats happened in the ones given Esforse seeds in 6.6x10-8 molar concentration of adrenaline. The maximum effect of 1.38 g/unit area indicates that the aorta contraction is saturated in this point and as concentration increases, no more changes in contraction will happen.
+

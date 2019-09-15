@@ -1,0 +1,17 @@
+Background
+Self-rated health has been shown to be a significant predictor of mortality. However, there is limited knowledge on what factors contribute to the global perception of self-rated health in patients with chronic obstructive pulmonary disease (COPD).
+Objective
+To describe the associations between physical and psychological symptoms, physical and mental health functioning, and perceptions of mastery with concurrent and longitudinal global self-rated health (GSRH) in patients with COPD and to determine if gender modifies these relationships.
+Design
+Cross-sectional analysis of data from a longitudinal clinical trial.
+Setting
+University medical center in the United States.
+Participants
+115 patients with moderate to severe COPD.
+Methods
+GSRH was measured using one question from the Medical Outcomes Study, SF-36 which states, “In general, would you say your health is: excellent, very good, good, fair, or poor”. Physical and psychological symptoms were measured with the Shortness of Breath Questionnaire, Chronic Respiratory Questionnaire (CRQ), and Center for Epidemiologic Studies Depression Scale (CESD); the SF-36 was used to measure physical and mental health functioning; mastery was measured by a sub-scale of the CRQ. The BODE index, a multidimensional disease severity grading system, was also included. Stepwise logistic regression analyses were performed.
+Results
+In cross-sectional analyses, only disease severity as measured by the BODE index was associated with GSRH [odds ratio, 1.52; 95% confidence interval, CI (1.08, 2.15)]. Stratified analyses by gender showed that the association between the BODE index and the GSRH held up for men, but not for women. Higher perception of symptom control was associated with positive health ratings in women. Subjects with less fatigue at baseline had a lower risk of reporting poor health 12 months later [OR 0.84; 95% CI (0.72, 0.98)].
+Conclusions
+For patients with COPD, ratings of global health were mostly influenced by measures that reflect their physical state, e.g. disease severity and fatigue. While additional work is needed to better understand gender differences in factors that contribute to GSRH, therapeutic nursing interventions might place greater focus on symptom management if the goal is to improve patients’ perceptions of their global health.
+

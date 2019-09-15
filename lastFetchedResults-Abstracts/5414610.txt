@@ -1,0 +1,1 @@
+Three-echelon supply chain model was established in Matlab. This paper introduced multi-objective fuzzy optimal decision theory into performance measurement of supply chain, and evaluated four kinds of inventory control policy with the performance measurement model, so that best strategy can be identified and supply chain´s general performance can be optimal.

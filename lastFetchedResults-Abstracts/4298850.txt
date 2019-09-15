@@ -1,0 +1,1 @@
+A bidirectional radio-on-DWDM transport system based on VCSELs injection-locked and optoelectronic feedback techniques is proposed and demonstrated. Good performances of BER, EVM, and intermodulation distortion to carrier ratio (IMD/C) were obtained in our proposed bidirectional radio-on-DWDM transport systems.

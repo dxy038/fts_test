@@ -1,0 +1,12 @@
+Quality of Experience (QoE) measurement for transmitted video sequences over packet error
+prone channels is an inevitable necessity. Due to the intrinsic properties of packet error prone channels
+in imposing quality degradation on transmitted media and also, the costly and time-consuming nature
+of subjective quality measurement techniques, exact modeling of the impact of packet loss on measured
+video quality based on on-line objective measurement methods is an important task. In the current work,
+a low-complexity objective video quality measurement algorithm is developed by which by considering
+various factors that may affect video quality, we can estimate subjective video quality with acceptable
+accuracy. Then, the performance of the proposed objective algorithm is compared with popular objective
+SSIM/VQM techniques. The simulation results verify that the proposed algorithm has high level of
+accuracy. On the other hand, the proposed algorithm has low-complexity which makes it suitable for
+online implementation. Some important and related patents in the field of QoE measurements and
+monitoring in networks are investigated.

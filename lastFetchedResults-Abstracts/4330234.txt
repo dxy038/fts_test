@@ -1,0 +1,1 @@
+Sets of related signals can be represented by using as reference a common trend and showing the offset of each individual signal with respect to this reference. The paper gives an example application of this approach for the analysis of the genomic signals of Mycobacterium tuberculosis.

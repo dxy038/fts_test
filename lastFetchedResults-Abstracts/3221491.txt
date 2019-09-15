@@ -1,0 +1,1 @@
+We propose and experimentally demonstrate an ECDM-OFDM-PON with variable spreading factor (VSF), which endues the network with more flexible resource allocation. Bidirectional 9.22-Gb/s ECDM-OFDM signal with VSF are transmitted 75-km fiber successfully.

@@ -1,0 +1,1 @@
+This paper deals with the design and implementation of social control in the domain of reconnaissance, surveillance and multi-target tracking. The objective is to enable a human controller oversee large groups of individuals. The architecture for distributed collaborative and shared reasoning amongst several agents on a reconnaissance or surveillance mission is also presented.

@@ -1,0 +1,22 @@
+This paper reports on research conducted on Capacitive Deionization Technology (CDT) as an alternative to the more conventional membrane desalination technologies like reverse osmosis and electrodialysis. The main objective of the research was to develop an industrial type module and to evaluate the performance of the module for brackish water desalination. The term “industrially re-producible” refers to the fact that the module manufacturing process must be scaleable, practical and cost effective. Once a successful industrial prototype was developed, a secondary research objective was to test such a module in order to determine if CDT™ could compete as a potential alternative to membrane processes. The following criteria were used to compare the results from the ‘‘industrial type’’ CDT™ bench-scale unit to other membrane processes:
+
+•
+
+    Feed and product water quality requirements
+•
+
+    Energy consumption per volume water treated
+•
+
+    Pre and post treatment requirements
+•
+
+    Ion storage capacity of electrodes/overall desalination reaction kinetics
+•
+
+    Automatic Control or Operation/Maintenance Requirements
+•
+
+    Fouling and scaling tendencies.
+
+Desalination by CDT™ occurs when a saline solution flows through an unrestricted capacitor type module consisting of numerous pairs of high-surface area (carbon aerogel) electrodes. Carbon aerogel contains a very high specific surface area (400–1100 m2/g BET), and a very low electrical resistivity (<40 mΩ·cm). Anions and cations in solution are electrosorbed by the electric field upon polarization of each electrode pair by a direct current (DC) power source. By using the laboratory scale unit as a model, an industrial type bench scale test unit was developed and tested as part of this research Earlier laboratory test work indicated that the intrinsic energy required by CDT™ to reduce the TDS of brackish water from 1000 mg/l to 10 mg/l is 0.1 kWh/m3. These estimates assumed that 50–70 % energy recovery could be obtained via the electrical discharge regeneration phase. Research conducted on the industrial type bench scale unit concluded that it would require 0.594 kWh/m3 of brackish water (1000 mg/l). By including energy recovery and the optimization of internal electrical connections, future industrial scale units could approach the laboratory scale energy consumptions. It is concluded from test results and an associated cost evaluation that CDT™ could be an alternative desalination technology in the near future for brackish and sea water sources.

@@ -1,0 +1,16 @@
+Objective
+rpose of this study was to determine whether there was a greater risk for prolonged duration of mechanical ventilatory support (MVS) for those who demonstrated left ventricular dysfunction (LVD) compared to those without evidence of LVD when controlling for nutritional and general health status and spontaneous breathing pattern.
+
+ndary analysis was used on data obtained in a retrospective survey of patient records.
+g
+dult critical care units at an academic medical center in the Midwest.
+ts
+-seven chronically critically ill adults requiring MVS who later successfully weaned from MVS.
+e Measure
+on of MVS.
+mentation
+s determined with use of a criterion-based checklist. Serum albumin level as determined by the hospital's clinical laboratory served as the indicator of nutritional and general health status. The rapid shallow breathing index was used to describe the spontaneous breathing pattern.
+s
+ed survival function estimates were obtained on fitting a Cox proportional hazards model. When adjusting for the known covariates, serum albumin level and rapid shallow breathing index, the duration of MVS was significantly longer for those who demonstrated LVD when compared to those without evidence of LVD [X2Wald(1)=4.72, p&lt;0.05].
+sions
+ndings of this secondary analysis lend support to the fact that when controlling for serum albumin level and rapid shallow breathing index, LVD is related to the duration of MVS in patients who successfully wean.

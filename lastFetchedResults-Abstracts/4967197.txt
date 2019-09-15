@@ -1,0 +1,1 @@
+A comparative analysis of three neural network models: backpropagation (BPP), bidirectional associative memory (BAM) and holographic associative memory (HAM); and a classical method for error-correction is presented. Each method is briefly described, results are reported and finally some advantages are concluded

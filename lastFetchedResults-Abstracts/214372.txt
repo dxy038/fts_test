@@ -1,0 +1,1 @@
+In this paper the concept of the Minimum Universal Cost Flow (MUCF) for an infeasible flow network is introduced. A new mathematical model in which the objective function includes the total costs of changing arc capacities and sending flow is built and analyzed. A polynomial time algorithm is presented to find the MUCF.

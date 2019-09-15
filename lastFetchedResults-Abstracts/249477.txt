@@ -1,0 +1,11 @@
+The objective of the present work is to propose a new adaptive wavelet-Galerkin method based on
+the lowest-order hat interpolation wavelets. The speci<c application of the present method is made on
+the one-dimensional analysis of thin-walled box beam problems exhibiting rapidly varying local end
+e=ects. Higher-order interpolation wavelets have been used in the wavelet-collocation setting, but the
+lowest-order hat interpolation is applied here <rst and a hat interpolation wavelet-based Galerkin method
+is newly formulated. Unlike existing orthogonal or biorthogonal wavelet-based Galerkin methods, the
+present method does not require special treatment in dealing with general boundary conditions. Furthermore,
+the present method directly works with nodal values and does not require special formula
+for the evaluation of system matrices. Though interpolation wavelets do not have any vanishing moment,
+an adaptive scheme based on multi-resolution approximations is possible and a preconditioned
+conjugate gradient method can be used to enhance numerical e@ciency

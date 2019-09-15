@@ -1,0 +1,30 @@
+Leak-before-break (LBB) assessment of
+primary heat transport piping of nuclear reactors involves
+detailed fracture assessment of pipes and elbows
+with postulated throughwall cracks. Fracture assessment
+requires the calculation of elastic-plastic
+J -integral and crack opening displacement (COD)1 for
+these piping components. Analytical estimation
+schemes to evaluate elastic-plastic J -integral andCOD
+simplify the calculations. These types of estimation
+schemes are available for pipes with various crack configurations
+subjected to different types of loading.However,
+such schemes for elbow (or pipe bend), which is
+one of the important components for LBB analyses,
+is very meager. Recently, elastic-plastic J and COD
+estimation scheme has been developed for throughwall
+circumferentially cracked elbow subjected to closing
+bending moment. However, it is well known that the
+elbow deformation characteristics are distinctly different
+for closing and opening bending modes because the
+ovalisation patterns of elbow cross section are differentunder these two modes. Development of elastic-plastic
+J and COD estimation scheme for an elbow with
+throughwall circumferential crack at intrados subjected
+to opening bending moment forms the objective of the
+present paper. Experimental validation of proposed J -
+estimation scheme has been provided by comparing
+the crack initiation, unstable ductile tearing loads and
+crack extension at instability with the test data. The
+COD estimation scheme has been validated by comparing
+the COD of test data with the predictions of the
+proposed scheme.

@@ -1,0 +1,14 @@
+In this research, we address the application of uncertainty
+programming to design a multi-site, multi-product, multi-period,
+closed-loop supply chain (CLSC) network. In order to make the
+results of this article more realistic, a CLSC for a case study in
+the iron and steel industry has been explored. The presented
+supply chain covers three objective functions: maximization of
+profit, minimization of new products' delivery time, collection
+time and disposal time of used products, and maximizing
+flexibility. To solve the proposed model, an interactive hybrid
+solution methodology is adopted through combining a hybrid
+fuzzy-stochastic programming method and a fuzzy multi-objective
+approach. Finally, the numerical experiments are given to
+demonstrate the significance of the proposed model and the
+solution approach.

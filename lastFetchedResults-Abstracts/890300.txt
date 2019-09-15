@@ -1,0 +1,17 @@
+A consideration to how social security is achieved in a country, and subsequently
+the way transformation is conceived in the area of security concepts
+related to social security makes it necessary to redefine the concept
+of security in a more precise manner. With new studies having been developed
+in the area of social security, this article tries to answer this question
+of what the ways are for realizing social security, and of what role the
+hardware and software mechanisms will play in realizing the above objective.
+To answer these two questions, the research hypothesis considers the
+realization of social security as subject to optimization of both internal
+and external control mechanisms. The present article addresses this issue
+by beginning with the autopsy of concepts related to social security, continuing
+it by explaining its factors in theoretical framework. It categorizes
+the factors into macro and micro factors within two approaches, namely
+opportunity building and threat building. Finally, it addresses the ways of
+providing social security by studying the internal control mechanisms (in
+both hardware and software form), and external control mechanisms (in
+software form).

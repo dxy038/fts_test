@@ -1,0 +1,1 @@
+Dielectric filters fills gap between microstrip and cavity filters. Unfortunately they have huge disadvantage, concerning spurious transmission out of band. In this paper some investigation towards spurious reduction was done. Perfect conducting inserts to resonators was tested to achieve the selected objective.

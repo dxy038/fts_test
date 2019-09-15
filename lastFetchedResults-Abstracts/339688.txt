@@ -1,0 +1,11 @@
+Objective
+Interleukin (IL)-10 is an immunosuppressive cytokine produced by many cell types, including T cells. We previously reported that a novel type of regulatory T (Treg) cells, termed HOZOT, which possesses a FOXP3+CD4+CD8+CD25+ phenotype and dual suppressor/cytotoxic activities, produced high levels of IL-10. In this study, we examined the mechanisms of high IL-10 production by HOZOT, focusing on Janus activating kinase (JAK)/signal transducers and activators of transcription (STAT) signaling pathway.
+Materials and Methods
+
+We prepared five different types of T cells, including HOZOT from human umbilical cord blood. Cytokine productions of IL-10, interferon-γ (IFN-γ), and tumor necrosis factor-α (TNF-α) were compared among these T cells after anti-CD3/CD28 antibody stimulation in the presence or absence of IL-2. Specific inhibitors for JAK/STAT, nuclear factor-κB (NF-κB), and nuclear factor for activated T cell (NFAT) were used to analyze signal transduction mechanisms.
+Results
+
+IL-10 production by HOZOTs was greatly enhanced by the addition of IL-2. Little or no enhancement of IFN-γ and TNF-α production was observed under the same conditions. The enhancing effect of IL-2 was specific for both HOZOT and IL-10–secreting Treg cells. T helper type 2 cells, whose IL-10 production mechanisms involve GATA-3, failed to show IL-2–mediated enhancement of IL-10. Similar enhancing effects of IL-15 and IFN-α suggested a major role of JAK/STAT activation pathway for high IL-10 production. Further inhibitor experiments demonstrated that STAT5 rather than STAT3 was critically involved in this mechanism.
+Conclusion
+
+Our results demonstrated that IL-2 selectively enhanced production of IL-10 in HOZOT primarily through activation of STAT5, which synergistically acts with NF-κB/NFAT activation, implying a novel regulatory mechanism of IL-10 production in Treg cells.

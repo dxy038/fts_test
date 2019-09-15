@@ -1,0 +1,1 @@
+In this paper, the main objective is to establish an existence result of a variational model in image segmentation constrained by a given vector field. In the one dimensional case, we give a discrete version converging in a variational way to the continuous model. We finally describe the numerical analysis of this model with application in image segmentation.

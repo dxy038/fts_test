@@ -1,0 +1,9 @@
+Study objective
+In recent years, air transport of patients has been associated with disproportionate increases in crashes and deaths. We identify factors related to fatal outcome in air medical helicopter crashes and suggest preventive measures.
+Methods
+This was a retrospective study using National Transportation Safety Board records for helicopter emergency medical services (EMS) crashes between January 1, 1983, and April 30, 2005. The main outcome measure was the percentage of air medical crashes resulting in 1 or more deaths.
+Results
+There were 182 helicopter EMS crashes during the 22.3-year study period; 39% were fatal. One hundred eighty-four occupants died: 45% of the 44 patients and 32% of the 513 crewmembers. Fifty-six percent of crashes in darkness were fatal compared with 24% of crashes not in darkness. Seventy-seven percent of crashes in instrument meteorological conditions were fatal compared with 31% in visual conditions. Thirty-nine percent of all deaths occurred in crashes with postcrash fires; 76% of crashes with postcrash fire were fatal compared with 29% of other crashes. Multivariate logistic regression revealed that controlling for other factors, the odds of fatal outcome was increased by postcrash fire (odds ratio [OR] 16.1; 95% confidence interval [CI] 5.0 to 51.5], bad weather (OR 8.0; 95% CI 2.4 to 26.0), and darkness (OR 3.2; 95% CI 1.3 to 7.9).
+Conclusion
+Fatalities after helicopter EMS crashes are associated especially with postcrash fire and with crashes that occur in darkness or bad weather and can be addressed with improved crashworthiness and measures to reduce flights in hazardous conditions. Further studies will be necessary to determine which changes will decrease the fatal crash rate and which are cost effective.
+

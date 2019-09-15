@@ -1,0 +1,14 @@
+We know that partial differential equations arising in various engineering applications, that
+semi-analytical solution of these equations is very important. The PHI-four equation is considered as a
+particular form of the Klein-Gordon equation. Thephi-four’s equation is very widely studied in different
+areas of Physics: Plasma Physics, Fluid Dynamics Quantum Field Theory, Solid State Physics and
+others. The objective and goal of this paper is to present the semi-analytical Solution of phi-four’s
+equation, one of the newest, powerfuland easy-to-use analytical methods is the homotopy perturbation
+method (HPM), which isapplied in this paper to solve phi-four’sequation with high nonlinearity order.
+Then, we solve phi-four’s equation with the homotopy analysismethod (HAM) and Adomian’s
+decomposition method (ADM) and obtain analytical solution. In the end, we compared the results of these
+three methods in solving phi-four’s equation with each other.The homotopy analysis method
+(HAM)contains the auxiliary parameter ? that provides us to adjust and control the convergence region of
+solution Series. .The study has highlighted the efficiency and capability of aforementioned methods in
+solving phi-four’s equation which has risen from a number of important physical phenomenon’s. The
+results can be used in similar works by researchers.

@@ -1,0 +1,18 @@
+The main objective of this paper is to investigate the
+effect of air-gap position, length, and number on the phenomena
+preceding flashover along a typical 735-kV porcelain station
+post insulator unit under heavy ice accretion. Under these conditions,
+this type of insulator seems to be the most likely subject
+to flashover. The numerical simulations were performed using
+Coulomb 3D, a commercial software based on the boundary
+element method (BEM). Computer simulations were performed
+during a melting period. Special attention was paid to the presence
+of a conductive water film at the ice surface and to a partial arc
+along an air gap. The results obtained showed that the number of
+air gaps, with or without the presence of a partial arc along them,
+has a direct effect on the distribution of potential along the iced
+insulator. Moreover, for the same total arcing distance, the number
+of air gaps and their position did not affect the average electric
+field per arcing distance that was used to determine the partial arc
+presence. Based on these results, suggestions for improving station
+insulator geometry for icing conditions were proposed.

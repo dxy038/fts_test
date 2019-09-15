@@ -1,0 +1,26 @@
+Pile foundations are frequently used in industrial projects in southwest lowlands of Iran. Although high setup of shaft resistance
+
+is usually reported in the area, no reliable formulation or guidelines are available for considering the increased capacity in design
+
+applications. Therefore, the pile design practices are usually not optimized. The main objective of this paper is presenting a site
+
+specific formulation for setup effects of a utility plant in southwest Iran in which a good database of prestressed concrete driven
+
+piles is available. Fajr-II Petrochemical site in PetZone of Mahshahr accommodating a utility plant is selected as the database of
+
+the current study. The setup factor (A) and the reference time (t0) are evaluated through processing of a relatively large database
+
+of this well-supervised piling project. As the main portion of variations of driven piles capacity with time is related to shaft, only
+
+shaft resistance variations are considered in this research. The shaft capacity variations are derived from signal matching analysis
+
+on PDA tests. Reliability of PDA tests has been confirmed through comparing with the static load test results. Influence of driving
+
+the surrounding piles on setup factor is also investigated. The results show that the average setup factor (A) and the reference time
+
+(t0) of 0.30 and 0.01 day, respectively, are proper values for estimating the long term capacity in this region. Evaluation of the
+
+results indicates that driving 8 piles around the test pile has increased the &ldquo;A&rdquo; factor average of 40% resultingin increase of the
+
+shaft capacity about 19% in one month and 22% in one year, in comparison with the tested piles with no surrounding piles driven.
+

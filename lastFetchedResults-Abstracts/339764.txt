@@ -1,0 +1,11 @@
+Objective
+Melanoma differentiation–associated gene-7/interleukin-24 (mda-7/IL-24) has been consistently shown to exert growth inhibitory effects on various tumor types. However, the majority of these reports were limited to solid tumors. The purpose of this study was to investigate the antitumor activity of mda-7/IL-24 and the underlying mechanism in hematopoietic malignancies.
+Materials and Methods
+
+We determined the expression of mda-7/IL24 and its heterodimeric receptors in hematopoietic tumor cell lines and then stably transfected mda-7/IL-24 into K562 (leukemia) and Namalwa (lymphoma) cell lines to assess the effects of mda-7/IL-24 on cell proliferation, cell cycle, apoptosis, colony-forming ability, and tumor growth in vivo. Microarray analysis was performed to determine the genes that were differentially regulated by mda-7/IL-24 in K562 cells.
+Results
+
+Expression of mda-7/IL-24 or its intact receptor pairs was not detected in the 11 cell lines tested. Ectopic expression of mda-7/IL-24 induced significant (p < 0.05) inhibition of cell growth and colony formation in both K562 and Namalwa cells, and the growth inhibition in K562 cells was associated with G0/G1 cell-cycle arrest. Results of in vivo studies showed good correlation with in vitro inhibition of tumor cell proliferation in both the cell lines. We also showed that the increase in p21WAF-1 and BCCIP and decrease in cdk6, smurf2, and phosphorylated pRb, which are regulators of cell-cycle progression, might account for G0/G1 cell-cycle arrest in K562 cells.
+Conclusions
+
+The present study demonstrated for the first time the potential antitumor activity of mda-7/IL-24 in chronic myelogenous leukemia and lymphoma.

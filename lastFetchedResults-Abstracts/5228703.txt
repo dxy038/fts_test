@@ -1,0 +1,1 @@
+This paper describes how a non-stationary multi-objective optimization model can be used for synthesis of control of mobile robot in unknown environment. The modelled problem is solved using multi-objective genetic algorithm (MOGA). Results of experiments conducted in simulation environment demonstrate the application of the described approach.

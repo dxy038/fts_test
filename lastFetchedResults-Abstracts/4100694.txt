@@ -1,0 +1,1 @@
+A robust noise adaptation method based on a mixed decision technique is proposed for speech enhancement. Objective speech quality tests, in terms of the SEGSNR improvement and the Itakura-Saito distortion, demonstrate its superiority in comparison with both hard- and soft-decision-based methods

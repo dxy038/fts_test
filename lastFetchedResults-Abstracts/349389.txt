@@ -1,0 +1,11 @@
+Objective
+Theta burst transcranial magnetic stimulation (TBS) causes changes in motor cortical excitability. In the present study, somatosensory-evoked potentials (SEPs) and high-frequency oscillations (HFOs) were recorded before and after TBS over the motor cortex to examine how TBS influenced the somatosensory cortex.
+Methods
+SEPs following electric median nerve stimulation were recorded, and amplitudes for the P14, N20, P25, and N33 components were measured and analyzed. HFOs were separated by 400–800 Hz band-pass filtering, and root-mean-square amplitudes were calculated from onset to offset. SEPs and HFOs were measured before and after application of either intermittent or continuous TBS (iTBS/cTBS; 600 total pulses at 80% active motor threshold) over the motor cortex. Motor-evoked potentials (MEPs) and short-interval intracortical inhibition (SICI) of the first dorsal interosseous muscle were examined before and after TBS.
+Results
+MEPs, SICI, and HFO amplitudes were increased and decreased significantly after iTBS and cTBS, respectively. Wide-band SEPs did not change significantly after TBS.
+Conclusions
+TBS changed the cortical excitability of the sensorimotor cortices. Changes in HFOs after TBS were parallel to those in SICI.
+Significance
+The mechanisms of changes in HFOs after TBS may be the same as those in SICI.
+

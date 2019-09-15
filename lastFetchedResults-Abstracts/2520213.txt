@@ -1,0 +1,16 @@
+Background and Objective: Numerical modeling of biological structures
+would be very helpful tool to analyze hundreds of human body phenomena and
+also diseases diagnosis. One physiologic phenomenon is blood circulatory system
+and heart hemodynamic performance that can be simulated by utilizing lumped
+method. In this study, we can predict hemodynamic behavior of one artery of circulatory system (anterior cerebral artery) when disease such as internal carotid
+artery occlusion is occurred.
+Method: Pressure-?ow simulation is one the leading common approaches for
+modeling of circulatory system behavior and forecasts of hemodynamic in numerous physiological conditions. In this paper, by using lumped model (electrical
+analogy), CV system is simulated in MATLAB software (SIMULINK environment).
+Results: The performance of healthy blood circulation and heart is modeled
+and the obtained results used for further analyses. The stenosis of internal carotid
+artery at different rates was, then, induced in the circuit and the effects are studied.
+In stenosis cases, the effects of internal carotid artery occlusion on left anterior
+cerebral artery pressure waveform are investigated.
+Conclusion: The fndings of this study may have implications not only for understanding the behavior of human biological system at healthy condition but also
+for diagnosis of diseases in circulatory and cardiovascular system of human body

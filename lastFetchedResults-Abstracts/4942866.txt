@@ -1,0 +1,1 @@
+Our objective is to analyze the butterfly wing using a new formulation for periodic structures in the FDTD method. In our approach, only a single periodic cell is modeled, so only one of the nine cells is needed. The structure is illuminated by a normally-incident plane wave, and the far-zone scattered field is calculated.

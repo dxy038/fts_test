@@ -1,0 +1,8 @@
+Although Newton algorithm has been extended to the complex
+domain in different forms, none of them seems to be directly applicable to
+blind equalization. Therefore, the objective of this correspondence is to develop
+an algorithm for blind equalization in the complex domain. We propose
+a Newton-like algorithm based on a complex Taylor series. Stochastic
+Newton-like algorithms (SNLA) for two blind equalization cost functions
+are developed. Simulations show that the new algorithms perform slightly
+better than the self-orthogonalizing algorithm.

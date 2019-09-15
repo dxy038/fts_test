@@ -1,0 +1,1 @@
+The objective of this paper is to implement a blue emitting GaN-based laser diodes in an external cavity to provide a laser source with emission properties appropriate for high resolution spectroscopy around 410 nm and the optimization procedure with 40 GaN diodes is also described.

@@ -1,0 +1,1 @@
+Designing automation systems, as in most engineering endeavors, is primarily an architectural problem, involving hardware and software components. The objective of this paper is to introduce the concept of software architecture and styles in designing automation systems, and to describe an object framework for the development of global automation systems.

@@ -1,0 +1,11 @@
+Objective.  To investigate the extent of coupling between the anterior and posterior cruciate ligaments as well as the role of the posterior cruciate ligament in the knee joint response under anterior femoral force at different flexion angles.
+
+Design. A developed finite element model of the tibiofemoral joint is used to perform non-linear elastostatic analyses.
+
+Background. The structural properties of the posterior cruciate ligament subsequent to an injury (either left untreated or replaced by a graft) would likely change, an event that alters the function of not only the ligament itself but also the other intact cruciate ligament and the entire joint.
+
+Methods. The model consists of two bony structures and their articular cartilage layers, menisci and four principal ligaments. Under 100 N anterior femoral load at different flexion angles from 0° to 90°, kinematics, forces in ligaments and contact forces in the fully unconstrained joint were computed in intact cases and following alterations in joint ligaments.
+
+Results. Collateral ligaments were the primary structures to resist the force at full extension under 100 N anterior femoral load with a moderate contribution from the posterior cruciate ligament. With joint flexion up to 90°, however, force in the posterior cruciate ligament substantially increased whereas that in collateral ligaments diminished.
+
+Conclusions. A remarkable coupling was found between the posterior cruciate ligament and the anterior cruciate ligament in flexion; a structural alteration in one of them significantly influenced the mechanical role of both ligaments and not just the one affected. A tauter or stiffer ligament increased the force in both ligaments while an excessive laxity or rupture in one diminished forces in both.

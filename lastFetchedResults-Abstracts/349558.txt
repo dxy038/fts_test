@@ -1,0 +1,11 @@
+Objective
+This study was undertaken to identify the best performing quantitative EEG features for neonatal seizures detection from a test set of 21.
+Methods
+Each feature was evaluated on 1-min, artefact-free segments of seizure and non-seizure neonatal EEG recordings. The potential utility of each feature for neonatal seizure detection was determined using receiver operating characteristic analysis and repeated measures t-tests. A performance estimate of the feature set was obtained using a cross-fold validation and combining all features together into a linear discriminant classifier model.
+Results
+Significant differences between seizure and non-seizure segments were found in 19 features for 17 patients. The best performing features for this application were the RMS amplitude, the line length and the number of local maxima and minima. An estimate of the patient independent classifier performance yielded a sensitivity of 81.08% and specificity of 82.23%.
+Conclusions
+The individual performances of 21 quantitative EEG features in detecting electrographic seizure in the neonate were compared and numerically quantified. Combining all features together into a classifier model led to superior performance than that provided by any individual feature taken alone.
+Significance
+The results documented in this study may provide a reference for the optimum quantitative EEG features to use in developing and enhancing neonatal seizure detection algorithms.
+

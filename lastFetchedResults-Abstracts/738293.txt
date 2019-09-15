@@ -1,0 +1,14 @@
+Objective
+To examine associations between features of public open spaces, and children's physical activity.
+Participants
+
+163 children aged 8–9 years and 334 adolescents aged 13–15 years from Melbourne, Australia participated in 2004.
+Methods
+
+A Geographic Information System was used to identify all public open spaces (POS) within 800 m of participants' homes and their closest POS. The features of all POS identified were audited in 2004/5. Accelerometers measured moderate-to-vigorous physical activity (MVPA) after school and on weekends. Linear regression analyses examined associations between features of the closest POS and participants' MVPA.
+Results
+
+Most participants had a POS within 800 m of their home. The presence of playgrounds was positively associated with younger boys' weekend MVPA (B = 24.9 min/day; p ≤ 0.05), and lighting along paths was inversely associated with weekend MVPA (B = − 54.9 min/day; p ≤ 0.05). The number of recreational facilities was inversely associated with younger girls' MVPA after school (B = − 2.6 min/day; p ≤ 0.05) and on the weekend (B = − 8.7 min/day; p ≤ 0.05). The presence of trees providing shade (5.8 min/day, p ≤ 0.01) and signage regarding dogs (B = 6.8 min/day, p ≤ 0.05) were positively associated with adolescent girls' MVPA after school.
+Conclusion
+
+Certain features of POS were associated with participants' MVPA, although mixed associations were evident. Further research is required to clarify these complex relationships.

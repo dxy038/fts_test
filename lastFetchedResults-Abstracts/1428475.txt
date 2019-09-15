@@ -1,0 +1,8 @@
+Objective
+mine the efficacy of adjunctive left prefrontal high-frequency rTMS treatment in depression patients as compared to sham stimulation.
+
+ht handed moderate to severe depression patients according to ICD-10 DCR criteria were randomized to receive daily sessions of active or sham rTMS (10 Hz, 90% of resting MT, 20 trains, 6 s duration, 1200 pulses/day) over the right dorsolateral prefrontal cortex for 10 days. Depression and psychosis was rated using Structured Interview Guide for the Hamilton Depression Rating Scale (SIGH-D) and Brief Psychiatric Rating Scale (BPRS) respectively before and after rTMS.
+
+GH-D scores, repeated measures ANOVA showed a significant effect of treatment over time as shown by interaction effect (Pillai's Trace F [1/38] = 56.75, p &lt; .001, η2 = .60). For BPRS, repeated measures ANOVA showed a significant interaction effect of treatment over time (Pillai's Trace F [1/38] = 39.87, p &lt; .001, η2 = .51). In psychotic depression patients, repeated measures ANOVA showed a significant effect of treatment over time for SIGH-D scores (Pillai's Trace F [1/25] = 43.04, p&lt;.001, η2 = .63) and BPRS scores (Pillai's Trace F [1/25] = 42.17, p &lt; .001, η2 = .63).
+sion
+requency left prefrontal rTMS was well tolerated and found to be effective as add-on to standard pharmacotherapy in nonpsychotic as well as psychotic depression.

@@ -1,0 +1,11 @@
+Background: The 30 kDa major secretory protein of Mycobacterium tuberculosis (antigen 85B) is a primary vaccine candidate. This secreted
+antigen induces a protective immune response and stimulates the production of IFN-? in animal models.
+Objectives: The aim of this study was cloning and expression of Ag 85B of M. tuberculosis in Escherichia coli.
+Materials and Methods: To produce recombinant Ag85B, the fbpB gene was amplified by PCR method. Then inserted into the pET101/D
+vector and transported into E. coli strain TOPO10. Plasmid containing pET101/D: Ag85B was transformed into competence E.coli BL21 (DE3). The
+transformed E.coli strain BL21 was effectively expressed recombinant Ag85B.
+Results: The expressed fusion protein was found almost entirely in the insoluble form. Followed by sonication to disrupt the cells, Solution of
+the cell debris was centrifuged and after use of Ni–NTA column and 6 molar urea and 6 M guanidine-HCl solutions recombinant protein was
+purified.
+Conclusions: These results could serve as a basis for further studies in endemic regions of tuberculosis on the usefulness of this gene and its
+expression product in the development of subunit vaccine and DNA vaccine against tuberculosis.

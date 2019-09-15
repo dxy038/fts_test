@@ -1,0 +1,9 @@
+In this article, we propose a bi-objective model for the pricingqueuing problem under a fuzzy
+environment. We consider two objectives: maximizing the profit function and minimizing the waiting
+time in queue. Imagine a firm which sells a product in a channel providing after sales services. The sales
+price and warranty length affect customer demand. We formulate the demand function as a fuzzy system
+considering the sales price and warranty length. The firm optimizes the sales price and warranty length, as
+well as waiting time, in the queue of after sales services, to maximize its revenues and minimize waiting
+time. To solve the derived model, we develop a hybrid solution method of a fuzzy system and a genetic
+algorithm. Finally, the numerical analysis is done to show the reasonable performance of the solution
+method and results.

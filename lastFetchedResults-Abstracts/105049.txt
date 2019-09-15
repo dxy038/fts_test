@@ -1,0 +1,1 @@
+This paper presents two reduced-switch-count AC drive systems. One of the configurations was conceived to operate with a two-phase motor and the other one with a three-phase motor. The drive systems provide both bidirectional power flow and power factor control. Pulsewidth modulation techniques for the converter control are discussed. Experimental results are presented.

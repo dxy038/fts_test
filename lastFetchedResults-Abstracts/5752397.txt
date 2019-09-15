@@ -1,0 +1,1 @@
+We propose and demonstrate a bidirectional PON link with 120 km reach and symmetric up and down stream data rate of 10 Gbit/s. Lossless transmission was achieved with &gt;40 dB of received OSNR

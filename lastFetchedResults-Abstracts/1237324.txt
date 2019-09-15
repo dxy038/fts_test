@@ -1,0 +1,8 @@
+
+BACKGROUND AND OBJECTIVE: To minimize lung toxicity associated with radiotherapy, occurring in approximately 5-15% of patients the understanding of the correlation between the risk of radiation-induced pneumonitis and treatment parameters is essential. A feed-forward artificial neural network along with a genetic algorithm was investigated to predict the occurrence of lung radiation-induced upper grade 1 pneumonitis.
+METHODS: A nonlinear neural network along with a genetic algorithm was developed. Inputs for the neural network (features) were selected from 65 dose variables extracted from treatment plan and 8 non-dose variables like; chemotherapy schedule, age, surgery (yes or no), tumor location, tumor stage, radiation fields,  and hormone factors. Of these patients, 18 were diagnosed with grade 1 or higher lung pneumonitis. In this work, this study was based on data from 66 patients with breast cancer treated with external beam radiotherapy. The accuracy, specificity, sensitivity and receiver operator characteristic (ROC) curves were evaluated.
+FINDINGS: The area under the receiver operating characteristics (ROC) curve for cross-validated testing was 84% and 91% for the ANN and the hybrid model, respectively. Sensitivity, specificity and accuracy were 66%, 90% and 79% for ANN and 70%, 96% and 88% for the hybrid model.
+CONCLUSION: ANNs may prove to be a useful tool in predicting biological outcomes. The combined model of neural network and genetic algorithm is an efficient method for predicting radiation pneumonitis with respect to the neural network model.
+
+KEY WORDS: Radiotherapy, Genetic algorithm, Artificial neural network, Radiation pneumonitis.
+

@@ -1,0 +1,4 @@
+The objective of this work is to give sufficient and necessary conditions for
+integrability of differential equation systems in the plane of the form ˙xsyy2 py1
+qX2  x, y., ˙ysx2 qy1qY2  x, y., where X2  x, y. and Y2  x, y. are   pyq. quasihomogeneous
+polynomials of degree 2 pqyqq1 and 2 pqypq1, respectively.

@@ -1,0 +1,14 @@
+The objective of this paper is to study the improvement in the seismic behavior
+of concrete gravity dams by optimization of concrete mechanical properties. The criteria to
+measure the improvement have been: 1) reduction in the extent of cracks and 2) increase
+in the amount of time dams are able to tolerate earthquakes before failure. The mechanical
+properties considered have included the density and modulus of elasticity of concrete.
+The Pine Flat Dam has been selected for this numerical study. During a high intensity
+earthquake, dams enter a nonlinear phase, where the cracks open and close repeatedly.
+A smeared crack model has been used for simulation of nonlinearity. For the purpose
+of optimization, the dam has been divided into horizontal layers, where the concrete is
+assumed to have the same properties at every point within each layer. The results of this
+study have shown that by using lower density concrete in upper layers and in the region
+of the crest of the Pine Flat Dam, it is possible to both reduce the extent of the induced
+cracks and increase the time to failure of the dam. The same methodology can be applied
+to other concrete gravity dams.

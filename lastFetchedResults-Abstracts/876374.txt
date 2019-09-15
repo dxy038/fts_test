@@ -1,0 +1,5 @@
+The objective of this note is to give an estimate for a positive perturbed semigroup in terms of
+the free one. Here we consider perturbation by a potential and the estimate is given by a pointwise
+Hölder inequality. As a consequence it is shown that ultracontractivity and Gaussian upper bounds
+are preserved by such perturbations.
+ 2005 Elsevier Inc. All rights reserved

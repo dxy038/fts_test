@@ -1,0 +1,8 @@
+Objective
+pare the prevalence of a medical home for children with public versus private insurance and identify components of the medical home that contribute to any differences.
+s
+formed a secondary data analysis of the 2007 National Survey of Children's Health. A medical home was defined as meeting each of 5 components: 1) usual source of care; 2) personal doctor/nurse; 3) family-centered care; 4) care coordination, if needed; and 5) no problems getting a referral, if needed. We estimated the national prevalence of the medical home and its components for children with public versus private insurance. Comparisons were made using logistic regression, unadjusted and adjusted for sociodemographic factors.
+s
+l of 67% of privately insured children met all 5 components of the medical home, compared with only 45% of publicly insured children (P &lt; .001). The gap in medical home prevalence between public and private groups remained significant after controlling for sociodemographic characteristics (public vs private adjusted odds ratio [AOR] 0.82; 95% confidence interval [95% CI] 0.73–0.92). Over 90% of children in both groups reported having a usual source of care and a personal doctor/nurse. Only 58% of publicly insured children reported family-centered care, compared with 76% of privately insured children (P &lt; .001). This difference was significant after adjustment for sociodemographic characteristics (public vs private AOR 0.87; 95% CI 0.77–0.99).
+sions
+icant medical home disparities exist between publicly and privately insured children, driven primarily by disparities in family-centered care. Efforts to promote the medical home must recognize and address determinants of family-centered care.

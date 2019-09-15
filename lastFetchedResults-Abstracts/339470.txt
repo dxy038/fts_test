@@ -1,0 +1,11 @@
+Objective
+Murine erythroleukemia (MEL) cells are transformed erythroid precursors that are arrested in an immature and proliferating state. These leukemic cells can be grown in cell cultures and induced to terminal erythroid differentiation by a treatment with a specific chemical inducer such as N,N′-hexamethylene bisacetamide. MEL cells then re-enter their original erythroid program and differentiate along the erythroid pathway into non-dividing hemoglobin-rich cells resembling orthochromatophilic normoblasts. To deepen our understanding of the molecular mechanisms underlying and erythroid differentiation and leukemia we monitored changes in protein expression in differentiating MEL cells.
+Methods
+
+In our effort to find new candidate proteins involved in the differentiation of MEL cells, we embraced a proteomic approach. Employing two-dimensional (2D) electrophoresis combined with mass spectrometry, we compared protein expression in non-induced MEL cells with MEL cells exposed to N,N′-hexamethylene bisacetamide for 48 h.
+Results
+
+From 700 proteins spots observed, 31 proteins were differentially expressed. We successfully identified 27 of the differentially expressed molecules by mass spectrometry (MALDI-MS).
+Conclusion
+
+In addition to proteins involved in heme biosynthesis, protein metabolism, stress defense and cytoskeletal organization, we identified 3 proteins engaged in regulation of cellular trafficking and 7 proteins important for regulation of gene expression and cell cycle progression including 3 components of chromatin remodeling complexes. Many of the identified molecules are associated with erythroid differentiation or leukemia for the first time. To our knowledge, this is the first study applying a modern proteomic approach to the direct analysis of erythroid differentiation of leukemic cells.

@@ -1,0 +1,5 @@
+An optimization model with a multi objective function subject to a system of fuzzy relation equations with Yager's union operator is presented. The solution set of such a fuzzy relation equations is a non-convex set. Thus, the ordinary methods such as simplex or interior point methods don't use for solving these problems. In this paper, we first characterize the feasible solution set and then, optimize a linear objective function. In order to optimize it, we convert it to an equivalent problem involving 0-1 integer programming with a branch-and-bound solution technique. Finally, we optimize a multi
+
+objective function with LP metric methods. Furthermore, a concrete example is included
+
+for illustration purpose.

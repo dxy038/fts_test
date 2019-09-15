@@ -1,0 +1,16 @@
+Double-I built-up sections have been used extensively in Iran, according to
+previous versions of Iranian building codes. Despite recent developments in steel moment
+connections, based on studies for I-beam to H-shaped column connections, there are
+few documents available for I-beam to double-I built-up column connections. Recent
+studies have revealed that connections with double-I built-up columns exhibit dierent
+behavior compared to connections with H-shaped columns. Due to excessive out-of-plane
+deformations of the cover plate in non-retrotted moment connections, they have semi-rigid
+behavior. The objective of this study is to build on previous studies and to investigate strain
+distribution patterns and load transfer mechanisms in the retrotted I-beam to double-I
+built-up column connections using plates and T-stieners. In this paper, both horizontal
+and vertical elements of the T-stieners were modied and studied. Analytical models
+were designed and analyzed under cyclic and monotonic loadings. Three dierent indices
+were computed in the connection region in order to assess the local failure potential and the
+moment-rotation hysteretic curves were employed to evaluate the seismic performance of the
+connections. With the proposed congurations, strain is uniformly distributed within the
+critical elements. Moreover, excessive deformation of the column cover plate is eliminated

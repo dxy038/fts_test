@@ -1,0 +1,9 @@
+The biosphere is filled with complex living patterns and important questions about biodiversity and community and ecosystem
+ecology are concerned with structure and function of multispecies systems that are responsible for those patterns. Cluster analysis
+identifies discrete groups within multivariate data and is an effective method of coping with these complexities, but often suffers
+from subjective identification of groups. The bootstrap testing method greatly improves objective significance determination for
+cluster analysis. The BOOTCLUS program makes cluster analysis that reliably identifies real patterns within a data set more
+accessible and easier to use than previously available programs. A variety of analysis options and rapid re-analysis provide a means
+to quickly evaluate several aspects of a data set. Interpretation is influenced by sampling design and a priori designation of samples
+into replicate groups, and ultimately relies on the researcher’s knowledge of the organisms and their environment. However, the
+BOOTCLUS program provides reliable, objectively determined groupings of multivariate data.

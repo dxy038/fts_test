@@ -1,0 +1,1 @@
+The paper sets the basics of a control framework for underactuated thrust-propelled vehicles immersed in a fluid, with the objective of stabilizing reference trajectories either in velocity or in position.

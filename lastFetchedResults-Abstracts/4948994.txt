@@ -1,0 +1,1 @@
+We propose and experimentally demonstrate an optimised bidirectional pumping scheme that realizes a less than 0.7 dB flatness over C- and L-bands for both Raman gain and optical noise figure, simultaneously. In order to use forward-pumping for the proposed method, a new type of pump laser having low relative intensity noise is also developed.

@@ -1,0 +1,7 @@
+Objective. Hematopoiesis is regulated by proliferation, differentiation, and death. p16INK4a  has been reported to regulate apoptosis and differentiation of diverse cells, as well as arresting the cell cycle at G1 phase. The aim of this study is to explore the properties of p16 in apoptosis and differentiation of erythroid cells.
+
+Methods. We transfected the INK4a gene to K562 cells, which defect the INK4a gene, and compared the effect of enforced expression of p16INK4a with that of various additives, topoisomerase I inhibitor (SN 38), interferon-α, phosphatidyl-inositol-3 kinase inhibitor (LY294002), and serum deprivation, which arrest cell cycle at different phases. We also investigated the role of p16INK4a in normal day-6 human erythroid colony-forming cells by transfecting the INK4a gene.
+
+Results. p16INK4a induced cell cycle arrest at the G0/G1 phase, and promoted erythroid differentiation in viable K562 cells, but induced apoptosis in K562 cells with incomplete differentiation. The apoptosis induced by p16 was accompanied with downregulation of bcl-x and nuclear NF-κB. These findings were not observed in K562 cells treated with various additives. p16INK4a decreased the cell viability and promoted apoptosis in day-9 ECFC.
+
+Conclusion. We propose that p16INK4a plays a role in maintaining homeostasis during erythroid differentiation, and that the mechanisms for this effect are not confined to those inducing cell cycle arrest.

@@ -1,0 +1,11 @@
+Objective
+Chronic lymphocytic leukemia (CLL) cells develop chemoresistance over time associated with defects in apoptosis pathway. Novel treatment strategies are required to overcome resistance of cells to commonly used agents. The effects of valproic acid (VPA), an antiepileptic drug with histone deacetylase inhibitory activity, on mononuclear cells isolated from 40 CLL patients were evaluated.
+Methods
+
+CLL cells were treated with increasing doses of VPA (0.5, 1, 2, and 5 mM). The mode of cytotoxic drug action was determined by annexin binding, DNA fragmentation, and caspase activation.
+Results
+
+Exposure of CLL cells to VPA resulted in dose-dependent cytotoxicity and apoptosis in the 40 CLL patients. VPA treatment induced apoptotic changes in CLL cells including phosphatidylserine externalization and DNA fragmentation. The mean apoptotic rates were similar between IgVH mutated and unmutated patients, the latter presenting a more aggressive clinical course. VPA induced apoptosis via the extrinsic pathway involving engagement of the caspase-8–dependent cascade. Although CLL cells are commonly resistant to death receptor–induced apoptosis, VPA significantly increased sensitivity of leukemic cells to tumor necrosis factor–related apoptosis-inducing ligand (TRAIL) and led to downregulation of c-FLIP (L) expression. VPA caused no potentialization of TRAIL-induced apoptosis on normal B cells. In addition, VPA overcame the prosurvival effects of bone marrow stromal cells.
+Conclusion
+
+These findings point out that the combination of TRAIL and VPA, at clinically relevant concentration, may be valuable in the treatment of CLL.

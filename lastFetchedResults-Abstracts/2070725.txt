@@ -1,0 +1,19 @@
+Objective: The neural crest is a transient structure of early vertebrate embryos that generates
+neural crest cells (NCCs). These cells can migrate throughout the body and produce
+a diverse array of mature tissue types. Due to the ethical and technical problems surrounding
+the isolation of these early human embryo cells, researchers have focused on in
+vitro studies to produce NCCs and increase their knowledge of neural crest development.
+Materials and Methods: In this experimental study, we cultured human embryonic stem
+cells (hESCs) on stromal stem cells from human exfoliated deciduous teeth (SHED) for a
+two-week period. We used different approaches to characterize these differentiated cells
+as neural precursor cells (NPCs) and NCCs.
+Results: In the first co-culture week, hESCs appeared as crater-like structures with marginal
+rosettes. NPCs derived from these structures expressed the early neural crest marker
+p75 in addition to numerous other genes associated with neural crest induction such as
+SNAIL, SLUG, PTX3 and SOX9. Flow cytometry analysis showed 70% of the cells were
+AP2/P75 positive. Moreover, the cells were able to self-renew, sustain multipotent differentiation
+potential, and readily form neurospheres in suspension culture.
+Conclusion: SHED, as an adult stem cell with a neural crest origin, has stromal-derived
+inducing activity (SDIA) and can be used as an NCC inducer from hESCs. These cells
+provide an invaluable resource to study neural crest differentiation in both normal and
+disordered human neural crest development.

@@ -1,0 +1,11 @@
+Objective
+Hematopoietic cells from patients with Fanconi anemia (FA) and mice carrying a targeted disruption of the gene encoding complementation group C protein (FANCC−/−) demonstrate an apoptotic phenotype in response to alkylating agents and cytokines including interferon γ (IFN-γ) in vitro. The aim of this study was to explore these apoptosis-inducing effects of IFN-γ on the bone marrow of FANCC−/− mice as a potential strategy to select gene-corrected cells in vivo.
+Materials and Methods
+
+Following pharmacokinetic studies to determine if serum concentrations effective in vitro can be achieved in vivo, we injected FANCC−/− mice with recombinant murine IFN-γ. Hematopoietic effects were investigated by serial determinations of blood counts, progenitor colony formation, and marrow cellularity.
+Results
+
+Serial weekly intraperitoneal administrations of escalating doses of rmIFN-γ did not affect peripheral blood counts in FANCC−/− mice, even after subsequent antibody-mediated fas ligation. Additionally, prolonged exposure after sequential daily administration of recombinant IFN-γ did not impair progenitor cell clonogenicity in vitro. Pharmacokinetic data confirmed that the failure of IFN-γ to induce marrow aplasia occurred in spite of peak serum levels greater than 100-fold in excess of those effective in vitro.
+Conclusion
+
+We conclude that in spite of the well-documented in vitro apoptotic tendency of FA-phenotype hematopoietic cells, the in vivo administration of IFN-γ with and without subsequent fas ligation does not induce bone marrow failure in FANCC−/− (129SvJ strain) mice. Additional selective pressure may be necessary to achieve targeted ablation of uncorrected, FA-phenotype, marrow cells.

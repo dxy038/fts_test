@@ -1,0 +1,7 @@
+This paper presents the fuzzy job shop scheduling problem with availability constraints. The objective is to
+find a schedule that maximizes the minimum agreement index subject to periodic maintenance, nonresumable
+jobs and fuzzy due-date. A random key genetic algorithm (RKGA) is proposed for the problem,
+in which a novel random key representation, a new decoding strategy incorporating maintenance operation
+and discrete crossover (DX) are used. RKGA is applied to some fuzzy scheduling problem with availability
+constraints and compared with other algorithms. Computational results show that RKGA performs
+better than other algorithms.

@@ -1,0 +1,9 @@
+Objective
+To determine whether significant changes in the plasma concentrations of 17 hormones occur when human whole blood is held at 4 or 24°C for up to 24 h before separation of the plasma fraction.
+Design and methods
+Blood samples (EDTA) from healthy human volunteers were held at 4°C or 24°C for 0.5, 6 or 24 h before separation. Plasma concentrations of ACTH, aldosterone, gonadotrophin α-subunits, AVP, C-peptide, estradiol, FSH, GH, glucagon, IGF-1, IGFBP3, insulin, leptin, LH, prolactin, PTH and VIP were measured and the results compared to baseline values. Nonlinear regression was used to test for a significant mean rate of change. The time interval for median concentrations to change by 10% was determined.
+Results
+Significant changes were observed for ACTH (decrease at 18.6 hr, 4°C; 17.5 hr, 24°C); AVP (increase at 2.6 h, 24°C); insulin (decrease at 16.8 hr, 4°C; 16.9 hr, 24°C) and VIP (increase at 18.6 h, 24°C). No changes were detected for the remaining analytes.
+Conclusions
+The measurement of some hormones is compromised by a delay in plasma separation from normal human blood. While many hormones appear stable in normal whole blood, we recommend that processing occurs without delay.
+

@@ -1,0 +1,21 @@
+Objective: To investigate the transdifferentiation relationship between eight types of liver
+cell during rat liver regeneration (LR).
+Materials and Methods: 114 healthy Sprague-Dawley (SD) rats were used in this experimental
+study. Eight types of liver cell were isolated and purified with percoll density
+gradient centrifugation and immunomagentic bead methods. Marker genes for eight types
+of cell were obtained by retrieving the relevant references and databases. Expression
+changes of markers for each cell of the eight cell types were measured using microarray.
+The relationships between the expression profiles of marker genes and transdifferentiation
+among liver cells were analyzed using bioinformatics. Liver cell transdifferentiation
+was predicted by comparing expression profiles of marker genes in different liver cells.
+Results: During LR hepatocytes (HCs) not only express hepatic oval cells (HOC) markers
+(including PROM1, KRT14 and LY6E), but also express biliary epithelial cell (BEC) markers
+(including KRT7 and KRT19); BECs express both HOC markers (including GABRP,
+PCNA and THY1) and HC markers such as CPS1, TAT, KRT8 and KRT18; both HC
+markers (KRT18, KRT8 and WT1) and BEC markers (KRT7 and KRT19) were detected in
+HOCs. Additionally, some HC markers were also significantly upregulated in hepatic stellate
+cells ( HSCs), sinusoidal endothelial cells (SECs) , Kupffer cells (KCs) and dendritic
+cells (DCs), mainly at 6-72 hours post partial hepatectomy (PH).
+Conclusion: Our findings indicate that there is a mutual transdifferentiation relationship
+between HC, BEC and HOC during LR, and a tendency for HSCs, SECs, KCs and DCs
+to transdifferentiate into HCs.

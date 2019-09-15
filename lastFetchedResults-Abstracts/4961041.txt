@@ -1,0 +1,1 @@
+Constructing a virtual campus is an objective requirement of modern teaching. In this paper, we use OpenGL and VC++ in the construction, along with CAD modeling and 3DS MAX polygon modeling, and realize several functions: virtual campus cruise, a bird´s eye perspective and introductions of buildings in real time, which lays a good foundation of the digitization of buildings.

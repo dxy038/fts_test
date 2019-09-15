@@ -1,0 +1,18 @@
+Computational Fluid Dynamics (CFD) is a promising way, nowadays, to
+predict the air
+ow in enclosures. As a result, the objective of this study is to assess
+the potential of CFD technique to predict the air
+ows driven by buoyancy in heated
+real-scale rooms. The numerical model is validated using experimental data for fullscale
+test rooms; therefore, the experimental set-up is rst presented. This is followed
+by the numerical model description, focusing on its principal elements: computational
+domain geometry, discretization, turbulence model, radiation model, and thermal boundary
+conditions. In addition, a simplied approach is proposed to integrate a heat source in
+CFD models: Term source homogeneously spread all over the volume of the heat source.
+Comprehensive experimental-numerical comparisons are presented in terms of heat transfer
+to the walls of the test room, heat source behavior, and plume development. The results
+show that the model developed in this study leads to realistic predictions. Finally, the
+simplied CFD description of heat sources developed here can be extrapolated for other
+congurations - dierent power, heat emission (convection/radiation), dimensions, and
+shape. Consequently, this method can be applied in detailed studies dealing with thermal
+comfort, indoor air quality, and energy consumption for heated rooms.

@@ -1,0 +1,11 @@
+Objective
+Because perforin is an essential cytolytic mediator of cytotoxic T lymphocytes (CTLs), it is important to understand the regulatory mechanisms of perforin expression in CTLs. In the present study, we investigated the relationship between cytotoxic activity, perforin expression, and cell-activated status of CD4+ and CD8+ CTLs.
+Methods
+
+Herpes simplex virus-specific CD4+ CTL clones and Epstein-Barr virus-specific CD8+ CTL clones were established, and their cytotoxic activities were examined in both the activated and resting phases. Perforin mRNA expression was examined by reverse transcriptase polymerase chain reaction quantitatively. Transcriptional regulation of perforin was examined by electrophoretic mobility shift assay.
+Results
+
+The degrees of cytotoxic activity of CD8+ CTLs did not differ significantly between the two phases; however, CD4+ CTLs in the activated phase appeared to be significantly more cytotoxic than those in the resting phase. Similarly, expression levels of perforin mRNA in activated and resting CD8+ CTLs did not differ significantly, but activated CD4+ CTLs appeared to express perforin more abundantly than resting CD4+ CTLs. In addition, it appeared that binding of STAT5 to the perforin gene promoter was increased in activated CD4+ CTLs compared to resting CD4+ CTLs; however, there was no significant detectable difference of STAT5 binding activity to the perforin gene promoter between activated and resting CD8+ CTLs.
+Conclusions
+
+The present study has revealed a difference in the control of perforin expression between CD4+ and CD8+ CTLs; that is, perforin is expressed constitutively in memory CD8+ CTLs, but is dependent on cell activation in memory CD4+ CTLs.

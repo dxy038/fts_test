@@ -1,0 +1,1 @@
+We propose sharp interface, phase field and level set models for bidirectional diffusion induced grain boundary motion in thin films. Numerical approximations of these models are presented together with computational results comparing the approximate solutions.

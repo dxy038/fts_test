@@ -1,0 +1,9 @@
+Objective:
+In order to enable clinicians to refer the right persons suspected of familial hypercholesterolemia (FH) for mutation screening, a retrospective study was conducted in a Danish FH cohort.
+Design and methods:
+The study comprised 643 probands and 395 relatives, of which 421 individuals had a pathogenic mutation, and 211 had cardiovascular disease (CVD). Logistic regression, Cox regression, and receiver operating characteristics (ROC) curves were used to find optimal predictive variables for mutation status and evaluate risk factors for CVD.
+Results:
+Age alone had significant predictive power in both genders. ROC curves and area under the curve plots found no parameters capable of predicting mutation status. The only significant risk factor for CVD in both genders was mutation carrier status.
+Conclusions:
+No parameters could decipher mutation status a priori. All individuals fulfilling the FH criteria should therefore be referred in order to facilitate family tracing and genetic counseling.
+

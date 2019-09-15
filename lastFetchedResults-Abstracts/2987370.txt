@@ -1,0 +1,1 @@
+The main objective of this contribution is to present a design methodology for application specific fuzzy integrated circuits. This methodology is based on an specific architecture and a user-friendly design environment which enables the specification, verification and synthesis of fuzzy systems taking into account conceptual as well as microelectronics considerations

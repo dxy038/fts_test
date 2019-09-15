@@ -1,0 +1,8 @@
+Objective
+eral, low-field MRI scanners such as the 0.5- and 1-T ones produce images that are poor in quality. The motivation of this study was to lessen the noise and enhance the signal such that the image quality is improved. Here, we propose a new approach using stochastic resonance (SR)-based transform in Fourier space for the enhancement of magnetic resonance images of brain lesions, by utilizing an optimized level of Gaussian fluctuation that maximizes signal-to-noise ratio (SNR).
+als and Methods
+uired the T1-weighted MR image of the brain in DICOM format. We processed the original MR image using the proposed SR procedure. We then tested our approach on about 60 patients of different age groups with different lesions, such as arteriovenous malformation, benign lesion and malignant tumor, and illustrated the image enhancement by using just-noticeable difference visually as well as by utilizing the relative enhancement factor quantitatively.
+s
+thod can restore the original image from noisy image and optimally enhance the edges or boundaries of the tissues, clarify indistinct structural brain lesions without producing ringing artifacts, as well as delineate the edematous area, active tumor zone, lesion heterogeneity or morphology, and vascular abnormality. The proposed technique improves the enhancement factor better than the conventional techniques like the Wiener- and wavelet-based procedures.
+sions
+oposed method can readily enhance the image fusing a unique constructive interaction of noise and signal, and enables improved diagnosis over conventional methods. The approach well illustrates the novel potential of using a small amount of Gaussian noise to improve the image quality.

@@ -1,0 +1,11 @@
+Objective
+To determine the differences, if any, between hardness measured with traditional Vickers and Martens hardness test methods on denture teeth under 2, 10 and 50 N loads.
+Method
+
+Hardness of acrylic resin (VIV), composite resin (ORT) and porcelain (POR) denture tooth materials was measured using a traditional Vickers hardness (HV) method and Martens hardness (HM) method at 2, 10 and 50 N test loads. Vickers hardness was also calculated from the force-indentation depth curves (HVfid) that were recorded during Martens hardness. Indentation creep of the three test materials was also determined during Martens hardness testing.
+Results
+
+HM values were the same irrespective of the test force used. However, HV values were different for the three test forces. ANOVA using Tukey's test of the HM data showed that the hardness of POR was significantly higher than VIV or ORT (P < 0.001). Moreover, ORT had a significantly higher hardness than VIV (P < 0.001). The statistical analysis of HVfid data showed similar results. ANOVA of the HV data showed the hardness of VIV to be significantly higher than ORT (P < 0.001) under 2, 10 and 50 N test load. The HV values for POR under 2 and 10 N test load could not be calculated because of inability to measure the indentation diagonals. Under the 50 N load, the hardness of POR was significantly higher than VIV and ORT. POR had a significantly lower creep value than any other material tested while VIV showed a statistically significantly higher creep than ORT.
+Significance
+
+This study confirms that the visco-elastic recovery of the materials has a very significant effect on the outcome of the hardness tests of denture teeth and the Martens hardness test method has obvious advantages when testing dental materials.

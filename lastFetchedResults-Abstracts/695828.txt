@@ -1,0 +1,17 @@
+Water resources scarcity and increasing demand have led to unbalanced supplydemand
+in the watersheds and water systems. Therefore, planning for efficient
+allocation has been a matter of importance. To resolve water allocation problems,
+various models and tools have been developed. Selection of these models is also
+another issue that needs to be done by an holistic approach. WEAP and MIKE
+BASIN are two of the well known models in this regard and comparison of their
+abilities construct objective of the present paper. To do this, capabilities and
+features of the two models were firstly outlined. Then in two assumptive examples,
+models were compared based on priority-base allocation and reservoir operation.
+Furthermore, models ran for a part of Talvar River as one of the main tributaries of
+the Ghezelozan River. This system consists of ten water demand nodes (domestic
+and agriculture) and three reservoirs. The results showed that in the priority-base
+allocation the performances were different, but they were identical in the operation
+rules and reservoir simulation. The results of reliability index showed that MIKE
+BASIN simulation matched better with reality due to their ability to extract more
+water. While, WEAP showed better results for optimization and even distribution
+of deficits among nodes.

@@ -1,0 +1,21 @@
+This paper presents a novel approach to fault detection,
+faulted phase selection, and direction estimation based on
+artificial neural networks (ANNs). The suggested approach uses
+the finite impulse response artificial neural network (FIRANN)
+with the same structure and parameters in each relaying location.
+Our main objective in this work is to find a fast relay design with
+a detection time not dependent on fault conditions (i.e., current
+transformer saturation, dynamic arcing faults, short-circuit level,
+and system topology) and that uses only unfiltered voltage and
+current samples at 2 kHz. The suggested relay, which we have
+named FIRANN-DSDST, is composed of a FIRANN together with
+post-processing elements. The FIRANN is trained globally using
+training patterns from more than one relaying position in order
+to be as general as possible. The FIRANN is trained using an
+improved training algorithm, which depends on a new synaptic
+weights updating method, which we have named the mixed
+updating technique. The proposed relay is trained using training
+patterns created by simulating a real 400-kV network from the
+Spanish transmission network (R.E.E.). Finally, the proposed
+relay is tested using simulated and real fault data. The results
+encourage the use of this technology in a protective relaying field.

@@ -1,0 +1,18 @@
+In mobile communication systems, a soft handoff (SHO) technique is
+used to optimize the quality and capacity of communications. However, because the
+handoff process incurs a high overhead there must be a tradeoff between the system
+capacity and the handoff overhead. In this paper, we propose a benefit optimization
+model for mobile communications. The model tries to maximize the overall system
+capacity by considering SHO process overhead and quality of service requirements
+jointly. We first construct a framework of admission policies and devise an
+appropriate admission control policy, which is then used to analyze the system
+benefit. The service rate is defined by three measures: the call blocking ratio, system
+load, and admit-to-existence ratio; while the solution quality is defined by the gap
+between the upper bound and lower bound of the objective function value. By
+applying iteration-based Lagrangian relaxation as a solution approach, a time
+budget is allocated to each iteration so that admission control can be implemented.
+To fulfill the continuous admission process requirements in the long-term, users’
+demands are randomly distributed via a simulation process. The goal of this paper is
+to investigate the effect of the admission control policy on the system benefit,
+service rate and solution quality. Experiment results are presented to demonstrate
+the efficacy of both the proposed model and the solution approach

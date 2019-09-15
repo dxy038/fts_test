@@ -1,0 +1,9 @@
+The job shop scheduling problem (JSP) is well known as one of the most complicated combinatorial optimization
+problems, and it is a NP-hard problem. Memetic algorithm (MA) which combines the global
+search and local search is a hybrid evolutionary algorithm. In this paper, an efficient MA with a novel local
+search is proposed to solve the JSP. Within the local search, a systematic change of the neighborhood is
+carried out to avoid trapping into local optimal. And two neighborhood structures are designed by
+exchanging and inserting based on the critical path. The objective of minimizing makespan is considered
+while satisfying a number of hard constraints. The computational results obtained in experiments demonstrate
+that the efficiency of the proposed MA is significantly superior to the other reported approaches
+in the literature.

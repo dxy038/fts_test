@@ -1,0 +1,14 @@
+Recently, global optimization methods using chaotic dynamics have been investigated. In
+those methods, it is significant what kind of chaotic dynamical system is selected. However,
+the system used in most existing methods for generating a chaotic sequence is sometimes
+not suitable for solving the problem because the system often has some windows
+and a generated sequence tends to overconcentrate around the boundary of the feasible
+region. In this paper, in order to improve them, we propose a new dynamical system which
+generates a chaotic sequence by the steepest descent method for minimizing an objective
+function with additional sinusoidal perturbation terms. In addition, we theoretically show
+the sufficient condition under which an approximated dynamical system of the proposed
+model at any local minimum or the global minimum is chaotic. Through numerical experiments
+we analyze properties of the proposed model for optimization to overcome these
+drawbacks. Furthermore, we compare the proposed method with the existing method
+through computational experiments by applying them to some global optimization
+problems.

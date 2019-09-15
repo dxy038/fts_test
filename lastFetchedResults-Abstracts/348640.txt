@@ -1,0 +1,11 @@
+Objective
+Decomposition of event-related potential (ERP) waveforms using time-frequency representations (TFR’s) is becoming increasingly common in electrophysiology. The P300 potential is an important component of the ERP waveform and has been used to study cognition as well as psychiatric disorders such as alcoholism. In this work, we aim to further understand the nature of the event-related oscillation (ERO) components which form the P300 wave and how these components may be used to differentiate alcoholic individuals from controls.
+Methods
+The S-transform decomposition method is used to derive TFR’s from single trial and trial-averaged ERP data acquired during a visual oddball task. These TFR’s are averaged within time and frequency windows to provide ERO measures for further investigation. ERO measures are compared with conventional ERP amplitude measures using correlation analyses. Statistical analyses was performed with MANOVA and stepwise logistic regressions to contrast an age-matched sample of control (N = 100) and alcoholic male subjects (N = 100).
+Results
+The results indicate that the P300 waveform, elicited using infrequent salient stimuli, is composed of frontal θ and posterior δ activations. The frontal θ activation does not closely correspond to any of the conventional ERP components and is therefore best analyzed using spectral methods. Between group comparisons and group predictions indicate that the δ and θ band ERO’s, which underlie the P300, show deficits in the alcoholic group. Additionally, each band contributes unique information to discriminate between the groups.
+Conclusions
+ERO measures which underlie and compose the P300 wave provide additional information to that offered by conventional ERP amplitude measures, and serve as useful genetic markers in the study of alcoholism.
+Significance
+Studying the ERP waveform using time-frequency analysis methods opens new avenues of research in electrophysiology which may lead to a better understanding of cognitive processes, lead to improved clinical diagnoses, and provide phenotypes/endophenotypes for genetic analyses.
+

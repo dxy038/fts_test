@@ -1,0 +1,11 @@
+Objective
+Laser stimulation of Aδ-fibre nociceptors in the skin evokes nociceptive-specific brain responses (laser-evoked potentials, LEPs). The largest vertex complex (N2–P2) is widely used to assess nociceptive pathways in physiological and clinical studies. The aim of this study was to develop an automated method to measure amplitudes and latencies of the N2 and P2 peaks on a single-trial basis.
+Methods
+LEPs were recorded after Nd:YAP laser stimulation of the left hand dorsum in 7 normal volunteers. For each subject, a basis set of 4 regressors (the N2 and P2 waveforms and their respective temporal derivatives) was derived from the time-averaged data and regressed against every single-trial LEP response. This provided a separate quantitative estimate of amplitude and latency for the N2 and P2 components of each trial.
+Results
+All estimates of LEP parameters correlated significantly with the corresponding measurements performed by a human expert (N2 amplitude: R2=0.70; P2 amplitude: R2=0.70; N2 latency: R2=0.81; P2 latency: R2=0.59. All P<0.0001). Furthermore, regression analysis was able to extract an LEP response from a subset of the trials that had been classified by the human expert as without response.
+Conclusions
+This method provides a simple, fast and unbiased measurement of different components of single-trial LEP responses.
+Significance
+This method is particularly desirable in several experimental conditions (e.g. drug studies, correlations with experimental variables, simultaneous EEG/fMRI and low signal-to-noise ratio data) and in clinical practice. The described multiple linear regression approach can be easily implemented for measuring evoked potentials in other sensory modalities.
+

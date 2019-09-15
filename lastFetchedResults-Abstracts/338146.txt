@@ -1,0 +1,9 @@
+Objective
+Docetaxel (DXT) is an anticancer agent that has demonstrated therapeutic efficacy against solid tumors, particularly breast cancer. Based on the use of hematopoietic stem cell (HSC) transplantation to restore hematopoietic reconstitution after myeloablative therapy, this study was performed to determine if DXT could mobilize HSCs in vivo.
+Materials and Methods
+C57Bl/6 mice were injected intraperitoneally with varying doses of DXT (equivalent to human doses of 40 to 120 mg/m2). Spleens were harvested on days 2, 4, 6, 8, 10, and 12 after DXT administration for recovery of mononuclear cells (MNCs). The number of HSCs present within the MNCs was determined by clonogenic assay for colony-forming units in culture (CFU-C) and by FACS analysis for CD34+ cells. Peripheral blood samples were obtained at the time of spleen harvest to determine the hematologic profile. Liver and renal function tests were performed to monitor toxicity.
+Results
+DXT mobilized HSCs in a dose- and time-dependent manner. When measured by the CFU-C assay, maximal mobilization of HSC (>10-fold increase over control; p < 0.01) was observed at a dose of 30 mg/kg (equivalent to human dose of 75 mg/m2) on day 7. The number of mobilized HSCs peaked on days 6 to 8 at all doses of DXT tested. There was no evidence of weight loss, liver, or renal toxicity at any of the DXT doses tested.
+Conclusion
+These results indicate that DXT efficiently mobilizes HSCs in a murine model and provide the rationale for similar studies in a clinical trial.
+

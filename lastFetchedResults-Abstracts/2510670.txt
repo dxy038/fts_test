@@ -1,0 +1,14 @@
+The main objective of this research work is to investigate the subsurface
+structures in Sabalan geothermal field using two-dimensional (2-D) nonlinear
+conjugate gradient and smoothness-constrained least square inversion methods
+of magnetotelluric (MT) data. To achieve the goal, 8 MT sites in the Sabalan
+area have been selected along one profile. Dimensionality analysis using the
+WALDIM code and impedance polar diagrams indicated that the subsurface
+structures of the selected sites are One-dimensional (1-D) or 2-D at shallow
+depths, whereas they are mainly three-dimensional (3-D) at middle and lower depths. Tipper and induction arrows have
+been used to determine the geoelectrical strike. As a result, NE-SW direction has been identified as the major strike
+direction of subsurface structures in the area. Spatial averaging method has also been used to remove the galvanic
+distortions. After setting up the modeling parameters and appropriate mesh design, 2-D inversion of the MT data has
+been performed using nonlinear conjugate gradient and smoothness-constrained least square methods. The obtained 2-D
+models have illustrated very well the geothermal structures including cap rock, reservoir and the heat source. Moreover,
+there is a close correspondence between these models and past investigations in the area.

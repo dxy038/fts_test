@@ -1,0 +1,11 @@
+Objective
+To determine if circulating factors influence strain-specific responses to administration of hematopoietic stem-cell mobilizing cytokines, a murine model was employed.
+Methods
+
+Plasma aliquots from intact DBA2, Balb/c, and C57Bl/6 mice were injected into intact Balb/c mice prior to delivery of mobilizing cytokines. Control Balb/c mice were injected with mobilizing cytokines alone. Plasma from hemi-body irradiated Balb/c mice, known to inhibit mobilization, was also injected into Balb/c mice. Twenty-four hours later, spleen cells were harvested and assayed for granulocyte-macrophage colony-forming cells (GM-CFC) and high-proliferative-potential colony-forming cells (HPP-CFC). Simultaneously harvested blood aliquots were assayed for CD45+/CD34+ cells using flow cytometric techniques.
+Results
+
+Mice receiving plasma from any source demonstrated significant inhibition of mobilization of HPP-CFC and GM-CFC to the spleen as compared to mobilized controls; for HPP-CFC, plasma from C57Bl/6 mice was more inhibitory than plasma from Balb/c (p = 0.001) or from DBA2 mice (p = 0.01), while for GM-CFC, plasma from C57Bl/6 mice was more inhibitory than Balb/c plasma but not more inhibitory than DBA2 plasma. Mice injected with plasma from previously irradiated Balb/c mice exhibited the expected HPP-CFC and GM-CFC mobilization inhibition, which was not statistically different from the inhibition seen in animals that received C57Bl/6 plasma. Mobilization of CD34+/CD45+ cells to the blood also appeared to be inhibited by pretreatment with C57Bl/6 plasma, but not DBA2 plasma.
+Conclusion
+
+These data suggest that strain-specific patterns of mobilization may be influenced by a circulating mobilization inhibitor(s).

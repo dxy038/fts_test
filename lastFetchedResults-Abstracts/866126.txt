@@ -1,0 +1,8 @@
+This article presents genetic algorithms (GAs) to solve assembly line balancing (ALB) problems with various objectives: 
+1. (1) minimizing number of workstations;
+2. (2) minimizing cycle time;
+3. (3) maximizing workload smoothness;
+4. (4) maximizing work relatedness; and
+5. (5) a multiple objective with (3) and (4).
+Some major aspects of the proposed GAs are discussed, with emphasis on representation, decoding and genetic operators. A repair method is newly developed so that the traditional GA approach is able to be flexibly adapted to various types of objectives in the ALB problems. An emphasis is placed on seeking a set of diverse Pareto optimal solutions for a multiple objective ALB problem. The results of extensive experiments are reported. The performance comparison between the proposed GAs and the known heuristic algorithms shows that our approach is promising.
+

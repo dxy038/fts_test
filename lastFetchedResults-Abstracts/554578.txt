@@ -1,0 +1,19 @@
+This paper uses the Particle Swarm
+Optimization (PSO) technique to investigate the damping
+control function of an Interline Power Flow Controller
+(IPFC) installed in a power system. For this purpose, the
+linearized Herffron-Phillips model of a Single-Machine
+Infinite Bus (SMIB) system is established and a
+performance index which is defined based on the system
+dynamics is applied as an objective function to evaluate
+the potential of various IPFC control signals upon the
+power system’s different operating conditions. The
+results in time-domain simulation analysis reveals that
+the designed PSO based IPFC controller tuned by the
+proposed objective function has an excellent capability in
+damping power system low frequency oscillations and
+enhance greatly the dynamic stability of the power
+systems. Moreover, the system performance analysis
+under different operating conditions show that the m1
+(magnitude of injected voltage) based controller is
+superior to the other based controller.

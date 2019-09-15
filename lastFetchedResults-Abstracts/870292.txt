@@ -1,0 +1,1 @@
+This paper studies the two-machine permutation flowshop scheduling problem with anticipatory setup times and an availability constraint imposed only on the first machine. The objective is to minimize the makespan. Under the assumption that interrupted jobs can resume their operations, we present a polynomial-time approximation scheme for this problem.

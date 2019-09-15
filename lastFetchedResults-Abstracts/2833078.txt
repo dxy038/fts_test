@@ -1,0 +1,1 @@
+A novel method is proposed to aggregate both downlink and uplink light sources in OLT for ease of WDM-PON system control and management with low bidirectional transmission impairments. 5-Gbit/s and 12.5-Gbit/s transmission experiments are conducted.

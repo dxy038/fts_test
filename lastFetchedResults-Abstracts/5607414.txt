@@ -1,0 +1,1 @@
+We have developed a bidirectional 3R repeater for GE-PON systems that increase the system budget by 33dB. It´s also suitable for multiple repeating, and we successfully demonstrated 50km CWDM transmission between two repeaters.

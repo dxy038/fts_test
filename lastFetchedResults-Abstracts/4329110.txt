@@ -1,0 +1,1 @@
+This paper presents a performance analysis of a modified QPSK scheme for transmission over fading channels. Interleaving and rotation of the signal constellation are applied with the objective of improving its performance. It is shown that the proposed system outperforms the original scheme even in the presence of channel estimation errors.

@@ -1,0 +1,1 @@
+In this paper, we address parallel machine scheduling problems with an objective of minimizing the maximum weighted absolute lateness. Memetic algorithms are applied to solve this problem. The proposed method is compared with genetic algorithms and heuristics on randomly generated test problems. The results show that the memetic algorithm outperforms the others

@@ -1,0 +1,9 @@
+Background: Surveillance of meningococcal disease among U.S. college students found an elevated rate of this disease among first-year students living in dormitories.
+
+Objective: This study examines the economics of routinely vaccinating a cohort of 591,587 incoming first-year students who will live in dormitories for ≥1 years.
+
+Methods: A cost-benefit model (societal perspective) was constructed to measure the net present value (NPV) of various vaccination scenarios, as well as the cost/case and cost/death averted. Input values included hospitalization costs from $10,924 to $24,030 per hospitalization; immunization costs (vaccine plus administration costs) from $54 to $88 per vaccine; 30 nonfatal, vaccine-preventable cases over a 4-year period (includes 3 with sequelae); 3 premature deaths; value of human life from $1.2 million to $4.8 million; and long-run sequelae costs from $1298 to $14,600. Sensitivity analyses were also conducted on vaccine efficacy (80% to 90%); discount rate (0% to 5%); and coverage (60% to 100%).
+
+Results: The costs of vaccination outweighed the benefits gained with NPVs ranging from −$11 million to −$49 million. The net cost per case averted ranged from $0.6 million to $1.9 million. The net cost per death averted ranged from $7 million to $20 million. The break-even costs of vaccination (when NPV=$0) at 60% coverage ranged from $23 (90% vaccine efficacy) to $5 (80% efficacy).
+
+Conclusions: The model showed that the vaccination program is not cost-saving. Key variables influencing the results were the low number of vaccine-preventable cases and the high cost of vaccination. However, from the perspective of students and parents, the cost of vaccination might be worth the real or perceived benefit of reducing the risk to an individual student of developing meningococcal disease.

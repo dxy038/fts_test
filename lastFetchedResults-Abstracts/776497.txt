@@ -1,0 +1,10 @@
+Several cost models for large-scale solar chimney power plants are available in the literature. However, the results presented vary significantly,
+even in cases where the input parameters and the used models are supposedly very similar. The main objective of this paper is
+to clarify this matter by comparing previous cost models to a newly developed alternative model. Further, the impact of carbon credits on
+the levelised electricity cost is also investigated.
+A reference plant is introduced, with dimensions and financial parameters chosen specifically for the purpose of making the results of
+this analysis comparable to those of previous publications. Cost models are presented for the main components of a solar chimney power
+plant, i.e. the collector, the chimney and the power conversion unit. Results show that previous models may have underestimated the
+initial cost and levelised electricity cost of a large-scale solar chimney power plant. It is also shown that carbon credits significantly reduce
+the levelised electricity cost for such a plant.
+  2008 Elsevier Ltd. All rights reserved.

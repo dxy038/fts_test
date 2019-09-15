@@ -1,0 +1,12 @@
+We developed a new decision-making model with probabilistic information and used the concept of the
+immediate probability to aggregate the information. This type of probability modifies the objective probability
+by introducing the attitudinal character of the decision maker. In doing so, we use the ordered
+weighting average (OWA) operator. When using this model, it is assumed that the information is given
+by exact numbers. However, this may not be the real situation found within the decision-making problem.
+Sometimes, the information is vague or imprecise and it is necessary to use another approach to
+assess the information, such as the use of fuzzy numbers. Then, the decision-making problem can be represented
+more completely because we now consider the best and worst possible scenarios, along with the
+possibility that some intermediate event (an internal value) will occur. We will use the fuzzy ordered
+weighted averaging (FOWA) operator to aggregate the information with the probabilities. As a result,
+we will get the Immediate Probability-FOWA (IP-FOWA) operator. We will study some of its main properties.
+We will apply the new approach in a decision-making problem about selection of strategies.

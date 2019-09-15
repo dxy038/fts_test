@@ -1,0 +1,16 @@
+In this paper we introduce effective data hiding for
+image annotation, High fidelity is a demanding requirement
+for data hiding for images with artistic or medical value. This
+correspondence proposes image watermarking for annotation
+with robustness to moderate distortion. To achieve the high
+fidelity of the embedded image, the model is built by mixing
+the outputs from entropy and a differential localized standard
+deviation filter. The mixture is then low-pass filtered and
+normalized to provide a model that produces substantially
+better perceptual hi-fidelity than existing tools of similar
+complexity. The model is built by embedding two basic
+watermarks: a pilot watermark that locate the existence of
+the watermark and an information watermark that carries a
+payload of several dozen bits. The objective is to embed 32
+bits of metadata into a single image in such a way that it is
+robust to JPEG compression and cropping

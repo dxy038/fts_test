@@ -1,0 +1,1 @@
+In this paper, a no monotone conjugate gradient method for nonlinear optimization is proposed. Under weaker assumption on search direction dk and the mild assumptions on objective function f, the global convergence of the method is established.

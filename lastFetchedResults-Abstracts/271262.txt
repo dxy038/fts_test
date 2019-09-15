@@ -1,0 +1,6 @@
+The objective of this article is to develop boundary element techniques for static analysis
+of cylindrical shell problems. The boundary integral equations are formulated by using the Maxwell-
+Betti reciprocal theorem. On the basis of the singular solutions for shallow cylindrical shells in
+complex variables proposed by Sanders and Simmonds, the displacements and tractions of the shell
+under various concentrated loadings are derived as the kernels in the boundary integrals near the
+singular points.@ 1997 Elsevier Science Ltd.

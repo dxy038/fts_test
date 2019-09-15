@@ -1,0 +1,11 @@
+Objective
+To optimize transduction efficiency of mobilized CD34+ cells with serotype-5 adenoviruses (Ad5s), we investigated the activity of the chemical cocktail BoosterExpress Reagent in enhancing Ad5-mediated gene transfer into CD34+ cells.
+Methods
+
+Enriched CD34+ cells were transduced with three different Ad5s at increasing multiplicity of infections (MOIs) in the presence and absence of BoosterExpress Reagent. Percentages of transduced cells and levels of transgene expression were quantified by flow cytometry. Propidium iodide staining and colony growth were used to assess the toxicity of the transduction protocol. Expression of adenovirus receptors was investigated by flow cytometry.
+Results
+
+Irrespective of the Ad5 used, transduction with BoosterExpress Reagent using an MOI of 500 resulted in an average six- to seven-fold increase of transduction efficiencies and 1.5- to 2-fold increase of the levels of transgene expression, which could be detected up to 7 days post-transduction. Although BoosterExpress Reagent alone did not affect the plating efficiency of CD34+ cells, adenovector transduction plus BoosterExpress Reagent significantly reduced the plating efficiency due to the marked increase of transduced cells. However, adenoviral transduction in the presence of BoosterExpress Reagent failed to significantly reduce the recovery of CD34+ cells as compared with transduction in the absence of the compound. Coxsackievirus and adenovirus receptor as well as αvβ3, αvβ5, α5, and β1 integrins were upregulated by BoosterExpress Reagent.
+Conclusions
+
+BoosterExpress Reagent allows high-levels of durable transgene expression, thus making CD34+ cells a suitable target for Ad5-mediated gene transfer.

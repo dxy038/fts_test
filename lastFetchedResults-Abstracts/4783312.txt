@@ -1,0 +1,1 @@
+This paper reports on the stability of bidirectional wavelength division multiplexing (WDM) ring network immune to power transient due to channel number reconfiguration. This architecture allows flexible traffic re-routing and network operation even in case of node failure or fiber cut.

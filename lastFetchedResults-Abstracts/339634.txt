@@ -1,0 +1,11 @@
+Objective
+Cord blood contains a significant number of precursor cells that differentiate to cytotoxic effector cells and immunoregulatory cells. We tried to expand inhibitory natural killer cell receptor CD94-expressing CD8 T cells with cytolytic activity and CD4+CD25+ regulatory T cells from the same cord cell unit.
+Methods
+
+Cytotoxic CD94-expressing CD8 T cells were expanded from CD4-depleted cord blood using an immobilized anti-CD3 monoclonal antibody and a cytokine and also CD4+CD25+ regulatory T cells were expanded from a CD4-enriched fraction derived from the same cord blood unit using anti-CD3/CD28 monoclonal antibody–coated Dynabeads and cytokines.
+Results
+
+We were able to obtain a more than 1000-fold expansion of CD94-expressing CD8 T cells and a more than 50-fold expansion of CD4+CD25+ cells from the same cord blood unit. These expanded CD4+CD25+ cells expressed FoxP3 mRNA at a level about 100-fold higher than that in isolated CD25− cells and could suppress allogeneic mixed lymphocyte culture by >80% (effector cells: CD4+CD25+ cells = 2:1). Cytolytic activities of purified CD94–expressing cells detected by a 4-hour 51Cr release assay against K562 were >60%. Coculture of CD94-expressing cells with expanded CD4+CD25+ cells did not have any effect on cytolytic activities of purified CD94–expressing cells against K562 cells.
+Conclusion
+
+These expanded cytolytic CD94–expressing CD8 cells might be able to induce a graft-vs-leukemia effect without enhancing graft-vs-host disease, and CD4+CD25+ cells might be able to suppress allogeneic responses, including graft-vs-host disease and graft rejection after cord blood transplantation.

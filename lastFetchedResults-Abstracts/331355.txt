@@ -1,0 +1,8 @@
+Objective
+As a typical non-carious cervical lesion, abfraction is a common clinical occurrence which requires restorative treatment in most patients. Nonetheless, the relatively poor clinical longevity of cervical dental used for restoring abfraction lesions has been a major concern of dentists and patients. The continuing loss of hard tissue and, in turn, the low retention of the restorative materials in situ motivates an in-depth exploration of the failure mechanism of the biomaterials involved. Despite considerable biomechanical relevance, conventional application of linear static finite element analysis (FEA) does not consider the fracture failure process, nor does it provide a quantitative predictive analysis for restorative design. This paper adopts a novel Rankine and rotating crack model to trace the fracture failure process of the cervical restorations.
+Methods
+
+In contrast to the existing linear FEA, this study presents a nonlinear fracture analysis in an explicit finite element framework, which involves an automatic insertion of initial crack, mesh updating for crack propagation and self contact at the cracked interface.
+Results
+
+The results are in good agreement with published clinical data, in terms of the location of the fracture failure of the simulated restoration and the inadequacy of the dental restoratives for abfraction lesions. The success of the proposed model also demonstrates the potential for the monitoring and prediction of mechanical failure in other brittle biomaterials in a clinical situation.

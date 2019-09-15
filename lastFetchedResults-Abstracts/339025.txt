@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to reveal the mechanisms by which tumor necrosis factor-α (TNF-α) inhibits immature human day-4 burst-forming units-erythroid (BFU-E) and the effect of stem cell factor (SCF) on this process.
+Methods
+
+Sequential density-gradient centrifugation, depletion of lymphocytes, removal of adherent cells, and negative selection with CD2, CD11b, CD16, and CD45 monoclonal antibodies were used to purify day-1 BFU-E, which were then incubated for 3 days to generate day-4 cells. The day-4 cells were incubated with TNF-α, and/or SCF, and the extent of apoptosis was gauged by morphologic observations, TUNEL assays, and Western blots.
+Results
+
+The cell number and the number and size of erythroid colonies were significantly reduced when day-4 cells were incubated with TNF-α. Apoptosis was observed in single-cell plasma clot assays. TUNEL assays showed 20% ± 6% apoptotic cells with TNF-α while controls had 2.8% ± 2.2%. Caspases 3 and 8 were strongly activated while the amount of CDK6 was reduced by TNF-α. When SCF, a potent stimulator of cell growth, was added with TNF-α, cell growth inhibition was reduced and the apoptotic cells decreased to 0.9% ± 1.2%. The activations of caspase 3 and caspase 8 were almost completely blocked by SCF while CDK6 and the FLICE-inhibitory protein (FLIP) were increased.
+Conclusions
+
+Our results indicate that in immature human BFU-E, TNF-α downregulates CDK6 but also directly produces apoptosis which is prevented by SCF.

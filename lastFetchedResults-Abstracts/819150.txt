@@ -1,0 +1,23 @@
+Abstract — Parallel program represented by an edgedirected
+acyclic graph (DAG) based on homogenous
+processors. The objective is to minimize the execution time,
+evaluate and compare the performance of the individual
+algorithms and select the best algorithm. For this purpose
+various tasks scheduling algorithms are available like BNP,
+UNC, TDB and APB. All the models of algorithms are used
+in various cases where BNP is used for bounded number of
+processors i.e. in this case the number of processors is fixed,
+UNC is for unbounded number of processors i.e. where the
+number of processors is not fixed and it changes. For
+mapping the tasks onto to processor in a parallel system,
+DAG plays an important role. DAG represents the tasks and
+their computational times along with the communications
+times in between them. It makes easy representation of the
+task in graphical fashion. The execution times of tasks on
+multiple processors depicted using Gantt charts, help in
+analyzing the starting and ending times of multiple tasks.
+The performance factor of task scheduling algorithms is
+calculated using various measures which includes the
+Makespan, Average processor utilization, SpeedUp and the
+Scheduled Length Ratio. All these factors help in effectively
+measuring the performance of algorithms.

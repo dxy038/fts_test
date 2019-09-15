@@ -1,0 +1,1 @@
+A new technique for simultaneous bidirectional data transmission on a single monomode fibre is described. The link is implemented by employing a single light source at one end of the fibre and a reflective modulator at the other. Simultaneous transmission of 565 Mbit/s and 34 Mbit/s signals is reported with BER &lt; 10-9 in each case.

@@ -1,0 +1,1 @@
+The objective of this article is to derive the necessary optimality conditions, known as Pontryagin's minimum principle, for fuzzy optimal control problems based on the concepts of differentiability and integrability of a fuzzy mapping that may be parameterized by the left and right-hand functions of its $\alpha$-level sets.

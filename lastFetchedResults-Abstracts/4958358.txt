@@ -1,0 +1,1 @@
+In this paper we extend the analysis of by comparing delay in protocols using retransmission and packet encoding for bidirectional unicast communication over a satellite channel, where the signal propagation delay is significant. We derive results on the total sender-receiver delay based on analysis and computer simulation for a Bernoulli packet arrival distribution.

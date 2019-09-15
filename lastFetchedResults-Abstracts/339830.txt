@@ -1,0 +1,11 @@
+Objective
+The zebrafish is an established model system for studying the embryonic emergence of tissues and organs, including the hematopoietic system. We hypothesized that key signaling pathways controlling embryonic hematopoiesis continue to be important in the adult, and we sought to develop approaches to test this in zebrafish, focused on the bone morphogenetic protein (BMP) signaling pathway. Functions for this pathway in adult hematopoiesis have been challenging to probe in other models.
+Materials and Methods
+
+Several approaches tested the function of BMP signaling during adult zebrafish hematopoiesis. First, we evaluated steady-state hematopoiesis in adult fish that are heterozygous for mutant alleles of Smad5, or are homozygous for mutant alleles, and rescued to adulthood by injection of RNA encoding Smad5. Second, we tested the relative ability of smad5 mutant fish to recover from hemolytic anemia. Third, we generated a transgenic line that targets the expression of a dominant-negative BMP receptor to adult-stage Gata1+ progenitor cells.
+Results
+
+Adult fish with a strong mutant smad5 allele are anemic at steady state and, in addition, respond to hemolytic anemia with kinetics that are altered compared to wild-type fish. Fish expressing a mutant BMP receptor in early Gata1+ definitive progenitors generate excessive eosinophils.
+Conclusions
+
+Our study provides proof of principle that regulation of adult hematopoiesis can be studied in zebrafish by altering specific pathways. We show that the BMP signaling pathway is relevant for adult hematopoiesis to maintain steady state erythropoiesis, control the erythropoietic response following stress anemia, and to generate normal numbers of eosinophils.

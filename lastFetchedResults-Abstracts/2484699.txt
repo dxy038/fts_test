@@ -1,0 +1,56 @@
+  
+   
+   
+   
+   
+      
+   
+  
+  MicrosoftInternetExplorer4  Background and Objectives: Environmental pollution and health risks of dyestuffs
+extensively are caused by many industries. Nonbiodegradability of dyes is
+important so that different methods are studied for removing them. The use of
+white rot fungi is promising technique in this regard. Therefore, objective of
+this work is to investigate Rimazol Brilliant Blue Royal decolorization by
+immobilized Ganoderma sp. in sodium alginate from aqueous solution.Material and Methods: This is an experimental study. First, the nutritional, environmental, and
+operational conditions of decolorization process were optimized. Then,
+efficiency of immobilized fungal cells was investigated. Experimental designs
+were provided using fractional factorial methods and quadratic model was fitted
+on decolorization data by MiniTab software.Results: Our findings
+showed that type and concentration of carbon source, temperature, and pH were
+the most important factors affecting decolorization and statistically
+significant. Optimal conditions to 95.3 percent color removal were: glycerol as
+carbon source at 19.14 g/L; temperature, 27 oC and initial pH, 6.26. Moreover,
+decolorization efficiency increased from 75 percent up to 95 percent by improving
+process and fungal immobilization.Conclusion: Ganoderma
+fungus has suitable potential to decolorization. Besides, optimization and cell
+immobilization can improve its capability. Application of experimental design
+to research methodology is important because of decreasing in experiments and
+saving resources. It is suggested to use these potentials in environmental
+pollution control.
+ 
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+
+

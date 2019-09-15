@@ -1,0 +1,8 @@
+Objective
+metrical questionnaires such as the Barrat’s impulsiveness scale version 11 (BIS-11) have been used in the assessment of suicidal behavior. Traditionally, BIS-11 items have been considered as equally valuable but this might not be true. The main objective of this article is to test the discriminative ability of the BIS-11 and the international personality disorder evaluation screening questionnaire (IPDE-SQ) to predict suicide attempter (SA) status using different classification techniques. In addition, we examine the discriminative capacity of individual items from both scales.
+als and methods
+periments aimed at evaluating the accuracy of different classification techniques were conducted. The answers of 879 individuals (345 SA, 384 healthy blood donors, and 150 psychiatric inpatients) to the BIS-11 and IPDE-SQ were used to compare the classification performance of two techniques that have successfully been applied in pattern recognition issues, Boosting and support vector machines (SVM) with respect to linear discriminant analysis, Fisher linear discriminant analysis, and the traditional psychometrical approach.
+s
+st discriminative BIS-11 and IPDE-SQ items are “I am self controlled” (Item 6) and “I often feel empty inside” (item 40), respectively. The SVM classification accuracy was 76.71% for the BIS-11 and 80.26% for the IPDE-SQ.
+sions
+DE-SQ items have better discriminative abilities than the BIS-11 items for classifying SA. Moreover, IPDE-SQ is able to obtain better SA and non-SA classification results than the BIS-11. In addition, SVM outperformed the other classification techniques in both questionnaires.

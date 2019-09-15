@@ -1,0 +1,11 @@
+Objective
+The purpose of this study was to evaluate the reproducibility of estimates of neurophysiological activity obtained with Magnetic Source Imaging.
+Methods
+Split-half data sets were obtained from 14 healthy volunteers during performance of a continuous recognition task for spoken words. The concurrent validity of spatiotemporal activation maps obtained with this task has been previously verified through comparisons with the Wada test and electrocortical stimulation mapping. Consecutive late activity sources (>200 ms after stimulus onset) were modeled independently as equivalent current dipoles (ECDs) and used to identify the location of language-specific cortex in the left hemisphere (Wernicke's area).
+Results
+Linear displacement of the geometric center of the cluster of ECDs in this region ranged between 2 and 8 mm across subjects. Intraparticipant variability (range) in the onset latency of activity was ±50 ms, while the range of change in global field power for the entire set of ECDs in Wernicke's area was less than 17% in all cases.
+Conclusions
+The results indicate that despite its many conceptual limitations the ECD model can provide reliable estimates of regional cortical activity associated with the engagement of linguistic processes.
+Significance
+The results highlight the need for reproducibility studies when research questions pose particular requirements for precision of estimates of regional neurophysiological activity.
+

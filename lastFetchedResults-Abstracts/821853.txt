@@ -1,0 +1,1 @@
+Sets of points are called separable if their convex hulls are disjoint. We suggest a technique for optimally partitioning of a set N into two separable subsets, N1, N2. We assume that a monotone measure, μ, is defined over the subsets of N, and the objective is to minimize max{μ(N1),μ(N2)}.

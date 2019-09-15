@@ -1,0 +1,13 @@
+In this paper we have designed a remote power
+control based on both an embedded board and on ZigBee
+communication. This design consists of two parts that regard
+as the essential two Control parts, the ZigBee control module
+and the server module. Where, The main objective of this
+article is show the control of electro-electronics devices using
+a PC software and a embedded system, sending and receiving
+remote data around one kilometer. The text shows the
+radiofrequency interface, the choice and programming of a
+microcontroller and the PC software that controls it and also
+provides a detailed description of the proposed system, from
+design to implementation, as well as the results of the
+demonstration experiment

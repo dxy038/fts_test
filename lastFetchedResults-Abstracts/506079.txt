@@ -1,0 +1,5 @@
+The main objective of this paper is to study the relationship between the energy consumption (energy use intensity), economic growth, and C02 emission in Iran. To that end, we use time series data of Iran during 1967-2004. In order to examine the long-run relationship among these variables, the Johanson-Juselius cointegration method is used along with VECM.
+
+The main finding of this study shows that energy consumption, economic growth, Trode openness, and urban population have positive effects on C02 emission.
+
+JEL Classification: C22, 013, Q4, Q53

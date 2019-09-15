@@ -1,0 +1,12 @@
+Crop models need more evaluation and study for use in deficit irrigation. The main objective of
+this paper was to study the efficiency and accuracy of DSSAT model, in estimating of moisture in
+the soil profile under two levels of water application in silage maize field. Two irrigation treatments
+including deficit irrigation (0.7 SMD), and a full irrigation (SMD) were considered for two years.
+Soil moisture was measured daily in different layers of the soil profile. After the model was
+calibrated, the results of the model were compared in soil profile with measured values in the field.
+The results indicated that RMSE of model in estimating soil moisture for different treatments,
+depending on depth, is between 1.8 and 13.6 percent volumetric moisture. Systematic error of
+model in estimating total water in the soil profile was between 1.985 and 5.7. On the other hand, the
+greatest error in estimating moisture has always happened in the first layer of the soil profile.
+Overall, considering the nature of water movement in the soil, the DSSAT model could be
+recommended to be used in deficit irrigation conditions.

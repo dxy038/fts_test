@@ -1,0 +1,21 @@
+Color quantization reduces the number of the
+colors in a color image, while the subsequent dithering operation
+attempts to create the illusion of more colors with this reduced
+palette. In quantization, the palette is designed to minimize the
+mean squared error (MSE). However, the dithering that follows
+enhances the color appearance at the expense of increasing the
+MSE. We introduce three joint quantization and dithering algorithms
+to overcome this contradiction. The basic idea is the same
+in two of the approaches: introducing the dithering error to the
+quantizer in the training phase. The fuzzy C-means (FCM) and the
+fuzzy learning vector quantization (FLVQ) algorithms are used
+to develop two combined mechanisms. In the third algorithm, we
+minimize an objective function including an inter-cluster separation
+(ICS) term to obtain a color palette which is more suitable for
+dithering. The goal is to enlarge the convex hull of the quantization
+colors to obtain the illusion of more colors after error diffusion.
+The color contrasts of images are also enhanced with the proposed
+algorithm. We test the results of these three new algorithms using
+quality metrics which model the perception of the human visual
+system and illustrate that substantial improvements are achieved
+after dithering.

@@ -1,0 +1,9 @@
+Study objective
+We evaluate the effect of a modification of the University of California–Davis Pediatric Head Injury Rule on the ability of the decision instrument for pediatric head injury to predict clinically important intracranial injury in an external cohort.
+Methods
+We analyzed data prospectively recorded in 1,666 pediatric patients enrolled in the derivation set of the National Emergency X-Radiography Utilization Study II (NEXUS II). Treating physicians at 21 emergency departments recorded the presence or absence of clinical predictors on all patients who received a head computed tomography (CT) scan after experiencing blunt head trauma. Predictors included 3 exact elements of the University of California–Davis Rule (abnormal mental status, signs of skull fracture, and scalp hematoma in children ≤2 years of age), some with different wording, and 2 modified elements with new definitions (the presence of high-risk vomiting or severe headache, rather than any vomiting or headache).
+Results
+A significant intracranial injury was identified by CT in 138 (8.3%) patients. Sensitivity of the modified instrument to detect significant intracranial injury was 90.4% (95% confidence interval [CI] 85.4% to 95.4%); 13 children with such an injury were misclassified as low risk. Specificity of the modified instrument was 42.7% (95% CI 40.1% to 45.3%).
+Conclusion
+In the NEXUS II cohort, a modified version of the University of California–Davis Rule misclassified a substantial proportion of pediatric patients with clinically important blunt head injury. Although we cannot evaluate the exact University of California–Davis Rule, we demonstrate that using stricter definitions of “headache” and “vomiting” and different wording than in the original study may have unintended or negative consequences. We emphasize the importance of careful attention to precise definitions of clinical predictors when a decision instrument is used.
+

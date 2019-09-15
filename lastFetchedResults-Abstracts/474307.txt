@@ -1,0 +1,9 @@
+Background
+The objective of this study was to assess whether antihypertensive treatment affects the predictive power of brachial pulse pressure.
+Methods
+Data from the First National Health and Nutrition Examination Survey Epidemiologic Follow Up Study were used to conduct Cox regression analyses. There were 487 cardiovascular disease (CVD) and 348 coronary heart disease (CHD) deaths during an 8.6-year follow-up among 2939 hypertensive subjects 33 to 87 years of age. A correction was made for the regression–dilution bias.
+Results
+Pulse pressure (PP) was a significant single predictor for treated, but not untreated, hypertensive subjects. The hazard ratio (95% confidence interval) for CVD mortality for an 10–mm Hg increment of PP was 1.16 (95% CI = 1.08 to 1.25) for treated hypertensive subjects, and 1.12 (95% CI = 0.99 to 1.26) for untreated hypertensive subjects. Also, PP was a significant predictor after accounting for the effects of mean arterial pressure (MAP), but only in treated hypertensive subjects. The pattern was opposite for diastolic pressure (DBP). Analysis of antihypertensive treatment trends suggests that clinicians focused treatment more on hypertensive subjects with elevated DBP and low PP during the 1970s and early 1980s, thereby causing DBP to become a weak predictor and PP a strong predictor among treated hypertensive subjects. This tendency was particularly noticeable at higher ages. For instance, among hypertensive subjects ≥65 years of age during this period, the percentage who were treated increased from 7.6% to 45.0%, and the ratio of subjects with isolated systolic hypertension to those with isolated diastolic hypertension among those who were untreated increased from 11.2 to 45.1.
+Conclusions
+The findings of this prospective study suggest that antihypertensive treatment can alter the predictive strength of PP and other blood pressure measures.
+

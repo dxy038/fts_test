@@ -1,0 +1,11 @@
+Objective
+Various preparative protocols have been proposed for the acquisition and cultivation of mesenchymal stem cells (MSC). Whereas surface antigen markers have failed to precisely define this population, microarray analysis might provide a better tool for characterization of MSC.
+Methods
+
+In this study, we have analyzed global gene expression profiles of human MSC isolated from adipose tissue (AT), from umbilical cord blood (CB), and from bone marrow (BM) under two growth conditions and have compared them to terminally differentiated human fibroblasts (HS68). Profiles were compared using our Human Genome Microarray representing 51.144 different cDNA clones.
+Results
+
+Cultured with the appropriate conditions, osteogenic and adipogenic differentiation could be confirmed in all MSC preparations but not in fibroblasts. No phenotypic differences were observed by flow cytometry using a panel of 22 surface antigen markers. Whereas MSC derived from different donors using the same culture procedure yielded a consistent and reproducible gene expression profile, many genes were differentially expressed in MSC from different ontogenetic sources or from different culture conditions. Twenty-five genes were overlapping and upregulated in all MSC preparations from AT, CB, and BM as compared to HS68 fibroblasts. These genes included fibronectin, ECM2, glypican-4, ID1, NF1B, HOXA5, and HOXB6. Many genes upregulated in MSC are involved in extracellular matrix, morphogenesis, and development, whereas several inhibitors of the Wnt pathway (DKK1, DKK3, SFRP1) were highly expressed in fibroblasts.
+Conclusion
+
+Our results have provided a foundation for a more reproducible and reliable quality control using genotypic analysis for defining MSC.

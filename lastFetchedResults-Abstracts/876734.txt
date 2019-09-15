@@ -1,0 +1,5 @@
+We present some Farkas-type results for inequality systems involving finitely many functions. Therefore
+we use a conjugate duality approach applied to an optimization problem with a composed convex objective
+function and convex inequality constraints. Some recently obtained results are rediscovered as special cases
+of our main result.
+© 2005 Elsevier Inc. All rights reserved.

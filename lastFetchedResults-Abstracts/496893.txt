@@ -1,0 +1,18 @@
+Recently, Shimotsu and Phillips (2005, Annals of Statistics 33, 1890–1933) developed
+a new semiparametric estimator, the exact local Whittle (ELW) estimator, of the
+memory parameter (d) in fractionally integrated processes. The ELW estimator has
+been shown to be consistent, and it has the same N(0, 14
+) asymptotic distribution for
+all values of d, if the optimization covers an interval of width less than 9/2 and the
+mean of the process is known.With the intent to provide a semiparametric estimator
+suitable for economic data, we extend the ELW estimator so that it accommodates
+an unknown mean and a polynomial time trend. We show that the two-step ELW
+estimator, which is based on a modified ELW objective function using a tapered
+local Whittle estimator in the first stage, has an N(0, 14
+) asymptotic distribution for
+d ∈ (−12
+,2) (or d ∈ (−12
+, 74
+) when the data have a polynomial trend). Our simulation
+study illustrates that the two-step ELW estimator inherits the desirable properties of
+the ELW estimator.

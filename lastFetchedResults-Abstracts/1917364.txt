@@ -1,0 +1,15 @@
+In this research, we use Artificial Bee Colony (ABC) algorithm to
+solve cell to switch assignment problem (CTSAP) that is NP-hard. In
+CTSAP, there are cells and switches in which cells locations are
+predetermined. The objective of problem is optimal assigning of cells
+to switches with minimum cost. Here, we have two kinds of costs,
+handoff and cabling costs. Call handling capacity for every switches
+are given and equal. The model of our work is single homed that is
+each cell must connect to only one switch. The mathematical model is
+binary and nonlinear.
+The program is coded by MATLAB 7.8.0 (R2009a). After estimating
+parameters values of model, approving performance accuracy of code
+and adjusting control parameters, the efficiency of algorithm by
+determining experimental problems compared to Ant Colony
+Optimization (ACO) that is one of the best for solving this problem.
+Results show satisfactory performance of ABC algorithm

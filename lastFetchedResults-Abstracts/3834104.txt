@@ -1,0 +1,1 @@
+The objective of this note is to determine, for several example channels, how much the correspondence between reference and modulated carriers is degraded by an arbitrary offset in time-frequency (TF) space. The amount of this time-frequency offset is shown to determine the effective signal energy of the transmitted signals.

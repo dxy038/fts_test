@@ -1,0 +1,9 @@
+Study objective
+We compare the performance of a wrist blood pressure oscillometer with the mercury standard in the triage process of an emergency department (ED) and evaluate the impact of wrist blood pressure measurement on triage decision.
+Methods
+Blood pressure was successively measured with the standard mercury sphygmomanometer and with the OMRON-RX-I wrist oscillometer in a convenience sample of 2,493 adult patients presenting to the ED with non–life-threatening emergencies. Wrist and mercury measures were compared using criteria of the Association for the Advancement of Medical Instrumentation (AAMI) and the British Hypertension Society (BHS). The impact on triage decisions was evaluated by estimating the rate of changes in triage decisions attributable to blood pressure results obtained with the wrist device.
+Results
+Wrist oscillometer failed to meet the minimal requirements for recommendation by underestimating diastolic and systolic blood pressure. Mean (±SD) differences between mercury and wrist devices were 8.0 mm Hg (±14.7) for systolic and 4.2 mm Hg (±12.0) for diastolic measures. The cumulative percentage of blood pressure readings within 5, 10, and 15 mm Hg of the mercury standard was 32%, 58%, and 72% for systolic, and 40%, 67%, and 83% for diastolic measures, respectively. Using the wrist device would have erroneously influenced the triage decision in 7.6% of the situations. The acuity level would have been overestimated in 2.2% and underestimated in 5.4% of the triage situations.
+Conclusion
+The performance of the OMRON-RX-I wrist oscillometer does not fulfill the minimum criteria of AAMI and BHS compared with mercury standard in the ED triage setting.
+

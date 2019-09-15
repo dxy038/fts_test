@@ -1,0 +1,11 @@
+Objective
+Current in vitro techniques for isolating leukemia-reactive cytotoxic T lymphocytes (CTLs) from healthy donors are of relatively low efficiency and yield responder populations with unknown biological significance. This study aimed at the development of a more reliable approach, allowing generation and expansion of acute myeloid leukemia (AML)-reactive CTLs using primary in vitro stimulation.
+Materials and Methods
+
+We established allogeneic mini-mixed lymphocyte-leukemia cultures (mini-MLLCs) by stimulating donor CD8+ T cells with human leukocyte antigen (HLA) class I–matched AML blasts in microtiter plates. Before culture, CD8+ T cells were separated into CD62L(high)+ and CD62L(low)+/neg subsets enriched for naive/central memory and effector memory cells, respectively.
+Results
+
+In eight different related and unrelated donor/AML pairs, numerous CTL populations were isolated that specifically lysed myeloid leukemias in association with various HLA-A, -B, or -C alleles. These CTLs expressed T-cell receptors of single Vβ-chain families, indicating their clonal origin. The majority of CTL clones were obtained from mini-MLLCs initiated with CD62L(high)+ cells. Using antigen-specific stimulation, multiple CTL populations were amplified to 108–1010 cells within 6 to 8 weeks. Three of four representative CTL clones were capable of completely preventing engraftment of human primary AML blasts in nonobese diabetic/severe combined immune deficient IL2Rγnull mice.
+Conclusion
+
+The mini-MLLC approach allows the efficient in vitro expansion of AML-reactive CTL clones from CD8+CD62L(high)+ precursors of healthy donors. These CTLs can inhibit leukemia engraftment in immunodeficient mice, suggesting their potential biological relevance.

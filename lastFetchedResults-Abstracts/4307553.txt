@@ -1,0 +1,1 @@
+With the purpose of reducing the crosstalk caused by Rayleigh backscattering in bidirectional centralized light systems, we propose a reflective ONU design that performs wavelength shifting by means of combined phase and SSB modulation.

@@ -1,0 +1,8 @@
+AbstractPurpose
+ thromboembolism (VTE) is associated with renal cell carcinoma (RCC), but data on the effect of comorbidities are limited. Therefore, our purpose was to determine the effect of comorbidity on VTE risk among patients with RCC.
+als and methods
+lation-based cohort of all patients with RCC (n = 8,633) diagnosed in Denmark between 1995 and 2010 and a comparison cohort selected from the general population and matched on age, sex, and comorbidities (n = 83,055) were identified. Risk of subsequent VTE was estimated with 95% CI for the first 3 months, 1 year, and 5 years following cancer diagnosis. We stratified by Charlson comorbidity index (CCI) scores to estimate excess risk in patients with RCC vs. the comparison cohort within comorbidity strata. We also performed subanalyses for postoperative VTE and metastases.
+s
+sk was higher in the RCC compared with comparison cohort, particularly during the initial year following diagnosis (risk difference = 9.9 per 1,000 persons [95% CI: 7.7–12.2]). After stratifying by CCI, excess risk declined with increasing comorbidities. The risk difference was 12.3 per 1,000 persons (95% CI: 9.1–15.5) for CCI = 0 and 0.5 (95% CI: 6.0–7.0) for CCI = 4. Excess risk also declined with increasing comorbidities among patients with postoperative VTE and among those with metastases.
+sions
+ associated with increased risk of VTE when compared with a matched general population cohort. Risk did not appear to increase with added comorbidity burden. Clinical attention to VTE risk in patients with RCC is appropriate regardless of the presence or absence of comorbidities.

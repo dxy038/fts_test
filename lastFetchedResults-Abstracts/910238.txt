@@ -1,0 +1,6 @@
+The objective of this study is to present a novel tool for predictive modelling of urban growth. The proposed tool, named iCity e Irregular
+City, extends the traditional formalization of cellular automata (CA) to include an irregular spatial structure, asynchronous urban growth, and
+a high spatio-temporal resolution to aid in spatial decision making for urban planning. The iCity software tool was developed as an embedded
+model within a common desktop geographic information system (GIS) with a user-friendly interface to control modelling operations for urban
+land-use change. This approach allows the model developer to focus on implementing model logic rather than developing an entire stand-alone
+modelling application. It also provides the model user with a familiar environment in which to run the model to simulate urban growth.

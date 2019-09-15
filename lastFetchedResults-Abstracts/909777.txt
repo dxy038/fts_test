@@ -1,0 +1,11 @@
+Computer programs to simulate traffic flow offer an opportunity to evaluate new strategies for reducing delays, congestion, fuel
+consumption and pollution. This paper describes a Statistical Traffic Model or STM, which is based on accepted macro-modelling
+concepts, such as the conservation of vehicles and the fundamental traffic diagram. In this case, the model is constructed
+using the well known Matlab/Simulink2 software package, so providing an integrated approach for data processing, graphical
+presentation of data, control system design and macroscopic simulation in one straightforward to use, widely available environment.
+To illustrate the methodology, the STM is applied to a section of the M3/M27 Ramp Metering Pilot Scheme in the UK. This
+Highways Agency sponsored project, based in the Southampton area, utilises traffic lights at the on-ramp entrances to regulate
+access to the main carriageway of the motorway, in an attempt to maintain flow close to the capacity. The paper utilises the
+model to help design a locally-coordinated ramp metering algorithm, based on proportional-integral-plus (PIP) control methods.
+In this manner, the STM proves particularly valuable for the application of multi-objective optimisation techniques in the design
+of new trafficmanagement systems.

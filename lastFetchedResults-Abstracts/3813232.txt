@@ -1,0 +1,1 @@
+This paper describes an algorithm which can determine a neighborhood of the global optimum of an objective function as well as an estimate of the global optimum. Given this information, a local optimization procedure can be employed to locate the global optimum. The utility of this algorithm is demonstrated by several examples.

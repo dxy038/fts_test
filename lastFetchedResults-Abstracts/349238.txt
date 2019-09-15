@@ -1,0 +1,11 @@
+Objective
+To evaluate the effectiveness of a new method of using Independent Component Analysis (ICA) and k-means clustering to increase the signal-to-noise ratio of Event-Related Potential (ERP) measurements while permitting standard statistical comparisons to be made despite the inter-subject variations characteristic of ICA.
+Methods
+Per-subject ICA results were used to create a channel pool, with unequal weights, that could be applied consistently across subjects. Signals derived from this and other pooling schemes, and from unpooled electrodes, were subjected to identical statistical analysis of the N170 own-face effect in a Joe/No Joe face recognition paradigm wherein participants monitored for a target face (Joe) presented amongst other unfamiliar faces and their own face. Results between the Joe, unfamiliar face and own face conditions were compared using Cohen’s d statistic (square root of signal-to-noise ratio) to measure effect size.
+Results
+When the own-face condition was compared to the Joe and unfamiliar-face conditions, the channel map method increased effect size by a factor ranging from 1.2 to 2.2. These results stand in contrast to previous findings, where conventional pooling schemes failed to reveal an N170 effect to the own-face stimulus (Tanaka JW, Curran T, Porterfield A, Collins D. The activation of pre-existing and acquired face representations: the N250 ERP as an index of face familiarity. J Cogn Neurosci 2006;18:1488–97). Consistent with conventional pooling schemes, the channel map approach showed no reliable differences between the Joe and Unfamiliar face conditions, yielding a decrease in effect size ranging from 0.13 to 0.75.
+Conclusions
+By increasing the signal-to-noise ratio in the measured waveforms, the channel pool method demonstrated an enhanced sensitivity to the neurophysiological response to own-face relative to other faces.
+Significance
+By overcoming the characteristic inter-subject variations of ICA, this work allows classic ERP analysis methods to exploit the improved signal-to-noise ratio obtainable with ICA.
+

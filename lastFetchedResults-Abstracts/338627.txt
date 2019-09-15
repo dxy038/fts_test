@@ -1,0 +1,13 @@
+Objective
+We define characteristics of a dendritic cell (DC) precursor generated from murine lineage-negative (Lin−) Sca1+ hematopoietic progenitor cells (HPC).
+
+Table 1. In vitro proliferative responses by murine HPC cultured in suspension for 9 days with the indicated cytokinesimage* (x) = number of experiments.‡ p < 0.04 compared to IL-4 or TNF-α addition to optimum growth medium, which significantly inhibits proliferation.
+Materials and Methods
+
+Lin−Sca1+ HPC cultured 9 days in 100 ng/mL stem cell factor (SCF), 20 ng/mL interleukin-3 (IL-3), 50 ng/mL monocyte colony-stimulating factor (M-CSF), 5 ng/mL granulocyte-monocyte colony-stimulating factor (GM-CSF), and 25 ng/mL FLT3-ligand (FLT3-L) proliferate 387-fold and differentiate into DC precursors. Switch to ≥100 ng/mL GM-CSF + 1500 U/mL IL-4 or 500 U/mL tumor necrosis factor-α (TNF-α) for 3 days induces development into immature DC that are responsive to bacterial lipopolysaccharide (LPS)-induced maturation.
+Results
+
+Lin−Sca1+ HPC in the first 9 days of culture differentiate into DC precursors expressing surface CD11bbright, CD11cmod, CD86low-mod, major histocompatibility class II antigen (MHC) IIlow, DEC 205low, but are surface CD40− and contain high levels of intracellular MHC II. Unlike immature DC described by others, these DC precursors are refractory to maturation with LPS and minimally stimulate allogeneic T lymphocytes in mixed leukocyte reactions (MLR). Switch to high-dose GM-CSF alone with IL-4 or TNF-α differentiates these DC precursors into immature DC. LPS treatment of the immature DC results in mature DC that express surface CD40high and CD86high, secrete IL-1β and IL-12, and strongly stimulate MLR.
+Conclusions
+
+These studies define a distinct DC precursor derived from murine HPC that precedes development of immature and mature DC.

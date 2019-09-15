@@ -1,0 +1,1 @@
+This paper investigates the vehicle routing problem (VRP) under multi-objective constraints. More specifically, we consider the distance, fixed cost, time, together with risk simultaneously. To get a quicker and more accurate solution, several improvements are proposed in applying GA for optimization search. Practical test confirms the effectiveness of the proposed method.

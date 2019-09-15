@@ -1,0 +1,1 @@
+This paper considers the problem of designing robust controllers with an H<inf>2</inf> performance objective. A modified version of &#194;&#191;-synthesis is proposed and compared with two alternative schemes.

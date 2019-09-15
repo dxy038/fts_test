@@ -1,0 +1,1 @@
+A stable bidirectional propagation method is developed based on the scattering operators and a complex coefficient Pade approximant to the square root operator. The method is then applied to a grating structure.

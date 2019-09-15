@@ -1,0 +1,11 @@
+Objectives
+Based on the analysis of electromyographic (EMG) data muscles are often characterized as normal or affected by a neuromuscular disease process. The objective of this work was to compare the accuracy of Bayesian muscle characterization to conventional means and outlier analysis of motor unit potential (MUP) feature values.
+Methods
+Quantitative MUP data from the external anal sphincter muscles of control subjects and patients were used to compare the sensitivity, specificity, and accuracy of the methods under examination.
+Results
+The results demonstrated that Bayesian muscle characterization achieved similar accuracy to combined means and outlier analysis. Thickness and number of turns were the most discriminative MUP features for characterizing the external anal sphincter (EAS) muscles studied in this work.
+Conclusions
+Although, Bayesian muscle characterization achieved similar accuracy to combined means and outlier analysis, Bayesian muscle characterization can facilitate the determination of “possible”, “probable”, or “definite” levels of pathology, whereas the conventional means and outlier methods can only provide a dichotomous “normal” or “abnormal” decision. Therefore, Bayesian muscle characterization can be directly used to support clinical decisions related to initial diagnosis as well as treatment and management over time. Decisions are based on facts and not impressions giving electromyography a more reliable role in the diagnosis, management, and treatment of neuromuscular disorders.
+Significance
+Bayesian muscle characterization can help make electrophysiological examinations more accurate and objective.
+

@@ -1,0 +1,8 @@
+Objective
+portance of gene expression data in cancer diagnosis and treatment has become widely known by cancer researchers in recent years. However, one of the major challenges in the computational analysis of such data is the curse of dimensionality because of the overwhelming number of variables measured (genes) versus the small number of samples. Here, we use a two-step method to reduce the dimension of gene expression data and aim to address the problem of high dimensionality.
+s
+ we extract a subset of genes based on statistical characteristics of their corresponding gene expression levels. Then, for further dimensionality reduction, we apply diffusion maps, which interpret the eigenfunctions of Markov matrices as a system of coordinates on the original data set, in order to obtain efficient representation of data geometric descriptions. Finally, a neural network clustering theory, fuzzy ART, is applied to the resulting data to generate clusters of cancer samples.
+s
+mental results on the small round blue-cell tumor data set, compared with other widely used clustering algorithms, such as the hierarchical clustering algorithm and K-means, show that our proposed method can effectively identify different cancer types and generate high-quality cancer sample clusters.
+sion
+oposed feature selection methods and diffusion maps can achieve useful information from the multidimensional gene expression data and prove effective at addressing the problem of high dimensionality inherent in gene expression data analysis.

@@ -1,0 +1,1 @@
+In this paper we introduce a parameterized nonlinear MPC algorithm. Comparing with the classical method, it provides more flexibility in controller design. We discuss its applications in enlarging the attractive region and in multi-objective optimization design. These ideas are demonstrated by a two-mass-spring system example.

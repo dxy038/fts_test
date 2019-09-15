@@ -1,0 +1,11 @@
+Objective
+To identify and estimate the common effect size of HLA-Class II contributing to susceptibility on T1D in Latin America (LA) through a meta-analysis.
+Methods
+
+A systematic review of the literature searching for all HLA-Class II alleles and susceptibility for T1D case–control studies performed in LA was made up to October 2009. Effect summary ORs and 95% CI were obtained by means of the random effect model. A prediction model that identifies peptides binding to HLA-DR alleles that were significantly associated with T1D throughout the meta-analysis was done.
+Results
+
+21 studies were included (1138 cases and 1920 controls). DRB1*0301 (OR: 9.65; 95% CI: 5.69–16.36; p < 0.0001), DRB1*1201 (OR: 4.84; 95% CI: 1.97–11.91; p = 0.001), DQB1*0302 (OR: 4.58; 95% CI: 3.36–6.26; p < 0.0001), DQA1*0301(OR: 3.02; 95% CI: 1.37–6.65; p = 0.0059) and DQB1*0602 (OR: 0.19; 95% CI: 0.11–0.33; p < 0.0001), DRB1*14 (OR: 0.18; 95% CI: 0.06–0.55; p = 0.0024), and DQB1*0501 (OR: 0.47; 95% CI: 0.26–0.83; p = 0.0097) were the most significant alleles associated with T1D. DRB1*0301-DQA1*0501-DQB1*0201 (OR: 13.50; 95% CI: 3.85–47.28; p < 0.0001) and DRB1*1301-DQB1*0603 (OR: 0.25; 95% CI: 0.1–0.65; p = 0.004) were the most significant risk and protective haplotypes associated, respectively. There were peptides binding to significantly HLA-DRB1 alleles and haplotypes found through the meta-analysis from islet cell protein tyrosine phosphatase and glutamic acid decarboxylase.
+Conclusions
+
+These results strengthen the effect of HLA-Class II on T1D in LA similar to Caucasians regardless of the latitudinal gradient and admixture. The shared chemical characteristics in critical pockets could explain the predisposition to present a “diabetogenic peptide” to T cells in this population.

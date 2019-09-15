@@ -1,0 +1,11 @@
+Objective
+The fps/fes proto-oncogene is abundantly expressed in myeloid cells, and the Fps/Fes cytoplasmic protein-tyrosine kinase is implicated in signaling downstream from hematopoietic cytokines, including interleukin-3 (IL-3), granulocyte-macrophage colony-stimulating factor (GM-CSF), and erythropoietin (EPO). Studies using leukemic cell lines have previously suggested that Fps/Fes contributes to granulomonocytic differentiation, and that it might play a more selective role in promoting survival and differentiation along the monocytic pathway. In this study we have used a genetic approach to explore the role of Fps/Fes in hematopoiesis.
+Methods
+
+We used transgenic mice that tissue-specifically express a mutant human fps/fes transgene (fpsMF) that was engineered to encode Fps/Fes kinase that is activated through N-terminal myristoylation (MFps). Hematopoietic function was assessed using lineage analysis, hematopoietic progenitor cell colony-forming assays, and biochemical approaches.
+Results
+
+fpsMF transgenic mice displayed a skewed hematopoietic output reflected by increased numbers of circulating granulocytic and monocytic cells and a corresponding decrease in lymphoid cells. Bone marrow colony assays of progenitor cells revealed a significant increase in the number of both granulomonocytic and multi-lineage progenitors. A molecular analysis of signaling in mature monocytic cells showed that MFps promoted GM-CSF-induced STAT3, STAT5, and ERK1/2 activation.
+Conclusions
+
+These observations support a role for Fps/Fes in signaling pathways that contribute to lineage determination at the level of multi-lineage hematopoietic progenitors as well as the more committed granulomonocytic progenitors.

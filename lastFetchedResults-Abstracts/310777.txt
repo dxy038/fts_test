@@ -1,0 +1,11 @@
+Objective. To provide an accurate, reliable, non-invasive, portable instrument to measure heel pad indentation in a clinical setting.
+
+Design. A novel instrument was applied to assess heel pad indentation.
+
+Background. For the lack of quantitative biomechanical tools for in vivo assessment, palpation is used to evaluate heel pad stiffness subjectively in everyday clinical practice. Furthermore, previous studies have evaluated heel pad stiffness using non-portable instrumentation.
+
+Methods. Cylindrical probe was attached to an electronic force gauge unit that passed through a Perspex plate for placement on heel pad. Displacement of the plate was connected to a linear variable differential transformer. A laptop PC allowed for portability and storage of data. An exponential curve described the force–displacement data. Ten healthy subjects (mean 21.7; SD, 1.7 years) were assessed on ten separate occasions. The procedure was standardised for subject position and placement.
+
+Results. Accuracy and reliability of each device component was established. An intraclass correlation (2,1) of 0.90 and 0.88 demonstrated curve coefficients b1 and b0 respectively. A paired t-test demonstrated no significant difference between the left and right foot coefficients.
+
+Conclusion. The results demonstrated that each system component could be measured accurately and reliable. Reproducible results were obtained over separate occasions. The study has described a method to analyse the force–displacement curve.

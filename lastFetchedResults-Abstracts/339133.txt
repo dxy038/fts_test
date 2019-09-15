@@ -1,0 +1,11 @@
+Objective
+Maintained quiescence of hematopoietic stem cells (HSCs) is of critical importance to prevent premature exhaustion of the stem cell pool under conditions of hematopoietic stress. The growth inhibitory cytokine transforming growth factor β (TGF-β) has been shown to play a critical role in maintaining quiescence of HSCs in vitro. Here, we have used conditional knockout mice for the TGF-β type I receptor (TβRI) to ask whether the naturally quiescent state of HSCs in vivo is dependent on TGF-β signaling and thus whether TGF-β serves as a protective factor for the stem cell pool during conditions of stress.
+Methods
+
+TβRI null and control bone marrow chimeras were subjected to repeated treatments with the cell cycle–specific cytotoxic drug 5-fluorouracil (5-FU) and surviving HSCs were assayed by competitive transplantation experiments. Exhaustion of stem cells was provoked by serially transplanting TGF-β signaling-deficient as well as normal BM cells into lethally irradiated recipients, which were monitored for survival.
+Results
+
+Surprisingly, we found that TGF-β receptor-deficient HSCs have similar susceptibility, compared to controls, to repeated 5-FU treatments, indicative of normally maintained quiescence in these cells. Likewise, hematopoietic failure occurred at similar stages in serially transplanted recipients of TβRI null and control BM, respectively, demonstrating normal consumption of the stem cell pool during hematopoietic stress.
+Conclusions
+
+These findings clearly demonstrate that, despite a key role in vitro, TGF-β does not provide the necessary signal that induces the quiescent state of HSCs and maintains the stem cell pool in vivo.

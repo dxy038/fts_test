@@ -1,0 +1,26 @@
+Airborne fine particulate matter across the United States is monitored by different
+networks, the three prevalent ones presently being the Clean Air Status and Trend Network (CASTNet),
+the Interagency Monitoring of PROtected Visual Environment Network (IMPROVE) and the Speciation
+and Trend Network (STN). If combined, these three networks provide speciated fine particulate data at
+several hundred locations throughout the United States. Yet, differences in sampling protocols and
+samples handling may not allow their joint use. With these concerns in mind, the objective of this study is
+to assess the spatial and temporal comparability of the sulfate, nitrate and ammonium concentrations
+reported by each of these networks. One of the major differences between networks is the sampling
+frequency they adopted. While CASTNet measures pollution levels on seven-day integrated samples, STN
+and IMPROVE data pertain to 24-hour samples collected every three days. STN and IMPROVE data
+therefore exhibit considerably more short-term variability than their CASTNet counterpart. We show that,
+despite their apparent incongruity, averaging the data with a window size of four to six weeks is sufficient
+to remove the effects of differences in sampling frequency and duration and allow meaningful comparison
+of the signals reported by the three networks of concern. After averaging, all the sulfate and, to a lesser
+degree, ammonium concentrations reported are fairly similar. Nitrate concentrations, on the other hand,
+are still divergent. We speculate that this divergence originates from the different types of filters used to
+collect particulate nitrate. Finally, using a rotated principal component technique (RPCA), we determined
+the number and the geographical organization of the significant temporal modes of variation (clusters)
+detected by each network for the three pollutants of interest. For sulfate and ammonium, the clusters’
+geographical boundaries established for each network and the modes of variations within each cluster seem
+to correspond. RPCA performed on nitrate concentrations revealed that, for the CASTNet and
+IMPROVE networks, the modes of variation do not correspond to unified geographical regions but are
+found more sporadically. For STN, the clustered areas are unified and easily delineable. We conclude that
+the possibility of jointly using the data collected by CASTNet, IMPROVE and STN has to be weighed
+pollutant by pollutant. While sulfate and ammonium data show some potential for joint use, at this point,
+combining the nitrate data from these monitoring networks may not be a judicious choice.

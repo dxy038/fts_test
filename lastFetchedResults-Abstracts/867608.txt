@@ -1,0 +1,14 @@
+Cross-docking is a logistics technique that minimizes the storage and order picking functions of a warehouse
+while still allowing it to serve its receiving and shipping functions. The idea is to transfer shipments
+directly from incoming to outgoing trailers without storage in between. In this paper we apply
+five meta-heuristic algorithms: genetic algorithm (GA), tabu search (TS), simulated annealing (SA), electromagnetism-
+like algorithm (EMA) and variable neighbourhood search (VNS) to schedule the trucks in
+cross-dock systems such that minimize total operation time when a temporary storage buffer to hold
+items temporarily is located at the shipping dock. A design procedure is developed to specify and adjust
+significant parameters for GA, TS, SA, EMA and VNS. The proposed procedure is based on the response
+surface methodology (RSM). Two different types of objective functions are considered to develop multiple
+objective decision making model. For the purpose of comparing meta-heuristics, makespan and CPU
+time are considered as two response variables representing effectiveness and efficiency of the algorithms.
+Based on obtained results, VNS is recommended for scheduling trucks in cross-docking systems. Also,
+since for real size problems, it is not possible to reach optimum solution, a lower bound is presented
+to evaluate the resultant solutions.

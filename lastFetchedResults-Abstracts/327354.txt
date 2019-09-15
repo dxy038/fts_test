@@ -1,0 +1,9 @@
+Background
+Earlier cross-sectional studies with functional magnetic resonance imaging (fMRI) in treated patients with schizophrenia have reported abnormalities of cortical motor processing, including reduced lateralization of primary sensory motor cortex. The objective of the present longitudinal study was to evaluate whether such cortical abnormalities represent state or trait phenomena of the disorder.
+Methods
+Seventeen acutely ill, previously untreated patients were studied after 4 weeks and after 8 weeks of olanzapine therapy. Seventeen matched healthy subjects served as control subjects. All subjects underwent two fMRI scans 4 weeks apart during a visually paced motor task using a simple periodic block design. Functional magnetic resonance imaging data were analyzed in Statistical Parametric Mapping (SPM99). Region of interest analyses were used to determine a laterality quotient (an index of lateralization) of motor cortical regions.
+Results
+The fMRI data indicated that patients had reduced activation of the primary sensory motor cortex at 4 weeks but not at 8 weeks; however, the laterality quotient in the primary sensory motor cortex was reduced in patients at both time points.
+Conclusions
+These results suggest that some cortical abnormalities during motor processing represent state phenomena, whereas reduced functional lateralization of the primary sensory motor cortex represents an enduring trait of schizophrenia.
+

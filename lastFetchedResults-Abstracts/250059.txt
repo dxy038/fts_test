@@ -1,0 +1,16 @@
+In the field of the structural analysis of composites, from the design of materials and structures to
+manufacturing, there has been increasing interest in material models which are described on a smaller
+scale than that of the macroscopic structural level.
+The first challenge, which depends on the design objective, consists of building an efficient, yet
+simple, ‘material’ model for the small scale chosen. The main damage mechanisms and their evolution
+must be described correctly. We use two very different composite materials to illustrate the state-ofthe-
+art of this field, the advantages and disadvantages of multiscale models and the current status of
+the research.
+The use of such material models leads to problems with extremely large numbers of degrees of
+freedom. This poses a second challenge, which is to design alternative computational strategies capable
+of solving such engineering problems. The goal is to reduce the calculation cost drastically while, at
+the same time, trying to increase robustness. The second and main part of the paper deals with this
+challenge and its present answers which are mechanics-based multiscale computational strategies with
+homogenization in space and in time.
+The paper should be seen as an overview of the state-of-the-art and the challenges facing the field
+of modelling and computation for composites

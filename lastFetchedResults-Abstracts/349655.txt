@@ -1,0 +1,11 @@
+Objective
+To explore possible EEG power spectrum and coherence differences between patients in minimally conscious state (MCS) and patients with severe neurocognitive disorders (SND), who show signs of awareness. We also try to find EEG cortical sources that differentiate between both conditions using LORETA source analysis.
+Methods
+We studied 16 patients with traumatic brain injury (7 MCS, 9 SND; aged 18–49) and compared EEG power spectra, coherence, and LORETA sources at rest for both groups.
+Results
+EEG power spectra revealed significant differences in the delta range of both conditions. Patients in MCS showed a notably increased power in this band, compared to SND patients. LORETA analysis showed that posterior sources of delta and theta frequencies had higher amplitude in MCS patients than in SND patients. Regarding fast frequencies, lower source magnitudes in temporal and frontal lobes were found for MCS patients.
+Conclusions
+Our results stress the importance of fronto-temporal–parietal associative cortices within the “awareness-regions” model. Our results also suggest a relation between excess of slow wave activity and diminished level of awareness in brain injury population.
+Significance
+Neurophysiological correlates in brain damaged patients who are severely impaired could be used to assess the integrity of brain areas responsible for awareness.
+

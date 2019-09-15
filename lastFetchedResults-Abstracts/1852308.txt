@@ -1,0 +1,7 @@
+Objective: This paper proposes a knowledge-based method for arrhythmic beat classification and arrhythmic episode detection and classification using only the RR-interval signal extracted from ECG recordings.
+
+ology: A three RR-interval sliding window is used in arrhythmic beat classification algorithm. Classification is performed for four categories of beats: normal, premature ventricular contractions, ventricular flutter/fibrillation and 2° heart block. The beat classification is used as input of a knowledge-based deterministic automaton to achieve arrhythmic episode detection and classification. Six rhythm types are classified: ventricular bigeminy, ventricular trigeminy, ventricular couplet, ventricular tachycardia, ventricular flutter/fibrillation and 2° heart block.
+
+s: The method is evaluated by using the MIT-BIH arrhythmia database. The achieved scores indicate high performance: 98% accuracy for arrhythmic beat classification and 94% accuracy for arrhythmic episode detection and classification.
+
+sion: The proposed method is advantageous because it uses only the RR-interval signal for arrhythmia beat and episode classification and the results compare well with more complex methods.

@@ -1,0 +1,11 @@
+Objective
+To investigate the temporal relationship between speech auditory brainstem responses and acoustic pattern of the phoneme /ba/.
+Methods
+Speech elicited auditory brainstem responses (Speech ABR) to /ba/ were recorded in 23 normal-hearing subjects. Effect of stimulus intensity was assessed on Speech ABR components latencies in 11 subjects. The effect of different transducers on electromagnetic leakage was also measured.
+Results
+Speech ABR showed a reproducible onset response (OR) 6 ms after stimulus onset. The frequency following response (FFR) waveform mimicked the 500 Hz low pass filtered temporal waveform of phoneme /ba/ with a latency shift of 14.6 ms. In addition, the OR and FFR latencies decreased with increasing stimulus intensity, with a greater rate for FFR (−1.4 ms/10 dB) than for OR (−0.6 ms/10 dB).
+Conclusions
+A close relationship was found between the pattern of the acoustic stimulus and the FFR temporal structure. Furthermore, differences in latency behaviour suggest different generation mechanisms for FFR and OR.
+Significance
+The results provided further insight into the temporal encoding of basic speech stimulus at the brainstem level in humans.
+

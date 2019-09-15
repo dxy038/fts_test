@@ -1,0 +1,1 @@
+Examines an exact polynomial-time algorithm to solve idle vehicle positioning problems in both unidirectional and bidirectional single loop systems to minimize maximum response time. Consideration of potential locations for dwell point; Application of dynamic programming procedure to obtain remaining dwell points; Utilization of optimality properties.

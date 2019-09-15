@@ -1,0 +1,10 @@
+Objective
+per addresses the problem of finding visual patterns in histology image collections. In particular, it proposes a method for correlating basic visual patterns with high-level concepts combining an appropriate image collection representation with state-of-the-art machine learning techniques.
+ology
+oposed method starts by representing the visual content of the collection using a bag-of-features strategy. Then, two main visual mining tasks are performed: finding associations between visual-patterns and high-level concepts, and performing automatic image annotation. Associations are found using minimum-redundancy-maximum-relevance feature selection and co-clustering analysis. Annotation is done by applying a support-vector-machine classifier. Additionally, the proposed method includes an interpretation mechanism that associates concept annotations with corresponding image regions.
+
+thod was evaluated in two data sets: one comprising histology images from the different four fundamental tissues, and the other composed of histopathology images used for cancer diagnosis. Different visual-word representations and codebook sizes were tested. The performance in both concept association and image annotation tasks was qualitatively and quantitatively evaluated.
+s
+sults show that the method is able to find highly discriminative visual features and to associate them to high-level concepts. In the annotation task the method showed a competitive performance: an increase of 21% in f-measure with respect to the baseline in the histopathology data set, and an increase of 47% in the histology data set.
+sions
+perimental evidence suggests that the bag-of-features representation is a good alternative to represent visual content in histology images. The proposed method exploits this representation to perform visual pattern mining from a wider perspective where the focus is the image collection as a whole, rather than individual images.

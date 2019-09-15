@@ -1,0 +1,1 @@
+A new bidirectional electrostatic discharge (ESD) protection device is reported in this letter. It consists of a bidirectional silicon-controlled rectifier and diode strings. Such a structure can offer an effective ESD protection solution for low-voltage integrated circuits due to its small design window, small footprint, and high ESD robustness.

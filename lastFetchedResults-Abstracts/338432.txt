@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to clarify previously reported controversial data and hypotheses concerning the effect of benzene on the cell cycle of hemopoietic stem cells.
+Materials and Methods
+
+In this study, the bromodeoxyuridine UV (BUUV) suicide assay was performed in normal C57BL/6 and p53 knockout (KO) C57BL/6 mice during and after exposure to 300 ppm of benzene for 2 weeks.
+Results
+
+Our kinetic studies revealed that the cell cycle of hemopoietic myeloid progenitor cells (colony-forming unit granulocyte-macrophage [CFU-GM]), rather than being stimulated, was suppressed by exposure to benzene. The fraction of CFU-GM in S phase was significantly depressed, from 37.1% in controls to 16.3% in normal mice. BrdUrd incorporation in both groups revealed significantly different slopes for untreated and benzene-exposed normal C57BL/6 mice. p53 appeared to induce suppression of both the number and the cycling fraction of hemopoietic progenitor cells, as demonstrated by the lack of benzene-induced suppression of these parameters in p53 KO mice. The likelihood that suppression of bone marrow cellularity and cell cycling is mediated by p53 was supported by the upregulation of p21, a cyclin-dependent kinase inhibitor.
+Conclusions
+
+Our present study revealed the mechanism of action of benzene hematotoxicity. Benzene suppresses the cell cycle by p53-mediated overexpression of p21, a cyclin-dependent kinase inhibitor, resulting not simply in suppression of hemopoiesis but rather in a dynamic change of hemopoiesis during and after benzene exposure. Thus, the controversies raised by previously reported data are resolved by our present findings of hemopoietic stem cell kinetics.

@@ -1,0 +1,7 @@
+Objectives.  Though instrumental technologies have been widely used for quantifying color of esthetic dental materials, the sizes for the perceptible or acceptable color-difference varied. Instead of the CIELAB ΔE* image formula, the CIEDE2000 (ΔE00) formula that included weighting and parametric functions was introduced. The objective of this study was to determine the correlation between color-difference values of image and ΔE00 after polymerization and thermocycling of dental resin composites.
+
+Methods. Color-differences were calculated between unpolymerized and polymerized, and between polymerized and thermocycled resin composites. Color was measured relative to the standard illuminant D65 over a white background with SCE geometry. Regression analyses were performed between the color difference values of image and ΔE00.
+
+Results. There were significant correlations between image values and ΔE00 values after polymerization and thermocycling (p<0.01), and the correlation coefficient was 0.99 and 0.98, respectively.
+
+Significance. Within the limit of this study, the results suggest that two color-difference formulas can be used interchangeably for the evaluation of the color-difference of resin composites after polymerization and thermocycling. However, for the evaluation of changes in separate color parameters such as lightness, chroma and hue, the ΔE00 formula could be considered for the color evaluation of esthetic dental materials after confirming with human observer responses.

@@ -1,0 +1,11 @@
+Objective. A method has been developed to accurately measure three-dimensional (3-D) femoral-tibial contact positions of artificial knee implants in vivo from X-ray fluoroscopy images using interactive 3-D computer vision algorithms.
+
+Design. A computerized graphical (CAD) model of an implant component is displayed as an overlay on the original X-ray image. An image matching algorithm matches the silhouette of the implant component against a library of images, in order to estimate the position and orientation (pose) of the component. The operator further adjusts the pose of the graphical model to improve the accuracy of the match.
+
+Background. Previous methods for in vivo measurement of joint kinematics make only indirect measurements of joint kinematics, require invasive procedures such as markers or pins, or make simplifying assumptions about imaging geometry which can reduce the accuracy of the resulting measurements.
+
+Methods. Fluoroscopic videos are taken of implanted knees in subjects performing weight-bearing motion. Images from the videos are digitized and stored on a computer workstation. Using computerized model matching, the relative pose of the two knee implant components can be determined in each image. The resulting information can be used to determine where the two components are contacting, the area of the contact region, liftoff angle, and other kinematic data.
+
+Results. Accuracy tests done on simulated imagery and in vitro real imagery show that the pose estimation method is accurate to less than 0.5 mm of error (RMS) for translations parallel to the image plane. Orientation error is less than or equal to 0.35 ° about any axis. Errors are larger for translations perpendicular to the image plane (up to 2.25 mm). In a clinical study, the method was used to measure in vivo contact points, and characterize the kinematic patterns of two different knee implant designs.
+
+Conclusions. The ability to accurately measure knee kinematics in vivo is critical for the understanding of the behavior of knee implant designs and the ultimate development of new, longer lasting implants.

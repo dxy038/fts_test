@@ -1,0 +1,11 @@
+The objective of this article is to study gas temperature estimation in a partially filled rotating
+cylinder. From the measured temperatures on the shell, an inverse analysis is presented for
+estimating the gas temperature in an arbitrary cross-section of the aforementioned system. A
+finite-volume method is employed to solve the direct problem. By minimizing the objective
+function, a hybrid effective algorithm, which contains a local optimization algorithm, is adopted
+to estimate the unknown parameter. The measured data are simulated by adding random errors to
+the exact solution. The effects of measurement errors on the accuracy of the inverse analysis are
+investigated. Two optimization algorithms are used in determination of the gas temperature. The
+conjugate gradient method is found to be better than the Levenberg-Marquardt method, since
+the former produces more accurate results for the same measurement errors. A good agreement
+between the exact value and the estimated result has been observed for both algorithms.

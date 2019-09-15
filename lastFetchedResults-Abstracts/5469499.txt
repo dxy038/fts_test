@@ -1,0 +1,1 @@
+10Gb/s downstream and 6Gb/s upstream over 40km SSMFs are feasible for double-sideband AMOOFDM signals in wavelength-reused bidirectional-transmission colorless-WDM-PONs incorporating SOA/RSOA intensity modulators in OLTs/ONUs. Such performances are improved to 23Gb/s downstream and 8Gb/s upstream when single-sideband subcarrier-modulation is utilized.

@@ -1,0 +1,1 @@
+Experimental frequency-multiplier circuits are described. For the generation of odd harmonics an unconventional circuit exploits the bidirectional property of the magnetoresistor. For even harmonics a conventional circuit is found to be capable of high efficiency (&gt;70%) for a modest change in magnetoresistance (factor 6).

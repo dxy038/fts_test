@@ -1,0 +1,8 @@
+Objective
+estigate the inhibitory effect of histone deacetylase (HDAC) inhibitors (MS-275 and TSA) on T24 human bladder cancer cells in vitro, and explore the possible mechanism.
+s
+T assay was employed to evaluate the inhibitory effect of MS-275 and TSA on T24 cell growth. FCM was used to analyze the variation of T24 cell cycle distribution and the apoptotic ratio after T24 cells were treated with MS-275 and TSA. Histone acetylation level was detected by Western blot. mRNA expression of p21 WAF1/CIP1, cyclin A, and cyclin E was measured by FQ-PCR. Dynamic changes of Bcl-2 and bax expression were detected by FCM.
+s
+ and TSA inhibited T24 cell growth in a concentration and time-dependent manner. Treatment with 4 μmol/l MS-275 or 0.4 μmol/l TSA blocked cell cycling in the G0/G1 phase and induced a significant increase in cell apoptosis. MS-275 and TSA significantly increased the level of histone acetylation, induced p21CIP1WAF1 mRNA expression, and inhibited cyclin A mRNA expression, though no significant effect was observed on cyclin E. Bcl-2 expression was down-regulated, while bax expression was up-regulated.
+sion
+nhibitors can block bladder cancer cell cycle in vitro and induce apoptosis. The molecular mechanism may be associated with increased level of histone acetylation, down-regulation of p21WAF1/CIP1 expression, up-regulation of cyclin A expression, and dynamic change of bcl-2 and bax expression.

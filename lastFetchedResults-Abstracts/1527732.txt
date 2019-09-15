@@ -1,0 +1,3 @@
+In this paper our main goal is to describe the structure of workflows. A workflow is an abstraction of a business process that consists of one or more tasks to be executed to reach a final objective. In our approach we describe a workflow as a graph whose vertices represent workflow tasks and the arcs represent workflow transitions. Moreover, every arc ( t k , t l ) (i.e., a transition) has attributed a Boolean value to specify the execution/non-execution of tasks t k , t l . With this attribution we are able to identify the natural flow in the workflow.
+
+y, we establish a necessary and sufficient condition for the termination of workflows. In other words, we identify conditions under which a business process will be complete.

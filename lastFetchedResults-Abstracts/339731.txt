@@ -1,0 +1,11 @@
+Objective
+Human natural killer (NK) cell maturation involves the orderly acquisition of NK cell receptors. Our aim was to understand how stromal interactions and cytokines are important in this developmental process.
+Materials and Methods
+
+Human umbilical cord blood (UCB) CD34+/Lin–/CD38– cells were cultured on two murine stromal cell lines (AFT024 and EL08-1D2) in a switch culture to study NK cell development.
+Results
+
+When human progenitors were cultured on AFT024 with interleukin (IL)-3 and Flt3 ligand (Flt3L) in the absence of interleukin (IL)-15, NK cell differentiation occurred, albeit at low frequency. These conditions favored the accumulation of CD56– NK cell precursors (CD34+CD7–, CD34+CD7+, and CD34–CD7+ cells), which are populations rare in adult blood but abundant in fresh UCB. In secondary culture, addition of IL-3 or IL-3 + Flt3L to IL-15 increased the absolute number of CD56+ NK cells from precursors and the acquisition of CD94 and killer immunoglobulin-like receptors (KIR). To further explore the microenvironment in early NK cell maturation, a cell line derived from murine embryonic liver (EL08-1D2) was studied. NK cell development and KIR acquisition was superior with EL08-1D2, which supported the differentiation of NK cell precursors, NK cell commitment, and proliferation.
+Conclusion
+
+Although the earliest events in NK cell maturation do not require exogenous human IL-15, it is required at a later stage of NK cell commitment. At a minimum, murine stroma, IL-3, and Flt3L are required to recapitulate early NK cell development and differentiation into distinct NK cell precursors. EL08-1D2 induces KIR acquisition suggesting that extrinsic signals in NK cell development are conserved between mouse and man.

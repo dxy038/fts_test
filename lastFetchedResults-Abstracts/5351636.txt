@@ -1,0 +1,1 @@
+The objective of this paper is to provide an assessment of impact of unbalanced handoff boundaries on CDMA reverse link capacity. The paper studies handoff balancing and is primarily intended to determine the deployment and traffic scenarios where the balancing handoff boundaries according to traffic levels can be used to improve capacity in high traffic sectors

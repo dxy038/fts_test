@@ -1,0 +1,9 @@
+The objective of this paper is to present a numerical algorithm for calculating hyperelastic constitutive
+equations characterizing the thermomechanical response of elastically isotropic elastic-viscoplastic materials.
+The algorithm is developed within the context of an alternative formulation of plasticity in which elastic
+distortional deformation is determined directly by integrating an evolution equation which includes the
+current velocity gradient and quantities that depend only on the present state of the material. Consequently,
+the formulation is independent of the particular choice of a measure of plastic deformation, the reference
+configuration, and the total deformation gradient from the reference configuration. These features allow the
+constitutive equations to be easily implemented into computer codes which currently use a hypoelastic
+formulation for calculating plasticity.

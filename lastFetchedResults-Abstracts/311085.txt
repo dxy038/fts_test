@@ -1,0 +1,11 @@
+Objective. To investigate stresses in cage type interbody fusion systems during compressive loading.
+
+Design. The study uses finite element methods to investigate predicted stresses. Previously published experimental material properties are used as inputs to the numerical simulation.
+
+Background. Interbody spinal fusion procedures using cage style intervertebral implants often cause subsidence failure of the vertebral endplate, resulting in potential pain and mechanical instability of the fusion system.
+
+Methods. Finite element models were developed to simulate compressive load transfer between interbody implants and adjacent vertebral body. The vertebral body was modelled using separate finite element mesh regions for cancellous core and cortical shell, with the meshes tied together at the core/shell interface. Coulomb friction was implemented to model the contact between implants and vertebral endplate.
+
+Results. Simulation results predicted endplate stresses of approximately 12 times the nominal contact pressure due to differing deformation stiffnesses of the implant and endplate structures. Reduction of the cancellous core elastic modulus to simulate severely osteoporotic bone resulted in endplate stresses up to three times higher than the values for an intact cancellous core.
+
+Conclusions. In this study, finite element analysis was used to investigate the stresses in interbody fusion systems. Published vertebral loads corresponding to certain activities were shown to generate endplate stresses which approach and exceed the failure stress for cortical bone. Endplate stresses are strongly dependent on the modulus of the underlying cancellous core.

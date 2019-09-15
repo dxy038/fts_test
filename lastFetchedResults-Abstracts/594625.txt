@@ -1,0 +1,1 @@
+This paper objective is to present the Fundamental Theorem for queuing networks that states conditions to guarantee important properties of the population processes distributions, in particular the product form equilibrium distribution. The networks of queues that fulfill those conditions study is much easier than the others.

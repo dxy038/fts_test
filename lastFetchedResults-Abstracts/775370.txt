@@ -1,0 +1,16 @@
+In this paper, we investigate the load balancing problem in mobile
+communications by considering sectorization and a hybrid F/CDMA scheme
+(HFCS) jointly in the scenario of uneven traffic distributions. The problem is formulated
+as a combinatorial optimization model, subject to quality of service (QoS)
+requirements, and solved by the Lagrangean relaxation approach. In addition,
+Lagrangean multipliers are used to conduct sensitivity analysis. The model’s
+objective is to minimize the weighted call blocking rate in terms of the distribution
+diversity. The model’s performance is evaluated by the proposed HFCS, which is an
+adaptive scheme (AS). We compare the performance of AS with that of a nonadaptive
+(NA) scheme, which is a common power control method. Experiment
+results show that combining sectorization with the bandwidth segmentation scheme
+provides effective adaptive load balancing (ALB). The performance improvement
+achieved by the proposed adaptive scheme over the common power control scheme
+is as high as 68%. Moreover, under the scheme, the performance improves as the
+traffic load increases. Load balancing improves even further when AS is combined
+with the sectorization.

@@ -1,0 +1,5 @@
+Lathe is one of machine tools used to produce round mechanical parts. Most of these parts must be finished with high accuracy, which cannot be obtained with conducting turning process only. The main objective of this work is how the moving rest can be used to finish the round-machined parts with high accuracy. To achieve the object, three ball burnishing tools are designed and constructed as long as replacing the three original adjustable jaws of the moving rest.
+
+Experimental work was carried out on a lathe to study the effect of this new burnishing tool and the lathe parameters, such as burnishing speed, burnishing force, and burnishing feed on some surface characteristics which are surface roughness, surface roundness, and reduction of diameter.
+
+The results showed that good surface characteristics can be obtained by using this tool with minimum cost by transferring the center rest from only support element to super finish tool (burnishing tool). Burnishing force and burnishing feed are the most important parameters that play an important role in controlling the values of all surface characteristics.

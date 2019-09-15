@@ -1,0 +1,8 @@
+SummaryObjective
+ognosis of cancer patients treated with intensity-modulated radiation-therapy (IMRT) is inherently uncertain, depends on many decision variables, and requires that a physician balance competing objectives: maximum tumor control with minimal treatment complications.
+s
+er to better deal with the complex and multiple objective nature of the problem we have combined a prognostic probabilistic model with multi-attribute decision theory which incorporates patient preferences for outcomes.
+s
+sponse to IMRT for prostate cancer was modeled. A Bayesian network was used for prognosis for each treatment plan. Prognoses included predicting local tumor control, regional spread, distant metastases, and normal tissue complications resulting from treatment. A Markov model was constructed and used to calculate a quality-adjusted life-expectancy which aids in the multi-attribute decision process.
+sions
+thod makes explicit the tradeoffs patients face between quality and quantity of life. This approach has advantages over current approaches because with our approach risks of health outcomes and patient preferences determine treatment decisions.

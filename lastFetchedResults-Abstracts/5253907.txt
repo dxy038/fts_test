@@ -1,0 +1,1 @@
+We proposed and experimentally demonstrated a bidirectional transmission system by using a novel four-port interleaver to enable unidirectional amplification. After 210-km transmission, less than 0.2-dB sensitivity variations were observed between bidirectional and unidirectional transmissions

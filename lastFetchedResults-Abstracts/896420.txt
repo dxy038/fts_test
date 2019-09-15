@@ -1,0 +1,8 @@
+Background and Objective: Harnessing immune system and its powerful arm, T lymphocytes, against tumor cells are yielding promising results in cancer immunotherapy. Using two arms of immune system in the designing of engineered T cells expressing chimeric receptors with anti-HER2 nanobody (camelid single domain antibody) seems to be an effective strategy in the targeted cancer therapy.
+
+Materials and Methods: HER2 specific nanobodies were used as a recognition site for constructing chimeric receptors NbHER2-HHIgG3-CD28-OX40-CD3? (elongated) and NbHER2-HIgG3-CD28-OX40-CD3? (short) on the membrane of T cells. Expression of chimeric receptors was evaluated by RT-PCR. Function of engineered T cells against cancer cells was assessed by the secretion of interleukin 2 and LDH cytotoxicity assay.
+
+Results: Elongated chimeric receptors with nanobodies RR6 and RR16 that target juxtamembranal domain of HER2 antigen functioned better than elongated constructs containing nanobodies RR4 and RR10. In contrast, nanobodies RR4 and RR10 used in the short chimeric receptors showed substantial results.
+
+Conclusion: Based on binding properties of nanobody, functional chimeric receptors can be designed and engineered T lymphocytes containing the mentioned receptors can be generated that substantially recognize and kill breast cancer cells.
+

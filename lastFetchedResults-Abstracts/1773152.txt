@@ -1,0 +1,10 @@
+Objectives
+rpose of this study was to determine if 6-min walk test data assists in treatment decisions for patients with heart failure.
+ound
+ SCD-HeFT (Sudden Cardiac Death in Heart Failure Trial), a pre-specified subgroup analysis showed that patients with New York Heart Association functional class III symptoms did not benefit from implantable cardioverter-defibrillator (ICD) therapy and appeared to be harmed by amiodarone, whereas New York Heart Association functional class II patients obtained significant survival benefit from ICD. We postulated that a more objective measure of functional capacity, such as 6-min walk (6MW) distance, might provide a better tool for selecting these preventive therapies.
+s
+test was performed before randomization in 2,397 patients. Median follow-up was 45.5 months. All-cause mortality was the primary endpoint, with cause-specific mortality (heart failure, arrhythmic) examined in secondary analyses.
+s
+zard ratios (HRs) for ICD therapy compared to placebo were estimated within tertiles of baseline 6MW distance: HR: 0.42 (95% confidence interval [CI]: 0.26 to 0.66) for 6MW distance &gt;386 m (top tertile); HR: 0.57 (95% CI: 0.39 to 0.83) for 6MW distance 288 to 386 m (middle tertile); and HR: 1.02 (95% CI: 0.75 to 1.39) for 6MW distance &lt;288 m (bottom tertile). The corresponding HRs for amiodarone compared to placebo were 0.68 (95% CI: 0.46 to 1.02) for the top, 0.86 (95% CI: 0.61 to 1.21) for the middle, and 1.56 (95% CI: 1.17 to 2.09) for the bottom tertile. The 6MW distance was inversely related to heart failure–related mortality but not to arrhythmic mortality. ICD therapy reduced arrhythmic mortality in the top 2 tertiles of 6MW, but had no effect on heart failure mortality.
+sions
+line 6MW distance &lt;288 m identified a subgroup of SCD-HeFT patients who were harmed by amiodarone therapy and did not benefit from ICD. (Sudden Cardiac Death in Heart Failure Trial [SCD-HeFT]; NCT00000609)

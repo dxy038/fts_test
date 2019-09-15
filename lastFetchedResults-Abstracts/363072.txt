@@ -1,0 +1,9 @@
+Study objective
+Patient satisfaction is an important performance measure for emergency departments (EDs), but the most efficient ways of improving satisfaction are unclear. This study uses optimization techniques to identify the best possible combination of predictors of overall patient satisfaction to help guide improvement efforts.
+Methods
+The results of a satisfaction survey from 20,500 patients who visited 123 EDs were used to develop ordinal logistic regression models for overall quality of care, overall medical treatment, willingness to recommend the ED to others, and willingness to return to the same ED. Originally, 68,981 surveys were mailed, and 20,916 were returned, representing an overall response rate of 30.3%. We then incorporated these regressions into an optimization model to select the most efficient combination of predictors necessary to increase the 4 overall satisfaction measures by 5%. A sensitivity analysis was also conducted to explore differences across hospital peer groups and regions.
+Results
+Results differ slightly for each of the 4 overall satisfaction measures. However, 4 predictors were common to all of these measures: “perceived waiting time to receive treatment,” “courtesy of the nursing staff,” “courtesy of the physicians,” and “thoroughness of the physicians.” The selected predictors were not necessarily the strongest predictors identified through regression models. The optimization model suggests that most of these predictors must be improved by 15% to increase the overall satisfaction measures by 5%.
+Conclusion
+This study introduces the use of optimization techniques to study ED patient satisfaction and highlights an opportunity to apply this technique to widely collected data to help inform hospitals' improvement strategies. The results suggest that hospitals should focus most of their improvement efforts on the 4 predictors mentioned above.
+

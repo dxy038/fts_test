@@ -1,0 +1,11 @@
+Objective
+BCR/ABL is a chimeric oncoprotein that exhibits deregulated tyrosine kinase activity and is implicated in the pathogenesis of Philadelphia chromosome (Ph)-positive leukemia. A general understanding of BCR/ABL signaling events is emerging, but little is known about the endogenous inhibitors of p210 BCR/ABL. The present study focused attention on CIS1, a cytokine-inducible SH2 protein, as a potential physiologic antagonist for BCR/ABL.
+Materials and Methods
+
+The murine hematopoietic cell line NSF/N1.H7 stably transfected with BCR/ABL was compared to the parental counterparts for induction of CIS1 by immunoblotting and immunoprecipitation. Cells were treated with a proteasome inhibitor to examine the effect of a proteasome inhibitor on CIS1 protein expression. To determine the effect of CIS1 on BCR/ABL-mediated transformation, we generated Rat-1 fibroblasts transfected with either a control vector, CIS1, BCR/ABL p210, or CIS1 plus BCR/ABL p210.
+Results
+
+Three forms of CIS1 with molecular masses of 32, 37, and 47 kDa were detected in BCR/ABL-transformed cells. The 47-kDa protein was a ubiquitinated protein. The proteasome inhibitor increased the formation of complexes between CIS1 and BCR/ABL. Transformation of p210 BCR/ABL was significantly suppressed in cells overexpressing CIS1.
+Conclusion
+
+The results suggest that CIS1 is an endogenous inhibitor of p210 BCR/ABL and is likely to be important in the pathogenesis of Ph-positive leukemia.

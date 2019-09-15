@@ -1,0 +1,1 @@
+Vehicle emulation applications motivate the need for active suspension systems that not only isolate the cabin and its passengers from road disturbances, but also track desired roll dynamics. In this paper we present a novel control structure for achieving this objective and present an initial evaluation of its performance.

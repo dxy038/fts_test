@@ -1,0 +1,15 @@
+The defect of process equipments is a major factor that impairs the yields in the mass production of semiconductor
+wafer fabrication and it is a main supervision means to use high-resolution defect inspection
+tools to detect and monitor the defect damage. Due to the high investment costs of these inspection tools
+and the resulting decrease in the throughput, how to improve the sampling rate is an important issue for
+the associated inspection strategy. This paper proposes a new concept and implementation of virtual
+inspection (VI) to enhance the detection and monitoring of defect in semiconductor production process.
+The underlying theory of the VI concept is that the state variables identifications (SVIDs) of process
+equipments can reflect the process quality effectively and loyally. The approach of VI is to combine the
+application of the fault detection and classification (FDC), and the defect library and the re-engineering
+of inspection procedure to reach the full-scope of strategic objective. VI enables the defect monitoring
+to enter a new era by promoting the monitoring level of defect inspection from the previous lot-sampling
+basis to the wafer-sampling level, and hence upgrades the sampling strategy from random-sampling to
+full and right-sampling. In this study, various typical defect cases are utilized to illustrate how to create
+VI models and verify the reliability of the proposed approach. Furthermore, a feasible architecture of the
+VI implementation for mass production in semiconductor factory is presented in the paper.

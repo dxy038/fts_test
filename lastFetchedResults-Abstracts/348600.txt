@@ -1,0 +1,11 @@
+Objective
+To define the optimal stimulation parameters (AM/FM vs AM alone and modulation rate) for frequency-specific threshold measurements using ASSEPs in dogs. Dependent variables were thresholds and recording times needed to obtain a response at threshold. To compare the ASSEP threshold results obtained with the optimal stimulation parameters to those obtained with the Tone-Burst/Auditory Brainstem Response (TB/ABR) combination.
+Methods
+Thirty-two sedated Beagle puppies were tested at 5 audiometric frequencies (0.5–8 kHz) and 6 ASSEP modulation rates (21–199 Hz).
+Results
+The ASSEP threshold-modulation rate functions had a high-pass profile with corner frequencies of 101 Hz for 0.5, 1 and 2 kHz carriers and of 151 Hz for 4 and 8 kHz carriers. AM stimuli did not yield higher thresholds than the AM/FM ones except at 1 kHz. Modulation type had no effect on testing duration. Audiometric profiles were obtained much more rapidly with ASSEPs than with TB/ABRs (mean: 50 vs 135 min). Both ASSEP and TB/ABR provided thresholds estimates characterized by low intersubject variability.
+Conclusions
+ASSEPs are a valid and rapid method for audiometric assessment in sedated dogs.
+Significance
+ASSEPs offer a new, competitive tool for frequency-specific assessment of hearing in the canine species.
+

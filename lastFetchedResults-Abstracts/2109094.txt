@@ -1,0 +1,16 @@
+Introduction: Scattered photon is one of the main defects that degrade the quality and quantitative accuracy of nuclear
+medicine images. Accurate estimation of scatter in projection data of SPECT is computationally extremely demanding for
+activity distribution in uniform and non-uniform dense media.
+Methods: The objective of this paper is to develop and validate a scatter correction technique that use an accurate analytical
+model based on Klein_Nishina scatter equation and compare Klein_Nishina scatter estimation with triple energy window. In
+order to verify the proposed scattering model several cylindrical phantoms were simulated. The linear source in the
+cylindrical Phantoms was a hot rod filled with 99mTc. K factor defines as the ratio of scatter resulting from MC simulation
+to scatter estimated from Klein_Nishina formula. Also a SPECT/CT scan of the image quality phantom was acquired. Row
+data were transferred to a PC computer for scatter estimation & processing of the images using MLEM iterative algorithm in
+MATLAB software.
+Results: The scatter and attenuation compensated images by the proposed model had better contrast than uncorrected and
+only attenuation corrected images. The K-factors that used in proposed model doesn’t vary with different activities &
+diameters of linear source and they’re just a function of depth and composition of pixels.
+Conclusion: Based on Mont Carlo simulation data, the K_N formula that used in this study demonstrates better estimation
+of scattered photons than TEW. Proposed scattered correction algorithm will improve 52.3% in the contrast of the attenuated
+corrected images of image quality phantom.

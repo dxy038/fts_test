@@ -1,0 +1,11 @@
+The objective of this study was to create a method to estimate the temperature distribution at the fill layer underneath a slab-onground
+structure of a heated building. It concerns the typical Finnish slab-on-ground structures, where the footing wall
+extends above the surrounding soil surface. According to the field measurements and a series of numerical modelling performed
+in this study, there are three boundary temperatures having an effect on the temperature distribution underneath a slab-on-ground
+structure: the internal, the external and the subsoil temperature. Later, a relation between the numerically determined static-state
+weighting factors of these three boundary temperatures and the interrelations of the theoretical thermal transmittance values
+of the adjoining structural layers is detected. Based on these observations a new semi-analytical method for the estimation
+of temperature distribution along the fill layer underneath a slab-on-ground structure in periodic conditions is developed.
+The method applies the superposition principles, where the annual mean boundary temperatures form a basic steadystate
+temperature distribution and the amplitudes of the external and internal temperatures contribute periodic seasonal
+alterations

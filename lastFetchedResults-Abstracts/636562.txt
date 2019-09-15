@@ -1,0 +1,12 @@
+This paper evaluates the ability of a Markov regime-switching log-normal (RSLN) model to capture the
+time-varying features of stock return and volatility. The model displays a better ability to depict a fat tail
+distribution as compared with using a log-normal model, which means that the RSLN model can describe
+observed market behavior better. Our major objective is to explore the capability of the model to capture
+stock market behavior over time. By analyzing the behavior of calibrated regime-switching parameters over
+different lengths of time intervals, the change-point concept is introduced and an algorithm is proposed for
+identifying the change-points in the series corresponding to the times when there are changes in parameter
+estimates. This algorithm for identifying change-points is tested on the Standard and Poor’s 500 monthly
+index data from 1971 to 2008, and the Nikkei 225 monthly index data from 1984 to 2008. It is evident
+that the change-points we identify match the big events observed in the US stock market and the Japan
+stock market (e.g., the October 1987 stock market crash), and that the segmentations of stock index series,
+which are defined as the periods between change-points, match the observed bear–bull market phases.

@@ -1,0 +1,10 @@
+Context
+dapting a system to new usage patterns, processes or technologies, it is necessary to foresee the implications of the architectural design changes on system quality. Examination of quality outcomes through implementation of the different architectural design alternatives is often unfeasible. We have developed a method called PREDIQT with the aim to facilitate model-based prediction of impacts of architectural design changes on system quality. A recent case study indicated feasibility of the PREDIQT method when applied on a real-life industrial system. The promising results encouraged further and more structured evaluation of PREDIQT.
+ive
+aper reports on the experiences from applying the PREDIQT method in a second and more recent case study – on a real-life industrial system from another domain and with different system characteristics, as compared to the previous case study. The objective was to evaluate the method in a fully realistic setting and with respect to carefully defined criteria.
+
+se study conducted the first two phases of PREDIQT in their entirety, while the last (third) phase was partially covered. In addition, the method was assessed through a thought experiment-based evaluation of predictions and a postmortem review. All prediction models were developed during the analysis and the entire target system was analyzed in a fully realistic setting.
+s
+aluation argues that the prediction models are sufficiently expressive and comprehensible. It is furthermore argued that PREDIQT: facilitates predictions such that informed decisions can be made; is cost-effective; and facilitates knowledge management.
+sion
+periences and results obtained indicate that the PREDIQT method can be carried out with limited resources, on a real-life system, and result in useful predictions. Furthermore, the observations indicate that the method, particularly its process, facilitates understanding of the system architecture and its quality characteristics, and contributes to structured knowledge management.

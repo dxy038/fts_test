@@ -1,0 +1,7 @@
+At present, measurement of soil properties is not real time or wireless. A radio telemetry soil inquiry system based on autonomous soil scouts could be developed if the radio technical properties of soil were known.
+
+The objective of this work was to develop a model for calculating the attenuation of a radio signal transmitted from underground and received in air. The model includes three attenuating mechanisms: (1) dielectric loss in soil; (2) reflection from the surface; and (3) angular defocusing of the intensity due to refraction. The most significant model input parameters are frequency, outcoming angle and both real and imaginary soil permittivity, which are both dependent on frequency, moisture and soil texture.
+
+The model was verified by a case measurement in a silt loam. A discone (disc and cone) antenna was installed in four depths in three different holes and a sinusoidal 14 dB of mW (dBm) signal at 869·5 MHz was transmitted via the antenna through the soil layer and received 15 m away with a dipole and a spectrum analyser.
+
+The model estimates fit well to the measured data and the attenuation is at a reasonable level considering the development of a soil inquiry system. The results indicate that all essential attenuating mechanisms are included.

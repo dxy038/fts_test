@@ -1,0 +1,1 @@
+In this paper, optimum power allocation to maximize the weighted sum rate assuming a ZF precoder under a PAPC is determined. A weighted sum rate objective function is considered since it can be directly implemented for scheduling algorithms used in contemporary scheduled packet data systems with quality of service requirements.

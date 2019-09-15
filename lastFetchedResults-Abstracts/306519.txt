@@ -1,0 +1,5 @@
+Objective: Use fructose-2,6-diphosphate (fru-2,6-P2) for measuring phosphofructokinase (PFK) activity in muscles.
+Design and Methods: PFK activity was measured at 2 mmol/L MgCl2 and 5 mmol/L adenosine triphosphate (ATP) (mol/L MgCl2:mol/L ATP 0.4) without and with fru-2,6-P2.
+Results: Human muscle extracts had little PFK activity when assayed at mol/L MgCl2:mol/L ATP of 0.4 to 0.78 without fru-2,6-P2; 1.83 ± 0.91 units/g muscle. Addition of fru-2,6-P2 produced an immediate 20- to 57-fold increase in activity; 52.8 ± 12.5 units/g muscle. Raising the mol/L ratio of MgCl2 to ATP to 0.87 and higher without fru-2,6-P2 produced 34%-76% of the PFK activity seen with fru-2,6-P2. A PFK deficiency patient had a trace of activity, which was independent of mol/L MgCl2:mol/L ATP and not activated by fru-2,6-P2.
+Conclusion: The almost complete absence of activity without fru-2,6-P2 at 0.40 mol/L MgCl2:mol/L ATP, and the restoration of maximum activity by fru-2,6-P2 provides an assay for verified PFK activity that could lead to a more accurate diagnosis in patients with PFK deficiency
+

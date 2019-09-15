@@ -1,0 +1,11 @@
+Objective
+In EEG/MEG experiments, increasing the number of sensors improves the spatial resolution of the results. However, the standard statistical methods are inappropriate for these multivariate, highly correlated datasets. We introduce a procedure to identify spatially extended scalp fields that correlate with some external, continuous measure (reaction-time, performance, clinical status) and to test their significance.
+Methods
+We formally deduce that the channel-wise covariance of some experimental variable with scalp field data directly represents intracerebral sources associated with that variable. We furthermore show how the significance of such a representation can be tested with resampling techniques.
+Results
+Simulations showed that depending on the number of channels and subjects, effects can be detected already at low signal to noise ratios. In a sample analysis of real data, we found that foreign-language evoked ERP data were significantly associated with foreign-language proficiency. Inverse solutions of the extracted covariances pointed to sources in language-related areas.
+Conclusions
+Covariance mapping combined with bootstrapping methods has high statistical power and yields unique and directly interpretable results.
+Significance
+The introduced methodology overcomes some of the ‘traditional’ statistical problems in EEG/MEG scalp data analysis. Its application can improve the reproducibility of results in the field of EEG/MEG.
+

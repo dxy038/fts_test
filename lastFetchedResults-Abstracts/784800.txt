@@ -1,0 +1,19 @@
+Objective: To determine whether there was an association between the Five-Times-Sit-to-Stand test
+(FTSS) and the global cognitive function assessed with Short-Portable-Mental-State-Questionnaire (SPMSQ)
+among the EPIDOS cohort. Design: Cross-sectional study corresponding to the baseline assessment of the
+EPIDOS study. Setting: Five French cities including Amiens, Lyon, Montpellier, Paris and Toulouse.
+Participants: 7421 community-dwelling older women (mean age 80.41±0.04 years). Measurements: Time to
+achieve FTSS, and SPMSQ score. Age, body mass index, high number of comorbidities, cardiovascular risk
+factors, depression, regular physical activity, joint pain, quadriceps strength, visual acuity, use of psychoactive
+drugs, serum albumin, vitamin D deficiency (i.e., serum concentration <10ng/mL), and the influence of seasons
+and study centers were used as covariables. Subjects were divided into 2 groups according to SPMSQ score
+(either impaired<8/10 or normal≥8/10). Results: Compared to their counterparts, the women with cognitive
+impairment (n=1190, mean 81.51±0.45years) took more time in performing FTSS (17.8±0.9seconds versus
+16.1±0.3seconds, P<0.001). There was a significant negative association of SPMSQ score with FTSS
+(Unadjusted ß=-0.02(95%CI -0.03;-0.01), P<0.001; Fully Adjusted ß=-0.03(95%CI -0.05;-0.01), P=0.003;
+Stepwise Backward Adjusted ß=-0.02(95%CI -0.04;-0.01), P=0.005), as well as with advance in age (ß=-0.04,
+P=0.006) and vitamin D deficiency (ß=-0.34, P=0.011). The FTSS limit value in predicting moderate cognitive
+impairment was set at 15 seconds by a sensitivity analysis (negative predictive value=86%). Conclusion: We
+found a negative association of FTSS with global cognitive performance. Achieving FTSS in less than 15
+seconds made unlikely the existence of a moderate cognitive impairment. FTSS could be used as a tool in
+primary care medicine to exclude moderate cognitive decline

@@ -1,0 +1,7 @@
+The dynamic simulator design and development of a direct steam generation parabolic-trough solar thermal power plant is detailed in
+this paper. The dynamic simulator is not only the equation-based object-oriented model but also includes features to facilitate the simulation
+process. A whole simulator scheme has been developed for that purpose. This simulator scheme considers the issues of fetching
+and converting sensors data to model inputs and obtaining suitable initial values for the boundary condition problem in the numerical
+integration. The calibration and validation processes have been tackled, using Matlab as the primary tool. However, several tools were
+studied and tested. A multi-objective genetic algorithm approach has been chosen for calibrating the dynamic model.
+  2011 Elsevier Ltd. All rights reserved

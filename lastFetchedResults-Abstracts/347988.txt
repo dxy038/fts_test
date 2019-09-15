@@ -1,0 +1,11 @@
+Objective
+To study early cognitive processes and hemispheric differences in the primary auditory cortex during selective attention.
+Methods
+We measured auditory evoked magnetic fields (AEFs) to 400 and 4000 Hz tone pips that were randomly presented at the right or left ear. Subjects paid attention to target stimuli during pitch (high or low) or laterality (left or right) discrimination tasks. In the control session, 400 or 4000 Hz tone alone was presented at the left or right ear. We calculated the location and strength of N100m dipole for 400 and 4000 Hz tones, based on the AEFs obtained from the hemisphere contralateral to the stimulated ear.
+Results
+N100m amplitude increased in both hemispheres in pitch or laterality discriminating conditions. N100m latency also shortened during selective attention. The N100m dipole distance between 400 and 4000 Hz tones was enlarged, especially in the right auditory cortex during pitch discrimination task, but was unchanged during the laterality discrimination task.
+Conclusions
+We conclude that these dynamic changes in the N100m dipole reflect short-term plastic changes in the primary auditory cortex, supporting early selection models.
+Significance
+This work is the first to disclose short-term plastic changes during pitch discrimination in the human auditory cortex based on the analysis of magnetoencephalography.
+

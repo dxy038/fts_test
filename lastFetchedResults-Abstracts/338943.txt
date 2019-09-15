@@ -1,0 +1,11 @@
+Objective
+Fetal hemoglobin inducers such as hemin, butyrate, and hydroxyurea stimulate γ-globin gene expression by activating the cyclic GMP (cGMP)-dependent pathway. Although cGMP activates the cyclic AMP (cAMP)-dependent pathway by suppressing cGMP-inhibited phosphodiesterase 3 (PDE3), the effects of the cAMP-dependent pathway on γ-globin gene expression are unknown.
+Materials and methods
+
+The cAMP-dependent pathway was activated in K562 cells using the adenylate cyclase activator forskolin. Expression of γ-globin mRNA was examined by primer extension, and transcriptional activity of the γ-globin gene promoter was determined by reporter gene assays.
+Results
+
+PDE3 was expressed in K562 cells at a high level. The cAMP-dependent pathway was found to be activated in K562 cells in which the cGMP-dependent pathway was activated by hemin. Activation of the cAMP-dependent pathway by forskolin inhibited hemin-induced expression of γ-globin mRNA and decreased transcriptional activity of the γ-globin gene promoter. The levels of phosphorylation of mitogen-activated protein kinases (MAPKs) were not affected by the cAMP-dependent pathway.
+Conclusions
+
+These results suggested that the cAMP-dependent pathway, which is independent of MAPK pathways, plays a negative role in γ-globin gene expression in K562 cells. cAMP and cGMP may have differential roles in the regulation of γ-globin gene expression in erythroid cells.

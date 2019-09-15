@@ -1,0 +1,11 @@
+Objective
+We sought an electrical modeling approach to evaluate the potential application of finite element method (FEM) modeling to predict current pathways and intensities in the brain after transcranial electrical stimulation.
+Methods
+A single coronal MRI section through the head, including motor cortex, was modeled using FEM. White matter compartments with both anatomically realistic anisotropies in resistivity and with a homogeneous resistivity were modeled. Current densities in the brain were predicted for electrode sites on the scalp and after theoretical application of a conductive head restraint device.
+Results
+Localized current densities were predicted for the model with white matter anisotropies. Differences in predicted peak current densities were related to location of stimulation sites relative to deep sulci in the brain and scalp shunting that was predicted to increase with inter-electrode proximity. A conductive head restraint device was predicted to shunt current away from the brain when a constant current source was used.
+Conclusions
+The complex geometry of different tissue compartments in the head and their contrasting resistivities may jointly determine the strength and location of current densities in the brain after transcranial stimulation. This might be predictable with FEM incorporating white matter anisotropies. Conductive head restraint devices during surgery may be contraindicated with constant current stimulation.
+Significance
+Individually optimized tcMEP monitoring and localized transcranial activation in the brain might be possible through FEM modeling.
+

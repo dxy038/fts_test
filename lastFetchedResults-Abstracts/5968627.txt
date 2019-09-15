@@ -1,0 +1,1 @@
+In this paper, we firstly introduce and analyze the problems in existing objective weighting methods in MADM. Then we propose some ideas of solutions for those questions. Finally, we give a feasible solution for determining of weights, and verify its feasibility by a data experiment.

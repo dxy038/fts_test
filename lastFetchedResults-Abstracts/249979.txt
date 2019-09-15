@@ -1,0 +1,15 @@
+The link between Mixed Finite Element (MFE) and Finite Volume (FV) methods applied to elliptic
+partial di erential equations has been investigated by many authors. Recently, a FV formulation of the
+mixed approach has been developed. This approach was restricted to 2D problems with a scalar for the
+parameter used to calculate  uxes from the state variable gradient. This new approach is extended to
+2D problems with a full parameter tensor and to 3D problems. The objective of this new formulation is
+to reduce the total number of unknowns while keeping the same accuracy. This is achieved by de ning
+one new variable per element.
+For the 2D case with full parameter tensor, this new formulation exists for any kind of triangulation.
+It allows the reduction of the number of unknowns to the number of elements instead of the number
+of edges. No additional assumptions are required concerning the averaging of the parameter in heterogeneous
+domains. For 3D problems, we demonstrate that the new formulation cannot exist for a general
+3D tetrahedral discretization, unlike in the 2D problem. However, it does exist when the tetrahedrons are
+regular, or deduced from rectangular parallelepipeds, and allows reduction of the number of unknowns.
+Numerical experiments and comparisons between both formulations in 2D show the e ciency of the
+new formulation.

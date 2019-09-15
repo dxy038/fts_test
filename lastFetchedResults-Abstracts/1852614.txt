@@ -1,0 +1,8 @@
+SummaryObjective
+ork presents a novel approach for the automated prediction of the aesthetic result of breast cancer conservative treatment (BCCT). Cosmetic assessment plays a major role in the study of BCCT. Objective assessment methods are being preferred to overcome the drawbacks of subjective evaluation.
+ology
+oblem is addressed as a pattern recognition task. A dataset of images of patients was classified in four classes (excellent, good, fair, poor) by a panel of international experts, providing a gold standard classification. As possible types of objective features we considered those already identified by domain experts as relevant to the aesthetic evaluation of the surgical procedure, namely those assessing breast asymmetry, skin colour difference and scar visibility. A classifier based on support vector machines was developed from objective features extracted from the reference dataset.
+s
+ect classification rate of about 70% was obtained when categorizing a set of unseen images into the aforementioned four classes. This accuracy is comparable with the result of the best evaluator from the panel of experts.
+sion
+sults obtained are rather encouraging and the developed tool could be very helpful in assuring objective assessment of the aesthetic outcome of BCCT.

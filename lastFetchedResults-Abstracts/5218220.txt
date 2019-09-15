@@ -1,0 +1,1 @@
+Synthetic Aperture Radar (SAR) image due to its special imaging method has many different characters from optical image. In this paper, a objective image quality evaluation system is proposed with a set of parameters and relevant measurements that mainly based on SAR image itself. And this evaluation system is supposed to be used by both satellite-borne and airborne SAR system.

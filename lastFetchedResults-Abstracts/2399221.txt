@@ -1,0 +1,8 @@
+Objective
+sult of this research was to develop a quantum mechanically based QSAR model for polymer flexural modulus from structural features of small oligomers of the polymers. The final model was to have both explanatory power and be a reasonably accurate screening tool for new materials.
+s
+titative structure–activity relationship (QSAR) was developed using the CODESSA program from quantum mechanical information provided by the AM1 semiempirical method, as implemented in AMPAC.
+s
+-descriptor correlation equation with R2 = 0.91, also satisfying our other statistical criteria. A tetramer was determined to be a sufficient simulator for the polymer chain. The descriptors in the model show that rigidity of the monomer, electrostatic interactions and branching are the most important contributors to the flexural modulus value for a particular system.
+icance
+AR model we have developed here is conceptually satisfying for flexural, and provides an easily usable tool for rational biomaterials design.

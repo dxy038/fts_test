@@ -1,0 +1,5 @@
+In this paper we investigate Multi-Objective Integer Linear Programming (MOILP) problems
+with unbounded feasible region and introduce recession direction for MOILP problems. Then
+we present necessary and sufficient conditions to have unbounded feasible region and infinite
+optimal values for objective functions of MOILP problems. Finally we present some examples
+with unbounded feasible region and finite and infinite efficient solution.

@@ -1,0 +1,16 @@
+Energy harvesting with a photovoltaic cell
+requires efficient elements for better use of the sun's
+irradiance, due to the randomness inherent in this type of
+energy. One of the important elements that exist in PV
+systems is the DC/DC converters. These items, mainly,
+they convert a certain voltage to another dc voltage (of
+greater or lesser value) with less ripple voltage. The three
+basic configurations are Buck, Boost and Buck-Boost.
+The first two types of converters are most commonly
+used in photovoltaic energy conversion. The objective of
+this paper is the analysis and modeling of these types of
+converters in Matlab-Simulink with two of their toolbox,
+SimPower System and Simscape. The two type of
+converters will be analyzed mathematically, calculating
+their elements and then will be showed the models used
+in these calculations with these simulation tools.

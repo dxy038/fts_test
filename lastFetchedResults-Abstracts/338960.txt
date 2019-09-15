@@ -1,0 +1,11 @@
+Objective
+Expression of the cytokine receptor CD30 is a typical feature of anaplastic large cell lymphomas (ALCL). CD30-induced effects have a great impact on cell activation and viability.
+Materials and methods
+
+Using Karpas 299 cells, we performed differential display reverse transcriptase polymerase chain reaction (DDRT-PCR) to identify novel genes involved in CD30 signaling in ALCL. Activation of CD30 was induced by treatment with immobilized anti-CD30 antibody. RNA and protein expression were confirmed in different cell lines by Northern and Western blot analysis. Fluorescence-activated cell sorting (FACS) analysis was applied to examine cell viability. Nuclear factor κB (NFκB) pathways were blocked using a specific inhibitor.
+Results
+
+We found strongly enhanced expression of the cellular inhibitor of apoptosis cIAP1 and cIAP2 in Karpas 299 cells stimulated with anti-CD30. Furthermore, we showed that CD30-regulated expression of cIAP1 and cIAP2 was mediated by NFκB. Induction of NFκB, cIAP1, and cIAP2 correlated with partial protection from apoptotic cell death caused by etoposide. Correspondingly, inhibition of the NFκB pathway not only prevented the prevalent antiapoptotic effects mediated by CD30, but even led to CD30-induced apoptosis. Finally, we found enhanced expression of cIAP1 and cIAP2 in several other ALCL cell lines and the HD-derived cell line HDLM-2 upon CD30 stimulation.
+Conclusions
+
+Our results indicate that CD30-mediated protection from apoptosis is a common feature of CD30+ cells. Therefore, CD30-induced signaling may have a significant impact on the clinical outcome of patients with ALCL.

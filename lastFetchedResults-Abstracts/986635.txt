@@ -1,0 +1,8 @@
+The objective of this study was to develop a numerical model for the prediction of temperature distribution,
+effective plastic strain distribution, and especially material flow in friction stir welding of copper plates.
+The DEFORM-3D software was used by incorporating a lagrangian incremental formulation. Threedimensional
+results of the material flow pattern which were extracted using the point tracking are in good
+agreement with the experiment. It was shown that the main part of material flow occurs near the top
+surface. Material near the top surface at the behind of tool stretches from retreating side towards advancing
+side which leads to non-symmetrical shape of the stir zone. The stir zone shape in FSW of copper alloys,
+which was predicted by simulation, does not lean completely towards any sides of welding line.

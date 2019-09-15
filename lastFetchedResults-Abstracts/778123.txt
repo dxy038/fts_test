@@ -1,0 +1,18 @@
+Development of distribution systems is
+requested in high system losses and poor voltage
+regulation. Consequently, an effective distribution system
+has become more urgent and important structure. Hence
+proper selection of conductors in the distribution system
+is important as it determines the current densities and the
+resistance of the lines. This paper examines the use of
+different evolutionary algorithms, imperialist competitive
+algorithm (ICA), to optimal branch conductor selection in
+planning radial distribution systems with the objective to
+minimize the overall cost of annual energy losses and
+depreciation on the cost of conductors and reliability in
+order to improve productivity. Furthermore, the
+backward-forward sweep iterative method was adopted to
+solve the radial load flow analysis. Simulations are
+carried out on 69-bus radial distribution network using
+ICA approach in order to show the accuracy as well as
+the efficiency of the proposed solution technique.

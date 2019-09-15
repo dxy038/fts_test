@@ -1,0 +1,8 @@
+In this paper we consider the single-machine scheduling problems with the effects of learning and deterioration.
+By the effects of learning and deterioration, we mean that job processing times are defined by
+functions of their starting times and positions in the sequence. It is shown that even with the introduction
+of learning effect and deteriorating jobs to job processing times, single machine makespan and sum
+of completion times (square) minimization problems remain polynomially solvable, respectively. But for
+the following objective functions: the weighted sum of completion times and the maximum lateness, this
+paper proves that the WSPT rule and the EDD rule can construct the optimal sequence under some special
+cases, respectively.

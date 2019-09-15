@@ -1,0 +1,9 @@
+Objective
+An inverse association of adiponectin with coronary heart disease (CHD) has been reported, but the results are inconsistent. We used data from the CORA study to investigate into plasma concentrations of adiponectin and factors that may mediate the link to incident CHD.
+Design
+The CORA study is a population-based case–control study on 200 women with incident CHD and 255 age-matched controls.
+Results
+Plasma concentrations of adiponectin were significantly lower in women with CHD (p < 0.0001), and in women with BMI ≥25 kg/m2 (p < 0.02), even more so with central obesity (WHR ≥0.85), prevalent diabetes or insulin resistance (HOMA-IR ≥3.8), or low HDL-cholesterol (<50 mg/dl), and in smokers (each p < 0.0001). Adiponectin also correlated with intake of fruit and vegetables, meat and sausage and alcohol as dietary markers of cardiovascular risk. Strikingly, the trend towards lower adiponectin concentrations with increasing BMI or waist circumference was less marked than the difference of adiponectin between CHD cases and controls. In a logistic regression model the odds ratio of adiponectin of 0.943 per 1 μg/ml (CI 0.919–0.968, p < 0.0001) for risk of CHD was progressively reduced by elevated WHR, obesity-related risk factors, smoking, and dietary parameters.
+Conclusions
+Plasma adiponectin indicates protection from CHD in women that is attenuated by combined effects of central obesity and dependent risk factors, parameters of nutrition and smoking. Thus, the impact of adiponectin goes beyond its relation to central adiposity, but may also reflect independent effects of lifestyle.
+

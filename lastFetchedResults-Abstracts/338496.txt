@@ -1,0 +1,11 @@
+Objective
+Experimental strategies for ex vivo expansion of human hematopoietic stem/progenitor cells involve the use of exogenous cytokines as well as direct interaction with stromal elements. We examined the use of the interleukin-6/soluble interleukin-6 receptor (IL-6/sIL-6R) fusion protein Hyper-IL-6 (H-IL-6), which interacts directly with gp130, in conjunction with stromal support for expansion of human progenitors.
+Materials and Methods
+
+Peripheral blood CD34+ cells were cultured on the murine stromal cell line FBMD1 or in suspension for up to 28 days with different cytokines. Cells were evaluated at various time points for phenotype, proliferative and clonogenic capacity, and long-term hematopoietic activity.
+Results
+
+The combination of Flt3 ligand and H-IL-6 was markedly more effective than Flt3 ligand and IL-6/sIL-6R for expansion of CD34+ cells in suspension culture and on FBMD1. Addition of kit ligand but not thrombopoietin to Flt3 ligand and H-IL-6 significantly augmented proliferation and enhanced colony formation three-fold. However, long-term cobblestone area-forming cell assays indicated that although multipotent progenitors were maintained up to 21 days on FBMD1 in the presence of Flt3 ligand alone and were amplified three-fold by addition of H-IL-6, CD34+ cells cultured in the absence of stromal support rapidly lost their cobblestone area-forming cell potential. Immunophenotyping revealed that stromal support prevented up-regulation of IL-6R on CD34+ cells, which was induced within 3 days in stroma-free cultures and was enhanced in the presence of kit ligand. Delayed addition of H-IL-6 to the cultures resulted in reduced proliferation and colony-forming unit potential.
+Conclusion
+
+H-IL-6 synergizes with stromal elements to effectively enhance proliferation and maintenance of primitive hematopoietic progenitors under prolonged ex vivo culture conditions.

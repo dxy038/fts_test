@@ -1,0 +1,16 @@
+Supplier selection and material procurement planning are the most important issues in supply
+chain management. This decision is complicated when the buyers face with discount price
+schemes. In real situation, each supplier may apply different methods such as different types of
+discount schedules and various types of payment in order to increase market share. In this
+situation, buyers try to select the best supplier/s by considering all tangible and intangible
+factors which may be included in this decision problem. Mohammad Ebrahim and Razmi
+(2009) introduced a Meta heuristic model in order to select the best suppliers and determine the
+procurement plan under two types of discount offers. In this paper, a fuzzy bi-objective model
+is proposed for single item single period supplier selection and purchasing problem under
+capacity constraint, supply uncertainty and budget limitation. This model includes different
+kinds of discount (all-unit discount, incremental discount). In addition, different methods for
+payments which ordinary may be proposed by each supplier are considered in this model.
+Finally, an interactive fuzzy programming approach (TH method), ?-constraint method and
+reservation level driven Tchebycheff procedure (RLTP) are applied to solve this bi-objective
+model. The efficiency of each method is evaluated by using an additive utility function which is
+offered by decision maker.

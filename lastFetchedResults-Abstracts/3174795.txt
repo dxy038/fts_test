@@ -1,0 +1,1 @@
+Various counting methods are applied to extract amplitude, duration and number of thermal cycles from a mission profile. The objective of this paper is to compare different cycle counting algorithms and suggest the correct one for lifetime calculation of IGBT power modules based on the thermo-mechanical FEM analysis.

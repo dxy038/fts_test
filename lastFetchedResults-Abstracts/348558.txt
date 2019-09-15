@@ -1,0 +1,11 @@
+Objective
+To describe the mechanism by which the vestibular evoked myogenic potential is generated.
+Methods
+Vestibular evoked myogenic potential generation is modeled by adding a large number of muscle motor unit action potentials. These action potentials occur randomly in time along a 100 ms long time axis. But because between approximately 15 and 20 ms after a loud short sound stimulus (almost) no action potentials are generated during VEMP measurements in human subjects, no action potentials are present in the model during this time.
+Results
+The evoked potential is the result of the lack of amplitude cancellation in the averaged surface electromyogram at the edges of this 5 ms long time interval.
+Conclusions
+The relatively simple model describes generation and some properties of the vestibular evoked myogenic potential very well.
+Significance
+It is shown that, in contrast with other evoked potentials (BAEPs, VERs), the vestibular evoked myogenic potential is the result of an interruption of activity and not that of summed synchronized neural action potentials.
+

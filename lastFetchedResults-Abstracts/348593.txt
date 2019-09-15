@@ -1,0 +1,11 @@
+Objective
+To determine the accuracy of diagnoses made with artificial neural network techniques (ANNW) that identify postural sway patterns typical for balance disorders.
+Methods
+Body sway was measured by means of posturography during 10 test conditions of increasing difficulty. From a database of 676 subjects 60 training cases (TCs) and 60 validation cases (VCs) were selected in which the following diagnoses had been established clinically: normal subject (NS), postural phobic vertigo (PPV), anterior lobe cerebellar atrophy (CA), primary orthostatic tremor (OT), and acute unilateral vestibular neuritis (VN). A standard 3-layer feed-forward ANNW, using the backpropagation algorithm, was trained with TCs, validated with VCs, and its accuracy tested on 5 new cases.
+Results
+ANNW differentiated the established diagnoses with an overall sensitivity and specificity of 0.93. Sensitivity and specificity were 1 for NS and OT; for PPV, 0.87 and 0.96; for CA, 1 and 0.98; and for VN, 0.8 and 0.98, respectively. New subjects were identified with ANNW output variables of the true diagnoses between 0.73 and 1.
+Conclusions
+ANNW differentiates postural sway patterns of several distinct clinical balance disorders with high sensitivity and specificity. Once designed and tested ANNW could be considered a black box, which each examiner can apply to predict a specific diagnosis even without a clinical examination.
+Significance
+A promising diagnostic tool for disorders of upright stance in selected neurological disorders.
+

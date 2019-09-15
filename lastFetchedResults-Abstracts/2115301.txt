@@ -1,0 +1,15 @@
+Although solutions of transient water flow can be obtained by numerical
+modeling, their application may be limited in part as root water uptake is generally
+considered to be one-dimensional only. The objective of this study was to evaluate
+the accuracy of two-dimensional root water uptake model by Hydrus-2D in the
+Lysimeter. The root water uptake model was incorporated into a two- dimensional
+flow model and parameters of governing equation were optimized based on
+minimizing the residuals between measured and simulated water content data.
+Water content was measured at different points and layers. To calibrate the flow, a
+genetic algorithm was used. With the optimized parameters of model, simulated
+and measured water contents during the 30 days period were in excellent
+agreement. Based on results, R2 values generally ranged between 0.92 and 0.94 and
+a root mean squared error (RMSE) of 0.0236 m3m -3. In this Paper effect of soil
+hydraulic properties on Hydrus simulation was evaluated by several predictions of
+neural network. Finally, results illustrate that Hydrus-2D is extremely flexible in
+simulation of soil water content pattern.

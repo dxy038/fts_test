@@ -1,0 +1,7 @@
+In sciences and industries such as signal optimization, traffic assignment, economic market
+and etc, many problems have been modeled by bilevel programming (BLP) problems,
+where in each level one must optimize some objective functions. There are so many algorithms
+in order to find the global optimum of the linear version of BLP problems.
+This paper addresses multi-objective linear bilevel multi-follower programming (MOLBMFP)
+problems in which there is no sharing information among followers. It presents a new
+method for solving these problems.

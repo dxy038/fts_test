@@ -1,0 +1,7 @@
+The objective of the present paper is a deep analysis of some recent numerical and experimental results regarding the complex dynamics of axially moving systems. Such important mechanical systems exhibit interesting dynamic behaviors: homoclinic orbits; sub-harmonic responses; amplitude modulations; and chaos. These dynamics have been obtained numerically and in some cases have been experimentally observed.
+
+recent techniques of the non-linear time series analysis, the response of axially moving systems has been studied for a large variety of test cases. The correlation dimension of the time series, which is deeply related to the minimal dimension of a system able to reproduce the dynamics, is estimated. Lyapunov exponents are evaluated in order to quantify the response regularity.
+
+esent work gives a contribution towards understanding the complex dynamics observed both in conservative and dissipative systems. The dynamical phenomena are analyzed within the unified framework of the non-linear time series analysis.
+
+ case of experimental data the new non-linear filtering techniques, based on the embedding techniques, have been applied to reduce high noise when classical techniques give bad results.

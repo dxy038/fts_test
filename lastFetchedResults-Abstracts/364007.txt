@@ -1,0 +1,9 @@
+Study objective
+We evaluate the effectiveness of an educational program in hospital emergency departments (EDs) targeting reduction in antibiotic overuse for acute respiratory tract infections.
+Methods
+Sixteen hospitals participated in the cluster randomized trial, selecting a Veterans Administration (VA) and non-VA hospital within each of 8 metropolitan regions. Intervention sites received performance feedback, clinician education, and patient educational materials, including an interactive computer kiosk located in the waiting room. Medical records were reviewed at each site during the baseline year 1 and intervention year 2. The primary measure of effect was the percentage of visits for upper respiratory tract infections and acute bronchitis that were treated with antibiotics. Secondary outcomes, including return visits and visit satisfaction, were assessed by follow-up telephone interviews of patients. Alternating logistic regression models were used to adjust for baseline treatment rates, case mix differences, and provider characteristics.
+Results
+The adjusted antibiotic prescription level for upper respiratory tract infection/acute bronchitis visits was 47% for control sites and 52% for intervention sites in year 1. Antibiotic prescriptions at control sites increased by 0.5% between year 1 and year 2 (95% confidence interval −3% to 5%) and at intervention sites decreased by 10% (95% confidence interval −18% to −2%). There were no significant differences between control and intervention sites in the proportions of upper respiratory tract infection/bronchitis patients with return ED visits or in overall visit satisfaction.
+Conclusion
+Multidimensional educational interventions can reduce antibiotic overuse in the treatment of patients with upper respiratory tract infections and acute bronchitis in EDs. However, substantial antibiotic overuse persists despite this educational intervention
+

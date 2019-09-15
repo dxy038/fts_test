@@ -1,0 +1,11 @@
+Objective
+We present a new method of effectively removing imaging artifacts of electroencephalography (EEG) and extensively conserving the time–frequency features of EEG signals during simultaneous functional magnetic resonance imaging (fMRI) scanning under conventional conditions.
+Methods
+Under the conventional conditions of a 5000 Hz EEG sampling rate, but in the absence of the MRI slice-timing signals, the imaging artifact during each slice scanning is theoretically inferred to be a linear combination of the average artifact waveform and its derivatives, deduced by band-limited Taylor's expansion. Technically, the imaging artifact reduction algorithm is equivalent to an adaptive finite impulse response (FIR) filter.
+Results
+The capability of this novel method removing the imaging artifacts of EEG recording during fMRI scanning has been demonstrated by a phantom experiment. Moreover, the effectiveness of this method in conserving the time–frequency features of EEG activity has been evaluated by both visually evoked experiments and alpha waves.
+Conclusions
+The adaptive FIR method is an effective method of removing the imaging artifacts under conventional conditions, and also conserving the time–frequency EEG signals.
+Significance
+The proposed adaptive FIR method, removing the imaging artifacts, combined with the wavelet-based non-linear noise reduction (WNNR) method [Wan X, Iwata K, Riera J, Ozaki T, Kitamura M, Kawashima R. Artifact reduction for EEG/fMRI recording: Nonlinear reduction of ballistocardiogram artifacts. Clin Neurophysiol 2006;117:668–80], reducing the ballistocardiogram artifacts (BAs), makes it feasible to obtain accurate EEG signals from the simultaneous EEG recordings during fMRI scanning.
+

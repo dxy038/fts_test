@@ -1,0 +1,5 @@
+The objective of this paper is to present a model updating strategy of non-linear vibrating structures.
+Because modal analysis is no longer helpful in non-linear structural dynamics, a special attention is
+devoted to the features extracted from the proper orthogonal decomposition and one of its non-linear
+generalizations based on auto-associative neural networks. The efficiency of the proposed procedure is
+illustrated using simulated data from a three-dimensional portal frame

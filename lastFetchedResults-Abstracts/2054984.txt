@@ -1,0 +1,4 @@
+The objective of this project is to modify the hill-chart of an installed hydropower station. In this work, CFD simulations are carried out to simulate all parts of the Francis turbine of the power station, consists of: spiral case, stay vanes, wicket-gates, runner and draft tube. In order to have enough data for drawing hill-chart, the simulations were done in different flow rate and different angles of wicket-gates opening.
+The turbulence is modeled with the standard k-? turbulence model. The output of CFD simulations (pressure difference, efficiency, power) and flow rates were used for drawing hill-chart. For curve fitting, paraspline method was carried out.
+The results shows that the pressure difference increases and the efficiency decreases compare to the previous hill-chart of this power station. CFD simulation showed cavitation at the trailing edge of the runner.
+

@@ -1,0 +1,11 @@
+This study introduces a methodological framework for environmental performance assessment of waste recycling programs. We develop two
+categories of indicators: the efficiency indicators that compare the environmental achievements of a program with the required expenditures
+(benefits per unit cost), and the effectiveness indicators that compare the environmental benefits of a program with the amount of generated
+wastes (benefits per unit waste). Aggregation of these indicators, in relation with their associated criticalities, will give us a number of environmental
+performance indices to represent the status of the environmental performance. This score-based assessment has two major advantages: it
+takes complex scientific information and synthesizes it in a way that makes it easily understandable for non-experts while in comparison with
+other environmental performance assessment methods it is not computationally intensive. In this aggregation, the importance values (criticalities)
+are often expert based uncertain judgments, which are defined according to the objective of performance assessment. Therefore, a fuzzy
+multiple attribute analysis can be employed to express these judgments by fuzzy sets and to formulate the weighted aggregation process. For case
+study, we have investigated the environmental performance of the provincial beverage container recycling programs in Canada, which illustrates
+the applicability of the proposed methodology.

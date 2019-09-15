@@ -1,0 +1,1 @@
+A bidirectional flyback converter with output voltage tracking capabilities was designed and tested. For the first time an H&#8734; approach was used for a controller design. A better performance of the H&#8734; controller over a traditional reference-to-output frequency-compensated one was shown. Theoretical results were validated by simulations and experiments

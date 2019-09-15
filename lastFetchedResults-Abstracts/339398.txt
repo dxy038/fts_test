@@ -1,0 +1,11 @@
+Objective
+Resveratrol (3,4′,5,-trihydroxystilbene, RV), an ingredient of wine, is an inhibitor of the proliferation-linked enzyme ribonucleotide reductase (RR) and shows a broad spectrum of cytotoxic effects against human cancer cells. In order to enhance these effects, we introduced additional hydroxyl moieties into the molecule. In the present study, the activity of a novel RV analog, 3,3′,4,4′,5,5′-hexahydroxystilbene (M8), was investigated in HL-60 human promyelocytic leukemia cells.
+Methods
+
+Cytotoxicity of M8 alone or in combination with Ara-C was assessed employing growth inhibition assays. Effects of M8 on nucleoside triphosphates (NTPs) and deoxynucleoside triphosphates (dNTPs) were examined by HPLC. The apoptotic potential of M8 and RV was compared using a specific double-staining method and inhibition of TNF-α-induced activation of NF-κB was studied. Cell-cycle distribution was analyzed by FACS.
+Results
+
+Addition of ascorbic acid decreased the IC50 value of M8 from 6.25 μM to 2 μM. M8 depleted dATP and dTTP pools to 41% and 21% of control values, whereas dCTP pools increased to 199% of untreated controls. In addition, TTP, ATP, CTP, and GTP concentrations were decreased while UTP concentrations increased. M8 induced apoptosis at concentrations significantly lower than RV and could remarkably inhibit the activation of NF-κB. M8 arrested cells in the S phase of the cell cycle while depleting cells in the G2-M phase and exhibited synergistic combination effects when applied simultaneously with Ara-C.
+Conclusion
+
+Due to these promising results, this novel polyhydroxylated stilbene derivative might become an additional option for the treatment of leukemia and therefore deserves further preclinical and in vivo testing.

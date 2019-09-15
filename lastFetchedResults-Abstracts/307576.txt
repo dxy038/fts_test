@@ -1,0 +1,9 @@
+Objective:
+To evaluate a modified point-of-care (POCT) testing i-STAT® analyzing cartridge that connects directly to the sampling port of a blood-conserving sampling line.
+Design and methods:
+In an in vitro setup, blood samples were drawn from a blood-conserving sampling line connected to a miniature cardiopulmonary bypass (CPB) system. Blood collection from the sampling port was either performed with a syringe necessitating subsequent sample loading on a standard i-STAT® cartridge (conventional procedure) or with a modified i-STAT® sampling cartridge allowing blood flow from the sampling port directly into the cartridge (modified procedure). The loaded cartridges were subsequently inserted into the i-STAT® Portable Clinical Analyzer for sample analysis. Multiple parameters such as blood gases, electrolytes, hematocrit, and glucose were measured. A series of 30 paired measurements was performed. Corresponding series of values were compared using linear regression analysis and Bland–Altman bias analysis (P< 0.05).
+Results:
+Twenty-five complete measurement series consisting of 12 parameters (pH, pCO2, pO2, SO2, base excess, bicarbonate concentration, sodium, potassium, ionized calcium, hemoglobin concentration, hematocrit, glucose) were evaluated. Linear regression analysis between the two sampling methods tested demonstrated an excellent correlation for all parameters (Pearson correlation coefficients: 0.859–0.999). Bias and precision between corresponding series showed clinically acceptable performance levels for all parameters.
+Conclusions:
+The modified i-STAT® sampling cartridge allows reliable diagnostic blood sampling directly from a blood-conserving sampling line. The technique presented is also applicable to other POCT systems, thus reducing diagnostic blood loss because of the minimal amount of blood required for analysis.
+

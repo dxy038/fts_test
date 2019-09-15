@@ -1,0 +1,11 @@
+Objective
+We previously established 33 bone marrow stromal cell lines from SV40 T-antigen transgenic mice. Of these, 27 clones supported erythroid colony formation, while 6 did not. The objective of this study is to identify the molecules that determine these erythroid colony-forming activities.
+Materials and Methods
+
+We compared gene expression profiling by DNA microarray between cell lines that support erythropoiesis (E+; TBR9, 184, 31-2) and cell lines that do not (E−; TBR17, 33, 511). Among the differentially expressed genes, we selected candidate genes with results of quantitative reverse transcriptase polymerase chain reaction, and examined the effect of small interfering RNA (siRNA) and the addition of exogenous proteins on the erythroid colony formation.
+Results
+
+Out of 7226 genes examined, 138 and 282 genes were upregulated and downregulated in E+ by threefold or more, respectively. We have selected one of the upregulated genes, tenascin-C (TN-C), as a candidate. Expressions of TN-C in E+ were all higher than the three E–cell lines, with a mean of 3.6-fold. The number of erythroid colonies in the presence of TN-C siRNA was significantly lower than that of control siRNA in TBR9 (20.7 ± 6.3 vs 4.7 ± 4.8 colonies; p = 0.01) and in TBR184 (13.3 ± 5.3 vs 0.3 ± 0.5; p = 0.02). Moreover, addition of exogenous TN-C enhanced the number of erythroid colonies in TBR184 (13.3 ± 3.5 vs 20.0 ± 2.0; p = 0.04) and in TBR31-2 (7.5 ± 3.1 vs 13.5 ± 2.6; p = 0.03).
+Conclusion
+
+These results suggest that TN-C is responsible for determining the stromal cell-dependent erythropoiesis.

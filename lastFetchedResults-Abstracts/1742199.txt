@@ -1,0 +1,8 @@
+Introduction
+med Up and Go (TUG) test is a widely used measure of mobility and fall risk in older adults and in Parkinson's disease (PD). We tested the hypothesis that body-fixed accelerometers can provide insight into TUG performance in PD patients.
+s
+mined 17 patients with PD (Hoehn and Yahr score: 2.7 ± 0.7; ON state) and 15 age-matched healthy controls; mean ages were 66.8 ± 5.9 years, 67.6 ± 9.6 years, respectively. Subjects wore a 3D-accelerometer (ADXL330, Analog Devices) on the lower back while performing the TUG test. Sit-to-Stand and Stand-to-Sit times were extracted from the anterior–posterior (AP) signal. Parameters included Sit-to-Stand, Stand-to-Sit durations, amplitude range (Range) and slopes (Jerk). Acceleration median and standard deviation (SD) were also calculated.
+s
+tch-based TUG duration tended to be higher for the PD patients compared to the control group, although not significantly (p = 0.08). In contrast, the TUG duration that was extracted from the acceleration signal was significantly (p &lt; 0.02) higher in the PD group compared to the control group. Many acceleration-parameters were also significantly different (p &lt; 0.05) between groups; most were not correlated with TUG duration.
+sions
+rometer-derived parameters are sensitive to group differences, indicating that PD patients have poorer mobility during specific aspects of the TUG. In addition to test duration, these measures may serve as complementary and objective bio-markers of PD to augment the evaluation of disease progression and the response to therapeutic interventions.

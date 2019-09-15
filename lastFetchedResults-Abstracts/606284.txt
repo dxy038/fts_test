@@ -1,0 +1,8 @@
+The objective of this paper is to design a system to classify Persian speech acts. The driving vision for this
+work is to provide intelligent systems such as text to speech, machine translation, text summarization, etc. that are
+sensitive to the speech acts of the input texts and can pronounce the corresponding intonation correctly. Seven speech
+acts were considered and 3 classification methods including (1) Naive Bayes, (2) K-Nearest Neighbors (KNN), and (3)
+Tree learner were used. The performance of speech act classification was evaluated using these methods including 10-
+Fold Cross-Validation, 70-30 Random Sampling and Area under ROC. KNN with an accuracy of 72% was shown to
+be the best classifier for the classification of Persian speech acts. It was observed that the amount of labeled training
+data had an important role in the classification performance.

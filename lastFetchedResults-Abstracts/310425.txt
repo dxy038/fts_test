@@ -1,0 +1,11 @@
+Objective. The main purpose of this study was to estimate lower extremity joint impact loading in running and the influences of muscles on this loading.
+
+Design. A 2D simulation model that included skeletal motion, muscles, and soft-tissue movement was developed in this study.
+
+Background. Our understanding of joint impact loading has been mainly based on measurable external loading variables. Furthermore, changes in muscular forces have often been neglected, assuming that muscular activation cannot react during the period of impact, which ignores passive muscle properties.
+
+Methods. Kinematics and ground reaction forces were collected for each of five subjects performing heel-toe running. Kinematic and inverse dynamics analyses provided the initial conditions for the simulation models. The motion of each subject was simulated for 50 ms following heelstrike.
+
+Results. Motion of body segments following heelstrike reduced the rate of joint impact loading, sometimes substantially, in comparison to the ground reaction force. In addition, substantial changes in muscular forces were sometimes observed that further reduced the rates of joint loading.
+
+Conclusions. The rates of joint impact loading are reduced in comparison to the ground reaction force during normal heel-toe running. Changes in muscular forces may have a relevant effect on joint impact loading and should not be neglected in future studies.

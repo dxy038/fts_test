@@ -1,0 +1,8 @@
+Abstract This paper considers the problem of monitoring the mean of a normally distributed process variable
+when the objective is to effectively detect both small and large shifts in the process mean. A generalized likelihood
+ratio (GLR) control chart with a variable sampling size and sampling interval (VSSI) scheme is proposed to quickly
+detect a wide range of shift sizes. The performance of the VSSI GLR chart is evaluated and the results shows that
+the VSSI feature can greatly reduce the expected detection time. Design methodology for the VSSI GLR chart is
+provided so that practitioners can easily use this chart in applications. An illustrative example is given to explain
+how to apply the VSSI GLR chart.
+

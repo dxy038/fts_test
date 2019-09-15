@@ -1,0 +1,11 @@
+This paper presents an inverse design methodology to obtain a required yield strength with an optimal
+cooling condition for the continuous quenching of precipitation hardenable sheet alloys. The yield
+strength of a precipitation hardenable alloy can be obtained by allowing solute to enter into solid
+solution at a proper temperature and rapidly cooling the alloy to hold the solute in the solid solution.
+An aging process may be needed for the alloy to develop the  nal mechanical property. The objective
+of the design is to optimize the quenching process so that the required yield strength can be achieved.
+With the inverse design method, the required yield strength is speci ed and the sheet thermal pro le
+at the exit of the quenching chamber can also be speci ed. The conjugate gradient method is used
+to optimize the cooling boundary condition during quenching. The adjoint system is developed to
+compute the gradient of the objective functional. An aluminium sheet quenching problem is presented
+to demonstrate the inverse design method

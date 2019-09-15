@@ -1,0 +1,1 @@
+In this paper, we show that in the case of quick look-in (QLI) codes, the symbol reliability values are obtained by applying the bidirectional Viterbi algorithm (BIVA) either to the code trellis or to the corresponding syndrome trellis

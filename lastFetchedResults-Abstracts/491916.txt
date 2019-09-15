@@ -1,0 +1,20 @@
+Carbohydrates are the main source of energy in ruminants. Their site, extent and kinetics of digestion highly impact the amount
+and profile of nutrients delivered to peripheral tissues, and the responses of the animal, i.e. ingestion, efficiency of production,
+N and methane excretion, quality of products and welfare. Development of multi-objective feed evaluation systems thus requires
+a more integrated quantitative knowledge on carbohydrate digestion and yield of terminal products, as well as on their
+metabolism by splanchnic tissues. The objective of this paper is to review (i) quantitative knowledge on fibre, starch and sugar
+digestion, volatile fatty acids (VFA) and glucose production and splanchnic metabolism and (ii) modelling approaches which aim
+at representing and/or predicting nutrient fluxes in the digestive tract, portal and hepatic drainage. It shows that the representation
+of carbohydrate digestion and VFA yield is relatively homogeneous among models. Although published quantitative comparisons
+of these models are scarce, they stress that prediction of fibre digestion and VFA yield and composition is still not good enough
+for use in feed formulation, whereas prediction of microbial N yield and ruminal starch digestion seems to be more satisfactory.
+Uncertainties on VFA stoichiometric coefficients and absorption rates may partly explain the poor predictions of VFA. Hardly any
+mechanistic models have been developed on portal-drained viscera (PDV) metabolism whereas a few exist for liver metabolism.
+A qualitative comparison of these models is presented. Most are focused on dairy cows and their level of aggregation in the
+representation of nutrient fluxes and metabolism highly differs depending on their objectives. Quantitative comparison of these
+models is still lacking. However, recent advances have been achieved with the empirical prediction of VFA and glucose production
+and fluxes through PDV and liver based on the current INRA feed evaluation system. These advances are presented. They illustrate
+that empirical prediction of ruminal VFA and intestinal glucose production can be evaluated by comparison with measured net
+portal net fluxes. We also illustrate the potential synergy between empirical and mechanistic modelling. It is concluded that
+concomitant empirical and mechanistic approach may likely help to progress towards development of multi-objective feed
+evaluation systems based on nutrient fluxes

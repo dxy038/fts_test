@@ -1,0 +1,11 @@
+Objective
+To determine what wear parameter(s) have clinical relevance and what factors are important for accurate measurement of these parameters in vivo and in vitro.
+Method
+
+Describe biomechanical factors affecting mastication and the mechanics of wear. Investigate how they impact the wear of teeth and restorative materials. Based on this information, define the advantages and disadvantages of using volume, depth, and area parameters to quantify wear. Describe direct and indirect methods of measuring wear and point out advantages and disadvantages of each.
+Results
+
+The preferred parameter for quantifying wear is volume. It is independent of occlusal factors and is a measure of work done. If material and environmental factors remain constant, volume loss is linear with time. Depth and area have limited clinical value because of their dependence on occlusal factors; plus, they are not linear with time. When measuring wear the material of interest and the opposing material must be considered; especially if the opposing material is enamel. Wear is best measured by comparing sequential 3D images. Measuring systems should be calibrated with their error reported using sigma values rather means and standard deviations. The quality of the alignment of the sequential images should be included in the error analysis. Cost and availability of 3D imaging systems has severely limited their use in clinical studies.
+Significance
+
+Wear is an important consequence of occlusal interactions. If not controlled, wear could lead to poor masticatory function with a concomitant reduction in quality of life and possible deterioration of systemic health.

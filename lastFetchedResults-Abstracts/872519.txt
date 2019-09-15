@@ -1,0 +1,11 @@
+This paper investigates vector optimization problems with objective and the constraints are multifunctions.
+By using a special scalarization function introduced in optimization by Hiriart-Urruty, we
+establish optimality conditions in terms of Lagrange–Fritz–John and Lagrange–Kuhn–Tucker multipliers.
+When all the data of the problem are subconvexlike we derive the results by Li, and hence
+those of Lin and Corley. We also show how the generalized Moreau–Rockafellar type theorem to
+multifunctions obtained recently by Lin can be derived from the well-known results in scalar optimization.
+In the last, vector optimization problem in which objective and the constraints are defined
+by multifunctions and depends on a parameter u, and the resulting value multifunction M(u) are considered.
+With the help of the generalized Moreau–Rockafellar type theorem we establish the weak
+subdifferential of M in terms of the weak subdifferential of objective and constraint multifunctions.
+ 2003 Elsevier Inc. All rights reserved.

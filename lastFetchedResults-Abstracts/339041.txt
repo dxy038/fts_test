@@ -1,0 +1,11 @@
+Objective
+Acquired resistance to imatinib mesylate (STI571) in chronic myelogenous leukemia (CML) patients has become a serious clinical problem. We previously established STI571-resistant sublines (designated KTR cells) from the CML cell line KT-1. T cell protein tyrosine phosphatase (TC-PTP) was markedly downregulated in all KTR cells compared to parental KT-1 cells. Therefore, we examined whether the suppression of TC-PTP expression might contribute to imatinib mesylate-resistance in KTR cells.
+Materials and methods
+
+We transduced the nuclear isoform of TC-PTP (TC45) and catalytically inactive TC45-D182A cDNAs into KTR cells by retroviral gene transfer. Subsequently, we analyzed the sensitivity to imatinib mesylate and the status of signaling pathways in the transduced cells.
+Results
+
+The overall levels of STAT5 phosphorylation were significantly higher in KTR cells as compared to KT-1 cells, but reconstitution of TC-PTP in KTR cells resulted in a dramatic decrease of STAT5 phosphorylation. Furthermore, STAT5 phosphorylation was ablated by imatinib mesylate in KT-1 cells but remained elevated in KTR cells. In contrast, we observed no difference in BCR-ABL or JAK2 phosphorylation and no difference in activation of other signaling pathways. Importantly, reconstitution of TC-PTP in KTR cells to levels found in parental KT-1 cells restored their sensitivity to imatinib mesylate as monitored by reduced proliferation and increased apoptosis.
+Conclusions
+
+We have demonstrated that forced expression of TC-PTP in imatinib mesylate-resistant KTR cells can restore sensitivity to imatinib mesylate. Our studies indicate that loss of TC-PTP may represent a novel mechanism by which CML cells can acquire imatinib mesylate-resistance.

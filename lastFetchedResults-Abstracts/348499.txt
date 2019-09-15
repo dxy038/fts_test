@@ -1,0 +1,11 @@
+Objective
+In the present experimental study, we examined topographic variability of composition of brain oscillations and their temporal behavior in frequencies from 0.5 to 30 Hz of interictal EEG without epileptiform abnormalities and healthy EEG.
+Methods
+Spatio-temporal variability of brain oscillations (indexed by short-term EEG spectral patterns (SPs)) was assessed by the probability-classification analysis of SPs. As a result, multi-dimensional SP-vector for each analysis EEG epoch was obtained.
+Results
+It was demonstrated that interictal EEG was characterized (a) by a significant decrease of spatio-temporal variability of brain oscillations, (b) by longer periods of temporal stabilization for operational modules which comprise larger number of cortical areas, and (c) by significantly more intermittent recurrence when compared with EEG of control subjects. Generally it was shown that EEG channels display different states of coordination independently on their correlation and coherence using brain oscillations at multiple frequencies.
+Conclusions
+Results of this study suggested that EEG correlate of chronic epileptogenesis in the brain is a particular metastable state of biopotential field, which can be estimated by SP-vector. The fact that all results were significantly different from surrogate EEGs reflects a nonoccasional and thus, most likely, an adaptive nature of spatio-temporal reorganization in interictal EEG.
+Significance
+Parameters of spatio-temporal organization of interictal EEG without the signs of epileptiform activity can be considered as additional information in premorbid diagnostics of status epilepticus, and may also provide insights into basic laws that govern brain oscillations in general.
+

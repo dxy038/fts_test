@@ -1,0 +1,11 @@
+Objective
+Primitive hematopoietic stem cell function was assessed after cyclophosphamide with granulocyte-macrophage colony-stimulating factor (GM-CSF), with or without preadministration of interleukin-1, using competitive repopulation.
+Methods
+
+C57B6/J mice injected with one or four biweekly intravenous injections of cyclophosphamide, 200 mg/kg, received granulocyte-macrophage colony-stimulating factor, 1 μg, subcutaneously for 5 days, beginning 24 hours after cyclophosphamide. Alternatively, mice were injected with interleukin-1, 1 μg, 20 hours before administration of drug or drug and cytokine. Marrow obtained from mice sacrificed 4 weeks after the last dose of drug or drug and cytokine was used in competitive repopulation.
+Results
+
+Significant reductions in marrow repopulating ability occurred after a single dose of cyclophosphamide or multiple injections. Repopulating units (RU) were calculated, and both binomial and Poisson models for estimation of primitive hematopoietic stem cell (PHSC) numbers were used. RU were significantly diminished for all treatment groups when compared to controls. PHSC numbers were not significantly affected by either regimen of cyclophosphamide given alone. Addition of GM-CSF to cyclophosphamide, whether the latter was given in single or multiple doses, led to further, although insignificant, declines in repopulating ability, as well as PHSC and RU numbers. Interleukin-1 usage exacerbated the observed repopulating defect. There was evidence of replicative failure in individual cells, indicating a qualitative defect also.
+Summary
+
+Additive stem cell depletion and qualitative replicative defect occur after chemotherapy-cytokine usage. However, the replicative defect of PHSC seen after addition of GM-CSF is not significantly worse than that seen with cytotoxic drug use alone.

@@ -1,0 +1,1 @@
+We implement a cost efficient 10.7 Gb/s directly modulated DPSK transmitter in a bidirectional WDM-PON, which also remodulates the downstream phase encoded signal for 2.5 Gb/s OOK upstream transmission.

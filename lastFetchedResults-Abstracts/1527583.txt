@@ -1,0 +1,1 @@
+We consider a class of global optimization problems, in which the objective function is Lebesgue integrable. In this paper, we present a sufficient and necessary condition for computing the essential infimum. This optimality condition can be used to design algorithms for solving the global optimization problem.

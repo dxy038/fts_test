@@ -1,0 +1,11 @@
+Objective
+The quality of averaged gradient artifact subtraction from EEG recorded during fMRI is highly dependent on the accuracy of gradient artifact sampling. Even small sampling shifts (e.g. a single datapoint at 5 kHz) increase the variance of the sampled gradient artifacts because of very steep slopes in the signal time course. Hence, although principally gradient artifacts are invariant signals because of their technical origin, variance attributed to sampling errors attenuates the effect of artifact removal. Recently, it has been shown that synchronizing the EEG-amplifier clock to the MR-scanner control-device clock improves artifact reduction by subtraction.
+Methods
+In order to investigate the synchronized measurement of combined EEG–fMRI, we used simulated EEG by measuring function generator signals in the MR-scanner. Only the usage of known signals allows an assessment of the improvement in accuracy of artifact recording by synchronized compared to non-synchronized measurement, since the signal is identical in both conditions.
+Results
+After averaged gradient artifact subtraction synchronized recorded signals were apparently less distorted than non-synchronized recorded signals. Spectral analyses revealed that especially artifact frequencies above 50 Hz had less power in restored synchronized compared to restored non-synchronized recorded signals. Computed total signal variances were not always less in restored synchronized compared to restored non-synchronized recorded signals.
+Conclusions
+Taken together, synchronizing simultaneous EEG–fMRI measurement is a useful enhancement for averaged gradient artifact subtraction although post-correction filtering is still necessary.
+Significance
+Our results support the recent finding that synchronization improves the quality of averaged gradient artifact subtraction. However, quantitatively we could not verify a systematic benefit of recording electrical signals during fMRI synchronously rather than non-synchronously to the MR-scanner control-device clock.
+

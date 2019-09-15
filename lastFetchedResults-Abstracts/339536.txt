@@ -1,0 +1,11 @@
+Objective
+Shwachman-Diamond syndrome (SDS) is an autosomal-recessive disorder characterized by exocrine pancreatic insufficiency and bone marrow failure. The SDS disease locus was mapped to chromosome 7q11, and disease-associated mutations were reported in the Shwachman-Bodian-Diamond syndrome (SBDS) gene. SBDS is a member of a highly conserved protein family in diverse species including archaea and eukaryotes. It is widely expressed in many tissues, and its function is still unknown. To investigate the function of the SBDS protein, we undertook loss-of-function experiments in the 32Dcl3 cell line, which has the potential to differentiate to mature neutrophils.
+Methods
+
+SBDS gene was downregulated with lentivirus-based RNAi system. SBDS knockdown cells were analyzed for surface marker expression by flow cytometry and analyzed for the sensitivity to apoptosis-inducing stimuli.
+Results
+
+After culture in granulocyte colony-stimulating factor (G-CSF)-containing medium for 3 days, 32Dcl3 cells demonstrated normal proliferation but complete downregulation of SBDS protein expression. The SBDS RNAi knockdown cells did not proliferate in G-CSF-containing medium but after 7 days had the appearance of segmented neutrophils. The neutrophil maturation markers were detected on these cells. Undifferentiated SBDS RNAi knockdown cells demonstrated increased apoptosis of undifferentiated cells. Notably, SBDS RNAi knockdown cells demonstrated normal proliferation in interleukin-3-containing medium.
+Conclusion
+
+We have established an SDS model cell line and have used this model to demonstrate that SBDS is not required for neutrophil maturation. However, SBDS knockdown cells were sensitive to apoptotic stimuli, indicating that SBDS acts to maintain survival of granulocyte precursor cells.

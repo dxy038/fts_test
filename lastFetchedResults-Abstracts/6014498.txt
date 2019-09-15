@@ -1,0 +1,1 @@
+The eigenfilter is an FIR filter that maximizes signal-to-noise ratio (SNR). It is being applied to detection of low-level steady-state VEPs with the aim of developing an objective measure of visual contrast sensitivity

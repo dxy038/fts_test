@@ -1,0 +1,9 @@
+Phase stability calculation is a very important topic in phase equilibrium modeling. Usually the phase stability problem is solved by minimization
+of the tangent plane distance (TPD) function, the sign of the objective function at its global minimum indicating the state of the mixture at given
+conditions. The TPD function is non-convex and may be highly non-linear, many phase stability problems being really challenging. The tunneling
+global optimization method had been successfully used for solving a variety of phase equilibrium problems, including stability, with cubic equations
+of state (EoS). In this work, we test the ability of the tunneling method to solve the phase stability problem for more complex EoS like PC-SAFT.
+Calculations are performed for several benchmark problems, for mixtures of non-associating molecules, from binaries to multicomponent. In one
+example, the mixture contains hydrogen sulphide, for which the three parameters required by the PC-SAFT EoS were unavailable in the literature.
+These parameters, as well as the binary interaction parameter (BIP) between hydrogen sulphide and methane, were calculated based on experimental
+data.

@@ -1,0 +1,8 @@
+Background and Objective: In recent years, DNA microarray technology has become a central tool in genomic research. Using this technology, which made it possible to simultaneously analyze expression levels for thousands of genes under different conditions, massive amounts of information will be obtained. While traditional clustering methods, such as hierarchical and K-means clustering have been shown to be useful in analyzing microarray data, they have some limitations. These methods assume that a gene or an experimental condition can be assigned to only one cluster and a gene belongs to a group of genes that are coexpressed under all conditions. Therefore, to overcome these shortcomings, biclustering methods are used. The purpose of this paper was to evaluate the efficiency of a biclustering method in analyzing yeast gene expression data. 
+
+Materials and Methods: In this study, Large Average Submatrices (LAS) method has been used to analyze the yeast Saccharomyces cerevisiae expression dataset, provided by Gasch et al. (2000). The dataset contains 2993 genes and 173 different experimental conditions. In this study, the software packages such as LAS, JMP and GOAL has been used for analyzing data. 
+
+Results: Results showed that the LAS method is able to produce biologically and statistically relevant biclusters.  
+
+Conclusion: This study showed that LAS can be used to discover biologically significant subsets of genes under subsets of conditions for microarray data analysis. 
+

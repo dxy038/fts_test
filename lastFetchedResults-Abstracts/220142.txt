@@ -1,0 +1,12 @@
+The variations in plastic injection molding process may lead to the inconsistency of molded parts'
+dimensions. Furthermore, due to the speed of production as well as post-shrinkage of molded part s
+make the control of process difficult and give inaccurate molded parts. The objective of this research
+is to predict the dimensions of injection molde d parts on the basis of cavity pressure during the molding
+process. At the first stage of experimentations, the variations of molding process were determined
+under a base setting condition by using cavity pressure measurement approach. At the second
+stage, the effects of moldin g parameter s on the cavity pressure profile as well as part's dimen sions 1- - - - - - - - - - were
+studied. Following, an artific ial neural-network model was implemented capable of predicting
+the molded part's dimen sions based on the cavity pressure. To increase the efficiency of proposed
+model , three features of the cavity pressure trace encompassing maximum cavity pressure, cavi ty
+pressure-time integral value , as well as time to reach the maximum pressure were selected as neural-
+network input s.

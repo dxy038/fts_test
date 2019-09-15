@@ -1,0 +1,18 @@
+The independent control of active and reactive power
+flow in a transmission line is necessary for the transfer of bulk
+power along a desired path in the most economical way. A “Sen”
+Transformer (ST) uses transformer and tap changers that are
+traditionally used to build a voltage-regulating transformer (VRT)
+and a phase angle regulator (PAR). The ST regulates the voltage
+at a point in the transmission line as a VRT does. Additionally,
+the ST provides an independent and bidirectional active and
+reactive power ( and ) flow control in the transmission line
+as a voltage-sourced converter (VSC)-based unified power flow
+controller (UPFC) does. Although both the ST and the PAR use
+a comparable number of components, the ST provides an area
+of controllability in the - plane similar to a UPFC, while
+the PAR provides a linear - characteristic. The technology
+of transformer and tap changer is proven to be reliable and
+cost-effective when compared with the emerging technology of
+VSC. The new ST is adequate to provide independent control of
+active and reactive power flow in most utility applications.

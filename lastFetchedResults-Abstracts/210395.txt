@@ -1,0 +1,15 @@
+Background & Aims: Cancer is a serious problem for human being. A necessary prerequisite for any
+therapeutic modality is early diagnosis. Fractal dimension measurement of nuclear boundary of cancer
+cells can be used as a feature extraction in the field of automated cancer diagnosis.
+Materials & Methods: 41 positive urine cytology and 33 negative ones were selected randomly.
+Digitalized images prepared using objective 100X and a digital video head preprocessed subsequently
+and the fractal dimension ofnuclear boundaries was measured by a software.
+Re.•ults: Findings revealed a statistically significant difference between fractal dimensions of nuclear
+boundaries of cancerous versus non-cancerous in urinary smears. Selecting a proper cut off point
+(1.732 ± 0.006 in this study) can discriminate malignant and non-malignant epithelial cells in urinary
+smears.
+Conclusion: Based on diagnostic accuracy measures (sensitivity and specificity), probability of
+disease measures (predictive value of a positive and negative test results), and likelihood ratio of
+positive and negative tests, it seems fractal dimension of nuclear cell boundaries in urinary smears can
+be used as a feature extraction in the field ofautomated cancer diagnosis.
+

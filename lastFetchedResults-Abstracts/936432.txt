@@ -1,0 +1,22 @@
+Critical loads are the basis for policies controlling emissions of acidic substances in Europe and elsewhere. They are assessed by
+several elaborate and ingenious models, each of which requires many parameters, and have to be applied on a spatially-distributed
+basis. Often the values of the input parameters are poorly known, calling into question the validity of the calculated critical loads.
+This paper attempts to quantify the uncertainty in the critical loads due to this “parameter uncertainty”, using examples from the
+UK.
+Models used for calculating critical loads for deposition of acidity and nitrogen in forest and heathland ecosystems were tested
+at four contrasting sites. Uncertainty was assessed by Monte Carlo methods. Each input parameter or variable was assigned a value,
+range and distribution in an objective a fashion as possible. Each model was run 5000 times at each site using parameters sampled
+from these input distributions. Output distributions of various critical load parameters were calculated.
+The results were surprising. Confidence limits of the calculated critical loads were typically considerably narrower than those of
+most of the input parameters. This may be due to a “compensation of errors” mechanism. The range of possible critical load values
+at a given site is however rather wide, and the tails of the distributions are typically long. The deposition reductions required for a
+high level of confidence that the critical load is not exceeded are thus likely to be large. The implication for pollutant regulation is
+that requiring a high probability of non-exceedance is likely to carry high costs.
+The relative contribution of the input variables to critical load uncertainty varied from site to site: any input variable could be
+important, and thus it was not possible to identify variables as likely targets for research into narrowing uncertainties. Sites where a
+number of good measurements of input parameters were available had lower uncertainties, so use of in situ measurement could be a
+valuable way of reducing critical load uncertainty at particularly valuable or disputed sites.
+From a restricted number of samples, uncertainties in heathland critical loads appear comparable to those of coniferous forest,
+and nutrient nitrogen critical loads to those of acidity. It was important to include correlations between input variables in the Monte
+Carlo analysis, but choice of statistical distribution type was of lesser importance.
+Overall, the analysis provided objective support for the continued use of critical loads in policy development.

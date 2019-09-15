@@ -1,0 +1,62 @@
+
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4  Background and Objectives:The poor accessibility of microorganisms to PAHs in soil has limited success in the process of
+bioremediation as an effective method for removing pollutants from soils.
+Different physicochemical factors are effective on the rate of biodegradation.
+The main objective of this study is to assess effects of nutrient and salinity
+on phenanthrene removal from polluted soils.Materials and Methods:The
+soil having no organic and microbial pollution was first artificially polluted
+with phenanthrene then nutrients and salinity solution in two concentrations
+were added to it in order to have the proportion of 10% w:v (soil: water).
+After that a microbial mixture enable to degrade phenanthrene was added to the
+slurry and was aerated. Finally, the residual concentration of Phenanthrene in
+the soil was extracted by ultrasonic and was analyzed using GC. We measured the
+microbial populationusing MPN test. This study was conducted based on the two
+level full factorial design of experiment. Results: MPN test
+showed that the trend of microbial growth has experienced a lag growth. The
+full factorial design indicated that nutrient had the maximum effect on
+bioremediation; the rate of phenanthrene removal in the maximum nutrients -
+minimum salinity solution was 75.14%.Conclusion: This study
+revealed that the more nutrient concentration increases, the more degradation
+will be happened by microorganisms in the soils. However, salinity in the
+concentration used had no effect on inhabitation or promoting on the
+Phenanthrene removal.
+ 
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;}
+
+

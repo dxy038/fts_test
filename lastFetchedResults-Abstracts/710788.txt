@@ -1,0 +1,17 @@
+Study Objective
+To evaluate the effect of specimen collection order on the performance of diagnostic tests for Chlamydia trachomatis (CT) and Neisseria gonorrhoeae (GC), and the specimen adequacy of ThinPrep Papanicolaou (Pap) smears.
+Design
+Prospective cohort study.
+Setting
+Public adolescent clinic.
+Population
+313 women.
+Interventions
+The order of five cervical testing specimens was randomized for (1) ligase chain reaction (LCR) and (2) polymerase chain reaction (PCR) for both CT and GC; (3) transcription-mediated amplification (TMA) for CT; (4) culture for CT; and (5) cytology and LCR for GC and CT performed on ThinPrep Pap specimens. For CT and GC, a reference standard was based on three different tests performed on separate specimens. Generalized estimating equations were used to account for repeated measures.
+Main Outcome Measure
+Sensitivity and specificity of diagnostic tests.
+Results
+The proportion of inadequate Pap smears was independent of specimen order. As a group, nucleic acid amplification test (NAAT) sensitivity and specificity for GC and CT were similar in the first two (early) and last three (late) swabs. Although point estimates for sensitivity were higher in the early swabs compared to the late swabs for GC LCR (13% difference), GC PCR (13%), and CT TMA (10%), these differences were not statistically significant. Their clinical significance warrants further investigation.
+Conclusions
+In clinical settings where both Pap smears and STI testing are performed in adolescents, clinical considerations can influence the order of specimen collection, since neither Pap specimen adequacy nor test performance of NAAT for CT and GC were significantly associated with swab order.
+

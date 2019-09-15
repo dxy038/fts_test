@@ -1,0 +1,7 @@
+Background and Objective: The severity of the spinal muscular atrophy phenotype is inversely associated with the expression levels of the SMN2 gene; this correlation is not absolute, for this reason there is currently no effective treatment. The interference of other severity modifying factors, apart from SMN2 gene expression has been suggested. Here we investigate the effects of valproic acid as a STAT5 inducer not only on SMN2 expression but on STAT5A gene expression as well as on the rate of apoptosis.
+
+Materials and Methods: Expression levels of the SMN2 and STAT5A genes were determined using Realtime PCR while apoptotic rates were determined using flow cytometry in lymphocyte cell lines derived from three patients and two normal controls in response to valproic acid.
+
+Results: STAT5A gene induction, enhanced FLSMN2 expression and reduced apoptotic rate were seen in lymphocyte cell lines after valproic acid treatment (p&lt;0.05, ttest).
+
+Conclusion: Since STAT5A gene induction was accompanied with SMN2 transcriptional upregulation, these findings propose the involvement of STAT5A gene both as a component of the STAT5 pathway and as a target gene in drug responsiveness.

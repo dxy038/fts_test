@@ -1,0 +1,10 @@
+Context
+ the definition of software product lines (SPLs) it is necessary to choose the components that appropriately fulfil a product’s intended functionalities, including its quality requirements (i.e., security, performance, scalability). The selection of the appropriate set of assets from many possible combinations is usually done manually, turning this process into a complex, time-consuming, and error-prone task.
+ive
+in objective is to determine whether, with the use of modeling tools, we can simplify and automate the definition process of a SPL, improving the selection process of reusable assets.
+
+eloped a model-driven strategy based on the identification of critical points (sensitivity points) inside the SPL architecture. This strategy automatically selects the components that appropriately match the product’s functional and quality requirements. We validated our approach experimenting with different real configuration and derivation scenarios in a mobile healthcare SPL where we have worked during the last three years.
+s
+h our SPL experiment, we established that our approach improved in nearly 98% the selection of reusable assets when compared with the unassisted analysis selection. However, using our approach there is an increment in the time required for the configuration corresponding to the learning curve of the proposed tools.
+sion
+ conclude that our domain-specific modeling approach significantly improves the software architect’s decision making when selecting the most suitable combinations of reusable components in the context of a SPL.

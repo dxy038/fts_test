@@ -1,0 +1,11 @@
+Objective
+Expression of the B7 homolog B7-H1 (PD1-Ligand) has been proposed to enable tumor cells to evade immune surveillance. Recently, B7-H1 on murine leukemia cells was reported to mediate resistance to cytolytic T-cell destruction. We here investigate the expression and function of the B7 homolog B7-H1 in human leukemia.
+Patients and Methods
+
+Leukemia cells from 30 patients and 9 human leukemia cell lines were investigated for B7-H1 expression by flow cytometry. Functional relevance of B7-H1 for tumor-immune interactions was assessed by coculture experiments using purified, alloreactive CD4 and CD8 T cells in the presence of a neutralizing anti-B7-H1 antibody.
+Results
+
+Significant B7-H1 expression levels on leukemia cells were detected in 17 of 30 patients and in eight of nine cell lines. In contrast to various other tumor entities and the data reported from a murine leukemia system, no significant inhibitory effect of leukemia-derived B7-H1 on CD4 and CD8 cytokine production (IFN-γ, IL-2), proliferation or expression of T-cell activation markers (ICOS, CD69) was observed. Furthermore, in the presence of neutralizing B7-H1 antibody (mAb 5H1) occurred no significant changes in T cell IFN-γ or IL-2 production or proliferation.
+Conclusions
+
+Our data demonstrate that leukemia-derived B7-H1 seems to have no direct influence on T-cell activation, proliferation, and cytokine production in humans. Further experiments are warranted to delineate factors and characterize yet-unidentified B7-H1 receptor(s) that determine inhibitory and stimulatory functions of B7-H1 in human leukemia.

@@ -1,0 +1,21 @@
+This study is curried out with the objective or forecasting nominal and
+real prices or some L1gricultural products such as onions. potatoes and
+tomatoes. Alter the analysis or stationarity or the associated limeseries.
+the randomness of the variables is studied using the nonparametric
+Wald-Wullowirz and the parametric Durbin-Watson tests,
+lhe results show thaL all the nominal price series or the said products
+and the rCJI price series 01" potatoes were identified as non-random
+and forccastable time-series. The time-horizon for this study is 135013X4.
+Models used lor the I(JlcGlSting in this analysis were AR, M/\,
+ARIMA. Single l-xponcntia] Smoothing, Double Exponential
+Smoothing, l larrnonic Analysis. ARelI and the Artificial Ncuronetwork.
+Amongst the four forecasting series based on the minimumerror
+criterion, the AR and MA models forecasted the normnal price
+series or onions and potatoes much better. The Harmonic model
+forecasted the !10111 Ina I pncc or tomatoes with minimal error. The
+forecasted values Ior the real price of potatoes using the ARCH
+model produced the nunimum errors. Forecasting error for the
+nominal price series of potatoes \\ a:-. less than its real price series. The
+forecasting values (or the year 13X5 and 13X6 were shown to he mere
+than the similar values for 1384, with the exception of the price for
+potatoes.

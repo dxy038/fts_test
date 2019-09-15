@@ -1,0 +1,10 @@
+The Pacific Island Countries constantly struggle with the challenges of high petroleum dependence for their
+electricity production and lack of adequate energy services. It is possible to alleviate the energy poverty by utilizing
+abundant renewable energy resources available in the region. The objective of this work is to investigate the
+feasibility of a wind/solar photovoltaic/diesel generator-based hybrid power system in a remote location in Fiji
+islands. We used the Hybrid Optimisation Model for Electric Renewables (HOMER) software to simulate the system
+and perform system optimisation analysis. The system characteristics were studied in terms of optimal
+configuration, net present cost and the cost of energy. An entirely renewable energy-based configuration is feasible
+if 10% annual capacity shortage is allowed, while for a scenario with no capacity shortage, addition of a diesel
+generator is necessary. The addition of renewable energy components results in greenhouse gas reduction which
+could be used for carbon trading.

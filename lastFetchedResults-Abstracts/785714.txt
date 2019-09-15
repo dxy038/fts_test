@@ -1,0 +1,10 @@
+The sensitivity of the stock indices fluctuates according to business cycles or economic
+fluctuations. This creates a trade-off between risk and return in the minds of investors. They
+want to achieve maximum return at a minimal risk. This mode of optimisation requires portfolio
+diversification . As a matter of fact, selection of portfolio is based on the computation of the
+measures of central tendency and dispersion, namely mean and variance. More over the third and
+fourth order moments of the data set on indices need to be optimised so as to maximize
+skewness. In portfolio selection high return and minimal risk is the common objective of every
+investor.The share market return depends on various factors which are qualititative and
+quantitative in nature. Several researchers employ different fuzzy decision-making techniques to
+manage portfolios.

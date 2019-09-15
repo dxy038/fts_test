@@ -1,0 +1,10 @@
+In this study the performance and emissions characteristics of a heavy-duty, direct injection, Compression
+ignition (CI) engine which is specialized in agriculture, have been investigated experimentally. For this
+aim, the influence of injection timing, load, engine speed on power, brake specific fuel consumption
+(BSFC), peak pressure (PP), nitrogen oxides (NOx), carbon dioxide (CO2), Carbon monoxide (CO),
+hydrocarbon (HC) and Soot emissions has been considered. The tests were performed at various injection
+timings, loads and speeds. It is used artificial neural network (ANN) for predicting and modeling the engine
+performance and emission. Multi-objective optimization with respect to engine emissions level and engine
+power was used in order to deter mine the optimum load, speed and injection timing. For this goal, a fast
+and elitist non-dominated sorting genetic algorithm II (NSGA II) was applied to obtain maximum engine
+power with minimum total exhaust emissions as a two objective functions.

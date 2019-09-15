@@ -1,0 +1,11 @@
+Objective
+Natural resistance-associated macrophage protein 1 (Nramp1) is a divalent metal transporter expressed exclusively in phagocytic cells, such as macrophages and neutrophils. As macrophages are responsible for the engulfment and clearance of senescent red blood cells (RBC), we hypothesize that Nramp1 may participate in the recycling of iron acquired through phagocytosis.
+Materials and Methods
+
+To test this hypothesis, we examined the contribution of Nramp1 expression to iron metabolism in macrophages loaded with iron via either hemin or opsonized RBC.
+Results
+
+Western blot analysis indicated that Nramp1 protein levels increased with hemin, opsonized erythrocytes, or erythropoietin treatment. The pool of chelatable iron was also found to transiently increase following iron-loading with hemin or opsonized RBCs, with a greater increase observed in macrophages expressing Nramp1. Overexpression of Nramp1 was also found to result in a greater cellular release of 59Fe following phagocytosis of 59Fe-labeled reticulocytes. Expression of Nramp1 was associated with a twofold increase in heme oxygenase-1 (HO-1) levels in macrophages undergoing erythrophagocytosis. Nramp1-expressing macrophages were also found to phagocytose nearly twice as many RBC than their Nramp1-deficient counterparts.
+Conclusion
+
+The rapid and strong induction of Nramp1 during erythrophagocytosis, combined with its positive effects on 59Fe-release, HO-1 induction and phagocytic ability, suggest that Nramp1 has a role in the recycling of hemoglobin-derived iron by macrophages.

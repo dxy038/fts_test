@@ -1,0 +1,1 @@
+A non-axial-scanning confocal microscope by membrane mirror shape switching has been developed. The system controls the defocus of an objective by membrane mirror, and determines the height of an object from the confocal output value of each defocus.

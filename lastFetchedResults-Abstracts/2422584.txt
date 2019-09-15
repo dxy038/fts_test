@@ -1,0 +1,8 @@
+
+Received: 12 Jul, 2015; Accepted: 13 Sep, 2015
+Abstract
+Background & Aims: Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), remain as a leading causes of mortality among infectious diseases. The only current vaccine, bacillus Calmette-Gue´rin (BCG), displays highly variable efficiency for preventing tuberculosis. Thus, identification of protective antigens could be mentioned for designing new vaccines. Among different Mtb antigens, TB10.4 and Ag85B have been identified as immune stimulator antigens which induce strong cellular responses and increase production of IFN-?. In this study, we aimed to clone the fusion form of these antigens into a eukaryotic vector (pcDNA3).
+Materials & Methods: After extraction of Mycobacterium tuberculosis H37Rv genome, the selected genes were amplified by specific primers with PCR method. The gene segments were fused and cloned into eukaryotic pcDNA3 vector. Recombinant plasmid was transformed into E.coli DH5? and after purification was confirmed with restriction enzyme analysis and sequencing.
+Results: The results of sequencing and digestion demonstrated that TB10.4 & Ag85B genes were successfully fused and cloned into pcDNA3 vector
+Conclusion: The recombinant plasmid was successfully constructed. In the future studies, the immunogenicity of this cassette could be assessed as a DNA vaccine.
+

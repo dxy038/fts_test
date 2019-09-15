@@ -1,0 +1,1 @@
+This paper presents the implementation of Particle Swarm Optimization for the optimization of Interval Type-2 Fuzzy C-Means algorithm, this in order to automatically find the optimal number of clusters c and the interval of fuzzification or weight exponent [m1, m2], using as objective function for optimization algorithm an index cluster validation.

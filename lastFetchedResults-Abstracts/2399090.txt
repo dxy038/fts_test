@@ -1,0 +1,8 @@
+Objective
+estigate the effect of irradiance through choice of LED light-curing unit (LCU) and fiber-optic tip on the mechanical properties of methacrylate resin-based composites (RBCs).
+s
+gular bar-shaped specimens (25 mm × 2 mm × 2 mm) of four RBCs, irradiated from one side for the manufacturer's recommended times with one of two LED LCUs, and with either 8 or 13 mm tip diameter, were tested in three-point bend for flexural strength and modulus of elasticity; Vickers hardness was measured on top and bottom surfaces, on overlapped and non-overlapped irradiation sites. The effects and interactions of all factors were examined by analysis of variance.
+s
+the materials tested differed significantly for all properties (P &lt; 1 × 10−6), there was no significant effect for LCU, tip, or irradiance for flexural strength or modulus of elasticity. For hardness, the only significant effect overall was due to irradiance on the bottom surface.
+sions
+CUs and both tips could be used to give adequate top surface hardness, but the recommended maximum increment thickness is too great for adequate cure at the bottom with the tested LCUs at the recommended times. An extended experimental design would be valuable to test behavior at much elevated irradiances.

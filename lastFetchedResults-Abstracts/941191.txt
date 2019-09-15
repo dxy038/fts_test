@@ -1,0 +1,15 @@
+We present the mechanistic-based exposure and risk models, appraised with reported empirical data, to assess how the human
+exposure to airborne particulate matters (PMs) and carcinogenic polycyclic aromatic hydrocarbons (PAHs) during heavy incense
+burning episodes in temples. The models integrate size-dependent PM levels inside a temple from a published exploratory study
+associated with a human expiratory tract (HRT) model taking into account the personal exposure levels and size distributions in the
+HRT. The probabilistic exposure profiles of total-PAH levels inside a temple and internal PAHs doses are characterized by a
+physiologically based pharmacokinetic (PBPK) model with the reconstructed dose–response relationships based on an empirical
+three-parameter Hill equation model, describing PAHs toxicity for DNA adducts formation and lung tumor incidence responses in
+human white blood cells and lung. Results show that the alveolar-interstitial (AI) region has a lower mass median diameter
+(0.29 μm) than that in extrathoracic (ET1, 0.37 μm), brochial (BB, 0.36 μm) and bronchiolar (bb, 0.32 μm) regions. The 50%
+probability (risk=0.5) of exceeding the DNA adducts frequency (DAf) ratio of 1.28 (95% CI: 0.55–2.40) and 1.78 (95% CI: 0.84–
+2.95) for external exposure of B[a]P and B[a]Peq, respectively. The 10% (risk=0.1) probability or more of human affected by lung
+tumor is approximately 7.62×10−5% (95% CI: 3.39×10−5–1.71×10−4%) and 3.87×10−4% (95% CI: 1.72×10−4–8.69×10−4%)
+for internal exposure of B[a]P and B[a]Peq, respectively. Our results implicate that exposure to smoke emitted from heavy incense
+burning may promote lung cancer risk. Our study provides a quantitative basis for objective risk prediction of heavy incense
+burning exposure in temples and for evaluating the effectiveness of management.

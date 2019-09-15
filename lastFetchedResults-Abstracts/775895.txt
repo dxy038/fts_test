@@ -1,0 +1,12 @@
+To describe complex fenestration systems such as novel solar blinds, new glazing or coating materials, daylight and
+sunlight-redirecting devices, a detailed description of their optical properties is needed, given by their Bidirectional
+Transmission (or Reflection) Distribution Functions (commonly named BTDFs and BRDFs). These functions are
+angle-dependent at both the incidence and the emission levels, and are defined as the ratio of the luminance of a surface
+element in a given direction (after diffuse transmission or reflection) to the illuminance on the sample. However, these
+functions are capable of describing the specular as well as the diffuse components of emerging light, and their mutual
+knowledge is necessary to properly assess a glazing or shading system s daylighting performances and benefit from their
+potential as energy-efficient and users  comfort strategies. Although the analytical expression of a BT(R)DF differs
+whether it is related to specular or diffuse light, a simultaneous assessment of the two components can be achieved
+under certain conditions. These conditions are analyzed for the particular data acquisition procedure developed for
+a novel type of bidirectional goniophotometer, based on digital imaging.
+  2004 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,11 @@
+Objective
+A subgroup of cirrhotic patients develop hypermetabolism, possibly mediated by increased sympathetic nervous system activity and increased cardiac output. The effect of hypermetabolism on prognosis in patients with cirrhosis has not been elucidated.
+Methods
+
+Resting energy expenditure (REE) was measured using indirect calorimetry in 256 cirrhotic patients with different etiologies and disease severity (165 men, 91 women; median age 49 y, age range 16–73 y; median model for end-stage liver disease [MELD] score 13, range 6–36; median Child-Pugh score 8, range 5–15). Measured and predicted values were compared using equations based on fat-free mass, total body protein (measured by neutron activation analysis), and the Harris-Benedict equations. Competing-risks Cox’s proportional hazards analysis was performed to evaluate the influence of hypermetabolism and MELD or Child-Pugh scores on risk of death or liver transplantation.
+Results
+
+Median follow-up was 49 mo (range 1–90 mo). Hypermetabolic patients had decreased transplant-free survival compared with non-hypermetabolic patients (9.7 versus 31.8 mo, P = 0.05). Increased REE, even within the normal range, was also associated with worse transplant-free survival (P = 0.001). Hypermetabolism was predictive of transplant-free survival independent of MELD and Child-Pugh scores (hazard ratio 1.19, 95% confidence interval 1.08–1.32, P = 0.0008; hazard ratio 1.13, 95% confidence interval 1.10–1.16, P < 0.0001; hazard ratio 1.38, 95% confidence interval 1.29–1.48, P < 0.0001; respectively). Patients on β-blockers were more likely to be normometabolic (P = 0.035).
+Conclusion
+
+We found an inverse relation between REE and transplant-free survival in a large heterogeneous group of cirrhotic patients.

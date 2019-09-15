@@ -1,0 +1,7 @@
+In this paper, we extend the classes of generalized type I vector-valued functions introduced by
+Aghezzaf and Hachimi in [J. Global Optim. 18 (2000) 91–101] to generalized univex type I vectorvalued
+functions and consider a multiple-objective optimization problem involving generalized type I
+univex functions. A number of Kuhn–Tucker type sufficient optimality conditions are obtained for
+a feasible solution to be an efficient solution. The Mond–Weir and general Mond–Weir type duality
+results are also presented.
+ 2004 Elsevier Inc. All rights reserved

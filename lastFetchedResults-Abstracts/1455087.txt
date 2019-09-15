@@ -1,0 +1,23 @@
+Efficient and on-time maintenance plays a crucial role in
+reducing cost and increasing the market share of an industrial unit. Preventive
+maintenance is a broad term that encompasses a set of activities
+aimed at improving the overall reliability and availability of a system
+before machinery breakdown. The previous studies have addressed the
+scheduling of preventive maintenance. These studies have computed the
+time and the type of preventive maintenance by modeling the total cost
+related to it. Todays the engineering insurance is an appropriate and
+durable protection for reducing the risks related to the industrial machinery.
+This kind of insurance covers a part of maintenance costs. Previous
+researches did not consider the effect of engineering insurance
+on maintenance scheduling while it affects the total cost function of maintenance scheduling seriously. Given the above-mentioned remarks,
+this paper introduces for the first time a new scheduling of preventive
+maintenance with considering total cost and total reliability of the system
+in which the effect of engineering insurance has been taken into
+account. Due to the uncertainty in the input parameters, which are
+very common in application, the paper proposed the application of robust
+design approaches. To solve this multi objective model, first it has
+been transformed into a single objective model by using global criterion
+and the resultant model is solved through genetic algorithm. The
+results show the magnitude effect of engineering insurance on maintenance
+scheduling. Therefore, neglecting the importance of engineering
+insurance leads to an inefficient scheduling maintenance.

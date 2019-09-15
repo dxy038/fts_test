@@ -1,0 +1,7 @@
+OBJECTIVE: To determine the reference, bivariate, tolerance intervals of the whole-body impedance vector for healthy white neonates, we performed an observational, cross-sectional study in two university hospitals.
+
+METHODS: The impedance vector (standard, tetrapolar analysis at 50-kHz frequency) was measured in 163 consecutive subjects (87 boys and 76 girls) with postnatal ages of 1 to 7 d. Bivariate vector analysis was conducted with the resistance-reactance (RXc) graph method.
+
+RESULTS: The age-specific 95% confidence intervals of mean vectors and the 95%, 75%, and 50% tolerance intervals for individual vector measurements were plotted using R and Xc components standardized by the subject’s crown-to-heel length (height). Mean vectors from the groups (1, 2, and 3 to 7 d) with overlapping 95% confidence ellipses were considered representative of only one age class of 1 to 7 d. The impedance vector distribution of neonates also was compared with healthy white children (1014 boys and 1030 girls, age 2–15 y) and adult subjects (354 men and 372 women, age 15–85 y) from the same geographic area. There was a definite, progressive, vector shortening from birth, through ages 2 to 15 y, toward the adults’ vector position.
+
+CONCLUSIONS: We established the reference, bivariate, 95%, 75%, and 50% tolerance intervals of the impedance vector in the first postnatal week for healthy white neonates, with which the vectors from infants with altered body composition can be tested (free software is available from apiccoli@ unipd.it).

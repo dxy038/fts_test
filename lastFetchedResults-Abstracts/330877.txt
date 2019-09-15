@@ -1,0 +1,7 @@
+Objective: The objective of this study was to develop a computational tool for assisting the design of titanium dental castings with minimal defects and to compare computational simulations with casting experiments.
+
+Methods: Modeling. An in-house cellular-automata solidification and finite-difference diffusion program was coupled with a commercial casting program and applied to (a) simple geometric wedge models and (b) a 3D-laser scan of a molar crown casting. Experimental. Wedges and molar crowns were hand-waxed and investment cast in commercial purity grade 1 (CP-1) titanium by a commercial dental laboratory. The castings were sectioned and analyzed using light and scanning electron microscopy, X-ray microanalysis, and microhardness testing.
+
+Results: In the wedge sample, contamination with impurities (Al, Si), including intermetallic precipitates, was found to extend to a depth ranging from 30 to 120 μm depending on the section thickness and hence the local cooling rate. Microstructural and mechanical (hardness) effects were found to a depth ranging from 80 to 250 μm. The coupled micro/macro model predictions showed reasonable agreement for the pattern of contamination.
+
+Significance: Dental and medical applications demand close dimensional tolerance and freedom from surface impurities and structural flaws in castings having unique shapes. The ability to predict the structural, mechanical, and chemical changes resulting from the casting process will help to design the casting and post-casting processes to minimize these problems.

@@ -1,0 +1,32 @@
+Proportional Integral Derivative (PID) type
+controller is still widely used for the solution of the Load
+Frequency Control (LFC) problem. On the other hand,
+the optimal tuning of PID gains is required to get the
+desired level of robust performance under different
+operation conditions. In this paper, optimal gains tuning
+of a PID controller for solution of the LFC problem in the
+restructured power system is proposed using Artificial
+Bee Colony (ABC) algorithm. The problem of robustly
+tuning of PID based LFC design is formulated as an
+optimization problem according to the time domain-based
+objective function which is solved by the ABC technique
+that has a strong ability to find the most optimistic
+results. To ensure performance and robustness of the
+proposed control strategy to stabilize frequency
+oscillations, the design process takes a wide range of
+operating conditions and system nonlinearities into
+account. To demonstrate the effectiveness of the
+proposed method a two-area restructured power system is
+considered as a test system under different operating
+conditions. The simulation results are shown to maintain
+robust performance in comparison with the particle
+swarm optimization and genetic algorithm based tuned
+PID controllers through FD and ITAE performance
+indices. Results evaluation show that the proposed
+control strategy achieves good robust performance for
+wide range of system parameters and load changes in the
+presence of system nonlinearities and is superior to the
+other controllers. Moreover, the proposed control strategy
+has simple structure, easy to implement and tune which
+can be useful for the real world restructured power
+system.

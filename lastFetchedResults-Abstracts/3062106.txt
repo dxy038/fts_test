@@ -1,0 +1,1 @@
+This paper deals with chained form systems with strongly nonlinear disturbances and drift terms. The objective is to design robust nonlinear output feedback laws such that the closed-loop systems are globally exponentially stable. The systematic strategy combines the input-state-scaling technique with the so-called backstepping procedure.

@@ -1,0 +1,8 @@
+A Mond]Weir type dual for a class of nondifferentiable multiobjective variational
+problems in which every component of the objective function contains a
+term involving the square root of a certain positive semidefinite quadratic form, is
+considered and various duality results, viz. weak, strong, and converse duality
+theorems, are developed for conditionally properly efficient solutions. These results
+are obtained under V-invexity assumptions and its generalizations on objective
+and constraint functions. This work extends many results on variational
+problems established earlier.

@@ -1,0 +1,1 @@
+The objective of this work is to estimate the dependency of the service recovery time on the enterprise technology services´ number, probabilities of their participation in repair and the duration of their participation in fault elimination, when the services participate in the repair process in sequence

@@ -1,0 +1,14 @@
+Shop floor performance has great influence on performance of a
+manufacturing system. Traditionally, shop floor operational policies
+concerning maintenance scheduling, quality control and production
+scheduling have been considered and optimized independently.
+Anyway, these aspects of operations planning have an interaction
+effect on each other significantly and hereupon for improving the
+system performance; they need to be considered commonly. The main
+objective of this study is to provide a new approach in the quality
+control process. x control chart has been used in previous models, but
+in this study to improve the quality and increase the accuracy,
+cumulative sum control chart which is useful for detecting small
+changes by considering previous information of process is used and
+causes 5% improvement in objective function in the case that x
+control chart was used.

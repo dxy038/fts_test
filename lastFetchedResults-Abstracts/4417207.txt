@@ -1,0 +1,1 @@
+We propose a wavelength-reuse bidirectional 10-Gb/s/&#955; long-reach WDM-PON scheme and a novel automatic wavelength control method for tunable laser-based colorless ONU. Transmissions of wavelength-reuse bidirectional 10-Gb/s OOK are demonstrated with 60-km fiber transmission and 50-GHz channel spacing.

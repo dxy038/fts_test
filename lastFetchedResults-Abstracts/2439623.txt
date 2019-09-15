@@ -1,0 +1,8 @@
+Objective
+esearch is focused in the creation and validation of a solution to the inverse kinematics problem for a 6 degrees of freedom human upper limb. This system is intended to work within a real-time dysfunctional motion prediction system that allows anticipatory actuation in physical Neurorehabilitation under the assisted-as-needed paradigm. For this purpose, a multilayer perceptron-based and an ANFIS-based solution to the inverse kinematics problem are evaluated.
+als and methods
+he multilayer perceptron-based and the ANFIS-based inverse kinematics methods have been trained with three-dimensional Cartesian positions corresponding to the end-effector of healthy human upper limbs that execute two different activities of the daily life: ‘serving water from a jar’ and ‘picking up a bottle’. Validation of the proposed methodologies has been performed by a 10 fold cross-validation procedure.
+s
+rained, the systems are able to map 3D positions of the end-effector to the corresponding healthy biomechanical configurations. A high mean correlation coefficient and a low root mean squared error have been found for both the multilayer perceptron and ANFIS-based methods.
+sions
+tained results indicate that both systems effectively solve the inverse kinematics problem, but, due to its low computational load, crucial in real-time applications, along with its high performance, a multilayer perceptron-based solution, consisting in 3 input neurons, 1 hidden layer with 3 neurons and 6 output neurons has been considered the most appropriated for the target application.

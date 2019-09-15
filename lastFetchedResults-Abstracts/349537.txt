@@ -1,0 +1,11 @@
+Objective
+Differentiating between a fixed activation pattern (phase shift) and conduction time (time delay) in rhythmic signals has important physiological implications but is methodologically difficult.
+Methods
+Delay was estimated by the maximising coherence method and phase spectra calculated between (i) a narrow band-pass filtered AR2 process and its delayed copy for different phase shifts, (ii) the surface EMGs from two antagonistic forearm muscles with reciprocal alternating activity, and (iii) EEG and EMG data from 11 recordings in five Parkinsonian tremor patients.
+Results
+Estimated delays between the versions of the AR2 process resembled the real delay and were not significantly biased by the phase-shifts. The reciprocal alternating pattern of muscle activation was shown to be a pure phase-shift without any time delay. The phase between tremor-coherent cortical electrodes and EMG showed opposite signs and differed by 3π/4 − π between the antagonistic muscles. Bidirectional delays between contralateral cortex and EMG did not differ between the antagonists and were in keeping with fast corticospinal transmission and feedback to the cortex for both muscles.
+Conclusions
+Phase shifts and delays reflect different mechanisms in tremor related oscillatory interactions.
+Significance
+The maximising coherence method can differentiate between them.
+

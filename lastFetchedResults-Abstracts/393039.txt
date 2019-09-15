@@ -1,0 +1,9 @@
+Objective
+Symptoms of airway diseases are often associated with specific times of the day. For example, midnight worsening of cough is a frequent complaint of patients with laryngitis and bronchitis. We speculate that these symptoms are under the control of the circadian clock, and the clock genes in the airway epithelium play some important roles. In the present study, we tried to prove the time specific expressions of clock oscillating genes in the murine larynx.
+Materials and methods
+Adult wild-type C57/Bl6 mice and mCry1−/−mCry2−/− mutant mice were used for this study. We employed immunohistochemistry and/or Northern blotting for examining the circadian expression of mPer1, mPer2, C/EBPbeta, HNF3beta, and MUC5b.
+Results
+The expression of mPer2 mRNA showed a strong day–night expression difference, which was abolished after the lesion of the suprachiasmatic nucleus, and in mCry1−/−mCry2−/− mutant mice. mPER1 and mPER2 proteins both showed very similar expression profiles in the epithelium and submucosal glands with a peak in the evening and a trough in the early morning. Other nuclear proteins such as C/EBPbeta and HNF3beta did not show the rhythms. MUC5b protein showed circadian oscillation in the laryngeal submucosal gland.
+Conclusion
+In this study, we confirmed the existence of a local laryngeal clock which is controlled by the central clock in the suprachiasmatic nucleus. MUC5b protein in the submucosal mucous gland also showed circadian rhythm. We consider that these rhythmic expressions may cause the time specific symptoms among laryngeal diseases.
+

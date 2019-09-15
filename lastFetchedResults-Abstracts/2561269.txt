@@ -1,0 +1,1 @@
+Let ?? be a lattice module over the multiplicative lattice ??. ?? is said to be a comultiplication ??-module if for every element ?? of ?? there exists an element ????? such that ??=(0??:????). Our objective is to investigate properties of comultiplication lattice modules.

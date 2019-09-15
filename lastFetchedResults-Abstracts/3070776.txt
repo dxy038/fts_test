@@ -1,0 +1,1 @@
+The objective of this paper is the establishment of the relationships among the main variables of a wastewater biological treatment process using, as a first approach, data from a continuous aerobic reactor that was simulated by means of the activated sludge model No 1 (ASM no 1). Self-organizing map (SOM) and clustering techniques were used to carry out this task.

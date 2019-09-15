@@ -1,0 +1,11 @@
+Objective
+Many studies have validated the clinical efficacy of anagrelide to reduce platelet counts in thrombocythemic conditions. With the ability to support human megakaryopoiesis in vitro using thrombopoietin (TPO), specific investigation of changes in platelet levels can be carried out in human systems. Using CD34+ stem cells and murine BaF3 cells transfected with the human or murine TPO receptor, c-Mpl (BaF3mpl), the effect of anagrelide on cell differentiation, proliferation, and signaling was examined in the presence of TPO.
+Methods
+
+Inhibition of TPO-mediated cell differentiation by anagrelide was evaluated by fluorescein-activated cell sorting analysis. Cell proliferation was monitored by 3-(4,5-dimethylthiazol-2-yl)-5-3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium (MTS) assays. Effect of anagrelide on TPO-mediated phosphotyrosine (pTyr) activity was examined by Western analysis of whole cell lysates.
+Results
+
+In the presence of TPO, anagrelide reduced the number of CD41+ cells without a reduction in the total mononuclear cell number in a dose-dependent manner. Growth inhibition was also observed in BaF3 cells transfected with human c-Mpl. Anagrelide also reduced TPO-specific pTyr activity in a species-specific manner. No inhibitory effect could be demonstrated with interleukin-3 stimulation.
+Conclusion
+
+Parallel dose-response effects were found in both CD41+ number and TPO-specific pTyr activity. These results suggest that anagrelide reduces TPO-mediated megakaryocyte proliferation of CD34+ cells through a mechanism that leads to inhibition of intracellular signaling events. Furthermore, data also suggest that it is a species-specific effect, with no inhibitory activity against the murine receptor. Because there is a less than 10% difference in DNA sequence homology between human and murine receptors, the difference in sequence-specific activity must reside in these amino acid differences.

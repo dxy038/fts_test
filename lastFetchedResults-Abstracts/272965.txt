@@ -1,0 +1,11 @@
+With the objective of achieving composite material systems that feature high stiffness and high mechanical damping,
+consideration is given here to unit cell analysis of particulate composites with high volume fraction of inclusions.
+Effective elastic properties of the composite are computed with computational homogenization based on unit cell
+analysis. The correspondence principle together with the viscoelastic properties of the indium–tin eutectic matrix are
+then used to compute the effective viscoelastic properties of the composite. Comparison is made with parallel experiments
+upon composites with an indium–tin eutectic matrix and high volume fractions of silicon-carbide reinforcement.
+The analytical techniques indicate that combinations of relatively high stiffness and high damping can be achieved in
+particulate composites with high SiC volume fractions. Based on analysis, the tradeoffs between stiffness and damping
+characteristics are assessed by changing the volume fraction, size, packing, and gradation of the particulate reinforcement
+phases. Practical considerations associated with realization of such composites based on the surface energy
+between the SiC and the InSn are discussed

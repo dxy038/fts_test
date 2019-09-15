@@ -1,0 +1,8 @@
+Objective
+esearchers have analyzed seasonal variation in hospital admissions for bipolar disorder with inconsistent results. We investigated if a seasonal pattern was present in daily self-reported daily mood ratings from patients living in five climate zones in the northern and southern hemispheres. We also investigated the influence of latitude and seasonal climate variables on mood.
+
+tients who were receiving treatment as usual recorded mood daily (59,422 total days of data). Both the percentage of days depressed and hypomanic/manic, and the episodes of depression and mania were determined. The observations were provided by patients from different geographic locations in North and South America, Europe and Australia. These data were analyzed for seasonality by climate zone using both a sinusoidal regression and the Gini index. Additionally, the influence of latitude and climate variables on mood was estimated using generalized linear models for each season and month.
+s
+sonality was found in any climate zone by either method. In spite of vastly different weather, neither latitude nor climate variables were associated with mood by season or month.
+sion
+self-reported mood ratings of most patients with bipolar disorder did not show a seasonal pattern. Neither climate nor latitude has a primary influence on the daily mood changes of most patients receiving medication for bipolar disorder.

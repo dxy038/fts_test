@@ -1,0 +1,1 @@
+A compact Marx generator has been developed by using power MOSFETs as the switches. The objective is to develop repetitive, compact, efficient, short-pulse, high-voltage generator for industrial applications. The initial tests were carried out by using 16 switches, achieving output of ~ 10 kV and ~ 250 ns in pulse width at repetition rate of ~ 400 Hz.

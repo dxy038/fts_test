@@ -1,0 +1,10 @@
+The objective of this work was to test a novel experimental technique to determine
+the thermal conductivity of low-thermal conductivity materials and tropical
+foods. The experimental method was based on the Peltier effect and its
+application to the thermoelectric heat pump. This device became practical
+recently with the development of semiconductor thermocouple materials. The
+module assembly used in this work had 127 thermocouples connected in series
+electrically and in parallel thermally. The heat transfer area of the module was
+3.96x3.96 cm2. The equipment was calibrated using standard materials of known
+thermal conductivity: Plexiglas and Bakelite. Then the K values were easily computed
+from a steady-state energy balance equation.

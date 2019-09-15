@@ -1,0 +1,14 @@
+Establishment of appropriate terminals is effective as the
+main gate entrance to international, national and local transportation
+network for economic performance, traffic safety and reduction of environmental
+pollution. This paper focuses on intermodal terminal location
+problem. The main objective of this problem is to determine which of
+the terminals of a set of candidate terminals should be opened such that
+the total cost be minimized. In this problem, demands of customers will
+ship directly (without the use of terminals) between the origin and destination
+of customers, or intermodaly (by using two terminals) or even
+by combination of both methods. Since this problem is NP-hard, metaheuristics
+algorithms such as tabu search (TS) is used to solve it. The
+algorithm is compared with greedy randomized adaptive search procedure
+(GRASP) on instance of this problem. Results show the efficiency
+of TS in comparision with GRASP.

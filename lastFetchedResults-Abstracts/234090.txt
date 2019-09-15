@@ -1,0 +1,7 @@
+Demand Control System (DCV) is designed to optimise the energy consumption with respect to the demand of outdoor air
+quantity based on the number of people indoors. However, if significant indoor pollutant sources exist, which is not a function of the
+number of people, the DCV may cause the indoor air quality to be unacceptable. This paper discusses a procedure of calibrating the
+building in respect of managing the indoor air quality. The objective is to set the minimum fresh air quantity which is a function of
+the indoor pollutant concentrations rather than metabolic carbon dioxide. Radon is used as an example because it is a common
+pollutant embedded in the building materials of high-rise buildings in Hong Kong. This paper also presents a year-round record of
+the indoor air quality in a typical high-rise building which is very useful for building indoor air quality (IAQ) design.

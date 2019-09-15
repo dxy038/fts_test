@@ -1,0 +1,14 @@
+Following the occurrence of unexpected events and natural disasters, a highly
+important relief operation is the transferring of relief commodities from the
+distribution centers (DCs) to shelters. In this paper, a three-level network
+consisting of depot of vehicles, distribution centers,and shelters has been
+considered for routing and scheduling of relief vehicles through introducing a
+multi-objective model. The first objective function represents the total arrival
+time of vehicles to DCs and shelters. The second objective function illustrates the
+number of vehicles used. We use the TH method to deal with the multi-objective
+problem. During the relief commodities distribution, issues such as the feasibility
+of getting service from each distribution center with multiple vehicles and
+heterogeneous fleet of vehicles has been regarded. In order to solve the proposed
+model and represent its efficiency, we select the fourth region of Tehran city as a
+case study; run the model on it, and present solution results. 
+

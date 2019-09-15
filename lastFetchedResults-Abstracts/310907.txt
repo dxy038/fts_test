@@ -1,0 +1,11 @@
+Objective. To examine the influence of strain rate, bone mineral density, and age in determining the mode by which human Achilles tendons fail.
+
+Design. Dual-energy X-ray absorptiometry and mechanical testing of excised Achilles tendon-calcaneus specimens.
+
+Background. The Achilles tendon can fail by tendon rupture or bony avulsion. These injuries are caused by similar loading mechanisms and can present similar symptoms. It is important to understand when each mode of injury is likely to occur so that accurate diagnoses can be made and appropriate treatments selected.
+
+Methods. Excised human Achilles tendons were loaded to failure at strain rates of 1% s−1 and 10% s−1 following dual-energy X-ray absorptiometry examination to determine bone mineral density near the tendon insertion. Calcaneal bone mineral density, donor age, and strain rate were compared between specimens that failed by avulsion and those that failed by tendon rupture.
+
+Results. While strain rate was not observed to affect failure mode, the calcaneal bone mineral density of specimens that failed by avulsion was significantly lower than the bone mineral density of specimens that failed by tendon rupture (P=0.004). There was a significant decrease in bone mineral density with age (P=0.004), and the difference in age between the avulsed and ruptured specimens was close to statistical significance (P=0.058). For the avulsed specimens, there was a significant linear relationship between failure load and bone mineral density squared (P=0.002). Logistic regression indicated that the effect of age on failure mode is secondary to the primary effect of bone mineral density.
+
+Conclusions. The avulsions were primarily “premature” failures associated with low bone mineral density. Since bone mineral density decreases with age, older individuals are more likely to experience avulsions while younger individuals are more likely to experience tendon ruptures

@@ -1,0 +1,11 @@
+Objective
+The purpose of this work was to perform quantitative analysis of residual monomer in chemical-cured acrylic using an infrared spectroscopic method and to compare it to an accepted form of quantitative chemical analysis. Identical samples of acrylic were analyzed and compared using Fourier transform infrared (FTIR) spectroscopy with multiple standard additions vs. “wet” chemical analysis of bromination followed by titration.
+Methods
+
+Two 6 g disks from a single mix of cold-cured acrylic (Lang Dental Mfg. Co., Inc.) were prepared and cured in room air for 1 hr using a ratio of 12 g of powder to 8 mL of liquid. One of the cold-cured acrylic disks was dissolved in glacial acetic acid and analyzed according to the “wet” technique described by Smith and Bains (Smith and Bains,1956). The other disk was dissolved in methyl isobutyrate (MIBT). Five aliquots, zero plus four incremental additions of pure methyl methacrylate (MMA), were prepared from the MIBT solution. Absorption spectra were collected for all five aliquots. The data were plotted with the ratio of the mass of methyl methacrylate added to the mass of aliquot of MIBT solution as the independent variable, and the absorption, corrected for dilution, as the dependent variable. Least squares fit of the data yielded the slope and intercept. The ratio of intercept to slope divided by the weight fraction of the acrylic disk dissolved in MIBT yielded the concentration of methyl methacrylate in the disk.
+Results
+
+The plot of absorbance as a function of mass ratio of MMA added to MIBT solution was linear over the concentration range covered (r = 0.999). Analysis of the spectroscopic data revealed a concentration of residual C=C double bonds of 0.32 ± 0.01 mol/kg. “Wet” chemical analysis of the acrylic yielded a concentration of residual C=C double bonds of 0.288 ± 0.003 mol/kg. There was significant difference (students Mest, 99% confidence level) between the two techniques with respect to the amount of residual monomer calculated.
+Significance
+
+The multiple standard additions technique works well for the quantitative analysis of small amounts of residual double bonds in the poly(methyl methacrylate) chemical-cured acrylic polymer system, eliminating the need for an internal standard or external calibration.

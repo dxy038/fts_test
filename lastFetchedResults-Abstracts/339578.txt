@@ -1,0 +1,11 @@
+Objective
+The intracellular signals that contribute to granulocyte colony–stimulating factor (G-CSF) receptor induced stem cell mobilization are poorly characterized.
+Methods
+
+We show enhanced G-CSF induced mobilization of stem cells in mice deficient in expression of Src family kinases (SFK−/−), which is associated with hypersensitivity of SFK−/− bone marrow cells to G-CSF as well as sustained activation of signal transducer and activator of transcription-3.
+Results
+
+A proteome map of the bone marrow fluid derived from wild-type and SFK−/− mice revealed a significant global reduction in the number of proteins in SFK−/− mice compared to controls, which was associated with elevated matrix metalloproteinase-9 levels, reduced stromal-derived factor-1 expression, and enhanced breakdown of vascular cell adhesion molecule-1. Transplantation of wild-type or SFK−/− stem cells into wild-type mice and treatment with G-CSF recapitulated the G-CSF–induced increase in stem cell mobilization noted in SFK−/− nontransplanted mice; however, the increase was significantly less. G-CSF treatment of SFK−/− mice engrafted with wild-type stem cells also demonstrated a modest increase in stem cell mobilization compared to controls, however, the observed increase was greatest in mice completely devoid of SFKs.
+Conclusions
+
+These data suggest an involvement of both hematopoietic intrinsic and microenvironmental factors in Src kinase–mediated mobilization of stem cells and identify Src kinases as potential targets for modulating stem cell mobilization.

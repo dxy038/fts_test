@@ -1,0 +1,11 @@
+This paper aims to optimize the transmission and control strategy of a
+parallel hybrid electric vehicle in order to minimize Fuel Consumption (FC) and emissions,
+simultaneously. Vehicle transmission is a Power Split Continuously Variable Transmission
+(PS-CVT), while the employed Torque Coupler (TC) is a two-speed TC. Using this type
+of TC increases designer ability to create a more ecient transmission. In this vehicle, the
+electric assist control strategy is used as the control strategy. In this strategy, the engine
+operates at optimal operation points, obtained using the Global Criterion method (GC). A
+multi-objective optimization is implemented using GC to minimize vehicle FC and emissions
+without sacricing dynamic performance. Finally, results of the conventional method of
+hybrid vehicle optimization and the results of using the Dynamic Programming method
+are compared

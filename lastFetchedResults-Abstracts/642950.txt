@@ -1,0 +1,11 @@
+Objective
+We examined gene expression profiling in single neuron types and small regions of the nervous system.
+Methods
+
+The RNAs were extracted from mouse cerebellar Purkinje cells, granule cell layer, hippocampal CA1 and CA3 pyramidal cell layers, and three layers of the retina (outer nuclear layer, inner nuclear layer, and ganglion cell layer) were dissected by laser capture microdissection. The gene expression profiling of each sample was examined by Affymetrix GeneChip and real-time reverse transcription polymerase chain reaction. We studied the gene expression of 62 neuropeptide and hormone genes and 387 G-protein–coupled receptor (GPCR) genes.
+Results
+
+Among them, cholecystokinin and neuropeptide Y genes were the most widely expressed. The gene expression of cholecystokinin was very high in the hippocampus, suggesting that cholecystokinin transcripts might have unknown roles in the hippocampus. More than 10 neuropeptide genes were expressed in the ganglion cell layer of the retina, whereas the outer nuclear layer of the retina did not express a considerable amount of neuropeptide mRNAs. In total 12 GPCR genes were found in all tissues examined, and half were orphans (6 of 12).
+Conclusion
+
+The high ratio of orphan GPCR genes suggests our limited knowledge of the ligand-receptor system in the nervous system. These results provide basic information for studying the function of neuropeptides.

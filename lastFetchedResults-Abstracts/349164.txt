@@ -1,0 +1,11 @@
+Objective
+To investigate if different interneuronal circuits in human motor cortex mediate inhibition through different subtypes of the gamma-aminobutyric acid A receptor (GABAAR).
+Methods
+Two distinct forms of motor cortical inhibition were measured in 10 healthy subjects by established transcranial magnetic stimulation (TMS) protocols: short interval intracortical inhibition (SICI) and short latency afferent inhibition (SAI). Their modification by a single oral dose of three different positive GABAAR modulators (20 mg of diazepam, 2.5 mg of lorazepam and 10 mg of zolpidem) with different affinity profiles at the various α-subunit bearing subtypes of the GABAAR (diazepam: non-selective, lorazepam: unknown, zolpidem: 10-fold higher affinity to α1- than α2- or α3-subunit bearing GABAARs, no affinity to α5-subunits) was tested in a randomized crossover design. In addition, the sedative drug effects were recorded by a visual analogue scale.
+Results
+Diazepam and lorazepam increased SICI, whereas zolpidem did not change SICI. In contrast, diazepam had no effect on SAI, whereas lorazepam and zolpidem decreased SAI. The sedative effects were not different between drugs.
+Conclusions
+The dissociating patterns of drug modification of SICI versus SAI strongly suggest that different GABAAR subtypes are involved in SICI and SAI.
+Significance
+We provide evidence, for the first time, for a dissociation of effects of diazepam and zolpidem on SAI and confirm the previously reported differential effect of zolpidem and of diazepam and lorazepam on SICI. The differential effects of the three benzodiazepines on SAI and SICI suggest that neuronal circuits in human motor cortex that mediate inhibition through different GABAAR subtypes can be segregated by TMS.
+

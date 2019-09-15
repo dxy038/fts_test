@@ -1,0 +1,35 @@
+
+Objective: Electroporation is the most common method used for the transfection of DNA. Although this method has been attributed for various cell using different buffer compositions,
+
+the effects of DNA concentration on the transfection efficiency has not yet been studied. Here the correlation between the efficiency of electroporation reaction and increments
+of
+
+DNA concentration has been investigated. Following this investigation, a study was set out to produce a transgenic goat which is capable of secreting recombinant human
+coagulation factor IX in its milk.
+Materials and Methods: In this experimental study, a linearized recombinant vector (pBC1) entailing human coagulation factor IX (5.7 kb) cDNA was introduced into goat fetal fibroblast cells (three sub passages) via electroporation in four separate experiments (while other variables were kept constant), beginning with 10 µg DNA per pulse in the first experiment and increments of 10 µg/pulse for the next three reactions. Thereafter, polymerase
+
+chain reaction (PCR)-positive cell culture plates were diluted by several factors for further analysis of the transfected wells. Subsequently, positive cells were isolated for fluorescence in situ hybridization. Logistic regression model was used for data analyzing. 
+Significance was defined as p <  0.05.
+Results: The results showed no significant difference among three first concentrations ex-
+cept for group 1 (10 ?g/pulse) and group 3 (30 ?g/pulse), but there was a significant difference between these groups and the fourth group (p < 0.05), as this group (40 ?g/pulse) statistically showed the highest rate of transfection. As the fluorescence in situ hybridization (FISH) results indicated the transgene was integrated in a single position in PCR positive cells. 
+Conclusion: Increasing amount of using the vector 40µg/pulse efficiently increased the number of transfected cells. Besides of voltage and buffer strength which had been previously
+shown
+to
+play
+a
+critical
+role
+in
+electroporation
+efficiency,
+our
+results
+showed
+an
+increase
+
+in
+DNA
+concentration could affect
+an exponential surge in the electroporation efficiency.
+

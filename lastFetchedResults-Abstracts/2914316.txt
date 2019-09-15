@@ -1,0 +1,1 @@
+A video-based system for traffic monitoring (e.g. on highways or near crossroads) is presented. The objective of the system is to set up a high-level description of the traffic scene, comprising the position, speed and class of vehicles in a range of view between 0 and about 100 meters. The algorithms run in real-time on a low-cost system (386-PC with a DSP plug-in broad)

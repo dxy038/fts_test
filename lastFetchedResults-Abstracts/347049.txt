@@ -1,0 +1,5 @@
+Objective: We investigated the architectural organization of groups of neighboring motor units (MUs) in normal brachial biceps and tibialis anterior muscles by analyzing morphological landmarks of their MU action potentials (MUAPs).
+Methods: EMG signals containing multiple MUAPs were recorded using a monopolar needle electrode during moderate isometric voluntary contractions. The MUAPs were identified using computer-aided decomposition, and averaged. For each MUAP the onset, spike, terminal wave, and slow afterwave were identified; then the location of the MU's endplate and muscle/tendon junction were estimated from the latencies of the spike and terminal wave with respect to the MUAP onset.
+Results: The analysis revealed a variety of architectural organizations, including single and multiple endplate zones, MU fractions, pennation, intramuscular aponeuroses, and centrally and non-centrally located endplates.
+Conclusions: This type of morphological analysis of the MUAP promises to be informative for studying normal MU properties as well as evaluating MU reorganization in disease.
+

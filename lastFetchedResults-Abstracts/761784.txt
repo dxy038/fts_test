@@ -1,0 +1,30 @@
+Electrical discharge machining (EDM) is an
+alternative-shaping route for manufacturing complex
+component shapes of hard and brittle materials such as
+hardmetals (WC-Co cemented carbides). It is well
+established that in these materials EDM typically
+induces a heat affected surface layer with poor integrity.
+This degradation effect may be compensated
+through specific post-EDM surface treatments either
+by thermomechanical means or material surface
+deposition. In the latter case, a key property for optimal
+performance is the level of coating to substrate
+adhesion and how this is affected by the EDM-induced
+surface. The main objective of this investigation was to
+evaluate the adhesion strength of TiN coatings on
+EDMed hardmetals. A series of hardmetal samples
+that had been subjected to different multi-pass
+sequential EDM levels were coated with TiN. Adhesion
+behavior was assessed using the indentation
+adhesion test and comparing the critical load for crack
+extension (Pc) and the interfacial fracture toughness
+(KIc,interface) to those exhibited by the TiN coating
+deposited on a ground and polished substrate (used as
+baseline control). Experimental results indicated that
+indentation adhesion increased with finer-executed
+EDM, almost reaching baseline level values. The
+results are discussed on the basis of the compromising
+EDM influence on both surface integrity of the substrate
+and tortuousness at the interface, the latter
+resulting in mechanical anchoring of the TiN coating to
+the hardmetal substrate.

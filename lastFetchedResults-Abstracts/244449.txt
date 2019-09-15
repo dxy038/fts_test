@@ -1,0 +1,5 @@
+The objective of this research is to find minimum illuminance level such that a visual task (in this case is reading) still can be done properly. The reading object in this research is sentences (written in Bahasa Indonesia) and printed in Times New Roman font on a white A4 paper. Three factors are observed, i.e. font size, luminance contrast (between letters and paper), and reading distance.
+
+Measurements were made of the minimum illumination that was needed by subjects, such that they still can read the object properly. The experiment was done in a dark room and the illuminance level on the object from a lamp was adjusted by using a dimmer device.
+
+The results of this experiment show that the lowest minimum illuminance of 0.13 lx (for reading object with font size 16, luminance contrast of 0.93, and distance of 60 cm) and the highest of 15.32 lx (for reading object with font size 8, luminance contrast of 0.55, and distance of 100 cm). By using analysis of variance method, it can be shown that reading distance is the most influential factor for the minimum illuminance level, and then followed by dimension and luminance contrast.

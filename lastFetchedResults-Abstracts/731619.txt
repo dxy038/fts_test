@@ -1,0 +1,7 @@
+Objective.To perform a decision analysis to determine the optimal strategy to prevent tuberculosis (TB) in health care workers with negative tuberculin skin tests.
+
+Methods.We used a Markov model to study the occurrence of events each year and compared BCG vaccination to annual tuberculin testing plus isoniazid (INH) preventive therapy for those who become skin-test positive. The outcome measures studied were the number of cases and deaths from TB and BCG and/or INH adverse reactions over 10 years.
+
+Results.Annual tuberculin testing decreases the number of TB cases by 9% and BCG vaccination decreases the number by 49%, relative to no prevention intervention. BCG vaccination results in fewer deaths than annual tuberculin testing if the workplace incidence ofMycobacterium tuberculosisinfection is greater than 0.06%, BCG vaccination effectiveness exceeds 3%, or the rate of fatal BCG adverse reactions is less than 15 times the rate reported in the literature.
+
+Conclusions.BCG vaccination results in less morbidity and mortality than annual tuberculin skin testing for health care workers in workplaces with documented TB transmission despite comprehensive infection control policies and procedures. Current policy on the prevention of TB among health care workers should be reconsidered.

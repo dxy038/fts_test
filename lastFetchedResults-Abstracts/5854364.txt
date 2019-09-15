@@ -1,0 +1,1 @@
+Many uncertain factors will occur when the construction is being done, the owner needs to prepare amount of money for these factors. At present, we all use a fixed ratio to estimate it so that cannot reflect the future entirely and objective. This paper uses the Monte Carlo simulation to estimate the contingency in price variation as entirely as possible.

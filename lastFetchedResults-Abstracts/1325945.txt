@@ -1,0 +1,1 @@
+This paper reviews the history of automated facility layout, focusing particularly on a set of techniques which optimize a single objective function. Applications of algorithms to a variety of space allocation problems are presented and evaluated. Guidelines for future implementations of commercial systems are suggested.

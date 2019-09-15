@@ -1,0 +1,11 @@
+Objective
+Inherited or acquired mutations in the heme biosynthetic pathway leads to a debilitating class of diseases collectively known as porphyrias, with symptoms that can include anemia, cutaneous photosensitivity, and neurovisceral dysfunction. In a genetic screen for hematopoietic mutants, we isolated a zebrafish mutant, montalcino (mno), which displays hypochromic anemia and porphyria. The objective of this study was to identify the defective gene and characterize the phenotype of the zebrafish mutant.
+Materials and Methods
+
+Genetic linkage analysis was utilized to identify the region harboring the mno mutation. Candidate gene analysis together with reverse transcriptase polymerase chain reaction was utilized to identify the genetic mutation, which was confirmed via allele-specific oligo hybridizations. Whole mount in situ hybridizations and o-dianisidine staining were used to characterize the phenotype of the mno mutant. mRNA and morpholino microinjections were performed to phenocopy and/or rescue the mutant phenotype.
+Results
+
+Homozygous mno mutant embryos have a defect in the protoporphyrinogen oxidase (ppox) gene, which encodes the enzyme that catalyzes the oxidation of protoporphyrinogen. Homozygous mutant embryos are deficient in hemoglobin, and by 36 hours post-fertilization are visibly anemic and porphyric. The hypochromic anemia of mno embryos was partially rescued by human ppox, providing evidence for the conservation of function between human and zebrafish ppox.
+Conclusion
+
+In humans, mutations in ppox result in variegate porphyria. At present, effective treatment for acute attacks requires the administration intravenous hemin and/or glucose. Thus, mno represents a powerful model for investigation, and a tool for future screens aimed at identifying chemical modifiers of variegate porphyria.

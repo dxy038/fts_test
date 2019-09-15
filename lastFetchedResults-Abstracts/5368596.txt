@@ -1,0 +1,1 @@
+We propose a novel low-cost and colorless WDM-PON architecture by using all VCSELs-based optical injection locking technique. A bidirectional transmission system over 26 km SMF at 5 Gbps without optical amplification is successfully achieved.

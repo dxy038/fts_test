@@ -1,0 +1,11 @@
+Objective
+A meta-analysis was performed to estimate the predictive power (odd ratio, OR) for awakening of auditory event-related potential (ERP) components in low responsive patients with stroke or hemorrhage, trauma, anoxic, post-operative, and metabolic encephalopathy etiologies.
+Methods
+We reviewed MEDLINE and analyzed citations for retrieved articles. Logistic regressions were applied on patient samples (Glasgow Coma Scale <12) across and for separate etiologies.
+Results
+For stroke and hemorrhage the ORs with 95% confidence intervals were: 2.05 [1.12–3.75] (N100), 4.47 [1.92–10.44] (MMN), 10.29 [2.00–52.79] (P300), for trauma: 1.63 [0.70–3.80] (N100), 4.72 [1.35–16.44] (MMN), 12.89 [4.82–34.43] (P300), anoxic: 8.03 [2.83–22.75] (N100), 15.50 [4.27–56.26] (MMN), 5.93 [2.38–14.77] (P300), post-operative: 10.66 [1.98–57.50] (N100), metabolic encephalopathy: 2.12 [0.34–13.13] (N100), 3.60 [0.28–46.36] (MMN), 7.71 [0.75–79.77] (P300), and all etiologies: 2.85 [1.91–4.27] (N100), 6.53 [3.55–12.01] (MMN), and 8.79 [4.88–15.83] (P300). Based on six N100 studies (N = 548 patients), five MMN studies (N = 470), and six P300 studies (N = 313), the N100, MMN, or P300, when present, significantly predicted awakening, P300 and MMN being significantly better predictors than N100.
+Conclusions
+The MMN and P300 appear to be reliable predictors of awakening.
+Significance
+The prognostic assessment of low responsive patients with auditory ERP should take into account both MMN and P300.
+

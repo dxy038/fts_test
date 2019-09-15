@@ -1,0 +1,1 @@
+By considering a chain of Chua´s circuits, this paper focuses on the numerical study of hyperchaotic 3D-scroll attractors via the Adomian decomposition method. The objective is achieved by designing a new type of nonlinearity based on the Hermite interpolating polynomials. Several examples of 3D-scroll attractors highlight the potential of the proposed approach

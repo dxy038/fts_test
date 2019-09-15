@@ -1,0 +1,23 @@
+
+Introduction
+Zoning flood including flood reduce the risks techniques that provide valuable information about the nature and its effects flood on the floodplain lands and determining vicinity of the riverEach part of the basin has  a certain potential for runoff and flooding,also different parts of the basin due to topographical features  of Landforms show different potential in the flooding.
+Zonation of flooding and flood risk that by taking these characteristics and also production rate runoff per unit  zoning does basin according to flooding and flood risk.
+Nowadays management method for reducing flood disasters,identification of research related to disaster reduction will require flood-related research Process of Flood disaster from 1930 to 2000 between structural flood control To reduce non-structural developments finally, combining it Continued. Several works on flood prevention and flood zonation has been made including the following Noted.
+
+Methods of data analysis
+Study area
+Nimrod is one of the area's watershed Hablehrud North is located in the North East of Tehran in the Alborz Mountains of southern latitudes 52? 16´ 10 ? and 52? 44´ 24 ? East and latitudes 35? 39´ 6 ?  and 35? 57´ 11 ?  North.
+The area of this range is 812/7 square kilometers  and is one of the catchment areas of Hablehrud.
+In terms of relative position the highest point of elevation Nimrod to a height of 4057 meters is located above sea level in the south-west in the mountains SefidAb, and the lowest point at a height of 1720 meters is located above sea level in the south-east . Figure 1 Shows Location of the study area in Tehran Province.
+
+Research Methods
+The main objective of this study was to determine areas of potential flooding and flood risk of  basins using fuzzy logic. To implement the model in the region from  different data such as precipitation, land use, the morphological properties such as convexity and concavity (profile curvature) convergence and divergence domains (plan curvature), steep slopes, vegetation cover index (NDVI), distance from major rivers and drainage density is used. Of the between parameters, 9 parameters in flood zoning and 5 parameter in flood  risk zoning have used.
+
+Results and discussion
+With preparation of layer  and implementation of the membership functions of each of them, by using gamma function, layers were placed on each other and zoning map of flooding and flood risk potential achived in fifth grade. According to flooding zoning map, 
+Approximately 12.1% of the area have very high potential and 27.5 percent from areas are with high potential for flooding that very high risk zones have been located in the northern half and western areas. Most of these areas are low in terms of vegetation density and in terms of land use are in range of average and poor, and also included agriculture land, drainage density is high, particularly in western, divergent slopes with convex profiles and areas with high rainfall. In zoning map of potential flooding, most eastern and south-eastern areas are areas with  high and very high potential, in general included 24.4% of the area. The general evaluate the pattern flood areas shows that layer away from the river and height have the greatest impact on flooding. These areas are often low-slope areas, converging levels with concave profile, low height, and neighboring rivers.
+
+Overall result
+So far, many methodsincluding methods scs, Boolean logic, overlap and  for flood zoning is used, but the results show the capability and efficiency of the fuzzy model in Zoning flood is higher.
+Because fuzzy model is Logic of data transmission from given space To indefinite,other features of this model is the ability to run it in Arc GIS. According to the history of flood events in the region, show a need for comprehensive and detailed maps that can be prone areas for flooding and flood risk. Therefore In this study, according to the capabilities provided for the fuzzy logic in flood zoning, we tried use this model zonation of flooding and flood risk for Nimrod river basin. Finally, result in two zonation of flooding and flood risk were presented and each of the maps   Sensitivity were classified into five classes. Situation of area in various sectors in terms of sensitivity of flooding and flood risk describe and factors affecting in each explained. 
+

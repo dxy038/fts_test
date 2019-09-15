@@ -1,0 +1,1 @@
+We describe an experiment in developing a first version of WordNet for Iraqi Arabic starting from Arabic WordNet (for Modern Standard Arabic), Princeton WordNet (for English) and a bidirectional English-Iraqi Arabic dictionary. The resulting initial version of the target WordNet so-constructed was made available to human experts in Iraqi Arabic for correction and evaluation.

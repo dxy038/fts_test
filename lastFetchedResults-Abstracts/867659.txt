@@ -1,0 +1,10 @@
+This article addresses the combinatorial optimization problem of managing earth observation satellites
+(EOSs) such as the French SPOT5, which is concerned with selecting on each day a subset of a set of candidate
+photographs. The problem has a significant economic importance due to its high initial investment
+cost that exists in these instruments and its solution difficulty resulting from the large solution space,
+making it an attractive research area. This article proposes a genetic algorithm (GA) for solving the SPOT5
+selection problem using a new genome representation for maximizing not only a single objective as profit
+but a multi-criteria objective that includes the number of acquired photographs. Test results of our proposed
+GA show that it finds optimal solutions effectively for moderate size problems and obtains better
+results for two large benchmark instances coded 1403 and 1504 in the literature. Also, we verify the
+result that the best known value in the literature for problem coded 1401 is an optimal value.

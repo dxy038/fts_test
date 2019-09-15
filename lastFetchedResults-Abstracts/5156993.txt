@@ -1,0 +1,1 @@
+A work flow control method is described for use in a flexible cell with limited buffer space where the objective is to maximize throughput rate in a stochastic environment. Control decisions are made at discrete points in time, using a linear programming-based optimization model. The proposed methodology has been compared to recently published methods using a hypothetical cell.

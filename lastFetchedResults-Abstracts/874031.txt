@@ -1,0 +1,21 @@
+In this paper we present a budget-constrained optimal control model aimed at
+finding the optimal enforcement profile for a street-level, illicit drug crackdown
+operation. The objective is defined as minimizing the number of dealers dealing at
+the end of the crackdown operation, using this as a surrogate measure of residual
+53
+0022-247X 00 $35.00
+Copyright   2000 by Academic Press
+All rights of reproduction in any form reserved.
+54 BAVEJA ET AL.
+criminal activity. Analytical results show that optimal enforcement policy will
+invariably use the budget resources completely. Numerical analysis using realistic
+estimates of parameters shows that crackdowns normally lead to significant results
+within a matter of a week, and if they do not, it is likely that they will be offering
+very limited success even if pursued for a much longer duration. We also show that
+a ramp-up enforcement policy will be most effective in collapsing a drug market if
+the drug dealers are risk-seeking, and the policy of using maximum enforcement as
+early as possible is usually optimal in the case when the dealers are risk averse or
+risk neutral. The work then goes on to argue that the underlying model has some
+general characteristics that are both reasonable and intuitive, allowing possible
+applications in focused, local enforcement operations on other similar illegal
+activities.

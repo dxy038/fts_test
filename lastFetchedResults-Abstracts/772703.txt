@@ -1,0 +1,11 @@
+In the Parisi theory of spin glasses, the limiting free energy of the system is computed by
+optimizing over a “functional order parameter”. In mathematical terms this amounts to construct
+certain functions F( ) of a probability measure   on [0, 1] and to compute the infimum over
+ . The study of the maps    → F( ) is a challenging problem of functional analysis. Progress
+on this problem seems required for further advances in the theory of spin glasses. The main
+objective of this paper is to explain the functional analysis part of the problems to the reader
+with no background (or interest) in spin glasses. As a first step in the study of these functions
+F( ), we prove certain differentiability properties, that allow in certain cases to interpret (as
+conjectured by physicists) the Parisi measure (i.e. the probability   at which F( ) is minimum)
+in terms of spin glasses.
+© 2005 Elsevier Inc. All rights reserved.

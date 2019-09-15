@@ -1,0 +1,9 @@
+Objective
+Granulocyte differentiation in the bone marrow (BM) takes place in regions with lower pH and O2 tension (pO2) than those in the BM sinuses. This suggests that granulopoiesis will be enhanced at subvascular pH and pO2.
+Materials and Methods
+The effects of pH and pO2 on granulocyte proliferation, differentiation, and granulocyte colony-stimulating factor receptor (G-CSFR) expression were evaluated using mobilized peripheral blood CD34+ cells directed down the granulocytic pathway with stem cell factor, interleukin 3, interleukin 6, and G-CSF.
+Results
+Cell expansion was enhanced at subvascular pH, with twice as many total cells and CD15bright/CD11b+ late neutrophil precursors (myelocytes, metamyelocytes, bands) produced at pH 7.07 to 7.21 as was produced at pH 7.38. Low pH accelerated the rate of differentiation concomitant with this increase in proliferation. Also, total, CD15bright/CD11b− (promyelocytes, early myelocytes), and CD15bright/CD11b+ cell expansion was enhanced at lower pO2, with twice as many of each cell type produced at 5% O2 as at 20% O2. The effects of low pH and low pO2 were additive, such that generation of total, CD15bright/CD11b−, and CD15bright/CD11b+ cells was 3.5-, 2.4-, and 4.0-fold greater at pH 7.21 and 5% O2 than at the standard hematopoietic culture conditions of pH 7.38 and 20% O2. Low pH resulted in faster upregulation of G-CSFR surface expression, whereas pO2 had no effect on G-CSFR expression.
+Conclusion
+These data provide compelling evidence that pH and pO2 gradients within the BM play significant roles in regulating hematopoiesis. More rapid granulocytic cell proliferation and differentiation at low pH may be explained in part by more rapid G-CSFR expression. The ability to alter cell development by manipulating pH and pO2 has important implications for optimizing ex vivo production of neutrophil precursors.
+

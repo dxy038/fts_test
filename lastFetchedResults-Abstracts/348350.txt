@@ -1,0 +1,11 @@
+Objective
+When one hand loads the other arm, EMG responses in the stationary arm anticipate the load. This study used transcranial magnetic stimulation over each hemisphere to clarify the relationship between a voluntary movement on one side and the anticipatory postural response on the other.
+Methods
+Subjects (n=7) performed elbow flexion movements of one arm as a reaction-time task. Because subjects' arms were linked, flexion about one elbow resulted in extension force about the other, and an anticipatory response occurred in those elbow flexor muscles. After the ‘go’ signal and before the predicted onset of EMG, transcranial magnetic stimuli were delivered over one or other motor cortex.
+Results
+Stimulation contralateral to the reaction-time movement delayed the onset of voluntary EMG (46 ms in right biceps, 77 ms left) but did not alter the onset of EMG in the postural arm. Stimulation contralateral to the anticipatory postural response delayed only the postural EMG (left 96 ms, right 52 ms).
+Conclusions
+Thus, the associated voluntary and postural responses were delayed independently by stimuli over their respective contralateral motor cortex.
+Significance
+This suggests that, although timing of responses may be linked by an initial signal, the response from each motor cortex develops independently.
+

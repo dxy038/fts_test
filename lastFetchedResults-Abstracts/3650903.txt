@@ -1,0 +1,1 @@
+The objective of this study was to determine the feasibility of using Dynamic Programming1 to solve the generating unit commitment problem. The main difficulty connected with this problem, is that factorial N, a large number for even a relatively small N, plays a central role in any straightforward formulation of the problem.

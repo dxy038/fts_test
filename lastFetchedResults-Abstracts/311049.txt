@@ -1,0 +1,11 @@
+Objective. To investigate the effect of inserting a Fuji pressure sensitive film into an artificial tibiofemoral joint on the actual contact mechanics.
+
+Design. The experimental measurement and finite element analysis were used.
+
+Background. Although Fuji pressure sensitive film was widespread used for measuring the contact characteristics of artificial joint, how this measurement approaches actual contact characteristics has not yet been studied extensively.
+
+Method. Two three-dimensional finite element models of an artificial tibiofemoral joint were constructed. The with-film-model was used to mimic the experimental setup and was verified by comparing the contact area and pressure on the simulated film calculated from finite element analysis to the measured one from the Fuji film (ultra-super low and medium grades) in the experimental test. Then the with-film-model was modified to the without-film-model in which the simulated film was removed. The contact characteristics on the film calculated from the with-film-model were represented to the measured one and the contact characteristics on the tibial component calculated from the without-film-model were represented to the actual one. The measured and actual contact characteristics were studied to investigate the effects of Fuji film on the actual contact characteristics in the tibiofemoral joint of knee prosthesis.
+
+Results. The contact characteristics calculated from with-film-model was reasonable agreement with measured one by Fuji film in the experimental test. The maximum difference is 13% in maximum contact pressure under a load of 3000 N. The maximum difference of contact area and pressure between the model simulating actual contact circumstance and the model with inserting a Fuji film between contacting surface are 2.4% and 14% respectively.
+
+Conclusion. This study revealed that contact area and pressure of the tibiofemoral joint of knee prosthesis measured by Fuji pressure sensitive film could be simulated by finite element analysis. The measurement of contact area in the artificial joint by using ultra-super low grade Fuji film is overestimated its actual contact area by 1.2–2.4%, but the measurement of contact pressure by using medium grade Fuji film is underestimated its actual contact pressure by 8–14%.

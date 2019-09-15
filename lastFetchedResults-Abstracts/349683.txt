@@ -1,0 +1,11 @@
+Objective
+To compare nasopharyngeal (NP), cheek and anterior temporal (AT) electrodes for the detection yield and localization of interictal spikes in temporal lobe epilepsy.
+Methods
+In patients evaluated for epilepsy surgery with subdural electrocorticography electrodes, we simultaneously recorded NP, cheek and AT electrodes. Two observers identified spikes in EEG traces and marked in which channels they occurred. Interobserver agreement was calculated using Cohen’s kappa. For localization, data-sets with high interobserver agreement (κ-value  0.4) were evaluated. The subdural distribution of NP and AT spikes was mapped.
+Results
+Seven patients were included, six were analyzed for localization. Only 1.5% of spikes recorded by cheek electrodes were not seen on temporal leads, while 25% of NP spikes were not seen on either. Spikes only recorded by NP electrodes had mesiobasal, while AT spikes had lateral temporal distribution.
+Conclusions
+NP electrodes can increase EEG spike detection rate in temporal lobe epilepsy and are more useful than cheek electrodes. Spikes that are seen only on NP electrodes tend to be mesiobasal temporal lobe spikes.
+Significance
+Adding NP electrodes to scalp EEG can aid interictal spike detection and source localization, especially in short recordings like MEG–EEG.
+

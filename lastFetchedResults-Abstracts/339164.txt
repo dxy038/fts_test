@@ -1,0 +1,11 @@
+Objective
+Lentiviral transduction is an established method for efficiently modifying the gene expression program of primary cells, but the ability of the introduced construct to persist as an episome has not been well studied.
+Material and Methods
+
+Here we investigated this issue in lethally irradiated female mice injected with 300 or 3000 doubly sorted male linneg, Sca-1high, c-kithigh, Thy-1.1low mouse bone marrow cells that had been exposed in vitro to self-inactivating lentivirus vector encoding a green fluorescence protein (GFP) cDNA. Seven to sixteen months later, bone marrow cells from primary mice were injected into secondary female recipients and another 8 months later into tertiary female recipients. Integration study was performed on individual spleen colonies by Southern blot analysis. Inverse polymerase chain reaction (PCR) and sequence of amplified vector-derived DNA was used to verify Southern blot results.
+Results
+
+Spleen colony-forming cell study revealed that a small fraction of the spleen colonies contained integrated provirus as shown by Southern blot analysis. Unexpectedly, many spleen colonies were found to contain a nonintegrated episomal form of the provirus, which was confirmed by an inverse PCR analysis. In some of the spleen colonies containing only the episomal form, GFP-expressing cells were also detected. Lentiviral sequences were present in hematopoietic tissues of primary mice but not in other tissues.
+Conclusions
+
+These results demonstrate that lentiviral vectors produce episomal circles in hematopoietic stem cells that can be transferred through many cell generations and expressed in their progeny.

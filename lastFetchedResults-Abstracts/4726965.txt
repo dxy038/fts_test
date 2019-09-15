@@ -1,0 +1,1 @@
+Tortuosity and dilation of retinal vessels are considered of primary importance for the diagnosis and follow-up of the Retinopathy of Prematurity (ROP) disease. We developed an algorithm to estimate vessel tortuosity in images acquired with a wide-field fundus camera in ROP subjects, offering clinicians a quantitative, objective, and reproducible diagnostic parameter.

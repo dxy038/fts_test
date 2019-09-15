@@ -1,0 +1,5 @@
+The objective of this paper is to design and optimize a trichlorosilane distillation system with the aim of obtaining this product with a purity higher than 0.99999 mole fraction, so that it can employed as a source of solar-grade silicon.
+
+entional process with at least two columns is capable of separating the trichlorosilane from a mixture of this compound with dichlorosilane and silicon tetrachloride; however, due to the high purity required, large reflux ratios are needed. For this reason, a vapour recompression heat pump was considered for both columns but also for the second column only.
+
+e alternatives were simulated with HYSYS® software platform, in order to determine economically the best one. The economic analysis indicates that, although in both heat pump assisted systems, the initial investment should be much larger than in the conventional process, the annual savings (29% for the Double Heat Pump assisted system and 4% for the Single Heat Pump assisted system), justify the use of heat pumps instead of traditional reboiler–condenser columns.

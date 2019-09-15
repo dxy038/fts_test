@@ -1,0 +1,9 @@
+A bidirectional power flow, three-phase AC/DC converter is presented to implement
+power factor correction, regulate the DC-bus voltage and draw balanced and sinusoidal line
+currents from AC source. Four switches are adopted in each converter leg to generate a three-level
+PWM waveform on the AC terminal to neutral-point voltages. Compared with conventional threephase
+three-level converters, the proposed converter has a simpler circuit configuration and fewer
+power semiconductors. The classical proportional-integral voltage controller and carrier-based
+current controller are adopted in the outer loop and inner loop to implement DC-bus voltage
+regulation and current-command tracking, respectively. Simulation and experimental results verify
+the validity and effectiveness of the control scheme.

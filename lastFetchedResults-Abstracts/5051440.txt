@@ -1,0 +1,1 @@
+Considers an uncertain system described by uncertain matrices which may be time varying. The objective of this paper is to consider the stability problem of such a system. The result is formulated as a linear matrix inequality for which efficient algorithms are available.

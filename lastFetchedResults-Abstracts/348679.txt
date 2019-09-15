@@ -1,0 +1,11 @@
+Objective
+We aimed at characterizing the silent period induced in hand muscles by subcortical stimulation through electrodes implanted on the subthalamic nucleus for deep brain stimulation (STN-DBS).
+Methods
+In 10 patients with Parkinson’s disease, we analyzed the inhibitory effects induced in the contralateral and ipsilateral thenar muscles by STN-DBS of varying stimulus intensity and strength of muscle contraction.
+Results
+Both, the contralateral silent period (CSP) and the ipsilateral silent period (ISP) were induced by stimuli at an intensity subthreshold for eliciting a contralateral motor evoked potential (MEP) and were composed of two phases. With a stimulus intensity of 120% of active threshold and a strength of 20%, the first CSP had a mean onset latency of 38.0 ± 2.9 ms and a mean duration of 37.7 ms ± 2.8 ms, and the second CSP had a mean onset latency of 90.6 ± 18.5 ms and a mean duration of 53.4 ± 6.3 ms. The first ISP had a mean onset latency of 34.9 ± 4.3 ms and a mean duration of 12.5 ± 3.4 ms, and the second ISP had a mean onset latency of 76.3 ± 10.1 ms and a mean duration of 23.1 ± 9.0 ms. The duration of both phases of the CSP increased with increasing the stimulus intensity and the burst separating the two phases of the CSP increased in size with increasing the strength of muscle contraction or the stimulus intensity. No ipsilateral MEP was observed in any patient at any strength or stimulus intensity.
+Conclusion
+Our results indicate that the silent period induced by STN-DBS has specific physiological mechanisms that differ from those of the silent period induced by cortical transcranial magnetic stimulation.
+Significance
+The induction of ISP by stimulation of the motor tract at a point caudal to the corpus callosum indicates that non-callosal pathways are capable of generating ISP.
+

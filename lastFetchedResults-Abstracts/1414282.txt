@@ -1,0 +1,5 @@
+This paper presents an extension of the classical elastic law. The main objective of this new law is to represent linear and non-linear behaviour for computational metal forming purposes.
+
+tension of the model is built by means of a stress–strain relationship given by an integral equation, its kernel characterising the mentioned complex behaviour. A specific application is presented for a TRIP 700 steel. Using experimental data obtained from elastoplasticity tests, the kernel of the model is formulated by means of a specific computational curve fitting procedure. The excellent agreement between experimental data and fitted model results validates the proposed model.
+
+rmore, a V-bending test is simulated, springback being represented by means of three different models: elastic, linear elastic with variable elastic modulus and extended elastic models. From the results differences between extended elastic law and the classical one are around 50%.

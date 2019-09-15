@@ -1,0 +1,11 @@
+Objective
+Analysis based on ‘outliers’ has been demonstrated to be a useful adjunct to mean value analysis in quantitative needle electromyography (EMG). However, the outlier criteria applied have been arbitrarily chosen. The aim of the present study was to determine the most useful outlier criteria in motor unit potential (MUP) analysis.
+Methods
+The external anal sphincter (EAS) muscles were examined by multi-MUP analysis. From 115 muscles of 64 normative subjects, the 0/100, 5/95, 10/90, 15/85, 20/80, and 25/75 percentile MUP parameter values were grouped individually. From these, the 5/95, 2.5/97.5, 1/99 and 0/100% confidence limits were determined. Thus, 24 sets of outlier limits were formed. To calculate sensitivity and specificity, data from 79 patients with cauda equina lesions (189 muscles), and from 77 controls (119 muscles) were compared to normative outlier limits.
+Results
+Sensitivities were highest with outlier limits formed from the 10–90 percentile ranges, followed by the 5–95 and 15–85 percentile ranges, while specificity was highest using the 15–85, followed by the 20–80, and 25–75 percentile ranges. On direct head-to-head comparison the 10–90 percentile ranges were more sensitive and 5–95 were more specific.
+Conclusions
+The study demonstrated considerable differences in the sensitivity and specificity of outlier limits calculated from different percentile ranges, with outlier criteria calculated from the 10–90 and from the 5–95 percentile ranges appearing to be the most useful for detection of neuropathy in the EAS muscle.
+Significance
+In future EAS muscle EMG I propose that outlier criteria calculated from the 10–90 percentile ranges be used.
+

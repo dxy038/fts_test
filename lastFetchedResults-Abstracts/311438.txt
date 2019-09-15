@@ -1,0 +1,11 @@
+Objective. The objective of the present study is to improve the accuracy and reliability of the spinal midline reconstructions in scoliosis from back shape data.
+
+Design. An active shape model which covers the variety of scoliotic curves with a minimum of adjustable parameters is designed for the reconstruction of the spinal midline based on rasterstereographic back surface measurements.
+
+Background. To reduce the number of X-rays needed for patients with a scoliosis, an automatic method was developed for the reconstruction of spinal deformities from back shape data.
+
+Methods. 264 digital X-rays of 264 patients with scoliosis were used as a training set. By examining the statistics of the vertebral body centres a point distribution model was derived. The model is used as a basis to reconstruct the spinal midline from back shape data (active shape model).
+
+Results. 478 rasterstereographs of 114 scoliotic patients have been evaluated with this new procedure and with an existing procedure. Both procedures deliver a three-dimensional curve of the spinal midline. The frontal projections of these spinal midlines are compared with the vertebral centres of the corresponding 478 X-rays. The active shape model improved the results as compared to the existing procedure from σx = 3.4 mm to σx = 3.0 mm.
+
+Conclusion. The use of the active shape model improves the overall accuracy of the spinal midline reconstructions in scoliosis from back shape data.

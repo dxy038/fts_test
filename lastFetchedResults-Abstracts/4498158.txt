@@ -1,0 +1,1 @@
+This paper provides an overview of DOCSIS 2.0, the main objective of which is to achieve a significant increase in upstream bandwidth, while providing more robustness against channel impairments. This has been achieved through inclusion of an enhanced physical layer that supports higher order modulations with increased forward error correction capabilities.

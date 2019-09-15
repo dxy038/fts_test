@@ -1,0 +1,12 @@
+A multilevel genetic algorithm (MLGA) is proposed in this paper for solving the kind of optimization
+problems which are multilevel structures in nature and have features of mixed-discrete design variables,
+multi-modal and non-continuous objective functions, etc. Firstly, the formulation of the mixed-discrete
+multilevel optimization problems is presented. Secondly, the architecture and implementation of MLGA
+are described. Thirdly, the algorithm is applied to two multilevel optimization problems. The  rst one is
+a three-level optimization problem in which the optimization of the number of actuators, the positions
+of actuators and the control parameters are considered in di erent levels. An actively controlled tall
+building subjected to strong wind action is considered to investigate the e ectiveness of the proposed
+algorithm. The second application considers a combinatorial optimization problem in which the number
+and con guration of actuators are optimized simultaneously, an actively controlled building under
+earthquake excitations is adopted for this case study. Finally, some results and discussions about the
+application of the proposed algorithm are presented

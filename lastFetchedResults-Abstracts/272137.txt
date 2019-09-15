@@ -1,0 +1,10 @@
+Within the framework of additive plasticity, an objective stress update algorithm has been proposed. The procedure
+is implemented in such way that the extension from a standard small strain FE code to the ®nite strain range is
+straightforward, and objectivity can be retained for any choice of the intermediate con®guration. The additional
+computational cost only includes some geometrical manipulations. For the Newton±Raphson iteration method, a
+closed-form solution of the consistent tangent is derived by direct linearization of the stress update algorithm. Numerical
+examples show a quadratic rate of convergence with the proposed viscoplastic model. The analysis of a tensile
+test ®rst shows a shear band with a ®nite thickness independent of the ®nite element size. At large deformation, the
+shear band pattern transforms into a necking failure mode. As a second example, a thin sheet tensile test is analyzed. A
+necking failure mode leads to global softening even though, locally, the material is still hardening. Although viscoplastic
+regularization is used, the results still show a mesh dependence for deformations over 40%.

@@ -1,0 +1,9 @@
+In this paper, the focus is on additive models with interval data.An additive model
+can be converted to a multi-objective linear problem if information about preferences of
+the consumption of inputs and the production of outputs are taken into account. Here
+in this study, data are not exact and are of interval kind. Moreover, the most preferred
+solutions with available information by interval additive models are sought. It has also
+been shown that if additional information is available, an axial solution can be applied.
+Also, the most preferred target settings will be computed too. In this study twenty bank
+branches in Iran are evaluated, and target settings and efficiency are compared with the
+original case and significant decisions are made.

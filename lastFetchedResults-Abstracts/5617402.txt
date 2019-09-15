@@ -1,0 +1,1 @@
+We present bidirectional data transmission experiments in half-duplex mode at 1 Gbit/s data rate over 100 m graded-index glass optical fiber with VCSELs and MSM photodiodes as parts of a GaAs-based monolithi-cally integrated transceiver chip.

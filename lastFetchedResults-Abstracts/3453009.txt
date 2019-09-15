@@ -1,0 +1,1 @@
+The use of incremental instead of absolute encoders for servomotor control involves the design of an interface to feed bidirectional counters. A robust method that the authors have implemented with a minimum number of components is presented. The method is also suitable for an all-software version that could be used in microcontroller applications with low CPU overhead

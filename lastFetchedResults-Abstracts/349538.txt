@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to test whether new heart rate variability (HRV) complexity measures provide diagnostic information regarding early subclinical autonomic dysfunction in diabetes mellitus (DM).
+Methods
+HRV in DM type 1 patients (n = 17, 10f, 7m) aged 12.9–31.5 years (duration of DM 12.4 ± 1.2 years) was compared to a control group of 17 healthy matched probands. The length of R–R intervals was measured over 1 h using a telemetric ECG system. In addition to linear measures, we assessed HRV complexity measures, including multiscale entropy (MSE), compression entropy and various symbolic dynamic measures (Shannon and Renyi entropies, normalized complexity index (NCI), and pattern classification).
+Results
+HRV magnitude was significantly reduced in patients with DM. Several HRV complexity parameters (MSE at scales 2–4, Renyi entropy, NCI) were also significantly reduced in diabetics. MSE indices and compression entropy did not correlate with linear measures.
+Conclusions
+The magnitude and complexity of HRV are reduced in young patients with DM, indicating vagal dysfunction.
+Significance
+The quantification of HRV complexity in combination with its magnitude may provide an improved diagnostic tool for cardiovascular autonomic neuropathy in DM.
+

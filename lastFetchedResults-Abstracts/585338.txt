@@ -1,0 +1,10 @@
+This paper generalizes a method of determining the objective value range of 
+2
+quadratic programming problems to a general class of interval convex programming ones,
+where all coefficients in objective function and constraints are interval numbers. The upper
+bound and lower bound of the objective values of the interval quadratic program is
+calculated by formulating a pair of two-level mathematical programs. Based on the duality
+theorem and by applying the variable transformation technique, the pair of two-level
+mathematical programs is transformed into conventional one-level convex programming
+problem. Solving the pair of convex programs produces the interval of the objective values
+of the problem. Numerical results confirms the procedure of the presented approach. 

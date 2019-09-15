@@ -1,0 +1,11 @@
+Objective
+Notch receptors are involved in the regulation of cell-fate decisions, differentiation, and proliferation in many tissues. The expression of Notch receptors on hemopoietic cells and of cognate ligands on bone marrow stromal cells suggests a possible role for Notch signaling in the regulation of hemopoiesis. We were interested to assess the involvement of Notch1 signaling on cell proliferation of myeloid progenitor cells.
+Materials and Methods
+
+Proliferation, cell-cycle status, and apoptosis of myeloid progenitor 32D cell lines engineered to permit the conditional induction of the constitutively active intracellular domain of mNotch1 (mN1IC) by the 4-hydroxytamoxifen(OHT)–inducible system were analyzed in the presence or absence of OHT.
+Results
+
+The induction of mN1IC by OHT resulted in reduction of proliferation (p < 0.01) and accumulation of cells in the G1/G0 phase of the cell cycle (p < 0.001) without substantially affecting apoptosis of 32D cells. These effects were observed under culture conditions that allow differentiation and, to a lesser degree, under conditions that normally promote self-renewal in the absence of differentiated cells.
+Conclusion
+
+Our data suggest that mNotch1 signaling suppresses proliferation of myeloid progenitor cells by altering cell-cycle kinetics.

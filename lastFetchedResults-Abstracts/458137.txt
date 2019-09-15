@@ -1,0 +1,9 @@
+Objective
+We assessed the association of genetic variation in MMP3 and MMP9 with risk of myocardial infarction and stroke.
+Methods
+A case–control study was conducted among members of Group Health (GH), a large-integrated health care delivery system. Case subjects with incident non-fatal myocardial infarction (n = 854), ischemic stroke (n = 367), and hemorrhagic stroke (n = 66) were identified and validated. A matched control group was selected from among GH members without myocardial infarction or stroke (n = 2696). Haplotype-tagging sets of single-nucleotide polymorphisms (SNPs) in MMP3 and MMP9 were genotyped.
+Results
+MMP3 haplotype 2 was associated with reduced risk of myocardial infarction (adjusted odds ratio (OR) per copy = 0.80, 95% confidence interval 0.66, 0.98) and increased risk of hemorrhagic stroke (OR = 1.69, 95% confidence interval 1.05, 2.75). Results for MMP3 haplotype 2 and ischemic stroke resembled those for myocardial infarction but did not achieve statistical significance (OR = 0.85, 95% confidence interval 0.64, 1.12). No individual SNP identified MMP3 haplotype 2, and none of the individual MMP3 SNPs were associated with myocardial infarction or stroke. MMP9 haplotypes or SNPs were not associated with myocardial infarction or stroke.
+Conclusions
+MMP3 haplotype may predict both cardiac events and stroke.
+

@@ -1,0 +1,1 @@
+A general framework for modeling and solving cyclic scheduling problems is presented. The objective is to minimize the cycle time. The model covers different cyclic versions of the job-shop problem found in the literature, robotic cell problems, the single hoist scheduling problem and tool transportation between the machines.

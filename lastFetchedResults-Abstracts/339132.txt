@@ -1,0 +1,11 @@
+Objective
+Clinical manifestation of erythropoietic protoporphyria (EPP) results from coinheritance of a mutated allele and a wild-type low-expressed allele of the ferrochelatase (FECH) gene. Currently, up to 90 different mutations affecting the coding region or splicing junctions of the FECH gene have been identified. Despite the high molecular heterogeneity, no functional mutations have been previously reported in the promoter region. The weaker allele expression has been controversially associated to the presence of different intragenic polymorphisms.
+Methods
+
+We applied a two-step screening strategy using denaturing gradient gel electrophoresis followed by direct sequencing in order to rapidly identify FECH gene mutations in Italian EPP patients. We identified two unrelated subjects showing a normal FECH coding region but a single G>C base substitution at position −250 in the FECH promoter and the −251G, IVS1–23T, and IVS3–48C polymorphisms in trans to the substitution. To investigate the effect of the −250G>C mutation on protein binding to the FECH promoter, we conducted electro mobility shift assay (EMSA) and supershift analysis. To determine its effect on the transcriptional activity, K562 and Jurkat cell lines were transiently transfected.
+Results
+
+EMSA showed that the −250G>C mutation results in the loss of an SP1 binding site, and transient transfection assays demonstrated that such mutation strongly impairs promoter activity. Moreover, we showed that the −251A>G polymorphism, although unable to affect SP1 binding, displays a significant reduction in the transcriptional activity of the promoter.
+Conclusion
+
+This is the first report of a mutation in the FECH promoter affecting binding of a transcription factor and causing EPP phenotype.

@@ -1,0 +1,11 @@
+The purpose of this work is to present an efficient method for optimum design of frame structures, using
+approximation concepts. A dual strategy in which the design variables can be considered as discrete
+variables is used. A two-level approximation concept is used. In the first level, all the structural response
+quantities such as forces and displacements are approximated as functions of some intermediate variables.
+Then the second level approximation is employed to convert the first-level approximation problem into
+a series of problems of separable forms, which can be solved easily by dual methods with discrete variables.
+In the second-level approximation, the objective function and the approximate constraints are linearized.
+The objective of the first-level approximation is to reduce the number of structural analyses required in the
+optimization problem and the second level approximation reduces the computational cost of the optimization
+technique. A portal frame and a single layer grid are used as design examples to demonstrate the
+efficiency of the proposed method.

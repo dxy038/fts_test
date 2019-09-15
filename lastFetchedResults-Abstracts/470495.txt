@@ -1,0 +1,9 @@
+Objective
+HOXA10 is necessary for endometrial receptivity and regulated by sex steroids. Secretory phase HOXA10 expression increases in endometrial epithelial cells, despite the loss of progesterone receptor. Stromal-epithelial molecular communication likely transmits progesterone signaling from progesterone receptor containing stromal cells to epithelium. Here we investigated an alternative hypothesis, persistent HOXA10 expression by autoregulation.
+Study design
+Nested segments of the HOXA10 5′ regulatory region were cloned into a pGL3-Luciferase reporter construct and tested for HOXA10-induced reporter activity. Direct binding was assayed by electrophoretic mobility shift assay.
+Results
+One 370 base pair element drove reporter gene expression specifically in response to HOXA10 in Ishikawa cells but not in BT-20 cells. This element contained a site that bound HOXA10 protein.
+Conclusion
+HOXA10 expression is driven by an autoregulatory element in the 5′ regulatory region of the gene. Autoregulation is a novel alternative molecular mechanism by which steroid-induced gene expression can be maintained in the absence of steroid receptors.
+

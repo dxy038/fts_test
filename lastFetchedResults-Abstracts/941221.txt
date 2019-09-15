@@ -1,0 +1,10 @@
+According to the Air Quality Framework Directive, air pollutant concentration levels have to be assessed and reported annually
+by each European Union member state, taking into consideration European air quality standards. Plans and programmes should be
+implemented in zones and agglomerations where pollutant concentrations exceed the limit and target values. The main objective of
+this study is to perform a long-term air quality simulation for Portugal, using the CHIMERE chemistry-transport model, applied
+over Portugal, for the year 2001. The model performance was evaluated by comparing its results to air quality data from the
+regional monitoring networks and to data from a diffusive sampling experimental campaign. The results obtained show a modelling
+system able to reproduce the pollutant concentrations' temporal evolution and spatial distribution observed at the regional networks
+of air quality monitoring. As far as the fulfilment of the air quality targets is concerned, there are excessive values for nitrogen and
+sulfur dioxides, ozone also being a critical gaseous pollutant in what concerns hourly concentrations and AOT40 (Accumulated
+Over Threshold 40 ppb) values.

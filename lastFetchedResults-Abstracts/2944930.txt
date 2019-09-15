@@ -1,0 +1,1 @@
+In this paper we consider multiple objective linear programming problem with interval objective functions, and propose a generation method of its all possibly and necessarily efficient extreme points, based on the multiobjective simplex method

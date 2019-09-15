@@ -1,0 +1,5 @@
+The present work illustrates, 3D finite element analysis (FEA) of low-pressure (LP) steam turbine bladed disk assembly are carried out at a constant speed loading condition. The prime objective is to study structural integrity of bladed disk root with aid of design considerations at design stage. Secondly, design rules are developed for structural integrity of blades and disk considering a factor of safety for material, manufacturing and temperature uncertainties. These design rules are in turn used as design checks with aid of finite element analysis results.
+
+igations are performed based on Neuber formulae for solving a highly non-linear problem employing linear analysis tool ANSYS 12.0. Local peak stresses at blade and disk root fillet of linear analysis is used to identify the equivalent non-linear stress value by strain energy distribution method for estimating the minimum number of cycles required for crack initiation for low cycle fatigue (LCF) calculations.
+
+ methodology is developed to address the structural integrity of blades at design point and for off-design conditions.

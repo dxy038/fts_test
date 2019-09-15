@@ -1,0 +1,11 @@
+Objective. The purpose of this study was to develop a non-invasive method to predict the lumbosacral and vertebral angles.
+
+Design. The candidate predicting variables were the externally measured marker angle, pelvic angle, and lumbosacral angle.
+
+Background. Several investigators used surface rigid markers to represent the angles of lumbosacral vertebrae. Previous studies show a high level of validity for measuring the lumbar curvature during stance and for obtaining the vertebral angle in the lumbar region. However, our review of literature failed to find a data transformation model illustrating the lumbosacral vertebral angle using external measurements as predictors.
+
+Methods. Sixteen healthy male subjects participated in the radiographic and videographic measurements. Data of 12 of the 16 subjects were used for model development, and data of the other four subjects were used for model validation.
+
+Results. The results showed significant differences between the directly measured vertebral angle from the X-ray film and the externally measured angles of the surface markers at the L5 and S1 levels (P < 0.05). Linear regression models for calculating vertebral angles were developed with R2 values of 0.97, 0.98, 0.91, and 0.92 for the vertebral levels of L1, L3, L5, and S1 respectively. The validation result showed that there was no significant difference between the calculated and the X-ray data.
+
+Conclusions. The protocol of using the skin-surface rigid markers and the predicting models was justified in the study to provide a simple and valid non-invasive method for the recording of the internal vertebral angle in the sagittal plane.

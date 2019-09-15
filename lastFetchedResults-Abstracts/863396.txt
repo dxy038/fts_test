@@ -1,0 +1,19 @@
+Yield management is important and challengeable in semiconductor industry for the
+quality uncertainty of the final products. The total yield rate of the semiconductor
+manufacturing process is uncertain, each product is graded into one of several quality
+levels according to performance before being shipped. A product originally targeted to
+satisfy the demand of one product may be used to satisfy the demand of other products
+when it conforms to their specifications. At the same time, the products depreciate in
+allocation periods, which mainly results from technical progresses. This paper studies
+the semiconductor yield management issue of a make-to-stock system with single input,
+multi-products, multi-demand periods, upward substitution and periodic depreciation.
+The whole time horizon of the system operation process can be divided into two stages: the
+production stage and the allocation stage. At the first stage, the firm invests in raw materials
+before any actual demand is known and produces multiple types of products with random
+yield rates. At the second stage, products are classified into different classes by quality and
+allocated in numbers of periods. The production and allocation problem are modeled as a
+stochastic dynamic program in which the objective is to maximize the profit of the firm.We
+show that the PRA (parallel allocation first, then upgrade) allocation policy is the optimal
+allocation policy and the objective function is concave in production input. An iterative
+algorithm is designed to find the optimal production input and numerical experiments are
+used to illustrate its effectiveness.

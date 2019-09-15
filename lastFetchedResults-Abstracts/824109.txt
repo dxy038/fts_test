@@ -1,0 +1,1 @@
+We consider the problem of scheduling orders for multiple different product types in an environment with m dedicated machines in parallel. The objective is to minimize the total weighted completion time. Each product type is produced by one and only one of the m dedicated machines; that is, each machine is dedicated to a specific product type

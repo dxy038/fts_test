@@ -1,0 +1,17 @@
+An object recognition approach based on concurrent
+coarse-and-fine matching using a multilayer Hopfield neural
+network is presented. The proposed network consists of several
+cascaded single-layer Hopfield networks, each encoding object
+features at a distinct resolution, with bidirectional interconnections
+linking adjacent layers. The interconnection weights
+between nodes associating adjacent layers are structured to favor
+node pairs for which model translation and rotation, when
+viewed at the two corresponding resolutions, are consistent.
+This interlayer feedback feature of the algorithm reinforces the
+usual intralayer matching process in the conventional single-layer
+Hopfield network in order to compute the most consistent modelobject
+match across several resolution levels. The performance
+of the algorithm is demonstrated for test images containing
+single objects, and multiple occluded objects. These results are
+compared with recognition results obtained using a single-layer
+Hopfield network.

@@ -1,0 +1,11 @@
+Objective
+Minimal residual disease (MRD) present in peripheral blood stem cell (PBSC) products of AML patients may contribute to relapse. Our goal was to 1) predict leukemia recurrence based on the frequency of MRD present in PBSC products, 2) establish the efficacy of different purging procedures, and 3) integrate this into a model that enables to predict whether or not to purge.
+Methods
+
+Minimal residual disease was measured with flow cytometry using leukemia-associated phenotypes as established at diagnosis. Toxicity of purging procedures was established using clonogenic assays. Purging procedures used were cryopreservation, hyperthermia, ether lipid ET-18-OCH3, and combinations.
+Results
+
+Minimal residual disease in PBSC products correlated significantly with relapse-free survival (n = 24, p = 0.003). At a cut-off value of 0.05% MRD the relative risk of relapse was 4.6 times lower in the group with less than 0.05% MRD. As measured in 54 PBSC products, the MRD level was less than 0.05% in 17 of 54 cases, between 0.05% and 0.5% in 19 of 54 cases, and higher than 0.5% in 18 of 54 cases. Based on the MRD cut-off of 0.05%, the log tumor reduction needed to achieve this threshold is zero for the 17 of 54 cases in which MRD was below 0.05%, less than or equal to 1 log in 19 of 54 cases, and greater than 1-2 log in 18 of 54 cases. When applying purging with 25 μg/mL ET-18-OCH3 combined with cryopreservation at 10% DMSO and hyperthermia at 42°C combined with cryopreservation at 10% or 4% DMSO, there was greater than or equal to 1 log depletion of AML blasts.
+Conclusion
+
+This study establishes (1) a threshold level for MRD above which prognosis is worse, (2) that stem cell products from 69% of patients have higher than this “safe” MRD level, and (3) that ET-18-OCH3 and hyperthermia may be used to purge products in part of these patients.

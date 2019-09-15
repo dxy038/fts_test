@@ -1,0 +1,12 @@
+It seems using the Maxwell-Stefan (M-S) diffusion model in combination with the vacancy solution
+theory (VST) and the single-component adsorption data provides a superior, qualitative, and
+quantitative prediction of diffusion in zeolites. In the M-S formulation, thermodynamic factor (?) is
+an essential parameter which must be estimated by an adsorption isotherm. Researchers usually utilize
+the simplest form of adsorption isotherms such as Langmuir or improved dual-site Langmuir, which
+eventually cannot predict the real behavior of mixture diffusion particularly at high concentrations of
+adsorbates because of ignoring nonideality in the adsorbed phase. An isotherm model with regard to
+the real behavior of the adsorbed phase, which is based on the vacancy solution theory (VST) and
+considers adsorbate-adsorbent interactions, is employed. The objective of this study is applying
+vacancy solution theory to pure component data, calculating thermodynamic factor (?), and finally
+evaluating the simulation results by comparison with literature. Vacancy solution theory obviously
+predicts thermodynamic factor better than simple models such as dual-site Langmuir.

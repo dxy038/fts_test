@@ -1,0 +1,9 @@
+Mathematical models for forecasting landslides and mudflow movements triggered by heavy rainfalls are useful tools to develop warning systems and hazard mitigation strategy for loss reduction.
+
+ present paper, an application of Forecasting of Landslides Induced by Rainfalls (FLaIR) hydrological model, correlating the rainfall amount and landslide or mudflow movement occurrences, will be performed. Model application presented here refers to the mudflows of Sarno, Southern Italy, and is based on hourly precipitation data available from a real-time rain gauge installed immediately after the catastrophic event that occurred on May 1998.
+
+plication is extended from October 1998 to May 2002. The main objective is to perform a backanalysis in order to verify the reliability of the proposed scheme for use in a warning system.
+
+the most interesting results of the application, the relatively few false alarms for populations given by the model may be highlighted.
+
+aIR model is more useful when it is integrated with a probabilistic model for forecasting precipitation depths during a storm event at an hourly scale. By stochastic modelling of hourly precipitation, it is possible to estimate the probability of reaching the alarm threshold before allowing civil protection actions.

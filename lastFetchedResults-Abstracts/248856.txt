@@ -1,0 +1,9 @@
+A new approach to process optimal design in non-isothermal, steady-state metal forming is presented. In
+this approach, the optimal design problem is formulated on the basis of the integrated thermo-mechanical
+ nite element process model so as to cover a wide class of the objective functions and to accept diverse
+process parameters as design variables, and a derivative-based approach is adopted as a solution technique.
+The process model, the formulation for process optimal design, and the schemes for the evaluation of the
+design sensitivity, and an iterative procedure for design optimization are described in detail. The validity of
+the schemes for the evaluation of the design sensitivity is examined by performing a series of numerical
+tests. The capability of the proposed approach is demonstrated through applications to some selected process
+design problems

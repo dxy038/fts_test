@@ -1,0 +1,8 @@
+Objective
+neralized matrix learning vector quantization (GMLVQ) is used to estimate the relevance of texture features in their ability to classify interstitial lung disease patterns in high-resolution computed tomography images.
+ology
+a stochastic gradient descent, the GMLVQ algorithm provides a discriminative distance measure of relevance factors, which can account for pairwise correlations between different texture features and their importance for the classification of healthy and diseased patterns. 65 texture features were extracted from gray-level co-occurrence matrices (GLCMs). These features were ranked and selected according to their relevance obtained by GMLVQ and, for comparison, to a mutual information (MI) criteria. The classification performance for different feature subsets was calculated for a k-nearest-neighbor (kNN) and a random forests classifier (RanForest), and support vector machines with a linear and a radial basis function kernel (SVMlin and SVMrbf).
+s
+l classifiers, feature sets selected by the relevance ranking assessed by GMLVQ had a significantly better classification performance (p &lt; 0.05) for many texture feature sets compared to the MI approach. For kNN, RanForest, and SVMrbf, some of these feature subsets had a significantly better classification performance when compared to the set consisting of all features (p &lt; 0.05).
+sion
+this approach estimates the relevance of single features, future considerations of GMLVQ should include the pairwise correlation for the feature ranking, e.g. to reduce the redundancy of two equally relevant features.

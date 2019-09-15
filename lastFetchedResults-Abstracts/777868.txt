@@ -1,0 +1,17 @@
+It is the purpose of this paper to multiobjective
+design of the single-machine Power System
+Stabilizers (PSSs) using Imperialist Competition
+Algorithm (ICA). The ability of the proposed approach
+for optimal setting of the widely used Conventional
+Power System Stabilizers (CPSSs) has been attended.
+The PSSs parameters designing problem is converted to
+an optimization problem with a multi-objective function
+including the desired damping factor and the desired
+damping ratio of the power system modes, which are
+solved by the ICA algorithm. The capability of the
+proposed approach is confirmed on a single-machine
+power system under different operating conditions and
+disturbances. The results of the proposed approach are
+compared with the Genetic Algorithm (GA) based tuned
+PSS through some performance indices to reveal its
+strong performance.

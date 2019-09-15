@@ -1,0 +1,5 @@
+A large amount of researches and studies have been recently performed by applying statistical methods for vibration-based damage detection. However, the global character inherent to the limited number of modal properties issued from operational modal analysis may be not appropriate for early damage, which has generally a local character.
+
+esent paper aims at detecting this type of damage by using static SHM data and by assuming that early damage produces dead load redistribution. To achieve this objective a data driven strategy is proposed, consisting in the combination of advanced multivariate statistical methods and quantities, such as principal components, symbolic data and cluster analysis.
+
+his analysis it was observed that, under the noise levels measured on site, the proposed strategy is able to automatically detect stiffness reduction in stay cables reaching at least 1%.

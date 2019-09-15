@@ -1,0 +1,11 @@
+Objective
+Recent studies suggested that trafficking of hematopoietic progenitor cells is related to cell cycle status. We studied whether adhesion of progenitor cells to extracellular matrix proteins was modulated by cell cycle transit.
+Materials and Methods
+
+Mobilized peripheral blood CD34+ cells were stimulated ex vivo for 48 hours with stem cell factor, flt-3 ligand, and thrombopoietin and fractionated by adhesion to fibronectin or vascular cell adhesion molecule-1 (VCAM-1). Adherent and nonadherent cells were assayed for cell cycle status, long-term culture-initiating cell frequency, and integrin function.
+Results
+
+Binding to fibronectin, but not to VCAM-1, displayed a cell cycle selectivity as the adherent fraction to fibronectin was enriched in cycling CD34+ cells and in cycling long-term culture-initiating cells compared to the nonadherent fraction. Combined cell cycle and phenotypic analysis showed that the expression of VLA-5 was upregulated during S/G2+M but that of VLA-4 remained constant. The selective binding of cycling CD34+ cells to fibronectin was reverted by anti–VLA-5 but not by anti–VLA-4 blocking antibodies. Also, cycling CD34+ cells preferentially adhered to the VLA-5 binding domain but not to the VLA-4 binding domain of fibronectin. Adhesion of cycling CD34+ cells to fibronectin was a reversible process modulated by cell cycle progression, because adherent cells could exit the cell cycle and return to a nonadhesive state within an additional 48-hour culture period.
+Conclusion
+
+The results indicate that the enhanced binding capacity of cycling progenitor cells to fibronectin is mediated by VLA-5.

@@ -1,0 +1,1 @@
+A 20Gb/s simultaneous bidirectional transceiver uses a resistor-transconductor hybrid in a standard 0.11 mum CMOS process. The 7mW hybrid works in a continuous-time domain without any replica driver and eliminates the need for the precise matching between the replica- and main-driver characteristics

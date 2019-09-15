@@ -1,0 +1,18 @@
+This paper presents a novel optimization based methodology to allocate Flexible
+AC Transmission Systems (FACTS) devices in an attempt to improve the previously
+mentioned researches in this field. Static voltage stability enhancement, voltage profile
+improvement, line congestion alleviation, and FACTS devices investment cost reduction,
+have been considered, simultaneously, as objective functions. Therefore, multi-objective
+optimization without simplification has been used in this paper to find a logical solution to
+the allocation problem. The optimizations are carried out on the basis of location, size and
+type of FACTS devices. Thyristor Controlled Series Compensator (TCSC) and Static Var
+Compensator (SVC) are utilized to achieve the determined objectives. The problem is
+formulated according to Sequential Quadratic Programming (SQP) problem in the first
+stage. This formulation is used to accurately evaluate static security margin with congestion
+alleviation constraint incorporating voltage dependence of loads in the presence of FACTS
+devices and estimated annual load profile. The best trade-off between conflicting objectives
+has been obtained through Genetic Algorithm (GA) based fuzzy multi-objective
+optimization approach, in the next stage. The IEEE 14-bus test system is selected to
+validate the allocated devices for all load-voltage characteristics determined by the
+proposed approach.
+

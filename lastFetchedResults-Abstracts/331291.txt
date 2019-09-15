@@ -1,0 +1,13 @@
+Objectives
+Among the current mathematical models for bone remodeling, few can consider bone resorption due to overload. The objective of this paper is to develop a new bone remodeling model which can simulate both underload and overload resorptions that often occur in dental implant treatments.
+Methods
+
+Based on the traditional model, a new mathematical equation relating the density change rate with mechanical stimulus has been developed. The new equation contains an additional quadratic term which can produce reduction in bone density at high load levels. In addition, to fully exploit the characteristics of this model, a range of different bone remodeling behaviors were studied under the load cases with both constant and varying stress magnitudes. Finally, the model was applied in conjunction with the finite element method to a practical case of dental implant treatment.
+Results
+
+The FE analysis results showed that bone resorption at the neck of the implant occurred due to occlusal overload but then resorption stopped after some time before reaching the coarse threads.
+
+Meanwhile, the density of the bone deeper into the mandible increased slightly due to the additional mechanical stimulus provided by the occlusal load. This phenomenon is observable in some clinical situations.
+Significance
+
+The new model can describe the bone overload resorption, a feature which is absent in most of the current models. And by simulating the dental implant treatment using FE method, the ability of the new mathematical model to simulate overload bone resorption has been clearly demonstrated.

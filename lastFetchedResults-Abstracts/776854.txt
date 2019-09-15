@@ -1,0 +1,9 @@
+Photovoltaic systems utilize solar energy to generate electrical energy to meet load demands. Optimal sizing of these systems includes
+the characterization of solar radiation. Solar radiation at the Earth’s surface has random characteristics and has been the focus of various
+academic studies. The objective of this study was to stochastically analyze parameters involved in the sizing of photovoltaic generators
+and develop a methodology for sizing of stand-alone photovoltaic systems. Energy storage for isolated systems and solar radiation were
+analyzed stochastically due to their random behavior. For the development of the methodology proposed stochastic analysis were studied
+including the Markov chain and beta probability density function. The obtained results were compared with those for sizing of stand–
+alone using from the Sandia method (deterministic), in which the stochastic model presented more reliable values. Both models present
+advantages and disadvantages, however, the stochastic one is more complex and provides more reliable and realistic results.
+  2010 Elsevier Ltd. All rights reserved.

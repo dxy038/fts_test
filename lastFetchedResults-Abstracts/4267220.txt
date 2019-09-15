@@ -1,0 +1,1 @@
+We propose and experimentally demonstrate an asymmetrical TWDM-PON scheme with 4&#215;25-Gb/s downstream DSB OFDM modulation and 4&#215;10-Gb/s upstream OOK Modulation. More than 35.5-dB power budget for bidirectional transmission is demonstrated.

@@ -1,0 +1,24 @@
+
+Abstract
+Floors as horizontal diaphragms and first element of lateral resisting system transfer the lateral forces to the vertical resisting elements. In conventional methods of analysis and design of structures, horizontal diaphragms are typically assumed to be rigid and distribute the horizontal forces to the vertical lateral load resisting elements in proportion to their relative stiffness. In addition, this assumption is often used to reduce the degrees of freedom and simplifies seismic analysis of buildings. Although this assumption may be justified for many structures, but for some types of structural systems, the effect of diaphragm deformability cannot be disregard and the floors behave as semi-rigid diaphragms and the actual force distribution between vertical lateral load resisting elements is not proportion to relative stiffness of vertical elements. In braced steel structures with block-joist floor, the vertical components consist of braces with high story stiffness and the floors in one direction may have less rigidity in their own planes. Furthermore, inaccurate modelling of flexibility of floor diaphragms leads to misestimating of building seismic response and unsafe design of vertical lateral load resisting elements such as braces. The main objective of this study is to evaluate the impact of in-plane diaphragm flexibility on the seismic response of steel braced buildings with block-joist floors in linear and nonlinear regions using a performance-based approach. In order to investigate the diaphragm effect on the seismic response of buildings; one story, three stories and five stories buildings are designed according to the Iranian Seismic Code procedures by assuming rigid diaphragm behaviour. In order to incorporate the flexible behavior of floor diaphragms, it is necessary that the building structural system be analysed as a three-dimensional system. The structural Software SAP2000 was used for the linear and nonlinear analysis procedures. For the linear and nonlinear analysis procedures, the instruction for seismic rehabilitation of existing buildings no.360 guidelines were used to determine the response and corresponding displacements and internal forces in building.  Floors are modelled with SHELL element having four nodes in each element to consider in-plane flexibility of the diaphragm. The beams, columns and bracings were modelled by FRAME element and use of the diaphragm constraint and master joint to model a rigid floor assumption. By studying and comparison the results, it can be  concluded that the design procedures in current codes, based on the assumption of rigid diaphragm, can not provide a reasonable estimate of the drift and brace ductility demand especially in lower stories of the building with large aspect ratio (aspect ratio greater than 3) and the flexible models produce more frame displacement and maximum drift relative to rigid models. Also, application of rigid diaphragm assumption for structures with aspect ratio greater than 3 causes significant errors in analysis results. Inclusion of diaphragm flexibility changed the natural period, maximum total base shear and dynamic response of structures. Also the results of studies indicate that the diaphragm flexibility change the distri-bution of forces between the vertical load resistance elements and causes the middle braced frames pick up additional lateral load.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

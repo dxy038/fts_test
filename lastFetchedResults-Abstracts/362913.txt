@@ -1,0 +1,9 @@
+Study objective
+We assess the relationship between steering wheel deformity and serious thoracic or abdominal injury among drivers and front seat passengers involved in motor vehicle crashes, while adjusting for important crash factors.
+Methods
+This was a national population-based cohort of adults involved in motor vehicle crashes from 1995 to 2002 and included in the National Automotive Sampling System Crashworthiness Data System database. Participants were front seat occupants aged 16 years or older involved in motor vehicle crashes with collision. Outcome measure was serious thoracic or abdominal injury, defined as an Abbreviated Injury Scale score greater than or equal to 3 in these body regions.
+Results
+There were 42,860 persons involved in motor vehicle crashes and seated in the driver or front passenger seat whose data were available for analysis. Five hundred fifty-four (1.3%) persons had serious thoracic injuries, and 169 (0.4%) persons had serious abdominal injuries. In multivariable logistic regression models that adjusted for important crash factors and the National Automotive Sampling System Crashworthiness Data System sampling design, increasing steering wheel deformity was associated with serious thoracic injury in drivers (odds ratio [OR] for each 5-cm increase in steering wheel deformity 1.28, 95% confidence interval [CI] 1.04 to 1.59) and front seat passengers (OR 1.77, 95% CI 1.26 to 2.49). Increasing steering wheel deformity was associated with serious abdominal injury in front seat passengers (OR 1.45, 95% CI 1.11 to 1.89) but not in drivers (OR 0.95, 95% CI 0.79 to 1.15).
+Conclusion
+Steering wheel deformity is an independent predictor of serious thoracic injury in drivers and front seat passengers and is associated with serious abdominal injury among front seat passengers. For these occupants, the risk of these injuries increases incrementally with increasing steering wheel deformity.
+

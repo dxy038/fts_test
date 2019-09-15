@@ -1,0 +1,11 @@
+Objective
+Neuronal nitric oxide synthase (NOS1, mitochondrial NOS, neuronal NOS) homozygous deletion recombinant negative mice demonstrate ionizing irradiation resistance in vivo, attributable to the decrease in mitochondrial-localized production of peroxynitrite, a potent lipid toxic free radical species resulting from the combination of nitric oxide and superoxide. The present studies were designed to determine whether reduced mitochondrial generation of toxic radical oxygen species in NOS1−/− mice also increased the longevity of hematopoiesis in continuous bone marrow cultures and conferred radioresistance to cells in vitro.
+Materials and Methods
+
+Long-term bone marrow cultures (LTBMCs) were established from NOS1−/− and NOS1+/+ littermate mice. Radiation resistance of hematopoietic and marrow stromal cells was measured. Cell cycle analysis and measurement of glutathione and glutathione peroxidase were carried out on irradiated clonal bone marrow stromal cell lines.
+Results
+
+A significant increase in longevity of hematopoiesis was detected in NOS1−/− mouse LTBMCs for over 64 weeks in culture compared to 20 weeks for NOS1+/+ mouse LTBMCs (p < 0.001). Permanent bone marrow stromal cell lines derived from NOS1−/− mouse LTBMCs demonstrated increased radioresistance in vitro reflected by an increased shoulder on the survival curve with image = 32.15 ± 1.21 compared to NOS1+/+ cells image = 10.47 ± 3.2 (p = 0.0026), interleukin-3-dependent NOS1−/− hematopoietic progenitor cell lines also demonstrated decreased apoptosis after 10 Gy irradiation. Both pre- and postirradiation stabilization of the cellular antioxidant pool was detected in NOS1−/− cells. NOS1−/− cells showed a prolonged G1 cell cycle arrest after 10 Gy.
+Conclusions
+
+Prolonged hematopoiesis in LTBMCs correlates with intrinsic radioresistance of hematopoietic and marrow stromal cells from NOS1−/− mice. The data confirm the importance to hematopoiesis of mitochondrial localized nitric oxide in both radioresistance and longevity of hematopoiesis in continuous bone marrow cultures.

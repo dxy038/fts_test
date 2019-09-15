@@ -1,0 +1,11 @@
+Objective
+TIF2 is fused with MOZ in the inv(8)(p11q13) acute myeloid leukemia. TIF2, member of the p160 family, is a histone acetyl transferase (HAT). Deletion of p160 genes were performed in mice. Some observations suggest that p160 family members may perform overlapping functions in mice. Therefore, we decided to choose the zebrafish model to study TIF2. The aim of this study was to characterize the role of this HAT during embryonic development.
+Material and Methods
+
+We use antisense, morpholino-modified oligomers to transiently knockdown tif2 gene, thus determining whether TIF2 plays a role in zebrafish early development.
+Results
+
+We show that tif2 is involved in embryogenesis and in primitive hematopoiesis. tif2-knockdown zebrafish embryos are smaller than controls, they demonstrate shorter tails, they display notochord deformation and they exhibit U-shaped tail somites. A synthetic RNA encoding human TIF2 rescues the tif2-knockdown phenotype. Analysis of fli1 expression by whole-mount in situ hybridization indicates normal angioblast specification, but altered localization of intersomitic vessels. The posterior intermediate cell mass, in which a part of primitive hematopoiesis occurs, is altered in tif2 morphants and whole-mount in situ hybridization analyses of l-plastin and mpx expression suggest a specific inhibition of granulocytic and macrophagic differentiation at late stages.
+Conclusion
+
+These data indicate an important role for TIF2 in zebrafish primitive myelopoiesis.

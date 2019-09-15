@@ -1,0 +1,11 @@
+Objective
+To investigate whether excitation–contraction (E–C) coupling of muscle is impaired in patients with myasthenia gravis (MG).
+Methods
+In 51 patients with generalized MG and 35 normal subjects, compound muscle action potentials (CMAPs) of the abductor pollicis brevis, and movement-related potentials using an accelerometer placed at the thumb tip were simultaneously recorded after median nerve stimulation at the wrist. The E–C coupling time (ECCT) was estimated by a latency difference between CMAP and movement-related potential. Antibodies against acetylcholine receptor (AChR), ryanodine receptor (RyR), and muscle specific receptor tyrosine kinase (MuSK) were measured by immunoassays.
+Results
+The mean ECCT was significantly longer in patients with MG (mean ± SEM; 2.79 ± 0.1 ms; p = 0.002) than in normal controls (2.52 ± 0.1 ms). Among MG patients, the mean ECCT was longer for patients with thymoma than for those without it (P = 0.04), and was shorter for patients treated with FK506 (an immunosuppressant and also an enhancer of RyR related Ca2+ release) than for those not receiving this treatment (p = 0.04). ECCT had no significant correlation with anti-AChR, anti-RyR, or anti-MuSK antibodies.
+Conclusions
+In MG, E–C coupling appears to be impaired, particularly in patients with thymoma, and FK506 possibly facilitates E–C coupling.
+Significance
+The functional implication of impaired E–C coupling is not established, but it may contribute to muscle weakness in patients with MG.
+

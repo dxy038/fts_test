@@ -1,0 +1,1 @@
+The vertical gradient of the frequency-independent term of atmospheric refractivity (N) is calculated by applying a 3D objective analysis (OA) technique. This analysis technique provides reasonable values of dN/dz up to a few hundred metres above ground. The worst results are found in the presence of strong inversions of temperature and humidity

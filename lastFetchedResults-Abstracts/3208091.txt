@@ -1,0 +1,1 @@
+Integrating three-phase induction motor electromagnetic calculation program and multi-objective inverse optimization algorithm, a multi-objective &amp; inverse three-phase induction motor optimization system with C++ is realized. This system can optimal design three-phase induction motor automatically. The design examples verify the effectiveness of the system.

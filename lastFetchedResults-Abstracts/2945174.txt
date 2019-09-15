@@ -1,0 +1,1 @@
+In this paper, we study identical parallel machine scheduling problems with a nonregular objective function. We adopt the decomposition approach, and construct solution methods of each decomposed problem. Then, this paper shows the good properties concerning the optimality of these methods by both theoretical and empirical ways

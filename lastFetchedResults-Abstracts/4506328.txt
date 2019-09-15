@@ -1,0 +1,1 @@
+The optimum design characteristics to maximize the performance of 10 Gbps full-duplex bidirectional transmission are studied experimentally using a low-bandwidth RSOA assisted by electronic equalization and optimum filter offset at the receiver (OLT) end.

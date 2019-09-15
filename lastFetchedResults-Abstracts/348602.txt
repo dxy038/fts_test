@@ -1,0 +1,11 @@
+Objective
+To investigate a neurophysiological correlate of the perceptual enhancement of noise-masked sounds when the masking frequencies have a wide spectral bandwidth and are coherently amplitude-modulated.
+Methods
+Auditory evoked potentials were recorded to 1 kHz tones (200 ms, 61dBSPL, SOA 3 s) occurring in silence or with 80 dB masking noise, which was either wide-band or narrow-band and either unmodulated or 100% amplitude-modulated by a 17.5 Hz square-wave. In a second study, the tones were timed to coincide alternately with the rise and fall of the masker envelope.
+Results
+N1 and P2 potentials recorded to the unmasked tones were abolished in the presence of the unmodulated masker, but were elicited again with lower amplitude and longer latency when the masker was modulated. No significant effect of the masker bandwidth was observed. Latencies were strongly determined by whether the tones coincided with the rise or fall of the masker envelope, indicating that the responses were only evoked when the instantaneous noise level was low.
+Conclusions
+The findings demonstrate partial correspondence to the threshold reduction to similar stimuli seen in comodulation masking release (CMR). The dependence of latencies on the phase of the masker envelope is consistent with the ‘dip-listening’ model of CMR.
+Significance
+Under these conditions the N1/P2 complex can be viewed as a possible neurophysiological correlate of perceptual CMR.
+

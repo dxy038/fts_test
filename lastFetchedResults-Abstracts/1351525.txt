@@ -1,0 +1,10 @@
+Urysohn integral equation is one of the most applicable topics
+in both pure and applied mathematics. The main objective of this paper is
+to solve the Urysohn type Fredholm integral equation. To do this, we approximate
+the solution of the problem by substituting a suitable truncated
+series of the well known Legendre polynomials instead of the known function.
+After discretization of the problem on the given integral interval, by
+using the proposed procedure the original integral equation is converted to
+a linear algebraic system. Now, the solution of the resulting system yields
+the unknown Legendre coefficients. Finally, two numerical examples are
+given to show the effectiveness of the proposed method.

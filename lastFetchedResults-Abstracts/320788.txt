@@ -1,0 +1,15 @@
+The mechanical properties of cortical bone have been extensively studied at the macrostructural scale. However, knowledge of the macroscopic
+mechanical properties is not sufficient to predict local phenomena, such as damage or bone remodeling, both of which are dependent on local
+mechanical behavior. The objective of this study is to quantify the mechanical properties of cortical bone at several length scales, with emphasis on
+the microstructure of Haversian systems.
+Samples of mature bovine cortical bone, with a Haversian microstructure, were obtained from the posterior area of the mid-femoral diaphysis.
+A nanoindentation technique was used to measure the local Young’s modulus. The distribution of the bone mineral content was obtained by
+backscattered electron imaging using a scanning electron microscope. A novel compression device employing microextensometry techniques was
+developed to quantify local strains. Digital image correlation was performed on the microstructure imaged by optical microscopy during
+compression tests.
+This study demonstrated that the local Young’s modulus and strain were heterogeneous at the scale of an osteon. For both properties, the ratio
+between the maximum and minimum values was approximately two. The local Young’s modulus and bone-mineral content were reasonably
+correlated (r2 = 0.75; P < 0.0001), but this was not the case for the distribution of local strains versus bone mineral content (r2 = 0.395;
+P < 0.0001). Hence, local strains cannot be described simply in terms of the bone mineral content, as the Haversian canal and osteonal
+microstructure have a major influence on these properties. In conclusion, the microstructure must be considered in evaluating the local strain and
+stress fields of cortical bone

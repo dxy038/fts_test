@@ -1,0 +1,4 @@
+Objective and methods: Sixteen polysomnographic recordings from 8 European sleep laboratories were analyzed. The histogram analysis was used to introduce quality control of all-night EEG recordings.
+Results: It was found that the header information does not always provide the real saturation values of the recording equipment. The entropy measure was used for the quantitative analysis of the dynamic range of routinely used polysomnographic recorders. It was found that the recording equipment provides EEG data with entropy in the range of 8–11 bits.
+Conclusion: In the all-night sleep EEG were observed non-linearities. It is recommended that the equipment provide the saturation values in order to apply automated overflow detection
+

@@ -1,0 +1,11 @@
+Objective
+The purpose of the present study was to determine the number of the equivalent dipole sources corresponding to the scalp EEG using the information criterion method based on the instantaneous-state modeling.
+Methods
+A three-concentric-spheres head model was used to represent the head volume conductor. The Powell algorithm was used to solve the inverse problem of estimating the equivalent dipoles from the scalp EEG. The information criterion with different penalty functions was used to determine the dipole number. Computer simulations were conducted to evaluate effects of various parameters on the estimation of dipole number.
+Results
+The present results suggest that the present method is able to estimate the number of equivalent current dipoles (ECDs) from instantaneous scalp EEG measurements, and that increase in the electrode number can improve the accuracy of estimation of the ECD number. For two ECDs, the best performance of estimation with 20% white noise were 85%, 92% and 94%, when 64, 128 and 256 electrodes are used, respectively. When there are 3 ECDs, the present results suggest that using 256 electrodes gave up to 82% estimation accuracy. The present simulation results also indicate that the accuracies of identification are similar when the minimum distance between dipoles is either 1 or 2 cm, which was used in the simulation. It was also found that the different penalty functions used in the information criterion method could have substantial influence on the estimation accuracy.
+Conclusions
+The present method can estimate the number of ECDs from instantaneous scalp EEG distribution for up to three dipoles.
+Significance
+The successful estimation of the number of ECDs will play an important role in expanding the applicability of dipole source localization to multiple sources.
+

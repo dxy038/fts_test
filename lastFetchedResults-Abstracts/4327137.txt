@@ -1,0 +1,1 @@
+The objective of this paper is to design and analyze the cylindrical EBG structure with patch for gain enhancement. The proposed design is evaluated using the High Frequency Structure Simulator (HFSS). Simulated results are presented for an EBG antenna operating at 2.45GHz which is suitable for mobile and GPS applications.

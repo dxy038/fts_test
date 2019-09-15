@@ -1,0 +1,15 @@
+The present paper is concerned with the statistical
+analysis of the resolution limit in a so-called “diffraction-limited”
+imaging system. The canonical case study is that of incoherent
+imaging of two closely-spaced sources of possibly unequal brightness.
+The objective is to study how far beyond the classical
+Rayleigh limit of resolution one can reach at a given signal to
+noise ratio. The analysis uses tools from statistical detection
+and estimation theory. Specifically, we will derive explicit relationships
+between the minimum detectable distance between
+two closely-spaced point sources imaged incoherently at a given
+SNR. For completeness, asymptotic performance analysis for the
+estimation of the unknown parameters is carried out using the
+Cramér-Rao bound. To gain maximum intuition, the analysis is
+carried out in one dimension, but can be well extended to the
+two-dimensional case and to more practical models.

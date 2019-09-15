@@ -1,0 +1,8 @@
+Isotherm expressions are important for describing the partitioning of contaminants in environmental systems. ISOFIT (Isotherm Fitting Tool)
+is a software program that fits isotherm parameters to experimental data via the minimization of a weighted sum of squared error (WSSE)
+objective function. ISOFIT supports a number of isotherms, including several dual-mode isotherms that combine Freundlich, Langmuir, and
+Polanyi expressions with a linear partitioning term. To minimize the WSSE objective function, ISOFIT utilizes a hybrid optimization procedure
+that combines particle swarm optimization with LevenbergeMarquardt nonlinear regression. An initial swarm optimization step identifies promising
+solutions while circumventing local minima and the follow-on regression step provides local refinement and facilitates the calculation of
+numerous regression statistics. To demonstrate ISOFIT and evaluate its performance, the program was applied to a readily available sorption
+dataset and benchmarked against results generated using the MS Excel solver package.

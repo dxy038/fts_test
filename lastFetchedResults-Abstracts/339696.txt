@@ -1,0 +1,11 @@
+Objective
+Erythrocyte production is tightly regulated by cytokines, particularly erythropoietin (EPO), which affects expansion and viability of erythroid lineage cells via induction of several factors, including Bcl2-like 1 (Bcl-XL). Because type I interferon (IFN) is known to inhibit erythropoiesis, we studied mice deficient in the gene for interferon regulatory factor 2 (IRF2), which functions as a negative regulator of type I IFN signaling, in the context of erythropoiesis regulation.
+Materials and Methods
+
+We performed hematologic analyses and detected normocytic anemia in Irf2-deficient mice.
+Results
+
+Assessment of the maturation of erythroid progenitors in Irf2-deficient bone marrow by flow cytometry revealed a decreased number of late erythroblasts accompanied by an increased number of early erythroid progenitors. Irf2-deficient mice manifested elevated serum EPO levels, decreased Bcl-XL expression levels and enhanced apoptosis of erythroblasts, which may account for the decreased number of late erythroblasts. We further assessed the role of IRF2 in the regulation of type I IFN signaling during erythropoiesis, and found that additional homozygous mutation of IFNAR1, a subunit of type I IFN receptor complex, led to rescue of the defect of erythropoiesis in Irf2-deficient mice.
+Conclusions
+
+Impaired erythropoiesis in Irf2-deficient mice results from excessive type I IFN signaling, which inhibits Bcl-XL expression in erythroid lineage cells. Our present study provides a mechanistic understanding of the potential cross-talk between type I IFN and EPO signaling pathways during erythropoiesis and may offer therapeutic insights into anemia.

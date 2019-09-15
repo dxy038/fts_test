@@ -1,0 +1,8 @@
+Background and Objective: This study was conducted to evaluate the effect of PectaSol on modification of Doxorubicin (Dox) cytotoxicity and apoptosis and cell cycle in prostate cancer cell lines (DU-145 & LNCaP)                                                        
+
+Materials and Methods: Human prostate carcinoma DU-145 and LNCaP cell lines were treated with various concentrations of pectaSol, Dox, or a combination of both.Cell viability was determined via the MTT assay and cell cycle progression was determined by flow cytometry using Flowmax Software.
+
+Results: DU-145 (androgen independent) cell lines were more sensitive than LNCaP (androgen dependent) cell lines.Combination of PectaSol and Dox resulted in a 17.6% and 19.6% (p  < 0.001) decrease in the viability of the DU-145 and LNCaP cells. The IC50 values decreased 1.5 fold and 1.3 fold in the DU-145 and LNCaP cells, respectively. Treatment with both drugs led to an increase in Sub-G1 arrest (54.6% versus 12.2% in Dox) in DU-145. In LNCaP cells, combination of both drugs led to an increase in G2-M arrest (61.68% versus 53.56% in Dox). 
+
+Conclusion: Based on our findings, the progressive cytotoxicity effect of Dox and PectaSol together induce rapid cell death in DU-145 through apoptosis and in LNCaP cells through cell cycle arrest (G2-M arrest).
+

@@ -1,0 +1,11 @@
+Objective
+F-waves are well-established clinical neurophysiological studies. F-wave analysis is now cumbersome limiting the usefulness of F-waves. This study evaluates the accuracy and reliability of an automated analysis method for F-wave latencies.
+Methods
+F-waves following 20 supramaximal stimuli recorded from the extensor digitorum brevis muscle of 80 limbs (55 subjects) were analyzed. F-wave latencies were determined using a computer program developed by NEUROMetrix (Waltham, MA). These results were compared in a blinded fashion with manual measurements of the same datasets by a clinical neurophysiologist with established expertise in F-waves. The manual measurements were repeated once.
+Results
+The yield rate of automated median F-wave latencies was 100% with a correlation coefficient (CC) of 0.996 when compared with manual assignment results. For individual F-wave latency measurements, comparable values were 90% and 0.977, respectively. The repeated manual measurements revealed a yield rate and CC for median latencies of 100% and 0.998, respectively, with comparable values for individual latency measurements of 95% and 0.992.
+Conclusions
+These results indicate the feasibility of a reliable computerized automated analysis of F-wave latencies.
+Significance
+A reliable automated analysis of F-waves should add meaningfully to the value of these responses in clinical neurophysiology
+

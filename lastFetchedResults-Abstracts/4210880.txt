@@ -1,0 +1,1 @@
+Bidirectional transmission at 10 Gbit/s using 3.125 GBaud PDM-QPSK over 100 km of SMF is investigated. We observe no penalty for transmission of 10 GHz spaced channels. Preamplification improves the receiver sensitivity from -45.9 dBm to -53.0 dBm.

@@ -1,0 +1,7 @@
+The objective of this study has been to create a Stirling engine model for studying the effects of regenerator matrix temperature oscillations on Stirling engine performance.
+
+A one-dimensional model with axial discretisation of engine components has been formulated using the control volume method. The model contains a system of ordinary differential equations (ODEs) derived from mass and energy balances for gas filled control volumes and energy balances for regenerator matrix control masses. Interpolation methods with filtering properties are used for state variables at control volume interfaces to reduce numerical diffusion and/or non-physical oscillations. Loss mechanisms are included directly in the governing equations as terms in the mass and energy balances.
+
+Steady state periodic solutions that satisfy cyclic boundary conditions and integral conditions are calculated using a custom built shooting method.
+
+It has been found possible to accurately solve the stiff ODE system that describes the coupled thermodynamics of the gas and the regenerator matrix and to reliably find periodic steady state solutions to the model. Preliminary results indicate that the regenerator matrix temperature oscillations do have significant impact on the regenerator loss, the cycle power output, and the cycle efficiency and thus deserve further study.

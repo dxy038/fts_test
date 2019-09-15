@@ -1,0 +1,9 @@
+This paper studies the dynamics of a system of retarded functional differential equations (i.e.,
+RFDEs), which generalize the Hopfield neural network models, the bidirectional associative memory
+neural networks, the hybrid network models of the cellular neural network type, and some population
+growth model. Sufficient criteria are established for the globally exponential stability and the existence
+and uniqueness of pseudo almost periodic solution. The approaches are based on constructing
+suitable Lyapunov functionals and the well-known Banach contraction mapping principle. The paper
+ends with some applications of the main results to some neural network models and population
+growth models and numerical simulations.
+ 2004 Elsevier Inc. All rights reserved

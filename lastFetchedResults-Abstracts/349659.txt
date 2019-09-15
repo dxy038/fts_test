@@ -1,0 +1,11 @@
+Objective
+The N-back task is frequently used in working memory studies. N-parameters allow experimental psychologists to analyze the sub-processes of N-back tasks in addition to general processing. However, previous imaging studies have not closely scrutinized these sub-processes. In the current study, three sub-processes in the N-back task were proposed using a logical task analysis: matching, replacement and shift. Domain-specific lateralization in spatial and verbal working memory was investigated in terms of this model.
+Methods
+This model was tested with two ERP experiments during N-back tasks, one conceptual (top–down) and one data-driven (bottom–up).
+Results
+Domain-specific lateralization was observed as predicted in the shift sub-process of the conceptual task and in the replacement sub-process of the data-driven task. Match-specific lateralization was also found.
+Conclusions
+The results support our three-sub-process model of the N-back task and our hypothesis that replacement is a data-driven process with a posterior locus whereas shift is a more conceptual process with a more frontal locus.
+Significance
+The proposed model correctly predicted ERP patterns in conceptual and data-driven N-back tasks and is potentially useful in understanding the neurophysiologic basis of N-back task performance. The similarity between match- and domain-specific lateralization in N-back tasks raised several issues for further investigation.
+

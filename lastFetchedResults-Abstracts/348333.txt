@@ -1,0 +1,11 @@
+tive
+To determine the existence of a preattentively evoked somatosensory mismatch negativity component and to investigate the use of that component in objective clinical diagnostics.
+Methods
+First we determined the temporal discrimination threshold (DT) of paired stimuli in each subject, and applied two sequential electrical stimuli to the hand with paired stimulus times of (1) DT−10 ms, (2) DT−30 ms and (3) DT+50 ms. Then, we recorded ERPs using an oddball paradigm, frequent (standard) and rare (deviant). We used two stimuli, DT−30 ms and DT−10 ms, in the first experiment, and DT−30 ms and DT+50 ms, in the second experiment.
+Results
+In each experiment, two specific components, a negative component peaking at approximately 60 ms (N60) and a large positive component peaking around 100–200 ms (P150), were identified, mainly following the deviant stimulus, which were considered somatosensory mismatch components. N60 was more remarkably identified in the second experiment and P150 in the first.
+Conclusions
+N60 might be generated during tasks which subjects can clearly discriminate, but P150, which seems to correspond to auditory mismatch negativity, might be generated in tasks which require fine discrimination.
+Significance
+We confirmed that our new method could be used for the objective examination of temporal discrimination.
+

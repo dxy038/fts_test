@@ -1,0 +1,11 @@
+This paper deals with the problem of selecting and scheduling the orders to be processed by a ready-mix
+manufacturing plant for immediate delivery to the customer site. Orders have a fixed due date and must be
+prepared in a single plant with limited capacity. The objective is to maximize the total value of orders served. We
+first describe the problem as it occurs in practice in some industrial environments, and then present two scenarios
+to be considered: arbitrary and uniform profit margins for orders. The first scenario corresponds to the fixed job
+scheduling problem, which is solved by a minimum cost flow problem. A new scheme that reduces the number of
+nodes in the graph is proposed in this paper. The second scenario on the other hand requires more computationally
+expensive approaches as a second objective of minimizing the number of vehicles is to be considered. An exact
+graph-based method and a heuristic branch-and-bound based scheme are described. Computational experiences
+show that the optimal approach is not feasible for large problems and that the proposed heuristic approach gives
+high-quality solutions in short running times.

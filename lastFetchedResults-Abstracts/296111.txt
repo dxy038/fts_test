@@ -1,0 +1,9 @@
+Objective
+This study investigates whether 99mTc pyrophosphate (PYP) imaging provides a quantitative non-invasive assessment of the extent of electroporation injury, and of the effect of poloxamer in vivo on electroporated skeletal muscle.
+Methods
+High-voltage electrical shock was used to produce electroporation injury in an anesthetized rat's hind limb. In each experiment, the injured limb was treated intravenously by either poloxamer-188, dextran, or saline, and subsequently imaged with 99mTc PYP. The radiotracer's temporal behavior among the experimental groups was compared using curve fitting of time–activity curves from the dynamic image data.
+Results
+The washout kinetics of 99mTc PYP changed in proportion to the electric current magnitude that produced electroporation. Also, 99mTc PYP washout from electroporated muscle differed between poloxamer-188 treatment and saline treatment. Finally, 10-kDa dextran treatment of electroporated muscle altered 99mTc PYP washout less than poloxamer-188 treatment.
+Conclusions
+Behavior of 99mTc PYP in electroporated muscle appears to be an indicator of the amount of electroporation injury. Compared to saline, intravenous polaxamer-188 treatment reduced the amount of 99mTc PYP uptake. Coupled to results showing poloxamer-188 seals ruptured cellular membranes, lessens the extent of electroporation injury and improves cell viability, 99mTc PYP imaging appears to be a useful in vivo monitoring tool for the extent of electroporation injury.
+

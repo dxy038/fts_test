@@ -1,0 +1,9 @@
+Objective
+We wanted to determine whether the long-term bone marrow culture (LTBMC) transduction system would lead to efficient gene transfer and engraftment of murine repopulating hematopoietic stem cells (HSC), particularly in nonablated recipients.
+Materials and Methods
+Congenic mouse strains expressing Ly 5.1 or Ly 5.2 and the GP+E86 cell line producing the MGirL22Y vector carrying the gene for enhanced GFP were used. Murine LTBMCs were established and demi-depopulated on days 7 and 14 with addition of vector supernatant on days 8 and 15.
+Results
+Cell recovery on day 21 was 21.3% ± 3.8% of input cells and CFU-C recovery was 9.7 ± 3.4% as compared with CFU-C of input cells. In vitro transduction efficiency determined by CFU-C expressing GFP was 22.2% ± 1.6%. In irradiated (950 cGy) mice transplanted with 2 × 106 LTBMC cells, 94% of nucleated cells in the blood at week 16 were of donor origin. However, GFP was only detected at low level in a few animals at week 4 and not later. Analysis of bone marrow from these mice at week 20 did not show any GFP expression and semiquantitative PCR revealed a transgene level of < 1%. When 3.5–20.8 × 106 LTBMC cells (corresponding to 20–100 × 106 fresh cells) were transplanted to nonablated recipients, no engraftment or GFP expression were detected. Competitive repopulation experiments showed that the long-term repopulation ability (LTRA) of the LTMC cells was only 7% of fresh cells.
+Conclusion
+These results indicate that LTBMC transduction of murine cells leads to low-level transduction of progenitors, no gene transfer to repopulating stem cells, and reduction in LTRA in ablated and nonablated recipients.
+

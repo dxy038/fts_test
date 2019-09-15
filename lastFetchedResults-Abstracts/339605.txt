@@ -1,0 +1,11 @@
+Objective
+We previously demonstrated that c-kit expression decreases during murine embryonic stem cell (ESC) differentiation induced by leukemia inhibitory factor removal. In this study, we addressed the possibility that c-kit is a marker of undifferentiated murine ESC and, moreover, that it plays a role in maintaining the undifferentiated state of these cells.
+Materials and Methods
+
+c-kit expression was analyzed under various differentiation conditions by flow cytometry and quantitative reverse transcription polymerase chain reaction. ESC were then sorted on the basis of c-kit expression and functionality was investigated using embryoid body and colony-forming cell assays. Imatinib (Gleevec) and ACK2 were used to block, and stem cell factor was used to stimulate, c-kit activity.
+Results
+
+c-kit expression decreased in two murine ESC lines under various differentiation conditions. Sorting of ESC populations on the basis of c-kit expression revealed significant differences in the functional capacities and gene expression profiles of the sorted populations. The inhibition studies revealed an important role for tyrosine kinase activity in maintaining ESC viability and differentiation capacity, at least in part by preventing apoptosis and enhancing cell cycle progression. However, activation of c-kit alone is not sufficient for maintaining undifferentiated ESC.
+Conclusion
+
+The results suggest that c-kit may represent a useful marker for monitoring ESC functionality. Moreover, tyrosine kinase signaling plays an important role in maintaining undifferentiated ESC. This work provides valuable insights into the complex signaling pathways that synergize to maintain the undifferentiated state of murine ESC.

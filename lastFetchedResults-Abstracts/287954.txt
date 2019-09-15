@@ -1,0 +1,11 @@
+Purpose
+Quality of life (QOL) has emerged as a key measure of health outcome worldwide. The objective of the study was to identify determinants of overall QOL in cancer patients during acute survivorship in Sri Lanka.
+Methods
+
+A prospective study assessed overall QOL in a consecutive series of newly diagnosed patients with cancer of head and neck, breast, cervix uteri, esophagus, and lung at diagnosis (n=450) and after a 4-month follow-up (n=368). EORTC QLQ-C30, which incorporates a global scale to measure overall QOL, was translated, validated, and used to collect QOL data. Age, gender, marital status, educational status, site, and stage of disease, and co-morbidity were modeled using general linear modeling to determine their impact on mean overall QOL at diagnosis (model I). Mode of treatment was added as a covariate in the model which assessed the determinants of the difference in mean overall QOL overtime (model II).
+Results
+
+The sample of patients at enrolment were predominantly aged <60 years, female, married, and with post-compulsory education. Metastatic disease and co-morbidity were seen in 8.9% and 28.7% respectively. The mean overall QOL at diagnosis (54 out of 100) had deteriorated by 6.4 points over 4 months, which was clinically (‘little’) and statistically (t=3.8, P<0.001) significant. The overall factorial ANOVA model I (F=4.37, df=19, P<0.001) and model II (F=2.13, df=26, P<0.01) were found to explain 16.2% and 14% of the variability of the dependent variable respectively. In model I, only age (P<0.05, Eta2=0.03) and site of disease (P<0.001, Eta2=0.05) were found to have a significant impact on overall QOL at diagnosis. In model II, only co-morbidity (P<0.05, Eta2=0.02) was found to have a significant impact on the deterioration of overall QOL overtime.
+Conclusions
+
+The overall QOL of patients with heterogeneous cancer diagnoses deteriorated markedly during the first 4 months after diagnosis. Age and site of disease (with overall QOL at diagnosis) and co-morbidity (with the deterioration in overall QOL during 4 months after diagnosis) were identified as significant determinants of QOL.

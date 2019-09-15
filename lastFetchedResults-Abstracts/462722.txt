@@ -1,0 +1,14 @@
+Background
+The self-perception of weight appropriateness is an important component of eating and weight-loss behaviors. Self-perceived weight status, however, is not fully explained by objective weight status.
+Objective
+
+To examine the influence of sociodemographic factors on Americans’ perceptions of their weight appropriateness, controlling for objective weight status.
+Design
+
+In the Third National Health and Nutrition Examination Survey, respondents were asked, “Do you consider yourself now to be overweight, underweight, or about the right weight?” Responses to this question were compared with how respondents (n=15,593) would be classified by medical standards given their body mass index (BMI). A proportional odds logistic regression model was used to assess the predictive effects of various sociodemographic factors on weight self-perception.
+Results
+
+Overall, 27.5% of women and 29.8% of men misclassified their own weight status by medical standards. Of particular note, 38.3% of normal weight women thought they were “overweight,” while 32.8% of overweight men thought they were “about the right weight” or “underweight.” Multivariate regression analysis revealed that, controlling for BMI, numerous factors—including gender, age, marital status, race, income, and education—were independently associated with the self-evaluation of weight status.
+Conclusions
+
+The self-perceived appropriateness of weight status varies in highly predictable ways among population-level subgroups, likely reflecting differences in the normative evaluation of bodily weight standards. Such evaluations may assist in the explanation of discrepancies between clinical recommendations based on weight status and actual weight control behaviors, discrepancies that are socially patterned along some of the same subgroupings.

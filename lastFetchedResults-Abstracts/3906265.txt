@@ -1,0 +1,1 @@
+The authors present a new image edge block classification method using a set of orthogonal projection filters, accomplished by choosing the index of the filter that gives the maximum output magnitude. Coded monochromatic images with 0.625-0.813 bits/pixel are shown to presence their quality and edge integrity, as seen by subjective and objective measures

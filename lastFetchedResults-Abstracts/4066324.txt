@@ -1,0 +1,1 @@
+Two retransmission logics are described which, when used in conjunction with high-reliability bidirectional datatransmission systems, can improve the throughput by up to 17% compared with systems using Metzner´s `newword&#194;&#191; strategy. Only a small amount of additional logic is required at transmitter and receiver.

@@ -1,0 +1,5 @@
+Objective: We investigate the relationships between signals from the electroencephalogram (EEG) and those from respiratory movement using the correlation dimension (D2).
+Methods: Respiratory movement and EEG were recorded for 7.5 h from 7 clinically healthy men. D2 was calculated by applying an algorithm slightly modified from that proposed by Grassberger and Procaccia (Phys Rev Lett 50 (1983) 346). Non-linearity in respiratory movement and EEG was tested by comparing D2 for the original data with that for surrogate data.
+Results: A statistically significant positive correlation between D2 of the EEG and D2 of the respiratory movement was observed for the original data, but not for the surrogate data.
+Conclusions: A reduced D2 of the EEG may be associated with an increased regularity of breathing in deep sleep (stage IV). Likewise, the increased D2 of respiratory movement during rapid eye movement may be associated with increased complexity of the signals. Whether there is a direct coordination between brain and lungs or whether brainstem systems, including that of the cholinergic system, affect both respiration and cortex requires further investigation.
+

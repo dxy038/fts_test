@@ -1,0 +1,1 @@
+We propose a bidirectional 400-Gb/s configuration that uses optical sub-assemblies for 100-Gb/s Ethernet and a cyclic arrayed waveguide grating. The feasibility of a 10-km fiber transmission of 28-Gbaud 8&#955;-PAM4 and a compact transceiver are shown.

@@ -1,0 +1,9 @@
+Objective
+In this work we study the performance of minimum norm methods to estimate the localization of brain electrical activity. These methods are based on the simplest forms of L1 and L2 norm estimates and are applied to simulated EEG data. The influence of several factors like the number of electrodes, grid density, head model, the number and depth of the sources and noise levels was taken into account. The main objective of the study is to give information about the dependence, on these factors, of the localization sources, to allow for proper interpretation of the data obtained in real EEG records.
+Methods
+For the tests we used simulated dipoles and compared the localizations predicted by the L1 and L2 norms with the location of these point-like sources. We varied each parameter separately and evaluated the results.
+Results
+From this work we conclude that, the grid should be constructed with approximately 650 points, so that the information about the orientation of the sources is preserved, especially for L2 norm estimates; in favorable noise conditions, both L1 and L2 norm approaches are able to distinguish between more than one point-like sources.
+Conclusions
+The critical dependence of the results on the noise level and source depth indicates that regularized and weighted solutions should be used. Finally, all these results are valid both for spherical and for realistic head models
+

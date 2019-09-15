@@ -1,0 +1,10 @@
+Abstract
+Objective
+The association between nonsteroidal anti-inflammatory drugs (NSAIDs) and acute kidney injury is well established, but it is less clear whether this risk is focused with specific agents. We undertook a large pharmacoepidemiologic analysis of the risk of acute kidney injury among older adults using nonselective NSAIDs or cyclooxygenase (COX)-2 inhibitors.
+Methods
+Medicare beneficiaries from 2 large states with drug benefit were eligible for study. Patients were included if they filled a prescription for a nonselective NSAID or COX-2 inhibitor after more than 6 months without any such prescriptions and without a previous diagnosis of acute kidney injury. Incident acute kidney injury was ascertained from hospitalization claims within 45 days of initiating nonselective NSAID or COX-2 inhibitor therapy. Adjusted proportional hazards models estimated the relative risk of acute kidney injury associated with each agent compared with celecoxib.
+Results
+We included 183,446 patients whose mean age was 78 years; 80% were women. Acute kidney injury was identified in 870 (0.47%) of nonselective NSAID or COX-2 inhibitor users. The agents with significantly elevated risk compared with celecoxib were indomethacin (rate ratio [RR] = 2.23; 95% confidence interval [CI], 1.70-2.93), ibuprofen (RR = 1.73; 95% CI, 1.36-2.19), and rofecoxib (RR = 1.52; 95% CI, 1.26-1.83). These findings were robust in several subgroups.
+Conclusion
+Acute kidney injury requiring hospitalization is a relatively rare adverse event among older adults after initiation of nonselective NSAIDs or COX-2 inhibitor treatment, observed in approximately 1 in 200 new users within 45 days. There seems to be a marked gradient of risk for acute kidney injury across agents, specifically for indomethacin, ibuprofen, and rofecoxib.
+

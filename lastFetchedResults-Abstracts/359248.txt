@@ -1,0 +1,11 @@
+Background
+Heart failure (HF) produces significant morbidity and mortality. Although HF disease management (HFDM) programs have been shown to decrease this morbidity, there is still a paucity of data on their effect on mortality. The objective of this study was to determine whether participation in an HFDM program would reduce mortality in an indigent population from rural Louisiana.
+Methods
+
+Proportional hazards modeling was used to determine whether patients participating in the HFDM program had improved survival compared with patients receiving traditional outpatient care at the same institution. Inclusion criteria consisted of an index hospitalization with discharge occurring between July 1, 1997, and May 30, 2002, hospital discharge diagnosis of HF, left ventricular systolic dysfunction documented during hospitalization, and at least 1 subsequent outpatient visit. Data from patients having participated in the HFDM program before their index hospitalization were excluded.
+Results
+
+Compared with patients who were given traditional care (n = 100), HFDM patients (n = 156) were younger (56.7 vs 60 years, P = .031), more likely to be African American (48.7% vs 33.0%, P = .014), more likely to be uninsured (47.4% vs 27%, P = .001), and more likely to have an ejection fraction of ≤25% (73.1% vs 36%, P < .001). Overall comorbidity did not differ significantly between the groups. After controlling for differences in demographics, ejection fraction, and comorbidities, participation in the HFDM program was associated with a significant reduction in mortality compared with traditional care (adjusted hazard ratio .33, P < .001).
+Conclusion
+
+In this indigent population, participation in an HFDM program was associated with decreased mortality compared with traditional follow-up care.

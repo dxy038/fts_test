@@ -1,0 +1,9 @@
+Background and purpose
+The objective of this study was to develop the stroke risk prediction model among Korean population with high risk of stroke.
+Methods
+The data in this prospective cohort study came from 47,233 stroke events occurring over 13 years among 1,223,740 Koreans, aged 30–84 years, who were insured by the National Health Insurance Corporation (NHIC) and take a biennial medical examination from 1992 to 1995. The Cox proportional Hazard Model was used to develop the Korean Stroke Risk Prediction (KSRP) model for each sex. Also, the split-half method was applied for developing a model with the first half and for testing with the rest.
+Results
+The average 10-year risk for stroke was 3.52% for men and 3.66% for women. In general, actual stroke event rates were similar to the event rates predicted by the KSRP model. The discrimination using the KSRP model in the Korean cohort was high: the area under the receiver operating characteristic curve was 0.8165 [95% confidence interval (CI), 0.7993–0.8337] for men and 0.8095 (0.7875–0.8315) for women. A graded association between predicted stroke risk and actual stroke event was observed in men [highest versus lowest deciles of the predicted risk (hazard ratio (HR) 63.17; 95% confidence interval (CI), 52.30–76.31)] and in women (HR, 120.34; 95% CI, 85.31–169.77).
+Conclusions
+The KSRP model could be used to predict the risk of stroke and would provide a useful guide to identify the groups at high risk for stroke among Korean.
+

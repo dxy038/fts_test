@@ -1,0 +1,9 @@
+One major hurdle in developing an e cient wavelet-based numerical method is the di culty in the
+treatment of general boundaries bounding two- or three-dimensional domains. The objective of this
+investigation is to develop an adaptive multiscale wavelet-based numerical method which can handle
+general boundary conditions along curved boundaries. The multiscale analysis is achieved in a multiresolution
+setting by employing hat interpolation wavelets in the frame of a  ctitious domain method.
+No penalty term or the Lagrange multiplier need to be used in the present formulation. The validity
+of the proposed method and the e ectiveness of the multiscale adaptive scheme are demonstrated by
+numerical examples dealing with the Dirichlet and Neumann boundary-value problems in quadrilateral
+and quarter circular domains

@@ -1,0 +1,11 @@
+Objective
+Neural complexity (CN) was introduced by Tononi et al. in an information-theoretic framework to capture the balance between functional specialisation and integration in the brain. We hypothesised that CN should vary during cognitive processing, specifically during an oddball task.
+Methods
+In 11 normal human subjects, we recorded from groups of EEG electrodes in the frontal (F), central-parietal (CP) and occipito-temporal (OT) regions during a visual oddball reward conditioning task and calculated CN in each region. Three types of visual stimulus (abstract shapes, called neutral, reward and penalty) were presented randomly in three blocks of trials. During the first block, subjects did not know the significance of the stimulus shapes. For the subsequent (conditioning) blocks, subjects were informed that whenever they saw reward or penalty patterns, they would win or lose money, respectively.
+Results
+In regions CP and OT, CN was significantly larger in reward and penalty trials than in neutral during all blocks. During a trial, significant changes in CN occurred around the ERP peaks N1 and P300 and the effects of reward conditioning on CN could be distinguished from penalty.
+Conclusions
+Our findings support the above hypothesis, indicating that CN correlates with both the sensory and cognitive components of stimulus processing.
+Significance
+This study extends the scope of CN in the analysis of cognitive processing.
+

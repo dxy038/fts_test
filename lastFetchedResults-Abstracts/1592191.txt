@@ -1,0 +1,19 @@
+Objective: Th17 cells are known to be involved in some types of inflammations and
+autoimmune disorders. RORC2 is the key transcription factor coordinating Th17 cell
+differentiation. Thus, blocking RORC2 may be useful in suppressing Th17-dependent
+inflammatory processes. The aim was to silence RORC2 by specific siRNAs in naïve
+T cells differentiating to Th17. Time-dependent expression of RORC2 as well as IL-17
+and IL-23R were considered before and after RORC2 silencing.
+Materials and Methods: In this experimental study, naïve CD4+ T cells were isolated from
+human cord blood samples. Cytokines TGFB plus IL-6 and IL-23 were used to polarize the naïve
+T cells to Th17 cells in X-VIVO 15 serum free medium. A mixture of three siRNAs specific
+for RORC2 was applied for blocking its expression. RORC2, IL-17 and IL-23R mRNA and protein
+levels were measured using qRT-PCR, ELISA and flow cytometry techniques. Pearson
+correlation and one-way ANOVA were used for statistical analyses.
+Results: Significant correlations were obtained in time-dependent analysis of IL-17 and
+IL-23R expression in relation with RORC2 (R=0.87 and 0.89 respectively, p < 0.05). Silencing
+of RORC2 was accompanied with almost complete suppression of IL-17 (99.3%;
+p < 0.05) and significant decrease in IL-23R gene expression (77.2%, p < 0.05).
+Conclusion: Our results showed that RORC2 is the main and the primary trigger for upregulation
+of IL-17 and IL-23R genes in human Th17 cell differentiation. Moreover, we
+show that day 3 could be considered as the key day in the Th17 differentiation process.

@@ -1,0 +1,9 @@
+Background
+Chromogranin A is widely distributed throughout the neuroendocrine system and may, because of its long in vivo and in vitro half-life, be an attractive candidate for assessment of overall neuroendocrine activity. Recently, increased plasma levels of chromogranin A have been found in patients with chronic heart failure and related to the severity of symptoms and prognosis. The objective of the current study was to assess the prognostic value of chromogranin A levels after complicated myocardial infarction.
+Methods
+We assessed the association between plasma chromogranin A levels obtained in the hospitalization phase and time to hospitalization for heart failure or death in 217 patients with complicated myocardial infarction included in the OPTIMAAL trial.
+Results
+During a median follow-up time of 1017 days, there were 44 first events (30 deaths and 14 hospitalizations for congestive heart failure). Logarithmically transformed chromogranin A (P < .001) and N-terminal pro–B-type natriuretic peptide (P = .001), patient age (P < .001), estimated creatinine clearance (P < .001), a history of myocardial infarction or angina (P = .001), and diabetes mellitus (P = .011), using univariable Cox proportional hazards regression, were significantly associated with outcome, whereas sex, randomization status, history of hypertension, C-reactive protein, and the presence of inhospital heart failure were not. In a multivariable model, logarithmically transformed chromogranin A (P = .002), patient age (P < .0001), history of diabetes (P = .004), and male sex (P = .021) were independently predictive of outcome.
+Conclusion
+Chromogranin A is a strong and independent prognostic indicator in patients with complicated myocardial infarction.
+

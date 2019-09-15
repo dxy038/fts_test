@@ -1,0 +1,9 @@
+In the reports in the literature on inventory control, the effects of the random capacity on an order quantity
+and reorder point inventory control model have been integrated with lead time demand following
+general distribution. An iterative solution procedure has been proposed for obtaining the optimal solution.
+However, the resulting solution may not exist or it may not guarantee to give a minimum to the
+objective cost function, the expected cost per unit time. The aim of this study was to introduce a complete
+solution of the order quantity/reorder point problem, optimality, properties and bounds on the optimal
+order quantity and reorder point. The two most appealing distributions of lead time demand, normal and
+uniform distributions, in conjunction with an exponentially distributed capacity, are used to illustrate our
+findings in determining the optimal order quantity and reorder point.

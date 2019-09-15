@@ -1,0 +1,11 @@
+Objective.  To investigate how much information a vibrational technique can reveal regarding the loosening of the femoral component of a total hip arthroplasty.
+
+Design. Numerical modal analysis using finite element method and computer simulation.
+
+Background. Existing work suggested that this technique is capable of revealing total hip arthroplasty loosening. However, the potentials of this technique are not fully studied yet. There is a need to establish the limitation of this technique.
+
+Methods. Numerical modal analysis was conducted to obtain the natural frequencies and mode shapes of femoral models under free vibration. An absent interface portion was hypothesized at specified locations the data from modal analysis were then used in a computer simulation to visualize the vibration diagnosis.
+
+Results. The effects of interface failure on the femoral component stiffness vary with the locations and sizes of failure. Nominal critical, reliable, and nondetectable levels of interface failure are found.
+
+Conclusion. When the size of failure is more than one-third of the stem length, this tool is able to provide a reliable diagnosis. The critical detectable interface failure size is one-fifth of the stem length. It was found that the motion at higher harmonics is the most sensitive to the interface failure. This tool is unlikely to differentiate the slight differences in natural frequencies that occur when the interface failure length is less than one-sixth of the stem length. It is likely to fail in detecting failures located at the stem central portion regardless of their length.

@@ -1,0 +1,1 @@
+The objective of this paper is to present a straightforward approach to modeling transformers operating in saturation. The approach uses standard magnetic analysis and proceeds in a clear manner to create a nonlinear model. The resulting model can be used for simulation and educational purposes

@@ -1,0 +1,14 @@
+Background
+The relationship between temperature and mortality has been explored for decades and many temperature indicators have been applied separately. However, few data are available to show how the effects of different temperature indicators on different mortality categories, particularly in a typical subtropical climate.
+Objective
+
+To assess the associations between various temperature indicators and different mortality categories in Brisbane, Australia during 1996–2004.
+Methods
+
+We applied two methods to assess the threshold and temperature indicator for each age and death groups: mean temperature and the threshold assessed from all cause mortality was used for all mortality categories; the specific temperature indicator and the threshold for each mortality category were identified separately according to the minimisation of AIC. We conducted polynomial distributed lag non-linear model to identify effect estimates in mortality with one degree of temperature increase (or decrease) above (or below) the threshold on current days and lagged effects using both methods.
+Results
+
+Akaike's Information Criterion was minimized when mean temperature was used for all non-external deaths and deaths from 75 to 84 years; when minimum temperature was used for deaths from 0 to 64 years, 65–74 years, ≥ 85 years, and from the respiratory diseases; when maximum temperature was used for deaths from cardiovascular diseases. The effect estimates using certain temperature indicators were similar as mean temperature both for current day and lag effects.
+Conclusion
+
+Different age groups and death categories were sensitive to different temperature indicators. However, the effect estimates from certain temperature indicators did not significantly differ from those of mean temperature.

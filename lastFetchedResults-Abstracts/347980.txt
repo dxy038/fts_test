@@ -1,0 +1,9 @@
+Objective
+To test whether the after effects of 5 Hz focal rTMS over the primary motor cortex are modulated by the state of muscle contraction when the rTMS is applied.
+Methods
+Ten healthy volunteers gave informed consent to the studies. Fifty stimuli at active motor threshold intensity were applied at 5 Hz to the forearm motor area during 10% MVC isometric wrist flexion, 10% MVC wrist extension and at rest. Short interval intracortical inhibition (SICI: interstimulus intervals of 2–5 ms) and intracortical facilitation (interstimulus intervals of 7 and 10 ms) were recorded at rest before and after rTMS from flexor carpi radialis (FCR) and extensor carpi radialis (ECR) muscles with surface electrodes.
+Results
+rTMS during wrist flexion decreased SICI in the FCR whereas SICI was increased if rTMS was given during wrist extension. The opposite was true in ECR: SICI was increased if rTMS was applied during wrist flexion, whereas it was reduced if rTMS was given during wrist extension. rTMS applied at rest produced a small overall decrease of SICI in FCR and ECR but this was not individually significant in the FCR. The 10 s wrist flexion without any rTMS did not have any effect on SICI.
+Conclusions
+The after effects of motor cortex rTMS can be selectively modulated by the pattern of muscle contraction.
+

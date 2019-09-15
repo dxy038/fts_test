@@ -1,0 +1,11 @@
+Objective
+Interleukin 15 (IL)-15 controls proliferation and survival of T cells, but its effects and the underlying cellular regulation are not well understood. Previous studies have focused on its effects on short-term T-cell cultures. In view of the potential problems associated with using IL-2 alone in adoptive immunotherapy protocols, we investigated the impact of IL-15 on T-cell cultures and the global transcriptional effects it elicits in such cultures.
+Materials and Methods
+
+DNA microarrays and flow cytometry were used to examine the differential effect of 20 ng/mL IL-15 on primary serum-free T-cell cultures activated and cultured in the presence of IL-2. Quantitative reverse transcriptase polymerase chain reaction confirmed select microarray data.
+Results
+
+IL-15 significantly increased ex vivo expansion of primary human T cells over the entire 11-day expansions without affecting viability. The 1133 genes were consistently differentially expressed among three donor samples. Ontological analysis demonstrated that IL-15 increases expression of genes involved in inflammatory response (e.g., tumor necrosis factor [TNF]-α, Oncostatin M, CD40L, and CD33) and apoptosis (e.g., TNF-related apoptosis-inducing ligand). IL-15 also induced expression of four suppressors of cytokine signaling (SOCS) family genes (SOCS1–3, cytokine-inducible SH2-containing protein), which are classical negative regulators of cytokine signaling. IL-15 strongly suppressed the expression of inhibitory natural killer cell receptor genes, including three C-type lectins (KLRB1, KLRC1, and KLRD1), as well as IL-7Ra and Granzyme H. Finally, IL-15 induced differential expression of TNF receptor superfamily members (CD27 and CD30).
+Conclusion
+
+These findings suggest that exogenous IL-15 may have a potential role in adoptive immunotherapy by both enhancing proliferation and modulating functionality during ex vivo T-cell expansion.

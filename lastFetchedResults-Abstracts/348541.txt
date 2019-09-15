@@ -1,0 +1,11 @@
+Objective
+The description and evaluation of the performance of a new real-time seizure detection algorithm in the newborn infant.
+Methods
+The algorithm includes parallel fragmentation of EEG signal into waves; wave-feature extraction and averaging; elementary, preliminary and final detection. The algorithm detects EEG waves with heightened regularity, using wave intervals, amplitudes and shapes. The performance of the algorithm was assessed with the use of event-based and liberal and conservative time-based approaches and compared with the performance of Gotman's and Liu's algorithms.
+Results
+The algorithm was assessed on multi-channel EEG records of 55 neonates including 17 with seizures. The algorithm showed sensitivities ranging 83–95% with positive predictive values (PPV) 48–77%. There were 2.0 false positive detections per hour. In comparison, Gotman's algorithm (with 30 s gap-closing procedure) displayed sensitivities of 45–88% and PPV 29–56%; with 7.4 false positives per hour and Liu's algorithm displayed sensitivities of 96–99%, and PPV 10–25%; with 15.7 false positives per hour.
+Conclusions
+The wave-sequence analysis based algorithm displayed higher sensitivity, higher PPV and a substantially lower level of false positives than two previously published algorithms.
+Significance
+The proposed algorithm provides a basis for major improvements in neonatal seizure detection and monitoring.
+

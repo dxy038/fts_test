@@ -1,0 +1,7 @@
+
+Abstract
+The purpose of project risk management is to improve project performance by systematically identifying and assessing risks, developing strategies to reduce or avoid them and maximizing opportunities. The literature review depicts that there is still a significant gap in the field of risk response assessment and selection. The relevant studies mainly comprise of conceptual models that capture effects of uncertainty on projects and strategies to reduce the level of risk. In order to overcome these drawbacks, this paper proposed a practical framework that integrates the project work breakdown structure, risk events, risk abatement actions, secondary risks and their effect. The problem is modeled as a multi- objective optimization problem. We use a fuzzy prioritization approach for calculating the coefficients of the objective function. We develop exact and heuristic methods for the proposed model. Furthermore, a case study in Iranian power plant projects is presented to show applicability and performance of the proposed model. The results show considerable time, cost and quality improvement. 
+
+Keywords: Project Risk Management, Risk Response, Multi-Objective Optimization Models, Fuzzy Prioritization Approach, Fuzzy Analytic Hierarchy Process, Power Plant Projects. 
+
+

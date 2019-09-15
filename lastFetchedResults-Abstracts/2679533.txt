@@ -1,0 +1,20 @@
+This paper proposes a new integrative view of manufacturing cell formation and both inter-cell
+and intra-cell layout problems. Cells formation and their popular bi-directional linear layout are
+determined simultaneously through a Dynamic Programming algorithm (with the objective of
+minimizing the inter-cell flow cost under a cell size constraint). This Dynamic Programming
+algorithm is implemented in a Simulated Annealing approach with Genetic operators to reach
+near optimal solutions. Moreover, within this approach and by using an Ant Colony
+Optimization technique, we also solve the intra-cell layout problem, i.e., we also determine how
+to lay out machines within relative cells. In contrast with most of the available approaches in
+the literature, we consider: (1) An integrated objective function to minimize overall inter-cell
+and intra-cell flow costs instead of merely minimizing the number of inter-cell
+movements/costs. (2) The integrative and simultaneous determination of cell formation and
+their layout instead of using sequential approaches. (3) All three phases of cell formation, intercell
+and intra-cell layout design problems, which are all important for overall performance of
+the system, and (4) An easy to code and solve integrated procedure through implementing
+metaheuristic approaches. Our computational results show that by incorporating intra-cell
+decisions in cell formation and inter-cell design process through implementing our proposed
+integrated approach, a manufacturer can largely reduce her total material flow cost. Particularly,
+our computational tests show good quality solutions in comparison with the most similar
+available approach in the literature with an average improvement of 24.97% in total flow cost
+for a set of randomly generated test problems.

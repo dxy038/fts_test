@@ -1,0 +1,12 @@
+Abstract — This paper uses a hybrid PSO-GA for solving the
+combined economic and emission dispatch problems with
+real and reactive power constraints. The objective of
+Economic Load Dispatch is to minimize the overall cost of
+generation with required constraints. This paper
+concentrates on both the total production cost and total
+emission taken into account with satisfying constraints.
+Hybrid PSO-GA algorithm combines the advantage of PSO
+and GA. PSO algorithm can be used during the first stage of
+solving the optimization problem near the global optima. The
+last particle of the PSO is taken as the initial population of
+GA and it continues to further refine the optimized solution.

@@ -1,0 +1,1 @@
+In this letter, we demonstrate a proof of concept fully loaded bidirectional ultrahigh capacity coherent passive optical network (2 &#215; 1008 &#215; 8.3 Gb/s). This was achieved using partial spectrum overlap, Nyquist shaping, digital frequency shifting, self-homodyne detection, and pilot tone remodulation. Upstream burst mode operation is also demonstrated.

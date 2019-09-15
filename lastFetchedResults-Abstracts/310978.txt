@@ -1,0 +1,9 @@
+Objective. To describe patterns of muscle activation during gait in selected abdominal and lumbar muscles using cluster analysis.
+
+Participants. A sample of convenience of 38 healthy adult volunteers.
+
+Outcome measures. Electromyographic activity from the right internal and external obliques, rectus abdominis and lumbar erector spinae were recorded, and the root mean square values for each muscle were calculated throughout the stride in 5% epochs. These values were normalised to maximum effort isometric muscle contractions. Cluster analysis was used to identify groups of subjects with similar patterns of activity and activation levels.
+
+Results. Cluster analysis identified two patterns of activity for the internal oblique, external oblique and rectus abdominis muscles. In the lumbar erector spinae, three patterns of activity were observed. In most instances, the patterns observed for each muscle differed in the magnitude of the activation levels. In rectus abdominis and external oblique muscles, the majority of subjects had low levels of activity (<5.0% of a maximum voluntary contraction) that were relatively constant throughout the stride cycle. In the internal oblique and the erector spinae muscles, more distinct bursts of activity were observed, most often close to foot-strike. The different algorithms used for the cluster analysis yielded similar results and a discriminant function analysis provided further evidence to support the patterns observed.
+
+Conclusions. Cluster analysis was useful in grouping subjects who had similar patterns of muscle activity. It provided evidence that there were subgroups that might otherwise not be observed if a group ensemble was presented as the ‘norm' for any particular muscle's role during gait.

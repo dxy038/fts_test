@@ -1,0 +1,8 @@
+The main objective of this paper is to find the necessary and sufficient condition of a given Finsler
+metric to be Einstein in order to classify the Einstein Finsler metrics on a compact manifold. The considered
+Einstein Finsler metric in the study describes all different kinds of Einstein metrics which are pointwise
+projective to the given one. This study has resulted in the following theorem that needs the proof of three
+prepositions. Let F be a Finsler metric (n >2) projectively related to an Einstein non-projectively flat
+Finsler metric F , then F is Einstein if and only if F = lambda F where lambda is a constant. A Schur type lemma is
+also proved.
+

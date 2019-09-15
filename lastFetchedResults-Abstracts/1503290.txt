@@ -1,0 +1,8 @@
+In this paper, an efficient multi-objective model is proposed to solve time-cost trade off
+problem considering cash flows. The proposed multi-objective meta-heuristic is based on
+Ant colony optimization and is called Non Dominated Archiving Ant Colony Optimization
+(NAACO). The significant feature of this work is consideration of uncertainties in time, cost
+and more importantly interest rate. A fuzzy approach is adopted to account for uncertainties.
+Mathematics of cash-flow analysis in a fuzzy environment is described. A case study is done
+using the proposed approach and the decision maker’s options to handle the uncertainties are
+investigated and discussed.

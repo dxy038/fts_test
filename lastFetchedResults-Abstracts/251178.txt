@@ -1,0 +1,13 @@
+This paper presents a computational homogenization scheme that is of particular interest for problems
+formulated in curvilinear coordinates. The main goal of this contribution is to generalize the computational
+homogenization scheme to a formulation of micro–macro transitions in curvilinear convective coordinates,
+where different physical spaces are considered at the homogenized macro-continuum and at the locally
+attached representative micro-structures. The deformation and the coordinate system of the micro-structure
+are assumed to be coupled with the local deformation and the local coordinate system at a corresponding
+point of the macro-continuum. For the consistent formulation of micro–macro transitions, the operations
+scale-up and scale-down are introduced, considering the rotated representation of tensor variables at the
+different physical reference frames of micro- and macro-structure. The second goal of this paper is to
+use objective strain measures like the Green–Lagrange strain tensor for the solution of boundary value
+problems on the micro- and macro-scale by providing the required transformations for the work-conjugate
+stress, strain and tangent tensors into variables admissible for the considered micro–macro transitions and
+satisfying the averaging theorem. Copyright q 2007 John Wiley & Sons, Ltd

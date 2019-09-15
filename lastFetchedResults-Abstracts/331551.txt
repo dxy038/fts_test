@@ -1,0 +1,11 @@
+Objective
+This study tested the hypothesis that the stress distribution and bond strength of glass posts to intraradicular dentin is influenced by the mechanical testing methodology.
+Methods
+
+Thirty single rooted endodontically treated teeth were prepared for luting of tapered fiber-glass posts (Reforpost, Angelus, Londrina, PR, Brazil) with a conventional adhesive system and resin luting cement (Adper Scotchbond Multi-purpose, Rely X ARC, 3M ESPE, St. Paul, MN, USA). The teeth were randomly divided (n = 10 per group) into micro-push-out (Mpo), hourglass- (Mh) and rectangular stick-shaped (Ms) microtensile testing groups before sectioning each root into five 1-mm-thick specimens. During specimen preparation for μTBS testing 46/50 stick and 4/50 hourglass specimens prematurely failed; therefore, the Ms group could not be included in the mechanical testing. The remaining specimens were tested at 0.5 mm/min until bond failure. Stress distribution within each specimen type for the three mechanical test methods was analyzed by finite element analysis (FEA). Qualitative analyses were carried out through Von Mises, XY and Sy criterion.
+Results
+
+Mpo and Mh had a mean μTBS of 11.89 ± 6.55 and 14.98 ± 12.72 MPa, respectively, which was not significantly different (p = 0.1311). The push-out test demonstrated a more homogenous stress distribution by FEA and less variability in mechanical testing.
+Significance
+
+Therefore, the recommended testing method for determining the bond strength of glass posts to intraradicular dentin is by Mpo.

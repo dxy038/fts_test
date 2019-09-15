@@ -1,0 +1,23 @@
+In livestock populations, missing genotypes on a large proportion of the animals is a major problem when implementing geneassisted
+breeding value estimation for genes with known effect. The objective of this study was to compare different methods
+to deal with missing genotypes on accuracy of gene-assisted breeding value estimation for identified bi-allelic genes using
+Monte Carlo simulation. A nested full-sib half-sib structure was simulated with a mixed inheritance model with one bi-allelic
+quantitative trait loci (QTL) and a polygenic effect due to infinite number of polygenes. The effect of the QTL was included in
+gene-assisted BLUP either by random regression on predicted gene content, i.e. the number of positive alleles, or including
+haplotype effects in the model with an inverse IBD matrix to account for identity-by-descent relationships between haplotypes
+using linkage analysis information (IBD–LA). The inverse IBD matrix was constructed using segregation indicator probabilities
+obtained from multiple marker iterative peeling. Gene contents for unknown genotypes were predicted using either multiple
+marker iterative peeling or mixed model methodology. For both methods, gene-assisted breeding value estimation increased
+accuracies of total estimated breeding value (EBV) with 0% to 22% for genotyped animals in comparison to conventional
+breeding value estimation. For animals that were not genotyped, the increase in accuracy was much lower (0% to 5%), but
+still substantial when the heritability was 0.1 and when the QTL explained at least 15% of the genetic variance. Regression
+on predicted gene content yielded higher accuracies than IBD–LA. Allele substitution effects were, however, overestimated,
+especially when only sires and males in the last generation were genotyped. For juveniles without phenotypic records and traits
+measured only on females, the superiority of regression on gene content over IBD–LA was larger than when all animals had
+phenotypes. Missing gene contents were predicted with higher accuracy using multiple-marker iterative peeling than with using
+mixed model methodology, but the difference in accuracy of total EBV was negligible and mixed model methodology was
+computationally much faster than multiple iterative peeling. For large livestock populations it can be concluded that gene-assisted
+breeding value estimation can be practically best performed by regression on gene contents, using mixed model methodology to
+predict missing marker genotypes, combining phenotypic information of genotyped and ungenotyped animals in one evaluation.
+This technique would be, in principle, also feasible for genomic selection. It is expected that genomic selection for ungenotyped
+animals using predicted single nucleotide polymorphism gene contents might be beneficial especially for low heritable traits.

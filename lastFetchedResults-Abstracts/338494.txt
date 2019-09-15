@@ -1,0 +1,11 @@
+Objective
+Interleukin-3 (IL-3) and stem cell factor (SCF) are able to promote survival and proliferation of mast cells. However, the precise signal transduction cascades leading to mast cell proliferation are not clearly understood. Thus, we sought to define the mechanism of mast cell proliferation induced by IL-3 and SCF.
+Materials and Methods
+
+We treated murine bone marrow–derived cultured mast cells (BMCMC) with recombinant IL-3 (rIL-3) or recombinant SCF (rSCF) and examined the effects of rIL-3 and rSCF on cell cycle regulatory factors.
+Results
+
+Both rIL-3 and rSCF suppressed apoptosis of BMCMC. rSCF induced great proliferation of BMCMC with elevation of the proportions of cells in S and G2/M phases, whereas most BMCMC incubated with rIL-3 were arrested in the G1 phase. The G1/S phase transition is initiated by phosphorylated retinoblastoma protein (pRb), which was prominent in cells stimulated with rSCF. In contrast, rIL-3 relatively increased a dephosphorylated form of pRb in BMCMC. Compared with rIL-3, rSCF induced greater expression of cyclin-dependent kinase (CDK) 2 and CDK4, which are able to phosphorylate pRb, and cyclin D3, a partner of CDK4. BMCMC treated with rIL-3 contained a high amount of a CDK inhibitor p27Kip1 that was suppressed by pretreatment with Ro31-7549, a protein kinase C inhibitor, whereas rSCF induced weak expression of p27Kip1 in BMCMC.
+Conclusion
+
+The results suggest that IL-3 and SCF exert their respective mitogenic effects on mast cells by modulating the expression of pRb, CDK, cyclin, and p27Kip1.

@@ -1,0 +1,11 @@
+Objective
+Imatinib mesylate is a novel tyrosine kinase inhibitor used for the treatment of Philadelphia chromosome positive (Ph+) leukemia and other malignancies. In previous studies, we found significant telomere shortening in Ph+ cells from patients with chronic myeloid leukemia (CML). Interestingly, imatinib treatment was found to lead to a normalization of previously shortened telomere length in CML patients. Based on recent reports demonstrating that c-ABL phosphorylates hTERT and thereby inhibits hTERT activity, a direct effect of imatinib on hTERT activity leading to telomere elongation in BCR-ABL-positive cells has been proposed by others. Such an effect could be of potential importance for telomere maintenance in Ph+ cells by facilitating clonal selection and progression of the disease to blast crisis.
+Methods
+
+We investigated the impact of imatinib on telomere length and telomerase activity of the interleukin-3 (IL-3)-dependent murine pro-B cell line BaF3 and the BCR-ABL-positive, IL-3-independent transfectant BaF3p185 in vitro.
+Results
+
+When BaF3 and BaF3p185 cells were treated with imatinib (the latter being rescued with IL-3), no effect on either telomerase activity or telomere length was observed. These findings can be explained by the cytoplasmatic localization of BCR-ABL found in BaF3p185 as compared to the nuclear localization of telomerase (and c-ABL).
+Conclusion
+
+As opposed to recent reports for c-ABL, we do not see evidence for a functional interaction between BCR-ABL and hTERT in this model system arguing against imatinib-mediated upregulation of hTERT as a crucial factor for clonal selection and disease progression of CML.

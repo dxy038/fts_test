@@ -1,0 +1,11 @@
+Objective
+This work intends to evaluate the functional characteristics of the cerebral network during the successful memory encoding of TV commercials.
+Methods
+We estimated the functional networks in the frequency domain from a set of high-resolution EEG data in a group of healthy subjects during the showing of commercial spots within a neutral documentary. We evaluated the differences in the cortical network associated with later remembered and not-remembered commercials by calculating the global-Eg and local-efficiency El indexes.
+Results
+Successful encoding of TV spots significantly affects the functional communication among cortical areas irrespectively of the frequency band. During the visualization of the video-clips that will be forgotten (FRG), the cortical network exhibited high values of global- and local-efficiency, reflecting a small-world configuration. During the visualization of the video-clips that will be remembered (RMB), the same indexes appeared significantly lower. This difference was especially evident for El in the alpha band and for Eg in the beta and gamma bands.
+Conclusions
+The presence of attentional and semantic processes during the RMB condition leads to a significant reduction of the network communication efficiency.
+Significance
+Such a reduction could represent a predictive measure of accurate recalls of TV spots.
+

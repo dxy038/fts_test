@@ -1,0 +1,14 @@
+Background
+A number of studies have examined the relationship between high ambient temperature and mortality. Recently, concern has arisen about whether this relationship is modified by socio-demographic factors. However, data for this type of study is relatively scarce in subtropical/tropical regions where people are well accustomed to warm temperatures.
+Objective
+
+To investigate whether the relationship between daily mean temperature and daily all-cause mortality is modified by age, gender and socio-economic status (SES) in Brisbane, Australia.
+Methods
+
+We obtained daily mean temperature and all-cause mortality data for Brisbane, Australia during 1996–2004. A generalised additive model was fitted to assess the percentage increase in all deaths with every one degree increment above the threshold temperature. Different age, gender and SES groups were included in the model as categorical variables and their modification effects were estimated separately.
+Results
+
+A total of 53,316 non-external deaths were included during the study period. There was a clear increasing trend in the harmful effect of high temperature on mortality with age. The effect estimate among women was more than 20 times that among men. We did not find an SES effect on the percent increase associated with temperature.
+Conclusions
+
+The effects of high temperature on all deaths were modified by age and gender but not by SES in Brisbane, Australia.

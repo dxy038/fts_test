@@ -1,0 +1,19 @@
+Objectives: Diagnosis of the psychiatric diseases is a bit challenging at the first interview due to this fact that
+qualitative criteria are not as accurate as quantitative ones. Here, the objective is to classify schizophrenic patients from
+the healthy subject using a quantitative index elicited from their electroencephalogram (EEG) signals.
+Methods: Ten right handed male patients with schizophrenia who had just auditory hallucination and did not have any
+other psychotic features and ten age-matched right handed normal male control participants participated in this study.
+The patients used haloperidol to minimize the drug-related affection on their EEG signals. Electrophysiological data
+were recorded using a Neuroscan 24 Channel Synamps system, with a signal gain equal to 75K (150 xs at the headbox).
+According to the observable anatomical differences in the brain of schizophrenic patients from controls, several
+discriminative features including AR coefficients, band power, fractal dimension, and approximation entropy (ApEn)
+were chosen to extract quantitative values from the EEG signals.
+Results: The extracted features were applied to support vector machine (SVM) classifier that produced 88.40%
+accuracy for distinguishing the two groups. Incidentally, ApEn produces more discriminative information compare to
+the other features.
+Conclusion: This research presents a reliable quantitative approach to distinguish the control subjects from the
+schizophrenic patients. Moreover, other representative features are implemented but ApEn produces higher
+performance due to complex and irregular nature of EEG signals.
+Declaration of interest: None.
+Citation: Taghavi M, Boostani R, Sabeti M, TaghaviSMA. Usefulness of approximate entropy in the diagnosis of
+schizophrenia. Iran J Psychiatry Behav Sci 2011; 5(2): 62-70.

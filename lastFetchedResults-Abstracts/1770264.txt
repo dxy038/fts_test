@@ -1,0 +1,10 @@
+An important factor in the design and implementation of structural control strategies is the number and placement of 
+actuators. By employing optimally-located actuators, the effectiveness of control system increases, while with an optimal 
+number of actuators, an acceptable level of performance can be achieved with fewer actuators. The method proposed in this 
+paper, simultaneously determines the number and location of actuators, installed in a building, in an optimal sense. In 
+particular, a genetic algorithm which minimizes a suitably defined structural damage index is introduced and applied to a 
+well-known nonlinear model of a 20-story benchmark building. It is shown in the paper that an equal damage protection, 
+compared to the work of other researchers, can be achieved with fewer numbers of optimally placed actuators. This result can 
+be important from economic point of view. However, the attempt to minimize one performance index has negative effect on the 
+others. To cope with this problem to some extent, the proposed genetic methodology has been modified to be applied in a 
+multi-objective optimization problem. 

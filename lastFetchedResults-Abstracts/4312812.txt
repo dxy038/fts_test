@@ -1,0 +1,1 @@
+The objective of this paper is to show that for every color space there exists an optimum skin detector scheme such that the performance of all these skin detectors schemes is the same. To that end, a theoretical proof is provided and experiments are presented which show that the separability of the skin and no skin classes is independent of the color space chosen

@@ -1,0 +1,11 @@
+Objective
+Automatic seizure detection obtains valuable information concerning duration and timing of seizures. Commonly used methods for EEG seizure detection in adults are inadequate for the same task in neonates because they lack the specific age-dependant characteristics of normal and pathological EEG. This paper presents an automatic seizure detection system for newborn with focus on feature selection via relevance and redundancy analysis.
+Methods
+Two linear correlation-based feature selection methods and the ReliefF method were applied to parameterized EEG data acquired from six neonates aged between 39 and 42 weeks. To evaluate the effectiveness of these methods, features extracted from seizure and non-seizure segments were ranked by these methods. The optimized ranked feature subsets were fed into a backpropagation neural network for classifying. Its performance was used as indicator for the feature selection effectiveness.
+Results
+Results showed an average seizure detection rate of 91%, an average non-seizure detection rate of 95%, an average false rejection rate of 95% and an overall average detection rate of 93% with a false seizure detection rate of 1.17/h.
+Conclusions
+This good performance in detecting newborn ictal activities has been achieved based on an optimized subset of 30 features determined by the ReliefF-based detector, which corresponds to a reduction of the number of features of up to 75%.
+Significance
+The presented approach takes into account specific characteristics of normal and pathological EEG. Thus, it can improve the accuracy of conventional seizure detection systems in newborn.
+

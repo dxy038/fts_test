@@ -1,0 +1,17 @@
+Generation control is an important objective of
+power system operation. In modern power system, the
+traditional automatic generation control (AGC) is modified
+by incorporating the effect of bilateral contracts. This paper
+investigates application of chaotic particle swarm
+optimization (CPSO) for optimized operation of restructured
+AGC system. To obtain optimum gains of controllers,
+application of adaptive inertia weight factor and constriction
+factors is proposed to improve performance of particle swarm
+optimization (PSO) algorithm. It is also observed that chaos
+mapping using logistic map sequence increases convergence
+rate of traditional PSO algorithm. The hybrid method
+presented in this paper gives global optimum gains of
+controller with significant improvement in convergence rate
+over basic PSO algorithm. The effectiveness and efficiency of
+the proposed algorithm have been tested on two area
+restructure system

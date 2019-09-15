@@ -1,0 +1,8 @@
+Background and Objective: Cardiovascular disease is the most common cause of death in developed countries and in the whole world, and according to the World Health Organization prediction, will be the major cause of morbidity throughout the world in 2020. According to the recent World Health Organization report from each 20 deaths, one is due to diabetes. Heart disease and heart attack are the most important complications of diabetes. In this study, data mining algorithms were used to predict the risk of heart attack in diabetic patients with acceptable accuracy and identify the factors that affect the incidence of heart attack.
+
+Materials and Methods: The study was performed retrospectively on 856 patients in 2009 from Gorgan diabetic center. Clinical data of patients using data mining methods were analyzed in the SPSS software. To identify the influencing factors on incidence heart attack, classification data mining algorithms were used.
+
+Results: A model with 94 percent accuracy is identified using the C&R decision tree algorithm. According to the C&R Tree hypertension, index BMI, systolic and diastolic blood pressure, LDL, daily activity level and age are identified as the most important factors of heart disease in diabetic patients
+
+Conclusion: With the use of Created rules and identifying effective features and controlling effective factors on diabetic patients, the mortality rate of this complication was somewhat reduced. 
+

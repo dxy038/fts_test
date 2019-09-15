@@ -1,0 +1,16 @@
+In today’s competitive environment, agility and leanness have become two crucial strategic concerns for
+many manufacturing firms in their efforts to broaden market share. Recently, the build-to-order (BTO)
+manufacturing strategy is becoming a popular operation strategy to achieve both in a mass-scale customization
+process. BTO system combines the characteristics of make-to-order strategy with a forecast driven
+make-to-stock strategy. As a means to improve customer responsiveness, customized products are
+assembled according to specific orders while standard components are pre-manufactured based on
+short-term forecasts. Planning of the two subsystems using a two-phase sequential approach offers both
+operational and modeling incentives. In this paper, we formulate a two-phase mixed integer linear programming
+(MILP) model for material procurement, components fabrication, product assembly and distribution
+scheduling of a BTO supply chain system. In the proposed approach, the entire problem is first
+decomposed into two subsystems and evaluated sequentially. The first phase deals with assembling
+and distribution scheduling of customizable products, while the second phase addresses fabrication
+and procurement planning of components and raw-materials. The objective of both models is to minimize
+the aggregate costs associated with each subsystem, while meeting customer service requirements.
+The search space for the first phase problem involves a complex landscape with too many candidate solutions.
+A genetic algorithm based solution procedure is proposed to solve the sub-problem efficiently.

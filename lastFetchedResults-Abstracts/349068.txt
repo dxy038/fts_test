@@ -1,0 +1,11 @@
+Objective
+Interictal spikes in intracranial EEG (iEEG) may correlate with epileptogenic cortex, but review of interictal iEEG is labor intensive. Accurate automated spike detectors are necessary for understanding the role of spikes in epileptogenesis.
+Methods
+The sensitivity, accuracy and reproducibility of three automated iEEG spike detectors were compared against two human EEG readers using iEEG segments from eight patients. A consensus set of detections was generated for detector calibration. Spike verification was calculated after both human EEG readers independently reviewed all detections.
+Results
+Humans and two of the three automated detectors demonstrated comparable accuracy. In four patients, automated spike detection sensitivity was >70% and accuracy was >50%. In the remaining four patients, EEG background morphology resulted in poorer performance. Blinded human verification accuracy was 76.7 ± 6.6% for computer-detected spikes, and 84.5 ± 4.1% for human-detected spikes.
+Conclusions
+Automated iEEG spike detectors perform comparably to humans, but sensitivity and accuracy are patient dependent. Humans verified the majority of computer-detected spikes.
+Significance
+In some patients automated detectors may be used for mapping spike occurrences in epileptic networks. This may reveal associations between spike distribution, seizure onset, and pathology.
+

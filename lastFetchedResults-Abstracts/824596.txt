@@ -1,0 +1,1 @@
+We consider the computation of periodic cyclic schedules for linear precedence constraints graphs: a linear precedence constraint is defined between two tasks and induces an infinite set of usual precedence constraints between their executions such that the difference of iterations is a linear function. The objective function is the minimization of the maximal period of a task.

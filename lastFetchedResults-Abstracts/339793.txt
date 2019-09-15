@@ -1,0 +1,11 @@
+Objective
+We investigated mechanisms involved in iron (Fe) transport by DMT1 (endosomal Fe(II) exporter, encoded by the Nramp2 gene) using wild-type Chinese hamster ovary (CHO) cells and Nramp2-transfected CHO cells, as well as reticulocytes from normal and mk/mk mice that have a defect in DMT1.
+Materials and Methods
+
+CHO cells and reticulocytes were incubated with 59Fe bound to various ligands. The radioiron was present in its Fe(II) or Fe(III) forms or bound to transferrin (Tf), and the internalized 59Fe measured under varying experimental conditions. Additionally, 125I-Tf interaction with reticulocytes was investigated and 59Fe incorporation into their heme was determined.
+Results
+
+Hyperexpression of DMT1 in CHO cells greatly increases their capacity to acquire ferrous iron. Although CHO-Nramp2 cells showed an increase in Fe(III) uptake as compared to CHO cells, they transported Fe(III) with much lower efficacy than Fe(II). In addition to their defect in Fe uptake, mk/mk reticulocytes also showed a decrease in Tf receptor levels.
+Conclusions
+
+Given that CHO cells acquire iron from Fe(II)-ascorbate with much higher rates than from Fe(III)-Tf, Tf-receptor levels represent the rate-limiting step in their iron uptake. As Fe(III) transport by CHO-Nramp2 cells can be inhibited by the impermeable oxidant K3Fe(CN)6, a membrane ferric reductase is probably needed for reduction of Fe(III) to Fe(II), which is then transported by DMT1. DMT1 is not a limiting factor in Fe acquisition by normal reticulocytes and their heme synthesis.

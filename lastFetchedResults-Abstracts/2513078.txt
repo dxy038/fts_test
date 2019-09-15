@@ -1,0 +1,23 @@
+Objective: Despite the huge efforts, chronic kidney disease (CKD) remains as an unsolved
+problem in medicine. Many studies have shown a central role for transforming
+growth factor beta-1 (TGFB-1) and its downstream signaling cascades in the pathogenesis
+of CKD. In this study, we have reanalyzed a microarray dataset to recognize critical
+signaling pathways controlled by TGFB-1.
+Materials and Methods: This study is a bioinformatics reanalysis for a microarray data. The
+GSE23338 dataset was downloaded from the gene expression omnibus (GEO) database
+which assesses the mRNA expression profile of TGFB-1 treated human kidney cells after 24
+and 48 hours incubation. The protein interaction networks for differentially expressed (DE)
+genes in both time points were constructed and enriched. In addition, by network topology
+analysis, genes with high centrality were identified and then pathway enrichment analysis
+was performed with either the total network genes or with the central nodes.
+Results: We found 110 and 170 genes differentially expressed in the time points 24 and 48
+hours, respectively. As the genes in each time point had few interactions, the networks were
+enriched by adding previously known genes interacting with the differentially expressed ones.
+In terms of degree, betweenness, and closeness centrality parameters 62 and 60 nodes were
+considered to be central in the enriched networks of 24 hours and 48 hours treatment, respectively.
+Pathway enrichment analysis with the central nodes was more informative than those
+with all network nodes or even initial DE genes, revealing key signaling pathways.
+Conclusion: We introduced a method for the analysis of microarray data that integrates the
+expression pattern of genes with their topological properties in protein interaction networks.
+This holistic novel approach allows extracting knowledge from raw bulk omics data.
+

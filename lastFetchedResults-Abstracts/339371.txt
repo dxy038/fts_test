@@ -1,0 +1,11 @@
+Objective
+Pertussis toxin (PT) has the capacity to activate dendritic cells (DCs) for the augmentation of cell-mediated immune responses. To investigate the mechanism(s) by which PT activates DCs, we investigated the effects of PT and its B-oligomer (PTB) on the maturation of human and mouse DCs and determined whether PT could act as a pathogen-associated molecular pattern to activate one of the Toll-like receptors (TLRs).
+Methods
+
+The effects of PT and PTB on the maturation of human and mouse DCs were analyzed in terms of surface marker expression, cytokine production, antigen-presenting capacity, and intracellular signaling. The participation of TLR4 in PT-induced signaling was determined by comparing the effect of PT on DCs derived from TLR4-deficient and wild-type mice, as well as by measuring PT-induced NF-κB activation in HEK293 cells transiently transfected to express various TLRs.
+Results
+
+Although both promoted phenotypic and functional maturation DCs, however, unlike PT that induced DC production of interleukin (IL)-6, tumor necrosis factor-α, IL-12, and interferon-inducible protein, PTB was capable of stimulating the production of interferon-inducible protein. Bone marrow–derived DCs from C3H/HeJ mice with defective TLR-4 alleles were unresponsive to PT and PTB, whereas DCs from C3H/HeN mice responded. In addition, PT induced NF-κB activation and IL-8 production in HEK293 cells transfected with a combination of TLR4 and MD2 but not in nontransfected or TLR2-transfected HEK293 cells. Comparison of the patterns of cytokine induction and intracellular signaling events in DCs treated by PT and PTB revealed that although PT, like lipopolysaccharide, triggered both MyD88-dependent and -independent pathways, PTB preferentially triggered MyD88-independent pathways. Interestingly, mouse splenocyte proliferation in response to PT and PTB was only partially dependent on TLR4.
+Conclusion
+
+The data identify PT as another pathogen-associated molecular pattern that induces DC maturation in a TLR4-dependent manner. Unlike PT, which triggers both MyD88-dependent and -independent pathways, PTB only triggers the MyD88-independent pathway in DCs.

@@ -1,0 +1,9 @@
+Background
+The objective of this study was to determine the impact of delay of diagnosis by clinicians on breast cancer prognostic factors and survival.
+Methods
+The medical records of patients whose breast cancer diagnosis was delayed by clinicians were reviewed. Data collected included primary tumor diameter, number of positive lymph nodes, tumor grade, pathologic stage, length of diagnostic delay, and follow-up status. Data were analyzed for correlations between prognostic factors and length of delay. The Fisher exact test was used to correlate delay and stage with survival.
+Results
+Forty patients had delays from 3 to 36 months. There were no significant correlations between delay and natural log of primary tumor diameter (r = −.16, P = .33), number of positive lymph nodes (r = .22, P = .90), tumor grade (R = −.16, P = .36), or pathologic stage (R = −.09, P = .59). A higher stage correlated with decreased survival (P = .03), but delay did not.
+Conclusions
+Clinician diagnostic delays of up to 36 months did not correlate with worsening prognostic factors or with survival rates.
+

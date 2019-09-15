@@ -1,0 +1,9 @@
+Background & aims
+Malnutrition increases morbidity and mortality in surgical patients, and for this reason, several nutritional markers have been used as prognostic tools to identify surgical patients under a higher risk to develop complications in post-operative period. Few studies show the impact of nutritional markers after controlling for others variables, such as age and severity of disease. A new method, bioelectric impedance analysis (BIA), and its parameter, phase angle, have been described as a prognostic tool in several clinical situations, but they have never been studied in surgical population. The objective of this work is to assess the importance of nutritional variables and parameters from BIA as predictors of post-operative complications in a multivariable regression model.
+Methods
+The nutritional status of 225 adult patients scheduled to undergo gastrointestinal surgery was assessed by several methods, including bioelectric impedance analysis and subjective global assessment. Potential confounding factors were also studied. Patients were screened for post-operative complications until hospital discharge.
+Results
+Weight loss greater than 10%, subjective global assessment, nutritional risk assessment, ECM/BCM ratio and phase angle (from BIA) were the prognostic factors significantly associated with post-operative complications in the crude analysis. After adjusting for sex, age, marital status, tumors and pre-operative infections, only phase angle remained as a prognostic factor (RR=4.3; CI95% 1.6–11.8 for phase angle <−0.8 sd), while the other nutritional variables lost their association with post-operative complications.
+Conclusion
+Phase angle remains as an important prognostic factor for postoperative complications, even after adjusting for other individual predictors and confounders. Its utility in the identification of patients eligible for nutritional therapy has now to be evaluated.
+

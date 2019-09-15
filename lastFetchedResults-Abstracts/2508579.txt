@@ -1,0 +1,20 @@
+BACKGROUND: The aim of this study is to present an objective method based on support vector
+machines (SVMs) and gravitational search algorithm (GSA) which is initially utilized for
+recognition the pattern among risk factors and hypertension (HTN) to stratify and analysis
+HTN’s risk factors in an Iranian urban population.
+METHODS: This community-based and cross-sectional research has been designed based on the
+probabilistic sample of residents of Isfahan, Iran, aged 19 years or over from 2001 to 2007. One
+of the household members was randomly selected from different age groups. Selected
+individuals were invited to a predefined health center to be educated on how to collect 24-hour
+urine sample as well as learning about topographic parameters and blood pressure
+measurement. The data from both the estimated and measured blood pressure [for both systolic
+blood pressure (SBP) and diastolic blood pressure (DBP)] demonstrated that optimized SVMs
+have a highest estimation potential.
+RESULTS: This result was particularly more evident when SVMs performance is evaluated with
+regression and generalized linear modeling (GLM) as common methods. Blood pressure risk
+factors impact analysis shows that age has the highest impact level on SBP while it falls second
+on the impact level ranking on DBP. The results also showed that body mass index (BMI) falls
+first on the impact level ranking on DBP while have a lower impact on SBP.
+CONCLUSION: Our analysis suggests that salt intake could efficiently influence both DBP and
+SBP with greater impact level on SBP. Therefore, controlling salt intake may lead to not only
+control of HTN but also its prevention.

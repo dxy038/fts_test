@@ -1,0 +1,5 @@
+The linear dynamics of a two-layer beam is considered. Each beam is modelled by the Timoshenko kinematics, and all inertia terms are considered. The interface allows normal and tangential detachments, which are linearly proportional to the transmitted stresses. The eigenvalue problem providing the natural frequencies is solved exactly.
+
+ensive study of the natural frequencies and of the normal modes is performed with the aim of understanding how the mechanical parameters of the composite influence the vibration behaviour.
+
+udy of the convergence of the solution toward that of a simplified problem obtained by neglecting axial and rotational inertia, shear deformations and by considering interface perfect adherence in the normal direction, constitutes the second objective of the work. This permits to consciously assess when these mechanical terms can actually be neglected, contrarily to what is usually done in practice, where they are disregarded ‘a priori’, without adequate care.

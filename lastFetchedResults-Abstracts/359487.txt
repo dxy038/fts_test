@@ -1,0 +1,9 @@
+Background
+Because coronary artery disease (CAD) is a prevalent comorbidity in patients with low ejection function (EF), a number of patients with heart failure undergo diagnostic cardiac catheterization. The objective of this study was to develop a model to assist clinicians in determining the likelihood of CAD before cardiac catheterization.
+Methods
+This study was a retrospective analysis using the Duke Databank for Cardiovascular Disease. From the databank, 2054 patients who underwent cardiac catheterization between 1992 and 2002 that was preceded by echocardiography with an EF of <45% were identified. The patients' median age was 63 years, and the median EF was 30%. Patients were considered to have significant CAD if any major epicardial vessel had ≥75% stenosis. A multivariable model of CAD was generated using stepwise logistic regression. We included demographic, clinical, electrocardiographic, and echocardiographic parameters, including segmental wall motion abnormality.
+Results
+Of the patients who met the criteria, 1184 (58%) had significant CAD and 870 (42%) did not. Significant predictors of CAD, in the order of their ability to predict significant CAD, included history of myocardial infarction, age, diabetes mellitus, Q wave on electrocardiogram, male sex, and segmental wall motion abnormality (all P < .0001). The area under the receiver operating characteristic curve was 0.865.
+Conclusions
+By using baseline demographic and clinical characteristics, we developed a highly discriminatory diagnostic model for predicting CAD in patients with heart failure. Given the high prevalence of patients without CAD in this cohort, accurate baseline assessment of patients with left ventricular dysfunction for CAD might avoid unnecessary invasive procedures.
+

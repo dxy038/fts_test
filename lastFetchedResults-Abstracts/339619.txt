@@ -1,0 +1,11 @@
+Objective
+Although increased expression of CD38 on the surface of human CD34+ cells is associated with differentiation, we reported recently that both lineage-negative (Lin−) CD34+CD38− and Lin−CD34+CD38lo fractions of cord blood contain primitive severe combined immunodeficient (SCID)–repopulating cells (SRC). Thus, it is important to determine if a hierarchical relationship exists between the SRC from these two populations or if CD38 is reversibly expressed.
+Materials and Methods
+
+To determine if SRC from the CD34+CD38− and CD34+CD38lo cell fractions could generate SRC of the same and/or alternate CD38 expression, cells from primary nonobese diabetic/SCID mice transplanted with CD34+CD38− cells were resorted into both CD34+CD38− and CD34+CD38lo fractions and injected into separate secondary recipients, which were evaluated for human cell engraftment 7 to 10 weeks later. As primary mice transplanted with CD34+CD38lo cells also contained cells of both immunophenotype, these cells were also resorted and transplanted into separate secondary recipients. The cell-cycle status of various CD34+ SRC fractions were evaluated using Hoechst 33342 and Pyronin Y staining in order to determine if CD38 expression was coordinated with divisional activation.
+Results
+
+Each cell fraction obtained from primary recipients was able to reconstitute secondary mice, indicating that CD38 expression reversibly oscillates between negative and low levels on CD34+ repopulating cells. CD38 expression on repopulating cells correlated with a transition between the G0 and G1 phases of the cell cycle.
+Conclusion
+
+CD38 is reversibly expressed on CD34+ SRC between negative and low levels and corresponds to a change in the cell-cycle state. These observations establish a foundation to uncover the molecular program of stem cell regulation and underscore the importance of functional assessments when isolating and characterizing human hematopoietic stem cells.

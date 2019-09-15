@@ -1,0 +1,11 @@
+Objective
+To evaluate the spatiotemporal characteristics of ocular and cerebral current sources during voluntary eyeblinking.
+Methods
+Whole-head magnetoencephalographic (MEG) recordings were acquired during voluntary blinking in eight healthy adults and analysed using synthetic aperture magnetometry (SAM).
+Results
+Fronto-temporal MEG sensors showed a large slow wave lasting approximately 400 ms and a small burst of activity with frequencies above 30 Hz at the initiation of the blink. Group maps of blink-related oscillatory activity at frequencies between 1–18 Hz and 32–64 Hz showed increased activity in and around the orbits during the 400 ms following blink onset. Increased oscillatory activity occurred in occipital regions 200 ms after blink onset at frequencies between 18 and 64 Hz.
+Conclusions
+Blink-related MEG signals are recorded in the regions of the eyes and in the occipital cortex. The anterior activation is likely a combination of muscle contraction and eyelid currents. Occipital activation likely represents neural processes concerned with re-establishing the visual image after transient ocular occlusion.
+Significance
+The possibility of eyeblink-related fields should be considered when interpreting frontal and occipital source activities during SAM analyses.
+

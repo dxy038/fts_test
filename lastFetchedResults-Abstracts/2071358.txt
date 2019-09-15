@@ -1,0 +1,9 @@
+High-resolution, real-time ultrasound is a routine examination for assessing the disorders of the thyroid gland. However, the current diagnosis practice is based mainly on qualitative evaluation of the resulting sonograms, therefore depending on the physician's experience.
+
+erized texture analysis is widely employed in sonographic images of various organs (liver, breast), and it has been proven to increase the sensitivity of diagnosis by providing a better tissue characterization.
+
+esent study attempts to characterize thyroid tissue by automatic texture analysis. The texture features that are calculated are based on co-occurrence matrices as they have been proposed by Haralick. The sample consists of 40 patients. For each patient two sonographic images (one for each lobe) are recorded in DICOM format. The lobe is manually delineated in each sonogram, and the co-occurrence matrices for 52 separation vectors are calculated. The texture features extracted from each one of these matrices are: contrast, correlation, energy and homogeneity.
+
+y component analysis is used to select the optimal set of features. The statistical analysis resulted in the extraction of 21 optimal descriptors. The optimal descriptors are all co-occurrence parameters as the first-order statistics did not prove to be representative of the images characteristics. The bigger number of components depends mainly on correlation for very close or very far distances.
+
+sults indicate that quantitative analysis of thyroid sonograms can provide an objective characterization of thyroid tissue.

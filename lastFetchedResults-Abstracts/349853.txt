@@ -1,0 +1,11 @@
+Objective
+To use the neural signals preceding movement and motor imagery to predict which of the four movements/motor imageries is about to occur, and to access this utility for brain–computer interface (BCI) applications.
+Methods
+Eight naïve subjects performed or kinesthetically imagined four movements while electroencephalogram (EEG) was recorded from 29 channels over sensorimotor areas. The task was instructed with a specific stimulus (S1) and performed at a second stimulus (S2). A classifier was trained and tested offline at differentiating the EEG signals from movement/imagery preparation (the 1.5-s preceding movement/imagery execution).
+Results
+Accuracy of movement/imagery preparation classification varied between subjects. The system preferentially selected event-related (de)synchronization (ERD/ERS) signals for classification, and high accuracies were associated with classifications that relied heavily on the ERD/ERS to discriminate movement/imagery planning.
+Conclusions
+The ERD/ERS preceding movement and motor imagery can be used to predict which of the four movements/imageries is about to occur. Prediction accuracy depends on this signal’s accessibility.
+Significance
+The ERD/ERS is the most specific pre-movement/imagery signal to the movement/imagery about to be performed.
+

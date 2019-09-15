@@ -1,0 +1,11 @@
+Objective.  The purpose of this study was to develop a mathematical method to determine optimum muscle length and muscle stress based on the measurable physiological and biomechanical data.
+
+Design. The values of optimum muscle length and muscle stress are investigated.
+
+Background. Understanding the characteristics of muscle function in vivo is important for assisting the design of the tendon transfer and other rehabilitation procedures. In vivo determination of the physiological and anatomical parameters of muscle contraction is difficult but not impossible. Optimum muscle length and muscle stresses are important parameters for understanding muscle function.
+
+Methods. A Cybex dynamometer was used to measure isometric elbow flexion torque in eight different joint positions in seven subjects. Then the optimization method was used to determine optimum muscle length and muscle stress of three major elbow flexors, the biceps brachii, the brachialis, and the brachioradialis based on the model and joint torque data.
+
+Results. The calculated muscle stress for each subject was on average 109 N/cm2, while the optimum muscle length for the biceps brachii, the brachialis, and the brachioradialis was on average 14.05, 6.53, 17.24 cm, respectively. The joint angles corresponding to these optimum muscle lengths are 110°, 100° and 50° of elbow flexion, respectively.
+
+Conclusions. Optimum muscle length and muscle stress can be properly predicted using an analytical mathematical model along with an experimentally measured joint torque.

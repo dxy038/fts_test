@@ -1,0 +1,21 @@
+Objective: Pulp and periodontal tissues are well-known sources of mesenchymal stem cells
+(MSCs) that provide a promising place in tissue engineering and regenerative medicine. The
+molecular mechanisms underlying commitment and differentiation of dental stem cells that originate
+from different dental tissues are not fully understood. In this study, we have compared the
+expression levels of pluripotency factors along with immunological and developmentally-related
+markers in the culture of human dental pulp stem cells (hDPSCs), human dental follicle stem
+cells (hDFSCs), and human embryonic stem cells (hESCs).
+Materials and Methods: In this experimental study, isolated human dental stem cells
+were investigated using quantitative polymerase chain reaction (qPCR), immunostaining,
+and fluorescence-activated cell sorting (FACS). Additionally, we conducted gene ontology
+(GO) analysis of differentially expressed genes and compared them between dental stem
+cells and pluripotent stem cells.
+Results: The results demonstrated that pluripotency (OCT4 and SOX2) and immunological
+(IL-6 and TLR4) factors had higher expressions in hDFSCs, with the exception of the JAGGED-
+1/NOTCH1 ratio, c-MYC and NESTIN which expressed more in hDPSCs. Immunostaining
+of OCT4, SOX2 and c-MYC showed cytoplasmic and nucleus localization in both groups at
+similar passages. GO analysis showed that the majority of hDFSCs and hDPSCs populations
+were in the synthesis (S) and mitosis (M) phases of the cell cycle, respectively.
+Conclusion: This study showed different status of heterogeneous hDPSCs and hDFSCs
+in terms of stemness, differentiation fate, and cell cycle phases. Therefore, the different
+behaviors of dental stem cells should be considered based on clinical treatment variations.

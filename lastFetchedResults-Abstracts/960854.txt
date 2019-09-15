@@ -1,0 +1,11 @@
+Keeping in line with Moore’s law requires increasing efforts in the development of alternative electronic devices. Multiple-gate transistors are
+very promising in order to suppress short-channel effects and to increase the current drive. Nevertheless, the fabrication of such devices represents a
+strong challenge for silicon process technology. One of the key steps of the process consists in shrouding the silicon fins in an isolating matrix, using
+a flowable oxide, namely hydrogen silsesquioxane (HSQ). The general objective of this work is to show that the properties of HSQ can be modified
+by appropriate thermal or plasma treatments to modulate its characteristics in terms of etching selectivity and surface topography. SEM
+characterization has shown that HSQ exhibits excellent planarization and gap fill capabilities, while AFM analysis, on 100 nm thick HSQ films
+deposited by spin on, reveals a roughness as low as 3 nm. Various oxygen plasma treatments have been applied to densify the HSQ films. Fourier
+transform infra-red spectroscopy (FT-IR) has shown very interesting qualitative and quantitative informations. Chemical and physical
+transformations from a Si–O–Si cage-like structure into an Si–O–Si network one have been observed. It is shown that exposure to oxygen
+plasma at high power (290 W) for a long time (20 min) or thermal curing at high temperature improves the resistance to wet etching using 1%
+hydrofluoric acid (HF). This densification technique holds the remarkable property to transform HSQ into an SiO2-like structure

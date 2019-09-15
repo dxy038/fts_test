@@ -1,0 +1,11 @@
+Objective
+To assess effects of deafferentation of the arm representation of primary motor cortex (M1) on practice-dependent plasticity in healthy adults.
+Methods
+Twelve healthy, right-handed adults (18–48 years, median 20.2 years) performed two consecutive experiments (exp. 1 and exp. 2). Exp. 1 consisted of a motor practice (MP) of repeated ballistic flexion movements of the left thumb. This was followed by exp. 2 consisting of selective anaesthesia of the upper brachial plexus (SPA) to disinhibit the training M1 and a second period of the same MP. Peak acceleration of the trained thumb movement and the motor evoked potential (MEP) amplitude in the flexor pollicis brevis muscle elicited by single-pulse transcranial magnetic stimulation of the training M1 were studied before and after exp. 1 and after exp. 2.
+Results
+After exp. 1 all subjects demonstrated an increase of peak acceleration (baseline: 19.23 ± 3.81 m s−2; after exp. 1: 43.28 ± 17.63 m s−2, p = 0.008) and MEP amplitude (from 0.46 ± 0.23 mV to 1.26 ± 0.77 mV, p = 0.03). There was no additional increase of these measures after exp. 2 (44.37 ± 19.56 m s−2, p = 0.78, 1.69 ± 1.21 mV (p = 0.07)).
+Conclusions
+Training of ballistic thumb movements leads to behavioural improvement as well as to an increased excitability of the corresponding M1 representation. These effects do not increase further during deafferentation of the training M1. In contrast to stroke patients [Muellbacher W, Richards C, Ziemann U, Wittenberg G, Weltz D, Boroojerdi B, et al. Improving hand function in chronic stroke. Arch Neurol 2002;59:1278–82], practice-dependent plasticity in healthy subjects cannot be enhanced by deafferentation of neighbouring motor cortex areas.
+Significance
+Healthy subjects, in contrast to patients with central motor lesions, are capable of saturating practice-dependent plasticity to a level that cannot be further enhanced by experimental manipulation.
+

@@ -1,0 +1,11 @@
+Purpose
+Derive the Chronic Disease Score (CDS) as a covariate of the multiple regression models for comorbidity adjustment with automated pharmacy data in Alberta, Canada.
+Methods
+
+Different types of medications prescribed during 2001/2 for the treatment and management of chronic conditions were obtained from Alberta Blue Cross (ABC) claims database. The medications were clustered into 25 therapeutic classes to indicate the presence of a chronic illness based on the criteria proposed by Clark et al in 1995. The study population was composed of all Alberta residents aged 65 or over who were registered with the Alberta Health Care Insurance Plan (AHCIP) continuously from 2001/2 to 2002/3. Individuals who terminated the registry before March 31, 2003 were included if they had been admitted to hospitals in 2002/3. Individuals were excluded if they had been diagnosed with any malignancy, tuberculosis or HIV during 2001/2 and 2002/3. Medications used in the direct treatment of these diseases are provided by other health insurance agencies instead of ABC. Hospitalization rate in 2002/3 was derived from AHCIP databases. Logistic regression models were utilized to estimate CDS scores. The CDS developed by Clark et al was replicated with Alberta Data. Its validity was compared with that of the proposed CDS.
+Results
+
+Records for 216,724 seniors were used to estimate the empirical weights for calculating CDS. Odds ratios for hospitalization from predicted CDS increased with each percentile group. The risk of hospitalization increased 12-fold for persons with a predicted score in the 90th–100th percentile over those in the 0th–10th percentile. It was higher than those devised from any of the 3 CDS scores with cost or utilization weights.
+Conclusion
+
+CDS can be generally used as a combined covariate to adjust morbidity rates for different populations. To improve the validity of the adjustment, the weights of CDS should be estimated using the morbidity (hospitalization for this study) rate itself as the dependent variable of the regression model

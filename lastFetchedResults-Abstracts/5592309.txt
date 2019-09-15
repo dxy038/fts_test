@@ -1,0 +1,1 @@
+In this paper, a new method for shape design optimization, using sensitivity analysis on the finite element (FE) model of an interior permanent magnet synchronous motor, is proposed. Average torque is our objective for optimization. It shows the optimized motor has more average torque in compare with the conventional motor.

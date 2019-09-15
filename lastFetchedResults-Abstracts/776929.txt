@@ -1,0 +1,20 @@
+The objective of this study is to suggest a mathematical model and an optimal algorithm for determining the height of apartment
+buildings to satisfy the solar rights of survey buildings or survey housing units. The objective is also to develop an automatic computation
+model for the optimum height of apartment buildings and then to clarify the performance and expected effects. To accomplish
+the objective of this study, the following procedures were followed:
+(1) The necessity of the height planning of obstruction buildings to satisfy the solar rights of survey buildings or survey housing units
+is demonstrated by analyzing through a literature review the recent trend of disputes related to solar rights and to examining the
+social requirements in terms of solar rights. In addition, the necessity of the automatic computation system for height planning of
+apartment buildings is demonstrated and a suitable analysis method for this system is chosen by investigating the characteristics of
+analysis methods for solar rights assessment.
+(2) A case study on the process of height planning of apartment buildings will be briefly described and the problems occurring in this
+process will then be examined carefully.
+(3) To develop an automatic computation model for height planning of apartment buildings, geometrical elements forming apartment
+buildings are defined by analyzing the geometrical characteristics of apartment buildings. In addition, design factors and
+regulations required in height planning of apartment buildings are investigated. Based on this knowledge, the methodology and
+mathematical algorithm to adjust the height of apartment buildings by automatic computation are suggested and probable problems
+and the ways to resolve these problems are discussed. Finally, the methodology and algorithm for the optimization are
+suggested.(4) Based on the suggested methodology and mathematical algorithm, the automatic computation model for optimum height of apartment
+buildings is developed and the developed system is verified through the application of some cases. The effects of the suggested
+model are then demonstrated quantitatively and qualitatively.
+  2010 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+A novel procedure, concepts, and new ideas to tailor and design time operators under the notion
+of algorithms by design is formulated in this exposition with emphasis on applications to the broad
+area of computational mechanics, but with focus on solid and structural mechanics/dynamics as an
+illustration. The algorithms by design concepts capitalize upon: (i) the recently developed unified
+theory underlying computational algorithms (Int. J. Numer. Meth. Engng 2004; 59:597–668), and (ii)
+newly established design spaces and algorithmic measures for evaluating the quality of computational
+algorithms (Int. J. Numer. Meth. Engng 2005; 64:1841–1870). As a step in the forward direction,
+in this exposition we embark upon some challenging tasks with the objective to advance, tailor,
+and foster the design of computational algorithms for time-dependent problems with desired and/or
+improved algorithmic attributes in the sense of accuracy, stability and other characteristics including
+algorithmic complexity in a well educated manner. The design process for computational algorithms
+is explained in the sense of the algorithms by design concepts via selected numerical illustrations of
+practical scenarios encountered in solid and structural mechanics/dynamics applications

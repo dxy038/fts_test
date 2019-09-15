@@ -1,0 +1,26 @@
+Covering models have many applications in a wide variety of real-world problems.
+But some assumptions of covering models are not realistic enough. Accordingly, a
+general approach would not be able to answer the needs of encountering varied aspects
+of real-world considerations. Assumptions like the unavailability of servers,
+uncertainty, and evaluating more factors at the same time, are assumptions with which
+covering models are always faced; however, these models are not able to find any
+answers for them. Therefore, how to deal with these sorts of assumptions has been
+always a question. In this research, for facing unavailability and uncertainty in input
+data, backup covering and interval full-ranking models are addressed, respectively.
+Furthermore, by combining backup covering and interval full-ranking models (also
+conceptions), not only time is saved and more factors like efficiency and cost are
+simultaneously evaluated, but also covering considerations will be reachable in real
+aspects.
+The proposed model in this paper is searching for three assumptions to cover major
+features. Emergency services are harshly sensible to delay, so the problem of server’s
+unavailability should be solved by considering backup coverage. Moreover, inefficient
+facilities were absolutely neglected in covering literature despite their destructive role
+in serving customer demands. To overcome this problem, we have entered efficiency
+to our model by considering location of each facility as an input for a revised version
+of data envelopment analysis which is called full-ranking model. As many research
+have proved to believe in uncertainty, no one can neglect this feature in real-world,
+we have just defined data in intervals to consider this feature. In final, the evident
+absence of research in three mentioned key features in one frame has left covering
+literature in defect and brought about the proposed three-objective model in this paper
+which is called combined maximal covering with backup model (MCBM) and interval
+full-ranking.

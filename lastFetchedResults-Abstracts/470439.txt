@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to compare the cost-effectiveness of dilation and evacuation versus misoprostol induction of labor for second-trimester termination.
+Study design
+Using decision analysis, we compared the cost-effectiveness of dilation and evacuation and misoprostol induction of labor for second-trimester termination. Complications for dilation and evacuation and induction of labor included repeat dilation and curettage, cervical laceration repair, hospital admission, laparotomy, hysterectomy, and maternal death. Induction of labor complications also included failed induction of labor. The primary outcome was cost per quality-adjusted life year. Sensitivity analyses were performed for all relevant variables.
+Results
+Dilation and evacuation was less costly and more effective than misoprostol induction of labor for second-trimester termination with baseline estimates. In 1-way sensitivity analysis, the model was robust to all variation in probabilities and costs. In Monte Carlo simulation with 1000 trials and a cost-effectiveness threshold of $50,000/quality-adjusted life year, dilation and evacuation was the preferred approach in 97.9% of trials.
+Conclusion
+Dilation and evacuation is less expensive and more effective than misoprostol induction of labor for second-trimester termination.
+

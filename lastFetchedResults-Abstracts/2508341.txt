@@ -1,0 +1,21 @@
+Background: A pressure ulcer is a complication related to the need for the care and
+treatment of primarily disabled and elderly people. With the decrease of the blood ?ow
+caused by the pressure loaded, ulcers are formed and the tissue will be wasted with the
+passage of time.
+Objective: The aim of this study was to construct blood ?ow monitoring system
+on the heel tissue which was under external pressure in order to evaluate the tissue
+treatment in the ulcer.
+Methods: To measure the blood ?ow changes, three infrared optical transmitters
+were used at the distances of 5, 10, and 15 mm to the receiver. Blood ?ow changes in
+heels were assessed in pressures 0, 30, and 60 mmHg. The time features were extracted
+for analysis from the recorded signal by MATLAB software. Changes of the time
+features under different pressures were evaluated at the three distances by ANOVA in
+SPSS software. The level of signifcance was considered at 0.05.
+Results: In this study, 15 subjects, including both male and female, with the mean
+age of 54±7 participated. The results showed that the signal amplitude, power and
+absolute signal decreased signifcantly when pressure on the tissue increased in different layers (p < 0.05). Heart rate only decreased signifcantly in pressures more than
+30 mmHg (p=0.02). In pressures more than 30 mmHg, in addition to a decrease in the
+time features, the pattern of blood ?ow signal changed and it wasn’t the same as noload signal.
+Conclusion: By detecting the time features, we can reach an early diagnosis to
+prognosticate the degeneration of the tissue under pressure and it can be recommended
+as a method to predict bedsores in the heel.

@@ -1,0 +1,5 @@
+Kazhdan’s property T has recently been imported to the C∗-world by Bekka. Our objective is to extend a
+well-known fact to this realm; we show that a nuclear C∗-algebra with property T is finite-dimensional (for
+all intents and purposes). Though the result is not surprising, the proof is a bit more complicated than the
+group case.
+© 2006 Elsevier Inc. All rights reserved

@@ -1,0 +1,11 @@
+Objective
+This study investigated whether contact area (i.e. facet size) would influence the loads necessary for subsurface radial crack formation in porcelain specimens bonded to a dentin analog material.
+Methods
+
+Dental porcelain discs (0.5 mm, 1 mm, and 1.5 mm thick) were bonded to compliant bases simulating dentin, and loaded with either a 1 mm, 2 mm, or 3 mm diameter aluminum piston until fracture. Pop-in of the subsurface radial crack from the bonded interface was detected using the acoustic emission (AE) method. Pre-test and post-test finite element analysis (FEA) was used to model the experiment and to calculate subsurface failure stresses.
+Results
+
+There were significant differences in loads sustained before fracture according to both the ceramic thickness and the piston diameter (p < 0.05; ANOVA and post-hoc Scheffe). Failure loads were found to be proportional to the square of the porcelain thickness. For all thicknesses, significantly higher loads were sustained beneath the 3 mm piston than beneath the 1 mm piston. FEA calculated failure strengths for the 1 mm thick porcelain (calculated from experimental mean loads) differed significantly for loading with the 1 mm piston (168 MPa) or 3 mm piston (60 MPa).
+Conclusions
+
+It appears that both ceramic thickness and contact facet size may be clinically controlled to increase load-bearing ability of all-ceramic crowns. Single value strengths may not accurately model bonded dental ceramics; adjustments such as with Weibull scaling may improve accuracy. These results further suggest that small spherical indenters do not create clinically analogous contact conditions.

@@ -1,0 +1,9 @@
+Objective. The aim was to test various algorithms for onset determination and compare onset repeatability to that from integrals of the EMG signal. The information contained in both parameters is discussed.
+
+Design. Onset times were calculated using six different algorithms. The integral of the EMG signal was calculated for seven intervals: from tilt start and from each of the resulting onsets to 200 ms after tilt start.
+
+Background. EMG onset times are often utilised, especially regarding co-ordination patterns or joint stability. There are almost as many different procedures for onset determination as authors dealing with it. Results in the literature are contradictory. The determination and usage of onset times remains controversial.
+
+Methods. EMG signals from six muscles of the lower leg of 23 subjects were recorded during three consecutive, expected and unexpected sudden inversion and eversion trials while standing on a tilting platform.
+
+Results. In most cases the repeatability of the onset times was considerably lower than that of the integrals of the EMG for all studied algorithms. In some cases earlier onset times corresponded to lower integral values and constant onsets to variable integrals. Conclusions. In many cases onset times alone are not sufficient for describing onset phenomena. The additional calculation of the integrated EMG might provide relevant information regarding the quality of early activation.

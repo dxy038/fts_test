@@ -1,0 +1,18 @@
+Background: Medical X-rays are the largest man-made source of public exposure to ionizing radiation. While the benefts of Computed Tomography (CT) are well
+known in accurate diagnosis, those benefts are not risk-free. CT is a device with higher patient dose in comparison with other conventional radiation procedures.
+Objective: This study is aimed at evaluating radiation dose to patients from Computed Tomography (CT) examination in Mazandaran hospitals and defning diagnostic
+reference level (DRL).
+Methods: Patient-related data on CT protocol for four common CT examinations
+including brain, sinus, chest and abdomen & pelvic were collected. In each center,
+Computed Tomography Dose Index (CTDI) measurements were performed using pencil ionization chamber and CT dosimetry phantom according to AAPM report No. 96
+for those techniques. Then, Weighted Computed Tomography Dose Index (CTDIW),
+Volume Computed Tomography Dose Index (CTDI vol) and Dose Length Product
+(DLP) were calculated.
+Results: The CTDIw for brain, sinus, chest and abdomen & pelvic ranged (15.6-
+73), (3.8-25. 8), (4.5-16.3) and (7-16.3), respectively. Values of DLP had a range of
+(197.4-981), (41.8-184), (131-342.3) and (283.6-486) for brain, sinus, chest and abdomen & pelvic, respectively. The 3rd quartile of CTDIW, derived from dose distribution
+for each examination is the proposed quantity for DRL. The DRLs of brain, sinus,
+chest and abdomen & pelvic are measured 59.5, 17, 7.8 and 11 mGy, respectively.
+Conclusion: Results of this study demonstrated large scales of dose for the same
+examination among different centers. For all examinations, our values were lower than
+international reference doses.

@@ -1,0 +1,10 @@
+Background
+in is associated with social interaction, trust, and affectivity. Affective temperaments are traits based on Kraepelin's typological definition of the “fundamental states” of manic-depressive illness. These states can be measured by the Temperament Evaluation of Memphis, Pisa, Paris and San Diego-Autoquestionnaire version (TEMPS-A). The objective of this study is to assess the association between oxytocin receptor gene (OXTR) polymorphisms and affective temperaments.
+s
+ipants consisted of 493 genetically unrelated, non-clinical Japanese subjects (307 males and 186 females). The Mini-International Neuropsychiatric Interview (MINI) was used to screen and exclude those who had a lifetime diagnosis of schizophrenia or other psychotic disorders. Fifteen OXTR tag single nucleotide polymorphisms (SNPs) were genotyped using TaqMan® or direct sequencing. The Haploview 4.1. software determined the haplotype block structure. Haplotype-based quantitative trait association analysis with Bonferroni correction using PLINK 1.06 software was used to assess the association between haplotypes and the following affective temperaments: depressive, cyclothymic, hyperthymic, irritable, and anxious.
+s
+plotype blocks were identified on the OXTR. The depressive temperament was significantly associated with the most frequent haplotype GGGTGTC (rs11131149/rs2243370/rs2243369/rs13316193/rs2254298/rs2268493/rs2268491) (corrected P &lt; 0.05).
+tions
+tudy consisted of participants from a corporation and the effect sizes were small.
+sions
+ndings suggest that an OXTR haplotype is associated with a discrete depressive temperament. Clarification of the biological basis of this temperamental trait may help to elucidate the pathophysiology of depressive disorder.

@@ -1,0 +1,11 @@
+Objective
+Studies on mice lacking the common receptor subunit gp130 reveal that activation of gp130-dependent signaling pathways is essential for normal fetal and adult hematopoiesis. However, the extent to which hematopoiesis is dependent upon activation of a particular gp130 signaling pathway, namely STAT1/3 or SHP2/MAPK, is unknown. This study examined the specific contribution of gp130-mediated STAT1/3 signaling to the regulation of hematopoiesis.
+Materials and Methods
+
+Hematopoiesis was examined at various developmental stages in mice homozygous for a targeted carboxy-terminal truncation mutation in gp130 (gp130Δ/Δ) that deletes all STAT1/3 binding sites, thereby abolishing gp130-mediated STAT1/3 activation.
+Results
+
+Adult gp130Δ/ Δ mice have increased numbers of immature colony-forming unit spleen progenitor cells in the bone marrow and spleen, elevated numbers of committed myeloid progenitor cells in the spleen and peripheral blood, and leukocytosis. Increased progenitor cell production was observed in gp130Δ/Δ fetal livers from 14 days of gestation onward. In contrast, the circulating platelet count was reduced by 30% in gp130Δ/ Δ mice, without any corresponding decrease in the number of bone marrow and splenic megakaryocytes. In liquid cultures, megakaryocytes from gp130Δ/ Δ mice are smaller than those from wild-type mice and do not increase in size upon stimulation with interleukin-6 or interleukin-11. Administration of either interleukin-6 or interleukin-11 to gp130Δ/ Δ mice failed to increase platelet numbers, despite an increase in the production of megakaryocytes.
+Conclusions
+
+Collectively, these results reveal that gp130-mediated STAT1/3 activation is required to maintain the normal balance of hematopoietic progenitors during fetal and adult hematopoiesis. Furthermore, they suggest two distinct roles for gp130-mediated STAT1/3 activation in hematopoiesis, one restricting the production of immature hematopoietic progenitor cells and the other promoting the functional maturation of megakaryocytes to produce platelets.

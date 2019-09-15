@@ -1,0 +1,7 @@
+Some sufficient conditions are obtained for the existence and global exponential stability of a periodic
+solution to the general bidirectional associative memory (BAM) neural networks with distributed delays by
+using the continuation theorem of Mawhin’s coincidence degree theory and the Lyapunov functionalmethod
+and the Young’s inequality technique. These results are helpful for designing a globally exponentially stable
+and periodic oscillatory BAM neural network, and the conditions can be easily verified and be applied in
+practice. An example is also given to illustrate our results.
+ 2005 Elsevier Inc. All rights reserved

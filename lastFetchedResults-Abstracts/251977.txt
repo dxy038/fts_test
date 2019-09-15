@@ -1,0 +1,13 @@
+On an experimental apparatus designed to measure the directional spectral
+emissivity of semitransparent materials at high temperature (2000°C), a specific
+optical device (kaleidoscope) is mouInted in order to homogenize the energy
+distribution of a CO2 laser beam, which is used as a heating source. An objective
+of this work, for operating in the best conditions, is to obtain a uniform
+temperature of the tested sample. This study, based on Fourier optics, focuses
+on a square aperture kaleidoscope. A model was developed to simulate the
+energy distribution of the laser beam, at any transverse plane on the optical
+path. The final objective is to simulate the energy distribution on the sample
+surface to optimize the homogenization device taking into account the surface
+temperature gradient induced by the local energy distribution. To validate this
+model, quantitative comparisons of theoretical simulations and experimental
+thermal spots are performed.

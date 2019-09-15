@@ -1,0 +1,9 @@
+Objective
+The objective of the study was to examine whether the United States Agency for Health Care Research and Quality obstetric patient safety indicators are significantly affected by patient-specific and hospital-level characteristics not related to the safety environment.
+Study design
+Administrative data for all nonfederal Illinois hospitals in 2001 were used to analyze the association of a hospital's obstetric trauma rates with patient and hospital-level factors. Multivariable random effects logistic regression analyses was used to account for hospital-level clustering.
+Results
+A total of 175,374 deliveries from 142 Illinois hospitals were available for analysis. The frequency of obstetric trauma was significantly associated with multiple patient-specific and hospital-level factors. Specifically, for any vaginal delivery, premature delivery, multiple gestation, excessive fetal growth, and prolonged pregnancy was associated with obstetric trauma risk. For spontaneous delivery, a prior cesarean was associated with trauma risk as well. Maternal age was associated with trauma risk at cesarean as well as at vaginal delivery. With regard to hospital-level factors, a higher annual delivery volume and a higher cesarean rate were associated with increased risk of trauma with either type of vaginal delivery, whereas in the intensity with which hospitals coded their medical records was associated with trauma risk for all routes of delivery.
+Conclusion
+The risk of obstetric trauma is significantly influenced by both patient and hospital characteristics and is not a good indicator of patient safety.
+

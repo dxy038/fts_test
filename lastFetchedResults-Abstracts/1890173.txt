@@ -1,0 +1,19 @@
+Objective: MiR-302-367 is a cluster of polycistronic microRNAs that are exclusively expressed
+in embryonic stem (ES) cells. The miR-302-367 promoter is functional during
+embryonic development but is turned off in later stages. Motivated by the cancer stem
+cell hypothesis, we explored the potential expression of miR-302 in brain tumor cell lines.
+Materials and Methods: In the present experimental study, we have tried to expand
+our knowledge on the expression pattern and functionality of miR302 cluster by quantifying
+its expression in a series of glioma (A-172, 1321N1, U87MG) and medulloblastoma
+(DAOY) cell lines. To further assess the functionality of miR-302 in these cell
+lines, we cloned its promoter core region upstream of the enhanced green fluorescent
+protein (EGFP) or luciferase encoding genes.
+Results: Our data demonstrated a very low expression of miR-302 in glioma cell lines,
+compared with that of embryonal carcinoma cell line NT2 being used as a positive
+control. The expression of miR-302 promoter-EGFP construct in the aforementioned
+cell lines demonstrated GFP expression in a rare subpopulation of the cells. Serum
+deprivation led to the generation of tumorospheres, enrichment of miR-302 positive
+cells and upregulation of a number of pluripotency genes.
+Conclusion: Taken together, our data suggest that miR-302 could potentially be used as
+a novel putative cancer stem cell marker to identify and target cancer stem cells within
+tumor tissues.

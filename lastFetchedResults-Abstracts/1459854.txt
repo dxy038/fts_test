@@ -1,0 +1,5 @@
+The objective of this work is to study the effect of specific fatty acid methyl esters preset in biofuels on particulate matter emissions. A typical diesel fuel supplied in petrol stations (reference), two biofuels composed of methyl esters from the transesterification process of waste oils with different origins and some blends of biofuels with the reference fuel were tested in a commercial direct injection engine reproducing five modes of the European transient urban/extraurban certification cycle.
+
+s from the tests are fitted using neural networks (NN). The equations allow the amount of soluble and insoluble material of Diesel particulates to be determined as a function of engine operating conditions and fuel composition.
+
+tion from NNs equations proves that the amount of palmitic acid methyl ester in fuels is the main factor affecting the amount of insoluble material emitted due to its higher oxygen content and cetane number.

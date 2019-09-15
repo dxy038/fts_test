@@ -1,0 +1,17 @@
+In recent years, reverse logistics, especially its integration with direct
+logistics, plays an important role in decreasing supply chain costs. In this
+paper, we consider a closed-loop multi-objective, multi-product and multiperiod
+supply chain. The first objective function is minimization of
+transportation costs between inter- and intra-center processing costs, as well
+as the centers’ construction costs, and the second one is minimization of
+released carbon dioxide due to transportation. We formulated this problem as
+a mixed integer programming model. The problem’s complexity is of type
+NP-Hard. The consideration of multi-product and multi-period by two
+objectives is the big advantage of this model compared to the previous
+models. This model also takes into account the released carbon dioxide
+inside the centers and among them due to transportation as a constraint. In
+the first step, the two objectives are changed into the same phase and then
+integrated by using multi-objective planning. In order to validate the model
+and study the impact of objectives’ weights, several problems are generated
+and solved with CPLEX 12.3. Finally, the results are analyzed and
+discussed.

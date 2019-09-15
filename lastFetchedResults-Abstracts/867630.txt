@@ -1,0 +1,16 @@
+The objective of this paper is to design a weekly surgery schedule in an operating theatre where time
+blocks are reserved for surgeons rather than specialities. Both operating rooms and places in the recovery
+room are assumed to be multifunctional, and the objectives are to maximise the utilisation of the operating
+rooms, to minimise the overtime cost in the operating theatre, and to minimise the unexpected idle
+time between surgical cases. This weekly operating theatre planning and scheduling problem is solved in
+two phases. First, the planning problem is solved to give the date of surgery for each patient, allowing for
+the availability of operating rooms and surgeons. Then a daily scheduling problem is devised to determine
+the sequence of operations in each operating room in each day, taking into account the availability
+of recovery beds. The planning problem is described as a set-partitioning integer-programming model
+and is solved by a column-generation-based heuristic (CGBH) procedure. The daily scheduling problem,
+based on the results obtained in the planning phase, is treated as a two-stage hybrid flow-shop problem
+and solved by a hybrid genetic algorithm (HGA). Our results are compared with several actual surgery
+schedules in a Belgian university hospital, where time blocks have been assigned to either specific surgeons
+or specialities several months in advance. According to the comparison results, surgery schedules
+obtained by the proposed method have less idle time between surgical cases, much higher utilisation of
+operating rooms and produce less overtime.

@@ -1,0 +1,1 @@
+We proposed and demonstrated a low cost bidirectional optical amplifier using a single EDFA and a fiber Mach-Zehnder interferometer (MZI) as a wavelength interleaver. The gain and power penalty at 2.5 Gb/s of the amplifier were 17 dB and 0.5 dB, respectively. The power penalty can be reduced by increasing isolation of the fiber MZI above 15 dB

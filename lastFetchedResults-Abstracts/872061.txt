@@ -1,0 +1,8 @@
+In this paper we present a duality approach for a multiobjective fractional programming
+problem. The components of the vector objective function are particular ratios involving
+the square of a convex function and a positive concave function. Applying the Fenchel–
+Rockafellar duality theory for a scalar optimization problem associated to the multiobjective
+primal, a dual problem is derived. This scalar dual problem is formulated in terms of
+conjugate functions and its structure gives an idea about how to construct a multiobjective
+dual problem in a natural way. Weak and strong duality assertions are presented.
+ 2002 Elsevier Science (USA). All rights reserved.

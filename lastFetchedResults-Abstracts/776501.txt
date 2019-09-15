@@ -1,0 +1,9 @@
+A linear correlation between UV-A and 380 nm was developed by means of the TUV 4.1 radiative transfer model. The prediction
+error of the correlation was evaluated with data from Buenos Aires, Argentina, 2001, and from 2006, Almerı´a, Spain. Percent random
+mean square error (RMSE%) was calculated for intervals of 10  of solar zenith angles, ranging 4.75% at 20  to 37.70% at 90  in clear days
+and 22.16% at 20  to 26.17% at 90  for cloudy days in Buenos Aires Argentina, and 1.27% at 20  to 11.27% at 90  for clear days in
+Almeria, Spain. Clouded days were not assessed with the data from Spain. In Argentina, the UV-A radiometer is located in a rural area
+and the 380 nm radiometer is located in an urban area 6 km away. Hence the real error of the proposed model is closer to that found in
+Spain were both measurements were performed at the same site. The objective of the work is to achieve a simple and precise method to
+assess UV-A availability for environmental applications of solar energy, particularly for solar water treatment, at any desired latitude.
+  2008 Elsevier Ltd. All rights reserved.

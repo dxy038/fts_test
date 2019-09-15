@@ -1,0 +1,6 @@
+Background
+ean network is a simple computational model that may provide insight into the overall behavior of genetic networks and is represented by variables with two possible states (on/off), of the individual nodes/genes of the network. In this study, a Boolean network model has been used to simulate a molecular pathway between two neurotransmitter receptor, dopamine and glutamate receptor, systems in order to understand the consequence of using logic gate rules between nodes, which have two possible states (active and inactive).
+s
+namical properties of this Boolean network model of the biochemical pathway shows that, the pathway is stable and that, deletion/knockout of certain biologically important nodes cause significant perturbation to this network. The analysis clearly shows that in addition to the expected components dopamine and dopamine receptor 2 (DRD2), Ca2+ ions play a critical role in maintaining stability of the pathway.
+sion
+s method may be useful for the identification of potential genetic targets, whose loss of function in biochemical pathways may be responsible for disease onset. The molecular pathway considered in this study has been implicated with a complex disorder like schizophrenia, which has a complex multifactorial etiology.

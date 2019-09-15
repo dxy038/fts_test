@@ -1,0 +1,11 @@
+Objective
+Chemoresistance remains a major clinical obstacle to curative chemotherapy of acute myeloid leukemia (AML), but the molecular mechanisms underlying resistance to chemotherapeutic agents used in AML are largely unknown. We have attempted to investigate genetic mechanisms causing resistance to Ara-C [1-β-D-arabinofuranosyl-cytosine (cytarabine)], one mainstay in AML chemotherapy for decades.
+Material and Methods
+
+Highly Ara-C-resistant murine BXH-2 strain AML cell lines were generated, and their molecular changes were compared to their sensitive parental lines. The causative changes were confirmed using a genetic approach.
+Results
+
+We derived nine highly Ara-C-resistant murine BXH-2 strain AML sublines via in vitro selection. p21Cip1 was dramatically downregulated and p53 protein accumulation induced by Ara-C treatment was impaired in one resistant line. In this line, repeated Ara-C exposure had selected for cells that harbor a genomic deletion affecting the splicing of Trp53 mRNA. This deletion produces an aberrant Trp53 mRNA, in which exon 4 is skipped, producing a protein lacking parts of both the transactivation and DNA-binding domains. Retroviral transduction of the sensitive parental cells with a dominant-negative Trp53 cDNA caused changes in the protein levels of p21Cip1, BAX, and cleaved caspase-3, but not bcl-XL, and rendered the cells more resistant to Ara-C. Unexpectedly, we found that pifithrin-α (PFTα), a compound that has been proposed to regulate p53 protein activity, induced apoptosis in both Ara-C-sensitive and -resistant lines, and decreased Ara-C resistance in cells with either normal or mutant Trp53 genes.
+Conclusions
+
+These data indicate that Trp53 loss-of-function could partly explain the acquisition of AML chemoresistance, and suggest that PFTα could be useful in treatment of relapsed AML.

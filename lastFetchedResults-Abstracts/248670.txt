@@ -1,0 +1,5 @@
+A methodology for computationally e¦cient formulation of the tangent sti¤ness matrix consistent with
+incrementally objective algorithms for integrating Þnite deformation kinematics and with closest point
+projection algorithms for integrating material response is developed in the context of Þnite deformation
+plasticity. Numerical experiments illustrate an excellent performance of the proposed formulation in
+comparison with other algorithms. Copyright

@@ -1,0 +1,5 @@
+A metabolic network comprising central metabolic pathway of Pseudomonas aeruginosa under anaerobic condition was developed. To confirm the model accuracy, 
+a comparison between the model prediction and the corresponding experimental results from other works in the literature have been performed. Linear programming was used for this purpose. Objective function was specific growth rate of the microorganism. Base on the model predictions with this objective function, Entenr-Doudoroff and pentose phosphate pathway were both active 
+for the catabolism of glucose. Moreover, the entire reactions of the tricarboxylic acid cycle 
+were not active. Glucose was oxidized via the pentose phosphate pathway when maximization of cofactors ATP and NADPH were the objective of optimization, whereas Entner-Doudoroff was active for maximizing NADH. The model predictions showed a relative error less than 10 percent compare with the experimental results. The small error makes the model reliable for further researches.
+

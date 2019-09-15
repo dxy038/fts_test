@@ -1,0 +1,5 @@
+Let a family of curves or surfaces be given in parametric form via the model equation x = ƒ(s, β), where x ϵ Rn, β ϵ Rm, and s ϵ S ⊂ Rd, d &lt; n. We present an algorithm for solving the problem: Find a shape vector β∗ such that the manifold M∗ = {ƒ (s, β∗): s ϵ S} is a best fit toscattered data {zi}i=1y ⊂ Rn in the sense that, for some {si∗}i=1N, the sum of the squared least distances Σi=1N ‖zi−ƒ(si∗, β∗‖22 from the data points to the manifold M∗ is minimal among all such manifolds.
+
+bustness, our algorithm uses a globally convergent trust region approach in which, at each iteration, an approximation to the objective function is minimized in a given neighborhood of the current iterate.
+
+t S may be all of Rd or a closed, convex subset. In particular, it may be chosen so that our theory is applicable to splines.

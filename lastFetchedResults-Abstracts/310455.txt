@@ -1,0 +1,11 @@
+Objective. The objective of the study was to improve with respect to accuracy and smoothness the three-dimensional model of the spinal midline which has been calculated from rasterstereographic back surface data.
+
+Design. A new mathematical model using frequency-modulated sine curves has been applied to existing rasterstereographic and radiographic data in an in vivo study.
+
+Background. Analysis of back shape (measured by rasterstereography) enables a three-dimensional model of the spinal midline to be calculated. The model is based on the so-called symmetry line which coincides approximately with the line of the spinous processes. In addition the surface rotation on the symmetry line is taken as an estimate for vertebral axial rotation in scoliosis.
+
+Methods. Four hundred and seventy-eight pairs of radiographs and rasterstereographs of scoliotic patients have been evaluated and compared using the new model. The radiographs were digitized manually, delivering curves of lateral deviation and vertebral rotation. Analysis of back shape from the rasterstereographs delivers a three-dimensional model of the spinal midline, the frontal projection of which is to be compared with the radiographic curve. Likewise, vertebral rotation and surface rotation are compared.
+
+Results. The use of frequency-modulated sine curves improved the results as compared to the existing procedure with respect to prediction accuracy of lateral deviation (typically from σx = 4.6 mm to σx = 4.0 mm, P < 10−10). The prediction of axial rotation was not significantly improved (σρ ≈ 3.8 °). In addition, the smoothness of the curves is considerably improved. The prediction accuracy proved to be independent of the scoliosis type as represented by apex height (r = −0.09 … + 0.03).
+
+Conclusion. The use of frequency-modulated sine curves improves significantly the accuracy and smoothness of the spinal model curves.

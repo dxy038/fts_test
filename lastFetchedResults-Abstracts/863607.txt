@@ -1,0 +1,12 @@
+Recently, an increasing attention was paid on different procedures for an unconstrained
+optimization problem when the information of the first derivatives is unavailable
+or unreliable. In this paper, we consider a heuristic iterated-subspace minimization
+method with pattern search for solving such unconstrained optimization problems. The
+proposed method is designed to reduce the total number of function evaluations for the
+implementation of high-dimensional problems. Meanwhile, it keeps the advantages of
+general pattern search algorithm, i.e., the information of the derivatives is not needed. At
+each major iteration of such a method, a low-dimensional manifold, the iterated subspace,
+is constructed. And an approximate minimizer of the objective function in this manifold
+is then determined by a pattern search method. Numerical results on some classic test
+examples are given to show the efficiency of the proposed method in comparison with
+a conventional pattern search method and a derivative-free method.

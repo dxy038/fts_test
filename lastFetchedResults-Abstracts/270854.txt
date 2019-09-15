@@ -1,0 +1,6 @@
+objective of this paper is the analysis of the dynamics of structural systems with
+randomly varying parameters. The formulation and analysis are based on the theory of random
+integral equations. The general analysis (including error estimation) is applied to the problems of
+harmonic vibration of(i) a beam with randomly varying density and (ii) a uniform beam resting on
+a randomly inhomogeneous Winkler foundation. For these applications, the analytical formulae
+for the mean and correlation function of the response are illustrated numerically and graphically

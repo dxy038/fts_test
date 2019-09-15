@@ -1,0 +1,1 @@
+Graphical information as color images is widely used in CAD and telecommunication systems. Several factors can contribute to impair the quality of an image. This paper deals with image visual quality assessment using objective metrics. Experimental results show that the two modified quality metrics outperform existing ones for a wide set of possible distortions.

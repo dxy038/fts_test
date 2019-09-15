@@ -1,0 +1,11 @@
+Objective
+Integration of sensory information by cortical network binding appears to be crucially involved in target detection. Studies in schizophrenia using functional and diffusion tensor neuroimaging, event-related potentials and EEG coherence indicate an impairment of cortical network coupling in this disorder. Previous electrophysiological investigations in animals and humans suggested that gamma activity (oscillations at around 40 Hz) is essential for cortical network binding. Studies in medicated schizophrenia provide evidence for a reduced gamma activity in the context of auditory stimulus processing. This is the first investigation of oscillatory activations in the gamma-band in an auditory oddball paradigm in unmedicated schizophrenic patients.
+Methods
+EEG gamma-band responses (GBRs) of 15 drug-free schizophrenic patients and 15 age- and gender-matched healthy controls were compared. A wavelet transform based on Morlet wavelets was employed for the calculation of oscillatory GBRs.
+Results
+In response to standard stimuli, early evoked GBRs (20–100 ms), which are supposed to reflect auditory cortex activation, did not show significant group differences. However, schizophrenic patients showed reduced evoked GBRs in a late latency range (220–350 ms), particularly after target stimuli. This deficit occurred over right frontal scalp regions. Furthermore, significant correlations were observed between oscillatory GBRs and clinical parameters in schizophrenic patients.
+Conclusions
+The results are consistent with a relative preserved stimulus processing in the auditory cortex as reflected by the early GBR. The reduced late GBR is compatible with an abnormal interaction within a frontal lobe network, as was postulated by previous neuroimaging studies.
+Significance
+The present study provides evidence for disturbed processing within frontal cortical regions in unmedicated schizophrenic patients as indicated by reduced evoked EEG GBRs.
+

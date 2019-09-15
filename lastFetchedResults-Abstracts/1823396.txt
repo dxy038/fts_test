@@ -1,0 +1,8 @@
+Objective
+viously demonstrated that the activation of transient receptor potential vanilloid 1 (TRPV1), a nociceptive ion channel receptor, by capsaicin led to the up-regulation of the osteoprotegerin (OPG)/receptor activator of nuclear factor kappa B ligand (RANKL) ratio in human periodontal ligament (HPDL) cells. Since TRPV1 is recognised as one of the thermo-sensitive cation channels, this study investigated the response of TRPV1 to thermal stimulation in HPDL cells.
+s
+ells were incubated at 45 °C for thermal stimulation. The mRNA expression of OPG, RANKL, tumour necrosis factor α (TNFα), and interleukin-1 β (IL-1β) was determined by using RT-PCR. OPG secretion and RANKL protein expression were analysed by ELISA and Western blot analysis, respectively. The mechanisms of heat-induced TNFα expression were studied using several TRPV1 inhibitors.
+s
+trast to capsaicin, thermal stimulation had no effect on OPG or RANKL expression. Interestingly, the mRNA expression of TNFα, but not IL-1β, was increased by heat. Using TRPV1 antagonists, we confirmed that TNFα up-regulation was mediated by TRPV1. Phospholipase C (PLC) was previously shown to be involved in capsaicin-induced OPG expression. However, we found that protein kinase C, not PLC, was required for heat-induced TNFα expression. Additionally, the use of cytochalasin D, an inhibitor of actin polymerisation, revealed that cytoskeleton rearrangement might be an important mechanism for cellular sensing of thermal stimuli.
+sion
+sults indicate that TRPV1 plays a multi-functional role in HPDL cells depending on the stimuli. In response to heat, TRPV1 activation leads to the induction of TNFα expression.

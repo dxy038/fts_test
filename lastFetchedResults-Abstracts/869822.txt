@@ -1,0 +1,1 @@
+We address a due-date assignment and scheduling problem in a two-machine flow-shop setting. Our objective is to find both the job schedule and the common due-date which minimize maximum earliness, tardiness and due-date costs. We introduce an efficient View the MathML source solution, based on repetitive use of the well-known Johnson Algorithm.

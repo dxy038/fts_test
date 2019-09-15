@@ -1,0 +1,11 @@
+Objective
+The advantage of recipient hematopoiesis over that of xenogeneic donors poses a fundamental obstacle to the induction of xenograft tolerance through mixed hematopoietic chimerism. Here we explore the role of β1 integrins in maintenance of human vs porcine hematopoiesis within a human hematopoietic environment.
+Methods
+
+Porcine and human c-kit+ bone marrow cells were purified and cultured on human bone marrow stroma for 6 weeks. The role of VLA-4 and VLA-5 in the maintenance of porcine vs human hematopoiesis in this human stroma-supported long-term bone marrow culture (LTBMC) system was evaluated by using blocking mAbs that bind to both species.
+Results
+
+Blocking VLA-4 with HP2/1 inhibited both human and porcine hematopoiesis, whereas anti-VLA-5 (SAM-1) suppressed the function of human, but not porcine, hematopoietic cells. In mixed LTBMC of porcine and human cells on a human stroma, porcine hematopoietic cells were at a competitive disadvantage, as seen by a rapid decline in cellularity, including clonogenic progenitors. This disadvantage was substantially overcome by the addition of SAM-1. Furthermore, human, but not porcine, cell adhesion to human fibronectin was inhibited by arginine-glycine-aspartic acid (RGD) peptides.
+Conclusion
+
+Taken together, these results indicate that VLA-4 plays critical role for porcine hematopoiesis in a human hematopoietic environment, and raise the possibility that porcine VLA-5 might be unable to bind the respective human ligand and/or to initiate adequate post-ligand-binding signaling. Thus, VLA-5 may provide a potential target for developing approaches to improve porcine hematopoiesis in human recipients.

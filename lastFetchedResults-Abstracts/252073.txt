@@ -1,0 +1,15 @@
+Surface modifications have a great potential for selective emission and
+absorption for applications in photonics, energy conversion, and biosensing.
+Pattern-induced radiative property changes can be an important issue
+in the manufacturing and diagnostics of microelectronic devices. This work
+investigates the polarized diffraction of micromachined silicon wafers. Both
+one-dimensional (1-D) and two-dimensional (2-D) periodic microstructures
+are manufactured by plasma-assisted anisotropic etching. The rotating mask
+method is used to produce 2.25 × 106 2-D structures in a single sample
+(7.5×7.5mm2). Surface topography is characterized by using a scanning electron
+microscope (SEM). A bidirectional scatterometer with high accuracy and
+angular resolution measures the diffraction patterns from the microstructured
+silicon surfaces at a wavelength of 635 nm. The diffraction patterns follow
+the grating equation, which are caused by microstructures and their orientations.
+Predicted diffraction angles are in excellent agreement with the experimental
+results.

@@ -1,0 +1,11 @@
+Objective. An apparatus and procedure are described to determine position specific normalization coefficients for surface EMG of upper extremity musculature.
+
+Study design. Thirty-nine subjects were tested three times. Repeatability of EMG measurements across test sessions was determined by computing intraclass correlation coefficients. Two-way analysis of variance was used to test upper extremity position dependent differences in EMG measurements.
+
+Background. EMG measurements are susceptible to error from skin movement and muscle length changes, both of which may occur when upper extremity positions vary. Normalization of the EMG signal without consideration for such positional influences may lead to erroneous conclusions regarding muscle activation during functional tasks.
+
+Method. An apparatus was designed that allowed subjects to perform three repetitions of maximum elbow flexion, forearm pronation, wrist extension, and wrist flexion with the forearm in neutral and pronated positions. Surface EMG was sampled from eight muscles. Mean EMG on maximum voluntary contraction was computed, and resting EMG was subtracted to obtain EMG normalization coefficients.
+
+Results. Upper extremity position affected the EMG normalization coefficient for biceps brachii, which was lower in the pronated position, and extensor carpi radialis, which was higher in the pronated position (P<0.00625).
+
+Conclusions. The apparatus accommodates various combined positions of the elbow, forearm and wrist. The normalization procedure is efficient for testing subjects who are being observed during functional tasks. Only two muscles were affected by upper extremity position, but group trends were not always consistent with individual behavior. This method would ensure the use of appropriate EMG normalization coefficients regardless of individual variation.

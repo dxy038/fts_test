@@ -1,0 +1,11 @@
+Topology optimization is used to systematically design periodic materials that are optimized for multiple properties and
+prescribed symmetries. In particular, mechanical stiffness and fluid transport are considered. The base cell of the periodic
+material serves as the design domain and the goal is to determine the optimal distribution of material phases within this
+domain. Effective properties of the material are computed from finite element analyses of the base cell using numerical homogenization
+techniques. The elasticity and fluid flow inverse homogenization design problems are formulated and existing techniques
+for overcoming associated numerical instabilities and difficulties are discussed. These modules are then combined and
+solved to maximize bulk modulus and permeability in periodic materials with cubic elastic and isotropic flow symmetries. The
+multiphysics problem is formulated such that the final design is dependent on the relative importance, or weights, assigned by
+the designer to the competing stiffness and flow terms in the objective function. This allows the designer to tailor the microstructure
+according to the materials’ future application, a feature clearly demonstrated by the presented results. The methodology
+can be extended to incorporate other material properties of interest as well as the design of composite materials.

@@ -1,0 +1,1 @@
+We propose a localization algorithm that tries to improve the Monte Carlo technique for mobile sensor networks by merging different alternatives into the original Monte Carlo algorithm. Our objective is to reduce some of its existing liabilities, while guaranteeing a better accuracy, faster localization convergence, and controlled communication overhead.

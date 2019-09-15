@@ -1,0 +1,1 @@
+A predicate-transition net is proposed for modeling planning problems so that the size of the model is manageably small. As an analysis tool, a bidirectional means-ends search is proposed. This method is efficient and general purpose. The net model is graphical and easier to understand than other representations

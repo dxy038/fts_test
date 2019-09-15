@@ -1,0 +1,7 @@
+We consider a single resource that performs a set of jobs, each job being defined by its operation time and its due date. Jobs are not preemptive, which means that a job that starts cannot be interrupted before completion. These jobs have been scheduled so as to minimize the total tardiness, and the schedule is known.
+
+A new job appears in the system at the current point in time that is called time 0. Its operation period and its due date are known only at the time of its appearance that is at time 0. For this particular job, the due date cannot be violated. The execution order of the jobs from the given schedule cannot be changed, but they can be postponed if needed. The objective is to insert the new job in the given schedule in order not to violate the deadline while minimizing the increase of the total tardiness resulting from the postponement of some scheduled jobs required by the insertion of the new job.
+
+A new job of the same kind appears from time to time in this system. We suppose that when a new job arises, the previous new job (if any) has been scheduled. Thus, the insertion process applies at unexpected points in time and the deadline is short, which means that this process must run in real-time.
+
+The proposed algorithm is composed of two parts: an offline part that prepares the real-time computation and an online part that runs in real-time.

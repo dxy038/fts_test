@@ -1,0 +1,1 @@
+In this paper, we propose an objective skill level evaluation method for Taijiquan. The proposed skill level evaluation method utilizes a logarithmic distribution diagram of curvature for spiral arm motion and a cross-correlation for whole body motion. In order to demonstrate a possibility of the proposed method, we present experimental results with a Kinect sensor.

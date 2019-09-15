@@ -1,0 +1,8 @@
+Semiparametric necessary and sufficient proper efficiency conditions are established for a class
+of constrained multiobjective fractional optimal control problems with linear dynamics, containing
+arbitrary norms. Moreover, utilizing these proper efficiency results, eight semiparametric duality
+models are formulated and appropriate duality theorems are proved. These proper efficiency and
+duality criteria contain, as special cases, similar results for several classes of unorthodox optimal
+control problems with multiple, fractional, and conventional objective functions, which are particular
+cases of the main problem considered in this paper.
+ 2003 Elsevier Science (USA). All rights reserved.

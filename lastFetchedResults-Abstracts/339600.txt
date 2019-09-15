@@ -1,0 +1,11 @@
+Objective
+AML1-ETO fusion protein is a product of chromosome translocation t(8;21) frequently occurred in acute myeloid leukemia (AML), but its sole expression appears to fail to cause overt leukemia in vivo. In this study, we investigated whether AML1-ETO expression impinged on action of chemical carcinogens-DNA adduct formation.
+Materials and Methods
+
+AML1-ETO fusion protein was conditionally induced in engineered U937-A/E 9/14/18 cells. The formation of polycyclic aromatic hydrocarbon (PAH)-DNA adducts and the expression of PAH-metabolizing enzymes cytochrome P450 (CYP) 1A1 and arylhydrocarbon receptor (AhR) were detected by Western blot and/or quantitative RT-PCR. Luciferase reporter system was used to detect the regulation of AML1-ETO on CYP1A1 transcription.
+Results
+
+Our results showed that AML1-ETO induction significantly increased the formation of carcinogen benzopyrene-DNA adducts in leukemic cells. In line with the effect, we also found that AML1-ETO induction upregulated CYP1A1 expression, which was dependent on AML1-binding motif in the promotor of CYP1A1 gene. Additionally, AML1-ETO protein also increased AhR expression, a ligand-activated transcription factor that mediates PAHs-induced CYP1A1 gene expression.
+Conclusion
+
+These data, combined with its inhibitory effect on DNA repair as reported previously, propose that the presence of AML1-ETO increases the susceptibility of cells to chemical carcinogens, which favors the development of additional genetic alterations.

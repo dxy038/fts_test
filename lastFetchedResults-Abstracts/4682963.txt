@@ -1,0 +1,1 @@
+This paper presents a coding mechanism which is able to generate H.264/AVC video streams with reduced decoding complexity. By including decoding complexity cost in the selection of coding modes and motion vectors, it is shown that significant savings in decoding computational complexity can be achieved at the expense of very small loss of objective quality.

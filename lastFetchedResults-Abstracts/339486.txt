@@ -1,0 +1,11 @@
+Objective
+A number of flow cytometric assays for natural killer (NK) cell cytotoxicity have been described, however, the relative merits of analytical approaches and the influence of platelets on measured responses have not been systematically evaluated. Information on the time-dependent variability in measured responses is also limited.
+Materials and Methods
+
+Human peripheral blood mononuclear cells were obtained using Nycoprep 1.077, or Nycoprep 1.077 followed by Nycoprep 1.068 (to remove platelets), and incubated for 3 hours with MitoTracker Green (MTG)-labeled K562 cells. Cells were stained with propidium iodide (PI) and the proportions of viable and nonviable target cells (MTG+PI−, MTG+PI+) were determined by flow cytometry using quadrant and polygonal region analysis.
+Results
+
+Platelets inhibited NK cell cytotoxicity and the response was underestimated when the nonviable target cell population was not entirely enclosed within the nonviable target cell (upper right) flow cytometric quadrant. The variability in measured NK cell cytotoxic responses in samples obtained from five individuals on three occasions over a 3-week period was 28%, 24%, 26%, and 37%, and 19%, 23%, 27%, and 32% for the quadrant and region analyses (mean coefficient of variation at effector-to-target cell ratios of 100:1, 50:1, 25:1, and 12.5:1, respectively), and 24% and 20% when data were calculated as the area under the cytotoxic curve (AUCC).
+Conclusion
+
+Polygonal regions and the calculation of data as the AUCC appear to be the best approach. This study will be of value to investigators that are wishing to incorporate an NK cell cytotoxicity assay into their portfolio of experimental techniques.

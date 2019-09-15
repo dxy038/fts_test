@@ -1,0 +1,1 @@
+In this paper, a floorplanner for low power designs is presented. Our objective is to optimize total power consumption and area during the selection and placement of circuit modules. Furthermore, our method considers the reduction of power line noises, thermal reliability problems, and performance requirements

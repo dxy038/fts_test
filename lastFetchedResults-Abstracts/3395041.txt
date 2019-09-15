@@ -1,0 +1,1 @@
+Traditional active circuits only allow amplification in one direction and hence cannot perform the same function as passive circuits like the Wilkinson power divider (combiner). By integrating the bidirectional element into a distributed amplifier, a novel integrated active divider and combiner is proposed for wideband and active splitting (combining).

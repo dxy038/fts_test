@@ -1,0 +1,9 @@
+Objective Bayesianism has been criticised for not allowing learning from experience:
+it is claimed that an agent must give degree of belief 12
+to the next raven being black,
+however many other black ravens have been observed. I argue that this objection can
+be overcome by appealing to objective Bayesian nets, a formalism for representing
+objective Bayesian degrees of belief. Under this account, previous observations exert
+an inductive influence on the next observation. I show how this approach can be used to
+capture the Johnson–Carnap continuum of inductive methods, as well as theNix–Paris
+continuum, and show how inductive influence can be measured.

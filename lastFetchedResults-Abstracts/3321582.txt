@@ -1,0 +1,1 @@
+The main objective of this paper is to determine a closed formula for the forward, backward and symmetric solution of a general discrete time AutoRegressive Moving Average (ARMA) Representation. The importance of the above formula is that it is easily implemented in a computer algorithm and gives rise to the solution of analysis, synthesis and design problems.

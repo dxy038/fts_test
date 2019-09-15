@@ -1,0 +1,1 @@
+Recently, a marching-on in degree finite difference method (MOD-FDM) was employed in the finite-difference time-domain (FDTD) formulation to obtain unconditionally stable transient responses. The objective of this work is to implement a plane wave excitat

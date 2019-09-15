@@ -1,0 +1,1 @@
+In the paper, we firstly formulate the natural casing packing problem (NCPP) as a double-objective integer programming model, and then propose a two-stage heuristic algorithm for solving NCPP. Numerical results show that our model and algorithm can determine a nearly optimal solution. Finally, we build an extended version of the model to formulate other related problems.

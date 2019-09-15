@@ -1,0 +1,1 @@
+An objective measure of speech quality over a Voice over Internet Protocol link is investigated, in which conventional diagnostic rhyme test (DRT) assessment using human listeners is replaced by automatic recognition of DRT data. Results are presented for two speech CODECs over a range of packet sizes and loss rates

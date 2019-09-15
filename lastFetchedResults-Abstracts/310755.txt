@@ -1,0 +1,11 @@
+Objective.  The purpose of this study was to recognize gait pattern in ankle arthrodesis by using a neural network trained with time domain input and compare the performance of the neural network with the statistical method.
+
+Design. Three-layered feed-forward back propagation neural network and a statistical method were used to classify gait patterns of patients with ankle arthrodesis and normal subjects.
+
+Background. Although backpropagation neural networks are very efficient in many pattern recognition tasks, they have not been used for gait pattern recognition of ankle arthrodesis.
+
+Methods. A total of eighteen parameters measured by force platforms, including nine force parameters and their chronologic incidence of occurrence, were used to classify gait patterns.
+
+Results. The results showed that the neural network model was able to classify subjects with recognition rates up to 95.8%. In contrast, the statistical method was only able to classify the subjects with recognition rates of 91.5%.
+
+Conclusions. The backpropagation neural network method has better accuracy than the statistical method in discriminating subjects and the time domain features carry important prognostic information.

@@ -1,0 +1,11 @@
+Objective
+Severe myelosuppression is a common side effect of radiotherapy or chemotherapy. Methods have been developed to protect patients by stimulating white blood cell or red blood cell recovery/production using growth factors such as G-CSF or EPO. However, there is no available means to stimulate the full-lineage blood cell recovery from severe myelosuppression. In this study, we used lethally or sublethally irradiated animal models to evaluate the hematopoiesis stimulating effect of IL-12.
+Materials and Methods
+
+IL-12-treated lethally or sublethally irradiated animals were examined for the survival/lifespan, the function assays (bone marrow transplantation, CFU-S12, CFC) of bone marrow cell subsets, and apoptosis assay.
+Results
+
+Using a low dose of IL-12 (10 times lower than previously reported dose), 91.4% of lethally irradiated animals survived long term without adverse effects on the gastrointestinal (GI) system. The reconstituted hematopoietic system was derived from long-term reconstituting hematopoietic stem cells (LTR HSC), which reconstituted hematopoiesis both endogenously after lethal radiation and in secondary recipients by bone marrow transplantation (BMT). IL-12 significantly attenuated the decline of blood cell counts in sublethally irradiated animals. The IL-12-stimulated hematopoiesis recovery resulted in a full-lineage blood cell production, including white and red blood cells, and platelets. There was no detectable expression of IL-12 receptor on LTR HSC. In IL-12-treated animals, the number of Sca-1+ cells was significantly higher than in animals without IL-12 treatment.
+Conclusion
+
+In this study, we showed a low dose of IL-12 has hematopoietic-protecting effects, which can attenuate severe myelosuppresion caused by lethal or sublethal irradiation. This study, together with previous studies showing IL-12 is also an anti-tumor and anti-angiogenic agent, suggest IL-12 may have clinical significance in cancer treatment and BMT.

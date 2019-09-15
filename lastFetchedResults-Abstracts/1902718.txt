@@ -1,0 +1,8 @@
+Purpose
+cribe survival in previously treated patients with metastatic renal cell carcinoma (RCC) who are candidates for clinical trials of new agents as second-line therapy.
+ts and methods
+lationship between pretreatment clinical features and survival was studied in 251 patients with advanced RCC treated during 29 consecutive clinical trials between 1975 and 2002. Clinical features were first examined in univariate analyses, and then a stepwise modeling approach based on Cox regression was used to form a multivariate model.
+s
+ survival for the 251 patients was 10.2 months and differed according to year of treatment, with patients treated after 1990 showing longer survival. In this group, the median overall survival time was 12.7 months. Because the purpose of this analysis was to establish prognostic factors for present-day clinical trial design, prognostic factor analysis was performed on these patients. Pretreatment features associated with a shorter survival in the multivariate analysis were low Karnofsky performance status, low hemoglobin level, and high corrected serum calcium. These were used as risk factors to categorize patients into three different groups. The median time to death in patients with zero risk factors was 22 months. The median survival in patients with one of these prognostic factors was 11.9 months. Patients with two or three risk factors had a median survival of 5.4 months.
+sion
+ent with novel agents during a clinical trial is indicated for patients with metastatic RCC after progression to cytokine treatment. Three prognostic factors for predicting survival were used to categorize patients into risk groups. These risk categories can be used in clinical trial design and interpretation.

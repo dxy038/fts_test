@@ -1,0 +1,11 @@
+Objective
+To analyze the functional connectivity patterns of the EEG slow-wave activity during the different sleep stages and Cyclic Alternating Pattern (CAP) conditions, using concepts derived from Graph Theory.
+Methods
+We evaluated spatial patterns of EEG slow-wave synchronization between all possible pairs of electrodes (19) placed over the scalp of 10 sleeping healthy young normal subjects using two graph theoretical measures: the clustering coefficient (Cp) and the characteristic path length (Lp). The measures were obtained during the different sleep stages and CAP conditions from the real EEG connectivity networks and randomized control (surrogate) networks (Cp-s and Lp-s).
+Results
+Cp and Cp/Cp-s increased significantly from wakefulness to sleep while Lp and Lp/Lp-s did not show changes. Cp/Cp-s was higher for A1 phases, compared to B phases of CAP.
+Conclusions
+The network organization of the EEG slow-wave synchronization during sleep shows features characteristic of small-world networks (high Cp combined with low Lp); this type of organization is slightly but significantly more evident during the CAP A1 subtypes.
+Significance
+Our results show feasibility of using graph theoretical measures to characterize the complexity of brain networks during sleep and might indicate sleep, and the A1 phases of CAP in particular, as a period during which slow-wave synchronization shows optimal network organization for information processing
+

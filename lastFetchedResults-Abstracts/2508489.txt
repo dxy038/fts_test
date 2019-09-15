@@ -1,0 +1,22 @@
+Background: Gel polymers are considered as new dosimeters for determining
+radiotherapy dose distribution in three dimensions.
+Objective: The ability of a new formulation of MAGIC-f polymer gel was assessed by experimental measurement and Monte Carlo (MC) method for studying the
+effect of gold nanoparticles (GNPs) in prostate dose distributions under the internal
+Ir-192 and external 18MV radiotherapy practices.
+Method: A Plexiglas phantom was made representing human pelvis. The GNP shaving 15 nm in diameter and 0.1 mM concentration were synthesized using chemical
+reduction method. Then, a new formulation of MAGIC-f gel was synthesized. The fabricated gel was poured in the tubes located at the prostate (with and without the GNPs)
+and bladder locations of the phantom. The phantom was irradiated to an Ir-192 source
+and 18 MV beam of a Varian linac separately based on common radiotherapy procedures used for prostate cancer. After 24 hours, the irradiated gels were read using a
+Siemens 1.5 Tesla MRI scanner. The absolute doses at the reference points and isodose
+curves resulted from the experimental measurement of the gels and MC simulations
+following the internal and external radiotherapy practices were compared.
+Results: The mean absorbed doses measured with the gel in the presence of the
+GNPs in prostate were 15% and 8 % higher than the corresponding values without the
+GNPs under the internal and external radiation therapies, respectively. MC simulations
+also indicated a dose increase of 14 % and 7 % due to presence of the GNPs, for the
+same experimental internal and external radiotherapy practices, respectively.
+Conclusion: There was a good agreement between the dose enhancement factors
+(DEFs) estimated with MC simulations and experiment gel measurements due to the
+GNPs. The results indicated that the polymer gel dosimetry method as developed and
+used in this study, can be recommended as a reliable method for investigating the DEF
+of GNPs in internal and external radiotherapy practices.

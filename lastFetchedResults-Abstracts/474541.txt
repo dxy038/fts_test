@@ -1,0 +1,9 @@
+Background
+There is growing evidence that symptoms of depression influence the development of cardiovascular disease. The objective of this study was to evaluate the direct and indirect relationships between symptoms of depression, body mass index (BMI), and hypertension in a biracial (African American–white) rural population.
+Methods
+This is a cross-sectional study with 1017 study participants (aged 12 to 62 years, 60% white, and 52% women) from 561 families of the Bogalusa Heart Study. A two-stage modeling approach was used to evaluate the relationship between symptoms of depression, BMI, and hypertension. Generalized estimating equation methods (GEE) were used to account for within family correlations. Adjusted coefficients (95% confidence interval [CI]) and odds ratios (OR) were used to explore relationships.
+Results
+Mean (± SE) BMI of the study population was 28 (±7). Thirty-two percent of those studied had presumptive depression and 13.4% had hypertension. The indirect effect of a 5 unit higher symptoms of depression score was associated with a 14% (OR: 1.14; 95% CI: 1.01–1.28; P< .02) higher likelihood of being hypertensive due to presence of a higher level of BMI in both whites and African Americans. The direct effect of a 5 unit higher symptoms of depression score was found to be nonsignificant (OR: 1.05; 95% CI: 0.92–1.20; P< .22) in whites and significant (OR: 0.81; 95% CI: 0.68–0.95; P< .004) in African Americans.
+Conclusions
+The presence of a significant indirect effect of symptoms of depression (mediated through higher level of BMI) in both whites and African Americans suggests that BMI can be an intermediate variable linking symptoms of depression and hypertension.
+

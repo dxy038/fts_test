@@ -1,0 +1,1 @@
+The objective of cognitive potentials classification is the automatic recognition of movements orders from the scalp EEG. This work analyses the performance of recognition and clustering techniques using a single channel EEG signal. Classification and decision rates are presented

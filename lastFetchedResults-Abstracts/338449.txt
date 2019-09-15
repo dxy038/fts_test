@@ -1,0 +1,11 @@
+Objective
+Previous clinical studies have demonstrated two distinctive pharmacokinetic behaviors of erythropoietin (EPO): changes in pharmacokinetics (PK) after a period of rhEPO treatment and nonlinear pharmacokinetics. The objective of this work was to study the temporal changes in EPO's PK following phlebotomy in order to propose possible mechanisms for this behavior.
+Methods
+
+Five healthy adult sheep were phlebotomized on two separate occasions 4–6 weeks apart to hemoglobin levels of 3–4 g/dL. PK parameters were estimated from the concentration-time profiles obtained following repeated intravenous bolus PK studies using tracer doses of biologically active 125I-rhEPO. Based on the changes in clearances, a PK model was derived to provide a mechanistic receptor-based description of the observed phenomena.
+Results
+
+Phlebotomy resulted in a rapid increase in the EPO plasma concentration, which peaked at 760 ± 430 mU/mL (mean ± SD) at 1.8 ± 0.65 days, and which coincided with a transient reduction in EPO clearance from prephlebotomy values, i.e., from 45.6 ± 11.2 mL/hr/kg to 24.3 ± 9.7 mL/hr/kg. As plasma EPO levels returned toward baseline levels in the next few days, a subsequent increase in EPO clearance was noted. EPO clearance peaked at 90.2 ± 26.2 mL/hr/kg at 8.5 ± 3.3 days and returned to baseline by 4–5 weeks postphlebotomy. The proposed model derived from these data includes positive feedback control of the EPO receptor (EPOR) pool.
+Conclusion
+
+The model predicts that: 1) the initial reduction in EPO plasma clearance is due to a transient saturation of EPORs resulting from the phlebotomy-induced high EPO concentration; and 2) the EPOR pool is expandable not only to compensate for EPOR loss but also to adjust to a greater need for EPORs/progenitor cells to restore hemoglobin (Hb) concentration to normal levels.

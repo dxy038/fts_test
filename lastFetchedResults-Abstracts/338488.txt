@@ -1,0 +1,11 @@
+Objective
+A truncated common β chain (ΔβC) of the interleukin-3 (IL-3) receptor complex was previously identified as a key factor in inducing autonomous growth of IL-3–independent mutants. Expression of ΔβC in IL-3–dependent hematopoietic cells does not result in immediate factor-independent growth, but increases the frequency of obtaining autonomous mutants by three to four orders of magnitude. This study was designed to delineate the mechanisms by which ΔβC increases the frequency to autonomous growth.
+Design and Methods
+
+Retroviral vectors were used to express ΔβC into IL-3–dependent myeloid cells, which were then tested for factor-independent growth. To determine if secondary genetic events were required for conversion to autonomous growth, elements of the Cre-loxP recombinant system were used to excise ΔβC in factor-independent clones.
+Results
+
+Excision of ΔβC in factor-independent clones revealed two types of phenotypes: reversion to factor-dependent growth (1/8) or continued IL-3–dependent growth (7/8). Analysis of cells that remained factor independent revealed constitutive activation of STAT5, not observed in factor-dependent revertants. Analysis of revertant cells demonstrated the presence of interacting secondary mutations that synergize with ΔβC-induced proliferation. A cysteine residue within the truncated extracellular domain of ΔβC was also found to be required for its oncogenic potential, supporting a model of dimerization for receptor activation.
+Conclusions
+
+The high incidence of obtaining factor-independent mutants from cells expressing ΔβC results from the selection of mutations that either complement ΔβC expression to promote proliferation or that singly or in synergy with other secondary mutations negate the requirement of ΔβC expression for proliferation.

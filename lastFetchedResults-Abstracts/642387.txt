@@ -1,0 +1,11 @@
+Objective
+Subjective Global Assessment (SGA) is a widely used and validated method for identifying and classifying malnutrition. Recently, in effort to assess nutritional status more accurately, quantitative systems have been devised in which scores are assigned for items or components of the SGA. In addition to validation of conventional SGA in our patient population, this prospective study investigated the association of a recently devised quantitative SGA (Q-SGA) method and an invented modified Q-SGA (MQ-SGA) scoring system with conventional SGA.
+Methods
+
+A total of 2197 patients was evaluated. Each subject was assessed for malnutrition by SGA, anthropometric measurements, and laboratory testing. The items of SGA were scored by assigning 1 point for each increasing severity level to obtain the Q-SGA score. In the invented MQ-SGA system, the items were entered into the logistic regression model and weighted scores were calculated according to the weighted effect of the SGA items. The efficiencies of Q-SGA and MQ-SGA were compared to predict malnutrition according to SGA.
+Results
+
+Eighty-nine percent of patients were classified as well nourished according to conventional SGA, whereas 27 patients (1.2%) were classified as severely malnourished. When patients were grouped according to binary SGA outcome (well nourished versus malnourished), receiver operating characteristics curve areas for the Q-SGA and MQ-SGA scores were 0.897 (95% confidence interval = 0.875–0.919) and 0.952 (95% confidence interval = 0.939–0.964), respectively. The cutoff points for Q-SGA and MQ-SGA were identified as 10 and 18, respectively. Although the sensitivity of these systems in identifying malnutrition were similar (90.0% and 90.9%, respectively), the specificity of MQ-SGA was greater than that of Q-SGA (85.6% versus 67.0%).
+Conclusions
+
+The findings suggest that MQ-SGA outperforms Q-SGA in identifying malnutrition according to SGA. Future nutrition scoring studies need to take into account the weighted effects of items on outcome.

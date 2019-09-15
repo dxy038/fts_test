@@ -1,0 +1,1 @@
+In this paper, we focus on game rule design by using two evolutionary computations. The first EC is a multi-objective evolutionary algorithm in order to generate various skilled players. By using acquired skilled players, i.e., Pareto individuals in MOEA, another EC (evolutionary programming) adjusts game rule parameters i.e, an appropriate point of each card in the COMMONS GAME

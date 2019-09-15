@@ -1,0 +1,1 @@
+A global supply network planning model for application in the production of chemical commodities is presented. Major modules of the model formulation reflect sales, distribution, production, and procurement activities. The objective of the model is to maximize profit by coordinating all activities within the supply chain. The model formulation is related to a real industry case.

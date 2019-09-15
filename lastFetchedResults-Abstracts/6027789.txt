@@ -1,0 +1,1 @@
+LORAMbis is a joint research program involving FOI (Sweden) and ONERA (France). The objective is to evaluate the performance of low frequency bistatic SAR for clutter reduction in under-foliage target detection. This paper presents the SAR bistatic system and a few campaign results.

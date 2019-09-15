@@ -1,0 +1,9 @@
+Objective
+We evaluated the performance of different prediction equations to estimate fat-free mass (FFM) from bioelectrical impedance analysis (BIA) in the elderly.
+Methods
+This study was based on 106 (51 male and 55 female) free-living 75-y-old subjects who participated in the Göteborg part of the Nordic Research on Ageing (NORA) study during 1991 and 1992. FFM predicted from BIA (FFMGOT) was validated against FFM estimated from measurements of total body water and total body potassium (FFMREF). FFM was calculated from BIA prediction equations for the elderly developed by Deurenberg et al. (FFMWAG) and Roubenoff et al. (FFMFHS). FFM also was calculated from an equation developed in subjects with a wide age range by Kyle et al. (FFMGEN). Bland-Altman analysis was performed to compare FFMREF with FFMGOT, FFMWAG, FFMFHS, and FFMGEN, respectively. FFMGOT also was compared with FFM derived from these published equations.
+Results
+Compared with FFMREF, the FFMFHS and FFMWAG underestimated FFM by 2.6 and 7.9 kg in males and 4.2 and 9 kg in females, respectively. The FFMGEN underestimated FFM in females by 1.3 kg but not in males (mean difference, −0.04 kg). FFM calculated from the BIA equation developed in this population (FFMGOT) neither underestimated nor overestimated FFM as compared with FFMREF, as expected. The differences between FFMGOT and FFMs predicted from these equations were of the same magnitude as that observed with FFMREF.
+Conclusion
+Different prediction equations produced different values for FFM. The age-specific equations developed in other populations underestimated FFM, whereas FFMGEN produced an unbiased estimate of FFM in males but not in females. Thus, the BIA prediction equation needs to be developed and validated in the population under study.
+

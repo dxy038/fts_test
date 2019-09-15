@@ -1,0 +1,16 @@
+The main problem in performance-based structures is the extremely high
+computational demand of time-history analyses. In this paper, an ecient framework
+is developed for solving the performance-based multi-objective optimal design problem
+considering the initial cost and the seismic damage cost of steel moment-frame structures.
+The Non-dominated Sorting Genetic Algorithm (NSGA-II) is employed as the optimization
+algorithm to search the Pareto optimal solutions. For improving the time eciency of
+the solution algorithm, the Generalized Regression Neural Network (GRNN) is utilized
+as the meta-model for tness approximation, and a specic evolution control scheme is
+developed. In this scheme, in order to determine which individuals should be evaluated
+using the original tness function and which by the meta-model, the Fuzzy C-Mean (FCM)
+clustering algorithm is used to choose the competent individuals rather than choosing
+the individuals randomly. Moreover, the computational burden of time history analyses
+is decreased through a particular wavelet analysis procedure. The constraints of the
+optimization problem are considered in accordance with the FEMA codes. The results
+obtained from numerical application of the proposed framework demonstrate its capabilities
+in solving the present multi-objective optimization problem.

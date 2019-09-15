@@ -1,0 +1,11 @@
+Objective
+Adult T-cell leukemia (ATL) is a mature CD4+ T-cell malignancy caused by infection with human T-lymphotrophic virus type-1 and is associated with a marked hypercalcemia in many patients. Recently, it has been proposed that macrophage inflammatory protein-1α (MIP-1α) is the clinical hallmark of hypercalcemia in ATL. In this study, we investigated the effect of extracellular calcium on MIP-1α secretion in ATL cells and the role of Ca2+/calmodulin (CaM)-dependent protein kinase (CaM-K) cascade in transcriptional activation of MIP-1α.
+Materials and Methods
+
+MIP-1α protein levels in the culture supernatant collected from ATL cells were measured by enzyme-linked immunosorbent assay. Reporter plasmid containing the MIP-1α promoter was transfected to ATL cells, and the promoter activity was measured by luciferase assay.
+Results
+
+The addition of calcium to the culture medium enhanced the secretion of MIP-1α from ATL cells, which was inhibited by the CaM-KK inhibitor. The transfection of CaM-KIV stimulated MIP-1α promoter activity, and the upstream kinase CaM-KK enhanced the stimulatory effect of CaM-KIV on the promoter activity. Mutation in the cyclic adenosine 5′ monophosphate response element (CRE) within the MIP-1α promoter significantly reduced the effect of CaM-KIV, and CRE mutant promoter activity was not significantly enhanced by the addition of calcium to the culture medium as compared to wild-type promoter activity.
+Conclusion
+
+Hypercalcemia enhances MIP-1α secretion in ATL cells, and this mechanism requires the involvement of CaM-KK/CaM-KIV cascade through the CRE. These findings raise a possibility that the inhibitory effect of CaM-KK/CaM-KIV cascade may be a potential therapeutic target for ATL.

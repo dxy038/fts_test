@@ -1,0 +1,11 @@
+Objective
+To explore the effects of electrical stimulation performed by an anode, a cathode or a bipole positioned over the motor cortex for chronic pain management.
+Methods
+A realistic 3D volume conductor model of the human precentral gyrus (motor cortex) was used to calculate the stimulus-induced electrical field. The subsequent response of neural elements in the precentral gyrus and in the anterior wall and lip of the central sulcus was simulated using compartmental neuron models including the axon, soma and dendritic trunk.
+Results
+While neural elements perpendicular to the electrode surface are preferentially excited by anodal stimulation, cathodal stimulation excites those with a direction component parallel to its surface. When stimulating bipolarly, the excitation of neural elements parallel to the bipole axis is additionally facilitated. The polarity of the contact over the precentral gyrus determines the predominant response. Inclusion of the soma-dendritic model generally reduces the excitation threshold as compared to simple axon model.
+Conclusions
+Electrode polarity and electrode position over the precentral gyrus and central sulcus have a large and distinct influence on the response of cortical neural elements to stimuli.
+Significance
+Modeling studies like this can help to identify the effects of electrical stimulation on cortical neural tissue, elucidate mechanisms of action and ultimately to optimize the therapy.
+

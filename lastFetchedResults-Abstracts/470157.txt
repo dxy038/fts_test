@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to compare strategies of corticosteroid administration for the prevention of neonatal morbidity and death.
+Study design
+A Markov decision model compared 3 strategies of antepartum corticosteroid administration: (1) to all pregnant women (universal), (2) to all pregnant women with a previous preterm delivery (high risk), and (3) to women who had preterm labor symptoms that placed them at risk for delivery within 7 days (current). A second model with addition of a “rescue” arm to capture women who remained undelivered was also created.
+Results
+Compared with the current strategy, the universal strategy would result in roughly 1000 fewer cases of respiratory distress syndrome and >3 million more women would receive corticosteroids annually. The addition of a rescue arm further reduces morbidity and mortality rates.
+Conclusion
+A universal strategy of corticosteroid administration confers potential benefit for the prevention neonatal morbidity or death over the current strategy but requires that a large number of women be treated.
+

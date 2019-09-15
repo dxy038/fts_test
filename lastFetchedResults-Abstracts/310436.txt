@@ -1,0 +1,11 @@
+Objective. An MRI-based technique for non-invasive assessment of the quantitative distribution of articular cartilage in the knee-joint was to be developed, and its accuracy and reproducibility tested.
+
+Design. Three cadaveric specimens and one patient were studied and MRI measurements compared with anatomical sections or arthroscopy.
+
+Background. Data on articular cartilage thickness is needed for the design of computer models, determination of cartilage material properties from arthroscopy and staging of osteoarthrosis.
+
+Methods. The knees were imaged using strongly T2-weighted spin-echo and FISP-3D sequences. After digital subtraction and automatic segmentation, three-dimensional reconstruction of the cartilages was performed. Surface areas, volumes and the mean cartilage thickness were calculated, and the regional distribution displayed after trigonometric correction.
+
+Results. The difference between MRI volumes and those obtained from the sections ranged from 4 to 21% with a reproducibility of ±4 to ±12% after repositioning. The thickness maps obtained with MRI were very similar to those from the sections. In the patient, a full-thickness defect demonstrated with MRI was verified by arthroscopy.
+
+Conclusions. Using the technique presented, the quantitative distribution of knee-joint cartilage may be analysed non-invasively, accurately, and in a very time-effective manner, in cadavers and in living subjects.

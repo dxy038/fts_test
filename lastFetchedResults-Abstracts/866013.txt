@@ -1,0 +1,1 @@
+In this paper, we examine a bicriteria scheduling problem with objective of minimizing total tardiness and earliness vs mean flow time and also minimizing total tardiness vs total earliness. Since they have conflicting results we will use compromise programming in order to generate the efficient point

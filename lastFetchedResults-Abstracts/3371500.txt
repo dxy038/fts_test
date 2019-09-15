@@ -1,0 +1,1 @@
+This paper considers a computer configuration design problem. The computer system is modeled by a closed queuing network. The system throughput is the objective function to be maximized and the speed of the devices are the decision variables. A rich class of non-linear cost functions is considered.

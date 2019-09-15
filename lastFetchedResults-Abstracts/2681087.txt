@@ -1,0 +1,13 @@
+Maintaining the health of people during and after a disaster is one of the most
+important issues in disaster management. Blood products are among the essential
+items needed to save the human life and the lack of them may lead to significant
+losses in human health. In this paper a comprehensive mathematical model of
+blood products supply chain is presented to respond the need for blood products in
+disaster situations. The proposed model is a bi objective mixed integer
+programming model and with respect to the unstable conditions during the disaster,
+uncertain parameters are modelled by fuzzy numbers. An interactive possibilistic
+programming approach is applied to handle the uncertainty. The developed model
+is implemented for the earthquake disaster case study in mega city of Tehran using
+blood transfusion network data. The results show the ability of the proposed model
+in generating effective solutions under earthquake conditions. 
+

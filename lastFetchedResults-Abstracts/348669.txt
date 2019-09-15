@@ -1,0 +1,11 @@
+Objective
+We propose a theoretical framework for EEG and evoked potential studies based on the single postulate that these data are composed of a combination of waves (as this term is used in the physical sciences) and thalamocortical network activity.
+Methods
+Using known properties of traveling and standing waves, independent of any neocortical dynamic theory, our simple postulate leads to experimental predictions, several of which have now been verified. A mathematical–physiological theory of “brain waves” based on known (but highly idealized) properties of cortical synaptic action and corticocortical fibers is used to support the framework.
+Results
+Brain waves are predicted with links between temporal frequencies and the spatial distributions of synaptic activity. Such dispersion relations, which essentially define more general phenomena as waves, are shown to restrict the spatial–temporal dynamics of synaptic action with many experimental EEG consequences.
+Conclusions
+The proposed framework accounts for several salient features of spontaneous EEG and evoked potentials.
+Significance
+We conjecture that wave-like behavior of synaptic action may facilitate interactions between remote cell assemblies, providing an important mechanism for the functional integration underlying conscious experience.
+

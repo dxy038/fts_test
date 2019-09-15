@@ -1,0 +1,14 @@
+According to extent of elcctrical distribution system, always probabilities of severe disturbances are available and this system may experience emergency condition in witch some of variables such as grid frequency , voltage , equipment limits, and etc. may be violated . To control and alleviate the problem and also prevent of electrical distribution system instability (that finally led to system black out) , the control (dispatching) center may using "Load Shedding and Generation Reallocation (LSGR)" terms.
+But an important question here is: "how much is the optimum amount of load shedding and also generation reallocation to retrieval the power system to normal condition?"
+For answering above question, based on one of the strongest mathematical method (Non linear programming), an effective LSGR optimization problem is proposed in this thesis.
+In this mathematical optimization problem (Non linear programming) the
+objective function consists of "load curtailment" and "powerplant
+reallocation" terms as decision making variables.
+Beside various constraints like equipment capabilities, voltage
+magnitudes, frequency limitation and load flow equations, the load
+dependency of voltage and frequency is considered.
+Following, an algorithm is designed and proposed for getting the best
+result/conclusion of LSGR optimization problem. Finally the developed
+algorithm are tested on typical power system, the result achieved proved
+that the technique are highly capable of relieving emergency conditions.
+

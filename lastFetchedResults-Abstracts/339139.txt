@@ -1,0 +1,11 @@
+Objective
+The LIM-finger protein LMO2 forms a transcription factor complex with other hematopoietic regulator proteins, such as TAL1 (SCL), LDB1, GATA1, 2, and 3, in the promoters of several erythroid genes. To elucidate the functional role of two LIM domains in LMO2, we introduced deletion or mutation in each of the LIM domains and analyzed their phenotypic effects on the hematopoietic system when overexpressed in vivo or in vitro.
+Materials and Methods
+
+Protein interactions of LIM-modified LMO2 constructs with TAL1, LDB1, and GATAs were examined in an immunoprecipitation assay. In vivo hematopoiesis in transgenic mice with wild-type and LIM-modified Lmo2 was studied morphologically and by measuring the progenitor cells in fetal liver. Their effects on the erythroid differentiation of the dimethylsulfoxide (DMSO)-induced murine erythroleukemia (MEL) cells were evaluated.
+Results
+
+Deletion of the LIM2 domain, but not of the LIM1 domain, abolished its binding of GATA proteins. Overexpression of wild-type LMO2 is known to have dominant negative inhibitory effects on erythropoietic development. Enforced expression of LMO2 constructs with mutant or absent LIM2 but with an intact LIM1 domain resulted in fetal death, small livers and hearts, and decreased hematopoiesis, as well as a hypoplastic thymus. DMSO-induced erythroid differentiation of the MEL cells was inhibited by the overexpressed LMO2 with mutant LIM2 but not by the LMO2 with modified LIM1.
+Conclusion
+
+Overexpression of the LMO2 with modified LIM2 inhibited hematopoiesis probably by interfering with the formation of the physiological complex or by replacing the functional LMO2 with mutants with reduced affinity to GATA proteins. In this experiment, no evident effect of the LMO2 with modified LIM1 could be observed.

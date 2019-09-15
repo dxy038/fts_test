@@ -1,0 +1,11 @@
+Background
+WHO advocates the use of directly observed treatment with a short-course drug regimen as part of the DOTS strategy, but the potential effect of this strategy worldwide has not been investigated.
+Methods
+
+We developed an age-structured mathematical model to explore the characteristics of tuberculosis control under DOTS, and to forecast the effect of improved case finding and cure on tuberculosis epidemics for each of the six WHO regions.
+Findings
+
+In countries where the incidence of tuberculosis is stable and HIV-1 absent, a control programme that reaches the WHO targets of 70% case detection and 85% cure would reduce the incidence rate by 11% (range 8-12) per year and the death rate by 12% (9-13) per year. If tuberculosis has been in decline for some years, the same case detection and cure rates would have a smaller effect on incidence. DOTS saves a greater proportion of deaths than cases, and this difference is bigger in the presence of HIV-1. HIV-1 epidemics cause an increase in tuberculosis incidence, but do not substantially reduce the preventable proportin of cases and deaths. Without greater effort to control tuberculosis, the annual incidence of the disease is expected to increase by 41% (21-61) between 1998 and 2020 (from 7·4 million to 10·6 million cases per year). Achievement of WHO targets by 2010 would prevent 23% (15-30) or 48 million cases by 2020.
+Interpretation
+
+The potential effect of chemotherapy (delivered as DOTS) on tuberculosis is greater in many developing countries now than it was in developed countries 50 years ago. To exploit this potential, case detection and cure rates urgently need to be improved in the main endemic areas.

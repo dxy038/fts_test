@@ -1,0 +1,1 @@
+The n-job, two-machine, multi-robot flowshop scheduling problem is considered with the objective of minimizing makespan. Various transportation, setup and loading/unloading effects arising in a modern flexible manufacturing cell are modeled by a graph representation of the technological process. An algorithm of O(n2) complexity is derived to solve the problem to optimality.

@@ -1,0 +1,14 @@
+This paper proposes and investigates a Combined Ejector-Cooling and
+Power (CECP) system, using R123 as a working 
+uid to utilize the solar energy over
+a low temperature range. Evacuated tube solar collectors are used to collect the solar
+radiation for their low costs. A thermal storage system and an auxiliary boiler are used
+to provide continuous cooling and power output when solar radiation is not sucient.
+Mathematical models are employed to simulate the system under steady-state conditions.
+The results obtained reveal that solar collector and auxiliary boiler are the main exergy
+destruction sources. Parametric analysis is conducted to examine the eects of some key
+thermodynamic parameters on the system performance. The results indicate that under
+the actual constraints, increasing turbine inlet pressure elevates system eciency while
+increasing turbine inlet temperature and turbine back pressure decreases that. The system
+is also optimized with the energy and exergy eciencies as objective functions by means of
+genetic algorithm under the given conditions.

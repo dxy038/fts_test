@@ -1,0 +1,6 @@
+In this paper a characterization of seismic site response is proposed, taking into
+consideration geo-morphological conditions, geotechnical and geophysical parameters such as slope,
+average shear-wave velocity, maximum expected acceleration on bedrock, depth of ground water table.
+An empirical relationship is presented between these parameters and applied, with the objective of
+determining ground motion amplification coefficients to be used in specific programs of land use or town
+planning dedicated to the mitigation of seismic risk.

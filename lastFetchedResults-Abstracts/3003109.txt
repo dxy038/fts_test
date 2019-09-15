@@ -1,0 +1,1 @@
+We develop a fast MoM analysis procedure and optimization using specific GA operators for a planar-coupled TSA (tapered slot-line antenna) with sum/difference beams. A multi-objective optimization method is applied to search for a balanced combination of the gain in the sum-beam and the -slant in the difference-beam. A test sample provides the desired good performance.

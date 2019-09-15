@@ -1,0 +1,12 @@
+This paper provides some results concerning sensitivity analysis in parametrized
+convex vector optimization. We consider three types of perturbation maps  i.e.,
+perturbation map, proper perturbation map, and weak perturbation map. accord-
+ing to three kinds of solution concepts  i.e., minimality, proper minimality, and
+weak minimality with respect to a fixed ordering cone. for a vector optimization
+problem. As for general vector optimization, authors have already established the
+behavior of the above three types of perturbation maps by using the concept of
+contingent derivatives for set-valued maps in finite dimensional Euclidean spaces.
+In this paper we concentrate on convex vector optimization and provide quantitative
+properties of the perturbation maps under some convexity assumptions.
+Namely, we investigate the relationships between the contingent derivatives of the
+perturbation maps and those of the feasible set map in the objective space.

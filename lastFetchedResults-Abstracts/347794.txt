@@ -1,0 +1,5 @@
+Objective: The present study was aimed at testing whether foreperiod duration affects the activity recorded over the primary sensorimotor cortices during the reaction time.
+Methods: The foreperiod duration (500 or 2500 ms) was varied across blocks of trials during a between-hand choice reaction time task; surface Laplacians were estimated from EEG recordings by the source derivation method.
+Results: Reaction time was shorter for the 500 ms foreperiod than for the 2500 ms foreperiod. A contralateral negativity/ipsilateral positivity pattern showed up over the primary sensorimotor cortices. The time between the contralateral negativity onset and the electromyographic onset was shorter for the 500 ms foreperiod than for the 2500 ms foreperiod, which suggests that the foreperiod affects the implementation of the motor command. Furthermore, the interval between the onset of the voluntary electromyographic activity and the mechanical response was shorter for the 500 ms foreperiod than for the 2500 ms foreperiod.
+Conclusions: These results indicate that time preparation affects both central and peripheral motor processes.
+

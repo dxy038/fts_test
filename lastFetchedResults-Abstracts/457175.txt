@@ -1,0 +1,7 @@
+Objective
+Ca2+-activated K+-channels (BKCa) play an important role in lysophosphatidylcholine (LPC)-induced endothelial dysfunction. Aim of our study was to investigate whether LPC-induced activation of BKCa is also involved in monocyte adhesion to endothelial cells (EC).
+Methods and results
+Measurement of membrane potential (MP) was performed using the fluorescence dye DiBAC. Adhesion of the monocytotic cell line U937 to EC was analysed by 3[H]-thymidine-adhesion-assay. Expression of ICAM-1 and VCAM-1 were analyzed by FACS. LPC induced a hyperpolarization of EC in a dose-dependent manner with the maximum seen with 2 μM. This was prevented by the BKCa-inhibitor iberiotoxin (IBX, 100 nM). Adhesion of U937 cells to EC was increased after stimulation of EC with LPC. This effect was time-dependent with the maximum seen after 4 h. LPC-induced adhesion was significantly reduced when EC were co-incubated with IBX, or NAD(P)H oxidase inhibitor diphenyleneiodonium (DPI, 5 μM) and also blocked by addition of 2-aminoethoxydiphenylborate (2-APB, 100 μM) or the calcium-chelator BAPTA (10 μM). Stimulation of U937 cells with LPC did not result in an increased adhesion to unstimulated EC.
+Conclusion
+Activation of the endothelial BKCa plays an important role in monocyte adhesion to endothelial cells.
+

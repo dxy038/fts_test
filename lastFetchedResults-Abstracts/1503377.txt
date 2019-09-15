@@ -1,0 +1,13 @@
+A novel and robust approach is proposed to nd the optimum shape of concrete
+arch dams located on any unsymmetrical shape of a valley. The approach is capable of
+nding the optimum shape for any given valley type in suitable time, based on abutment
+stability analysis, against thrust forces from an arch dam. The behavior and stability
+of a concrete arch dam is strongly dependent on the bedrock on which the dam rests.
+The stability of the abutment is considered a constraint in the proposed approach. In
+addition, a new objective function is introduced to decrease the nal volume of the arch
+dam. Furthermore, a computer program was developed, which takes the eect of the dam
+foundation system into consideration, and can model most loads applicable to arch dams.
+The optimization problem is solved via both Particle Swarm Optimization (PSO) and
+classical methods. Several practical factors have been considered to make the approach
+more feasible and eective in practical projects. The results show the eciency of the
+proposed method and the nal shape satises all constraints.

@@ -1,0 +1,11 @@
+Objective
+To assess the feasibility and robustness of an asynchronous and non-invasive EEG-based Brain–Computer Interface (BCI) for continuous mental control of a wheelchair.
+Methods
+In experiment 1 two subjects were asked to mentally drive both a real and a simulated wheelchair from a starting point to a goal along a pre-specified path. Here we only report experiments with the simulated wheelchair for which we have extensive data in a complex environment that allows a sound analysis. Each subject participated in five experimental sessions, each consisting of 10 trials. The time elapsed between two consecutive experimental sessions was variable (from 1 h to 2 months) to assess the system robustness over time. The pre-specified path was divided into seven stretches to assess the system robustness in different contexts. To further assess the performance of the brain-actuated wheelchair, subject 1 participated in a second experiment consisting of 10 trials where he was asked to drive the simulated wheelchair following 10 different complex and random paths never tried before.
+Results
+In experiment 1 the two subjects were able to reach 100% (subject 1) and 80% (subject 2) of the final goals along the pre-specified trajectory in their best sessions. Different performances were obtained over time and path stretches, what indicates that performance is time and context dependent. In experiment 2, subject 1 was able to reach the final goal in 80% of the trials.
+Conclusions
+The results show that subjects can rapidly master our asynchronous EEG-based BCI to control a wheelchair. Also, they can autonomously operate the BCI over long periods of time without the need for adaptive algorithms externally tuned by a human operator to minimize the impact of EEG non-stationarities. This is possible because of two key components: first, the inclusion of a shared control system between the BCI system and the intelligent simulated wheelchair; second, the selection of stable user-specific EEG features that maximize the separability between the mental tasks.
+Significance
+These results show the feasibility of continuously controlling complex robotics devices using an asynchronous and non-invasive BCI.
+

@@ -1,0 +1,1 @@
+A four-port bidirectional non-blocking optical router based on microring resonators is reported. The average power consumption of the optical router is about 10.37 mW and its crosstalk is less than -13 dB. Route functionality and signal integrity are verified by transmitting a 12.5 Gbps PRBS NRZ optical signal.

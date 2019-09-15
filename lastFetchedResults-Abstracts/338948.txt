@@ -1,0 +1,11 @@
+Objective
+In patients with lymphopenia following allogeneic stem cell transplantation adenovirus (ADV) infection is associated with high morbidity and mortality despite aggressive antiviral drug therapy. Virus-specific T cells seem to be essential for virus elimination. The aim of this study was to isolate and expand donor-derived human ADV-specific T lymphocytes for adoptive transfer of sufficient cell numbers to restore protective immunity after allogeneic stem cell transplantation.
+Materials and methods
+
+A clinical-grade strategy to generate ADV-specific T cells using the interferon-γ (IFN-γ) secretion assay, followed by expansion to numbers sufficient for clinical application with interleukin-2 (IL-2) and feeder cell stimulation, is described.
+Results
+
+A mean number of 3.4×106 (±3 SD) ADV antigen-specific T lymphocytes were isolated from 0.1 to 2×109 mononuclear cells from peripheral blood (n = 5) or leukapheresis products (n = 6). Characterization of ADV-specific T cells after isolation revealed a mean purity of 85.1% (±12% SD) using antigen-specific intracellular cytokine staining. Isolated cells were expanded ex vivo for a median of 18 days (range 7–29 days; n = 5) to greater than 108 total cells using IL-2 and autologous feeder cell stimulation. ADV-specific response to adenovirus antigen was confirmed in the generated T cell lines, using intracellular cytokine staining, IFN-γ Elispot assay, and 3H-thymidine uptake. Generated T-cell lines showed specific killing of ADV-infected B-LCL (n = 4). Alloreactive proliferation of generated T-cell lines in mixed lymphocyte cultures was significantly reduced when compared to unmanipulated PBMCs.
+Conclusion
+
+Generation of adenovirus-specific T cells in a simple and rapid clinical-grade protocol was established, using IFN-γ secretion assay with short expansion times, leading to sufficient numbers of ADV-specific T cells that can be used for adoptive immunotherapy.

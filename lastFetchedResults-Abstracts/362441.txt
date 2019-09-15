@@ -1,0 +1,9 @@
+Study objective
+Adolescent firearms-carrying is a risk factor for serious injury and death. Clinical screening tools for firearms-carrying have not yet been developed. We present the development of a preliminary screening test for adolescent firearms-carrying based on the growing body of knowledge of firearms-related risk factors.
+Methods
+A convenience sample of 15,000 high school students from the 1999 National Youth Risk Behavior Survey was analyzed for the purpose of model building. Known risk factors for firearms-carrying were candidates for 2 models predicting recent firearms-carrying. The “brief FiGHTS score” screening tool excluded terms related to sexual behavior, significant substance abuse, or criminal behavior (Fi=fighting, G=gender, H=hurt while fighting, T=threatened, S=smoker). An “extended FiGHTS score,” which included 13 items, was developed for more precise estimates.
+Results
+The brief FiGHTS score had a sensitivity of 82%, a specificity of 71%, and an area under the receiver operating characteristic (ROC) curve of 0.84. The extended FiGHTS score had an area under the ROC curve of 0.90. Both models performed well in a validation data set of 55,000 students.
+Conclusion
+The brief and extended FiGHTS scores have high sensitivity and specificity for predicting firearms-carrying and may be appropriate for clinical testing.
+

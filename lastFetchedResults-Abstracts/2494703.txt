@@ -1,0 +1,21 @@
+Objective: To evaluate the capability of ascitic fluid dipstick results for pH, glucose, and
+protein in order to predict a low serum-ascites albumin gradient (SAAG) at the bedside of
+the patient in the emergency department (ED).
+Methods: This prospective cross-sectional study was conducted during one year in the
+ED of Afzalipour hospital in Kerman, Iran. All patients with diagnostic or therapeutic
+paracentesis of ascitic fluid were considered as eligible patients. Exclusion criteria included
+clinical suspicion for spontaneous bacterial peritonitis (SBP), any contraindications to
+paracentesis, and patients’ refusal to participate in the study. Dipstick values were obtained
+at the bedside, and SAAG was calculated after the determination of serum and ascitic fluid
+albumin by laboratory. A low SAAG ascitic fluid was defined as the study outcome. We
+also used our study population as a test group to evaluate an equation proposed in one
+previous study: K = 0.012 Protein?0.012 Glucose?3.329 pH+23.498
+Results: A total of 50 patients were enrolled in the study. Based on multivariate regression
+analysis, dipstick values for protein and glucose were independently predictive of a low
+SAAG ascitic fluid (P = 0.23, OR = 1.04; and P = 0.001, OR = 0.81, respectively). The formula
+proposed in one of the previous studies was tested by our data set, with sensitivity,
+specificity, positive predictive value (PPV), and negative predictive value (NPV) at 84%,
+83%, 84%, and 80%, respectively.
+Conclusion: Dipstick test of ascitic fluid for pH, glucose, and protein has an acceptable
+sensitivity and specificity as a point of care test, but it cannot be recommended as a
+substitute for SAAG determination based on the current findings.

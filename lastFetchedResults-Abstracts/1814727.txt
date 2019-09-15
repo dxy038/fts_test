@@ -1,0 +1,10 @@
+This paper describes a methodology in designing high-performance concrete for simply supported beams, using a hybrid
+optimization strategy based on a variable neighborhood search threshold acceptance algorithm. Three strategies have been
+applied to discrete optimization of reinforced concrete beams: Variable Neighborhood Descent (VND), Reduced Neighborhood
+Search (RNS) and Basic Variable Neighborhood Search (BVNS). The problem includes 14 variables: two geometrical; one
+material type; one mix design; and 10 variables for the reinforcement setups. The algorithms are applied to two objective
+functions: the economic cost and the embedded CO2 emissions. Firstly, this paper presents the application of these three different
+optimization strategies, which are evaluated by fitting the set of solutions obtained to a three-parameter Weibull distribution
+function. The Variable Neighborhood Descent with Threshold Accepting acceptance strategy algorithm (VND-TA) results as the
+most reliable method. Finally, the study presents a parametric study of the span length from 10 to 20 m in which it can be
+concluded that economic and ecological beams show a good parabolic correlation with the span length.

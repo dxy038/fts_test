@@ -1,0 +1,14 @@
+Inter-AS outbound traffic engineering (TE) is a set of techniques for
+controlling inter-AS traffic exiting an autonomous system (AS) by assigning the
+traffic to the best egress points (i.e. routers or links) from which the traffic is forwarded
+to adjacent ASes towards the destinations. In practice, changing network
+conditions such as inter-AS traffic demand variation, link failures and inter-AS
+routing changes occur dynamically. These changes can make fixed outbound TE
+solutions inadequate and may subsequently cause inter-AS links to become congested.
+In order to overcome this problem, we propose the deployment of a closedloop
+control traffic engineering system that makes outbound traffic robust to inter-AS
+link failures and adaptive to changing network conditions. The objective is to keep
+the inter-AS link utilization balanced under unexpected events while reducing service
+disruptions and reconfiguration overheads. Our evaluation results show that the
+proposed system can successfully achieve better load balancing with less service
+disruption and re-configuration overhead in comparison to alternative approaches.

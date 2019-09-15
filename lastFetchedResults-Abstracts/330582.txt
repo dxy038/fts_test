@@ -1,0 +1,7 @@
+Objective: A novel laser interferometric method for monitoring linear polymerization shrinkage in dental restoratives is demonstrated.
+
+Methods: The experimental apparatus consists of a low power Helium–Neon laser, a home-built Michelson interferometer, amplified photodiode detectors, and a computer data acquisition system. The feasibility of using interferometry to measure linear shrinkage was evaluated by measuring the percent linear contraction in five commercially available light cured restorative systems.
+
+Results: Five-min interferometric curing profiles were collected for each restorative using a 400 mW/cm2 curing light irradiance. The ‘interferograms’ were converted into percent linear contraction profiles that revealed the relative kinetics of material shrinkage. The overall percent linear contraction after 5 min compares favorably with literature data for the five commercial restoratives studied here.
+
+Significance: Interferometry offers several advantages over conventional methods of measuring polymerization contraction. These advantages include the inherent sensitivity and accuracy offered by interferometric measurements; the instrument does not need to be calibrated since the wavelength of the laser light source provides an accurate length standard. Also, the ability to collect data at high acquisition rates allows for the real-time characterization of unusually fast photopolymerization reactions. The low cost and relative ease of use associated with the apparatus are also advantageous.

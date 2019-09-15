@@ -1,0 +1,1 @@
+A new mixed-integer linear programming objective function for optimising an f.i.r. linear-phase digital filter is presented. In comparison with the conventional objective function, the new one has the advantages of reducing the number of delays and/or the coefficient wordlength.

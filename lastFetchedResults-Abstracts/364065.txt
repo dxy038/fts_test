@@ -1,0 +1,9 @@
+Study objective
+We hypothesize that emergency department (ED) volume and increased patient complexity are associated with lower quality of care, as measured by time to antibiotics for patients being admitted with community-acquired pneumonia.
+Methods
+This was a cross-sectional study at a university tertiary care hospital ED. Community-acquired pneumonia patients admitted from the ED and discharged between January 2004 and June 2005 were reviewed by our institution for The Joint Commission’s antibiotic timing core measure. Medical records were abstracted for patient age, sex, race, mode of transport, arrival time, triage acuity, inpatient level of care, and arrival-to-antibiotic-administration times. Controlling for patient characteristics, multivariate logistic regression determined association of antibiotic administration within 4 hours of arrival, with total ED volume at the time of the community-acquired pneumonia patient’s arrival, and with number of ED patients requiring admission at the time of arrival.
+Results
+Four hundred eighty-six patients were eligible for the study; antibiotic administration time was available for 405. Sixty-one percent of patients received antibiotics within 4 hours. Antibiotic administration within 4 hours was less likely with a greater number of patients (odds ratio 0.96 per additional patient; 95% confidence interval 0.93 to 0.99) and a greater number of patients ultimately admitted (odds ratio 0.93 per patient; 95% confidence interval 0.88 to 0.99) in the ED. The effect of additional patients was present below total ED capacity.
+Conclusion
+As ED volume increases, ED patients with community-acquired pneumonia are less likely to receive timely antibiotic therapy. The effect of additional patients appears to occur even at volumes below the maximum bed capacity. Measures to ensure that quality targets are met in the ED should consider the impact of ED volume.
+

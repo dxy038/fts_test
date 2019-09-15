@@ -1,0 +1,1 @@
+This paper describes the development of a 1.9 kVA bi-directional power flow matrix converter for the control of a three phase induction motor. The advantages of such a converter are that power flow is inherently bidirectional so that four-quadrant operation is automatically achieved, it draws sinusoidal input current and no large reactive components are needed.

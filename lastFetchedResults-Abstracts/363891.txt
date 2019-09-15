@@ -1,0 +1,9 @@
+Study objective
+The aim of this study is to characterize hospital and patient characteristics associated with administration of thrombolysis in acute ischemic stroke patients in the United States.
+Methods
+This retrospective, observational, cohort study used data from the Nationwide Inpatient Sample, an administrative discharge database. A total of 366,194 hospitalizations admitted through the emergency department with a primary diagnosis of acute ischemic stroke were selected for analysis. The primary outcome considered in this study is whether the patient received thrombolytic therapy on hospital day 0 or 1.
+Results
+Thrombolysis was used in 1.12% (95% confidence interval [CI] 0.95% to 1.32%) of ischemic stroke hospitalizations. Most hospitals (69.5%; 95% CI 68.4% to 70.6%) treating ischemic stroke patients did not use thrombolysis during the study period. For the hospitals that used thrombolysis, the mean annual number of patients treated with thrombolysis per hospital was 3.06 (95% CI 2.68 to 3.44). In the binary logistic regression analysis, hospital characteristics associated with high use of thrombolysis were teaching hospital status and increasing number of stroke patients treated annually. Patient characteristics associated with higher use of thrombolysis were age younger than 55 years, male sex, and low comorbidity as measured by the modified Charlson Index; white race; and private self-pay health insurance.
+Conclusion
+Use of thrombolysis for ischemic stroke in the United States from 1999 to 2004 was infrequent and showed significant differences, depending on hospital and patient demographic characteristics
+

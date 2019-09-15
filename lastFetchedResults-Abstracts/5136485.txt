@@ -1,0 +1,1 @@
+In this paper a new multi-objective approach is presented to find the optimal placement of phasor measurement units (PMUs). The proposed method is based on a new parallel tabu search (TS) algorithm, and the lack of communication in substations can be considered, as a constraint. Finally, the solution for different cases are given and discussed.

@@ -1,0 +1,1 @@
+Function bidirectional S-rough sets realizes dynamic template matching between reference template and test template, then calculates the Levenstein distance with dynamic programming algorithm of Bellman principle and finds the knowledge distance measure which can reduce the compute complexity greatly.

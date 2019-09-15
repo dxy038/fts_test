@@ -1,0 +1,25 @@
+High-velocity transverse impact of laminated
+fiber reinforced composites is of interest in military, marine
+and structural applications. The overall objective of this
+work was to investigate the behavior of laminated thermoplastic
+composites of varying thicknesses under highvelocity
+impact from an experimental and modeling
+viewpoint. In order to analyze this problem, a series of
+ballistic impact tests have been performed on plain weave
+E-glass/polypropylene (E-glass/PP) composites of different
+thicknesses using 0.30 and 0.50 caliber right-cylinder
+shaped projectiles. A gas gun with a sabot stripper mechanism
+was employed to impact the panels. In order to
+analyze the perforation mechanisms, ballistic limit and
+damage evaluation, an explicit three-dimensional finite
+element code LS-DYNA was used. Material model 162, a
+progressive failure model based on modified Hashin’s
+criteria, has been assigned to analyze failure of the laminate.
+The projectile was modeled using Material model 3
+(MAT_PLASTIC_KINEMATIC). The laminates and the
+projectile were meshed using brick elements with single
+integration points. The impact velocity ranged from 187 to
+332 m s-1. Good agreement between the numerical and
+experimental results was attained in terms of predicting
+ballistic limit, delamination and energy absorption of
+E-glass/PP laminate

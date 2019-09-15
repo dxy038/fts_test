@@ -1,0 +1,18 @@
+Variational design sensitivity analysis is a
+branch of structural optimization. We consider variations
+of the material configuration and we are interested
+in the change of the state variables and the objective
+functional due to these variations. In the same manner
+in configurational mechanics we are interested in
+changes of the material body. In this paper, we derive
+the physical and material residual problem by using
+standard optimization procedures and we investigate
+sensitivity relations for the physical and material problem.
+These sensitivity relations are used in order to
+solve the coupled physical and material problem. Both
+problems are coupled by the pseudo load operator,
+which play an important role for the solution of structural
+optimization problems. Furthermore, we derive
+explicit formulations for the variations of the physical
+and material problem and propose different solution
+algorithms for the coupled problem.

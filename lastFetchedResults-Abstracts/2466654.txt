@@ -1,0 +1,10 @@
+Context
+re development depends significantly on team performance, as does any process that involves human interaction.
+ive
+urrent development methods argue that teams should self-manage. Our objective is thus to provide a better understanding of the nature of self-managing agile teams, and the teamwork challenges that arise when introducing such teams.
+
+ducted extensive fieldwork for 9 months in a software development company that introduced Scrum. We focused on the human sensemaking, on how mechanisms of teamwork were understood by the people involved.
+s
+cribe a project through Dickinson and McIntyre’s teamwork model, focusing on the interrelations between essential teamwork components. Problems with team orientation, team leadership and coordination in addition to highly specialized skills and corresponding division of work were important barriers for achieving team effectiveness.
+sion
+tioning from individual work to self-managing teams requires a reorientation not only by developers but also by management. This transition takes time and resources, but should not be neglected. In addition to Dickinson and McIntyre’s teamwork components, we found trust and shared mental models to be of fundamental importance.

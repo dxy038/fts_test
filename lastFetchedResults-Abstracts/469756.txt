@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to evaluate the influence of symptomatic vulvovaginal candidiasis on the shedding of HIV-1 in cervicovaginal secretions of HIV-1–infected women.
+Study design
+We obtained paired blood and cervicovaginal lavage samples from 66 HIV-infected women with symptomatic vulvovaginal candidiasis, and 249 HIV-infected control patients without genital infection. HIV-1 RNA in plasma, proviral HIV-1 DNA, HIV-1 RNA transcripts, and cell-free HIV-1 RNA in cervicovaginal secretions were quantitatively evaluated by competitive polymerase chain reaction (cPCR) and reverse transcriptase PCR (cRT-PCR). We used logistic regression on ordered data to assess the influence of vulvovaginal candidiasis on the HIV-1 load in cervicovaginal secretions adjusting for potential confounders.
+Results
+Overall, the amount of HIV-1 RNA in plasma was significantly correlated with HIV-1 DNA (Spearman rank 0.153 ± 0.059, P = .006), HIV-1 RNA transcripts (Spearman rank 0.169 ± 0.058, P = .003), and cell free HIV-1 RNA (Spearman ank 0.185 ± 0.059, P = .001) load in cervicovaginal secretion. Forty-eight out of 182 (26.4%) patients who tested negative for HIV-1 RNA in plasma were positive for HIV-DNA in their cervicovaginal secretions. In logistic regression analysis vulvovaginal candidiasis was significantly associated with increasing loads of HIV-1 RNA transcripts (Odds ratio [OR] 1.97, 95% CI 1.09-3.57, P = .025) and cell free HIV-1 RNA (OR 2.03, 95% CI 1.10-3.73, P = .02) in cervicovaginal secretions.
+Conclusion
+In HIV-infected women, vulvovaginal candidiasis is associated with an increased number of copies of cell-associated and cell-free HIV-1 RNA in cervicovaginal secretions.
+

@@ -1,0 +1,1 @@
+Autoassociations of spatio-temporal sequences have been discussed by a number of authors. We propose a mechanism for storing and retrieving pairs of spatio-temporal sequences with the network architecture of the standard bidirectional associative memory (BAM), thereby achieving heteroassociations of spatio-temporal sequences.

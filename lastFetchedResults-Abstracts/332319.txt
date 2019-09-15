@@ -1,0 +1,11 @@
+Objective
+The aim of the investigation was to assess the influence of sandblasting, grinding, grinding orientation, polishing and heat treatment on the flexural strength of a yittria stabilized tetragonal zirconia polycrystals ceramic (Y-TPZ).
+Methods
+
+The specimens (160 beams) were equally divided into four groups according to the surface treatment (sandblasted, polished, ground parallel to the tensile axis, ground perpendicular). Twenty specimens from each group underwent heat treatment under the firing conditions used to fire a layer of porcelain and glaze. After treatment, the three-point flexure test was used to calculate the flexural strength and X-ray diffraction analysis was used to estimate the relative amount of monoclinic phase. The reliability of strength was assessed through the Weibull distribution. Statistical analysis was conducted with multiple regression analysis, one-way ANOVA and Tukey's pairwise multiple comparisons. Treated and fractured surfaces were observed with SEM.
+Results
+
+The following values of strength and relative content of monoclinic phase of zirconia were measured for each group: sandblasted (1540 MPa; 9.5%); ground parallel (1330 MPa; 8.3%); ground perpendicular (1525 MPa; 8.3%); ground parallel and heated (1225 MPa; monoclinic content not detectable); ground perpendicular and heated (1185 MPa; monoclinic content not detectable); polished and heated (1165 MPa; monoclinic content not detectable); polished (1095 MPa; 0.8%); sandblasted and heated (955 MPa; 0.3%).
+Conclusions
+
+The present study suggests that sandblasting and grinding may be recommended to increase the strength of dental Y-TZP, provided they are not followed by heat treatment. Fine polishing may remove the layer of compressive stresses and therefore, lower the mean flexural strength.

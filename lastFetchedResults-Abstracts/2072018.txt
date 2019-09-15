@@ -1,0 +1,5 @@
+The CMS experiment at the Large Hadron Collider at CERN is in the last phase of its construction. The harsh radiation environment at LHC will put strong demands in radiation hardness to the innermost parts of the detector.
+
+ess the performance of irradiated silicon microstrip detector modules, a testbeam was conducted at the Testbeam 22 facility of the DESY research center. The primary objective was the signal-to-noise measurement of fully irradiated CMS Tracker modules to ensure their functionality up to 10 years of LHC operation.
+
+per briefly summarises the basic setup at the facility and the hardware and software used to collect and analyse the data. Some interesting subsidiary results are shown, which confirm the expected behaviour of the detector with respect to the signal-to-noise performance over the active detector area and for different electron energies. The main focus of the paper are the results of the signal-to-noise over reverse bias voltage measurements for CMS Tracker Modules which were exposed to different radiation doses.

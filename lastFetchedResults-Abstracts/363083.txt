@@ -1,0 +1,9 @@
+Study objective
+This study tests the effect of a brief intervention with emergency department (ED) patients to reduce at-risk drinking.
+Methods
+We enrolled patients aged 18 years or older who screened positive for at-risk drinking in an urban academic ED and used alternative allocation to assign them to control or intervention status. A 20-minute, semiscripted, negotiated interview was conducted with the intervention group in English and Spanish by 3 health promotion advocates (peer educators). The Alcohol Use Identification Test (AUDIT) was administered at baseline and 3 months after enrollment.
+Results
+Among 1,036 patients screened for at-risk drinking, 295 with CAGE questionnaire score greater than 1 and no alcohol treatment in the past year enrolled in the study and were randomly assigned to the control arm (n=151) or the intervention arm (n=144). Follow-up was achieved with 88 patients in the intervention group and 97 patients in the control group (63% of enrollees). Among the 185 patients followed up, 64% of the intervention group versus 80% of the control group scored greater than 7 on the follow-up AUDIT (scored on a scale of 1 to 40; P<.05, odds ratio [OR] 2.35, 95% confidence interval [CI] 1.21 to 4.55). Multinomial logistic regression analysis demonstrates, after controlling for demographic characteristics and other independent variables, that assignment to intervention status decreased the odds of at-risk (moderate) drinking as defined by AUDIT scores of 7 to 18 (OR 0.42, P<.05, 95% CI 0.19 to 0.91) but did not affect patients with AUDIT scores in the 19 to 40 range.
+Conclusion
+Brief motivational intervention administered by peer educators to ED patients appears to reduce moderately risky drinking and associated problems.
+

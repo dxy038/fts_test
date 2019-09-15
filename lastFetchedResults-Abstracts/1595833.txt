@@ -1,0 +1,9 @@
+This paper proposes an alternate formulation of the traffic assignment problem using route flows and the shortest Origin-Destination (OD) travel times as the decision variables. This is accomplished through defining a gap function to convert the Nonlinear Complementarity Problem (NCP) formulation to an equivalent Mathematical Program (MP). This formulation has two advantages: 1.
+ can model assignment problems with general route costs which cannot be accomplished with existing formulations that use link-flow variables
+
+he objective function is smooth, convex, and bounded, which permits efficient MP algorithms for its solution.
+
+
+lution approaches are developed to solve the proposed formulation. The first is based on a set of working routes, which are modeled as “known a priori” based on travelers' preferences or interviews. The second approach uses a column generation procedure to generate a new route in each iteration on a need basis. For each approach, we use a Successive Quadratic Programming (SQP) algorithm to solve for the solutions.
+
+w that the formulation is correct, we solve a small example with a general route cost and compare it to the classic traffic equilibrium problem which assumes an additive route cost function. Finally, numerical results for a medium-sized network are provided to demonstrate the feasibility of the solution approach.

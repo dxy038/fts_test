@@ -1,0 +1,1 @@
+Differential simultaneous bidirectional I/O circuits in 0.18 /spl mu/m CMOS operate up to 8 Gb/s with BER better than 10/sup -11/ using 32 b LFSR. The cell area is 0.13 mm/sup 2/ and the dissipation is 120 mW. On-die diagnostic measurement of individual I/O link performance is enabled with a variable offset comparator and clock phase interpolator with resolution of 4 mV and 9 ps.

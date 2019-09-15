@@ -1,0 +1,9 @@
+The main objective of this study is to present new method on the basis of genetic algorithms
+for attenuation relationship determination of horizontal peak ground acceleration and spectral
+acceleration. The proposed method employs the optimization capabilities of genetic algorithm
+to determine the coefficients of attenuation relationships of peak ground and spectral
+accelerations. This method has been applied to 361 Iranian earthquake records with
+magnitudes between 4.5 and 7.4 obtained from two seismic zones, namely Zagros and
+Alborz-Central Iran. The obtained results indicated that the proposed method can be
+characterized as a powerful tool for prediction horizontal peak ground and spectral
+accelerations.

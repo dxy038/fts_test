@@ -1,0 +1,5 @@
+OBJECTIVE: The goal of this study was to create a computational model of the pregnant occupant of a motor vehicle to predict fetal outcome in crashes.
+STUDY DESIGN: A finite element uterine model of a 7-month pregnant woman was created and integrated into a multibody human model. Unrestrained, three-point belt, and three-point belt plus airbag tests were simulated at speeds that ranged from 13 to 55 km per hour.
+RESULTS: Peak uterine strain, as determined by the model, correlated well with the risk of fetal death, as determined by investigations of car crashes. The strain in the uterine wall exceeded the limits of the tissue in simulations of no restraint at 35 km per hour and three-point belt tests at 45 and 55 km per hour. The safest restraint for the pregnant driver is the combination three-point belt and airbag.
+CONCLUSION: The model is a good first step toward the prediction of the risk of fetal death and verified experimental findings that note the importance of proper restraint use for the pregnant occupant.
+

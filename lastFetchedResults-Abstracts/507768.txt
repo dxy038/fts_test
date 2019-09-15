@@ -1,0 +1,9 @@
+Assembly line balancing problem is an approach of assigning a set of tasks to an ordered
+sequence of workstations. This assignment needs to be made in such a way that the
+underlying precedence constraints are not violated and efficiency measures are optimized
+subject to the restriction of the cycle time constraint. Research works, reported so far, mainly
+deal with the minimization of balancing loss, subject to precedence constraints. Lack of
+uniqueness in those optimum solutions and pressing demand to include system loss in the
+objective function have led to the present work of minimization of both balancing and system
+loss. As there is no standard measure for system loss, the current work proposes a measure
+for system loss and offers solution to this bi-objective problem.

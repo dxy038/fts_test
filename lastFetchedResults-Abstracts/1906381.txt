@@ -1,0 +1,17 @@
+Passenger information aims at improving the user-friendliness of public transport systems while influencing passenger
+route choices to satisfy transit user’s travel requirements. The integration of transit information from multiple agencies
+is a major challenge in implementation of multi-modal passenger information systems. The problem of information
+sharing is further compounded by the multi-lingual and multi-cultural population of developing countries such as
+India. Ontology, by explicit specification of conceptualisation, not only addresses the issues pertaining to syntactic
+interoperability arising due to widely varied system architectures and software used by different agencies, but also
+ensures semantic interoperability caused by cognitive and naming heterogeneity. This paper develops a domainspecific
+ontology for public transport systems, which is further integrated with the domain-ontology of urban features
+with an objective of supporting multi-modal public transport information retrieval. The ontology thus developed is
+formalised using Web Ontology Language. In order to evaluate the capability of ontology in passenger information
+retrieval, the proposed ontology is implemented for five regular bus service routes and one bus rapid transit route
+in Ahmedabad city. The study defines 1336 named individuals ( instances of concepts in ontology) including 293
+instances of urban features and 1043 instances of public transport features. The capability of ontology in supporting
+general service information queries, itinerary planning, and multimodal trip planning have also been demonstrated.
+The study concludes that the domain-specific public transport ontology when integrated with urban features ontology,
+not only enables sharing of data across multiple transit agencies, but also expands the search space for passenger route
+choices by sharing the meaning of information.

@@ -1,0 +1,8 @@
+Objective
+aper proposes a novel approach for thyroid ultrasound pattern representation. Considering that texture and echogenicity are correlated with thyroid malignancy, the proposed approach encodes these sonographic features via a noise-resistant representation. This representation is suitable for the discrimination of nodules of high malignancy risk from normal thyroid parenchyma.
+als and methods
+terial used in this study includes a total of 250 thyroid ultrasound patterns obtained from 75 patients in Greece. The patterns are represented by fused vectors of fuzzy features. Ultrasound texture is represented by fuzzy local binary patterns, whereas echogenicity is represented by fuzzy intensity histograms. The encoded thyroid ultrasound patterns are discriminated by support vector classifiers.
+s
+oposed approach was comprehensively evaluated using receiver operating characteristics (ROCs). The results show that the proposed fusion scheme outperforms previous thyroid ultrasound pattern representation methods proposed in the literature. The best classification accuracy was obtained with a polynomial kernel support vector machine, and reached 97.5% as estimated by the area under the ROC curve.
+sions
+sion of fuzzy local binary patterns and fuzzy grey-level histogram features is more effective than the state of the art approaches for the representation of thyroid ultrasound patterns and can be effectively utilized for the detection of nodules of high malignancy risk in the context of an intelligent medical system.

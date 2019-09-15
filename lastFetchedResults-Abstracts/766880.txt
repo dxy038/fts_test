@@ -1,0 +1,26 @@
+The mechanical behaviour of polymeric foams
+depends on several parameters such as temperature,
+material density and strain rate. This last point implies that
+compression tests on conventional testing machines are not
+sufficient. Study of the behaviour in practical situations
+requires special apparatus like fly wheels, drop towers or
+Hopkinson bars, allowing high compression speeds. The
+polypropylene foams studied are multi-scale materials;
+agglomerated beads (2–3 mm in diameter), visible to the
+naked eye, are composed of microscopic closed cells (a
+few tens of microns). The response of the material to a
+shock consists of three regions: an elastic phase, a plastic
+phase and densification. The plastic phase is of prime
+interest since a great part of the shock energy is dissipated
+there. Microtomography was used in order to better
+understand damage mechanisms during the stress plateau
+of the plastic phase. The final objective of this work is to
+determine the strain field of porous materials at several
+levels of shock. As tomography is not fast enough to directly
+follow the impact deformation, interrupted impact
+tests were carried out by controlling the levels of sample
+deformation. Between each impact step, a microtomographic
+analysis offers insight on the progressive deformation
+of the sample. The results of these impact tests
+completed by a microtomographic visualisation in 2D are
+presented and commented in this paper

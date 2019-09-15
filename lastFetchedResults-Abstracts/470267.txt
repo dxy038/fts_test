@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to model the sequence of events that occurs after amnioreduction, laser therapy, and digoxin administration in twin-twin transfusion syndrome (TTTS) with and without a hydropic recipient twin.
+Study design
+We added amnioreduction, laser therapy, and digoxin administration to our mathematical TTTS model and simulated combinations of these therapies.
+Results
+With a nonhydropic recipient, simulated amnioreduction delays the onset of hydrops. Conversely, with a hydropic recipient, amnioreduction aggravates the degree of hydrops. Furthermore, amnioreduction increases the transplacental fluid flow and may temporarily cause a hydropic donor. Laser therapy terminates the cause of recipient hydrops. Digoxin reduces the degree of recipient hydrops, but increases arteriovenous fetofetal transfusion.
+Conclusion
+Laser therapy is superior in TTTS with a hydropic recipient, because simulated amnioreduction aggravates the recipient's cardiovascular status. Digoxin benefits a hydropic recipient but slightly worsens the donor's condition. Therefore, TTTS presenting with a hydropic recipient prior to fetal viability ( 26 weeks) may be best treated with laser therapy, whereas more advanced gestations may be offered digoxin administration plus amnioreduction, to delay the progression of TTTS.
+

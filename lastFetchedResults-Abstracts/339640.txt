@@ -1,0 +1,11 @@
+Objective
+Identification of JAK2V617F in myeloproliferative disorders makes JAK2 an important marker for disease diagnosis and a highly attractive target for therapeutic drug development. This study is intended to identify a sensitive and specific substrate for assays of the JAK2 enzymatic activity.
+Methods
+
+We expressed a glutathione S-transferase (GST) fusion protein designated GST-JAKS, which carries a peptide sequence derived from the autophosphorylation sites of human JAK2. The protein was purified from Escherichia coli cells and was used to analyze to tyrosine kinase activities of purified enzymes and crude cell extracts from cells, including mononuclear cells of JAK2V617F -positive polycythemia vera blood. It was also used to perform JAK2 kinase assays to screen inhibitors of JAK2.
+Results
+
+GST-JAKS is strongly phosphorylated by activated forms of JAK2 including JAK2V617F and recombinant protein containing its catalytic domain alone. It showed minimal responses to wild-type JAK2 and was not phosphorylated by the epidermal growth receptor and the insulin receptor tyrosine kinases. Kinase assays with GST-JAKS provide a sharp contrast between wild-type and mutant JAK2,V617F and are sensitive enough to detect minute amounts of JAK2V617F found in crude cell extracts. Assays can be scaled up to screen for inhibitors of JAK2 in a dot blot format.
+Conclusion
+
+GST-JAKS is sensitive and specific protein substrate for JAK2 assays. It may have clinical applications in diagnosis of diseases related to abnormal JAK2 activity. It is also an excellent substrate for development of large scale assays to screen JAK2 inhibitors.

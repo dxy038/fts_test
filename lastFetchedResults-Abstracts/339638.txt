@@ -1,0 +1,11 @@
+Objective
+The interaction between the Fas receptor and its cognate ligand (FasL) has been implicated in the mutual suppression of donor and host hematopoietic cells after transplantation. Following the observation of deficient early engraftment of Fas and FasL-defective donor cells and recipients, we determined the role of the Fas–FasL interaction.
+Methods
+
+Donor cells were recovered after syngeneic (CD45.1→CD45.2) transplants from various organs and assessed for expression of Fas/FasL in reference to lineage markers, carboxyfluorescein succinimidyl ester dilution, Sca-1 and c-kit expression. Naïve and bone marrow–homed cells were challenged for apoptosis ex vivo.
+Results
+
+The Fas receptor and ligand were markedly upregulated to 40% to 60% (p < 0.001 vs 5–10% in naïve cells) within 2 days after syngeneic transplantation, while residual host cells displayed modest and delayed upregulation of these molecules (not, vert, similar10%). All lin−Sca+c-kit+ cells were Fas+FasL+, including 95% of Sca-1+ and 30% of c-kit+ cells. Fas and FasL expression varied in donor cells that homed to bone marrow, spleen, liver and lung, and was induced by interaction with the stroma, irradiation, cell cycling, and differentiation. Bone marrow–homed donor cells challenged with supralethal doses of FasL were insensitive to apoptosis (3.2% ± 1% vs 38% ± 5% in naïve bone marrow cells), and engraftment was not affected by pretransplantation exposure of donor cells to an apoptotic challenge with FasL.
+Conclusion
+
+There was no evidence of Fas-mediated suppression of donor and host cell activity after transplantation. Resistance to Fas-mediated apoptosis evolves as a functional characteristic of hematopoietic reconstituting stem and progenitor cells, providing them competitive engraftment advantage over committed progenitors.

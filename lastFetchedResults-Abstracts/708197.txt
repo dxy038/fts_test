@@ -1,0 +1,11 @@
+Background
+Hemolysis in pediatric specimens is common due to difficult blood draws and small-bore intravenous catheters. Values of serum K+ become falsely elevated secondary to release of intracellular contents. If a reliable correction factor existed for this factitious elevation, repeat K+ measurements might be avoided.
+Objective
+The aim of the study was to establish a correction factor for factitiously elevated K+, using free plasma hemoglobin (p-Hgb) as a measure of in vitro hemolysis.
+Methods
+Twenty whole-blood specimens drawn from healthy adults via a 23-gauge needle were divided into 4 aliquots: (1) no manipulation, (2) mechanical hemolysis via a 27-gauge needle, (3) addition of potassium acetate (KAc), and (4) addition of KAc and mechanical hemolysis. KAc was added to mimic potentially significant hyperkalemia. All specimens had standard K+ and p-Hgb measurements performed.
+Results
+Nonhemolyzed and hemolyzed K+ ranged from 3.2 to 8.1 mEq/L and 3.5 to 10.0 mEq/L, respectively. A linear relationship existed between the change in K+ and p-Hgb from the nonhemolyzed to hemolyzed specimens. A correction factor for K+ of 0.00319 (95% confidence interval, 0.00290-0.00349) × p-Hgb was obtained.
+Conclusions
+A reliable correction factor for factitious hyperkalemia in a clinically relevant range exists. By example, using the above correction factor, one can predict that the delta K+ in a specimen with 500 mg/dL of p-Hgb will be 1.6 mEq/L (range, 1.5-1.7). We suggest that when the lower bound of the predicted delta K+ results in a corrected value within the reference range, a second blood draw is unnecessary.
+

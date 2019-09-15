@@ -1,0 +1,19 @@
+Objective
+To study the effects of sleep stage changes on nocturnal nonlinear heart rate variability (HRV) in postmenopausal women.
+Design
+
+A prospective study.
+Population
+
+Seventy-one healthy postmenopausal women.
+Methods
+
+The women underwent two separate sleep studies four months apart. One steady state epoch per night of the awake state, stage 2 (light) non-REM sleep, stage 3–4 (deep) non-REM sleep and REM sleep were extracted. From the ECG, the fractal scaling exponents α1 and α2, approximate entropy (ApEn), the Poincaré plot variability coefficients SD1 and SD2, along with the low (LF) and high frequency (HF) bands of linear HRV as well as the LF/HF ratio were calculated.
+Results
+
+None of the spectral measures of HRV changed significantly during the non-REM sleep compared to awake state. However, in non-REM sleep, α2 (p < 0.001) decreased significantly compared to the awake state, while α1 and ApEn remained unchanged. SD1 was slightly increased in stage 2 sleep (p < 0.05), while SD2 decreased in slow wave sleep (p < 0.001).
+
+In REM sleep, α2 values returned to the awake values, while ApEn and α1 increased above the awake levels (p < 0.01 for all variables), and SD1 decreased (p < 0.01). HF spectral component decreased slightly (p < 0.05 compared to stage 2 sleep) and LF/HF ratio increased during REM sleep (p < 0.001). ApEn and α2 had no correlations with any of the spectral measures of HRV, and α1 had a modest correlation with the LF/HF ratio only during sleep.
+Conclusions
+
+We found that nonlinear indices of HRV describe specific features in HR dynamics during various sleep stages that are not detected by traditional spectral HRV indices.

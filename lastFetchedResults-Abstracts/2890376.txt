@@ -1,0 +1,1 @@
+The objective of this paper is to develop a robotic weeding system for a rice field. We took the approach of moving a large number of robots around in a field, thereby preventing weed seeds from sprouting. This paper presents the developed robotic system, in particular the robot hardware and radio communication network, and verification of the system use in an actual rice field.

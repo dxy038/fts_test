@@ -1,0 +1,10 @@
+Current collapses of big companies and the worse fluctuations of the financial
+markets have evoked the awareness of the stakeholders and managers to utilize
+suitable tools to predict the financial distress of companies. One of such tools is the
+application of financial ratios as independent variables and developing models to
+predict bankruptcy issue. The objective of this study is first to test the prediction
+power of original Altman (1983) and Ohlson (1980) models on the dataset ofIranian
+listed companies and secondly by applying MUltiple Discriminant Analysis (i.e.
+MDA) and Logit Analysis statistical techniques on the same dataset, develop a
+suitable prediction model for bankruptcy of listed companies in the economic
+environment of Iran

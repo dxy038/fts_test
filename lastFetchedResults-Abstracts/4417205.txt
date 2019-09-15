@@ -1,0 +1,1 @@
+We propose a bidirectional 40-Gb/s/&#955; long-reach WDM-PON scheme and a novel automatic wavelength control method for tunable laser-based colorless ONU. Transmissions of 40-Gb/s DQPSK downstream and upstream are demonstrated with 40-km fiber transmission.

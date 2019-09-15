@@ -1,0 +1,12 @@
+Distributed generations that are connected to the network via a converter, employ dq current control method to
+control their active and reactive power components in grid-connected mode. In this paper a simple lead-lag
+control strategy is proposed for a distributed generation (DG) unit in island mode. When it is connected to the
+utility grid, the DG is controlled by a conventional dq-current control strategy for active and reactive power
+components. Once the islanding occurs, the dq-current controller is disabled and the proposed controller is used
+in order to for control of the DG unit operating with its local load. The problem of tuning of controller
+parameters is converted to an optimization problem with a time-domain objective function which is solved by a
+genetic algorithm. To achieve a robust performance ITAE criterion is used as objective function. The robustness
+of controller is proved by zero-pole diagram and frequency domain analysis. Simulations results under different
+operating conditions verify robustness of controller in comparison with a classical d-q based controller. The
+results reveal that the proposed control strategy has an excellent capability in achieving good robust
+performance and greatly enhances the dynamic stability of the system against load parameter uncertainties.

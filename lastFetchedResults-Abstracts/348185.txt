@@ -1,0 +1,11 @@
+Objective
+The steady state visual evoked potential (SSVEP) can be used to test the frequency response function of neural circuits. Previous studies have shown reduced SSVEPs to alpha and lower frequencies of stimulation in schizophrenia. We investigated SSVEPs in schizophrenia at frequencies spanning the theta (4 Hz) to gamma (40 Hz) range.
+Methods
+The SSVEPs to seven different frequencies of stimulation (4, 8, 17, 20, 23, 30 and 40 Hz) were obtained from 18 schizophrenia subjects and 33 healthy control subjects. Power at stimulating frequency (signal power) and power at frequencies above and below the stimulating frequency (noise power) were used to quantify the SSVEP responses.
+Results
+Both groups showed an inverse relationship between power and frequency of stimulation. Schizophrenia subjects showed reduced signal power compared to healthy control subjects at higher frequencies (above 17 Hz), but not at 4 and 8 Hz at occipital region. Noise power was higher in schizophrenia subjects at frequencies between 4 and 20 Hz over occipital region and at 4, 17 and 20 Hz over frontal region.
+Conclusions
+SSVEP signal power at beta and gamma frequencies of stimulation were reduced in schizophrenia. Schizophrenia subjects showed higher levels of EEG noise during photic stimulation at beta and lower frequencies.
+Significance
+Inability to generate or maintain oscillations in neural networks may contribute to deficits in visual processing in schizophrenia.
+

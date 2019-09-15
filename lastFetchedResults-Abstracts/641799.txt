@@ -1,0 +1,15 @@
+OBJECTIVE:
+
+We assessed the bias and precision of the Arlington Developmental Center (ADC) equations derived from our previous study and the Harris-Benedict equations for estimating resting energy expenditure in non-ambulatory, tube-fed patients with severe neurodevelopmental disabilities.
+
+METHODS:
+
+Fifteen non-ambulatory patients with neurodevelopmental disabilities referred to the nutrition consult service for evaluation of enteral tube feeding via a permanent ostomy who had a steady-state resting energy expenditure measurement performed by indirect calorimetry were included in the study. The predicted energy expenditure values were compared with the measured resting energy expenditure values and evaluated for bias and precision.
+
+RESULTS:
+
+Both ADC equations were more precise (95% confidence interval [CI]: 9–22% and 10–18% error, respectively) for the total population than the Harris-Benedict equations (95% CI: 17–40% error). The ADC-2 equation was precise (95% CI: 7–15% error) and unbiased (95% CI: −5 to 139 kcal/d) in contrast to the Harris-Benedict equations (95% CI: 23–54% error; bias, +230 to 365 kcal/d) for patients with cerebral palsy and fixed upper extremity contractures. The Harris-Benedict equations were precise and unbiased (95% CI: 3–14% error; bias, −182 to 39 kcal/d) for patients with cerebral palsy with preservation of upper body movement, whereas the ADC equations were biased toward underprediction and associated with greater error (95% CI: −367 to −73 kcal/d and 7–26% error; 95% CI: −379 to −109 kcal/d and 9–27% error, respectively).
+
+CONCLUSIONS:
+
+The ADC-2 equation was unbiased and more precise in non-ambulatory adult patients with severe neurodevelopmental disabilities and fixed upper extremity contractures, whereas the Harris-Benedict equations were more precise and unbiased for those with preservation of limited functional and non-functional upper extremity movement.

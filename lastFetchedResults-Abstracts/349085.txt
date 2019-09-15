@@ -1,0 +1,11 @@
+Objective
+The objective of this study is the development and evaluation of efficient neurophysiological signal statistics, which may assess the driver’s alertness level and serve as potential indicators of sleepiness in the design of an on-board countermeasure system.
+Methods
+Multichannel EEG, EOG, EMG, and ECG were recorded from sleep-deprived subjects exposed to real field driving conditions. A number of severe driving errors occurred during the experiments. The analysis was performed in two main dimensions: the macroscopic analysis that estimates the on-going temporal evolution of physiological measurements during the driving task, and the microscopic event analysis that focuses on the physiological measurements’ alterations just before, during, and after the driving errors. Two independent neurophysiologists visually interpreted the measurements. The EEG data were analyzed by using both linear and non-linear analysis tools.
+Results
+We observed the occurrence of brief paroxysmal bursts of alpha activity and an increased synchrony among EEG channels before the driving errors. The alpha relative band ratio (RBR) significantly increased, and the Cross Approximate Entropy that quantifies the synchrony among channels also significantly decreased before the driving errors. Quantitative EEG analysis revealed significant variations of RBR by driving time in the frequency bands of delta, alpha, beta, and gamma. Most of the estimated EEG statistics, such as the Shannon Entropy, Kullback–Leibler Entropy, Coherence, and Cross-Approximate Entropy, were significantly affected by driving time. We also observed an alteration of eyes blinking duration by increased driving time and a significant increase of eye blinks’ number and duration before driving errors.
+Conclusions
+EEG and EOG are promising neurophysiological indicators of driver sleepiness and have the potential of monitoring sleepiness in occupational settings incorporated in a sleepiness countermeasure device.
+Significance
+The occurrence of brief paroxysmal bursts of alpha activity before severe driving errors is described in detail for the first time. Clear evidence is presented that eye-blinking statistics are sensitive to the driver’s sleepiness and should be considered in the design of an efficient and driver-friendly sleepiness detection countermeasure device.
+

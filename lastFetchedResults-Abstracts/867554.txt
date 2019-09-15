@@ -1,0 +1,11 @@
+To ensure effective shop floor production, it is vital to consider the capital investment. Among most of the
+operational costs, resource must be one of the critical cost components. Since each operation consumes
+resources, the determination of resource level is surely a strategic decision. For the first time, the application
+of Lot Streaming (LS) technique is extended to a Resource-Constrained Assembly Job Shop Scheduling
+Problem (RC_AJSSP). In general, AJSSP first starts with Job Shop Scheduling Problem (JSSP) and then
+appends an assembly stage for final product assembly. The primary objective of the model is the minimization
+of total lateness cost of all final products. To enhance the model usefulness, two more experimental
+factors are introduced as common part ratio and workload index. Hence, an innovative approach with
+Genetic Algorithm (GA) is proposed. To examine its goodness, Particle Swarm Optimization (PSO) is the
+benchmarked method. Computational results suggest that GA can outperform PSO in terms of optimization
+power and computational effort for all test problems.

@@ -1,0 +1,11 @@
+Objective
+We compared conventional P300 analysis with source analysis in normal subjects and head-injury patients. Based on earlier findings of improved P300 component identification and reduced P3B latency variability with source analysis in normal subjects, our aim was to investigate whether source analysis could improve the distinction between these groups.
+Methods
+In total, 21 healthy control subjects and 21 patients with mild to moderate head injury were included in this study. A standard auditory 2-tone oddball paradigm was used. Latencies and amplitudes obtained with conventional P300 analysis were compared with source analysis results.
+Results
+With conventional analysis, head-injury patients had delayed P300 latencies and reduced P300 amplitudes in comparison to controls, while source analysis showed no latency differences for both P3A and P3B components. Instead, source analysis indicated absence of P3A components in 43% of patients.
+Conclusions
+The P300 delay in head-injury patients, observed with conventional analysis, is a pseudodelay caused by decreased P3A amplitudes. Consequently, the unaffected P3B component with its later latency determines conventional P300 latency in these patients.
+Significance
+Conventional P300 latency cannot be used to conclude that there was delayed early stimulus processing in head-injury patients.
+

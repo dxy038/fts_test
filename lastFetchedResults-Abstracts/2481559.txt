@@ -1,0 +1,30 @@
+The 
+uid 
+ow through a bypass graft of 100% stenosed artery can substantially
+in
+uence the outcome of bypass surgery. To help improve our understanding of this and
+related issues, unsteady 
+ows for Newtonian/non-Newtonian 
+uids using Carreau's shear
+thinning model are numerically simulated in an arterial bypass system with complete
+occluded host artery. The objective of this study is to deal with the in
+uence of the
+non-Newtonian property of 
+uid, eect of dierent bypass-host artery angle , and 
+ow
+pulsatility on 
+ow conguration, Wall Shear Stress (WSS), Oscillatory Shear Index (OSI),
+and 
+ow phenomena during the pulse cycle. Here we use  = 30, 45, 60 and 75 to
+study the eect of geometry. It is found that  has strong in
+uence on hemodynamic in
+distal femoral artery anastomoses. Results show that a bypass femoral anastomosis with a
+moderate , like  = 45, enhances its long-term performance. Also, signicant dierence
+between the non-Newtonian and Newtonian pulsatile 
+ows is revealed. This shows the
+necessity of using non-Newtonian model rather than Newtonian model for such 
+ows. The
+unsteadiness of 
+ow using the femoral pulse shows complex 
+ow characteristics, and requires
+the use of unsteady analysis

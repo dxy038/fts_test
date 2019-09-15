@@ -1,0 +1,16 @@
+Chlorophyll-a Žchl-a. concentration of lake water can be measured with airborne Žor spaceborne. optical remote
+sensing instruments. The rmse obtained here with empirical algorithms and 122 measurement points was 8.9  g l
+Žall points used for training and testing.. Airborne Imaging Spectrometer for Applications ŽAISA. was used in four
+lake water quality measurement campaigns Ž8 measurement days. in southern Finland during 1996 1998 with other
+airborne instruments and extensive in situ data collection. As empirical algorithms are employed for chl-a retrieval
+from remote sensing data, temporally varying factors such as surface reflection and atmospheric effects degrade the
+estimation accuracy. This paper analyzes the quantitative accuracy of empirical chl-a retrieval algorithms available as
+methods to correct temporal disturbances are either included or excluded. The aim is to evaluate the usability of
+empirical chl-a retrieval algorithms in cases when no concurrent reference in situ data are available. Four methods to
+reduce the effects of temporal variations are investigated. The methods are: Ž1. atmospheric correction; Ž2.
+synchronous radiometer data; Ž3. wind speed data; and Ž4. bidirectional scattering model based on wind speed and
+sun angle data. The effects of different correction methods are analyzed by using single-date test data and multi-date
+training data sets. The results show that the use of a bidirectional scattering model and atmospheric correction
+reduces the bias component of the measurement error. Radiometer data also appear to improve the accuracy.
+However, if concurrent in situ reference data are not available, the retrieval algorithms and correction methods
+should be improved for reducing the bias error.

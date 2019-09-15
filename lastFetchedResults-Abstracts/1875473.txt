@@ -1,0 +1,14 @@
+Objective:
+mine patient characteristics and situational and clinical factors that affect utilization of Emergency Medical Services (EMS) for symptoms of acute myocardial infarction (AMI).
+:
+one interview of patients hospitalized with suspected AMI.
+g:
+ospitals in King County, Washington.
+ts:
+ts admitted to a coronary or intensive care unit between October 1, 1986, and December 31, 1987, with suspected AMI occurring out of hospital. Spouses of patients who met criteria but died during the hospitalization also participated.
+e Measures:
+t demographics, coping strategies, situational factors, prior cardiac history, perceived symptom severity, belief about the nature of condition, and method of transportation.
+s:
+ptive statistics showed that although few patients called EMS as a “first thing” in response to symptoms, almost half of all patients called EMS before being hospitalized. Stepwise logistic regression analyses revealed that being older, the belief that one was experiencing a heart attack, the presence of other people (including the spouse), and the lack of physical activity at time of symptom onset, were related to both greater and quicker utilization of EMS. Additionally, education, medical history of angina, and severity of symptoms also were related to utilization of EMS.
+sion:
+ndings are discussed in a theoretical context, using Leventhal's self-regulatory model to suggest avenues for future research and interventions.

@@ -1,0 +1,1 @@
+A new method that the hidden nodes of the neural network are chosen by the genetic algorithm is proposed in this paper. The experimental results show that the appropriate hidden nodes can be selected by the genetic algorithm, and the results from the identification indicate that the system is quite efficient for identifying multi-objective polluted infrared spectra.

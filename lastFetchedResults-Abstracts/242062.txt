@@ -1,0 +1,10 @@
+The concept of exergy has been introduced to establish a universal standard for quality and efficient use of energy. In this work,
+applications of this concept to compression, heat exchange, and separation processes, in addition to the computation of their
+irreversibility rate and thermodynamic efficiency, are considered. An industrial case study on the purification of 1,2-ethylenedichloride
+(EDC) in a high-purity distillation column is presented. Due to its large throughput, this distillation column consumes a large amount of
+thermal energy (steam to the reboiler) and in order to reduce the energy requirements without large process modifications, a new
+configuration using a vapour compression heat pump is proposed which yields considerable improvement in the use of energy. Both
+configurations were implemented using the commercial simulator Aspen PlusTM; the results of the original configuration were validated
+with data extracted from the plant. The objective of this work was to compare the original configuration and the new proposed one, from
+a thermodynamic approach. Furthermore, two forms of process thermodynamic analysis based on the concept of exergy were applied to
+the new proposed configuration.

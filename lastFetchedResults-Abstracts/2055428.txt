@@ -1,0 +1,1 @@
+We are developing a standing wave structure with an rf feed to each individual cell. This approach minimizes rf power flow and electromagnetic energy absorbed by an rf breakdown. The objective of this work is a robust high-gradient (above 100 MV/m) X-band accelerator structure.

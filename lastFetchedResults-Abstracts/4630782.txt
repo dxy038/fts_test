@@ -1,0 +1,1 @@
+A kind of new nonlinear programming is put forward, which is called nondecomposable minimax optimization. The continuity and differentiability of the objective function f(x) are studied in detail. In particular, some necessary conditions and a sufficient condition for the new nonlinear programming are given.

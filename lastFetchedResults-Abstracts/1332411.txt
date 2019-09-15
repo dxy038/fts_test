@@ -1,0 +1,9 @@
+With the help of an optimization algorithm, the best combination of fiber orientations and layer thicknesses of a composite-made flange connection between the intermediate casing and the bypass duct of an aero engine was determined for 20 load cases.
+
+For a detailed stress analysis of the optimization result the fracture plane based failure criterion LaRC04 was implemented in ABAQUS.
+
+The failure criterion showed effort values higher than one (appearance of damage) in the region under the washer, which is part of the bolt connection of the flange.
+
+A reduction of the preload force of the bolt connection and an enlargement of the washer leads only to a slight improvement of the situation. So, firstly a simplified FE-model for the identification of the damage-relevant stress coordinate was used. In a second step the minimization of this stress coordinate was the objective in a topology and shape optimization aiming at a better washer-shape.
+
+Since the whole optimization process was very successful, it can be shown that the effort values of the failure criterion in the composite under the washer can be reduced dramatically with the newly shaped washer.

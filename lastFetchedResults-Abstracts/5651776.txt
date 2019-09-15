@@ -1,0 +1,1 @@
+A layered motion estimation scheme using fuzzy clustering is introduced in this paper. Once motion estimation is performed, a label smoothing is applied by using a modified objective function that takes into account spatial continuity. This allows to suppress noisy classes scattered over the whole image

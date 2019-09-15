@@ -1,0 +1,1 @@
+Optical interconnects using polymer waveguides on circuit boards have been demonstrated. Wirebond-free ultradense transceivers provide 160 Gb/s bidirectional throughput with 16 parallel waveguide-connected transmitters and receivers. Initial designs use 985 nm VCSELs. Migration to the industry-standard 850 nm VCSEL wavelength is underway, also providing lower waveguide loss.

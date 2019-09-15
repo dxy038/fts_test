@@ -1,0 +1,1 @@
+From the low-speed and high-torque drive system optimization, the paper optimizes inner potential waveform of PMSM based on GA (genetic arithmetic), separates the objective function from complicated gas magnetic field, and improves criterion GA on pertinency and efficiency. The optimized experimented results are reported in the paper.

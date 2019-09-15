@@ -1,0 +1,8 @@
+Objective
+rpose of this study is to develop a quantitative structure–activity relationship (QSAR) model that can distinguish mutagenic from non-mutagenic species with α , β -unsaturated carbonyl moiety using two endpoints for this activity – Ames test and mammalian cell gene mutation test – and also to gather information about the molecular features that most contribute to eliminate the mutagenic effects of these chemicals.
+s
+ta sets were used for modeling the two mutagenicity endpoints: (1) Ames test and (2) mammalian cells mutagenesis. The first one comprised 220 molecules, while the second one 48 substances, ranging from acrylates, methacrylates to α , β -unsaturated carbonyl compounds. The QSAR models were developed by applying linear discriminant analysis (LDA) along with different sets of descriptors computed using the DRAGON software.
+s
+th endpoints, there was a concordance of 89% in the prediction and 97% confidentiality by combining the three models for the Ames test mutagenicity. We have also identified several structural alerts to assist the design of new monomers.
+icance
+individual models and especially their combination are attractive from the point of view of molecular modeling and could be used for the prediction and design of new monomers that do not pose a human health risk.

@@ -1,0 +1,1 @@
+Receiver sensitivity penalty due to backreflections in a 10 Gbit/s bidirectional coherent WDM-PON is evaluated for 3 GBd PDM-QPSK. Pulse shaping is applied to reduce the impact of backreflections and enable tolerance to reflections up to -20 dBm.

@@ -1,0 +1,8 @@
+Objectives
+ntify prognostic factors for renal cell carcinoma (RCC) with venous tumor thrombus (VTT) and determine the significance of thrombus level on survival.
+als and methods
+ts within the Surveillance, Epidemiology, and End Results (SEER) database with RCC and VTT were identified and included if managed surgically. The Kaplan-Meier method and Cox regression analyses were performed to identify factors associated with disease-specific survival.
+s
+l of 1,875 patients met the inclusion criteria. One-year survival for patients undergoing surgery was 60% for patients with metastases and 90% for those without. Factors associated with worse survival included larger tumor size (HR 1.2, 95% CI 1.0–1.4), medullary, collecting duct, or sarcomatoid histology (HR 2.2, 95% CI 1.5–3.3), Fuhrman grade 3 (HR 2.2, 95% CI 1.5–3.3) or grade 4 (HR 2.9, 95% CI 1.8–4.5) tumors, positive lymph nodes (HR 1.5, 95% CI 1.0–2.0), and metastases (HR 3.5, 95% CI 2.6–4.8). Thrombus level above the diaphragm (T3c) was not significantly associated with worse survival (HR 1.4, 95% CI 0.8–2.5).
+sions
+s large, population-based study of patients with RCC and VTT, we identify several disease-specific factors strongly associated with cancer-specific mortality. After controlling for adverse prognostic factors, thrombus level was not associated with worse outcome.

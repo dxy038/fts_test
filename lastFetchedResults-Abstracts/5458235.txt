@@ -1,0 +1,1 @@
+Wireless body sensor network is employed into the under mine rescue system. The network strategy is designed. The genetic algorithm is used to multi-objective optimize the network. Simulation result shows that this method can optimize the power management obviously, and then improve the network load balancing.

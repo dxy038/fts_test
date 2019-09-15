@@ -1,0 +1,11 @@
+Objective
+A central question in auditory electrophysiology has been whether selective attention can modulate exogenous components of the scalp-recorded N1 (the ‘N1 effect’). Intracranial electrocorticograms were used in the current work to investigate this issue in greater anatomical detail.
+Methods
+Data were recorded from subdural electrodes placed across temporal cortex in 6 patient-volunteers undergoing diagnostic procedures for medically intractable epilepsy. Patients performed a dichotic listening task in which they alternately attended to a series of tones presented to both ears (mean ISI 800 ms) by responding to rare frequency deviants.
+Results
+Effects of attention were measured on the largest negative and positive waveform deflections observed between 70 and 220 ms post-stimulus for stimuli presented contralateral to grid location. Peak deflections were most often recorded from the upper bank of the posterior superior temporal gyrus at approximately 89 and 173 ms on average (labeled N90stg and P170stg, respectively). Selective attention had little effect on peak latencies but significantly increased the N90stg for 3 subjects, increased the P170stg for two subjects, and decreased the P170stg for two other subjects.
+Conclusions
+Selective auditory attention can modulate neural response in auditory cortex.
+Significance
+The effects of attention on the scalp-recorded N1 component may arise in part from the enhancement of exogenous responses in temporal cortex.
+

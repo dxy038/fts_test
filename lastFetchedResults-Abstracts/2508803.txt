@@ -1,0 +1,14 @@
+Background and objective: In magnetic ?uid hyperthermia therapy, controlling temperature elevation and optimizing heat generation is an immense challenge
+in practice. The resultant heating confguration by magnetic ?uid in the tumor is closely related to the dispersion of particles, frequency and intensity of magnetic feld, and
+biological tissue properties.
+Methods: In this study, to solve heat transfer equation, we used COMSOL Multiphysics and to verify the model, an experimental setup has been used. To show the
+accuracy of the model, simulations have been compared with experimental results.
+In the second part, by using experimental results of nanoparticles distribution inside
+Agarose gel according to various gel concentration, 0.5%, 1%, 2%, and 4%, as well as
+the injection velocity, 4 µL/min, 10 µL/min, 20 µL/min, and 40 µL/min, for 0.3 cc magnetite ?uid, power dissipation inside gel has been calculated and used for temperature
+prediction inside of the gel.
+Results: The Outcomes demonstrated that by increasing the ?ow rate injection at
+determined concentrations, mean temperature drops. In addition, 2% concentration has
+a higher mean temperature than semi spherical nanoparticles distribution.
+Conclusion: The results may have implications for treatment of the tumor and any
+kind of cancer diseases.

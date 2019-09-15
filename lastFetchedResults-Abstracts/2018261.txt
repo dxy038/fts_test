@@ -1,0 +1,5 @@
+This study focuses on the coastal monitoring network established in the scope of WFD implementation. The objective of this network was to provide an ecological assessment of Valencian coastal waters. After three years, sufficient data had been collected to enable us to analyse and explore ways to increase the network’s efficiency.
+
+odology was developed to select the best subset of sampling stations to be surveyed. This method was approached from the perspective of an inter-observer variability problem. In order to compare the concordance between the k-observers and the reference observer, two measures were considered: euclidean distance, and interclass correlation coefficient.
+
+tained results confirm that the current network can be reduced by over 50% and still guarantee accurate results. This methodology (not limited by indicators, geographically, or by type of water body) could be applied to different environmental monitoring networks and could significantly decrease the efforts and costs required by the WFD.

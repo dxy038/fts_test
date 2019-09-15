@@ -1,0 +1,11 @@
+Objective
+Patients undergoing hematopoietic stem cell transplantation (HSCT) with mobilized peripheral blood (MPB) engraft quicker than those receiving bone marrow (BM). Our objective was to determine whether candidate engrafting cells—primitive hematopoietic progenitors (PHPs)–from MPB and BM exhibit different responses to cytokines that could explain this observation.
+Materials and Methods
+
+We compared the cell cycle kinetics and ex vivo expansion of PHP-enriched cells obtained from MPB (n = 12) and BM (n = 10) by fluorescence-activated sorting of CD90+, AC133+ or CD38dull subsets of pre-selected CD34+ cells. Cell cycle status, before and after 40 hours of serum-free culture with a cytokine cocktail, was assessed by multiparameter flow cytometry following incubation with Hoechst 33342 and pyronin Y.
+Results
+
+We found that 0.2% ± 0.3% of MPB CD34+CD90+ cells were in S/G2/M phases at hour 0, compared with 5% ± 2.5% of those from BM (p = 0.0001), and 86.3% ± 9.7% were in G0, compared with 65.3% ± 10% of those in BM (p = 0.0001). After 40 hours of culture, CD34+CD90+ cells from MPB were more mitotically active than those from BM, with 29% ± 4.9% in S/G2/M and 20% ± 11.4% in G0, compared to 19% ± 6.5% (p = 0.001) and 39.2% ± 22% (p = 0.027) of cells from BM. There was greater expansion of both total CD34+ cells and the CD90+ subset from MPB samples (p = 0.001 and 0.0001, respectively). Results from PHPs defined on the basis of AC133 expression correlated well with results obtained in CD90+ subsets (r2 = 0.81; p = 0.014).
+Conclusions
+
+MPB PHPs appear to be primed for a greater acceleration in mitotic activity upon cytokine exposure. This qualitative difference may contribute to the earlier engraftment seen after HSCT using MPB grafts.

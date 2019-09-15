@@ -1,0 +1,1 @@
+Asymmetric bidirectional routing based on IP-over-WDM architectures, leveraging elastic optoelectronic devices, is proposed for more cost-efficient optical networks. This new routing paradigm saves up to 25% overall (add/drop and regeneration) optoelectronic devices.

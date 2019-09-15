@@ -1,0 +1,21 @@
+A reliable and efficient computational algorithm for
+restoring blurred and noisy images is proposed. The restoration
+process is based on the minimal total variation principle
+introduced by Rudin et al. For discrete images, the proposed
+algorithm minimizes a piecewise linear I1 function (a measure of
+total variation) subject to a single 2-norm inequality constraint
+(a measure of data fit). The algorithm starts by finding a feasible
+point for the inequality constraint using a (partial) conjugate
+gradient method. This corresponds to a deblurring process. Noise
+and other artifacts are removed by a subsequent total variation
+minimization process. The use of the linear li objective function
+for the total variation measurement leads to a simplier computational
+algorithm. Both the steepest descent and an affine scaling
+Newton method are considered to solve this constrained piecewise
+linear I1 minimization problem.
+The resulting algorithm, when viewed as an image restoration
+and enhancement process, has the feature that it can be used in
+an adaptivdinteractive manner in situations when knowledge of
+the noise variance is either unavailable or unreliable. Numerical
+examples are presented to demonstrate the effectiveness of the
+proposed iterative image restoration and enhancement process.

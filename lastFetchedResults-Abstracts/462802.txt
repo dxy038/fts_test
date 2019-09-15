@@ -1,0 +1,11 @@
+Background
+Although smoking cessation is essential to the management of acute myocardial infarction (AMI), prevalence and benefits of smoking-cessation counseling in the inpatient setting are not well described among older adults. The objective of this study was to evaluate associations between inpatient smoking-cessation counseling and 5-year all-cause mortality among older adults hospitalized with AMI.
+Methods
+
+The Cooperative Cardiovascular Project (January 1994–July 1995) included 788 Medicare beneficiaries aged ≥65 years who were current smokers, admitted to acute care facilities in North Carolina with confirmed AMI, and discharged alive. Information on smoking-cessation advice or counseling prior to discharge was abstracted from medical records. Associations of counseling with 5-year risk of death were assessed with multivariate Cox proportional hazards regression.
+Results
+
+Smoking-cessation counseling was provided to 40% of AMI patients before discharge. Women (p =0.06) and blacks (p =0.02) were less likely to receive counseling. Counseling was associated with a history of chronic obstructive pulmonary disease (p =0.01). Increasing age, discharge to a skilled nursing facility, and histories of hypertension, heart failure, or stroke were associated with no counseling (p <0.05, all cause). Age-adjusted mortality rates (per 1000 enrollees) at 5 years were 488.3 for patients who were given counseling compared to 579.3 for patients without counseling. After adjustment for age, race, gender, prior histories of hypertension, cardiovascular diseases, diabetes, and chronic obstructive pulmonary disease, Killip class III or IV, and discharge to a skilled nursing facility; inpatient counseling remained associated with improved survival (relative hazard, 0.78; 95% confidence interval, 0.63–0.97).
+Conclusions
+
+Inpatient counseling on smoking cessation is suboptimal among older smokers hospitalized with AMI. Even without confirmation of actual cessation, these data suggest that provision of smoking-cessation advice or counseling has a major impact on survival of older adults.

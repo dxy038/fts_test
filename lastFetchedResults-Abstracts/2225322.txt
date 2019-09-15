@@ -1,0 +1,18 @@
+Objective: Hepatocellular carcinoma (HCC), one of the most common cancers worldwide,
+is resistant to anticancer drugs. Angiogenesis is a major cause of tumor resistance to
+chemotherapy, and vascular endothelial growth factor (VEGF) is a key regulator of angiogenesis.
+The purpose of this study is to investigate the impact of small-interfering RNA
+targeting VEGF gene (VEGF-siRNA) on chemosensitivity of HCC cells in vitro.
+Materials and Methods: In this experimental study, transfection was performed on Hep3B
+cells. After transfection with siRNAs, VEGF mRNA and protein levels were examined. Cell
+proliferation, apoptosis and anti-apoptotic gene expression were also analyzed after treatment
+with VEGF-siRNA in combination with doxorubicin in Hep3B cells.
+Results: Transfection of VEGF-siRNA into Hep3B cells significantly reduced the expression
+of VEGF at both mRNA and protein levels. Combination therapy with VEGF-siRNA
+and doxorubicin more effectively suppressed cell proliferation and induced apoptosis than
+the respective monotherapies. This could be explained by the significant downregulation
+of B-cell lymphoma 2 (BCL-2) and SURVIVIN.
+Conclusion: VEGF-siRNA enhanced the chemosensitivity of doxorubicin in Hep3B
+cells at least in part by suppressing the expression of anti-apoptotic genes. Therefore,
+the downregulation of VEGF by siRNA combined with doxorubicin treatment has
+been shown to yield promising results for eradicating HCC cells.

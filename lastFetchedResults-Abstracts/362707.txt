@@ -1,0 +1,9 @@
+Study objective
+Cardiovascular disease mortality is affected by ethnic differences and is lower in Japan than in Western countries. Although patients with cardiac syncope have significantly higher mortality than patients with noncardiac syncope in Western countries, no such phenomenon has been described in Japan. The aim of this study is to clarify the long-term mortality of patients with syncope who are brought to an emergency department (ED) in Japan.
+Methods
+This retrospective observational study was conducted on patients treated in the ED of Keio University Hospital in Tokyo. Nine hundred twelve consecutive patients who presented with syncope were identified. The patients were classified into 2 groups according to the cause of syncope: cardiac syncope and noncardiac syncope. Follow-up information about mortality was obtained from mailed questionnaires and medical records. Mortality data were analyzed using the actuarial life-table method and a Cox proportional hazards model.
+Results
+Follow-up information was obtained for 715 patients. The median follow-up period was 38 months, during which 63 patients died. At 5 years, the 23.1% (95% confidence interval [CI] 12.7% to 33.4%) mortality of the patients with cardiac syncope was significantly higher than the 8.2% (95% CI 5.5% to 10.9%) mortality of the patients with noncardiac syncope (P<.0001). The incidence of cardiac death among the patients with cardiac syncope was 17.2% (95% CI 7.8% to 26.5%) compared with 0.9% (95% CI 0% to 1.8%) in the noncardiac syncope group (P<.0001). Cardiac syncope was an independent predictor of overall mortality and cardiac mortality (relative risk 2.81 [95% CI 1.53 to 5.16], 18.74 [95% CI 5.90 to 59.52]).
+Conclusion
+Cardiac syncope is associated with higher mortality than noncardiac syncope in this Japanese patient population
+

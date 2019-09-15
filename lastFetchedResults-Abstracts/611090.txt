@@ -1,0 +1,25 @@
+It is not possible to eliminate the workplace emergencies but can be
+mitigated by effective planning. In all the construction organizations
+the possibility of facing emergencies is common. The objective of
+emergency management is to minimize losses that result out of
+emergencies. The employees in construction organizations are
+susceptible various workplace emergencies like fire, explosion,
+collapse of a structure/excavated side walls, scaffolding and tower
+cranes etc.. Site-specific emergency plan is to be prepared to prevent
+emergencies in construction organizations. The emergency
+preparedness plan must comprise of identifying probable emergencies
+and how to respond to emergency situation so as to minimize the total
+response time of employees to report to emergency assembly point. In
+most of the construction organizations in India are following
+conventional methods instead of implementing scientific techniques in
+emergency planning particularly while earmarking emergency
+assembling points and also allocation employees to assembly points
+resulting into wastage of time, damage to employees and property. A
+study was conducted in a construction organization involved in
+construction of 2*660MW thermal power plant in India by using
+combination of optimization techniques like shortest route algorithm
+for identifying optimal paths and depending on the capacities of
+assembly points ,the employees are allocated to different assembly
+points by using transportation model .In a case of a major emergency
+, the minimal spanning tree technique is used to identify the shortest
+route for a specific assembly point.

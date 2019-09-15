@@ -1,0 +1,1 @@
+We consider single machine scheduling problems in which due dates are assigned according to the CON (common due date) rule. The objective in this problem is to find an optimal value of the due date and the related optimal schedule in order to optimize a given criterion based on the due date and the completion times of jobs.

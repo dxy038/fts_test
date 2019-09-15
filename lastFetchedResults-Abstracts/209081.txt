@@ -1,0 +1,11 @@
+The objective of this research was to develop a suitable method for color sorting of fruits.
+Accordingly, a color-sorting system was designed and a prototype developed and then tested.
+Thissystem includes an optic head which is designed to develop a reflection of the fruit. Output
+of the head is then processed in an electronic control system which generates the appropriate
+signal for ejection or admittance of the fruit in accordance with its color. This is accomplished
+by sending the signal to an electrical ejector mechanism that effects the sorting operation. Tests
+were conducted to check the system's performance and to study the effect of some such
+parameters as type of fruit and ambient light intensity on accuracy of the system. Results
+indicated that main and interaction effects of these parameters on accuracy, are not significant.
+Hence, this system is suitable for sorting of fruits, with its performance not being affected by
+either fruit type or ambient lightintensity.

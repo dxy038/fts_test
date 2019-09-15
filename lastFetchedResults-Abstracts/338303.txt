@@ -1,0 +1,11 @@
+Objective
+To examine the role of granulocyte-macrophage colony-stimulating factor (GM-CSF) in thrombopoiesis.
+Materials and Methods
+
+Thrombopoietin-unresponsive mice (mpl null mice), which have a profound reduction in platelets and mature megakaryocytes, were interbred with mice that do not respond to GM-CSF or interleukin 5 (βc null mice), and hematopoiesis was examined.
+Results
+
+In initial experiments on a mixed genetic background, double mutant mice (βc/mpl null mice) showed an unexpected amelioration of the thrombocytopenia seen in mpl null mice. Platelet counts were elevated approximately twofold in βc/mpl null mice compared with mpl null mice (mpl null 73 ± 31; βc/mpl null 164 ± 70; n = 10 to 29 mice per genotype, p < 0.00001). This was associated with lessening of the deficit of megakaryocytes, progenitor cells, and colony-forming units spleen seen in mpl null mice. This amelioration of the mpl null phenotype in βc/mpl null mice on a mixed genetic background was highly statistically significant. To determine whether this amelioration of phenotype was solely the consequence of loss of βc signaling, progeny of a second intercross on a C57BL/6 background (B6βc/mpl null mice) were examined. When the resulting B6βc/mpl null mice were analyzed and compared with B6mpl null littermates, the increase in platelet count, hematopoietic progenitor cell number, and colony-forming units spleen number was no longer observed.
+Conclusions
+
+There was no additional effect seen as a result of loss of βc signaling. GM-CSF did not play a significant role in thrombopoiesis, even in combination with the absence of thrombopoietin signaling. These results highlight problems that can be encountered when studying introduced mutations in mice. They exemplify the importance of eliminating the influence of modifying genes when attributing biologic differences to specific introduced genetic alterations.

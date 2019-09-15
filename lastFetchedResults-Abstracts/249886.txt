@@ -1,0 +1,10 @@
+A systematic approach to building a complete geometric and topologic representation of a model given
+only the  nite element (FE) description is proposed. The objective of the proposed system is to provide a
+geometry foundation for existing  nite element based models so that standard mesh generation tools can
+be used without requiring CAD-based modelling systems such as ACIS or other proprietary commercial
+tools. To accomplish this, a method for extracting topology from the FE model is proposed. Topology
+entities including volumes, surfaces, curves and vertices are built based on user-de ned boundary conditions
+and surface features. Curve and surface geometry is described by either linear triangular facets
+or G1 continuous 4th-order Bezier patches. Integration of the proposed mesh-based geometry (MBG)
+system into an existing mesh generation toolkit is described. Sample applications and examples of MBG
+are presented

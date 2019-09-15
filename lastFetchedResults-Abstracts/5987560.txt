@@ -1,0 +1,1 @@
+This paper presents an evolutionary approach for learning attack specifications that describe attack scenarios. The objective is to find vulnerabilities in computer networks which minimise the cost of an attack with maximum impact. Although we focus on insider threat, the proposed approach applies to networks in general, including social networks and computer grid.

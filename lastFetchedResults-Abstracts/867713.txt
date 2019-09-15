@@ -1,0 +1,8 @@
+This paper presents an ant colony optimization (ACO) algorithm in an agent-based system to integrate process planning
+and shopfloor scheduling (IPPS). The search-based algorithm which aims to obtain optimal solutions by an autocatalytic
+process is incorporated into an established multi-agent system (MAS) platform, with advantages of flexible system
+architectures and responsive fault tolerance. Artificial ants are implemented as software agents. A graph-based solution
+method is proposed with the objective of minimizing makespan. Simulation studies have been established to evaluate
+the performance of the ant approach. The experimental results indicate that the ACO algorithm can effectively solve
+the IPPS problems and the agent-based implementation can provide a distributive computation of the algorithm.
+  2009 Elsevier Ltd. All rights reserved.

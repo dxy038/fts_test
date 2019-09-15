@@ -1,0 +1,9 @@
+Objective
+TNFα is a pro-inflammatory cytokine that induces endothelial dysfunction and promotes atherosclerosis progression. Down-regulation of lysyl oxidase (LOX), a key enzyme in extracellular matrix maturation, by pro-atherogenic risk factors such as LDL and homocysteine, is associated with an impairment of endothelial barrier function. Our hypothesis is that the inflammatory cytokine TNFα could also modulate LOX expression/function in endothelial cells.
+Methods
+The study was carried out in human umbilical vein endothelial cells (HUVEC), porcine aortic endothelial cells (PAEC) and bovine aortic endothelial cells (BAEC). LOX mRNA levels were analysed by real-time PCR and LOX activity was assessed by a high sensitive fluorescent assay. Promoter activity was determined by transient transfection using a luciferase reporter system.
+Results
+TNFα decreases LOX mRNA levels in endothelial cells in a dose- and time-dependent manner. The effect of TNFα was observed at low concentrations (0.1–1 ng/mL) and was maximal at 2.5 ng/mL (after 21 h). In transfection assays, TNFα reduced LOX transcriptional activity to a similar extent than LOX mRNA. Furthermore, TNFα decreases endothelial LOX enzymatic activity. By using both TNF receptor (TNFR) agonist and blocking antibodies we determined the involvement of TNFR2 on LOX down-regulation. Moreover, while TNFR-associated factor-2 (TRAF-2) did not mediate signalling events leading to LOX inhibition, PKC inhibitors counteracted the TNFα-induced decrease of LOX mRNA levels. Finally, TNFα administration significantly reduced vascular LOX expression in rat aorta.
+Conclusions
+Endothelial dysfunction induced by TNFα is associated with a decrease of LOX expression/activity. Thus, LOX seems to be involved in the impairment of endothelial function triggered by different pathological conditions.
+

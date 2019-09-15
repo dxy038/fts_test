@@ -1,0 +1,11 @@
+Objective
+Currently standard recombinant adeno-associated virus serotype 2(rAAV2)–based vectors lack the efficiency for gene transfer into primary human CD34+ peripheral blood progenitor cells (PBPC).
+Materials and Methods
+
+An advancement in vector development now allows the generation of rAAV capsid mutants that offer higher target cell efficiency and specificity. To increase the gene transfer into hematopoietic progenitor cells, we applied this method for the first time on primary human CD34+ PBPC cells.
+Results
+
+On a panel of leukemia cell lines (CML/AML), significantly higher gene transfer efficiency of the rAAV capsid mutants (up to 100% gene transfer) was observed compared to standard rAAV2 vectors. A higher transduction efficiency in the imatinib-resistant cell line LAMA84-R than in their sensitive counterpart LAMA84-S and a pronounced difference in susceptibility for the capsid mutants vs rAAV2 in LAMA84-S were particularly striking. On solid tumor cell lines, on the other hand, rAAV2 was more efficient than the capsid mutants, suggesting an increased specificity of our capsid mutants for hematopoietic progenitor cells. On primary human CD34+ PBPC significantly higher (up to eightfold; 16% green fluorescent protein–positive) gene transfer could be obtained with the newly generated vectors compared to standard rAAV2 vectors.
+Conclusion
+
+These novel vectors may enable efficient gene transfer using rAAV-based vectors into primary human blood progenitor cells for a future clinical application.

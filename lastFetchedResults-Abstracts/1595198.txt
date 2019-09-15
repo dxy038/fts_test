@@ -1,0 +1,5 @@
+SmartAHS is a software framework for the uniform specification, simulation, and objective evaluation of Intelligent Vehicle Highway System (IVHS) alternatives. This paper illustrates the use of the object-oriented paradigm in its design, implementation, and use. Objective comparison of proposed highway automation alternatives is achieved, when all control architectures are specified in SmartAHS.
+
+amework implementation is decomposed into three layers. A core set of entities, called SmartDb, implement the base classes of the framework, the scheduling mechanism, and a special syntax for a state machine formalism. The second layer, SmartAHS customizes these classes and implements entities specific to highway automation. The control and communication engineers are the users of SmartAHS; they further customize it to implement specific simulation applications such as SmartPATH. The users of the applications are system analysts and system planners.
+
+cuss the design and implementation of SmartDb and SmartAHS and give a use-case example of a subset of SmartPATH.

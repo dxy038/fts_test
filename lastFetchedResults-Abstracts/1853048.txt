@@ -1,0 +1,8 @@
+Objective
+e endoscopy is useful in the diagnosis of small bowel diseases. However, the large number of images produced in each test is a tedious task for physicians. To relieve burden of physicians, a new computer-aided detection scheme is developed in this study, which aims to detect small bowel tumors for capsule endoscopy.
+s and materials
+l textural feature based on multi-scale local binary pattern is proposed to discriminate tumor images from normal images. Since tumor in small bowel exhibit great diversities in appearance, multiple classifiers are employed to improve detection accuracy. 1200 capsule endoscopy images chosen from 10 patients’ data constitute test data in our experiment.
+s
+le classifiers based on k-nearest neighbor, multilayer perceptron neural network and support vector machine, which are built from six different ensemble rules, are experimented in three different color spaces. The results demonstrate an encouraging detection accuracy of 90.50%, together with a sensitivity of 92.33% and a specificity of 88.67%.
+sion
+oposed scheme using color texture features and classifier ensemble is promising for small bowel tumor detection in capsule endoscopy images.

@@ -1,0 +1,11 @@
+Objective
+Granulocyte colony-stimulating factor (G-CSF) is frequently used therapeutically to treat chronic or transient neutropenia and to mobilize hematopoietic stem cells. Shortly following G-CSF administration, we observed a dramatic transient drop in circulating neutrophil number. This article characterizes this effect in a rhesus macaque animal model.
+Methods
+
+Hematologic changes were monitored following subcutaneous (SQ) administration of G-CSF. G-CSF was administered as a single SQ dose at 10 μg/kg or 50 μg/kg. It was also administered (10 μg/kg) in combination with stem cell factor (SCF; 200 μg/kg) over 5 days. Flow cytometry was performed on serial blood samples to detect changes in cell surface adhesion protein expression.
+Results
+
+Neutrophil count dramatically declined 30 minutes after G-CSF administration. This decline was observed whether 10 μg/kg G-CSF was administered in combination with SCF over 5 days, or given as a single 10 μg/kg dose. At a single 50 μg/kg dose, the decline accelerated to 15 minutes. Neutrophil count returned to baseline after 120 minutes and rapidly increased thereafter. An increase in CD11a and CD49d expression coincided with the drop in neutrophil count.
+Conclusion
+
+A transient paradoxical decline in neutrophil count was observed following administration of G-CSF either alone or in combination with SCF. This decline accelerated with the administration of a higher dose of G-CSF and was associated with an increase in CD11a and CD49d expression. It remains to be determined whether this decline in circulating neutrophils is associated with an increase in endothelial margination and/or entrance into extravascular compartments.

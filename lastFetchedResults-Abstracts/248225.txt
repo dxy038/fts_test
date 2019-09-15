@@ -1,0 +1,12 @@
+The main objective of the present work is to give the systematic way for derivation of Kirchho¤ plate-elastic
+foundation interaction by mixed-type formulation using the GaLteaux di¤erential instead of well-known
+variational principles of HellingerÐReissner and HuÐWashizu. Foundation is a Pasternak foundation, and as
+a special case if shear layer is neglected, it converges to ¼inkler foundation in the formulation. Uniform
+variation of the thickness of the plate is also included into the mixed Þnite element formulation of the plate
+element PLTVE4 which is an isoparametric C0 class conforming element discretization. In the dynamic
+analysis, the problem reduces to solution of the standard eigenvalue problem and the mixed element is based
+upon a consistent mass matrix formulation. The element has four nodes and at each node transverse
+displacement two bending and one torsional moment is the basic unknowns. Proper geometric and dynamic
+boundary conditions corresponding to the plate and the foundation is given by the functional. Performance
+of the element for bending and free vibration analysis is veriÞed with a good accuracy on the numerical
+examples and analytical solutions present in the literature.

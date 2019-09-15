@@ -1,0 +1,11 @@
+Objective
+We present a new method of effectively removing the ballistocardiogram artifacts (BAs) of electroencephalography (EEG), recorded inside a 1.5 T static magnetic field scanner with no fMRI scanning, which conserves the time and frequency features of event-related EEG activity.
+Methods
+The BAs are approximated as deterministically chaotic dynamics. A Wavelet-based nonlinear noise reduction (WNNR) method consisting of: (a) wavelet transformation, (b) nonlinear noise reduction and (c) spatial average subtraction, is developed to effectively reduce the BAs so that the residual artifacts are smaller than the EEG signals.
+Results
+The effectiveness of the WNNR method to remove the BAs with conservation of the temporal EEG signals is evaluated by simulations and experiments inside a 1.5 T static magnetic field, with the visual evoked EEG dynamics. The WNNR method is also demonstrated to effectively retrieve alpha waves while the subjects' eyes are closed.
+Conclusions
+The WNNR method has the abilities to effectively remove the BAs and conserve the time–frequency features of EEG activity.
+Significance
+The WNNR method provides us a significant technique to obtain clean temporal EEG signals during recording with MRI, especially for the event-related EEG dynamics. Notably, it might work effectively at higher field strengths as well. Moreover, it can be also used to process many other biological data contaminated by the cardiac pulses.
+

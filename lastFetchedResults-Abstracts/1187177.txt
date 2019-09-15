@@ -1,0 +1,5 @@
+The objective of this work is to develop a modeling strategy for assemblies involving multiple joints in an aeronautical predesign context.
+
+In the process of designing large structures, industrial engineers usually get around computational limitations by using submodeling techniques. When dealing with uncertain parameters, additional numerical difficulties appear due to the increase in the problem’s size.
+
+In order to consider phenomena which vary during the global representation of the submodeling process, we propose a modeling approach for the scattering of these phenomena based on the Lack-Of-Knowledge theory. The proposed strategy is illustrated by the case of a multiple-joint assembly.

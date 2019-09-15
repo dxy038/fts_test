@@ -1,0 +1,9 @@
+The purpose of this paper is to study the dynamical behavior of a family of two-dimensional
+nonlinear maps associated to an economic model. Our objective is to measure the
+complexity of the system using techniques of symbolic dynamics in order to compute
+the topological entropy. The analysis of the variation of this important topological invariant
+with the parameters of the system, allows us to distinguish different chaotic scenarios.
+Finally, we use a another topological invariant to distinguish isentropic dynamics and
+we exhibit numerical results about maps with the same topological entropy. This work
+provides an illustration of how our understanding of higher dimensional economic models
+can be enhanced by the theory of dynamical systems.

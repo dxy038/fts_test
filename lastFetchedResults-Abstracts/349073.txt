@@ -1,0 +1,11 @@
+Objective
+To investigate the presence and features of short-interval intracortical inhibition (SICI) in the human trigeminal motor system.
+Methods
+Surface electromyogram (EMG) was recorded from left and right digastric muscles in 7 subjects, along with additional experiments with intramuscular EMG in 2 subjects. Focal transcranial magnetic stimulation (TMS) was used to activate the motor cortex of one hemisphere and elicit motor evoked potentials (MEPs) in digastric muscles on each side, at rest and while subjects activated the muscles at 10% maximal EMG. Paired or single TMS pulses were delivered in blocks of trials, while conditioning TMS intensity and interstimulus interval (ISI) were varied.
+Results
+At rest, paired TMS (3-ms ISI) with conditioning intensities 0.8–0.9× active motor threshold (TA) reduced the digastric MEP amplitude to a similar extent bilaterally. Conditioning at 0.5–0.7TA did not significantly reduce the MEP. MEP amplitude was reduced to a similar extent in both digastric muscles by ISIs between 1 and 4 ms (0.8TA). Voluntary bilateral activation of digastric muscles reduced the effectiveness of conditioning TMS compared to the resting state, with no differences between sides. The similarity of the responses in both digastric muscles was not due to EMG cross-talk (estimated to be  10% in surface records and  2% in intramuscular records), as the intramuscular records showed the same pattern as the surface records.
+Conclusions
+The effects of paired-pulse TMS on digastric are similar to those reported for contralateral hand muscles, and are consistent with activation of SICI circuits in M1 by conditioning TMS. Our evidence further suggests that the corticomotor representations of left and right digastric muscles in M1 of a single hemisphere receive analogous inhibitory modulation from SICI circuits.
+Significance
+SICI has been demonstrated in the face area of motor cortex controlling the trigeminal motor system in normal subjects. This method can be used to investigate abnormalities of SICI in movement disorders affecting the masticatory muscles in humans.
+

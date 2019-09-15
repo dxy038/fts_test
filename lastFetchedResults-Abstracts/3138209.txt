@@ -1,0 +1,1 @@
+We propose and evaluate a PCE-based architecture for bidirectional lightpath set up in GMPLS-controlled optical networks. The proposed architecture strongly improves the performance of the distributed architecture with both standard and enhanced signaling schemes.

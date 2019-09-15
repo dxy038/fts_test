@@ -1,0 +1,1 @@
+In this paper, the main objective is to prove that the most known equalization algorithms for OFDM signals in time variant channels with mobile reception scenarios are part of a generic theoretical model. This model will be developed mathematically, and based on it, a general classification for channels in terms of their time variability will be presented.

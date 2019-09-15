@@ -1,0 +1,9 @@
+Separable programming deals with such nonlinear programming problem in which the
+objective function as well as constraints are separable. For solving Separable Nonlinear
+Programming Problem (SNPP) is reduced first to Linear Programming Problem (LPP)
+by approximating each separable function by a piecewise linear function and than usual
+graphical, simplex method applied. A new form of Gauss elimination technique for inequalities
+has been proposed for solving a Separable Nonlinear Programming Problem.
+The technique is useful than the earlier existing methods because it takes least time and
+calculations involve in are also simple. The same has been illustrated by a numerical
+example of SNPP.

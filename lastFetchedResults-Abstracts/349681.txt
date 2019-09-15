@@ -1,0 +1,11 @@
+Objective
+Understanding the transition of brain activity towards an absence seizure is a challenging task. In this paper, we use recurrence quantification analysis to indicate the deterministic dynamics of EEG series at the seizure-free, pre-seizure and seizure states in genetic absence epilepsy rats.
+Methods
+The determinism measure, DET, based on recurrence plot, was applied to analyse these three EEG datasets, each dataset containing 300 single-channel EEG epochs of 5-s duration. Then, statistical analysis of the DET values in each dataset was carried out to determine whether their distributions over the three groups were significantly different. Furthermore, a surrogate technique was applied to calculate the significance level of determinism measures in EEG recordings.
+Results
+The mean (±SD) DET of EEG was 0.177 ± 0.045 in pre-seizure intervals. The DET values of pre-seizure EEG data are significantly higher than those of seizure-free intervals, 0.123 ± 0.023, (P < 0.01), but lower than those of seizure intervals, 0.392 ± 0.110, (P < 0.01). Using surrogate data methods, the significance of determinism in EEG epochs was present in 25 of 300 (8.3%), 181 of 300 (60.3%) and 289 of 300 (96.3%) in seizure-free, pre-seizure and seizure intervals, respectively.
+Conclusions
+Results provide some first indications that EEG epochs during pre-seizure intervals exhibit a higher degree of determinism than seizure-free EEG epochs, but lower than those in seizure EEG epochs in absence epilepsy.
+Significance
+The proposed methods have the potential of detecting the transition between normal brain activity and the absence seizure state, thus opening up the possibility of intervention, whether electrical or pharmacological, to prevent the oncoming seizure.
+

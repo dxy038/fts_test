@@ -1,0 +1,9 @@
+Objective:
+Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) is a key enzyme in the glycolytic pathway, and it is a popular internal standard for northern blot analysis. We examined GAPDH expression early in life when feed is either provided or not provided to animals.
+Methods:
+Male broiler chickens were provided a standard starter diet plus Oasis nutritional supplement (fed group; Novus International, St. Louis, MO, USA) or no feed (starved group) for the first 3 d posthatch. Subsequently, the standard starter diet was provided to all chickens between 3 and 7 d posthatch. RNA was extracted from the pectoralis thoracicus, and GAPDH expression was evaluated with quantitative northern analysis.
+Results:
+GAPDH expression was significantly (P < 0.05) higher in the fed than in the starved group at 3 d posthatch, suggesting that nutritional manipulations can alter GAPDH transcription. Similarly, GAPDH mRNA levels were significantly (P < 0.05) higher at 7 d posthatch compared with all younger animals, suggesting that GAPDH is developmentally upregulated with advancing age.
+Conclusion:
+GAPDH expression changes with age and nutrition status in the early posthatch chick, suggesting that GAPDH is not a proper internal standard for muscle studies using quantitative northern analysis.
+

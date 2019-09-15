@@ -1,0 +1,5 @@
+In this paper,we present an adaptive extremum seeking control scheme for a continuous stirred tank bioreactor with Haldane’s
+kinetics. The proposed adaptive extremum seeking approach uses the kinetic model of the bioreactor to construct a seeking algorithm
+that drives the system states to the desired set-points that extremize the value of an objective function. Lyapunov’s stability
+theorem is used in the design of the extremum seeking controller and the development of the parameter updating laws. Simulation
+experiments are given to show the effectiveness of the proposed approach.

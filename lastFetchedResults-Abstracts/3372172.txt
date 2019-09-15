@@ -1,0 +1,1 @@
+A short personal-computer program for complex structural reliability analysis is presented. The program is written in BASIC and it pivots uni- or bidirectional components for decomposition fully automatically. Computational experience with the program is described

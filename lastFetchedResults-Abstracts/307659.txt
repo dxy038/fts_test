@@ -1,0 +1,9 @@
+Objective:
+In order to develop and validate an assay for rapid detection of three common G6PD gene mutations in Chinese individuals.
+Methods:
+In this report we design two sets of primers and fluorescently labeled hybridization probes recognizing adjacent sequences in the amplicon; after annealing, the fluorophores were in resonance energy transfer, providing real-time monitoring of the amplication process. At the completion of PCR, fluorescence was monitored as the temperature increased through the Tm of the probe/product duplex, and a characteristic melting profile for each mutation was obtained. By using the fluorescence method and PCR/RE, a total of 57 samples obtained from two groups of G6PD-deficient individuals were studied.
+Result:
+A rapid method for detection of three common G6PD gene mutations in Chinese individuals by probe melting curves was developed. This method shows 100% accordance with the traditional method.
+Conclusion:
+This fluorescent melting curve analysis is a simple, rapid, and effective method for clinical diagnosis and screening of G6PD deficiency.
+

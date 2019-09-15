@@ -1,0 +1,1 @@
+In [1], one of the two algorithms presented in [2] is considered and the possible stall of the algorithm is illustrated for a very particular situation (poles very closed to the unit circle and very low adaptation gains). The objective of the present comments is to clarify the theoretical and the numerical aspects related to the algorithms introduced in [2].

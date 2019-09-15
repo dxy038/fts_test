@@ -1,0 +1,11 @@
+Objective
+This study aimed to further investigate autonomic function in schizophrenic patients using long-term electrocardiographic (ECG) recordings.
+Methods
+Twenty unmedicated patients suffering from an acute episode of paranoid schizophrenia and 20 matched control subjects were recruited and 24-h ambulatory electrocardiograms were recorded. In order to investigate complexity of heart rate fluctuations related to different physiological time scales, linear heart rate variability (HRV) as well as autonomic information flow (AIF) parameters were calculated from day and night time intervals.
+Results
+While heart rates were increased, root mean successive square difference (RMSSD), a measure for vagal function as well as standard deviation of 5-min mean NN-intervals (SDANN), reflecting parasympathetic and sympathetic tone, were decreased in schizophrenia. Furthermore, a decrease of vagal information flow was apparent during night time (decreased mean high frequency peak decay (PDmHF)). In addition, increased INTNN (area under the AIF curve) as well as decreased beat decay (BDNN) and mean very low frequency PD (PDmVLF) indicated reduced complexity in patients during day and night time.
+Conclusions
+HRV and AIF parameters indicate altered diurnal autonomic variation in schizophrenia.
+Significance
+Reduced vagal modulation and loss of complexity might both contribute to the increased risk for sudden cardiac death in schizophrenia.
+

@@ -1,0 +1,1 @@
+An interleaved DC-DC bidirectional zero-voltage switching converter is presented in this paper to have small current ripple and voltage ripple. The proposed converter employs an inductor LS to achieve zero-voltage switching. This converter replaced diode with N-MOSFET to reduce the power consumption of components.

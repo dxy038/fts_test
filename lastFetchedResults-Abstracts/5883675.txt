@@ -1,0 +1,1 @@
+The objective of the project is to create a neural network that generalizes a doctor´s knowledge and predicts the planning target volume in radiotherapy from the 3-dimensional image of a detected tumor. The idea and the first results of predicting the planning target volume by means of an artificial neural network are illustrated

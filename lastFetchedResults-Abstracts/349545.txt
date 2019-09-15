@@ -1,0 +1,11 @@
+Objective
+A twitch interpolation technique using transcranial magnetic stimulation (TMS) was recently developed to measure motor cortical drive to human elbow flexors. Here, we described studies designed to test the applicability and reliability of the technique for the human wrist extensors and to provide new evidence regarding the sensitivity of the technique to inadvertent antagonist activation.
+Methods
+Study 1: we measured amplitudes of superimposed twitches (SITs) produced by TMS during wrist extension at intensities from rest to maximal voluntary contraction on two occasions (n = 9). Study 2: we assessed the impact of inadvertent antagonist activation by TMS on measurement of voluntary activation using a muscle potentiation technique to increase mechanical efficiency of the wrist flexors (n = 6).
+Results
+The SITs decreased linearly between 25% and 100% MVC and voluntary activation could be reliably estimated across days (ICC2,1 = 0.963, p < 0.001). Prior potentiation of the wrist flexors had little impact on extension SITs and voluntary activation.
+Conclusions
+TMS allows valid and reliable measurement of voluntary activation of the wrist extensors.
+Significance
+TMS can be used to assess effects of supraspinal fatigue, pathology and rehabilitation interventions on cortical activation in upper limb muscle groups
+

@@ -1,0 +1,1 @@
+To increase the coverage distance in access network, a bidirectional amplified WDM-PON with a single LOA is demonstrated. We report the margin improvement of 12.8 dB for downstream and 11.4 dB for upstream channel with low transient response.

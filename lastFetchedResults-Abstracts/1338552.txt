@@ -1,0 +1,13 @@
+Most supplier selection models consider the buyer’s viewpoint and maximize only the buyer’s
+profit. This does not necessarily lead to an optimal situation for all the members of a supply
+chain. Coordination models have been developed to optimize the entire supply chain and align
+the decisions between its entities. Little research has been done on the application of these
+models in the supplier selection problem. Here, a combination of a supplier selection model and
+a co-ordination model in a centralized supply chain is considered. In the proposed model, the
+buyer selects the right supplier and order an appropriate quantity. The suppliers split the buyer
+ordered quantities into small lot sizes and deliver them over multiple periods. The objective
+function is to minimize the total cost of the supply chain. A nonlinear mathematical model is
+proposed for the problem. The total cost of the supply chain includes the costs of the buyer and
+the suppliers. The nonlinear model is transformed into a concave minimization problem and
+solved by considering the specific characteristics of the problem. Finally, the proposed model is
+illustrated by a numerical example.

@@ -1,0 +1,4 @@
+Generalized r-convexity assumptions are imposed on a few of the functions
+involved in the objective and the constraints to obtain sufficient optimality conditions
+and duality results for a generalized minmax fractional programming problem
+with n-set functions

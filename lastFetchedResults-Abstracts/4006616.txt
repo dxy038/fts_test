@@ -1,0 +1,1 @@
+This paper presents the shape optimization of windings to minimize the eddy current losses. The method used for this optimization combines the finite element analysis of the time harmonic electromagnetic field and gradient-based numerical optimization techniques. The objective of this type of optimization problem is to limit the losses by modifying the shape of the windings

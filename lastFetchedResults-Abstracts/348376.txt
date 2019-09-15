@@ -1,0 +1,11 @@
+Objective
+A substantial body of evidence shows that several separate components underlie the late positive complex (LPC) of the ERP. Each of these has been proposed as a possible neural index of the orienting reflex (OR), but none has clearly met the criteria required for identification as an OR. The skin conductance response (SCR) is the most extensively examined index of the OR, and was used here as an OR ‘yard-stick’. The primary aim of this study was to determine if any of the components of the LPC show stimulus–response relationships analogous to those of the SCR.
+Methods
+ERPs and SCRs were simultaneously recorded from 72 subjects during an ERP dishabituation paradigm, in which a habituation stimulus (S1) was presented for a series of trials, during which a different stimulus (S2) was interpolated. This sequence was presented in a series of trains, allowing across-train LPC and SCR exploration as a function of trial. The sensitivity of these components to stimulus intensity and significance, other stimulus dimensions important in defining the OR, was also examined. We utilised a PCA with varimax rotation to separate the ERP components underlying the LPC.
+Results
+Four factors extracted appeared to correspond to the classic Slow Wave, the P3b, the Novelty P3 and the P3a. While the LPC exhibited a stimulus–response relationship analogous to the SCR, each of the separate components was differentially sensitive to aspects of the stimulus manipulations examined here.
+Conclusions
+This study has demonstrated that the LPC is an adequate EEG index of the OR. However, the underlying components of the LPC examined here—which we consider to be the classic slow wave, P3b, Novelty P3 and P3a—cannot be used interchangeably as OR indices.
+Significance
+This study clarifies links between the autonomic OR and its CNS correlates
+

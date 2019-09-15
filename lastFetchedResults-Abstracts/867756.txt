@@ -1,0 +1,4 @@
+This paper considers a new model of automated guided vehicle system arising from modern transportation
+systems. The objective is to minimize the vehicle number in order to guarantee the stability of the
+system. An approximately analytical method is proposed and a numerical example based on simulation is
+also presented to illustrate the method.

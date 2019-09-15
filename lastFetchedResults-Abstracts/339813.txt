@@ -1,0 +1,11 @@
+Objective
+Human embryonic stem cells (hESCs) have been differentiated into CD45+ hematopoietic cells in vitro. A subset of hESC–derived CD45+ cells coexpresses CD34 and show progenitor function in colony–forming units assays. These hESC–derived hematopoietic stem (HSC), or progenitor cells, display, however, distinct functional properties, including poor repopulation ability; impaired differentiation; and lack of homing when compared to HSCs from fetal blood (FB) or cord blood. Whether these differences are cell–autonomous or driven by their microenvironment remains to be elucidated.
+Materials and Methods
+
+Here, to gain insight into the molecular determinants accounting for these functional differences, a gene–expression profiling comparing candidate hESC–HSCs vs FB–derived HSCs (FB–HSCs) was conducted.
+Results
+
+Only 2.4% of differentially expressed transcripts were common for FB–HSCs and candidate hESC–HSCs, suggesting a completely different molecular signature for HSCs isolated from two different in utero ontogeny stages. Several key hematopoietic transcription factors, apoptosis and cycle regulators, and cell aggregation and homing genes may contribute to explain the functional differences between hESC–HSCs and FB–HSCs. Importantly, components of Notch and Wnt signaling pathways involved in HSC self–renewal and hematopoietic specification were significantly underexpressed in candidate hESC–HSCs.
+Conclusion
+
+Our study provides a platform to understand the molecular basis underlying hESC–HSCs functional properties. Future studies are needed to address the functional role of the transcripts identified here, eventually leading to identification of intrinsic determinants and cytokines driving physiological specification of hESCs into definitive HSCs.

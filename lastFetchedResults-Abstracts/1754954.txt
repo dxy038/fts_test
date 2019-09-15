@@ -1,0 +1,8 @@
+Objective
+tudies have linked symptoms of depression after an acute myocardial infarction (AMI) to negative health outcomes, including mortality. It has been suggested, however, that this link may be due to biased measurement of depressive symptoms in post-AMI patients related to confounding with somatic symptoms related to AMI. The objective of this study was to validate a factor model for the Beck Depression Inventory-II (BDI-II) that would allow for modeling of depressive symptoms after explicitly removing bias related to somatic symptom overlap.
+s
+l of 477 hospitalized post-AMI patients from 10 cardiac care units were administered the BDI-II. Confirmatory factor analysis models for ordinal data were conducted with MPLUS to test the fit of a model with a single General Depression factor (all 21 BDI-II items) and uncorrelated Somatic (5 items) and Cognitive (8 items) factors (G-S-C model) compared to standard correlated two-factor models.
+s
+S-C model fit as well or better than previously published correlated two-factor models. Seventy-three percent of variance in BDI-II scores is accounted for by the General Depression factor, whereas 11% and 13% respectively are accounted for by uncorrelated Somatic and Cognitive factors.
+sions
+S-C model is a novel approach to understanding the measurement structure of the BDI-II, presents advantageous statistical and interpretive properties compared to standard correlated factor models, and provides a viable mechanism to test links between symptoms of depression, as measured by the General Depression factor, and health outcomes among patients with AMI after explicitly removing variance from somatic symptoms unrelated to the General Depression factor.

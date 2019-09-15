@@ -1,0 +1,11 @@
+Objective
+The present study was carried out in order to assess the suitability of N,N-dimethylaminobenzyl alcohol (DMOH) as co-initiator of camphorquinone (CQ) and 1-phenyl-1,2-propanedione (PPD) in light-cured dental resins.
+Methods
+
+DMOH was synthesized and used as co-initiator for the photopolymerization of a model resin based on {2,2-bis[4-(2-hydroxy-3-methacryloxyprop-1-oxy)phenyl]propane} (Bis-GMA)/triethylene glycol dimethacrylate (TEGDMA). Experimental formulations containing CQ or PPD in combination with DMOH at different concentrations were studied. The photopolymerization was carried out by means of a commercial light-emitting diode (LED) curing unit. The evolution of double bonds consumption versus irradiation time was followed by near-infrared spectroscopy (NIR). The photon absorption efficiency (PAE) of the photopolymerization process was calculated from the spectral distribution of the LED unit and the molar absorption coefficient distributions of PPD and CQ.
+Results
+
+DMOH is an efficient photoreducer of CQ and PPD resulting in higher polymerization rate and higher double bond conversion compared with dimethylaminoethylmethacrylate. The PAE for PPD was higher than that for CQ. However, the polymerization initiated by PPD progressed at a lower rate and exhibited lower values of final conversion compared with the resins containing CQ. This observation indicates that the lower polymerization rate of the PPD/amine system should be explained in terms of the mechanism of generating primary radicals by PPD, which is less efficient compared with CQ.
+Significance
+
+The DMOH/benzoyl peroxide redox system, has recently been proposed as a more biocompatible accelerator for the polymerization of bone cements based on poly(methyl methacrylate), because cytotoxity tests have demonstrated that DMOH possesses better biocompatibility properties compared with traditional tertiary amines. The results obtained in the present study reveal the suitability of the CQ/DMOH initiator system for the polymerization of light-cured dental composites.

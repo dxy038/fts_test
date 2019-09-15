@@ -1,0 +1,11 @@
+Objective
+Binaural beat sensations depend upon a central combination of two different temporally encoded tones, separately presented to the two ears. We tested the feasibility to record an auditory steady state evoked response (ASSR) at the binaural beat frequency in order to find a measure for temporal coding of sound in the human EEG.
+Methods
+We stimulated each ear with a distinct tone, both differing in frequency by 40 Hz, to record a binaural beat ASSR. As control, we evoked a beat ASSR in response to both tones in the same ear. We band-pass filtered the EEG at 40 Hz, averaged with respect to stimulus onset and compared ASSR amplitudes and phases, extracted from a sinusoidal non-linear regression fit to a 40 Hz period average.
+Results
+A 40 Hz binaural beat ASSR was evoked at a low mean stimulus frequency (400 Hz) but became undetectable beyond 3 kHz. Its amplitude was smaller than that of the acoustic beat ASSR, which was evoked at low and high frequencies. Both ASSR types had maxima at fronto-central leads and displayed a fronto-occipital phase delay of several ms.
+Conclusions
+The dependence of the 40 Hz binaural beat ASSR on stimuli at low, temporally coded tone frequencies suggests that it may objectively assess temporal sound coding ability. The phase shift across the electrode array is evidence for more than one origin of the 40 Hz oscillations.
+Significance
+The binaural beat ASSR is an evoked response, with novel diagnostic potential, to a signal that is not present in the stimulus, but generated within the brain.
+

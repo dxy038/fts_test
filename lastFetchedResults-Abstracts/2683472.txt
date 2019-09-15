@@ -1,0 +1,16 @@
+This research addresses the mixed-model assembly line (MMAL) by considering
+various constraints. In MMALs, several types of products which their similarity is so
+high are made on an assembly line. As a consequence, it is possible to assemble and
+make several types of products simultaneously without spending any additional time.
+The proposed multi-objective model considers the balancing and sequencing problems,
+simultaneously. Based on the assembly problem, the various tasks of models are
+assigned to the workstations, while in the sequencing problem, a sequence of models for
+production is determined. The two meta-heuristic algorithms, namely MOPSO and
+NSGA-II are used to solve the developed model and different comparison metrics are
+applied to compare these two proposed meta-heuristics. Several test problems based on
+empirical data is used to illustrate the performance of our proposed model. The results
+show that NSGA-II outperforms the MOPSO algorithm in most metrics used in this
+paper. Moreover, the results indicate that our proposed model is more effective and
+efficient to assignment of tasks and sequencing models than manual strategy. Finally,
+conclusion remarks and future research are provided. 
+

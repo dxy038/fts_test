@@ -1,0 +1,11 @@
+Background
+Cardiac risk-adjustment indices for acute coronary syndromes have important clinical and research applications, especially if proven to be valid and robust across heterogeneous socioeconomically diverse populations. The objective of this study was to validate the Global Registry of Acute Coronary Events (GRACE) risk-adjustment index for 6-month all-cause mortality across socioeconomic strata.
+Methods
+
+The study cohort consisted of patients who were enrolled in the SESAMI study and discharged alive from the hospital between December 1, 1999, and February 28, 2003. Socioeconomic information was obtained through self-report. Hospital chart abstraction was used to ascertain clinical detail required for the derivation of the GRACE risk index. Six-month mortality rates were obtained through data linkage using encrypted health card numbers. The accuracy (c-statistic) and calibration (Hosmer-Lemeshow) characteristics of the GRACE risk index were generated using logistic regression across income and education strata.
+Results
+
+Predicted and observed mortality rates were significantly higher among patients of lower incomes and education (ie, observed 6-month mortality: 5.1% vs 1.8% among low income vs high income patients, respectively, P < .0001; 4.6% vs 2.9% among low-educated vs highly educated patients, respectively, P = .02). The predicted 6-month mortality as derived using GRACE closely mirrored observed mortality rates with strong accuracy and precision (c-statistic = 0.80 for the overall cohort and within each income and education strata; Hosmer-Lemeshow goodness-of-fit test was not significant within each income and education strata).
+Conclusion
+
+The GRACE risk score for 6-month all-cause mortality is an accurate, well-calibrated, and robust predictor across socioeconomic strata and can be used as a valid risk-adjustment index when examining socioeconomic-mortality differences after acute MI.

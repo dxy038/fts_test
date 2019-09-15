@@ -1,0 +1,9 @@
+This paper presents a method employing the penalty
+function search algorithm to determine the LC compensator value
+for the optimal power factor correction in nonsinusoidal systems.
+The objective of the proposed method is to minimize the transmission
+loss while the power factor and efficiency are taken as constraints
+and utilized in order to solve the multiobjective optimization
+problem by transforming it into a single objective one. Examples
+show that the load nonlinearity can have a significant impact
+on optimal compensator sizes.

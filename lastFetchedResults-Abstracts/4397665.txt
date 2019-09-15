@@ -1,0 +1,1 @@
+The article deals with modelling of tram DC series motors. The finite element method in 3D and 2D ANSYS / Maxwell program is used. The main objective is to focus on the effects of the electromagnetic imbalances or imperfections that they arise in the maintenance and repair of DC series motors.

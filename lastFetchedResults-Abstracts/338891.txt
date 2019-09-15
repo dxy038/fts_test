@@ -1,0 +1,11 @@
+Objective
+To determine the role of the c-terminal half of c-Mpl in Mpl-L-induced myeloprotection and the importance of Stat5 isoforms in the survival signaling pathways induced by Mpl ligand.
+Materials and methods
+
+Δ60-Mpl knockin mice, Stat5a−/−/b−/−, Stat5a−/−, and Stat5b−/− mice and wild-type (WT) controls were given a lethal myelosuppressive regimen: 80 mg/kg carboplatin intravenously followed by 7.5 or 6.5 Gy 137Cs total-body irradiation. A single dose of PEG-rmMGDF (65 μg/kg) was intravenously injected immediately after myelosuppression. Mice survival and blood counts were monitored for 22 days posttreatment.
+Results
+
+Knockin Δ60-Mpl mice lacking the c-terminal half of the intracellular domain of c-Mpl show reduced ability of Mpl-L to prevent lethal myelosuppression and an impaired thrombopoietic response to exogenous c-Mpl ligand. The survival of Mpl-L-treated Stat5a−/−/b−/− mice exposed to the lethal myelosuppressive regimen was substantially compromised compared to that of WT mice. Reduced survival of Stat5a−/−/b−/− mice was due to more severe hematopoietic suppression. Deletion of Stat5a did not result in a defect in hematopoietic recovery. In contrast, Mpl-L-treated Stat5b-deficient mice demonstrated significantly delayed hematopoietic recovery compared to WT controls.
+Conclusions
+
+Myeloprotective signaling transduced by the terminal 60 amino acids of the intracellular domain of c-Mpl is essential for complete protection from lethal myelosuppression provided by Mpl-L. Our studies differentiate the functions of Stat5 isoforms in hematopoietic stress and reveal a pivotal role of Stat5b in Mpl-L-induced hematopoietic recovery in this lethal myelosuppression model.

@@ -1,0 +1,1 @@
+The problem of multiprocessor implementation of real-time recursive DSP algorithms with fixed interprocessor communication delay is studied. A strategy to achieve the objective is presented. An efficient heuristic algorithm for finding a rate-optimal schedule, given the processor allocation, is introduced

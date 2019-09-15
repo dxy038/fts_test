@@ -1,0 +1,10 @@
+Artificial neural network (ANN) based maximum power point tracking (MPPT) algorithm makes use of the advantages of ANNs
+such as noise rejection capability and not requiring any prior knowledge of the physical parameters relating to PV system. This paper
+proposes a genetic algorithm (GA) optimized ANN-based MPPT algorithm implemented in a stand-alone PV system with direct-coupled
+induction motor drive. The major objective of this design is to eliminate dc–dc converter and its accompanying losses. Implementing offline
+ANN in DSP needs optimization of ANN structure to obtain an ideal size. GA optimization was used in this study to determine
+neuron numbers in multi-layer perceptron neural network. Another objective of this work is to prevent the necessity of the trade-off
+between the tracking speed and the oscillations around the maximum power point. Hence, varying step size is used in MPPT algorithm
+and PI-controller is adopted for simple implementation. Simulation and experimental results have been used to demonstrate effectiveness
+of the proposed method.
+  2012 Elsevier Ltd. All rights reserved.

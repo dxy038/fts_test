@@ -1,0 +1,5 @@
+We study the problem of reaching a target without leaving a prescribed constraint set
+for a dynamical system described by a controlled differential equation and a controlled
+instantaneous reset function.We characterize all initial conditions from which the objective
+can be reached. Then we characterize the value function associated with the optimal
+reaching time problem.  2002 Elsevier Science (USA). All rights reserved.

@@ -1,0 +1,1 @@
+This paper presents a procedure based on H<sub>&#8734;</sub> optimization for the design of robust power system stabilizers (PSS). The approach used is a mixed model matching and robustness design. The objective is to improve the robustness of a control law designed for a single operating condition

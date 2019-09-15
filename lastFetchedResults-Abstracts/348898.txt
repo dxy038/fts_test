@@ -1,0 +1,11 @@
+Objective
+To determine whether ERP components can differentiate between the semantic priming mechanisms of automatic spreading activation, expectancy, and semantic matching.
+Methods
+The present study manipulated two factors known to differentiate semantic priming mechanisms: associations between words (forward, backward, and symmetrical) and prime-target stimulus onset asynchrony (SOA). Twenty-six participants were tested in each SOA condition while high-density 128-channel data were collected. Principal components analysis was applied to separate the ERP components.
+Results
+Priming was observed for all conditions. Three semantic components were present: (1) the standard N400 effect for symmetric and forward priming pairs at both short and long SOAs, (2) an N300 for the long SOA symmetric priming pairs, and (3) a right-lateralized posterior N400RP for long SOA backward priming pairs.
+Conclusions
+Results suggest that the N300 reflects expectancy, but only for categorical and/or semantic similarity priming. Results further suggest that the N400RP is a replicable ERP component that responds to semantic matching. There is also some evidence that the N400 indirectly responds to both ASA and expectancy, perhaps as part of a post-lexical updating process and that backward priming at short SOAs is different from that at long SOAs.
+Significance
+Improved understanding of the semantic properties of the N400 and related ERP components may increase their utility for understanding language processes and for diagnostic purposes.
+

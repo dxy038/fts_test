@@ -1,0 +1,1 @@
+This paper presents two reduced switch count ac-ac two-phase drive systems. The configurations were conceived to operate with two-phase machines. The drive systems provide both bidirectional power flow and power factor control. The overall control of the drive system is presented, including the pulse-width modulation techniques. Experimental results are presented

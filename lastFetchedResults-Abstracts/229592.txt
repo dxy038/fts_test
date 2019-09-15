@@ -1,0 +1,7 @@
+In this paper, we present a physical validation of global illumination algorithms based on measurements from a
+simple experimental setup. The validation methodology emphasizes tractability and error minimization. To this end,
+we discuss issues such as the acquisition and accurate simulation of material bidirectional reflection distribution
+functions (BRDFs) and the light source distribution, as well as error analysis. In addition, we present a nearestneighbor
+resampling technique for BRDFs and a simple method for extracting the light source distribution from
+digitized high dynamic range (HDR) images. Finally, we compare the measurements to a forward and backward
+raytracing solution (photon map and RADIANCE, respectively) in a set of case studies.

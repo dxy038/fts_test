@@ -1,0 +1,13 @@
+In this paper, an extension of classical waste-load allocation models for river water quality
+management is presented to determine the monthly treatment or removal fraction of wastewater
+to evaporation ponds. The dimensionality of the problem, which is due to a large number
+of decision variables, is tackled by developing a new GA based optimization model, which is
+called a Sequential Dynamic Genetic Algorithm (SDGA). This is a deterministic multi-objective
+optimization model, which is linked to an unsteady water quality simulation model. The model
+minimizes the total losses incurred during the optimization time horizon, including the treatment
+or removal fraction costs and the costs associated with the deviation from water quality standards.
+The proposed model has been used for the water quality management and salinity reduction of
+the Karoon River in Iran. The results show the proposed model can effectively reduce the
+computational burden of the seasonal waste-load allocation problem. It is also shown that the
+seasonal waste-load allocation can significantly reduce the number and duration of standards
+violations.

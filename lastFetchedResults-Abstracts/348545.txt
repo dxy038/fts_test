@@ -1,0 +1,11 @@
+Objective
+Electrical impedance myography (EIM) is a method for evaluating muscle in which high-frequency, low-intensity alternating current is applied to a body region and the resulting surface voltage pattern over a muscle of interest is measured. In this study, the reproducibility for the simplest of these techniques, 50 kHz linear-EIM, was assessed for three muscles.
+Methods
+Fifty kilohertz linear-EIM was performed on the biceps, quadriceps, and tibialis anterior of 30 normal subjects ranging in age from 21 to 90 years, and the major outcome variable, the spatially averaged phase (θavg), measured. The measurements were repeated within 250 days and comparisons between the two data sets made.
+Results
+Reproducibility, as measured by the intraclass correlation coefficients for all three muscles, was very high at 0.970, 0.971, and 0.938 for biceps, quadriceps, and tibialis anterior, respectively. Variability between measurements was on average 4.2% for all muscle combined, with an upper limit of 16.8%.
+Conclusions
+Fifty kilohertz linear-EIM demonstrates excellent test–retest reproducibility.
+Significance
+These results support the view that 50 kHz linear-EIM has the potential to be used as a simple, fast, and non-invasive measurement for the assessment of disease status, either as part of individual patient care or as a surrogate outcome measure in clinical trials work.
+

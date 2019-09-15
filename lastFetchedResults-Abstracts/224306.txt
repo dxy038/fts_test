@@ -1,0 +1,12 @@
+The purpose of thw paper is to present a
+useful algorithm for mimmizing harmomc voltage distortion
+levels wth multi le current-constrained active power line
+conditioners (APtCs) in a power system. The algorithm
+contains a sensitivity analysis-based single- APLC placement
+rocedure and uses a nonlinear programming optimizer
+ERG2 to improve the solution if necessary The usefulness
+of this algorithm is then illustrated by a distribution system
+Simulation results show that the algorithm is
+simp e, computationally efficient, and can be easily extended
+to minimize several other alternative harmonic-related
+network objective functions.

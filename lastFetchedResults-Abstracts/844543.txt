@@ -1,0 +1,6 @@
+In this paper, a class of fuzzy bidirectional associated memory (BAM) neural networks with
+time-varying delays are studied. Employing fixed point theorem, matrix theory and
+inequality analysis, some sufficient conditions are established for the existence, uniqueness
+and global exponential stability of equilibrium point. The sufficient conditions are
+easy to verify at pattern recognition and automatic control. Finally, an example is given
+to show feasibility and effectiveness of our results.

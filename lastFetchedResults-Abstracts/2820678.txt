@@ -1,0 +1,1 @@
+This paper deals with a mortar finite element approach with overlapping grids combined with an edge element discretization in space and an implicit Euler scheme in time. The bidirectional transfer of information between fixed and moving subdomains is described and its accuracy examined. The new method is exposed for a simple magnetodynamic problem.

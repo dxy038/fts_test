@@ -1,0 +1,7 @@
+Nowadays, with the continuous rise of Internet-based multimedia services, such as video sharing websites, web radios and IP-based telephony, multimedia communications are gaining more and more popularity.
+
+he service provider’s perspective, there is an increasing need in providing high-quality content; at the same time, from the network provider’s view, the requirement is to design networks that can effectively support these services with adequate quality-of-service (QoS). In both cases, engineers and researchers need suitable planning tools exploitable for providing appropriate designs.
+
+l these reasons, we have focused our work on the design and implementation of a novel open-source tool, named QoE Monitor, which consists of a new module for the NS-3 simulator that can be used to perform objective and full-reference quality-of-experience (QoE) assessments in any simulated network. The goal of this tool is to predict the video and/or audio quality perceived by an end user through objective metrics. Moreover, its open-source nature foster its validation and promote knowledge sharing within the research community, while its modularity eases the implementation of additional software components to expand its capabilities (e.g., to account for new codecs and/or new QoE metrics).
+
+s paper, a detailed description of this tool is done and some numerical results about video streaming performance evaluations are presented, which show its effectiveness for the QoE analysis.

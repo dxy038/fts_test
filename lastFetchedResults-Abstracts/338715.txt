@@ -1,0 +1,11 @@
+Objective
+Clone specific immunoglobulin (Ig) and T-cell receptor (TCR) gene sequences can be used as molecular targets for detection of minimal residual disease (MRD) in acute lymphoblastic leukemia (ALL). Real-time quantitative PCR (RQ-PCR) with no need for post-PCR processing is an attractive approach for detection and quantification of specific DNA or RNA sequences. In the present study we evaluated a real-time PCR-based technology for MRD quantification in children with precursor-B ALL.
+Material and Methods
+
+DNA samples from 36 children with newly diagnosed precursor-B ALL were available for molecular analysis. All patients were uniformly treated according to the Nordic Society of Pediatric Hematology and Oncology (NOPHO) protocols from 1992. A real-time PCR assay was applied for MRD quantification using LightCycler technology and the SYBR green fluorescent dye for detection of clone-specific Ig and TCR gene rearrangements as target sequences. The specificity of the PCR products was verified by melting curve analysis.
+Results
+
+Thirty-four of the 36 children with precursor-B ALL (94%) displayed at least one clonal Ig heavy chain (IgH) or TCR gene sequence useful as a molecular target. These clone-specific targets were successfully applied for real-time PCR quantification in all but one patient. Melting curve analysis was important for identifying all specific PCR products. In 32 pediatric precursor-B-ALL patients an MRD level ≥10−3 at day 29 during induction treatment was significantly correlated with later bone marrow relapse (p = 0.0025).
+Conclusion
+
+Real-time PCR using clone-specific primers and the SYBR green dye for detection is a feasible technique for identifying patients at risk for relapse. This approach provides an easily applicable tool for detection of IgH/TCR gene rearrangements in the routine setting. Melting curve analysis allowed clear distinction between specific rearrangements and unspecific background signals.

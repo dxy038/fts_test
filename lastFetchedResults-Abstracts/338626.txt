@@ -1,0 +1,11 @@
+Objective
+We previously cloned a human normal counterpart (MmTRA1b/phospholipid scramblase 1) of the mouse leukemogenesis-associated gene MmTRA1a. MmTRA1b gene expression was increased during differentiation of human monoblastic leukemia U937 cells using some differentiation inducers but not 1α,25-dihydroxyvitamin D3 (a typical monocytic differentiation inducer). To further elucidate the role of human MmTRA1b gene expression in the differentiation of myelogenous leukemia cells, we measured MmTRA1b gene expression in several myeloid leukemia cell lines and primary leukemia cells.
+Materials and Methods
+
+The expression of MmTRA1b mRNA was determined by semiquantitative reverse transcriptase polymerase chain reaction.
+Results
+
+Expression of the MmTRA1b gene was markedly induced during granulocytic differentiation of promyelocytic leukemia NB4 and HT93 cells induced by all-trans retinoic acid (ATRA). The level of MmTRA1b mRNA was significantly increased during differentiation toward granulocytes, but not monocytes/macrophages, in bipotential myeloid leukemia HL-60 cells. The level of MmTRA1 mRNA was not increased during erythroid differentiation induced by hemin in erythroid leukemia K562 and HEL cells or during megakaryocytic differentiation induced by 12-O-tetradecanoylphorbol-13-acetate in K562 cells. Expression of the MmTRA1b gene also was not induced when apoptosis of NB4 cells was induced by antileukemic drugs. ATRA-induced differentiation of antisense MmTRA1b-transfected NB4 cells was significantly suppressed. On the other hand, ATRA induced the differentiation of MmTRA1b-transfected NB4 cells more efficiently than that of mock-transfected cells. MmTRA1b mRNA also was clearly induced in ATRA-treated primary acute promyelocytic leukemia cells during granulocytic differentiation.
+Conclusion
+
+MmTRA1b mRNA was specifically induced during granulocytic differentiation of acute promyelocytic leukemia cells and was associated with induction of their differentiation.

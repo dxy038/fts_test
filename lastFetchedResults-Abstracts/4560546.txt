@@ -1,0 +1,1 @@
+We propose a &#955;-selective burst-mode transceiver with 100-ns wavelength switching for the use in C and L-bands for upstream and downstream signals, respectively. The bidirectional 40-km transmission of symmetric 40-Gbit/s &#955;-tunable WDM/TDM-PON is demonstrated without a PON repeater.

@@ -1,0 +1,1 @@
+In this paper, based on B-vex function, which did Bector and Singh introduce in paper [1999], a sufficient condition that B-vex functions are vex function is set up. In the meantime, the properties of the nonlinear programming problem whose objective functions and constrained functions are all B-vex functions are discussed, and the relevant results are given.

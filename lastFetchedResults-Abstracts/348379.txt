@@ -1,0 +1,11 @@
+Objective
+Data from a previous event-related potential (ERP) study in visual-perceptual grouping [Nikolaev AR, van Leeuwen C. Flexibility in spatial and non-spatial feature grouping: an event-related potentials study. Brain Res Cogn Brain Res 2004;22:13–25] were re-analyzed to identify event-related dynamics of phase-synchronization.
+Methods
+In 20 Hz activity, uniform spreading of phase synchronization in closely spaced ( 2 cm) scalp electrodes appears and disappears spontaneously. The lengths of synchronized activity intervals and how they vary as a function of stimulus presentation were compared between task and control conditions.
+Results
+Synchronization reached a maximum in the task condition about 180 ms post-stimulus onset, coinciding with the peak N180 ERP marking the deployment of task-specific attention. Synchronized intervals were longer in the task than in the control condition. Long (above 80 ms) intervals occurred at a stable rate before and just after stimulus onset, but steeply decreased 200–400 ms afterwards.
+Conclusions
+Perceptual tasks lead to longer synchronized intervals in early visual areas. Attention deployment resets the ongoing synchronization. Event-related activity, besides low-frequency ERP, consists of high-frequency short and long synchronized intervals corresponding to evoked bursts and ongoing oscillations, respectively.
+Significance
+High-density scalp recorded EEG revealed synchronization dynamics in a local, early visual area of cortex that can be interpreted as modulation of spontaneous ongoing task-related processes by attention.
+

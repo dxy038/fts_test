@@ -1,0 +1,9 @@
+Background: Peritoneal dialysis (PD) is an efficient alternative for hemodialysis. Removal of waste metabolites and excess water from the blood circulation are the two main tasks done during dialysis. These are done by using a filter; in PD, the naturally semi-permeable peritoneal membrane acts as the filter. Automated PD machines control intelligently the operations to enhance the efficiency and survival of patients. Available PD devices, however, have several limitations. 
+
+Objective: To develop a novel portable automated PD device to be worn by patients. 
+
+Methods: The developed device has a peristaltic pump to produce a steady dialysate flow, two flowmeters to measure the volume of dialysate, and a servomotor-actuated triway valve to conduct the dialysate to the right path. Moreover, to disinfect the permanent tubes inside the device an external steam sterilizer was designed. Electrical power of the device is supplied by rechargeable batteries. 
+
+Results: Tests of a 16×12.5×6 cm3 device revealed that the three phases of dialysis, i.e., injection, dwelling, and drainage, were efficiently performed, and the alarms acted properly. 
+
+Conclusion: This newly designed automated PD can surmount the social isolation dilemmas of either children or adults, and notably improve their life quality.

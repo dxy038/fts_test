@@ -1,0 +1,11 @@
+Objective
+Important roles of Notch signaling have been demonstrated in hematopoiesis. In many cases, activation of the Notch pathway leads to the inhibition of differentiation of immature precursors, suggesting a potential role in self-renewal promotion. However, the function of Notch and Notch ligands is not so straightforward because it is considerably dependent on cytokine context. In this study, we analyzed effects of one Notch ligand, Delta-4, whose function is less clear than others, such as Delta-1 and Jagged-1 and -2.
+Methods
+
+CD34+ cells isolated from human umbilical cord blood were cocultured with a Delta-4-expressing murine stromal cell line, SC9-19, and induced to erythroid differentiation by adding stem cell factor and erythropoietin. To examine the involvement of Delta-4, we utilized stromal cell subclones expressing Delta-4 protein at higher or lower level than parental SC9-19 by plasmid transfection. Erythroid maturation was examined by surface phenotype (CD34 and glycophorin A) and cytospin morphology. Recombinant human Delta-4 protein was prepared to analyze direct effects of Delta-4.
+Results
+
+Under erythroid lineage-inducing conditions, we found that the increase in Delta-4 expression of SC9-19 promoted erythroid differentiation whereas the decrease in Delta-4 expression inhibited it. Morphologic examination as well as colony formation analysis supported this observation. Moreover, the experiment using recombinant Delta-4 provided direct evidence of the Delta-4 activity found in coculture system.
+Conclusions
+
+By modifying Delta-4 expression of the stromal cells and using the recombinant protein, we demonstrated that Delta-4 had a differentiation promoting activity for human primitive hematopoietic cells into erythroid lineage.

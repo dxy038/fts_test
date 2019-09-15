@@ -1,0 +1,11 @@
+This paper is concerned with the global stability characteristics of a system of equations
+modelling the dynamics of continuous-time bidirectional associative memory neural networks
+with impulses. Sufficient conditions which guarantee the existence of a unique equilibrium
+and its exponential stability of the networks are obtained. For the goal of
+computation, discrete-time analogues of the corresponding continuous-time bidirectional
+associative memory neural networks with impulses are also formulated and studied. Our
+results show that the above continuous-time and discrete-time systems with impulses preserve
+the dynamics of the networks without impulses when we make some modifications
+and impose some additional conditions on the systems, the convergence characteristics
+dynamics of the networks are preserved by both continuous-time and discrete-time systems
+with some restriction imposed on the impulse effect.

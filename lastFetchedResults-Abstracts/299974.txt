@@ -1,0 +1,9 @@
+Objective
+To identify the clinical factors predicting failure or a good clinical response in the cohort of RA patients entered in the Lombardy Rheumatology Network (LORHEN) registry after 3 years of treatment with anti-TNF agents.
+Methods
+We studied the patients who had received anti-TNF agents and been followed up for a minimum of 6 months. Disease activity at baseline and after 6 months was assessed using the DAS28, and response was evaluated according to the EULAR improvement criteria.
+Results
+1005 patients (55.72 years) were included in the analysis. at baseline the DAS-28 was 5.91 ± 0.95 and a HAQ score was 1.46 ± 0.61. At mean of 14.57 months, 29.9% of the patients achieved a DAS-28 of ≤ 2.6 (remission). A higher RR for remission was associated with male gender (AHR 1.51, 95% CI 1.14–2.00; p: 0.004) and a lower RR for remission with: prior treatment with > 3 DMARDs (AHR 0.077, 95% CI 0.58–1.03; p: 0.074), a high ESR (AHR 0.86, 95% CI 0.81–0.92; p: 0.000), Steinbrocker's functional class III/IV (AHR 0.66, 95% CI 0.48–0.90; p: 0.010), a high TJC (AHR 0.97, 95% CI 0.94–0.99; p: 0.011). A 12-month EULAR non-response was observed in 153/821 (18.6%) associated with a higher baseline HAQ score (AOR 1.51, 95% CI 1.03–2.20, p: 0.033), prior treatment with > 3 DMARDs (AOR 1.76, 95% CI 1.09–2.85; p: 0.021) and corticosteroid > 5 mg/day (AOR 2.05, 95% CI 1.06–3.97; p: 0.034).
+Conclusion
+We found that only a minority of patients with long-standing RA treated with anti-TNF agents achieve a good clinical response or remission.
+

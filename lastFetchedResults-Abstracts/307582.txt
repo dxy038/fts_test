@@ -1,0 +1,9 @@
+Objective:
+This study investigated the performance and data comparability of a new, relatively specific immunoassay method, affinity column mediated immunoassay (ACMIA) run on the Dimension Xpand-HM, and the established less specific monoclonal fluorescence polarization immunoassay (mFPIA) method on the TDx analyzer (mFPIA/TDx) in determining cyclosporine (CsA) concentrations.
+Methods:
+Accuracy and within and between-run precision were tested. Then we measured CsA concentrations of 216 samples obtained from 51 patients and divided the 113 samples from 21 patients with renal transplants into two groups based on sampling time.
+Results:
+Accuracy relative to the four weighed-in concentrations ranged from 99% to 104% and from 106% to 117% for ACMIA and mFPIA/TDx, respectively. The mean within-run precision (CV%) for the ACMIA and mFPIA/TDx methods was 4.31% and 2.57%, respectively. The mean recovery for ACMIA and mFPIA/TDx in the between-run study was 104.50% and 111.12%, respectively. The mFPIA/ACMIA ratio (the ratio of the concentration measured by mFPIA/TDx to that measured by ACMIA) of C2–3 (concentrations measured 2–3 h after oral administration) was 118.85%, which was significantly smaller than that (139.12%) of C8–12 (those measured more than 8 h after the administration) at each mean concentration.
+Conclusions:
+These results indicate that ACMIA is more accurate than mFPIA/TDx, and the difference in the mFPIA/ACMIA ratio between C2–3 and C8–12 was due to the difference in the relative cross-reactivity with CsA metabolites. Although mFPIA/TDx had an apparent calibration error, both methods had a clinically acceptable within and between-run precision.
+

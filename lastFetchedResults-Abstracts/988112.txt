@@ -1,0 +1,10 @@
+This paper considers two-machine 
+ow shop scheduling problem while there is
+ineligible transportation lags in production procedure. There is one transporter to convey
+semi-nished jobs between machines, and another transporter to deliver nished jobs to the
+warehouse (customers). The problem is formulated as a Mixed Integer Linear Programming
+(MILP) model to minimize the makespan as an objective function. To solve the problem in
+an ecient way, two heuristic algorithms are also developed. Furthermore, ve lower bounds
+are proposed and computational experiments are carried out to verify the eectiveness of
+the proposed lower bounds and heuristic algorithms. The results show the performance of
+the heuristics to deal with medium and large size problems.

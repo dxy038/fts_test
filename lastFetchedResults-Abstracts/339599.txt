@@ -1,0 +1,11 @@
+Objective
+Constitutive overexpression of nucleophosmin/anaplastic lymphoma kinase (NPM/ALK) is a key oncogenic event in anaplastic large cell lymphomas (ALCL) that carry the t(2;5)(p23;q35) translocation. Global proteomic analysis of NPM/ALK-positive ALCL would improve understanding of the disease pathogenesis and yield new candidate targets for novel treatment and diagnostic strategies.
+Materials and Methods
+
+To comprehensively determine the inventory of proteins from NPM/ALK-positive ALCL SUDHL-1 cells, the membrane, cytoplasm, and nuclear subcellular fractions were resolved by one-dimensional sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) and analyzed using liquid chromatography-tandem mass spectrometry (LC-MS/MS). The MS spectra were interpreted using SEQUEST to search the electronic UniProt protein database, and analyzed by ProteinProphet and INTERACT.
+Results
+
+A total of 623 proteins consisting of 210 membrane, 229 cytoplasm, and 184 nuclear proteins were identified with a ≤5% error rate. Extensive annotation and systematic examination of the literature for information on 209 representative proteins indicated that 19.9% were reported to be expressed in T cells and 44.7% were reported to have important function in cancers, while only 4.3% were reported to be involved in ALCL pathogenesis. Categorization of proteins into functional groups was performed using GOMiner. A subset of the identified proteins was confirmed by Western blots and immunohistochemistry of tissue samples.
+Conclusion
+
+We present an extensive catalog of proteins expressed by NPM/ALK-positive ALCL. This study illustrates the potential for novel pathogenetic discovery in NPM/ALK-positive ALCL and the utility of combining cellular subfractionation, 1D SDS-PAGE, and LC-MS/MS for the comprehensive protein analysis of lymphoma.

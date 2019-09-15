@@ -1,0 +1,16 @@
+In this study the periodic cracking of an elastic coating bonded to a homogeneous
+substrate is considered. The problem is assumed to simulate the segmentation or "mud-flat" cracking
+of ceramic layers used as thermal barrier coatings in stationary and aircraft gas turbine engines. By
+expressing the displacements in terms of a combination of finite and infinite Fourier transforms, the
+corresponding mixed boundary value problem is reduced to an integral equation with the crack
+surface displacement as the unknown function. The main objective of the study is the examination
+of the influence of the length parameters c/b and b/h and the stiffness ratio ~/2/~1 on the crack tip
+stress intensity factors, the crack opening displacement, the strain energy released as a result of
+periodic cracking, and the in-plane tensile stress on the coating surface, where c, b, h,/~ and #2,
+respectively, are crack spacing, crack depth, coating thickness, shear modulus of the coating, and
+shear modulus of the substrate. The case of a periodically cracked strip is investigated separately
+and the stress intensity factors under fixed-load and fixed-grip conditions are compared. Also, the
+validity of the assumption made in simple energy balance calculations to the effect that the entire
+strain energy contained within the volume of the cell is released during periodic cracking is studied.
+It is shown that such an assumption is valid only for very small values of relative crack spacing c/b.
+© 1998 Elsevier Science Ltd. All rights reserved

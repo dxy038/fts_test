@@ -1,0 +1,11 @@
+Background
+Different attachment systems have been proposed in an effort to reduce skin movement artifacts when recording knee bone movement during gait. One such system, called exoskeleton, has shown promising accuracy but little is known concerning its reliability. The objective of this study was to determine the intra- and inter-observer reliability of this attachment system for recording 3D knee kinematics during gait.
+Methods
+
+Two separate studies were conducted. The intra-observer study involved one observer who reinstalled the exoskeleton on 15 healthy subjects and recorded gait kinematics four times for each subject. The inter-observer study also involved 15 healthy subjects and for each of these subjects, three observers reinstalled and recorded gait kinetics three times in randomized order.
+Findings
+
+In the intra-observer setting, ICC values were 0.92, 0.94 and 0.88 for knee flexion/extension, abduction/adduction and internal/external tibial rotation, respectively. In the inter-observer setting, the corresponding values were 0.94, 0.92 and 0.89.
+Interpretation
+
+The high ICC values found indicate very high reliability of the exoskeleton for recording 3D knee kinematics despite reinstallation. Moreover, the values between both settings are very similar which indicates that reliability is independent of the observer who performs the installation. Therefore, evaluations may be carried out by several different clinicians without impacting reliability.

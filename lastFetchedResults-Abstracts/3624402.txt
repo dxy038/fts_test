@@ -1,0 +1,1 @@
+A general correlation model of the bidirectional associative memory (BAM) is proposed. A sufficient condition for bidirectional stability of the general model by using a system energy (Lyapunov) function is derived. Based on the general model, a stable high order BAM model is described as an example and simulated for the performance of storage capacity.

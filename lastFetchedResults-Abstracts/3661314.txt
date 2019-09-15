@@ -1,0 +1,1 @@
+One prime objective in developing a computer program is to minimize the running time requirements. For short-circuit programs, one major obstacle is the time absorbed in processing mutually coupled elements for line-out and open-end conditions.

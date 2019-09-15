@@ -1,0 +1,10 @@
+There are various theoretical, algorithmic, and practical reasons for developing
+necessary and sufficient conditions for the efficient set of a multiple objective
+mathematical programming problem  P. to be closed. Yet only a small number of
+results of this type, limited to special cases of Problem  P., have been developed.
+In this article we present a necessary condition and several sufficient conditions for
+the closedness of the efficient sets of more general cases of Problem  P. than have
+heretofore been studied. Our approach relies in part upon generalizing the
+concepts of quasi-concavity and strict quasi-concavity for real-valued functions to
+vector-valued functions. Our approach also relies upon some new characterizations
+of an efficient solution for Problem  P. that we develop in the article

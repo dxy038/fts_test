@@ -1,0 +1,18 @@
+It was found that when electrolessly deposited thin Pd and Pd–Cu membranes were exposed to air at temperatures above
+350 8C, their H2 flux increased substantially immediately after the air exposure, then decreased to a new steady-state value.
+While this was a quasi-reversible change for the H2 flux, the flux of insoluble species, such as N2, irreversibly increased with
+every air exposure but by a much smaller extent. The extent of these changes was found to be dependent on the exposure time and
+the temperature of the tests. Thus, we decided to investigate the effect of gas exposures on the properties of these materials.
+Palladium and palladium–copper films, prepared by electroless deposition on ceramic supports, and commercial foils were
+exposed to air, hydrogen and helium at 500 and 900 8C for times varying from 1 h to 1 week with the objective of determining the
+effect of the different exposure conditions on the surface morphology, the flux of different penetrants and the crystalline structure
+of the materials. Atomic force microscopy (AFM) and X-ray diffraction (XRD) were used to study the changes occurring in the
+films under those conditions.
+It was observed that the exposure of both the electroless films and the foils to hydrogen and air markedly modified their surface
+morphology. The hydrogen exposure tended to smooth the surface features whereas the oxygen exposure created new surface
+features such holes and large peaks. Additionally it was found that the air exposure produced some oxidation of the film to create
+PdO.
+These results suggested that a common hypothesis stating that air oxidation just cleans the surface of the membrane might not
+be sufficient to explain all of those changes. A contributing effect of air exposure may be the increase in surface area due to the
+formation of palladium oxide. However, the extent of the surface area increase was insufficient to explain the increase in steadystate
+H2 flux

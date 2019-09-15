@@ -1,0 +1,18 @@
+This study proposes an expert system, which is called hybrid Kansei engineering system (HKES) based on
+multiple affective responses (MARs), to facilitate the development of product form design. HKES is consists
+of two sub-systems, namely forward Kansei engineering system (FKES) and backward Kansei engineering
+system (BKES). FKES is utilized to generate product alternatives and BKES is utilized to predict
+affective response of new product designs. Although the idea of HKES and similar hybrid systems have
+already been applied in various fields, such as product design, engineering design, and system optimization,
+most of existing methodologies are limited by searching optimal design solutions using singleobjective
+optimization (SOO), instead of multi-objective optimization (MOO). Hence the applicability
+of HKES is limited while adapting to real-world problems, such as product form design discussed in this
+paper. To overcome this shortcoming, this study integrates the methodologies of support vector regression
+(SVR) and multi-objective genetic algorithm (MOGA) into the scheme of HEKS. BKES was constructed
+by training SVR prediction model of every single affective response (SAR). The form features of these
+product samples were treated as input data while the average utility scores obtained from all the consumers
+were used as output values. FKES generates optimal design alternatives using the MOGA-based
+searching method according to MARs specified by a product designer as the system supervisor. A case
+study of mobile phone design was given to demonstrate the analysis results. The proposed HKES based
+on MARs can be applied to a wide variety of product design problems, as well as other MOO problems
+involving with subjective human perceptions.

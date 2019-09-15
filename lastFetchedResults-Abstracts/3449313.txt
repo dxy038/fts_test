@@ -1,0 +1,1 @@
+A technique is presented for the calculation of Pareto-optimal solutions to a multiple-objective constrained optimization problem by solving a series of single-objective problems. Threshold-of-acceptability constraints are placed on the objective functions at each stage to both limit the area of search and to mathematically guarantee convergence to a Pareto optimum.

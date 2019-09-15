@@ -1,0 +1,11 @@
+Objective
+To analyse waveforms, latencies and amplitudes of Median Nerve (MN) SEPs recorded by stereotactically electrodes implanted in the SMA of 14 epileptic patients (9 in pre-SMA,3 in SMA-proper, 2 in both) in order to evaluate which short and middle-latency SEPs are generated in this area and which could be the physiological relevance of these responses.
+Methods
+Short and middle-latency MN SEPs were recorded by chronically implanted electrodes in the fronto-temporal cortex and in particular in the mesial frontal region of 14 drug-resistant epileptic patients. MN stimulations of 100 μs were delivered by skin electrodes at the wrist; stimulus intensity was adjusted slightly above the motor threshold.
+Results
+The main result of this study is that middle-latency SEPs were originated in pre-SMA but not in SMA-proper as demonstrated by both referential and bipolar recordings. In particular off-line computed bipolar traces between neighbouring contacts implanted in the pre-SMA and in the frontal external regions showed a phase reversal at the deepest contacts located in pre-SMA. Conversely, bipolar recordings between neighbouring contacts implanted in the SMA-proper and in the frontal external regions showed inversion recovery at more superficial contacts, implanted in area 6. Finally, we confirmed that no short-latency MN SEP (and in particular the N30) is originated in the whole SMA.
+Conclusions
+Among premotor areas, somatosensory inputs seem to reach pre-SMA and area 6 but not SMA-proper.
+Significance
+This study assessed that no scalp SEP in the first 100 ms after MN stimulus could be generated in SMA-proper
+

@@ -1,0 +1,11 @@
+Introduction:
+Although a variety of HPLC methods have been previously described for the quantification of glyburide, attempts to implement them clinically have been unsuccessful. Some are time consuming, expensive, or not directly applicable to human plasma. Others are outdated, as the necessary materials are no longer available.
+Objective:
+To describe a simple, rapid, and sensitive HPLC method for the analysis of human plasma and perfusate.
+Design and method:
+Samples were extracted by liquid–liquid extraction with chloroform at neutral pH. Glyburide was detected at 254 nm, with a total run time of 7 min per sample.
+Results:
+Standard curves of 50 to 400 ng/mL of glyburide were linear (r2 = 0.998). Inter-day and intra-day sample coefficient of variations were 8% and 4%, respectively. Recoveries ranged from 71 to 75% in human plasma samples for the 20–400 ng/mL concentration range.
+Conclusion:
+Clinically, this method can be applied in the therapeutic drug monitoring of glyburide.
+

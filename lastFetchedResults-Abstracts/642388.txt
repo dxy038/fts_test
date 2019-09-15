@@ -1,0 +1,11 @@
+Objective
+Study objectives were to assess the accuracy of a food record delivered on a personal digital assistant (PDA) and to examine sources of error from the PDA-based food record.
+Methods
+
+Thirty-nine adults recruited with a newspaper advertisement were trained to record food intake using DietMatePro, a dietary assessment program delivered on a PDA. After 3 d of use, subjects returned for a follow-up visit in which a 24-h recall was conducted. Subjects also were timed while recording an observed, weighed lunch. Recalled and actual food intakes were compared with estimates recorded by the subjects when using the PDA. Paired sample t tests and Pearson’s correlations assessed means and measurements of association between DietMatePro data compared with the 24-h recall data and observed meal data. Bland-Altman plots were used to assess bias in food recording. Sources of error were quantified by using calories as the unit for comparison.
+Results
+
+There were no significant differences in daily totals for calories and macronutrients between DietMatePro data and comparison measurements. Pearson’s correlations of associations between DietMatePro data and the comparison measurement ranged from 0.505 to 0.797 (P < 0.005, n = 28) for the 24-h recall and from 0.419 to 0.786 (P < 0.005, n = 33) for the observed lunch, depending on the nutrient measured. The largest source of absolute error in caloric estimation was attributable to portion size estimation error (49%).
+Conclusions
+
+DietMatePro, a PDA-based dietary assessment program, provides a method of assessing energy and macronutrient intakes comparable to the 24-h recall in samples lacking dietary restrictions.

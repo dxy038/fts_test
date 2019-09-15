@@ -1,0 +1,11 @@
+Qualitative input is encountered in many real decision-making domains. Often such do-
+mains include tradeoffs among multiple attributes, and estimates of parameters are often
+expressed with some degree of uncertainty. Grey related analysis has been proposed as a
+means to use interval fuzzy representation of data. When dealing with multiple criteria
+data, model parameters that can involve uncertainty include both performances of alter-
+natives on attributes as well as attribute weights. DEA is proposed as an objective way to
+derive weights. This paper presents a grey-related fuzzy set methodology incorporating
+data envelopment analysis as a way to more objectively rank alternatives. The purpose is
+to demonstrate the method. The focus is on identifying alternatives performing the most
+efficiently with respect to the decision maker's preference. The method is demonstrated
+on a multiattribute siting problem. Simulation is applied to validate model efficiency.

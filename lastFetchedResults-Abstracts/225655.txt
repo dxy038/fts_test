@@ -1,0 +1,9 @@
+In this paper, the numerical analysis of a multistage
+formulation of the distribution expansion problem developed
+is presented. The approximate objective function is employed
+without sacrificing optimality. A complete nonlinear mathematical
+programming optimization is employed to identify the global
+optimum. The algorithm is applied here to two practical test
+cases. Details of the input data and configuration of test systems
+as well as the solutions are listed and discussed. Computational
+considerations are addressed.

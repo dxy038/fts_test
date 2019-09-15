@@ -1,0 +1,11 @@
+Objective
+We previously demonstrated that allogeneic bone marrow transplantation (BMT) after low-dose total lymphoid irradiation (200 cGy) and depletion of donor-reactive cells with cyclophosphamide (Cy) converted recipients to graft-vs-host disease (GVHD)-free chimeras tolerant to donor skin grafts. BMT also generated strong graft-vs-leukemia (GVL) response. However, clinical application of the protocol was hampered by the requirement for a relatively high dose of Cy (200 mg/kg). In this study we have tried to minimize the Cy dose by a concomitant blockade of CD40-CD40L interaction.
+Materials and Methods
+
+Mildly irradiated BALB/c mice were primed with C57BL/6 BM cells (BM1) and skin graft on day 0, injected with Cy (200 mg/kg or less) on day 1, and transplanted with a second C57BL/6 BM cell inoculum (BM2) on day 2. CD40L-specific antibody (MR1) was given with BM1, BM2, and 2 days later. Treated animals were monitored for survival, chimerism, and skin allograft rejection. The GVL potential of transplanted cells was examined in mice inoculated with BCL1 leukemia cells before irradiation.
+Results
+
+Blocking CD40-CD40L interaction with MR1 mAb allowed the reduction of a tolerance-generating Cy dose by 50%. Unfortunately, adding MR1 to the protocol reduced the GVL potential of the transplanted cells. Neither low-dose Cy nor antibodies alone could downregulate donor or recipient immune response.
+Conclusions
+
+CD40L-specific antibodies synergize with Cy to induce bilateral transplantation tolerance. Therefore, their use may be beneficial for safer allogeneic BMT for nonmalignant indications. However, due to MR1-associated reduction of GVL effects, MR1 should be considered with caution as conditioning for BMT for leukemia-bearing recipients.

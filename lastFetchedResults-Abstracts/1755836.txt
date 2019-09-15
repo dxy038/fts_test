@@ -1,0 +1,4 @@
+Each year, many people around the world are affected by a variety of natural disasters. It also costs a lot of helping time for injured people. Relief logistics is considered to be as the principal of all of relief operations and aid, and it is one of the main subsystems of logistics and supply chain management. One of the problems existed in relief logistics is unpredictable events that cause some uncertain parameters. This paper presented a 
+bi-objective model that includes several supply centers, distribution centers and demand (vulnerable) centers. The first objective is minimizing the total cost and the second one is maximizing satisfaction of applicants (injury victims). The first step, the proposed model is determined by using robust optimization method. In the second step, the bi-objective model is solved by goal programing method. Finally a comprehensive example is solved and analyzed which can be a help to understand real problems.
+
+

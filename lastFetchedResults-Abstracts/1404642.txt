@@ -1,0 +1,5 @@
+Background and purpose: Due to the increasing information about illnesses and deaths, classified map is of appropriate methods for analyzing this type of data. Standardized infection rates are commonly used in disease mapping but had many defects. This study aimed to compare the Poisson regression models and empirical Bayes models to prepare geographical map of tuberculosis incidence in Mazandaran province, Iran.
+Materials and methods: The standardized incidence rates were conducted using two methods of empirical Bayesian smoothing and without consideration of spatial correlation using data from 2005 to 2011.
+Results: The incidence rate of tuberculosis was 8.14 during the studied period. Poisson regression model showed that the variables of gender and disease were significantly effective on incidence rate. Using an empirical Bayes approach based on the smoothing, we found 2 clusters in west, 3 clusters in center and 2 clusters in east ofv Mazandaran province.
+Conclusion: Using Poisson regression models, we found significant effect of gender and disease on incidence rate. Poisson regression model is better to prepare geographical map of a disease.
+

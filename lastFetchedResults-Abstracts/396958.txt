@@ -1,0 +1,12 @@
+Background
+There is indirect evidence that HIV-1 exposure does not inevitably lead to persistent infection. Heterogeneity in susceptibility to infection could be due to protective immunity. The objective of this study was to find out whether in highly HIV-1–exposed populations some individuals are resistant to infection.
+Methods
+
+We did an observational cohort study of incident HIV-1 infection among 424 initially HIV-1–seronegative prostitutes in Nairobi, Kenya, between 1985 and 1994. 239 women seroconverted to HIV-1 during the study period. Exponential, Weibull, and mixture survival models were used to examine the effect of the duration of follow-up on incidence of HIV-1 infection. The influence of the duration of exposure to HIV-1 through prostitution on seroconversion risk was examined by Cox proportional hazards modelling, with control for other known or suspected risk factors for incident HIV-1 infection. HIV-1 PCR with env, nef, and vif gene primers was done on 43 persistently seronegative prostitutes who remained seronegative after 3 or more years of follow-up.
+Findings
+
+Modelling of the time to HIV-1 seroconversion showed that the incidence of HIV-1 seroconversion decreased with increasing duration of exposure, which indicates that there is heterogeneity in HIV-1 susceptibility or acquired immunity to HIV-1. Each weighted year of exposure through prostitution resulted in a 12–fold reduction in HIV-1 seroconversion risk (hazard ratio 0·83 [95% CI 0·79–0·88], p<0·0001). Analyses of epidemiological and laboratory data, show that persistent seronegativity is not explained by seronegative HIV-1 infection or by differences in risk factors for HIV-1 infection such as safer sexual behaviours or the incidence of other sexually transmitted infections.
+Interpretation
+
+We conclude that a small proportion of highly exposed individuals, who may have natural protective immunity to HIV-1, are resistant to HIV-1.
+Article Outline

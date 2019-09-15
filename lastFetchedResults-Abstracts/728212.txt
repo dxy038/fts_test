@@ -1,0 +1,6 @@
+This paper presents a model for a supply chain consisting of a supplier, a
+manufacturer and a customer with objective of minimizing the delivery time of last
+order to customer (Makespan). The problem is first described and solved in small
+scales by Lingo 11.0. Then, because of problem complexity, a Bee Algorithm
+(BA) methaheuristic approach is developed to find near optimal solutions in
+reasonable run times.

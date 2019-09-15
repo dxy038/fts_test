@@ -1,0 +1,11 @@
+Objective
+Bone marrow/hematopoietic stem cell transplantation (BMT) has been the treatment of choice for severe hematological diseases and cancers. Rapid host immune recovery following BMT is critical for reducing complications and improving therapeutic outcome. Here we report manipulations that facilitate rapid immune and dendritic cell (DC) reconstitution post-BMT for improvement in therapeutic outcome of BMT-based disease treatment.
+Methods
+
+Using lentiviral vector–modified or unmodified murine hematopoietic stem cells, we examined the engraftment efficiency and kinetics in immune reconstitution of unfractionated bone marrow cells (BM), lineage marker–negative (Lin−) hematopoietic progenitor cells (HPC), or purified Lin−Sca-1+ hematopoietic stem cells (HSC) at an equal hematopoietic progenitor number.
+Results
+
+Our study revealed that BM reconstituted host primary and secondary lymphoid tissues more efficiently and rapidly. Moreover, in a competitive BMT setting using lentiviral vector–engineered BM and HSC expressing GFP or DsRed respectively, we showed that GM-CSF treatment further enhanced DC reconstitution to therapeutic relevant level as early as 2 weeks post-BMT. On the other hand, Flt3 ligand was less effective in enhancing DC reconstitution till 3 weeks post-BMT. This accelerated DC engraftment by GM-CSF treatment correlated well with improved overall immune reconstitution and enhanced activation of antigen-specific T cells post-BMT.
+Conclusion
+
+This study suggests that use of heterogeneous BM for transplantation facilitates more rapid immune reconstitution, especially in the presence of DC-stimulating cytokines. This improved immune reconstitution would provide additional therapeutic benefits for BMT-based immunotherapy and gene therapy of genetic disorders and cancers.

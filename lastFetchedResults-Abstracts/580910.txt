@@ -1,0 +1,12 @@
+Modeling of Procurement Chain of Items 
+in Logistics and Support System
+
+Received: 15/5/2011
+Accepted: 28/6/2011
+
+ Reza Zanjirani Farahani  *, Nasrin Asgari  
+AmirKabir University of Technology, Industrial Engineering Faculty
+
+Abstract
+In this paper, the Procurement planning of items in supply chain of a military logistics system is investigated. We seek to determine the amount of each required item of logistics system of any supplier which should be provided in each month. For this purpose, a mathematical model is presented with two target functions. Since in a military logistics system, delivery time of items is very important, first target function minimizes the delivery time costs (including storage & deficit costs) and purchasing logistics system. Second target function minimizes the cost of transportation to logistics system suppliers as the other partner of supply chain. This mathematical model will be solved by Multiple Objective Decision Making (MODM) method and decides about the policy of supply and transport of required item for logistics. Finally, issues related to the implementation of model and its advantages and disadvantages will be presented.
+

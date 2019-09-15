@@ -1,0 +1,11 @@
+The purpose of this work is to apply an inverse boundary element formulation in order to develop
+e cient algorithms for identi cation of polarization curves in a cathodic protection system. The problem
+is to minimize an objective function measuring the di erence between observed and BEM-predicted
+surface potentials. The numerical formulation is based on the application of genetic algorithms, which
+are robust search techniques emulating the natural process of evolution as a means of progressing
+towards an optimum solution.
+Examples of application are included in the paper for di erent types of polarization curves in  nite
+and in nite electrolytes. The accuracy and e ciency of the numerical results are veri ed by comparison
+with standard conjugate gradient techniques. As a result of this research, the genetic algorithm approach
+is shown to be more robust, independent of the position of the sensors and of initial guesses, and will
+be further developed for three-dimensional applications

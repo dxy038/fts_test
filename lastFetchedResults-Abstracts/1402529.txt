@@ -1,0 +1,7 @@
+The objective of this study is to visualize the flow pattern and to measure heat transfer coefficient during explosive boiling of water in parallel triangular micro-channels. Tests were performed in the range of inlet Reynolds number 25–60, mass flux 95–340 kg/m2s, and heat flux 80–330 kW/m2.
+
+ow visualization showed that the behavior of long vapor bubbles, occurring in a micro-channel at low Reynolds numbers, was not similar to annular flow with interposed intermitted slugs of liquid between two long vapor trains. This process may be regarded as explosive boiling with periodic wetting and dryout.
+
+ presence of two-phase liquid–vapor flow in the micro-channel, there are pressure drop oscillations, which increase with increasing vapor quality.
+
+tudy shows strong dependence of the heat transfer coefficient on the vapor quality. The time when liquid wets the heated surface decreases with increasing heat flux. Dryout occurs immediately after venting of the elongated bubble.

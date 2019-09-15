@@ -1,0 +1,11 @@
+Objective
+To investigate arsenic trioxide's renal toxicity, we analyzed the gene-expression patterns of primary renal and human kidney cells (HEK293 cell line) following exposure to arsenic trioxide. Moreover, we examined a potential renal toxic mechanism(s) of arsenic trioxide by using a toxicity-related gene and investigated potential treatments to reduce the renal toxicity of arsenic trioxide.
+Materials and Methods
+
+Arsenic trioxide was exposed to primary renal and HEK293 cells, and the gene-expression analysis was conducted using DNA microarray. Then, reactive oxygen species inhibitors or α-lipoic acid were added to HEK293 cells exposed arsenic trioxide and cell viability was determined.
+Results
+
+Expression of HMOX1 mRNA increased in a time- and dose-dependent manner, and translation of heme oxygenase 1 protein was also induced. Arsenic trioxide-induced cytotoxicity was inhibited by reactive oxygen species inhibitors. Moreover, superoxide anion was detected in arsenic trioxide-treated HEK293 cells. α-Lipoic acid ameliorated arsenic trioxide-induced cytotoxicity and reduced superoxide anion production in HEK293 cells, whereas it had no effect in promyelocytic leukemia cells (HL-60 cells and NB4 cells) and myeloma cells (KMS12BM cells and U266 cells).
+Conclusions
+
+Arsenic trioxide-induced renal toxicity is strongly associated with the increased expression of HMOX1, and the cytotoxic mechanisms of arsenic trioxide involves reactive oxygen species production as well as another pathway. These preliminary results suggest that α-lipoic acid may be a suitable agent for prevention or treatment of arsenic trioxide-induced renal toxicity.

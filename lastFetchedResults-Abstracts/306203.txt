@@ -1,0 +1,19 @@
+OBJECTIVES
+
+The objective of the study was to determine whether the occurrence of shocks for ventricular tachyarrhythmias during therapy with implantable cardioverter-defibrillators (ICD) is predictive of shortened survival.
+
+BACKGROUND
+
+Ventricular tachyarrhythmias eliciting shocks are often associated with depressed ventricular function, making assessment of shocks as an independent risk factor difficult.
+
+METHODS
+
+Consecutive patients (n = 421) with  mean follow-up of 756 ± 523 days were classified into those who had received no shock (n = 262) or either one of two shock types, defined as single (n = 111) or multiple shocks (n = 48) per arrhythmi episode. Endpoints were all-cause and cardiac deaths.  survival analysis using  stepwise proportional hazards model evaluated the influence of two primary variables, shock type and left ventricular ejection fraction (LVEF <35% or >35%). Covariates analyzed were age, gender, NYH Class, coronary artery disease, myocardial infarction, coronary revascularization, defibrillation threshold and tachyarrhythmi inducibility.
+
+RESULTS
+
+The most complete model retained LVEF (p = 0.005) and age (p = 0.023) for the comparison of any shock versus no shock (p = 0.031). The occurrence of any versus no shock, or of multiple versus single shocks significantly decreased survival at four years, and these differences persisted after adjustment for LVEF. In the LVEF subgroups <35% and <25%, occurrence of multiple versus no shock more than doubled the risk of death. Compared with the most favorable group LVEF ≥35% and no shock, risk in the group multiple shocks and LVEF <35% was increased 16-fold.
+
+CONCLUSIONS
+
+In defibrillator recipients, shocks act as potent predictors of survival independent of several other risk factors, particularly ejection fraction.

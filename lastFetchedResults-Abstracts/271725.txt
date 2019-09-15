@@ -1,0 +1,12 @@
+The simultaneous optimization of material properties and structural layout for an elastic continuum is
+formulated and analyzed[ The objective is to obtain the maximum structural sti}ness for prescribed surface
+loads and displacements\ taking into account a body force that depends on the structural layout[ Optimization
+with an account of self!weight or centrifugal forces are examples of these type of problems[ Arbitrary
+elasticity tensor _elds are considered as the problem|s variable and necessary conditions satis_ed by the
+solution are established[ The use of a spectral decomposition of the elasticity tensor is emphasized since it
+provides a simple geometrical interpretation[ Typical examples which illustrate the e}ects of the structure!
+dependent body force are analyzed[ It is found that a commonly used isoperimetric restriction "known as
+the resource constraint# is not necessarily active and that the optimal structure is locally sti}er in areas where
+the body force and the displacement _eld have opposite directions and locally weaker otherwise[ This\
+interestingly\ leads to a non!symmetrical distribution of material properties even for prismatic bodies under
+anti!symmetric surface loads

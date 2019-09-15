@@ -1,0 +1,11 @@
+Objective
+A clear definition of pitch and timbre is still an open debate and often both terms are mixed up in investigations of tone height. However, fundamental frequency (f0) and spectral envelope of a sound play a major role in the perception of tone height. Recent electrophysiological experiments showed that one sub-component of the complex N100-signal was found to be highly correlated to the perceived tone height.
+Methods
+Tone height was independently varied by both, a change of f0 and spectral envelope in order to disentangle the influence of both parameters. Relative tone height was determined psychoacoustically. Neuromagnetic responses were evaluated using source-analysis.
+Results
+Perceived tone height increases with increasing f0 or spectral envelope. Latency of the pitch change response (PCR) reacts oppositely for the two modi of tone height change. For increasing f0 and fixed bandpass condition, tone height increases and the latency of the PCR decreases. In contrast, for increasing the center frequency of the bandpass with fixed f0, tone height increases, but the latency of the PCR increases.
+Conclusions
+The neuromagnetic pitch response is influenced by both, f0 and spectral envelope.
+Significance
+Further investigations of the influence of pitch and timbre on neurophysiological pitch responses have to take into account that both, f0 and spectral envelope, affect tone height and latency of the PCR.
+

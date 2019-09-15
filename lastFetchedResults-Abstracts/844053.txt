@@ -1,0 +1,4 @@
+This paper presents synchronization scheme for time-delayed linearly bidirectionally coupled chaotic Chen’s system.
+The method is based on linear stability analysis of hyperbolic fixed point. Here we derive a generic condition of global
+chaos synchronization for time-delayed chaotic Chen’s system with linearly bidirectional coupling. The behavior of the
+system with and without coupling are demonstrated by numerical simulation.

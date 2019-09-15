@@ -1,0 +1,11 @@
+Objective
+To investigate 1) the effects of lineage-specific cytokines (G-CSF and EPO) combined with ligands for different classes of cytokine receptors (common β chain, gp130, and tyrosine kinase) on proliferation by human myeloid and erythroid progenitor cells; and 2) the signal transduction pathways associated with combinatorial cytokine actions.
+Materials and methods
+
+CFU-GM and BFU-E were cloned in vitro. Secondary colony formation by replated CFU-GM and subcolony formation by BFU-E provided measures of progenitor cell proliferation. Studies were performed in the presence of cytokine combinations with and without signal transduction inhibitors.
+Results
+
+Proliferation by CFU-GM and BFU-E was enhanced synergistically when common β chain receptor cytokines (IL-3 or GM-CSF) were combined with G-CSF or EPO, but not with gp130 receptor cytokines (LIF or IL-6) or tyrosine kinase receptor cytokines (SCF, HGF, Flt-3 ligand, or PDGF). Delayed addition studies with G-CSF + IL-3 and EPO + IL-3 demonstrated that synergy required the presence of both cytokines from the initiation of the culture. The Jak2-specific inhibitor, AG490, abrogated the effect of combining IL-3 with EPO but had no effect on the enhanced CFU-GM proliferation stimulated by IL-3 + G-CSF. The PI3 kinase inhibitors LY294002 and wortmannin substituted for G-CSF in combination with IL-3 since proliferation in the presence of LY294002/wortmannin + IL-3 was enhanced to the same extent as in the presence of G-CSF + IL-3. In contrast, LY294002 and wortmannin inhibited proliferation in the presence of EPO and in the presence of EPO + IL-3.
+Conclusion
+
+1) IL-3 may activate different signal transduction pathways when combined with G-CSF and when combined with EPO; 2) different signal transducing intermediates regulate erythroid and myeloid progenitor cell proliferation; and 3) inhibition of the PI3 kinase pathway suppresses myeloid progenitor cell differentiation and thereby increases proliferation.

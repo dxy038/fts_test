@@ -1,0 +1,11 @@
+Objective
+This study employed EEG source localisation procedures to study the contribution of motor preparatory and attentional processing to foreperiod activity in an S1–S2 motor priming task.
+Methods
+Behavioural and high-density event-related potential (ERP) data were recorded in an S1–S2 priming task where participants responded to S2 with a left or right-hand button press. S1 either provided information about response hand (informative) or ambiguous information (uninformative).
+Results
+Responses were significantly faster in informative trials compared with uninformative trials. Dipole source analysis of foreperiod lateralized ERPs revealed sources of motor preparatory activity in the dorsolateral premotor cortex (PMd) in line with previous work. In addition, two spatial attention components (ADAN, LDAP) were identified with generators in the PMd and occipitotemporal visual areas in the middle temporal (MT) region, respectively. Separation of motor-related and attentional PMd source locations was reliable along the rostral–caudal axis.
+Conclusions
+The presence of attentional components in a motor priming paradigm supports the premotor theory of attention which suggests a close link between attention and motor preparatory processes. Separation of components in the premotor cortex is in accord with a functional division of PMd into rostral (higher-order processing) and caudal (motor-related processing) areas as suggested by imaging work.
+Significance
+A prime for response preparation is a trigger for separate, but closely linked, attention-related activity in premotor areas.
+

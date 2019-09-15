@@ -1,0 +1,12 @@
+Objective
+This study aimed to describe the use of the P300 event-related potential as a control signal in a brain computer interface (BCI) for healthy and paralysed participants.
+Methods
+The experimental device used the P300 wave to control the movement of an object on a graphical interface. Visual stimuli, consisting of four arrows (up, right, down, left) were randomly presented in peripheral positions on the screen. Participants were instructed to recognize only the arrow indicating a specific direction for an object to move.
+P300 epochs, synchronized with the stimulus, were analyzed on-line via Independent Component Analysis (ICA) with subsequent feature extraction and classification by using a neural network.
+Results
+We tested the reliability and the performance of the system in real-time. The system needed a short training period to allow task completion and reached good performance. Nonetheless, severely impaired patients had lower performance than healthy participants.
+Conclusions
+The proposed system is effective for use with healthy participants, whereas further research is needed before it can be used with locked-in syndrome patients.
+Significance
+The P300-based BCI described can reliably control, in ‘real time’, the motion of a cursor on a graphical interface, and no time-consuming training is needed in order to test possible applications for motor-impaired patients.
+

@@ -1,0 +1,10 @@
+In the grid-coding technique, the accurate grid junction
+locations are vital to the surface computation. Noise arising from the
+imaging formation and processing processes will jeopardize the computation
+accuracy. The objective of this study is to make use of the
+geometric property of cross ratio to improve the accuracy of grid junction
+locations in grid-coded images. A method is devised to regenerate grid
+junctions from the original (i.e., raw) junction data of an image. Through
+a statistical error analysis, we show that the regenerated junction data
+are generally more accurate than the old ones in the image taken from
+a wide range of viewing angles.

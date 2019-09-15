@@ -1,0 +1,7 @@
+The main objective of this study is to develop a new design methodology that controls damage to
+Reinforced Concrete Moment Resisting Frames (RCMRFs). For this purpose, first, a static damage criterion
+is developed and, then, the new design procedure is presented. The proposed method is applied to
+the design of two reinforced concrete frames subjected to seven earthquake acceleration records. To
+confirm the accuracy of the proposed method, inelastic damage analysis is performed on the frames. It is
+demonstrated that the proposed methodology can be very effective and practical for the design of RCMRFs
+with damage control.

@@ -1,0 +1,10 @@
+This paper deals with multi-objective optimization of a single-model stochastic assembly line balancing
+problem with parallel stations. The objectives are as follows: (1) minimization of the smoothness index
+and (2) minimization of the design cost. To obtain Pareto-optimal solutions for the problem, we propose a
+new solution algorithm, based on simulated annealing (SA), called m_SAA. m_SAA implements a multinomial
+probability mass function approach, tabu list, repair algorithms and a diversification strategy. The
+effectiveness of m_SAA is investigated comparing its results with those obtained by another SA (using a
+weight-sum approach) on a suite of 24 test problems. Computational results show that m_SAA with a
+multinomial probability mass function approach is more effective than SA with weight-sum approach
+in terms of the quality of Pareto-optimal solutions. Moreover, we investigate the effects of properties
+(i.e., the tabu list, repair algorithms and diversification strategy) on the performance of m_SAA.

@@ -1,0 +1,11 @@
+Objective
+The identification of cell-surface antigens whose expression is limited to primitive hematopoietic progenitor cells (HPC) is of major value in the identification, isolation, and characterization of candidate stem cells in human hemopoietic tissues. Based on the observation that bone marrow stromal cells and primitive HPC share several cell-surface antigens, we sought to generate monoclonal antibodies to HPC by immunization with cultured human stromal cells.
+Methods
+
+BALB/c mouse were immunized with human bone marrow (BM)–derived stromal cells. Splenocytes isolated from immunized mice were fused with the NS-1 murine myeloma cell line and resulting hybridomas selected in HAT medium, then screened for reactivity against stromal cells, peripheral blood (PB), and BM cells.
+Results
+
+A monoclonal antibody (MAb), BB9, was identified based on its binding to stromal cells, a minor subpopulation of mononuclear cells in adult human BM, and corresponding lack of reactivity with leukocytes in PB. BB9 bound to a minor subpopulation of BM CD34+ cells characterized by high-level CD34 antigen and Thy-1 expression, low-absent expression of CD38, low retention of Rhodamine 123, and quiescent cycle status as evidenced by lack of labeling with Ki67. CD34+BB9+ cells, in contrast to CD34+BB9− cells, demonstrated a capacity to sustain hematopoiesis in pre-CFU culture stimulated by the combination of IL-3, IL-6, G-CSF, and SCF. BB9 also demonstrated binding to CD34+ cells from mobilized PB.
+Conclusion
+
+Collectively, these data therefore demonstrate that MAb BB9 identifies an antigen, which is selectively expressed by hierarchically primitive human HPC and also by stromal cells.

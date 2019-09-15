@@ -1,0 +1,11 @@
+Objectives
+Optical scattering has been studied because of its important effects on the color and translucency of a material. The objective of this study was to determine the influence of the scattering and absorption characteristics including translucency and opalescence on the CIE color coordinates (L*, a*, and b*) of resin composites.
+Methods
+
+Color and spectral distribution of seven resin composites (14 shades, 1 mm thick) were measured in the reflectance and the transmittance modes. Optical constants including scattering coefficient (S), absorption coefficient (K) and light reflectivity (RI) were calculated from the spectral reflectance data using Kubelka's equations. The opalescence parameter (OP) was calculated as the difference in yellow-blue (Δb*) and red-green (Δa*) coordinates between the reflected and transmitted colors. The translucency parameter (TP) was calculated for the translucency evaluation. Simple correlation among each of CIE L*, a* and b* values measured using varied protocols with optical parameters (S, K, RI, OP and TP) was determined, and multiple regression analysis was used to determine the significantly influencing variables on the color coordinates (p < 0.05).
+Results
+
+CIE L*, a*, and b* values were influenced by S, K, RI, TP and OP values. The CIE L* value without backing and that in the transmission mode were highly correlated with S. OP and TP values also influenced CIE L* value. The CIE b* value was correlated with the OP value when different composites with the same shade designation were compared.
+Significance
+
+Since the scattering and absorption characteristics influence the color of resin composites, the size and volume fraction of fillers should be controlled for the best color reproduction, considering the refractive indices of filler and resin matrix.

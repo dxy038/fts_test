@@ -1,0 +1,1 @@
+We clarify the relation between trellis degeneration (TDG) and symbol reliability estimation using the bidirectional Viterbi algorithm (BIVA) for the case of quick look-in (QLI) codes

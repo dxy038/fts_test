@@ -1,0 +1,18 @@
+Background: Radiation-sensitive polymer gels are among the most promising
+three-dimensional dose verification tools and tissue-like phantom developed to date.
+Objective: The aim of this study is an investigating of percentage depth dose
+enhancement within the gel medium with used of conformal distribution gold
+nanoparticle as contrast agents by high atomic number material.
+Methods: In this work the normoxic polymer gel dosimeter MAGICA tissueequivalence
+was first theoretically verified using MCNPX Monte Carlo code and
+experimentally by percentage depth dose curves within the gel medium. Then gold
+nanoparticles (GNPs) of 50nm diameter with different concentrations of 0.1mM,
+0.2mM, and 0.4mM were embedded in MAGICA gel and irradiated by 18MV photon
+beam.
+Results: Experimental results have shown dose increase of 10%, 2% and 4% in
+0.1mM, 0.2mM and 0.4mM concentrations, respectively. Simulation results had good
+agreement in the optimum concentration of 0.1mM. The largest error between experimental
+and simulation results was equal to 9.28% stood for 0.4mM concentration.
+Conclusion: The results showed that the optimum concentration of gold
+nanoparticles to achieve maximum absorbed dose in both experimental and simulation
+was 0.1 mM and so it can be used for clinical studies.

@@ -1,0 +1,5 @@
+The present paper describes a new method for solving the problem in which the
+objective function is a fractional function, and where the constraint functions are in
+the form of linear inequalities. The proposed method is based mainly upon simplex
+method, which is very easy to understand and apply. This can be illustrated with the
+help of numerical examples.

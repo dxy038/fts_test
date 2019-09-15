@@ -1,0 +1,13 @@
+This paper develops a novel nonlinear numerical method to perform shakedown analysis of structures subjected to variable
+loads by means of nonlinear programming techniques and the displacement-based finite element method. The analysis
+is based on a general yield function which can take the form of most soil yield criteria (e.g. the Mohr–Coulomb or
+Drucker–Prager criterion). Using an associated flow rule, a general yield criterion can be directly introduced into the kinematic
+theorem of shakedown analysis without linearization. The plastic dissipation power can then be expressed in terms of
+the kinematically admissible velocity and a nonlinear formulation is obtained. By means of nonlinear mathematical programming
+techniques and the finite element method, a numerical model for kinematic shakedown analysis is developed as
+a nonlinear mathematical programming problem subject to only a small number of equality constraints. The objective
+function corresponds to the plastic dissipation power which is to be minimized and an upper bound to the shakedown load
+can be calculated. An effective, direct iterative algorithm is then proposed to solve the resulting nonlinear programming
+problem. The calculation is based on the kinematically admissible velocity with one-step calculation of the elastic stress
+field. Only a small number of equality constraints are introduced and the computational effort is very modest. The effectiveness
+and efficiency of the proposed numerical method have been validated by several numerical examples.

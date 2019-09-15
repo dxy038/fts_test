@@ -1,0 +1,16 @@
+The objective of this paper is an analytical and numerical study of the dynamics of a
+beam with attached masses. Specifically, a finite inextensible beam that rests on a uniform elastic
+foundation and carries an accelerating mass is considered. Of interest is the dynamics of the beammass
+system due to the motion of the moving mass. The influence of various parameters such as
+forward force, retard force and friction upon the performance of the beam are investigated. The
+mechanics of the problem is Newtonian. Based on the assumption that when the moving mass is set
+in motion the mass is assumed to be rolling on the beam, the mechanics, including effects due to
+friction and convective accelerations of the interface between the moving mass and the beam, are
+determined. The problem of the system is nonlinear, due to the presence of friction and the convective
+acceleration. In the modeling, the mass can be accelerated by a force. Meanwhile, the mass is capable
+of reducing speed and being brought to a stop at any position on the beam by applying a retard
+force to the mass and/or increasing the friction between the mass and the beam. The force is assumed
+to be tangential to the deformed configuration of the beam. By employing the Galerkin procedure,
+the partial differential equations which describe the transient vibrations of the beam-mass system
+are reduced to an initial value problem with finite dimensions. The method of numerical integration
+is used to get convergent solutions. © 1997 Elsevier Science Ltd

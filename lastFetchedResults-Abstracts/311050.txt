@@ -1,0 +1,9 @@
+Objective.  To quantify the effect of hamstrings muscle action on stability of the anterior cruciate ligament deficient knee during isokinetic exercise at various speeds.
+
+Design. Mathematical modeling and forward-dynamics computer simulation were used to study the interactions between knee-extension speed, hamstrings co-contraction activity, and anterior tibial translation in the intact and anterior cruciate deficient knee.
+
+Background. There is much experimental evidence available to believe that hamstrings co-contraction can reduce anterior tibial translation in the anterior cruciate deficient knee. Little is known, however, about the level of hamstrings activation needed to keep anterior tibial translation within normal limits during functional activity.
+
+Methods. Isokinetic knee-extension was simulated with a sagittal-plane model used previously to study load sharing between the muscles, ligaments, and bones during isometric knee-extension exercise, isokinetic exercise, and squatting exercise.
+
+Conclusions. Some amount of hamstrings activation is needed to stabilize an anterior cruciate deficient knee irrespective of how fast the knee extends. The level of hamstrings co-contraction needed to stabilize an anterior cruciate deficient knee is inversely related to extension speed. Hamstrings co-contraction is more effective in reducing anterior tibial translation than low-resistance extension exercise.

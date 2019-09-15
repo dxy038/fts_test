@@ -1,0 +1,5 @@
+In this paper, Wolfe and Mond]Weir type duals for a class of nondifferentiable
+multiobjective variational problems are formulated. Under invexity assumptions on
+the objective and the constraint functions involved, weak and strong duality
+theorems are proved to related properly efficient solutions for primal and dual
+problems. Later, related problems with these variational problems are introduced.

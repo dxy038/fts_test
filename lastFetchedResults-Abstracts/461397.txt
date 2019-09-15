@@ -1,0 +1,14 @@
+Background
+Methicillin-resistant Staphylococcus aureus (MRSA) is a major nosocomial pathogen that causes severe morbidity and mortality in many hospitals worldwide, and MRSA infections are frequent in intensive care units (ICUs).
+Objective
+
+A prospective study was implemented to investigate the risk factors for ICU-acquired MRSA infections.
+Methods
+
+This study was conducted in surgical and neurologic ICUs from May to November 2003. The patients staying in ICUs more than 48 hours were included in the study. All of the patients were visited daily, and data were recorded on individual forms for each patient until discharge or death. Nasal swab cultures were done within 48 hours of ICU admission and repeated every week until the patients colonized with MRSA or were discharged from ICUs. ICU-acquired MRSA infection was diagnosed when MRSA was isolated from the infected site.
+Results
+
+Overall, 249 patients were followed during the study. MRSA infection was detected in 21 (8.4%) of these patients. The most frequent infection was primary bloodstream infection (10/21, 47%). It was followed by pneumonia (8/21, 38%) and surgical site infection (3/21, 14%). Nasal MRSA colonization was detected in 59 (23.7%) patients, and 12 of them (20.3%) developed MRSA infection. In univariate analysis, hospitalization period in an ICU, intraabdominal and orthopedic pathologies, mechanical ventilation, central venous catheter insertion, total parenteral nutrition, previous antibiotic use, surgical ICU stay, nasal MRSA colonization, and presence of more than 2 patients having nasal colonization in the same ICU at the same time were found significant for MRSA infections. In multivariate analysis; hospitalization period in an ICU (OR, 1.090; 95% CI: 1.038-1.144, P = .001), central venous catheter insertion (OR, 1.822; 95% CI: 1.095-3.033, P = .021), previous antibiotic use (OR, 2.337; 95% CI: 1.326-4.119, P = .003) and presence of more than 2 patients having nasal colonization in the same ICU at the same time (OR, 1.398; 95% CI: 1.020-1.917, P = .037) were independently associated with MRSA infections.
+Conclusion
+
+According to the our results, hospitalization period in an ICU, presence of patients colonized with MRSA in the same ICU at the same time, previous antibiotic use, and central venous catheter insertion are independent risk factors for ICU-acquired MRSA infections. Detection of these factors helps to decrease the rate of MRSA infections in the ICUs.

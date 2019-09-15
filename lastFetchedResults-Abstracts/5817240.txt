@@ -1,0 +1,1 @@
+Optimization problems are sometimes characterized by an objective function that cannot be directly evaluated but must be estimated, for example by sampling or Monte Carlo simulation. We propose a stabilized Newton´s method aimed at solving a certain class of such problems. Convergence of the proposed algorithm to stationary points is shown, under suitable assumptions

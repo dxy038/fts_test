@@ -1,0 +1,9 @@
+Background
+Functional activation of β-catenin/T-cell factor (Tcf) signaling plays an important role in the early events of carcinogenesis. In past recent years accumulated evidence has demonstrated a significant role for the Wnt pathway in the development and progression of human prostate cancer. The objective of the current study was to use a gene-targeting approach to selectively kill human prostate cancer cells with activated β-catenin/Tcf signaling.
+Methods
+A recombinant adenovirus that carries a lethal gene (PUMA) under the control of a β-catenin/T-cell factor (Tcf)-responsive promoter (Ad-TOP-PUMA), was used to selectively target human prostate cancer cells (PC-3) in which the β-catenin/Tcf pathway is activated, and compared its killing efficiency in cancer cells in which this pathway is inactive (DU145 cells). Ad-FOP-PUMA, carrying a mutant Tcf binding site, was used as a control virus. Cell viability was measured by methylene blue assay, and the level of β-catenin/Tcf activity was measured by luciferase assay.
+Results
+The Ad-TOP-PUMA adenovirus inhibited PC-3 cell growth in a dose and time-dependent fashion, but did not had any effect on DU145 cell growth.
+Conclusions
+Selective targeting of prostate cancer cells with the activated β-catenin pathway may be a novel and effective therapy in prostate cancer.
+

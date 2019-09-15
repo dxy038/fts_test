@@ -1,0 +1,5 @@
+The main objective of this paper is to introduce an algorithm for solving dependent eigenproblems. The global matrices of these eigenproblems are formulated by using a mixed finite element approach. This approach uses both the polynomial and frequency dependent displacement fields.
+
+gorithm that is introduced is based on solving a sequence of linear eigenproblems by an appropriate eigensolver and updating the parameter by a safeguarded zerofinder.
+
+gensolution technique that has been developed is designed to evaluate a specific set of parameterized eigenvalues. Numerical experiments show that this eigentechnique accurately evaluates the first ten eigenvalues of quadratic eigenproblems.

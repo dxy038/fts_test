@@ -1,0 +1,1 @@
+Measurements on a 150 nm CMOS test chip show that on-chip bidirectional adaptive body biasing compensates effectively for die-to-die parameter variation to meet both frequency and leakage requirements. An enhancement of this technique to correct for within-die variations triples the accepted die count in the highest frequency bin.

@@ -1,0 +1,11 @@
+Objective
+CD34 is a sialomucin often expressed by cells with hemangiopoietic potential and widely serves as a surrogate marker of stem cell potential. Mesenchymal stromal cells (MSCs) also express CD34, although the functional significance of its expression remains undefined. In this study, we determined whether CD34pos MSCs are functionally distinct from CD34null MSCs.
+Materials and Methods
+
+MSCs derived from C57Bl/6 mice were transduced to express the green fluorescent protein (GFP) from which pure CD34pos MSC and CD34null MSC clones were selected. In vitro, clones were examined by microarray analysis, while in vivo subcutaneous implantation of matrix-embedded MSCs was used to assess cell survival, differentiation, and neovascularization.
+Results
+
+The flow cytometric phenotype of CD34pos and CD34null MSCs were similar, as was gene expression of vascular endothelial growth factors (VEGFs) A and B. However, CD34pos MSCs upregulated a number of supplementary angiogenesis-associated genes and showed a greater expression of gene associated with vascular differentiation. At 15 days postimplantation, cell survival between CD34pos and CD34null MSCs was similar, however, CD34pos MSCs evoked a significantly greater host-derived response (4.2 ± 0.7 vs 1.9 ± 0.5 × 106 cells; p < 0.05). GFP-expressing CD34pos MSC implants acquired significantly more CD31 expression compared to CD34null MSC cells (10.7% ± 8.4% vs 3.1% ± 0.6%; p < 0.05), as well as a significantly greater host-derived endothelial cell influx (CD31+/CD45−).
+Conclusion
+
+CD34 expression by MSCs correlates with enhanced vasculogenic and angiogenic potential in vivo.

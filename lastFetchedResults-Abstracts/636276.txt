@@ -1,0 +1,8 @@
+This article presents a case study of a chemical compound acting as a subsystem of a delay mechanism for
+starting a rocket engine. The objective of this study was to investigate the proportions of mix components
+that enable a previously specified burning time. Thus, a linear regression model with normal responses
+was fitted, but later considered inadequate, as there was evidence that the response variance was not
+constant. Models fitted by the quasi-likelihood method were tried then. Through the developed model,
+it was possible to determine the proportion of each component to accomplish the process optimization.
+For the process optimization, besides considering a specific burning time, it was possible to consider the
+variance minimization for this time prediction as well

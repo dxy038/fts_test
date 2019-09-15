@@ -1,0 +1,9 @@
+Assembly line balancing problem (ALBP) is one of the well-known NP-hard layout planning problems for
+mass production systems. Many exact solution approaches have been developed, including 0–1 integer
+programming model, branch and bound algorithm, dynamic programming model, etc.; however, all optimal
+approaches are computationally inefficient in solving large-scale problems, which makes heuristic
+approaches a necessity in practice. In this paper we propose a new efficient heuristic, based on a recent
+bidirectional approach and the famous critical path method (CPM) widely used in project management,
+to resolve the issue of task assignment for ALBP. An example is given for illustration, and numerical
+results of sample problems selected from the literature are also given to show the effectiveness of the
+proposed heuristic.

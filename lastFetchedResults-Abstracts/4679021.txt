@@ -1,0 +1,1 @@
+Good approximations of code-symbol a-posteriori probabilities (APPs) are obtained using a list of the most likely codewords, instead of the whole code-book. This list is found by bidirectional efficient algorithm for searching code trees (BEAST), whose complexity is shown to be lower than of the known trellis-based algorithms

@@ -1,0 +1,11 @@
+In rail freight transportation, general merchandise freight cars may pass through many classification stations
+on their route from origin to destination. The Railroad Blocking Problem (RBP) is to reclassify
+inbound traffic from various origins in the classification stations and put them on outbound trains with
+the same or close destinations, the objective of the RBP is to minimize the total operating costs of delivering
+all traffic on the railway network while satisfying the resource and capacity constraints at the stations
+and the priority constraints for shipments. In this paper, we introduce a new mathematic model
+which can comprehensively describe the blocking strategy and various combinations of multi-route
+O–D pairs in large scale railway network. Furthermore, we propose an improved Ant Colony (AC) algorithm
+for RPB, and a computational experiment derived from the real life instances of coal heavy haul rail
+network in north China is given. Experimental results verified the validation of the model and effectiveness
+of the algorithm.

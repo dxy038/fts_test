@@ -1,0 +1,11 @@
+The work presents two approaches for the construction of empirical class-models for a given category C. The attention is centred on the information provided by the sensitivity and specificity, the two usual parameters employed to qualify a class-model. In fact, not only a class-model is built for C but a set of class-models which differ in their sensitivity and specificity. Therefore the range of possible jointly available values is described, allowing the user to select the model that best adapt to specific situations or particular needs.
+
+ the approaches, PLS-CM (Partial Least Squares Class-Modelling), is based on the modelling of the distribution of the values obtained by a PLS model fitted with binary response (belong/do not belong to C). In that way, the corresponding hypothesis test permits the computation of the probabilities α and β of type I and type II errors when deciding whether a sample belongs to C. These probabilities, expressed as percentages, are 100 minus sensitivity and 100 minus specificity, respectively. The representation of β versus α is the risk curve that describes the PLS-CM capability of modelling category C.
+
+her approach comes from setting the problem as a multi-objective optimization problem, the one that corresponds to simultaneously maximize sensitivity and specificity, which usually behave oppositely. The trading-off solutions (again, different class-models) are computed to be Pareto-optimal solutions, that is, the set of the optimal solutions in at least one of the conflicting objectives, what is known as the Pareto-optimal front, POF.
+
+onally, a procedure to cross-validate the risk curve and the Pareto-optimal front is proposed for the first time in order to evaluate the prediction ability of both methods.
+
+se-studies are used to drive the discussion: 1) the characterization of wines that official wine-tasters regarded as compliant ones according to the quality characteristics stated by a Denomination of Origin and 2) The characterization of breast tumours defined as benign (compliant class) from 9 cytological variables.
+
+y, the performance of the methods is tested using several data sets from the literature.

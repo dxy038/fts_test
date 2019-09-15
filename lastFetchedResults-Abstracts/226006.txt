@@ -1,0 +1,7 @@
+The Weyerhaeuser digester problem (WDP) is a simplified digester model which captures the major
+dynamic characteristics of a continuous pulp digester and has been offered to the research community as
+an industrial challenge problem. The control objective is to minimize variations in the Kappa ~ for
+unmeasured disturbances. A systematic approach to selecting the manipulated inputs and secondary
+measurements using robust control analysis tools has been successfully applied to the WDP. A multi-rate
+data-sampling linear model predictive controller using the selected input/measurement pairings provided
+robust closed-loop performance for the rejection of both deterministic and stochastic unmeasured disturbances.

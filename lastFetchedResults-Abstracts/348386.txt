@@ -1,0 +1,11 @@
+Objective
+Sixteen different features are evaluated in their potential ability to detect seizures from scalp EEG recordings containing temporal lobe (TL) seizures. Features include spectral measures, non-linear methods (e.g. zero-crossings), phase synchronization and the recently introduced Brain Symmetry Index (BSI). Besides an individual comparison, several combinations of features are evaluated as well in their potential ability to detect TL seizures.
+Methods
+Sixteen long-term scalp EEG recordings, containing TL seizures from patients suffering from temporal lobe epilepsy (TLE), were analyzed. For each EEG, all 16 features were determined for successive 10 s epochs of the recording. All epochs were labeled by experts for the presence or absence of seizure activity. In addition, triplet combinations of various features were evaluated using pattern recognition tools. Final performance was evaluated by the sensitivity and specificity (False Alarm Rate (FAR)), using ROC curves.
+Results
+In those TL seizures characterized by unilateral epileptiform discharges, the BSI was the best single feature. Except for one low-voltage EEG with many artifacts, the sensitivity found ranged from 0.55 to 0.90 at a FAR of  1/h. Using three features increased the sensitivity to 0.77–0.97. In patients with bilateral electroencephalographic changes, the single best feature most often found was a measure for the number of minima and maxima (mmax) in the recording, yielding sensitivities of  0.30–0.96 at FAR  1/h. Using three features increased the sensitivity to 0.38–0.99, at the same FAR. In various recordings, it was even possible to obtain sensitivities of 0.70–0.95 at a FAR=0.
+Conclusions
+The Brain Symmetry Index is the most relevant individual feature to detect electroencephalographic seizure activity in TLE with unilateral epileptiform discharges. In patients with bilateral discharges, mmax performs best. Using a triplet of features significantly improves the performance of the detector.
+Significance
+Improved seizure detection can improve patient care in both the epilepsy monitoring unit and the intensive care unit.
+

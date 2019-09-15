@@ -1,0 +1,8 @@
+Background and Objective: Sulfur mustard (SM) is a chemical warfare agent used by the Iraqi forces during the Iraq-Iran war. So far some statistical methods have only been applied to discriminate between exposed and non-exposed Sardasht inhabitants, using immunological variables. This paper focuses on allocating objects to exposed and non-exposed groups and choosing the best model, using a variety of qualitative and quantitative variables available.
+
+Materials and Methods: The participants had been recruited from Sardasht (exposed) and Rabat (non-exposed) residents. In general, a sample of 372 and 128 in case and control groups were assessed in this study. To allocate the persons to the exposed group, a logistic regression model was used. Models with main effects of the independent variables were compared using sensitivity, specificity and the area under their ROC curves.
+
+Results: Sensitivities of quantitative, qualitative and mixed models are as follows: 0.953, 0.948 and 0.952. Specificities of these models are 0.225, 0.524 and 0.542 respectively. Variables included in the mixed model are IL-18BP (p < 0.001), sP-selectin (p=.003), itching (p < 0.001), plaque (p=0.017), chronic cough (p=0.029), sputum (p=0.017), hyperpigmentation (p=0.026) and bulbar conjunctive (p=0.025).
+
+Conclusion: According to the models' sensitivities, specificities, R2 and the area under their ROC curves on the one hand and the simplicity of qualitative variables usage on the other hand, the qualitative model could be preferred to as the mixed one.
+

@@ -1,0 +1,11 @@
+Objective
+Molecular identification and clinical characterization of genetic mutations in patients with X-linked chronic granulomatous disease (CGD).
+Patients and Methods
+
+Genomic DNA from 17 male patients with proven X-linked CGD based on clinical history, clinical examination, and specific granulocyte function tests were amplified by polymerase chain reaction (PCR) for sequences of the CYBB gene encoding gp91-phox. Mutations in the resulting PCR products were identified by DNA sequencing.
+Results
+
+Sequence analysis revealed four deletions (453_454delAG; 802delC; 962delG; 993delG), one combined deletion/insertion/duplication [156_173delTCAGCACTGGCACTGGCC/174_175insT/175_176insCCTGCCTGAATTTCT(dupl187_200)]; one insertion (574_575insCCTCAT), four nonsense mutations (332G>A; 402C>T; 690C>T; 1340C>G), two missense mutations (933A>C; 1041A>C) and four potential splice-site mutations (5'intron1 gt→at; 3'intron1ag→at; 5'intron3 gtaag→gtaaa; 5'intron4 gtaa→ctaa). Seven of these mutations were indeed novel, whereas four mutations not previously reported to the X-CGDbase were found to be of the same type as database reports of unrelated families. The six remaining mutations have been reported previously to the X-CGDbase but have as yet not been described in detail.
+Conclusion
+
+Our findings underline the great heterogeneity of mutations involving the CYBB gene. Neither a mutational hot spot in the gp91-phox gene nor a clear correlation between molecular defect and clinical manifestation in unrelated families could be demonstrated. Remarkable is a splice-site mutation (5'intron3 gtaag→gtaaa) identified in a 40-year-old patient with late onset “adult” CGD and residual nicotinamide adenine dinucleotide phosphate reduced oxidase activity. The enormous delay of clinical symptoms of this particular mutation could be explained by an age-related variable sensitivity of the splicing machinery to the present splice-site mutation.

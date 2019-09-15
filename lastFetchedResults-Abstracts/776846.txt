@@ -1,0 +1,12 @@
+The objective of this study is the geometrical optimization of a thermochemical reactor, which works simultaneously as solar collector
+and reactor. The heat (concentrated solar radiation) is supplied on a small peripheral surface and has to be dispersed in the entire reactive
+volume in order to activate the reaction all over the material. A similarity between this study and the point to volume problem analyzed
+by the constructal approach (Bejan, 2000) is evident. This approach was successfully applied to several domains, for example for the
+coupled mass and conductive heat transfer (Azoumah et al., 2004). Focusing on solar reactors, this work aims to apply constructal analysis
+to coupled conductive and radiative heat transfer. As a first step, the chemical reaction is represented by a uniform heat sink inside
+the material. The objective is to optimize the reactor geometry in order to maximize its efficiency. By using some hypothesis, a simplified
+solution is found. A parametric study provides the influence of different technical and operating parameters on the maximal efficiency
+and on the optimal shape. Different reactor designs (filled cylinder, cavity and honeycomb reactors) are compared, in order to determine
+the most efficient structure according to the operating conditions. Finally, these results are compared with a CFD model in order to validate
+the assumptions.
+  2010 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,14 @@
+Objective
+The objective of this study was to determine the effects of angiotensin-converting enzyme inhibition (ACEI) versus long-acting calcium-channel blockade (CCB) on atrial fibrillation (AF) in patients with hypertension.
+Background
+
+Atrial fibrillation is the most common significant cardiac arrhythmia, and angiotensin II has been implicated in its pathophysiology.
+Methods
+
+This was a retrospective, longitudinal cohort study from a database of 8 million people in the U.S. Patients age ≥18 years with hypertension were eligible if they filled a prescription for either an ACEI or a CCB between January 1995 and June 1999. The use of all other antihypertensive medications was permitted. Patient chronic disease burden was assessed using a modified Charlson index. Patients were matched on a propensity score generated from a logistic regression model. A survival analysis approach was used to compare the incidence of AF between groups. The final cohorts were evaluated until June 2002, and the average follow-up was 4.5 years.
+Results
+
+After cohort matching, 10,926 patients were included in the analysis and divided equally into the ACEI and CCB groups. Mean patient age was 65 years. The adjusted hazards ratio (95% confidence interval [CI]) in the ACEI versus CCB groups for the entire follow-up period was 0.85 (95% CI: 0.74 to 0.97) for new-onset AF, and the adjusted incidence ratio for AF-related hospitalizations was 0.74 (95% CI: 0.62 to 0.89).
+Conclusions
+
+Angiotensin-converting enzyme inhibition was associated with a reduced incidence of AF for patients with hypertension in a usual care setting. These results need to be confirmed in a large-scale randomized clinical trial.

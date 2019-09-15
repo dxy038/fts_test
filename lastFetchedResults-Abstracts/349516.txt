@@ -1,0 +1,11 @@
+Objective
+The epilepsies associated with the tuberous sclerosis complex (TSC) are very often refractory to medical therapy. Surgery for epilepsy is an effective alternative when the critical link between the localization of seizure onset in the scalp and a particular cortical tuber can be established. In this study we perform analysis of ictal and interictal EEG to improve such link.
+Methods
+The ictal and interictal recordings of four patients with TSC undergoing surgery for epilepsy were submitted to independent component analysis (ICA), followed by source analysis, using the sLORETA algorithm. The localizations obtained for the ictal EEG and for the average interictal spikes were compared.
+Results
+The ICA of ictal EEG produced consistent results in different events, and there was good agreement with the tubers that were successfully removed in three of the four patients (one patient refused surgery). In some patients there was a large discrepancy between the localization of ictal and interictal sources. The interictal activity produced more widespread source localizations.
+Conclusions
+The use of ICA of ictal EEG followed by the use of source analysis methods in four cases of epilepsy and TSC was able to localize the epileptic generators very near the lesions successfully removed in surgery for epilepsy.
+Significance
+The ICA of ictal EEG events may be a useful add-on to the tools used to establish the connection between epileptic scalp activity and the cortical tubers originating it, in patients with TSC considered for surgery of epilepsy.
+

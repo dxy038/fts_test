@@ -1,0 +1,9 @@
+Study objective
+We externally validate the ability of the San Francisco Syncope Rule to accurately identify syncope patients who will experience a 7-day serious clinical event.
+Methods
+Patients who presented to a single academic emergency department (ED) between 8 am and 10 pm with syncope or near-syncope were prospectively enrolled. Treating physicians recorded the presence or absence of all San Francisco Syncope Rule risk factors. Patients were contacted by telephone at 14 days for a structured interview. A 3-physician panel, blinded to the San Francisco Syncope Rule score, reviewed ED medical records, hospital records, and telephone interview forms to identify predefined serious clinical events. The primary outcome was the ability of the San Francisco Syncope Rule to predict any 7-day serious clinical event. A secondary outcome was the ability of the San Francisco Syncope Rule to predict 7-day serious clinical events that were not identified during the initial ED evaluation.
+Results
+Of 592 eligible patients, 477 (81%) provided informed consent. Direct telephone contact or admission/outpatient records were successfully obtained for 463 (97%) patients. There were 56 (12%) patients who had a serious 7-day clinical event, including 16 (3%) who received a diagnosis after the initial ED evaluation. Sensitivity and specificity of the San Francisco Syncope Rule for the primary outcome were 89% (95% confidence interval [CI] 81% to 97%) and 42% (95% CI 37% to 48%), respectively, and 69% (95% CI 46% to 92%) and 42% (95% CI 37% to 48%), respectively, for the secondary outcome. Estimates of sensitivity were minimally affected by missing data and most optimistic assumptions for missing follow-up information.
+Conclusion
+In this external validation cohort, the San Francisco Syncope Rule had a lower sensitivity and specificity than in previous reports.
+

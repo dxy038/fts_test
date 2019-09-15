@@ -1,0 +1,24 @@
+Objective: MicroRNAs (miRNAs) are a class of non-coding RNAs (ncRNAs) that transcriptionally
+or post-transcriptionally regulate gene expression through degradation of
+their mRNA targets and/or translational suppression. However, there are a few reports
+on miRNA-mediated expression regulation of long ncRNAs (lncRNAs). We have previously
+reported a significant upregulation of the lncRNA SOX2OT and its intronic coding
+gene, SOX2, in esophageal squamous cell carcinoma (ESCC) tissue samples. In
+this study, we aimed to evaluate the effect of induced overexpression of miR-211 on
+SOX2OT and SOX2 expression in vitro.
+Materials and Methods: In this experimental study, we performed both bioinformatic
+and experimental analyses to examine whether these transcripts are regulated by
+miRNAs. From the list of potential candidate miRNAs, miR-211 was found to have
+complementary sequences to SOX2OT and SOX2 transcripts. To validate our finding
+experimentally, we transfected the NT-2 pluripotent cell line (an embryonal carcinoma
+stem cell) with an expression vector overexpressing miR-211. The expression changes
+of miR-211, SOX2OT, and SOX2 were then quantified by a real-time polymerase
+chain reaction (RT-PCR) approach.
+Results: Compared with mock-transfected cells, overexpression of miR-211 caused a
+significant down-regulation of both genes (P < 0.05). Furthermore, flow-cytometry analysis
+revealed a significant elevation in sub-G1 cell population following ectopic expression of
+miR-211 in NT-2 cells.
+Conclusion: We report here, for the first time, the down-regulation of SOX2OT and
+SOX2 genes by an miRNA. Considering the vital role of SOX2OT and SOX2 genes in
+pluripotency and tumorigenesis, our data suggest an important and inhibitory role for
+miR-211 in the aforementioned processes.

@@ -1,0 +1,1 @@
+To adjust the light spectrum of a flash lamp, the current flowing through the flash lamp has to be controlled. An optimal design of a switched resistor bank circuit following a predefined current profile is presented. The optimal values of the switched resistors are calculated using multi-objective optimization with genetic algorithms.

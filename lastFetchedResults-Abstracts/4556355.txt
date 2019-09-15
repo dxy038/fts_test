@@ -1,0 +1,1 @@
+Some of the issues that should be considered in the design of a disk array subsystem are discussed. The objective is not to come up with a standard, or the best disk array solution, but rather to bring out some of the design options, to provide a better understanding of the tradeoffs of some of the choices, and to point out some pitfalls to avoid.&lt;<etx>&gt;</etx>

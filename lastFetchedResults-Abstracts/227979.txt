@@ -1,0 +1,27 @@
+A new approach to the automatic control of excitation parameters for the
+switched-reluctance motor (SRM) is presented. The excitation parameters include the turn-on
+angle, the turn-off angle and the magnitude of the phase current. The objective is to develop an
+easily implementable control algorithm that automatically maintains the most efficient excitation
+angles in producing the required current to produce the electromagnetic torque. The control algorithm
+determining the turn-on and turn-off angles supports the most efficient operation of the motor
+drive system. The turn-on angle and turn-off angle controllers work independently and harmoniously
+with the speed controller. The turn-on angle controller consists of two pieces: the first
+piece of the control technique monitors the position of the first peak of the phase current (up)
+and seeks to align this position with the angle where the inductance begins to increase (um). The
+second piece of the controller monitors the peak phase current and advances the turn-on angle if
+the commanded reference current cannot be produced by the controller. The first piece of the controller
+tends to be active below base speed of the SRM, where phase currents can be built easily by
+the inverter and up is relatively independent of um. The second piece of the controller is active
+above base speed, where the peak of the phase currents tends to naturally occur at um regardless
+of the current amplitude. The two pieces of the controller naturally exchange responsibility as a
+result of a change in command or operating point. The turn-off angle controller works independent
+of the turn-on angle controller. Through modelling of an experimental SRM and extensive simulation,
+it is seen that the optimal-efficiency turn-off angles can be characterised as a function of
+peak phase current and motor speed. Accordingly, the optimal-efficiency turn-off angle is determined
+from an analytic curve fit. It has been shown that a curve fit using only four optimised
+points gives very close estimation to the most efficient turn-off angle at any given operating
+point. The SRM, inverter and control system are modelled in Simulink to demonstrate the operation
+of the system. The modelling is based on the finite element data that include spatial nonlinearities
+and magnetic saturation. The control technique is then applied to an experimental SRM system.
+Experimental operation documents that the technique provides for efficient operation of the
+SRM system through tuning the controller at only four operating points.

@@ -1,0 +1,11 @@
+Objective
+Mesenchymal stem cells (MSCs) are multipotent cells that can self-renew, proliferate, and exhibit elevated cellular plasticity. To investigate their possible neural fate, we studied human mesenchymal stem cells (hMSCs) in different cell culture conditions from morphological, immunochemical, gene expression, and physiological points of view.
+Materials and Methods
+
+We tested hMSCs in three previously reported experimental conditions made of α-modified minimum essential medium (α-MEM)/1 mM β-mercaptoethanol (βME), 10 μM α-MEM/retinoic acid (RA) or α-MEM/2% dimethylsulfoxide (DMSO) + 200 μM β-hydroxyanisole (BHA), respectively, and in a new experimental condition with neural progenitor maintenance medium (NPMM).
+Results
+
+hMSCs were isolated from bone marrow and expanded for several passages. In βME, cells became immunoreactive for neuronal nuclear antigen (NeuN), neuron-specific enolase (NSE), Nestin, and glial fibrillary acidic protein (GFAP). In experimental conditions with RA and DMSO/BHA, hMSCs were NeuN and NSE-positive while in NPMM they were positive for GFAP and NSE. Untreated hMSCs showed a weak mRNA expression for microtubule-associated protein, NSE, and neurofilament protein-medium and GFAP, which strongly increased in NPMM-treated hMSCs. In the electrophysiological study, NPMM-differentiated hMSCs expressed two delayed rectifier K+ currents related to two ether-à-go-go K+ channels (eag1, eag2), which are fundamental for setting the negative resting potentials required for neuronal survival and basal cell activity. The two K+ channels were absent in undifferentiated hMSCs. These data were confirmed by real-time polymerase chain reaction.
+Conclusion
+
+In our new culture condition, hMSCs acquired new morphological characteristics, neural markers, and electrophysiological properties, which are suggestive of neural differentiation. This might lead to clinical use of hMSCs in neural degenerative diseases.

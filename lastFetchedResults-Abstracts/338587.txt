@@ -1,0 +1,9 @@
+Objective
+The aim of this report is to demonstrate the feasibility and safety of genetically modifying autologous human blood CD34+ cells in vitro, with a retroviral vector that encodes a marker gene. The fate of genetically modified cells and their progeny was followed in vivo, after reinfusion in patients treated with high-dose chemotherapy for poor-prognosis breast or ovarian carcinomas.
+Patients and Methods
+Six patients received genetically modified autologous peripheral blood progenitors, together with unmanipulated aphereses, following high-dose chemotherapy. CD34+ cells were immunoselected from aphereses, and retrovirally transduced by coculture with the retroviral vector producing cell line, to express a nuclear localized version of E. coli β-galactosidase, encoded by a defective Moloney-murine leukemia virus–derived retroviral vector. Cells were reinfused to the patients after myeloablation, without prior ex vivo selection.
+Results
+Five out of six patients showed the transient presence of low numbers of β-galactosidase+ cells, as detected with an immunocytochemical assay, in the peripheral blood, during the first month following infusion. One patient had β-galactosidase+ clonogenic progenitors in her marrow at two months after transplantation, including HPP-CFC; intriguingly, this patient had the lowest percentage of X-gal+ cells in her graft. Patients experienced side effects that are often observed after high-dose chemotherapy.
+Conclusions
+Feasibility and safety of genetic modification of human hematopoietic stem and progenitor cells are demonstrated by this study. Ex vivo or in vivo selection is not mandatory, even in clinical situations where transduced cells have no survival advantage over wild-type cells; however, significant improvements in gene transfer technology are needed to achieve potentially useful levels of expression in such clinical situations.
+

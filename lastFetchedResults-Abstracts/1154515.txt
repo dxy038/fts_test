@@ -1,0 +1,7 @@
+This paper focuses on the problem of choosing the manufacturing route and characteristics in sheet metal processes, a very important element in computer aided process planning (CAPP) systems. At present, decisions concerning the operations, die, machine and process parameters used in sheet metal are based on experience.
+
+One of the objectives of this work has been to develop an activity model to help define sheet metal processes. This activity model allows focusing on the second objective, which is to implement a computer aided system to select and define the parameters of the process definition in the case of drawing operations with sheet metal. The result is the selection of parameters related to the operations chosen, the kinds of operations, the sequence of these operations and the lay-out die dimensions for the product.
+
+A range of parts were evaluated. They were chosen because they were considered to be representative cases. The results obtained by the system are compared with the values proposed in reference manuals, and by experienced experts. The work has served to determine how to adjust the computer aided system.
+
+Applying the method helps to make the right decisions about the sheet metal operations related to drawing processes. The experiments have led to a reduction in processing times.

@@ -1,0 +1,1 @@
+This paper describes the generation of digital elevation models (DEMs) with stereo technologies. We developed this method, and applied it to high-resolution TerraSAR-X data. The generated DEM was evaluated quantitatively using airborne DEM. It showed that the vertical accuracy was dependant on the land cover, and almost satisfied the objective specification in flat area.

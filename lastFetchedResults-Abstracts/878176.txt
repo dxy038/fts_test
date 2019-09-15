@@ -1,0 +1,10 @@
+The Kuhn–Tucker Sufficiency Theorem states that a feasible point that satisfies the Kuhn–Tucker conditions
+is a global minimizer for a convex programming problem for which a local minimizer is global.
+In this paper, we present new Kuhn–Tucker sufficiency conditions for possibly multi-extremal nonconvex
+mathematical programming problems which may have many local minimizers that are not global. We
+derive the sufficiency conditions by first constructing weighted sum of square underestimators of the objective
+function and then by characterizing the global optimality of the underestimators. As a consequence,
+we derive easily verifiable Kuhn–Tucker sufficient conditions for general quadratic programming problems
+with equality and inequality constraints. Numerical examples are given to illustrate the significance of our
+criteria for multi-extremal problems.
+© 2007 Elsevier Inc. All rights reserved.

@@ -1,0 +1,11 @@
+Objective
+To determine the source of an abnormal pattern of latency shifts leading to falsely high jitters in single fibre electromyography (SFEMG).
+Methods
+We observed a sudden shortening of the latency to an individual single fibre spike component followed by a gradual return to baseline values during stimulation single fibre electromyography (SFEMG) of the facial muscle. The pattern could be reproduced in healthy controls.
+Results
+The sudden decrease in latency proved to follow an additional discharge of the muscle fibre, not due to the external stimulus. This additional discharge was identified as an F-response.
+Conclusions
+The mechanism is thought to be a higher muscle fibre conduction velocity resulting from a temporary increase in stimulus frequency, in the form of an extra impulse along the muscle fibre represented by the F-response.
+Significance
+The typical abnormal pattern should be recognised because it can falsely increase the mean jitter. We advice to increase the time base to 50 ms if this pattern is observed and to exclude the affected potentials from jitter measurements
+

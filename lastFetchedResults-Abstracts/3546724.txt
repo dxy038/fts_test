@@ -1,0 +1,1 @@
+A new bidirectional WDM transmission technique using two identical sets of wavelengths for opposite directions on a single fibre is introduced. Its viability is suggested through a numerical analysis of power penalty owing to Rayleigh backscattering crosstalk.

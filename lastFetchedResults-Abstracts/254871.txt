@@ -1,0 +1,13 @@
+A seismic waveform inversion algorithm is proposed for the estimation of elastic soil
+properties using low amplitude, downhole array recordings. Based on a global optimization scheme in
+the wavelet domain, complemented by a local least-square’s fit operator in the frequency domain, the
+hybrid scheme can efficiently identify the optimal solution vicinity in the stochastic search space, whereas
+the best-fit model detection is substantially accelerated through the local deterministic inversion. Results
+presented for selected aftershocks of the Mw 7.0 Sanriku-Minami earthquake in Japan, recorded by the
+Kik-Net Strong Motion Network, illustrate robustness of the impedance structure estimation. By
+contrast, the attenuation structure is shown to be sensitive to the frequency content of seismic input
+data, attributed to the deterministic description of the continuum in the forward model that cannot
+simulate late arrivals of multiple-scattered energy. Sensitivity analyses illustrate that for the same
+forward model, results can be substantially different based on the definition of the objective function. It
+is concluded that even for engineering purposes, inversion should aim to decouple intrinsic and
+scattering attenuation mechanisms.

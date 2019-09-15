@@ -1,0 +1,15 @@
+Wind and solar energy technologies offer clean and renewable energy sources, and are essential
+components of sustainable energy future. The current paper presents a new methodology for size
+optimization of stand-alone Wind/PV energy systems. The principal objective of this study is to
+maximize the electricity match rate between demand and supplies, able to accomplish the energy
+requirements of a given load distribution, for a specific site. Mathematical models of hybrid
+components are exploited to estimate the total output power using solar radiation, temperature
+and wind speed data, collected on the site of Zabol, located in Sistan and Baluchestan, Iran. Then, a
+new methodology has been proposed which can obtain the optimal size of each hybrid component.
+The objective functions are considered based on supply/demand match evaluation criteria,
+minimizing the inequality coefficient (IC) and also maximizing the correlation coefficient (CC),
+simultaneously. The elitist non-dominated sorting genetic algorithm (NSGA-II), which is one of the
+multi-objective evolutionary algorithm (MOEA), have been employed for a hybrid stand-alone
+renewable energy power system (Wind/PV) to find the optimal size of each components. The
+Pareto-optimal solution is obtained in order to have higher-level decision. The designers can select
+the best configuration among the Pareto set which fits their desire.

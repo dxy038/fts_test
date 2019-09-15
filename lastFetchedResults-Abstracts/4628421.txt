@@ -1,0 +1,1 @@
+The optimal portfolio problem for a bank account, single risky stock and a rolling horizon bond is developed. The investment objective is maximizing expected HARA utility of terminal wealth. The problem has been solved by the stochastic dynamic programming principle and linear square control theory. The optimal trading strategy is obtained. A numerical example is presented.

@@ -1,0 +1,15 @@
+We introduce a new approach to distribution fitting, called Decision on Beliefs (DOB). The 
+objective is to identify the probability distribution function (PDF) of a random variable X with 
+the greatest possible confidence. It is known that Xf is a member of ={ , , }. 1 m S f L f To 
+reach this goal and select Xf from this set, we utilize stochastic dynamic programming and 
+formulate this problem as a special case of Optimal Stopping Problem. The decision is made on 
+the basis of the outcome of a limited number of experiments. A real number, namely, belief is 
+assigned to each candidate by considering the outcome of observations. At each stage and after 
+a random observation, beliefs are updated by applying Bayesian formula and then either one 
+element of S is selected as the desired PDF or another observation is made. At each stage, a 
+PDF from S with the greatest belief is accepted as the desired PDF provided the belief is 
+higher than a least acceptable designated level. We assume the total number of possible 
+observations can not exceed N and a cost is incurred for each observation. Dynamic and 
+nonlinear programming are applied to calculate the least acceptable belief value for each stage. 
+To reduce the search of the optimal solution, the concept of entropy is utilized. 
+

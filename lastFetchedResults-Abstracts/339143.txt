@@ -1,0 +1,13 @@
+Objective
+Alterations in growth factor signaling pathways may be a frequent collaborating event in AML1-ETO-mediated leukemogenesis. Gain-of-function KIT receptor mutations have been reported in adult AML patients, especially those with core binding factor leukemia (CBFL).
+
+We have previously reported a new gain-of-function KITAsn822Lys mutation that is constitutively expressed in the Kasumi-1 CBFL cell line, and has recently been described in two childhood AML patients. To explore the molecular basis of the effects of this mutation in the appropriate context of hemopoietic dysregulation, we investigated KIT downstream signaling in the Kasumi-1 cell line by means of STI 571 (Imatinib, Gleevec) pharmacological inhibition.
+Materials and Methods
+
+We investigated KITAsn822Lys mutant-initiated signaling in Kasumi-1 cell line, and characterized the inhibitory effect of the STI 571 protein tyrosine kinase inhibitor on downstream signaling.
+Results
+
+The use of STI 571-mediated inhibition impaired the tyrosine phosphorylation of KITAsn822Lys and its association with the p85 subunit of phosphatidylinositol 3′-kinase (p85PI3K). The downstream constitutive phosphorylation of JNK1/2 and STAT3 was also significantly inhibited, but STI 571 had no effect on the constitutive activation of Akt, thus suggesting that it is due to other signaling in Kasumi-1 cells. STI 571 inhibited the KIT-mediated proliferation of Kasumi-1 cells in a dose-dependent manner.
+Conclusions
+
+These findings show the role of PI3K in KITAsn822Lys-mediated constitutive activation through the Akt-independent downstream signaling pathway of JNK, and also demonstrate the mutant's susceptibility to STI 571, which may therefore have therapeutic potential in CBFL patients with susceptible KIT mutations.

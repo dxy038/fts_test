@@ -1,0 +1,11 @@
+Objective
+Circadian genes have recently been characterized in many tissues, but not in hematopoietic stem cells. These cells are rare in the bone marrow (BM), which makes it difficult to collect enough cells for detailed molecular analysis in a short period of time without reduced RNA quality. The aim was to improve methodology and reliability of clock gene expression analysis in purified mouse hematopoietic stem cells.
+Methods
+
+Stem cells were highly enriched by high-speed flow cytometric cell sorting of the side population (SP) cells from Hoechst 33342 (Hoechst)-stained mouse BM. Total RNA was isolated from sorted SP and whole BM cells and exposed to DNase treatment. The relative mRNA levels of major clock genes mPer1, mPer2, mBmal1, mCry1, mClock, and mRev-erb α were measured with real-time quantitative reverse transcription polymerase chain reaction (Q-RT-PCR) and normalized to m36B4, used as a reference gene. The clonogenity of sorted SP cells and whole BM; cells taken before and after sorting, were tested in colony-formation assay.
+Results
+
+Clock gene activity in sorted SP cells showed pronounced relative differences compared with whole BM for mPer1 and mCry1. The high-speed sorting procedure did not influence clock gene expression or cell clonogenity, even when this was performed with a delay period up to 24 hours.
+Conclusions
+
+We demonstrated expression of six clock genes in mouse hematopoietic stem cells. A combination of high-speed flow cytometric sorting and Q-RT-PCR was shown to be useful and reliable for analysis of clock gene activity in small stem cell fractions.

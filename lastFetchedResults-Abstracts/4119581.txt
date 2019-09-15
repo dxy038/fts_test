@@ -1,0 +1,1 @@
+We present the first experimental demonstration of full-duplex, bidirectional transmission of WiMedia-compliant ultra-wideband (UWB) signals at 200 Mb/s over 100-m perfluorinated graded-index plastic optical fiber (POF) with 50-&#956;m core diameter. Error vector magnitude penalties of 1.2 dB and 2.1 dB are achieved for up- and downlink transmission, respectively.

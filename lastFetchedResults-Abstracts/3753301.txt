@@ -1,0 +1,1 @@
+This paper surveys some recent contributions to computer arithmetic. The survey includes floating-point arithmetic, nonstandard number systems, and the generation of elementary functions. The design objective for these areas is computation that is both accurate and fast.

@@ -1,0 +1,14 @@
+This paper presents an intelligent sizing technique for sizing grid-connected photovoltaic (GCPV) system using evolutionary programming
+(EP). EP was used to select the optimal set of photovoltaic (PV) module and inverter for the system such that the technical or economic
+performance of the system could be optimized. The decision variables for the optimization process are the PV module and inverter
+which had been encoded as specific integers in the respective database. On the other hand, the objective function of the optimization task
+was set to be either to optimize the technical performance or the economic performance of the system. Before implementing the intelligent-
+based sizing algorithm, a conventional sizing model had been presented which later led to the development of an iterative-based
+sizing algorithm, known as ISA. As the ISA tested all available combinations of PV modules and inverters to be considered for the system,
+the overall sizing process became time consuming and tedious. Therefore, the proposed EP-based sizing algorithm, known as EPSA,
+was developed to accelerate the sizing process. During the development of EPSA, different EP models had been tested with a non-linear
+scaling factor being introduced to improve the performance of these models. Results showed that the EPSA had outperformed ISA in
+terms of producing lower computation time. Besides that, the incorporation of non-linear scaling factor had also improved the performance
+of all EP models under investigation. In addition, EPSA had also shown the best optimization performance when compared with
+other intelligent-based sizing algorithms using different types of Computational Intelligence.
+  2012 Elsevier Ltd. All rights reserved.

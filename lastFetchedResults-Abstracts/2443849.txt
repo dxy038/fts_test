@@ -1,0 +1,11 @@
+In 2008, the Articulated Inspection Arm (AIA) performed its first deployment in Tore Supra tokamak vessel, under real vacuum and temperature conditions (10−6 Pa and 120 °C) after a conditioning phase to avoid pollution of the chamber. This full demonstration is a turning point in the project, allowing a second phase to start toward the objective to make use of the Remote Handling Equipment as an inspection routine tool. This feasibility demonstration will also be performed on Tore Supra.
+
+s stage, the system requires enhancements of overall technologies and also developments of the Remote Handling control system. Lessons learned in the first phase of the project and experience collected for more than 20 years by Robotics Units of CEA-LIST teams on teleoperated systems enable to identify three main fields to explore to reach the objectives:•
+pment of a reliable control based on a real time generic command control system.
+
+pment of a graphical supervisor for intuitive steering.
+
+pment of a generic flexible model for realistic computations of the robot localization in the environment.
+
+
+aper is dedicated to the description of the further developments that shall be done for routine Remote Handling operations. It presents the R&amp;D project roadmap for the next years.

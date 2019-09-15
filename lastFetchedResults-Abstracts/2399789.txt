@@ -1,0 +1,8 @@
+Objective
+estigate the influence of implant design factors in terms of bone integrity and implant stability.
+als and methods
+arametric CAD model was developed. Then, once domain settings and boundary conditions were defined, a 3D FEM model was created. To simulate the physical interaction at the bone–implant interface, identity pairs were introduced. After generating different design scenarios with a DOE approach, the most significant design factors were obtained.
+s
+tudy showed that the geometry of the screw thread highly influenced the implant stability. In particular the degree of bone damage became minimal when adopting 0.40 mm for the thread width and 0.05 mm for the thickness.
+icance
+ width and thickness play a crucial role to reduce induced stresses and damage in bone. Considering these preliminary results, future improvements should focus on investigating also two-factor and higher interactions to better understand the implant loading mechanism.

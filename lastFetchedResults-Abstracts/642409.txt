@@ -1,0 +1,11 @@
+Objectives
+The first objective was to compare the accuracy of a foot-to-foot impedance meter with a multifrequency bioimpedance for measurements of fat-free mass (FFM) and fat mass (FM) using dual energy X-ray absorptiometry (DXA) as reference. The second objective was to validate measurements of extracellular water resistance and volume by the foot-to-foot impedance meter, using multifrequency bioimpedance as reference.
+Methods
+
+This investigation was carried out in 60 volunteers 18 to 71 y of age. Impedance meters were a Tefal Bodymaster Vision (foot-to-foot) that featured a square wave signal and a Xitron Hydra 4200 (5 to 1000 kHz) by using the bioimpedance spectroscopic method.
+Results
+
+Bland-Altman tests showed that FFM differences between Tefal and DXA data were 1.98 ± 3.09 kg in men and −0.08 ± 2.98 kg in women. Total body water was measured by the Xitron, and FFM as measured with the Xitron was calculated as total body water divided by 0.732. Mean differences between Xitron-measured and DXA-measured FFM were 2.37 ± 3.03 kg for men and 2.84 ± 2.40 kg for women, indicating a systematic underestimation by the Xitron of intracellular volume. Extracellular water resistances measured by Tefal were in good agreement with those measured by Xitron with electrodes pasted under the subject’s feet (mean difference 8.5 ± 31 Ω). Extracellular water volumes were calculated from Tefal-measured extracellular water resistances by using a modified bioimpedance spectroscopic method and differed from those measured with Xitron by −0.03 ± 0.66 L.
+Conclusion
+
+Limits of agreement with DXA-measured FFM produced by the foot-to-foot impedance meter tested are too large for clinical measurements in individuals, but they are sufficient to assess FFM in groups of subjects and for home use. Our prototype was also capable of estimating extracellular water volume with a similar accuracy as multifrequency bioimpedance in normal subjects.

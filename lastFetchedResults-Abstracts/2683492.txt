@@ -1,0 +1,17 @@
+In this paper, a hybrid meta-heuristic approach is proposed to optimize the mathematical
+model of a system with mixed repairable and non-repairable components. In this
+system, repairable and non-repairable components are connected in series. Redundant
+components and preventive maintenance strategies are applied for non-repairable and
+repairable components, respectively. The problem is formulated as a bi-objective
+mathematical programming model aiming to reach a tradeoff between system reliability
+and cost. By hybridizing a standard multi-objective fire fly (MOFA) and differential
+evolution (DE) algorithms, a powerful and efficient approach called MOF-DE algorithm
+which has inherited the advantages of the two algorithms is introduced to solve this
+problem. In order to achieve the best performance of MOF-DE, response surface
+methodology (RSM) is used to set proper values for the algorithm parameters. To
+evaluate the performance of the proposed algorithm, various numerical examples are
+tested and results are compared with methods like NSGA-II, MOPSO and standard
+MOFA. From the experiments, it is concluded that the performance of the MOF-DE
+algorithm is better than other methods at finding promising solutions. Finally,
+sensitivity analysis is carried out to investigate behavior of the proposed algorithm. 
+

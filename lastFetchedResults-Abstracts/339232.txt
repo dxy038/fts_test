@@ -1,0 +1,11 @@
+Objective
+For the study of the function of genes of interest in hematopoietic stem cells (HSCs) and for successful gene therapy, it is fundamental to develop a method of efficient gene transfer into HSCs. In mice experiments, efforts have been made to raise the transduction efficiency by modifying the vectors, administrating 5-fluorouracil (5-FU) to donor mice, selecting cytokine cocktails to better sustain the long-term repopulating potential of the stem cells, and so on. The objective of this study is to examine whether the use of fibroblast growth factor-1 (FGF-1)-expanded bone marrow cells provide an improved source for retroviral gene delivery to HSCs.
+Materials and Methods
+
+Unfractionated bone marrow cells from one mouse were cultured in serum-free medium containing FGF-1. Both floating and attached cells were transferred to retronectin precoated dishes and infected with virus supernatant from MP34 cells stably transduced with pMY/GFP retrovirus. After 3-day infection, the green fluorescence protein–positive fraction was sorted and the cells were transplanted to lethally irradiated mice.
+Results
+
+The experiments illustrated that the number of bone marrow–derived competitive repopulation units (CRUs) was increased from 600 to 9300 per mouse after a 3-week culture period with FGF-1. Following retroviral transduction of the expanded cells, the absolute number of sorted retrovirus-transduced CRUs was 4200. Using these retrovirus-transduced cells in noncompetitive reconstitution assay, we achieved radiation protection and long-term bone marrow reconstitution in 100% of the recipients with average myeloid and lymphoid chimerisms of 70% and 50%, respectively, even if we transplanted 150 recipients with cells derived from a single donor mouse.
+Conclusion
+
+In conclusion, FGF-1-expanded bone marrow cells constitute an excellent source of stem cells that could be used in a range of gene delivery protocols.

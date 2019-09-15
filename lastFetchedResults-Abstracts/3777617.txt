@@ -1,0 +1,1 @@
+The main objective of this letter is to design an observer for synchronous machine damper currents. The observer is used in a parameter estimator to identify synchronous machine parameters from online measurements. Possible internal machine fault conditions can be detected and remedial action can be undertaken.

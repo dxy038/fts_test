@@ -1,0 +1,8 @@
+AbstractObjective
+cal implant that contains metal, such as an RFID tag, must undergo proper MRI testing to ensure patient safety and to determine that the function of the RFID tag is not compromised by exposure to MRI conditions. Therefore, the objective of this investigation was to assess MRI issues for a new access port that incorporates an RFID tag.
+als and Methods
+s of the access port with an RFID tag (Medcomp Power Injectable Port with CertainID; Medcomp, Harleysville, PA) were evaluated using standard protocols to assess magnetic field interactions (translational attraction and torque; 3-T), MRI-related heating (3-T), artifacts (3-T), and functional changes associated with different MRI conditions (nine samples, exposed to different MRI conditions at 1.5-T and 3-T).
+s
+ic field interactions were not substantial and will pose no hazards to patients. MRI-related heating was minimal (highest temperature change, 1.7 °C; background temperature rise, 1.6 °C). Artifacts were moderate in size in relation to the device. Exposures to MRI conditions at 1.5-T and 3-T did not alter or damage the functional aspects of the RFID tag.
+sions
+on the findings of the test, this new access port with an RFID tag is acceptable (or, MR conditional, using current MRI labeling terminology) for patients undergoing MRI examinations at 1.5-T/64-MHz and 3-T/128-MHz.

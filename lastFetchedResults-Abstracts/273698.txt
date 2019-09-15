@@ -1,0 +1,4 @@
+The aim of this paper is to provide some solutions for the stress distribution in rectangular composite patches under inplane
+loading. Two different cases are considered: normal stresses and shear stresses. The stress distributions in the patch,
+the adhesive and the substrate show evidence of some bidirectional effects, which are not accounted for by usual unidirectional
+solutions available in the literature.

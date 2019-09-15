@@ -1,0 +1,10 @@
+AbstractContext
+-Based Software Engineering (SBSE) is an emerging discipline that focuses on the application of search-based optimization techniques to software engineering problems. Software Product Lines (SPLs) are families of related software systems whose members are distinguished by the set of features each one provides. SPL development practices have proven benefits such as improved software reuse, better customization, and faster time to market. A typical SPL usually involves a large number of systems and features, a fact that makes them attractive for the application of SBSE techniques which are able to tackle problems that involve large search spaces.
+ive
+in objective of our work is to identify the quantity and the type of research on the application of SBSE techniques to SPL problems. More concretely, the SBSE techniques that have been used and at what stage of the SPL life cycle, the type of case studies employed and their empirical analysis, and the fora where the research has been published.
+
+ematic mapping study was conducted with five research questions and assessed 77 publications from 2001, when the term SBSE was coined, until 2014.
+s
+st common application of SBSE techniques found was testing followed by product configuration, with genetic algorithms and multi-objective evolutionary algorithms being the two most commonly used techniques. Our study identified the need to improve the robustness of the empirical evaluation of existing research, a lack of extensive and robust tool support, and multiple avenues worthy of further investigation.
+sions
+udy attested the great synergy existing between both fields, corroborated the increasing and ongoing interest in research on the subject, and revealed challenging open research questions.

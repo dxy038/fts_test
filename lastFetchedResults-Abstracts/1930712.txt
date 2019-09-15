@@ -1,0 +1,5 @@
+Torrefaction, a mild form of pyrolysis is seen as an effective means of ameliorating the properties of raw biomass for subsequent thermal conversion, especially in applications such as large scale co-firing with coal. Even as the chemistry of torrefaction reactions have been studied in the past, the thermodynamic analysis of the torrefaction process is critical in assessing its viability, which is the objective of the present study.
+
+stem analysis software Cycle Tempo® is used to simulate a steady state model of the torrefaction process by linking unit operation blocks of drying and torrefaction along with auxiliary process equipment. The process is simulated for different cases of inputs where it is observed that the system efficiency decreases with increasing torrefaction temperatures and increasing biomass moisture content. It can also be seen that the low temperature heat exchanger associated with the drying process carries the highest heat load in the system.
+
+veloped tool can be used in designing the process flow and a realistic heat integration strategy with a view to feasible sizing of process equipment.

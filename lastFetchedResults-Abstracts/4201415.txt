@@ -1,0 +1,1 @@
+We demonstrate a 60-channel wavelength division multiplexed passive optical network (WDM-PON) with 10-Gb/s bidirectional transmission. A single 32*32 AWGR is used at the remote node to achieve a total system capacity of 1.2 Tbit/s.

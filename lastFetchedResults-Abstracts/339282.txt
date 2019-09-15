@@ -1,0 +1,11 @@
+Objective
+Ephrin ligands and Eph receptors play important roles for cell behavior and movement by transducing bidirectional signaling into interacting cells. Since we found that the expression of ephrinB2 in the hematopoietic progenitor cell line was changed by coculture with stromal cells, we tried to examine the function of ephrinB2 in the hematopoietic microenvironment.
+Methods
+
+Expression of ephrinB2 was measured by flow cytometry and reverse transcriptase polymerase chain reaction in the bone marrow (BM) hematopoietic cells and the stroma-dependent hematopoietic cell line (DFC-28) cocultured with stromal cells. Effect of ephrinB2 on the cells' behavior was monitored by overexpression of ephrinB2 cDNA in mouse pre–B-cell line (70z/3).
+Results
+
+EphrinB2 expression in DFC-28 cells was modulated by two different stromal cells; ephrinB2 expression was high in DFC-28 cells when cocultured with MSS62 cells, whereas it was low when they were cocultured with TBR31-1 cells. Expression of EphB4, a receptor for ephrinB2, was detected in MSS62 cells but not in TBR31-1 cells. Similarly, BM hematopoietic cells did not express ephrinB2, but most of the BM cells expressed ephrinB2 after coculture with stromal cells. Ectopic expression of ephrinB2 in 70z/3 cells acquires specific binding to EphB4 and leads to significant decline in the locomotive activity underneath stromal cells.
+Conclusion
+
+These results indicate that expression of ephrinB2 in hematopoietic cells is regulated by interaction with particular stromal cells, and ephrinB2-EphB4 interaction modulates the migration and colonization of the hematopoietic cells in the local stromal microenvironment.

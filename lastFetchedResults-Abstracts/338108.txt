@@ -1,0 +1,9 @@
+Objective
+To investigate if cell cycle progression plays a role in modulating the engraftment potential of mouse hematopoietic stem and progenitor cells (HSPC).
+Materials and Methods
+HSPC were isolated from adult mouse bone marrow, cultured in vitro under conditions promoting cell cycle arrest, and subsequently were evaluated for cell cycle status, clonogenic activity, and transplant potential.
+Results
+In the presence of steel factor (STL) as a survival cytokine, transforming growth factor β (TGF-β) increased the G0/G1 fraction of cycling progenitor cells (Rhhigh) after a 20-hour culture. Clonogenic activity of quiescent long-term repopulating (Rhlow) HSPC was unaffected by this culture, whereas clonogenic potential of Rhhigh cells decreased by about 30%. In competitive repopulation assays, Rhlow cells cultured in STL + TGF-β engrafted better than cells cultured in STL alone. However, culture in STL + TGF-β did not overcome the failure of Rhhigh cells to engraft after transplant. We also utilized a two-stage culture system to first induce proliferation of Rhlow HSPC by a 48-hour culture in STL + interleukin 6 + Flt-3 ligand, followed by shifting the culture to STL + TGF-β for 24 hours to induce cycle arrest. A competitive repopulation assay demonstrated a relative decrease in repopulating potential in cultures that were cycle arrested compared to those that were not.
+Conclusion
+Cell cycle progression by itself cannot account for the decrease in repopulating potential that is observed after ex vivo expansion. Other determinants of engraftment must be identified to facilitate the transplantation of cultured HSPC.
+

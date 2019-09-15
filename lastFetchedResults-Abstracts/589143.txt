@@ -1,0 +1,7 @@
+Association rule mining, or in other words, extracting the possiple relationships among the
+data in a large data base, is one the most important and time consuming tasks in data mining.
+Many algorithms have been proposed for this task in literature which differ in speed and the
+quality of solutions. In this Article and attempt is made to propose an evolutionary method
+based on multi-objective PSO which has high speed and proper quality in generating the rules.
+The proposed algorithm has been applied and tested on a set of transaction data with four
+thousand records and the results prove the efficiency of our algorithm.

@@ -1,0 +1,19 @@
+Careful observation has shown that mining-induced seismicity follows a multimodal
+distribution, which we assume to arise from many distinct physical processes. The two major modes
+however, arise from those seismic events that are associated in some way with geological features on the
+one hand, and those that are associated, among other things, with fracturing in the volume of extreme
+stress concentrations ahead of the stope faces, on the other. We call the former ‘‘genuine’’ events and the
+latter ‘‘spurious’’ events.
+Untangling these modes has been a major problem for those researchers wishing to work with
+unimodal seismic catalogs. Partial separation of the genuine events from a catalog can be obtained by
+a careful selection from a scatter diagram of log (radiated seismic energy) against log (scalar seismic
+moment) or equivalently by selecting a threshold value of magnitude say, from an inspection of the
+Gutenberg-Richter diagram. This threshold is usually considerably greater than the threshold of
+completeness that can be achieved by modern seismic networks on mines.
+The main objective of this paper will be the demonstration that a simple neural network can improve
+this separation. In this study, for example, simple elimination below the threshold of log (scalar seismic
+moment) 9.5 resulted in 206 genuine events remaining in the catalog. After running the eliminated
+events through a trained neural network, an additional 72 genuine events were found, representing an
+increase of nearly 35%.
+This has important consequences for statistical hazard analysis and for the identification of active
+geological structures in mines.

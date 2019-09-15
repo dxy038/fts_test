@@ -1,0 +1,11 @@
+Facility layout plays a vital role in the productivity of manufacturing systems. In the
+factories that have high complexly process, the flows between workstations and equipment
+should be declined because it increases rudiment costs and reduces the productivity. In
+this article, a model with 7processes is investigated and the facility layout for this model is
+determined based on the sequences between equipment, machines and workstation. This
+model is solved by relationship process method. Then, the process flow diagram is
+clarified. In this model, the relationship between processes and equipment is the main
+input that should be considered for facility layout. This model contains “m” parallel
+machines and “n” jobs. Minimizing the work flow time is the purpose of solving this
+model. Finally, the layout and jobs sequences are evaluated by objective matrix method. In
+this part, their indexes are determined based on the results that are calculated.

@@ -1,0 +1,11 @@
+Objective
+To evaluate the F-wave dilution hypothesis; which implies that absolute F-wave latencies obscure the much smaller delay associated with slow intra-lesion conduction, such is caused by nerve root compression in lumbosacral radiculopathy. A corollary objective is to determine how F-wave measurement and pathological factors influence diagnostic accuracy.
+Methods
+An analytical model is developed based on signal detection theory and a number of simplifying assumptions. Diagnostic accuracy, quantified by the area under the receiver operating characteristic (ROC) curve, is determined for various model realizations derived from the clinical and experimental neurophysiology literature. A preliminary experimental validation of model predictions is also performed.
+Results
+Absolute F-wave latency does not influence the accuracy of focal lesion detection. F-wave latency variance and lesion pathology are the determinant factors. F-wave latencies and distal latencies are estimated to have qualitatively similar detection characteristics, although distal latencies have quantitatively better diagnostic efficacy for comparable focal pathology. Preliminary experimental results support the modeled dependence of diagnostic accuracy on latency variance and lesion severity.
+Conclusions
+Absolute F-wave latency does not dilute slow conduction within focal lesions, such as in lumbosacral radiculopathy. The dominant measurement factor is F-wave latency variance.
+Significance
+To maximize the diagnostic utility of F-wave latencies, focus must be placed on reducing latency variance, such as through correction for demographic covariates. This model calls into question the F-wave dilution hypothesis.
+

@@ -1,0 +1,11 @@
+Objective
+To determine whether standardised low-resolution brain electromagnetic tomography modified for a quantifiable method (sLORETA-qm) can be used for quantitative analysis in magnetoencephalography (MEG).
+Methods
+Somatosensory evoked fields (SEFs) were obtained from 10 hemispheres of five healthy volunteers stimulated on the median nerve at 0.75, 1.0, 1.25, 1.5, 1.75 and 2.0 × threshold of thenar muscle twitch (TMT). N20m intensity changes were analysed quantitatively using sLORETA-qm. Then, SEFs were measured with stimulation on the median nerve at 1.5 × TMT from 47 hemispheres in 24 subjects. sLORETA-qm intensity and the equivalent current dipole (ECD) moment of N20m were calculated, and relationships between the values were evaluated.
+Results
+sLORETA-qm intensity increased linearly with stimulus intensity between 0.75 and 1.5 × TMT, and tended to reach a plateau or decrease at higher stimulus intensities. The distribution of sLORETA-qm intensity after natural logarithmic transformation was normal and a close correlation was found between the ECD moment and sLORETA-qm intensity (rs = 0.91, p < 0.001).
+Conclusions
+The results of this study focusing on N20m suggested that sLORETA-qm is reliable for quantitative analysis of MEG as well as ECD models.
+Significance
+sLORETA-qm appears promising for quantitative analyses of MEG for which ECD models are inappropriate.
+

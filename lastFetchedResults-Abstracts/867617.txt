@@ -1,0 +1,15 @@
+This paper considers the problem of subcontracting constraints under a joint maintenance management
+and production control approach. Our objective is to study the effect of an unforeseen extension of subcontracting
+duration on a production system provider of subcontracting services.
+We will study a system with a production unit M subject to corrective maintenance actions, a result of
+random breakdowns. We perform a preventive maintenance action (PM) for each time T. Corrective and
+preventive maintenance have random durations. A buffer stock S with a capacity h, is built up with a production
+rate U in order to satisfy the constant demand d of the principal costumer, such as Umax > d. We
+note a ¼ Umax   d, the maximum stock accumulation rate. In addition, the machine M is allocated to perform
+subcontracting tasks (ST) to a contractor production system, at each moment A1, for a useful duration
+A2, during which it is unavailable for our system. Thus, the machine must satisfy at the same time the
+constant demand (under a costumer–supplier relationship) and subcontracting tasks (under a contractor–
+subcontractor relationship).
+In this context, a mathematical model is developed to determine the impact of an unforeseen extension
+of subcontracting duration on the generated costs. We will determine the optimal values of T and h and
+we will discuss the impact of the extension of a ST with h time units.

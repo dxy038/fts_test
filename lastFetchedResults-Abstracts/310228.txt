@@ -1,0 +1,9 @@
+Objective
+Human serum sphingomyelin (SM) and phosphatidylcholine (PC) play important roles in the development of atherosclerosis. However, there are no rapid and sensitive methods for SM and PC measurement. The present report describes a novel enzymatic method for measuring SM, PC and lysophosphatidylcholine (lyso-PC) levels in plasma and lipid extracts.
+Design and methods
+The total choline-containing phospholipids (total PL), SM and PC were measured using a two-reagent system involving specific enzymes for choline-based phospholipids. The procedure was performed using either microplate or automatic analyzer technology. The concentration of lyso-PC was calculated by subtracting the concentration of SM plus PC from the total PL concentration.
+Results
+Assay results showed linear correlations between sample concentration and absorbance. The within-run and between-run coefficients of variation for PC, SM, and lyso-PC concentrations were 2.0–4.4% for the microplate analyzer and 0.9–2.9% for the automatic analyzer. Analysis of normal human serum showed that the total PL concentration strongly correlated with the SM plus PC concentration (r = 0.9850). There were moderate correlations between serum PC and SM levels (r = 0.6228) and between serum PC and lyso-PC levels (r = 0.7806). SM, PC, and lyso-PC levels in normal human serum (n = 50) were 0.54 ± 0.07, 1.99 ± 0.22 and 0.60 ± 0.15 mmol/L, respectively.
+Conclusion
+The present enzymatic method allowed for rapid, simple, and accurate measurement of SM, PC, and lyso-PC levels in lipid extracts and in serum. The method is suitable for both microplate and automatic analyzer assays.
+

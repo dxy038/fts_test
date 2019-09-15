@@ -1,0 +1,9 @@
+Objective
+To evaluate scanner-generated images of hip specimens obtained from dual energy X-ray absorptiometry (DXA) by quantitative image analysis of bone mineral distribution in the standard regions of interest (ROI), to predict the ultimate mechanical strength, and to compare the predictive potential with standard densitometry.
+Materials and Methods
+Femoral bone mineral density (BMD) of 100 hip specimens was obtained by DXA in the total hip, shaft, trochanteric, and neck ROI. Maximum compressive strength (MCS) of the specimens was measured in a mechanical loading device simulating a fall on the greater trochanter. The topology of bone mineral distribution in the scan images was evaluated by image processing methods based on the Minkowski functionals (MF) using the optimized topological parameter MF2D. Correlation and multivariate analysis were employed to assess the statistical potential of BMD and MF2D with respect to predict the mechanical strength of the femur specimens.
+Results
+R2 for the correlation between load-to-failure and BMD varied between 0.73 and 0.79 (exponential curve fit, p < 0.001), being highest in the trochanteric ROI. Correlation between load-to-failure of the specimens with the topological parameter MF2D ranged from R2 = 0.8 to 0.91 (p < 0.001). In a multivariate model combining the topological information from all ROIs, correlation with MCS rose to R2 = 0.94.
+Conclusion
+The topological parameter MF2D can be employed to predict the mechanical strength of proximal femur specimens from DXA-generated images. Performance is superior to standard evaluation of DXA. In the future, the proposed image processing method may serve to improve the assessment of an individual's fracture risk.
+

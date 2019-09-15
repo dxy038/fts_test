@@ -1,0 +1,17 @@
+The objective of the OPTI program (the dwellings module) is to help architects to take into account the impact of design choices on energy consumption designing a dwelling project.
+
+In order to do so, the program must:
+
+• be highly user-friendly (language based on drawings);
+
+• need a minimum of data and
+
+• be very fast.
+
+The computation of energy needs and overheating estimation require dynamic thermal programs. These are often slow and need a large amount of data.
+
+The use of many parametric studies realized with a dynamic thermal program allowed us to create software providing the user instantaneously with results from a dynamic thermal program without subjecting architects to the disadvantages of this type of program.
+
+Indeed, the program provides annual thermal needs and thermal comfort (winter and summer) in relation with orientation, building footprint, window area and type, insulation level, presence of external or internal shading devices, ventilation strategy applied and thermal mass.
+
+This design tool is based on Belgian climatic weather data but the same step could be transposed to other climatic data.

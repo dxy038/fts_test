@@ -1,0 +1,23 @@
+Objective: In radiation treatment, the irradiation which is effective enough to control the
+tumors far exceeds normal-tissues tolerance. Thus to avoid such unfavourable outcomes,
+some methods sensitizing the tumor cells to radiation are used. Iododeoxyuridine (IUdR)
+is a halogenated thymidine analogue that known to be effective as a radiosensitizer in human
+cancer therapy. Improving the potential efficacy of radiation therapy after combining
+to hyperthermia depends on the magnitude of the differential sensitization of the hyperthermic
+effects or on the differential cytotoxicity of the radiation effects on the tumor cells.
+In this study, we evaluated the combined effects of IUdR, hyperthermia and gamma rays
+of 60Co on human glioblastoma spheroids culture.
+Materials and Methods: In this experimental study,the cultured spheroids with 100?m diameter
+were treated by 1 ?M IUdR, 43?C hyperthermia for an hour and 2 Gy gamma rays,
+respectively. The DNA damages induced in cells were compared using alkaline comet
+assay method, and dosimetry was then performed by TLD-100. Comet scores were calculated
+as mean ± standard error of mean (SEM) using one-way ANOVA.
+Results:Comparison of DNA damages induced by IUdR and hyperthermia + gamma treatment
+showed 2.67- and 1.92-fold enhancement, respectively, as compared to the damages
+induced by radiation alone or radiation combined IUdR. Dosimetry results showed
+the accurate dose delivered to cells.
+Conclusion: Analysis of the comet tail moments of spheroids showed that the radiation
+treatments combined with hyperthermia and IUdR caused significant radiosensitization
+when compared to related results of irradiation alone or of irradiation with IUdR. These results
+suggest a potential clinical advantage of combining radiation with hyperthermia and
+indicate effectiveness of hyperthermia treatment in inducing cytotoxicity of tumor cells.

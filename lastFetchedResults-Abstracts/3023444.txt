@@ -1,0 +1,1 @@
+In this paper, we consider a single intersection of four phases. A new time-planning scheme is put forward, based on the model of hybrid automata for the intersection. We introduce the optimization of hybrid systems, and use the average queue length over all queues as objective function to find an optimal traffic light switching schemes.

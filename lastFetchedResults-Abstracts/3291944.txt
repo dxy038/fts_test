@@ -1,0 +1,1 @@
+A lightwave centralized and dispersion immune RoF scheme is demonstrated by combining the use of a dual-drive MZM in CO and an AWG in RN. Bidirectional transmission of 25 MS/s 128 QAM signal at 38.4 GHz and 1.25 Gb/s OOK signal with a RSOA is successfully achieved. The proposed scheme also features simple structure and high transmission stability.

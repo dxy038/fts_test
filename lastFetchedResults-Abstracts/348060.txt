@@ -1,0 +1,6 @@
+Objective: The aim of this study is to evaluate an improved seizure detection algorithm and to compare with two other algorithms and human experts.
+Methods: 672 seizures from 426 epilepsy patients were examined with the (new) Reveal algorithm which utilizes 3 methods, novel in their application to seizure detection: Matching Pursuit, small neural network-rules and a new connected-object hierarchical clustering algorithm.
+Results: Reveal had a sensitivity of 76% with a false positive rate of 0.11/h. Two other algorithms (Sensa and CNet) were tested and had sensitivities of 35.4 and 48.2% and false positive rates of 0.11/h and 0.75/h, respectively.
+Conclusions: This study validates the Reveal algorithm, and shows it to compare favorably with other methods.
+Significance: Improved seizure detection can improve patient care in both the epilepsy monitoring unit and the intensive care unit.
+

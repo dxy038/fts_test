@@ -1,0 +1,11 @@
+Background
+Magnetic resonance imaging (MRI) and multislice computed tomography (MSCT) have emerged as potential noninvasive coronary imaging techniques. The objective of the present study was to clarify the current accuracy of both modalities in the detection of significant coronary artery lesions (compared to conventional angiography as the gold standard) by means of a comprehensive meta-analysis of the presently available literature.
+Methods
+
+A total of 51 studies on the detection of significant coronary artery stenoses (≥50% diameter stenosis) and comparing results with conventional angiography were identified by means of a MEDLINE search. Weighted sensitivities, specificities, and predictive values, all with 95% CIs, as well as summary odds ratios, were calculated for both techniques. In addition, the relationship between diagnostic specificity and disease prevalence was determined using metaregression analysis.
+Results
+
+A comparison of sensitivities and specificities revealed significantly higher values for MSCT (weighted average 85% [95% CI 86%-88%] and 95% [95% CI 95%]) as compared with MRI (weighted average 72%, 95% CI 69%-75% and 87%, 95% CI 86%-88%). A significantly higher odds ratio (16.9-fold) for the presence of significant stenosis was observed for MSCT as compared with MRI (6.4-fold) (P < .0001). Linear regression analysis revealed a better specificity for MSCT versus MRI in lower disease prevalence populations (P = .056).
+Conclusion
+
+Meta-analysis of the available studies with MRI and MSCT for noninvasive coronary angiography indicates that MSCT has currently a significantly higher accuracy to detect or exclude significant coronary artery disease.

@@ -1,0 +1,11 @@
+In order to obtain high sunlight transmittance for silicon thin film solar cells, the textured surface such as pyramid shapes is commonly
+considered along the boundary between the silicon layer and the transparent conductive oxide (TCO) layer. Layered structure
+design having the improved transmittance into the light absorbing layer for specific frequencies is derived using the so called topology
+optimization design method combined with the time dependent finite element analysis. A triangle patterned textured surface is considered
+as the initial shape for two-dimensional wave analysis and the periodic boundary condition is applied to both sides of the unit-structure
+model. The design objective is set to maximize the energy flux at the specified wave absorbing area during some time period so that the
+objective function is evaluated as the time integration of a Poynting vector formulation. A multiple layered pattern representing a silicon
+layer and a TCO layer in turn is obtained for the optimal shape of the light absorbing boundary. As thicknesses of each layer are associated
+with the incident beam wavelength, various wavelengths of incident light condition are considered and each of the optimal design
+cases according to the wavelength are compared.
+  2012 Elsevier Ltd. All rights reserved.

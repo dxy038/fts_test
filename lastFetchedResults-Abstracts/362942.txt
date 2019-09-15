@@ -1,0 +1,9 @@
+Study objective
+We seek to examine the effectiveness of the graduated driver licensing system in Utah by determining whether crash rates of 16-year-old drivers decreased after graduated driver licensing implementation.
+Methods
+We studied 16-year-old-driver crashes using statewide motor vehicle crash data probabilistically linked to emergency department (ED), hospital inpatient, and driver licensure data for 1996 to 2001. Outcomes examined included overall crash rates, nighttime crashes, crash severity indicators (eg, noninjury crash, injury crash, ED crash, inpatient crash, fatal crash), seat belt usage, licensure status, and citations. Rate ratios (RR), χ2 tests, and interventional time series analyses were used to assess changes before and after graduated driver licensing implementation.
+Results
+There were 27,304 16-year-old-driver crashes during the study period. The overall crash rate per 1,000 licensed 16-year-old drivers decreased by 5% (RR 0.95; 95% confidence interval [CI] 0.92 to 0.97), and a time-series analysis showed a reduction of 0.8 (SD 0.39) crashes per month per 1,000 licensed drivers after graduated driver licensing implementation (1996 to 1999 versus 1999 to 2001). The nighttime crash rate did not change (RR 0.91; 95% CI 0.78 to 1.04), and there was no association between crash severity and graduated driver licensing implementation (P=.096). Reported seat belt usage increased by 6.3%, and few graduated driver licensing citations were issued by law enforcement.
+Conclusion
+The results suggest that graduated driver licensing may have contributed to a reduction in young driver crashes, but the effects were minimal compared with those shown in many other graduated driver licensing evaluations.
+

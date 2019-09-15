@@ -1,0 +1,14 @@
+The objective of this article is to study the effect of various components of earthquake
+on sloshing response of liquid storage tanks. First, commonly used theory for
+unidirectional analysis of liquid behavior in cylindrical tanks was reviewed.
+Second, the Finite Element Modeling (FEM) strategy which was used to simulate
+dynamic response of the liquid tank system was described. The FEM was validated
+using a set of experimental measurements reported by previous researchers. Third,
+a parametric study for some vertical, cylindrical tanks with different aspect ratios
+excited by various time series of earthquake accelerations was performed. Each
+tank was subjected to unidirectional and bidirectional excitations of earthquake
+accelerations. Fourth, provision suggested by some seismic codes for the estimation
+of Maximum Sloshing Wave Height (MSWH) were reviewed and the accuracy of the
+codes prediction was numerically investigated. Finally, the available simplified
+formulation for evaluating MSWH under unidirectional excitation was extended
+for bidirectional excitation.

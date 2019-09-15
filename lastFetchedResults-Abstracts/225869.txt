@@ -1,0 +1,20 @@
+This paper presents a study of the performance of
+distance protection relays when applied to protect shunt Flexible
+AC Transmission System (FACTS) compensated transmission
+lines. The objective of this study is to evaluate the performance of
+distance relays on transmission lines with FACTS devices applied
+for mid point voltage control. Effect of two types of shunt FACTS
+devices, Static Var Compensators (SVC) and Static Synchronous
+Compensators (STATCOM) are studied. The study is conducted
+in three stages. First the situation is studied analytically, where
+the errors introduced in the impedance measurement due to the
+presence of shunt FACTS devices on the line are analyzed. In the
+second stage, the situation is simulated using transient simulation
+software, EMTDC. In this method, the response of FACTS devices
+for different fault conditions and system conditions is also modeled.
+This method brings out some unique problems that would
+be experienced by the distance relays due to some specific characteristics
+of the FACTS devices. Finally, the findings are confirmed
+by testing a commercial distance relay using a Real Time Digital
+Simulator (RTDS). The results obtained by testing the commercial
+relay validate the analytical and simulation studies.

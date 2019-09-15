@@ -1,0 +1,9 @@
+Background
+There is evidence to support the existence of an inverse relation between mortality after coronary artery bypass graft (CABG) surgery and procedure volume. It is unclear whether all patients benefit equally from having CABG surgery performed at high-volume centers. The objective of this study was to determine whether the volume-outcome association for CABG surgery is modified by patient risk.
+Methods
+This retrospective cohort analysis was conducted using data from the Cardiac Surgery Reporting System database on all patients (20,078) undergoing CABG surgery in New York State who were discharged in 1996. The main outcome measure was in-hospital mortality as a function of procedure volume after adjusting for severity of disease. Logistic regression modeling was used to explore the interaction between patient risk and procedure volume.
+Results
+There is a significant interaction between procedure volume and patient risk (p = 0.01). The final model exhibits excellent discrimination (C statistic = 0.818) and goodness-of-fit (Hosmer-Lemeshow statistic = 6.02; p = 0.645). Very low (<0.5%) and low-risk (0.5%–2.0%) patients exhibit a greater reduction in CABG mortality than high (5.0%–10.0%) and very high risk (>10%) patients at high-volume centers relative to low-volume centers. Among the highest risk patients (>25% risk of mortality), higher risk patients have better outcomes at higher volume centers.
+Conclusions
+For the vast majority of patients, low-risk patients benefit significantly more than high-risk patients from undergoing CABG surgery at high-volume centers instead of at low-volume centers. Low-risk patients benefit significantly more than high-risk patients from undergoing CABG surgery at high-volume centers instead of at low-volume centers. However, before generalizing these findings to other states, this study should be repeated using other regional population-based clinical databases.
+

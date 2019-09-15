@@ -1,0 +1,8 @@
+Th e objective of t his research is to study t he ability of a meshless met hod , called fini te point
+method, in solvi ng incompressible fluid flow problems using two stabil ization schemes. T he
+main goal of meshless methods is to reduce or remove the cost of grid generat ion. T his
+issue is imp lement ed using the sati sfaction of governing differential equat ions on a regular or
+ir regular set of nodes by interpolation fu nctions , based on special least -squares approximat ions.
+In t his research, t he fi nite point method is used to solve the Stokes and t he Navier-Stokes
+equat ions by employing two different stabilization schemes. In addition , th e effects of leastsquares
+appro ximat ions are studi ed.

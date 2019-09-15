@@ -1,0 +1,5 @@
+A multiple-objective optimization problem involving generalized univex functions
+is considered. Kuhn]Tucker type sufficient optimality conditions are obtained for a
+feasible point to be an efficient or properly efficient solution. Mond]Weir type
+duality results are obtained. Further, a vector-valued Lagrangian is introduced and
+certain vector saddlepoint results are presented.

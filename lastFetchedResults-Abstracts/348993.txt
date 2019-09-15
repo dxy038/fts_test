@@ -1,0 +1,11 @@
+Objective
+To investigate brain asymmetries of the auditory evoked potential (AEP) N100, T-complex, and P200 in response to monaural stimulation.
+Methods
+Electroencephalographic (EEG) recordings from 68 channels were used to record auditory cortex responses to monaural stimulation from normal hearing participants (N = 16). White-noise stimuli and 1000 Hz tones were repeatedly presented to either the left or right ear. Source localization of the AEP N100 response was carried out with two symmetric regional sources placed into left and right auditory cortex. Regional source waveform amplitude and latency asymmetries were analyzed for tangential and radial activity explaining the N100, T-complex and P200 AEP components.
+Results
+Regional source waveform analysis showed that early tangential activity in the N100 latency range exhibited larger contralateral amplitudes and shorter latencies for both tone and noise monaural stimuli. Lateralized activity was significantly greater when tones or noise was presented to the left compared to the right ear (p < .001). The ear difference in the degree of lateralization arose due to hemispheric asymmetry. Significantly more tangential activity in the N100 latency range was recorded in the right compared to the left hemisphere in response to stimulation by either tones or noise (p < .001). Neither the radial activity modelling the T-complex, nor activity modelling the P200, showed robust ear or hemisphere differences.
+Conclusions
+Regional source waveform analysis revealed that the extent of auditory evoked potential asymmetries depends on the ear and hemisphere examined. These findings have implications for future studies utilizing AEP asymmetries to examine normal auditory function or experience-related changes in the auditory cortex.
+Significance
+The right compared to the left auditory cortex may be more involved in processing monaurally presented tone and noise stimuli.
+

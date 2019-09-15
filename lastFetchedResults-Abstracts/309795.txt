@@ -1,0 +1,9 @@
+Objective:
+We developed assays for measurement of urinary βLH and βFSH under collection and storage conditions typical of non-clinical research settings.
+Design and methods:
+IEMAs for free βLH and total βFSH were validated by standard methods. Stability of urinary βLH and βFSH was tested across freeze–thaws and stored long term at 4°C or − 20°C, or short term at room temperature, and with heating to dissociate the subunits.
+Results:
+The IEMAs exhibited acceptable parallelism, specificity, recovery (averaging 100% for βLH, 97% for βFSH), imprecision (maximum within-run and between run CVs, respectively, 4.8% and 25.7% for βLH, 5.6% and 17.0% for βFSH), and minimum detectable dose (2.5 pmol/L for βLH, 6.8 pmol/L for βFSH). Urine and serum measures were highly correlated (r = 0.95 for LH, 0.86 for FSH). There was no consistent decline with any storage type. Dissociation of subunits by heating was needed for βLH, but not βFSH.
+Conclusion:
+These IEMAs measure free βLH and total βFSH, overcoming inter-individual variability in, and collection and storage effects on, subunit dissociation, without the need for urine preservatives.
+

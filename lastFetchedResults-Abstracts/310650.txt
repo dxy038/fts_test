@@ -1,0 +1,9 @@
+Objective. To study changes in viscoelasticity of a ligament due to an incomplete or a subfailure injury.
+
+Design. An in vitro study of anterior cruciate ligament preparations. Background. The viscoelastic properties are an inherent part of the physical characteristics of a ligament. An injury to a ligament alters both its elastic and viscous properties. Although the effects of several parameters on the mechanical properties of a ligament have been studied, there is no information in the literature concerning the effect of an incomplete or subfailure injury on its viscoelastic behavior.
+
+Methods. Ten pairs of rabbit femur-anterior cruciate ligament-tibia specimens were used. A standardized relaxation (Relax) test was adopted to quantify the viscoelastic behavior, before and after a subfailure injury. One member of the pair was subjected to three sequential tests: Relax 1; Relax 2; and stretch to failure. The other member of the pair was subjected to other three tests: Relax 3; 80% subfailure injury, i.e. stretch of 80% of failure deformation; and Relax 4.
+
+Results. We found that the relaxation test by itself (Relax 1 vs Relax 2), did not affect the viscoelasticity of the ligament. On the other hand, the 80% subfailure injury (Relax 3 vs Relax 4) affected the ligament viscoelastic behavior. The force was decreased by about 50% at time zero (10.46 vs 4.79 N, p = 0.014), and at 180 s (8.14 vs 4.11 N, p = 0.018). Fitting a three-element linear viscoelastic solid model to our data, we found the serial spring stiffness to decrease by about 50% (p = 0.01), the parallel spring remained unchanged, and there was a tendency for the dashpot coefficient to decrease (by 57%, p = 0.09).
+
+Conclusions. The 80% subfailure injury decreased the initial stiffness of the ligament, and tended to decrease its viscoelastic property.

@@ -1,0 +1,9 @@
+Objective(s)
+Developing and validating a simple, efficient, reproducible and economic reversed phase high performance liquid chromatographic (RP-HPLC) method for the quantitative determination of pefloxacin in bulk material, tablets and in human plasma. 
+Materials and Methods
+A shim-pack CLC-ODS column and a mobile phase constituting acetonitrile: 0.025 M phosphoric acid solution (13:87 v/v, pH 2.9 adjusted with KOH) were used. The flow rate was 1 ml/min and the analyses performed using ultraviolet (UV) detector at a wavelength of 275 nm using acetaminophen as an internal standard.
+Results
+The developed method showed good resolution between pefloxacin and acetaminophen. It was selective to pefloxacin and able to resolve the drug peak from internal standard and from formulation excipients. The percentage of coefficient variation (CV) of the retention times and peak areas of pefloxacin from the six consecutive injections were 0.566% and 0.989%, respectively. The results showed that the peak area responses are linear within the concentration range of 0.125 µg/ml-12 µg/ml (R2= 0.9987). The limits of detection (LOD) and limits of quantitation (LOQ) for pefloxacin were 0.03125 µg/ml and 0.125 µg/ml. The intra-day and inter-day variation, RSD were 0.376-0.9056 and 0.739-0.853 respectively; also, inter-day variation with relative standard deviation (RSD) were 0.1465-0.821 in plasma. The accuracy results of 70%, 100%, and 130% drugs were 100.72%, 100.34%, and 100.09%, respectively.
+Conclusion
+The method is linear, quantitative, reproducible and could be used as a more convenient, efficient and economical method for the trace analysis of drug in biological fluids, in raw material and tablets
+

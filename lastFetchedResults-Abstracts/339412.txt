@@ -1,0 +1,8 @@
+Objective
+In this study, we attempted a comprehensive analysis of MHC class I–bound peptides in adult T cell leukemia (ATL) cells in order to identify as many tumor-associated antigens (TAAs) as possible that could be used for CTL-based immunotherapy.
+Methods and Results
+
+Using mass spectrometry combined with reversed-phase liquid chromatography, we could sequence 188 HLA class I–restricted candidate peptides from three ATL-derived cell lines. In accordance with the restrained expression of HTLV-I viral RNA in these cell lines, there were no HTLV-I-encoded peptides among these candidates. Based on the differential expression between ATL cells and normal CD4+ T cells, we selected 10 novel peptides as T cell epitopes of overexpressed source proteins. RT-PCR analysis revealed that 5 source proteins including PRAME, a known tumor-testis antigen, were highly expressed in the majority of 16 ATL cases. Furthermore we could induce PRAME-specific CTLs in vitro from an HLA-B62+ healthy donor that showed specific cytotoxicity against HLA-B62+ PRAME+ ATL cells.
+Conclusion
+
+These results demonstrate that comprehensive analysis of HLA class I–bound peptides by mass spectrometry is useful for identification of TAA-derived peptides in ATL. Considering that expression patterns of leukemia/lymphoma-associated antigens vary from case to case, this approach appears to be suitable for the tailor-made immunotherapy of hematological malignancies.

@@ -1,0 +1,11 @@
+Objective
+To transfer to the clinic for humans the technology and theory for high-resolution EEG analysis that have been developed in the laboratory with animals.
+Methods
+EEGs were recorded at high spatial resolution from a 1×1 cm 8×8 electrode array on the right inferior temporal gyrus of a patient undergoing preoperative monitoring for epilepsy surgery. Cosines were fitted to EEG segments to measure frequency and phase and compute location, size, latency, phase velocity, duration, and recurrence rate of radially symmetric spatial patterns called phase cones. The Hilbert transform was also used to get high temporal resolution.
+Results
+In the awake state, the power spectral density (PSD) showed power-law decrease in log power with log frequency at 1/fα, α 2, but with peaks in the standard empirical ranges. The phase in beta and gamma ranges had spatial gradients in conic form. Resetting of these stable spatial patterns of phase cones was spatially coincident at intermittent discontinuities (‘phase slip’) recurring at theta rates. Cones had half power diameters from 2 to 50+ mm; their durations had power-law distributions with values ranging from 6 to 300+ ms depending on length of the analysis window. In slow wave sleep PSD decreased at 1/fα, α 3,with loss of beta–gamma spectral peaks and diminished or absent oscillations and spatiotemporal phase structure.
+Conclusions
+Spatiotemporal structures in awake human and rabbit EEG showed striking similarities. The only clear differences were ascribable to differing scales of measurement. These fine spatiotemporal structures of EEG were diminished or lost in slow wave sleep.
+Significance
+The fine structure indicates that neocortical stability is sustained at self-organized criticality; that synaptic input in the awake state drives neocortex away from criticality causing beta–gamma oscillations in re-stabilizing ‘neural avalanches’; and that diminished input in slow wave sleep allows return toward criticality but with some added risk of instability and seizure.
+

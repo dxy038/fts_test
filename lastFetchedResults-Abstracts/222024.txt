@@ -1,0 +1,17 @@
+This paper proposes a probabilistic framework
+for spatiotemporal segmentation of video sequences. Motion
+information, boundary information from intensity segmentation,
+and spatial connectivity of segmentation are unified in the video
+segmentation process by means of graphical models. A Bayesian
+network is presented to model interactions among the motion
+vector field, the intensity segmentation field, and the video segmentation
+field. The notion of the Markov random field is used to
+encourage the formation of continuous regions. Given consecutive
+frames, the conditional joint probability density of the three fields
+is maximized in an iterative way. To effectively utilize boundary
+information from the intensity segmentation, distance transformation
+is employed in local objective functions. Experimental results
+show that the method is robust and generates spatiotemporally
+coherent segmentation results. Moreover, the proposed video segmentation
+approach can be viewed as the compromise of previous
+motion based approaches and region merging approaches.

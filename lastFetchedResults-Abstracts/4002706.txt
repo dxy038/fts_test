@@ -1,0 +1,1 @@
+The authors demonstrate bidirectional transmission of a 40 Gbit/s (4&#215;10 Gbit/s) WDM signal over 100 km of dispersion shifted fibre at ITU-T standard wavelengths. The cross-talk penalties induced by Rayleigh back-scattering and four-wave mixing are suppressed by using an arrayed-waveguide grating demultiplexer and channel allocation, respectively

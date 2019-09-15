@@ -1,0 +1,10 @@
+This paper discusses the development of a multivariate control charting technique for short-run autocorrelated
+data manufacturing environment. The proposed approach is a combination of the multivariate residual
+charts for autocorrelated data and the multivariate transformation technique for i.i.d. process observations
+of short lengths. The proposed approach consists in fitting adequate multivariate time-series model of various
+process outputs and computes the residuals, transforming them into standard normal N(0, 1) data and
+then using standardized data as inputs to plot conventional univariate i.i.d. control charts. The objective for
+applying multivariate finite horizon techniques for autocorrelated processes is to allow continuous process
+monitoring, since all process outputs are controlled trough the use of a single control chart with constant
+control limits. Throughout simulated examples, it is shown that the proposed short-run process monitoring
+technique provides approximately similar shifts detection properties as VAR residual charts.

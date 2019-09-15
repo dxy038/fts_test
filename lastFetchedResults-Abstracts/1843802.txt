@@ -1,0 +1,20 @@
+Since the 1990’s, network reliability has been considered as a new index for evaluating transportation networks under uncertainty.
+A large number of studies have been revealed in the literature in this field, which are mostly dedicated to developing relevant
+measures that can be utilized for the evaluation of vulnerable networks under different sources of uncertainty, such as daily traffic
+flow fluctuations, natural disasters, weather conditions, and so fourth. This paper addresses the resource allocation problem in
+vulnerable transportation networks, in which multiple performance reliability measures should be met at their desired levels, while
+the overall cost of upgrading links’ performances should be minimized simultaneously. For this purpose, a new approach has been
+considered to formulate the two well-known performance measures, connectivity and capacity reliability, along with their application
+in a bi-objective nonlinear mixed integer goal programming model. In order to take into account the uncertain conditions of supply,
+links’ capacities have been assumed to be random variables and follow normal distribution functions. A computationally efficient
+method has been developed that allows calculating the network-wise performance indices simply by means of a set of functions of
+links’ performance reliabilities. Using this approach, as the performance reliability of links are themselves functions of the random
+links’ capacities, they can be simply calculated through numerical integration. To achieve desirable levels for both connectivity
+reliability and capacity reliability (as network-wise performance reliability measures) two distinct objectives have been considered.
+One of the objectives seeks to maximize each of the measures regardless of what is happening to the other objective function which
+minimizes the budget. Since optimization models with two conflicting objectives cannot be solved directly, the well-known goal
+attainment multi-objective decision-making (MODM) approach has been adapted to formulate the model as a single objective model.
+Then the resultant single objective model has been solved through the generalized gradient method, which is a straightforward
+solution algorithm coded in existing commercial software such as MATLAB programming software. To show the applicability of the
+proposed model, numerical results are provided for a simple network. Also, to show the sensitiveness of the model to decision maker’s
+direction weights, the results of sensitivity analysis are presented..

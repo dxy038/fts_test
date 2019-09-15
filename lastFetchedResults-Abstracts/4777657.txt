@@ -1,0 +1,1 @@
+We report the use of partial-response maximum likelihood equalizer and offset filtering to enable 20-Gb/s transmission in bandwidth-limited RSOA-based WDM-PON. The system is demonstrated with bidirectional architecture over 20-km fiber using a 1-GHz RSOA.

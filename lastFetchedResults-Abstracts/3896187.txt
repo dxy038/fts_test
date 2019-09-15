@@ -1,0 +1,1 @@
+A new algorithm to obtain the response surface of objective functions is presented. The diffuse-element method and quadtrees are used in the implementation of this algorithm. The approximation of a two-parameter analytical function and the optimization of a switched reluctance motor are performed to show the robustness of this new approach

@@ -1,0 +1,14 @@
+Objective
+The purpose of this study was to test the hypothesis that a ventricular tachycardia (VT) induction site has a shorter action potential duration (APD) and effective refractory period (ERP) than a noninducing site, resulting in collision against longer ERP (“upstream”) as opposed to shorter ERP (“downstream,” no collision).
+Background
+
+Induction of sustained VT is often feasible at one stimulation site while application of an identical pacing protocol to another site fails to provoke VT.
+Methods
+
+Sixty-nine patients undergoing programmed stimulation for VT inducibility had monophasic action potential recording/pacing catheters placed in the right ventricular outflow tract (RVOT) and right ventricular apex (RVA) simultaneously. Up to three extra-stimuli were introduced in 5 to 10 ms decrements until ERP was reached. Upon completion of a drive cycle at one stimulation site, it was repeated at the other.
+Results
+
+Thirty-eight patients had inducible VT, nine exclusively by RVA pacing and nine exclusively by RVOT pacing. Action potential duration and ERP at the induction site were significantly shorter (12 ± 15 ms, p <0.05 and 22 ± 14 ms, p < 0.01, respectively, at 600 ms basic cycle length) than at the noninduction site. Dispersion of repolarization between corresponding APD at the two sites was 58 ± 41 ms during baseline stimulation (S1) at the inducing site but only 37 ± 23 ms at the noninducing site (p < 0.05). Dispersion increased during extra-stimulus application (p < 0.05), reaching a maximum of 75 ± 45 ms during VT induction, but only 53 ± 33 ms during extra-stimulation at the noninduction site.
+Conclusions
+
+Site specificity of VT induction underscores the role of dispersion of repolarization and refractoriness in facilitating re-entry arrhythmias. Upstream stimulation at a site with short repolarization produces larger dispersion and facilitates VT induction.

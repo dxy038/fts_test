@@ -1,0 +1,17 @@
+Background: The level of serum creatinine is important affected parameter in presence of type 2
+diabetes. The choice of type 2 diabetes drug therapy is crucial to control the serum creatinine
+level. The drug treatment effect can only be captured through repeated observations in the
+patients.
+Objective: The aim of this work is to compare the drug treatment effect (i.e. “Metformin plus
+Pioglitazone” and “Gliclazide plus Pioglitazone”) in presences of repeatedly measured missing
+observations to control serum cretinine levels in type 2 diabetes patients.
+Method: The joint longitudinal modeling approach is applied to deal with missing observations.
+The presences of missing observations are assigned with missing at random and not random. The
+Markov chain Monte Carlo (MCMC) is used to carry out the iteration procedure.
+Results: The “Metformin plus Pioglitazone” is found more effective to control serum creatinine
+in comparison to “Gliclazide with Pioglitazone”. The joint longitudinal model with consideration
+of missing assumption proffers enhanced tool for inference on clinical trial data analysis.
+Conclusion: The presence of missing observation is natural in repeated measurement. The
+tendency is to overlook the trial having observation and conclusion with missing observation.
+The elaborated method can be applied in other clinical trial problem to reduce the inconsistency
+due presence of missing observations.

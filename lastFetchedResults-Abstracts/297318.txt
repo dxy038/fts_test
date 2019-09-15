@@ -1,0 +1,14 @@
+Objectives
+The purpose of this study was to examine the feasibility of repeated pulmonary artery (PA) pressure determinations using a newly developed acoustic wireless implanted communication system.
+Background
+
+Congestive heart failure management strategies based on monitored intracardiac hemodynamics in patients receiving the best-available therapy may improve outcome. Although electromagnetic communication requires a large antenna for sufficient energy transfer, acoustic energy readily penetrates deep into the body, uses little energy, and uses small internal transducers for bidirectional operation.
+Methods
+
+A miniature device was developed and implanted using right heart catheterization. The ability to obtain PA pressure from the implant using wireless acoustic communication was examined in 8 pigs and 10 patients with congestive heart failure. Macroscopic and histopathologic examinations were performed at 6 months after implantation. The accuracy of PA pressure measurement was determined by comparison with simultaneous pressures from a Millar catheter.
+Results
+
+The device was successfully implanted in the PA using right heart catheterization. There were no implantation or later device-related complications. Pulmonary artery pressure tracings were repeatedly obtained from all implants. Normal reactions to intravascular implant were observed macroscopically and in histologic sections. Standard deviations of the difference between implant and Millar PA diastolic pressure were 1.45 and 1.2 mm Hg (animals and humans, respectively). Data were useful for patient management.
+Conclusions
+
+This pilot study demonstrates, for the first time, that acoustic wireless communication with a miniature implanted sensor is feasible and provides repeated PA pressure measurement. This feat makes possible multiple novel applications for monitoring and therapeutic interventions based on measurements from deeply implanted devices.

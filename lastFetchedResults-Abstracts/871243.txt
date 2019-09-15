@@ -1,0 +1,7 @@
+In a normed space X, we consider objective functions which depend on the
+distances between a variable point and the points of certain finite sets A. A point
+where such a function attains its minimum on X is generically called an optimal
+location. In this paper we obtain characterizations of inner product spaces with
+properties connecting optimal locations and the convex hull of A or barycenters of
+points of A with well chosen weights. We thus generalize several classical results
+about characterization of inner product spaces

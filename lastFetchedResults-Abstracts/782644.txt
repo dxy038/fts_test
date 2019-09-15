@@ -1,0 +1,11 @@
+The objective of this research was to use non-linear models to describe the growth pattern
+in Santa Inês sheep and to study the influence of environmental effects on curve parameters
+with the best-fit model. The models included the Brody, Richards, Von Bertalanffy,
+Gompertz, and Logistic models. We used 773 field reports on 162 animals ranging in age
+from 120 to 774 days, including 46 males and 116 females. The statistics used to evaluate
+the quality of fit included RMS (residual mean square), C% (percentage of convergence),
+R2 (adjusted determination coefficient) and MAD (mean absolute deviation). Of the fixed
+effects studied, the only significant relationship was the effect of sex on parameter A. The
+Richards model was problematic during the process of convergence. Considering all studied
+criteria, the Logistic model presented the best fit in describing the growth pattern in Santa
+Inês sheep.

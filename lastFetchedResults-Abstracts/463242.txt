@@ -1,0 +1,11 @@
+Background
+Physicians report that they fail to counsel patients about physical activity due to a lack of practical tools, time, reimbursement, knowledge, and confidence. This paper reports concurrent and criterion validation of the Physical Activity Assessment Tool (PAAT), designed to rapidly assess patient physical activity in clinical settings and reduce time for assessment, and thus to facilitate counseling.
+Methods
+
+Adult volunteers (n=68) completed the PAAT and International Physical Activity Questionnaire-Long Form (IPAQ-Long) twice and wore a Manufacturing Technology, Inc. (MTI) accelerometer for 14 days in 2003. Continuous and categorical measures of physical activity by PAAT were compared to MTI accelerometer and IPAQ-Long in analyses conducted in 2003 to 2006. Consistent with national recommendations, participants were classified as active if they accumulated more than 150 minutes per week of moderate to vigorous physical activity (MVPA) or more than 60 minutes per week of vigorous physical activity.
+Results
+
+The PAAT was significantly correlated with the IPAQ (r=0.562, p<0.001) and MTI (r=0.392, p=0.015) for MVPA. Seven-day test–retest reliability was comparable for PAAT (r=0.618, p<0.001) and MTI (r=0.527, p<0.001). PAAT classified participants as “active” or “under-active” concordantly with MTI for 69.8% of participants and with IPAQ for 66.7%; strength of agreement was fair (κ=0.338 and 0.212, respectively). The PAAT classified fewer participants as active than either the MTI (p=0.169) or IPAQ (p<0.001), and measured physical activity more like the direct objective measure (MTI) than did IPAQ.
+Conclusions
+
+The concurrent and criterion validity of the PAAT are comparable to self-report instruments used in epidemiologic research.

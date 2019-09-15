@@ -1,0 +1,22 @@
+We present an effective algorithm for minimization of locally nonconvex Lipschitz functions based on‎
+ ‎mollifier functions approximating the Clarke generalized gradient‎. ‎To this aim‎, ‎first we approximate the Clarke‎
+‎generalized gradient by mollifier subgradients‎. ‎To construct this‎
+‎approximation‎, ‎we use a set of averaged functions gradients‎.
+‎Then‎, ‎we show that the convex hull of this set serves as a good‎
+‎approximation for the Clarke generalized gradient‎. ‎Using this‎
+‎approximation of the Clarke generalized gradient‎, ‎we establish an‎
+‎algorithm for minimization of locally Lipschitz functions‎. ‎Based‎
+‎on mollifier subgradient approximation‎, ‎we propose a dynamic‎
+‎algorithm for finding a direction satisfying the Armijo condition‎
+‎without needing many subgradient evaluations‎. ‎We prove that the‎
+‎search direction procedure terminates after finitely many‎
+‎iterations and show how to reduce the objective function value in‎
+‎the obtained search direction‎. ‎We also prove that the first order‎
+‎optimality conditions are satisfied for any accumulation point of‎
+‎the sequence constructed by the algorithm‎. ‎Finally‎, ‎we implement‎
+‎our algorithm with MATLAB codes and approximate averaged functions‎
+‎gradients by the Monte-Carlo method‎. ‎The numerical results show‎
+‎that our algorithm is effectively more efficient and also more‎
+‎robust than the GS algorithm‎, ‎currently perceived to be a‎
+‎competitive algorithm for minimization of nonconvex Lipschitz‎
+‎functions‎.

@@ -1,0 +1,5 @@
+The question of increasing biofuels production and the development of different biofuels production technologies has become controversial. On the one hand, production of corn-based biofuels creates a ‘food/feed vs. fuel’ tradeoff condition, along with subsequent uncertainties for both consumers and producers (farmers). On the other, advanced biofuels (from, e.g., switchgrass, miscanthus, algae), although acknowledged as environmentally friendly, are not available on a large commercial scale yet.
+
+ition, the limited resource availability for the production of biofuels feedstocks and the question of a sustainable biofuels production are major issues impacting decision making. Most recently, climatic conditions and the 2011–2012 drought in the US have imposed new uncertainties that need to be considered in policy- making processes.
+
+ng a multi-objective optimization model, the paper presents an approach of modeling sustainable biofuels production from conventional and advanced biofuels feedstocks, under the condition of limited resources and uncertainty resulting from incomplete information or missing knowledge about the consequences of possible policy actions.

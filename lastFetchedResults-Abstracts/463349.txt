@@ -1,0 +1,11 @@
+Background
+Previous research suggests that school characteristics may influence physical activity. However, few studies have examined associations between school building and campus characteristics and objective measures of physical activity among middle school students.
+Methods
+
+Students from ten middle schools (n=248, 42% female, mean age 13.7 years) wore TriTrac-R3D accelerometers in 1997 recording measures of minute-by-minute physical movements during the school day that were then averaged over 15-minute intervals (n=16,619) and log-transformed. School characteristics, including school campus area, play area, and building area (per student) were assessed retrospectively in 2004–2005 using land-use parcel data, site visits, ortho-photos, architectural plans, and site maps. In 2006, linear mixed models using SAS PROC MIXED were fit to examine associations between school environmental variables and physical activity, controlling for potentially confounding variables.
+Results
+
+Area per enrolled student ranged from 8.8 to 143.7 m2 for school campuses, from 12.1 to 24.7 m2 for buildings, and from 0.4 to 58.9 m2 for play areas. Play area comprised from 3% to 62% of total campus area across schools. In separate regression models, school campus area per student (β=0.2244, p<0.0001); building area per student (β=2.1302, p<0.02); and play area per student (β=0.347, p<0.0001) were each directly associated with log-TriTrac-R3D vector magnitude. Given the range of area density measures in this sample of schools, this translates into an approximate 20% to 30% increase in average vector magnitude, or walking 2 extra miles over the course of a week.
+Conclusions
+
+Larger school campuses, school buildings, and play areas (per enrolled student) are associated with higher levels of physical activity in middle school students.

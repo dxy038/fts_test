@@ -1,0 +1,9 @@
+The air quality in about 200 urban agglomerations within the European Union (EU) is calculated for a reference year (1995)
+and for the year 2010. Relatively simple, robust tools have been applied which allow for a generalisation of the results on the scale
+of the whole EU. The projected air quality gives information on the frequency and severity of exceedance of air quality objectives
+and on the fraction of EU urban population potentially exposed. The parameter calculated is the urban background concentration,
+which is representative for the concentration in most of the urban area, with the exception of places under direct influence of
+sources, such as streets. Pollutants considered are SO2, NO2, PM10, Pb, O3, CO, and benzene. In 2010 the urban background
+concentrations will decrease strongly in the set of 200 modelled cities. It is projected, however, that the agreed or proposed air
+quality standards will still be exceeded in the future. The most serious problems are exceedances of the short- and long-term
+objectives for PM10 and exceedance of the long-term objective for NO2.

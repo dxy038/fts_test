@@ -1,0 +1,1 @@
+A safety private key management scheme is present in this paper. It uses an online assistant server to cooperates with user device to perform private key operation. And a light-weight bidirectional authentication is used before public key algorithm that can avoid denial of service attack. Our scheme was more suitable for private key operation in frequency.

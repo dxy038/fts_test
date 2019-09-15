@@ -1,0 +1,14 @@
+Background
+Literature reviews examining the relationship between exposure to carbon nanofibers (CNFs) and health consequences are qualitative in nature and do not employ an evidence-based assessment.
+Objective
+
+This research deals with a systematic review, critical appraisal, and meta-analysis designed to examine the potential health effects associated with exposure to CNFs. The utilization of research findings into practice is also explored.
+Methods
+
+Published articles were obtained from a search of electronic databases and bibliographies of identified articles. A critical appraisal was conducted using an ‘Experimental Appraisal Instrument’ developed in this study. The meta-analysis was established using statistical techniques with/without the incorporation of overall study quality. The likelihood of utilizing research findings into practice (i.e., from research to practice) was computed using a four-step algorithm based on the criteria of: strength of association, consistency among studies, temporality, biological gradient, type of experimental unit, type of CNF (single- and multi-wall nanotubes), CNF grade (commercial or altered), exposure dose, exposure duration, and support by analogy from the published literature.
+Results
+
+Twenty-one experimental studies satisfied the inclusion criteria and were performed on human cells, experimental animal models and animal cells as experimental units. The methodological qualities of published studies ranged from ‘very poor’ to ‘excellent’, with ‘overall study description’ scoring ‘good’ and ‘study execution’ equal to ‘moderate’. The random-effects model was applied in the meta-analysis calculations as heterogeneity was significant at the 10% for all outcomes reported. The mean standardized meta-estimates for the experimental groups were significantly lower than those for the control groups for cell viability and cell death, respectively. Incorporating the effect of overall study quality score widened the gap between the experimental and control groups. Assessment of research findings on the basis of the four-step algorithm revealed that the likelihood of the results to occur in practice is ‘somewhat possible’ at this time. That is, if exposure conditions to CNF in the reported studies are similar to those in nano-manufacturing plants, it is somewhat possible that CNFs alter the function of human cells resulting in loss of cell viability and cell death.
+Conclusions
+
+Our findings suggest that it is ‘somewhat possible’ for the CNF to penetrate the human cells in the targeted organs and to cause cellular damage. Although the weight of evidence is not sufficient, it is advisable that actions be taken to ensure the protection of workers exposed to CNFs, that is, (a) engineering controls should be established to contain exposure to CNF, and (b) simultaneously rigorous personnel protective equipment should be planned to further minimize the risk of CNF exposure.

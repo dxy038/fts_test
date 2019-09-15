@@ -1,0 +1,17 @@
+This article has as an objective to analyze the behavior of multivariate, delayed stationary marked
+Cox processes with mutually dependent components about some critical levels. The original problems
+arise in biology, computer engineering, computer networks, software reliability testing, and
+stock market. The process under investigation can describe the evolution of stocks, indexes, cancer
+cells, proliferation of bacteria, inventories, military conflicts, in which the process is being observed
+only restrictively, i.e., at some specified random epochs. Given this (sometimes limited) information,
+it is possible to “predict” the “first passage time” when the process crosses the critical level (or levels)
+and see the main probability characteristics (such as distribution) of the components of the process
+upon the first passage time that occurs at one of the observation times. Among various questions to
+arise, one is how to choose the frequency of observations to provide more accurate information but
+not to “exceed the budget” (a quint essence of reliability analysis). On the other hand, there are ways
+to scrutinize the available information, as to making it analytically more “time sensitive,” without
+any additional efforts, which is one of the primary goals of this investigation. We formalize and provide
+preliminary results for the work to be continued in [J. Math. Anal. Appl. 293 (2004) 14–27]
+(about time sensitive functionals) and give closed-form expressions. Many examples from science
+and technology are presented.
+ 2004 Elsevier Inc. All rights reserved.

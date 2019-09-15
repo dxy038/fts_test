@@ -1,0 +1,30 @@
+Abstract
+Introduction: In present times health care organizations gather patients' information electronically
+and on paper documents. The physical possession of the medical records is with the hospital but
+the patient is the logical possessor of the information in the record so any access to the record
+requires the patient's permission. The objective of this study was to identify the indicators of
+confidentiality in the hospitals, ShohadayeLenjan in Zarinashahr and Mohammad Rasoul Allah in
+Mobarake in Esfahan province.
+Methods: This practical research was a qualitative study. Research community was the two
+largest hospitals in Isfahan province, Mohammad Rasoul Allah in Mobarake and
+ShohadayeLanjan in ZarinShahr in 2013. A valid and universal checklist published by British
+Columbia Medical Association has been chosen as the data collecting process which contains 25
+items in 6 domains. The validity of checklist approved by related professors, after translating and
+performing corrections. The required data was collected through interview and observation by the
+researchers. The required data was extracted, analyzed and compared.
+Results: Principles of confidentiality related to printing, transfer, storage and revelation of the
+patients' information in the records were on the whole followed by both the hospitals. Policies
+related to confidentiality indicators in employees' domain were weak. In the studied hospitals
+there weren’t any notifications based on awareness of the patient towards him/her privacy and
+ways to access his/her information. Considering their work domain, the CIO (Chief Information
+Officer) and supervisors of the hospital, define users’ level of access and allocate an
+authenticated account in which they can change their password. None of the hospitals used
+technical processes’ and controls. In both the hospitals in order to ensure security in local
+network and preventing entrance of unauthenticated individuals the absence of suitable controls
+were visible.
+Conclusion: Considering the importance of implementing confidentiality indicators in relationship
+with patients' information, it's necessary to apply new procedures and processes in both the
+hospitals. The two hospitals assessed in this study had strengths and weaknesses. Therefor
+considering the important points related to ensuring security and confidentiality of patients'
+information is necessary.
+Keywords: Confidentiality, Security, Hospital Information Systems

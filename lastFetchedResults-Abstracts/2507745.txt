@@ -1,0 +1,21 @@
+Background: The electrocardiogram artifact is a major contamination in the elec
+tromyogram signals when electromyogram signal is recorded from upper trunk mus
+cles and because of that the contaminated electromyogram is not useful.
+Objective: Removing electrocardiogram contamination from electromyogram
+signals.
+Methods: In this paper, the clean electromyogram signal, electrocardiogram artifact
+and electrocardiogram signal were recorded from leg muscles, the pectoralis major
+muscle of the left side and V4, respectively. After the pre-processing, contaminated
+electromyogram signal is simulated with a combination of clean electromyogram and
+electrocardiogram artifact. Then, contaminated electromyogram is cleaned using adap
+tive subtraction method. This method contains some steps; (1) QRS detection, (2) for
+mation of electrocardiogram template by averaging the electrocardiogram complexes,
+(3) using low pass flter to remove undesirable artifacts, (4) subtraction.
+Results: Performance of our method is evaluated using qualitative criteria, power
+spectrum density and coherence and quantitative criteria signal to noise ratio, relative
+error and cross correlation. The result of signal to noise ratio, relative error and cross
+correlation is equal to 10.493, 0.04 and %97 respectively. Finally, there is a compari
+son between proposed method and some existing methods.
+Conclusion: The result indicates that adaptive subtraction method is somewhat
+effective to remove electrocardiogram artifact from contaminated electromyogram
+signal and has an acceptable result.

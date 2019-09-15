@@ -1,0 +1,17 @@
+Background: Therapeutic and diagnosis properties of radioactive gold nanoparticle
+(198-AuNPs) cause them to be suitable for detection and treatment of tumors.
+Objective: Electrical and optical properties of PEG-198AuNPs were examined
+in this paper. Polyethylene Glycol (PEG)-198 AuNPs can be used for treatment and
+diagnosis of small intestine tumors.
+Methods: Wireless ?uorescence capsule endoscopy will be able to detect emission
+lights of triggered Au by external light. First, the output electrical feld was calculated
+by DDSCAT software. Secondly, tumor and distribution of PEG-198 gold nanoparticles
+were modeled using Monte Carlo simulation and fnally dose delivered throughout a
+solid tumor when the PEG-198 gold nanoparticles linked to each cell was calculated.
+Results: Polyethylene Glycol functionalized gold nanoparticles (AuNPs) possess
+optimized sizes (30 nm core diameter and 70 nm hydrodynamic diameters) to target
+individual tumor cells. Surface distribution to receive doses of up to 50Gy was simu
+lated. Activities and absorbed doses by the tumors with 0.25cm and 0.5cm radius were
+187.9mCi and 300mCi and 72 and 118 Gy,respectively.
+Conclusion: Therapeutic and diagnosis properties of 198-AuNPs show that it can
+be used for treatment and detection of small bowel tumors in early stage of growing.

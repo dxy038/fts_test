@@ -1,0 +1,16 @@
+The objective of the current investigation is to develop a simple\ yet generalized\ model which considers
+the two!dimensional extent of woven fabric\ and to have an interface with nonlinear _nite element codes[ A
+micromechanical composite material model for woven fabric with nonlinear stress!strain relations is
+developed and implemented in ABAQUS for nonlinear _nite element structural analysis[ Within the model
+a representative volume cell is assumed[ Using the iso!stress and iso!strain assumptions the constitutive
+equations are averaged along the thickness direction[ The cell is then divided into many subcells and an
+averaging is performed again by assuming uniform stress distribution in each subcell to obtain the e}ective
+stress strain relations of the subcell[ The stresses and strains within the subcells are combined to yield the
+e}ective stresses and strains in the representative cell[ Then this information is passed to the _nite element
+code at each material point of the shell element[ In this manner structural analysis of woven composites can
+be performed[ Also\ at each load increment global stresses and strains are communicated to the representative
+cell and subsequently distributed to each subcell[ Once stresses and strains are associated to a subcell they
+can be distributed to each constituent of the subcell i[e[ _ll\ warp\ and resin[ Consequently micro!failure
+criteria "MFC# can be de_ned for each constituent of a subcell and the proper sti}ness degradation can be
+modeled if desired[ This material model is suitable for implicit and could be modi_ed for explicit _nite
+element codes to deal with problems such as crashworthiness\ impact\ and failure analysis under static loads

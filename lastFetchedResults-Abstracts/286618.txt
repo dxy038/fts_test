@@ -1,0 +1,7 @@
+PURPOSE:  The study assesses the completeness of tuberculosis disease (TB) reporting in Wisconsin and evaluates the usefulness of laboratory and hospital discharge data as supplemental case ascertainment sources.
+
+METHODS: All 1995 hospital billing records with a discharge diagnosis code of TB (ICD-9 CM 010–018) were retrieved and matched to Wisconsin TB registry records. A hospital discharge summary was obtained for persons not in the registry to verify the TB diagnosis. A list of persons with specimens from which Mycobacterium tuberculosis was isolated in 1995 was requested from all Wisconsin and pertinent out-of-state laboratories and compared with the TB registry.
+
+RESULTS: Of the 88 TB cases identified from laboratory lists, one (1.1%) was unreported. Of the 51 TB cases identified from hospital discharge records, one (2.0%) was unreported. The positive predictive values of laboratory and hospital discharge data for a verified TB case were 98.9% and 38.3%, respectively.
+
+CONCLUSIONS: In Wisconsin during 1995, nearly all TB cases among hospitalized persons or persons from whom M. tuberculosis was isolated were reported. Most persons having a TB diagnosis code did not have TB.

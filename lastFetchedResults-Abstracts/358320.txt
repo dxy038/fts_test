@@ -1,0 +1,11 @@
+Background
+It remains unclear whether socioeconomic status (SES) influences access to invasive cardiac procedures after acute myocardial infarction (AMI) in a universal health care system. The objective of this study was to evaluate the effect of SES on access to cardiac procedure after AMI in a universal health care system.
+Methods
+
+This was an observational cohort study of all patients with a first AMI in the province of Quebec, Canada, between 1985 to 1995. Information on treatment was obtained from the discharge and physicians' claims databases. SES was obtained from census data by linking postal codes. SES-independent predictors of use were identified, then incorporated in hierarchical models to predict use in low, medium, and high SES areas. The main outcome measures were rates of cardiac catheterization, percutaneous coronary intervention (PCI), and coronary artery bypass graft surgery (CABG) as a function of SES.
+Results
+
+SES data were available for 62,364 individuals with a first AMI. Of these, 65% were men and the mean age was 64 ± 13 years. Rates of cardiac procedures rose with an increase in several SES measures. After adjustment for individual-level predictors of use of cardiac catheterization, average rent, (odds ratio per $100 difference: 1.57, 95% credible interval: 1.36 to 1.80) and proportion of renters, (odds ratio, 2.2; 95% CI: 1.21 to 3.73) in the area were independent SES predictors. Patients in low SES areas (median family income: $ 30,809 CDN) were less likely to undergo cardiac catheterization than patients in high SES areas ($92,169 CDN) (men: 33%; compared with 47%; women: 18%; compared with 47%). However, among patients with cardiac catheterization, SES was not associated with the use of revascularization procedures. For example, PCI rates for men within 90 days after AMI were 26%, compared with 25% in low and high SES areas, respectively. CABG rates were 15%, compared with 19%.
+Conclusions
+
+We found that in the universal health care system of Canada, access to cardiac catheterization after AMI varied according to SES. Among those with cardiac catheterization, SES did not appear to influence further use of revascularization procedures.

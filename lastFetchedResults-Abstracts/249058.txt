@@ -1,0 +1,18 @@
+Several modelling methods have recently been developed for the dynamic analysis of low-speed tracked
+vehicles. These methods were used to demonstrate the signi cant e ect of the force of the interaction be-
+tween the track links and vehicle components, even when low speeds are considered. It is the objective of
+this investigation to develop compliant track link models and investigate the use of these models in the dy-
+namic analysis of high-speed, high-mobility tracked vehicles. There are two major di culties encountered in
+developing the compliant track models discussed in this paper. The  rst is due to the fact that the integration
+step size must be kept small in order to maintain the numerical stability of the solution. This solution includes
+high oscillatory signals resulting from the impulsive contact forces and the use of sti  compliant elements
+to represent the joints between the track links. The characteristics of the compliant elements used in this
+investigation to describe the track joints are measured experimentally. A numerical integration method having
+a relatively large stability region is employed in order to maintain the solution accuracy, and a variable step
+size integration algorithm is used in order to improve the e ciency. The second di culty encountered in this
+investigation is due to the large number of the system equations of motion of the three-dimensional multibody
+tracked vehicle model. The dimensionality problem is solved by decoupling the equations of motion of the
+chassis subsystem and the track subsystems. Recursive methods are used to obtain a minimum set of equations
+for the chassis subsystem. Several simulations scenarios including an accelerated motion, high-speed motion,
+braking, and turning motion of the high-mobility vehicle are tested in order to demonstrate the e ectiveness
+and validity of the methods proposed in this investigation

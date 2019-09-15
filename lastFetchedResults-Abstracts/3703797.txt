@@ -1,0 +1,1 @@
+A fast inter mode decision approach for H.264 coding standard is presented. The objective is to reduce the number of candidate block types in motion estimation. Experimental results show that the proposed method can efficiently save the computation cost for inter mode decision while maintaining the same PSNR and bit rate.

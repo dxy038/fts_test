@@ -1,0 +1,1 @@
+We demonstrate a bidirectional wavelength-division-multiplexing (WDM) self-healing passive optical network (PON), which can provide 1+1 protection capability. In this network, self-healing can be achieved within 8 ms against any fiber cut of the feeder fiber and the distribution fiber.

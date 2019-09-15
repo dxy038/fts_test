@@ -1,0 +1,1 @@
+We implemented a bidirectional erbium-doped fiber amplifier (EDFA) using two spectrally interleaved synchronized etalon filters. This amplifier was used to demonstrate 2.5 Gbit/s/spl times/16-channel bidirectional wavelength-division multiplexed transmission over re-circulating loop.

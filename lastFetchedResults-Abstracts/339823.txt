@@ -1,0 +1,11 @@
+Objective
+Interaction of nitric oxide (NO) with enzymatic sources of reactive species exerts modulatory actions on inflammatory signaling mechanisms.
+Materials and Methods
+
+NADPH oxidase, total peroxidase, cyclooxygenase (COX) activity, and NO consumption were measured in neutrophils isolated from sickle cell disease (SCD) patients and healthy controls. Glutathione (GSH) levels and expression of inducible NO synthase (NOS-2) were also analyzed to assess intracellular redox state and NO production, respectively.
+Results
+
+Functional assay of NADPH oxidase was performed by measuring superoxide release, which was similar in control and SCD, both at basal conditions and in response to N-formyl-methionyl-leucyl-phenylalanine stimulation. Peroxidase activity, assessed spectrophotometrically, was not significantly different in SCD neutrophils compared to controls. Total COX activity, measured via an assay kit, was significantly increased in SCD neutrophils. The increase in total COX activity observed in SCD was due to enhanced activity of COX-2, differentiated by using the isoform-specific inhibitors DuP-697 and SC-560. Western blot analysis of COX-2 protein in SCD and control neutrophils confirmed increased enzyme activity in the diseased group. Western blot analysis of neutrophil lysates from SCD patients showed significantly increased NOS-2 protein content, compared to controls. Spectrophotometric measurement of GSH and nitrate/nitrite levels showed a decrease in GSH and an increase in nitrate/nitrite content in SCD neutrophils. Electrochemical measurement of NO consumption both under basal conditions and after N-formyl-methionyl-leucyl-phenylalanine stimulation revealed a significant decrease in SCD neutrophils compared to controls.
+Conclusions
+
+Depletion of GSH in SCD neutrophils may impact on rates of NO consumption and reflects increased oxidative stress associated with neutrophil activation.

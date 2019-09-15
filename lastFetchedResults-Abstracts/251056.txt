@@ -1,0 +1,24 @@
+The primary objective of this work is to extend the capability of the arbitrary Lagrangian–Eulerian (ALE)-
+based strategy for solving fluid–structure interaction problems. This is driven by the fact that the ALE
+mesh movement techniques will not be able to treat problems in which fluid–structure interface experiences
+large motion. In addition, for certain problems the need arises to capture accurately flow features, such as
+a region with high gradients of the solution variables. This can be achieved by incorporating an adaptive
+remeshing procedure into the solution strategy.
+As in our previous works (Comput. Methods Appl. Mech. Eng. 2006; 195:1633–1666; Comput. Methods
+Appl. Mech. Eng. 2006; 195:5754–5779), here, the fluid flow is governed by the incompressible Navier–
+Stokes equations and modelled by using stabilized low order velocity–pressure finite elements. The motion
+of the fluid domain is accounted for by an arbitrary Lagrangian–Eulerian (ALE) strategy. The flexible
+structure is represented by means of appropriate standard finite element formulations while the motion of
+the rigid body is described by rigid body dynamics. For temporal discretization of both fluid and solid
+bodies, the discrete implicit generalized-  method is employed. The resulting strongly coupled set of
+non-linear equations is then solved by means of a novel partitioned solution procedure, which is based on
+the Newton–Raphson methodology and incorporates full linearization of the overall incremental problem.
+Within the adaptive solution strategy, the quality of fluid mesh and the solution quality indicator are
+evaluated regularly and compared against the appropriate remeshing criteria to decide whether a remeshing
+step is required. The adaptive remeshing procedure follows closely the standard computational procedure
+in which the adaptive remeshing process produces a mesh that can capture salient features of the flow
+field. For the problems under consideration in this work the motion of the fluid boundary very often results
+in boundaries with very high curvatures and a fluid domain that contain areas with small cross-sections.
+To be able to generate meshes that give result with acceptable accuracy these local geometrical features
+need to be included in determining the element density distribution. The numerical examples demonstrate
+the robustness and efficiency of the methodology. Copyright q 2007 John Wiley & Sons, Ltd

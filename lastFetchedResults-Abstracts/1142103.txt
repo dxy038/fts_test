@@ -1,0 +1,11 @@
+Ways of removing the adhered surface oil, while the product is still in the fryer, has been the subject of many studies and patents for deep-fat frying processes. In the case of vacuum frying, this problem is exacerbated by the pressurization step, which causes a quick increase in pressure in the pore space thus forcing most of the surface oil into the product pore spaces. Therefore, for vacuum frying, a de-oiling mechanism is required to reduce the excessive oil absorption at the surface of the product. The main objective of this study was to establish the effect of de-oiling and frying temperature on potato chips quality attributes and oil absorption.
+
+Potato slices (30 g, 1.6 mm thick, 5 cm diameter) were fried for 360 s in a lab-scale vacuum fryer (P < 1.33 kPa (10 Torr); 8 L of fresh oil) at 120, 130, and 140 °C. A centrifuging system (750 rpm (63g units) for 40 s) was used before pressurizing the vessel and its effect on the final oil content (FOC) and product quality attributes were evaluated using standard methods.
+
+Samples fried at 120 °C for 360 s (non-centrifuged) had a final oil content of 0.43 g/g product compared to 0.097 g/g product for the centrifuged ones. Most of the oil was absorbed in the product during first 180 s of frying; and by the end of frying only 14% of the total oil content (TOC) was internal oil (IOC) while 86% was surface oil (SOC). About 34% of the IOC and only 0.7% of the SOC was absorbed during the first 20 s of frying.
+
+Oil content absorption kinetics increased exponentially during the first 120 s of frying followed by a slight drop until the end of frying. At the end of frying, bulk density and porosity values of the non-centrifuged samples were around 800 kg/m3 and 0.36 and 564 kg/m3 and 0.61 for the centrifuged samples, respectively. No significant changes (P < 0.05) were observed in moisture loss, shrinkage, color, and texture for the two treatments.
+
+Experimental data for color and oil distribution with temperature can be accurately predicted using a special case of the logistic model. The kinetics of oil distribution and porosity with temperature can be described using the fractional conversion exponential model.
+
+Vacuum frying with a de-oiling step produces superior quality fried products with lower oil content.

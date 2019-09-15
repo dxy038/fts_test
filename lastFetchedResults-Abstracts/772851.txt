@@ -1,0 +1,8 @@
+We develop the perturbation theory for propagators, with the objective to prove Gaussian bounds. Let U
+be a strongly continuous propagator, i.e., a family of operators describing the solutions of a non-autonomous
+evolution equation, on an Lp-space, and assume that U is positive and satisfies Gaussian upper and lower
+bounds. Let V be a (time-dependent) potential satisfying certain Miyadera conditions with respect to U.
+We show that then the perturbed propagator enjoys Gaussian upper and lower bounds as well. To prepare
+the necessary tools, we extend the perturbation theory of strongly continuous propagators and the theory of
+absorption propagators.
+© 2006 Elsevier Inc. All rights reserved.

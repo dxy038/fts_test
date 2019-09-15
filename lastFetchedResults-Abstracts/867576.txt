@@ -1,0 +1,9 @@
+Deteriorating jobs scheduling has received increasing attention in recent years. However, most
+researchers focused on regular criteria such as the makespan, and the total (weighted) completion time.
+However, in many real-life situations, early completion of a job is equally undesirable as its late
+completion. In such cases, minimizing the quadratic function of job lateness may be an appropriate
+objective for the decision makers. Therefore, this paper addresses a single-machine problem where
+the objective is to minimize the sum of squares of job lateness under the simple linear deterioration
+assumption. A branch-and-bound algorithm and two heuristic algorithms are provided to search for
+the optimal solution and the near-optimal solutions, respectively. Computational results are presented
+to evaluate the performance of the proposed algorithms.

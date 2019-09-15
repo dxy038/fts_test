@@ -1,0 +1,5 @@
+The objective of this work was to determine if the Kachanov one-state variable continuum damage mechanics technique and the MPC omega method could accurately model SA 455 steel’s high-temperature creep behaviour.
+
+eps required for extracting needed material constants from the creep rupture experimental data were presented. Uniaxial finite element analyses were performed using the material constants found for each of the two creep damage techniques. The results of the analyses were carefully compared with the experimental data to show that both CDM and MPC Omega techniques can accurately predict SA 455 steel’s high-temperature creep behaviour. Analyses were performed using commercial finite element analysis computer codes, ABAQUS and ANSYS.
+
+ found that both creep damage techniques were able to accurately predict failure time but that the MPC Omega method was more accurate at predicting creep failure strain.

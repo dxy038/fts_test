@@ -1,0 +1,9 @@
+An inverse homogenization problem for two-phase viscoelastic composites is formulated as a topology
+optimization problem. The eective complex moduli are estimated by the numerical homogenization using the ®nite
+element method. Sensitivity analysis shows that the sensitivity calculations do not require the solution of any adjoint
+problem. The objective function is de®ned so that the topology optimization problem ®nds microstructures of
+viscoelastic composites which exhibit improved stiness/damping characteristics within the speci®ed operating
+frequency range. Design constraints include volume fraction, eective complex moduli, geometric symmetry and
+material symmetry. Several numerical design examples are presented with discussions on the nature of the designed
+microstructures. From the designed microstructures, it is found that mechanism-like structures and wavy structures
+are formed to maximize damping while retaining stiness at the desired level.

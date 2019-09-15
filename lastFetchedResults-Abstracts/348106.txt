@@ -1,0 +1,11 @@
+Objective
+Delayed cerebral ischemia (DCI) due to vasospasm is often undetected by clinical exam in patients with poor-grade subarachnoid hemorrhage (SAH). The purpose of this study was to identify quantitative EEG (qEEG) parameters that are most sensitive and specific for the detection of DCI in stuporous or comatose SAH patients.
+Methods
+Of 78 consecutive Hunt–Hess grade 4 or 5 SAH patients admitted to our Neuro-ICU over a 2-year period, 48 were eligible for participation and 34 were enrolled. Continuous EEG monitoring was performed from post-operative day 2 to post-SAH day 14. In each patient, 20 artifact-free, 1 min EEG-clips following an alerting stimulus were analyzed: 10 clips were obtained on monitoring day 1 (baseline), and 10 on days 4–6 (follow-up). In DCI patients, follow-up clips were obtained after the onset of deterioration and before infarction had occurred. Twelve qEEG parameters were calculated using fast Fourier transformation; generalized estimating equations were used to compare ratios of change in qEEG parameters in patients with and without DCI.
+Results
+Nine of 34 patients (26%) developed DCI. The alpha/delta ratio (alpha power/delta power; ADR) demonstrated the strongest association with DCI. The median decrease of ADR for patients with DCI was 24%, compared to an increase of 3% for patients without DCI (Z=4.0, P<0.0001). Clinically useful cut-offs included 6 consecutive recordings with a >10% decrease in ADR from baseline (sensitivity 100%, specificity 76%) and any single measurement with a >50% decrease (sensitivity 89%, specificity 84%).
+Conclusions
+A decrease in the ADR may be a sensitive method of detecting DCI, with reasonable specificity. This post-stimulation qEEG parameter may supplement the clinical exam in poor-grade SAH patients and may prove useful for the detection of DCI.
+Significance
+Following ADRs may allow earlier detection of DCI and initiation of interventions at a reversible stage, thus preventing infarction and neurological morbidity
+

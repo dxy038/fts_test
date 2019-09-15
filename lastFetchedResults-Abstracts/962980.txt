@@ -1,0 +1,8 @@
+
+BACKGROUND AND OBJECTIVE: Today only three-dimensional dosimetry is used by polymer gel that it is sensitive to beam and in the recent decade it has been paid attention very much. The aim of this study was to evaluate the absorbed dose enhancement with the application of conformal distribution of gold nanoparticles as a contrast agent with high atomic number material in MAGICA polymer gel. 
+METHODS: In this experimental and modeling study, polymer gel dosimeter MAGICA was used for measuring absorbed dose enhancement by adding gold nanoparticles that irradiated with x-rays with energies of 18 MV linear accelerator. Reading of dose done with MRI, then it was simulated using MCNPX code and the results were compared with experimental results.
+FINDINGS: MAGICA polymer gel dose response at the dose ranges of 0 to 600 cGy was linear and dose resolution in less than 300 cGy dose level was less than 0.7 Gy. Absorbed dose enhancement factor by adding 0.1, 0.2 and 0.4 mM gold nanoparticles concentration was 10%, 2% and 4%, respectively, also the absorbed dose enhancement factor simulated by MCNPX code for 0.1, 0.2 and 0.4 mM gold nanoparticle concentration was 10%, 2% and 3%, respectively.
+CONCLUSION: The results of this study showed that for achieving maximum dose enhancement, the optimum concentration of gold nanoparticle was 0.1mM in modeling and experimental study that can be used for doing clinical study. 
+
+KEY WORDS: Dosimetry, Polymer gel dosimeter, Contrast agent material, Gold nanoparticles.
+

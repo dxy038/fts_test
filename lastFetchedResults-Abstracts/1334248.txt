@@ -1,0 +1,18 @@
+Objective: To identify medical coding software requirements.
+Design: To identify medical coding software requirements, 15 medical coding software products
+used in Iran and 6 medical coding software products used in other countries, were surveyed.
+Based on a literature review, a checklist containing general and specific features of
+medical coding software was developed.
+Measurement: The criteria used for this comparison are as follows: operating system type;
+connected to other departments or stand alone; and general and specific requirements of
+medical coding software.
+Results: DOS and Windows operating systems were used in 4_(29%) and 11_(71%) software
+products, respectively. Just 3 software products were networked products, the others being
+stand alone. Flexibility and improvement were 42.8% and 41%, respectively. Numerical and
+alphabetic lists of diseases and surgeries enjoyed the highest and the lowest frequency with
+93.3% and 6.6%, respectively. In general, there are lots of weaknesses in medical coding
+software products in Iran.
+Conclusion: Some specific features should be included in medical coding software, such as:
+flexibility; user-friendliness; back up ability; satisfaction of health care needs; software support,
+data recovery: data sharing; parallel searching; data security, integrity, validity, and
+accessibility; databank coding; death information recording; and researcher identification

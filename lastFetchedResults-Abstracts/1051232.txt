@@ -1,0 +1,9 @@
+Background and Objective: The hospitalization length of admitted patients is very important for the management of hospitals. Due to the significance of this subject and few similar researches in this area, the current study has been done to model the number of days of stay for cerebrovascular accident (CVA) patients in Sabzevar Vaseyee hospital and to determine its relation with independent variables.
+
+Materials and Methods: The current study was designed on modeling the number of stay days for CVA patients in Sabzevar Vaseyee hospital in 2012. By using random sampling, 179 persons were selected and the value of the length of stay as the response variable and the value of gender, age and residence location of these patients as the independent variables were considered and count regression models and SAS9.2 software were used to analyze the gathered data.
+
+Results: The obtained results of this study showed that the average of stay length for CVA patients is 5.13±2.67 (mean±standard deviation) in Vaseyee hospital. Also, the finding of the regression models used in this study presented that the length of stay of patients increases one day on the average for a one-year increase in patient’s age. Moreover, the relations between gender and residence location variables with length of stay variable were obtained.
+
+Conclusion: Due to the significance of the stay length of patients and because of its different values in different units and hospitals, the application of these advanced statistical models is also proposed in other hospitals and cities.
+
+

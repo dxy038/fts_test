@@ -1,0 +1,8 @@
+SummaryObjective
+s paper, electroencephalogram (EEG) signals of 20 schizophrenic patients and 20 age-matched control participants are analyzed with the objective of classifying the two groups.
+als and methods
+ch case, 20 channels of EEG are recorded. Several features including Shannon entropy, spectral entropy, approximate entropy, Lempel–Ziv complexity and Higuchi fractal dimension are extracted from EEG signals. Leave-one (participant)-out cross-validation is used for reliable estimate of the separability of the two groups. The training set is used for training the two classifiers, namely, linear discriminant analysis (LDA) and adaptive boosting (Adaboost). Each classifier is assessed using the test dataset.
+s
+sification accuracy of 86% and 90% is obtained by LDA and Adaboost respectively. For further improvement, genetic programming is employed to select the best features and remove the redundant ones. Applying the two classifiers to the reduced feature set, a classification accuracy of 89% and 91% is obtained by LDA and Adaboost respectively. The proposed technique is compared and contrasted with a recently reported method and it is demonstrated that a considerably enhanced performance is achieved.
+sion
+tudy shows that EEG signals can be a useful tool for discrimination of the schizophrenic and control participants. It is suggested that this analysis can be a complementary tool to help psychiatrists diagnosing schizophrenic patients.

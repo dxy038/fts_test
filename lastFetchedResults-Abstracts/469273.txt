@@ -1,0 +1,9 @@
+Objective
+We used the Danish National Birth Cohort to estimate the effect of shift work on the duration of pregnancy and birth weight.
+Study design
+In the Danish National Birth Cohort (1998-2001), we identified women (and their singleton births): 32465 women with daytime work, 1038 women with fixed evening work, 400 women with fixed night work, 3137 women with rotating shift work (without night), and 3197 women with rotating shift work (with night) during pregnancy (first and second trimester). Birth outcomes were collected by linkage to the Central Population Register, the National Patient Register, and the National Birth Register. Gestational age at birth and birth weight were analyzed by means of general linear regression and logistic regression.
+Results
+Mean gestational age at birth and birth weight at term for daytime work were 281 days and 3616 g, although 281 days and 3586 to 3626 g for shift work. There were no statistically significant differences in gestational age at birth or birth weight at term between any types of shift work and daytime work. Fixed night work had a high risk of postterm birth (odds ratio, 1.35; 95% CI, 1.01-1.79); fixed evening work had a high risk of full-term low birth weight (odds ratio, 1.80; 95% CI, 1.10-2.94); and shift work as a group showed a slight excess of small-for-gestational-age babies (odds ratio, 1.09; 95% CI, 1.00-1.18). The risk of postterm birth was modified by maternal occupation. Industrial workers with fixed night work had a high risk of postterm birth.
+Conclusion
+Our results suggest that shift work during pregnancy had limited effects on indicators of fetal growth. Night work may prolong the duration of pregnancy and reduce fetal growth, especially among industrial workers
+

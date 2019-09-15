@@ -1,0 +1,19 @@
+The objective of the beamforming with the exploitation
+of a sensor array is to enhance the signals of the sources
+from desired directions, suppress the noises and the interfering
+signals from other directions, and/or simultaneously provide the
+localization of the associated sources. In this paper, we present a
+higher order cumulant-based beamforming algorithm, namely,
+the super-exponential blind adaptive beamforming algorithm,
+which is extended from the super-exponential algorithm (SEA)
+and the inverse filter criteria (IFC). While both SEA and IFC
+assume noise-free conditions, this requirement is no longer
+needed, and all the noise components are taken into account in
+the proposed algorithm. Two special conditions are derived under
+which the proposed blind beamforming algorithm achieves the
+performance of the corresponding optimal nonblind beamformer
+in the sense of minimum mean square error (MMSE). Simulation
+results show that the proposed algorithm is effective and robust to
+diverse initial weight vectors; its performance with the use of the
+fourth-order cumulants is close to that of the nonblind optimal
+MMSE beamformer.

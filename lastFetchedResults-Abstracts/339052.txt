@@ -1,0 +1,11 @@
+Objective
+Darbepoetin alfa, a novel erythropoiesis-stimulating protein, is a glycosylation analog of recombinant human erythropoietin (rHuEPO) with two additional N-linked carbohydrates. Used to treat anemia of cancer, chemotherapy, and kidney disease, it has a three-fold longer serum half-life and increased in vivo activity, but decreased receptor-binding activity. Glycosylation analogs with altered N-linked carbohydrate content were compared with rHuEPO to elucidate the relationship between carbohydrate content and activity.
+Methods
+
+EPO glycosylation analogs and rHuEPO were expressed and, in some cases, purified from Chinese hamster ovary cells and carbohydrate characterized by Western blotting. Assays were performed to compare in vitro receptor binding and in vivo activity of rHuEPO, darbepoetin alfa, and analogs.
+Results
+
+Reduced receptor binding of darbepoetin alfa could be accounted for entirely by increased sialic acid content and not by carbohydrate-related stearic hindrance or by amino acid differences. Shapes of dose-response curves, maximal responses in proliferation and colony assays, and magnitude and duration of downstream signaling events were comparable in vitro for rHuEPO and darbepoetin alfa. The in vivo response correlated with the number of N-linked carbohydrates. The number of carbohydrates was a more significant determinant for in vivo activity than position. The differences in in vivo erythropoietic activity among glycosylation analogs were more evident with increased time following administration in exhypoxic polycythemic mice.
+Conclusion
+
+Carbohydrate increases persistence of EPO, resulting in a prolonged and increased biological response in vivo, and overcoming reduced receptor-binding activity.

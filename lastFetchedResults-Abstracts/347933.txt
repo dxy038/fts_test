@@ -1,0 +1,6 @@
+Objective: To determine a preferred wavelet transform (WT) procedure for multi-resolution analysis (MRA) of auditory evoked potentials (AEP).
+Methods: A number of WT algorithms, mother wavelets, and pre-processing techniques were examined by way of critical theoretical discussion followed by experimental testing of key points using real and simulated auditory brain-stem response (ABR) waveforms. Conclusions from these examinations were then tested on a normative ABR dataset.
+Results: The results of the various experiments are reported in detail.
+Conclusions: Optimal AEP WT MRA is most likely to occur when an over-sampled discrete wavelet transformation (DWT) is used, utilising a smooth (regularity ≥3) and symmetrical (linear phase) mother wavelet, and a reflection boundary extension policy.
+Significance: This study demonstrates the practical importance of, and explains how to minimize potential artefacts due to, 4 inter-related issues relevant to AEP WT MRA, namely shift variance, phase distortion, reconstruction smoothness, and boundary artefacts.
+

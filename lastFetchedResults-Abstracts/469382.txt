@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to determine the ability of intrapartum electronic fetal heart rate monitoring (EFM) plus fetal electrocardiogram (ECG) ST segment automated ANalysis (STAN, Neoventa Medical, Göteborg, Sweden) monitoring to predict metabolic acidemia (defined as an umbilical cord artery pH < 7.15 and base deficit ≥ 12 mmol/L) at birth.
+Study design
+Women with singleton, term pregnancies who had a clinical indication for internal EFM with a fetal scalp electrode were included in the study. Attending physicians were blinded to the ST analysis information, only using available EFM as per current clinical practice. After delivery, 2 trained observers blinded to neonatal outcome and ST analysis information performed visual classification of the EFM tracing in 10-minute epochs according to FIGO guidelines. ST events automatically detected by the STAN S21 monitor (Neoventa Medical) were combined with the visual EFM classification as per STAN clinical guidelines (Neoventa Medical).
+Results
+When applying STAN clinical guidelines from a sample of 143 women, our data indicated a sensitivity of 43%, specificity of 74%, negative predictive value of 96%, and a positive predictive value of 8% for metabolic acidemia at birth. Poor ECG quality, despite good EFM tracings (ECG signal loss), occurred 11% of the tracing time.
+Conclusion
+The STAN clinical guidelines have a poor positive predictive value and a sensitivity of less than 50% for metabolic acidemia at birth.
+

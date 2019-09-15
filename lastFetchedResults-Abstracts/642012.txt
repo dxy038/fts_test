@@ -1,0 +1,9 @@
+Objective
+Quantification of internal adipose tissue such as visceral adipose tissue currently relies on expensive, cross-sectional imaging modalities. The purpose of this study was to test the hypothesis that surface impedance, determined by bioimpedance analysis, might be used to predict regional internal fat content change in a phantom model.
+Methods
+Fresh hollowed-out cucumbers were used as cylindrical biological phantoms to test this hypothesis. After removal of the seeds, the cucumbers were filled with normal saline, mixture of saline and corn oil, or porcine adipose tissue bathed in saline. Surface resistance and reactance were measured with a bioimpedance analyzer accurate to 0.1 Ω (Quantum 10X, RJL Systems), and impedance was calculated. A linear regression model was used to interpret the association between composition and impedance.
+Results
+Surface impedance varied linearly with changes in the relative internal corn oil portions (r– = 0.98). A similar relation was noted with porcine adipose tissue bathed in saline (r2 = 0.95) regardless of the specific position of adipose tissue within the cucumber.
+Conclusion
+Surface impedance measured by bioimpedance analysis can detect variations in fat content in the interior of a cylindrical phantom.
+

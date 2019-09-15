@@ -1,0 +1,9 @@
+Objective
+To review the data on the origins, phenotype, and function of embryonic phagocytes that has accumulated over past decade.
+Data Sources
+Most of the relevant articles were selected based on the PubMed database entries. In additional, the Interactive Fly database (http://sdb.bio.purdue.edu/fly/aimain/1aahome.htm), FlyBase (http://flybase.bio.indiana.edu:82/), and TBase (http://tbase.jax.org/) were used to search for relevant information and articles.
+Data Synthesis
+Phagocytes in a vertebrate embryo develop in two sites (yolk sac and liver) and contribute to organogenesis in part through their ability to recognize and clear apoptotic cells. Yolk sac-derived phagocytes differ in differentiation pathway and marker gene expression from macrophages produced via classic hematopoietic progenitors in the liver.
+Conclusion
+We argue that yolk sac-derived phagocytes constitute a separate cell lineage. This conclusion raises the question of whether primitive phagocytes persist into the adulthood.
+

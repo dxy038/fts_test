@@ -1,0 +1,11 @@
+Objective
+In multiple myeloma (MM), the immunoglobulin gene rearrangement characterizing malignant plasma cells is unique. For a patient with multiple myeloma who underwent a B-cell leukemic blast transformation, using the immunoglobulin molecular signature, we characterized the clonal relationship to autologous plasma cells and the impact on normal polyclonal B-lymphocyte populations.
+Methods
+
+Single-cell reverse transcriptase polymerase chain reaction (RT-PCR)/PCR was used to determine the clonal relationship between autologous MM plasma cells and leukemic B cells. A murine xenograft model was used to determine the myelomagenic potential of the leukemic B cells.
+Results
+
+Single-cell analysis showed that circulating leukemic-phase cells were clonotypic, with an IgH VDJ sequence identical to that of diagnosis plasma cells. Analysis of IgH transcripts indicates MM clonal dominance over normal B-cell components of the immune system at diagnosis and during leukemic disease. Leukemic B cells were xenografted to irradiated NOD/SCID mice, leading to lytic bone lesions and clonotypic cells in murine BM. Although human cells in murine BM expressed CD138, a marker largely absent from ex vivo leukemic cells, the expression of CD45, CD19, and CD20 confirmed that engrafting cells were mature, probably late-stage B cells rather than plasma cells.
+Conclusions
+
+Leukemic B cells are able to exert strong clonal dominance over normal components of the immune system, colonize the murine BM in a xenograft model, and disrupt normal bone metabolism leading to lytic bone lesions. This supports the hypothesis that clonotypic MM B cells are reservoirs of disease that persist throughout therapy and give rise to relapse.

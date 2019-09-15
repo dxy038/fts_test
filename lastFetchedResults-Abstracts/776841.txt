@@ -1,0 +1,9 @@
+A solar/gas cooling plant at the Engineering School of Seville (Spain) was tested during the period 2008–2009. The system is composed
+of a double-effect LiBr + water absorption chiller of 174 kW nominal cooling capacity, powered by: (1) a pressurized hot water
+flow delivered by mean of a 352 m2 solar field of a linear concentrating Fresnel collector and (2) a direct-fired natural gas burner. The
+objective of the project is to indentify design improvements for future plants and to serve as a guideline. We focused our attention on the
+solar collector size and dirtiness, climatology, piping heat losses, operation control and coupling between solar collector and chiller. The
+daily average Fresnel collector efficiency was 0.35 with a maximum of 0.4. The absorption chiller operated with a daily average coefficient
+of performance of 1.1–1.25, where the solar energy represented the 75% of generator’s total heat input, and the solar cooling ratio (quotient
+between useful cooling and insolation incident on the solar field) was 0.44.
+  2010 Elsevier Ltd. All rights reserved

@@ -1,0 +1,7 @@
+Objective. To assess and improve methodological constraints of the 3image.
+
+Design. Several data sets were used to evaluate the following constraints: the performance is adversely affected by close proximity of metallic objects or electromagnetic fields; the 3image field contaminates electromyography recordings; and cross-talk from one axis to the other two occurs if the Euler rotation sequence is not matched to the orthopaedic description and function of the joint in question.
+
+Background. The 3image is one of the few instruments suitable for measurement of relative three-dimensional joint rotation, however several methodological constraints exist.
+
+Results and Conclusions. Generally, accuracy can be maintained by restricting offending objects from the sensitive zone between the transmitter and sensor and using long leads to afford the subject distance from computers and other electrical instrumentation; while contamination of EMG amplitude in the time domain can be minimized by using quality instrumentation, and on occasion modifying electrode orientation. Contamination of the EMG frequency content appears unavoidable at low levels of muscle contraction; and cross-talk between axes is minimized by matching the first Euler rotation with the axis of the joint that is characterized by the greatest expected angular displacement.

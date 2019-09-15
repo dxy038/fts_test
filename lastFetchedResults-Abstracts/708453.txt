@@ -1,0 +1,9 @@
+Objective
+Prognosis among patients admitted with possible acute coronary syndrome (ACS) may differ from that of patients with definite ACS. The aim of this study was to identify risk factors for mortality among unselected patients and to use the statistical model to identify patients at low or high mortality risk.
+Methods
+From April 1, 2000, to March 31, 2002, we identified all consecutive patients aged 30 to 69 years admitted to the 2 coronary care units covering the municipality of Aarhus, Denmark (population, 138 290). ACS was considered a possible diagnosis if the physician at admission (1) had noted the presence or absence of chest pain, (2) performed a 12-lead electrocardiogram, and (3) measured markers of myocardial necrosis. In 1576 consecutive patients these criteria were fulfilled.
+Results
+By logistic regression, predictors of mortality were age 60 and older, ST elevation, right bundle-branch block, arrhythmia, elevated markers of myocardial necrosis, and the diagnosis of ACS. The predictive validity of the model, as indicated by receiver operating characteristic curve area, was 85.7%, 87.8%, and 80.1% for 7-, 30-, and 365-day mortality, respectively.
+Conclusions
+Mortality may be predicted with high precision based on a statistical model. Identification of survivors by the use of a statistical model was superior as compared to simply ruling out the clinical diagnosis of ACS.
+

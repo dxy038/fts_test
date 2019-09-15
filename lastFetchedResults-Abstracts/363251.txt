@@ -1,0 +1,9 @@
+Study objective
+We examine the concordance between end-tidal partial pressure of CO2 (PetCO2) measured by capnography and arterial partial pressure of carbon dioxide (PaCO2) obtained by arterial blood gas in acute asthmatic patients presenting to the emergency department.
+Methods
+This was a prospective observational cohort study of acutely ill adult asthmatic patients undergoing an arterial blood gas measurement as part of their evaluation. PetCO2 was recorded during exhalation into a capnograph while arterial blood was pulsing in the arterial blood gas tubing. Concordance between PetCO2 and PaCO2 was displayed as a Bland-Altman matrix, using prespecified limits of agreement of ±5 mm Hg difference between PetCO2 and PaCO2 in each patient.
+Results
+The mean difference between the PetCO2 and PaCO2 levels was 1.0 mm Hg (95% confidence interval −0.1 to 2.0 mm Hg), with a median of 0 mm Hg. Of the 39 patients enrolled, 37 (95%) fell within the a priori limits of agreement.
+Conclusion
+In adult asthmatic patients with acute exacerbations, concordance between PetCO2 measured by capnography and PaCO2 measured by arterial blood gas was high. These findings must be validated before capnography replacement of arterial blood gas as an accurate means of assessing alveolar ventilation in acute asthma is recommended.
+

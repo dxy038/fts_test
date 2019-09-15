@@ -1,0 +1,47 @@
+Objective: Research related to induce pluripotent stem (iPS) cell generation has increased
+rapidly in recent years. Six transcription factors, namely OCT4, SOX2, C-MYC,
+
+KLF4,
+NANOG, and LIN28 have been widely used for iPS cell generation. As
+there is a
+
+lack
+of data on intra- and inter-networking among these six different
+transcription factors,
+
+the
+objective of this study is to analyze the intra- and inter-networks between them using
+
+bioinformatics.
+  
+Materials and Methods:In this computational biology study, we used AminoNet, MATLAB
+to
+examine
+networking
+between the six
+different
+transcription
+factors. The
+directed
+
+network
+was constructed using MATLAB
+programming and
+the distance between nodes
+was
+estimated using a phylogram.
+The
+protein-protein interactions
+between the nuclear
+reprogramming
+factors was performed using the software STRING.  
+Results: The relationship between C-MYC and NANOG was depicted using a phylogenetic
+tree and the sequence analysis
+showed
+OCT4,
+C-MYC, NANOG, and SOX2 together
+share a common evolutionary origin. 
+Conclusion: This study has shown an innovative rapid method for the analysis of intra
+and inter-networking among nuclear reprogramming factors. Data presented may aid researchers
+to understand the complex regulatory networks involving iPS cell generation.
+

@@ -1,0 +1,7 @@
+Objective: Chemoresistance is a major obstacle to successful cancer chemotherapy. In this study, we examined the ability of gambogic acid (GA) to reverse docetaxel resistance in BGC-823/Doc gastric cancer cells.
+
+s: The cytotoxic and apoptotic effect of drugs were evaluated by MTT assay and double staining with both Annexin-V-FITC and PI. Cell cycle analysis was determined by PI-stained flow cytometry. Expression of survivin and bcl-2 were evaluated by real-time quantitative RT-PCR.
+
+s: Treatment of BGC-823/Doc cells with gambogic acid at concentrations of 0.05 μM, 0.1 μM, and 0.2 μM, led to a dramatic increase in docetaxel-induced cytotoxicity without any cytotoxicity by itself. In parallel, gambogic acid treatment caused an increase in apoptotic cell death by docetaxel. Cell cycle analysis indicated that gambogic acid treatment potentiated docetaxel-induced G2/M arrest. Analysis of apoptotic associated gene revealed that gambogic acid singly or in combination with docetaxel significantly downregulate the mRNA expression of survivin, while with no effect on bcl-2.
+
+sions: Our results describe the potential role of gambogic acid to reverse docetaxel resistance though downregulation of survivin, which may make it an attractive new agent for the chemosensitization of cancer cells.

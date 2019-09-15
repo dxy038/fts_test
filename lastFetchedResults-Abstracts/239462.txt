@@ -1,0 +1,13 @@
+Electricity generation in Denmark is undergoing a gradual transition from taking place in a
+few large power-plants to taking place at many small and geographically scattered CHP
+(combined heat and power) and wind-power plants. A new situation is thus being created for
+the transmission grid. From a mainly unidirectional flow from the few large power plants to
+the scattered consumption points, the flow is changing to a bidirectional flow subject to scattered
+electricity production. In this article, the requirements of the transmission grid are analysed
+in (a) a year 2020 situation with power balancing (matching production and
+consumption) as it is now on the few large power plants, and (b) a year 2020 situation with
+geographically-scattered power balancing using e.g. CHP plants, heat pumps, and heat storage.
+Geographic modelling of production and consumption loads combined with grid analyses
+reveal that the transmission grid needs reinforcements to meet transmission demands
+unless geographically scattered power balancing is introduced. The analyses also emphasize
+the importance of reactive compensation especially of wind turbines.

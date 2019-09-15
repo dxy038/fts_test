@@ -1,0 +1,18 @@
+We study reconfigurations of wavelength-routed Wavelength Division
+Multiplexing (WDM) networks in response to lightpath demand changes, with the
+objective of servicing more lightpath demands without additional network resources
+from a long-term network operation point of view. For the reconfiguration problem
+under study, we assume WDM network operators are provided with lightpath
+demands in batches. With limited network resources, our problem has two unique
+challenges: balancing network resource allocations between current and future
+lightpath demands, and modeling future lightpath demands. The first challenge
+implies making tradeoffs between accepting as many current immediate lightpath
+demands as possible and reserving a certain amount of network resources for near
+future predicted lightpath demands. The second challenge implies modeling future
+predicted lightpath demands, which are not exactly known or certain as the current
+lightpath demands. Our proposed model allows a natural separation between the
+operation of the optical layer and the user traffic layer (predominantly the IP-layer),
+while supporting their interactions, for which we propose a new formulation for perlink
+congestion control, associated with a mathematical solution procedure. Our
+simulation results reveal that by properly controlling resource allocations in thecurrent session using our proposed mechanism, rejections in future sessions are
+greatly reduced.

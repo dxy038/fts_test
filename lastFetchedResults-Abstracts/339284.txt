@@ -1,0 +1,11 @@
+Objective
+Whether bone marrow (BM) hematopoietic stem/progenitor cells can directly differentiate into nonhematopoietic cells remains controversial. The aim of this study is to further investigate the potentiality of BM hematopoietic progenitor cells to convert into hepatocytes in vitro.
+Materials and Methods
+
+Different subsets of BM cells from C57/BL6 mice were isolated using markers of hematopoietic stem cells by magnetic cell sorting and by flow cytometry. These cells were induced to transdifferentiate to hepatocytes in vitro in the presence of various cytokines or of hepatocytes (or tissue) from damaged liver, which have been reported to stimulate the conversion. Hepatic gene markers in freshly isolated or cultured BM cells were determined by reverse transcriptase polymerase chain reaction and immunofluorescence.
+Results
+
+Freshly isolated hematopoietic progenitor cells (HPC) expressed a low level of messenger RNAs of hepatic cell-specific markers including albumin and α-fetoprotein (AFP), but did not significantly upregulate expression of these markers, even in the presence of cytokines or cocultured hepatocytes (or tissue). HPCs induced in vitro did not express the message of α-anti-trypsin—a mature hepatocyte marker. At protein level, the specific staining of AFP was not detected in the HPCs, either freshly isolated or in vitro induced. Albumin protein was detected in freshly isolated albumin mRNA-positive and -negative BM cell subpopulations. Albumin-stained BM cells disappeared after being induced for 5 days, but restained if mouse serum was supplemented in medium for a 24-hour extended culture, suggesting that albumin was absorbed by BM cells instead of de novo expression.
+Conclusions
+
+HPCs expressed mRNAs of hepatic cell markers, but could not efficiently convert into hepatocytes in vitro under our experimental conditions. Our observation raises a cautionary note in determining whether in vitro transdifferentiation of BM cells to hepatocytes can actually take place.

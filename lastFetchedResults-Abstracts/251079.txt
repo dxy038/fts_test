@@ -1,0 +1,17 @@
+The first objective of this paper is to analyse the efficiency of the reduced models constructed using the
+proper orthogonal decomposition (POD)-basis and the LIN-basis in non-linear dynamics for continuous
+elastic systems. The POD-basis is the Hilbertian basis constructed with the POD method while the LINbasis
+is the Hilbertian basis derived from the generalized continuous eigenvalue problem associated with
+the underlying conservative part of the continuous elastic system and usually called the eigenmodes of
+vibration. The efficiency of the POD-basis or the LIN-basis is related to the rate of convergence in the
+frequency domain of the solution constructed with the reduced model with respect to its dimension.
+A basis will be more efficient than another if the reduced-order solution of the Galerkin projection
+converges to the solution of the dynamical system more rapidly than the reduced-order solution of
+the other.
+As a second objective of this paper, we present the usual results concerning the POD method using a
+continuous formulation, with respect to both time and space variables, and then deriving the numerical
+approximations. Such a presentation allows convergence discussions to be treated.
+Six examples in non-linear elastodynamics problems are presented in order to analyse the efficiency
+of the POD-basis and the LIN-basis. It is concluded that the POD-basis is not more efficient than the
+LIN-basis for the examples treated in non-linear elastodynamics. Copyright q 2007 John Wiley & Sons,
+Ltd.

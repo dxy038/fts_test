@@ -1,0 +1,11 @@
+Objective
+Previous studies have reported abnormalities in both spontaneous and evoked electromagnetic brain activity in Alzheimer’s disease (AD). We studied the auditory steady-state response (SSR) which represents the net effect of entrained background activity and superimposed cortical evoked responses, in AD patients and healthy controls.
+Methods
+Whole-head magnetoencephalography (MEG) was used to measure SSR to monaural 40-Hz stimulation in AD patients and age-matched controls. Equivalent current dipoles (ECD) of the SSR were modeled in each hemisphere, and source amplitudes were compared between the two groups using time-varying ECD models.
+Results
+Our results indicate that the SSR is significantly increased in AD patients with mild to moderate cognitive deterioration in comparison with healthy elderly subjects.
+Conclusions
+Goal-directed functioning requires optimization of inhibitory and excitatory inputs in the cortex, allowing the adaptation of responsiveness to repetitive stimulation with low relevance. The present results suggest that this balance is impaired in AD, manifesting itself in decreased inhibition in cortical auditory processing and impaired adaptation of the stimulus-locked activity, probably due to abnormalities in cholinergic modulation.
+Significance
+MEG appears to be a sensitive tool to detect abnormalities of auditory processing already in early stages of AD.
+

@@ -1,0 +1,13 @@
+In April 2003 the UK Engineering and Physical Sciences Research Council (EPSRC) and a diverse group of interested parties
+began funding a number of major projects looking at the impacts of climate change on the built environment, transport and utilities.
+One of these projects, entitled AUDACIOUS, is concerned with the impact of climate change on all aspects of urban drainage
+systems. The main objective of this project is to investigate key aspects of the effects of climate change on existing drainage in urban
+areas, and hence provide tools for drainage managers and operators to adapt to uncertain future scenarios. A major element of this
+work is the development of a set of numerical models to simulate the performance of urban drainage systems under the type of
+extreme rainfall events associated with climate change. Once developed, it is intended to utilise such models in a diagnostic design
+capacity, to assist in the formulation of strategies to improve the performance of new and existing urban drainage systems under
+different climate change scenarios. This paper details the work that has been undertaken at Heriot-Watt University as part of the
+AUDACIOUS project. To date, this has involved the development of a numerical model to simulate the performance of roof
+drainage systems (both conventional and siphonic) under extreme rainfall events. The necessary experimental work is described, and
+the development of the model is detailed. Comparisons between model output and laboratory data are illustrated. Finally,
+conclusions are drawn regarding the progress to date, and plans for the next stage of the project are outlined.

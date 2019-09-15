@@ -1,0 +1,14 @@
+The objective of this work is to apply a new microphysical parameterization for fog
+visibility for potential use in numerical weather forecast simulations, and to compare the results with
+ground-based observations. The observations from the Fog Remote Sensing And Modeling (FRAM) field
+which took place during the winter of 2005 – 2006 over southern Ontario, Canada (Phase I) were used in
+the analysis. The liquid water content (LWC), droplet number concentration (Nd), and temperature (T)
+were obtained from the fog measuring device (FMD) spectra and Rosemount probe, correspondingly. The
+visibility (Vis) from a visibility meter, liquid water path from microwave radiometers (MWR), and inferred
+fog properties such as mean volume diameter, LWC, and Nd were also used in the analysis. The results
+showed that Vis is nonlinearly related to both LWC and Nd. Comparisons between newly derived
+parameterizations and the ones already in use as a function of LWC suggested that if models can predict
+the total Nd and LWC at each time step using a detailed microphysics parameterization, Vis can then be
+calculated for warm fog conditions. Using outputs from the Canadian Mesoscale Compressible
+Community (MC2) model, being tested with a new multi-moment bulk microphysical scheme, the new
+Vis parameterization resulted in more accurate Vis values where the correction reached up to 20 –50%.

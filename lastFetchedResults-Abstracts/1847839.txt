@@ -1,0 +1,8 @@
+Objective
+estigate the relationship between size and whole lesion enhancement of breast neoplasms.
+als and Methods
+ppressed subtraction MRI was performed in 94 breast lesions (44 malignant, 50 benign) with pathologically confirmed diagnoses. Of these, all malignant lesions and 31 of the 50 benign lesions showed enhancement. The degree of enhancement was quantified by using an ROI tracing around the whole lesion and calculated as the percentage increase in signal intensity between the corresponding precontrast and postcontrast images.
+s
+ malignant lesions showed enhancement percentage of 38.3% to 186.4% (mean 109.9%), and the 31 benign lesions showed enhancement percentage of 12.8% to 180.2% (mean 79.5%). The difference is statistically significant (P=.002). In 54 small lesions (28 malignant, 26 benign) with enhancing pixel areas of &lt;300 mm2 corresponding to a diameter of ∼19.5 mm, an enhancement exceeding 75% of baseline separated malignant lesions (mean enhancement 116.7%) from benign ones (mean enhancement 72.8%) (P=.0001). This gave a sensitivity of 100% and a specificity of 69%, a positive predictive value of 78%, negative predictive value of 100% and an accuracy of 85% in using &gt;75% enhancement increase in detecting malignancy in small (&lt;300 mm2) enhancing lesions.
+sion
+gh sensitivity in the detection of small malignant lesions suggests a potential for the method to be used in assessment of small enhancing breast lesions.

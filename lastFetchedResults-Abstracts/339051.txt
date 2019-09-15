@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to determine the mechanism by which interleukin (IL)-4 + IL-10 costimulation regulates mast cell numbers to maintain immune homeostasis.
+Materials and methods
+
+We employed mouse bone marrow-derived mast cells (BMMC) to measure the effects of IL-4 + IL-10 on survival and cell-cycle progression. p53-Deficient, bax-deficient, and bcl-2 transgenic BMMC were compared to wild-type cells to determine the role of these proteins in apoptosis. The molecular regulation of apoptosis and cell-cycle progression was investigated using flow cytometric analysis, RNase protection, and Western blotting.
+Results
+
+IL-4 + IL-10 induced BMMC apoptosis and arrest. Apoptosis was p53-dependent. Cell death was accompanied by loss of mitochondrial membrane potential, the importance of which was demonstrated by resistance to IL-4 + IL-10–mediated cell death when Bax was deleted or Bcl-2 was overexpressed. Those cells not killed by apoptosis demonstrated a p53-independent G1 cell-cycle arrest. Apoptosis and arrest may be explained by reduced IL-3 receptor signaling.
+Conclusion
+
+Costimulation with IL-4 + IL-10 partly controls mast cell homeostasis through a delayed apoptosis and arrest program that is induced by a blockade of IL-3 receptor signaling. The delay in these negative effects would allow the protective effects of mast cell activation to occur for several days.

@@ -1,0 +1,11 @@
+Objective
+The receptor tyrosine kinase Flk-2/Flt-3 (Flt-3) represents an important molecule involved in early hematopoiesis. Murine hematopoietic stem cells (HSCs) have been shown to be negative for the expression of Flt-3. We now present clear evidence for the expression change of Flt-3− HSCs in an activating state, and the reversibility of Flt-3 expression by HSCs in vivo.
+Materials and methods
+
+Bone marrow cells isolated from Ly5.1 mice were sorted on the basis of Flt-3 expression and transplanted into lethally irradiated Ly5.2 recipients. After 24 weeks, peripheral blood was analyzed for donor contribution by flow cytometry.
+Results
+
+Although long-term engraftment was predominantly detected in Flt-3− populations as previously described, a 6-day cultivation of Lin−/lowc-kit+Sca-1+ Flt-3− bone marrow cells with stem cell factor and interleukin-11 resulted in the generation of Flt-3+ HSCs with long-term engraftment capabilities. However, the Flt-3 ligand had no significant effect on self-renewal of the Flt-3+ HSCs. Next, to examine reversible expression of this receptor molecule, Flt-3+ cells converted in vitro from Ly5.1 Lin−/lowc-kit+Sca-1+ Flt-3− bone marrow cells were isolated and transplanted into Ly5.2 primary recipients. After 24 weeks, Ly5.1 Lin−/low bone marrow cells were again separated into Flt-3− and Flt-3+ cells and retransplanted into Ly5.2 secondary recipients. The majority of donor HSCs with long-term engraftment capabilities were detected in the Flt-3− populations, indicating the reversion of Flt-3+ to Flt-3− HSCs.
+Conclusions
+
+These observations suggest that Flt-3 is a useful cell-surface marker of HSC activation and that this phenotypic change is reversible.

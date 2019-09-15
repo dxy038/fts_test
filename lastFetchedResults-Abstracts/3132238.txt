@@ -1,0 +1,1 @@
+Based on the Lyapunov-Krasovskii functionals combined with linear matrix inequality approach, a novel stability criterion is proposed for asymptotic stability of uncertain stochastic bidirectional associative memory neural networks with time delays. A novel delay-dependent stability criterion is given in terms of linear matrix inequalities.

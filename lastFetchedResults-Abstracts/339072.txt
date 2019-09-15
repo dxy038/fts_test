@@ -1,0 +1,11 @@
+Objective
+Ceramide, an intermediate of apoptosis induction in response to chemotherapy, can be detoxified by glycosylation at the cytoplasmic surface of the Golgi membrane. P-glycoprotein (p-gp) might augment ceramide glycosylation by translocating glucosylceramide (GC) across the Golgi membrane. We aimed to show that glucosylceramide synthase (GCS) activity is linked to p-gp expression and resistance to ceramide-induced apoptosis in acute myeloid leukemia (AML).
+Methods
+
+Apoptosis and cell-cycle analysis were measured using propidium iodide staining and flow cytometry. Fluorescent microscopy assessed p-gp expression in, and rhodamine 123 uptake by, the Golgi. P-gp interaction with GC was assessed by modulation of rhodamine accumulation. The GCS activity assay was based upon the transfer of UDP-3H-glucose to C8-ceramide to form radiolabeled GC, by rate-limiting cell-derived GCS. TLC and fluorimetry were used to measure the metabolites of fluorescent ceramide. Cell viability was measured using 7-amino-actinomycin D staining and flow cytometry with an internal standard for cell enumeration.
+Results
+
+P-gp+ cell lines (KG1a, TF-1) were resistant to C8-ceramide-induced apoptosis compared to p-gp− cell lines (HL-60, U937). P-gp inhibitors GF120918 and cyclosporin A enhanced ceramide-induced apoptosis in the p-gp expressing cells. P-gp expression was identified in the Golgi of these cells. Pgp's efflux function in TF-1 but not KG1a cells was inhibited by glucosylceramide. In the presence of p-gp inhibitors, R123 accumulation in the Golgi of TF-1 cells was lost, and GCS activity and lactosylceramide formation were downregulated. Intact cells were necessary for the involvement of p-gp in the regulation of GCS activity.
+Conclusion
+
+Our data suggests that ceramide induces apoptosis in AML cells and that p-gp confers resistance to ceramide-induced apoptosis, with modulation of the ceramide-glucosylceramide pathway making a marked contribution to this resistance in TF-1 cells.

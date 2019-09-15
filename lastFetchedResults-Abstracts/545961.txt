@@ -1,0 +1,9 @@
+Abstract In this paper, there are two competitors in a planar market. The first competitor, called,
+the leader, opens ?? new facilities. After that, the second competitor, the follower, reacts to the leader’s
+action and opens r new facilities. The leader and the follower have got some facilities in advance in
+this market. The optimal locations for leader and follower are chosen among predefined candidate
+locations. In this paper, it is assumed that the demand is inelastic. Considering the huff model,
+customers share their demand among all facilities, probabilistically. The leader’s objective function is
+the maximization of its market share after the follower’s new facilities entry. The leader and follower
+problems are solved via an exact solution method.
+

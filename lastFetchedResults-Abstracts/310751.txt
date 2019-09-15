@@ -1,0 +1,11 @@
+Objective. To predict the knee’s response to isometric quadriceps contractions against a fixed tibial restraint.
+
+Design. Mathematical modelling of the human knee joint.
+
+Background. Isometric quadriceps contraction is commonly used for leg muscle strengthening following ligament injury or reconstruction. It is desirable to know the ligament forces induced but direct measurement is difficult.
+
+Methods. The model, previously applied to the Lachmann or ‘drawer’ tests, combines an extensible fibre-array representation of the cruciate ligaments with a compressible ‘thin-layer’ representation of the cartilage. The model allows the knee configuration and force system to be calculated, given flexion angle, restraint position and loading.
+
+Results. Inclusion of cartilage deformation increases relative tibio–femoral translation and decreases the ligament forces generated. For each restraint position, a range of flexion angles is found in which no ligament force is required, as opposed to a single flexion angle in the case of incompressible cartilage layers.
+
+Conclusions. Knee geometry and ligament elasticity are found to be the most important factors governing the joint’s response to isometric quadriceps contractions, but cartilage deformation is found to be more important than in the Lachmann test.

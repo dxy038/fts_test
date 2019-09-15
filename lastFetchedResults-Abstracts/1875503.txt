@@ -1,0 +1,12 @@
+Objective:
+ess the degree of error of the BoMed NCCOM3 model revision seven (R7) impedance cardiograph in determining stroke volume and estimated cardiac output.
+:
+group, within-subject, repeated measures design.
+:
+1: patients (n=17) with heart disease undergoing an elective coronary angiogram; group 2: patients (n=28) after elective heart surgery; and group 3: healthy volunteers (n=28).
+ement:
+c output was determined by the BoMed NCCOM3-R7 impedance cardiograph, Fick principle, and thermodilution method. The NCCOM3-R7 was compared with the direct Fick and thermodilution methods in groups 1 and 2, respectively, to estimate validity coefficients. In group 3, repeated measures were obtained with the NCCOM3-R7 to calculate reliability coefficients.
+s:
+COM3-R7 underestimated Fick measurements by 1.050±1.529 L/min at rest and 1.505±2.214 L/min during exercise. Correlation coefficients of 0.684 at rest (p=0.001) and 0.219 during exercise (p=0.248) were obtained. The NCCOM3-R7 underestimated thermodilution values by 0.425±1.325 L/min in subjects initially after heart surgery and 0.358±1.235 L/min 2 to 4 hours later. Correlation coefficients of 0.547 (p=0.002) and 0.505 (p=0.004) were obtained for the two time periods, respectively. A reliability coefficient of 0.837 was calculated with healthy subjects.
+sion:
+COM3-R7 has a clinically unacceptable level of error for evaluating cardiac performance in patients with heart disease.

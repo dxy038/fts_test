@@ -1,0 +1,7 @@
+In this paper optimum size and location of the capacitors and distributed generators (DGs) are determined for
+reliability improvement and power loss reduction using genetic algorithm (GA). The main innovation of this paper is
+using both DG and Capacitor for the reliability improvement and power loss reduction. For this purpose an objective
+function consisting of reliability cost, power loss cost and also DG's and capacitor's investment cost are considered.
+The effectiveness of the proposed method is examined in the 10 and 33 bus test systems and comparative studies are
+conducted before and after DG and Capacitor installation in the test systems. The results obtained show the
+effectiveness of the proposed method.

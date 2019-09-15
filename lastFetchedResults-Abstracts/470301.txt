@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to examine the association between urinary incontinence and diabetes in a large community-based population of women.
+Study design
+The Health and Retirement Study is a large multistage area probability sample of households in the United States. Data were collected from 10,678 women aged 50 to 90 years. Dependent variables were no, mild, and severe incontinence. Independent variables consisted of demographic and health data. Diabetes was dichotomized into insulin-requiring (IRDM) and non–insulin-requiring disease (NIRDM). Survey-based ordered logistic regression was used to simultaneously analyze associations between incontinence groups.
+Results
+Urinary incontinence was reported by 22% (2319/10,678) of women. IRDM was associated with urinary incontinence (odds ratio [OR] 1.63; 95% CI 1.28-2.09), but NIRDM was not (OR 1.20; 95% CI 1.00-1.45).
+Conclusion
+IRDM is independently associated with urinary incontinence in women ages 50 to 90 years, independent of patient body mass index, comorbidities, or age.
+

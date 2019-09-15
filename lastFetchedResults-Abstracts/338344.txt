@@ -1,0 +1,11 @@
+Objective
+To examine whether the in vitro model of embryonic stem (ES) cell hematopoietic differentiation is suitable to study the function of intracytoplasmic regions of cytokine receptors, we used the thrombopoietin receptor Mpl as a typical cytokine receptor.
+Materials and Methods
+
+ES cells deficient in c-mpl (mpl−/−) were transfected with genes encoding the full-length or two mutated forms of the intracytoplasmic domain of Mpl using the pEF-BOS expression vector. The mutated forms lack box1 or box2.
+Results
+
+pEF-BOS was able to maintain protein production during ES cell differentiation. Reintroduction of full-length-c-mpl into mpl−/− ES cells restored the response of megakaryocyte progenitors to a truncated form of human Mpl-ligand conjugated to polyethylene glycol (PEG-rhuMGDF) and the formation of platelets, for which mpl−/− ES cells are defective. In addition, enforced expression of Mpl resulted in the development of all myeloid progenitors and mature cells in the presence of PEG-rhuMGDF. Blast colony-forming cells, the in vitro equivalent of the hemangioblast, also generated blast cell colonies with a hematopoietic potential equivalent to that of the wild type in the presence of PEG-rhuMGDF, although its growth is normally dependent on vascular endothelial cell growth factor (VEGF). Thus, Mpl acts as a substitute for other cytokine receptors and for a tyrosine kinase receptor, Flk-1, indicating that Mpl has no instructive role in hematopoietic cell commitment and differentiation. The Mpl mutant forms lacking box1 or box2 prevented response of ES cell-derived blast colony-forming cells or progenitors to PEG-rhuMGDF. Therefore, these two regions, essential for signaling by cytokine receptors, are required for the responses of ES cell-derived hematopoietic cells to PEG-rhuMGDF.
+Conclusions
+
+These results show that the in vitro hematopoietic differentiation of ES cells is suitable for studying the role of various intracytoplasmic regions of cytokine receptors.

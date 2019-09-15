@@ -1,0 +1,11 @@
+Objective
+Preclinical and clinical trials are investigating the potential of T cells genetically modified to express a first-generation CD19-specific chimeric antigen receptor (CAR), designated CD19R, for adoptive immunotherapy of B-lineage leukemias and lymphomas. Currently, our genetically modified CD19-specific CD8+ (CD19R+CD8+) T cells are expanded ex vivo using a rapid expansion protocol (REP) to clinically meaningful numbers after antigen-independent activation with anti-CD3var epsilon and recombinant human interleukin-2 on a double-cell feeder-layer of γ-irradiated allogeneic peripheral blood mononuclear cells and a lymphoblastoid cell line. We now compare the ability of the REP with CD19-dependent numerical expansion using CD19+ artificial antigen-presenting cells to propagate CD19R+CD8+ T cells.
+Materials and Methods
+
+We evaluated long-term (28 days) propagation, CD19R CAR expression, and cytolytic activity of CD19R+CD8+ T cells expanded by either a REP or an antigen expansion protocol (AEP) using K562-derived artificial antigen-presenting cells coexpressing CD19 antigen and two T-cell costimulatory molecules (4-1BB ligand and major histocompatibility class I–related chains A) in the presence of exogenous recombinant human interleukin-2 and recombinant human interleukin-15.
+Results
+
+Populations of CD19R+CD8+ T cells could be numerically expanded on AEP to meet anticipated clinical need. The AEP was superior to REP, as this method selected for an outgrowth of T cells with increased CD19R CAR expression and improved redirected cytolytic activity.
+Conclusion
+
+Robust propagation of CD19R+CD8+ T cells achieved by AEP supports qualifying this cell line for use in current good manufacturing practices for CAR+ T cells as an alternative to REP for adoptive immunotherapy clinical trials.

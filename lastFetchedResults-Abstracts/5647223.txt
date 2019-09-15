@@ -1,0 +1,1 @@
+In this paper, we present a new method for determining sets of Pareto-optimal solutions of linear multiple-objective optimization problems. This method is based on testing the Pareto-optimality of a single feasible solution with a convex hull defined by a set of feasible solutions. Illustrative examples and outline of a new algorithm are given.

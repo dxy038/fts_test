@@ -1,0 +1,11 @@
+Objective
+(1) To investigate the neural synchrony hypothesis by examining if there was more synchrony for upright than inverted Mooney faces, replicating a previous study; (2) to investigate whether inverted stimuli evoke neural synchrony by comparing them to a new scrambled control condition, less likely to produce face perception.
+Methods
+Multichannel EEG was recorded via nose reference while participants viewed upright, inverted, and scrambled Mooney face stimuli. Gamma-range spectral power and inter-electrode phase synchrony were calculated via a wavelet-based method for upright stimuli perceived as faces and inverted/scrambled stimuli perceived as non-faces.
+Results
+When the frequency of interest was selected from the upright condition exhibiting maximal spectral power responses (as in the previous study) greater phase synchrony was found in the upright than inverted/scrambled conditions. However, substantial synchrony was present in all conditions, suggesting that choosing the frequency of interest from the upright condition only may have been biased. In addition, artifacts related to nose reference contamination by micro-saccades were found to be differentially present across experimental conditions in the raw EEG. When frequency of interest was selected instead from each experimental condition and the data were transformed to a laplacian ‘reference free’ derivation, the between-condition phase synchrony differences disappeared. Spectral power differences were robust to the change in reference, but not the combined changes in reference and frequency selection criteria.
+Conclusions
+Synchrony differences between face/non-face perceptions depend upon frequency selection and recording reference. Optimal selection of these parameters abolishes differential synchrony between conditions.
+Significance
+Neural synchrony is present not just for face percepts for upright stimuli, but also for non-face percepts achieved for inverted/scrambled Mooney stimuli.
+

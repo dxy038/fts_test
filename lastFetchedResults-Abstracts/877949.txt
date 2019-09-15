@@ -1,0 +1,7 @@
+The mathematical formulation and analysis of an optimal control problem associated with a viscous,
+incompressible, electrically conducting fluid in a bounded three-dimensional domain with fixed perfectly
+conducting boundaries is considered. The objective of control is the matching of the velocity and magnetic
+fields to given target fields; control is effected through distributed mechanical force and current controls.
+The existence of optimal solutions is shown, the Gâteaux differentiability for the magnetohydrodynamic
+system with respect to controls is proved, and the optimality system is obtained.
+© 2006 Elsevier Inc. All rights reserved

@@ -1,0 +1,3 @@
+We devise two new integer programming models for range assignment problems arising in wireless network design. Building on an arbitrary set of feasible network topologies, e.g., all spanning trees, we explicitly model the power consumption at a given node as a weighted maximum over edge variables. We show that the standard ILP model is an extended formulation of the new models.
+
+erve that the objective functions in the compact models are submodular. This enables us to derive complete polyhedral descriptions in the unconstrained case where all topologies are allowed. These results give rise to tight relaxations even in the constrained case. We can show experimentally that the compact formulations compare favorably to the standard approach.

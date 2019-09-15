@@ -1,0 +1,11 @@
+Objective
+In this study, we analyzed murine primitive erythropoiesis by coculturing Flk-1+ ES-derived cells with OP9 to find efficient culture conditions for erythroid cell induction. We utilized a nonserum culture system and EPO (erythropoietin) and found that this cytokine had unique properties.
+Materials and methods
+
+ES cells (E14.1) were first differentiated to Flk-1+ cells and then cocultured with OP9 stromal cells. BIT9500 was used as a serum replacement. The erythroid morphology, hemoglobin types, and TER-119 expression levels were analyzed.
+Results
+
+Primitive erythroid cells with embryonic hemoglobin were generated very efficiently when the serum-containing culture was converted to the nonserum system. In this serum-free culture, TER-119+ erythroblasts appeared first on day 2 and maturation proceeded until day 7. When EPO was added to this coculture, the number of induced floating cells increased twofold to threefold. Unexpectedly, the erythroid-specific antigen TER-119 expression of these cells was drastically reduced. Since reduced TER-119 expression is usually interpreted as maturation arrest, we examined the phenotypic features of the EPO-treated cells. We found, however, no evidence of maturation arrest in the aspects of morphology and hemoglobin content. EPO did not suppress TER-119 expression of erythroblasts derived from fetal liver or adult bone marrow.
+Conclusions
+
+Our results showed that EPO had the unusual property of inducing TER-119− erythroblasts in ES-derived primitive erythropoiesis. It is likely that this effect is unique to primitive erythropoiesis.

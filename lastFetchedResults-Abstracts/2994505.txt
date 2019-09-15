@@ -1,0 +1,1 @@
+We demonstrate a bidirectional wavelength-division-multiplexed (WDM) passive optical network (PON) based on spectrum-sliced technique. This network transmits fifteen 500 Mbps downstream and fifteen 155 Mbps upstream channels over single strand of conventional single-mode fiber.

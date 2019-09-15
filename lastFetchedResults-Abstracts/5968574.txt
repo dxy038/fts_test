@@ -1,0 +1,1 @@
+A kind of peculiar single code of positive objective values of a solution is proposed in this paper, which turns each of the vectors of positive objective values into the corresponding single code which reflects the feature of the vector. This helps to avoid the blindness in decision making

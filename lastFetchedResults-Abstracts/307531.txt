@@ -1,0 +1,5 @@
+Objective: To evaluate the effect of hemolysis on the measurement of cardiac troponin T (cTnT) using the Elecsys® 2010 immunoanalyzer.
+Methods: cTnT concentrations were measured using the Elecsys® 2010. Interference studies were conducted by mixing serum of known cTnT concentration with either hemolysates or serum to which purified hemoglobin (Hgb) had been added. Hemolysates were prepared by mechanical disruption. PROBIT analysis was conducted to determine the probability of a cTnT result of >0.1 μg/l being decreased to <0.1 μg/l due to hemoglobin interference.
+Results: Purified hemoglobin as well as serum-hemolysates mediated a concentration-dependent inhibition of cTnT determination with the Elecsys® 2010. With every 1 g/l increase in hemoglobin, the probability of cTnT >0.1 is decreased by 2.5%.
+Conclusions: A concentration-dependent negative bias in the measurement of cTnT is associated with increasing hemoglobin concentrations in serum.
+

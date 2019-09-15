@@ -1,0 +1,9 @@
+Study objective
+To study early microcirculatory perfusion indices in patients with severe sepsis/septic shock, compare early microcirculatory indices in sepsis survivors versus nonsurvivors, and identify systemic hemodynamic/oxygen transport variables that correlate with early microcirculatory perfusion indices.
+Methods
+This prospective observational study used orthogonal polarization spectral imaging to directly visualize the sublingual microcirculation in patients with severe sepsis/septic shock treated with early goal-directed therapy. We performed initial imaging within 6 hours of early goal-directed therapy initiation and late follow-up studies at 24-hour intervals until death or resolution of organ dysfunction. We imaged 5 sublingual sites and analyzed the data offline in a blinded fashion. We calculated 3 microcirculatory perfusion indices: flow velocity score, flow heterogeneity index, and capillary density. We analyzed early data to compare survivors versus nonsurvivors and examine correlations with systemic hemodynamic measurements. We used a linear mixed-effects model for longitudinal analyses.
+Results
+We performed 66 orthogonal polarization spectral studies in 26 sepsis patients. Early microcirculatory indices were more markedly impaired (lower flow velocity and more heterogeneous perfusion) in nonsurvivors compared with survivors. These same early indices, flow velocity and heterogeneity, were also more markedly impaired with increasing severity of systemic cardiovascular dysfunction (lower arterial pressure or increasing vasopressor requirement).
+Conclusion
+Early microcirculatory perfusion indices in severe sepsis and septic shock are more markedly impaired in nonsurvivors compared with survivors and with increasing severity of global cardiovascular dysfunction.
+

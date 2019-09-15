@@ -1,0 +1,11 @@
+AWindows-based integrated pesticide transport modeling system (IPTM-CS) has been developed for simulating three-phase (dissolved, adsorbed,
+and vapor phases) pesticide environmental fate in a canopyesoil system (or in the vadose zone alone). The modeling system integrates
+pre-processing of data (parameters estimation and input), model run, and post-processing of simulation results (summary tables, Excel spreadsheets,
+and graphs) in a user-friendly Windows interface. To facilitate parameter estimation, an extensive data supporting system that includes
+convenient parameter calculators and databases has also been developed and incorporated in the IPTM-CS. The data supporting system also
+provides links to a number of web-based databases maintained by government agencies and institutions. A time-continuous and space-discrete
+(TC-SD) method is employed to solve the transport problem and five different solution schemes of varying accuracy and features have been
+incorporated in the interfaced IPTM-CS. Finally, testing of the IPTM-CS at a field site in Chico, California is presented. Comparison of the
+simulated and observed diazinon concentrations is conducted for three selected depths (0.15, 0.25, and 0.5 m) and the results are further evaluated
+by using three methods (linear regression, normalized objective function, and modeling efficiency). The quantitative evaluation indicates
+that the IPTM-CS yields fairly good simulations.

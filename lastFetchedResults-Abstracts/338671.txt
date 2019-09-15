@@ -1,0 +1,11 @@
+Objective
+Subsetting of Hoechst 33342 dull (Hodull) hematopoietic stem cells on the basis of rhodamine 123 (Rh) efflux utilizing an improved dual-dye efflux strategy resolves Hodull/Rhdull stem cell subsets that differ with regard to their rate of recruitment and progression through the cell cycle upon exposure to cytokines.
+Materials and Methods
+
+Murine bone marrow cells were isolated by negative immunomagnetic selection using lineage-directed antibodies followed by Ho and Rh staining using a dual-dye efflux method.
+Results
+
+Hodull/Rhdullstem cells that efflux Rh more efficiently (R1) exhibit a 4- to 8-hour delay in progression to S phase when stimulated by interleukin-3 (IL-3), IL-6, IL-11, and stem cell factor (SCF) compared to Hodull/Rhmediumstem cells, which retain low levels of Rh (R2). R1 and R2 cells show a hierarchical entry into S phase upon exposure to any or all of these cytokines. The R1 subset contains proportionately more high proliferative potential colony-forming cells than the R2 subset, but equivalent levels of engraftable stem cells at 3 and 8 weeks after competitive transplantation. Both R1 and R2 cells express c-kit, IL-3R, and IL-11R, whereas IL-6R and c-fms are only expressed by R1 or R2 cells, respectively. Cytokine stimulation of R1 and R2 cells induced cell cycle progression with elevated or induced expression of c-kit, c-fms, IL-2R, and IL-6R.
+Conclusion
+
+These studies indicate that primitive marrow stem cells can be further subsetted by degree of Rh staining to reveal important functional phenotypic differences between cells with different levels of Rh staining.

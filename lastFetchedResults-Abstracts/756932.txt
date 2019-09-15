@@ -1,0 +1,11 @@
+Background
+Cardiopulmonary exercise testing (CPET) variables provide valuable prognostic information in the heart failure (HF) population. The purpose of the present study is to assess the ability of resting end-tidal carbon dioxide partial pressure (PETCO2) to predict cardiac-related events in patients with HF.
+Methods
+
+121 subjects diagnosed with compensated HF underwent CPET on an outpatient basis. Mean age and ejection fraction were 49.3 years (± 14.7) and 28.4% (± 13.4), respectively. Resting PETCO2 was determined immediately prior to the exercise test in the seated position. Peak oxygen consumption (VO2) and the minute ventilation-carbon dioxide production (VE/VCO2) slope were also acquired during CPET.
+Results
+
+There were 41 cardiac-related hospitalizations and 9 cardiac-related deaths in the year following CPET. Mean resting PETCO2, peak VO2 and VE/VCO2 slope were 34.1 mmHg (± 4.6), 14.5 ml•kg− 1•min− 1 (± 5.1) and 35.9 (± 8.7) respectively. Univariate Cox regression analysis revealed that resting PETCO2 (Chi-square = 28.4, p < 0.001), peak VO2 (Chi-square = 21.6, p < 0.001) and VE/VCO2 slope (Chi-square = 54.9, p < 0.001) were all significant predictors of cardiac related events. Multivariate Cox regression analysis revealed resting PETCO2 added to the prognostic value of VE/VCO2 slope in predicting cardiac related events (residual Chi-square = 4.4, p = 0.04). Peak VO2 did not add additional value and was removed (residual Chi-square = 3.2, p = 0.08).
+Conclusions
+
+These results indicate a resting ventilatory expired gas variable possesses prognostic value independently and in combination with an established prognostic marker from the CPET. Resting PETCO2 may therefore be a valuable objective measure to obtain during both non-exercise and exercise evaluations in patients with HF.

@@ -1,0 +1,18 @@
+The main goal of optimal design of single
+phase induction motors with permanent capacitor is
+maximization of the efficiency and minimizing the
+manufacturing cost. Mathematical classic methods can be
+used for design of these motors but they need to
+linearization and simplification in model and formulas.
+This linearization is caused that design precision
+decreases while random search methods such as genetic
+algorithm (GA) and advanced particle swarm
+optimization (APSO) do not need to model linearization.
+Regarding the fact that random search methods can be
+used for design and optimization processes with relative
+high precision, in this study, APSO algorithm is used for
+designing single-phase induction motor with permanent
+capacitor. The objective function is motor efficiency. The
+results evaluation reveals that the motor design by APSO
+algorithm is caused that the efficiency increases in
+comparison with classic methods and GA.

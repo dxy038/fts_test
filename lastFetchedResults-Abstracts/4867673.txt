@@ -1,0 +1,1 @@
+A novel bidirectional optical add-drop multiplexer using AWG is proposed for the optical transport networks. By use of circulators in the coupled fold-back paths between the demultiplexed channels, we improved the loss margin and the crosstalk performances. Also the experimental results are discussed for its application to wavelength-division-multiplexed transmission.

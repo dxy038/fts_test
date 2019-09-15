@@ -1,0 +1,1 @@
+A semiautomatic video object segmentation is proposed. The initial object contour is obtained by modified intelligent scissors. Video decomposing is performed to avoid errors accumulating during object tracking. Snake-based bidirectional tracking is utilised to interpolate the VOPs of successive frames. Experimental results show the effectiveness of the method.

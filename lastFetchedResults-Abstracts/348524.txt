@@ -1,0 +1,11 @@
+Objective
+Does functional coupling of centro-parietal EEG rhythms selectively increase during the anticipation of sensorimotor events composed by somatosensory stimulation and visuomotor task?
+Methods
+EEG data were recorded in (1) ‘simultaneous’ condition in which the subjects waited for somatosensory stimulation at left hand concomitant with a Go (or NoGo) visual stimulus triggering (50%) right hand movements and in (2) ‘sequential’ condition where the somatosensory stimulation was followed (+1.5 s) by a visuomotor Go/NoGo task. Centro-parietal functional coupling was modeled by spectral coherence. Spectral coherence was computed from Laplacian-transformed EEG data at delta–theta (2–7 Hz), alpha (8–14 Hz), beta 1 (15–21 Hz), beta 2 (22–33 Hz), and gamma (34–45 Hz) rhythms.
+Results
+Before ‘simultaneous’ sensorimotor events, centro-parietal coherence regions increased in both hemispheres and at all rhythms. In the ‘sequential’ condition, right centro-parietal coherence increased before somatosensory event (left hand), whereas left centro-parietal coherence increased before subsequent Go/NoGo event (right hand).
+Conclusions
+Anticipation of somatosensory and visuomotor events enhances contralateral centro-parietal coupling of slow and fast EEG rhythms.
+Significance
+Predictable somatosensory and visuomotor events are anticipated not only by synchronization of cortical pyramidal neurons generating EEG power in parietal and primary sensorimotor cortical areas (Babiloni C, Brancucci A, Capotosto P, Arendt-Nielsen L, Chen ACN, Rossini PM. Expectancy of pain is influenced by motor preparation: a high-resolution EEG study of cortical alpha rhythms. Behav. Neurosci. 2005a;119(2):503–511; Babiloni C, Brancucci A, Pizzella V, Romani G.L, Tecchio F, Torquati K, Zappasodi F, Arendt-Nielsen L, Chen ACN, Rossini PM. Contingent negative variation in the parasylvian cortex increases during expectancy of painful sensorimotor events: a magnetoencephalographic study. Behav. Neurosci. 2005b;119(2):491–502) but also by functional coordination of these areas.
+

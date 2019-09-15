@@ -1,0 +1,1 @@
+Summary form only given. The objective of this paper is to summarize on the currently available solution methods and tools for the simulation of FACTS devices. Since most FACTS devices are based on power electronics components, simulation methods for power electronics circuits are emphasized

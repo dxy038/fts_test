@@ -1,0 +1,1 @@
+The paper presents an exact approach for a permutation flowshop scheduling problem with blocking constraint. The objective is to minimize the total completion time of jobs. The solution method is a branch and bound procedure where lower bounds based on problem characteristics are derived. Whithin an experimental performance analysis, this approach is evaluated.

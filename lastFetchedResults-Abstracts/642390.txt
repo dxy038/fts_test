@@ -1,0 +1,11 @@
+Objective
+Antioxidants, such as vitamin C, are hypothesized to prevent prostate carcinogenesis by protecting the DNA from oxidative damage. We assessed whether higher prediagnostic plasma concentrations of vitamin C were associated with a lower risk of prostate cancer in a well-nourished cohort of men.
+Methods
+
+Plasma concentrations of ascorbic acid (vitamin C) were previously determined in blood specimens collected between 1984 and 1990 in men participating in the Baltimore Longitudinal Study of Aging. Total plasma ascorbic acid (l-ascorbic acid plus dehydro-l-ascorbic acid) levels were measured by using a modification of the 2,4-dinitrophenylhydrazine method. Among the 498 male participants with measured plasma vitamin C levels, 62 men were subsequently diagnosed with prostate cancer during their lifetime. Cox proportional hazards regression models were used to estimate relative risks and 95% confidence intervals for prostate cancer.
+Results
+
+The median plasma concentration of vitamin C for the cohort was 1.17 mg/dL, which is in the normal to high range for older men. The age-adjusted relative risk of prostate cancer for the highest quartile (median = 1.47 mg/dL, range = 1.36–2.58) compared with the lowest quartile (median = 0.83 mg/dL, range = 0.15–0.98) of plasma vitamin C concentration was 1.31 (95% confidence interval 0.63 to 2.70, P for trend = 0.29). Adjustment for cigarette smoking status, body mass index, or plasma cholesterol concentration did not attenuate the results.
+Conclusions
+
+This small but prospective study suggests that higher plasma vitamin C concentrations within the normal physiologic range are not associated with a lower risk of prostate cancer in well-nourished men.

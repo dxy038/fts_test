@@ -1,0 +1,8 @@
+Background and Objective: The important role of co-stimulatory molecules in immunological responses has been clearly demonstrated. With the development of new methods in molecular immunology, preventing the co-stimulatory signals in order to induce tolerance has emerged as a novel strategy. RNA interference is a new method that can specifically and effectively reduce target gene expression.
+Materials and Methods: In this study, we used a lentiviral system to target the expression of CD40 gene in dendritic cells. ShRNA sequence is able to reduce the expression of CD40 gene on murine dendritic cells.
+Results: Our results indicate 64-fold decreased expression of CD40 mRNA in the group receiving lentiviral shRNACD40 as well as 31% decrease in expression of CD40 protein on the surface of dentridic cells (p < 0.0001). Also, dendritic cells cannot stimulate T cells upon contact with them. 
+Conclusion: This study indicates that a decrease in expression of CD40 molecule induces tolerogenic dendritic cells and prevents Th1 immunological response. Prevention of Th1 response would shift the immunological responses to Th2 response, and this type of response can be effective in autoimmune diseases including rheumatoid arthritis and type I diabetes. 
+
+Keywords: CD40 Gene, Lentiviral vector, Murine Dendritic Cells
+
+

@@ -1,0 +1,9 @@
+Background: Mycobacterium tuberculosis is a vicious microbe co-existing with the infected host. This pathogen exploited opportunities to spread during periods of urbanization and social upheaval, and got retreated with improved hygiene.
+
+Objectives: This investigation was designed to clone and characterize M. tuberculosis mutT gene, a homologue of a DNA repair protein in Escherichia coli. The aim was to depict the possible role of this homologue in the virulent microbe.
+
+Materials and Methods: A DNA fragment of the mutT gene was amplified with PCR from the genomic DNA of strain H37Rv M. tuberculosis. The expression vector was transformed into E. coli strains BL21 (DE3) and MK602 (DE3) (mutT-). The protein activity assay was performed by biochemical methods.
+
+Results: M. tuberculosis MutT shares 23% identity with the E. coli MutT protein. The mutT gene DNA fragment was subcloned into the expression vector pET28a(+) and the recombinant plasmid was overexpressed in E. coli. Purified and refolded M. tuberculosis MutT possesses a dGTPase activity, which is one of the most well-known preference nucleotidase activities of MutT in E. coli. This study also showed that the dGTPase activity of M. tuberculosis MutT was enhanced by magnesium and inhibited by Ni2+ or EDTA. Endogenous MutT protein in M. tuberculosis lysate displayed a smear pattern in the Western blot, suggesting instability of this protein in the bacteria similar to the important proteins, such as P53 protein, tightly regulated by protein degradation.
+
+Conclusions: The cloned M. tuberculosis mutT gene and MutT protein were characterized. M. tuberculosis MutT has a dGTPase activity, which is one of the most well-known preference nucleotidase activities of MutT in E. coli. These findings provide further understanding about the vicious bacterium.

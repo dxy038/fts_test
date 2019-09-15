@@ -1,0 +1,11 @@
+Objective
+The absence of effective strategies for the ex vivo expansion of human hematopoietic stem cells (HSCs) limits the development of many cell-based therapies. Prior attempts to stimulate HSC expansion have focused on media supplementation using cytokines and growth factors. In these cultures, cellular and microenvironmental compositions change with time. In this study, the impact of controlling these dynamic changes on HSC output is determined.
+Materials and Methods
+
+Cord blood–derived lin− cells were cultured for 8 days in serum-free medium supplemented with stem cell factor, Flt3 ligand, and thrombopoietin. Functional, phenotypic, and molecular (gene and protein) analyses were used to characterize dynamic changes in cellular and microenvironmental composition. The effects of these changes and the mechanism behind their effects on HSC expansion were assessed using a selection/media exchange–based global culture manipulation (GCM) technique.
+Results
+
+We show that the direct secretion of negative regulators by culture-generated lin+ cells, and the indirect stimulation of cells to secrete negative regulators by culture-conditioned media, limits in vitro HSC generation. The GCM strategy was able to abrogate these effects to produce elevated numbers of LTC-ICs (14.6-fold relative to input), migrating rapid NOD/SCID repopulating cells (12.1-fold), and long-term NOD/SCID repopulating cells (5.2-fold).
+Conclusions
+
+Cellular and microenvironmental changes that occur during all in vitro HSC cultures can significantly affect HSC output through the direct or indirect secretion of negative regulators. This study provides insight into the mechanisms regulating HSC fate in vitro and describes a novel methodology to regulate overall in vitro microenvironmental dynamics to enable the generation of clinically relevant numbers of HSCs.

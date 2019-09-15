@@ -1,0 +1,1 @@
+This paper deals, to some extent, with the problem of speculative data prefetching for dataflow programming models. We focus on finding optimum prefetch strategies for a simple n-way dataflow branching structure with respect to several objective functions and exhibit polynomial algorithms for doing so.

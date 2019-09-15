@@ -1,0 +1,9 @@
+Background
+Patients with hypertension are at high risk for the development of left ventricular dysfunction (LVD). Echocardiography is considered to be the gold standard for diagnosis of LVD; but its cost, complexity, and availability prevents its use for frequent evaluation. Brain natriuretic peptide (BNP) and N-terminal BNP (NT-BNP) can identify heart failure in dyspneic patients. Impedance cardiography (ICG) is a noninvasive method of measuring hemodynamic and electromechanical timing parameters. The objective of this study was to determine the ability of BNP, NT-BNP, and ICG to detect the presence of LVD in patients with hypertension.
+Methods
+A convenience sample of subjects undergoing echocardiography who had a history of hypertension or current systolic blood pressure ≥140 mm Hg were enrolled and retrospectively evaluated. Patients with known LVD were excluded. Diagnosis of LVD was determined by the presence of systolic or diastolic dysfunction, valvular or wall motion abnormalities, or left ventricular hypertrophy.
+Results
+A total of 193 subjects were enrolled: 189 men and four women, age 68.8 ± 11.7 years. Multivariate regression analysis of history and symptoms, BNP, and ICG parameters identified significant predictor variables for LVD including cardiac index (P = .005), left cardiac work index (P = .008), BNP (P = .017), arrhythmia (P = .023), angina (P = .034), and systemic vascular resistance (P = .048). Receiver operating characteristic (ROC) analysis determined the area under the ROC curve (AUC) of BNP (0.60), NT-BNP (0.67), ICG velocity index (0.66), composite ICG (0.66), ICG combined with BNP (0.70), and ICG combined with NT-BNP (0.73).
+Conclusions
+In this high-risk hypertensive population, BNP, NT-BNP, and ICG were useful to identify the presence of LVD. The use of ICG with natriuretic peptide testing may improve the ability to detect LVD.
+

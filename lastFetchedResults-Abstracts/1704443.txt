@@ -1,0 +1,7 @@
+Pomace and olive pits (by-products from the olive oil industry) were gasified in a reactor based on a combination of FLUidized and MOVing beds (FLUMOV). The main objective is to explore the feasibility of FLUMOV systems for the gasification of biomass.
+
+sifier is a cylinder (fluidized bed zone) joined by a conical device to an upper cylinder of diameter bigger than that of the fluidized bed (moving bed zone). Fine particles and tar are removed from the outlet gas by means of the moving zone and condensers, respectively. The flue gas is analyzed on-line by gas chromatography. The production of tar is expressed by using distillation data of the tar recovered in the condenser.
+
+fects of the moving zone temperature, Equivalent Ratio, ER, (air-to-fuel weight ratio actually used divided by the theoretical air-to-fuel weight ratio that would be required for the complete combustion of the biomass) and the water supply on the gasification efficiency, flue gas composition and Lower Heating Value (LHV, quantity of heat produced by the complete combustion of one unit volume of product gas, referred to 1 bar and 25 °C, assuming that the water produced remains as a vapor) were studied.
+
+st results were obtained for moving bed temperature around 825 °C and ER around 0.2. These results are: gasification efficiency, 43%; LHV, 5.5 MJ/nm3 and a flue gas with 12% H2 and 18% CO. The production of tar increases as ER decreases, and the performance is not improved by adding extra water.

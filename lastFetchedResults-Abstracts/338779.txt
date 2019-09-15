@@ -1,0 +1,11 @@
+Objective
+Understanding the molecular events that contribute to survival of and drug-induced apoptosis in hematopoietic stem and progenitor cells (HSC/P) can have impact on more rational approaches to blood cancer therapeutic design, as well as on strategies to minimize toxic side effects of chemotherapeutic drugs. Here we sought to systematically evaluate the basic molecular components and main pathways that govern and mediate cellular response initiated within human CD34+ cells to etoposide-induced apoptosis.
+Materials and Methods
+
+Human CD34+ cells were isolated from umbilical cord blood (CB) and expanded in vitro. Expression of apoptosis-related genes in the control and etoposide treated cells was determined using cDNA array and quantitative real-time RT-PCR.
+Results
+
+We identified a set of apoptosis-related genes expressed in highly purified normal human CB CD34+ cells and determined how the expression of these genes changed in response to etoposide treatment. In addition, TRAIL does not induce apoptosis of normal human CD34+ cells, and it has no cytotoxic effect on human CD34+ cells that are undergoing apoptosis in response to growth factor withdrawal. This may be due to upregulation of cytotoxic receptors as well as the decoy receptor for TRAIL, and c-FLIP.
+Conclusion
+
+p53, c-Myc, and BAFF pathways are main pathways utilized by CD34+ cells to arrest cell-cycle progression at multiple checkpoints, to halt proliferation, and to induce apoptosis as part of their cellular response to etoposide. Multiple known pro-survival and pro-apoptotic pathways are simultaneously activated in etoposide-treated CD34+ cells. Also, TRAIL, used alone or in concert with chemotherapeutic drugs, may be of use as a safe blood cancer therapeutic with no or low toxicity for HSC/P.

@@ -1,0 +1,1 @@
+The objective of this paper is to study and construct matrix-valued templates for interpolatory curve subdivision. Since our investigation of this problem was motivated by the need of such subdivision stencils as boundary templates for interpolatory surface subdivision, we provide both spline and non-spline templates that are necessarily symmetric, due to the

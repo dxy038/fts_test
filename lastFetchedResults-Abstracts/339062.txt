@@ -1,0 +1,11 @@
+Objective
+To clarify natural killer (NK) cell-mediated resistance under cytoreductive conditioning and T cell-depleted bone marrow transplantation, we investigated the effects of host NK cell depletion on engraftment and induction of stable mixed chimerism.
+Methods
+
+BALB/c mice (H-2kd) were injected intraperitoneally with anti-asialoGM1 antibody (anti-NK Ab) on day -1. On day 0, they received total body irradiation (TBI) at a dose of 500 cGy, followed by intravenous infusion of 2 × 107 T cell-depleted (TCD) bone marrow cells from C57BL/6 mice (H-2kb). Early engraftment and chimerism were determined by the relative ratio of peripheral blood (PB) lymphocytes expressing either H-2kd or H-2kb on day +21. Long-term engraftment and chimerism were evaluated on PB and spleen by multicolor flow cytometry.
+Results
+
+Although no recipients treated with TBI alone showed engraftment, all the recipients conditioned with anti-NK Ab and TBI showed successful engraftment as well as a donor-dominant pattern of mixed chimerism in both PB and spleen. Spleen cells from recipients with mixed chimerism showed specific tolerance to both host and donor strains, but not to a third party (C3H/He). None of the reconstituted mice showed signs of graft vs host disease, and all survived up to day +330.
+Conclusion
+
+These observations indicate that host NK cell depletion may be used to reduce the intensity of conditioning regimens for engraftment of TCD grafts, and can contribute to establishment of stable mixed chimerism in major histocompatibility complex-mismatched nonmyeloablative transplantation.

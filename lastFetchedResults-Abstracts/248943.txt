@@ -1,0 +1,19 @@
+This paper describes the use of Computational Fluid Dynamics (CFD) and mathematical optimization to
+determine the optimum operating conditions and geometry of a continuous quenching process. The pump
+power as well as the quench rate of the steel plate in this process is in#uenced by many parameters. These
+include the nozzle and header geometry, plate speed, water #ow rate, etc. Since an experimental approach is
+time consuming and costly, use is made of numerical techniques. Furthermore, it is sometimes impossible to
+measure certain values in this manufacturing process (e.g. the quench rate at a certain depth in the plate).
+These quantities can be obtained by CFD techniques. Using CFD without optimization on a trial-and-error
+basis, however, does not guarantee optimal solutions. A better approach, that has until recently been too
+expensive, is to combine CFD with mathematical optimization techniques, thereby incorporating the
+in#uence of the variables automatically. The current study investigates a simpli"ed two-dimensional
+continuous quenching process. The "rst part of the study investigates the operating conditions required to
+quench a plate at a speci"c quench rate. The second part of the study minimizes the pump power to quench
+a plate at a speci"c quench rate. The CFD simulation uses the STAR-CD code to solve the Reynolds-
+Averaged Navier}Stokes equations with the k}e turbulence model. The optimization is carried out by means
+of Snyman's DYNAMIC-Q method, which is speci"cally designed to handle constrained problems where
+the objective or constraint functions are expensive to evaluate. The paper illustrates how this optimization
+technique can be used to obtain the operating conditions needed for a manufacturing process with complex
+#ow and heat transfer phenomena. The paper also illustrates how these techniques can be used in the design
+phase of such a manufacturing process to determine the optimum geometry and process parameters

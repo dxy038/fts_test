@@ -1,0 +1,1 @@
+In this paper, we derive an exact closed-form outage probability expression for a bidirectional relay system using Space-Time Block Coding (STBC) aided with Physical-Layer Network Coding (PNC) protocol based on decode-and-forward relaying. By simulation experiments, one can observe that the Numerical results just go to testify the validity of our theoretical analysis.

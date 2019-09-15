@@ -1,0 +1,11 @@
+n this paper, a constrained optimal control problem is considered where constraint is
+elliptic partial differential equations of second order together with the boundary condition
+of Dirichlet type. The main purpose is detecting an appropriate solution for control and
+state function by using boundary element method in order to discretized PDEs. In this way,
+first a quadratic objective, linear constraints optimization problem rewritten respected to
+main problem, next it can be solved numerically with the help of appropriate solution
+algorithms, which should exploit the structure of the problem, we solved it by generalized
+Newton’s method. Some numerical experiments obtained by using boundary element
+method (BEM) and finite element method (FEM) are given in the final section of this
+paper.
+

@@ -1,0 +1,12 @@
+Objective
+To establish the associations and prognostic utility of angiographic, clinical and HRV parameters in a large cohort of patients undergoing diagnostic cardiac catheterisation (CC).
+Methods
+
+Patients undergoing CC as elective day cases were enrolled at a single tertiary center from September 2001 to January 2003. Patient data, serum biochemistry, current drug therapy, catheter reports and five minute high resolution electrocardiograph (ECG) recordings were prospectively recorded and validated in an electronic archive. ECG recordings were used to generate time domain (SDNN (standard deviation of NN intervals)) and spectral HRV parameters (low frequency (LF) and high frequency (HF) power). Significant associations between dichotomized HRV variables and covariates were investigated using binary logistic regression. The independent prognostic ability of clinical markers was evaluated using the Cox proportional hazard model.
+Results
+
+841 consecutive consenting patients of mean age 61 ± 10 years were recruited into the study with a mean follow-up period of 690 ± 436 days. In multivariate analysis decreasing LF spectral power was independently associated with proximal right coronary stenosis OR (odds ratio) = 1.65 (95% CI = 1.16–2.36), P = 0.006 and to all cause mortality OR = 5.01 (95% CI = 1.47–17.01), P = 0.010. Increasing LF power was also independently associated with normal coronary angiograms in patients investigated suspected coronary disease without a confirmed prior history of a coronary ischaemic event OR = 2.16 (95% CI = 1.26–3.73), P = 0.002.
+Conclusions
+
+Reduced LF power independently predicts all cause mortality in a large cohort of patients receiving medical therapy after elective CC. LF power was also independently associated with > 75% proximal RCA stenosis.
+

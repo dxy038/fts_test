@@ -1,0 +1,13 @@
+In this paper, we consider a single machine scheduling problem with piecewise-linear deterioration
+where its objective is to minimize the number of tardy jobs, in which the processing time of each job
+depends on its starting time where all the jobs have a specific deterioration rate. The problem is known
+to be NP-hard; therefore a Branch and Bound algorithm and a heuristic algorithm with O(n2) are proposed.
+The proposed heuristic algorithm has been utilized for solving large scale problems and upper
+bound of the B&B algorithm. Computational experiments on 1840 problems demonstrate that the Branch
+and Bound procedure can solve problems with 28 jobs and 85.4% of all the sample problems optimally
+showing the high capability of the proposed procedure. Also it is shown that the average value of the ratio
+of optimal answer to the heuristic algorithm result with the objective Pð1   UiÞ is at last 1.08 which is
+more efficient in contrast to other proposed algorithms in related studies in the literature. According to
+high efficacy of the heuristic algorithm, large scale samples are also being solved and the results are presented.
+A specific form of this problem is also being considered and it is proven that the B&B procedure
+can handle problems with more jobs even up to 44 jobs.

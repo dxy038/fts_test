@@ -1,0 +1,9 @@
+Background
+The prevalence of acute myocardial infarction (AMI) has increased due to the recent definitions, but the magnitude of this effect using contemporary highly sensitive troponin assays is unclear. The objective of this study is to compare the diagnosis of AMI using a contemporary troponin I (cTnI) biomarker and the 2003 American Heart Association (AHA) case definition with diagnoses made using the 1994 World Health Organization MONICA definition.
+Methods
+Contemporary troponin I measurements were performed with the Beckman Coulter AccuTnI assay (Chaska, MN) on plasma specimens originally assayed in 1996 for creatine kinase (CK)–MB mass from 486 emergency department patients presenting within 24 hours of onset of symptoms suggestive of cardiac ischemia.
+Results
+In a subgroup of 258 patients with 2 specimens drawn at least 6 hours apart (the AHA “adequate set of biomarkers”), AMI prevalence using CK-MB was 19.4% (95% CI 15.0-24.7) based on MONICA and 19.8% (15.4-25.1) based on the AHA case definition using the criterion for change of ≥20% between specimens. Using cTnI as the biomarker of choice, under the AHA definition, the prevalence increased to as high as 35.7% (30.1-41.7, a relative increase of 84%, P < .001) using the 99th percentile cutoff. In 121 patients with a lower index of suspicion and without the requisite 6-hour interval between measurements, positivity increased from 5% with CK-MB by MONICA up to 12% to 16% with cTnI by AHA.
+Conclusions
+A highly sensitive contemporary cTnI assay used with the AHA case definition results in a 62% to 84% increase in the frequency of AMI diagnosis compared with MONICA criteria.
+

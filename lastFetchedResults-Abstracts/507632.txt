@@ -1,0 +1,5 @@
+Introduction and objective: The early secretory antigenic target 6kDa protein (ESAT-6) antigen from Mycobacterium tuberculosis is a dominant target for cell-mediated immunity in the early phase of tuberculosis (TB) in TB patients. ESAT-6 was found to distinguish TB patients from BCG-vaccinated donors. The aim of this study was cloning and expression of ESAT-6 of M. tuberculosis.
+Materials and methods: DNA was extracted from M. tuberculosis H37Rv. PCR was performed using gene-specific oligonucleotide primers and the PCR products were inserted into the pET102/D vector and transferred into Escherichia coli strain TOPO10. The recombinant plasmids transferred into E. coli strain BL21. 
+Results: The transformed plasmid into E. coli strain BL21 was effectively expressed. The expressed fusion protein (23kDa on SDS-PAGE) was found almost entirely in the soluble form and the recombinant protein was purified by Ni-NTA column.
+Conclusion: We successfully cloned and expressed ESAT-6 protein of M. tuberculosis in E. coli. As a specific antigen, it can be useful for diagnosis of both active and latent tuberculosis with ELISA in future
+

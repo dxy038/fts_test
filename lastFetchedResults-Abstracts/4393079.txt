@@ -1,0 +1,1 @@
+We propose a new tool for scaling the speed of arbitrary patterned illumination by two-dimensional spectral-encoding. A multi-objective optimization based on genetic algorithm is presented for its utility in different imaging modalities.

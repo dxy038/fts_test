@@ -1,0 +1,11 @@
+Objective
+Hematopoietic stem cells are important clinically, both as targets of disease and as reagents for cellular therapy. Studies in hematopoietic stem cell biology have been hampered by difficulties in purifying and manipulating these cells. To facilitate these studies, we sought to develop a system for targeting genes of interest to the hematopoietic stem cell compartment in transgenic mice.
+Materials and Methods
+
+We used Sca-1, a glycosyl phosphatidylinositol-anchored protein expressed on the surface of all hematopoietic stem cells in commonly used inbred mouse strains. We created a mutant Sca-1 allele in which the enhanced green fluorescent protein (EGFP) cDNA is integrated into the Sca-1 locus by homologous recombination in embryonic stem cells.
+Results
+
+EGFP protein is detectable in all hematopoietic tissues of mice heterozygous for the mutant Sca-1 allele. Growth and development of these mice are normal. No adverse effects of long-term, high-level EGFP expression were noted. Sca-1 positive cells coexpress EGFP in all tissues and lineages examined, as predicted by the targeting strategy. Sca-1 and EGFP expression are coordinately up-regulated in splenocytes from mutant mice. The Lin−EGFP+ bone marrow population contains all progenitor activity in Sca-1+/EGFP mice. The Lin−EGFP+ bone marrow cells are equivalent to Lin−Sca-1+ cells in long-term repopulation and serial transplantation assays.
+Conclusion
+
+The hematopoietic stem cell compartment appears to be targeted in Sca-1+/EGFP mutant mice. This system should be useful for studying the normal biology of hematopoietic stem cells and for targeting other genes to this cellular compartment.

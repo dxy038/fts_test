@@ -1,0 +1,9 @@
+Background and Objective: Diagnosis and treatment planning are the basic principles in orthodontics. Large volume of data for evaluation of patient's problem in three dimensional space, difficulty in preparation of problem list and dentist mental fatigue are factors which can bring obstacles for correct diagnosis in orthodontic malocclusions. Use of decision supporting system software can help early assessment and prevention of complications that need more expensive treatments. The aim of this study was preparation and evaluation of a decision support system with ability for processing information for diagnosis and treatment planning in orthodontic malocclusions Such a system can also be used as an educational tool for dental students.
+
+Subject and Methods: In order to design this software, in this descriptive and analytic study, we used an algorithmic method which was based on flow chart system. Reference books were used for preparation of gold standards. The efficacy of the software was assessed by 3 orthodontists. Descriptive statistics were used for determination of sample size and software efficiency.
+
+Results: With the aid of the software, the first and second orthodontists came to correct diagnosis in 100% and the third in 98% of cases.
+
+Conclusions: Since most of errors in diagnosis are due to inadequate attention to details, decision support systems with large data storage capability and reminding details can be reliable tools to help user reach the correct diagnosis and treatment plan. However, it is important that the efficiency of these systems have very close correlation with user's knowledge of orthodontics. Sci Med J 2010; 9(2): 183-188
+
+

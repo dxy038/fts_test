@@ -1,0 +1,11 @@
+Objective
+To investigate whether syngeneic BM-derived DCs generated in vitro and fused with syngeneic C1498 tumor cells (murine AML line) could induce a better antitumor protective effect compared to similarly generated DCs pulsed with C1498 lysate with or without co-injection of a class B CpG oligodeoxynucleotide (CpG 7909) in vivo.
+Methods
+
+DCs were pulsed with C1498 lysate prior to intravenous administration 14 and 7 days prior to tumor challenge. Separate cohorts received DCs electrically fused to irradiated C1498 cells. Cohorts were administered DCs that were lysate-pulsed or fused with tumor cells on days 14 and 7 prior to tumor injection. Some cohorts were co-injected with CpG 7909 at the time of DC administration.
+Results
+
+All DC vaccines significantly improved survival (p < 0.01) vs nonvaccinated controls. There was no difference in the antitumor protective response between mice that received pulsed vs fused DCs (47% vs 45% survival). Both DC vaccines generated a fivefold increase in splenic tumor-reactive cytotoxic T-lymphocyte precursor cells and significantly (p < 0.05) higher mean frequencies of IFN-γ-producing splenocytes compared to controls. CpG 7909 improved the survival of mice receiving the fused DCs (p < 0.05) but not the pulsed DCs. Surviving mice were rechallenged and found to be resistant to lethal tumor injection.
+Conclusions
+
+DC vaccine strategies may be effective in generating anti-AML responses. No advantage was observed between lysate-pulsed and tumor cell–fused DCs. CpGs may provide an adjuvant effect depending on the type of DC vaccine administered.

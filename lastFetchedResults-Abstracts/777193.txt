@@ -1,0 +1,12 @@
+In this paper, a solar hybrid desiccant air conditioning system, which combines the technologies of two-stage desiccant cooling
+(TSDC) and air-source vapor compression air-conditioning (VAC) together, has been configured, experimentally investigated and theoretically
+analyzed. The system mainly includes a TSDC unit with design cooling capacity for 10 kW, an air-source VAC unit with 20 kW
+in nominal cooling capacity, a flat plate solar collector array for 90 m2, a hot water storage tank and a cooling tower. Performance model
+of the system has been created in TRNSYS simulation studio. The objective of this paper is to report the test result of the solar hybrid air
+conditioning system and evaluate the energy saving potential, thereby providing useful data for practical application. Experimental
+results show that, under typical weather condition, the solar driven desiccant cooling unit can achieve an average cooling capacity of
+10.9 kW, which contributes 35.7% of the cooling capacity provided by the hybrid system. Corresponding average thermal COP is over
+1.0, electric COP is up to 11.48. Under Beijing (temperate), Shanghai (humid) and Hong Kong (extreme humid) weather conditions, the
+solar TSDC unit can remove about 57%, 69% and 55% of the seasonal moisture load, thereby reducing electric power consumption by
+about 31%, 34% and 22%, respectively. These suggest that the solar hybrid system is feasible for a wide range of operating conditions.
+  2011 Elsevier Ltd. All rights reserved

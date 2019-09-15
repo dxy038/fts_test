@@ -1,0 +1,9 @@
+Purpose
+Individuals with osteoarthritis often assert that change in the weather influences their pain, but the evidence is inconclusive. Our objective was to determine if short-term weather parameters influence knee osteoarthritis pain.
+Methods
+We performed a longitudinal analysis of pain reports from a 3-month clinical trial among individuals with knee osteoarthritis dispersed across the United States. Daily values for temperature, barometric pressure, dew point, precipitation, and relative humidity were obtained from the weather station closest to each participant. We used a longitudinal mixed-model random effects analysis with a first-order autoregressive error structure to test for associations while accounting for within-patient correlation.
+Results
+The study included 200 participants with knee osteoarthritis. Their mean age was 60 years (standard deviation [SD] 9.4), 64% were female, and 10.5% were African American or Hispanic. They had a mean body mass index of 32.5 kg/m2 (SD 8.4) and a baseline WOMAC pain score of 9.0 (SD 3.4). There were consistent associations of pressure change and ambient temperature with pain severity (change in barometric pressure, coefficient = 1.14, P = .02, ambient temperature = −0.01, P = .004; adjusted mutually and for age, gender, body mass index, nonsteroidal anti-inflammatory drug use, opiate use, and prior pain score). Interaction terms between change in barometric pressure and ambient temperature had no influence in the models.
+Conclusions
+Changes in barometric pressure and ambient temperature are independently associated with osteoarthritis knee pain severity.
+

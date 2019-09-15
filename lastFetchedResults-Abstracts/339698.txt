@@ -1,0 +1,11 @@
+Objective
+Bone marrow failure is a near-universal occurrence in patients with Fanconi anemia (FA) and is thought to result from exhaustion of the hematopoietic stem cell (HSC) pool. Retrovirus-mediated expression of the deficient protein corrects this phenotype and makes FA a candidate disease for HSC-directed gene therapy. However, inherent repopulation deficits and stem cell attrition during conventional transduction culture prevent therapeutic chimerism.
+Materials and Methods
+
+We previously reported rapid transduction protocols to limit stem cell losses after ex vivo culture. Here we describe a complementary strategy intended to improve repopulation through upregulation of chemokine receptor (CXCR) 4, a principal factor in hematopoietic homing.
+Results
+
+Using murine models with transgenic disruption of Fanca, -c, and -d2, we found that c-kit+ and sca-1+ progenitor cells express levels of CXCR4 comparable with those of wild-type littermates. Lineage-depleted progenitor populations rapidly upregulated CXCR4 transcript and protein in response to cytokine stimulation or hypoxia, regardless of genotype. Hypoxia conditioning of lineage-depleted Fancc−/− progenitors also reduced oxidative stress, improved in vitro migration and led to improved chimerism in myeloablated recipients after transplantation.
+Conclusion
+
+These studies provide evidence that CXCR4 regulation in progenitor cells from transgenic mice representing multiple FA genotypes is intact and that modulation of homing offers a potential strategy to offset the FA HSC repopulation deficiency.

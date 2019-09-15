@@ -1,0 +1,10 @@
+This paper presents a study of the problem of online deadline scheduling under the preemption penalty
+model of Zheng, Xu, and Zhang (2007). In that model, each preemption incurs a penalty of q times the
+weight of the preempted job, where qP0 is the preemption penalty parameter. The objective is to maximise
+the total weight of jobs completed on time minus the total penalty.
+When the scheduler knows the ratio of longest to shortest job length, D, we show that the WAL algorithm
+of Zheng et al. (2007) is ((1 + q)D + o(D))-competitive for sufficiently large D. This improves the
+bound shown in Zheng et al. (2007). When the scheduler only knows that DP(k(1 + q))3 for some
+k > 1, we propose a ((k(1 + q)D/(k   1)) + o(D))-competitive algorithm.
+When q = 0, we give an optimal, O(D/log D)-competitive algorithm that, unlike previous algorithms,
+does not require knowledge of D. This settles an open problem mentioned in Ting (2008).

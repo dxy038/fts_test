@@ -1,0 +1,1 @@
+The problem of cost effective active compensator allocation and sizing in distribution networks has been analyzed in the paper. A few objective functions have been compared from the economical point of view. Theoretical considerations have been illustrated by an example of active power filters (APF) allocation and sizing by means of the genetic algorithm.

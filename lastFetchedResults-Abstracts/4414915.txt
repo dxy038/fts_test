@@ -1,0 +1,1 @@
+We experimentally demonstrate for the first time a bidirectional transmission up to 60-km of a 16-channel-WDM-PON at 10-Gb/s. An optical-budget over 30-dB was obtained. This was based on self-seeded RSOAs and multi-level-modulation of RF signals.

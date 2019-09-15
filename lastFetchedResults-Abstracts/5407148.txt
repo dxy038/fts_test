@@ -1,0 +1,1 @@
+A WDM-PON recycling incoming light to transmit upload stream has been proposed. Effect of Rayleigh scattering and uneven energy distribution are evaluated to achieve &gt;60km bidirectional communication carrying 10Gb/s download and &gt;300Mb/s upload data traffic.

@@ -1,0 +1,25 @@
+Introduction: In the present study, dealing with water deficit challenges for Gorgan River Basin has been considered. Golestan province &apos;s economy is dependent on agriculture but the occurrence of drought periods reduced the agricultural production and consequently the region &apos;s economy is in crisis. Therefore, performing studies for programming and management of the water resources of the province and the water allocation in the margin of Voshmgir dam in Gorganrood basin has a great deal of importance. The issue of the allocation of water resources is proposed in order to maximize the expected profit of the water system. According to the regional water organization policy, one of the main goals of Voshmgir dam water management is the allocation of water between the competing consumers. If the amount of promised water is released in the future, the expected net profit of the system will be realized and if it is not released, the system will experience losses.
+Materials and Methods: In this studyWater supply is considered stochasticand objective function of the model is to maximize the system (Agriculture, Aquaculture and Environment) profit and optimal allocation of water during the programming period using a two-stage stochastic model as follows:
+ 
+
+ 
+Constraint of the available land:
+ 
+Constraint of the available water in each of the main canals:
+ 
+Constraint of the available water:
+ 
+Constraint of the amount of inflow water
+ 
+Reservoir capacity constraint
+ 
+Constraint on the maximum and minimum water demand for environmental sector
+ 
+Constraint on the maximum and minimum water demand for crops
+ 
+Constraint on the maximum and minimum water demand for warm-water fish
+ 
+Constraint on non-negativity of the decision variables in the model
+ 
+Results and Discussion: The length of the right main canal of this network is about 17.76 km and the length of the left main canal is about 21.338 km. In this study,   is considered for the right main canal and  is considered for left main canal. Lands under irrigation network are considered in three regions. Right bank regions and sample farm are covered by the network in the right part of the network and the left bank regions are covered by the network on the left. Thus, there is one region in the left side of the network and there are two regions on the right. The major crops cultivated in the agricultural lands of the network include wheat, barley, canola, cotton, alfalfa, sunflower, rice, cotton-melon, and maize. Due to the random nature of the river flow to the dam, fixed and determined data cannot be used to calculate the volume of water entering the irrigation system, for this reason, using simulation techniques, we can predict the future behavior of the system for each reservoir. The results of the study showed that only agriculturalsector suffers from water deficit and target water demand of the other sectors is supplied and there is no deficit of water for these sectors and target water demand, lack of water and the final allocation of water in the agricultural sector are declined under different efficiencies of irrigation. If other sectors are remained unchanged and irrigation efficiency did not affect them, it is because irrigation efficiency has a direct impact on the water use in agriculture and decreases by increasing the efficiency of the allocated water to this sector and the amount of water stored in the reservoir for the coming year is added. By increasing the efficiency of irrigation which has a direct impact on water use in agriculture sector, the amount of water deficit reduced as a result of the increased system profit.
+Conclusion: The results showed that there is no water deficit for aquaculture and environmental sectors in the scenarios of dry, wet and normal years and the target water demand of these sectors is supplied. However, the amount of water deficit in agricultural sector in dry year with the probability of 18% and under the efficiencies of 37, 45 and 51 percent would be 40.98, 23.67 and 14.07, respectively. With the increase in efficiency, water demand in agriculture, water deficit and ultimate allocation of water to this sector are decreased and system profit under different efficiencies is increased. Based on the obtained results, highlighting the irrigation efficiency and allocating the minimum water demand of the sectors is recommended.

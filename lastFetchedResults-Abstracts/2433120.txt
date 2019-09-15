@@ -1,0 +1,3 @@
+Group decision making is the study of identifying and selecting alternatives based on the values and preferences of the decision maker. Making a decision implies that there are several alternative choices to be considered. This paper uses the concept of Data Envelopment Analysis to introduce a new mathematical method for selecting the best alternative in a group decision making environment. The introduced model is a multi-objective function which is converted into a multi-objective linear programming model from which the optimal solution is obtained.
+
+rical example shows how the new model can be applied to rank the alternatives or to choose a subset of the most promising alternatives.

@@ -1,0 +1,9 @@
+Study objective
+Emergency physicians often use the Glasgow Coma Scale (GCS) to help guide decisions in patient care, yet the reliability of the GCS has never been tested in a typical broad sample of emergency department (ED) patients. We determined the interrater reliability of the GCS between emergency physicians when adult patients with altered levels of consciousness are assessed.
+Methods
+In this prospective observational study at a university Level I trauma center, we enrolled a convenience sample of ED patients older than 17 years who presented with an altered level of consciousness. Two residency-trained attending emergency physicians independently assessed and recorded the GCS score and its components (eye, verbal, and motor) in blinded fashion within a 5-minute period. Data were analyzed for interrater reliability by using standard ordinal calculations. We also created scatter plots and Bland-Altman plots for each GCS component and for the GCS score.
+Results
+One hundred thirty-one patients were screened and enrolled in the study, with 15 excluded because of protocol violations. Of the 116 remaining patients, the agreement percentage for exact total GCS was 32% (τ-b=0.739; Spearman ρ=0.864; Spearman ρ2=75%). Agreement percentage for GCS components were eye 74% (τ-b=0.715; Spearman ρ=0.757; Spearman ρ2=57%), verbal 55% (τ-b=0.587; Spearman ρ=0.665; Spearman ρ2=44%), and motor 72% (τ-b=0.742; Spearman ρ=0.808; Spearman ρ2=65%). Our Spearman's analyses found that only approximately half (44% to 65%) of the observed variance could be explained by the relationship between the paired component measures. For GCS components, only 55% to 74% of paired measures were identical, and 6% to 17% of them were 2 or more points apart.
+Conclusion
+We found only moderate degrees of interrater agreement for the GCS and its components.
+

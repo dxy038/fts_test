@@ -1,0 +1,15 @@
+Correct estimation of crop actual transpiration plays a key-role in precision irrigation scheduling, since crop growth and yield are associated to the water passing through the crop.
+
+Objective of the work was to assess how the combined use of micro-meteorological techniques (eddy covariance, EC) and physiological measurements (sap flow, SF) allows a better comprehension of the processes involving in the Soil–Plant–Atmosphere continuum.
+
+To this aim, an experimental dataset of actual evapotranspiration, plant transpiration, and soil water content measurements was collected in an olive orchard during the midseason phenological period of 2009 and 2010.
+
+It was demonstrated that the joint use of EC and SF techniques is effective to evaluate the components of actual evapotranspiration in an olive orchard characterized by sparse vegetation and a significant fraction of exposed bare soil.
+
+The availability of simultaneous soil water content measurements allowed to estimate the crop coefficients and to assess a simple crop water stress index, depending on actual transpiration that can be evaluated even in the absence of direct measurements of actual transpiration.
+
+The crop coefficients experimentally determined resulted very similar to those previously evaluated; in particular, in the absence of water stress, a seasonal average value of about 0.65 was obtained for the “single” crop coefficient, whereas values of a 0.34 and 0.41 were observed under limited water availability in the root zone.
+
+The comparison between the values of crop water stress index evaluated during the investigated periods evidenced systematically lower values (less crop water stress) in the first year compared to the second, according to the general trend of soil waters content in the root zone.
+
+Further researches are however necessary to extent the experimental dataset to periods characterized by values of soil evaporation higher than those observed, in order to verify the crop coefficients even under different conditions than those investigated.

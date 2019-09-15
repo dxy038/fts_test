@@ -1,0 +1,1 @@
+The objective of this paper is to design the H<sub>2</sub> optimal inverse filter of a given periodic FIR digital filter for signal reconstruction in the presence of measurement noise. The problem is converted to time invariant H<sub>2</sub> optimization by applying the lifting technique for periodic filters and solved using the linear matrix inequality (LMI) approach

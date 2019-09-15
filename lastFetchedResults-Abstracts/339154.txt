@@ -1,0 +1,11 @@
+Objective
+Multiple myeloma remains incurable with current therapy. The proteosome inhibitor, PS-341, has shown objective clinical responses in relapsed refractory myeloma patients. We investigated the potential of enhancing the radiosensitivity of myeloma cells by combining with PS-341; the underlying mechanisms were delineated.
+Materials and Methods
+
+Clonogenic assays were used to evaluate cell survival after exposure to PS-341, ionizing radiation (IR), or PS-341 followed by IR. Apoptosis was studied by annexin V-propidium iodide staining and caspase activation. Cell-cycle phase distribution of cells was determined. Nuclear factor-κB (NF-κB) activity was monitored by enzyme-linked immunosorbent assay and Western blotting. The expression of death receptor Fas/APO-1/CD95 was analyzed by flow cytometry. The consequential caspase-8 activation was detected by Western blotting.
+Results
+
+In clonogenic assays, sequential exposure to nontoxic doses of PS-341 (10 nM) and IR (6 Gy) resulted in synergistic inhibition of proliferation of myeloma cells by modulating the apoptotic sensitivity of these cells. Biochemically, sublethal dose of IR led to potent induction of NF-κB activity, and this response was significantly inhibited by pretreatment with PS-341, or by the NF-κB inhibitory peptide SN-50. Enhanced Fas expression was seen in myeloma cells exposed sequentially to PS-341 and IR. Finally, PS-341 sensitized primary myeloma (CD138+ve) cells to IR but had little effect on CD138-ve bone marrow cells from myeloma patients.
+Conclusion
+
+These data indicate that PS-341 can sensitize myeloma cells to IR by both intrinsic and extrinsic apoptotic pathways. The study indicates improved therapeutic benefits in treatment of multiple myeloma by combining PS-341 with conventional radiotherapy.

@@ -1,0 +1,1 @@
+This article describes design issues in three NoCs (network on chip) that exploit star and mesh networks, with the objective of comparing area and energy costs. We present new solutions based on mesochronous communication and burst packet transactions.

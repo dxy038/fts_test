@@ -1,0 +1,9 @@
+Objective. To describe and evaluate a fast accurate stereoradiographic 3D-reconstruction method of the spine.
+
+Background. Stereoradiographic methods based on anatomical landmarks identification are the only ones providing information on 3D-deformities of the spine in a standing position, but require 2–4 h for the whole spine, making the method inadequate for clinical routine.
+
+Methods. The proposed semi-automated method is based on (1) vertebral body volume reconstruction, (2) definition of a local referential associated to this volume, (3) reliable a priori knowledge of the vertebral shape using eight morphologic descriptors of the vertebral body to estimate, from a multiple linear regression, 21 3D-point coordinates per vertebra, (4) kriging of a 2000 points model with regard to the 21 points. The method was evaluated for vertebral orientation and shape accuracy.
+
+Results. 3D models of the whole spine are obtained within 15 min. Manual vs. semi-automated reconstruction comparison yield similar accuracy regarding the CT-scan references. For vertebrae orientation, results were slightly different from the manual reconstruction method (however an absolute reference is lacking).
+
+Conclusion. The stereoradiographic 3D-reconstruction method allows for a significant reduction of the whole reconstruction time, with regard to previously described methods. Moreover, the accuracy was evaluated and was found to be comparable to the accuracy of previous methods. The results of this study show that stereoradiography could now be employed in routine clinical environment.

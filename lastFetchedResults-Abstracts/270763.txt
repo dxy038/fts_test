@@ -1,0 +1,10 @@
+The objective of this study is to investigate the plane dynamic response of a floating plate
+supported by a fluid. The fluid underneath the plate is modeled using two-dimensional incompressible
+potential flow theory. The fundamental solutions are obtained first. Once the solution for
+the plate displacement is obtained, the other physical quantities of interest-the temporal and
+spatial distributions of the slope, moment, shear and even the buoyant force, the inertial force of
+the fluid and the inertial force of the plate--can be evaluated numerically. Advantageously, using
+superposition and the fundamental solutions presented in this paper, the solution for various loading
+cases can be readily obtained. As an application, the dynamic behavior of a forced sub-surface
+uplift problem is studied. Comparisons are then made with an added mass model. The results reveal
+that the true hydrodynamic model increases the mass and damping of the plate significantly.

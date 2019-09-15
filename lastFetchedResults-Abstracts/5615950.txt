@@ -1,0 +1,1 @@
+In this paper, a bidirectional quantum teleportation protocol based on Einstein-Podolsky-Rosen (EPR) pairs and entanglement swapping is proposed. In this scheme, two users can simultaneously transmit an unknown single-qubit state to each other. The implementation of the proposed scheme is easier in experiment as compared to previous work.

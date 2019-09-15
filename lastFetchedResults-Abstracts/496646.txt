@@ -1,0 +1,18 @@
+The objective of this study was to investigate genetic merit of return over feed (ROF), which is a herd profit index defined by
+CanWest Dairy Herd Improvement as a difference between milk income and feed cost. A multiple-trait (MT) model and random
+regression model (RRM) were used. The traits analyzed in MT were rearing cost and ROF of the first three lactations. In RRM, a
+cumulative ROF was fitted as function of age and rearing cost was treated as a correlated trait. Variance components were
+estimated within a Bayesian framework by Gibbs sampling using a subsample of data. Breeding values were then estimated for
+3 041 078 animals using records of 1 951 893 cows. Estimates of heritability for rearing cost from MT and RRM were 0.23 and
+0.22, respectively. ROF per lactation and cumulative ROF were negatively correlated with rearing cost. Estimates of heritability
+of ROF through the first, second and third lactation from MT were 0.27, 0.10 and 0.08, respectively. Estimates of heritability
+of ROF from RRM increased with age and ranged from 0.08 through 0.31. Estimated breeding values (EBVs) for ROF from MT
+and RRM were moderately correlated with official EBV for production traits and the Canadian selection index (Lifetime Profit
+Index). Herd life EBV had 20.07 and 0.19 correlations with EBVs for ROF from MT and RRM, respectively. From both MT and
+RRM, small favorable correlations were reported between EBVs for ROF and for bone quality and angularity, whereas low
+unfavorable correlations were reported with EBV for udder depth, front end and chest width. Majority of correlations between
+EBVs for ROF and for reproduction traits were near 0, with the exception of EBV for gestation length, calf size and calving
+ease, where small favorable correlations were reported. The ROF is a good indicator of cow profitability despite the
+fact that it is a simplified profit index that does not account for animal-specific health and reproductive cost. However, because
+ROF does not account for differences in heritabilities between components of profit, ROF is not recommended to be used for
+direct selection for profit

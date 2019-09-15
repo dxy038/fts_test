@@ -1,0 +1,11 @@
+Objective
+It has been demonstrated that high concentration of the transcription factor PU.1 (encoded by Sfpi1) promotes macrophage development, whereas low concentration induces B-cell development in vitro. This has led to the hypothesis that lower levels of PU.1 activity are required for B cell than for macrophage development in vivo. We utilized an allele of Sfpi1 (termed BN) with a mutation in the first coding exon, which resulted in a reduction of PU.1 expression in order to test this hypothesis.
+Materials and Methods
+
+Using gene targeting in embryonic stem cells, two ATG-start site codons of PU.1 were mutated, resulting in reduced PU.1 expression originating from a third start codon. Mice were assayed for phenotypic abnormalities using fluorescence-activated cell sorting, microscopy, and colony-forming ability. In addition, isolated cells were tested for their differentiation potential in vitro and in vivo.
+Results
+
+Lymphoid and myeloid cells derived from cultured Sfpi1BN/BN fetal liver cells had reduced levels of PU.1 expression and activity. B-cell development was intrinsically blocked in cells isolated from Sfpi1BN/BN mice. In addition, myeloid development was impaired in Sfpi1BN/BN fetal liver. However, neonatal Sfpi1BN/BN mice had a dramatic expansion and infiltration of immature myeloid cells.
+Conclusion
+
+Contrary to our original hypothesis, high levels of PU.1 activity are required to induce both myeloid and B-cell development. In addition, neonatal mice homozygous for the hypomorphic allele acquire a myeloproliferative disorder and die within 1 month of age.

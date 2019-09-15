@@ -1,0 +1,11 @@
+Objective
+We aimed to perform a quantitative analysis of event-related modulation of EEG activity, resulting from a not-warned and a warned paradigm of painful laser stimulation, in migraine patients and controls, by the use of a novel analysis, based upon a parametric approach to measure predictability of short and noisy time series.
+Methods
+Ten migraine patients were evaluated during the not-symptomatic phase and compared to seven age and sex matched controls. The dorsum of the right hand and the right supraorbital zone were stimulated by a painful CO2 laser, in presence or in absence of a visual warning stimulus. An analysis time of 1 s after the stimulus was submitted to a time–frequency analysis by a complex Morlet wavelet and to a cross-correlation analysis, in order to detect the development of EEG changes and the most activated cortical regions. A parametric approach to measure predictability of short and noisy time series was applied, where time series were modeled by leave-one-out (LOO) error.
+Results
+The averaged laser-evoked potentials features were similar between the two groups in the alerted and not alerted condition. A strong reset of the beta rhythms after the painful stimuli was seen for three groups of electrodes along the midline in patients and controls: the predictability of the series induced by the laser stimulus changed very differently in controls and patients. The separation was more evident after the warning signal, leading to a separation with P-values of 0.0046 for both the hand and the face.
+Discussion
+As painful stimulus causes organization of the local activity in cortex, EEG series become more predictable after stimulation. This phenomenon was less evident in migraine, as a sign of an inadequate cortical reactivity to pain.
+Significance
+The LOO method enabled to show in migraine subtle changes in the cortical response to pain.
+

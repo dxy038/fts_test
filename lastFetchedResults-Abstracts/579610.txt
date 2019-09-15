@@ -1,0 +1,6 @@
+Background and Objective: Determining the symmetric fields equivalent to antisymetric fields ones is an important task in radiotherapy .There are many semiempirical methods based on  exprimatal data.In this study, attempts have been made to give a formula on the basic of logical and physics principles r.
+Subjects and methods: Percentage of depth dose is a function of dimensions of the radiation field (x,y) in constant depth. This means that PDD=f (x,y). It have been changed the variables   and expand PDD in Taylor’s series around the refrence field (10×10). It was ignored degrees higher than two. The coefficient of expansion can be derived from the dosimetry by four experimental measurments. By applying this formula, the PDD for any radiation field is ditermineded.
+Results: The calculated PDD data of radiation fields larger than than 5×5 have been compared with the experimental data of radiation energies 6 and 18MV.
+Conclusion: The difference between the calculated and experimental data of the small radiation fields is more than that of the large fields because dimension of ionization chamber is larger in comparison with the field size. This error is not important since the usual field sizes in radiotherapy are not small. Therefore, this formula is applicable in radiotherapy. 
+Sci Med J 2012;10(6):675-683
+

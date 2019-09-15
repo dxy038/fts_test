@@ -1,0 +1,11 @@
+Objective
+Mesenchymal stem cells (MSC) raise high hopes in clinical applications. However, the lack of common standards and a precise definition of MSC preparations remains a major obstacle in research and application of MSC. Whereas surface antigen markers have failed to precisely define this population, a combination of proteomic data and microarray data provides a new dimension for the definition of MSC preparations.
+Methods
+
+In our continuing effort to characterize MSC, we have analyzed the differential transcriptome and proteome expression profiles of MSC preparations isolated from human bone marrow under two different expansion media (BM-MSC-M1 and BM-MSC-M2).
+Results
+
+In proteomics, 136 protein spots were unambiguously identified by MALDI-TOF-MS and corresponding cDNA spots were selected on our “Human Transcriptome cDNA Microarray.” Combination of datasets revealed a correlation in differential gene expression and protein expression of BM-MSC-M1 vs BM-MSC-M2. Genes involved in metabolism were more highly expressed in BM-MSC-M1, whereas genes involved in development, morphogenesis, extracellular matrix, and differentiation were more highly expressed in BM-MSC-M2. Interchanging culture conditions for 8 days revealed that differential expression was retained in several genes whereas it was altered in others.
+Conclusion
+
+Our results have provided evidence that homogeneous BM-MSC preparations can reproducibly be isolated under standardized conditions, whereas culture conditions exert a prominent impact on transcriptome, proteome, and cellular organization of BM-MSC.

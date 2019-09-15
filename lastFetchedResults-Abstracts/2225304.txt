@@ -1,0 +1,18 @@
+Objective: Type I diabetes is an immunologically-mediated devastation of insulin producing
+cells (IPCs) in the pancreatic islet. Stem cells that produce B-cells are a new
+promising tool. Adult stem cells such as mesenchymal stem cells (MSCs) are self renewing
+multi potent cells showing capabilities to differentiate into ectodermal, mesodermal
+and endodermal tissues. Pancreatic and duodenal homeobox factor 1 (PDX1)
+is a master regulator gene required for embryonic development of the pancreas and
+is crucial for normal pancreatic islets activities in adults.
+Materials and Methods: We induced the over-expression of the PDX1 gene in human
+bone marrow MSCs (BM-MSCs) by Lenti-PDX1 in order to generate IPCs. Next, we examine
+the ability of the cells by measuring insulin/c-peptide production and INSULIN and
+PDX1 gene expressions.
+Results: After transduction, MSCs changed their morphology at day 5 and gradually differentiated
+into IPCs. INSULIN and PDX1 expressions were confirmed by real time polymerase
+chain reaction (RT-PCR) and immunostaining. IPC secreted insulin and C-peptide
+in the media that contained different glucose concentrations.
+Conclusion: MSCs differentiated into IPCs by genetic manipulation. Our result
+showed that lentiviral vectors could deliver PDX1 gene to MSCs and induce pancreatic
+differentiation.

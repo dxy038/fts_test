@@ -1,0 +1,11 @@
+Accurate wind speed modeling is critical in estimating wind energy potential for harnessing wind power effectively.
+The quality of wind speed assessment depends on the capability of chosen probability density function (PDF) to
+describe the measured wind speed frequency distribution. The objective of this study is to describe (model) wind
+speed characteristics using three mixture probability density functions Weibull-extreme value distribution (GEV),
+Weibull-lognormal, and GEV-lognormal which were not tried before. Statistical parameters such as maximum error
+in the Kolmogorov-Smirnov test, root mean square error, Chi-square error, coefficient of determination, and power
+density error are considered as judgment criteria to assess the fitness of the probability density functions. Results
+indicate that Weibull-GEV PDF is able to describe unimodal as well as bimodal wind distributions accurately
+whereas GEV-lognormal PDF is able to describe familiar bell-shaped unimodal distribution well. Results show that
+mixture probability functions are better alternatives to conventional Weibull, two-component mixture Weibull,
+gamma, and lognormal PDFs to describe wind speed characteristics.

@@ -1,0 +1,1 @@
+We propose and experimentally demonstrate a centrally-managed self-survivable WDM-PON capable of providing protection scheme for distribution/feeder fiber, remote node and laser failure. The bidirectional 10 Gbps transmission over 20 km is achieved with less than 2 dB power penalty at 10<sup>-10</sup> BER for both working and protected mode.

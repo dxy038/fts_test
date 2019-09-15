@@ -1,0 +1,6 @@
+Examples from the literature are used to illustrate certain common fallacies in the development of
+estimators and controllers under uncertainty. It is shown that the common notions of process, model,
+objective, and method must carefully be distinguished from one another and from additional concepts
+of attitude and best strategy. Failure to do so can readily lead to false claims and sub-optimal, or
+even useless, schemes. Concrete guidelines are provided to avoid the fallacies and to better focus the
+research effort.

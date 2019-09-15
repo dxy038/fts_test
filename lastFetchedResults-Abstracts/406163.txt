@@ -1,0 +1,9 @@
+Background/Aims
+B7-H1 (PD-L1) is a B7-family member that binds to programmed death-1 (PD-1). Recently, deficiency of PD-L1 has been demonstrated to result in accelerated hepatocyte damage in experimental autoimmune hepatitis, and PD-L1 was suggested to play a critical role in regulating T cell homeostasis. Absence of PD-1 enhanced proliferation of T cells in adenovirus-infected livers and resulted in a rapid clearance of the virus. Here, we aimed to get more insight into hepatic PD-L1 expression, regulation and function.
+Methods
+PD-L1 expression was analyzed by quantitative PCR and FACS-analysis in primary human liver cells and hepatoma cells. Furthermore, coculture experiments with primary human T cells or Jurkat T cells were established.
+Results
+In addition to nonparenchymal liver cells, also hepatocytes constitutively expressed low levels of PD-L1. PD-L1 expression in hepatocytes was strongly enhanced by activated T cells and viral infection, and markedly augmented by further stimulation with type I or type II interferons. Moreover, PD-L1 expression on hepatocytes induced apoptosis in T cells.
+Conclusions
+Our results suggest a novel bidirectional interaction between hepatocytes and lymphocytes modulated by PD-L1 expression in hepatocytes, which may contribute to the unique immunological properties of the liver.
+

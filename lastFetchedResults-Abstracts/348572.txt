@@ -1,0 +1,11 @@
+Objective
+To differentiate physiological from harmonic components in coherence analysis of the tremor-related neural and muscular signals by comparing power, cross-power and coherence spectra.
+Methods
+Influences of waveform, burst-width and additional noise on generating harmonic peaks in the power, cross-power and coherence spectra were studied using simulated signals. The local field potentials (LFPs) of the subthalamic nucleus (STN) and the EMGs of the contralateral forearm muscles in PD patients with rest tremor were analysed.
+Results
+(1) Waveform had significant effect on generating harmonics; (2) noise significantly decreased the coherence values in a frequency-dependent fashion; and (3) cross-spectrum showed high resistance to harmonics. Among six examples of paired LFP–EMG signals, significant coherence appeared at the tremor frequency only, both the tremor and double tremor frequencies and the double-tremor frequency only.
+Conclusions
+In coherence analysis of neural and muscular signals, distortion in waveform generates significant harmonic peaks in the coherence spectra and the coherence values of both physiological and harmonic components are modulated by extra noise or non-tremor related activity.
+Significance
+The physiological or harmonic nature of a coherence peak at the double tremor frequency may be differentiated when the coherence spectra are compared with the power and in particular the cross-power spectra.
+

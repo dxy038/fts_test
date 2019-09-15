@@ -1,0 +1,11 @@
+Objective
+To develop a robust serum-free (SF) system for generation of hemogenic mesoderm and blood progenitors from pluripotent cells.
+Materials and Methods
+
+Embryonic stem cells (ESCs) maintained in N2B27 supplemented with leukemia inhibitory factor (LIF) and bone morphogenetic protein (BMP)-4 were induced to differentiate into Brachyrury/T-expressing cells (measured using a green fluorescent protein reporter) and myeloid-erythroid colony-forming cells (ME-CFCs), by removing LIF, changing the base media formulation, and via the time- and concentration-dependent addition of other factors.
+Results
+
+Presence of 10 ng/mL BMP-4 permitted the emergence of cells expressing T and the vascular endothelial growth factor receptor (VEGFR)-2, however, <5% of the cells were double-positive on day 4. Adjusting the SF media formulation allowed only 5 ng/mL BMP-4 to yield 24% ± 4% Brachyury-green fluorescent protein VEGFR-2+ cells by day 4. These cells could develop into ME-CFC, producing 4.4 ± 0.8 CFC per 1000 cells at day 8. We also examined the timing and concentration sensitivity of BMP-4, VEGF, and thrombopoietin (TPO) during differentiation. BMP-4 with 50 ng/mL TPO generated 232 ± 48 CFC per 5 × 104 cells, similar to the serum-control, and this response could be enhanced to 292 ± 42 CFC per 5 × 104 cells by early (between day 0–5), but not late (after day 5) VEGF treatment.
+Conclusion
+
+Moving to SF systems facilitates directed differentiation by eliminating confounding signals. This article describes modifications to the N2B27 media that amplify mesoderm induction and extends earlier work defining blood progenitor cell induction from ESC with BMP-4, VEGF, and TPO.

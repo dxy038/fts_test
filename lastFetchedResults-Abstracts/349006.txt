@@ -1,0 +1,11 @@
+Objective
+Threshold tracking is a novel technique that permits examination of the excitability of human axons in vivo. Protocols have been validated for sensory and motor axons, but there are limited data on the changes in the excitability of motor axons with age. This study aimed to determine such changes from the third to the eighth decades.
+Methods
+Sixty healthy subjects aged 22–79, 10 per decade, were studied using the TRONDXM4 protocol of the QTRAC threshold-tracking program to assess motor axon function. The median nerve was stimulated at the wrist and the compound muscle action potential was recorded from the thenar muscles.
+Results
+There was an increase in threshold in elderly subjects, associated with a decrease in slope of the stimulus–response curves. Strength-duration time constant and threshold electrotonus to depolarising and hyperpolarising currents of up to 40% did not change significantly with aging. The current–threshold relationship was similar across all decades for subthreshold depolarising currents, but the slope of the current–threshold relationship was significantly steeper the older the subjects for hyperpolarising currents, particularly those greater than 40% of threshold. There was also a significant decrease in supernormality in the recovery cycle with increasing age.
+Conclusions
+The threshold of axons increases with age and the extent of supernormality decreases. There may also be greater inward rectification in motor axons, perhaps due to greater activity of IH, the hyperpolarisation-activated conductance, though this is only significant with hyperpolarising currents greater than 40% of the threshold current.
+Significance
+Many indices of axonal excitability, such as strength-duration time constant, the relative refractory period, late subnormality, threshold electrotonus and the depolarising side of the current–threshold relationship, do not change significantly with age. For other indices, age-related changes may be due to a combination of non-neural factors that alter current access to the node of Ranvier, changes in the axon and its myelination and, possibly, changes in channel activity and/or changes in extracellular [K+]o.
+

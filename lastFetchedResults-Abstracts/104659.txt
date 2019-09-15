@@ -1,0 +1,1 @@
+Heterogeneity is a given these days in almost any IT system installation. It presents problems for implementing security requirements. The first step is to find common ground among the diverse systems. The article discusses how to do this at the various different levels, with security as the objective.

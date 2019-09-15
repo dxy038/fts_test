@@ -1,0 +1,17 @@
+In this paper, optimal Congest Management
+(CM) problem by the Vector Evaluated Particle Swarm
+Optimization (VEPSO) in the deregulated electricity
+market is present. The CM problem is formulated as an
+optimization problem according to the generator
+sensitivity by objective function to minimizing redispatch
+cost which is solved by the VEPSO technique
+that has a strong ability to find the most optimistic
+results. In the proposed VEPSO technique, generators are
+choosing based on their sensitivity for efficient utilization
+on line congested. The task of optimal rescheduling
+active powers of participating generators to reduce
+transmission line congestion is attempted by VEPSO. The
+proposed algorithm applied on different test standard
+power system. The effectiveness of the proposed method
+is compared with CPSO, PSO-TVAC and PSO-TVIW.
+Results showed the efficiency of the proposed algorithm.

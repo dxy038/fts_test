@@ -1,0 +1,18 @@
+Vulnerability assessment to delineate areas that are more susceptible to contamination from anthropogenic sources has
+become an important element for sensible resource management and land use planning. This contribution aims at estimating
+aquifer vulnerability by applying the DRASTIC model as well as utilizing sensitivity analyses to evaluate the relative
+importance of the model parameters for aquifer vulnerability in Kakamigahara Heights, Gifu Prefecture central Japan. An
+additional objective is to demonstrate the combined use of the DRASTIC and geographical information system (GIS) as an
+effective method for groundwater pollution risk assessment. The DRASTIC model uses seven environmental parameters (Depth
+to water, net Recharge, Aquifer media, Soil media, Topography, Impact of vadose zone, and hydraulic Conductivity) to
+characterize the hydrogeological setting and evaluate aquifer vulnerability. The western part of the Kakamigahara aquifer was
+dominated by bHighQ vulnerability classes while the eastern part was characterized by bModerateQ vulnerability classes. The
+elevated north-eastern part of the study area displayed bLowQ aquifer vulnerability. The integrated vulnerability map shows the
+high risk imposed on the eastern part of the Kakamigahara aquifer due to the high pollution potential of intensive vegetable
+cultivation. The more vulnerable western part of the aquifer is, however, under a lower contamination risk. In Kakamigahara
+Heights, land use seems to be a better predictor of groundwater contamination by nitrate. Net recharge parameter inflicted the
+largest impact on the intrinsic vulnerability of the aquifer followed by soil media, topography, vadose zone media, and hydraulic
+conductivity. Sensitivity analyses indicated that the removal of net recharge, soil media and topography causes large variation in
+vulnerability index. Moreover, net recharge and hydraulic conductivity were found to be more effective in assessing aquifer
+vulnerability than assumed by the DRASTIC model. The GIS technique has provided efficient environment for analyses and
+high capabilities of handling large spatial data.

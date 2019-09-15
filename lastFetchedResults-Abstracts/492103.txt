@@ -1,0 +1,13 @@
+High tuberculosis (TB) prevalence in Papua New Guinea (PNG) is a serious public
+health concern. The epidemic in this region is exacerbated by the presence of drugresistant
+TB strains as well as HIV infection. This presents a public health threat not
+only locally but also to Australia due to the high potential for cross-border transmission
+between PNG’s Western Province and the Australian Torres Strait Islands. We present
+two mathematical models of TB in the Western Province: a simple model of the
+underlying TB dynamics, and a detailed model which accounts for the additional
+effects of HIV and drug resistance. The detailed model is used to make quantitative
+predictions about the impact of expanding the TB case detection rate under the Directly
+Observed Treatment, Short-course treatment regimen. This paper provides a framework
+for future investigation into the economic costs and public health benefits of potential
+TB interventions in this region, with the eventual aim of providing recommendations to
+guide policy makers in both PNG and Australia.

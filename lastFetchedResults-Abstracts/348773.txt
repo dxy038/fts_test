@@ -1,0 +1,11 @@
+Objective
+Brain responses to repeated sensory stimuli are typically buried in the more prominent background activity, and thus analysis of these responses on a single-trial basis would require advanced procedures to estimate the brain activity related only to the experimental task. Recently, we have proposed a new iterative independent component analysis (iICA) approach to estimate single-trial responses. In this paper, we compare the performance of iICA at estimating single-trial responses with ensemble averaging and wavelet transform (WT) denoising.
+Methods
+We analyzed simulated evoked potentials (EPs) and actual recordings of the auditory N100 component from 33 normal subjects, and the performance of each method was quantified in terms of the average root-mean-square error and average correlation before and after processing.
+Results
+We found that WT gave a smoother overall average EP, while iICA could isolate the N100 component out of the entire EP waveform. With simulated data, iICA provided significantly better estimates of the true EP compared to plain averaging (p < 0.01) and WT (p < 0.01). With actual data, iICA showed clear responses in single trials, in all subjects. Additionally, the corresponding average EPs had a sharper N100–P200 complex, with flatter preceding and following regions, resulting in an enhanced N100 component.
+Conclusions
+The iICA procedure can provide clear responses in each single trial, and the resulting average N100 component is significantly improved compared to plain averaging and wavelet denoising.
+Significance
+The proposed technique may have a significant impact as a clinical tool in the analysis of single-trial responses.
+

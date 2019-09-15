@@ -1,0 +1,9 @@
+The main objective of the design of high tension (HT) increased safety (Ex e) motor is to prevent the arc/spark and
+control the temperature of any part of Ex ‘e’ HT motor which cannot act as source of ignition in the explosive
+atmospheres. The time tE is the time taken by motor windings to reach the limiting temperature of winding insulation
+which is very important for increased safety motor. The time tE of rotor or stator winding can be affected by increasing
+the mass of rotor winding of motor. The time tE is very critical for any HT Exe motor and it should be at least 5
+seconds as per requirement of IS/IEC 60079-7:2006. A study has been conducted in this paper to discern the effect of
+increased mass of normal rotor winding on the time tE and the performance characteristic of motor. The Ex ‘e’ high
+tension induction motors mentioned in this paper have been manufactured by Bharat Heavy Electricals Ltd. (BHEL),
+Bhopal, India during the project as per the design and guidance of main author as project leader.

@@ -1,0 +1,1 @@
+The feature selection as a multi objective optimization problem is considered in this paper. The multi objective evolutionary search with a generalized criterion function is developed for feature selection. The experiments and results of proposed methods usage are presented.

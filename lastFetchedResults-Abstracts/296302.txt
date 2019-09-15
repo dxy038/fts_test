@@ -1,0 +1,11 @@
+Objective
+To estimate the diagnostic value of serum PCT, CRP, leukocyte count and temperature as markers of sepsis in critically ill ICU burn patients.
+Design and setting
+Prospective, observational study in a four bed Burn Intensive Care Unit.
+Patients
+Forty-three patients admitted in a Burn ICU were included in our study.
+Measurements and results
+Serum PCT, CRP concentrations, WCC (white cell count), neutrophils and temperature were measured within the first 24 h after-burn and daily thereafter. Severity of organ failure was estimated by sequential organ failure assessment (SOFA) score. Every day we classified all patients in one of the following three categories: non-systemic inflammatory condition (non-SIRS), SIRS non-infected and SIRS 2 infected or sepsis. Patients with infected SIRS differ significantly from non-infected SIRS in PCT (11.8 ± 15.8 versus 0.63 ± 0.0.43, respectively, p < 0.001). On the other hand, WCC, temperature and neurtophils did not differ significantly between patients with SIRS non-infected and infected SIRS. CRP was elevated in all three groups but didn’t differ significantly between SIRS non-infected and septic patients. Area under receiver operating curves was 0.975 and showed reasonable discriminative power (p = 0.002, 95% CI, 0.91–1.035) in predicting of sepsis only for PCT.
+Conclusions
+Serum procalcitonin levels can be used as an early indicator of septic complication in patients with severe burn injury
+

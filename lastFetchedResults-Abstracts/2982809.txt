@@ -1,0 +1,1 @@
+The objective of the paper is to present a safety evaluation method. Fuzzy colored Petri nets (FCPN), which are a fuzzy Petri net model based on colored Petri nets, are introduced as the basis of the evaluation. FCPN prove to be useful to evaluate software safety through the safety evaluation method proposed in this work.

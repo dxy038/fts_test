@@ -1,0 +1,7 @@
+The Rı´a de Ribadeo, a small embayment in NW Spain, was observed for the first time using three months of ADCP (Acoustic
+Doppler Current Profiler) current meter records and three CTD (Conductivity Temperature Depth) surveys. A wave driven circulation
+pattern arises from the observations, instead of the shelf wind driven circulation of other Galician Rias. Based on ADCP
+records, a unidirectional flow in the horizontal velocity field coexists with the classic two-layer circulation (bidirectional flow).
+The proposed horizontal circulation pattern can then be explained as a wave driven inflow. This flow enters the ria through the west
+side, describes an anticlockwise gyre inside of it, and flows out through the east side. Numerical simulations run with the HAMSOM
+(Hamburg Shelf Ocean Model) agreed with observations, confirming the proposed pattern.

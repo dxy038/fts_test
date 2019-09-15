@@ -1,0 +1,19 @@
+This work is the extension of previous work dedicated to pure fluids. The
+same method is extended to the representation of thermodynamic properties
+of a mixture through a fundamental equation of state in terms of the Helmholtz
+energy. The proposed technique exploits the extended correspondingstates
+concept of distorting the independent variables of a dedicated equation
+of state for a reference fluid using suitable scale factor functions to adapt
+the equation to experimental data of a target system. An existing equation
+of state for the target mixture is used instead of an equation for the reference
+fluid, completely avoiding the need for a reference fluid. In particular,
+a Soave–Redlich–Kwong cubic equation with van der Waals mixing rules is
+chosen. The scale factors, which are functions of temperature, density, and
+mole fraction of the target mixture, are expressed in the form of a multilayer
+feedforward neural network, whose coefficients are regressed by minimizing
+a suitable objective function involving different kinds of mixture thermodynamic
+data. As a preliminary test, the model is applied to five binary and
+two ternary haloalkane mixtures, using data generated from existing dedicated
+equations of state for the selected mixtures. The results show that the method
+is robust and straightforward for the effective development of a mixturespecific
+equation of state directly from experimental data

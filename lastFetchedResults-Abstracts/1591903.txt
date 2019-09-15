@@ -1,0 +1,9 @@
+Objective. To determine the relationship between hospital admissions for falls and hip fracture in elderly people and area characteristics such as socio-economic deprivation.
+
+design. Ecological study of routinely collected hospital admissions data for falls and hip fracture in people aged 75 years or over for 1992–1997, linked at electoral ward level with characteristics from census data.
+
+s. In total, 42,293 and 17,390 admissions were identified for falls and hip fracture, respectively, from 858 electoral wards in Trent. Rate ratios (RRs) for hospital admissions for falls and hip fracture were calculated by the electoral wards' Townsend score divided by quintiles. RRs were estimated by negative binomial regression and adjusted for the ward characteristics of age, gender, ethnicity, rurality, proportion of elderly people living alone and distance from hospital.
+
+s. There was a small but statistically significant association at electoral ward level between hospital admissions for falls and the Townsend score, with the most deprived wards having a 10% higher admission rate for falls compared with the most affluent wards (adjusted RR 1.10, 95% CI 1.01–1.19). No association was found between hospital admission for hip fracture and deprivation (adjusted RR 1.05, 95% CI 0.95–1.16).
+
+sion. There is some evidence of an association at electoral ward level between hospital admissions for falls and socio-economic deprivation, with higher rates in deprived areas. No such association was found for hip fracture. Further work is required to assess the impact of interventions on reducing inequalities in hospital admission rates for falls in elderly people.

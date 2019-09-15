@@ -1,0 +1,13 @@
+Conventional information science considers an information process, but traditionally uses the probability measure for random states and Shannon’s entropy as the uncertainty function of these states.
+
+This paper presents a new approach, based on an integral information measure of the random process.
+
+An entropy functional (EF) on the trajectories of the process accumulates and encodes the process’ inner connections between the information states.
+
+The application of a variation principle (VP) to the EF determines the process’ information path functional (IPF), whose extremal trajectories describe the informational dynamics of this process.
+
+Information dynamics with the VP invariant relations evaluate the information content of a random process, expose its information code and reveal a conserved (hidden) information, produced at an acquisition of the process information.
+
+By introducing both objective and subjective information observers, we consider the observers information cognitive dynamics and neurodynamics, based on the EF–IPF approach.
+
+The universal nature of information process’ dynamics and regularities, discovered in the information observers, have many applications not only in cognitive and intelligent systems, but also in different biological, social and economic systems.

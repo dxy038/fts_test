@@ -1,0 +1,9 @@
+Objective
+We compared the efficacy of folic acid (FA) plus enalapril with enalapril alone on the reduction of blood pressure (BP) and fasting plasma glucose (FPG) in adult Chinese hypertensive patients.
+Methods
+Four hundred eighty subjects with mild to moderate BP were randomly assigned to one of three treatment groups: 1) 10 mg of enalapril (control group), 2) 10 mg of enalapril plus 0.4 mg of FA (low-FA group), or 3) 10 mg of enalapril plus 0.8 mg of FA (high-FA group) daily for 8 wk. Generalized linear mixed models were used to compare the reduction in BP and FPG level from baseline to week 8 of the treatment and the difference among the three treatment groups, adjusting for pertinent covariates.
+Results
+Four hundred forty-three subjects (57.3% women, 27–75 y of age) successfully completed the trial. After the 8-wk treatment, compared with baseline, all treatment groups showed significant reduction of BP but not of FPG. There was no significant difference in BP or FPG reduction among the three treatment groups. In subgroup analysis, we found that in subjects with hyperglycemia (FPG ≥6.1 mmol/L) at baseline, FPG reduction was significantly greater in the high-FA group (−0.80 ± 1.20 mmol/L) than in the low-FA group (−0.39 ± 1.44 mmol/L) and the control group (−0.23 ± 1.30 mmol/L). Regression analysis further confirmed that FPG reduction in the high-FA group was −0.68 ± 0.28 mmol/L greater than in the control group (P = 0.015), even after adjustment for important covariates. A dose–response trend was evident (P for trend = 0.025) and the test for an interaction between treatment group and baseline FPG was significant (P < 0.001).
+Conclusion
+In this sample of adult Chinese hypertensive patients, FA combined with enalapril showed a greater beneficial effect on reduction of FPG in a dose-related fashion than did enalapril alone among subjects with hyperglycemia.
+

@@ -1,0 +1,7 @@
+Objective: Chronic myeloid leukemia (CML) develops when a hematopoietic stem cell acquires the BCR/ABL fusion gene. This causes these transformed hematopoietic cells to have a greater than normal proliferation rate. Scientists attempt to improve the CML treatment process by silencing the BCR/ABL oncogene. In this work, we used morpholino antisense oligos to silence the BCR/ABL oncogene.
+
+Materials and Methods: In this study, the K562 was used as a BCR/ABL fusion-gene positive cell line and the Jurkat cell line as a control. We explored the inhibiting capacity of morpholino antisense oligos in the the expression of the BCR/ABL oncogene and studied their p210 BCR/ABL suppression, inhibition of cell proliferation and stimulation of apoptosis in the K562 cells after 24 and 48 hours. Endo-Porter was used for delivery of morpholino antisense oligos into cell cytosols. Meanwhile, flow cytometric analysis was performed in order to determine the appropriate concentration of morpholino antisense oligos.
+
+Results: Prolonged exposure of the K562 cell line to the morpholino antisense oligos targeted against the BCR-ABL gene showed proliferation inhibition as its main feature. After western blotting, we found that complete silencing of BCR/ABL was achieved, but flow cytometric analysis showed no broad apoptosis.
+
+Conclusion: The results indicate that the Morpholino antisense oligo is able to inhibit p210 BCR/ABL; however, it cannot induce broad apoptosis due to co-silencing of BCR.

@@ -1,0 +1,28 @@
+The assessment of structural seismic response is often done by selecting ground
+motion records that conform to the seismic hazard conditions of the objective
+site, and which can be obtained based on probabilistic seismic hazard analysis
+(PSHA). A common recordselection practice suggests selecting seven records that
+are compatible with the dominant earthquake scenario in a given site. The
+selected records are then scaled (if necessary) to match the design level of
+the uniform hazard spectrum (UHS). Many research results have shown that using
+the UHS leads to a significant bias in structural response assessment. The
+conditional mean spectrum (CMS) has been recently proposed as an alternative to
+the uniform hazard spectrum (UHS) for employment as a target spectrum in
+ground motion record selection. The CMS provides the expected response spectrum,
+conditional to the occurrence of a target spectral acceleration value in the period of interest. The correlation of ?  values in different periods is considered in CMS development, but conventional
+regression analysis has been applied to measure the degree of correlation of ?  values in different periods, and the influence of outlier data has not been studied. Outliers are sample values that
+cause surprises in relation to the majority of samples. The main objective of this paper is to 
+reveal an important drawback in the procedure for calculation of CMS. The authors believe that
+ the developed procedure for CMS leads to a spectral shaped anomaly that is not consistent
+enough with real ground motion. A robust regression analysis is proposed in
+this paper to improve the current CMS, which is based on a conventional
+regression analysis. Robust regression is an important tool for analyzing data
+that are contaminated with outliers. Robust regression analysis works by
+assigning a weight to each data point. Weighting is done ``automatically and iteratively using a 
+process called'' iteratively reweighted least squares.
+The results show that the proposed robust CMS significantly differs from the
+conventional CMS, especially for higher periods of interest. The shape of the 
+robust CMS represents rare ground motion in a more reliable manner, compared 
+with convent Convertional CMS.
+
+

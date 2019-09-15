@@ -1,0 +1,8 @@
+Objective
+ of anticoagulant administration has been a primary concern of the Joint Commission on Accreditation of Healthcare Organizations. Among all anticoagulants, warfarin has long been listed among the top ten drugs causing adverse drug events. Due to narrow therapeutic range and significant side effects, warfarin dosage determination becomes a challenging task in clinical practice. For superior clinical decision making, this study attempts to build a warfarin dosage prediction model utilizing a number of supervised learning techniques.
+s and materials
+ta consists of complete historical records of 587 Taiwan clinical cases who received warfarin treatment as well as warfarin dose adjustment. A number of supervised learning techniques were investigated, including multilayer perceptron, model tree, k nearest neighbors, and support vector regression (SVR). To achieve higher prediction accuracy, we further consider both homogeneous and heterogeneous ensembles (i.e., bagging and voting). For performance evaluation, the initial dose of warfarin prescribed by clinicians is established as the baseline. The mean absolute error (MAE) and standard deviation of errors (σ(E)) are considered as evaluation indicators.
+s
+erall evaluation results show that all of the learning based systems are significantly more accurate than the baseline (MAE = 0.394, σ(E) = 0.558). Among all prediction models, both Bagged Voting (MAE = 0.210, σ(E) = 0.357) with four classifiers and Bagged SVR (MAE = 0.210, σ(E) = 0.366) are suggested as the two most effective prediction models due to their lower MAE and σ(E).
+sion
+vestigated models can not only facilitate clinicians in dosage decision-making, but also help reduce patient risk from adverse drug events.

@@ -1,0 +1,1 @@
+A new optimization model on condition that short selling is not permitted is proposed based on Markowitz´s mean and variance model. This two-objective programming model can improve Markowitz´s model on one side because our new model considers both profit and risk in the objective function at the same time. Finally, the algorithm to the two-objective programming model is given.

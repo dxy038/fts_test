@@ -1,0 +1,9 @@
+Objective. The influence of trunk posture on musculoskeletal stability of the spine was investigated.
+
+Design. A biomechanical model was developed to evaluate the influence of posture on spinal stability. Model performance was assessed by comparing predicted muscle recruitment patterns with measured EMG activity from the trunk muscles during static lifting exertions.
+
+Method. An inverted double-pendulum model of the spine controlled by 12 muscle equivalents of the trunk was implemented to determine spinal load and stability. Model input included trunk posture and lifted mass, output included muscle recruitment patterns necessary to achieve stability of the spine and spinal load. EMG activity recorded from the trunk muscles of 10 subjects were recorded during static exertions in various trunk flexion and asymmetric postures to compare with model output. Stable spinal load was examined as a function of trunk flexion and asymmetry during the lifting exertions.
+
+Results. Antagonsitic co-contraction was necessary to achieve spinal stability, particularly in upright postures. Stable spinal load was increased in asymmetric postures as a result of antagonistic muscle recruitment, suggesting greater neuromuscular control is necessary to maintain stability in asymmetric lifting postures. As trunk flexion angle increased, stability improved but spinal load was greater.
+
+Conclusions. Results illustrate that muscle recruitment patterns are more accurately explained by stability than by equilibrium alone. Spinal stability is influenced by posture. Specifically, control of spinal stability is reduced in asymmetric postures associated with low-back disorder risk.

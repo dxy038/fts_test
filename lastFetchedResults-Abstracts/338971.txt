@@ -1,0 +1,11 @@
+Objective
+The t(9;22) translocation is associated with more than 95% of cases of chronic myeloid leukemia. The resulting fusion of the BCR and ABL1 loci produces the constitutively active BCR/ABL1 tyrosine kinase. A wide range of signal transduction molecules are activated by BCR/ABL1, including MYC, PI-3 kinase, and different STAT molecules. In contrast, relatively few genes are known to be regulated by BCR/ABL1 at the level of transcription.
+Materials and Methods
+
+In an effort to better understand the transcriptional program activated by BCR/ABL1, we used cDNA microarrays to evaluate the relative expression of approximately 6450 human genes in U937 myelomonocytic cells expressing P210 BCR/ABL1 via a tetracycline-inducible promoter.
+Results
+
+We confirmed the previously reported up-regulation of the PIM1 and JUN oncogenes by BCR/ABL1. In addition, we identified 59 more genes up-regulated by BCR/ABL1. Interestingly, roughly one third of these were genes previously reported to be interferon (IFN)-responsive, including the OAS1, IFIT1, IFI16, ISGF3G, and STAT1 genes. An additional seven BCR/ABL1-regulated genes were found to be IFN-responsive in U937 cells. The expression profile also included genes encoding transcription factors, kinases, and signal transduction molecules, as well as genes regulating cell growth, differentiation, apoptosis, and cell adhesion, features previously suggested to be affected by BCR/ABL1.
+Conclusion
+
+These observations shed novel insight into the mechanism of BCR/ABL1 action and provide a range of targets for further investigation.

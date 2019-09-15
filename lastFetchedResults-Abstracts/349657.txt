@@ -1,0 +1,11 @@
+Objective
+Automatic measurement and monitoring of mental fatigue are invaluable for preventing mental-fatigue related accidents. We test an EEG-based mental-fatigue monitoring system using a probabilistic-based support vector-machines (SVM) method.
+Methods
+Ten subjects underwent 25-h sleep deprivation experiments with EEG monitoring. EEG data were segmented into 3-s long epochs and manually classified into 5 mental-fatigue levels, based on subjects’ performance on an auditory vigilance task (AVT). Probabilistic-based multi-class SVM and standard multi-class SVM were compared as classifiers for distinguishing mental fatigue into the 5 mental-fatigue levels.
+Results
+Accuracy of the probabilistic-based multi-class SVM was 87.2%, compared to 85.4% using the standard multi-class SVM. Using confidence estimates aggregation, accuracy increased to 91.2%.
+Conclusions
+Probabilistic-based multi-class SVM not only gives superior classification accuracy but also provides a valuable estimate of confidence in the prediction of mental fatigue level in a given 3-s EEG epoch.
+Significance
+The work demonstrates the feasibility of an automatic EEG method for assessing and monitoring of mental fatigue. Future applications of this include traffic safety and other domains where measurement or monitoring of mental fatigue is crucial.
+

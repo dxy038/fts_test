@@ -1,0 +1,9 @@
+Objective: Obesity is typically developed over long time and reflected in an energy imbalance, which is too small to be measured and controlled. Our objective is to formulate a mathematical model for the relation between the change in body mass and the values of the energy intake and the energy expenditure, controlled by the physical activity factor PAF .
+
+nd theory: The uncontrolled components of energy expenditure increases as result of body mass increase: expenditure of a larger mass and expenditure to convert matter in intake into tissue. Both contributions depend on the fraction of fat in the added tissue. Based on data from the literature, the fraction of fat in added tissue and the energy required to convert energy into tissue are estimated and included in the model.
+
+s: Application of the theory shows that an increase in body mass of 1 kg/year corresponds to an energy imbalance of 71 kJ/d for men. Of this imbalance, 82% are stored as new tissue, while 18% are used for energy conversion.
+
+an in steady state changes energy intake by 0.1 MJ/d, keeping the physical activity factor constant, then the corresponding increase in steady-state body mass is 1.77 kg/PAF, and it will take 320 / PAF days before half the change of body mass has taken place. A typical value for PAF is 1.8.
+
+sion: Energy-based theoretical relations between the various factors involved in energy balance help identifying and quantifying the components of the energy balance and understanding their relations during development of obesity. The inclusion of increased energy expenditure to convert food energy to tissue changes previous estimates of the energy imbalance by about 20 percent.

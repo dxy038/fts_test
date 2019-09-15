@@ -1,0 +1,11 @@
+Objectives
+The main objective of this study was to assess the feasibility of using X-ray microcomputed tomography (μCT) as a viable technique for accurate measurements of composite volumetric changes due to polymerization.
+Methods
+
+μCT, a non-destructive 3D imaging technique that measures the intensity of content at each voxel, was used to determine the volume of experimental and commercial polymeric dental composites before and after photopolymerization. The experimental composites consisted of various mass ratios of 2,2-bis(4-(2-hydroxy-3-methacryloxypropoxy)-phenyl]propane (BisGMA) and triethylene glycol dimethacrylate (TEGDMA) filled with various amounts of barium boroaluminosilicate glass and fumed amorphous silica. Polymerization shrinkage was determined using μCT and shrinkage calculated based on density measurements.
+Results
+
+μCT was successfully used to calculate volumetric shrinkage of dental composites. Results agreed well with shrinkage obtained via density measurements of the same sample. The addition of radio opaque filler was necessary to achieve sufficient contrast between the sample and background. Appropriate image analysis procedures were needed to obtain the volumes of sample specimens.
+Significance
+
+μCT enables the characterization of polymerization shrinkage under clinically relevant conditions. In particular, the sample geometry and the physical state (liquid or solid) are flexible. The current test allowed multiple samples to be measured at the same time. In addition, the ability to accurately measure the size and shape of the object will allow multiple properties to be determined simultaneously.

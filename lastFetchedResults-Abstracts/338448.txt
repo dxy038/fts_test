@@ -1,0 +1,11 @@
+Objective
+Leridistim is a member of a novel family of engineered chimeric cytokines, myelopoietins, that contain agonists of both interleukin-3 (IL-3) receptors (IL-3R) and granulocyte colony-stimulating factor (G-CSF) receptors (G-CSFR).
+Materials and Methods
+
+To more clearly understand Leridistim's function at the molecular level, binding to both IL-3R and G-CSFR and subsequent signaling characteristics have been delineated.
+Results
+
+The affinity of Leridistim for the human G-CSFR was found to be comparable to that of native G-CSF (IC50 = 0.96 nM and 1.0 nM, respectively). Both Leridistim and G-CSF induced receptor tyrosine phosphorylation to a similar maximal level. Compared with native recombinant human IL-3 (rhIL-3), Leridistim was found to possess higher affinity for the IL-3R α chain (IL-3Rα) (IC50 = 85 nM and 162 nM, respectively). However, the increase in Leridistim binding affinity to the functional, high-affinity heterodimeric IL-3Rαβc receptor is lower than that observed with rhIL-3 (85 nM and 14 nM vs 162 nM and 3.5 nM, respectively). Leridistim induced tyrosine phosphorylation of βc to a level comparable to native IL-3, and the level of JAK2 tyrosine phosphorylation in cells expressing both IL-3R and G-CSFR was comparable to that observed with IL-3 or G-CSF alone. The ability of Leridistim to interact with IL-3R and G-CSFR simultaneously was demonstrated using surface plasmon resonance analysis. These studies were extended to demonstrate that Leridistim exhibited a higher affinity for the IL-3R on cells that express both the IL-3Rαβc and the G-CSFR (IC50 = 2 nM) compared with cells that contain the IL-3Rαβc alone (IC50 = 14 nM).
+Conclusion
+
+Leridistim binds to both IL-3R and G-CSFR simultaneously and has been shown to activate both receptors. The bivalent avidity may explain the unique biologic effects and unexpected potency of Leridistim in hematopoietic cells compared with rhIL-3 or G-CSF alone or in combination.

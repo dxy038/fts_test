@@ -1,0 +1,17 @@
+Introducing Some PTF for Soil Physical Properties in Bank of Yangtze River, Nanjing District
+
+GM. XU1, SAYYED HASSAN TABATABAEI2* 
+1-	Nanjing Hydraulic Research Institute, Geotechnical Engineering Department, Nanjing, P.R. China
+2- Department of Water Engineering, Faculty of Agriculture, University of Shahrekord, Shahrekord, Iran
+
+Received: 11 May 2010                         Accepted: 17 October 2010
+
+*Corresponding author: E-mail: stabaei@agr.sku.ac.ir
+
+
+ABSTRACT 
+Pedotransfer function (PTF) is a new technique for predication of the soil physical properties (SPP). Generally, SPP such as dry density, porosity, void ratio, soil hydraulic conductivity are estimated by a semi-empirical equation. The objective of this research was developing some PTF for estimation of SPP in bank of the Yangtze River, in Nanjing city, Jiangsu province, China. The SPP that has been considered in this research were: wet density ( ?w), dry density ( ?d ), void ratio (e), liquid limit (LL) and plastic limit (LP). All soil analysis carried out by the soil geotechnical analysis standard method. 650 series of data were used for calibration and more than 100 series data for verification. The result shows that most of SPP in the study area can be significantly estimated by wet density ( ?w). For instant ?d = 1.474 + 1.531 × ?w and L1= 142.766- 54.898 × ?w. Base on the results a computer program has been developed to estimate the SPP. 
+
+Keywords: Soil properties, Pedotransfer function, Yangtze River, Nanjing 
+
+

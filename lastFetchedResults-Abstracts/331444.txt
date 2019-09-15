@@ -1,0 +1,11 @@
+Objectives
+Fracture toughness KIc is an important mechanical property of dental ceramics. One of the most reliable methods to determine the fracture toughness of a ceramic material is the single-edge V-notched-beam (SEVNB) method. The objective of the study is to reveal and quantify the influence of the notch root radius on the fracture toughness value proved on the high strength ceramic material zirconia.
+Methods
+
+Bar specimens (n = 16) made of high strength zirconia ceramics (3Y-TZP) were notched by a diamond charged cutting wheel. The notch roots were sharpened using the razor blade method with systematically varying notch root radii. The critical stress intensities as a function of the respective notch root radii of all specimens were determined in flexural strength test.
+Results
+
+The notch root radii showed a pronounced effect on the determined fracture toughness values. Notch root radii between 18 and 167 μm were produced. The respective determined fracture toughness values varied between 5.9 and 13.6 MPam0.5.
+Significance
+
+It is of decisive importance to sharpen the notch root radius of a SEVNB specimen to determine the true fracture toughness value. If the notch root radius is above a critical value, the measured fracture toughness value will be overestimated.

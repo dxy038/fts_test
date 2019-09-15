@@ -1,0 +1,12 @@
+The objective of this paper is to investigate the e ciency of various computational algorithms implemented
+in the framework of structural optimization methods based on evolutionary algorithms. In
+particular, the e ciency of parallel computational strategies is examined with reference to evolution
+strategies (ES) and genetic algorithms (GA). Parallel strategies are implemented both at the level of
+the optimization algorithm, by exploiting the natural parallelization features of the evolutionary algorithms,
+as well as at the level of the repeated structural analysis problems that are required by ES and
+GA. In the latter case the  nite element solutions are performed by the FETI domain decomposition
+method specially tailored to the particular type of problems at hand. The proposed methodology is
+generic and can be applied to all types of optimization problems as long as they involve large-scale
+ nite element simulations. The numerical tests of the present study are performed on sizing optimization
+of skeletal structures. The numerical tests demonstrate the computational advantages of the proposed
+parallel strategies, which become more pronounced in large-scale optimization problems

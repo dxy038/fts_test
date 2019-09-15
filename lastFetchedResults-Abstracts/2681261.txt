@@ -1,0 +1,17 @@
+The concept of sustainability in supply chain management refers to a
+logical balance between economic development, environmental considerations, and social
+responsibilities. In this paper, a sustainable model has been proposed to design a supply
+chain network in textile industries considering the key environmental and social factors.
+Regarding the type of industry and characteristics of the area under study (Zanjan,
+northwest Iran), minimizing the negative eects of wasteful extraction of ground waters and
+the environmental pollution resulting from industrial wastewaters and maximizing justicebased
+employment were considered. The supply chain consists of the following elements:
+suppliers, plants, distribution centers, water renery centers, and customer zones. One of
+the important features of the proposed model is that it considers the lost opportunity cost
+of facilities and focuses on wastewater recycling in water reneries. To solve the model, the
+Multi-Objective Vibration Damping Optimization (MOVDO) algorithm has been used. In
+addition, to evaluate the proposed model, as a case study, the supply chain network design
+problem was solved in textile industry. In addition, to evaluate the solution performance of
+the used algorithm in comparison with that of the NSGA-II algorithm, ten random problems
+with dierent sizes were solved, and the results were analyzed using dierent indexes. All
+in all, the results show that the proposed method has the necessary performance.

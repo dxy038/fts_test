@@ -1,0 +1,8 @@
+This paper addresses the problems of selection and scheduling related to a virtual organisation in which a
+central service broker communicates with groups of service providers offering services of different types.
+Our objective is to show that these problems can be formulated in a precise manner and that well-established
+algorithms can be developed for solving them. Especially, Tabu Search and Simulated Annealing
+with Variable Neighbourhood search are proposed as options for finding near-optimal solutions to the
+selection and scheduling problems. In our computational experiments, the algorithms were first validated
+with the help of benchmark job-shop problems and then applied to a specific cutting stock problem
+with randomly generated instances.

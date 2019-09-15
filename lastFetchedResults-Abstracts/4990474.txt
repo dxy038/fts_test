@@ -1,0 +1,1 @@
+The main objective of this workshop is to investigate parallel and distributed architectures, algorithms and data structures for the processing of spatial data. The aim is to identify advantages and disadvantages of the different combinations of hard and soft technologies for different classes of applications

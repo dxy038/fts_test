@@ -1,0 +1,7 @@
+In this paper, we develop an approach to optimally allocate a limited nonrenewable resource
+among the activities of a project, represented by a PERT-Type Network (PTN). The project needs to
+be completed within some specified due date. The objective is to maximize the probability of project
+completion on time. The duration of each activity is an arbitrary discrete random variable and also depends
+on the amount of consumable resource allocated to it. On the basis of the structure of networks, they
+are categorized as either reducible or irreducible. For each network structure, an analytical algorithm is
+presented. Through some examples, the algorithms are illustrated.

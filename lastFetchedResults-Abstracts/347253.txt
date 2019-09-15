@@ -1,0 +1,5 @@
+Objective: To develop an automated procedure for scoring neonatal sleep states using signal processing which are based on visual pattern recognition techniques.
+Methods: We are developing an automated computer system to study relationships among multiple non-cerebral physiologic measures and brain activity in newborn infants, and are evaluating the usefulness of a number of different time–frequency domain transforms as potential diagnostic tools.
+Results: Wavelet transforms yield excellent results in the detection of all twenty tracé alternant quiet sleep segments for 6 full-term healthy infants.
+Conclusions: We suggest that this method will be useful for the automated detection of neonatal sleep states, and may help delineate when sleep cycle disturbances occur on either an environmental or disease basis. More accurate physiologic descriptions of neonatal state may improve the clinician's ability to assess functional brain organization for a given post-conceptional age as well as document functional brain maturation at progressively older corrected ages.
+

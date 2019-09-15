@@ -1,0 +1,1 @@
+The use of flywheels in industrial drives economizes many processes to a great extent, and the effective utilization of a flywheel necessitates, in many cases, the artificial speed reduction of motor from zero to full load. This paper demonstrates how a power transistor can be used to achieve this objective in a case where a dc shunt or compound motor is used for the drive.

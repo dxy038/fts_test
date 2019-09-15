@@ -1,0 +1,13 @@
+Objective
+The volume and thermal behavior of dental composites during the curing reaction was analyzed for different modes of initiation using a combination of experiments and models for polymerization kinetics.
+Methods
+
+The volume behavior of four dental composites (Venus, Tetric Ceram, Ceram X mono and Filtek Supreme) was studied with buoyancy measurements during the initiation and dark phase of the curing process. The volume and temperature development of the composites were described for different intensities of the photo-initiation with a mathematical model based on the “mixed termination model” for the polymerization reaction.
+Results
+
+A good agreement between volumetric data and the model function was achieved. A non-linear regression of the experimental data with the model yields results for the adjustable parameters describing the kinetics of the polymerization reaction which are typical for comparable polymerization reactions. Using kinetic models of the polymerization reaction for analyzing the volume behavior of radically crosslinking curing dental composites, thermal and polymerization-specific components of the overall shrinkage of the composites can be distinguished and compared for different materials.
+Significance
+
+With the developed methodology, a more detailed insight into the curing process can be achieved which can contribute to the understanding of the build-up of internal stresses in dental fillings.
+
+These stresses can negatively affect the marginal integrity of the filling, which is a relevant precondition of long-term chemical, biological and mechanical stability.

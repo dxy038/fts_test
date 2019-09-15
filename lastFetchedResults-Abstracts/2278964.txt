@@ -1,0 +1,7 @@
+This work deals with the problem of model performance evaluation, which is a challenge in many science branches, including subsurface fluid flow modelling (e.g. reservoir characterisation using history matching algorithms).
+
+sue is posed as a problem of estimating the model performance by comparing the simulation results with observed data. This is accomplished by defining different statistical indicator objective functions (OF) to calculate the model efficiency, i.e. how model simulation fits observed data.
+
+l deviation-based statistics used in literature as OF are analysed and applied to two synthetic case studies related to fluid flow in reservoir. Inaccuracies that arise from using the deviation-based statistics are discussed in a comparative way to propose an appropriate approach to boost the model accuracy when selecting the best realisation from multiple equally realisations generated during the history matching algorithm.
+
+aluations reveal that the suitable approach requires the adoption of an OF, that combines lag time with deviation-based statistic (SSR), to enhance the history matching process. The proposed approach has proven robust in the sense that it is able to provide an accurate and faster history matching algorithm for reservoir characterisation.

@@ -1,0 +1,11 @@
+Objective
+To compare fMRI activations during movement and motor imagery to corresponding motor evoked potential (MEP) maps obtained with the TMS coil in three different orientations.
+Methods
+fMRI activations during executed (EM) and imagined (IM) movements of the index finger were compared to MEP maps of the first dorsal interosseus (FDI) muscle obtained with the TMS coil in anterior, posterior and lateral handle positions. To ensure spatial registration of fMRI and MEP maps, a special grid was used in both experiments.
+Results
+No statistically significant difference was found between the TMS centers of gravity (TMS CoG) obtained with the three coil orientations. There was a significant difference between fMRI centers of gravity during IMs (IM CoG) and EMs (EM CoG), with IM CoGs localized on average 10.3 mm anterior to those of EMs in the precentral gyrus. Most importantly, the IM CoGs closely matched cortical projections of the TMS CoGs while the EM CoGs were on average 9.5 mm posterior to the projected TMS CoGs.
+Conclusions
+TMS motor maps are more congruent with fMRI activations during motor imagery than those during EMs. These findings are not significantly affected by changing orientation of the TMS coil.
+Significance
+Our results suggest that the discrepancy between fMRI and TMS motor maps may be largely due to involvement of the somatosensory component in the EM task.
+

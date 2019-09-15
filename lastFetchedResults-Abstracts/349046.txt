@@ -1,0 +1,11 @@
+Objective
+To test the performance of an EEG-based self-paced brain interface when data contaminated with eye-blink artefacts are included in the evaluation.
+Methods
+Two different designs of a self-paced brain interface (the low frequency-asynchronous switch design, LF-ASD) are evaluated and compared using offline data from eight subjects. The true positive rates of the two designs are compared for three cases: (a) data containing eye-blink artefacts are excluded from the input; (b) all data, including eye-blinks, are included as input but the output decisions are inactivated during eye-blink artefacts; (c) all the data, including eye-blinks, are included as input and the output decisions are reported in all times including during eye-blink artefacts.
+Results
+The true positive rates of one design of the LF-ASD (LF-ASD-V5) for case (c) and of another design (LF-ASD-V4) for case (b) are 40.5% and 42.4%, respectively, for false positive rates of 1%.
+Conclusions
+The true positive rates of LF-ASD-V5 when eye-blinks are included in the analysis deteriorate slightly compared to when the output during eye-blink artefacts is inactivated in LF-ASD-V4.
+Significance
+LF-ASD-V5 allows the device to be functional at all times and can handle artefacts better than LF-ASD-V4. If a slight decrease in true positive rates is acceptable, no further devices are needed to record the electro-oculogram (EOG) for detecting eye-blinks.
+

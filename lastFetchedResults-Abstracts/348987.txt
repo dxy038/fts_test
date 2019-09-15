@@ -1,0 +1,11 @@
+Objective
+To determine to what extent tonic contraction of the testing muscle modulates the effect of remote muscle contraction on motor evoked potentials (MEPs) and cortical silent periods (CSPs) in resting and active proximal and distal muscles following transcranial magnetic stimulation (TMS). In addition, we tested whether the remote effect on MEP was observable when the test MEP was small.
+Methods
+While performing tonic abductions of the first dorsal interosseous (FDI), flexor carpi radialis, or anterior deltoid muscles, subjects made phasic dorsiflexions of the right ankle at various forces. MEPs and CSPs were induced by separately optimized TMS intensities and locations in the left motor cortex and recorded electromyographically.
+Results
+Phasic dorsiflexion increased MEP amplitude and shortened CSP duration in a dorsiflexion intensity-dependent manner in all muscles tested. At test MEPs <10% of Mmax, remote effects on MEP amplitude and CSP duration were significantly attenuated while the testing muscle was active.
+Conclusions
+Phasic contraction of remote muscles potentiates excitatory- and suppresses inhibitory intracortical neuronal pathways converging on corticospinal tract cells innervating the upper limb muscles even when they are active. However, the magnitude of the remote effect on MEP amplitude strongly depends on the test MEP amplitude.
+Significance
+Although remote effects on MEP amplitude and CSP duration are observed even when the test muscle is active, the magnitude of the remote effect strongly depends on TMS intensity.
+

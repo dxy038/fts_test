@@ -1,0 +1,10 @@
+The joint problem of manufacturing cell formation and its layout assignment is addressed in this paper, where
+machine cells are to be located along the popular bi-directional linear layout. The objective is to minimize the
+intercell 0ow cost under the cell size constraint, instead of the typical goal to minimize the number of intercell
+movements. An enhanced simulated annealing approach augmented with dynamic programming algorithm is
+developed, where the machine cells and their respective locations in the layout are simultaneously determined
+by dynamic programming. Consequently, the optimal number of machine cells is obtained by the problem
+structure, instead of a prior speci3cation in most of the literature. The enhanced procedure is illustrated by
+an example and additional experiments, with data adapted from the literature, are performed to demonstrate
+the viability of the approach.
+? 2003 Elsevier Ltd. All rights reserved.

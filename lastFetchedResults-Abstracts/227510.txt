@@ -1,0 +1,9 @@
+The special circumstances are considercd of an induction motor driven submersible punip
+supplied from a variable frequency converter which is remote from the pump location, necessitating
+subsea cables which may be considerably longer than in normal practice. The principal objective of
+the series of practical tests is to investigate the pcrroniiance of such systems to evaluate a complete
+electromechanical system model for use in the prediction of the current and torque requirements of
+the drive, and to assess the effect of converter switching patterns on the voltage profile of the
+transmission section. Results of coinputer studies are presented which are validated by comparison
+with measurements taken on an ESP system during precommissioning tests. The factors affecting the
+inservice operational characteristics of the drive are discussed and recommendations made.

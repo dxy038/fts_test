@@ -1,0 +1,11 @@
+Objective
+We examined the ability of sulforaphane and selenium to modify the expression of thioredoxin reductase (TR-1) and the glutathione peroxidases (GPX-1 and GPX-4) in EAhy926 cells. The effectiveness of these agents to protect cells against peroxidative damage was also assessed.
+Methods
+
+EAhy926 cells were supplemented with 40 nM of selenite and/or sulforaphane (10 μM) for 72 h and the expression of TR-1, GPX-1, and GPX-4 was assessed. Parallel cultures of selenium- and sulforaphane-treated cells were exposed to tertiary butyl hydroperoxide (t-BuOOH; 0–500 μM) for 20 h, and cell integrity was determined by the percentage of lactate dehydrogenase retained by the cellular layer.
+Results
+
+Selenite treatment increased the concentration of TR-1 (1.6 ± 0.17 fold, P < 0.05), GPX-1 activity (8.2 ± 1.08 fold, P < 0.001), and GPX-4 activity (3.1 ± 0.25 fold, P < 0.001). Sulforaphane induced TR-1 expression in selenium-deficient cells (1.83 ± 0.11 fold, P < 0.001) and selenium-supplemented cells (2.90 ± 0.17 fold, P < 0.001) but had no inductive effect on GPX-1 or GPX-4. The combination of selenite and sulforaphane produced an increase in TR-1 expression that was significantly greater (P < 0.001) than that achieved when each agent was added alone. Selenium and sulforaphane acted in a synergistic manner to protect cells from damage caused by t-BuOOH. The susceptibility of cells to damage by t-BuOOH increased in this order: control > sulforaphane > selenite > selenite + sulforaphane (P < 0.0001).
+Conclusion
+
+In endothelial cells, sulforaphane increases TR-1 but not GPX-1 and GPX-4 and in doing so confers protection against oxidative damage induced by lipid hydroperoxides. The results highlight the potential important role of TR-1 over the GPXs in protecting endothelial cells from oxidative cell damage. We also suggest that our results indicate a potential beneficial role for sulforaphane in protecting the vascular endothelium from oxidative damage.

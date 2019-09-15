@@ -1,0 +1,1 @@
+A global linear coupling and combined with local feedback method is proposed to realize multi-objective control method for any chaotic connected complex network. Beam transport network and Lorenz chaotic connected network are taken as two typical examples to show the method effectiveness and potential of applications.

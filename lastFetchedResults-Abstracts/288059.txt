@@ -1,0 +1,11 @@
+Purpose
+The objective of this study is to estimate the proportion of the relationship between low socioeconomic status (SES) and the incidence of these cancer types accounted for by health risk behaviors.
+Methods
+
+A study population of 569 bladder, 592 colon, and 558 rectal cancer cases and 1549 controls was used to investigate health risk behaviors and SES effects. Odds ratios and 95 % confidence intervals (CIs) estimated by multivariate logistic regression approximated relative risks. The explanatory role of health risk behaviors was assessed by the change in the risk estimate on SES following their omission from the model.
+Results
+
+For each cancer site, individual education remained a predictor of risk after controlling for health risk behaviors. Adjustments for health risk behaviors (smoking) shifted the age- and sex-adjusted relative risk (RR) associated with bladder cancer from 2.24 to 1.74 (29.5%). No health risk behaviors (smoking, diet, obesity) resulted in substantial change in the low education risk estimates for colon cancer (RR = 2.88) or rectal cancer (RR = 2.42).
+Conclusions
+
+Given the strength of SES relationships persisting after adjustment for health risk behaviors, this study suggests that our knowledge of SES pathways and risk factors for bladder, colon, and rectal cancers is incomplete.

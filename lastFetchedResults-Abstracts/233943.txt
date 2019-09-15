@@ -1,0 +1,3 @@
+The main research objective was establishing a simple but reliable methodology for the building design stage that would yield environmentally optimal buildings. A three-step methodology is proposed: (1) design variable grouping—four distinct groups were recognized according to their stage of major influence (production and construction, operational energy, maintenance to demolition, and an Integrated Group relevant to several life cycle stages), (2) generating the within group optimization methodology, and (3) integration.
+This paper presents the methodology developed for the grouping procedure, and its testing and application on a simple generic office module. Sensitivity analysis highlights the significance of electricity production fuel.
+

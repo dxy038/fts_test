@@ -1,0 +1,12 @@
+Power factor correction converters with a programmable harmonic input impedance can
+be used to reduce the harmonic distortion in the utility grid. Whereas previously proposed controllers
+tried to obtain a resistive behaviour of the converter with a constant input impedance for all
+frequencies, including the fundamental, another recently proposed control strategy allows the
+setting of a harmonic input resistance independent of the fundamental input impedance.
+Although previous papers showed the usefulness of this approach, the analysis and verification
+of the input impedance of the converter in a broad frequency spectrum is focussed here. The characteristics
+of the current controller will determine the input impedance of the converter in the frequency
+domain. The implementation of the control strategy with a programmable harmonic
+resistance on a digitally controlled full-bridge bidirectional converter is described. Experimental
+tests on a 1-kW prototype show that with the proposed implementation good concordance with
+the theoretical input impedance curves is obtained.

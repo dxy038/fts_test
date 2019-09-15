@@ -1,0 +1,14 @@
+A thermodynamic simulation model for the performance of a four-stroke, direct-injection diesel engine is
+developed. The simulation model includes detailed sub-models for fuel burning rate, combustion products,
+thermodynamic properties of working fluid, heat transfer, fluid flow, and both soot and oxides of nitrogen (NOx)
+formation mechanisms. To validate the model, comparisons between experimental and predicted results for
+different engines, operating under different conditions, were conducted. The comparisons show that there is a
+good concurrence between measured and predicted values. An optimization analysis is conducted for seeking an
+optimum variation of compression ratio to achieve pre-set objective targets such as constant minimum
+brake-specific fuel consumption and constant maximum torque. The optimization analysis is performed under the
+constraint that the maximum pressure and temperature inside the cylinder do not exceed the maximum allowable
+pressure and temperature of the conventional engine (constant compression ratio).The varying compression ratio is
+optimized with each of the previous conditions separately. Results indicated that varying the compression ratio to
+achieve previous targets leads to saving fuel consumption, higher brake efficiency and power, and reduction in
+soot emission from the engine. Also, an increase in NOx is noticed at low speed. This drawback is considerable and
+can be overcome by reducing the operation speed range.

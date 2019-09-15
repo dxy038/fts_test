@@ -1,0 +1,12 @@
+An updated Lagrangian implicit FEM model for the analysis of large thermo-mechanically coupled hyperelastic-
+viscoplastic deformations of isotropic porous materials is considered. An appropriate framework for consti-
+tutive modelling is introduced that includes a stress-free thermally expanded con guration and a plastically
+deformed unstressed damaged con guration. A two-level iterative scheme is employed at each time increment
+to solve the  eld equations governing the conservation of momentum (mechanical step) and the conservation
+of energy (thermal step) for the coupled thermo-mechanical problem. Exact linearizations for the calculation
+of the tangent sti ness are performed in each of these solution steps. A fully implicit, thermo-mechanically
+coupled and incrementally objective Euler-backward radial return based map is developed for the time inte-
+gration of the constitutive equations. The present model is used to analyse a number of benchmark examples
+including metal forming processes wherein temperature and the accumulated damage play an important role
+in in
+uencing the deformation mechanism and the nature of the deformed workpiece. Copyright

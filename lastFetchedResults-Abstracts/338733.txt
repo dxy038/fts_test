@@ -1,0 +1,11 @@
+Objective
+We investigated low-dose radiation conditioning for the transplantation of retrovirus-transduced cells in a C57Bl6/J murine model.
+Materials and Methods
+
+The effect of low-dose radiation on stem cell function was investigated using a competitive repopulation assay. Stem cell function of marrow cells that underwent a retroviral-mediated gene transfer (RMGT) protocol was examined by this assay, and donor chimerism of these cells when transplanted into 160-cGy conditioned syngeneic hosts was compared to fresh marrow.
+Results
+
+Irradiation with 300 or 160 cGy substantially decreased stem cell function as measured by competitive repopulation. Animals conditioned with 160 cGy and transplanted with 20 × 106 fresh marrow cells permitted donor cell engraftment of 53.6% ± 11.4% 6 months after transplant compared to 100% donor cell engraftment after 1100 cGy irradiation. Lymphoid and myeloid engraftment did not significantly differ from total engraftment in submyeloablated hosts. When transplanted into lethally irradiated hosts, the competitive repopulating activity of marrow treated with a single dose of 5-fluorouracil followed by ex vivo culture according to a standard RMGT protocol was equal to 5-fluorouracil–only treated marrow. However, cells treated with 5-fluorouracil or 5-fluorouracil plus ex vivo culture for RMGT repopulated less well than fresh marrow cells in 160 cGy conditioned hosts.
+Conclusions
+
+Low-dose irradiation decreases host stem cell function, allowing engraftment of both fresh and RMGT protocol-treated marrow, although the engraftment of 5-fluorouracil–treated cells was reduced at least two-fold, and 5-fluorouracil plus RMGT protocol-treated cells at least three-fold, compared to fresh marrow. Modification of current RMGT protocols may be important for optimizing engraftment under these conditions.

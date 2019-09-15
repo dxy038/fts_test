@@ -1,0 +1,11 @@
+Objective
+Adoptive cellular therapy of cytomegalovirus (CMV)-specific T cells in allogeneic hematopoietic stem cell transplantation (HSCT) patients is a promising approach for controlling CMV viremia and its morbidity. We sought to develop a clinically suitable strategy to dually expand infusible CD8+ and CD4+ T-cell subsets specific for CMV.
+Methods
+
+Polyclonal CMV T-cell lines were generated using peripheral blood mononuclear cell (PBMCs) treated with synthetic single-stranded CpG motif-containing oligodeoxynucleotides (ODNs) and infected with recombinant (r) modified vaccinia Ankara (MVA) expressing CMV antigens. Cultures derived from 12 healthy CMV-positive donors were analyzed using chromium release and lymphoproliferation assays, intracellular staining for interferon-γ (IFN-γ), and HLA tetramers.
+Results
+
+A 3-day incubation with a combination of ODN 2006 and 2216 was found to reproducibly generate a highly rMVA infectable population of PBMCs with concomitant high expression of CMV antigens. CpG ODN-treated autologous PBMCs infected with rMVA elicited a 30-fold average expansion of both CMV-specific CD4+ and CD8+ T cells in 10 days. The enriched T-cell populations showed minimal alloreactivity, high levels of CMV-specific HLA class I tetramer binding, cytotoxic activity, and IFN-γ production from both CD8+ and CD4+ T cells.
+Conclusions
+
+The ability to quickly produce autologous professional antigen-presenting cells, capable of stimulating clinically useful amounts of CMV-specific CD4+ and CD8+ T-cell lines, enhances the attractiveness of using rMVA for immunotherapeutic interventions to manage HSCT-related CMV disease.

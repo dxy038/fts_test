@@ -1,0 +1,9 @@
+Objective
+To identify HLA-DRB1 alleles contributing to susceptibility to multiple sclerosis (MS) in a Colombian population and to estimate the common effect size of HLA class II on MS susceptibility in Latin American populations through a meta-analysis.
+Methods
+A total of 65 Colombian patients with MS and 184 matched controls were included. HLA-DRB1 typing was done using the sequence-specific oligonucleotide probe method. A bivariate and a multivariate logistic regression analyses were done. Case-control studies performed in Latin America were searched up to January 2009 through a systematic review of the literature. Effect summary odds ratios (ORs) and 95% confidence intervals (CIs) were obtained by means of the random effect model.
+Results
+A total of 464 cases and 2581 controls from 7 studies and the results of the present study in Colombians were analyzed. HLA-DRB1 15 (OR: 2.3; 95% CI: 1.68–3.07; p < 0.001) and HLA-DQB1 06 (OR: 2.2; 95% CI: 1.54–3.07; p < 0.001) groups as well as DRB1 1501 (OR: 2.6; 95% CI: 1.67–4.02; p < 0.001), DRB1 1503 (OR: 2.2; 95% CI: 1.39–3.62; p = 0.001) and DQB1 0602 (OR: 2.5; 95% CI: 1.66–3.71; p < 0.001) alleles were found to be risk factors for MS. The myelin basic protein immunodominant sequence 221VHFFKNIVT229 was predicted to strongly and simultaneously bind to HLA-DRB1 1501 and  1503.
+Conclusion
+The current study highlights the effect size of HLA class II in MS in Latin America and confirms similar allelic risk factors across diverse populations. Receptor-ligand interactions in the HLA-antigenic peptide complex could have potential predictive and therapeutical implications.
+

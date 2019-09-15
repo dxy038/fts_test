@@ -1,0 +1,11 @@
+Objective
+Lentiviral vectors are increasingly used for preclinical models of gene therapy and other forms of experimental transgenesis. Due to the broad tropism and the ability for concentration by ultracentrifugation, most lentiviral vector preparations are produced using the vesicular stomatitis virus glycoprotein (VSV-g) protein as envelope. Recently, Hanawa and colleagues have demonstrated that the ecotropic envelope protein of murine leukemia viruses allows efficient pseudotyping of HIV-1-derived vector particles. However, this method has found little acceptance, despite potential advantages.
+Materials and Methods
+
+We produced lentiviral vectors pseudotyped with murine ecotropic envelope using a four-plasmid transient transfection system and evaluated their performance in murine fibroblasts and hematopoietic cells.
+Results
+
+Titers of lentiviral “ecotropic” supernatants were only slightly lower than those produced with VSV-g, could be concentrated by overnight centrifugation (13,000g), and efficiently transduced murine fibroblasts and hematopoietic cells but not human cells. Our Institutional Biosafety Committee agreed on the production and use of replication-defective lentiviral vectors pseudotyped with murine ecotropic envelope under biosafety level 1 (BL1) conditions with additional BL2 practices. We also obtained useful guidelines for the work with human infectious lentiviral vectors.
+Conclusions
+
+For the researcher, “ecotropic” lentiviral vectors significantly improve the convenience of daily work, compared to the conditions required for lentiviral pseudotypes that are capable of infecting human cells. High efficiency and superior biosafety in combination with convenient handling will certainly boost the potential applicability of this important vector system.

@@ -1,0 +1,11 @@
+Objective
+A variety of hematopoietic lineage cells have been produced from embryonic stem (ES) cells, but their differentiation processes have not been elucidated well, especially from the point of view of progenitor analysis. In this study, we utilized our coculture system, in which ES-derived Flk-1+ cells differentiated into TER-119+ primitive erythroid (EryP) cells on OP9 cells, and looked for progenitors in primitive erythropoiesis.
+Materials and Methods
+
+We studied the kinetics of TER-119+ erythroblast generation from Flk-1+ cells by monitoring the expression of TER-119, CD41, VE-cadherin, CD34, and c-kit antigens. Multicolor analysis was performed to detect CD41+TER-119+ cells and the stained cells were sorted to examine their morphology and EryP-producing potential in colony formation.
+Results
+
+Kinetic studies showed that the CD41+ population appeared early in the coculture and its expression pattern implied a role as an immediate progenitor of TER-119+ EryP cells. Multicolor analysis and colony-formation study supported this notion. Other progenitor markers such as VE-cadherin, CD34, and c-kit did not seem to define an immediate progenitor of EryP cells. One interesting observation is the detection of unique populations, CD41dim and CD41bright, detectable after 48 hours of the coculture. Majority of the CD41dim population progressed to the EryP lineage, whereas the CD41bright population seemingly advanced on a pathway distinct from the CD41dim population.
+Conclusions
+
+CD41 expression was a useful marker to trace hematopoietic progenitors in ES-derived differentiation system. In particular, the CD41dim but not CD41bright population could serve as immediate precursors of EryP cells.

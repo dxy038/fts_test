@@ -1,0 +1,1 @@
+This paper present the computer simulation of airflow in a near hard disk drive numerical model. The objective of the investigation was to determine the aerodynamic characteristics of various arm designs. Four basics types of arm shapes were tested and their performance assessed based on the computed numerical results.

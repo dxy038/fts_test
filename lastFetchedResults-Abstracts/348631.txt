@@ -1,0 +1,11 @@
+Objective
+To investigate the cause of the transient weakness that occurs in recessive myotonia congenita (RMC) following sustained muscle contraction.
+Methods
+Nerve excitability studies were performed on a 35-year-old male with RMC due to a novel 696 + 1G > A CLCN1 mutation. The median nerve was stimulated at the wrist and compound muscle action potentials (CMAPs) were recorded from abductor pollicis brevis (APB). Stimulus-response behaviour using two stimulus durations, threshold electrotonus to 100-ms polarizing currents, a current threshold relationship and the recovery of excitability following supramaximal stimulation were recorded at rest. Excitability parameters were also recorded before and after maximal voluntary contraction (MVC) of APB against resistance for 60 s. Results were compared to data obtained from 12 normal controls.
+Results
+Baseline axonal excitability parameters were all normal, indicating that axonal function was normal at the point of stimulation. Following one minute of MVC, excitability parameters demonstrated a significant increase in threshold when compared to controls (RMC 54.9%; controls 15.5 ± 3.1%). In the RMC patient, this increase in threshold was associated with a 39% reduction in the amplitude of the maximal CMAP, which remained unaffected in controls.
+Conclusions
+The reduction in maximal CMAP is likely to represent muscle activation failure due to depolarization block, with the increase in threshold possibly reflecting a compensatory attempt by motor axons to overcome prolonged contraction-induced changes in the muscle membrane.
+Significance
+The prolonged recovery of excitability following sustained muscle contraction is likely to be a contributing factor to symptoms of weakness and fatigue experienced by RMC patients.
+

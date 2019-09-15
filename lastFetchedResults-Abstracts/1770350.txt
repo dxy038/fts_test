@@ -1,0 +1,15 @@
+:Artificial neural networks (ANNs) are computer techniques that attempt to simulate the func-
+tionality and decision-making processes of the human brain. In the past few decades, artificial neural networks
+(ANNs) have been extensively used in a wide range of engineering applications. There are only a few applica-
+tions in liquid membrane process. The objective of this research was to develop artificial neural networks
+(ANNs) model to estimate Cr (VI) extraction efficiency in feed phase.Data set (413 experiment records) were
+obtained from a laboratory scale experimental study. Various combinations of experimental data, namely %
+(w/w) extractant Alamine 336 concentration in membrane phase, stirring speed in feed and stripping phase,
+flat sheet support type, stripping phase NaOH concentration, feed phase pH, diluents type, % (w/w)
+diluents concentration, polymer support type, extractant type, and time are used as inputs into the ANN so
+as to evaluate the degree of effect of each of these variables on Cr (VI) extraction efficiency in feed phase. The
+results of the ANN model is compared with multiple linear regression model (MLR). Mean square error
+(MSE), average absolute relative error (AARE) and coefficient of determination (R2
+) statistics are used as
+comparison criteria for the evaluation of the model performances. Based on the comparisons, it was found that
+the ANN model could be employed successfully in estimating the Cr (VI) extraction efficiency

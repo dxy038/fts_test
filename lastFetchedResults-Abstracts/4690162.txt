@@ -1,0 +1,1 @@
+We introduce a technique to achieve transmission of a complex image through the disordered medium. The setup consists on a 532 nm laser expanded, reflected off a phase-only modulator (SLM) and sent on the sample. The light on the other side of the sample is collected by a microscope objective and imaged on a CCD camera.

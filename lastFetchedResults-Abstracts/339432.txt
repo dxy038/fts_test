@@ -1,0 +1,11 @@
+Objective
+Erythroid differentiation is a process characterized by modulation of different proteins including phosphoinositide-related enzymes such as protein kinase C (PKC) isoforms. Because in different cell lines PKC-α and PKC-δ have been reported to be involved in the mechanisms controlling proliferation and differentiation, the aim of this study was to examine the relative involvement of these PKC isoforms in the development of CD235a+ erythroid cells from human healthy hematopoietic progenitors.
+Materials and methods
+
+Erythroid differentiation from human primary hematopoietic progenitor cells was achieved by adopting the human erythroblasts mass amplification culture. Expression and activity of PKC isoforms and their relationship with proliferation and differentiation were investigated by morphologic analysis, reverse-transcriptase polymerase chain reaction, Western blotting, multiparametric flow cytometry, and transfection experiments.
+Results
+
+PKC-α was found expressed and phosphorylated in cells undergoing both proliferation and differentiation, although PKC-δ, largely expressed and activated during proliferation, was evidently downregulated during differentiation. Overexpression of PKC-δ-CAT scarcely influenced the development of glycophorin-A (CD235a)+ erythroid cells from hematopoietic progenitors, although overexpression of PKC-α-CAT strongly induced the development of CD235a+ erythroid cells. On the other hand, in PKC-α-CAT-transfected cells, pharmacologic inhibition of PKC-δ further increased the number of CD235a+ cells, although inhibition of PKC-α resulted in an evident impairment of the development of CD235a+ erythroid cells.
+Conclusions
+
+Our results indicate that the suppression or at least a strong downregulation of PKC-δ, concomitant to PKC-α expression and activity, might be a cofactor to be further investigated and might be involved in the events regulating erythropoietin-induced erythroid differentiation from human primary hematopoietic progenitor cells.

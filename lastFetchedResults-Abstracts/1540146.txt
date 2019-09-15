@@ -1,0 +1,5 @@
+We propose a novel approach for solving box-constrained inverse problems in intensity-modulated radiation therapy (IMRT) treatment planning based on the idea of continuous dynamical methods and split-feasibility algorithms. Our method can compute a feasible solution without the second derivative of an objective function, which is required for gradient-based optimization algorithms. We prove theoretically that a double Kullback–Leibler divergence can be used as the Lyapunov function for the IMRT planning system.
+
+er, we propose a non-negatively constrained iterative method formulated by discretizing a differential equation in the continuous method. We give proof for the convergence of a desired solution in the discretized system, theoretically. The proposed method not only reduces computational costs but also does not produce a solution with an unphysical negative radiation beam weight in solving IMRT planning inverse problems.
+
+nvergence properties of solutions for an ill-posed case are confirmed by numerical experiments using phantom data simulating a clinical setup.

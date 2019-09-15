@@ -1,0 +1,9 @@
+Objective
+We compared the performance of two feature extraction methods for multichannel electromyography (EMG) based arm movement classification. One method was to use a scalar autoregressive model (sAR) for each channel. Another was to model all channels as a whole by a multivariate AR model (mAR).
+Methods
+The classified arm movements included elbow flexion, elbow extension, forearm pronation and internal shoulder rotation. Six-channel bipolar EMG signals were collected from four electrodes fixed on the biceps, triceps, brachioradialis and deltoid. Fifteen two-channel and four three-channel configurations were formed out of these six-channel signals for a comparison of different channel combinations. Leave-one-out cross-validation was adopted for evaluating the classification performance using a parametric statistical classifier.
+Results
+We processed a total of 216 EMG segments obtained from repeated 18 performances by three normal subjects. mAR model based feature set achieved a better classification accuracy than sAR did for each configuration. Moreover, significance of improvement was greater than 0.95 for those configurations which consisted of EMG channels that were close spatially.
+Conclusions
+The stronger the cross-correlation among EMG channels the more improvement of classification accuracy one would expect from using a mAR model.
+

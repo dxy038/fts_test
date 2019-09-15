@@ -1,0 +1,8 @@
+Objective
+lyze variations in direct medical care cost of patients with prostate across two racial groups after controlling for age, disease stage, and comorbidity.
+s
+s retrospective cohort control study, we randomly selected 120 newly diagnosed prostate cancer patients (60 African Americans and 60 White) from the administrative database of a large urban academic hospital. Medical care costs data and clinical data were obtained. The control group consisted of 240 men without cancer, and matched by age and race. Demographics, clinical variables and treatment patterns were compared across race using t-test and χ2. Mean medical care costs for prostate cancer patients were compared by race, using bootstrap and log t-test. Regression models were used to estimate the incremental cost of prostate cancer, and to analyze the association between race and direct medical care cost.
+s
+ were more likely to receive radical prostatectomy, whereas African Americans were more likely to receive radiation therapy. The incremental cost of prostate cancer was 1.30 times higher than controls. Charlson comorbidity was a significant predictor of type of treatment received and cost. Race was not associated with total direct medical care cost after controlling for age, Charlson comorbidity and stage of cancer at diagnosis.
+sions
+on Comorbidity score was a predictor of type of treatment and direct medical care cost. While analyzing the association between race and cost of care, potential bias-inducing factors such as clinical characteristics at diagnosis and provider characteristics (physician and hospital) must be addressed.

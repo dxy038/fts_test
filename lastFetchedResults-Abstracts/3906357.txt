@@ -1,0 +1,1 @@
+Two low phase noise microwave signals in the 18-20 GHz band have been remotely generated for bidirectional 140 Mbit/s OQPSK-transmissions by applying a simple optical harmonic upconversion technique. One carrier is modulated by the downlink data and the other one serves as local oscillator signal for the uplink mixer in the base station

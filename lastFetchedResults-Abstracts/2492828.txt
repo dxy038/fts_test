@@ -1,0 +1,8 @@
+Objective (s): One of the major goals of policy makers is planning for facilitating population access to health services. In this regard, the study entitled “modeling geographical access to medical laboratory services in Iran” was conducted and the detailed methodology and geographical accessibility model were reported. The present article is a case study of the application of the  model in Qom, Iran. 
+Methods: 
+The study units included medical laboratories located within the city borders. Data were analyzed using Geographic Information System (GIS). Spatial analysis performed using the ArcGIS software. 
+Results: 
+There were 53 medical laboratories including 25 laboratories outside of hospitals and clinics in Qom. According to the model of geographical access to medical laboratory services, the sites for new laboratories were identified for Qom. The model indicated that an estimation of 7306 square meters - in the horizontal expansion of the city- for possible establishment of 35 new medical laboratories outside of the hospitals and clinics is required.
+Conclusion:
+It is possible to use the geographical accessibility model for site selection in many cities, but the accuracy of selected sites should be confirmed with field visits and opinions of local experts, because some factors such as economic and legal issues influences the possibility of the usage of proposed lands.
+

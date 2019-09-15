@@ -1,0 +1,9 @@
+Study objective
+We quantified the potential for monitoring current and near-future emergency department (ED) crowding by using 4 measures: the Emergency Department Work Index (EDWIN), the National Emergency Department Overcrowding Scale (NEDOCS), the Demand Value of the Real-time Emergency Analysis of Demand Indicators (READI), and the Work Score.
+Methods
+We calculated the 4 measures at 10-minute intervals during an 8-week study period (June 21, 2006, to August 16, 2006). Ambulance diversion status was the outcome variable for crowding, and occupancy level was the performance baseline measure. We evaluated discriminatory power for current crowding by the area under the receiver operating characteristic curve (AUC). To assess forecasting power, we applied activity monitoring operating characteristic curves, which measure the timeliness of early warnings at various false alarm rates.
+Results
+We recorded 7,948 observations during the study period. The ED was on ambulance diversion during 30% of the observations. The AUC was 0.81 for the EDWIN, 0.88 for the NEDOCS, 0.65 for the READI Demand Value, 0.90 for the Work Score, and 0.90 for occupancy level. In the activity monitoring operating characteristic analysis, only the occupancy level provided more than an hour of advance warning (median 1 hour 7 minutes) before crowding, with 1 false alarm per week.
+Conclusion
+The EDWIN, the NEDOCS, and the Work Score monitor current ED crowding with high discriminatory power, although none of them exceeded the performance of occupancy level across the range of operating points. None of the measures provided substantial advance warning before crowding at low rates of false alarms.
+

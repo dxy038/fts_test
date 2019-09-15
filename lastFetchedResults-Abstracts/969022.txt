@@ -1,0 +1,21 @@
+Quantitative description of soil hydraulic properties is necessary for any scheduling related to soil and water
+resources conservation. Soil hydraulic properties are important inputs for simulation of water flow and solute
+transport in soil. Since direct measurement of these properties is time consuming and costly, pedotransfer
+functions (PTFs) have been widely and successfully used for their prediction. Yet, little efforts have been made
+for functional evaluation of PTFs predictions for application in simulating transient soil water flow. In this study,
+soil water retention curve (SWRC) of a clay soil was predicted, using some selected local and global PTFs.
+SWRC was also measured in the laboratory by direct method. Validity of studied PTFs in terms of prediction of
+SWRC was examined. By applying both predicted and measured hydraulic parameters to HYDRUS-1D program
+for simulation of soil water flow, functional behavior of PTFs was quantitatively compared in terms of
+simulation of water flow in soil. The obtained results indicated that both the selected global PTFs (Rosetta) with
+root mean square error (RMSE)  <  0.025 cm3cm-3 and some regional PTFs (Ghorbani-1) with RMSE  <  0.014
+cm3cm-3 can reasonably well predict SWRC of soil surface. For prediction of SWRC of subsurface soil, the
+RMSE value of global PTFs was larger than 0.107 cm3cm-3 and was ranged from 0.036 to 0.356 cm3cm-3 for the
+local PTFs. However, for simulation of soil water flow a different set of PTFs was most efficient. RMSE values
+of adjusted Ghorbani PTF (S-Gh&H (Adj.)) for simulation of water content of surface and subsurface soils were
+0.025 and 0.055 cm3cm-3, respectively. RMSE value of Wosten (1997, 1999) PTFs for surface soil was larger
+than 0.149 cm3cm-3 and for subsurface soil was less than 0.058 cm3cm-3. Simulation with the measured SWRC
+had RMSE values of 0.013-0.040 cm3cm-3 for surface and subsurface soils, respectively. It can be concluded that
+when validating PTFs, one should consider the objective for which the PTFs are assessed. A PTF might be
+accurate enough for predicting SWRC, but not for particular ?(h) range governing the soil water redistribution
+process. Using such PTFs might lead to large errors in simulating soil water content.

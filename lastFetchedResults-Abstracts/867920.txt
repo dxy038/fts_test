@@ -1,0 +1,1 @@
+We consider a two-machine flowshop scheduling problem where the processing times are linearly dependent on the waiting times of the jobs. The objective is to minimize the makespan. A 0–1 mixed integer program and a heuristic algorithm are proposed. Some cases solved in polynomial time and computational experiments are also provided.

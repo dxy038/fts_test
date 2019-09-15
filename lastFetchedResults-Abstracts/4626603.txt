@@ -1,0 +1,1 @@
+Designs of low cost ONU for WDM-PON are presented and evaluated. Reflective-SOAs are proposed to be used as core of the ONU in a bidirectional single-fiber single-wavelength topology. FEC is employed to mitigate crosstalk effects

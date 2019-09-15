@@ -1,0 +1,1 @@
+The proposed approach to the formulation and solution of the problems of optimal design of a robot with controllable parameters has the objective of determining the feasible and Rareto-optimal sets of solutions. The approach is based on the parameter space investigation [PSI] method. The results are presented for the example of the selection of the parameters of a robot.

@@ -1,0 +1,1 @@
+The objective of the paper is to compare the different Wavelet based Image Compression algorithms. SPIHT, WDR, and ASWDR algorithm are involved in the comparison process. These are some recent algorithms, which produce some lowest errors per compression rate and highest perceptual quality. Finally, the results are compared using all the above algorithms.

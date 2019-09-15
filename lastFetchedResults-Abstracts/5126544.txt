@@ -1,0 +1,1 @@
+A study of radio coverage for an airport is presented. The objective is to study the coverage for airplane landing. This analysis has been done using a code based on GTD-UTD techniques and ray-tracing method.

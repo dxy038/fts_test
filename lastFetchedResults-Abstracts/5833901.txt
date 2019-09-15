@@ -1,0 +1,1 @@
+Estimates of coefficients of a spherical harmonic Fourier decomposition of the cortical surface can be obtained solely using MEG/EEG data and free energy as objective function. A stochastic methodology based on a Metropolis Search followed by a Bayesian Model Averaging is proposed to reconstruct cortical anatomy based functional information.

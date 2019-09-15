@@ -1,0 +1,1 @@
+By combining the subjective and objective weights with the optimization technique, we construct an optimal model to make the deviation among the aggregated evaluation values as large as possible. Then the final weights of indices, which reflect the subjective and objective information, can be obtained. This approach is propitious to order schemes and select the best one.

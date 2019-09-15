@@ -1,0 +1,14 @@
+Storage tanks with different cold water inlet devices for small Solar Domestic Hot Water (SDHW) systems are compared.
+The objective of the investigation is to reveal the impact of the cold water inlet device on the thermal stratification
+in two marketed tanks and to evaluate the possible enhancement in the annual system performance of small solar
+heating systems. Two different marketed inlet designs are compared, one connected to a small curved plate placed above
+the inlet tube, the other one connected to a much larger flat plate. The cold domestic water enters the stores in vertical
+direction from the bottom of the tanks. Temperature measurements were carried out for different operating conditions.
+It was shown that the thermal stratification inside the two tanks depends differently on the flow rate, the draw-off volume,
+as well as the initial temperature in the storage tank. To carry out system simulations, a multi-node storage model
+was used and expanded by an additional input variable to model the mixing behaviour depending on the operating conditions.
+The inlet device with a comparatively large plate compared to the less favourable design results in an increase of
+the solar fraction of about 1–3%-points in annual system simulations with a solar fraction of about 60% and fairly large
+domestic hot water flow rates. This corresponds to a reduction of the auxiliary energy supply of the solar heating system
+of about 3–7% (58–155MJ/year) for the investigated solar domestic hot water system.
+  2004 Elsevier Ltd. All rights reserved.

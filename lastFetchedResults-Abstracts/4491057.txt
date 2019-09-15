@@ -1,0 +1,1 @@
+This paper outlines the necessity for analogue circuit synthesis. The components and requirements of an ideal circuit synthesis circuit system are detailed. Previous approaches to simulation and optimization are discussed. The use of the multi-objective genetic algorithm in a circuit synthesis system is presented

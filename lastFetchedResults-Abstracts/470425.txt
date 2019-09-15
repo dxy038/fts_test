@@ -1,0 +1,9 @@
+Objective
+Vasoactive intestinal peptide (VIP)-related peptides prevented the learning deficit in the offspring in a model for fetal alcohol syndrome. We evaluated whether the mechanism of the peptide protection included NR2B, NR2A, and GABAAα5.
+Study design
+Timed, pregnant C57BL6/J mice were injected on gestational day 8 with alcohol (0.03 mL/kg), placebo, or alcohol plus peptides. Embryos were harvested after 6 hours, 24 hours, and on gestational day 18. Some of the litters were allowed to deliver, and the adult brains harvested after the offspring were tested for learning. Calibrator-normalized relative real-time polymerase chain reaction (PCR) was performed using primers for NR2B, NR2A, and GABAAα5 with GAPDH standardization. Statistic: analysis of variance (ANOVA) and Fisher PLSD, P< .05 was considered significant.
+Results
+In the embryo, the peptides prevented NR2B rise (P< .001) at 6 hours, NR2B down-regulation (P = .002), and GABAAα5 decrease (P< .01) on gestational day 18. In the adult, the peptides prevented NR2B down-regulation (P = .01) and NR2A up-regulation (P< .001).
+Conclusion
+VIP-related peptides prevented alcohol-induced changes in NR2B, NR2A, and GABAAα5. This may explain, at least in part, the peptides' prevention of alcohol-induced learning deficits.
+

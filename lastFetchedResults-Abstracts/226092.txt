@@ -1,0 +1,10 @@
+The optimal operation of a continuous crystallizer is studied by taking a real industrial scale crystallizer as an example. The
+objective function to be maximized is the production rate of the crystals which are larger than a certain size. Since continuous crys-
+tallizers exhibit sustained oscillation, it is important to ®nd the optimal operation under oscillatory condition. In this study, the
+optimal operating condition is derived for two types of operation: one is the case where the manipulated variables are kept constant
+(constant input operation), and the other is the case where the values of manipulated variables are changed periodically (time varying
+input operation). The optimization result of time varying input operation indicates that the production rate of large crystals can be
+increased if the number of ®ne crystals in the vessel is reduced by withdrawing along with the product. Furthermore, this study
+examines the optimal operation of the crystallizer in the case where the sustained oscillation is eliminated by a stabilizing controller.
+The optimization result clearly indicates that the production rate of large crystals can be signi®cantly increased if the operation is
+optimized under the condition where crystal size distribution (CSD) is stabilized.

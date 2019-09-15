@@ -1,0 +1,1 @@
+Assignment for second-order systems is considered. It is shown that assignment can be achieved by solving a linear matrix equation or linear system. An objective function measuring the robustness of the closed-loop spectrum is minimized via gradient flow

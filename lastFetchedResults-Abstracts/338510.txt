@@ -1,0 +1,11 @@
+Objective
+CD40L restores the antigen-presenting cell (APC) function of some B-cell tumors and induces professional APC maturation. We therefore evaluated the effects of transgenic CD40L expression on the behavior and immunogenicity of human multiple myeloma (MM) cells.
+Materials and Methods
+
+CD40L expression was induced in a CD40+ (RPMI 8226) and a CD40− (U266B1) human myeloma cell line (HMCL) by adenoviral vector gene transfer. The viability and proliferative activity of control HMCL and HMCL/CD40L were determined by daily trypan blue staining and methyl-3H-thymidine incorporation. Mixed lymphocyte reaction (MLR) with allogeneic mononuclear cells (MNCs) and coculture of allogeneic dendritic cells (DCs) with HMCL expressing transgenic CD40L were used to evaluate the APC function of modified HMCL as well as the role of bystander DCs in inducing an anti-tumor immune response.
+Results
+
+CD40L expression significantly inhibited the growth of the CD40+ HMCL and induced apoptosis. These effects were less evident for the CD40− HMCL. There was no upregulation of costimulatory molecules on either HMCL following CD40L expression. Both HMCL expressing transgenic CD40L induced maturation of bystander DCs and enhanced their ability to stimulate the proliferation of MNCs. DCs cultured with the poorly immunogenic RPMI 8226 expressing CD40L upregulated T-lymphocyte release of IFN-γ and other Th1 cytokines (interleukin-2, tumor necrosis factor-α).
+Conclusions
+
+Our data suggest that transgenic expression of CD40L exerts a dual effect favoring generation of an immune response to human MM. Where the tumor cells are CD40+, the engagement of CD40 antigen by CD40L on tumor cells induces their apoptosis, allowing uptake of tumor-associated antigen by professional APC. Independently of tumor-cell expression of CD40, transgenic expression of CD40L on tumor cells allows them to stimulate CD40+ APC, to increase their maturation and their capacity to stimulate cytotoxic T lymphocytes (CTL) that recognize the tumor-derived antigens the APC may have engulfed.

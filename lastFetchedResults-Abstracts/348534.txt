@@ -1,0 +1,11 @@
+Objective
+P3a and P3b event-related brain potentials (ERPs) were elicited with an auditory 3-stimulus (target, distracter, standard) paradigm in which subjects responded only to the target.
+Methods
+Distracter stimuli consisted of white noise, novel sounds, or a high frequency tone, with stimulus characteristics perceptually controlled. Task difficulty was varied as easy and hard by changing the pitch difference between the target and standard stimuli.
+Results
+Error rate was greater and response time longer for the hard task. P3a distracter amplitude was largest for the white noise and novel stimuli, with maximum amplitude over the central recording sites, and larger for the hard discrimination task. P3b target amplitude was unaffected by distracter type, maximum over the parietal recording sites, and smaller and later for the hard task.
+Conclusions
+The findings indicate that white noise stimuli can produce reliable P3a components.
+Significance
+White noise can be useful for clinical P3a applications, as it removes the variability of stimulus novelty.
+

@@ -1,0 +1,11 @@
+Objective
+2-Methoxyestradiol (2ME2) has been shown to induce apoptosis in leukemic cells, but its exact mechanism remains unclear. Because c-Myc plays a critical role in leukemogenesis, we evaluated whether 2ME2 acts on acute myeloid leukemia (AML) through modulation of c-Myc activity.
+Materials and Methods
+
+AML cell lines and primary AML leukemia were treated with 2ME2 and the relationship between 2ME2-induced apoptosis and changes in c-Myc activity was examined.
+Results
+
+2ME2 induced mitochondrial apoptosis of human AML cells through increased reactive oxygen species. Further investigation showed that 2ME2 downregulated c-Myc expression in a time-dependent manner. Increased oxidative stress led to downregulation of c-Myc mRNA and protein, but did not affect the stability of c-Myc protein. To demonstrate the role of c-Myc in 2ME2-induced apoptosis, we ectopically expressed wild-type c-Myc in AML cells and found that ectopic expression of c-Myc abrogated the 2ME2-induced apoptosis. In addition, we showed that 2ME2 treatment inhibited phosphorylation of Akt and binding of nuclear factor-κB p65/p50 heterodimers to its DNA targets. As with results from cell lines studied, 2ME2 also induced cytotoxicity to primary AML cells and downregulated their c-Myc expression and induced apoptosis.
+Conclusion
+
+Downregulation of c-Myc is critical for 2ME2-induced oxidative stress and apoptosis in AML cells. Our results might be extended to other types of cancers overexpressing c-Myc.

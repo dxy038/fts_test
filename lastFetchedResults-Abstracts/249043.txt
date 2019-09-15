@@ -1,0 +1,18 @@
+Three-dimensional unstructured tetrahedral and hexahedral "nite element mesh optimization is studied
+from a theoretical perspective and by computer experiments to determine what objective functions are most
+e!ective in attaining valid, high-quality meshes. The approach uses matrices and matrix norms to extend the
+work in Part I to build suitable 3D objective functions. Because certain matrix norm identities which hold
+for 2]2 matrices do not hold for 3]3 matrices, signi"cant di!erences arise between surface and volume
+mesh optimization objective functions. It is shown, for example, that the equality in two dimensions of the
+smoothness and condition number of the Jacobian matrix objective functions does not extend to three
+dimensions and further, that the equality of the Oddy and condition number of the metric tensor objective
+functions in two dimensions also fails to extend to three dimensions. Matrix norm identities are used to
+systematically construct dimensionally homogeneous groups of objective functions. The concept of an ideal
+minimizing matrix is introduced for both hexahedral and tetrahedral elements. Non-dimensional objective
+functions having barriers are emphasized as the most logical choice for mesh optimization. The performance
+of a number of objective functions in improving mesh quality was assessed on a suite of realistic test
+problems, focusing particularly on all-hexahedral &whisker-weaved' meshes. Performance is investigated on
+both structured and unstructured meshes and on both hexahedral and tetrahedral meshes. Although several
+objective functions are competitive, the condition number objective function is particularly attractive.
+The objective functions are closely related to mesh quality measures. To illustrate, it is shown that the
+condition number metric can be viewed as a new tetrahedral element quality measure

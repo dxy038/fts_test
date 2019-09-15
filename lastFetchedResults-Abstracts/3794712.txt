@@ -1,0 +1,1 @@
+In power system metering there are no generally accepted direction definitions applied to the bidirectional flow of active, reactive, and apparent power. To remedy this, an approach based on the power triangle in four quadrants is presented here. Recommended definitions are given for power flow directions at any point in a power system.

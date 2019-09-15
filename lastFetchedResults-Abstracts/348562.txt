@@ -1,0 +1,11 @@
+Objective
+We have investigated the cortical sources and electroencephalographic (EEG) characteristics of small sharp spikes (SSS) by using statistical non-parametric mapping (SNPM) of low resolution electromagnetic tomography (LORETA).
+Methods
+We analyzed 7 SSS patterns (501 individual SSS) in 6 patients who underwent sleep EEG studies with 29 or 23 scalp electrodes. The scalp signals were averaged time-locked to the SSS peak activity and subjected to SNPM of LORETA values.
+Results
+All 7 SSS patterns (mean 72 individual SSS, range 11–200) revealed a very similar and highly characteristic transhemispheric oblique scalp voltage distribution comprising a first negative field maximum over ipsilateral lateral temporal areas, followed by a second negative field maximum over the contralateral subtemporal region approximately 30 ms later. SNPM–LORETA consistently localized the first component into the ipsilateral posterior insular region, and the second component into ipsilateral posterior mesial temporo-occipital structures.
+Conclusions
+SSS comprise an amalgam of two sequential, distinct cortical components, showing a very uniform and peculiar EEG pattern and cortical source solutions. As such, they must be clearly distinguished from interictal epileptiform discharges in patients with epilepsy.
+Significance
+The awareness of these peculiar EEG characteristics may increase our ability to differentiate SSS from interictal epileptiform activity. The finding of a posterior insular source might serve as an inspiration for new physiological considerations regarding these enigmatic waveforms.
+

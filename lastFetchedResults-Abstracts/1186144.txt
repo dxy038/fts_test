@@ -1,0 +1,9 @@
+The paper deals with the problem of optimisation of a cylindrical shell profile under a frequency constraint. The minimum value of the thickness has been established a priori. The structure considered is typical of aerospace craft vessels.
+
+The same value of the lowest vibration frequency of the reference cylindrical shell with uniform thickness, has been imposed. That is the minimization procedure of the structure weight must not affect its lowest vibration frequency.
+
+Instead of the currently applied finite element method (FEM), Ritz series expansions have been utilized in the analytical developments both for the dynamic variables and for the thickness axial distribution over the shell surface. Lagrange multipliers, together with governing equations and objective function, have been utilized to form the Lagrangian functional, as in the classical Euler–Lagrange method. Imposing the stationary conditions with respect to the Lagrangian degrees of freedom gives a non-linear algebraic equations system, whose solution can be found with an appropriate algorithm.
+
+A series of repeated optimisation operations have been performed to arrive at the minimized weight profile, but with the pre-established minimum value of the shell thickness.
+
+A simplified nearly symmetric and balanced multilayer composite angle-ply laminate of the shell structure is supposed, as in the case of the uniform thickness reference shell, previously considered for the dynamic analysis. Significant results of some computation application cases can be helpful to evaluate the efficiency of the proposed optimisation procedure applied to cylindrical structures.

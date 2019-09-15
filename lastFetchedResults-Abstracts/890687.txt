@@ -1,0 +1,11 @@
+This paper focuses on solving the bi-objective problem of no-wait two-stage flexible flow shop
+scheduling. The objectives considered in this study are minimum makespan (Cmax), as well as maximum
+tardiness of jobs (Tmax). This problem is known as NP-hard. Hence, three bi-objective optimization
+methods based on simulated annealing, called CWSA (classical weighted simulated annealing), NWSA
+(normalized weighted simulated annealing), and FSA (fuzzy simulated annealing), are developed to solve
+the problem with the goal of finding approximations of the optimal Pareto front. Due to the fact that
+meta-heuristic algorithms are very vigilant of parameter values, we proposed a new reliable method, by
+mixing the Taguchi method and a Multi-Objective Decision Making (MODM) approach, for achieving our
+purpose. The algorithms are evaluated by solving both small and large scale problems. The performances
+are evaluated in terms of a relative deviation index. Finally, the result of the study is discussed and
+concluded, and potential areas of further study are highlighted.

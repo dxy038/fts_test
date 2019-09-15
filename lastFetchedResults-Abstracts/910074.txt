@@ -1,0 +1,12 @@
+Dynamic model development for describing complex ecological systems continues to grow in popularity. For both academic research and
+project management, understanding the benefits and limitations of systems-based software could improve the accuracy of results and enlarge
+the user audience. A Surface Wetness Energy Balance (SWEB) model for canopy surface wetness has been translated into four software packages
+and their strengths and weaknesses were compared based on ‘novice’ user interpretations. We found expression-based models such as Simulink
+and GoldSim with Expressions were able to model the SWEB more accurately; however, stock and flow-based models such as STELLA,
+Madonna, and GoldSim with Flows provided the user a better conceptual understanding of the ecologic system. Although the original objective
+of this study was to identify an ‘appropriate’ software package for predicting canopy surface wetness using SWEB, our outcomes suggest that
+many factors must be considered by the stakeholders when selecting a model because the modeling software becomes part of the model and of
+the calibration process. These constraints may include user demographics, budget limitations, built-in sensitivity and optimization tools, and the
+preference of user friendliness vs. computational power. Furthermore, the multitude of closed proprietary software may present a disservice to
+the modeling community, creating model artifacts that originate somewhere deep inside the undocumented features of the software, and masking
+the underlying properties of the model.

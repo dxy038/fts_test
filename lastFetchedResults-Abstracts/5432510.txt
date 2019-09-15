@@ -1,0 +1,1 @@
+We describe six algorithms for bit-allocation in audio coding. Each algorithm stems from the minimization of a different perceptually-motivated objective function. Three of these objective functions are extensions of existing ones, and three are new. Closed-form bit-allocation equations result in five cases, and an iterative approach is required in the sixth

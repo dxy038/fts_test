@@ -1,0 +1,5 @@
+Objective: We investigated the use of near-infrared spectroscopy as an analytical tool to quantify concentrations of urea, creatinine, glucose, ketone, and protein in urine.
+Design and Methods: FT-IR spectroscopy in conjunction with a polynomial based spectral smoothing method was applied to urine specimens. A partial factorial experimental design was employed to collect spectra using normal and spiked urine samples.
+Results: Our results show that the spectral signatures of urea, creatinine, glucose, ketone, and protein in the 1350 to 1800 nm and 2050 to 2375 nm range are sufficiently strong and unique for accurate measurements.
+Conclusions: The accuracy of near infrared for quantifying concentrations of urea and creatinine is only slightly less than our selected reference methods. Glucose, ketone and protein are sufficiently accurate to be useful as a screening tool for wellness. The method successfully accounts for biologic matrix variation. The advantages of near-infrared analysis are (1) no reagents, (2) ease of sample preparation, (3) speed, and (4) the ability to quantify multiple analytes with one spectra.
+

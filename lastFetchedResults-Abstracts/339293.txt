@@ -1,0 +1,11 @@
+Objective
+Many clinical gene therapy trials have described poor engraftment of retrovirally transduced CD34+ cells. Because engraftment is dependent upon successful homing of graft cells to the bone marrow (BM), we examined whether retroviral-mediated gene transfer (RMGT) induces a homing defect in CD34+ cells.
+Methods
+
+Homing of fluorescently labeled human BM CD34+ cells transduced with three separate retroviral vectors (MFG-eGFP, LNC-eGFP, and LXSN) was assessed in nonobese diabetic/severe combined immunodeficient mice.
+Results
+
+Homing of transduced CD34+ cells was significantly decreased 20 hours after transplantation compared with freshly isolated control and cultured untransduced control cells. Specifically, homing of GFP+ cells in the graft was preferentially decreased thus skewing the contribution of transduced cells to engraftment. Transduced cells were not selectively trapped in other organs and BM-homed transduced cells did not undergo apoptosis at a higher rate than untransduced cells. Adhesion molecule expression and binding activity was not altered by RMGT. This homing defect was reversed when transduced cells were cultured over CH-296 for 2 additional days with SCF only.
+Conclusion
+
+These data suggest that RMGT of hematopoietic cells may compromise their homing potential and implicate transduction-induced reduced homing in the observed low engraftment of retrovirally transduced CD34+ cells. These results may have a direct clinical application in gene therapy protocols.

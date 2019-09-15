@@ -1,0 +1,8 @@
+For better guiding a system, senior managers should have accurate information. Using Data Envelopment
+analysis (DEA) help managers in this objective. Thus, many investigations have been made in
+order to find the most productive scale size (MPSS) for the evaluating decision making units (DMUs).
+In this paper we consider this case where there exist subsets of input and output variables to be integer
+valued. We use data envelopment analysis (DEA) technique, which is a mathematical programming
+for eficiency evaluation and target setting for a set of DMUs, and develop a model with which the
+desired MPSS point can be found. The applicability of developed model is illustrated in the context
+of the analysis to show the validity of the proposed model.

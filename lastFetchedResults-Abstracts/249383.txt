@@ -1,0 +1,10 @@
+A shape or topology design with the sti3ness maximized and the maximum stress minimized is usually
+of practical signi=cance in structural optimization. This paper proposes a thickness based evolutionary
+procedure for such multicriteria design problems. To make the multicriteria optimization suit to more
+realistic structural situations, multiple maximum stress locations and multiple load cases are taken into
+account in this paper. To balance the sti3ness and stress criteria, a weighting average scheme is adopted
+to identify the overall e3ects on the two components of design objective due to varying an element’s
+thickness. Adopting the proposed optimization procedure, a design with maximized static sti3ness and
+minimized peak stress is achieved by gradually shifting material from the under-utilized regions onto the
+over-utilized ones. The examples show the capabilities of the proposed method for solving multicriteria
+sizeand topology designs for both singleand multipleload cases

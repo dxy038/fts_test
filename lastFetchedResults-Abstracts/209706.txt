@@ -1,0 +1,18 @@
+Introduction: The hydrophobic interaction is a major driving force behind many effects and phenomena in
+biological systems many hydrophobicity scales have already been proposed and have been used to predict the
+topography of proteins.
+Objective: In the present work based on some theoretical considerations a new hydrophobic scale for the amino
+acids is proposed.
+Materials and Methods: From the empirically justified assumptions that hydrophobicity of the amino acid
+residues as part of a polypeptide chain is dependent on the surface area and the electro negativity content of the
+residues, an equation which relates the hydrophobicity to the surface area; and the number, and electro negativity
+of oxygen and nitrogen of the residue is proposed. from this equation a new hyrophobicity scale for the amino
+acids is obtained. Using this scale and a sliding window averaging method hrdrophobicity plots for the human
+melatonin Mella receptor and prion protein (the eause of mad cow disease) are drawn; and the intrarnembrane
+structure of melatonin mel., receptor and hydrophobic core ofthe second half ofthe prion protein are determined
+and compared with those from literatures.
+Results: the proposed hydrophobicity scale in this work is in good agreement with that of Engelmann and
+coworkers. The intramembrane structure of melatonin Mella receptor and the structure of the hydrophobic core
+of the prion protein predicted in this article are in good agreement with those proposed in the literatures.
+Conelusion: the proposed hydrophobicity scale in this work is suitable for predicting the topography of the tran
+membrane and globular proteins.

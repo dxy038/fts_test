@@ -1,0 +1,11 @@
+Objective.  To assess the effects of visual feedback gain, which express the amplitudes of the displacements of the centre of pressure displayed on a computer screen.
+
+Design. The controlling variable, the centre of pressure trajectories, recorded using a force platform, were decomposed into two elementary motions: (1) the horizontal displacements of the centre of gravity and (2) the vertical projection of the difference between centre of pressure and the centre of gravity. These motions were processed through frequency analysis and modelled as fractional Brownian motion to assess their spatio-temporal linkage and their degree of control.
+
+Background. Although tests to modify the feedback gain have already been carried out, the specific effects from a biomechanical and motor control point of view need to be assessed.
+
+Methods. Thirteen healthy adults were tested through various visual feedback gains performed in random order.
+
+Results. By increasing the visual feedback gain, no difference is observed between centre of pressure and centre of gravity motions whereas a progressive diminution of centre of gravity horizontal motions is seen. This latter effect is principally explained by a reinforcement of control during corrective processes.
+
+Conclusions. When the control of centre of gravity constitutes the main flaw in undisturbed stance maintenance, the efficiency of a visual feedback rehabilitation protocol should be largely improved by using an enhanced gain.

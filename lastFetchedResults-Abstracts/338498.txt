@@ -1,0 +1,11 @@
+Objective
+Fanconi anemia (FA) is an autosomal-recessive cancer susceptibility syndrome with seven complementation groups. Six of the FA genes have been cloned (corresponding to subtypes A, C, D2, E, F, and G) and the encoded proteins interact in a common pathway. Patient-derived mutations in FA genes have been helpful in delineating functional domains of FA proteins. The purpose of this work was to subtype FA patient–derived cell lines in our repository and to identify FA gene mutations.
+Methods
+
+We subtyped 62 FA patients as type A, G, C, or non-ACG by using a combination of retroviral gene transfer and immunoblot analysis. Among these FA patients, we identified six FA-G patients for further analysis. We used a strategy involving amplification of FANCG/XRCC9 exons and direct sequencing to identify novel FANCG mutations in cell lines derived from these FA-G patients. We functionally analyzed FANCG mutant alleles by transducing the corresponding cDNAs into a known FA-G indicator cell line and scoring correction of MMC sensitivity.
+Results
+
+Our results demonstrate a wide range of mutations in the FANCG gene (splice, nonsense, and missense mutations). Based on this mutational screen, a carboxy terminal functional domain of the FANCG protein appears to be required for complementation of FA-G cells and for normal assembly of the FANCA/FANCG/FANCC protein complex.
+Conclusion
+
+The identification of patient-derived mutant alleles of FA genes can provide important insights to the function of FA proteins. FA subtyping is also a necessary precondition for gene therapy.

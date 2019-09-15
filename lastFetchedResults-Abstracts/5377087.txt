@@ -1,0 +1,1 @@
+We introduce a ubiquitous sensor network system, called U-FIPI, to monitor the early symptom of fire and intruder in indoor environment. Especially, this system adapts a novel approach to provide bidirectional location- awareness service between various mobile nodes and U-FIPI fixture nodes making it suitable for total service as a new concept of building management system.

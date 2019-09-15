@@ -1,0 +1,13 @@
+objective functions in the form of a ratio of numerator and denominator functions which involve both
+contains linear and quadratic forms with the assumption that the set of feasible solutions is a convex
+polyhedral with a nite number of extreme points and the denominator part of each of the objective
+functions is non-zero in the constraint set. In this paper, we extend the procedure as suggested
+by Lachhwani (Proc. Nat. Acad. Sci. India, 82(4), 317-322) based on fuzzy goal programming
+approach for the solution of multi objective quadratic fractional programming (MOQFP) problem.
+The proposed technique is simple, ecient and requires less computational work. In the proposed
+FGP model formulation, corresponding objectives of equivalent multi objective programming problem
+are transformed into fuzzy goals (membership functions) by means of assigning an aspiration level to
+each of them and suitable membership function is dened for each objectives. Then achievement of
+the highest membership value of each of fuzzy goals is formulated by minimizing the sum of negative
+deviational variables. The proposed methodology is illustrated with numerical example in order to
+support the proposed methodology.

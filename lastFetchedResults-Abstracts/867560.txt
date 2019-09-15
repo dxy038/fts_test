@@ -1,0 +1,8 @@
+Determination of volume or weight of a gearbox is an important issue in preliminary design of power
+transmission applications. Trial and error procedure or some gear standards information sheets are commonly
+used in traditional design. The purpose of this paper is to automate preliminary design of gear
+drives by minimizing volume of gear trains. A stochastic approach Genetic Algorithm (GA) was applied
+to a parallel axis two stage helical gear trains problem. Static and dynamic penalty functions were introduced
+to the objective function for handling the design constraints. The results were compared with a
+deterministic design procedure developed. GA based approach produced quite well results promptly supplying
+preliminary design parameters of gear drives for different gear ratios to the designer.

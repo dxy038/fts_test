@@ -1,0 +1,14 @@
+Objectives
+The objective of this study was to identify associations of the cholesteryl ester transfer protein (CETP) gene with coronary artery disease (CAD) with tagging (t) single nucleotide polymorphisms (SNPs) chosen to optimally account for intra-genic variation.
+Background
+
+The CETP gene plays a critical role in lipoprotein metabolism, but the common and well-studied TaqIB variant is inconsistently predictive of CAD.
+Methods
+
+From a deoxyribonucleic acid bank of 10,020 individuals, nondiabetic nonsmoking patients (n = 4,811) with angiographically defined, clinically significant CAD (≥70% stenosis) or normal coronaries were genotyped for 11 CETP tSNPs. Myocardial infarction (MI) and lipid levels were evaluated as secondary end points.
+Results
+
+Analysis of single tSNPs, corrected for multiple comparisons (p < 0.00485), identified allele +1086A to be associated with CAD (p = 0.0034). Suggestive allelic and significant genotypic associations were found for −631AA (odds ratio [OR] = 3.95, p = 0.004 vs. CC) and +2389GA (OR = 1.21, p = 0.003 vs. GG). Haplotype analysis by linkage disequilibrium (LD) group revealed a CAD association for LD group B (p = 0.0025 across T+1086A, C+878T, C+408T) and near significance for LD group A (p = 0.013 across C-631A, MspI, G+2389A). A weak protective trend for TaqIB was eliminated by adjustment for other tSNPs, and haplotype analyses suggested that TaqIB was simply a marker for other tSNPs or haplotypes. No tSNP or haplotype associations with MI were found.
+Conclusions
+
+Multiple, less common SNPs and haplotype variants underlie CETP-related CAD risk, for which the common TaqIB variant is simply a poor marker. The occurrence of risk-related variants on separate haplotypes suggests genetic-risk complexity and allelic heterogeneity. (Database Registry of the Intermountain Heart Collaborative Study; http://clinicaltrials.gov/ct/show/NCT00406185?order=1; NCT00406185).

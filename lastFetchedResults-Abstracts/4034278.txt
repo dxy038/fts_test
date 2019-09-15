@@ -1,0 +1,1 @@
+Bidirectional 140 Mbit/s OQPSK-signal transmission with remotely generated microwaves applying optical heterodyning is reported. Two microwave carriers in the 18-20 GHz band are generated: one modulated by the downlink data, the other unmodulated and used as the local oscillator signal for the uplink mixer in the base station

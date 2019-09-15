@@ -1,0 +1,16 @@
+Management and scheduling of flights and assignment of gates to aircraft play a
+significant role in improving the procedure of the airport, due to the growing
+number of flights, decreasing the flight times. This research addresses assigning
+and scheduling of runways and gates in the main airport simultaneously.
+Moreover, this research considers the unavailability of runway’s constraint and
+the uncertain parameters relating to both areas of runway and gate assignment.
+The proposed model is formulated as a comprehensive bi-level bi-objective
+problem.The leader’s objective function minimizes the total waiting time for
+runways and gates for all aircrafts based on their importance coefficient.
+Meanwhile, the total distance traveled by all passengers in the airport terminal
+is minimized by a follower’s objective function. To solve the proposed model,
+the decomposition approach based on Benders’ decomposition method is
+applied. Empirical data are used to show the validation and application of our
+model. A comparison shows the effectiveness of the proposed model and its
+significant impact on cost decreasing. 
+

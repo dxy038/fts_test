@@ -1,0 +1,1 @@
+The satisfactory optimal control of linear systems under the existence of disturbance is studied. The satisfactory optimal control optimizes a quadratic maximal-valued objective functional subject to the H<sub>&#8734;</sub> norm constraint. We obtain Riccati-type equations by which the satisfactory optimal control is calculated in a form of state feedback.

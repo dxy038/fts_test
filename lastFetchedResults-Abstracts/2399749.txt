@@ -1,0 +1,8 @@
+Objective
+rpose of this investigation was to compare stresses within bonded porcelain and composite resin ultra-thin occlusal veneers to restore advanced erosive lesions.
+als and methods
+d maxillary molar was digitized with a micro-CT scanner. The 2D image data were converted in a 3D model using an interactive medical image processing software (Mimics). Standard triangle language files (STL files) of enamel and dentin surfaces were then exported to the software 3-matic to execute design and meshing operations. Solid 3-dimensional (3-D) models acquired in a finite element software (Marc/Mentat) were subjected to nonlinear contact analysis to simulate occlusal loading at 200N and 800N. Values of maximum principal stress and ultimate tensile strength were used to calculate the risk of fracture and for validation with existing experimental data.
+s
+were marked differences in stress distributions both at 200N (maximum peak values of 21.59, 28.63, 31.04 MPa) and 800N (96.16, 115.73, 134.90 MPa) for all restorative materials (MZ100, Empress CAD and e.max CAD, respectively). High tensile stresses (measured in the central groove) were found at 800N with the ceramic occlusal veneers showing occlusal stress peaks 17–29% higher than composite resin. The estimated risk of fracture was decreased for ultrathin composite resin occlusal veneers, which correlated with the existing validation data.
+icance
+thin composite resin (MZ100) and lithium disilicate (e.max CAD) occlusal veneers represent a conservative alternative to traditional onlays and complete coverage crowns for the treatment of severe erosive lesions in the posterior dentition.

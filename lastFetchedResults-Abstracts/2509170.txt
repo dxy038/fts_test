@@ -1,0 +1,8 @@
+Background and Objectives: Breast cancer is one of the most common cancers among women and is the second main cause of death after lung cancer. The objective of this study was to use the Bayes model to analyze the prognostic effects on the survival of the women with breast cancer after surgery in the south of Iran.
+
+Methods: The date was collected 1192 women who had breast cancer in Namazi Hospital Research Center between 2001 and 2006. The complete information of only 1148 of them was registered. Parametric Bayes and Bayes Cox methods were used. Considering 0.05 as the level of significance, the data analysis was done using the WinBUGS14 software.
+
+Results: The mean age of the patients (at the time of diagnosis) was 47 years in this study. Cox one-variable analysis showed a significant relationship between survival and smoking (P=0.009), bone metastasis (P=0.01), the number of lymph nodes (P=0.001), the tumoral level of malignancy (P=0.001), the surgical method (P=0.015), financial status (P=0.025), and the tumor size (P=0.001). By fitting Bayes models the variables tumor size, level of malignancy and number of lymph nodes were significant. &nbsp;&nbsp;
+
+Conclusion: The results showed that clinicopathological features of cancer had a significant role in the survival of the patients.
+

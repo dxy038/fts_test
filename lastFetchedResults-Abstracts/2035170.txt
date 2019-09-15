@@ -1,0 +1,8 @@
+Recently, with growth in utilization of renewable resources engineers and researchers have been motivated to
+offer new methods for their application in distribution networks. In this regard, optimal sitting and sizing of
+renewable resources as two main parameters in designing distribution network can reduce loss, operation costs
+and voltage deviations. In this paper, a multi-objective evolutionary algorithm based on fuzzy methods has been
+proposed for sitting and sizing of renewable resources. The provided algorithm minimizes economic,
+environmental and technical objective functions on 70-bus distribution test system. The results show that with
+optimal sitting and sizing of renewable resources in different scenarios costs, pollution and loss can be reduced
+significantly.

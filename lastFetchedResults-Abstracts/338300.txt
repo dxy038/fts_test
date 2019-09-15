@@ -1,0 +1,11 @@
+Objective
+CD34 is a cell surface glycoprotein expressed on hematopoietic stem and progenitor cells, but not on fully differentiated cells in the peripheral blood. To better understand the molecular regulation of early hematopoiesis, we are elucidating the mechanisms of CD34 transcriptional regulation.
+Materials and Methods
+
+By deletion analysis we identify a 39-bp element in the proximal region of murine CD34 promoter that is critical for promoter activity. Electromobility shift assays indicate that nuclear proteins of hematopoietic cells bind to this domain; however, the presence of this binding activity does not correlate directly with CD34 expression.
+Results
+
+Using methylation interference, the DNA binding site for this activity was localized to four guanine residues within the GimageTCGimage sequence from −48 to −54 bp. When the four contact guanines were mutated, both protein binding and promoter activity were abolished. Although this sequence does not contain a standard consensus for Sp1, this transcription factor binds specifically to the 39-bp region and stimulates promoter activity in both hematopoietic cells and in Sp1 null Drosophila S2 cells. In addition, Ku binds to this domain in a sequence-specific manner. Activation of the CD34 promoter by Sp1 requires the presence of a binding domain at −48 bp as well as the 5′ untranslated region, which also binds Sp1.
+Conclusion
+
+A functional interaction between regulatory regions upstream and downstream of the transcription start site is required for CD34 gene expression.

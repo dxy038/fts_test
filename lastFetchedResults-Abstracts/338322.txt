@@ -1,0 +1,11 @@
+Objective
+To test the hypothesis that hematopoietic growth factors may influence lineage choice in pluripotent progenitor cells, we investigated the effects of macrophage colony-stimulating factor (M-CSF) on erythroid and myeloid potentials of multipotent EML cells ectopically expressing M-CSF receptor (M-CSFR).
+Materials and Methods
+
+EML cells are stem cell factor (SCF)-dependent murine cells that give rise spontaneously to pre-B cells, burst-forming unit erythroid (BFU-E), and colony-forming unit granulocyte macrophage (CFU-GM). We determined BFU-E and CFU-GM frequencies among EML cells transduced with murine M-CSFR, human M-CSFR, or chimeric receptors, and cultivated in the presence of SCF, M-CSF, or both growth factors. Effects of specific inhibitors of signaling molecules were investigated.
+Results
+
+EML cells transduced with murine M-CSFR proliferated in response to M-CSF but also exhibited a sharp and rapid decrease in BFU-E frequency associated with an increase in CFU-GM frequency. In contrast, EML cells expressing human M-CSFR proliferated in response to M-CSF without any changes in erythroid or myeloid potential. Using chimeric receptors between human and murine M-CSFR, we showed that the effects of M-CSF on EML cell differentiation potential are mediated by a large region in the intracellular domain of murine M-CSFR. Furthermore, phospholipase C (PLC) inhibitor U73122 interfered with the negative effects of ligand-activated murine M-CSFR on EML cell erythroid potential.
+Conclusion
+
+We propose that signaling pathways activated by tyrosine kinase receptors may regulate erythroid potential and commitment decisions in multipotent progenitor cells and that PLC may play a key role in this process.

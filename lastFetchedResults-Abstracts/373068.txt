@@ -1,0 +1,11 @@
+Objective
+This work aims to evaluate the entrance surface dose (ESD), the body organ dose (BOD) and the effective dose (E) resulting from pediatric radiological procedures with the use of portable X-ray equipments.
+Materials and methods
+
+The software DoseCal was used to evaluate the doses imparted to patients. The children were classified according to their weight and age groups, and the study included three sectors of the intensive care unit of a large reference pediatric hospital in Rio de Janeiro.
+Results
+
+A total of 518 radiographs have been performed, (424 for chest and 94 for abdomen). The statistical data were compared with previously published results. The BOD is presented for the most exposed organs.
+Conclusion
+
+The mean value of ESD and E varied widely among neonates. The highest number of radiographs per infant peaked 33 for chest examination in the age group 0–1 year.

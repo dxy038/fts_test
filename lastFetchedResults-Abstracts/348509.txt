@@ -1,0 +1,9 @@
+Objective
+Central fatigue is the inability of central commands to recruit maximum evocable muscle force during voluntary contraction. Here, we investigate how fatigue affects the inhibitory circuits of the motor cortex.
+Methods
+MEPs, short interval intracortical inhibition (SICI) and intracortical facilitation (ICF) were evaluated using a paired pulse transcranial magnetic stimulation (TMS) paradigm before, during and after a series of 5 isometric contractions of the FDI muscle to 50% maximal voluntary contraction (MVC). Each contraction lasted 2 min and was separated from the next by a pause of 2 min 40 s. Twelve male healthy subjects (range from 22 to 51 years) participated in experiment 1, in which the intensity of test stimulus was constant throughout the experiment. Eight of the same subjects (range from 26 to 51 years) participated in experiment 2, in which the intensity of test stimulus was adjusted so that the amplitude of the test MEP was kept constant throughout the measurement.
+Results
+As expected, test MEPs gradually decreased with progressive fatigue and recovered to control values with 5–10 min of rest. Because of the change in MEP amplitude, changes in percent SICI (reduced inhibition) and percent ICF (increased facilitation) in experiment 1 are difficult to interpret. When the test MEP was maintained at a constant size in experiment 2 there was no change in percent ICF, but the reduction in SICI was still present although it recovered to control values within the first 5–10 min of rest.
+Conclusions
+SICI in FDI decreases transiently after a series of fatiguing isometric contractions. This decrease may compensate to some extent for reduced cortical excitability after muscle fatigue.
+

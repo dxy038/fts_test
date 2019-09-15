@@ -1,0 +1,9 @@
+Objective
+A randomized, placebo-controlled phase III trial of the breast cancer vaccine Theratope (Biomira Corporation, Edmonton, Alberta, Canada), which expresses the underglycosylated, mucin-associated peptide STn showed that patients treated concomitantly with hormone therapy plus vaccine survived significantly longer than patients treated with hormone therapy plus a control vaccine. The objective of this study was to elucidate a mechanism to explain this effect.
+Methods
+Tumor cells characterized for expression of estrogen receptor (ER), STn, and Mucin-1 (Muc1) were pretreated (24 hours) with the aromatase inhibitor (AI) formestane, followed by assessment of sensitivity to monocyte-mediated killing in the presence and absence of STn or Muc1 antibodies (Abs) using the 51Cr-release assay.
+Results
+ER+/STn+/Muc1+ tumor cells cultured in medium were equally sensitive to killing by monocytes in the absence or presence of STn and Muc1 Abs (mean = 54% and 55% cytolysis, respectively, P = not significant). Formestane-pretreated cells showed decreased sensitivity to killing by monocytes in the absence of Abs (mean = 45% cytolysis, P = .07) but significantly increased sensitivity to monocyte-mediated, antibody-dependent cellular cytotoxicity (MM-ADCC) (mean = 65%, P = .003). These effects were not seen with either ER+/STn-/Muc1+ cells or ER-/STn+/Muc1+ cells, indicating the need for both ER and STn positivity of the target tumor cells.
+Conclusions
+Tumor cells treated with an AI exhibit increased sensitivity to MM-ADCC. The capacity of an AI to “sensitize” tumor cells to this form of antitumor immunity represents a heretofore, undescribed mechanism whereby a hormone-based treatment may collaborate with antigen-specific tumor immunity to produce improved tumor control in vivo in metastatic breast cancer patients.
+

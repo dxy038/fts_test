@@ -1,0 +1,9 @@
+The objective of the paper is to develop and use a model for radioactive species transport in the primary circuit and in the reactor hall of the Romanian TRIGA facility. CATHARE2 V25 code (Code for Analysis of Thermal–Hydraulics during an Accident of Reactor and Safety Evaluation) is used. CATHARE is developed by the French Atomic Energy Commission (CEA) and owned in partnership with three other French partners: EDF, AREVA-ANP and IRSN. The radio-chemical components in CATHARE2 include, besides activation products, four fission products with predefined characteristics (Kr-87, Xe-133, I-131, Cs-137). New radioactive species can be defined by the user, and the characteristics of the existing ones can be modified.
+
+IGA model created comprises both the primary reactor circuit and reactor hall, involving water zones and non-condensable gas (air). Ventilation system is simulated by means of boundary conditions. Using the same facility model, two separate studies are performed with externally calculated sources:-
+n product species transport and evacuation. This is done as PSA support studies, postulating core damage and volatile species release;
+
+transport and evacuation. Argon activity at reactor stack is calculated for normal operation and compared to monitor readings.
+
+
+per describes also the calculation of the radioactive sources based on SCALE 4.4 in case of fission products, and using MCNP5 for Ar-41.

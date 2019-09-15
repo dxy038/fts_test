@@ -1,0 +1,1 @@
+A novel bidirectional distributed amplifier is configured by integrating a bidirectional amplifier (BDA) into a distributed amplifier. The BDA is formed by connecting two identical FETs in ´reverse´ parallel. Experimental results show that symmetric S-parameters are obtained in the range 0.8-2.2 GHz without additional phase equalisation.

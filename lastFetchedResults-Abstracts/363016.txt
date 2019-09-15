@@ -1,0 +1,9 @@
+Study objective
+Lack of inpatient bed availability has been identified as a major contributor to emergency department (ED) crowding. Our objective is to determine the changes in ED length of stay and ambulance diversion occurring in an urban, academic medical center after an increase in adult ICU beds.
+Methods
+This was a secondary analysis of 2 years of hospital administrative data, capitalizing on a natural experiment in which the number of adult ICU beds in the study hospital increased from 47 to 67 (total beds 411 to 431). We analyzed changes in ED length of stay for adults admitted to ICU, telemetry beds, and ward beds and adults discharged home. We also analyzed changes in hours per day spent on 3 types of ambulance diversion: complete diversion (all ambulances), critical care diversion (ambulances carrying patients requiring ICU beds), and diversion of ambulances carrying trauma patients.
+Results
+The average hours per day on complete ambulance diversion decreased from 3.8 hours to 1.4 hours (66% decrease). Critical care and trauma diversion showed similar decreases. Average ED length of stay for patients admitted to the ICU decreased by 25 minutes (257 to 232 minutes). Average ED length of stay did not significantly decrease for other admitted patients and increased for discharged patients.
+Conclusion
+The most notable change after ICU expansion was a decrease in time spent on ambulance diversion. Increasing ICU beds appears to have shortened ED length of stay for ICU patients but has less effect on other admitted patients and apparently no effect on patients discharged home.
+

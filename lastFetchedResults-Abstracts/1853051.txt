@@ -1,0 +1,8 @@
+Objective
+s paper a new nonlinear system identification approach is developed for dynamical quantification of cardiovascular regulation. This approach is specifically focused on the identification of the heart rate (HR) baroreflex mechanism. The principal objective of this paper is to improve the model accuracy in the estimation of HR by proposing a modified nonlinear model.
+s and material
+oposed HR baroreflex model is based on inherent features of the autonomic nervous system for which we develop an adaptive neuro-fuzzy inference system (ANFIS) structure. This method allows incorporation of physiological understandings about the sympathetic and parasympathetic nerves through the selection of appropriate membership functions in the ANFIS structure. The required data for system modeling are collected from the publicly available PhysioNet database.
+s
+sults agree with the natural characteristics and physiological understanding of the cardiovascular regulatory system, such as delay in the parasympathetic function, durability in the function of sympathetic nerves and the correlation between the HR and the ABP signals. They also show significant improvements in HR prediction in terms of the normalized root mean square error (NRMSE) in comparison with other reported methods. We achieved to 0.191 in mean NRMSE in prediction of HR in this paper which is about 20% better than the best reported result in other researches.
+sion
+e shown that for cardiovascular system regulation, our proposed nonlinear model is more accurate than other recently developed methods. Accurate HR baroreflex modeling enables clinicians to have more reliable information for their patients.

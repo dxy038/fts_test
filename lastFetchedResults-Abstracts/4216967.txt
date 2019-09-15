@@ -1,0 +1,1 @@
+We report a bidirectional optical link through polymer waveguides integrated on PCB. With 15 channels at 15 Gb/s (BER &lt;;10<sup>-12</sup> and &lt;;10 pJ/bit), the channel and aggregate bandwidths are the highest reported for waveguide interconnects.

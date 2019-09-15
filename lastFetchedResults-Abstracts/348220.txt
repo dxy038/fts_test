@@ -1,0 +1,11 @@
+Objective
+In epileptic disorders, EEG background activity is disorganized in or near the epileptogenic focus and spectral EEG analysis (SEA) can provide useful information about the focus. We tried to develop a new spectral index from basic spectral parameters to detect the epileptic abnormalities at EEG background activity.
+Methods
+A new spectral EEG index, epileptic abnormality index (EAI), was constructed from frequency band power and power asymmetry parameters. Within the index, parameters were weighted due to both conventional EEG knowledge and their power in discrimination healthy subjects from patients. EEG background activity from 99 epileptic patients and 146 healthy subjects was examined both by EAI and by a conventional SEA method, by using z-scoring statistic. Each test results were compared with visual EEG interpretation of subjects.
+Results
+In patient groups, EAI was most successful in lateralization of epileptic abnormalities. It was also helpful in discrimination of epileptic patients from normals in the case where visual EEG interpretation was ‘normal’.
+Conclusions
+EAI depends on basic spectral parameters and it combines statistical methods and clinical knowledge about EEG. It increases the analysis capacity of SEA in evaluation of EEG background activity.
+Significance
+EAI is a new and useful approach in detection of EEG background abnormalities in epilepsy and its logical base can also be used in the detection of brain electrical activity abnormalities other than epileptic disorders.
+

@@ -1,0 +1,8 @@
+In recent years, demand for three-dimensional simulations has continued to grow in the  eld of computeraided
+engineering. Especially, in the analysis of forming processes a fully automatic and robust mesh
+generator is necessary for handling complex geometries used in industry. For three-dimensional analyses,
+tetrahedral elements are commonly used due to the advantage in dealing with such geometries.
+In this study, the advancing front technique has been implemented and modi ed using an optimization
+scheme. In this optimization scheme, the distortion metric determines ‘when and where’ to smooth,
+and serves as an objective function. As a result, the performance of the advancing front technique is
+improved in terms of mesh quality generated

@@ -1,0 +1,6 @@
+Objective: To explore the effect of applying a short burst of high-frequency repetitive transcranial magnetic stimulation (rTMS) to the human motor cortex as a preparatory investigation before attempting theta burst stimulation in humans.
+Methods: Five or15 pulses of 50 Hz rTMS were given at 50–80% active motor threshold (AMT). The time course of changes in motor-evoked potential (MEP) size and short interval intracortical inhibition (SICI) were evaluated from 20 to 300 ms after the end of each burst in the relaxed first dorsal interosseous muscle of 15 healthy volunteers.
+Results: No subjects noted any adverse effects. MEPs were enhanced and SICIs were reduced at 20 ms after a burst of either 5 or 15 pulses at 70 or 80% AMT, but not at 50% AMT. Subsequent experiments used a 5 pulse burst at 80% AMT. The threshold for producing SICI increased from 60 to 80% AMT when tested 10 or 20 ms after the end of the burst. MEPs were enhanced for 100 ms, whereas SICI was reduced for 200–300 ms.
+Conclusions: A short burst of low-intensity 50 Hz rTMS over the hand motor area transiently increases MEP amplitude with a longer lasting decrease in SICI.
+Significance: This means that it may be possible in future experiments to apply theta burst conditioning safely to the human cortex.
+

@@ -1,0 +1,1 @@
+We demonstrate a back reflection optical signal detection-based automatic wavelength control method for channel-reuse, DWDM-PON. A 40-km-reach, channel-reuse, full-duplex, bidirectional 10 Gb/s transmission on a 50 GHz WDM grid is achieved.

@@ -1,0 +1,12 @@
+The objective of this paper was to determine if three different direct normal irradiance (DNI) models were sufficiently accurate to
+determine if concentrating solar power (CSP) plants could meet the utility electrical load. DNI data were measured at three different
+laboratories in the United States and compared with DNI calculated by three DNI models. In addition, utility electrical loading data
+were obtained for all three locations. The DNI models evaluated were: the Direct Insolation Simulation Code (DISC), DIRINT, and
+DIRINDEX. On an annual solar insolation (e.g. kW h/m2) basis, the accuracy of the DNI models at all three locations was within:
+7% (DISC), 5% (DIRINT), and 3% (DIRINDEX). During the three highest electrical loading months at the three locations, the monthly
+accuracy varied from: 0% to 16% (DISC), 0% to 9% (DIRINT), and 0% to 8% (DIRINDEX). At one location different pyranometers
+were used to measure GHI, and the most expensive pyranometers did not improve the DNI model monthly accuracy. In lieu of actually
+measuring DNI, using the DIRINT model was felt to be sufficient for assessing whether to build a CSP plant at one location, but use of
+either the DIRINT or DIRINDEX models was felt to be marginal for the other two locations due to errors in modeling DNI for utility
+peak electrical loading days – especially for partly cloudy days.
+Published by Elsevier Ltd.

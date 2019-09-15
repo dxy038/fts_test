@@ -1,0 +1,11 @@
+Objective
+We have previously shown that Flt3 ligand (FL)/Flt3 signaling regulates hematopoietic cell migration by modulating the SDF1α/CXCR4 signaling pathway. Herein, we evaluated whether a functional interaction between SDF1α/CXCR4 signaling and internal tandem duplication (ITD) of Flt3 regulates aberrant hematopoietic survival. We also investigated molecular mechanisms responsible for enhanced migration to SDF1α as a result of ITD-Flt3 expression and whether ITD-Flt3 regulates hematopoietic cell trafficking.
+Methods
+
+Hematopoietic progenitor cell survival was determined using marrow cells retrovirally expressing ITD-Flt3 and stimulated with SDF1α. Migration, to SDF1α adhesion to vascular cell adhesion molecule-1, and in vivo homing were determined using Ba/F3 cells expressing ITD-Flt3 and transfected with dominant negative (DN) H-Ras.
+Results
+
+Addition of SDF1α significantly increased growth factor-independent proliferation of colony-forming unit granulocyte-macrophage induced by ITD-Flt3. Although a negative gradient of SDF1α inhibited migration regardless of the stimulation, a positive gradient of FL or ITD-Flt3 significantly increased cell migration even in the presence of a negative SDF1α gradient. Enhanced migration induced by ITD-Flt3 was inhibited by DN-H-Ras, whereas overexpression of a constitutive active form of H-Ras in wild-type Flt3-Ba/F3 cells significantly elevated migration to SDF1α. Despite enhanced migration to SDF1α, preincubation with FL or ITD-Flt3 overexpression significantly reduced homing of primary mouse bone marrow cells or Ba/F3 cells to bone marrow that was associated with significant reduction in adhesion to vascular cell adhesion molecule-1 and VLA4 expression.
+Conclusion
+
+Our results suggest that functional interactions between Flt3 and SDF1α/CXCR4 regulate oncogenic proliferation and migration of hematopoietic cells, which is mediated by Ras, and that Flt3 signaling regulates hematopoietic cell trafficking in vivo.

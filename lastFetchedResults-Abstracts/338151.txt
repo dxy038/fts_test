@@ -1,0 +1,9 @@
+Objective
+To test gibbon ape leukemia virus (GALV) pseudotype vector transduction of marrow subpopulations that contribute to hematopoietic reconstitution in vivo.
+Materials and Methods
+Autologous CD34+ Lin−, CD34+ Lin+, and CD34− Lin− marrow cells, transduced by coculture with PG13/LN, PG13/LNX, and PG13/LNY vector-producing cells, respectively, were transplanted in three female baboons. Two female baboons also were transplanted with fresh allogeneic CD34−Lin− marrow cells from MHC-matched male siblings and, to ensure survival, with autologous CD34+Lin− and CD34+Lin+ marrow cells transduced with PG13/LN and PG13/LNX, respectively. The LN, LNX, and LNY vectors are identical except for different length sequences at the 3′ end of the bacterial neomycin phosphotransferase (neo) gene.
+Results
+LN+ and LNX+ cells from CD34+Lin− and CD34+Lin+ cells, respectively, but no LNY+ from CD34−Lin− cells were detectable in blood and marrow of all animals after transplant. LN+, CD34+Lin− cells contributed to reconstitution of the T, B, and myeloid lineages. LNX+, CD34+Lin+ cells contributed only to B and myeloid lineages. Male cells, CD34−Lin−, were detected by polymerase chain reaction in blood and marrow of the two allogeneic transplanted animals at estimated frequencies of ≤0.001% 1 month after transplant in both animals. Male cells became undetectable in one animal and have remained detectable, with declining frequency, in the other for more than 15 months. In this animal, no male CD34+ or colony-forming cells have been detected.
+Conclusions
+CD34+Lin− and CD34+Lin+ marrow cells can serve as targets for GALV pseudotype retrovirus-mediated gene transfer. CD34+Lin− cells contribute to reconstitution of all hematopoietic lineages. Autologous CD34−Lin− cells were either not transduced by GALV pseudotype retrovirus vectors using current approaches or did not contribute significantly to reconstitution, as suggested by allogeneic transplants.
+

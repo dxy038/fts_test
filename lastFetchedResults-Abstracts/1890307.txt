@@ -1,0 +1,23 @@
+Objective(s): The energy resolution of a cadmium-zinc-telluride (CZT) solid-state
+semiconductor detector is about 5%, and is superior to the resolution of the conventional
+Anger type detector which is 10%. Also, the window width of the high-energy part and of the
+low-energy part of a photo peak window can be changed separately. In this study, we used a
+semiconductor detector and examined the effects of changing energy window widths for 99mTc
+and 123 I simultaneous SPECT.
+Methods: The energy “centerline” for 99mTc was set at 140.5 keV and that for 123I at 159.0 keV.
+For 99mTc, the “low-energy-window width” was set to values that varied from 3% to 10% of
+140.5 keV and the “high-energy-window width” were independently set to values that varied
+from 3% to 6% of 140.5 keV. For 123I, the “low energy-window-width” varied from 3% to 6%
+of 159.0 keV and the high-energy-window width from 3% to 10% of 159 keV. In this study
+we imaged the cardiac phantom, using single or dual radionuclide, changing energy window
+width, and comparing SPECT counts as well as crosstalk ratio.
+Results: The contamination to the 123I window from 99mTc (the crosstalk) was only 1% or
+less with cutoffs of 4% at lower part and 6% at upper part of 159KeV. On the other hand,
+the crosstalk from 123I photons into the 99mTc window mostly exceeded 20%. Therefore, in
+order to suppress the rate of contamination to 20% or less, 99mTc window cutoffs were set at
+3% in upper part and 7% at lower part of 140.5 KeV. The semiconductor detector improves
+separation accuracy of the acquisition inherently at dual radionuclide imaging. In, this
+phantom study we simulated dual radionuclide simultaneous SPECT by 99mTc-tetrofosmin
+and 123 I-BMIPP.
+Conclusion: We suggest that dual radionuclide simultaneous SPECT of 99mTc and 123I using a
+CZT semiconductor detector is possible employing the recommended windows.

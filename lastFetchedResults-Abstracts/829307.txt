@@ -1,0 +1,14 @@
+Due to population growth in urban areas, especially in the capital cities in developing countries, the use of private
+vehicles are increasing, leading to many problems such as congestion, pollution, noise, long travel time, high travel
+cost and more side effects. In such circumstances government policy would encourage people to use public transportation.
+In the meantime, employing the Intelligent Transport System consisting of two parts including private sector
+and public sector by predicting the dynamic travel time, can help the travelers to be aware of the latest traffic information.
+To achieve this objective, the calculation of traffic flow, demand of passenger and transport means availability
+are vital. The double constraint gravity model is a crucial methodology for predicting the origin destination matrix.
+This paper represents a Travel System Pattern (TSP) based on proposed methodology. TSP tries to let the travellers
+and authority know about the best travel route with considering the shortest dynamic travel time information. For this
+purpose the travellers are able to be aware of the travel time and other details of travel route via the internet or SMS
+system. Hence, a case study based on an actual public and private network in Kuala Lumpur, Malaysia is chosen as a
+case study area. The result shows that the accuracy of the proposed method indicated reasonable R2 of 0.926 for the
+evening rush traffic period. This indicates that the TSP developed in the present study is a reliable and suitable tool
+to guide the travellers and companies.

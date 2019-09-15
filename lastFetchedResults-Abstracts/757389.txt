@@ -1,0 +1,15 @@
+Background
+Pulsed Wave Tissue Doppler (PWTD) recording of myocardial velocities has been widely used for assessing ventricular function but the output trace has finite thickness that leads to potential ambiguity in determining velocity and timing.
+Objective
+
+To determine optimal method of measurement of PWTD traces by comparing them with those obtained from digitised M-mode recorded from the atrioventricular (AV) valve ring (septal, LV and RV free wall).
+Methods
+
+We studied 100 subjects, 49 normal and 51 with coronary artery disease (15 patients with reduced left ventricular wall motion, mean systolic amplitude of LV free wall 0.8±0.3cm), mean age 53±15 years. We recorded AV ring motion using PWTD and M-mode echo techniques. PWTD velocity signals were measured separately at: outer, inner and mid-points of the envelope and compared with peak velocities obtained from digitised M-mode long axis.
+Results
+
+Peak systolic (S), early diastolic (E) and late diastolic (A) PWTD velocities at outer, inner and middle envelope correlated closely with the corresponding M-mode measurements at left, septal and right ventricular free wall. However, only the midpoint S and E wave PWTD signal velocities agreed numerically with those obtained by digitised M-mode velocities; S (left 6.56±1.80 vs. 6.54±1.91 cm/s N.S.); E (left 8.50±3.25 vs. 7.65±3.30 cm/s N.S.). Agreement was somewhat less satisfactory for A wave; left 7.40±2.13 vs. 6.23±2.09 cm/s p<0.05.
+Conclusion
+
+Atrioventricular valve ring echo provides an excellent in vivo calibration model for validating tissue Doppler velocity estimates. Since the mid-point of the envelope of the tissue Doppler signal is the most closely related value to that of the digitised M-mode, it may be recommended as a convention for routine practice.
+

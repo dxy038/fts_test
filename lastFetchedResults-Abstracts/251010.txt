@@ -1,0 +1,21 @@
+The paper presents a 3D-based adaptive first-order shell finite element to be applied to hierarchical
+modelling and adaptive analysis of complex structures. The main feature of the element is that it is
+equipped with 3D degrees of freedom, while its mechanical model corresponds to classical first-order
+shell theory. Other useful features of the element are its modelling and adaptive capabilities. The element is
+assigned to hierarchical modelling and hpq-adaptive analysis of shell parts of complex structures consisting
+of solid, thick- and thin-shell parts, as well as of transition zones, where h, p and q denote the mesh
+density parameter and the longitudinal and transverse orders of approximation, respectively. The proposed
+hp-adaptive first-order shell element can be joined with 3D-based hpq-adaptive hierarchical shell elements
+or 3D hpp-adaptive solid elements by means of the family of 3D-based hpq/hp- or hpp/hp-adaptive
+transition elements.
+The main objective of the first part of our research, presented in the first part of the paper, was to
+provide non-standard information on the original parts of the element algorithm. Here we describe the
+second part of the research, devoted to the methodology and results of the application of the element to
+various plate and shell problems. The main objective of this part is to verify algorithms of the element and
+to show its usefulness in modelling and adaptive analysis of shell and plate parts of complex structures.
+In order to do that, there is a presentation of the results of a comparative analysis of model plate and
+shell problems using the classical and our elements, and equidistributed and integrated Legendre shape
+functions. For the plate problem a comparison of the results obtained from the adaptive and non-adaptive
+analysis is also included. Additionally, some advantages of the application of our element are shown
+through a comparative analysis of p-convergence of the thin plate problem and an adaptive analysis of
+the exemplary complex structure. Copyright q 2006 John Wiley & Sons, Ltd

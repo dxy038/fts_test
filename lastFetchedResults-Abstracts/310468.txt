@@ -1,0 +1,11 @@
+Objective. This article presents a non-invasive protocol for the determination of lumbar spine mobility and compares intersegmental lumbar spinal mobility data from 45 subjects using both radiographic (invasive) and videographic (non-invasive) techniques.
+
+Design. Non-linear mathematical models were developed to transfer skin marker coordinates into corresponding vertebral body positions.
+
+Background. To relate skin surface motion with that of the underlying vertebrae and to enhance the reliability of using the non-invasive technique relied on a model of transformation.
+
+Methods. This set of models was developed by taking the L4 skinfold, the L1-S1 skin distraction, and the non-linear difference between the lumbar spinal profile and the skin profile into consideration. Based on the digitized and model transformed data, the intersegmental joint angles (ISA) and intersegmental joint mobilities (ISM) were calculated and compared.
+
+Results. In this study the non-invasive and invasive coordinate differences ranged from 0.485 to 1.099 cm; the mean ISA differences ranged from 0.29 to 2.08 degrees the mean ISM differences ranged from 0.62 to 1.88 degrees.
+
+Conclusions. With these small differences, the quality of the non-invasive protocol and the application of the transformation model were justified sufficient.

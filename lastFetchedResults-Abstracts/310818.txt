@@ -1,0 +1,9 @@
+Objective. To identify details of clinical relevance in ground reaction forces by means of wavelet transform.
+
+Design. A retrospective analysis of gait tests performed by total knee replacement patients and a control population has been performed.
+
+Methods. The ground reaction forces have been processed by means of wavelet transform. Results of the wavelet analysis are represented, in a time–frequency plane, by tiles. These are coloured in different grey levels associated to the values of a suitable energy function of the expansion coefficients, resulting from the wavelet transform.
+
+Results. The high frequency tiles revealed the presence of irregularities with clinical significance in the first part of the stance phase. These transients in ground reaction forces are described in a quantitative manner allowing to monitor their evolution during the patient observation time. The heel strike transient has been identified by the tile representation of the vertical component of ground reaction forces and confirmed by its correlation with corresponding irregularities in the other components.
+
+Conclusions. The tile representation allows to detect and to quantify details not easily perceivable by the examiner through traditional techniques. The wavelet transform seems particularly appealing for clinical applications such as outcome assessment or treatment evaluation and can assist in the definition of normative models of ground reaction forces. The effectiveness of the procedure suggest to try to automate it.

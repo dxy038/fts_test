@@ -1,0 +1,17 @@
+Objective: In some applications of functional neuromuscular stimulation (FNS), the distal joint of the thumb (IP) in quadriplegic patients is sometimes surgically fused at zero degrees and the FPL is stimulated. This prevents hyperextension and extreme flexion of the 1P joint during lateral pinch. However, IP joint fusion removes one degree of freedom from the thumb and may reduce the grip force. An alternative approach, preferably without surgical alterations, using sufficient electrical
+stimulation of selected muscles was investigated. A 3D
+model of prehensile lateral pinch was developed. Computer
+simulation of the model was used to find an approach
+providing the appropriate posture and adequate lateral grip
+force for quadriplegic patients using FNS.
+Materials & Methods: The model consists of a multi-rigid-
+body system connected by one or two degree(s) of freedom joints
+acted upon by passive resistive moments, active muscle moments
+and moments of external contact forces. Passive resistive moments
+were measured at each joint, active muscle moments were
+computed using a simple muscle model, and moments of external
+force were computed based on a force-displacement relationship
+for finger pads. In addition to the current strategy, two possible
+alternatives were studied: increasing the fused joint angle and activation of multiple muscles without joint fusion. Normal component of the grip force and its angle with respect to the horizontal plane were computed and compared for the studied cases.
+Results Results showed, by using the current FNS strategy, a convenient posture and a grip force of 10.1 (N) are achieved which is comparable to what is measured experimentally and introduced in the literature. Increasing the joint fusion angle from 0 to 15 and 30 degrees in parallel with the activation of FPL increased the grip force from 10.1 to 10.7 and 11.2 (N), respectively, but resulted in inconvenient posture. Among all different combinations of the muscles with no joint fusion, only synchronous activation of ADP, APB, and FPL resulted in a convenient posture and a higher grip force of 16.6 (N).
+Conclusion: An alternative approach stimulating a combination of the named muscles without any need for surgical alterations might exist.

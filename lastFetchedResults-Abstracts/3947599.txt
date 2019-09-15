@@ -1,0 +1,1 @@
+We present a family of bidirectional beam propagation methods based on the application of Pade approximants to the square-root expressions appearing in the transition operator. We show that the numerical instability associated with the use of real Pade primes can be removed by using branch-cut rotation of the square-root operator.

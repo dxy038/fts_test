@@ -1,0 +1,16 @@
+This paper aims to study the operating mechanism of Stirling Pulse Tube
+Refrigerators (PTRs) by tracing the characteristics of working gas elements at the cold
+end of the system using both Eulerian and Eulerian-Lagrangian (E-L) methods. The main
+objective of the investigation is to demonstrate non-symmetry eects in the pulse tube
+section of the system. Elemental cyclic-enthalpy transfer of Simple (S), Double-Inlet (DI)
+and Multi-Mesh regenerator (MM) PTRs are also investigated to demonstrate the eects of
+DI and MM systems on the refrigeration mechanism of PTRs. It is shown that the elemental
+cyclic-enthalpy transfer of SPTR is less than that of DIPTR, MMPTR and MMDIPTR.
+Also, its elemental cyclic-temperature reduction is more than the others, because the mass
+
+ow rate upon the cold end of the SPTR is less than the others. Regarding the reduction of
+losses in DIPTR and MMPTR, their cold end mean pressure and density increase, and this,
+consequently, leads the cold end mass 
+ow rate and cyclic-enthalpy transfer to increase.
+Increase in the enthalpy transfer of MM-PTR, MM-DIPTR and DIPTR consequently
+improves their cooling performance.

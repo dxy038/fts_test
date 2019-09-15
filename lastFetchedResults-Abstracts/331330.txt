@@ -1,0 +1,11 @@
+Objective
+This study evaluates the effect of shade and thickness of porcelain in light transmission.
+Methods
+
+One hundred and twenty-eight disks of Duceram® porcelain were made to combine four different thicknesses (1.5; 2.0; 3.0; 4.0 mm) and eight shades (A1; A4; B1; B4; C1; C4; D2; D4). A digital power meter (Newport Optical Power Meter®) was used to measure light transmission. The porcelain transmission coefficient was calculated using Lambert–Beer law, tc = Ce−αd, where tc is the transmission coefficient, C the contribution factor of the reflection coefficient, e a constant, α the absorption coefficient and d is the sample thickness.
+Results
+
+The transmission coefficients did not vary statistically in relation to the two visible light-curing units studied. From all the samples, the colors A1 and D2, thickness 1.5 mm, presented the highest percentages of transmission (8%) and the shades, A4, B4 and C4, thickness 4 mm, the lowest (0.5%). The relationship between the Naperian logarithm of the transmission coefficient and the samples thickness followed the Lambert–Beer law. The linear adjustment of the experimental points of the two variables, showed the absorption coefficient (α) and the constant value related to the reflection (C) of each porcelain shade. The reflection coefficient values of all shades did not vary statistically among themselves.
+Significance
+
+For most shades there was a significant decrease in light transmission as the sample porcelain thickness increased. For the same thickness most shades presented statistical difference between the transmission coefficients. However, the larger the thickness, the higher the number of shades which, statistically, showed no difference.

@@ -1,0 +1,1 @@
+This paper proposes to use multi objective nonlinear functions with Tabu Search Algorithm (TSA) to design a fractional order proportional integral derivative (FOPID) controller. Classical TSA modified to satisfy the maximum number of multi nonlinear functions that define important criteria for FOPID design. Simulation result exhibits the performance of the algorithm.

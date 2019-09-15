@@ -1,0 +1,18 @@
+This paper presents the essential elements for
+developing objective methods of assessment of the performance
+of time-frequency signal analysis techniques. We define a measure
+for assessing the resolution performance of time-frequency
+distributions (TFDs) in separating closely spaced components in
+the time-frequency domain. The measure takes into account key
+attributes of TFDs, such as components mainlobes and sidelobes
+and cross-terms. The introduction of this measure allows to
+quantify the quality of TFDs instead of relying solely on visual
+inspection of their plots.
+The method of assessment of performance of TFDs also allows
+the improvement of methodologies for designing high-resolution
+quadratic TFDs for time-frequency analysis of multicomponent
+signals. Different TFDs, including the Modified B distribution,
+are optimized using this methodology. Examples of a performance
+comparison of quadratic TFDs in resolving closely spaced components
+in the time-frequency domain, using the proposed resolution
+measure, are provided.

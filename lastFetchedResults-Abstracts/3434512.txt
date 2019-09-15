@@ -1,0 +1,1 @@
+A simple nonlinear system which can be implemented in real-time on a low-cost microprocessor system is proposed for recovering a speech signal from the remaining samples. It is shown that significant improvement can be obtained relative to simple interpolation schemes. Subjective tests verify the theoretical and objective simulation results

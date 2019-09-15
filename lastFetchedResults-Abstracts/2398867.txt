@@ -1,0 +1,8 @@
+Objective
+t the hypothesis that a commercial microhybrid resin based composite (Filtek™ Z250) has superior fatigue resistance to a nanofill composite (Filtek™ Supreme Plus) and to determine the related micromechanisms involved in the fatigue process.
+s
+60 days of water hydration, the fatigue crack growth resistance of two different resin composites, one microhybrid (Filtek™ Z250) and one nanofill (Filtek™ Supreme Plus), was measured in wet conditions using compact-tension, C(T), specimens at a load ratio of 0.1 and frequency of 2 Hz. Cyclic fatigue behavior was quantified in terms of the fatigue crack growth rate, da/dN, as a function of the stress intensity range, ΔK.
+s
+oidal da/dN-ΔK curve with three different fatigue crack growth regimes was identified for both composites. In general, fatigue crack growth ranged from ∼10−9 to 10−5 m/cycle over ΔK of 0.54–0.63 MPa√m for the Z250 composite and ΔK of 0.41–0.67 MPa√m for the Supreme Plus composite. The Supreme Plus composite showed a lower fatigue threshold, ΔKth, by ∼0.13 MPa√m compared to the Z250 composite, while also showing a plateau in the fatigue crack growth curve that is likely related to environmental attack. SEM observations of the fatigue crack paths and fracture surfaces revealed an interparticle crack path and extrinsic toughening mechanisms of crack deflection and crack bridging. No fatigue degradation of reinforcing particles or clusters was found, but cluster–matrix debonding was evident in the Supreme Plus composite, also indicative of environmental attack due to water.
+icance
+tudy increases the understanding of both the fatigue behavior and the micromechanisms of fatigue in resin based dental composites.

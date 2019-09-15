@@ -1,0 +1,108 @@
+Introduction
+The sustainability of irrigated agriculture depends on
+the consistency of high irrigation efficiency. During a
+sprinkler irrigation, a relevant part of the water
+discharged by the irrigation system does not reach the
+crop canopy. This unaccounted water is referred to as
+"wind drift and evaporation losses" or "spray losses"
+(Ls), and is expressed as a percentage of the gross
+volume of irrigation water.
+In hot and semi-arid areas, these losses would be
+significant. Thus a proper understanding of the factors
+affecting spray losses (Ls) in different sprinkler
+irrigation systems is important for developing water
+conservation strategies.
+Trimmer (1987) developed an equation based on the
+nomograph of Frost and Schwalen (1955) that enables
+the user to estimate the percentage of evaporation loss
+during sprinkler irrigation as a function of the sprinkler
+characteristics, the operating pressure, and the climate
+factors.
+The magnitude of the losses can be very relevant under
+certain conditions. While some authors reported losses
+of 5-10% under a moderate evaporative demand
+(Keller and Bliesner, 1990), others signaled maximum
+losses of 30% (Spurgeon et al., 1983).
+Spurgeon et al. (1983) reported that hot, dry, and windy
+conditions eould cause spray losses from sprinkler
+irrigation systems to approach 30% of the water
+applied. In the hot and semi-arid meteorological conditions of
+Zaragoza (Spain) the average spray losses for the
+experimental moving lateral amounted to 9.8% during
+the day and 5.0% during the night (Playan et al., 2005).
+Objective
+The objective of this paper is to propose a
+mathematical equation for correct and exact estimation
+by characterizing Ls under different weather conditions
+for semi-portable hand-move sprinkler systems in the
+hot and semi-arid conditions of the Khouzestan
+province.
+Methodology
+The selected irrigation system is in the southeastern
+part of the Khouzestan province in Iran, 50°17'37" east
+and 30"30'45" north.
+The standard ISO 7749/2 (1990) and ASAE S398.1
+(2001) have been taken into account to determine Ls.
+To conduct tests, a pumping set is supplied from a deep
+well. Weather conditions (e.g. dry bulb temperature,
+wet bulb temperature, and wind speed) are collected
+through a weather station, located 50 m away from the
+test site. This information is all registered with a fiveminute
+frequency.
+For the analysis of Ls in the hot and semi-arid
+conditions, 40 tests have been carried out at operating
+pressures from 45 to 50 m. The impact sprinkler used
+in outdoor single-sprinkler tests is the VYR155 with
+the temal nozzles of 11*6.3*3.2mm.
+The statistical analysis of Ls was carried out using the
+SPSS and Excel software packages. The relative error
+(AMRE), the standard error (S.E.), and the coefficient of pearson (R') were used for
+equation obtained from the
+regression model. 
+Results and Discussion
+In this study the wind speed ranged from 0 to 6.77 mis,
+the air temperature ranged from 21.4 to 44.9"c, the
+relative humidity ranged from 11.8 to 80%, and the
+vapour pressure deficit ranged from 0.63 to 8.42 kpa,
+The maximum Ls in the worst meteorological condition
+in the southern region of Khouzcstan province was
+26.8% at 13 to 15 o'clock, when the relative humidity
+was the lowest and the air temperature, the wind speed,
+and the vapour pressure deficit were the highest. The
+best condition was attained when the irrigation is done
+at night, during early morning, or early evening, In this
+case, Ls is usually smaller than 1-2%. The results
+switching irrigation from day to night reduced Ls
+strongly, A new equation is introduced in this research for
+estimating Ls under the hot and semi-arid conditions.
+The best regression coefficient (R') was obtained with
+the nonlinear multiple regression modeL This model
+was performed to evaluate how the meteorological
+variables could explain Ls. Wind and vapour pressure
+defieit were the most explicative variables.
+The analysis with SPSS showed whole terms of the
+model resulted highly significant (P ~0,05), The fit
+parameters as well as the expression of the model were:
+Ls=5.4*wn·6 +7.4*(e, _eJJ
+·
+45 -6.1 (1)
+(R' ~ 0,94 , S,E ~ 2,0 ,AMRE ~ 0,23)
+where Ls is the spray losses (%), W is the wind speed
+(mls), e, - e" is the vapour pressure deficit (kPa),
+Losses estimated from the Frost and Schwalen (1955)
+method were compared to the values of the field
+measurements. The comparison of results showed that
+the Ls values estimated from the Frost and Schwalen
+(1955) method were 6% less than the field values or the
+values of simulated Ls with the equation (1)
+moderately, Phocaides (2000) suggests that in winds of over 3.5
+rn/s, sprinkling is not recommended. The above
+obtained equation showes that Ls exceeded 21.9%
+when the wind speed and vapour pressure deficit
+increase more than 3.5 m/s and 6 kpa, respectively.
+Therefore, to avoid excessive Ls, sprinkler irrigation
+systems should not be operated in the early afternoon
+hours in the summer or windy conditions. The amount
+of loss would be very small (mainly 1% to 2%) for
+operation during night time, early morning, and early
+evening hours.

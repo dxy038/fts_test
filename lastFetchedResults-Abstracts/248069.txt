@@ -1,0 +1,12 @@
+A new Feasible Descent Cone (FDC) method for constrained optimization, previously restricted to linear
+objectives, is here generalized to include non-linear objective functions as well. In the basic and exact
+algorithm a sequence of descent steps is taken through the interior of the feasible region along the central
+lines of mathematically defined descent cones, constructed at successive boundary points. Here the basic
+algorithm is modified to allow for a minimum to occur within the interior, along a central descent ray in the
+case of non-linear objectives. A special interior procedure, with desirable mathematical properties, is
+adopted should the latter occur. To ensure economic implementation, the new generalized and exact
+algorithm, referred to as SSOPT2, is successively applied to a sequence of approximate quadratic subproblems.
+The overall generalized procedure that includes the successive application of SSOPT2 to the
+approximate subproblems, is referred to as the successive approximation version 2 algorithm (SAM2). The
+practical performance of SAM2 is assessed through its application to a number of small but otherwise
+representative test problems

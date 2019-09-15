@@ -1,0 +1,7 @@
+This paper addresses dispersion curve numerical computations for specific ribbed plates. Precisely, wave propagation in
+the direction parallel to the ribs is the main objective. First, analytical calculations are performed for such ribbed plates
+after which the results are compared to a more general numerical procedure. This procedure reuses a reduced finite element
+model of the ribbed plate and extracts guided multi-mode propagation parameters. Comparisons of analytical and numerical
+estimations show very good agreement. Finally, the experimental results obtained in the companion paper are considered.
+Specifically, experimental and numerical dispersion curves are compared over a wide frequency range. Close
+concordance is obtained allowing the dispersion curves to be fully interpreted.

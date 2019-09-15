@@ -1,0 +1,29 @@
+One of the most fundamental components of healthcar
+e systems is the blood supply 
+chain  management. This  chain  has  two  significant  co
+mponents  including  collecting 
+donor’ bloods and supplying blood’s products. The m
+ain purpose of this paper is to 
+concentrate  on  supplying  blood  products  and  present
+  a  novel  constrained  bi-
+objective   mathematical   model   for   a   two-echelon   bloo
+d   supply   chain   network 
+(BSCN).  The  aims  of  the  proposed  model  are:  1)  mini
+mize  products’  waste  and 
+shortage costs in  hospitals and 2) to minimize the 
+maximum  unsatisfied demand of 
+different  products  among  hospital  demands  supplied 
+by  blood  transfusion  centers. 
+Some  techniques  are  used  to  linearize  the  model’s  n
+onlinear  terms  and  decrease 
+presented model’s complexity. A multi-choice goal p
+rogramming (MCGP) technique 
+is used to convert bi-objective model into a single
+ objective one. The model is solved 
+by  mathematical  software  under  3  different  scenario
+s  and  18  time  periods  in  real-
+world  BSCN.  Computational  results  showed  that  hospi
+tals  are  tended  in  accepting 
+products’ holding and waste costs to satisfy demand
+s of patients who are highly need 
+for receiving blood products. 

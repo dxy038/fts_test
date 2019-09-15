@@ -1,0 +1,1 @@
+In this paper, we propose and discuss two new multi-objective models for nodes deployment optimization in Multi-Radio Multi-Channel Wireless Mesh Networks. These optimization problems are solved simultaneously by using meta-heuristic method that returns non-dominated set of near optimal solutions.

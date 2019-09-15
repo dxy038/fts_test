@@ -1,0 +1,16 @@
+Structural optimization, when approached by conventional (gradient based) minimization
+algorithms presents several difficulties, mainly related to computational aspects for the huge
+number of nonlinear analyses required, that regard both Objective Functions (OFs) and
+Constraints. Moreover, from the early '80s to today's, Evolutionary Algorithms have been
+successfully developed and applied as a computational alternative to many optimization
+problems, such as structural ones. In this study the effectiveness of a relatively new
+Evolutionary Algorithm, namely Differential Evolutionary, is investigated for constrained
+optimization. This presents many interesting advantages and so that it is a candidate to be
+widely used in many real structural optimization problems. The algorithm version here used
+has been developed by hybridizing some recent versions of Differential Evolutionary
+algorithms proposed in literature, and uses a specific way for dealing with constraints which,
+always, concern real structural optimization problems. The effectiveness of proposed
+approach has been demonstrated by developing two cases of study, which regard simple but
+very significant structural problems for steel structures, one of which is a standard benchmark
+in structural optimization. The analyses show the simplicity and effectiveness of the proposed
+approach, so that it can be suitably ready for practical uses out of academic contest.

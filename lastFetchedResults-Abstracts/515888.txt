@@ -1,0 +1,9 @@
+
+Background and Objective: The human papillomavirus (HPV) is the main cause of cervical cancer. The symptoms of the disease are non-specific and it can be transferred from one person to another one. In order to prevent the spread of HPV virus and reducing mortality rate of cervical cancer, early detection programs are needed. Accurate and highly sensitive test is essential for screening examination. So, in this study, our aim was enrichment of nanobody library against HPVs L1 proteins to isolate clones which produce specific nanobody against L1 proteins. In the future, these nanobodies can be used in highly sensitive diagnostic kits for early detection of cervical cancer.
+
+Materials and Methods: The phagmids of polyclonal library were amplified in Escherichia coli strain TG1. Panning of library and selection of clones were carried out against HPV L1 protein. The titer of output phagmids and optical density in Phage-ELISA were evaluated. The best clones were isolated by monoclonal phage ELISA method and checked by sequencing and colony PCR. 
+
+Results: An increase in the number of output clones in consecutive rounds of panning and the rise in the difference of OD450 in phage ELISA shows the accuracy of the enrichment process. At last, 4 clones were isolated as best ones. 
+
+Conclusion: This study proved that after three rounds of panning, the phagmid library was enriched for anti HPVs L1 nanobodies and isolation of specific clones against this antigen were accomplished. By use of these anti HPV L1 nanobodies in laboratory kits, new hopes for early diagnosis of precancerous lesions with high reliability can be achieved.
+

@@ -1,0 +1,11 @@
+Objective
+Angiogenesis, the process of new blood vessel formation, is a critical process during growth and metastasis of solid tumors and might also represent a promising therapeutical target in patients with acute myeloid leukemia (AML).
+Methods
+
+In this study, we analyzed the expression of vascular endothelial growth factor receptors (VEGFR)-1/2 and its ligand VEGF in AML cell lines and characterized the inhibitory activity of the protein tyrosine kinase (PTK) inhibitor SU5614 on human endothelial and leukemic cells.
+Results
+
+Intracellular VEGF expression was detected in 9 of 10 leukemic cell lines. In contrast, VEGFR-1 and VEGFR-2 expression was restricted to 6 and 2 out of 10 cell lines, respectively. Although SU5614 was a potent inhibitor of the VEGF-induced endothelial cell sprouting in vitro, the sensitivity of leukemic cells toward the growth inhibitory activity of the compound was determined by the c-kit, but not by the VEGFR-1/2 expression. SU5614 induced growth arrest and apoptosis in c-kit–expressing Kasumi-1, UT-7, and M-07e cells and inhibited the stem cell factor (SCF)-induced tyrosine phosphorylation of c-kit. The sensitivity of Kasumi-1 cells towards the growth inhibitory activity of SU5614 was caused by an autocrine production of SCF, but not by transforming mutations of c-kit.
+Conclusions
+
+Our data provide strong evidence that SU5614 has a dual mode of action, and by direct inhibition of c-kit in AML cells and by inhibition of VEGFR-2 in endothelial cells, it might represent a novel treatment option for patients with c-kit+ AML.

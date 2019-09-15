@@ -1,0 +1,11 @@
+Objective
+Previously, we documented that conditioning based on donor-specific cell transfusion (DST) and subsequent selective depletion of activated donor-reactive cells by cyclophosphamide (CY) facilitates alloengraftment in a murine transplantation model. Transplantation event represents a strong immunogenic stimulus for host-reactive donor T cells that induce graft-vs-host disease (GVHD). Therefore, in this study, we addressed the question of whether a single posttransplantation CY administration (CY2) can prevent acute GVHD-related mortality without compromising engraftment of allogeneic transplant.
+Materials and Methods
+
+Splenocyte-enriched C57BL/6 bone marrow was transplanted to BALB/c recipients after mild irradiation, and conditioning with DST and 100 mg/kg CY. Following transplantation, recipients were left untreated or given on a specified day a single CY2 injection (50 mg/kg). All animals were monitored for survival, chimerism, and clinical signs of GVHD. Experimental mice that received BCL1 leukemia cells before transplantation were monitored for leukemia-related mortality as well.
+Results
+
+Animals that received no CY2 after transplantation died of acute GVHD. A single low-dose CY2 treatment within the first 5 days after transplantation prevented mortality in most recipients. However, only CY2 administration on days +1 or +5 preserved chimerism. Most chimeras survived GVHD-free for >200 days. Prolonged persistence of host-reactive T cells in mice (CY2 on day +5) permitted a reduction to be made in engraftment-essential irradiation dose and preserved a strong graft-vs-leukemia effect of transplantation.
+Conclusion
+
+Acute GVHD can be prevented in mice by a single properly timed posttransplantation low-dose CY administration.

@@ -1,0 +1,11 @@
+Anisotropy and inhomogeneity of dry friction can induce a dependence of friction force on a sliding path
+curvature[ The objective of this study is to extend mathematical models of anisotropic friction by including
+the sliding path curvature e}ects[ Due to this\ a set of independent variables of the friction force constitutive
+equation is extended\ and a derivative of the sliding velocity unit vector is taken into account[ The friction
+description is investigated in a general case and in a particular when non!homogeneous friction properties
+form concentric circles in a contact surface[ It has been found that] the friction constitutive equation and its
+variables satisfy the axiom of objectivity^ the Second Law of Thermodynamics restricts components of
+tensors in the constitutive equation^ there are radial and concentric circular privileged sliding directions[
+Non!homogeneous friction in the form of concentric circles has the global axial symmetry\ while two tensors
+in the constitutive equation are de_ned locally and they have orthotropic and anisotropic properties\
+respectively[ The sliding path curvature can induce positive and negative additional friction

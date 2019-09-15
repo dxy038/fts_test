@@ -1,0 +1,13 @@
+In this research, Method of Fundamental Solution (MFS) is coupled with
+Particle Swarm Optimization (PSO) technique to determine the optimal phreatic line
+in unconned seepage problems. To model the unconned boundary (phreatic line), a
+formulation with 
+oating geometry is derived. Regarding the use of fundamental solution
+of the Laplace equation, expressed in the Radial Basis Functions (RBF), a boundary type
+of the mesh-free method can be established. In this research, an objective function, based
+on principle of minimum potential energy, is formed to control the position of unconned
+boundary. MFS and PSO are utilized simultaneously to t the phreatic line, using 4th
+degree polynomials, satisfying the 
+ow continuity and energy principle. Eciency and
+accuracy of the proposed method are veried through examples. The obtained results are
+in a good agreement with other numerical and experimental models.

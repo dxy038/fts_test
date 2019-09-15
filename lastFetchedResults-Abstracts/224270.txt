@@ -1,0 +1,15 @@
+This publication describes a laboratory test program
+conducted with the objective to develop a test that would replace
+the existing dc withstand test. The article describes the
+methodology used to establish the voltage duratlon and magnitude
+of VLF (0.1 Hz) high voltage field tests suitable for crosslinked
+polyethylene @WE) Insulated power cable. The results show that
+the voltage breakdown of laboratory aged XLPE cable at 0.1 Hz Is
+approximately equal to that at 60 Hz, that proof tests at 0.1 Hz cause
+very little damage to the cable, and that 0.1 Hz testing appears to be
+a satisfadory alternate to dc testing. Preliminary values are
+SUggeStQd for voltage magnitude and time duration of cable
+acceptance, main-tenance and proof tests at 0.1 Hz for XLPE cable
+ratad up to 35 kV. A program is underway to similarly evaluate
+samples of serviceaged XLPE cable; as well as to demonstrate the
+use of the preliminary test values at typical utility installations.

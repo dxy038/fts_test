@@ -1,0 +1,8 @@
+The single-machine early/tardy (E/T) scheduling problem is addressed in this research. The objective of
+this problem is to minimize the total amount of earliness and tardiness. Earliness and tardiness are weighted
+equally and the due date is common and large (unrestricted) for all jobs. Machine setup time is included
+and is considered sequence-dependent. When sequence-dependent setup times are included, the complexity of
+the problem increases signi2cantly and the problem becomes NP-hard. In the literature, only mixed integer
+programming formulation is available to optimally solve the problem at hand. In this paper, a branch-and-bound
+algorithm (B&B) is developed to obtain optimal solutions for the problem. As it will be shown, the B&B
+solved problems three times larger than what has been reported in the literature.

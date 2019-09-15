@@ -1,0 +1,11 @@
+Objective
+Organic cation/carnitine transporter, OCTN1 (SLC22A4) shows a relatively broad tissue distribution and transports organic cations in a pH-dependent manner. However, its physiological role remains to be clarified. To understand the physiological role of OCTN1, tissue expression of OCTN1 in human and mice was characterized.
+Methods
+
+Expression of OCTN1 in various tissues and blood cells was examined by reverse transcription-polymerase chain reaction (RT-PCR), Western blot, and flow cytometry analysis.
+Results
+
+Mouse OCTN1 mRNA was detected in kidney, smooth muscle, and hematopoietic tissues, such as spleen and bone marrow, by RT-PCR analysis. Further study focused on expression of OCTN1 in various types of blood cells. OCTN1 mRNA was detected in myeloid cells in mouse bone marrow, but not in lymphoid cells. Bone marrow nuclear cells positive for TER119, an erythrocyte marker, showed strong expression of OCTN1. Similarly, OCTN1 was strongly expressed in glycophorin A-positive erythroid cells obtained from human cord blood. In Western blot analysis, OCTN1 protein was detected in isolated mouse mature peripheral erythrocytes. Further analysis by RT-PCR and flow cytometry showed OCTN1 was expressed in both glycophorin A-positive and negative erythroid cells after cultivation. These findings suggested that OCTN1 transports compound(s) that are required for erythroid differentiation, maturation, and/or growth.
+Conclusion
+
+The present study demonstrated that OCTN1 is associated with myeloid cells rather than lymphoid cells, and especially with erythroid-lineage cells at the transition stage from immature erythroid cells to peripheral mature erythrocytes.

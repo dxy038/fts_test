@@ -1,0 +1,9 @@
+The factor analysis of repeated measures psychiatric data presents interesting challenges for researchers
+in terms of identifying the latent structure of an assessment instrument. Specifically,
+repeated measures contain both within and between individual sources of variance. Although a
+number of techniques exist for separating out these 2 sources of variance, all are problematic.
+Recently, researchers have proposed that exploratory multilevel factor analysis (MFA) be used
+to appropriately analyze the latent structure of repeated measures data. The chief objective of
+this report is to provide a didactic step-by-step guide on howMFA may be applied to psychiatric
+data. In the discussion, we describe difficulties associated with MFA and consider challenges
+in factor analyzing life event appraisals in psychiatric samples

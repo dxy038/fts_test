@@ -1,0 +1,11 @@
+This paper studies a new multi-objective fuzzy optimization prob-
+lem. The objective function of this study has dierent levels. Therefore, a
+suitable optimized solution for this problem would be an optimized solution
+with preemptive priority. Since, the feasible domain is non-convex; the tra-
+ditional methods cannot be applied. We study this problem and determine
+some special structures related to the feasible domain, and using them some
+methods are proposed to reduce the size of the problem. Therefore, the prob-
+lem is being transferred to a similar 0-1 integer programming and it may be
+solved by a branch and bound algorithm. After this step the problem changes
+to solve some consecutive optimized problem with linear objective function on
+discrete region. Finally, we give some examples to clarify the subject.

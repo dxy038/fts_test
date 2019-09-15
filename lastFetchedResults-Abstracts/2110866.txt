@@ -1,0 +1,5 @@
+As is known, during the realization of semiconductor made components or devices, defects appear which lead to electronic trapped states. Their energies are all located in the forbidden band called the band gap. These states are called surface states and hinder the good functioning of such components or devices.
+
+er to improve the performances of these components it is very important to reduce the density of such surface states. To determine the density of these states we consider MOS capacitance which allows, in particular, the electronic study of the active interface states which are the origin of a lot of negative phenomena.
+
+the most important objective of this paper remains the study, the analysis and the temperature C—V characterisation of the MOS structure of Al/SiO2/Si type.

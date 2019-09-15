@@ -1,0 +1,5 @@
+Parallel flow condenser (PFC), which is widely used in automobile air conditioning (AAC) industries, was modeled and optimized in this paper. A sample of designed and manufactured condenser of this type was modeled and tested. In the proposed physical model the condenser is divided into three regions of superheat, saturated (two-phase) and subcooled. The modeling results validated by comparison with the experimental data.
+
+imization section, the condenser heat transfer rate was maximized while its pressure drop was minimized applying genetic algorithm multi-objective optimization technique. A set of Pareto optimal solutions as well as the final optimal design point were presented for our case study.
+
+timum design parameters resulted in heat transfer rate increase for 7.1% and decrease in pressure drop for 96% in comparison with the corresponding manufactured operating parameters.

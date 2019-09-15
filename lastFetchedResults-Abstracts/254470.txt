@@ -1,0 +1,10 @@
+Unsupervised learning techniques provide a way of investigating scientific data based on
+automated generation of statistical models. Because these techniques are not dependent on a priori
+information, they provide an unbiased method for separating data into distinct types. Thus they can be
+used as an objective method by which to identify data as belonging to previously known classes or to find
+previously unknown or rare classes and subclasses of data. Hidden Markov model based unsupervised
+learning methods are particularly applicable to geophysical systems because time relationships between
+classes, or states of the system, are included in the model. We have applied a modified version of hidden
+Markov models which employ a deterministic annealing technique to scientific analysis of seismicity and
+GPS data from the southern California region. Preliminary results indicate that the technique can isolate
+distinct classes of earthquakes from seismicity data.

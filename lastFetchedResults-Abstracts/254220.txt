@@ -1,0 +1,18 @@
+We applied a revised version of the 1-D t–p inversion method to first P-arrival times
+from the active seismic experiment performed at Mt. Vesuvius (southern Italy) in 1996 (TomoVes96
+Project). The main objective of this work is to obtain 1-D velocity models of Mt. Somma-Vesuvius
+volcano complex and surrounding area. Moreover we show that combining the 1-D information we
+provide a reliable 2-D initial model for perturbative tomographic inversions. Seismic and geological
+surveys suggest the presence of a refractor associated with the contrast between carbonate basement and
+volcanic:alluvial sediments; synthetic simulations, using a realistic topography and carbonate top
+morphology, allowed us to study the effect of topography on the retrieved velocity models and to check
+that the 1-D t–p method can also approximately retrieve the refractor depth and velocity contrast. We
+analysed data from 14 on-land shots recorded at stations deployed along the in-profile direction. We
+grouped the obtained models in three subsets according to the geology of the sampling area: Models for
+carbonate outcrop area, models for the Campanian Plain surrounding the volcano edifice and models for
+Mt. Somma-Vesuvius volcano complex. The found 1-D P-velocity models show important vertical and
+lateral variations. Very low velocities (1.5–2.5 km:s) are observed in the upper 200–500 m thick shallow
+layer. At greater depths (3 km is the maximum investigated depth) P velocities increase to values in the
+range of 4–6 km:s which are related to the presence of the carbonatic basement. Finally we interpolated
+the 1-D models to demonstrate an example of misfit for a 2-D interpolated model whose residuals are
+confined in a narrow band around zero.

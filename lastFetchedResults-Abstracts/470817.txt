@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to determine the reported diagnostic accuracy, the validity, and the current limitations of fetal Rh genotyping from peripheral maternal blood based on the existing English-written publications.
+Study design
+A search of the English literature describing fetal RhD determination from maternal blood was conducted. From each study, we determined the number of samples tested, fetal RhD genotype, the source of the fetal DNA (maternal plasma, serum, or fetal cells), gestational age, and confirmation of fetal Rh type. The presence of alloimmunization and exclusions of tested samples were noted. For the meta-analysis we calculated composite estimates using 2 random effects models, weighted GLM and Bayesian. Sensitivity, specificity, positive and negative predictive values were calculated.
+Results
+We identified 37 English-written publications that included 44 protocols reporting noninvasive Rh genotyping using fetal DNA obtained from maternal blood on a total of 3261 samples. A total of 183 (183/3261, 5.6%) samples were excluded from the meta-analysis. The overall diagnostic accuracy after exclusions was 94.8%. The gestational ages ranged between 8 and 42 weeks gestation. Maternal serum and plasma were found to be the best source for accurate diagnosis of fetal RhD type in 394/410 (96.1%) and 2293/2377 (96.5%), respectively. There were 719/783 (91.8%) alloimmunized patients that were correctly diagnosed. There were 16 studies that reported 100% diagnostic accuracy in their fetal RhD genotyping.
+Conclusion
+The diagnostic accuracy of noninvasive fetal Rh determination using maternal peripheral blood is 94.8%. Its use can be applicable to Rh prophylaxis and to the management of Rh alloimmunized pregnancies. Improvements of the technique and further study of structure and rearrangements of the RhD gene may improve accuracy of testing and enable large-scale, risk-free fetal RhD genotyping using maternal blood.
+

@@ -1,0 +1,11 @@
+OBJECTIVE
+We sought to compare the defibrillation efficacy of a low-energy biphasic truncated exponential (BTE) waveform and a conventional higher-energy monophasic truncated exponential (MTE) waveform after prolonged ventricular fibrillation (VF).
+BACKGROUND
+Low energy biphasic countershocks have been shown to be effective after brief episodes of VF (15 to 30 s) and to produce few postshock electrocardiogram abnormalities.
+METHODS
+Swine were randomized to MTE (n = 18) or BTE (n = 20) after 5 min of VF. The first MTE shock dose was 200 J, and first BTE dose 150 J. If required, up to two additional shocks were administered (300, 360 J MTE; 150, 150 J BTE). If VF persisted manual cardiopulmonary resuscitation (CPR) was begun, and shocks were administered until VF was terminated. Successful defibrillation was defined as termination of VF regardless of postshock rhythm. If countershock terminated VF but was followed by a nonperfusing rhythm, CPR was performed until a perfusing rhythm developed. Arterial pressure, left ventricular (LV) pressure, first derivative of LV pressure and cardiac output were measured at intervals for 60 min postresuscitation.
+RESULTS
+The odds ratio of first-shock success with BTE versus MTE was 0.67 (p = 0.55). The rate of termination of VF with the second or third shocks was similar between groups, as was the incidence of postshock pulseless electrical activity (15/18 MTE, 18/20 BTE) and CPR time for those animals that were resuscitated. Hemodynamic variables were not significantly different between groups at 15, 30 and 60 min after resuscitation.
+CONCLUSIONS
+Monophasic and biphasic waveforms were equally effective in terminating prolonged VF with the first shock, and there was no apparent clinical disadvantage of subsequent low-energy biphasic shocks compared with progressive energy monophasic shocks. Lower-energy shocks were not associated with less postresuscitation myocardial dysfunction.
+

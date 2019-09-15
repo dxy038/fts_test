@@ -1,0 +1,11 @@
+Objective
+The aim of this study was to further define the signal transduction pathways leading to hypoxia-inducible factor-1 (HIF-1) erythropoietin (EPO) gene expression.
+Materials and Methods
+
+Human hepatocellular carcinoma cells (Hep3B) were exposed to hypoxia (1% oxygen) and examined for mRNA expression, as well as gene transactivation with RT-PCR and luciferase reporter gene assays, respectively.
+Results
+
+Treatment with LY294002 (a selective pharmacological inhibitor of phosphatidylinositol 3-kinase) significantly inhibited EPO protein and mRNA expression in Hep3B cells exposed to hypoxia for 24 hours, while treatment with PD098059 or SB203580 (selective pharmacological inhibitors of the MEK and p38 mitogen-activated protein kinase pathways, respectively) had no significant effects. The activity of AKT, a downstream target of PI3K, was increased by hypoxia and was also inhibited by LY294002. Genetic inhibition of AKT resulted in significant inhibition of NF-κB and HIF-1-mediated transactivation, as well as EPO gene expression, in response to hypoxia. Overexpression of constitutively active AKT resulted in increased NF-κB and HIF-1 transactivation. The selective inhibitor of NF-κB, pyrrolidine dithiocarbamate (PDTC), significantly blocked HIF-1 protein expression. Inhibition of NF-κB with a superrepressor dominant negative IκBα genetic construct also significantly blocked NF-κB and HIF-1 transactivation, as well as EPO gene expression.
+Conclusion
+
+We propose a key role for NF-κB in EPO gene regulation in response to hypoxia.

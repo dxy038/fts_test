@@ -1,0 +1,1 @@
+The NAND tree structures used in some semiconductor test methods have been used in board test environments as a simple test for open input and bidirectional pins. The test methods used at semiconductor test time have an unfortunate problem when used at board test: they give an incorrect diagnosis. A new test procedure is described that avoids this problem

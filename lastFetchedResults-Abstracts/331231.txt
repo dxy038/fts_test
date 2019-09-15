@@ -1,0 +1,11 @@
+Objectives
+The objective of this in vitro study was to evaluate the fatigue crack growth properties of the dentin/resin adhesive interface.
+Methods
+
+Compact tension (CT) specimens were prepared from coronal dentin, resin composite, and dentin bonded to resin composite using Optibond Solo Plus adhesive. All specimens were then subjected to cyclic Mode I loading while fully hydrated at a stress ratio of R = 0.1 and frequency of 5 Hz. Steady state fatigue crack growth was modeled using the Paris Law in terms of the exponent (m) and coefficient (C).
+Results
+
+The average fatigue crack growth rates in the resin composite ranged from 1.6E−06 to 3.8E–05 mm/cycle with growth occurring over a stress intensity range from 0.40 to 0.77 MPa m1/2; the average growth exponent was 6.9 ± 3.1. Average fatigue crack growth rates for the dentin/resin interface specimens ranged from 5.5E−07 to 6.4E−03 mm/cycle with growth occurring over a stress intensity range from 0.37 to 0.64 MPa m1/2. The Paris Law exponent for these specimens ranged from 16 ≤ m ≤ 25. Fatigue crack growth at the interface occurred primarily in the adhesive resin and at the adhesive–dentin interface. In addition, many of the dentin/resin specimens underwent unstable fracture at a comparatively low stress intensity range without undergoing cyclic crack growth.
+Significance
+
+The dentin/resin adhesive interface proved to be significantly more sensitive to fatigue crack growth than either dentin or resin composite. Variation in the cyclic crack growth responses of the dentin/resin interface specimens suggests that the interface, and particularly the adhesive resin, exhibits lower resistance to crack initiation and growth in comparison to dentin.

@@ -1,0 +1,23 @@
+This paper presents a new multi objective
+heuristic algorithm for Dynamic Economic Load
+Dispatch (DELD) problem soultion with transmission
+losses based on new version of the Particle Swarm
+Optimization (PSO) algorithm, which called Multi
+Objective PSO (MOPSO) method. The proposed
+algorithm is based on multi objective meta-heuristics
+technique that evaluates a set of the Pareto solutions
+systematically and preserve the diversity of Pareto
+optimality by a crowding entropy diversity measure
+tactic. The crowding entropy strategy is able to measure
+the crowding degree of the solutions more accurately and
+efficentlly. The effectivness of the proposed method have
+been varified on two 6 and 15 units test systems with
+considered various demand for 24 hours. The numrical
+results demonstrates the capability of the proposed
+MOPSO approach to generate well distributed Pareto
+optimal non-dominated solutions of multi-objective
+DELD problem. The comparison with the recently
+reported results using Brent method reveals the
+superiority of the proposed MOPSO approach and
+confirms its potential for the solution of dynamic ELD
+problem in the real world power systems.

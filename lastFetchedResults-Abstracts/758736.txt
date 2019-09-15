@@ -1,0 +1,17 @@
+Predicting fatigue crack growth in metals remains a difficult task because available models
+are based on cycle-derivative equations, such as the Paris law, while service loads are often far from
+being cyclic. The main objective of this paper is therefore to propose a set of time-derivative equations
+for fatigue crack growth. The model is based on the thermodynamics of dissipative processes.
+For this purpose, three global state variables are introduced in order to characterize the state of the
+crack: the crack length a, the plastic blunting at crack tip ρ and the intensity of crack opening C.
+Thermodynamics counterparts are introduced for each variable. Special attention is paid to the elastic
+energy stored inside the crack tip plastic zone, because, in practice, residual stresses at crack tip are
+known to considerably influence fatigue crack growth. The stored energy is included in the energy
+balance equation, and this leads to the appearance of a kinematics hardening term in the yield criterion
+for the cracked structure. No dissipation is associated with crack opening, but to crack growth
+and to crack tip blunting. Finally, the model consists in two laws: a crack propagation law, which is
+a relationship between dρ/dt and da/dt and which observes the inequality stemmed from the second
+principle, and an elastic-plastic constitutive behaviour for the cracked structure, which provides dρ/dt
+versus applied-load. The model was implemented and tested. It reproduces successfully the main features
+of fatigue crack growth as reported in the literature, such as the Paris law, the stress-ratio effect
+and the overload retardation effect.

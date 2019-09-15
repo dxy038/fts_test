@@ -1,0 +1,11 @@
+Objective
+The phosphorylation state of the S6 ribosomal protein was measured in the peripheral blasts of 19 newly diagnosed patients with acute leukemia.
+Methods
+
+We employed a flow cytometry protocol that enabled correlated measurement of pS6, phosphorylation of extracellular signal-regulated kinase (pERK), and cluster differentiation surface markers. Baseline levels of pS6 in leukemic blasts were compared with those found when the samples were activated using stem cell factor, or exposed to rapamycin, LY294002, or the mitogen-activated protein kinase inhibitor U0126.
+Results
+
+Results showed a considerable degree of intra- and intertumoral heterogeneity in the constitutive levels of pS6. Rapamycin and LY294002 suppressed pS6 in 10 of 11 cases that showed increased basal levels, consistent with phosphatidylinositol 3 (PI3)-kinase/Akt/mTOR signaling being the predominant upstream signaling pathway. However, in 6 of 11 cases pS6 was also suppressed by U0126, indicating that the ERK pathway can significantly input to pS6.
+Conclusions
+
+The constitutive activation of pS6 in acute leukemia patients likely reflects alterations in growth factor signaling that can be mediated by the ERK as well as the mTOR pathway, and could potentially have prognostic significance. As well as identifying aberrant signal transduction in leukemia patients, the flow cytometry methodology has potential for the pharmacodynamic monitoring of novel agents that inhibit ERK or PI3-kinase/Akt/mTOR signaling.

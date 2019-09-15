@@ -1,0 +1,9 @@
+Objective
+Visual contrast stimulation evokes in man an oscillatory mass response at  20.0–35.0 Hz, consistent with stimulus-dependent synchronous oscillations in multiunit animal recordings from visual cortex, but shorter in duration and phase-locked to stimulus. A factor analysis was applied to characterize the signal structure under stimulus conditions inducing an oscillatory response and to identify possible subcomponents in normal volunteers.
+Methods
+Contrast stimuli were gratings with a sinusoidal luminance profile (9.0°; 5.0 cycle/degree; 80% contrast; reversal 1.06 Hz). The amplitude spectrum of the signal was computed by Discrete Fourier Transform (DFT) and the oscillatory response was separated from the corresponding visually evoked potential (VEP) by DFT high-pass filter at 19.0 Hz. Nine consecutive waves were identified in all subjects (60 volunteers), with amplitudes/latencies consistent with normative studies. A factor analysis was computed 1- in the frequency domain, on the amplitude values of the signal components (2 Hz resolution), and 2- in the time domain, on the latencies/amplitudes of the averaged VEP and oscillatory responses.
+Results
+(1) Two non-overlapping factors accounted for the  2–20.0 and  20.0–40.0 Hz signal components, with separation of the  20.0–35.0 Hz oscillatory response from low frequency VEPs. (2) Two factors on latencies and one factor on amplitudes (independent of each other and from those of VEPs) accounted for the average  20.0–35.0 Hz oscillatory response.
+Conclusions
+The factor structure further indicates an oscillatory structure and some independence from conventional VEPs of the human oscillatory response to contrast, with a separation between the oscillatory response early and late waves possibly reflecting functional differences.
+

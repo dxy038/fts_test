@@ -1,0 +1,11 @@
+Researchers often identify robust design as one of the most effective engineering design methods for continuous
+quality improvement. When more than one quality characteristic is considered, an important
+question is how to trade off robust design solutions. In this paper, we consider a bi-objective robust
+design problem for which Pareto solutions of two quality characteristics need to be obtained. In practical
+robust design applications, a second-order polynomial model is adequate to accommodate the curvature
+of process mean and variance functions, thus mean-squared robust design models, frequently used by
+many researchers, would contain fourth-order terms. Consequently, the associated Pareto frontier might
+be non-convex and supported and non-supported efficient solutions needs to be generated. So, the objective
+of this paper is to develop a lexicographic weighted-Tchebycheff based bi-objective robust design
+model to generate the associated Pareto frontier. Our numerical example clearly shows the advantages
+of this model over frequently used weighted-sums model.

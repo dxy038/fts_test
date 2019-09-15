@@ -1,0 +1,10 @@
+Structured mesh quality optimization methods are extended to optimization of unstructured triangular, quadri-
+lateral, and mixed  nite element meshes. New interpretations of well-known nodally based objective functions
+are made possible using matrices and matrix norms. The matrix perspective also suggests several new objec-
+tive functions. Particularly signi cant is the interpretation of the Oddy metric and the smoothness objective
+functions in terms of the condition number of the metric tensor and Jacobian matrix, respectively. Objective
+functions are grouped according to dimensionality to form weighted combinations. A simple unconstrained
+local optimum is computed using a modi ed Newton iteration. The optimization approach was implemented
+in the CUBIT mesh generation code and tested on several problems. Results were compared against several
+standard element-based quality measures to demonstrate that good mesh quality can be achieved with nodally
+based objective functions

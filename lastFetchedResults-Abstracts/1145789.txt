@@ -1,0 +1,5 @@
+An area of current interest and topic of multiple publications is the assessment of uncertainty in estimating long-term indicators from measurements made for periods of time of less than 1 year. In this work, these prior investigations have been used as a starting point.
+
+Based on measurements made during one whole year at 26 sampling points with variables of urban and traffic characteristics, it was considered two aims related to uncertainty in the estimation of the annual Lden. The strength of this study is the large amount of data, which allows to simulate real measurements by sampling data from random days. Thus, it was studied in detail the predictive ability of the expressions proposed in the literature. Associated with this objective, then it was sought to evaluate the uncertainty associated with the estimation of annual Lden when random days of sampling were much lower than a full year.
+
+The results indicate the need for further progress in the theoretical determination of uncertainty. Second, the results made it able to estimate the uncertainty for the Lden indicator based on the number days sampled randomly.

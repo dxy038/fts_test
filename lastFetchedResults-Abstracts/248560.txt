@@ -1,0 +1,12 @@
+The objective of this paper is the investigation of the in
+uence of a material model representing nonproportional
+loading conditions with respect to cyclic plasticity phenomena on several plane boundary-value
+problems and the development of the corresponding stress algorithm. This material model, developed by
+Haupt and Kamlah,1 contains linear isotropic elastic behaviour, a von Mises yield function, an associated
+
+ow rule, non-linear kinematic hardening of Armstrong and Frederick type, a modi ed arc-length representation
+considering cyclic plasticity phenomena and the inclusion of non-proportional hardening e ects. These
+rate-independent constitutive equations are based on the assumption of small strains. The boundary-value
+problem will be solved by the  nite element method including investigations of a semi-analytical computation
+of the consistent tangent operator. Concluding examples will show non-proportional hardening e ects as
+well as inhomogenization phenomena stated by Luhrs and Haupt2 for specimen under uniaxial cyclic loading.

@@ -1,0 +1,10 @@
+Context
+” and “Model Based Development” are two prominent trends for improving industrial development efficiency. Product lines are used to reduce the time to create product variants by reusing components. The model based approach provides the opportunity to enhance knowledge capture for a system in the early stages in order to be reused throughout its lifecycle. This paper describes how these two trends are combined to support development and support of a simulator product line for the SAAB 39 Gripen fighter aircraft.
+ive
+rk aims at improving the support (in terms of efficiency and quality) when creating simulation model configurations. Software based simulators are flexible so variants and versions of included models may easily be exchanged. The objective is to increase the reuse when combining models for usage in a range of development and training simulators.
+
+search has been conducted with an interactive approach using prototyping and demonstrations, and the evaluation is based on an iterative and a retrospective method.
+s
+uct line of simulator models for the SAAB 39 Gripen aircraft has been analyzed and defined in a Product Variant Master. A configurator system has been implemented for creation, integration, and customization of stringent simulator model configurations. The system is currently under incorporation in the standard development process at SAAB Aeronautics.
+sion
+plicit and visual description of products and their variability through a configurator system enables better insights and a common understanding so that collaboration on possible product configurations improves and the potential of software reuse increases. The combination of application fields imposes constraints on how traditional tools and methods may be utilized. Solutions for Design Automation and Knowledge Based Engineering are available, but their application has limitations for Software Product Line engineering and the reuse of simulation models.

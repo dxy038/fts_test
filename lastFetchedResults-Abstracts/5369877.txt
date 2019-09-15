@@ -1,0 +1,1 @@
+We demonstrate a photonic logic gate for RZ-PolSK signals based on bidirectional FWM in HNLF. Multi-function, such as XOR, &#773;AB, &#773;AB, XNOR, AND, NOR, half-subtracter, half-adder, comparator and decoder, are simultaneously implemented.

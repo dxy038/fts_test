@@ -1,0 +1,1 @@
+In this paper, we proposed a new Pareto generic algorithm which hybridizes genetic algorithm and artificial immune systems. Numerical experiments were made using a classical benchmark in multiple-objective optimization (MOKP). Results show that our approach is able to obtain better performance than two state of the art approaches: NSGAII and PMS<sup>MO</sup>.

@@ -1,0 +1,1 @@
+A lab trial validating the implemented GMPLS control plane for MPLS-TP in the ADRENALINE testbed is presented. We experimentally compare the establishment of bidirectional LSPs using either source or PCE-based path computations.

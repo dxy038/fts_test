@@ -1,0 +1,1 @@
+A new algorithm is presented which can remove impulse noise from corrupted images while preserving details. The algorithm is based on fuzzy impulse detection and fuzzy noise cancellation techniques. Experimental results show that the algorithm is capable of providing significant improvement over many published techniques in terms of both subjective and objective evaluations

@@ -1,0 +1,1 @@
+This paper shows how the simultaneous consideration of multiple Kriging models can lead to useful metrics for the selection of design vectors in constrained multi-objective optimization. The savings in computational cost with such methods make them particularly useful for optimal electromagnetic design.

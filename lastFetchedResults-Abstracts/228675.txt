@@ -1,0 +1,11 @@
+The problem of deriving tidal fields from observations by reason of incompleteness and
+imperfectness of every data set practically available has an infinitely large number of allowable
+solutions fitting the data within measurement errors and hence can be treated as ill-posed. Therefore,
+interpolating the data always relies on some a priori assumptions concerning the tides, which provide
+a rule of sampling or, in other words, a regularization of the ill-posed problem. Data assimilation
+procedures used in large scale tidemodeling are viewed in a commonmathematical framework as such
+regularizations. It is shown that they all (basis functions expansion, parameter estimation, nudging,
+objective analysis, general inversion, and extended general inversion), including those (objective
+analysis and general inversion) originally formulated in stochastic terms, may be considered as
+utilizations of one of the three general methods suggested by the theory of ill-posed problems. The
+problem of grid refinement critical for inverse methods and nudging is discussed.

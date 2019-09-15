@@ -1,0 +1,11 @@
+Objective
+WHIM (warts, hypogammaglobulinemia, recurrent bacterial infection, myelokathexis) syndrome is an autosomal dominant immune deficiency with severe chronic neutropenia and marrow neutrophil apoptosis. Carboxy-termini truncating mutations in the chemokine receptor CXCR4 have been identified in WHIM patients. We created a retrovirus encoding mutated CXCR4 (truncating point mutation 1000C→T [R334X] inherited heterozygously in several WHIM patients) in order to transducer healthy human CD34 stem cells and K562 to overexpress mutated CXCR4 and determined its effect on receptor responses to stromal-derived factor-1 (SDF1).
+Methods
+
+Retrovirus vector was engineered to coexpress WHIM-associated R334X mutated CXCR4 together with green fluorescent protein (GFP). Control vectors included similar constructs with wild-type CXCR4 (WT-CXCR4) or only GFP. CD34+ cells and K562 were transduced with these vectors. Populations of 100% transduced K562 were established by sorting GFP+ cells by flow cytometry. We performed migration and calcium flux assays of transduced CD34+ cells and transduced/sorted K562. We also examined receptor recycling in response to SDF1.
+Results
+
+Healthy human CD34+ cells and/or human erythroleukemia K562 cells transduced to express mutated CXCR4, WT-CXCR4, or GFP alone demonstrated that mutated CXCR4 was associated with enhanced calcium flux and enhanced migration. There was also decreased receptor internalization and enhanced recovery of surface mutated CXCR4 in response to SDF1 compared with WT-CXCR4.
+Conclusion
+
+We propose that decreased internalization of WHIM-associated mutated CXCR4 leads to prolongation/enhancement of signaling in response to SDF1 and that this may provide the biochemical basis for the autosomal dominant abnormalities of cell trafficking and function associated with WHIM syndrome.

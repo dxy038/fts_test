@@ -1,0 +1,1 @@
+The objective of this work was to apply an important class of nonlinear systems for discrete time, called NARX networks, to carry through accurate forecasts of the daily maximum price series in the IBOVESPA, since it depends on random, nonlinear and multivariate factors, making it difficult to forecast using the conventional techniques.

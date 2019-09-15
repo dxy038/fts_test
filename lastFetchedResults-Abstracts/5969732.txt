@@ -1,0 +1,1 @@
+Data sets of bidirectional reflectance for soy-beans and nasturtium canopies acquired in the Solar Simulation Laboratory at Changchun, PR China, are fit well using a kernel-driven BRDF model. The influence of sampling on the albedo measures retrieved is investigated

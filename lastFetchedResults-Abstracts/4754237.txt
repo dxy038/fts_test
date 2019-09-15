@@ -1,0 +1,1 @@
+The objective of the following paper is to discuss the reliability improvement of an automated calibration laboratory software. For identification of reliability critical points several software designs and testing guidelines are discussed with the intention of achieving not only the minimum uncertainty but also the maximum reliability of the automation software.

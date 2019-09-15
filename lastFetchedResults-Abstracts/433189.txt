@@ -1,0 +1,9 @@
+Background
+The presence of lymph node metastases is an important prognostic marker with regard to non-small-cell lung cancer (NSCLC). Assessment of the sentinel lymph node (SLN) for the presence of tumor may improve staging. Our objective was to develop an optical noninvasive imaging tool that would permit intraoperative SLN mapping and provide real-time visual feedback for image-guided localization and resection.
+Methods
+Invisible near-infrared (NIR) light penetrates relatively deeply into tissue and background autofluorescence is low. We have developed a NIR fluorescence imaging system that simultaneously displays color video and NIR images of the surgical field. We recently engineered 15 nm nonradioactive NIR fluorescent quantum dots (QDs) as optimal lymphotrophic optical probes. The introduction of these QDs into lung tissue allows real-time visualization of draining lymphatic channels and nodes.
+Results
+In 12 Yorkshire pigs (mean weight 35 kg) we demonstrated that 200 pmol of NIR QDs injected into lobar parenchyma accurately maps lymphatic drainage and the SLN. All SLNs were strongly fluorescent and easily visualized within 5 minutes of injection. In 14 separate injections QDs localized to a mediastinal node, whereas in 2 injections QDs localized to a hilar intraparenchymal node. Histologic analysis in all cases confirmed the presence of nodal tissue.
+Conclusions
+We report a highly sensitive rapid technique for SLN mapping of the lung. This technique permits precise real-time imaging and therefore overcomes many limitations of currently available techniques.
+

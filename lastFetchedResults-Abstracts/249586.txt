@@ -1,0 +1,8 @@
+Unknown boundary conditions for natural waters are estimated using an inverse problem methodology.
+In the formulation of the inverse problem, expressed as a non-linear constrained optimization problem,
+its objective function is given by a square di erence term, between experimental and computed data,
+added to a regularization operator. The computed data are obtained by solving the radiative transfer
+direct problem using the LTSN method. A key aspect to get a good reconstruction is played by observed
+data quality. The reconstruction strategy is examined for in situ radiance and irradiance data for many
+arrangements of the experimental grid of the measurement devices, in order to plan good designs for
+experimental works

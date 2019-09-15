@@ -1,0 +1,1 @@
+The authors report simultaneous demultiplexing and wavelength conversion of two 100 bit/s channels from a 40 Gbit/s OTDM signal using bidirectional four wave mixing in a single semiconductor optical amplifier. Simultaneous demultiplexing and clearing of a 10 Gbit/s channel from the 40 Gbit/s OTDM data stream is also reported. The BER penalty induced by bi-FWM is &lt;1 dB

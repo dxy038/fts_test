@@ -1,0 +1,14 @@
+In ball grid array (BGA) packages, solder balls are exposed to cyclic thermo-mechanical strains arising from the thermal
+mismatch between package components. Thermo-mechanical fatigue crack propagation in solder balls is almost always
+observed at the chip side of the bump/pad junction. The objective of the experimental part of this study is to characterize
+the bump/pad interface under fatigue loading. Fatigue specimens are prepared by reflowing Sn3.8Ag0.5Cu lead-free solder
+alloy on Ni/Au substrates. Obtained results show that fatigue damage evolution strongly depends on the microstructure.
+Applied strain and solder volume both have an influence on the fatigue damage mechanism. In the numerical part of the
+study, fatigue experiments are modeled using the finite element technique. A cohesive zone approach is used to predict the
+fatigue damage evolution in soldered connections. Crack propagation is simulated by an irreversible linear traction–separation
+cohesive zone law accompanied by a non-linear damage parameter. Cohesive zone elements are placed where failure
+is experimentally observed. Damage evolution parameters for normal and tangential interaction are scrutinized
+through dedicated fatigue tests in pure tensile and shear directions. The proposed cohesive zone model is quantitatively
+capable of describing fatigue failure in soldered joints, which can be further extended to a numerical life-time prediction
+tool in microelectronic packages.
+  2007 Elsevier Ltd. All rights reserved

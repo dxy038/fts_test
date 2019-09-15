@@ -1,0 +1,1 @@
+Noise removal is an important problem in many applications. In this paper a new two-step scheme of the decision-based impulse noise removal method by means of contaminated pixel detection is proposed and comparison with direct order statistic filtering is given. The proposed methods satisfy both objective and subjective image quality

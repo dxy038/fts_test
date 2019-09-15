@@ -1,0 +1,1 @@
+In this paper dual band printed antenna using parasitic elements is proposed for wireless services. The objective of this special design is to compensate the space attenuation difference between the frequency of 2.45GHz and the frequency of 5.8 GHz. Like the space attenuation difference is about 3.5 dB, the studied antenna must to have 3 dB more gain at 5.8 GHz than at 2.4 GHz.

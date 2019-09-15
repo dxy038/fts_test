@@ -1,0 +1,22 @@
+Simultaneous incorporated application of
+Thyristor Controlled Series Capacitor (TCSC) and Power
+System Stabilizers (PSSs) in multi-machine power
+systems under different loading conditions is presented in
+this paper. As a search strategy, the Imperial Competitive
+Algorithm (ICA) is used to find the parameters of optimal
+controllers. For the purpose of enhancing system stability
+performance the recommended objective function,
+containing the speed deviations between generators, has
+to be minimized. For comparison, the application of PSS
+and TCSC exclusively and then together is tested. The
+results indicate that simultaneous usage of incorporating
+controllers based on bacterial swarm has damping
+performance more robust than exclusive application of
+optimized PSS controller based on ICA (ICAOPSS) and
+optimized TCSC controller based on ICA (ICATCSC)
+under different disturbances and in a wide range of
+operating conditions. Furthermore, the results are
+calculated with the Bacteria Foraging Optimization
+Algorithm (BFOA) as well as Genetic Algorithm (GA),
+which concludes the superiority of ICA over the other
+methods to achieve a global optimal solution.

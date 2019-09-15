@@ -1,0 +1,1 @@
+The objective is estimated the concentration of air pollution, by solving the atmospheric diffusion equation (ADE) using Adomain decomposition method. The solution depends on eddy diffusivity profile (K) and wind speed at the released point (u). We solve the ADE numerically in two dimensions using Adomain decomposition method, then, compared our results with observed data. 

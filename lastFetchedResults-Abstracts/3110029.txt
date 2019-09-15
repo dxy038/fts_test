@@ -1,0 +1,1 @@
+This paper deals with velocity feedback control of a class of linear time-invariant systems. The control objective is to shift the dominant eigenvalues of the system to desired values without changing other ones. Conditions are discussed under which it is possible to find such a velocity feedback control. An algorithm is proposed to find the feedback gain.

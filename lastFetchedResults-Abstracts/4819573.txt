@@ -1,0 +1,1 @@
+A new 8-15 RLL(2,10) modulation code and a new 2D adaptive equalizer are combined with a 0.7 NA objective lens and a violet LD. Bit error rates are measured with a 19.8 GB ROM disk.

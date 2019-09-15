@@ -1,0 +1,14 @@
+This paper presents a two-scale approach for the mechanical and numerical modelling of materials with
+microstructure-like concrete or fibre-reinforced concrete in the non-linear regime. It addresses applications,
+where the assumption of scale separation as the basis for classical homogenization methods does not hold.
+This occurs when the resolution of micro and macro scale does not differ ab initio or when evolving
+fluctuations in the macro-fields are in the order of the micro scale during the loading progress. Typical
+examples are localization phenomena. The objective of the present study is to develop an efficient solution
+method exploiting the physically existing multiscale character of the problem. The proposed method
+belongs to the superposition-based methods with local enrichment of the large-scale solution u by a
+small-scale part u . The main focus of the present formulation is to allow for locality of the small-scale
+solution within the large-scale elements to achieve an efficient solution strategy. At the same time the
+small-scale information exchange over the large-scale element boundaries is facilitated while maintaining
+the accuracy of a refined complete solution. Thus, the emphasis lies on finding appropriate locality
+constraints for u . To illustrate the method the formulation is applied to a damage mechanics based
+material model for concrete-like materials. Copyright q 2006 John Wiley & Sons, Ltd

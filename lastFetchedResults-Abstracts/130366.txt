@@ -1,0 +1,4 @@
+Objective(s): Spatial analysis of LBW using a geographic information system and determining the relationship between LBW and factors related to health and economic status, using a poison regression model.
+Methods: In each village, data were obtained on Total Births and cases of Low Birth Weight. Data were then combined with the information gathered from village maps. Relevant socioeconomic and health statistics were obtained from the Statistical Center of Iran.
+Results: Smoothed maps of LBW revealed a number of "hot spots". In the Poisson regression model the only statistical significant relationship was noted between LBW and General Fertility Rate.
+Conclusion: The geographic information system is a way to query specific places and through the use of this technology communities of concern could be identified.

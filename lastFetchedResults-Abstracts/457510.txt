@@ -1,0 +1,9 @@
+Objective
+Insulin and adiponectin exert important effects on the vasculature. We wanted to explore whether the eNOS inhibitor asymmetric dimethylarginine (ADMA) contribute to their effects.
+Methods
+Human umbilical vein endothelial cells (HUVECs) and human coronary artery endothelial cells (HCAECs) were incubated with growth medium in the presence or absence of tumor necrosis factor-alpha (TNFα), d-glucose, insulin or adiponectin. Further, cells exposed to TNFα for 24 h were co-stimulated with insulin or adiponectin for additional 24 h. Concentrations of ADMA in conditioned media and activity of dimethylarginine dimethylaminohydrolase (DDAH) in cell lysates were determined.
+Results
+The dose-dependent TNFα-induced ADMA accumulation was significantly inhibited when co-stimulated with insulin or adiponectin in both cell lines (p < 0.01 for all), accompanied by significant increases in DDAH activity in all conditions. Insulin alone resulted in a significant, but inversely dose-dependent accumulation of ADMA as compared to control cells in both cell lines, accompanied by increased DDAH activity. Adiponectin alone tended, dose-dependently to decrease ADMA, but without an increase of DDAH activity.
+Conclusion
+The results indicate that ADMA accumulation in human cultured endothelial cells is influenced by both insulin and adiponectin, and both mediators counteract the TNFα-induced accumulation of ADMA through the DDAH pathway.
+

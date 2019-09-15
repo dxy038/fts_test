@@ -1,0 +1,11 @@
+The present paper deals with the modelling and optimization of small bio-probes that can be used for
+biological sensing; the bio-probes can be classified as MicroElectroMechnical Systems (MEMS). The
+objective is to optimize the structure of the bio-probes in order to maximize the sensing sensitivity.
+A biological coating results in a prestress on the sensing cantilever when certain molecules are present
+in the surrounding medium. The mechanical deformation due to the biological material is modelled by
+applying a prestress in the top layer of the bio-probes. Topology optimization is used to improve the
+design. In the present work it is necessary to use an interpolation scheme different from the SIMP
+(power law) approach which is usually used in topology optimization. In calculating the sensitivities,
+needed for the optimization, complications due to the prestress occur, but also due to the coupling
+between the elastic field and the electric field which both must be used in an integrated model. These
+complications are dealt with and analytically obtained sensitivities are presented

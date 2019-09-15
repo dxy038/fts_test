@@ -1,0 +1,11 @@
+Objective. A study was undertaken to determine the experimental accuracy of a non-invasive optoelectonic 3-dimensional tracking system in assessing wrist joint motion.
+
+Design. This was an in vivo experimental study involving volunteer subjects performing prescribed wrist motions.
+
+Background. Current clinical practice does not include routine kinematic analysis for evaluating arthritic disease state, although motion disorders are common.
+
+Methods. Surface markers were applied to 24 subjects assigned two hand postures in a test-retest factorial design for the expected range of motion. The marker positions were measured optoelectronically and using calibrated stereoradiography, to determine the positions of the surface markers and of key bone landmarks. Alignment and motion were compared for the three measurement techniques. Standard kinematic analyses were performed to extract Euler angles and equivalent screw displacement axes for paired postures.
+
+Results. The three measurement techniques were highly correlated for wrist flexion-extension. Uncertainties were less than 6 degrees, similar to uncertainties from bone landmark identification errors when implanted markers cannot be used. Measures of motion exhibited higher correlations than those for alignment. Equivalent screw displacement axis orientations had poor intraclass correlations, reflecting sensitivity to coordinate system definitions.
+
+Conclusions. For motion analysis in the wrist in vivo, a non-invasive optoelectronic measurement system is as accurate as stereoradiographic analysis of bone segments.

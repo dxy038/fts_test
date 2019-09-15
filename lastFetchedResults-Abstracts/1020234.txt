@@ -1,0 +1,1 @@
+This paper presents a combined Entropy Decomposition and Support Vector Machine (EDSVM) technique for Synthetic Aperture Radar (SAR) image classification with the application on rice monitoring. The objective of this paper is to assess the use of multi-te

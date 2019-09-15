@@ -1,0 +1,11 @@
+Objective
+Sympathetic baroreflex sensitivity (symBRS) can be defined as the maximum sensitivity of muscle sympathetic nerve activity (MSNA) to changes in arterial blood pressure. This sensitivity is the slope of the linear middle part of the sigmoid curve that relates blood pressure to MSNA. SymBRS is known to vary with conditions, for instance during cold pressor testing. We investigated whether symBRS is affected by infusions of phenylephrine and nitroprusside.
+Methods
+In 10 healthy subjects, vasoactive infusions were varied in slow steps, as customary in protocols to determine ‘graded infusion symBRS’ (symBRSinf). During each step, symBRS was estimated from spontaneous beat-to-beat fluctuations (symBRSsp). As a secondary goal, symBRSinf was compared to the symBRSsp without infusions.
+Results
+The symBRSsp for MSNA burst area varied with infusions, augmenting with decreasing blood pressure, however the symBRSsp for burst occurrence was not affected. There were large differences between symBRSinf and symBRSsp at rest.
+Conclusions
+symBRSsp varies systematically with infusions during a symBRSinf protocol. This denotes a fundamental difference between these methods.
+Significance
+The relationship between ‘slow’ infusion effects (symBRSinf) and changes in symBRSsp is elucidated. The mathematical model that describes this relationship can also explain the increase of symBRS found with other sympathoexcitatory stimuli.
+

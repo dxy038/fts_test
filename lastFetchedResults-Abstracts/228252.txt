@@ -1,0 +1,8 @@
+This correspondence presents and investigates a fast algorithm
+for the tracking of nonstationary environments in power inversion
+arrays. The algorithm is based on the use of iterative least squares techniques
+and the introduction of an additional gradient vector in the objective
+function so that both the optimal weight vector and its rate of change are estimated
+recursively. Although the algorithm is computationally more complex
+than conventional least squares methods, it has better performance in
+tracking moving sources as the velocities of the latter are also being estimated.

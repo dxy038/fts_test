@@ -1,0 +1,11 @@
+Objective. To design a technique for the in vivo description of ankle and other foot joint rotations to be applied in routine functional evaluation using non-invasive stereophotogrammetry.
+
+Design. Position and orientation of tibia/fibula, calcaneus, mid-foot, 1st metatarsal and hallux segments were tracked during the stance phase of walking in nine asymptomatic subjects. Rigid clusters of reflective markers were used for foot segment pose estimation. Anatomical landmark calibration was applied for the reconstruction of anatomical landmarks.
+
+Background. Previous studies have analysed only a limited number of joints or have proposed invasive techniques.
+
+Methods. Anatomical landmark trajectories were reconstructed in the laboratory frame using data from the anatomical calibration procedure. Anatomical co-ordinate frames were defined using the obtained landmark trajectories. Joint co-ordinate systems were used to calculate corresponding joint rotations in all three anatomical planes.
+
+Results. The patterns of the joint rotations were highly repeatable within subjects. Consistent patterns between subjects were also exhibited at most of the joints.
+
+Conclusion. The method proposed enables a detailed description of ankle and other foot joint rotations on an anatomical base. Joint rotations can therefore be expressed in the well-established terminology necessary for their clinical interpretation.

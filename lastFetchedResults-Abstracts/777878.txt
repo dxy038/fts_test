@@ -1,0 +1,22 @@
+This paper presents a Multi-objective Artificial
+BEE Colony (MOABC) algorithm for the solution of
+Economic/Environmental load Dispatch (EED) problem.
+The EED problem is a nonlinear constrained multiobjective
+optimization problem. Because, the three
+competing and non-commensurable fuel cost, system loss
+and pollutant emission objectives should be minimized
+simultaneously while satisfying certain system
+constraints. To cope with different solutions, Pareto
+dominance concept is used to generate and sort the
+dominated and non-dominated solutions in multiobjective
+optimization process. The effectiveness of the
+proposed method has been verified on IEEE 6-generator
+30-bus test system. The numerical results demonstrate the
+great potential of the proposed MOABC approach to
+generate well distributed Pareto optimal non-dominated
+solutions of multi-objective EED problem. The
+comparison with the recently reported results using
+NSGA, NPGA, SPEA, MOPSO and MODE methods
+reveals the superiority of the proposed MOABC approach
+and confirms its capability for the solution of multiobjective
+EED problem in the real world power systems.

@@ -1,0 +1,22 @@
+The aim of this study was to show how choice experiments can be used to derive economic weights in breeding objectives. In
+a choice experiment, respondents are asked to view various alternative descriptions of a good differentiated by their attributes
+and levels, and are asked to choose their most preferred alternative. Analysis of the data generated can be used to elicit a
+quantitative description of respondent preference for contrasting attributes and levels. We simulated a partial profile choice
+experiment with four different attributes (traits) each at three levels. In a partial profile design, the choices are simplified so
+that only a subset of traits is used for each comparison, making participation in the experimental process less onerous.
+Three different choice designs were compared. All three designs included four attributes each at three levels where respondents
+choose between two alternative genotypes. In the first design, respondents choose between two genotypes differing for
+all four traits simultaneously. In the second and third designs, respondents made choices based on three or two out of
+the four traits per choice set respectively. The effectiveness of different designs was evaluated based on comparisons between
+true and simulated preferences for varying numbers of respondents and choice sets per respondent. Choice design and
+the simulated respondent choice were analysed using a conditional logit model. Regression coefficients from the conditional
+logit model based on an average of 200 replicated choices across respondents were used to estimate the relative economic
+weights of traits. A need to account for discounted gene flow principles when formulating the survey questions was
+emphasised as a critical component of the method. When the relative importance’s of four traits were considered,
+practical designs involving, e.g., 20 choice sets based on a subset of two traits at each choice, and over 30 respondents
+provided relatively accurate estimates of relative respondent preferences. The method based on a practical choice experiment
+design can be used to define economic weights for use in animal breeding selection indexes where traditional approaches
+such as profit equations and bioeconomic models are not practical. The approach may also be of interest to commercial
+breeding programs wishing to formulate a quantitative understanding of market preferences for attributes of the genestocks
+that they sell.
+Keywords: breeding objective, choice experiment

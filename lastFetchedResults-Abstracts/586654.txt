@@ -1,0 +1,27 @@
+This paper presents a novel method for
+damping of low frequency oscillations (LFO) based on
+design of a state feedback controller for synchronous
+series compensator (SSSC) in a power system. The
+design problem of state feedback damping controller is
+formulated as an optimization problem to minimize a
+time domain based objective function by improved
+chaotic–harmony search (IC-HS) technique. Some
+modifications in harmony search algorithm are made for
+improvement of algorithm convergence. In fact, this
+paper focuses on coordinating of SSSC‘s inputs with
+together and coordination of power system stabilizer
+(PSS) with SSSC‘s inputs to find the best dynamic
+response. Single Machine Infinite Bus (SMIB) system
+has been considered to examine the operation of proposed
+controllers. Change of the input power of generator
+abruptly, is considered as a disturbance. The effectiveness
+of the proposed state feedback controller has been
+demonstrated by nonlinear time domain simulation
+studies. The results analysis show that the proposed
+controller can provide the excellent capability in fast
+damping of power system oscillations and improve
+greatly the dynamic stability of power system. In
+addition, the system performance analysis and surveys
+under various operating conditions demonstrate that the
+simultaneously coordination of SSSC‘s input controllers
+are superior to the PSS based damping controller.

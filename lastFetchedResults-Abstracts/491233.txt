@@ -1,0 +1,20 @@
+The objective of this paper is to investigate the effects of changing age
+distribution on national savings in Iran. We examine this topic within the
+framework of the life-cycle hypothesis (LCH) based on Ando-Modigliani
+theory. So, the empirical savings function takes account of changes in the
+age distribution of the population.
+This study applies cointegration technique to annual time series data over
+the period 1966 - 2004. More specifically, an autoregressive distributed lag
+(ARDL) model is employed to estimate savings function. Moreover, an error
+correction model (ECM) of national savings behavior is also specified and
+estimated in order to reveal the short run dynamic adjustments of savings
+towards its long run equilibrium.
+We find evidence for a significant relationship between population age
+Structure and national savings in Iran. In particular, the young (age 15 - 24
+years) and elderly (55 years and older) population groups have negative
+impact on national savings, while the working age population (age 25 -54
+years) has positive impact on national savings. However, population between
+35 and 44 years of age has relatively higher impact on national savings
+compared with other population groups. Overall, the results suggest that the
+demographic structure is an important determinant of national savings in
+Iran.

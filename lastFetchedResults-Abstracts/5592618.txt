@@ -1,0 +1,1 @@
+A robust learning rule, called adaptive Ho-Kashyap bidirectional learning (AHKBL), is proposed to enhance the capacity and error correction capability of a bidirectional associative memory (BAM). Also, the sufficient conditions for convergence of AHKBL are discussed. Simulation shows that AHKBL greatly improves the capacity and the error correction capability of the BAM.

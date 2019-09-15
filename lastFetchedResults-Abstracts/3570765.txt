@@ -1,0 +1,1 @@
+A procedure based on subjective and objective assessments has been used to design an 8-level quantiser for an interframe d.p.c.m. digital television coding system handling monochrome 5.5 MHz 625-line pidura The quantiser reduces noise in a static picture over its 8-bit source and attempts to minimise the distortion of movement.

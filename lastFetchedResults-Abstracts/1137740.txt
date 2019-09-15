@@ -1,0 +1,5 @@
+Using a novel method for the formulation of Jacobian matrices, this paper quantitatively compares the dexterity of spatial complex degree of freedom parallel manipulators for the first time. The manipulators included in this study are three-degree-of-freedom manipulators including the 3-PRS, 3-RPS, and Tricept.
+
+The comparison is made possible through the use of a novel method of formulating square dimensionally homogeneous Jacobian matrices, and a consistent choice of independent end effector velocities. The condition number and singular values of the Jacobians corresponding to each manipulator may then be directly compared.
+
+The objective of the work is to illustrate the application of the proposed method in determining the optimal architecture based on predefined operating characteristics.

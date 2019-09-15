@@ -1,0 +1,3 @@
+The objective of this work is the numerical study of an industrial process of energy storage which consists in the use of a cylindrical tank filled with encapsulated phase change materials (PCM). A particularity is present in this kind of processes; it concerns the delay of the crystallization of the PCM, called supercooling phenomenon.
+
+velopment of the model for cold storage with heat transfer fluid flowing enables a detailed analysis of this process. The effects of different parameters on the behaviour of the tank, such as the inlet temperature, the flow rate, are examined when the tank is in vertical position. There is substantial agreement between the prediction and the experimental values already presented in part I.

@@ -1,0 +1,3 @@
+This paper presents the advantages of a Branch Eigenmodes Reduced Model used in a control process of a heating system.
+
+The experimental setup is a 3D heat conductive system in which a heat source is set. First, the reduced model is used to solve the non-linear Inverse Heat Conduction Problem: identification of the heat source strength variations from time-varying temperatures. Then, the reduced model is used to control hot points in the system. The objective of the method is to allow sequential temperature control by decreasing the computation time necessary for the simulation.

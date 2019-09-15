@@ -1,0 +1,11 @@
+Objective
+We recently demonstrated that patients with high levels of circulating dendritic cells (DC) and interleukin (IL)-12 are associated with reduced cancer relapse after hematopoietic stem cell transplantation. Identifying a growth factor that can promote these immune functions may have beneficial anti-tumor effects. We investigated the hypothesis that granulocyte-macrophage colony-stimulating factor (GM-CSF) induces IL-12 production and polarizes T lymphocytes toward a proinflammatory response.
+Materials and Methods
+
+Peripheral blood mononuclear cells (PBMC), T lymphocytes, and antigen-presenting cells (APC) were cultured with GM-CSF and compared with no growth factors (control), G-CSF, or both GM-CSF and G-CSF. Cells were matured with either lipopolysaccharide or lectin (phytohemagglutinin). Type 1 and type 2 cytokines were measured by enzyme-linked immunosorbent assay. Induction of allogeneic T-lymphocyte proliferation induced by GM-CSF–stimulated APC was measured by mixed lymphocyte reaction. DC were measured by flow cytometry.
+Results
+
+Levels of type 1 (IL-12, interferon-γ, tumor necrosis factor-α) cytokines increased while type 2 (IL-10 and IL-4) cytokines decreased after stimulation of PBMC, T lymphocytes, and APC with GM-CSF. APC treated with GM-CSF induced higher proliferation of allogeneic T cells. CD11c and CD123-positive DC proliferated after exposure to GM-CSF. Both subtypes of DC (DC1 and DC2) were increased by GM-CSF.
+Conclusions
+
+GM-CSF induces production of type 1 proinflammatory cytokines by human PBMC, T lymphocytes, and APC. Type 2 cytokines are downregulated by GM-CSF and proliferation of allogeneic T cells is increased. These results demonstrate the potential for GM-CSF as a clinical agent for immune stimulation.

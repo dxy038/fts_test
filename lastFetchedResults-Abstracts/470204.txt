@@ -1,0 +1,9 @@
+Objective
+This study was undertaken to study the statistical correlation between lecithin/sphingomylein (L/S) ratio, percent phosphatidylglycerol (%PG), lamellar body count (LBC), and surfactant-to-albumin ratio (TDx-FLMII) in amniotic fluid (AF); and derive gestational age-specific (GA) predicted risk of neonatal respiratory distress syndrome (RDS) for LBC and TDx-FLMII.
+Study design
+AF specimens (238) were collected by transabdominal amniocentesis. L/S ratio, %PG, LBC, and TDx-FLMII were determined by established procedures. RDS diagnosis was ascertained by a neonatalogist, and statistical analyses were performed with the use of the SPSS software program (SPSS Inc, Chicago, Ill).
+Results
+Significant correlation was obtained among the 4 variables (L/S ratio, %PG, LBC, and TDx-FLMII). Independent linear regression analyses between L/S ratio versus LBC and TDx-FLMII provided acceptable correlation. Multiple regression analysis showed a significant (P< .001) contribution from TDx-FLMII and GA for predicting the L/S ratio. Receiver operating characteristic curve analysis provided the immature cutoffs (LBC = < 30.0 × 103/μL; TDx-FLMII = < 40.0 mg/g). Total accuracy (either positive or negative) for RDS was similar for LBC (75.5%) and TDx-FLMII (76.7%).
+Conclusion
+LBC and TDx-FLMII are equally accurate. GA-specific predicted risk of RDS by both tests significantly eliminated L/S ratio identified false positive cases of fetal lung maturity.
+

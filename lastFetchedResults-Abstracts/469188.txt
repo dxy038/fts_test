@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to determine the extent to which, if at all, maternal weight at birth is related to dyslipidemia during early pregnancy, which is a risk factor for preeclampsia.
+Study design
+This hospital-based prospective cohort study included 1000 women who initiated prenatal care before 16 weeks of gestation. Participants provided information about their birth weight and other sociodemographic and reproductive covariates. Plasma triglyceride, high-density lipoprotein cholesterol, and total cholesterol concentrations were measured at approximately 13 weeks of gestation. β coefficients and standard errors were estimated by multiple linear regression; odds ratios and 95% confidence intervals were estimated by logistic regression.
+Results
+Maternal birth weight was correlated negatively with triglycerides (r = −0.12; P = .001) and was correlated positively with high-density lipoprotein cholesterol (r = 0.08; p = .02) but not statistically significantly related with total cholesterol (r = −0.004; P = .91). After adjusting for potential confounders, women who weighed <2500 g at birth had higher triglyceride and total cholesterol concentrations (β = 23.4 mg/dL [P<.001]; β = 2.6 mg/dL [P = .585], respectively) and lower high-density lipoprotein cholesterol concentrations (β = −3.2 mg/dL; P = .105), when compared with women who weighed 3000 to 3499 g at birth. Women who were born small (<2500 g) and became overweight (body mass index, ≥25 kg/m2) in adulthood had less favorable lipid profiles than their counterparts who weighed ≥2500 g at birth and remained lean (body mass index, <25 kg/m2).
+Conclusion
+Our findings suggest that factors that are related to growth in utero may help to predict the subsequent risk of altered lipid metabolism during pregnancy, which may, in turn, be causally related to the occurrence of preeclampsia.
+

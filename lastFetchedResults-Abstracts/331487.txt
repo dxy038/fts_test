@@ -1,0 +1,11 @@
+Objective
+To derive an analytical solution of shrinkage stresses in a simplified Class-I composite restoration using a visco-elastic material model.
+Methods
+
+Simplified, multi-layer, circular plane models were used to represent different sections of a tooth with a Class-I restoration: one section is close to the top occlusal surface and the other is at a deeper location of the restoration. The sections are therefore subjected to different stress states, i.e., plane-stress and plane-strain, respectively. The analytical solution obtained was compared with the numerical results from finite element analysis. A sensitivity study was then carried out to examine the relative influence of geometric and material parameters on the shrinkage stress development.
+Results
+
+The analytical solution for the shrinkage stress agrees reasonably well with the numerical results given by finite element analysis of more realistic geometries. The result shows that the residual stresses deep inside the restoration are much higher than those at the occlusal surface. This is because material at the former location is subjected to a stress state similar to that of equi-triaxial tension, which limits stress relaxation through viscous flow. However, a stress concentration exists at the restoration margin on the occlusal surface. Sensitivity analysis indicates that the most important factor in shrinkage stress development is material shrinkage, and the second most important factor is Young's modulus. Viscosity and polymerization rate only affect the residual stresses at the surface. The size of the restoration had relatively little influence on the residual stress development. On the other hand, increasing the enamel thickness increases the stresses inside the restoration but not those at the occlusal surface.
+Significance
+
+A visco-elastic solution for the shrinkage stresses developed in a simplified Class-I restoration during polymerization has been derived. The solution allows the influence of several geometric and material parameters on shrinkage stress development to be examined readily. It also provides a benchmark test for more elaborate numerical schemes before they are used to analyse more complicated cases.

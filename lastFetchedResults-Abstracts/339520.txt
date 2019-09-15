@@ -1,0 +1,11 @@
+Objective
+To model human leukemogenesis by transduction of human hematopoietic stem cells (HSC) with genes associated with leukemia and expressed in leukemic stem cells.
+Methods
+
+Constitutive activation of Flt3 (Flt3-ITD) has been reported in 25 to 30% of patients with acute myeloid leukemia (AML). Retroviral vectors expressing constitutively activated Flt3 and STAT5A were used to transduce human cord blood CD34+ cells and HSC cell self-renewal and differentiation were evaluated.
+Results
+
+We have demonstrated that retroviral transduction of Flt3 mutations into CD34+ cells enhanced HSC self-renewal as measured in vitro in competitive stromal coculture and limiting-dilution week-2 cobblestone (CAFC) assays. Enhanced erythropoiesis and decreased myelopoiesis were noted together with strong activation of STAT5A. Consequently, transduction studies were undertaken with a constitutively active mutant of STAT5A (STAT5A[1*6]) and here also a marked, selective expansion of transduced CD34+ cells was noted, with a massive increase in self-renewing CAFC detectable at both 2 and 5 weeks of stromal coculture. Differentiation was biased to erythropoiesis, including erythropoietin independence, with myeloid maturation inhibition. The observed phenotypic changes correlated with differential gene expression, with a number of genes differentially regulated by both the Flt3 and STAT5A mutants. These included upregulation of genes involved in erythropoiesis and downregulation of genes involved in myelopoiesis. The phenotype of week-2 self-renewing CAFC also characterized primary Flt3-ITD+ AML bone marrow samples. Isolation of leukemic stem cells (LSC) with a CD34+, CD38−, HLA-DR− phenotype was undertaken with Flt3-ITD+ AML samples resulting in co-purification of early CAFC. Gene expression of LSC relative to the bulk leukemic population revealed upregulation of homeobox genes (HOXA9, HOXA5) implicated in leukemogenesis, and hepatic leukemia factor (HLF) involved in stem cell proliferation.
+Conclusion
+
+Myeloid leukemogenesis is a multi-stage process that can involve constitutively activated receptors and downstream pathways involving STAT5, HOX genes, and HLF.

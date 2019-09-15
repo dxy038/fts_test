@@ -1,0 +1,11 @@
+Objective
+To investigate the dynamics of the synchronization between heart rate variability and sleep electroencephalogram power spectra and the effect of sleep apnea–hypopnea syndrome.
+Methods
+Heart rate and sleep electroencephalogram signals were recorded in controls and patients with sleep apnea–hypopnea syndrome that were matched for age, gender, sleep parameters, and blood pressure. Spectral analysis was applied to electrocardiogram and electroencephalogram sleep recordings to obtain power values every 20 s. Synchronization likelihood was computed between time series of the normalized high frequency spectral component of RR-intervals and all electroencephalographic frequency bands. Detrended fluctuation analysis was applied to the synchronizations in order to qualify their dynamic behaviors.
+Results
+For all sleep bands, the fluctuations of the synchronization between sleep EEG and heart activity appear scale free and the scaling exponent is close to one as for 1/f noise. We could not detect any effect due to sleep apnea–hypopnea syndrome.
+Conclusions
+The synchronizations between the high frequency component of heart rate variability and all sleep power bands exhibited robust fluctuations characterized by self-similar temporal behavior of 1/f noise type. No effects of sleep apnea–hypopnea syndrome were observed in these synchronizations.
+Significance
+Sleep apnea–hypopnea syndrome does not affect the interdependence between the high frequency component of heart rate variability and all sleep power bands as measured by synchronization likelihood.
+

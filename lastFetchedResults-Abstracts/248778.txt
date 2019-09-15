@@ -1,0 +1,11 @@
+In complex forging processes, it is essential to "nd the optimal deformation path and the optimal preform
+shape that will lead to the desired "nal shape and service properties. A sensitivity analysis and optimization
+for preform billet shape in thermo-mechanical coupled simulation is developed in this work. Non-linear
+sensitivity analysis of temperatures, #ow-stresses, strains and strain-rates are presented with respect to
+design variables. Both analytical and "nite-di!erence gradients are employed to validate the e!ectiveness
+of sensitivity analysis developed in this work. Numerous iterations of coupled thermo-mechanical analysis
+are performed to determine an optimum preform shape based on a given criterion of minimizing the
+objective function on e!ective strain variance within the "nal forging. The design constraints are imposed
+on die under"ll, material scrap, folding defects and temperatures. In addition, a method for material
+data processing is given in order to determine the #ow stress and its derivatives. The shape optimization
+scheme is demonstrated with the preform designs of an axisymmetric disk and a plane strain problem.

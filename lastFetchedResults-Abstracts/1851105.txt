@@ -1,0 +1,8 @@
+Objective
+struction of a genetic regulatory network from a given time-series gene expression data is an important research topic in systems biology. One of the main difficulties in building a genetic regulatory network lies in the fact that practical data set has a huge number of genes vs. a small number of sampling time points. In this paper, we propose a new linear regression model that may overcome this difficulty for uncovering the regulatory relationship in a genetic network.
+s
+oposed multiple regression model makes use of the scale-free property of a real biological network. In particular, a filter is constructed by using this scale-free property and some appropriate statistical tests to remove redundant interactions among the genes. A model is then constructed by minimizing the gap between the observed and the predicted data.
+s
+cal examples based on yeast gene expression data are given to demonstrate that the proposed model fits the practical data very well. Some interesting properties of the genes and the underlying network are also observed.
+sions
+clusion, we propose a new multiple regression model based on the scale-free property of real biological network for genetic regulatory network inference. Numerical results using yeast cell cycle gene expression dataset show the effectiveness of our method. We expect that the proposed method can be widely used for genetic network inference using high-throughput gene expression data from various species for systems biology discovery.

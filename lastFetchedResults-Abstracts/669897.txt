@@ -1,0 +1,9 @@
+This paper considers a single machine family scheduling problem where jobs are partitioned into
+families and setup is required between these families. The objective is to find an optimal schedule
+that minimizes the total weighted completion time of the given jobs in the presence of the sequence
+independent family setup times. This problem has been proven to be strongly NP-hard. We
+introduce a genetic algorithm that employs an innovative crossover operator that utilizes an
+undirected bipartite graph to find the best offspring solution among an exponentially large number
+of potential offspring. Computational results are presented. The proposed algorithm is shown to be
+superior when compared with other local search methods namely the dynamic length tabu search
+and randomized steepest descent method.

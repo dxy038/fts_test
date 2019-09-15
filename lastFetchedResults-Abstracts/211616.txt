@@ -1,0 +1,11 @@
+Construction planners often face the challenge of optimum resource utilization to
+compromise between different and usually conflicting aspects of projects. Time, cost and
+quality of project delivery are among the crucial aspects of each project. Emergence of new
+contracts that place an increasing pressure on maximizing the quality of projects while
+minimizing its time and cost, requires the development of models considering quality in
+addition to time and cost which has modeled extensively. In this paper, a new metaheuristic
+multi-colony ant algorithm is developed for the optimization of three objectives time-costquality
+as a trade-off problem. An example is analyzed to illustrate the capabilities of the
+present method in generating optimal/near optimal solutions. The model is also applied to
+two objective time-cost trade-off problem, and the results are compared to those of the
+existing approaches.

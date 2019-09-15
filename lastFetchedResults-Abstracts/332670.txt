@@ -1,0 +1,11 @@
+Objective
+To assess the reproducibility of a mobile non-contact camera-based digital imaging system (DIS) for measuring tooth colour under in vitro and in vivo conditions.
+Methods
+
+One in vitro and two in vivo studies were performed using a mobile non-contact camera-based digital imaging system. In vitro study: two operators used the DIS to image 10 dry tooth specimens in a randomised order on three occasions. In vivo study 1: 25 subjects with two natural, normally aligned, upper central incisors had their teeth imaged using the DIS on four consecutive days by one operator to measure day-to-day variability. On one of the four test days, duplicate images were collected by three different operators to measure inter- and intra-operator variability. In vivo study 2: 11 subjects with two natural, normally aligned, upper central incisors had their teeth imaged using the DIS twice daily over three days within the same week to assess day-to-day variability. Three operators collected images from subjects in a randomised order to measure inter- and intra-operator variability.
+Results
+
+Subject-to-subject variability was the largest source of variation within the data. Pairwise correlations and concordance coefficients were >0.7 for each operator, demonstrating good precision and excellent operator agreement in each of the studies. Intraclass correlation coefficients (ICCs) for each operator indicate that day-to-day reliability was good to excellent, where all ICC's where >0.75 for each operator.
+Conclusion
+
+The mobile non-contact camera-based digital imaging system was shown to be a reproducible means of measuring tooth colour in both in vitro and in vivo experiments.

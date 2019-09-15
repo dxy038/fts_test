@@ -1,0 +1,16 @@
+Operation optimization of the reservoirs has been mostly carried out based on general objectives, including
+water demand supplies, power generation, flood management, and environmental constraints. In most
+of the previously developed models, sediment removal from reservoirs has not been included. Flushing is
+one of the most important and common ways of retrieving the lost volume of reservoirs due to sedimentation.
+Despite its adverse effects on the environment of downstream rivers, this method has received lots of
+attention by engineers and researchers in the past. One of the main drawbacks of the previous studies in
+the field of reservoir operation optimization has been lack of modeling tools for considering the relation
+between sediment removal and other objectives of reservoir operation. In this paper, a new approach has
+been developed for monthly reservoir operation optimization. For this purpose, a model has been formulated
+to minimize the total deficit in supplying demands and to maximize the total volume of sediment
+removed from the reservoir. The objective function for sediment outflow has been developed using the
+flushing method. The optimization model has been formulated using Varying chromosome Length Genetic
+Algorithm (VLGA). The efficiency of the model has been tested in the case study of Sefidrud Reservoir in
+North of Iran. The results of the optimization model for a 5-year period have been compared with the historical
+records of the operation of the reservoir. The results of the case study have been summarized in the
+form of practical operating rules for flushing and operation management.

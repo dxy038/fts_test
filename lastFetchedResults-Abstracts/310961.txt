@@ -1,0 +1,11 @@
+Objective. To assess the effect of the residual stresses due to cement curing on the load transfer of cemented hip implants.
+
+Design. The load transfer at the stem–cement interface of an idealized hip stem surrounded by cortical bone was investigated using a three-dimensional finite element analysis. A debonded stem–cement interface was considered to simulate a highly polished stem in contact with cement; Coulomb friction at the stem–cement interface was considered.
+
+Background. Numerical analyses on the load transfer of cemented hip implants do not include residual stresses due to cement curing at the stem–cement interface.
+
+Methods. The magnitude of the residual stresses was determined experimentally. In the finite element model, non-linear contact elements modelled the debonded stem–cement interface. In particular, the compressive radial residual stresses that are generated at the interface, due to the cement expansion during curing, were treated similar to a press-fit problem.
+
+Results. The cement stress distributions were affected by the magnitude of the residual stresses. Failing to include residual stresses underestimated the cement stresses at the interface, mainly affecting the radial and hoop stresses. The load was transferred from the stem to the cement more uniformly along the interface once residual stresses were included.
+
+Conclusions. Because there is no chemical bond at the interface between the stem and cement, the interface resistance depends on friction thus radial residual compressive stresses developed by the cement curing play a direct role.

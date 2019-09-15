@@ -1,0 +1,24 @@
+Background: Since psychological tests such as questionnaire or drawing tests
+are almost qualitative, their results carry a degree of uncertainty and sometimes subjectivity.
+The deficiency of all drawing tests is that the assessment is carried out after
+drawing the objects and lots of information such as pen angle, speed, curvature and
+pressure are missed through the test. In other words, the psychologists cannot assess
+their patients while running the tests. One of the famous drawing tests to measure the
+degree of Obsession Compulsion Disorder (OCD) is the Bender Gestalt, though its
+reliability is not promising.
+Objective: The main objective of this study is to make the Bender Gestalt test
+quantitative; therefore, an optical pen along with a digital tablet is utilized to preserve
+the key drawing features of OCD patients during the test.
+Materials and Methods: Among a large population of patients who referred to
+a special clinic of OCD, 50 under therapy subjects voluntarily took part in this study. In
+contrast, 50 subjects with no sign of OCD performed the test as a control group. This
+test contains 9 shapes and the participants were not constraint to draw the shapes in a
+certain interval of time; consequently, to classify the stream of feature vectors (samples
+through drawing) Hidden Markov Model (HMM) is employed and its flexibility increased
+by incorporating the fuzzy technique into its learning scheme.
+Results: Applying fuzzy HMM classifier to the data stream of subjects could classify
+two groups up to 95.2% accuracy, whereas the results by applying the standard
+HMM resulted in 94.5%. In addition, multi-layer perceptron (MLP), as a strong static
+classifier, is applied to the features and resulted in 86.6% accuracy.
+Conclusion: Applying the pair of T-test to the results implies a significant supremacy
+of the fuzzy HMM to the standard HMM and MLP classifiers.

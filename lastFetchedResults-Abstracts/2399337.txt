@@ -1,0 +1,8 @@
+Objective
+tored teeth, stresses at the tooth–restoration interface during masticatory processes may fracture the teeth or the restoration and cracks may grow and propagate. The aim was to apply numerical methodologies to simulate the behavior of a restored tooth and to evaluate fatigue lifetimes before crack failure.
+als and methods
+a CAD–FEM procedure and fatigue mechanic laws, the fatigue damage of a restored molar was numerically estimated. Tessellated surfaces of enamel and dentin were extracted by applying segmentation and classification algorithms, to sets of 2D image data. A user-friendly GUI, which enables selection and visualization of 3D tessellated surfaces, was developed in a MatLab® environment. The tooth-boundary surfaces of enamel and dentin were then created by sweeping operations through cross-sections. A class II MOD cavity preparation was then added into the 3D model and tetrahedral mesh elements were generated. Fatigue simulation was performed by combining a preliminary static FEA simulation with classical fatigue mechanical laws.
+s
+s with the shortest fatigue-life were located around the fillets of the class II MOD cavity, where the static stress was highest.
+icance
+scribed method can be successfully adopted to generate detailed 3D-FE models of molar teeth, with different cavities and restorative materials. This method could be quickly implemented for other dental or biomechanical applications.

@@ -1,0 +1,11 @@
+Objective. Cancer cells exhibit altered local dielectric properties compared to normal cells, measurable as different electrical conductance and capacitance using electrical impedance scanning (EIS). Therefore, active biocompatible current is applied to the patient for calculation of both parameters taking into account frequency, voltage and current flow.
+
+ts and methods. 240 women with 280 sonographically and/or mammographically suspicious findings were examined using EIS. All lesions were histologically proven. A lesion was scored as positive, when a focal increased conductance and/or capacitance was measurable using EIS. The lesion was visible as a bright area in a 256 grey-scale computer output. Due to system limitations patients having a pacemaker or pregnant had to be excluded from the study.
+
+s. 91/113 malignant and 108/167 benign lesions were correctly identified using EIS (80.5% sensitivity, 64.7% specificity). NPV and PPV of 83.1% and 60.7% were observed, respectively. Accuracy was 0.73.
+
+ range of factors can induce false positive results, although by an experienced observer a number of these findings can be detected such as scars, skin alterations, contact artefacts, air bubbles and naevi, hairs and interfering bone. Based upon visibility on ultrasound (194 lesions visible, 86 not visible) significant differences in the detection rate occurred. Histology-dependent detectability rate varied significantly with lowest rate in CIS-cases (50%). Specificity values varied histology-depending, too; probably depending on the rate of proliferation between 75% (inflammatory lesions) and papillomata (50%). Best detectability was observed in malignant lesions with a size between 20 and 30 mm.
+
+r possible applications will be discussed regarding the currently available literature (lymph nodes, salivary glands, mathematical and animal based models).
+
+sion. EIS appears to be a promising new additional technology providing a rather high sensitivity for the verification of suspicious breast lesions. Further investigations on histomorphological characteristics of false negative as well as false positive lesions are essential to gain further knowledge about the bioelectricity of breast lesions. Currently high false positive rate and observer-dependence limit clinical usage.

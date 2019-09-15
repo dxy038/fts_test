@@ -1,0 +1,11 @@
+Objective
+Accumulating findings suggest that in acute myeloid leukemia (AML) patients, proinflammatory cytokines and growth factors play important roles in the proliferation and survival of AML cells in an autocrine and paracrine manner, leading to deterioration of AML. JTE-607 is a multiple cytokine inhibitor that potently suppresses production of proinflammatory cytokines. In the present study, we investigated the potency of JTE-607 as an antileukemic agent by exploiting a SCID mouse acute leukemia model.
+Methods
+
+SCID mice injected with anti-asialo-GM1 antibody were exposed to sublethal total-body irradiation at a dose of 3 Gy and then inoculated intravenously with AML cells. JTE-607 was administered using osmotic minipumps. The effects of JTE-607 on mouse survival time, human interleukin (IL)-8 levels in mouse plasma, and proportion of human CD45+ cells in the bone marrow were studied.
+Results
+
+The survival time of the mice was strictly dependent on the number of U-937 cells proliferating in vivo. Administration of JTE-607 during the initial 7 days significantly prolonged survival of the mice, suggesting killing activity of JTE-607 against AML cells in vivo. Delayed administration of JTE-607 also prolonged the survival of mice bearing established leukemia with an effect comparable to the maximum tolerable dose of cytarabine. Flow cytometer analysis of bone marrow cells revealed decreased number of human CD45+ cells. Human IL-8 level was also reduced by JTE-607.
+Conclusion
+
+Our results indicate that JTE-607 has potential to be a new class of antileukemic drug that exerts inhibitory activities against both the proliferation and proinflammatory cytokine production of AML cells.

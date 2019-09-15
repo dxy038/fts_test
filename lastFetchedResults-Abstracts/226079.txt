@@ -1,0 +1,6 @@
+The practicality of model predictive control (MPC) is partially limited by the ability to solve optimization problems in real time.
+This requirement limits the viability of MPC as a control strategy for large scale processes. One strategy for improving the com-
+putational performance is to formulate MPC using a linear program. While the linear programming formulation seems appealing
+from a numerical standpoint, the controller does not necessarily yield good closed-loop performance. In this work, we explore MPC
+with an l1 performance criterion. We demonstrate how the non-smoothness of the objective function may yield either dead-beat or
+idle control performance.

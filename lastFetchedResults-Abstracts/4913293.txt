@@ -1,0 +1,1 @@
+An objective function is defined which models an unsupervised neural network of discretely firing neurons. The objective function can be explicitly optimised with respect to the choice of probabilistic model that describes the neuron properties; this optimisation is done explicitly (i.e. algebraically) in some special cases

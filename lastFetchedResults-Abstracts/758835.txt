@@ -1,0 +1,12 @@
+The stress fields near a crack front in a ductile solid are essentially three-dimensional (3D)
+in nature. The objective of this paper is to investigate the structure of these fields and to establish
+the validity of two-dimensional (2D) plane stress and plane strain approximations near the crack front
+under mixed mode (combined modes I and II) loading. To this end, detailed 3D and 2D small strain,
+elastic-plastic finite element simulations are carried out using a boundary layer (small scale yielding)
+formulation. The plastic zones and radial, angular and thickness variations of the stresses are studied
+corresponding to different levels of remote elastic mode mixity and applied load, as measured
+by the plastic zone size with respect to the plate thickness. The 3D results are compared with those
+obtained from 2D simulations and asymptotic solutions. It is found that, in general, plane stress conditions
+prevail at a distance from the crack front exceeding half the plate thickness, although it could
+be slightly smaller for mode II predominant loading. The implications of the 3D stress distribution
+on micro-void growth near the crack front are briefly discussed.

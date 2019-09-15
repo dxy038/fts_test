@@ -1,0 +1,7 @@
+The objective of this work is to understand the impact of biodiesel chemical structure, specifically fatty acid composition on particulate matter formation, particularly on the retention of hydrocarbons by soot due to the scrubbing effect and absorption processes.
+
+cal diesel fuel supplied in petrol stations, two biofuels composed of methyl esters from the transesterification process of waste oils with different origins and some blends of biofuels with the reference fuel were tested in a commercial direct injection engine reproducing five modes of the European transient urban/extraurban certification cycle.
+
+lues of parameters related to the scrubbing effect and the absorption process were evaluated and fitted using neural networks (NNs). Simulation from NNs equations proves that in the case of tested fuels, the amount of palmitic acid methyl ester (PME) is the main factor affecting the amount of soluble material retained due to scrubbing. PME produces a lower amount of particulates, which reduces the agglomeration process and increases their specific surface. It is also proved that sulphur in sulphates (well known to be responsible for the scrubbing effect) must mainly come from the oil lube since the use of biofuels and their mixtures eliminates or significantly reduces sulphur concentration in the fuel, respectively. Condensation onto the particles due to inadequate vaporization and significant unburned biofuel must also be considered.
+
+sorption process during particle formation was found to be negligible when biofuels were tested.

@@ -1,0 +1,11 @@
+Objective. The purpose of this study was to evaluate different methods of estimating the body segment parameters and different methods of partitioning the trunk in order to reduce errors in the inverse dynamic analysis of lifting tasks.
+
+Design. The same data set was used to evaluate moment errors associated to five linked models differing by the way the trunk was modelled.
+
+Background. The inverse dynamic analysis of complex lifting tasks involving significant lower limb displacements requires the use of upper body linked models. However, the estimation of the body segment parameters of trunk segments and the flexible properties of the trunk can lead to errors when using this modelling approach.
+
+Methods. Twenty-one male subjects performed four lifting tasks. Five cameras, two force platforms and a dynamometric box provided inputs to five tridimensional (3D) dynamic linked models. Three modelling parameters of the trunk were tested in these models: (1) the use of a geometric or a proportional anthropometric model to estimate the body segment parameters of the trunk, (2) the location of the antero–posterior position of the centre of mass of the trunk segments (at a percentage of the trunk depth vs on a line between hips and shoulders), and (3) the partitioning of the trunk in two or three segments. The behavior of these linked models was assessed with three different error analyses.
+
+Results. The results revealed that all three modelling parameters of the trunk can reduce moment errors, especially when applied to subjects characterized by a larger abdomen.
+
+Conclusions. The inverse dynamic analysis of lifting tasks using an upper body modelling approach should take into consideration the interindividual variability inherent to the trunk morphology and non-rigidity.

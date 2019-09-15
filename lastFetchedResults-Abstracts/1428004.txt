@@ -1,0 +1,8 @@
+Background
+r disorder (BD) and major depressive disorder (MDD) have distinct pathophysiologies but similar depressive appearances. The present study aimed at the differentiation of the brain responses between BD and MDD patients. We hypothesized that different affective disorder patients may have distinct patterns of oscillatory cortical activities in response to negative emotional stimuli.
+s
+ BD patients, twenty MDD patients, and twenty age- and gender-matched healthy normal subjects were recruited. We adopted an implicit emotional task with facial image stimuli. The acquired event-related magnetoencephalographic signals were processed by the time-frequency analysis and beamformer-based source imaging techniques followed by statistical inference.
+s
+nd that there were gamma oscillation decreases in the frontal regions of both BD and MDD patients, gamma oscillation increases in the bilateral temporal regions of MDD, and alpha-beta rhythm increases in BD patients. Relative to the cortical activation in the control group, the BD patients displayed more widely increased oscillatory activities over the fronto-parieto-occipital regions than MDD patients.
+sions
+sults demonstrate the distinct neuropathological patterns of emotional responses in BD and MDD patients. The findings suggest that the dysfunction of emotion regulation in BD may result from the increased sensitivity to emotionally salient information, implicating the potential cause of the emotion lability. The present study also suggests that the implicit emotional task is an effective approach to differentiate bipolar from unipolar disorders and their distinct neuropathological patterns to emotional stimuli may provide objective and quantitative measures for potential diagnostic significance.

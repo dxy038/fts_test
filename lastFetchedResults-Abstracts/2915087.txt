@@ -1,0 +1,1 @@
+The genetic algorithm (GA) is a comparatively recent addition to methods of optimization suitable for engineering design. The algorithm uses the principle of natural selection/survival of the fittest to improve a stochastically generated initial population of designs. The author discusses the representation of design data, the objective function and the design constraint

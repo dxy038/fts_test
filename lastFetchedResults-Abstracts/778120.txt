@@ -1,0 +1,20 @@
+Determination of the optimal location and
+capacity HV/MV substation in a scheduled program can
+be to reducing overall costs including the fixed costs
+(land cost, construction cost, equipment purchase cost,
+and installation cost) and variable costs (energy losses
+cost and power losses cost). This paper presents a
+different approach to determining optimal location and
+capacity HV/MV substation. For that reason the
+multiobjective function is formulated for solving problem
+so that the multiple objective functions has become a
+common objective function by using weighting method
+of Analytical Hierarchy Process. The solution method is
+based on analyzing a non-linear optimization problem
+and branch and bound algorithm is used to determine the
+optimal response. In order to evaluate the performance of
+the proposed algorithm, the distribution network has been
+studied in Dezful city. The results of simulation using
+Matlab software show effectiveness the proposed
+approach to reduce costs and determine the optimal
+capacity of HV/MV substation.

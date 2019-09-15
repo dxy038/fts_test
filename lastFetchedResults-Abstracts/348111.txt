@@ -1,0 +1,11 @@
+Objective
+To develop a single trial motor imagery (MI) classification strategy for the brain–computer interface (BCI) applications by using time–frequency synthesis approach to accommodate the individual difference, and using the spatial patterns derived from electroencephalogram (EEG) rhythmic components as the feature description.
+Methods
+The EEGs are decomposed into a series of frequency bands, and the instantaneous power is represented by the envelop of oscillatory activity, which forms the spatial patterns for a given electrode montage at a time–frequency grid. Time–frequency weights determined by training process are used to synthesize the contributions from the time–frequency domains.
+Results
+The present method was tested in nine human subjects performing left or right hand movement imagery tasks. The overall classification accuracies for nine human subjects were about 80% in the 10-fold cross-validation, without rejecting any trials from the dataset. The loci of MI activity were shown in the spatial topography of differential-mode patterns over the sensorimotor area.
+Conclusions
+The present method does not contain a priori subject-dependent parameters, and is computationally efficient. The testing results are promising considering the fact that no trials are excluded due to noise or artifact.
+Significance
+The present method promises to provide a useful alternative as a general purpose classification procedure for MI classification.
+

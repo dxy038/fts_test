@@ -1,0 +1,11 @@
+Objective
+We generated cytomegalovirus (CMV)-specific cytotoxic T lymphocytes (CTL) in vitro using dendritic cells (DC) pulsed with crude CMV antigens (Ag).
+Materials and Methods
+
+Mononuclear cells from healthy CMV-seropositive or seronegative volunteers and from stem cell transplant (SCT) recipients were cultured with CD14+ monocyte-derived DC prepulsed with CMV Ag and then matured in vitro with lipopolysaccharide and tumor necrosis factor-α. After proliferation, cells were checked for phenotype (CD4/CD8), while killing activity was measured by 51Cr-release assay.
+Results
+
+CD4+ T cells, the main proliferating cells from both seropositive and seronegative individuals, killed autologous Ag-pulsed DC but not vehicle-pulsed autologous DC or CMV-pulsed allogeneic DC. Similar CTL induction was accomplished from SCT recipients. Significant killing of autologous CMV-infected fibroblasts required 16-hour incubation as opposed to the standard 4-hour incubation, which was prevented by either a perforin inhibitor or anti-Fas ligand monoclonal antibody. CTL enhanced surface HLA-DR expression of CMV-infected fibroblasts, and their activity was neutralized by anti–HLA-DR monoclonal antibody.
+Conclusions
+
+CMV-specific CD4+ CTL were inducible with or without antiviral humoral immunity, even from immunosuppressed SCT recipients. These CTL showed perforin- and Fas/Fas ligand-mediated cytotoxicity after long-term (16-hour) contact with CMV-infected targets.

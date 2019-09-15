@@ -1,0 +1,11 @@
+Supply chain management is concerned with the coordination of material and information flows in
+multi-stage production systems. A closer look at the literature reveals that previous research on the coordination
+of multi-stage production systems has predominantly focused on the sales side of the supply
+chain, whereas problems that arise on the supply side have often been neglected. This article closes this
+gap by studying the coordination of a supplier network in an integrated inventory model. Specifically, we
+consider a buyer sourcing a product from heterogeneous suppliers and tackle both the supplier selection
+and lot size decision with the objective to minimise total system costs. First, we provide mathematical
+formulations for the problem under study, and then suggest a two-stage solution procedure to derive
+a solution. Numerical studies indicate that our solution procedure reduces the total number of supplier
+combinations that have to be tested for optimality, and that it may support initiatives which aim on
+increasing the efficiency of the supply chain as a heuristic planning tool.

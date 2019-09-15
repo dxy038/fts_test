@@ -1,0 +1,11 @@
+Objective
+To determine the source localization(s) of the midlatency auditory magnetic response M50, the equivalent of the P50 potential, a sleep state-dependent waveform known to habituate to repetitive stimulation.
+Methods
+We used a paired stimulus paradigm at interstimulus intervals of 250, 500 and 1000 ms, and magnetoencephalographic (MEG) recordings were subjected to computational methods for current density reconstruction, blind source separation, time–frequency analysis, and data visualization to characterize evoked dynamics.
+Results
+Each subject showed localization of a source for primary auditory evoked responses in the region of the auditory cortex, usually at a 20–30 ms latency. However, responses at 40–70 ms latency that also decreased following the second stimulus of a pair were not localizable to the auditory cortex, rather showing multiple sources usually including the frontal lobes.
+Conclusions
+The M50 response, which shows habituation to repetitive stimulation, was not localized to the auditory cortex, but showed multiple sources including frontal lobes.
+Significance
+These MEG results suggest that sources for the M50 response may represent non-auditory, perhaps arousal-related, diffuse projections to the cortex.
+

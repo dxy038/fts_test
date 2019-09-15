@@ -1,0 +1,8 @@
+This paper describes a procedure for deriving norm-bounded output-multiplicative uncertainty descriptions for a multi-input
+multi-output system by matching the output of an uncertainty model to the outputs of a set of known models. It is assumed that the
+set of models has been obtained through system identification. The objective is to determine the least conservative uncertainty
+description such that all known experimental data can be reconstructed by the uncertainty model. Both unstructured and diagonal
+uncertainty are considered as well as various structures of the uncertainty weight matrix. For the case with no a priori information,
+it is shown that a nonconservative uncertainty description can be obtained by minimizing the magnitude of the determinant of the
+uncertainty weight matrix subject to the output-matching condition. The procedure is illustrated by estimation of uncertainty
+weights and design of  -optimal controllers for a distillation column.

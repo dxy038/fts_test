@@ -1,0 +1,11 @@
+Objective
+Results of previous studies have suggested that tipifarnib (Zarnestra), a farnesyltransferase inhibitor, is useful for treating various hematological disorders, including chronic myeloid leukemia. However, acquisition of resistance may be a problem for patients being treated with tipifarnib.
+Methods
+
+We generated a tipifarnib-resistant BCR/ABL-positive cell line, K562/RR, and examined its characteristics.
+Results
+
+While levels of cleaved caspase-3, cleaved caspase-7, cleaved caspase-9, and cleaved poly (ADP-ribose) polymerase were significantly increased in K562 cells, the levels were not changed in K562/RR cells with tipifarnib treatment, indicating that induction of apoptosis signaling mediated by tipifarnib is much less in K562/RR cells than in K562 cells. In addition, tipifarnib-mediated induction of cell-cycle blockage was abrogated in K562/RR cells. No mutation of farnesyltransferase α and β genes was found and the level of unprocessed HDJ-2, which is a substrate of farnesyltransferase, was increased by tipifarnib treatment in K562/RR cells, suggesting that tipifarnib inhibits protein farnesylation in K562/RR cells in the same manner as in K562 cells and that mechanisms independent of farnesyltransferase activity are involved in the acquisition of resistance to tipifarnib in these cells. By DNA microarray analyses using a cDNA microarray comprising 25,000 genes, we identified 5 genes with higher expression levels in K562/RR cells than in K562 cells. These genes include β-globin, calcium channel Caveolin 2, and FEN1, which is involved in DNA replication and repair, and CUGBP2, which may affect expression of cyclooxygenase 2.
+Conclusion
+
+The results of this study provide useful information for clarification of the mechanisms of resistance to tipifarnib.

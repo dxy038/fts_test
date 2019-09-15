@@ -1,0 +1,11 @@
+Objective
+Cyclosporin A (CsA), effective in prophylaxis and treatment of graft-vs-host disease (GVHD) after human allogeneic transplantation, blunts T-cell responses by inhibiting nuclear factor of activated T cells–1 (NFAT1) activation. This laboratory has shown that NFAT1 protein expression is severely reduced in human UCB (umbilical cord blood) T cells. Since UCB is increasingly used as a hematopoietic stem cell source in allogeneic transplantation, it is important to determine whether CsA sensitivity in UCB differs from that of adult T cells.
+Methods
+
+Surface flow cytometric analysis, intracellular cytokine staining, flow cytometric analysis of cell death, and thymidine incorporation were used in this study to determine T-cell activation and effector functions during primary and secondary stimulation in the presence of CsA.
+Results
+
+Although we observed differential CsA sensitivity of T-cell activation marker (CD69, CD45RO, CD25) upregulation comparing UCB and adult, we did not observe any significant difference in CsA sensitivity of T-cell effector functions. Importantly, we observed reduced IFN-γ and TNF-α expression in UCB T cells both in primary and secondary stimulation, as well as increased rates of activation-induced cell death (AICD).
+Conclusion
+
+Thus, our studies do not support the previous hypothesis that reduced GVHD observed after UCB transplantation is attributable to increased CsA sensitivity of UCB T cells. Rather, reduced UCB T-cell cytokine production and increased AICD may be important cellular mechanisms underlying these favorable rates of GVHD in UCB transplant recipients.

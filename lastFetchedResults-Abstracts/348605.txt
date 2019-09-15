@@ -1,0 +1,11 @@
+Objective
+Aim of this study was to investigate whether paired pulse transcranial magnetic stimulation (ppTMS) applied over the medial frontal cortex (MFC) affects acute Aδ fiber-mediated electrically induced pain. In addition, we investigated whether this effect depends on the time course of the stimulation, on the noxious stimulus intensity or on the ppTMS intensity.
+Methods
+For painful stimulation, the electrical stimulus for the nociceptive flexion reflex (NFR) was used. PpTMS (ISI: 50 ms) was applied over the medial frontal cortex at different intervals ranging from 0 to 1000 ms following the previous elicited NFR in 10 healthy volunteers. Three sequences at 3 different NFR stimulus intensities (at NFR threshold, 1.3× and 1.6×NFR threshold) with a ppTMS stimulus intensity at 1.2×resting motor threshold (RMT) and one sequence with elevated ppTMS at 1.6×RMT stimulus intensity were performed. Pain intensity and pain unpleasantness were assessed by visual analogue scales.
+Results
+Pain ratings differed in dependence of the interstimulus interval between NFR and ppTMS. Post-hoc t-tests revealed an increased verbal pain report within interstimulus intervals from 25 to 75 ms at NFR threshold as well as for 25 ms at 1.3×NFR threshold when ppTMS was applied at 1.2×RMT and from 0 to 75 ms at 1.6×NFR threshold when ppTMS was applied at 1.6×RMT.
+Conclusions
+The present data suggest that ppTMS over MFC—applied in a certain time window—can enhance pain perception of acute Aδ fiber-mediated electrically induced pain. We hypothesize that the increase of pain is due to interference between ppTMS and the incoming nociceptive input. Further pain processing might be modulated by direct effects on MFC or indirect effects on anterior cingulate cortex (ACC) or spinal nociception.
+Significance
+Brain areas involved in cognitive and emotional adaptation to pain can be used, in place of primary motor areas, as cortical targets in TMS trials of experimental or ongoing pain.
+

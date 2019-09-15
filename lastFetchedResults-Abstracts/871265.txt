@@ -1,0 +1,11 @@
+In this paper we study infinite horizon convex problems of Lagrange in which
+hereditary effects in the state are present. The objective functional in these
+problems is an improper integral defined over the time interval w0,q`.. Dictated
+by applications arising in mathematical economics we do not assume a priori that
+these improper integrals converge and therefore we consider overtaking optimal
+solutions. This concept arose in the economics literature in the 1960s. We extend
+known results for the analogous nondelay problem providing sufficient conditions
+for the existence of an overtaking optimal solution. Our proof rests on the
+assumption that a particular delay differential inclusion enjoys a strong asymptotic
+stability property called property S... Examples are given to indicate the applicability
+of these results.

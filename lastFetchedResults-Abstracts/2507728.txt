@@ -1,0 +1,19 @@
+Background: Whispering gallery modes (WGM) biosensors are ultrasensitive
+systems that can measure amount of adsorbed layer onto the micro-cavity surface.
+They have many applications including protein, peptide growth, DNA and bacteria
+detection, molecular properties measurements and specific interaction and drug table
+recognitions due to their high sensitivity, compact size and label free sensing mechanism.
+Objective: In this paper we investigate the effect of buffer solution on detection
+of specific biomolecules in WGM biosensors through its refractive index change.
+Method: The propagation of electromagnetic waves in a dielectric microsphere is
+analyzed by solving Maxwell’s equations through proper boundary condition to find
+a concise relation for micro-cavity resonance shift.
+Results: Analysis of the buffer solution’s refractive index effects on detection
+of BSA by WGM biosensors are presented and it was shown that even a very small
+change in the refractive index of buffer solution can affect the biosensor wavelength
+shift and the sensitivity of biosensors.
+Conclusion: This study opens up a discussion in biosensor sensitivity based on
+true and reliable performance of the buffer solution through its accurate determination
+of refractive index and behavior.To avoid expensive methods of enhancing sensitivity,
+one can improve the sensitivity of WGM biosensor to some extent, by means
+of using proper buffer solution.

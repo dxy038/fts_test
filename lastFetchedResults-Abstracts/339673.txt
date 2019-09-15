@@ -1,0 +1,11 @@
+Objective
+The roles of phosphatidylinositol 3 (PI3K) and mitogen-activated protein kinases (MAPK) have been widely studied in terms of the differentiation process induced by several drugs (phorbol ester, vitamin D-3, retinoic acid, etc.), but their exact functions in leukemic cells' phenotype and their potential therapeutic role remain incompletely clarified.
+Materials and Methods
+
+In order to investigate this query, leukemia cells were cultured in presence of kinase inhibitors (KIs). Proliferation, apoptosis, and differentiation were analyzed at the cellular and molecular levels, using flow cytometry and reverse transcriptase quantitative polymerase chain reaction.
+Results
+
+SB203580, a P38 MAPK inhibitor, had no effect on cell proliferation, whereas LY294002, a PI3K inhibitor, and PD098059, a selective inhibitor of mitogen-activated extracellular regulated kinase (MEK) phosphorylation, arrested cells in G0/G1. However, LY294002 and PD098059 acted using different mechanisms: LY294002 decreased the expression of phosphorylated S6RP, whereas PD098059 increased P21/waf1 antigen expression. SP600125, an inhibitor of N-terminal c-jun kinases, arrested cells in G2 and induced an endoreplicative process. SP600125 increased p21 at both the mRNA and protein levels. G2 blockage is dependent on the PI3K pathway and the endoreplicative process is dependent on the PI3K and extracellular regulated kinase (ERK) pathways and mRNA synthesis. On the other hand, PD098059 potentiated the apoptotic process induced by either SP600125 or LY294002. Modulation of the expression of CD11, CD15, CD18, and CD54 was cell-dependent.
+Conclusion
+
+Our results suggest that KIs modulate proliferation of leukemia cells and that the MEK/ERK inhibitor, PD098059, in combination with either SP600125 or LY294002, could have clinical value.

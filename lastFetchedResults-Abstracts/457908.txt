@@ -1,0 +1,9 @@
+Objective
+C-reactive protein (CRP) gene variation, in particular an rs2794521 variant was recently associated with type 2 diabetes mellitus (T2DM) in Pima Indians.
+Research design and methods
+The present investigation was conducted to replicate this previous association, and to further examine the potential association of a set of common CRP gene variants with the prevalence of T2DM in a case–control investigation. A total of 629 T2DM cases (476 Whites, and 153 Blacks), and 579 controls (481 Whites, and 98 Blacks) were examined. Seven CRP variants were evaluated: rs3093059, rs2794521, rs3091244, rs1417938, rs1800947, rs1130864, and rs1205.
+Results
+Using a marker-by-marker logistic regression analysis, adjusting for age, smoking, gender, and body mass index, we found an association of rs3093059 (recessive: OR, 7.01; 95% CI, 1.16–42.22; p = 0.03) with T2DM in the white study population, and an association, albeit not statistically significant, of rs2794521 with T2DM in the Black study population. Moreover, further analysis using a haplotype-based analysis showed no evidence for an association of the haplotypes tested with T2DM.
+Conclusion
+Further studies are needed to examine the possible involvement of C-reactive protein gene variation in the pathogenesis of type 2 diabetes mellitus.
+

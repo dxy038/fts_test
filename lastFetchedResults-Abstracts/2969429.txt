@@ -1,0 +1,1 @@
+Demonstration of a new all-optical space switch, with separate in- and output ports for the data- and control-signal. At 10 GHz the crosstalk between copropagating data- and control-signal exceeds 20 dB, making the device interesting for future cascadation and bidirectional operation on a single chip

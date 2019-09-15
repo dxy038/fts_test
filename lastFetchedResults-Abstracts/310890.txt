@@ -1,0 +1,11 @@
+Objective. To validate the approach of using angular velocity vectors to quantify internal–external rotation of the humerus.
+
+Design. An experimental approach was used to compare predictions of internal–external rotation of the humerus based on angular velocity vectors, and known measurements of internal–external rotation.
+
+Background. A primary concern associated with description of glenohumeral biomechanics is measurement of internal–external rotation of the humerus. Euler angles are often used, yet they do not address problems such as Codman's paradox and ‘gimbal lock'. Previous work has presented a technique that uses angular velocity vectors to quantify internal–external rotation instead of Euler angles. This approach is promising with regard to providing an independent measure of internal–external rotation of the humerus, and requires validation for subsequent use on humans.
+
+Methods. A gimbal with three axes of rotation that simulated the rotational d.o.f. of the humerus relative to the glenoid was developed and used to validate the use of angular velocity vectors to quantify internal–external rotation of the humeral shaft portion of the gimbal.
+
+Results. Correlations between calculated and measured rotation values revealed R2 values of 0.99, slopes at diagonal (1.0), and y-intercepts near zero (−0.6°).
+
+Conclusions. The expression developed here is a valid and useful method for measuring motion of the humerus relative to the glenoid.

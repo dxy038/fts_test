@@ -1,0 +1,11 @@
+Objective
+The long-term transfection of genes into primary natural killer (NK) cells without disrupting normal cellular functions has been proven to be difficult with currently available gene-transfer methods. In this study, we establish a lentiviral vector-based technique for improved gene transfer into human NK cells in vitro and we report on high-efficient transduction of freshly isolated as well as cultured primary NK cells.
+Methods
+
+Freshly isolated or primary cultured human NK cells, as well as the human NK cell line YTS, were transduced with replication-incompetent human immunodeficiency virus (HIV)-based lentiviral vector bearing a GFP reporter gene or a gene of interest under the control of the elongation factor 1α (EF1α) promoter. Transduction efficiencies were monitored by flow cytometry.
+Results
+
+A long-term transgene expression was detected in up to 98% of YTS NK cells, whereas in freshly isolated or primary cultured NK cells exposed to interleukin (IL)-2 plus IL-12 upon infection, efficiency was in the range of 50% to 90%. Moreover, in freshly isolated quiescent NK cells a transfection efficiency of 18% to 20% was achieved without stimulation. Notably, no major phenotypic and functional modifications were observed in transduced cells with respect to control cells: the expression levels of activating receptors, CD69-antigen induction as well as cytotoxic function were unaffected.
+Conclusion
+
+Results of our study demonstrate that NK cells can be efficiently transduced by lentiviral vectors.

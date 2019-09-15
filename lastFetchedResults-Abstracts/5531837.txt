@@ -1,0 +1,1 @@
+Two results for multivalued switch-level algebra (MSA) are presented. The first is the use of MSA to describe the bidirectional switching function of MOS transistors and, thereby, to analyze binary MOS bridge circuits. The second is the use of MSA to describe the function of capacitors and, thereby, to analyze binary MOS dynamic circuits

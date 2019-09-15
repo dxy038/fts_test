@@ -1,0 +1,9 @@
+Objective
+To examine the development of subjective symptoms and heart rate variability (HRV) during motion sickness induced by virtual reality (VR).
+Methods
+Subjects were 10 healthy young volunteers. During VR immersion, subjects were immersed in a visual–vestibular conflict produced by VR. The levels of the subjective symptoms were assessed by Graybiel's and Hamilton's criteria. HRV was determined by measuring microvascular blood flow or electrocardiogram.
+Results
+Subjective symptoms evaluated by Graybiel's and Hamilton's criteria were gradually worsened during VR. Power spectrum analysis of HRV demonstrated a gradual increase in the low frequency but no change in the high frequency during VR. In this study, individual subjective symptoms were not correlated with the individual result of power spectrum analysis.
+Conclusion
+These findings indicate that there was an increase in sympathetic nervous activity, but no change in parasympathetic nervous activity during motion sickness induced by VR. Given the large inter-individual variability and the reliability of subjective measures, it is not surprising that there is scarcely a relation between the subjective symptoms and the results of power spectrum analysis.
+

@@ -1,0 +1,11 @@
+Increasing population, diminishing supplies and variable climatic conditions can cause difficulties in meeting water demands; especially in
+arid regions where water resources are limited. Given the complexity of the system and the interactions among users and supplies, a large-scale
+water supply management model can be useful for decision makers to plan water management strategies to cope with future water demand
+changes. It can also assist in deriving agreement between competing water needs, consensus and buy-in among users of a proposed longterm
+water supply plans. The objective of this paper is to present such a general water supply planning tool that is comprised of modular
+components including water sources, users, recharge facilities, and water and wastewater treatment plants. The model is developed in a system
+dynamics simulation environment that helps users easily understand the model structure. The model was applied to a realistic hypothetical
+system and simulated several possible 20-year planning scenarios. In addition to water balances and water quality analyses, construction and
+operation and maintenance of system components costs were estimated for each scenario. One set of results demonstrates that construction
+of small-cluster decentralized wastewater treatment system could be more economical than a centralized plant when communities are spatially
+scattered or located at steep areas where pumping costs may be prohibitive.

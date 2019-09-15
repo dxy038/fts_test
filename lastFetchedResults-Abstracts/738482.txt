@@ -1,0 +1,12 @@
+Generally, the ground is compressed by natural stresses. Any disturbance such as tunneling, changes
+the stress distribution and causes some deformations. If such displacements exceed threshold
+values, they will sometimes develop important problems related to serviceability of the buildings
+on surface and subsurface structures.
+This paper includes comprehensive investigations and analysis using a finite element software
+named Plaxis. The objective of this paper is to study the relationship between deformations and
+ground surface settlements by means of parameters like soil density, elastic modulus, tunnel diameter
+and depth of tunnel axis. According to the results, it is observed that these parameters have
+significant effects. It also shows that to what extent these parameters affect the soil behavior. Also
+by estimating surface settlements of the second line of City of Tabriz subway in the location of
+BH-10 borehole, it can be concluded that ground surface settlements, to a large extent, are dependent
+on contraction, as a significant parameter.

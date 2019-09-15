@@ -1,0 +1,1 @@
+This correspondence describes simple queueing models for a magnetic bubble memory chip organization. Some of the unique features of bubble memories are outlined. The performance improvement due to bidirectional shifting is modeled as a function of program locality.

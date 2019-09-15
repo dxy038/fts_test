@@ -1,0 +1,8 @@
+Objective
+m of this study was to pilot test a screening approach to detect potential look-alike, sound-alike (LASA) errors in pediatric outpatient prescriptions.
+
+id pharmacy claims from one state were reviewed. From a list of LASA drug pairs, we identified candidate pairs meeting the following criteria: 1) one drug was commonly prescribed in children; 2) the paired drug was uncommonly prescribed for children; and 3) both drugs were available as oral preparations only, resulting in 11 LASA pairs. We identified patients who usually received one drug in a pair, then presented with a first dispensing of the paired drug, representing a “screening alert” for potential LASA error. We determined a “true error” as any patient who triggered a screening alert, received only one dispensing of the paired drug in the subsequent 6 months, and had no diagnoses supporting the dispensing of the paired drug.
+s
+the 22 test drugs, there were 1 420 091 prescriptions to 173 005 subjects. There were 395 screening alerts generated, representing a screening alert frequency of 0.28 screening alerts per 1000 prescriptions. We identified 43 true LASA errors. In the dataset, the overall LASA error rate is estimated to be approximately 0.00003%, or 0.03 LASA errors per 1000 prescriptions.
+sion
+iption dispensing patterns can be used to screen for LASA errors in pediatric prescriptions. The rates of pediatric LASA errors appear to be much lower than other types of pediatric medication errors and may be best addressed by automated processes.

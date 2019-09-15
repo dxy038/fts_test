@@ -1,0 +1,11 @@
+Objective
+This study investigated the effectiveness of an ERP-compatible Digit Span Backward (ERP-DB) task to determine working memory abilities in healthy participants.
+Methods
+Participants were administered both the standard digit span backward and ERP-DB tasks. The ERP-DB task was divided into two sections, consisting of 2, 4, 6 and 8 (Group 1) and 3, 5, and 7 (Group 2) set sizes. A set of digits was aurally presented, followed by a second set that either corresponded to the reverse order of the first set (correct condition) or had one digit in the sequence replaced by an incorrect digit (incorrect condition).
+Results
+Two posterior positive components were found to distinguish the two conditions; an earlier positive component (P200/P300) was elicited in the correct condition, whereas a comparatively robust and prolonged positive slow wave (PSW) was elicited in the incorrect condition. Furthermore, the PSW and the difference in PSW amplitude between incorrect and correct conditions (dPSW) dissipated as working memory load increased and were related to working memory capacity.
+Conclusions
+The PSW, dPSW and P200/P300 components were found to be associated with working memory abilities and may have the potential to act as neurophysiological markers for the assessment of working memory capacity.
+Significance
+This research lends support for the utility of the ERP-DB task as a means of assessing working memory abilities, which may have implications for testing patients with expressive communication impairments.
+

@@ -1,0 +1,16 @@
+Objective: Our objective was to determine how patient demographics and outpatient referrals to
+specialized dementia (DEM) or mental health (MH) clinics influence receipt of anti-dementia (AD),
+antidepressant (ADEP), antipsychotic (APSY) and sedative-hypnotic (SEDH) medications among veterans with
+dementia. Design: Retrospective, cross-sectional observational study. Setting: Veterans Affairs Maryland Health
+Care System (VAMHCS). Participants: Veterans aged ≥ 60 years with Alzheimer’s or related dementia
+diagnosis after 1999 with minimum of one-year follow- up or death were included. Measurements: Retrospective
+analysis of VAMHCS electronic medical records were used to determine predictors of AD, ADEP, APSY, and
+SEDH prescribing using logistic regression models that examined visits to DEM or MH clinics, patient age,
+follow-up time, race/ethnicity and marital status. Results: Among 1209 veterans with average follow-up of 3.2
+(SD 1.9) years, 36% percent had MH visits, 38% had DEM visits and 19% visited both clinics. DEM visits were
+associated with AD and ADEP but not APSY medication receipt (OR(AD:DEM) = 1.47, 95% CI = (1.052,
+2.051); OR(ADEP:DEM) = 1.66, 95% CI = (1.193, 2.302); OR(APSY:DEM) = 1.35, 95% CI = (0.941, 1.929)).
+MH visit was associated with ADEP and APSY medication receipt (OR(AD:MH)\ = 1.16, 95% CI = (0.821,
+1.631); OR(ADEP:MH) = 2.83, 95% CI = (2.005, 4.005); OR (APSY:MH) = 4.41, 95% CI = (3.109, 6.255)).
+Conclusion: In the VAMHCS dementia population, visits to DEM or MH specialty clinics increase the odds of
+receiving AD, ADEP, and APSY medications.

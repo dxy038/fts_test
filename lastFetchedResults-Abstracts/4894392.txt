@@ -1,0 +1,1 @@
+This paper presents a systematic procedure of designing fuzzy controllers for a class of nonlinear systems. The main scheme is to reduce the nonlinear model to a linear model by introducing a reference signal or model, and then design a controller to satisfy the desired control objective by means of Popov´s hyperstability theory

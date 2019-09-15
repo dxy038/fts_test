@@ -1,0 +1,11 @@
+An analytical approach for the economical evaluation and optimization of absorption and an ejector cooling cycle is
+presented. The f –   / chart method is used here to correlate the basic design parameters of the solar system with the
+system cooling cycle performance. The optimization is carried out by using the life cycle cost savings function as the
+objective function. This function is expressed in terms of the capital cost and the operating cost, the later expressed in
+terms of the solar fraction f . The optimization is carried out for a lithium-bromide chiller and an ejector cooling cycle
+with R11 as working fluid. A numerical example is presented to compare the optimum bound regions for both cycles, in
+terms of the capital costs respective to each system. The Carnot cycle limit is also determined. Upper bounds for
+economical feasibility in terms of the costs of the auxiliary energy and electric energy are also set down. The design
+approach presented here is convenient to determine the optimum conditions in terms of the monthly means of the
+global radiation incident on a horizontal surface.
+  2003 Elsevier Ltd. All rights reserved.

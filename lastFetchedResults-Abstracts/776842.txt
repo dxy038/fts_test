@@ -1,0 +1,13 @@
+The objective of this study is to perform an economic analysis of the daylight-linked automatic on/off lighting control system installed
+for the purpose of energy savings in office buildings. For this, a building was chosen as a typical example, and the energy cost was calculated
+by using the daylight and building energy analysis simulation. When the lighting control was utilized, an economic analysis was
+performed using a payback period that was calculated by comparing the initial cost of installing the lighting control system with the
+annual energy cost which was reduced thanks to the application of the lighting control.
+The results showed that the lighting energy consumption, when the lighting control was applied, was reduced by an average of 30.5%
+compared with the case that there was not lighting control applied. Also, the result for total energy consumption showed that, when
+lighting control was applied, this was reduced by 8.5% when the glazing ratio was 100%, 8.2% for 80%, and 7.6% for 60% when compared
+to non-application. The payback period was analyzed in terms of the number of floors in a building; 10 floors, 20 floors, 30 floors, and 40
+floors. Hence, the building with 40 floors and glazing ratio 100% resulted in the shortest payback period of 8.8 years, the building with 10
+floors and glazing ratio 60% resulted in the longest period of 12.7 years. In other words, the larger the glazing ratio and the number of
+building floors are, the shorter the payback period is.
+Crown Copyright   2010 Published by Elsevier Ltd. All rights reserved.

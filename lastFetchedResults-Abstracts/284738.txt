@@ -1,0 +1,14 @@
+Objectives
+The objective of this study was to evaluate broad-beam spectral Doppler sonification of the vena contracta using a matrix-array transducer for quantification of mitral regurgitation (MR).
+Background
+
+Noninvasive assessment of the severity of valvular regurgitation remains challenging. A recent technique measures regurgitant flow directly at the vena contracta based on the product of velocity times backscattered Doppler power (proportional to orifice area). That approach, however, has been limited by relatively narrow conventional beamwidths. Matrix-array transducers, recently developed for three-dimensional imaging, can potentially provide broader beams. Therefore, we addressed the hypothesis that deliberate broadening of the Doppler beam can encompass larger regurgitant cross-sectional areas to capture a broader range of regurgitant flows.
+Methods
+
+A matrix-array transducer system was modified to provide a three-dimensionally expanded spectral Doppler sample volume. Calculations of orifice area, flow rate, and regurgitant stroke volume (RSV) from Doppler power were automated on board a routinely used echocardiographic scanner and tested in vitro. In 24 patients with isolated MR, RSV was compared with magnetic resonance imaging (MRI) mitral inflow minus aortic outflow from phase-velocity maps.
+Results
+
+The calculated flow rate and RSV correlated and agreed well with reference values in vitro (r = 0.98 to 0.99) and in patients (r = 0.93, mean difference 0.4 ± 3.2 ml, p = NS vs. 0), with sufficient sonification to measure flow orifices up to 0.85 cm in diameter. Agreement with MRI was comparable in 17 patients with central and seven with eccentric jets (p = NS vs. 0).
+Conclusions
+
+The broad-beam spectral Doppler technique provides accurate, largely automated quantification of regurgitant flow rate and integrated RSV directly at the lesion. The accuracy related to broader sonification is made possible by the new matrix-array transducer design.

@@ -1,0 +1,1 @@
+We consider the preemptive offline version of the problem "two parallel machines scheduling where one machine is periodically unavailable with non-preemptive jobs and the objective of minimizing the makespan." We propose a polynomial algorithm with time complexity O(n log n) based on the well-known McNaughton\´ Wrap-Around rule for the considered problem.

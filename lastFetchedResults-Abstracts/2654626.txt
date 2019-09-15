@@ -1,0 +1,16 @@
+In the context of public transportation system, improving the service quality and
+robustness through minimizing the average passengers waiting time is a real
+challenge. This study provides robust stochastic programming models for train
+timetabling problem in urban rail transit systems. The objective is the minimization
+of the weighted summation of the expected cost of passenger waiting time, its
+variance and the penalty function including the capacity violation due to
+overcrowding. In the proposed formulations, the dynamic and uncertain travel
+demand is represented by the scenario-based multi-period arrival rates of passenger.
+Two versions of the robust stochastic programming models are developed and a
+comparative analysis is conducted to testify the tractability of the models. The
+effectiveness of the proposed stochastic programming model was demonstrated
+through the application to Tehran underground urban railway. The outcomes show
+the reductions in expected passenger waiting time of22%, and cost variance drop of
+60% compared with the baseline plans using the proposed robust optimization
+approach. 
+

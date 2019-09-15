@@ -1,0 +1,1 @@
+An electronic system has been developed to evaluate serial multiplexing protocols which utilize synchronously clocked data bits on a bidirectional line. The architecture of the system is assumed to be implemented in a master controller-slave controller(s) form. The controllers are microprocessor-based and utilize EPROM storage for easy modification of the control programs.

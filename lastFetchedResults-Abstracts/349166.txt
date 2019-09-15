@@ -1,0 +1,11 @@
+Objective
+To study differences in the long-term after-effect between high-frequency, monophasic and biphasic repetitive transcranial magnetic stimulation (rTMS).
+Methods
+Ten hertz rTMS was delivered over the left primary motor cortex and motor evoked potentials (MEPs) were recorded from the right first dorsal interosseous muscle. To probe motor cortex excitability we recorded MEPs at several timings before, during and after several types of conditioning rTMSs. We also recorded F-waves to probe spinal excitability changes. Thousand pulses were given in total, with a train of 10 Hz, 100 pulses delivered every minute (ten trains for 10 min). The intensity was fixed at 90% active motor threshold (AMT) or 90% resting motor threshold (RMT) for both monophasic and biphasic rTMS. In addition, we performed a monophasic rTMS experiment using a fixed intensity of 90% RMT for biphasic pulses.
+Results
+At 90% AMT, MEPs were enhanced for a few minutes after both monophasic and biphasic rTMS. On the other hand, at 90% RMT, a larger and longer enhancement of MEPs was evoked after monophasic rTMS than after biphasic rTMS. Monophasic rTMS at an intensity adjusted to biphasic 90% RMT elicited a great enhancement similar to that after monophasic rTMS at monophasic 90% RMT. Neither F-wave amplitude nor its occurrence rate was significantly altered by 90% RMT monophasic rTMS.
+Conclusions
+These results suggest that enhancement after rTMS occurs at the motor cortex. Monophasic rTMS has a stronger after-effect on motor cortical excitability than biphasic rTMS. This is probably because monophasic pulses preferentially activate a relatively uniform population of neurons oriented in the same direction and their effects summate more readily than biphasic rTMS activating differently oriented neurons at slight different timings altogether.
+Significance
+The present results suggest that when using rTMS as a therapeutic tool or in research fields, the waveforms of magnetic pulses may affect the results profoundly.
+

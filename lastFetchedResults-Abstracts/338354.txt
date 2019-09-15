@@ -1,0 +1,11 @@
+Objective
+It has been difficult to characterize murine bone marrow (BM)-derived mesenchymal progenitor cells (MPCs) because of contamination with hematopoietic cells. We took advantage of the rapid proliferation of MPCs after replating to enrich murine MPCs by transfection with a retroviral vector carrying both LacZ and the selective neomycin resistance (neoR) gene.
+Materials and Methods
+
+Freshly harvested BM cells from mice were incubated with BAG retroviral vector produced by amphotropic ψ-CRIP or ecotropic ψ-CRE producer cells for 48 hours and grown in the presence of G418.
+Results
+
+Cells incubated in ψ-CRIP supernatant formed colonies composed of large homogeneous cells that were free of CD45+ cells, but cells incubated in ψ-CRE supernatant did not form stromal cell colonies. In the undifferentiated state, the cells displayed a fibroblast-like phenotype with low alkaline phosphatase activity. However, upon treatment with dexamethasone or 5-azacytidine, the retrovirally transduced cells differentiated into oil-red-O–positive adipocytic cells and osteogenic cells generating von Kossa-positive bone nodules. Osteogenic supplements composed of β-glycerophosphate, dexamethasone, and ascorbic acid induced an increase in alkaline phosphatase activity and acute osteogenesis associated with early cell detachment. Subcutaneous injection with retrovirally transduced cells into day 1 newborn mice of the same strain produced ectopic calcium depositions surrounded by X-gal+ cells.
+Conclusions
+
+Retroviral selection of cycling adherent cells is an effective approach for enrichment of MPCs.

@@ -1,0 +1,11 @@
+Objective
+Synchronization likelihood analysis of resting state EEG has shown that cognitive dysfunction in Alzheimer's disease (AD) and its precursor mild cognitive impairment (MCI) are associated with a loss of functional connectivity in high (upper α and β) frequency bands. Working memory tasks are known to change functional connectivity, but it is unknown whether this increases the differences between AD, MCI and healthy controls. Our objective was to investigate the behavior of synchronization likelihood of multichannel EEG in AD, MCI and cognitively healthy controls, both at rest and during a working memory task.
+Methods
+EEGs (200 Hz sample frequency, 21 channels, average reference) were recorded at rest as well as during a visual working memory task in 14 patients with AD according to the NINCDS-ADRDA criteria (mean age 76.4; SD 13.6), 11 patients with MCI according to the criteria of Petersen (mean age 78.4; SD 6.4) and 14 with subjective memory complaints but no demonstrable memory disturbance (mean age 61.6; SD 26.6). The synchronization likelihood was computed over 19 channels, comparing each channel with all the other channels for the 0.5–4, 4–8, 8–10, 10–12, 12–30, 30–50 Hz frequency bands.
+Results
+The synchronization likelihood was significantly decreased in the upper α (10–12) and β (12–30) bands in AD compared to persons with subjective memory complaints. The working memory task scores strongly correlated with Mini-Mental State Examination scores. During the working memory task the synchronization likelihood was significantly higher in MCI compared to the control subjects in the lower α band (8–10 Hz).
+Conclusions
+Decrease of β band synchronization occurs in mild AD, both in a resting condition and during a working memory task.
+Significance
+Decrease of β band synchronization in mild AD is a robust finding. The present study confirms our findings in a different cohort of patients, using alternative frequency bands. The diagnostic value of the synchronization likelihood in AD and MCI needs to be further established.
+

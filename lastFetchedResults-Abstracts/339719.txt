@@ -1,0 +1,11 @@
+Objective
+To develop a novel method of generating multiple autologous acute myeloid leukemia (AML) reactive T-cell lines as a step toward adoptive immunotherapy for AML.
+Materials and Methods
+
+AML peripheral blood mononuclear cells (MNC), including >90% AML blasts and 1% to 3% T cells, were seeded in limiting dilution culture in which AML blasts were induced to undergo dendritic cell (DC) differentiation. T cells were primed and activated with the addition of a cytokine combination.
+Results
+
+Highly reactive anti-AML T-cell lines (both CD4+ and CD8+) were generated, selected, and expanded. The estimated average frequency of AML-reactive T cells or precursors was 6 ± 3/1,000,000 AML peripheral blood mononuclear cells (n = 11). Robust intracellular interferon-γ (IFN-γ) release from T-cell lines was demonstrated by flow cytometry after stimulation by autologous AML cells, but not an autologous B-lymphoblastoid cell line (LCL). These T-cell lines caused specific lysis of autologous AML cells, but not autologous LCL or allogeneic AML cells, and they depleted autologous AML colony-forming cells (CFC), but not normal CFC. Most CD4+ T-cell lines exerted strong proapoptotic effects on AML cells. AML cell apoptosis by CD4+ T-cell lines correlated with IFN-γ secretion.
+Conclusion
+
+This study demonstrates a methodology for generating large numbers of AML-reactive cytotoxic T cell lines (either class I or II restricted) that may be useful clinically in adoptive immunotherapy. This study also provides estimates of AML-reactive T-cell frequency in patients with AML.

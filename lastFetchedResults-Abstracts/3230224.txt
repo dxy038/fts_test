@@ -1,0 +1,1 @@
+We demonstrate the first software-defined OpenFlow1.0-based flex-grid &#955;-flow architecture enabling 150Mb/s per-cell OFDMA MBH overlays onto bidirectional 10Gb/s PON, without any ONU-side optical filtering, amplification, or coherent detection over 20km SSMF and 1:64 passive split.

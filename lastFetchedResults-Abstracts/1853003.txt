@@ -1,0 +1,8 @@
+Objective
+luate and compare the performance of different rule-ranking algorithms for rule-based classifiers on biomedical datasets.
+ology
+cal evaluation of five rule ranking algorithms on two biomedical datasets, with performance evaluation based on ROC analysis and 5 × 2 cross-validation.
+s
+ung cancer dataset, the area under the ROC curve (AUC) of, on average, 14267.1 rules was 0.862. Multi-rule ranking found 13.3 rules with an AUC of 0.852. Four single-rule ranking algorithms, using the same number of rules, achieved average AUC values of 0.830, 0.823, 0.823, and 0.822, respectively. On a prostate cancer dataset, an average of 339265.3 rules had an AUC of 0.934, while 9.4 rules obtained from multi-rule and single-rule rankings had average AUCs of 0.932, 0.926, 0.925, 0.902 and 0.902, respectively.
+sion
+variate rule ranking performs better than the single-rule ranking algorithms. Both single-rule and multi-rule methods are able to substantially reduce the number of rules while keeping classification performance at a level comparable to the full rule set.

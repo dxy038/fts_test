@@ -1,0 +1,11 @@
+Objective
+This study evaluated whether ω-3 polyunsaturated fatty acids (PUFAs) could enhance the radiosensitivity of three different human colorectal adenocarcinoma cell lines. To understand the underlying mechanisms, the effects of ω-3 PUFAs on the cell growth, survival, and apoptosis were evaluated alone or in combination with an antioxidant (vitamin E) and compared with the effects of ω-6 PUFAs.
+Methods
+
+LS174T, CO112, and Caco-2 cell survival was assessed by clonogenic assay after a 3-d pretreatment with ω-3/ω-6 PUFAs and/or vitamin E before a single X-ray exposure to 4 Gy. Cell growth and viability were measured by double fluorescence-activated cell sorter analyses using propidium iodide and fluorescein isothiocyanate-conjugated annexin V. Student’s t test or multivariable linear regression analyses were used for comparison.
+Results
+
+Preincubation with 30 to 100 μmol/L of ω-3 PUFAs induced a dose-dependent additive decrease in cell survival after irradiation (P < 0.05). Evaluation of the underlying mechanisms indicated that ω-3 PUFAs mainly decreased the cell number via apoptosis induction. Moreover, formation of lipid peroxidation products and modulation of cyclooxygenase II activity seemed to be involved, because coincubation with 10 μmol/L vitamin E abolished the effect of 50 μmol/L of ω-3 PUFAs (P < 0.05), whereas ω-6 PUFAs could partly mimic ω-3 PUFA effects.
+Conclusion
+
+These observations suggest that ω-3 PUFAs may be potential candidates as nutritional adjuvants to enhance the efficacy of human colorectal cancer radiotherapy.

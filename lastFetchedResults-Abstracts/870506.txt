@@ -1,0 +1,1 @@
+In this paper, we show with a counterexample, that the method proposed by Sedeño-Noda and Gonzàlez-Martin for the biobjective integer minimum flow problem is not able to find all efficient integer points in objective space.

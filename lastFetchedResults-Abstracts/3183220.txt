@@ -1,0 +1,1 @@
+We propose a cost-effective, scalable architecture to provide high-speed connection to trains by moving-cells employing tunable lasers in the CO and passive add/drop multiplexers in the field. The architecture is demonstrated with bidirectional OFDM signals.

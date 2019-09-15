@@ -1,0 +1,11 @@
+Objective
+To determine the most discriminative features for a brain–computer interface (BCI) system based on statistically significant differences between two energy density maps calculated from EEG signals during two different motor tasks.
+Methods
+EEG was recorded in ten healthy volunteers while performing different cue based, 3 s sustained, real and imaginary right hand movements. Energy density maps were calculated over fixed 240 ms and 2 Hz time–frequency windows (called resels) for each movement and statistically significant resels were determined. After that, normalised energy values of the statistically significant resels were compared between two real as well as between two imaginary movements using a parametric test.
+Results
+The largest differences between energy density maps between two motor tasks were noticed on electrode location Cp3 in the higher alpha and the beta bands (i.e., 12–30 Hz), for both real and imaginary movements. The method reduced a total number of discriminative features between two motor tasks to fewer than 2% for the imaginary and fewer than 3% for the real movements on the electrode location Cp3.
+Conclusions
+The method can be used for visualisation and feature extraction for BCI and other applications where event related desynchronisation/synchronisation (ERD/ERS) maps should be compared.
+Significance
+If a reliable on-line classification of imaginary movements of the same limb would be achieved it could be combined with classification of movements of different parts of the body. That would increase a number of separable classes of a BCI system, thereby providing a larger number of command signals to control the external devises such as computers and robotic devices.
+

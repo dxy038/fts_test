@@ -1,0 +1,8 @@
+We consider a perturbed mathematical programming problem where both the
+objective and the constraint functions are analytical in both the underlying decision
+variables and in the perturbation variable/parameter that is denoted by  . The
+following question arises: what is the description of the solutions of such a perturbed
+problem when   → 0? We demonstrate that, under weak conditions, the
+solutions of the perturbed problems are obtained as Puiseux series expansions in
+ . The results are obtained by application of the Remmert–Stein representation
+theorem for complex analytic varieties.

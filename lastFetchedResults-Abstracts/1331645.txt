@@ -1,0 +1,13 @@
+We consider a family of damped quasi-Newton methods for solving unconstrained
+optimization problems. This family resembles that of Broyden with line searches, except
+that the change in gradients is replaced by a certain hybrid vector before updating the
+current Hessian approximation. This damped technique modifies the Hessian
+approximations so that they are maintained sufficiently positive definite. Hence, the
+objective function is reduced sufficiently on each iteration. The recent result that the
+damped technique maintains the global and superlinear convergence properties of a
+restricted class of quasi-Newton methods for convex functions is tested on a set of standard
+unconstrained optimization problems. The behavior of the methods is studied on the basis
+of the numerical results required to solve these test problems. It is shown that the damped
+technique improves the performance of quasi-Newton methods substantially in some robust
+cases (as the BFGS method) and significantly in certain inefficient cases (as the DFP
+method).

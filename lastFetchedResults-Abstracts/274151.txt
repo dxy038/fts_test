@@ -1,0 +1,10 @@
+This paper deals with the optimum design of vibration absorbers utilized to reduce undesirable vibrational effects which
+are originated in linear structures by seismic excitations. The single linear tuned mass dampers problem is treated and it is
+assumed that earthquake can be represented by a stationary filtered stochastic process. In the present problem, the objective
+is to minimize the maximum of the dimensionless peak of displacement of the protected system with respect to the
+unprotected one. Moreover, the constrained optimization problem is also analysed, in which a limitation of tuned probability
+of failure is imposed, where failure is related to threshold crossing probability by the maximum displacement over
+an admissible value. Examples are given to illustrate the efficiency of the proposed method. The variation of the optimum
+solution versus structural and input characteristics is analysed for the unconstrained and constrained optimization problems.
+A sensitivity analysis is carried out, and results are presented useful for the first design of the vibrations control
+strategy.

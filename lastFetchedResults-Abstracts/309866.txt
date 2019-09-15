@@ -1,0 +1,9 @@
+Objective:
+To examine the relation between maternal early pregnancy serum C-reactive protein (CRP) and preterm delivery (PTD).
+Design and methods:
+Women were recruited before 20 weeks gestation and were followed up until delivery. Maternal serum CRP was measured by competitive immunoassay. Logistic regression procedures were used to calculate adjusted odds ratio (OR) and 95% confidence intervals (95%CI).
+Results:
+Elevations in CRP concentrations were associated with the risk of PTD overall. After adjusting for confounding, the OR for highest quartile (≥ 7.5 vs. < 2.0 mg/L) of CRP was 2.04 (95%CI: 1.13–3.69). Stratified analyses indicated that elevated CRP was associated with an increased risk of spontaneous preterm labour (OR = 2.15, 95%CI: 0.85–5.42), medically indicated preterm delivery (OR = 3.29, 95%CI: 0.98–11.02), and very preterm delivery (OR = 20.6, 95%CI: 2.53–168.03), but not with preterm premature rupture of membranes (OR = 1.48, 95%CI: 0.56–3.86).
+Conclusions:
+Elevated CRP concentrations in early pregnancy are associated with an increased risk of PTD, particularly medically indicated PTD and very PTD.
+

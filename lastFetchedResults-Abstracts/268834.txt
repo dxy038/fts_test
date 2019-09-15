@@ -1,0 +1,7 @@
+The electrochemical features of the sol–gel birnessite MnO1.84·0.6H2O are reported here in terms of OCV data, cycling behavior kinetics of Li transport in the oxide.
+
+We have confirmed that the sol–gel birnessite remains one of the best manganese oxides as rechargeable cathodic materials with an initial specific capacity of 270 mAh g−1 due to the high amount of Mn(IV). However, from a practical viewpoint, this hydrated compound has been proved to exhibit an important and constant capacity fading in the potential window 4.2–2 V associated with a strong disordering process. The ac impedance measurements have proved this behavior was mainly due to an increase of the cathode impedance and a strong decrease in kinetics of Li transport in the oxide.
+
+Such a phenomenon can be overcome when the Co-doped form Co0.15Mn0.85O1.84·0.6H2O is used. In that case, a constant capacity as high as 170 mAh g−1 can be maintained over more than 50 cycles with no change in the electrochemical behavior of the Co-doped sample.
+
+This clearly shows that stable capacity can be expected even from a hydrated oxide network.

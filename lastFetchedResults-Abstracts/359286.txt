@@ -1,0 +1,11 @@
+Background
+Although warfarin and other anticoagulants can prevent ischemic events, they can cause hemorrhage. Quantifying the rate of hemorrhage is crucial for determining the risks and net benefits of prescribing antithrombotic therapy. Our objective was to find a bleeding classification scheme that could quantify the risk of hemorrhage in elderly patients with atrial fibrillation.
+Methods
+
+We combined bleeding risk factors from existing classification schemes into a new scheme, HEMORR2HAGES, and validated all bleeding classification schemes. We scored HEMORR2HAGES by adding 2 points for a prior bleed and 1 point for each of the other risk factors: hepatic or renal disease, ethanol abuse, malignancy, older (age > 75 years), reduced platelet count or function, hypertension (uncontrolled), anemia, genetic factors, excessive fall risk, and stroke. We used data from quality improvement organizations representing 7 states to assemble a registry of 3791 Medicare beneficiaries with atrial fibrillation.
+Results
+
+There were 162 hospital admissions with an International Classification of Diseases, Ninth Revision, Clinical Modification code for hemorrhage. With each additional point, the rate of bleeding per 100 patient-years of warfarin increased: 1.9 for 0, 2.5 for 1, 5.3 for 2, 8.4 for 3, 10.4 for 4, and 12.3 for ≥5 points. In patients prescribed warfarin, HEMORR2HAGES had greater predictive accuracy (c statistic 0.67) than other bleed prediction schemes (P < .001).
+Conclusions
+
+Adaptations of existing classification schemes, especially a new bleeding risk scheme, HEMORR2HAGES, can quantify the risk of hemorrhage and aid in the management of antithrombotic therapy.

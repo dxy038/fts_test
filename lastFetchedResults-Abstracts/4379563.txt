@@ -1,0 +1,1 @@
+We show that the genetic improvement of programs (GIP) can scale by evolving increased performance in a widely-used and highly complex 50000 line system. Genetic improvement of software for multiple objective exploration (GISMOE) found code that is 70 times faster (on average) and yet is at least as good functionally. Indeed, it even gives a small semantic gain.

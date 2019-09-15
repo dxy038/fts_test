@@ -1,0 +1,11 @@
+Objective
+This study evaluated validity and reliability of automated median and ulnar sensory nerve conduction study (NCS) measurements by the NC-stat®.
+Methods
+Median and ulnar distal sensory latencies (DSL) and amplitudes (SNAP) were measured in sixty subjects with the NC-stat and by a neurologist (reference) using traditional instrumentation. The median–ulnar DSL differences (MUD) was calculated. Validity was quantified by the Pearson correlation. Reliability was evaluated by the intraclass correlation coefficient (ICC), Bland–Altman analysis, and inter-rater agreement of MUD abnormalities.
+Results
+As a result of differences in electrode placement, NC-stat and reference mean values had systematic differences. The correlation ranged from 0.70 (ulnar DSL) to 0.91 (median DSL). The ICC ranged from 0.69 (ulnar DSL) to 0.91 (median DSL). In Bland–Altman analysis of DSLs, NC-stat measurements had a bias of 0.56 ms (median) and 0.31 ms (ulnar) and precision of 0.31 and 0.30 ms. Inter-rater agreement for MUD abnormalities was 93.8% (raw) and 0.80 (Kappa).
+Conclusions
+NC-stat validity and reliability metrics were similar to traditional NCS. Use of the NC-stat would require applicable reference ranges.
+Significance
+NC-stat median and ulnar NCS are valid and reliable. This device may be useful for increasing availability of NCS when clinically appropriate.
+

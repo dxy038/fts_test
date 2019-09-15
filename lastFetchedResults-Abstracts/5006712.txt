@@ -1,0 +1,1 @@
+Triggering structures BJT, SCR and bi-directional SCR for high voltage BiCMOS process onchip ESD protection have been developed and analyzed using physical process and device simulation and pulse measurements. A ten-fold increase in the protection levels compared to the reference BJT structures have been demonstrated using a cylindrical lateral SCR and bidirectional SCR.

@@ -1,0 +1,16 @@
+An Empirical Investigation of the Effects of Uncertainty in Real Exchange Rate on Stock Price in Tehran Stock Exchange: An Application of Bounds Test Approach
+
+Hassan Heydari 
+HamidReza Faalju 
+Fatemeh Karami 
+
+
+Received: 8 Jan 2013
+Accepted: 29 Jun 2013
+
+
+The price index of shares of companies accepted in the Tehran Stock Exchange (TSE) is one of the main variables in evaluating macroeconomic performance  of Iranian economy. One of the factors affecting stock price index of developing countries like Iran , that has high degree of  volatility, is exchange rate uncertainty.The main objective of this paper is to investigate the effects of exchange rate uncertainty on price index in the TSE for the period of 1994-2009 using monthly data. In this regard,  first, an index of exchange rate uncertainty is calculated using  EGARCH models. Then, in order to obtain the relationship between uncertainty in real exchange rate and the stock price index, Bounds test approach is applied to the relationship between level data. The results show that in both long-run and short-run, there is a negative and significant relationship between the exchange rate and stock prices. Moveover, real exchange rate uncertainty has a non- significant negative effect on stock price in short- run. In the long-run, the relationship between  real exchange rate uncertainty and stock price is negative and significant. The results of Granger causality   test also show that bidirectional causality exists between the  real exchange rate and real exchange rate uncertainty in the short -run. While we could not find such an interactive relationship between other variables in the short-run, an indirect causality exists from exchange rate and exchange rate uncertainty to the stock price in the long-run.
+
+JEL Classification: C58, G11, G14 
+Key words: Exchange rate uncertainty,  Stock prices, Bounds test , Iran.
+

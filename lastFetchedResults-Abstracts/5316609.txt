@@ -1,0 +1,1 @@
+In this paper, we present a novel attack named colorization attack. This attack is specific to color-hiding watermarking schemes. The objective of this work is to demonstrate the feasibility of such an attack and thus to take it into account for the future color-hiding watermarking schemes.

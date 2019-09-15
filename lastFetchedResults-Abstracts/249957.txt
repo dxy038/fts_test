@@ -1,0 +1,14 @@
+From an abstract point of view, a numerical simulation implements a mathematical function that produces
+some output from some given input. Derivatives (or sensitivities) of the function’s output with
+respect to its input can be obtained—free from truncation error—by using a technique called automatic
+di erentiation. Given a computer code in a high-level programming language like Fortran, C,
+or C++, automatic di erentiation generates another code capable of computing not only the original
+function but also its derivatives. Thus, the application of automatic di erentiation signi cantly extends
+the functionality of a simulation package. For instance, automatic di erentiation enables, in a completely
+mechanical fashion, the usage of derivative-based optimization algorithms where the evaluation of the
+objective function comprises some given large-scale engineering simulation. In this paper, the automatic
+di erentiation tool ADIFOR is used to transform the general-purpose  nite element package SEPRAN.
+In doing so, we automatically transform the given 400 000 lines of Fortran 77 into a new program consisting
+of 600 000 lines of Fortran 77. We compare our approach with a traditional approach based on
+numerical di erentiation and quantify its advantages in terms of accuracy and computational e ciency
+for a standard  uid  ow problem

@@ -1,0 +1,15 @@
+With increasing traffic density on Iran’s regional corridors, the probability of accident occurrence
+has increased accordingly. The main objective of this paper is to develop an ontology-driven
+geospatial information system to induct major crash rules for vehicles accident severity prediction
+which has the full domain knowledge and logical reasoning ability based on ontology. In the
+proposed approach, Geographic Information System (GIS) provides a platform both for spatial
+data analysis and for visualizing relationships between spatial and non-spatial data. Furthermore,
+the ontology is employed to represent geospatial and attribute domain knowledge related to road,
+environment and vehicle. Crash rules are acquired by integrating experts knowledge with the
+rules which are extracted using the Separate-and-Conquer rule induction approach. These rules
+are transformed to Semantic Web Rule Language (SWRL) syntax for reasoning in crash severity
+estimation engine. To evaluate the proposed method, a system prototype in the Qazvin-Rasht
+(Iran) regional transportation corridor as a case study is implemented. The results show that the
+proposed approach can efficiently induce major crash rules and predict accident prone vehicles
+crash severity with respect to real-time road, driver and environmental information in the vicinity
+of vehicle current location.

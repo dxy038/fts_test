@@ -1,0 +1,1 @@
+A novel equalization technique based on noise predictive maximum likelihood and partial response signaling is proposed to enhance the capacity of WDM-PON using SOA-REAM. We successfully demonstrate 40-Gb/s upstream transmission over 20-km bidirectional fiber.

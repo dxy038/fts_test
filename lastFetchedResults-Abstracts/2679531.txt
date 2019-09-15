@@ -1,0 +1,9 @@
+In this paper a two-dimensional non-oriented guillotine bin packing problem is studied when 
+items have different priorities. Our objective is to maximize the total profit which is total 
+revenues minus costs of used bins and wasted area. A genetic algorithm is developed to solve 
+this problem where a new coding scheme is introduced. To evaluate the performance of the 
+proposed GA, first an upper bound is presented. Then, a series of computational experiments 
+are conducted to evaluate the quality of GA solutions comparing with upper bound values. 
+From the computational analysis, it appears that the GA algorithm is able to give good 
+solutions. 
+

@@ -1,0 +1,1 @@
+A multi-criteria method is presented for comparison of compressed video images. As criteria are used: bit rate of video stream, subjective quality evaluation of compressed video sequence and objective quality evaluation of compressed video sequence using Average Peak Signal-to-Noise Ratio (APSNR) metric.

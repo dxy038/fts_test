@@ -1,0 +1,11 @@
+Objective
+Chemokines play a central role in lymphocyte trafficking and homing. The actin cytoskeleton is involved in cell morphological changes and motility. Wiskott-Aldrich syndrome (WAS) protein (WASP) has been implicated in regulation of cytoskeleton rearrangement. To evaluate mechanisms that might be involved in migration of T cells, we examined effects of stromal cell–derived factor (SDF)-1α on WASP and associated proteins.
+Materials and Methods
+
+Jurkat T cells were stimulated by SDF-1α and analyzed for chemotaxis and also by Western blot analysis for signal transduction.
+Results
+
+Jurkat T cells displayed chemotaxis to SDF-1α, which was inhibited by pretreatment of cells with either pertussis toxin, a Gαi protein inhibitor, wortmannin or Ly294002, phophatidylinositol 3-kinase inhibitors, or herbimycin, a protein tyrosine kinase inhibitor. WASP was tyrosine phosphorylated in response to SDF-1α stimulation in Jurkat T cells. Crk associated substrate (Cas), Nck, and focal adhesion kinase (FAK) were also phosphorylated after SDF-1α stimulation. Moreover, activated Nck interacted with Cas and WASP as determined by co-immunoprecipitation, and FAK also bound to Cas.
+Conclusions
+
+These data suggest that WASP, Cas, Nck, and FAK may play a role in SDF-1α–induced migration of the T-cell line, Jurkat.

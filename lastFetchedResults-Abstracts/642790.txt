@@ -1,0 +1,11 @@
+Objective
+We studied the sequential effects of a high-fiber diet using psyllium husks on hepatic gene expression and plasma lipid levels.
+Methods
+
+C57BL/6J mice were randomly assigned to a control diet or a high-fiber diet containing 10% psyllium husks for 3 weeks (PE-3wk) and 10 weeks (PE-10wk). Oligonucleotide microarrays were used to screen the transcriptional response at both time points. Genes encoding enzymes regulating key steps of lipid metabolism were then selected for further validation by quantitative real-time reverse transcription polymerase chain reaction and their protein expression by western blot assays.
+Results
+
+Plasma cholesterol and triacylglycerol levels were reduced in both high-fiber groups. Three weeks of high-fiber feeding downregulated genes involved in lipogenesis, whereas those involved in cholesterol and bile acid synthesis were upregulated. With prolonged high-fiber feeding, genes involved in lipogenesis such as fatty acid synthase (Fasn) were then upregulated. Additional genes in cholesterol synthesis such as 3-hydroxy-3-methylglutaryl coenzyme A reductase (Hmgcr) were also upregulated. At week 3, protein expression levels of Fasn were significantly lower in the high-fiber group but increased at week 10. Protein levels of Hmgcr were significantly increased in PE-10wk mice.
+Conclusion
+
+The high-fiber diet containing psyllium husks reduced plasma total cholesterol and triacylglycerol levels. Cholesterol lowering was most likely mediated by increased bile acid synthesis. The increased transcript levels of genes related to cholesterol synthesis throughout the entire feeding period and the subsequent increased lipogenic gene transcript levels could likely suggest a regulatory mechanism to restore the lowered plasma cholesterol and triacylglycerol levels

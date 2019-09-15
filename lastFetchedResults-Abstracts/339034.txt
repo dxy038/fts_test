@@ -1,0 +1,11 @@
+Objective
+Human embryonic stem (ES) cells can be induced to differentiate into hematopoietic lineages either by stromal cell coculture or by formation of embryoid bodies (EBs). Here, we better characterize cell-bound and secreted factors that support this hematopoietic development.
+Methods
+
+Human ES cells either cocultured on the mouse bone marrow cell line S17, or allowed to form EBs, were induced to differentiate in the presence of serum, serum-free conditions, and serum-free media supplemented with defined cytokines. To better characterize the requirement for stromal cell–bound or secreted proteins, S17 conditioned media and transwell cultures were also utilized.
+Results
+
+In both models, CD34+, CD45+, and hematopoietic colony-forming cells (CFCs) were routinely derived. While hematopoietic development was diminished without serum, here we demonstrate with the stromal cell coculture model that addition of the growth factors stem cell factor (SCF), thrombopoietin (TPO), and Flt-3 ligand (Flt3L) to serum-free media does allow isolation of hematopoietic progenitors. However, these same three growth factors added to serum-free media do not support significant hematopoiesis in the EB system. However, addition of the mesoderm-inducing factors bone morphogenic protein-4 and vascular endothelial growth factor to EBs grown in serum-free media plus SCF, TPO, and Flt-3L does improve hematopoietic development.
+Conclusion
+
+These results demonstrate the utility of human ES cell to evaluate specific stimuli that regulate cell fate decisions and the survival of specific lineages. Moreover, the method used to promote differentiation of ES cells may alter the cytokines or growth factors required to isolate specific cell types.

@@ -1,0 +1,1 @@
+Physical-layer attacks, such as power jamming, can present a serious security threat to transparent optical networks. We present a novel security framework based on protection using attack-aware planning, with the objective to minimize the potential damage caused by various attack scenarios in a cost-effective manner.

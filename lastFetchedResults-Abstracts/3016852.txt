@@ -1,0 +1,1 @@
+This paper shows that the wavelet based dead time measurement method, which has been already studied for open loop systems. is also applicable to closed loop systems. The method uses a wavelet transform of a cross correlation function between an input and an output. To achieve our objective, we derive the wavelet transform for the. closed loop case.

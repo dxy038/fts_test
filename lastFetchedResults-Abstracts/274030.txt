@@ -1,0 +1,11 @@
+A high authority shape morphing plate is examined. The design incorporates an active Kagome back-plane capable
+of changing the shape of a solid face by transmitting loads through a tetrahedral core. This design is known to perform
+effectively upon hinging. This article examines limitations on its authority when twisting is required to attain the
+desired shapes. The specific objective is to ascertain designs that provide the maximum edge twist subject to specified
+passive load. Non-linear effects, such as face wrinkling, have been probed by using a finite element method and the
+fidelity of the results assessed through comparison with measurements. The numerical results have been used to validate
+a dimensional analysis of trends in the actuation resistance of the structure with geometry, as well as the passive
+load capacity. The forces determined by such analysis have been combined with the failure mechanisms for all subsystems
+to establish the constraints. The important domains have been visualized using mechanism maps. An optimization
+has been used to generate load capacity maps that guide geometric design and provide actuator capacity
+requirements.

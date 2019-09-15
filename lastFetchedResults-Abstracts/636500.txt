@@ -1,0 +1,12 @@
+It is known that patients may cease participating in a longitudinal study and become lost to follow-up.
+The objective of this article is to present a Bayesian model to estimate the malaria transition probabilities
+considering individuals lost to follow-up.We consider a homogeneous population, and it is assumed that
+the considered period of time is small enough to avoid two or more transitions from one state of health
+to another. The proposed model is based on a Gibbs sampling algorithm that uses information of lost
+to follow-up at the end of the longitudinal study. To simulate the unknown number of individuals with
+positive and negative states of malaria at the end of the study and lost to follow-up, two latent variables
+were introduced in the model. We used a real data set and a simulated data to illustrate the application
+of the methodology. The proposed model showed a good fit to these data sets, and the algorithm did not
+show problems of convergence or lack of identifiability. We conclude that the proposed model is a good
+alternative to estimate probabilities of transitions from one state of health to the other in studies with low
+adherence to follow-up.

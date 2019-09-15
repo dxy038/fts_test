@@ -1,0 +1,29 @@
+Introduction: Lactation yield and persistency are two economic important traits in dairy cow. The production level of a dairy cow is determined by a joint effect of genetic and environmental factors.The main factors determining the total amount of milk production are milk yield at the peak of lactation and persistency as well as length of lactation period. Persistency are defined as a  extent to which early lactation milk is preserved(22), orability of cow to produceat a high level of milk during lactation period(8). Also, it’s defined as adecreasing rate of milk production after peak, that more milk Persistency means lower rate of milk yield (31).Persistency is as an economic important trait in dairy cattle because of therelationship between I tandother traits such as production, Reproduction, Health costs and Nutrition (28). In general, Selecting on milk production is caused weak reproductive performance(9 and 11), more Sensitivity to expose disease and increasing risk of culling due to it (11). One possible way to increase milk production without increasing the incidence of diseases and reproductive problems is to select for persistency as well as milk production. This strategy may be reduced stress of peak production and maintain high production after the peak.as a result of this selection,the lactation curve is flatter and persistency increases (17 and 24). So far, various functions and models are used to evaluate the appropriate daily milk production in dairy cows,Such that it can be pointed to exponential functions. The most famous application of this method was  invented by Wood in 1967(15). Persistency would be estimated and evaluated by considering shape of lactation curve for each animal. The objective of present study was to estimate genetic parameters and trend of milk persistency for Holstein cows in Iran using Wood’s function.
+Material and methods: Data consist of 2487378 test day of milk yield belonging to 336164 primiparous Holstein which calved from 1992 to 2012. At the first, persistency was estimated based on lactation curve parameters by the Wood’s function (32), mathematical form This function is as follows:
+  =   where, Yt: daily milk yield in tth days in milk, t: Days In Milk, e: The exponential number, a: a parameter representing yield at the beginning of Lactation, b and c: Factors associated with the up ward and down ward slopes of the curve, respectively.
+The Dim at peak production was defined as: Tmax = (b/c), expected maximum yield (peak production) was calculated as: Ymax= a( b/c)b e-b, Persistency was calculated as: S = -(b+1) ln(c).
+The next step data were edited based on below conditions: animals were remove if they had two time calving 
+only animals were evaluated that had at least 4 test day records, lactation period was limited from 5 to 305.
+parameters of lactation curve were estimated by nonlinear method in R software,then its variance components were estimated by REML method (AI-REML) under univariate animal model in wombat software .
+The model for genetic evaluation of milk persistency was as follows:
+ 
+yijlklmn:observation of kthanimal Persistency, ithMilking frequency (MF),jthherd-year-season of calving, lthage of first Calving and mthDays In Milk (DIM), MFi:Fixed effect of Milking Frequency, AFCijk:Fixed effect of Age at First Calving as a covariate variable, DIMijk:Fixed effect of Days In Milk as a covariatevariable, bn:nthregression coefficients, HYSj:jthherd-year-season of calving which was considered as a random effect,  ak:Random additive genetic effect ofkthanimal, eijk:Random residual effect .
+Results and Discussion: In general, amount of milk yield in beginning of the lactation was 14.19 kg (parameter of ) with an increasing steep (parameter of  ) about 0.278 kg/day as well as 0.003 decreasing rate (parameter of  ) in Holstein dairy cattle. time to peak (Tmax) and milk yield at peak (Ymax) were 91 day and 33 kg, respectively. Heritability of persistency was low and estimated about 0.08 (table 1). Results showed that phenotypic and genotypic trends were significant (p  &lt; 0.05) and estimated 0.022 and 0.01, respectively (table2).
+
+
+Table 1- heritability, additive genetic variance and phenotypic variance persistency of Holstein cows
+trait	Heritability ± SE	Additive genetic variance ± SE
+Phenotypic varianc ± SE
+
+persistency	0.08 ± 0.004
+0.03 ± 0.0014	0.37 ± 0.001
+
+Table 2-Phenotypic and genotypic trends of Persistency
+trait	Genetic trend ± SE
+R2	Phenotypic trend ± SE
+R2
+persistency	0.01 ± 0.001
+0.93	0.022 ± 0.0006
+0.96
+
+Conclusion: Low heritability of Persistency show that interested trait is affect by environmental effects compared with genetic effect. Therefore, for increasing Persistency of milk yield should be more pay attention to improve environmental factors such as herd health and animal nutrition. The results of the present study shows that the genetic and phenotypic trends milk persistency of Holstein cows were positive and favorable

@@ -1,0 +1,11 @@
+Feed-water heating repowering is defined as using gas turbine(s) flue gasses energy for recovery
+by steam plant feed water heaters. Minimizing related total cost in new thermal system is the critical subject,
+beside of this purpose an optimal balance between capital cost investment and exergy destruction should be
+considered. In this research feed water heating repowering modeling of Shahid Rajae steam plant has been
+performed; in the next stage, optimization of mentioned system variables has been done based
+on thermoeconomic objective functions. Then objective functions sensitive analysis in contrast of steam
+turbines extraction flow rates have been performed and optimum amount of flow rate are determined by
+using Genetic algorithm. As a result of this optimization, some of technical and economical system
+properties have been upgraded. Thermal efficiency and exergy efficiency are anticipated to be 42.2 and 40.17
+respectively and exergy destruction cost is increased about 1 to 16 percent; also it should be mentioned that
+26 months has been derived for optimum period of preliminary capital return.

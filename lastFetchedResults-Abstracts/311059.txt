@@ -1,0 +1,11 @@
+Objective. The objective was to determine the effect of varying graft stiffness and initial graft tension on knee kinematics and graft tension after anterior cruciate ligament reconstruction.
+
+Design. A 3D computational knee model was used.
+
+Background. Many factors influencing the biomechanical outcome of anterior cruciate ligament reconstruction have been investigated. However, there are no reports on the effect of variations in graft stiffness on knee behavior.
+
+Methods. A 3D computational knee model was used to simulate anterior cruciate ligament reconstruction using three different grafts with stiffnesses similar to the anterior cruciate ligament (graft 1), a 10mm bone-patellar tendon-bone graft (graft 2), and a 14mm bone-patellar tendon-bone graft (graft 3). The initial graft tension was set to 0 or 40 N with the knee at 30° of flexion. A 134 N anterior tibial drawer load and a 400 N quadriceps load were applied to the knee, and kinematics and graft tension were calculated.
+
+Results. When fixed with no initial tension, graft 1 was found to under-constrain the knee, while graft 2 slightly over-constrained the knee, and graft 3 over-constrained the knee when compared to the intact knee. When an initial graft tension of 40 N was used, all of the reconstructed knees were more constrained than when an initial tension of 0 N was used.
+
+Conclusions. This study suggests that graft stiffness has a direct impact on knee biomechanics after anterior cruciate ligament reconstruction. An optimal anterior cruciate ligament reconstruction can be achieved if the anterior cruciate ligament is replaced by a graft with similar structural stiffness.

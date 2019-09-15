@@ -1,0 +1,14 @@
+We consider the two-machine flowshop scheduling problem where jobs have random
+processing times which are bounded within certain intervals. The objective is to minimize
+total completion time of all jobs. The decision of finding a solution for the problem has to be
+made based on the lower and upper bounds on job processing times since this is the only
+information available. The problem is NP-hard since the special case when the lower and
+upper bounds are equal, i.e., the deterministic case, is known to be NP-hard. Therefore, a
+reasonable approach is to come up with well performing heuristics. We propose eleven
+heuristics which utilize the lower and upper bounds on job processing times based on
+the Shortest Processing Time (SPT) rule. The proposed heuristics are compared through
+randomly generated data. The computational analysis has shown that the heuristics using
+the information on the bounds of job processing times on both machines perform much
+better than those using the information on one of the two machines. It has also shown
+that one of the proposed heuristics performs as the best for different distributions with an
+overall average percentage error of less than one.

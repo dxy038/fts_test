@@ -1,0 +1,11 @@
+Objective
+Notch receptors and their ligands are known to play an important role in hematopoietic cell fate decisions. Although expressions of Notch ligands were frequently detected in bone marrow cells or thymic epithelial cells, regulatory roles of hematopoietic cytokines on their expression are still poorly understood. In this study, we focused on a new member of Notch ligand family, Delta-4, and analyzed regulatory mechanisms of Delta-4 expression by cytokines using stromal cell lines.
+Methods
+
+For our expression study, we selected a highly Delta-4-expressing murine stromal cell line, SC9-19. Delta-4 protein expression was analyzed by Western blotting after cytokine treatment with or without various kinase inhibitors. Biologic relevance of the enhanced Delta-4 expression was examined in the coculture system using cord blood CD34+ cells.
+Results
+
+When SC9-19 was treated with different cytokines, we found interleukin-6 (IL-6) was the most efficient inducer of Delta-4 protein expression. Further analysis revealed that IL-6-induced signaling for Delta-4 expression was transduced through the pathway of Janus kinase/signal transducers and activators of transcription-3 (JAK/STAT3). Other mediators such as mitogen-activated protein kinase, phosphatidylinositol 3-kinase, and Src tyrosine kinase were not involved in IL-6-induced Delta-4 expression. Erythroid differentiation of CD34+ cells was enhanced by IL-6 treatment of the Delta-4-expressing original stromal cell line but not of a Delta-4-knockdown stromal cell line.
+Conclusions
+
+IL-6 augments Delta-4 expression in the stromal cell line via STAT3 activation. This study provides a novel mechanism for augmentation of Delta-4 expression by hematopoietic cytokine and suggests a role for Delta-4 in the control of hematopoiesis.

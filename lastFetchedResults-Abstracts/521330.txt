@@ -1,0 +1,9 @@
+In this paper, multi-objective uniform-diversity genetic algorithm (MUGA) with a diversity preserving mechanism
+called the -elimination algorithm is used for Pareto optimization of 5-degree of freedom vehicle vibration model
+considering the five conflicting functions simultaneously. The important conflicting objective functions that have been
+considered in this work are, namely, vertical acceleration of seat, vertical velocity of forward tire, vertical velocity of
+rear tire, relative displacement between sprung mass and forward tire and relative displacement between sprung mass
+and rear tire. Further, different pairs of these objective functions have also been selected for 2-objective optimization
+processes. The comparison of the obtained results with those in literature demonstrates the superiority of the results of
+this work. It is shown that the results of 5-objective optimization include those of 2-objective optimization and,
+therefore, provide more choices for optimal design of vehicle vibration model.

@@ -1,0 +1,1 @@
+In this paper a procedure is used to tuner two degrees of freedom controllers (PID-ISA) raised as a multiobjective optimization problem (MOP), applying the multiobjective genetic algorithm NSGA-II (MOGA NSGA-II). The objective functions are deployed considering, setpoint response, load disturbances, measurement noises and robustness to model uncertainty

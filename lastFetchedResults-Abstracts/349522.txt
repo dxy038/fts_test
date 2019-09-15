@@ -1,0 +1,11 @@
+Objective
+Tracking the level of performance in cognitive tasks may be useful in environments, such as aircraft, in which the awareness of the pilots is critical for security. In this paper, the usefulness of EEG for the prediction of performance is investigated.
+Methods
+We present a new methodology that combines various ongoing EEG measurements to predict performance level during a cognitive task. We propose a voting approach that combines the outputs of elementary support vector machine (SVM) classifiers derived from various sets of EEG parameters in different frequency bands. The spectral power and phase synchrony of the oscillatory activities are used to classify the periods of rapid reaction time (RT) versus the slow RT responses of each subject.
+Results
+The voting algorithm significantly outperforms classical SVM and gives a good average classification accuracy across 12 subjects (71%) and an average information transfer rate (ITR) of 0.49 bit/min. The main discriminating activities are laterally distributed theta power and anterio–posterior alpha synchronies, possibly reflecting the role of a visual-attentional network in performance.
+Conclusions
+Power and synchrony measurements enable the discrimination between periods of high average reaction time versus periods of low average reaction time in a same subject. Moreover, the proposed approach is easy to interpret as it combines various types of measurements for classification, emphasizing the most informative.
+Significance
+Ongoing EEG recordings can predict the level of performance during a cognitive task. This can lead to real-time EEG monitoring devices for the anticipation of human mistakes.
+

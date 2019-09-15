@@ -1,0 +1,11 @@
+Objective
+Functional electrical stimulation (FES) has not gained widespread application for a number of factors; two of which are rapid muscle fatigue and imprecise control in force. Stimulation intensity is adjusted during FES to overcome the decline in muscle force due to fatigue and precisely control muscle force output. The purpose of this study was to understand the relationship between muscle force output and stimulation intensity and to see how this relationship changes with fatigue.
+Methods
+Quadriceps femoris muscles of 10 able-bodied adults were tested isometrically. Pre- and post-fatigue muscle force responses to stimulation trains with different intensities and frequencies were recorded and analyzed. In addition, a case study using a subject with spinal cord injury was presented to illustrate the use of the force–intensity relationship to reduce muscle fatigue and improve the control of muscle force during repetitive electrical stimulation.
+Results
+An exponential relationship between muscle force and stimulation intensity was observed; interestingly, the normalized force–intensity relationship did not change with stimulation frequency or fatigue.
+Conclusions
+The observed consistencies in the force–intensity relationship should assist scientists and clinicians to more accurately predict the forces produced by a muscle with changes in pulse duration during repetitive electrical stimulation.
+Significance
+The findings of this study provide guidelines for clinicians and researchers to adjust the stimulation intensity to achieve precise control of force repetitively during the application of FES.
+

@@ -1,0 +1,7 @@
+This paper introduces a new mathematical method for improving the discrimination power of data envelopment
+analysis and to completely rank the efficient decision-making units (DMUs). Fuzzy concept is utilised.
+For this purpose, first all DMUs are evaluated with the CCR model. Thereafter, the resulted weights
+for each output are considered as fuzzy sets and are then converted to fuzzy numbers. The introduced
+model is a multi-objective linear model, endpoints of which are the highest and lowest of the weighted
+values. An added advantage of the model is its ability to handle the infeasibility situation sometimes
+faced by previously introduced models.

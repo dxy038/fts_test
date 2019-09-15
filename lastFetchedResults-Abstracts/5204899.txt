@@ -1,0 +1,1 @@
+This paper presents a mathematical description, results of simulation and experimental studies of a bidirectional AC/DC converter with a high power factor. The simulation study is made through PSIM software and the experimental study in made using a laboratory model.

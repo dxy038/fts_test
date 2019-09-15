@@ -1,0 +1,13 @@
+A 170 GHz, 2 MW, steady-state gyrotron is being developed in collaboration between European research associations and industries to be used for the electron cyclotron resonance heating (ECRH) system of ITER, the gyrotron is presently in the prototype state.
+
+ntrusted ENEA with the design of a new power supply for the gyrotron's body; in which, the traditional power vacuum tubes are replaced with solid-state components (IGBT); furthermore ENEA had the task of developing the new body power supply (BPS), following the initial conceptual design.
+
+S is formed by 50 identical bidirectional (in current) modules, connected in series; the BPS's control system regulates the output voltage by changing the modulation index.
+
+pa, under ENEA's supervision, has manufactured the BPS.
+
+ done at the start of this year, showed the substantial agreement between the initial technical specifications and the values achieved.
+
+ularly the ramp-up/down-emergency time (50–10 μs), the accuracy (±0.5%), the sine wave modulation (45–20 kV at 5 kHz) and the maximum phase shift (&lt;10°) have been tested.
+
+ article, the new stair-way modulation (SWM) scheme will be sketched and the test results will be described in detail.

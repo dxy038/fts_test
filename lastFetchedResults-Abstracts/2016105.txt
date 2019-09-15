@@ -1,0 +1,19 @@
+Lockstitch sewing machine is one of the most
+common apparel industrial machines. The thread take-up
+lever mechanism of a sewing machine has an important role
+for proper stitch forming and smooth working of the
+machine. Acquiring a mechanism with optimized geometry is
+of great importance to reach this goal. Therefore, in this
+study the optimization of the thread take-up lever mechanism
+with respect to some important features such as the optimal
+path of the coupler point and variation of coupler point
+acceleration (jerk) is presented. Modification of the objective
+function with respect to the jerk is applied to assure smooth
+movement of the thread take-up lever during sewing process.
+For this purpose, the imperialistic competitive algorithm is
+used to find the optimal link lengths of the take-up lever
+mechanism. The analysis results present further verify that
+the coupler point jerk in the optimized mechanism in the
+horizontal direction has been decreased about 52 percent
+without any conflict in the consistent operation of different
+parts of the sewing machine.

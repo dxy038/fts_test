@@ -1,0 +1,9 @@
+Objective. As an aid to discrimination of sufferers with back pain an artificial intelligence neural network was constructed to differentiate paraspinal power spectra.
+
+Design. Clinical investigation using surface electromyography.
+
+Method. The surface electromyogram power spectra from 60 subjects, 33 non-back-pain sufferers and 27 chronic back pain sufferers were used to construct a back propagation neural network that was then tested. Subjects were placed on a test frame in 30 ° of lumbar forward flexion. An isometric load of two-thirds maximum voluntary contraction was held constant for 30 s whilst surface electromyograms were recorded at the level of the L4–5. Paraspinal power spectra were calculated and loaded into the input layer of a three-layer back propagation network. The neural network classified the spectra into normal or back pain type.
+
+Results. The back propagation neural was shown to have satisfactory convergence with a specificity of 79% and a sensitivity of 80%.
+
+Conclusions. Artificial intelligence neural networks appear to be a useful method of differentiating paraspinal power spectra in back-pain sufferers.

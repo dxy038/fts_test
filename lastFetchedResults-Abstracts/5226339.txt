@@ -1,0 +1,1 @@
+Rejecting interferences, whether intentional or otherwise, enhances the quality of the signal-of-interest at the receiver, and hence is important in several applications. Our goal in this paper is to reject intentional interferences whose directions of arrival are both unknown and time-varying.We show that a simple adaptation technique with switching can achieve this objective.

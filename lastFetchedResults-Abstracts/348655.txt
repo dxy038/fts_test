@@ -1,0 +1,11 @@
+Objective
+To investigate the neurophysiological characteristics and prognostic impact of EEG synchronization with low frequency thalamic stimulation in patients with intractable epilepsy.
+Methods
+Electrical stimuli were delivered through deep brain stimulating (DBS) electrodes at 2, 5 or 10 Hz to the anterior nucleus (AN) and the dorsomedial nucleus (DM) of six patients using the implanted programmable stimulation device. EEGs were recorded from 27 scalp electrodes. “Modeled” responses for 5 and 10 Hz stimulation were computed based on the cerebral responses (CRs) evoked by “single pulse” (2 Hz) stimulation and compared with the recorded EEG results.
+Results
+Rhythmic cortical 5 Hz EEG synchronization occurred in 4/6 patients, with stimulation at 6/11 AN and 5/11 DM sites. Three of four patients with synchronization, but neither of the two patients without, had a significant reduction in seizure frequency. The magnitude of 5 and 10 Hz EEG synchronization was positively related to the amplitudes of “single pulse” CRs. Simple temporal superposition of “single pulse” CRs resulted in “modeled” responses with strikingly similar morphology and scalp voltage distribution.
+Conclusions
+Rhythmic EEG synchronization with low frequency stimulation primarily reflects spatiotemporal summation (interference) of “single pulse” CRs.
+Significance
+Rhythmic EEG synchronization might not serve as a physiologic verification of optimal localization of DBS electrodes. Its usefulness for the prediction of clinical efficacy is questionable
+

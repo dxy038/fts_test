@@ -1,0 +1,22 @@
+Objective: The aim of this study was to clone peroxisomal protein (PEP) cDNA in a mammalian
+expression vector in a chimeric cDNA type, with enhanced green fluorescent protein
+(EGFP) cDNA. To invest igate the intracellular localization of PEP protein linked to EGFP
+marker. the constructed plasmid was used for transfection into the chinese hamster ovary
+(CHO) cells .
+Materials and Methods: Total RNA was extracted from the heart tissue of an adult mouse .
+PEP cDNA was constructed using reverse transcriptase and was amplified with specific primers
+covering the entire length of ORF. RT-PCR products containing PEP cDNA were treated
+by enzymatic digestion and inserted into the pEGFP-C1 downstream of EGFP cDNA and were
+used for transformation into bacterial competent cells. The positive colonies which showed
+inserted PEP cDNA were selected for plasmid preparations and additional analysis was performed
+to ensure that PEP eDNA was inserted properly. Finally, to confirm the intracellular
+localization of EGFP-PEP. CHO cells were transfected with the constructed plasmid.
+Results : Our results confirmed amplification and cloning of the expected product. PEP cDNA
+encompasses 630 bp which encodes 209 amino acid residues . Bioinformalics analyses have
+shown the presence of a fibronectin type III domain (31-114 a.a.) and two hydrophobic domains
+(12-32 a.a. and 152-169 a.a., respectively) . Because of the presence of serine, Lysine,
+leucine (SKI) in the C-terminal of the related protein , transfection data showed peroxisomal
+localization of PEP as was similar to the catalase .
+Conclusion: Taken together these data showed that PEP is a peroxisomal protein. However
+the importance of its fibronectin type 111 and two hydrophobic domains should be assessed
+by further experiments.

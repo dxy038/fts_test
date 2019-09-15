@@ -1,0 +1,11 @@
+Objective
+Twitch interpolation using transcranial magnetic stimulation (TMS) has recently been used to measure the level of drive from the motor cortex to contracting muscles of the upper and lower limbs, termed voluntary activation. It has yet to be used to assess voluntary activation in trunk muscles. The aim of this study was to assess the feasibility of using TMS to measure voluntary activation in back muscles.
+Methods
+Sixteen healthy subjects performed a series of brief maximal and submaximal isometric contractions of the back extensors during which TMS was delivered to the motor cortex. The evoked (superimposed) twitch was measured using dynamometry and simultaneous surface electromyographic (EMG) recordings were taken from the left and right erector spinae at vertebral level T12. Voluntary activation was derived using the expression: (1-superimposed twitch amplitude/resting twitch amplitude) × 100. The resting twitch amplitude was estimated by extrapolation of the linear correlation between voluntary torque and superimposed twitch amplitude to zero torque.
+Results
+The relationship between superimposed twitch size and voluntary contraction strength for contraction strengths of 50–100% MVC was linear but regression revealed variability between subjects. When data were included from those subjects with a good linear regression fit a strong linear relationship was found for the group means between voluntary contraction strength and voluntary activation (r2 = 1) and superimposed twitch size (r2 = 0.99) for contraction strengths of 50–100% MVC. Voluntary activation was found to be less than maximal (67.71 ± 5.22%) during maximal efforts. Time-to-peak amplitude decreased linearly with increasing voluntary torque. The amplitudes of the motor evoked potentials (MEPs) increased with increasing voluntary torque.
+Conclusions
+Twitch interpolation using TMS can be used to quantify voluntary activation in back extensors. The results of this study reveal that neural drive to the back extensors during strong contractions is submaximal.
+Significance
+The assessment of voluntary activation of the back muscles may aid our understanding of the mechanisms of alteration in control of these muscles implicated in chronic low back pain.
+

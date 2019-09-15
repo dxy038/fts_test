@@ -1,0 +1,4 @@
+Abstract
+Facility layout planning is one of the most important problems in plants. A good layout leads to considerable decrease in material handling cost. In this paper, a mathematical model is applied to determine the optimum layout of assembly department facilities in GPI plant. It is a mixed integer programming model based on the model developed by Tompkins model. The objective function is to minimize material handling cost in the assembly department. The Problem is solved by LINGO and the solution determines the optimum location of facilities. 
+Keywords: Facilities, Facility Layout, Zero-one programming, GPI Plant.
+

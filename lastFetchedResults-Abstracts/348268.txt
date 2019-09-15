@@ -1,0 +1,11 @@
+Objective
+To examine the effect of contractile level on motor unit number estimates (MUNEs) and establish the contraction intensity that will yield the most representative MUNE for the tibialis anterior (TA) muscle.
+Methods
+Surface and intramuscular electromyographic (EMG) signals were collected during a range of submaximal (threshold, 10, 20, 30 and 40% MVC) isometric dorsiflexion contractions using decomposition-enhanced spike-triggered averaging (DE-STA). Six MUNEs were calculated, one for each of the five intensities, and an ensemble sixth MUNE that had equal MU contributions from all intensities.
+Results
+Mean surface-motor unit potential sizes increased significantly (26–69 μV) and MUNEs decreased accordingly (226-91) as contraction intensity increased from threshold to 40% MVC, respectively (P<0.05). The ensemble MUNE was 153, and extrapolated to  25% MVC.
+Conclusions
+There was a significant and progressive decline in the MUNE as contraction intensity increased, confirming the importance of monitoring torque during data collection. The ensemble MUNE suggests that collecting EMG signals at a contraction intensity of  25% MVC provides the most representative sample of the actual number and sizes of MUs in the TA.
+Significance
+Establishing appropriate contraction intensities improves the utility of DE-STA as a useful method for tracking changes to the MU pool in disease states and healthy aging.
+

@@ -1,0 +1,23 @@
+Orissa State, a meteorological subdivision of India, lies on the east coast of India close to
+north Bay of Bengal and to the south of the normal position of the monsoon trough. The monsoon
+disturbances such as depressions and cyclonic storms mostly develop to the north of 15  N over the Bay of
+Bengal and move along the monsoon trough. As Orissa lies in the southwest sector of such disturbances, it
+experiences very heavy rainfall due to the interaction of these systems with mesoscale convection sometimes
+leading to flood. The orography due to the Eastern Ghat and other hill peaks in Orissa and environs play a
+significant role in this interaction. The objective of this study is to develop an objective statistical model to
+predict the occurrence and quantity of precipitation during the next 24 hours over specific locations of
+Orissa, due to monsoon disturbances over north Bay and adjoining west central Bay of Bengal based on
+observations to up 0300 UTC of the day. A probability of precipitation (PoP) model has been developed by
+applying forward stepwise regression with available surface and upper air meteorological parameters
+observed in and around Orissa in association with monsoon disturbances during the summer monsoon
+season (June-September). The PoP forecast has been converted into the deterministic occurrence/nonoccurrence
+of precipitation forecast using the critical value of PoP. The parameters selected through
+stepwise regression have been considered to develop quantitative precipitation forecast (QPF) model using
+multiple discriminant analysis (MDA) for categorical prediction of precipitation in different ranges such as
+0.1–10, 11–25, 26–50, 51–100 and >100mmif the occurrence of precipitation is predicted by PoP model. All
+the above models have been developed based on data of summer monsoon seasons of 1980–1994, and data
+during 1995–1998 have been used for testing the skill of the models.Considering six representative stations
+for six homogeneous regions in Orissa, the PoP model performs very well with percentages of correct
+forecast for occurrence/non-occurrence of precipitation being about 96% and 88%, respectively for
+developmental and independent data. The skill of the QPF model, though relatively less, is reasonable for
+lower ranges of precipitation. The skill of the model is limited for higher ranges of precipitation.

@@ -1,0 +1,1 @@
+The objective of transformer tap estimation is to obtain tap positions of generator transformers that are not normally telemetered or are initially unknown. This paper describes a transformer tap estimation algorithm that has been added to the National Grid Company´s online State Estimation and Security Analysis (SESA) suite of programs.

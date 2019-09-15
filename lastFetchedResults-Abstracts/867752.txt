@@ -1,0 +1,8 @@
+This paper deals with the problem of preemptive scheduling in a two-stage flowshop with parallel unrelated
+machines and renewable resources at both the stages. The resource requirements are of a 0–1 type.
+The objective is the minimization of makespan. The problem is NP-hard. Four heuristic algorithms using
+linear programming are proposed for solving this problem. Performance of the algorithms is analyzed
+experimentally by comparing heuristic solutions with the lower bound on the optimal makespan. Statistical
+comparative analysis of the developed algorithms is carried out. The results of a computational
+experiment show that the proposed algorithms are able to produce good quality solutions in a small
+amount of computation time.

@@ -1,0 +1,9 @@
+In this research, a bi-objective model for the economic-statistical design of the X-bar and S
+control charts is proposed. The model minimizes out-of-control average time to signal as
+well as minimizing mean hourly loss-cost where it incorporates the Taguchi loss function.
+A statistical constraint is considered in the model to achieve the desired in-control time to
+signal. A non-dominated sorting genetic algorithm is developed to obtain the pareto
+optimal scheme of the control chart. Sensitivity analysis and comparison study with
+traditional economic models presents that the proposed bi-objective design of X-bar and S
+control chart ensures a better approach to improve the quality system and increase the plans
+ease of use.

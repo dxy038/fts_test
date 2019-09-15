@@ -1,0 +1,1 @@
+Full-duplex bidirectional transmission using FSK modulation for downstream and remote IM using a reflective SOA for upstream in a single-fiber WDM-PON access network is demonstrated. The system shows proper operation at 1 Gbit/s to 30 km reach.

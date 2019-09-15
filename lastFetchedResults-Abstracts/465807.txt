@@ -1,0 +1,9 @@
+Objective:
+We sought to examine the change of cytosolic calcium concentration caused by prostaglandin F2α and RU 486 in cultured human myometrial cells.
+Study Design:
+Human myometrial cells obtained from 16 nonpregnant women were loaded with fura 2, and the intracellular cytosolic calcium concentrations were measured by the use of wavelength spectrophotofluorometry.
+Results:
+Application of prostaglandin F2α (2.8 μmol/L) caused an initial rapid rise in cytosolic calcium concentration followed by sustained cytosolic calcium oscillations at an average frequency of 0.43 ± 0.04 min−1 and an amplitude in the range of 296.82 ± 27.16 nmol/L. The oscillatory activity was not affected by increasing the concentration of prostaglandin F2α but varied by changing the concentration of extracellular cytosolic calcium concentration. The cytosolic calcium oscillations were suppressed by caffeine, 2,5-di-tert-butylhydroquinone, and lanthanum but not affected by ryanodine. Verapamil decreased the amplitude but not the frequency of oscillations. The progesterone antagonist RU 486 at a concentration of 10−8 to 10−5 mol/L had no significant effect on the basal intracellular cytosolic calcium. However, RU 486 (10−5 mol/L) significantly increased the frequency but not the amplitude of intracellular cytosolic calcium oscillations induced by prostaglandin F2α.
+Conclusions:
+The results indicate that prostaglandin F2α-stimulated cytosolic calcium oscillations are mediated by an increase in both cytosolic calcium release from inositol 1,4,5-trisphosphate-sensitive cytosolic calcium stores and a cytosolic calcium influx from the extracellular space. Moreover, RU 486 seems to directly regulate prostaglandin F2α-induced intracellular cytosolic calcium in human myometrial cells.
+

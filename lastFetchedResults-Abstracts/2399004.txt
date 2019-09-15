@@ -1,0 +1,8 @@
+Objective
+t the hypothesis that the indentation crack technique can determine surface residual stresses that are not statistically significantly different from those determined from the analytical procedure using surface cracks, the four-point flexure test, and fracture surface analysis.
+s
+ime–silica glass bar specimens (4 mm × 2.3 mm × 28 mm) were prepared and annealed at 650 °C for 30 min before testing. The fracture toughness values of the glass bars were determined from 12 specimens based on induced surface cracks, four-point flexure, and fractographic analysis. To determine the residual stress from the indentation technique, 18 specimens were indented under 19.6 N load using a Vickers microhardness indenter. Crack lengths were measured within 1 min and 24 h after indentation, and the measured crack lengths were compared with the mean crack lengths of annealed specimens. Residual stress was calculated from an equation developed for the indentation technique. All specimens were fractured in a four-point flexure fixture and the residual stress was calculated from the strength and measured crack sizes on the fracture surfaces.
+s
+sults show that there was no significant difference between the residual stresses calculated from the two techniques. However, the differences in mean residual stresses calculated within 1 min compared with those calculated after 24 h were statistically significant (p = 0.003).
+icance
+tudy compared the indentation technique with the fractographic analysis method for determining the residual stress in the surface of soda-lime–silica glass. The indentation method may be useful for estimating residual stress in glass.

@@ -1,0 +1,11 @@
+Objective. To apply the dual Euler angles method to investigate the passive motion characteristics of the human ankle joint complex.
+
+Design. Three-dimensional kinematic data of the ankle joint complex was collected from 10 knee-below foot cadaver specimens.
+
+Background. Besides the Euler angles and screw axis methods, the dual Euler angles method has been proposed as an alternative approach to quantify general spatial human joint motion. The dual Euler angles method provides a way to combine rotational and translational joint motions and to interpret motions in Cartesian coordinate systems, which can avoid the problems caused by the use of the joint coordinate system due to non-orthogonality.
+
+Methods. A non-metal experimental setup was fabricated to generate motion in foot cadaver specimens. The kinematic data during passive dorsiflexion–plantarflexion was measured using an electromagnetic tracking device.
+
+Results. The kinematic coupling characteristics and the respective contribution of the ankle joint and the subtalar joint to the gross motion of the foot with respect to the shank were analyzed based on dual Euler angle parameters. The results obtained in this study are generally in agreement with the observations reported previously.
+
+Conclusions. The dual Euler angles method is suitable for analyzing the motion characteristics of the ankle joint complex. The motion at the ankle joint complex involves rotations about and translations along three axes.

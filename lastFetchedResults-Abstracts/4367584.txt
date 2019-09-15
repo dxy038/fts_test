@@ -1,0 +1,1 @@
+We propose a new bidirectional add/drop amplifier (BADA) module to halve the dispersion compensation cost. We successfully demonstrate the bidirectional transmission and add/drop function of 10 Gb/s /spl times/ 14 channels over 200-km of SMF by using the BADA module.

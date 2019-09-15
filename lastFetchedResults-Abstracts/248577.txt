@@ -1,0 +1,15 @@
+Part III of this three-part series of papers describes the synthesis of roller and sliding hydraulic steel gate
+structures performed by the Mixed-Integer Non-linear Programming (MINLP) approach. The MINLP
+approach enables the determination of the optimal number of gate structural elements (girders, plates),
+optimal gate geometry, optimal intermediate distances between structural elements and all continuous and
+standard crossectional sizes. For this purpose, special logical constraints for topology alterations and
+interconnection relations between the alternative and Þxed structural elements are formulated. They have
+been embedded into a mathematical optimization model for roller and sliding steel gate structures GATOP.
+GATOP has been developed according to a special MINLP model formulation for mechanical superstructures
+(MINLP-MS), introduced in Parts I and II. The model contains an economic objective function of
+self-manufacturing and transportation costs of the gate. As the GATOP model is non-convex and highly
+non-linear, it is solved by means of the ModiÞed OA/ER algorithm accompanied by the Linked Two-Phase
+MINLP Strategy, both implemented in the TOP computer code. An example of the synthesis is presented as
+a comparative design research work of the already erected roller gate, the so-called Intake Gate in Aswan II
+in Egypt. The optimal result yields 29)4 per cent of net savings when compared to the actual costs of the
+erected gate.

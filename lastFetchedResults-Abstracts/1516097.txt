@@ -1,0 +1,7 @@
+This paper presents the bidirectional evolutionary structural optimization (BESO) method for
+the design of two-phase composite materials with optimal properties of stiffness and thermal
+conductivity. The composite material is modelled by microstructures in a periodical base cell
+(PBC). The homogenization method is used to derive the effective bulk modulus and thermal
+conductivity. BESO procedures are presented to optimize the two individual properties and
+their various combinations. Three numerical examples are studied. The results agree well with
+those of the benchmark microstructures and the Hashin-Shtrikman (HS) bounds.

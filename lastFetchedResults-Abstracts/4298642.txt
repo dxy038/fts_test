@@ -1,0 +1,1 @@
+We propose a bidirectional DFE (BiDFE) to mitigate ISI in multimode fibers. We demonstrate that a BiDFE with 8 feedforward and 3 feedback taps per DFE can achieve a reach of 350-400 m over legacy MMF.

@@ -1,0 +1,14 @@
+Objectives
+Our objective was to determine the prognostic value of estimated metabolic equivalents (METs) based on self-reported functional capacity by the Duke Activity Status Index (DASI) in symptomatic women.
+Background
+
+Functional capacity is an important component affecting the predictive value of exercise testing, yet current guidelines offer limited assistance regarding identification of functional impairment and choice of pharmacologic stress testing.
+Methods
+
+A total of 914 women underwent clinically indicated coronary angiography and completed the 12-item DASI questionnaire; a subgroup of 251 women also underwent exercise testing. Cox proportional hazards modeling was used to estimate five-year death or myocardial infarction by DASI scores. In a secondary analysis, additional events included unstable angina, heart failure, or stroke at five years.
+Results
+
+Average DASI-estimated functional capacity was 5.7 ± 4.2 METs and, for exercising women, 6.0 ± 2.6 METs. In the 914 women, event-free survival ranged from 83% to 95% in subgroups with ≤4.7 to >9.9 METs (p = 0.009); 67% of the events occurred in women scoring ≤4.7 METs (p = 0.003). Event rates were similar by exercise and DASI MET values. In women with DASI-estimated METs ≤4.7 (n = 75), ischemia occurred less (39% vs. 64%, p < 0.0001), and exercise testing results were more often indeterminate (<85% predicted maximum heart rate = 37% vs. 6%, p = 0.001) as compared to women achieving >4.7 METs.
+Conclusions
+
+Among women with suspected myocardial ischemia, functional impairment estimated by the DASI correlates with indeterminate exercise test results and is associated with an adverse prognosis. Use of the DASI before exercise testing can risk stratify symptomatic women and may improve the identification of higher-risk, functionally impaired subjects that would benefit from pharmacologic stress imaging and targeted risk management.

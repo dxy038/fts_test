@@ -1,0 +1,18 @@
+Development of a micromechanics model capable of providing overall macroscopic
+responses for directionally fiber-reinforced composites undergoing matrix cracking (in terms of
+microgeometric features) is the principal objective of this paper. It is shown that fiber bridging plays
+an important role, and the effective moduli of a composite may be significantly inlluenceel by the
+crack size. Bridging effects are negligible for inl%itesimally small cracks (or a -+ 0), and closed-form
+effective moduli are obtained via standard micromechanics approach for a hybrid composite system
+with two distinct inclusion phases (fibers and cracks). When crack size exceeds a threshold value u*
+(a$ being the crack size for saturated bridging), the bridging effect is significant, and a closed-form
+solution for effective moduli is again possible using a self-consistent approach accommodating
+bridging effects within the micromechanics framework. In the transition regime (0 < a < a,),
+however, the effective moduli become crack-size dependent. A full three-dimensional bridging
+solution, involving discrete fibers and penny-shaped cracks, is developed to numerically determine
+the effective moduli in this regime. The procedure also allows numerical determination of the
+saturated crack size, 4. The important of crack-size dependence is then discussed. It is observed that
+the effective longitudinal modulus for a silicon carbide reinforced intermetallic may be significantly
+underestimated by standard micromechanics model. In the transition range (0 < u < 3, the present
+model also provides an avenue for estimation of crack sixes based on observations of overall macromoduli
+of damaged composite systems. 0 1997 Elsevier Science Ltd.

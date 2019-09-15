@@ -1,0 +1,11 @@
+Objective
+It is well known that hypoxic stress strongly enhances erythropoiesis, but the effect of hypoxia on erythroid progenitors has not been examined precisely. In the present study, using the erythropoietin-dependent cell line UT-7/Epo, which has characteristics of erythroid progenitors, we investigated a novel role of hypoxia in erythropoiesis.
+Methods
+
+UT-7/Epo and four other hematopoietic and lymphoid cell lines (HL-60, THP-1, Raji, and CEM) were cultured in 20%, 5%, or 1% O2. Morphology was observed under a phase-contrast microscope. Cell motility was evaluated using the Transwell migration assay. An analysis of the protein level of hypoxia-inducible factor-1 (HIF-1) α and autocrine motility factor (AMF) was conducted using Western blotting and immunocytochemistry, respectively. Reverse transcription polymerase chain reaction was performed to evaluate the expression of AMF mRNA. Human bone marrow stromal cells were used in cocultures with UT-7/Epo. Apoptosis of UT-7/Epo was examined by immunocytochemistry using an antiactive form of caspase 3 antibody.
+Results
+
+Among the five cell lines, UT-7/Epo exhibited active pseudopodial extension in hypoxia (1% O2), and cell motility was increased. HL-60, THP-1, Raji, and CEM did not show an increase in cell motility even in 1% O2. In addition, expression of the α–subunit of HIF-1 was activated by hypoxia, and expression of the mRNA and protein of AMF induced by HIF-1, increasing cell motility, was promoted. The addition of an HIF-1 inhibitor, cadmium chloride (CdCl2), or α-ketoglutarate (2-oxoglutarate) decreased the AMF mRNA expression, and an AMF inhibitor, erythrose 4-phosphate, decreased the cell motility. When UT-7/Epo was cocultured with human bone marrow–derived stromal cells that significantly inhibit the apoptosis of UT-7/Epo, the migration of UT-7/Epo under the stromal cells (pseudoemperipolesis) was increased in hypoxia.
+Conclusion
+
+Under hypoxic conditions, erythroid progenitors may exhibit active migration in the bone marrow and the opportunity for contact with stromal cells increases, inhibiting apoptosis.

@@ -1,0 +1,9 @@
+Objective
+Given the same pretest probability (10%) for subarachnoid hemorrhage (SAH), pulmonary embolism (PE), and acute coronary syndrome (ACS), we determined if differences exist in the risk tolerance for disease exclusion according to published guidelines given a negative test result.
+Methods
+Published guidelines that make practice recommendations on the evaluation of ACS, PE, and SAH were sought using the National Guideline Clearinghouse in low-risk settings. Second-order Monte Carlo simulation was performed to determine point estimates and confidence intervals (CIs) for posttest probabilities assuming a pretest probability of 10%.
+Results
+Guidelines recommend that patients with low-risk suspected ACS should undergo stress testing. For SAH, computed tomography (CT) followed by lumbar puncture (LP) is recommended without mention of pretest probability; and D-dimer testing is recommended to exclude PE in low-risk patients. Test sensitivity for thallium-201 single photon emission computed tomography (SPECT) was 89%, exercise echocardiogram was 85%, D-dimer testing was 95%, and CT/LP for SAH was 100% (as a gold standard) and CT only was 97.5%. Given a negative test result, for PE, posttest probability was 0.5% (95% CI 0.1%-0.9%); for SPECT, 1.1% (SD 0.5%-1.6%); and for exercise echocardiogram, 1.5% (95% CI 0.5%-2.5%) compared with a posttest probability of 0% for CT followed by LP for SAH. Using a CT-only approach gives a posttest probability of 0.2% (95% CI 0.2%-0.4%).
+Conclusions
+Guidelines for suspected PE and ACS allow small but nonzero calculated risk end points in low-risk settings, whereas SAH guidelines afford no misses. Because many gold standard tests are more invasive and can have adverse effects, guideline authors should consider adopting a standard acceptable miss rate as an end point for workups with low clinical suspicion to avoid the overuse of invasive testing.
+

@@ -1,0 +1,1 @@
+An objective method was developed to check and fit liquid-liquid equilibrium data obtained experimentally. The analytical concentrations are changed slightly within the interval given by the uncertainties of the determinations in order to satisfy the material balances. The method consists of a minimisation with constraints of a proposed objective function.

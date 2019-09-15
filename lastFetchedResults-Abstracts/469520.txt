@@ -1,0 +1,9 @@
+Objective
+Women with chronic hypertension are at increased risk for superimposed preeclampsia. We developed a prediction algorithm for superimposed preeclampsia using clinical and laboratory information that were measured early in pregnancy.
+Study design
+A secondary analysis of data that were collected from 110 women with chronic hypertension who were enrolled in a trial of calcium supplementation was performed. Blood pressure, the renin-angiotensin system, and calcium metabolism were assessed at 12, 20, 28, and 36 weeks of gestation and 6 weeks after delivery. Multivariable logistic regression was used to develop the predictive model.
+Results
+Thirty-seven women had superimposed preeclampsia. The final model included systolic blood pressure, serum uric acid, and plasma renin activity, which were all measured at 20 weeks of gestation. Women with high systolic blood pressure (>140 mm Hg), elevated uric acid (>3.6 mg/dL), and low plasma renin activity (<4 ng/mL/hr) had an 86% probability of having superimposed preeclampsia. Women with 2 risk factors had a 62% probability of superimposed preeclampsia, and women with only 1 risk factor had a 30% to 40% probability of superimposed preeclampsia.
+Conclusion
+We developed a prediction algorithm that can be validated in future studies for superimposed preeclampsia for women with chronic hypertension.
+

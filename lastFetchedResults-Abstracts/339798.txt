@@ -1,0 +1,11 @@
+Objective
+To study the mechanism of bortezomib resistance in JurkatB lines derived from T-lymphoblastic lymphoma/leukemia Jurkat line.
+Materials and Methods
+
+Cytotoxicities of popular chemotherapeutic drugs to JurkatB cells were analyzed by trypan blue assay. Functional drug efflux in JurkatB cells was determined by flow cytometry utilizing daunorubicin and the expression of P-glycoprotein (P-gp) was detected by Western blot. mRNA expression levels of proteasome β5 subunit (PSMB5) were measured by quantitation real-time reverse transcription polymerase chain reaction. In situ hybridization was performed to detect the amplification of PSMB5 gene. The chymotrypsin-like activities were assayed by measuring the release of the fluorescent 7-amido-4-methylcoumarin (AMC) from the substrate N-succinyl-Leu-Leu-Val-Tyr–AMC. Cytogenetic studies were performed using R-banded metaphases and fluorescence in situ hybridization (FISH) analysis. IκB-α levels were detected by Western blot.
+Results
+
+No cross-resistance to daunorubicin, adriamycin, vindesine, and etoposide was found in JurkatB cells. No evidence of drug efflux was found in JurkatB cells and the expression of P-gp was negative. The PSMB5 mRNA was overexpressed in highly resistant JurkatB5 and JurkatB1 lines compared with parental Jurkat, corresponding well with the increase of chymotrypsin-like activity and a karyotype of i(14q). Amplification of PSMB5 gene was demonstrated by in situ hybridization and FISH. The decreased IκB-α level in JurkatB5 cells after bortezomib treatment indicating an upregulation of nuclear factor–κB (NF-κB) activity.
+Conclusion
+
+The mechanism of bortezomib resistance is different from that of multidrug resistance. Overexpression of PSMB5 is an important mechanism for bortezomib resistance in JurkatB lines. NF-κB may play a critical role in evading the apoptotic effects.

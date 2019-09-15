@@ -1,0 +1,14 @@
+This paper describes the solution of a worst-case design optimization problem of head impact in automotive
+design. The worst-case design process uses an optimization algorithm that can locate saddlepoints:
+points in the design space where the objective function is maximized with respect to some design
+variables (worst case) while it is minimized with respect to other design variables simultaneously.
+The worst-case design methodology is  rst tested using two analytic functions. Both functions contain
+saddlepoints, while the second one also has a random analytic noise component and an integer
+variable. Thereafter, the methodology is applied to the worst-case design of a crashworthiness head
+impact problem. The head impact problem contains both numerical noise and an integer variable. For
+the  rst analytical case, the e ect of separability of the maximization and minimization variables is
+investigated by rotating the design variable axes. For the second analytical case, analytical noise in the
+form of a modi ed Griewank function and an integer variable is added. For the head impact problem,
+cases are presented where maximization and minimization are  rst performed separately, and then in a
+combined fashion to locate the saddle point. The case studies illustrate the power of this approach in
+the automotive occupant safety design  eld

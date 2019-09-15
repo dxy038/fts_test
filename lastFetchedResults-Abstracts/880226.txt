@@ -1,0 +1,1 @@
+We give conditions to obtain equality between the Clarke subdifferentials of the optimal value function and those of objective function, in the particular case of the support function, called in this paper the cost function.

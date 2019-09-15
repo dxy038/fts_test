@@ -1,0 +1,9 @@
+This paper proposes a multi-objective model for the economic-statistical design of
+the variable sample size and sampling interval multivariate exponentially weighted
+moving average control chart by using double warning lines. The Markov chain
+approach is used to obtain the statistical properties. We extend the Lorenzen and
+Vance cost function considering multiple assignable causes and multivariate Taguchi
+loss approach to obtain the expected cost per time unit. The meta-heuristic nondominated
+sorting genetic algorithm is used to search for the Pareto optimal
+solutions. A numerical example is provided to illustrate the solution procedure.
+Finally, sensitivity analyses for some parameters are given. 

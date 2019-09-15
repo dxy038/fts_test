@@ -1,0 +1,8 @@
+SummaryObjectives
+istence of proper non-invasive temperature estimators is an essential aspect when thermal therapy applications are envisaged. These estimators must be good predictors to enable temperature estimation at different operational situations, providing better control of the therapeutic instrumentation. In this work, radial basis functions artificial neural networks were constructed to access temperature evolution on an ultrasound insonated medium.
+s
+ployed models were radial basis functions neural networks with external dynamics induced by their inputs. Both the most suited set of model inputs and number of neurons in the network were found using the multi-objective genetic algorithm. The neural models were validated in two situations: the operating ones, as used in the construction of the network; and in 11 unseen situations. The new data addressed two new spatial locations and a new intensity level, assessing the intensity and space prediction capacity of the proposed model.
+s
+erformance was obtained during the validation process both in terms of the spatial points considered and whenever the new intensity level was within the range of applied intensities. A maximum absolute error of 0.5 ° C ± 10 % (0.5 °C is the gold-standard threshold in hyperthermia/diathermia) was attained with low computationally complex models.
+sion
+sults confirm that the proposed neuro-genetic approach enables foreseeing temperature propagation, in connection to intensity and space parameters, thus enabling the assessment of different operating situations with proper temperature resolution.

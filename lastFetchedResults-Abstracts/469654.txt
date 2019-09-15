@@ -1,0 +1,9 @@
+Objective
+The purpose of this study was to evaluate temporal trends in abruption risk and to assess how much underlying changes in the clinical determinants may have affected these trends.
+Study design
+We used the National Hospital Discharge Summary data (1979-2001), an annual survey of sampled non-federal, short stay, general, and specialty hospitals in the United States. Trends in abruption were assessed for the periods 1979 through 1981 and 1999 through 2001. Clinical determinants of abruption that were evaluated included hypertensive diseases, anemia, gestational diabetes mellitus, preterm labor, preterm premature rupture of membranes, chorioamnionitis, oligohydramnios, obstetric shock/trauma, uterine tumors, short umbilical cord, and velamentous cord insertion. Temporal trends in abruption were examined before and after adjustment for determinants through multivariable logistic regression.
+Results
+The rate of abruption increased 92% (95% CI, 88, 96) among black women between 1979-1981 (0.76%; n = 13,584 women) and 1999-2001 (1.43%; n = 18,960 women). Among white women, the rate increased by 15% (95% CI, 14,16) over the same period, from 0.82% (n = 66,186 women) in 1979-1981 to 0.94% (n = 59,284 women) in 1999-2001. The determinants that were associated with trends in abruption included anemia, gestational diabetes mellitus, preterm labor, short umbilical cord, and velamentous cord insertion, although their effects varied substantially by maternal race.
+Conclusion
+The temporal increase in rates of abruption may reflect a true increase in risk or may be the result of improved diagnosis of both abruption and its determinants. Although the cause of abruption is still speculative, the trend is of concern and deserves scrutiny.
+

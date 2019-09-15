@@ -1,0 +1,16 @@
+RainSim V3 is a robust and well tested stochastic rainfall field generator used successfully in a broad
+range of climates and end-user applications. Rainfall fields or multi-site time series can be sampled from
+a spatial–temporal Neyman–Scott rectangular pulses process: storm events occur as a temporal Poisson
+process; each triggers raincell generation using a stationary spatial Poisson process; raincells are clustered
+in time lagging the storm event; each raincell contributes rainfall uniformly across its circular
+extent and throughout its lifetime; raincell lag, duration, radius and intensity are random variables;
+orographic effects are accounted for by non-uniform scaling of the rainfall field. Robust and efficient
+numerical optimization schemes for model calibration are identified following the evaluation of five
+schemes with optional log-transformation of the parameters. The log-parameter Shuffled Complex
+Evolution (lnSCE) algorithm with a convergence criterion is chosen for single site applications and an
+effort limited restarted lnSCE algorithm is selected for spatial applications. The new objective function is
+described and shown to improve model calibration. Linear and quadratic expressions are identified
+which can reduce the bias between the fitted and simulated probabilities of both dry hours and dry days
+as used in calibration. Exact fitting of mean rainfall statistics is also implemented and demonstrated. An
+application to the Dommel catchment on the Netherlands/Belgian border illustrates the ability of the
+improved model to match observed statistics and extremes.

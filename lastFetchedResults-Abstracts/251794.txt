@@ -1,0 +1,21 @@
+Simplified computer models are used to gain insight into more complex real
+systems. In a reversion of this protocol, a colloidal suspension of submicron
+spherical particles, approximately hard and uniform, was recently crystallized in
+space and analyzed for crystal type. The objective was to establish how, and to
+what structure, hard spheres crystallize without gravity. Computational statistical
+thermodynamics predicts an equilibrium constant between fcc and hcp of
+order unity. The microgravity experiments, however, resulted in a random
+hybrid close-packed structure (rhcp) such that long-range order is two-dimensional.
+Here we report the mechanism from idealized computer ‘‘experiments’’
+for crystallization of spheres from the metastable fluid. Model systems of up to
+N=64,000 spheres with infinite spatial periodicity have been crystallized in runs
+of up to 10 billion collisions. When the fluid, initially in a metastable supercooled
+state at 58% packing, is allowed to nucleate and freeze, a variety of
+structures emerges. There are three identifiable stages of structural growth:
+(i) initial nucleation of fcc, rhcp, and also bcc-like (body-ceIntered cubic) local
+structures; (ii) rapid growth of all incipient nucleites to random stacked twodimensional
+hexagonal (rhcp) grains, plus some fcc, to fill the volume; and
+(iii) relatively slow dissolution of unstable rhcp faces at grain boundaries. Eventually,
+stable nucleites emerge comprising hexagonal layers, arranged so as to
+contain predominantly either fcc arrangements of spheres or rhcp, in roughly
+50% proportions.

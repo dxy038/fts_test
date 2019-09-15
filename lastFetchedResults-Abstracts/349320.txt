@@ -1,0 +1,11 @@
+Objective
+To investigate the changes in cortical excitability of the human motor cortex induced by high-frequency repetitive transcranial magnetic stimulation (rTMS) of different stimulation durations.
+Methods
+Twenty healthy subjects participated in the study. Subjects received 20 trains of 10-Hz rTMS at 80% of the resting motor threshold (RMT) intensity with two different stimulation durations (5 and 1.5 s) over the motor hot spot for left first dorsal interosseous (FDI) muscle. Electromyographic responses (motor-evoked potentials, MEPs) to single-pulse stimulation, and intracortical inhibition (ICI) and intracortical facilitation (ICF) by paired-pulse stimulation were measured bilaterally in the relaxed FDI muscles before, immediately after, and 30, 60, 90 and 120 min after rTMS.
+Results
+After 5 s of 10-Hz rTMS, the mean amplitude of MEP for the stimulated M1 cortex decreased for up to 90 min (P = 0.002) and that of the unstimulated M1 cortex decreased for up to 60 min (P = 0.008). Enhancement of ICI and suppression of ICF were observed and sustained for more than 90 min in both stimulated (P = 0.001) and unstimulated (P = 0.003) M1 cortex after 5 s of 10-Hz rTMS. After 1.5 s of 10-Hz rTMS, the mean amplitude of MEP increased in stimulated cortex for up to 120 min (P = 0.005).
+Conclusions
+With different stimulation durations, high-frequency subthreshold rTMS can produce different patterns of long-lasting changes in corticospinal and intracortical excitability in stimulated and unstimulated motor cortex in healthy subjects.
+Significance
+The results have important implications for the selection of stimulation parameters other than the frequency of rTMS. The clinical application of rTMS for the purpose of motor enhancement should be considered along with the mechanism of different stimulation parameters.
+

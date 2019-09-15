@@ -1,0 +1,11 @@
+The major oil industry upstream activities include the exploration, drilling, extraction,
+pipelines installation, and production of crude oil. In this paper, we develop a
+mathematical model to plan for these operations as a crude oil supply chain network
+design problem. The proposed multi-period mixed integer linear programming model
+entails both strategic (e.g., facility location and allocation) and tactical (e.g., project and
+production planning) decisions. With the objective of maximizing total Net Present Value
+(NPV) at the end of planning horizon, the decisions to be made comprise the location of
+the facilities, the flow of commodities and the amount of investment. The uncertain
+natures of important input parameters such as capital and operational cost, demand and
+price of crude oil, are taken into account via fuzzy theory. Finally, the performance of the
+developed model is investigated using the real data of Iranian South Oilfields.

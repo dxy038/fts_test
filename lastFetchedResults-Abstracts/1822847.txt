@@ -1,0 +1,8 @@
+Objective
+ontal ligament cells (PDLs) produce prostaglandin E2 (PGE2) in response to orthodontic force. PGE2 is a potent osteoclast-inducing factor that induces the receptor activator of nuclear factor-κB ligand (RANKL). Some studies reported that PDLs express RANKL in response to mechanical stress, whereas another study reported that they do not. Based on an immunohistochemical study, RANKL expression is localized around the alveolar bone surface 3 days after tooth movement. However, ankylosed teeth cannot be moved by therapeutic mechanical stress, suggesting that PDLs play a major role in alveolar bone resorption. In this study, we compared the functional difference in osteoclastogenesis between human PDLs (HPDLs) and normal human osteoblasts (HOBs) as a direct effect of PGE2 exposure.
+
+mined the expression of RANKL, osteoprotegerin, and macrophage colony-stimulating factor after 48-h culture with or without PGE2 (10−11 to 10−5 M) in HPDLs and HOBs. Then to confirm whether RANKL produced by PGE2 treatment induces osteoclastogenesis or not, RAW264.7 cells were co-cultured on HPDLs or HOBs pretreated with 10−6 M of PGE2.
+
+xposure increased significantly RANKL expression in HOBs compared with HPDLs. PGE2 exposure significantly decreased osteoprotegerin expression in HPDLs compared with HOBs. The number of tartrate-resistant acid phosphatase staining osteoclast-like cells from RAW264.7 cells increased significantly by PGE2 pretreatment in HOBs and was reduced by small interfering RNA knockdown of RANKL.
+sion
+results suggest that osteoblasts strongly influence the stimulation of osteoclastogenesis via RANKL, induced by PGE2 in periodontal tissues, compared with PDLs.

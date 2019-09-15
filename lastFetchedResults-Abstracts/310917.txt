@@ -1,0 +1,11 @@
+Objective. To characterise the time course of stress relaxation and recovery from stress relaxation in human ankles.
+
+Design. Two experiments were conducted. The first used a randomised within-subjects design, and the second used a randomised between-subjects regression design.
+
+Background. Several studies have described the time course of stress relaxation in human joints, but most have looked only at the effects of short durations of stretch. The time course of recovery from stretch in human ankles has not been documented.
+
+Methods. In the first experiment, one ankle of each of eight subjects was stretched to a fixed dorsiflexion angle for 20 min. The ankle was then released for 2 min (during which time subjects either remained relaxed or performed isometric contractions), then stretched again. In a second experiment, on 24 subjects, the ankle was stretched for 20 min, then released between 0 and 20 min, then stretched again. In both experiments, subjects remain relaxed and ankle torque was measured continuously.
+
+Results. When a constant-angle stretch was applied to the ankle, torque declined bi-exponentially towards an asymptote that was 58% of the initial torque. Nearly 5 min of stretch were required to obtain half of the maximal possible stress relaxation. Torque had recovered by 43% within 2 min of the release of stretch, but the degree of recovery did not appear to depend on whether subjects remained relaxed or performed isometric contractions. The time course of recovery was similar to the time course of stress relaxation.
+
+Conclusions. Long duration stretches are required to produce a large proportion of the maximal possible stress relaxation. Recovery is initially rapid when the stretch is released.

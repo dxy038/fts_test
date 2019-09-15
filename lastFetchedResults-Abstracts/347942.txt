@@ -1,0 +1,6 @@
+Objective: In this article we describe the course of synchronization between different EEG channels during nocturnal seizures in one patient with nocturnal frontal lobe epilepsy (NFLE).
+Methods: The functional interactions between the different EEG channels during the nocturnal seizures were analyzed by means of the so-called synchronization likelihood (SL). SL is a measure of the dynamical interdependencies between a time series (EEG channel) and one or more other time series. In contrast to coherence, SL measures linear as well as non-linear interdependencies and it can do so as a function of time, making it suitable for non-stationary time series.
+Results: The main result of our single-patient study is the demonstration of a significant hyper-synchronization during NFLE seizures in the 8–12 Hz band which seems to be stopped by an increase in synchronization in the 0.5–4 Hz band, towards the end of each ictal episode.
+Conclusions: We suggest that a self-inhibiting complex mechanism might be responsible for the termination of ictal episodes which might take place at the level of the cortical layers and might involve mainly pyramidal neurons.
+Significance: This study shows that advanced EEG analysis methods can help the current understanding of ictal manifestations of NFLE.
+

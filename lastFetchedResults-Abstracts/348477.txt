@@ -1,0 +1,11 @@
+Objective
+The current study evaluates the effectiveness of a brain–computer interface (BCI) system that operates by detecting a P300 elicited by one of four randomly presented stimuli (i.e. YES, NO, PASS, END).
+Methods
+Two groups of participants were tested. The first group included three amyotrophic lateral sclerosis (ALS) patients that varied in degree of disability, but all retained the ability to communicate; the second group included three non-ALS controls. Each participant participated in ten experimental sessions during a period of approximately 6 weeks. During each run the participant's task was to attend to one stimulus and disregard the other three. Stimuli were presented auditorily, visually, or in both modes.
+Results
+Two of the 3 ALS patient's classification rates were equal to those achieved by the non-ALS participants. Waveform morphology varied as a function of the presentation mode, but not in a similar pattern for each participant.
+Conclusions
+The event-related potentials elicited by the target stimuli could be discriminated from the non-target stimuli for the non-ALS and the ALS groups. Future studies will begin to examine online classification.
+Significance
+The results of offline classification suggest that a P300-based BCI can serve as a non-muscular communication device in both ALS, and non-ALS control groups.
+

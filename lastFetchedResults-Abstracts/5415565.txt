@@ -1,0 +1,1 @@
+A CMOS current comparator with well-controlled hysteresis is described. The current comparator allows bidirectional input currents. Experimental results show that the current comparator takes approximately 300 ns to resolve a 2 &#956;A difference of input and threshold currents

@@ -1,0 +1,17 @@
+
+
+
+
+In this paper, technique for order of preference by similarity to ideal solution(TOPSIS) method is used
+to find the best compromising design of intake manifold for a 3-cylinder engine considering mean
+value of torque, torque at 3500 rpm, mean value of brake mean specific consumption (BSFC) and
+BSFC at 3500 rpmas four objective functions. To calculate the objective functions, engine simulation
+is carried out using GT-SUITE software. The engine simulation code (ESC) is built from experimental
+combustion pressure data which come from engine test bench. Results of such simulations are then
+used to perform TOPSIS and some design points are obtained considering similar values for the
+objective functions weights. Due to high value of torque and low value of BSFC one of the obtained
+designs is selected as the best compromising design. To evaluate performance of the selected design,
+the flow rate is completely investigated experimentally and numerically. Results show that the flow is
+distributed in three runners as uniform, so that the maximum difference of flow rate is 0.49% which
+means the uniform air charging for all the three cylinders. Also, good compatibiliy is found between
+the CFD and experimenal results from flow rate point of view.

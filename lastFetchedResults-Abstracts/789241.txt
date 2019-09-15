@@ -1,0 +1,3 @@
+We consider the steady Stokes equations in a bounded domain Ω⊂Rn,n=2,3 describing the motion of an incompressible viscous fluid under the action of point-forces located inside Ω. The objective of this work is to solve the inverse problem of determining the number, location and strength of the these point-forces.
+
+The detection of the unknown point-forces is made by means of the prescribed fluid velocity at the boundary ∂Ω and by a single measurement of the stress exerted by the fluid on ∂Ω. The main tool is the use of a reciprocity gap function, which is obtained by applying a reciprocity gap functional to Stokeslets located outside Ω. This procedure leads to the resolution of a nonlinear minimization problem.

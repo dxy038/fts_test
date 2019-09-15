@@ -1,0 +1,12 @@
+Solar irradiation is one of the major renewable energy sources and technologies related with this source have reached to high level
+applications. Prediction of solar irradiation shows some uncertainties depending on atmospheric parameters such as temperature, cloud
+amount, dust and relative humidity. These conditions add new uncertainties to the prediction of this astronomical parameter. In this
+case, prediction of generated electricity by photovoltaic or other solar technologies could be better than directly solar irradiation.
+In this paper, firstly, Artificial Neural Networks (ANNs) methodology is applied to data obtained from a 750 W power capacity of
+solar PV panel. The main objective of this paper is to determine time horizon having the highest representative for generated electricity
+prediction of small scale solar power system applications. It is seen that 5 min time horizon gives the best solar power prediction for short
+term and 35 min could be used for medium terms in April. In addition, these time horizons have increased to 3 and 40 min for very short
+time and medium time prediction respectively during August. During April and August Root Mean Square Errors (RMSEs) between
+measured and testing values changed between 33–55 W and 37–63 W ranges respectively. Especially, during August for solar irradiation,
+stationary conditions are observed and these situations let ANN predict easily generated electricity from 30 to 300 min ahead.
+  2011 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,7 @@
+Background and Objective: As the main virulence factor of Helicobacter pylori, HP-NAP has an important role in immunoprotection against this pathogen.  This antigen is a strong candidate as a part of multi-component vaccine in the clinical trial against this bacterium.  Due to NAP importance, it was used in this study as a template for optimization of heterologous genes with a low A-T content and low expression in E. coli.
+Materials and Methods: A synthetic single gene that could reach the highest level of expression in the host was designed by using bioinformatics tools. 
+Results: A number of factors that influence gene expression level were changed for HP-NAP gene optimizing:  the codon usage bias in E. coli was changed; the G+C content was upgraded from 38% to 45%; and the stem-loop structure was broken.  These could result to prolong of the half-life of the mRNA and overexpression of recombinant of HP-NAP protein up to 800 mg per liter. 
+Conclusion: Applying of bioinformatics tools was appropriated to optimize of HP-NAP overexpression in E. coli.  From our results, it appears that combination of In Silico and experimental approach is a logical approach for expression of heterologous genes in another host.
+
+Keywords: Helicobacter pylori, Bioinformatics, Optimization, Recombinant HP-NAP, Cloning, Expression. 
+

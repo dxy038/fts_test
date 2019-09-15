@@ -1,0 +1,8 @@
+In this paper, we investigate a linear programming problem. Our interest is focused on
+the case where the coecients of objective function, the coecients matrix and the right
+hand side vector are either compact convex sets or, in particular, convex polytopes. We
+are interested primarily in the systems of inequalities; later on we also deal with systems of
+equations. A new concept of strict feasibility and the dual case of this kind of problems is
+also introduced and investigated. As convexity, compactness and regularity of the coecients
+matrix is not sucient for strong duality; the main result of this paper deals with nding a
+necessary and sucient conditions for strong duality.

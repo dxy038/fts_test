@@ -1,0 +1,1 @@
+This paper presents the sensor dongle, or Lighting-Aware and COntrol (LACO), and its application software. LACO is implemented with optical sensors combined with VLC receiver to get the positioning-ID from illumination. Moreover, four bidirectional networks capable of interaction with LACO are classified and future trends of lighting system are also introduced.

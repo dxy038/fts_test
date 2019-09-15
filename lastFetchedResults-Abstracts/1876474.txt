@@ -1,0 +1,8 @@
+Objective
+ess the agreement between 2 methods of assigning New York Heart Association (NYHA) functional class to patients with chronic heart failure (CHF): deriving NYHA class from self-report interview data versus clinician assignment. To then determine the ability of each method to predict all-cause hospitalization.
+s
+ with CHF ≥ 50 years old from an urban health system in Indianapolis, Indiana, were administered the Kansas City Cardiomyopathy Questionnaire (a validated CHF symptom questionnaire) at baseline. Patient self-reported functional data were then used to derive NYHA class. Clinical providers who were blinded to patients’ questionnaire data independently assessed NYHA functional class. We used a weighted κ statistic to evaluate the agreement between the NYHA class from patient-derived and that from provider-assigned methods. We then assessed the ability of patient and provider NYHA to predict time to hospitalization using Cox proportional hazards models.
+s
+ patients with complete 6-month follow-up (mean age 63 years ± 9 SD, 53% African American, and 68% women), the correlation coefficient was 0.43 between the patient-derived and provider-assigned NYHA methods. The weighted κ statistic was 0.278, and the 95% confidence interval was 0.18 to 0.37, indicating only slight agreement. Patients classified themselves in worse categories than did their providers. Provider-assigned NYHA was a better predictor of hospitalization (P = .06).
+sions
+is only slight agreement between patient-derived and clinician-assigned NYHA functional class. A different approach with patients may be needed if providers hope to use patients’ reports to identify those at risk for hospitalization.

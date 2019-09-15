@@ -1,0 +1,1 @@
+The objective of this tutorial is to focus on one technique that is suitable for the modeling and verification of distributed systems: Petri nets. After the tutorial, they should be able to model a problem with Petri nets, express properties and use a tool to check them.

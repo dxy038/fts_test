@@ -1,0 +1,1 @@
+This paper proposes a novel ECDM-OFDM-PON architecture for next-generation passive optical network. An error free bidirectional transmission of two PON channels has been successfully demonstrated in the experiment.

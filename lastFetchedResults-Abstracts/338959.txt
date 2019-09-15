@@ -1,0 +1,8 @@
+Objective
+Imatinib, a BCR/ABL tyrosine kinase inhibitor, has shown remarkable clinical effects in chronic myelogenous leukemia. However, the leukemia cells become resistant to this drug in most blast crisis cases. The transcription factor Nrf2 regulates the gene expression of a number of detoxifying enzymes such as γ-glutamylcysteine synthetase (γ-GCS), the rate-limiting enzyme in glutathione (GSH) synthesis, via the antioxidant response element (ARE). In this study, we examined the involvement of Nrf2 in the acquisition of resistance to imatinib. Since oxidative stress promotes the translocation of Nrf2 from the cytoplasm to the nucleus, we also examined whether ascorbic acid, a reducing reagent, can overcome the resistance to imatinib by inhibiting Nrf2 activity.
+Results
+
+Binding of Nrf2 to the ARE of the γ-GCS light subunit (γ-GCSl) gene promoter was much stronger in the imatinib-resistant cell line KCL22/SR than in the parental imatinib-sensitive cell line KCL22. The levels of γ-GCSl mRNA and GSH were higher in KCL22/SR cells, a finding consistent with the observation of an increase in Nrf2-DNA binding. Addition of a GSH monoester to KCL22 cells resulted in an increase in the IC50 value of imatinib. In contrast, addition of ascorbic acid to KCL22/SR cells resulted in a decrease in Nrf2-DNA binding and decreases in levels of γ-GCSl mRNA and GSH. Consistent with these findings, ascorbic acid partly restored imatinib sensitivity to KCL22/SR.
+Conclusion
+
+Changes in the redox state caused by antioxidants such as ascorbic acid can overcome resistance to imatinib via inhibition of Nrf2-mediated gene expression.

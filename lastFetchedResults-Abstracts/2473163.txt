@@ -1,0 +1,4 @@
+In this paper we study optimization problems with infinity
+many inequality constraints on a Banach space where the objective function and the binding constraints are Lipschitz near the optimal solution.
+Necessary optimality conditions and constraint qualifications in terms of
+Michel-Penot subdifferential are given.

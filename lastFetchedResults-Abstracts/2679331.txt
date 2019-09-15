@@ -1,0 +1,9 @@
+This paper presents a method for optimizing the design cost of a doubly
+reinforced High Strength Concrete (HSC) T-beam. The objective function used in the
+model includes the costs of HSC, steel, and formwork. The constraint functions are set
+to satisfy design requirements of Eurocode 2 (EC-2). The cost optimization process is
+developed by the use of the Generalized Reduced Gradient algorithm. An example problem
+is considered in order to illustrate the applicability of the proposed design model and
+solution methodology. It is concluded that the present approach is economically more
+eective when compared to conventional design methods and can be extended to deal with
+other sections without major alterations.

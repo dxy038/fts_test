@@ -1,0 +1,16 @@
+In lhis paper, we prove a general result on objective corotational rates and their defining
+spin tensors: let f~* be a spin tensor that is associated with the rotation and deformation of a
+deforming material body in an arbitrary manner indicated b 3 fl* - Y(B. D. W), where B and D
+and W are the left Cauchy--Green tensor and the stretching tensor and the vorticity tensor, respectively.
+Then the corotational rate of # defined by the spin ~*, i.e., the tensor field
+6-* = dr+#f~* ~*#, is objective for every time-differentiable ol2jective Eulerian symmetric tensor
+field ~ if and on b if the spin tensor ~* assumes the form
+.Q* - W +/'(B, D).
+where I'(B,D) is an antisymmetric tensor-valued isotropic fimction. Furthermore, by virtue of
+certain necessary or reasonable requirements, it is found that a single antisymmetric function of two
+positive real variables can be introduced to characterize a general class of spin tensors defining
+objective corotational rates. Accordingly, a general explicit basis-free expression for the latter is
+established in terms of the left Cauchy-Green tensor B, the w)rticity tensor W and the stretching
+tensor D as well as the introduced antisymmetric function. By choosing several particular forms of
+the latter, it is shown that all commonly-used spin tensors are incorporated into this general
+expression in a natural way. 1998 Elsevier Science Ltd. All rights reserved

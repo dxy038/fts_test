@@ -1,0 +1,11 @@
+Objective. To quantify stress distribution of the foot during mid-stance to push-off in barefoot gait using 3-D finite element analysis.
+
+Design. To simulate the foot structure and facilitate later consideration of footwear. Finite element model was generated and loading condition simulating barefoot gait during mid-stance to push-off was used to quantify the stress distributions.
+
+Background. A computational model can provide overall stress distributions of the foot subject to various loading conditions.
+
+Methods. A preliminary 3-D finite element foot model was generated based on the computed tomography data of a male subject and the bone and soft tissue structures were modeled. Analysis was performed for loading condition simulating barefoot gait during mid-stance to push-off.
+
+Results. The peak plantar pressure ranged from 374 to 1003 kPa and the peak von Mises stress in the bone ranged from 2.12 to 6.91 MPa at different instants. The plantar pressure patterns were similar to measurement result from previous literature.
+
+Conclusions. The present study provides a preliminary computational model that is capable of estimating the overall plantar pressure and bone stress distributions. It can also provide quantitative analysis for normal and pathological foot motion.

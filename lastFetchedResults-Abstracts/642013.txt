@@ -1,0 +1,9 @@
+Objective
+We investigated the relation between membrane lipid peroxidation, as evaluated by malondialdehyde (MDA), and oxidative stimuli in the Jurkat T-cell line and designed a cellular model to assess the antioxidant potential of compounds.
+Methods
+Jurkat T cells were subjected to different concentrations of Fe2+ ions (from 25 to 150 μmol/L) or H2O2 (from 0.1 to 5 mmol/L), and MDA was determined after separation in high-performance liquid chromatography of the adduct with thiobarbituric acid. MDA production also was investigated in cells supplemented with epigallocatechin gallate and genistein and subjected to Fe2+ oxidative treatment.
+Results
+MDA production increased with the concentration of Fe2+, whereas H2O2 had no effect at any concentration. Oxidative stress for 15 min or 2 h produced similar MDA levels. The supplementation of epigallocatechin gallate partly prevented MDA production (about 40%, P < 0.05), whereas genistein exerted no preventive effect on lipid peroxidation.
+Conclusion
+We propose this cellular model, consisting of Jurkat T cells subjected to 100 μmol/L of Fe2+ for 15 min, to study the protective effect of antioxidant supplementation against membrane lipid peroxidation.
+

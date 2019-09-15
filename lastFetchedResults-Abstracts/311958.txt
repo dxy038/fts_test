@@ -1,0 +1,11 @@
+Background
+The degree of bonding between the femoral stem and cement in total hip replacement remains controversial. Our objective was to determine the wedge effect by debonding and stem taper angle on the structural behavior of axisymmetric stem–cement–bone cylinder models.
+Methods
+
+Stainless steel tapered plugs with a rough (i.e. bonded) or smooth (i.e. debonded) surface finish were used to emulate the femoral stem. Three different stem taper angles (5°, 7.5°, 10°) were used for the debonded constructs. Non-tapered and tapered (7.5°) aluminum cylindrical shells were used to emulate the diaphyseal and metaphyseal segments of the femur. The cement–aluminum cylinder interface was designed to have a shear strength that simulated bone–cement interfaces (not, vert, similar8 MPa). The test involved applying axial compression at a rate of 0.02 mm/s until failure. Six specimens were tested for each combination of the variables. Finite element analysis was used to enhance the understanding of the wedge effect.
+Findings
+
+The debonded stems sustained about twice as much load as the bonded stem, regardless of taper angle. The metaphyseal model carried 35–50% greater loads than the diaphyseal models and the stem taper produced significant differences. Based on the finite element analysis, failure was most probably by shear at the cement–bone interface.
+Interpretation
+
+Our results in this simplified model suggest that smooth (i.e. debonded) stems have greater failure loads and will incur less slippage or shear failure at the cement–bone interface than rough (i.e. bonded) stems.

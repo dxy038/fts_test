@@ -1,0 +1,18 @@
+In this paper, the critical parameters of a method of welding with shielding
+gas arc welding (GMAW) are discussed; this method is an important process
+in creating high quality metal permanent connections in various industries,
+including the automobile industry to improve the quality of stem
+diameter welding parameters. One of the most useful techniques for modeling
+and solving the problems is Response Surface Method. In this paper,
+considering five most important factors such as speed welder, torch angle
+with the work piece, electrode diameter, wire speed, gas consumption ,and
+CO2 levels as input variables, can be controlled independently from the
+level of response, the relationship between the input variables and the response
+variables were determined using linear regression. Then optimum
+ value for each factor was calculated using non-linear programming model
+to evaluate the results obtained along with the comparison of output of the
+Simulation Annealing Algorithm.
+In this study, both qualitative and quantitative variables are considered to
+evaluate and optimize all response variables regarding that these variables
+are not the same, and then fuzzy set theory and LP metric are used to find
+answers for multi-objective optimization methods.

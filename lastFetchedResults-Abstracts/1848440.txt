@@ -1,0 +1,8 @@
+Objective
+tudy aimed to explore the potential of in vivo q-space imaging in the differentiation between different cerebral water components.
+als and Methods
+ion-weighted imaging was performed in six directions with 32 equally spaced q values and a maximum b value of 6600 s/mm2. The shape of the signal-attenuation curve and the displacement propagator were examined and compared with a normal distribution using the kurtosis parameter. Maps displaying kurtosis, fast and slow components of the apparent diffusion coefficients, fractional anisotropy and directional diffusion were calculated. The displacement propagator was further described by the full width at half and at tenth maximum and by the probability density of zero displacement P(0). Three healthy volunteers and three patients with previously diagnosed multiple sclerosis (MS) were examined.
+s
+tions indicated that the kurtosis of a signal-attenuation curve can determine if more than one water component is present and that care must be taken to select an appropriate threshold. It was possible to distinguish MS plaques in both signal and diffusional kurtosis maps, and in one patient, plaques of different degree of demyelinization showed different behavior.
+sion
+sults indicate that in vivo q-space analysis is a potential tool for the assessment of different cerebral water components, and it might extend the diagnostic interpretation of data from diffusion magnetic resonance imaging.

@@ -1,0 +1,1 @@
+The purpose of this paper is to obtain an optimum redundancy of the parallel system by a variational technique. The objective function is to maximize the system profit. A simple computational procedure is obtained for the optimum design of the multistage parallel systems by this method. Two numerical examples are given in detail.

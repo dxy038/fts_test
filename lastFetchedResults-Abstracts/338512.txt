@@ -1,0 +1,11 @@
+Objective
+Three GATA family transcription factors are involved in various aspects of hematopoiesis. Their lineage-restricted expression correlates well with their function in selective lineage commitment and differentiation. We focused on the role of GATA-3 to determine whether an intrinsic variation among different GATA proteins, in addition to the distinct expression pattern, determines lineage specification.
+Materials and Methods
+
+Using a retroviral vector, we introduced the GATA-3 gene into primary murine hematopoietic stem cells (HSC) and examined their development in in vitro suspension culture and colony-forming assays as well as in vivo competitive repopulation studies.
+Results
+
+Although GATA-3 expression normally is restricted to lymphoid precursor and committed T cells, overexpression of GATA-3 in HSC results in cessation of cell expansion followed by selective induction of megakaryocytic and erythroid differentiation and inhibition of myeloid and lymphoid precursor development in liquid suspension culture and in vitro colony-forming assays. Competitive repopulation studies show that transplanted GATA-3–expressing HSC/progenitor cells give one wave of erythrocyte development but fail to expand in the bone marrow or to reconstitute other lineages.
+Conclusions
+
+The selective megakaryocytic/erythroid differentiation in HSC with enforced GATA-3 expression suggests a functional redundancy among GATA proteins and indicates that the specific lineage fate determination by individual GATA proteins is largely regulated at the level of expression in a lineage and developmental-stage restricted fashion, whereas the identity of the GATA factor may not be as important.

@@ -1,0 +1,11 @@
+Objective
+Recently, evidence was provided, that the selective tyrosine kinase inhibitor imatinib mesylate (imatinib) has immunomodulatory or suppressive effects. However, the discussion about imatinib's influence on immune cells is still controversial. The aim of this study was to clarify the effect of imatinib on CD8+ and CD4+ T-cell effector functions.
+Materials and Methods
+
+For analyzing T-cell effector functions T-cell receptor–transgenic ovalbumin-specific CD8+ T cells and in vivo primed CD4+ Th1 cells were used. T-cell effector functions were analyzed on the level of antigen responsiveness by intracellular cytokine staining, by measuring cytokine secretion in an interferon-γ (IFN-γ) enzyme-linked immunosorbent assay and by detecting cytotoxicity using the fluorescein-activated cell sorting–based fluorometric assessment of T-lymphocyte antigen-specific lysis assay.
+Results
+
+It was demonstrated that imatinib inhibits antigen-specific IFN-γ secretion of both CD4+ and CD8+ T-effector cells at therapeutically relevant concentrations, while T cells remain responsive. The decrease of IFN-γ production was not due to the loss of T-cell viability. Further, it was shown that the effector T cells are modulated rather than suppressed, because the cytolytic functions of CD8+ cytotoxic T cells were not altered. Residual cytolytic activity in the presence of imatinib was not due to FasL interaction.
+Conclusions
+
+These experiments provide evidence for a therapeutically relevant modulation of T-cell effector functions by imatinib. This might open a possible applicability of imatinib in various autoimmune and inflammatory diseases, including multiple sclerosis and rheumatoid arthritis.

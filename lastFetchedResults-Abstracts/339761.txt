@@ -1,0 +1,11 @@
+Objective
+To devise and evaluate a protocol for monitoring lipid packing and membrane permeability in live cells in whole peripheral blood, and to assess these properties in blood from controls and patients.
+Materials and Methods
+
+Samples were stained simultaneously with merocyanine 540 and Sytox Green, diluted, and analyzed by three-color flow cytometry.
+Results
+
+Membrane changes characteristic of apoptosis/necrosis were detected in cells in culture and in blood that had been “aged” in vitro, with sensitivity and specificity, which was comparable to that obtained using fluoresceinated Annexin-V and ethidium bromide or propidium iodide. Merocyanine 540 also reported increases in membrane lipid disorder when cells in whole blood were activated by the Ca2+ ionophore, A23187. Very few (<2%) leukocytes or platelets in the blood of healthy subjects (n = 14) had disordered and/or permeable membranes, However, if blood was stored with heparin the microparticle to platelet ratio increased and membrane lipids of microparticles and platelets became disordered within hours. In the blood of patients with idiopathic thrombocytopenia (n = 4), the microparticle to platelet ratio (1.5 ± 1.1 vs 0.14 ± 0.06; p = 0.000), and the percentages of microparticles (67.3% ± 34.9% vs 20.4% ± 12.6%; p = 0.000) and platelets (47.0% ± 18.8% vs 1.9 ± 2.0%; p = 0.000) with disordered membrane lipids were all markedly increased by comparison with the controls.
+Conclusions
+
+This stain combination enabled important membrane characteristics to be assessed simply and quickly in unfixed, whole blood; and revealed significant differences in patient blood.

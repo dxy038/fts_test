@@ -1,0 +1,10 @@
+Particle Swarm Optimization (PSO) is a highly efficient evolutionary optimization algorithm. In this paper a multiobjective optimization
+algorithm based on PSO applied to the optimal design of photovoltaic grid-connected systems (PVGCSs) is presented. The proposed
+methodology intends to suggest the optimal number of system devices and the optimal PV module installation details, such that
+the economic and environmental benefits achieved during the system’s operational lifetime period are both maximized. The objective
+function describing the economic benefit of the proposed optimization process is the lifetime system’s total net profit which is calculated
+according to the method of the Net Present Value (NPV). The second objective function, which corresponds to the environmental benefit,
+equals to the pollutant gas emissions avoided due to the use of the PVGCS. The optimization’s decision variables are the optimal
+number of the PV modules, the PV modules optimal tilt angle, the optimal placement of the PV modules within the available installation
+area and the optimal distribution of the PV modules among the DC/AC converters.
+  2010 Elsevier Ltd. All rights reserved

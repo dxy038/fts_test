@@ -1,0 +1,9 @@
+Objective. The purpose of this study was to display the relationships between the forces transmitted in the spine and the accelerations of the vibrating seat.
+
+Background. Investigations reveal that exposure to whole-body vibration can induce degenerative changes in the lumbar spine. Elevated spinal forces are probably the crucial component in the pathogenesis of this disease.
+
+Design and methods. The spinal forces are simulated by means of a biomechanical model, where 16 rigid bodies represent the upper body and the arms of a sitting operator. The relationships between seat accelerations and spinal forces are displayed as frequency-dependent transfer functions.
+
+Results. Spinal forces are not only elevated in the direction parallel to the vibration excitation but also in the two other orthogonal vibration directions. According to the magnitudes of the transfer functions the highest oscillating parts of the forces are reached at frequencies below 10 Hz.
+
+Conclusions. Using the transfer functions, the time course of the spine forces can be computed and a new kind of weighting function can be derived which enables a force related weighting of the seat acceleration.

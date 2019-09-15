@@ -1,0 +1,1 @@
+Variable Size Block-Matching Super-Resolution covers a set of techniques which objective is to improve the resolution of a video sequence or a single frame considering variable sized Macro-Blocks. In this paper, this approach is combined with a Multi-Camera system to take advantage from the spatial and temporal correlations between frames.

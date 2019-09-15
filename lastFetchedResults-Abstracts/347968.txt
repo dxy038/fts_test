@@ -1,0 +1,11 @@
+Objective
+To determine scalp characteristics of epileptiform discharges arising from medial temporal structures (MT).
+Methods
+Signal-to-noise ratio was increased by averaging simultaneous recordings from intracranial and scalp electrodes synchronised on discharges recorded by foramen ovale (FO) electrodes. The topography, amplitude and distribution of averaged scalp signals were analysed.
+Results
+Four thousand three hundred and twenty-seven discharges from 20 patients were averaged into 77 patterns. Before averaging, only 9% of discharges were detectable on the scalp without the need of simultaneous FO recordings (SED). A further 72.3% of discharges fell into averaged patterns that could be detected on the scalp as small transients before or after averaging (STBA or STAA). In 18.7% of discharges, no scalp signal was seen after averaging. Whereas most SED patterns had largest amplitude on the scalp at anterior temporal electrodes, STBA and STAA patterns showed greater variability and more widespread scalp fields, suggesting a deeper source. Dipole source localisation modelled the majority of SED patterns as radial dipoles located just behind the eye. In contrast, dipoles corresponding to STBA or STAA patterns showed greater variability in location and orientation and tended to be located at MT.
+Conclusions
+SED patterns seem to arise from widespread subtemporal and/or superficial neocortical activation, generating EEG fields that are distorted by the high electrical conductivity of anterior cranial foramina. In contrast, STBA and STAA patterns represent electrical fields from neuronal activity more restricted to MT, that reach the scalp highly attenuated by volume-conduction and less distorted by cranial foramina.
+Significance
+Low amplitude scalp signals can be related to MT activity and must be taken into consideration for the diagnosis of temporal lobe epilepsy, pre-surgical assessment and for valid modelling of deep sources from the scalp EEG and magnetoencephalogram.
+

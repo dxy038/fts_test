@@ -1,0 +1,9 @@
+Objective
+We hypothesized that emergency physicians would use more resources to evaluate acute abdominal pain in obese patients as compared with that in nonobese patients.
+Methods
+We conducted a secondary analysis of a prospective cohort of adults with acute abdominal pain. Collected data included self-reported height and weight, demographics, medical history, laboratory and x-ray results, and final diagnosis. We followed the patients until they obtained their final diagnosis or for up to 21 days. Patients were grouped according to their body mass index (BMI): nonobese (BMI < 30 kg/m2), obese (BMI = 30-40 kg/m2), and morbidly obese (BMI > 40 mg/m2). The main outcome measure was laboratory and radiographic testing. χ2 Tests and analysis of variance were used as appropriate.
+Results
+Of the 971 patients (mean age, 41 years; 62% black; 65% female), 665 (68%) were nonobese, 246 (25%) were obese, and 60 (6%) were morbidly obese. In comparing nonobese patients with obese patients, we found no difference in laboratory or radiographic testing (3.20 vs 3.21 tests; mean difference, 0.004; 95% confidence interval [CI], −0.26 to 0.27), physicians' pre–computed tomographic scan confidence level in their diagnosis (6.17 vs 6.04, mean difference, −0.13; 95% CI, −0.76 to 0.49), and emergency department (ED) length of stay (LOS; 7.40 vs 7.57 hours; mean difference, −0.17; 95% CI, −0.49 to 0.83). In comparing all 3 groups, we found no difference in diagnostic testing, ED LOS, surgical intervention (10% vs 5% vs 9%, P = .2), disposition, and final diagnosis (P > .05).
+Conclusions
+Physicians do not use more resources to identify the etiology of acute abdominal pain in obese patients as compared with that in nonobese patients. Furthermore, ED LOS, likelihood of surgical intervention, physicians' confidence level in their preimaging diagnosis, and final diagnosis do not appear to be influenced by BMI.
+

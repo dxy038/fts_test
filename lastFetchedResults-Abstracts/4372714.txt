@@ -1,0 +1,1 @@
+A frequent situation in automotive control applications is when an unknown input needs to be estimated on-line from available state measurements. The objective of this paper is to discuss several simple techniques for on-line unmeasured input estimation from a first order system, and illustrate experimental application of one of these techniques to engine management systems

@@ -1,0 +1,14 @@
+The objective of this work is to study the influence of electrical discharge on the evolution
+of the cloud droplet spectra using a 1-D cloud model. It is shown that droplet motion and the electrical
+effects produced by lightning may cause a rapid and effective droplet coalescence process, with noticeably
+more phase transfer from liquid toward frozen water. As a measure of the drop spectra changes, we
+investigated variations of the radar reflectivity factor and the mass-weighted mean diameters at five
+temperature levels (0, )5, )10, )15, and )20C) with 15 combinations of the initial conditions. The model
+simulations suggest that about where the lightning occurred, after a few seconds, the initial unimodal
+spectra of supercooled water drops can be transferred to the bimodal spectra of unfrozen and frozen water
+drops. The number of newly created frozen drops is a few orders less than unfrozen water drops, but can
+still be very important for further transformations due to gravitational coagulation and other
+microphysical processes, e.g. glaciation. The results indicate that the procedure established to describe
+processes related to the electrical discharge and droplet spectra transformations can be used within a 3-D
+mesoscale model. It is concluded that the outcome can be also used to explain some of the physical
+characteristics inferred from polarimetric radar observations.

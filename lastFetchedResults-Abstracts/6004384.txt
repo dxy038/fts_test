@@ -1,0 +1,1 @@
+We propose a wavelength assignment algorithm for full mesh node connectivity of two connected, bidirectional ring networks. It is proved to minimize the necessary number of wavelengths. We also propose novel ring-connecting nodes that can reduce switch size by 90-50% compared to conventional arrangement.

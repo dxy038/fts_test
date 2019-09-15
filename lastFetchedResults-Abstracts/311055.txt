@@ -1,0 +1,11 @@
+Objective.  This study investigated whether electromyographic signals recorded from the skin surface overlying the multifidus muscles could be used to quantify their activity.
+
+Design. Comparison of electromyography signals recorded from electrodes on the back surface and from wire electrodes within four different slips of multifidus muscles of three human subjects performing isometric tasks that loaded the trunk from three different directions.
+
+Background. It has been suggested that suitably placed surface electrodes can be used to record activity in the deep multifidus muscles.
+
+Methods. We tested whether there was a stronger correlation and more consistent regression relationship between signals from electrodes overlying multifidus and longissimus muscles respectively than between signals from within multifidus and from the skin surface electrodes over multifidus.
+
+Results. The findings provided consistent evidence that the surface electrodes placed over multifidus muscles were more sensitive to the adjacent longissimus muscles than to the underlying multifidus muscles. The R2 for surface versus intra-muscular comparisons was 0.64, while the average R2 for surface-multifidus versus surface-longissimus comparisons was 0.80. Also, the magnitude of the regression coefficients was less variable between different tasks for the longissimus versus surface multifidus comparisons.
+
+Conclusions. Accurate measurement of multifidus muscle activity requires intra-muscular electrodes.

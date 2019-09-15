@@ -1,0 +1,1 @@
+An efficient bidirectional search algorithm for computing the free distance of convolutional codes is described.

@@ -1,0 +1,12 @@
+Delamination is the most common failure modes in composite structures. Delamination
+on a flat composite structure under compressive in-plane loads can be causes local buckling on the
+delamination area, reduced stiffness and early failure. In this paper, buckling analysis of laminates
+with an embedded delamination has been studied by employing a finite element analysis. The
+modeling and calculations was done using FEM commercial software ANSYS. Also the effect of
+increasing the area of the delamination and the effect of fiber angle on the buckling load is
+investigated. Composite laminates with embedded circular delamination are studied that under
+compressive unidirectional and bidirectional plane loading are located. The results show that
+increasing the area of the delamination, buckling load of structural is reduced and buckling mode is
+changed. Specimen under unidirectional compressive loading, maximum buckling load is related to
+stacking sequence [±75]s . Buckling behavior of structures under tensile-compressive loads is entirely
+different and maximum buckling load is related to stacking sequence[±45]s.

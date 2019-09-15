@@ -1,0 +1,11 @@
+Objective
+Self-esteem is considered to be importantly associated with both psychosocial states such as depression as well as physical health. There are no population-based studies that examine the association between self-esteem and mortality. The objective of this study was to assess whether low self-esteem was prospectively associated with increased risk of death in a population-based sample of Finnish men.
+Methods
+
+A sample of 2682 male residents of Kuopio, Finland were interviewed and followed prospectively as part of the Kuopio Ischemic Heart Disease Risk Factor Study (KIHD). Characteristics of the KIHD sample at baseline included self-esteem, measured by the Rosenberg ten-item scale, socioeconomic factors, behavioral risk factors, other psychosocial characteristics, and prevalent diseases. Mortality was ascertained through linkage to the Finnish national death registry. We assessed the relationship between self-esteem and all-cause mortality using Cox proportional hazards models.
+Results
+
+Low self-esteem was associated with a two-fold [hazard ratio (HR) = 2.0, 95% confidence interval (CI) = 1.3–3.2] increase in age-adjusted mortality. This relationship was partially explained by behavioral and socioeconomic factors, and prevalent diseases, and fully explained by other psychosocial characteristics (hopelessness, depression, cynical hostility, and sullenness). When adjusted for hopelessness alone there was no increased risk associated with low self-esteem (HR = 1.3, 95% CI = 0.8–2.2).
+Conclusions
+
+This study found no association between self-esteem and all-cause mortality after adjustment for other psychosocial characteristics, primarily hopelessness. Our understanding of the observed relationships between some psychosocial factors and mortality may be improved by simultaneous measurement of multiple psychosocial domains, thus diminishing the potential for residual confounding.

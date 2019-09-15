@@ -1,0 +1,11 @@
+Objective. To investigate the structural integrity of intramedullary nails with two lag screws, and to give guidance to orthopaedic surgeons in the choice of appropriate devices.
+
+Design. Alternative designs of the construct are considered, and the use of a slotted upper lag screw insertion hole is analysed.
+
+Background. Intramedullary fixation devices with a single lag screw have been known to fail at the lag screw insertion hole. Using two lag screws is considered. It has also been proposed to use a slot in the nail for the upper lag screw to prevent the upper lag screw from sticking.
+
+Methods. Bending and torsion load cases are analysed using finite element method. Consideration of both load conditions is essential.
+
+Results. The results present the overall stiffness of the assembly, the load sharing between lag screws, and the possibility for cut-out to occur.
+
+Conclusions. While the slot for the upper lag screw might be advantageous with regard to the stresses in the lag screws, it could be detrimental for cut-out occurring adjacent to the lag screws.

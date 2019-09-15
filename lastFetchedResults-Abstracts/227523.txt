@@ -1,0 +1,9 @@
+Traffic conflicts at railway junctions are very conmon, particularly on congested rail lines.
+While safe passage through the junction is well maintained by the signalling and interlocking systems,
+minimising the delays imposed on the trains by assigning the right-of-way sequence sensibly is a
+bonus to the quality of service. A deterministic method has been adopted to resolve the conflict, with
+the objective of minimising the total weighted delay. However, the computational demand remains
+significant. The applications of different heuristic methods to tackle this problem are reviewed and
+explored, elaborating their feasibility in various aspects and comparing their relative merits for further
+studies. As most heuristic methods do not guarantee a global optimum, this study focuses on the
+trade-off between computation time and optimality of the resolution.

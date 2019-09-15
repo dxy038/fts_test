@@ -1,0 +1,7 @@
+The performance of a feedback control system is often limited by the quality of the model on which it is based, and often the controller design is based on trial and error due to insufficient modeling capabilities. A framework is proposed where the controller design is based on classical state space control theory and time series. The system plant has been modeled using non-linear finite element and the gain factors for the control loop were identified by solving the optimal control problem using a non-linear least square optimization algorithm.
+
+The proposed design method has been applied on a deep drawing operation where the objective was to control material flow throughout the part using only spatial information regarding flange draw-in. The control system controls both the magnitude and distribution of the blank-holder force.
+
+The methodology proved stable and flexible with respect to controlling the dynamic behavior of the system and the numerical tests showed that it is possible to control the material flow.
+
+Preliminary experimental results show that the proposed control system can eliminate process instability when the process is subject to a systematic error.

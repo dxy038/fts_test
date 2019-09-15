@@ -1,0 +1,11 @@
+The objective of this paper is to introduce a new direct method for neutronic calculations.
+This method, called Direct Discrete Method (DDM), is simpler than the Neutron Transport
+Equation and more compatible with the physical meanings of the problem. The method, based
+on the physics of the problem, initially runs through meshing of the desired geometry. Next,
+the balance equation for each mesh interval is written. Considering the connection between ~he
+mesh intervals, the final discrete equation series are directly obtained without the need to first
+pass through the set-up of the neutron transport differential equation. In this paper, a single and
+multigroup neutron transport discrete equation has been produced for a cylindrical shape fuel
+element with and without the associated clad and the coolant regions, each with two different
+external boundary conditions. The validity of the results from this new method are tested against
+the results obtained by the MCNP-4B and the ANISN codes

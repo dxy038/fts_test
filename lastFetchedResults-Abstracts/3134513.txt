@@ -1,0 +1,1 @@
+Simple technique is proposed for measuring distributed Raman gain efficiency spectrum in a single-mode fiber based on the bidirectional OTDR. The Raman gain efficiency spectra are successfully estimated easily from the relative-index difference and wavelength dependence of the mode field radius (MFR)

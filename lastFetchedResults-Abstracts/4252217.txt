@@ -1,0 +1,1 @@
+We study PCA, PLS, and CCA as stochastic optimization problems, of optimizing a population objective based on a sample. We suggest several stochastic approximation (SA) methods for PCA and PLS, and investigate their empirical performance.

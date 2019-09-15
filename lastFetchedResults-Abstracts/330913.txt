@@ -1,0 +1,11 @@
+Objective
+The present study determined the influence of different light curing regimes (four light-emitting diode (LED) units (Freelight 1 and 2, 3M-ESPE; e-light, GC; Bluephase (prototype), Ivoclar Vivadent), two quartz–tungsten–halogen (QTH) lights (Astralis 10, Ivoclar Vivadent; Swiss Master Light, EMS) and one plasma-light curing unit (Easy Cure, DMDS)) on the curing behavior of a resin-based composite material (InTen-S, Ivoclar Vivadent).
+Methods
+
+Polymerization shrinkage was induced by light curing the tested material with 14 different regimes of the curing units mentioned above. The contraction stress was recorded for 300 s at room temperature with a Stress–Strain-Analyzer (cFACTOR=0.3). The maximum contraction stresses after 300 s, the time until gelation (t0.5N), and the coefficient of near linear fit of contraction force/time (gradient) were analyzed. The statistical analysis was conducted using ANOVA (α=0.05) and Tukey's post hoc test.
+Results
+
+The five tested regimes of the LED unit e-light revealed the lowest statistically significantly maximum contraction stress followed by the low intensity LED unit Freelight 1 and the plasma curing unit Easy Cure. The high intensity LED unit Freelight 2 exhibited a significantly higher contraction stress compared to Freelight 1. No significant differences between the standard and exponential modes within these curing units were found. No significant differences were found between the LED unit Freelight 2 and the pulse program of the halogen light curing unit Astralis 10. The highest polymerization stresses were observed for the high energy curing units, either QTH (Swiss Master Light and Astralis 10) or LED (Bluephase).
+Significance
+
+Fast contraction force development, high contraction stress and an early start of stress build-up cause tension in the material with possible subsequent distortion of the bond to the tooth structure. The lowest polymerization stress was observed for the low energy LED lamps, while the plasma unit and the high energy QTH and LED curing units produced two to three times higher stress.
