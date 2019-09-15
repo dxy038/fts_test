@@ -1,8 +1,8 @@
 from newutils import *
 
-# es5_client = Elasticsearch5(HOSTIP + ':9205', timeout=120)
+es5_client = Elasticsearch5(HOSTIP + ':9205', timeout=120)
 # es5_client_3shard = Elasticsearch5(HOSTIP + ':9206', timeout=120)
-# mongo_client = pymongo.MongoClient('mongodb://%s:27023/' % HOSTIP)
+mongo_client = pymongo.MongoClient('mongodb://%s:27023/' % HOSTIP)
 # mongo_client_3sh = pymongo.MongoClient('mongodb://%s:27030/' % HOSTIP)
 # mongo_client_6sh = pymongo.MongoClient('mongodb://%s:27032/' % HOSTIP)
 # mssql_client = pymssql.connect(server=HOSTIP, user='sa', password='MSSql-pwd', database=DB)
@@ -44,15 +44,17 @@ def runworkload(db, optype, ref, conn):
     mean = sum(times)/len(times)
     return mean*1000
 
-# SRCOR = "./newRandomSeries-70/randomWordsOR.txt"
-# SRCP = "./randomseries/newRandomSeries-500/randomPhrase.txt"
-# SRCAND = "./randomseries/newRandomSeries-70/randomWordsAND.txt"
+SRCOR = "./lastFetchedWords/or.txt"
+SRCP = "./lastFetchedWords/exact.txt"
+SRCAND = "./lastFetchedWords/and.txt"
 OPS = []
 # OPS += [SINGLE, AND, OR ,EXACTPHRASE]
+OPS += [EXACTPHRASE]
 DBS = []
 # DBS += [(ELASTIC5, es5_client), (ELASTIC5_3, es5_client_3shard), (ELASTIC5_6, es5_client_3shard)]
 # DBS += [(MSSQL, mssql_client), (MYSQL, mysql_client)]
 # DBS += [(MONGODB, mongo_client), (MONGODB_3, mongo_client_3sh), (MONGODB_6, mongo_client_6sh)]
+DBS += [(ELASTIC5, es5_client),(MONGODB, mongo_client)]
 
 for op in OPS:
     for db in DBS:

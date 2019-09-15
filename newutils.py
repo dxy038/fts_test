@@ -1,7 +1,6 @@
 import pymssql, pymongo, random, copy, time, mysql.connector, datetime
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize 
-from elasticsearch import Elasticsearch
 from elasticsearch5 import Elasticsearch as Elasticsearch5
 
 #--------------------------------------------------------------------------------------------#
@@ -138,7 +137,7 @@ def mysql_search(optype, words, mysql_connection):
         sum += 1
         # if sum <= MAX:
         #     print("SCORE: %f | ITEM NUMBER %d | ITEM ID: %s" % (item[0], sum, item[1]), file= f)
-        print("\n%s\n%s" % (item[1], getdoc(int(item[1]))), file= f) ###temp
+        print("%s" % (item[1]), file= f) ###temp
     print("Total items: %d" % sum, file= f)
     print("---------------", file= f)
     end = datetime.datetime.now()
@@ -181,7 +180,7 @@ def mssql_search(optype, words, mssql_conn):
         sum += 1
         # if sum <= MAX:
         #     print("SCORE: %f | ITEM NUMBER %d | ITEM ID: %s" % (item[0], sum, item[1]), file = f)
-        print("\n%s\n%s" % (item[1], getdoc(int(item[1]))), file= f) ###temp
+        print("%s" % (item[1]), file= f) ###temp
     print("Total items: %d" % sum, file= f)
     print("---------------", file = f)
     end = datetime.datetime.now()
@@ -232,7 +231,7 @@ def mongo_search(optype, words, client, clustername):
         sum += 1
         # if sum <= MAX:
         #     print("SCORE: %f | ITEM NUMBER %d | ITEM ID: %s" % (item['score'], sum, item['_id']), file=f)
-        print("\n%s\n%s" % (item['_id'], getdoc(int(item['_id']))), file= f) ###temp
+        print("%s" % (item['_id']), file= f) ###temp
     print("Total items: %d" % sum, file= f)
     print("---------------", file=f)
     end = datetime.datetime.now()
@@ -309,13 +308,13 @@ def elastic5_search(db, optype, words, es):
         for item in all_hits:
             sum += 1
             # print("SCORE: %f | ITEM NUMBER %d | ITEM ID: %s" % (item['_score'], sum, item['_id']), file=f)
-            print("\n%s\n%s" % (item['_id'], getdoc(int(item['_id']))), file= f) ###temp
+            print("%s" % (item['_id']), file= f) ###temp
         # if sum == MAX or sum == hits_count:
         if sum == hits_count: ###temp
             break
         page = es.scroll(scroll_id = sid, scroll = '2m')
         sid = page['_scroll_id']
-    print("Total items: %d" % hits_count, file= f)
+    print("\nTotal items: %d" % hits_count, file= f)
     print("---------------", file=f)
     end = datetime.datetime.now()
     elapsed_time += (end - start)
