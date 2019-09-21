@@ -1,0 +1,1 @@
+By properly choosing boundary surfaces and meshes of the hybrid finite element/boundary element method, one can reduce storage requirements of the boundary element matrices to the order of M for M boundary nodes.

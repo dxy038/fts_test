@@ -1,0 +1,11 @@
+Background
+The adipocyte hormone leptin has been shown to increase migration and angiogenesis in epithelial cells. Therefore, we hypothesized that leptin would induce prostate cancer cell migration and growth factor expression in vitro.
+Methods
+
+Prostate cancer cell lines DU145 and PC-3 (androgen-resistant) were treated with leptin over time. Supernatants were assayed for growth factor expression via enzyme-linked immunosorbent assay (ELISA). Becton Dickinson-Falcon Transwell systems were used to assay leptin-induced migration.
+Results
+
+Leptin significantly induced expression of vascular endothelial growth factor (VEGF), transforming growth factor-β1 (TGF-β1), and basic fibroblast growth factor (bFGF) in DU145 and PC-3 cells. Prostate cancer cell migration was enhanced by leptin and inhibited 50% to 70% with the addition of mitogen-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase (PI3K) inhibitors.
+Conclusions
+
+The mitogenic effects of leptin on cancer cells, in combination with the increased migration and expression of growth factors, overall likely contributes to the progression of prostate cancer. Therefore, obesity associated with high leptin levels should be considered a risk factor in prostate cancer patients.

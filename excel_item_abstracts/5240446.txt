@@ -1,0 +1,1 @@
+The paper presents a simple composable architecture description model. Components are core modeling concepts. Components describe their relationship with other components by means of interface provision and requirement descriptions. These interfaces define the connectors that structure and compose components together

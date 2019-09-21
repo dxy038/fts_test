@@ -1,0 +1,10 @@
+Background:
+ments in which study units are assigned to experimental groups nonrandomly are called quasi-experiments. They allow investigations of cause–effect relations in settings in which randomization is inappropriate, impractical, or too costly.
+m outline:
+ocedure by which the nonrandom assignments are made might result in selection bias and other related internal validity problems. Selection bias is a systematic (not happening by chance) pre-experimental difference between the groups that could influence the results. By detecting the cause of the selection bias, and designing and analyzing the experiments accordingly, the effect of the bias may be reduced or eliminated.
+ch method:
+estigate how quasi-experiments are performed in software engineering (SE), we conducted a systematic review of the experiments published in nine major SE journals and three conference proceedings in the decade 1993–2002.
+s:
+the 113 experiments detected, 35% were quasi-experiments. In addition to field experiments, we found several applications for quasi-experiments in SE. However, there seems to be little awareness of the precise nature of quasi-experiments and the potential for selection bias in them. The term “quasi-experiment” was used in only 10% of the articles reporting quasi-experiments; only half of the quasi-experiments measured a pretest score to control for selection bias, and only 8% reported a threat of selection bias. On average, larger effect sizes were seen in randomized than in quasi-experiments, which might be due to selection bias in the quasi-experiments.
+sion:
+clude that quasi-experimentation is useful in many settings in SE, but their design and analysis must be improved (in ways described in this paper), to ensure that inferences made from this kind of experiment are valid.
